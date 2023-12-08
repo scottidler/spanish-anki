@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|roar}'
+  fl: intransitive verb
+  hwi:
+    hw: rugir
+    prs:
+    - sound:
+        audio: rugir01sp
+  meta:
+    id: rugir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620003000'
+    src: spanish
+    stems:
+    - rugir
+    uuid: 0c9229f7-04fd-4b90-a3d0-6c8d6f9a17dd
+  shortdef:
+  - to roar
+  suppl:
+    cjts:
+    - cjfs:
+      - rugiendo
+      - rugido
+      cjid: gppt
+    - cjfs:
+      - rujo
+      - ruges
+      - ruge
+      - rugimos
+      - "rug\xEDs"
+      - rugen
+      cjid: pind
+    - cjfs:
+      - "rug\xEDa"
+      - "rug\xEDas"
+      - "rug\xEDa"
+      - "rug\xEDamos"
+      - "rug\xEDais"
+      - "rug\xEDan"
+      cjid: pret
+    - cjfs:
+      - "rug\xED"
+      - rugiste
+      - "rugi\xF3"
+      - rugimos
+      - rugisteis
+      - rugieron
+      cjid: pprf
+    - cjfs:
+      - "rugir\xE9"
+      - "rugir\xE1s"
+      - "rugir\xE1"
+      - rugiremos
+      - "rugir\xE9is"
+      - "rugir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rugir\xEDa"
+      - "rugir\xEDas"
+      - "rugir\xEDa"
+      - "rugir\xEDamos"
+      - "rugir\xEDais"
+      - "rugir\xEDan"
+      cjid: cond
+    - cjfs:
+      - ruja
+      - rujas
+      - ruja
+      - rujamos
+      - "ruj\xE1is"
+      - rujan
+      cjid: psub
+    - cjfs:
+      - rugiera
+      - rugieras
+      - rugiera
+      - "rugi\xE9ramos"
+      - rugierais
+      - rugieran
+      cjid: pisb1
+    - cjfs:
+      - rugiese
+      - rugieses
+      - rugiese
+      - "rugi\xE9semos"
+      - rugieseis
+      - rugiesen
+      cjid: pisb2
+    - cjfs:
+      - rugiere
+      - rugieres
+      - rugiere
+      - "rugi\xE9remos"
+      - rugiereis
+      - rugieren
+      cjid: fsub
+    - cjfs:
+      - he rugido
+      - has rugido
+      - ha rugido
+      - hemos rugido
+      - "hab\xE9is rugido"
+      - han rugido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rugido"
+      - "hab\xEDas rugido"
+      - "hab\xEDa rugido"
+      - "hab\xEDamos rugido"
+      - "hab\xEDais rugido"
+      - "hab\xEDan rugido"
+      cjid: ppsi
+    - cjfs:
+      - hube rugido
+      - hubiste rugido
+      - hubo rugido
+      - hubimos rugido
+      - hubisteis rugido
+      - hubieron rugido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rugido"
+      - "habr\xE1s rugido"
+      - "habr\xE1 rugido"
+      - habremos rugido
+      - "habr\xE9is rugido"
+      - "habr\xE1n rugido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rugido"
+      - "habr\xEDas rugido"
+      - "habr\xEDa rugido"
+      - "habr\xEDamos rugido"
+      - "habr\xEDais rugido"
+      - "habr\xEDan rugido"
+      cjid: cpef
+    - cjfs:
+      - haya rugido
+      - hayas rugido
+      - haya rugido
+      - hayamos rugido
+      - "hay\xE1is rugido"
+      - hayan rugido
+      cjid: ppfs
+    - cjfs:
+      - hubiera rugido
+      - hubieras rugido
+      - hubiera rugido
+      - "hubi\xE9ramos rugido"
+      - hubierais rugido
+      - hubieran rugido
+      cjid: ppss1
+    - cjfs:
+      - hubiese rugido
+      - hubieses rugido
+      - hubiese rugido
+      - "hubi\xE9semos rugido"
+      - hubieseis rugido
+      - hubiesen rugido
+      cjid: ppss2
+    - cjfs:
+      - hubiere rugido
+      - hubieres rugido
+      - hubiere rugido
+      - "hubi\xE9remos rugido"
+      - hubiereis rugido
+      - hubieren rugido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ruge
+      - ruja
+      - rujamos
+      - rugid
+      - rujan
+      cjid: impf

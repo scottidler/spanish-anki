@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|distend}, to {a_link|stretch}'
+  fl: transitive verb
+  hwi:
+    hw: distender
+  meta:
+    id: distender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607765000'
+    src: spanish
+    stems:
+    - distender
+    uuid: 58caed0b-8291-42f5-a830-b0e395189454
+  shortdef:
+  - to distend, to stretch
+  suppl:
+    cjts:
+    - cjfs:
+      - distendiendo
+      - distendido
+      cjid: gppt
+    - cjfs:
+      - distiendo
+      - distiendes
+      - distiende
+      - distendemos
+      - "distend\xE9is"
+      - distienden
+      cjid: pind
+    - cjfs:
+      - "distend\xEDa"
+      - "distend\xEDas"
+      - "distend\xEDa"
+      - "distend\xEDamos"
+      - "distend\xEDais"
+      - "distend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "distend\xED"
+      - distendiste
+      - "distendi\xF3"
+      - distendimos
+      - distendisteis
+      - distendieron
+      cjid: pprf
+    - cjfs:
+      - "distender\xE9"
+      - "distender\xE1s"
+      - "distender\xE1"
+      - distenderemos
+      - "distender\xE9is"
+      - "distender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "distender\xEDa"
+      - "distender\xEDas"
+      - "distender\xEDa"
+      - "distender\xEDamos"
+      - "distender\xEDais"
+      - "distender\xEDan"
+      cjid: cond
+    - cjfs:
+      - distienda
+      - distiendas
+      - distienda
+      - distendamos
+      - "distend\xE1is"
+      - distiendan
+      cjid: psub
+    - cjfs:
+      - distendiera
+      - distendieras
+      - distendiera
+      - "distendi\xE9ramos"
+      - distendierais
+      - distendieran
+      cjid: pisb1
+    - cjfs:
+      - distendiese
+      - distendieses
+      - distendiese
+      - "distendi\xE9semos"
+      - distendieseis
+      - distendiesen
+      cjid: pisb2
+    - cjfs:
+      - distendiere
+      - distendieres
+      - distendiere
+      - "distendi\xE9remos"
+      - distendiereis
+      - distendieren
+      cjid: fsub
+    - cjfs:
+      - he distendido
+      - has distendido
+      - ha distendido
+      - hemos distendido
+      - "hab\xE9is distendido"
+      - han distendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa distendido"
+      - "hab\xEDas distendido"
+      - "hab\xEDa distendido"
+      - "hab\xEDamos distendido"
+      - "hab\xEDais distendido"
+      - "hab\xEDan distendido"
+      cjid: ppsi
+    - cjfs:
+      - hube distendido
+      - hubiste distendido
+      - hubo distendido
+      - hubimos distendido
+      - hubisteis distendido
+      - hubieron distendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 distendido"
+      - "habr\xE1s distendido"
+      - "habr\xE1 distendido"
+      - habremos distendido
+      - "habr\xE9is distendido"
+      - "habr\xE1n distendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa distendido"
+      - "habr\xEDas distendido"
+      - "habr\xEDa distendido"
+      - "habr\xEDamos distendido"
+      - "habr\xEDais distendido"
+      - "habr\xEDan distendido"
+      cjid: cpef
+    - cjfs:
+      - haya distendido
+      - hayas distendido
+      - haya distendido
+      - hayamos distendido
+      - "hay\xE1is distendido"
+      - hayan distendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera distendido
+      - hubieras distendido
+      - hubiera distendido
+      - "hubi\xE9ramos distendido"
+      - hubierais distendido
+      - hubieran distendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese distendido
+      - hubieses distendido
+      - hubiese distendido
+      - "hubi\xE9semos distendido"
+      - hubieseis distendido
+      - hubiesen distendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere distendido
+      - hubieres distendido
+      - hubiere distendido
+      - "hubi\xE9remos distendido"
+      - hubiereis distendido
+      - hubieren distendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - distiende
+      - distienda
+      - distendamos
+      - distended
+      - distiendan
+      cjid: impf

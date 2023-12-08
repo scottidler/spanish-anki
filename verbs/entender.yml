@@ -1,0 +1,297 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|comprender||} {bc}to {a_link|understand} '
+          - - vis
+            - - t: "no entiendo por qu\xE9"
+                tr: I don't understand why
+              - t: me has entendido mal
+                tr: you've misunderstood me
+              - t: mis padres no me entienden
+                tr: my parents don't understand me
+              - t: dar a entender
+                tr: to imply
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|think}, to {a_link|believe} '
+          - - vis
+            - - t: "\xE9l no lo entiende as\xED"
+                tr: he doesn't see it that way
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|know}, to {a_link|get} '
+          - - vis
+            - - t: si me entiendes
+                tr: if you know what I mean
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|infer} '
+          - - vis
+            - - t: dar algo a entender
+                tr: to imply something
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|understand} '
+          - - vis
+            - - t: "\xA1ya entiendo!"
+                tr: now I understand!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to know about'
+          sn: '2'
+          vrs:
+          - va: entender de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in charge of'
+          sn: '3'
+          vrs:
+          - va: entender en
+            vac: ~ en
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be understood'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get along well'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|deal with}'
+            sn: '3'
+            vrs:
+            - va: entenderse con
+              vac: ~ con
+    drp: entenderse
+    fl: reflexive verb
+  fl: transitive verb
+  hom: 1
+  hwi:
+    hw: entender
+    prs:
+    - sound:
+        audio: enten02sp
+  meta:
+    id: entender:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608704000'
+    src: spanish
+    stems:
+    - entender
+    - entender de
+    - entender en
+    - entenderse
+    - entenderse con
+    uuid: b790717a-3295-44d3-8755-df96c9c9eed6
+  shortdef:
+  - 'comprender : to understand'
+  - to think, to believe
+  - to know, to get
+  suppl:
+    cjts:
+    - cjfs:
+      - entendiendo
+      - entendido
+      cjid: gppt
+    - cjfs:
+      - entiendo
+      - entiendes
+      - entiende
+      - entendemos
+      - "entend\xE9is"
+      - entienden
+      cjid: pind
+    - cjfs:
+      - "entend\xEDa"
+      - "entend\xEDas"
+      - "entend\xEDa"
+      - "entend\xEDamos"
+      - "entend\xEDais"
+      - "entend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "entend\xED"
+      - entendiste
+      - "entendi\xF3"
+      - entendimos
+      - entendisteis
+      - entendieron
+      cjid: pprf
+    - cjfs:
+      - "entender\xE9"
+      - "entender\xE1s"
+      - "entender\xE1"
+      - entenderemos
+      - "entender\xE9is"
+      - "entender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entender\xEDa"
+      - "entender\xEDas"
+      - "entender\xEDa"
+      - "entender\xEDamos"
+      - "entender\xEDais"
+      - "entender\xEDan"
+      cjid: cond
+    - cjfs:
+      - entienda
+      - entiendas
+      - entienda
+      - entendamos
+      - "entend\xE1is"
+      - entiendan
+      cjid: psub
+    - cjfs:
+      - entendiera
+      - entendieras
+      - entendiera
+      - "entendi\xE9ramos"
+      - entendierais
+      - entendieran
+      cjid: pisb1
+    - cjfs:
+      - entendiese
+      - entendieses
+      - entendiese
+      - "entendi\xE9semos"
+      - entendieseis
+      - entendiesen
+      cjid: pisb2
+    - cjfs:
+      - entendiere
+      - entendieres
+      - entendiere
+      - "entendi\xE9remos"
+      - entendiereis
+      - entendieren
+      cjid: fsub
+    - cjfs:
+      - he entendido
+      - has entendido
+      - ha entendido
+      - hemos entendido
+      - "hab\xE9is entendido"
+      - han entendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entendido"
+      - "hab\xEDas entendido"
+      - "hab\xEDa entendido"
+      - "hab\xEDamos entendido"
+      - "hab\xEDais entendido"
+      - "hab\xEDan entendido"
+      cjid: ppsi
+    - cjfs:
+      - hube entendido
+      - hubiste entendido
+      - hubo entendido
+      - hubimos entendido
+      - hubisteis entendido
+      - hubieron entendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entendido"
+      - "habr\xE1s entendido"
+      - "habr\xE1 entendido"
+      - habremos entendido
+      - "habr\xE9is entendido"
+      - "habr\xE1n entendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entendido"
+      - "habr\xEDas entendido"
+      - "habr\xEDa entendido"
+      - "habr\xEDamos entendido"
+      - "habr\xEDais entendido"
+      - "habr\xEDan entendido"
+      cjid: cpef
+    - cjfs:
+      - haya entendido
+      - hayas entendido
+      - haya entendido
+      - hayamos entendido
+      - "hay\xE1is entendido"
+      - hayan entendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera entendido
+      - hubieras entendido
+      - hubiera entendido
+      - "hubi\xE9ramos entendido"
+      - hubierais entendido
+      - hubieran entendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese entendido
+      - hubieses entendido
+      - hubiese entendido
+      - "hubi\xE9semos entendido"
+      - hubieseis entendido
+      - hubiesen entendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere entendido
+      - hubieres entendido
+      - hubiere entendido
+      - "hubi\xE9remos entendido"
+      - hubiereis entendido
+      - hubieren entendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entiende
+      - entienda
+      - entendamos
+      - entended
+      - entiendan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}in my opinion'
+          vrs:
+          - va: a mi entender
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: entender
+  meta:
+    id: entender:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608705000'
+    src: spanish
+    stems:
+    - entender
+    - a mi entender
+    uuid: 8f93f3d8-f16e-4d98-9845-ce47004c3694
+  shortdef:
+  - in my opinion

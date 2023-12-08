@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn} '
+          - - vis
+            - - t: "el bosque est\xE1 ardiendo"
+                tr: the forest is in flames
+              - t: arder de ira
+                tr: to burn with anger, to be seething
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|smart}, to {a_link|sting}, to {a_link|burn} '
+          - - vis
+            - - t: "le ard\xEDa el est\xF3mago"
+                tr: he had heartburn
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: arder
+    prs:
+    - sound:
+        audio: arder01sp
+  meta:
+    id: arder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601890000'
+    src: spanish
+    stems:
+    - arder
+    uuid: 921a0664-73e5-4176-80cf-17a9b17062bf
+  shortdef:
+  - to burn
+  - to smart, to sting, to burn
+  suppl:
+    cjts:
+    - cjfs:
+      - ardiendo
+      - ardido
+      cjid: gppt
+    - cjfs:
+      - ardo
+      - ardes
+      - arde
+      - ardemos
+      - "ard\xE9is"
+      - arden
+      cjid: pind
+    - cjfs:
+      - "ard\xEDa"
+      - "ard\xEDas"
+      - "ard\xEDa"
+      - "ard\xEDamos"
+      - "ard\xEDais"
+      - "ard\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ard\xED"
+      - ardiste
+      - "ardi\xF3"
+      - ardimos
+      - ardisteis
+      - ardieron
+      cjid: pprf
+    - cjfs:
+      - "arder\xE9"
+      - "arder\xE1s"
+      - "arder\xE1"
+      - arderemos
+      - "arder\xE9is"
+      - "arder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arder\xEDa"
+      - "arder\xEDas"
+      - "arder\xEDa"
+      - "arder\xEDamos"
+      - "arder\xEDais"
+      - "arder\xEDan"
+      cjid: cond
+    - cjfs:
+      - arda
+      - ardas
+      - arda
+      - ardamos
+      - "ard\xE1is"
+      - ardan
+      cjid: psub
+    - cjfs:
+      - ardiera
+      - ardieras
+      - ardiera
+      - "ardi\xE9ramos"
+      - ardierais
+      - ardieran
+      cjid: pisb1
+    - cjfs:
+      - ardiese
+      - ardieses
+      - ardiese
+      - "ardi\xE9semos"
+      - ardieseis
+      - ardiesen
+      cjid: pisb2
+    - cjfs:
+      - ardiere
+      - ardieres
+      - ardiere
+      - "ardi\xE9remos"
+      - ardiereis
+      - ardieren
+      cjid: fsub
+    - cjfs:
+      - he ardido
+      - has ardido
+      - ha ardido
+      - hemos ardido
+      - "hab\xE9is ardido"
+      - han ardido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ardido"
+      - "hab\xEDas ardido"
+      - "hab\xEDa ardido"
+      - "hab\xEDamos ardido"
+      - "hab\xEDais ardido"
+      - "hab\xEDan ardido"
+      cjid: ppsi
+    - cjfs:
+      - hube ardido
+      - hubiste ardido
+      - hubo ardido
+      - hubimos ardido
+      - hubisteis ardido
+      - hubieron ardido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ardido"
+      - "habr\xE1s ardido"
+      - "habr\xE1 ardido"
+      - habremos ardido
+      - "habr\xE9is ardido"
+      - "habr\xE1n ardido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ardido"
+      - "habr\xEDas ardido"
+      - "habr\xEDa ardido"
+      - "habr\xEDamos ardido"
+      - "habr\xEDais ardido"
+      - "habr\xEDan ardido"
+      cjid: cpef
+    - cjfs:
+      - haya ardido
+      - hayas ardido
+      - haya ardido
+      - hayamos ardido
+      - "hay\xE1is ardido"
+      - hayan ardido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ardido
+      - hubieras ardido
+      - hubiera ardido
+      - "hubi\xE9ramos ardido"
+      - hubierais ardido
+      - hubieran ardido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ardido
+      - hubieses ardido
+      - hubiese ardido
+      - "hubi\xE9semos ardido"
+      - hubieseis ardido
+      - hubiesen ardido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ardido
+      - hubieres ardido
+      - hubiere ardido
+      - "hubi\xE9remos ardido"
+      - hubiereis ardido
+      - hubieren ardido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arde
+      - arda
+      - ardamos
+      - arded
+      - ardan
+      cjid: impf

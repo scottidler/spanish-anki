@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|taste}, to {a_link|savor}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enjoy}, to {a_link|relish}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: saborear
+    prs:
+    - sound:
+        audio: sabor02sp
+  meta:
+    id: saborear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620059000'
+    src: spanish
+    stems:
+    - saborear
+    uuid: 739229da-89fe-4f88-9a8b-655c648af117
+  shortdef:
+  - to taste, to savor
+  - to enjoy, to relish
+  suppl:
+    cjts:
+    - cjfs:
+      - saboreando
+      - saboreado
+      cjid: gppt
+    - cjfs:
+      - saboreo
+      - saboreas
+      - saborea
+      - saboreamos
+      - "sabore\xE1is"
+      - saborean
+      cjid: pind
+    - cjfs:
+      - saboreaba
+      - saboreabas
+      - saboreaba
+      - "sabore\xE1bamos"
+      - saboreabais
+      - saboreaban
+      cjid: pret
+    - cjfs:
+      - "sabore\xE9"
+      - saboreaste
+      - "sabore\xF3"
+      - saboreamos
+      - saboreasteis
+      - saborearon
+      cjid: pprf
+    - cjfs:
+      - "saborear\xE9"
+      - "saborear\xE1s"
+      - "saborear\xE1"
+      - saborearemos
+      - "saborear\xE9is"
+      - "saborear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "saborear\xEDa"
+      - "saborear\xEDas"
+      - "saborear\xEDa"
+      - "saborear\xEDamos"
+      - "saborear\xEDais"
+      - "saborear\xEDan"
+      cjid: cond
+    - cjfs:
+      - saboree
+      - saborees
+      - saboree
+      - saboreemos
+      - "sabore\xE9is"
+      - saboreen
+      cjid: psub
+    - cjfs:
+      - saboreara
+      - saborearas
+      - saboreara
+      - "sabore\xE1ramos"
+      - saborearais
+      - saborearan
+      cjid: pisb1
+    - cjfs:
+      - saborease
+      - saboreases
+      - saborease
+      - "sabore\xE1semos"
+      - saboreaseis
+      - saboreasen
+      cjid: pisb2
+    - cjfs:
+      - saboreare
+      - saboreares
+      - saboreare
+      - "sabore\xE1remos"
+      - saboreareis
+      - saborearen
+      cjid: fsub
+    - cjfs:
+      - he saboreado
+      - has saboreado
+      - ha saboreado
+      - hemos saboreado
+      - "hab\xE9is saboreado"
+      - han saboreado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa saboreado"
+      - "hab\xEDas saboreado"
+      - "hab\xEDa saboreado"
+      - "hab\xEDamos saboreado"
+      - "hab\xEDais saboreado"
+      - "hab\xEDan saboreado"
+      cjid: ppsi
+    - cjfs:
+      - hube saboreado
+      - hubiste saboreado
+      - hubo saboreado
+      - hubimos saboreado
+      - hubisteis saboreado
+      - hubieron saboreado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 saboreado"
+      - "habr\xE1s saboreado"
+      - "habr\xE1 saboreado"
+      - habremos saboreado
+      - "habr\xE9is saboreado"
+      - "habr\xE1n saboreado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa saboreado"
+      - "habr\xEDas saboreado"
+      - "habr\xEDa saboreado"
+      - "habr\xEDamos saboreado"
+      - "habr\xEDais saboreado"
+      - "habr\xEDan saboreado"
+      cjid: cpef
+    - cjfs:
+      - haya saboreado
+      - hayas saboreado
+      - haya saboreado
+      - hayamos saboreado
+      - "hay\xE1is saboreado"
+      - hayan saboreado
+      cjid: ppfs
+    - cjfs:
+      - hubiera saboreado
+      - hubieras saboreado
+      - hubiera saboreado
+      - "hubi\xE9ramos saboreado"
+      - hubierais saboreado
+      - hubieran saboreado
+      cjid: ppss1
+    - cjfs:
+      - hubiese saboreado
+      - hubieses saboreado
+      - hubiese saboreado
+      - "hubi\xE9semos saboreado"
+      - hubieseis saboreado
+      - hubiesen saboreado
+      cjid: ppss2
+    - cjfs:
+      - hubiere saboreado
+      - hubieres saboreado
+      - hubiere saboreado
+      - "hubi\xE9remos saboreado"
+      - hubiereis saboreado
+      - hubieren saboreado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - saborea
+      - saboree
+      - saboreemos
+      - saboread
+      - saboreen
+      cjid: impf

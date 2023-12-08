@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plot}, to {a_link|plan}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|weave}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: tramar
+  meta:
+    id: tramar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622102000'
+    src: spanish
+    stems:
+    - tramar
+    uuid: 2f925db6-9aac-4eb2-9a98-50d470cb5547
+  shortdef:
+  - to plot, to plan
+  - to weave
+  suppl:
+    cjts:
+    - cjfs:
+      - tramando
+      - tramado
+      cjid: gppt
+    - cjfs:
+      - tramo
+      - tramas
+      - trama
+      - tramamos
+      - "tram\xE1is"
+      - traman
+      cjid: pind
+    - cjfs:
+      - tramaba
+      - tramabas
+      - tramaba
+      - "tram\xE1bamos"
+      - tramabais
+      - tramaban
+      cjid: pret
+    - cjfs:
+      - "tram\xE9"
+      - tramaste
+      - "tram\xF3"
+      - tramamos
+      - tramasteis
+      - tramaron
+      cjid: pprf
+    - cjfs:
+      - "tramar\xE9"
+      - "tramar\xE1s"
+      - "tramar\xE1"
+      - tramaremos
+      - "tramar\xE9is"
+      - "tramar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tramar\xEDa"
+      - "tramar\xEDas"
+      - "tramar\xEDa"
+      - "tramar\xEDamos"
+      - "tramar\xEDais"
+      - "tramar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trame
+      - trames
+      - trame
+      - tramemos
+      - "tram\xE9is"
+      - tramen
+      cjid: psub
+    - cjfs:
+      - tramara
+      - tramaras
+      - tramara
+      - "tram\xE1ramos"
+      - tramarais
+      - tramaran
+      cjid: pisb1
+    - cjfs:
+      - tramase
+      - tramases
+      - tramase
+      - "tram\xE1semos"
+      - tramaseis
+      - tramasen
+      cjid: pisb2
+    - cjfs:
+      - tramare
+      - tramares
+      - tramare
+      - "tram\xE1remos"
+      - tramareis
+      - tramaren
+      cjid: fsub
+    - cjfs:
+      - he tramado
+      - has tramado
+      - ha tramado
+      - hemos tramado
+      - "hab\xE9is tramado"
+      - han tramado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tramado"
+      - "hab\xEDas tramado"
+      - "hab\xEDa tramado"
+      - "hab\xEDamos tramado"
+      - "hab\xEDais tramado"
+      - "hab\xEDan tramado"
+      cjid: ppsi
+    - cjfs:
+      - hube tramado
+      - hubiste tramado
+      - hubo tramado
+      - hubimos tramado
+      - hubisteis tramado
+      - hubieron tramado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tramado"
+      - "habr\xE1s tramado"
+      - "habr\xE1 tramado"
+      - habremos tramado
+      - "habr\xE9is tramado"
+      - "habr\xE1n tramado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tramado"
+      - "habr\xEDas tramado"
+      - "habr\xEDa tramado"
+      - "habr\xEDamos tramado"
+      - "habr\xEDais tramado"
+      - "habr\xEDan tramado"
+      cjid: cpef
+    - cjfs:
+      - haya tramado
+      - hayas tramado
+      - haya tramado
+      - hayamos tramado
+      - "hay\xE1is tramado"
+      - hayan tramado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tramado
+      - hubieras tramado
+      - hubiera tramado
+      - "hubi\xE9ramos tramado"
+      - hubierais tramado
+      - hubieran tramado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tramado
+      - hubieses tramado
+      - hubiese tramado
+      - "hubi\xE9semos tramado"
+      - hubieseis tramado
+      - hubiesen tramado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tramado
+      - hubieres tramado
+      - hubiere tramado
+      - "hubi\xE9remos tramado"
+      - hubiereis tramado
+      - hubieren tramado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - trama
+      - trame
+      - tramemos
+      - tramad
+      - tramen
+      cjid: impf

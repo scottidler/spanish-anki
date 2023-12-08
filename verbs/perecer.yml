@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|perish}, to {a_link|die}'
+  fl: intransitive verb
+  hwi:
+    hw: perecer
+    prs:
+    - sound:
+        audio: perec01sp
+  meta:
+    id: perecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617092000'
+    src: spanish
+    stems:
+    - perecer
+    uuid: 39abed02-51dc-46fc-a04e-29b7f8d600d8
+  shortdef:
+  - to perish, to die
+  suppl:
+    cjts:
+    - cjfs:
+      - pereciendo
+      - perecido
+      cjid: gppt
+    - cjfs:
+      - perezco
+      - pereces
+      - perece
+      - perecemos
+      - "perec\xE9is"
+      - perecen
+      cjid: pind
+    - cjfs:
+      - "perec\xEDa"
+      - "perec\xEDas"
+      - "perec\xEDa"
+      - "perec\xEDamos"
+      - "perec\xEDais"
+      - "perec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "perec\xED"
+      - pereciste
+      - "pereci\xF3"
+      - perecimos
+      - perecisteis
+      - perecieron
+      cjid: pprf
+    - cjfs:
+      - "perecer\xE9"
+      - "perecer\xE1s"
+      - "perecer\xE1"
+      - pereceremos
+      - "perecer\xE9is"
+      - "perecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perecer\xEDa"
+      - "perecer\xEDas"
+      - "perecer\xEDa"
+      - "perecer\xEDamos"
+      - "perecer\xEDais"
+      - "perecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - perezca
+      - perezcas
+      - perezca
+      - perezcamos
+      - "perezc\xE1is"
+      - perezcan
+      cjid: psub
+    - cjfs:
+      - pereciera
+      - perecieras
+      - pereciera
+      - "pereci\xE9ramos"
+      - perecierais
+      - perecieran
+      cjid: pisb1
+    - cjfs:
+      - pereciese
+      - perecieses
+      - pereciese
+      - "pereci\xE9semos"
+      - perecieseis
+      - pereciesen
+      cjid: pisb2
+    - cjfs:
+      - pereciere
+      - perecieres
+      - pereciere
+      - "pereci\xE9remos"
+      - pereciereis
+      - perecieren
+      cjid: fsub
+    - cjfs:
+      - he perecido
+      - has perecido
+      - ha perecido
+      - hemos perecido
+      - "hab\xE9is perecido"
+      - han perecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perecido"
+      - "hab\xEDas perecido"
+      - "hab\xEDa perecido"
+      - "hab\xEDamos perecido"
+      - "hab\xEDais perecido"
+      - "hab\xEDan perecido"
+      cjid: ppsi
+    - cjfs:
+      - hube perecido
+      - hubiste perecido
+      - hubo perecido
+      - hubimos perecido
+      - hubisteis perecido
+      - hubieron perecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perecido"
+      - "habr\xE1s perecido"
+      - "habr\xE1 perecido"
+      - habremos perecido
+      - "habr\xE9is perecido"
+      - "habr\xE1n perecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perecido"
+      - "habr\xEDas perecido"
+      - "habr\xEDa perecido"
+      - "habr\xEDamos perecido"
+      - "habr\xEDais perecido"
+      - "habr\xEDan perecido"
+      cjid: cpef
+    - cjfs:
+      - haya perecido
+      - hayas perecido
+      - haya perecido
+      - hayamos perecido
+      - "hay\xE1is perecido"
+      - hayan perecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera perecido
+      - hubieras perecido
+      - hubiera perecido
+      - "hubi\xE9ramos perecido"
+      - hubierais perecido
+      - hubieran perecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese perecido
+      - hubieses perecido
+      - hubiese perecido
+      - "hubi\xE9semos perecido"
+      - hubieseis perecido
+      - hubiesen perecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere perecido
+      - hubieres perecido
+      - hubiere perecido
+      - "hubi\xE9remos perecido"
+      - hubiereis perecido
+      - hubieren perecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - perece
+      - perezca
+      - perezcamos
+      - pereced
+      - perezcan
+      cjid: impf

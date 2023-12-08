@@ -1,0 +1,47 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|contemplate||} {bc}{a_link|considerar}, {a_link|pensar en} '
+          - - vis
+            - - t: we'd considered attending
+                tr: "hab\xEDamos pensado en asistir"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|considerar}, {a_link|tener en cuenta} '
+          - - vis
+            - - t: consider the consequences
+                tr: considera las consecuencias
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|judge||}, {sx|regard||} {bc}{a_link|considerar}, {a_link|estimar}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: consider
+    prs:
+    - mw: "k\u0259n\u02C8s\u026Ad\u0259r"
+      sound:
+        audio: consid01
+  meta:
+    id: consider
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2605017000'
+    src: spanish
+    stems:
+    - consider
+    - considered
+    - considering
+    - considers
+    uuid: 5fd9d369-28b2-457b-95e6-ff0fc5b82a00
+  shortdef:
+  - 'contemplate : considerar, pensar en'
+  - considerar, tener en cuenta
+  - 'judge, regard : considerar, estimar'

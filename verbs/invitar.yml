@@ -1,0 +1,194 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|invite}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay for} '
+          - - vis
+            - - t: invita la casa
+                tr: it's on the house
+              - t: invito yo
+                tr: it's on me, it's my treat
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: invitar
+    prs:
+    - sound:
+        audio: invit03sp
+  meta:
+    id: invitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613019000'
+    src: spanish
+    stems:
+    - invitar
+    uuid: 4443fe7e-db7e-4e08-a857-ce3fe4b48afe
+  shortdef:
+  - to invite
+  - to pay for
+  suppl:
+    cjts:
+    - cjfs:
+      - invitando
+      - invitado
+      cjid: gppt
+    - cjfs:
+      - invito
+      - invitas
+      - invita
+      - invitamos
+      - "invit\xE1is"
+      - invitan
+      cjid: pind
+    - cjfs:
+      - invitaba
+      - invitabas
+      - invitaba
+      - "invit\xE1bamos"
+      - invitabais
+      - invitaban
+      cjid: pret
+    - cjfs:
+      - "invit\xE9"
+      - invitaste
+      - "invit\xF3"
+      - invitamos
+      - invitasteis
+      - invitaron
+      cjid: pprf
+    - cjfs:
+      - "invitar\xE9"
+      - "invitar\xE1s"
+      - "invitar\xE1"
+      - invitaremos
+      - "invitar\xE9is"
+      - "invitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "invitar\xEDa"
+      - "invitar\xEDas"
+      - "invitar\xEDa"
+      - "invitar\xEDamos"
+      - "invitar\xEDais"
+      - "invitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - invite
+      - invites
+      - invite
+      - invitemos
+      - "invit\xE9is"
+      - inviten
+      cjid: psub
+    - cjfs:
+      - invitara
+      - invitaras
+      - invitara
+      - "invit\xE1ramos"
+      - invitarais
+      - invitaran
+      cjid: pisb1
+    - cjfs:
+      - invitase
+      - invitases
+      - invitase
+      - "invit\xE1semos"
+      - invitaseis
+      - invitasen
+      cjid: pisb2
+    - cjfs:
+      - invitare
+      - invitares
+      - invitare
+      - "invit\xE1remos"
+      - invitareis
+      - invitaren
+      cjid: fsub
+    - cjfs:
+      - he invitado
+      - has invitado
+      - ha invitado
+      - hemos invitado
+      - "hab\xE9is invitado"
+      - han invitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa invitado"
+      - "hab\xEDas invitado"
+      - "hab\xEDa invitado"
+      - "hab\xEDamos invitado"
+      - "hab\xEDais invitado"
+      - "hab\xEDan invitado"
+      cjid: ppsi
+    - cjfs:
+      - hube invitado
+      - hubiste invitado
+      - hubo invitado
+      - hubimos invitado
+      - hubisteis invitado
+      - hubieron invitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 invitado"
+      - "habr\xE1s invitado"
+      - "habr\xE1 invitado"
+      - habremos invitado
+      - "habr\xE9is invitado"
+      - "habr\xE1n invitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa invitado"
+      - "habr\xEDas invitado"
+      - "habr\xEDa invitado"
+      - "habr\xEDamos invitado"
+      - "habr\xEDais invitado"
+      - "habr\xEDan invitado"
+      cjid: cpef
+    - cjfs:
+      - haya invitado
+      - hayas invitado
+      - haya invitado
+      - hayamos invitado
+      - "hay\xE1is invitado"
+      - hayan invitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera invitado
+      - hubieras invitado
+      - hubiera invitado
+      - "hubi\xE9ramos invitado"
+      - hubierais invitado
+      - hubieran invitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese invitado
+      - hubieses invitado
+      - hubiese invitado
+      - "hubi\xE9semos invitado"
+      - hubieseis invitado
+      - hubiesen invitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere invitado
+      - hubieres invitado
+      - hubiere invitado
+      - "hubi\xE9remos invitado"
+      - hubiereis invitado
+      - hubieren invitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - invita
+      - invite
+      - invitemos
+      - invitad
+      - inviten
+      cjid: impf

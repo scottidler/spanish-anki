@@ -1,0 +1,222 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pull}, to {a_link|tug}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attract}, to draw in '
+          - - vis
+            - - t: las ideas nuevas lo jalan
+                tr: new ideas appeal to him
+          sls:
+          - familiar
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pull}, to {a_link|pull together} '
+          - - vis
+            - - t: jalar de algo
+                tr: to pull on something
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to hurry up, to {a_link|get going}'
+          sls:
+          - familiar
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in working order '
+          - - vis
+            - - t: "esta m\xE1quina no jala"
+                tr: this machine doesn't work
+          sls:
+          - Mexico familiar
+          sn: '3'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: jalar
+    prs:
+    - sound:
+        audio: jalar01sp
+  meta:
+    id: jalar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613154000'
+    src: spanish
+    stems:
+    - jalar
+    uuid: 8574a248-09b7-4633-b918-4ee9e4f0dffb
+  shortdef:
+  - to pull, to tug
+  - to attract, to draw in
+  - to pull, to pull together
+  suppl:
+    cjts:
+    - cjfs:
+      - jalando
+      - jalado
+      cjid: gppt
+    - cjfs:
+      - jalo
+      - jalas
+      - jala
+      - jalamos
+      - "jal\xE1is"
+      - jalan
+      cjid: pind
+    - cjfs:
+      - jalaba
+      - jalabas
+      - jalaba
+      - "jal\xE1bamos"
+      - jalabais
+      - jalaban
+      cjid: pret
+    - cjfs:
+      - "jal\xE9"
+      - jalaste
+      - "jal\xF3"
+      - jalamos
+      - jalasteis
+      - jalaron
+      cjid: pprf
+    - cjfs:
+      - "jalar\xE9"
+      - "jalar\xE1s"
+      - "jalar\xE1"
+      - jalaremos
+      - "jalar\xE9is"
+      - "jalar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "jalar\xEDa"
+      - "jalar\xEDas"
+      - "jalar\xEDa"
+      - "jalar\xEDamos"
+      - "jalar\xEDais"
+      - "jalar\xEDan"
+      cjid: cond
+    - cjfs:
+      - jale
+      - jales
+      - jale
+      - jalemos
+      - "jal\xE9is"
+      - jalen
+      cjid: psub
+    - cjfs:
+      - jalara
+      - jalaras
+      - jalara
+      - "jal\xE1ramos"
+      - jalarais
+      - jalaran
+      cjid: pisb1
+    - cjfs:
+      - jalase
+      - jalases
+      - jalase
+      - "jal\xE1semos"
+      - jalaseis
+      - jalasen
+      cjid: pisb2
+    - cjfs:
+      - jalare
+      - jalares
+      - jalare
+      - "jal\xE1remos"
+      - jalareis
+      - jalaren
+      cjid: fsub
+    - cjfs:
+      - he jalado
+      - has jalado
+      - ha jalado
+      - hemos jalado
+      - "hab\xE9is jalado"
+      - han jalado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa jalado"
+      - "hab\xEDas jalado"
+      - "hab\xEDa jalado"
+      - "hab\xEDamos jalado"
+      - "hab\xEDais jalado"
+      - "hab\xEDan jalado"
+      cjid: ppsi
+    - cjfs:
+      - hube jalado
+      - hubiste jalado
+      - hubo jalado
+      - hubimos jalado
+      - hubisteis jalado
+      - hubieron jalado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 jalado"
+      - "habr\xE1s jalado"
+      - "habr\xE1 jalado"
+      - habremos jalado
+      - "habr\xE9is jalado"
+      - "habr\xE1n jalado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa jalado"
+      - "habr\xEDas jalado"
+      - "habr\xEDa jalado"
+      - "habr\xEDamos jalado"
+      - "habr\xEDais jalado"
+      - "habr\xEDan jalado"
+      cjid: cpef
+    - cjfs:
+      - haya jalado
+      - hayas jalado
+      - haya jalado
+      - hayamos jalado
+      - "hay\xE1is jalado"
+      - hayan jalado
+      cjid: ppfs
+    - cjfs:
+      - hubiera jalado
+      - hubieras jalado
+      - hubiera jalado
+      - "hubi\xE9ramos jalado"
+      - hubierais jalado
+      - hubieran jalado
+      cjid: ppss1
+    - cjfs:
+      - hubiese jalado
+      - hubieses jalado
+      - hubiese jalado
+      - "hubi\xE9semos jalado"
+      - hubieseis jalado
+      - hubiesen jalado
+      cjid: ppss2
+    - cjfs:
+      - hubiere jalado
+      - hubieres jalado
+      - hubiere jalado
+      - "hubi\xE9remos jalado"
+      - hubiereis jalado
+      - hubieren jalado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - jala
+      - jale
+      - jalemos
+      - jalad
+      - jalen
+      cjid: impf

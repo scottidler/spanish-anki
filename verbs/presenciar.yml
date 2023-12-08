@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|witness}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be present at, to {a_link|attend}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: presenciar
+    prs:
+    - sound:
+        audio: prese02sp
+  meta:
+    id: presenciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618024000'
+    src: spanish
+    stems:
+    - presenciar
+    uuid: b19c8380-1ebc-4521-9a64-44ac04952c67
+  shortdef:
+  - to witness
+  - to be present at, to attend
+  suppl:
+    cjts:
+    - cjfs:
+      - presenciando
+      - presenciado
+      cjid: gppt
+    - cjfs:
+      - presencio
+      - presencias
+      - presencia
+      - presenciamos
+      - "presenci\xE1is"
+      - presencian
+      cjid: pind
+    - cjfs:
+      - presenciaba
+      - presenciabas
+      - presenciaba
+      - "presenci\xE1bamos"
+      - presenciabais
+      - presenciaban
+      cjid: pret
+    - cjfs:
+      - "presenci\xE9"
+      - presenciaste
+      - "presenci\xF3"
+      - presenciamos
+      - presenciasteis
+      - presenciaron
+      cjid: pprf
+    - cjfs:
+      - "presenciar\xE9"
+      - "presenciar\xE1s"
+      - "presenciar\xE1"
+      - presenciaremos
+      - "presenciar\xE9is"
+      - "presenciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "presenciar\xEDa"
+      - "presenciar\xEDas"
+      - "presenciar\xEDa"
+      - "presenciar\xEDamos"
+      - "presenciar\xEDais"
+      - "presenciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - presencie
+      - presencies
+      - presencie
+      - presenciemos
+      - "presenci\xE9is"
+      - presencien
+      cjid: psub
+    - cjfs:
+      - presenciara
+      - presenciaras
+      - presenciara
+      - "presenci\xE1ramos"
+      - presenciarais
+      - presenciaran
+      cjid: pisb1
+    - cjfs:
+      - presenciase
+      - presenciases
+      - presenciase
+      - "presenci\xE1semos"
+      - presenciaseis
+      - presenciasen
+      cjid: pisb2
+    - cjfs:
+      - presenciare
+      - presenciares
+      - presenciare
+      - "presenci\xE1remos"
+      - presenciareis
+      - presenciaren
+      cjid: fsub
+    - cjfs:
+      - he presenciado
+      - has presenciado
+      - ha presenciado
+      - hemos presenciado
+      - "hab\xE9is presenciado"
+      - han presenciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa presenciado"
+      - "hab\xEDas presenciado"
+      - "hab\xEDa presenciado"
+      - "hab\xEDamos presenciado"
+      - "hab\xEDais presenciado"
+      - "hab\xEDan presenciado"
+      cjid: ppsi
+    - cjfs:
+      - hube presenciado
+      - hubiste presenciado
+      - hubo presenciado
+      - hubimos presenciado
+      - hubisteis presenciado
+      - hubieron presenciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 presenciado"
+      - "habr\xE1s presenciado"
+      - "habr\xE1 presenciado"
+      - habremos presenciado
+      - "habr\xE9is presenciado"
+      - "habr\xE1n presenciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa presenciado"
+      - "habr\xEDas presenciado"
+      - "habr\xEDa presenciado"
+      - "habr\xEDamos presenciado"
+      - "habr\xEDais presenciado"
+      - "habr\xEDan presenciado"
+      cjid: cpef
+    - cjfs:
+      - haya presenciado
+      - hayas presenciado
+      - haya presenciado
+      - hayamos presenciado
+      - "hay\xE1is presenciado"
+      - hayan presenciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera presenciado
+      - hubieras presenciado
+      - hubiera presenciado
+      - "hubi\xE9ramos presenciado"
+      - hubierais presenciado
+      - hubieran presenciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese presenciado
+      - hubieses presenciado
+      - hubiese presenciado
+      - "hubi\xE9semos presenciado"
+      - hubieseis presenciado
+      - hubiesen presenciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere presenciado
+      - hubieres presenciado
+      - hubiere presenciado
+      - "hubi\xE9remos presenciado"
+      - hubiereis presenciado
+      - hubieren presenciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - presencia
+      - presencie
+      - presenciemos
+      - presenciad
+      - presencien
+      cjid: impf

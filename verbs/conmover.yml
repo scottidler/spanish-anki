@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|emocionar||} {bc}to {a_link|move}, to {a_link|touch}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shake up}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: conmover
+    prs:
+    - sound:
+        audio: conmo02sp
+  meta:
+    id: conmover
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605538000'
+    src: spanish
+    stems:
+    - conmover
+    - conmoverse
+    uuid: 6cbdac55-fc21-4c29-a2ae-79a5966c8ef9
+  shortdef:
+  - 'emocionar : to move, to touch'
+  - to shake up
+  suppl:
+    cjts:
+    - cjfs:
+      - conmoviendo
+      - conmovido
+      cjid: gppt
+    - cjfs:
+      - conmuevo
+      - conmueves
+      - conmueve
+      - conmovemos
+      - "conmov\xE9is"
+      - conmueven
+      cjid: pind
+    - cjfs:
+      - "conmov\xEDa"
+      - "conmov\xEDas"
+      - "conmov\xEDa"
+      - "conmov\xEDamos"
+      - "conmov\xEDais"
+      - "conmov\xEDan"
+      cjid: pret
+    - cjfs:
+      - "conmov\xED"
+      - conmoviste
+      - "conmovi\xF3"
+      - conmovimos
+      - conmovisteis
+      - conmovieron
+      cjid: pprf
+    - cjfs:
+      - "conmover\xE9"
+      - "conmover\xE1s"
+      - "conmover\xE1"
+      - conmoveremos
+      - "conmover\xE9is"
+      - "conmover\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conmover\xEDa"
+      - "conmover\xEDas"
+      - "conmover\xEDa"
+      - "conmover\xEDamos"
+      - "conmover\xEDais"
+      - "conmover\xEDan"
+      cjid: cond
+    - cjfs:
+      - conmueva
+      - conmuevas
+      - conmueva
+      - conmovamos
+      - "conmov\xE1is"
+      - conmuevan
+      cjid: psub
+    - cjfs:
+      - conmoviera
+      - conmovieras
+      - conmoviera
+      - "conmovi\xE9ramos"
+      - conmovierais
+      - conmovieran
+      cjid: pisb1
+    - cjfs:
+      - conmoviese
+      - conmovieses
+      - conmoviese
+      - "conmovi\xE9semos"
+      - conmovieseis
+      - conmoviesen
+      cjid: pisb2
+    - cjfs:
+      - conmoviere
+      - conmovieres
+      - conmoviere
+      - "conmovi\xE9remos"
+      - conmoviereis
+      - conmovieren
+      cjid: fsub
+    - cjfs:
+      - he conmovido
+      - has conmovido
+      - ha conmovido
+      - hemos conmovido
+      - "hab\xE9is conmovido"
+      - han conmovido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conmovido"
+      - "hab\xEDas conmovido"
+      - "hab\xEDa conmovido"
+      - "hab\xEDamos conmovido"
+      - "hab\xEDais conmovido"
+      - "hab\xEDan conmovido"
+      cjid: ppsi
+    - cjfs:
+      - hube conmovido
+      - hubiste conmovido
+      - hubo conmovido
+      - hubimos conmovido
+      - hubisteis conmovido
+      - hubieron conmovido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conmovido"
+      - "habr\xE1s conmovido"
+      - "habr\xE1 conmovido"
+      - habremos conmovido
+      - "habr\xE9is conmovido"
+      - "habr\xE1n conmovido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conmovido"
+      - "habr\xEDas conmovido"
+      - "habr\xEDa conmovido"
+      - "habr\xEDamos conmovido"
+      - "habr\xEDais conmovido"
+      - "habr\xEDan conmovido"
+      cjid: cpef
+    - cjfs:
+      - haya conmovido
+      - hayas conmovido
+      - haya conmovido
+      - hayamos conmovido
+      - "hay\xE1is conmovido"
+      - hayan conmovido
+      cjid: ppfs
+    - cjfs:
+      - hubiera conmovido
+      - hubieras conmovido
+      - hubiera conmovido
+      - "hubi\xE9ramos conmovido"
+      - hubierais conmovido
+      - hubieran conmovido
+      cjid: ppss1
+    - cjfs:
+      - hubiese conmovido
+      - hubieses conmovido
+      - hubiese conmovido
+      - "hubi\xE9semos conmovido"
+      - hubieseis conmovido
+      - hubiesen conmovido
+      cjid: ppss2
+    - cjfs:
+      - hubiere conmovido
+      - hubieres conmovido
+      - hubiere conmovido
+      - "hubi\xE9remos conmovido"
+      - hubiereis conmovido
+      - hubieren conmovido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conmueve
+      - conmueva
+      - conmovamos
+      - conmoved
+      - conmuevan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: conmoverse

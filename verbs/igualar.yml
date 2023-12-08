@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|equalize}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|nivelar||} {bc}to {a_link|level}, to {a_link|flatten}, to {a_link|straighten}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tie} '
+          - - vis
+            - - t: igualar el marcador
+                tr: to even the score
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|equal}, to be equal to, to be a match for'
+            vrs:
+            - va: igualarse a/con
+              vac: ~ a/con
+    drp: igualarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: igualar
+  meta:
+    id: igualar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611848000'
+    src: spanish
+    stems:
+    - igualar
+    - igualarse
+    - igualarse a/con
+    - igualarse a
+    - igualarse con
+    uuid: 630469d8-edb1-4e22-9079-a390274db5b1
+  shortdef:
+  - to equalize
+  - 'nivelar : to level, to flatten, to straighten'
+  - to tie
+  suppl:
+    cjts:
+    - cjfs:
+      - igualando
+      - igualado
+      cjid: gppt
+    - cjfs:
+      - igualo
+      - igualas
+      - iguala
+      - igualamos
+      - "igual\xE1is"
+      - igualan
+      cjid: pind
+    - cjfs:
+      - igualaba
+      - igualabas
+      - igualaba
+      - "igual\xE1bamos"
+      - igualabais
+      - igualaban
+      cjid: pret
+    - cjfs:
+      - "igual\xE9"
+      - igualaste
+      - "igual\xF3"
+      - igualamos
+      - igualasteis
+      - igualaron
+      cjid: pprf
+    - cjfs:
+      - "igualar\xE9"
+      - "igualar\xE1s"
+      - "igualar\xE1"
+      - igualaremos
+      - "igualar\xE9is"
+      - "igualar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "igualar\xEDa"
+      - "igualar\xEDas"
+      - "igualar\xEDa"
+      - "igualar\xEDamos"
+      - "igualar\xEDais"
+      - "igualar\xEDan"
+      cjid: cond
+    - cjfs:
+      - iguale
+      - iguales
+      - iguale
+      - igualemos
+      - "igual\xE9is"
+      - igualen
+      cjid: psub
+    - cjfs:
+      - igualara
+      - igualaras
+      - igualara
+      - "igual\xE1ramos"
+      - igualarais
+      - igualaran
+      cjid: pisb1
+    - cjfs:
+      - igualase
+      - igualases
+      - igualase
+      - "igual\xE1semos"
+      - igualaseis
+      - igualasen
+      cjid: pisb2
+    - cjfs:
+      - igualare
+      - igualares
+      - igualare
+      - "igual\xE1remos"
+      - igualareis
+      - igualaren
+      cjid: fsub
+    - cjfs:
+      - he igualado
+      - has igualado
+      - ha igualado
+      - hemos igualado
+      - "hab\xE9is igualado"
+      - han igualado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa igualado"
+      - "hab\xEDas igualado"
+      - "hab\xEDa igualado"
+      - "hab\xEDamos igualado"
+      - "hab\xEDais igualado"
+      - "hab\xEDan igualado"
+      cjid: ppsi
+    - cjfs:
+      - hube igualado
+      - hubiste igualado
+      - hubo igualado
+      - hubimos igualado
+      - hubisteis igualado
+      - hubieron igualado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 igualado"
+      - "habr\xE1s igualado"
+      - "habr\xE1 igualado"
+      - habremos igualado
+      - "habr\xE9is igualado"
+      - "habr\xE1n igualado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa igualado"
+      - "habr\xEDas igualado"
+      - "habr\xEDa igualado"
+      - "habr\xEDamos igualado"
+      - "habr\xEDais igualado"
+      - "habr\xEDan igualado"
+      cjid: cpef
+    - cjfs:
+      - haya igualado
+      - hayas igualado
+      - haya igualado
+      - hayamos igualado
+      - "hay\xE1is igualado"
+      - hayan igualado
+      cjid: ppfs
+    - cjfs:
+      - hubiera igualado
+      - hubieras igualado
+      - hubiera igualado
+      - "hubi\xE9ramos igualado"
+      - hubierais igualado
+      - hubieran igualado
+      cjid: ppss1
+    - cjfs:
+      - hubiese igualado
+      - hubieses igualado
+      - hubiese igualado
+      - "hubi\xE9semos igualado"
+      - hubieseis igualado
+      - hubiesen igualado
+      cjid: ppss2
+    - cjfs:
+      - hubiere igualado
+      - hubieres igualado
+      - hubiere igualado
+      - "hubi\xE9remos igualado"
+      - hubiereis igualado
+      - hubieren igualado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - iguala
+      - iguale
+      - igualemos
+      - igualad
+      - igualen
+      cjid: impf

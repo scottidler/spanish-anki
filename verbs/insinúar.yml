@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|insinuate}, to hint at'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to make advances to'
+            sn: '1'
+            vrs:
+            - va: insinuarse a
+              vac: ~ a
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|worm one''s way into}'
+            sn: '2'
+            vrs:
+            - va: insinuarse en
+              vac: ~ en
+    drp: insinuarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: insinuar
+  meta:
+    id: insinuar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612696000'
+    src: spanish
+    stems:
+    - insinuar
+    - insinuarse
+    - insinuarse a
+    - insinuarse en
+    uuid: c358fe7f-8c00-4769-9ea2-8f9bb1e2207c
+  shortdef:
+  - to insinuate, to hint at
+  suppl:
+    cjts:
+    - cjfs:
+      - insinuando
+      - insinuado
+      cjid: gppt
+    - cjfs:
+      - "insin\xFAo"
+      - "insin\xFAas"
+      - "insin\xFAa"
+      - insinuamos
+      - "insinu\xE1is"
+      - "insin\xFAan"
+      cjid: pind
+    - cjfs:
+      - insinuaba
+      - insinuabas
+      - insinuaba
+      - "insinu\xE1bamos"
+      - insinuabais
+      - insinuaban
+      cjid: pret
+    - cjfs:
+      - "insinu\xE9"
+      - insinuaste
+      - "insinu\xF3"
+      - insinuamos
+      - insinuasteis
+      - insinuaron
+      cjid: pprf
+    - cjfs:
+      - "insinuar\xE9"
+      - "insinuar\xE1s"
+      - "insinuar\xE1"
+      - insinuaremos
+      - "insinuar\xE9is"
+      - "insinuar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "insinuar\xEDa"
+      - "insinuar\xEDas"
+      - "insinuar\xEDa"
+      - "insinuar\xEDamos"
+      - "insinuar\xEDais"
+      - "insinuar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "insin\xFAe"
+      - "insin\xFAes"
+      - "insin\xFAe"
+      - insinuemos
+      - "insinu\xE9is"
+      - "insin\xFAen"
+      cjid: psub
+    - cjfs:
+      - insinuara
+      - insinuaras
+      - insinuara
+      - "insinu\xE1ramos"
+      - insinuarais
+      - insinuaran
+      cjid: pisb1
+    - cjfs:
+      - insinuase
+      - insinuases
+      - insinuase
+      - "insinu\xE1semos"
+      - insinuaseis
+      - insinuasen
+      cjid: pisb2
+    - cjfs:
+      - insinuare
+      - insinuares
+      - insinuare
+      - "insinu\xE1remos"
+      - insinuareis
+      - insinuaren
+      cjid: fsub
+    - cjfs:
+      - he insinuado
+      - has insinuado
+      - ha insinuado
+      - hemos insinuado
+      - "hab\xE9is insinuado"
+      - han insinuado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa insinuado"
+      - "hab\xEDas insinuado"
+      - "hab\xEDa insinuado"
+      - "hab\xEDamos insinuado"
+      - "hab\xEDais insinuado"
+      - "hab\xEDan insinuado"
+      cjid: ppsi
+    - cjfs:
+      - hube insinuado
+      - hubiste insinuado
+      - hubo insinuado
+      - hubimos insinuado
+      - hubisteis insinuado
+      - hubieron insinuado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 insinuado"
+      - "habr\xE1s insinuado"
+      - "habr\xE1 insinuado"
+      - habremos insinuado
+      - "habr\xE9is insinuado"
+      - "habr\xE1n insinuado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa insinuado"
+      - "habr\xEDas insinuado"
+      - "habr\xEDa insinuado"
+      - "habr\xEDamos insinuado"
+      - "habr\xEDais insinuado"
+      - "habr\xEDan insinuado"
+      cjid: cpef
+    - cjfs:
+      - haya insinuado
+      - hayas insinuado
+      - haya insinuado
+      - hayamos insinuado
+      - "hay\xE1is insinuado"
+      - hayan insinuado
+      cjid: ppfs
+    - cjfs:
+      - hubiera insinuado
+      - hubieras insinuado
+      - hubiera insinuado
+      - "hubi\xE9ramos insinuado"
+      - hubierais insinuado
+      - hubieran insinuado
+      cjid: ppss1
+    - cjfs:
+      - hubiese insinuado
+      - hubieses insinuado
+      - hubiese insinuado
+      - "hubi\xE9semos insinuado"
+      - hubieseis insinuado
+      - hubiesen insinuado
+      cjid: ppss2
+    - cjfs:
+      - hubiere insinuado
+      - hubieres insinuado
+      - hubiere insinuado
+      - "hubi\xE9remos insinuado"
+      - hubiereis insinuado
+      - hubieren insinuado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "insin\xFAa"
+      - "insin\xFAe"
+      - insinuemos
+      - insinuad
+      - "insin\xFAen"
+      cjid: impf

@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|thunder}, to {a_link|roar}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be furious, to {a_link|rage}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot}'
+          sls:
+          - Central America, Mexico familiar
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|thunder} '
+          - - vis
+            - - t: "est\xE1 tronando"
+                tr: it's thundering
+    vd: impersonal verb
+  fl: intransitive verb
+  hwi:
+    hw: tronar
+    prs:
+    - sound:
+        audio: trona02sp
+  meta:
+    id: tronar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622381000'
+    src: spanish
+    stems:
+    - tronar
+    uuid: 56fd5642-2749-4aa6-972c-f51bc1e0a27a
+  shortdef:
+  - to thunder, to roar
+  - to be furious, to rage
+  - to shoot
+  suppl:
+    cjts:
+    - cjfs:
+      - tronando
+      - tronado
+      cjid: gppt
+    - cjfs:
+      - trueno
+      - truenas
+      - truena
+      - tronamos
+      - "tron\xE1is"
+      - truenan
+      cjid: pind
+    - cjfs:
+      - tronaba
+      - tronabas
+      - tronaba
+      - "tron\xE1bamos"
+      - tronabais
+      - tronaban
+      cjid: pret
+    - cjfs:
+      - "tron\xE9"
+      - tronaste
+      - "tron\xF3"
+      - tronamos
+      - tronasteis
+      - tronaron
+      cjid: pprf
+    - cjfs:
+      - "tronar\xE9"
+      - "tronar\xE1s"
+      - "tronar\xE1"
+      - tronaremos
+      - "tronar\xE9is"
+      - "tronar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tronar\xEDa"
+      - "tronar\xEDas"
+      - "tronar\xEDa"
+      - "tronar\xEDamos"
+      - "tronar\xEDais"
+      - "tronar\xEDan"
+      cjid: cond
+    - cjfs:
+      - truene
+      - truenes
+      - truene
+      - tronemos
+      - "tron\xE9is"
+      - truenen
+      cjid: psub
+    - cjfs:
+      - tronara
+      - tronaras
+      - tronara
+      - "tron\xE1ramos"
+      - tronarais
+      - tronaran
+      cjid: pisb1
+    - cjfs:
+      - tronase
+      - tronases
+      - tronase
+      - "tron\xE1semos"
+      - tronaseis
+      - tronasen
+      cjid: pisb2
+    - cjfs:
+      - tronare
+      - tronares
+      - tronare
+      - "tron\xE1remos"
+      - tronareis
+      - tronaren
+      cjid: fsub
+    - cjfs:
+      - he tronado
+      - has tronado
+      - ha tronado
+      - hemos tronado
+      - "hab\xE9is tronado"
+      - han tronado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tronado"
+      - "hab\xEDas tronado"
+      - "hab\xEDa tronado"
+      - "hab\xEDamos tronado"
+      - "hab\xEDais tronado"
+      - "hab\xEDan tronado"
+      cjid: ppsi
+    - cjfs:
+      - hube tronado
+      - hubiste tronado
+      - hubo tronado
+      - hubimos tronado
+      - hubisteis tronado
+      - hubieron tronado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tronado"
+      - "habr\xE1s tronado"
+      - "habr\xE1 tronado"
+      - habremos tronado
+      - "habr\xE9is tronado"
+      - "habr\xE1n tronado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tronado"
+      - "habr\xEDas tronado"
+      - "habr\xEDa tronado"
+      - "habr\xEDamos tronado"
+      - "habr\xEDais tronado"
+      - "habr\xEDan tronado"
+      cjid: cpef
+    - cjfs:
+      - haya tronado
+      - hayas tronado
+      - haya tronado
+      - hayamos tronado
+      - "hay\xE1is tronado"
+      - hayan tronado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tronado
+      - hubieras tronado
+      - hubiera tronado
+      - "hubi\xE9ramos tronado"
+      - hubierais tronado
+      - hubieran tronado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tronado
+      - hubieses tronado
+      - hubiese tronado
+      - "hubi\xE9semos tronado"
+      - hubieseis tronado
+      - hubiesen tronado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tronado
+      - hubieres tronado
+      - hubiere tronado
+      - "hubi\xE9remos tronado"
+      - hubiereis tronado
+      - hubieren tronado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - truena
+      - truene
+      - tronemos
+      - tronad
+      - truenen
+      cjid: impf

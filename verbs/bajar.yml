@@ -1,0 +1,257 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lower} (a blind, zipper, etc.), to {a_link|let down}
+              (a hem)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to bring/take/carry down, to get/lift down'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reducir||} {bc}to {a_link|lower} (prices, a fever, one''s voice,
+              etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|inclinar||} {bc}to {a_link|lower} (the eyes, etc.), to {a_link|bow}
+              (the head)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go/come down (stairs)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|descargar||} {bc}to {a_link|download}'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|downgrade}'
+          sn: '7'
+          vrs:
+          - va: "bajar de categor\xEDa"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|disminuir||} {bc}to {a_link|drop}, to {a_link|fall}, to {a_link|go
+              down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come/go down '
+          - - vis
+            - - t: bajar por la escalera
+                tr: to come/go down the stairs
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ebb} (of tides)'
+          sn: '3'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get off} (a train, etc.), to {a_link|get out of} (a
+                car)'
+            vrs:
+            - va: bajarse de
+              vac: ~ de
+    drp: bajarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: bajar
+    prs:
+    - sound:
+        audio: bajar01sp
+  meta:
+    id: bajar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602658000'
+    src: spanish
+    stems:
+    - bajar
+    - "bajar de categor\xEDa"
+    - bajarse
+    - bajarse de
+    uuid: b0d901b4-9838-4a7b-9458-ce0d5e2caebc
+  shortdef:
+  - to lower (a blind, zipper, etc.), to let down (a hem)
+  - to bring/take/carry down, to get/lift down
+  - 'reducir : to lower (prices, a fever, one''s voice, etc.)'
+  suppl:
+    cjts:
+    - cjfs:
+      - bajando
+      - bajado
+      cjid: gppt
+    - cjfs:
+      - bajo
+      - bajas
+      - baja
+      - bajamos
+      - "baj\xE1is"
+      - bajan
+      cjid: pind
+    - cjfs:
+      - bajaba
+      - bajabas
+      - bajaba
+      - "baj\xE1bamos"
+      - bajabais
+      - bajaban
+      cjid: pret
+    - cjfs:
+      - "baj\xE9"
+      - bajaste
+      - "baj\xF3"
+      - bajamos
+      - bajasteis
+      - bajaron
+      cjid: pprf
+    - cjfs:
+      - "bajar\xE9"
+      - "bajar\xE1s"
+      - "bajar\xE1"
+      - bajaremos
+      - "bajar\xE9is"
+      - "bajar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bajar\xEDa"
+      - "bajar\xEDas"
+      - "bajar\xEDa"
+      - "bajar\xEDamos"
+      - "bajar\xEDais"
+      - "bajar\xEDan"
+      cjid: cond
+    - cjfs:
+      - baje
+      - bajes
+      - baje
+      - bajemos
+      - "baj\xE9is"
+      - bajen
+      cjid: psub
+    - cjfs:
+      - bajara
+      - bajaras
+      - bajara
+      - "baj\xE1ramos"
+      - bajarais
+      - bajaran
+      cjid: pisb1
+    - cjfs:
+      - bajase
+      - bajases
+      - bajase
+      - "baj\xE1semos"
+      - bajaseis
+      - bajasen
+      cjid: pisb2
+    - cjfs:
+      - bajare
+      - bajares
+      - bajare
+      - "baj\xE1remos"
+      - bajareis
+      - bajaren
+      cjid: fsub
+    - cjfs:
+      - he bajado
+      - has bajado
+      - ha bajado
+      - hemos bajado
+      - "hab\xE9is bajado"
+      - han bajado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bajado"
+      - "hab\xEDas bajado"
+      - "hab\xEDa bajado"
+      - "hab\xEDamos bajado"
+      - "hab\xEDais bajado"
+      - "hab\xEDan bajado"
+      cjid: ppsi
+    - cjfs:
+      - hube bajado
+      - hubiste bajado
+      - hubo bajado
+      - hubimos bajado
+      - hubisteis bajado
+      - hubieron bajado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bajado"
+      - "habr\xE1s bajado"
+      - "habr\xE1 bajado"
+      - habremos bajado
+      - "habr\xE9is bajado"
+      - "habr\xE1n bajado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bajado"
+      - "habr\xEDas bajado"
+      - "habr\xEDa bajado"
+      - "habr\xEDamos bajado"
+      - "habr\xEDais bajado"
+      - "habr\xEDan bajado"
+      cjid: cpef
+    - cjfs:
+      - haya bajado
+      - hayas bajado
+      - haya bajado
+      - hayamos bajado
+      - "hay\xE1is bajado"
+      - hayan bajado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bajado
+      - hubieras bajado
+      - hubiera bajado
+      - "hubi\xE9ramos bajado"
+      - hubierais bajado
+      - hubieran bajado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bajado
+      - hubieses bajado
+      - hubiese bajado
+      - "hubi\xE9semos bajado"
+      - hubieseis bajado
+      - hubiesen bajado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bajado
+      - hubieres bajado
+      - hubiere bajado
+      - "hubi\xE9remos bajado"
+      - hubiereis bajado
+      - hubieren bajado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - baja
+      - baje
+      - bajemos
+      - bajad
+      - bajen
+      cjid: impf

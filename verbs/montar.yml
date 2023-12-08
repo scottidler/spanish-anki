@@ -1,0 +1,333 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mount}, to {a_link|get on}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ride} (a horse, a bicycle, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|establecer||} {bc}to {a_link|set up}, to {a_link|establish}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|armar||} {bc}to {a_link|assemble}, to {a_link|put together}, to
+              {a_link|set up}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|set}, to {a_link|mount} (gems, etc.)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|edit} (a film)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stage}, to {a_link|put on} (a show)'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cock} (a gun)'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mount} (of a male animal)'
+          sn: '9'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get on} (a bus, etc), to {a_link|get in} (a car, a truck),
+              to {a_link|mount} (a horse)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to ride a bicycle'
+          sn: '2'
+          vrs:
+          - va: montar en bicicleta
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cabalgar||} {bc}to ride horseback'
+          sn: '3'
+          vrs:
+          - va: montar a caballo
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get in}, to {a_link|get on}, to {a_link|mount} '
+            - - vis
+              - - t: "se mont\xF3 en el avi\xF3n"
+                  tr: she got on the plane
+                - t: "volvi\xF3 a montarse"
+                  tr: he got back on again
+    drp: montarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: montar
+    prs:
+    - sound:
+        audio: monta06sp
+  meta:
+    id: montar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615301000'
+    src: spanish
+    stems:
+    - montar
+    - montar en bicicleta
+    - montar a caballo
+    - montarse
+    uuid: 072caa49-efa5-46e8-92f0-0b8269b746b9
+  shortdef:
+  - to mount, to get on
+  - to ride (a horse, a bicycle, etc.)
+  - 'establecer : to set up, to establish'
+  suppl:
+    cjts:
+    - cjfs:
+      - montando
+      - montado
+      cjid: gppt
+    - cjfs:
+      - monto
+      - montas
+      - monta
+      - montamos
+      - "mont\xE1is"
+      - montan
+      cjid: pind
+    - cjfs:
+      - montaba
+      - montabas
+      - montaba
+      - "mont\xE1bamos"
+      - montabais
+      - montaban
+      cjid: pret
+    - cjfs:
+      - "mont\xE9"
+      - montaste
+      - "mont\xF3"
+      - montamos
+      - montasteis
+      - montaron
+      cjid: pprf
+    - cjfs:
+      - "montar\xE9"
+      - "montar\xE1s"
+      - "montar\xE1"
+      - montaremos
+      - "montar\xE9is"
+      - "montar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "montar\xEDa"
+      - "montar\xEDas"
+      - "montar\xEDa"
+      - "montar\xEDamos"
+      - "montar\xEDais"
+      - "montar\xEDan"
+      cjid: cond
+    - cjfs:
+      - monte
+      - montes
+      - monte
+      - montemos
+      - "mont\xE9is"
+      - monten
+      cjid: psub
+    - cjfs:
+      - montara
+      - montaras
+      - montara
+      - "mont\xE1ramos"
+      - montarais
+      - montaran
+      cjid: pisb1
+    - cjfs:
+      - montase
+      - montases
+      - montase
+      - "mont\xE1semos"
+      - montaseis
+      - montasen
+      cjid: pisb2
+    - cjfs:
+      - montare
+      - montares
+      - montare
+      - "mont\xE1remos"
+      - montareis
+      - montaren
+      cjid: fsub
+    - cjfs:
+      - he montado
+      - has montado
+      - ha montado
+      - hemos montado
+      - "hab\xE9is montado"
+      - han montado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa montado"
+      - "hab\xEDas montado"
+      - "hab\xEDa montado"
+      - "hab\xEDamos montado"
+      - "hab\xEDais montado"
+      - "hab\xEDan montado"
+      cjid: ppsi
+    - cjfs:
+      - hube montado
+      - hubiste montado
+      - hubo montado
+      - hubimos montado
+      - hubisteis montado
+      - hubieron montado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 montado"
+      - "habr\xE1s montado"
+      - "habr\xE1 montado"
+      - habremos montado
+      - "habr\xE9is montado"
+      - "habr\xE1n montado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa montado"
+      - "habr\xEDas montado"
+      - "habr\xEDa montado"
+      - "habr\xEDamos montado"
+      - "habr\xEDais montado"
+      - "habr\xEDan montado"
+      cjid: cpef
+    - cjfs:
+      - haya montado
+      - hayas montado
+      - haya montado
+      - hayamos montado
+      - "hay\xE1is montado"
+      - hayan montado
+      cjid: ppfs
+    - cjfs:
+      - hubiera montado
+      - hubieras montado
+      - hubiera montado
+      - "hubi\xE9ramos montado"
+      - hubierais montado
+      - hubieran montado
+      cjid: ppss1
+    - cjfs:
+      - hubiese montado
+      - hubieses montado
+      - hubiese montado
+      - "hubi\xE9semos montado"
+      - hubieseis montado
+      - hubiesen montado
+      cjid: ppss2
+    - cjfs:
+      - hubiere montado
+      - hubieres montado
+      - hubiere montado
+      - "hubi\xE9remos montado"
+      - hubiereis montado
+      - hubieren montado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - monta
+      - monte
+      - montemos
+      - montad
+      - monten
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pants} {it}plural{/it}, {a_link|trousers} {it}plural{/it}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}shorts'
+          sn: '2'
+          vrs:
+          - va: pantalones cortos
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|jeans}'
+          sn: '3'
+          vrs:
+          - va: pantalones vaqueros/tejanos
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|jeans}'
+          sls:
+          - Chile, Mexico
+          sn: '4'
+          vrs:
+          - va: pantalones de mezclilla
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|jodhpurs}'
+          sn: '5'
+          vrs:
+          - va: pantalones de montar
+  fl: masculine noun
+  hwi:
+    hw: "pantal\xF3n"
+    prs:
+    - sound:
+        audio: panta02sp
+  ins:
+  - if: pantalones
+    ifc: -lones
+    il: plural
+  meta:
+    id: pantalon
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616575000'
+    src: spanish
+    stems:
+    - "pantal\xF3n"
+    - pantalones
+    - pantalones cortos
+    - pantalones vaqueros/tejanos
+    - pantalones tejanos
+    - pantalones vaqueros
+    - pantalones de mezclilla
+    - pantalones de montar
+    uuid: 0ee1f1c2-e227-457c-9f45-5798bfbacea0
+  shortdef:
+  - pants plural, trousers plural
+  - shorts
+  - jeans

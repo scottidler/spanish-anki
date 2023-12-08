@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|offer}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|provide}, to {a_link|give}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|present} (an appearance, etc.)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to offer oneself, to {a_link|volunteer}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|open up}, to present itself'
+            sn: '2'
+    drp: ofrecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ofrecer
+    prs:
+    - sound:
+        audio: ofrec01sp
+  meta:
+    id: ofrecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616121000'
+    src: spanish
+    stems:
+    - ofrecer
+    - ofrecerse
+    uuid: bcc444cb-38bc-46cc-84d8-df1ab4a273cc
+  shortdef:
+  - to offer
+  - to provide, to give
+  - to present (an appearance, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - ofreciendo
+      - ofrecido
+      cjid: gppt
+    - cjfs:
+      - ofrezco
+      - ofreces
+      - ofrece
+      - ofrecemos
+      - "ofrec\xE9is"
+      - ofrecen
+      cjid: pind
+    - cjfs:
+      - "ofrec\xEDa"
+      - "ofrec\xEDas"
+      - "ofrec\xEDa"
+      - "ofrec\xEDamos"
+      - "ofrec\xEDais"
+      - "ofrec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ofrec\xED"
+      - ofreciste
+      - "ofreci\xF3"
+      - ofrecimos
+      - ofrecisteis
+      - ofrecieron
+      cjid: pprf
+    - cjfs:
+      - "ofrecer\xE9"
+      - "ofrecer\xE1s"
+      - "ofrecer\xE1"
+      - ofreceremos
+      - "ofrecer\xE9is"
+      - "ofrecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ofrecer\xEDa"
+      - "ofrecer\xEDas"
+      - "ofrecer\xEDa"
+      - "ofrecer\xEDamos"
+      - "ofrecer\xEDais"
+      - "ofrecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - ofrezca
+      - ofrezcas
+      - ofrezca
+      - ofrezcamos
+      - "ofrezc\xE1is"
+      - ofrezcan
+      cjid: psub
+    - cjfs:
+      - ofreciera
+      - ofrecieras
+      - ofreciera
+      - "ofreci\xE9ramos"
+      - ofrecierais
+      - ofrecieran
+      cjid: pisb1
+    - cjfs:
+      - ofreciese
+      - ofrecieses
+      - ofreciese
+      - "ofreci\xE9semos"
+      - ofrecieseis
+      - ofreciesen
+      cjid: pisb2
+    - cjfs:
+      - ofreciere
+      - ofrecieres
+      - ofreciere
+      - "ofreci\xE9remos"
+      - ofreciereis
+      - ofrecieren
+      cjid: fsub
+    - cjfs:
+      - he ofrecido
+      - has ofrecido
+      - ha ofrecido
+      - hemos ofrecido
+      - "hab\xE9is ofrecido"
+      - han ofrecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ofrecido"
+      - "hab\xEDas ofrecido"
+      - "hab\xEDa ofrecido"
+      - "hab\xEDamos ofrecido"
+      - "hab\xEDais ofrecido"
+      - "hab\xEDan ofrecido"
+      cjid: ppsi
+    - cjfs:
+      - hube ofrecido
+      - hubiste ofrecido
+      - hubo ofrecido
+      - hubimos ofrecido
+      - hubisteis ofrecido
+      - hubieron ofrecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ofrecido"
+      - "habr\xE1s ofrecido"
+      - "habr\xE1 ofrecido"
+      - habremos ofrecido
+      - "habr\xE9is ofrecido"
+      - "habr\xE1n ofrecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ofrecido"
+      - "habr\xEDas ofrecido"
+      - "habr\xEDa ofrecido"
+      - "habr\xEDamos ofrecido"
+      - "habr\xEDais ofrecido"
+      - "habr\xEDan ofrecido"
+      cjid: cpef
+    - cjfs:
+      - haya ofrecido
+      - hayas ofrecido
+      - haya ofrecido
+      - hayamos ofrecido
+      - "hay\xE1is ofrecido"
+      - hayan ofrecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ofrecido
+      - hubieras ofrecido
+      - hubiera ofrecido
+      - "hubi\xE9ramos ofrecido"
+      - hubierais ofrecido
+      - hubieran ofrecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ofrecido
+      - hubieses ofrecido
+      - hubiese ofrecido
+      - "hubi\xE9semos ofrecido"
+      - hubieseis ofrecido
+      - hubiesen ofrecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ofrecido
+      - hubieres ofrecido
+      - hubiere ofrecido
+      - "hubi\xE9remos ofrecido"
+      - hubiereis ofrecido
+      - hubieren ofrecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ofrece
+      - ofrezca
+      - ofrezcamos
+      - ofreced
+      - ofrezcan
+      cjid: impf

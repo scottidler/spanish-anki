@@ -1,0 +1,291 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sharpen}'
+  fl: transitive verb
+  hwi:
+    hw: afilar
+    prs:
+    - sound:
+        audio: afila01sp
+  meta:
+    id: afilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600626000'
+    src: spanish
+    stems:
+    - afilar
+    uuid: e9bbc31a-6c21-4a4d-91ec-ae90cf590087
+  shortdef:
+  - to sharpen
+  suppl:
+    cjts:
+    - cjfs:
+      - afilando
+      - afilado
+      cjid: gppt
+    - cjfs:
+      - afilo
+      - afilas
+      - afila
+      - afilamos
+      - "afil\xE1is"
+      - afilan
+      cjid: pind
+    - cjfs:
+      - afilaba
+      - afilabas
+      - afilaba
+      - "afil\xE1bamos"
+      - afilabais
+      - afilaban
+      cjid: pret
+    - cjfs:
+      - "afil\xE9"
+      - afilaste
+      - "afil\xF3"
+      - afilamos
+      - afilasteis
+      - afilaron
+      cjid: pprf
+    - cjfs:
+      - "afilar\xE9"
+      - "afilar\xE1s"
+      - "afilar\xE1"
+      - afilaremos
+      - "afilar\xE9is"
+      - "afilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "afilar\xEDa"
+      - "afilar\xEDas"
+      - "afilar\xEDa"
+      - "afilar\xEDamos"
+      - "afilar\xEDais"
+      - "afilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - afile
+      - afiles
+      - afile
+      - afilemos
+      - "afil\xE9is"
+      - afilen
+      cjid: psub
+    - cjfs:
+      - afilara
+      - afilaras
+      - afilara
+      - "afil\xE1ramos"
+      - afilarais
+      - afilaran
+      cjid: pisb1
+    - cjfs:
+      - afilase
+      - afilases
+      - afilase
+      - "afil\xE1semos"
+      - afilaseis
+      - afilasen
+      cjid: pisb2
+    - cjfs:
+      - afilare
+      - afilares
+      - afilare
+      - "afil\xE1remos"
+      - afilareis
+      - afilaren
+      cjid: fsub
+    - cjfs:
+      - he afilado
+      - has afilado
+      - ha afilado
+      - hemos afilado
+      - "hab\xE9is afilado"
+      - han afilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa afilado"
+      - "hab\xEDas afilado"
+      - "hab\xEDa afilado"
+      - "hab\xEDamos afilado"
+      - "hab\xEDais afilado"
+      - "hab\xEDan afilado"
+      cjid: ppsi
+    - cjfs:
+      - hube afilado
+      - hubiste afilado
+      - hubo afilado
+      - hubimos afilado
+      - hubisteis afilado
+      - hubieron afilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 afilado"
+      - "habr\xE1s afilado"
+      - "habr\xE1 afilado"
+      - habremos afilado
+      - "habr\xE9is afilado"
+      - "habr\xE1n afilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa afilado"
+      - "habr\xEDas afilado"
+      - "habr\xEDa afilado"
+      - "habr\xEDamos afilado"
+      - "habr\xEDais afilado"
+      - "habr\xEDan afilado"
+      cjid: cpef
+    - cjfs:
+      - haya afilado
+      - hayas afilado
+      - haya afilado
+      - hayamos afilado
+      - "hay\xE1is afilado"
+      - hayan afilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera afilado
+      - hubieras afilado
+      - hubiera afilado
+      - "hubi\xE9ramos afilado"
+      - hubierais afilado
+      - hubieran afilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese afilado
+      - hubieses afilado
+      - hubiese afilado
+      - "hubi\xE9semos afilado"
+      - hubieseis afilado
+      - hubiesen afilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere afilado
+      - hubieres afilado
+      - hubiere afilado
+      - "hubi\xE9remos afilado"
+      - hubiereis afilado
+      - hubieren afilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - afila
+      - afile
+      - afilemos
+      - afilad
+      - afilen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|stone}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|flint} (of a lighter)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hailstone}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cornerstone}'
+          sn: '4'
+          vrs:
+          - va: piedra angular
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sandstone}'
+          sn: '5'
+          vrs:
+          - va: piedra arenisca
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|limestone}'
+          sn: '6'
+          vrs:
+          - va: piedra caliza
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|whetstone}, {a_link|grindstone}'
+          sn: '7'
+          vrs:
+          - va: piedra de afilar
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|millstone}'
+          sn: '8'
+          vrs:
+          - va: piedra de molino
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}pumice stone'
+          sn: '9'
+          vrs:
+          - va: "piedra de p\xF3mez"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|touchstone}'
+          sn: '10'
+          vrs:
+          - va: piedra de toque
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|lodestone}'
+          sn: '11'
+          vrs:
+          - va: "piedra im\xE1n"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}precious stone'
+          sn: '12'
+          vrs:
+          - va: piedra preciosa
+  fl: feminine noun
+  hwi:
+    hw: piedra
+    prs:
+    - sound:
+        audio: piedr01sp
+  meta:
+    id: piedra
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617337000'
+    src: spanish
+    stems:
+    - piedra
+    - piedra angular
+    - piedra arenisca
+    - piedra caliza
+    - piedra de afilar
+    - piedra de molino
+    - "piedra de p\xF3mez"
+    - piedra de toque
+    - "piedra im\xE1n"
+    - piedra preciosa
+    uuid: c96c8d7e-7829-47dd-a6ab-4c0a2d662f69
+  shortdef:
+  - stone
+  - flint (of a lighter)
+  - hailstone

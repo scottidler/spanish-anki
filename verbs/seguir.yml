@@ -1,0 +1,257 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|follow} '
+          - - vis
+            - - t: "el polic\xEDa los sigui\xF3"
+                tr: the policeman followed them
+              - t: me siguieron con la mirada
+                tr: they followed me with their eyes
+              - t: "seguir\xE9 tu consejo"
+                tr: I'll follow your advice
+              - t: seguir el ejemplo de
+                tr: to follow the example of
+              - t: me cuesta seguirle el ritmo
+                tr: I have trouble keeping up with her
+              - t: seguir el procedimiento
+                tr: to follow procedure
+              - t: en los meses que siguieron a la tragedia
+                tr: in the months that followed the tragedy
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go along}, to {a_link|keep on} '
+          - - vis
+            - - t: seguimos toda la carretera panamericana
+                tr: we continued along the PanAmerican Highway
+              - t: "sigui\xF3 hablando"
+                tr: he kept on talking
+              - t: sigue aumentando
+                tr: it continues to increase
+              - t: lo sigue creyendo
+                tr: he still believes it
+              - t: seguir el curso
+                tr: to stay on course
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take} (a course, a treatment)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go on}, to keep going '
+          - - vis
+            - - t: sigue adelante
+                tr: keep going, carry on
+              - t: sigue derecho
+                tr: keep going straight
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|remain}, to continue to be '
+          - - vis
+            - - t: "\xBFtodav\xEDa sigues aqu\xED?"
+                tr: you're still here?
+              - t: sigue con vida
+                tr: she's still alive
+              - t: todo sigue igual
+                tr: everything's still the same
+              - t: seguimos a la espera de noticias
+                tr: we're still awaiting news
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|follow}, to come after '
+          - - vis
+            - - t: la frase que sigue
+                tr: the following sentence
+              - t: "\xBFqu\xE9 sigue despu\xE9s?"
+                tr: what comes next?
+          sn: '3'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: seguir
+    prs:
+    - sound:
+        audio: segui06sp
+  meta:
+    id: seguir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620347000'
+    src: spanish
+    stems:
+    - seguir
+    uuid: 1276ef3c-9099-4c41-a0bc-8c89e3bce3c9
+  shortdef:
+  - to follow
+  - to go along, to keep on
+  - to take (a course, a treatment)
+  suppl:
+    cjts:
+    - cjfs:
+      - siguiendo
+      - seguido
+      cjid: gppt
+    - cjfs:
+      - sigo
+      - sigues
+      - sigue
+      - seguimos
+      - "segu\xEDs"
+      - siguen
+      cjid: pind
+    - cjfs:
+      - "segu\xEDa"
+      - "segu\xEDas"
+      - "segu\xEDa"
+      - "segu\xEDamos"
+      - "segu\xEDais"
+      - "segu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "segu\xED"
+      - seguiste
+      - "sigui\xF3"
+      - seguimos
+      - seguisteis
+      - siguieron
+      cjid: pprf
+    - cjfs:
+      - "seguir\xE9"
+      - "seguir\xE1s"
+      - "seguir\xE1"
+      - seguiremos
+      - "seguir\xE9is"
+      - "seguir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "seguir\xEDa"
+      - "seguir\xEDas"
+      - "seguir\xEDa"
+      - "seguir\xEDamos"
+      - "seguir\xEDais"
+      - "seguir\xEDan"
+      cjid: cond
+    - cjfs:
+      - siga
+      - sigas
+      - siga
+      - sigamos
+      - "sig\xE1is"
+      - sigan
+      cjid: psub
+    - cjfs:
+      - siguiera
+      - siguieras
+      - siguiera
+      - "sigui\xE9ramos"
+      - siguierais
+      - siguieran
+      cjid: pisb1
+    - cjfs:
+      - siguiese
+      - siguieses
+      - siguiese
+      - "sigui\xE9semos"
+      - siguieseis
+      - siguiesen
+      cjid: pisb2
+    - cjfs:
+      - siguiere
+      - siguieres
+      - siguiere
+      - "sigui\xE9remos"
+      - siguiereis
+      - siguieren
+      cjid: fsub
+    - cjfs:
+      - he seguido
+      - has seguido
+      - ha seguido
+      - hemos seguido
+      - "hab\xE9is seguido"
+      - han seguido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa seguido"
+      - "hab\xEDas seguido"
+      - "hab\xEDa seguido"
+      - "hab\xEDamos seguido"
+      - "hab\xEDais seguido"
+      - "hab\xEDan seguido"
+      cjid: ppsi
+    - cjfs:
+      - hube seguido
+      - hubiste seguido
+      - hubo seguido
+      - hubimos seguido
+      - hubisteis seguido
+      - hubieron seguido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 seguido"
+      - "habr\xE1s seguido"
+      - "habr\xE1 seguido"
+      - habremos seguido
+      - "habr\xE9is seguido"
+      - "habr\xE1n seguido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa seguido"
+      - "habr\xEDas seguido"
+      - "habr\xEDa seguido"
+      - "habr\xEDamos seguido"
+      - "habr\xEDais seguido"
+      - "habr\xEDan seguido"
+      cjid: cpef
+    - cjfs:
+      - haya seguido
+      - hayas seguido
+      - haya seguido
+      - hayamos seguido
+      - "hay\xE1is seguido"
+      - hayan seguido
+      cjid: ppfs
+    - cjfs:
+      - hubiera seguido
+      - hubieras seguido
+      - hubiera seguido
+      - "hubi\xE9ramos seguido"
+      - hubierais seguido
+      - hubieran seguido
+      cjid: ppss1
+    - cjfs:
+      - hubiese seguido
+      - hubieses seguido
+      - hubiese seguido
+      - "hubi\xE9semos seguido"
+      - hubieseis seguido
+      - hubiesen seguido
+      cjid: ppss2
+    - cjfs:
+      - hubiere seguido
+      - hubieres seguido
+      - hubiere seguido
+      - "hubi\xE9remos seguido"
+      - hubiereis seguido
+      - hubieren seguido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sigue
+      - siga
+      - sigamos
+      - seguid
+      - sigan
+      cjid: impf

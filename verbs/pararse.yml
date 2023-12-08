@@ -1,0 +1,257 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|detener||} {bc}to {a_link|stop}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stand}, to {a_link|prop} '
+          - - vis
+            - - t: parar la oreja
+                tr: to perk up one's ears
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stop}, to {a_link|block} (a blow, etc.)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cesar||} {bc}to {a_link|stop} '
+          - - vis
+            - - t: habla sin parar
+                tr: she talks nonstop
+              - t: no paraba de llorar
+                tr: he wouldn't stop crying
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stay}, to {a_link|put up}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go on strike'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to end up, to {a_link|wind up} '
+          - - vis
+            - - t: ir a parar a manos de alguien
+                tr: to fall into someone's hands
+              - t: va a parar al hospital
+                tr: he's going to end up in the hospital
+          sn: '4'
+          vrs:
+          - va: ir a parar
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stop} '
+            - - vis
+              - - t: pararse en seco
+                  tr: to stop dead
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|atascarse||} {bc}to {a_link|stall} (out)'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stand up}, to {a_link|get up}'
+            sn: '3'
+    drp: pararse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: parar
+    prs:
+    - sound:
+        audio: parar01sp
+  meta:
+    id: parar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616665000'
+    src: spanish
+    stems:
+    - parar
+    - ir a parar
+    - pararse
+    uuid: c314aa7a-1afc-49e2-98b3-0b07f5b98a48
+  shortdef:
+  - 'detener : to stop'
+  - to stand, to prop
+  - to stop, to block (a blow, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - parando
+      - parado
+      cjid: gppt
+    - cjfs:
+      - paro
+      - paras
+      - para
+      - paramos
+      - "par\xE1is"
+      - paran
+      cjid: pind
+    - cjfs:
+      - paraba
+      - parabas
+      - paraba
+      - "par\xE1bamos"
+      - parabais
+      - paraban
+      cjid: pret
+    - cjfs:
+      - "par\xE9"
+      - paraste
+      - "par\xF3"
+      - paramos
+      - parasteis
+      - pararon
+      cjid: pprf
+    - cjfs:
+      - "parar\xE9"
+      - "parar\xE1s"
+      - "parar\xE1"
+      - pararemos
+      - "parar\xE9is"
+      - "parar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "parar\xEDa"
+      - "parar\xEDas"
+      - "parar\xEDa"
+      - "parar\xEDamos"
+      - "parar\xEDais"
+      - "parar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pare
+      - pares
+      - pare
+      - paremos
+      - "par\xE9is"
+      - paren
+      cjid: psub
+    - cjfs:
+      - parara
+      - pararas
+      - parara
+      - "par\xE1ramos"
+      - pararais
+      - pararan
+      cjid: pisb1
+    - cjfs:
+      - parase
+      - parases
+      - parase
+      - "par\xE1semos"
+      - paraseis
+      - parasen
+      cjid: pisb2
+    - cjfs:
+      - parare
+      - parares
+      - parare
+      - "par\xE1remos"
+      - parareis
+      - pararen
+      cjid: fsub
+    - cjfs:
+      - he parado
+      - has parado
+      - ha parado
+      - hemos parado
+      - "hab\xE9is parado"
+      - han parado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa parado"
+      - "hab\xEDas parado"
+      - "hab\xEDa parado"
+      - "hab\xEDamos parado"
+      - "hab\xEDais parado"
+      - "hab\xEDan parado"
+      cjid: ppsi
+    - cjfs:
+      - hube parado
+      - hubiste parado
+      - hubo parado
+      - hubimos parado
+      - hubisteis parado
+      - hubieron parado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 parado"
+      - "habr\xE1s parado"
+      - "habr\xE1 parado"
+      - habremos parado
+      - "habr\xE9is parado"
+      - "habr\xE1n parado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa parado"
+      - "habr\xEDas parado"
+      - "habr\xEDa parado"
+      - "habr\xEDamos parado"
+      - "habr\xEDais parado"
+      - "habr\xEDan parado"
+      cjid: cpef
+    - cjfs:
+      - haya parado
+      - hayas parado
+      - haya parado
+      - hayamos parado
+      - "hay\xE1is parado"
+      - hayan parado
+      cjid: ppfs
+    - cjfs:
+      - hubiera parado
+      - hubieras parado
+      - hubiera parado
+      - "hubi\xE9ramos parado"
+      - hubierais parado
+      - hubieran parado
+      cjid: ppss1
+    - cjfs:
+      - hubiese parado
+      - hubieses parado
+      - hubiese parado
+      - "hubi\xE9semos parado"
+      - hubieseis parado
+      - hubiesen parado
+      cjid: ppss2
+    - cjfs:
+      - hubiere parado
+      - hubieres parado
+      - hubiere parado
+      - "hubi\xE9remos parado"
+      - hubiereis parado
+      - hubieren parado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - para
+      - pare
+      - paremos
+      - parad
+      - paren
+      cjid: impf

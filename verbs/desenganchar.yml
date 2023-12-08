@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|unhitch}, to {a_link|uncouple}'
+  fl: transitive verb
+  hwi:
+    hw: desenganchar
+  meta:
+    id: desenganchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607038000'
+    src: spanish
+    stems:
+    - desenganchar
+    uuid: 8ff8865c-a95d-4803-bebb-3723aa876573
+  shortdef:
+  - to unhitch, to uncouple
+  suppl:
+    cjts:
+    - cjfs:
+      - desenganchando
+      - desenganchado
+      cjid: gppt
+    - cjfs:
+      - desengancho
+      - desenganchas
+      - desengancha
+      - desenganchamos
+      - "desenganch\xE1is"
+      - desenganchan
+      cjid: pind
+    - cjfs:
+      - desenganchaba
+      - desenganchabas
+      - desenganchaba
+      - "desenganch\xE1bamos"
+      - desenganchabais
+      - desenganchaban
+      cjid: pret
+    - cjfs:
+      - "desenganch\xE9"
+      - desenganchaste
+      - "desenganch\xF3"
+      - desenganchamos
+      - desenganchasteis
+      - desengancharon
+      cjid: pprf
+    - cjfs:
+      - "desenganchar\xE9"
+      - "desenganchar\xE1s"
+      - "desenganchar\xE1"
+      - desengancharemos
+      - "desenganchar\xE9is"
+      - "desenganchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desenganchar\xEDa"
+      - "desenganchar\xEDas"
+      - "desenganchar\xEDa"
+      - "desenganchar\xEDamos"
+      - "desenganchar\xEDais"
+      - "desenganchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desenganche
+      - desenganches
+      - desenganche
+      - desenganchemos
+      - "desenganch\xE9is"
+      - desenganchen
+      cjid: psub
+    - cjfs:
+      - desenganchara
+      - desengancharas
+      - desenganchara
+      - "desenganch\xE1ramos"
+      - desengancharais
+      - desengancharan
+      cjid: pisb1
+    - cjfs:
+      - desenganchase
+      - desenganchases
+      - desenganchase
+      - "desenganch\xE1semos"
+      - desenganchaseis
+      - desenganchasen
+      cjid: pisb2
+    - cjfs:
+      - desenganchare
+      - desenganchares
+      - desenganchare
+      - "desenganch\xE1remos"
+      - desenganchareis
+      - desengancharen
+      cjid: fsub
+    - cjfs:
+      - he desenganchado
+      - has desenganchado
+      - ha desenganchado
+      - hemos desenganchado
+      - "hab\xE9is desenganchado"
+      - han desenganchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desenganchado"
+      - "hab\xEDas desenganchado"
+      - "hab\xEDa desenganchado"
+      - "hab\xEDamos desenganchado"
+      - "hab\xEDais desenganchado"
+      - "hab\xEDan desenganchado"
+      cjid: ppsi
+    - cjfs:
+      - hube desenganchado
+      - hubiste desenganchado
+      - hubo desenganchado
+      - hubimos desenganchado
+      - hubisteis desenganchado
+      - hubieron desenganchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desenganchado"
+      - "habr\xE1s desenganchado"
+      - "habr\xE1 desenganchado"
+      - habremos desenganchado
+      - "habr\xE9is desenganchado"
+      - "habr\xE1n desenganchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desenganchado"
+      - "habr\xEDas desenganchado"
+      - "habr\xEDa desenganchado"
+      - "habr\xEDamos desenganchado"
+      - "habr\xEDais desenganchado"
+      - "habr\xEDan desenganchado"
+      cjid: cpef
+    - cjfs:
+      - haya desenganchado
+      - hayas desenganchado
+      - haya desenganchado
+      - hayamos desenganchado
+      - "hay\xE1is desenganchado"
+      - hayan desenganchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desenganchado
+      - hubieras desenganchado
+      - hubiera desenganchado
+      - "hubi\xE9ramos desenganchado"
+      - hubierais desenganchado
+      - hubieran desenganchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desenganchado
+      - hubieses desenganchado
+      - hubiese desenganchado
+      - "hubi\xE9semos desenganchado"
+      - hubieseis desenganchado
+      - hubiesen desenganchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desenganchado
+      - hubieres desenganchado
+      - hubiere desenganchado
+      - "hubi\xE9remos desenganchado"
+      - hubiereis desenganchado
+      - hubieren desenganchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desengancha
+      - desenganche
+      - desenganchemos
+      - desenganchad
+      - desenganchen
+      cjid: impf

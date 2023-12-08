@@ -1,0 +1,194 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|intentar||} {bc}to {a_link|try}, to {a_link|endeavor} '
+          - - vis
+            - - t: procura llegar temprano
+                tr: try to arrive early
+              - t: procura que no se enteren
+                tr: make sure they don't find out
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conseguir||} {bc}to {a_link|obtain}, to {a_link|procure}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: procurar
+    prs:
+    - sound:
+        audio: procu02sp
+  meta:
+    id: procurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618188000'
+    src: spanish
+    stems:
+    - procurar
+    uuid: 81eaf775-b6cb-482b-8d77-0e66de6c208e
+  shortdef:
+  - 'intentar : to try, to endeavor'
+  - 'conseguir : to obtain, to procure'
+  suppl:
+    cjts:
+    - cjfs:
+      - procurando
+      - procurado
+      cjid: gppt
+    - cjfs:
+      - procuro
+      - procuras
+      - procura
+      - procuramos
+      - "procur\xE1is"
+      - procuran
+      cjid: pind
+    - cjfs:
+      - procuraba
+      - procurabas
+      - procuraba
+      - "procur\xE1bamos"
+      - procurabais
+      - procuraban
+      cjid: pret
+    - cjfs:
+      - "procur\xE9"
+      - procuraste
+      - "procur\xF3"
+      - procuramos
+      - procurasteis
+      - procuraron
+      cjid: pprf
+    - cjfs:
+      - "procurar\xE9"
+      - "procurar\xE1s"
+      - "procurar\xE1"
+      - procuraremos
+      - "procurar\xE9is"
+      - "procurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "procurar\xEDa"
+      - "procurar\xEDas"
+      - "procurar\xEDa"
+      - "procurar\xEDamos"
+      - "procurar\xEDais"
+      - "procurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - procure
+      - procures
+      - procure
+      - procuremos
+      - "procur\xE9is"
+      - procuren
+      cjid: psub
+    - cjfs:
+      - procurara
+      - procuraras
+      - procurara
+      - "procur\xE1ramos"
+      - procurarais
+      - procuraran
+      cjid: pisb1
+    - cjfs:
+      - procurase
+      - procurases
+      - procurase
+      - "procur\xE1semos"
+      - procuraseis
+      - procurasen
+      cjid: pisb2
+    - cjfs:
+      - procurare
+      - procurares
+      - procurare
+      - "procur\xE1remos"
+      - procurareis
+      - procuraren
+      cjid: fsub
+    - cjfs:
+      - he procurado
+      - has procurado
+      - ha procurado
+      - hemos procurado
+      - "hab\xE9is procurado"
+      - han procurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa procurado"
+      - "hab\xEDas procurado"
+      - "hab\xEDa procurado"
+      - "hab\xEDamos procurado"
+      - "hab\xEDais procurado"
+      - "hab\xEDan procurado"
+      cjid: ppsi
+    - cjfs:
+      - hube procurado
+      - hubiste procurado
+      - hubo procurado
+      - hubimos procurado
+      - hubisteis procurado
+      - hubieron procurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 procurado"
+      - "habr\xE1s procurado"
+      - "habr\xE1 procurado"
+      - habremos procurado
+      - "habr\xE9is procurado"
+      - "habr\xE1n procurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa procurado"
+      - "habr\xEDas procurado"
+      - "habr\xEDa procurado"
+      - "habr\xEDamos procurado"
+      - "habr\xEDais procurado"
+      - "habr\xEDan procurado"
+      cjid: cpef
+    - cjfs:
+      - haya procurado
+      - hayas procurado
+      - haya procurado
+      - hayamos procurado
+      - "hay\xE1is procurado"
+      - hayan procurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera procurado
+      - hubieras procurado
+      - hubiera procurado
+      - "hubi\xE9ramos procurado"
+      - hubierais procurado
+      - hubieran procurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese procurado
+      - hubieses procurado
+      - hubiese procurado
+      - "hubi\xE9semos procurado"
+      - hubieseis procurado
+      - hubiesen procurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere procurado
+      - hubieres procurado
+      - hubiere procurado
+      - "hubi\xE9remos procurado"
+      - hubiereis procurado
+      - hubieren procurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - procura
+      - procure
+      - procuremos
+      - procurad
+      - procuren
+      cjid: impf

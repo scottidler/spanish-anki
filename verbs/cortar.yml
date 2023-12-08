@@ -1,0 +1,277 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cut} '
+          - - vis
+            - - t: "lo cort\xF3 en dos"
+                tr: he cut it in half
+              - t: cortar en pedazos
+                tr: to cut into pieces
+              - t: cortar en rebanadas/trozos (etc.)
+                tr: to slice
+              - t: "cortar le\xF1a"
+                tr: to chop wood
+              - t: cortar el pasto
+                tr: to mow the lawn, to cut the grass
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cercenar||} {bc}to {a_link|cut off}, to {a_link|sever}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|talar||} {bc}to {a_link|cut down}, to {a_link|chop down}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|recortar||} {bc}to {a_link|cut out}, to {a_link|clip} (coupons,
+              etc.)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|editar||} {bc}to {a_link|cut}, to {a_link|edit}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|interrumpir||} {bc}to {a_link|cut off}, to {a_link|interrupt}'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|bloquear||}, {sx|cerrar||} {bc}to {a_link|block} (off), to {a_link|close}
+              (off)'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|curdle} (milk)'
+          sn: '8'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cut}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break up} '
+          - - vis
+            - - t: cortar con alguien
+                tr: to break up with someone
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hang up} (the telephone)'
+          sn: '3'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to cut oneself '
+            - - vis
+              - - t: cortarse el pelo
+                  tr: to cut one's hair
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be cut off'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|sour}, to {a_link|separate} (of milk)'
+            sn: '3'
+    drp: cortarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: cortar
+    prs:
+    - sound:
+        audio: corta03sp
+  meta:
+    id: cortar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605981000'
+    src: spanish
+    stems:
+    - cortar
+    - cortarse
+    uuid: bf405854-5e69-476c-8722-07485494af91
+  shortdef:
+  - to cut
+  - 'cercenar : to cut off, to sever'
+  - 'talar : to cut down, to chop down'
+  suppl:
+    cjts:
+    - cjfs:
+      - cortando
+      - cortado
+      cjid: gppt
+    - cjfs:
+      - corto
+      - cortas
+      - corta
+      - cortamos
+      - "cort\xE1is"
+      - cortan
+      cjid: pind
+    - cjfs:
+      - cortaba
+      - cortabas
+      - cortaba
+      - "cort\xE1bamos"
+      - cortabais
+      - cortaban
+      cjid: pret
+    - cjfs:
+      - "cort\xE9"
+      - cortaste
+      - "cort\xF3"
+      - cortamos
+      - cortasteis
+      - cortaron
+      cjid: pprf
+    - cjfs:
+      - "cortar\xE9"
+      - "cortar\xE1s"
+      - "cortar\xE1"
+      - cortaremos
+      - "cortar\xE9is"
+      - "cortar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cortar\xEDa"
+      - "cortar\xEDas"
+      - "cortar\xEDa"
+      - "cortar\xEDamos"
+      - "cortar\xEDais"
+      - "cortar\xEDan"
+      cjid: cond
+    - cjfs:
+      - corte
+      - cortes
+      - corte
+      - cortemos
+      - "cort\xE9is"
+      - corten
+      cjid: psub
+    - cjfs:
+      - cortara
+      - cortaras
+      - cortara
+      - "cort\xE1ramos"
+      - cortarais
+      - cortaran
+      cjid: pisb1
+    - cjfs:
+      - cortase
+      - cortases
+      - cortase
+      - "cort\xE1semos"
+      - cortaseis
+      - cortasen
+      cjid: pisb2
+    - cjfs:
+      - cortare
+      - cortares
+      - cortare
+      - "cort\xE1remos"
+      - cortareis
+      - cortaren
+      cjid: fsub
+    - cjfs:
+      - he cortado
+      - has cortado
+      - ha cortado
+      - hemos cortado
+      - "hab\xE9is cortado"
+      - han cortado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cortado"
+      - "hab\xEDas cortado"
+      - "hab\xEDa cortado"
+      - "hab\xEDamos cortado"
+      - "hab\xEDais cortado"
+      - "hab\xEDan cortado"
+      cjid: ppsi
+    - cjfs:
+      - hube cortado
+      - hubiste cortado
+      - hubo cortado
+      - hubimos cortado
+      - hubisteis cortado
+      - hubieron cortado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cortado"
+      - "habr\xE1s cortado"
+      - "habr\xE1 cortado"
+      - habremos cortado
+      - "habr\xE9is cortado"
+      - "habr\xE1n cortado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cortado"
+      - "habr\xEDas cortado"
+      - "habr\xEDa cortado"
+      - "habr\xEDamos cortado"
+      - "habr\xEDais cortado"
+      - "habr\xEDan cortado"
+      cjid: cpef
+    - cjfs:
+      - haya cortado
+      - hayas cortado
+      - haya cortado
+      - hayamos cortado
+      - "hay\xE1is cortado"
+      - hayan cortado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cortado
+      - hubieras cortado
+      - hubiera cortado
+      - "hubi\xE9ramos cortado"
+      - hubierais cortado
+      - hubieran cortado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cortado
+      - hubieses cortado
+      - hubiese cortado
+      - "hubi\xE9semos cortado"
+      - hubieseis cortado
+      - hubiesen cortado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cortado
+      - hubieres cortado
+      - hubiere cortado
+      - "hubi\xE9remos cortado"
+      - hubiereis cortado
+      - hubieren cortado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - corta
+      - corte
+      - cortemos
+      - cortad
+      - corten
+      cjid: impf

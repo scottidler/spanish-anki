@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|show}, to {a_link|stick out}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|appear}, to become visible'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|show}, to {a_link|appear}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to lean out, to {a_link|look out} '
+            - - vis
+              - - t: "se asom\xF3 por la ventana"
+                  tr: he leaned out the window
+            sn: '2'
+    drp: asomarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: asomar
+    prs:
+    - sound:
+        audio: asoma01sp
+  meta:
+    id: asomar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602193000'
+    src: spanish
+    stems:
+    - asomar
+    - asomarse
+    uuid: f66c67e3-e09d-4648-9dca-076087d0f2f2
+  shortdef:
+  - to show, to stick out
+  - to appear, to become visible
+  suppl:
+    cjts:
+    - cjfs:
+      - asomando
+      - asomado
+      cjid: gppt
+    - cjfs:
+      - asomo
+      - asomas
+      - asoma
+      - asomamos
+      - "asom\xE1is"
+      - asoman
+      cjid: pind
+    - cjfs:
+      - asomaba
+      - asomabas
+      - asomaba
+      - "asom\xE1bamos"
+      - asomabais
+      - asomaban
+      cjid: pret
+    - cjfs:
+      - "asom\xE9"
+      - asomaste
+      - "asom\xF3"
+      - asomamos
+      - asomasteis
+      - asomaron
+      cjid: pprf
+    - cjfs:
+      - "asomar\xE9"
+      - "asomar\xE1s"
+      - "asomar\xE1"
+      - asomaremos
+      - "asomar\xE9is"
+      - "asomar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asomar\xEDa"
+      - "asomar\xEDas"
+      - "asomar\xEDa"
+      - "asomar\xEDamos"
+      - "asomar\xEDais"
+      - "asomar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asome
+      - asomes
+      - asome
+      - asomemos
+      - "asom\xE9is"
+      - asomen
+      cjid: psub
+    - cjfs:
+      - asomara
+      - asomaras
+      - asomara
+      - "asom\xE1ramos"
+      - asomarais
+      - asomaran
+      cjid: pisb1
+    - cjfs:
+      - asomase
+      - asomases
+      - asomase
+      - "asom\xE1semos"
+      - asomaseis
+      - asomasen
+      cjid: pisb2
+    - cjfs:
+      - asomare
+      - asomares
+      - asomare
+      - "asom\xE1remos"
+      - asomareis
+      - asomaren
+      cjid: fsub
+    - cjfs:
+      - he asomado
+      - has asomado
+      - ha asomado
+      - hemos asomado
+      - "hab\xE9is asomado"
+      - han asomado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asomado"
+      - "hab\xEDas asomado"
+      - "hab\xEDa asomado"
+      - "hab\xEDamos asomado"
+      - "hab\xEDais asomado"
+      - "hab\xEDan asomado"
+      cjid: ppsi
+    - cjfs:
+      - hube asomado
+      - hubiste asomado
+      - hubo asomado
+      - hubimos asomado
+      - hubisteis asomado
+      - hubieron asomado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asomado"
+      - "habr\xE1s asomado"
+      - "habr\xE1 asomado"
+      - habremos asomado
+      - "habr\xE9is asomado"
+      - "habr\xE1n asomado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asomado"
+      - "habr\xEDas asomado"
+      - "habr\xEDa asomado"
+      - "habr\xEDamos asomado"
+      - "habr\xEDais asomado"
+      - "habr\xEDan asomado"
+      cjid: cpef
+    - cjfs:
+      - haya asomado
+      - hayas asomado
+      - haya asomado
+      - hayamos asomado
+      - "hay\xE1is asomado"
+      - hayan asomado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asomado
+      - hubieras asomado
+      - hubiera asomado
+      - "hubi\xE9ramos asomado"
+      - hubierais asomado
+      - hubieran asomado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asomado
+      - hubieses asomado
+      - hubiese asomado
+      - "hubi\xE9semos asomado"
+      - hubieseis asomado
+      - hubiesen asomado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asomado
+      - hubieres asomado
+      - hubiere asomado
+      - "hubi\xE9remos asomado"
+      - hubiereis asomado
+      - hubieren asomado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asoma
+      - asome
+      - asomemos
+      - asomad
+      - asomen
+      cjid: impf

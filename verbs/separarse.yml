@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|separate}, to {a_link|divide}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|split up}, to {a_link|pull apart}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put aside}, to {a_link|set aside}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|separate}, to {a_link|split up} '
+            - - vis
+              - - t: sus padres se separaron
+                  tr: his parents separated
+                - t: separarse de alguien
+                  tr: to separate from someone
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|split up} (of a group, etc.)'
+            sn: '2'
+    drp: separarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: separar
+    prs:
+    - sound:
+        audio: separ03sp
+  meta:
+    id: separar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620468000'
+    src: spanish
+    stems:
+    - separar
+    - separarse
+    uuid: 4f2c64c3-74a5-499c-bdb6-4e46734c3b41
+  shortdef:
+  - to separate, to divide
+  - to split up, to pull apart
+  - to put aside, to set aside
+  suppl:
+    cjts:
+    - cjfs:
+      - separando
+      - separado
+      cjid: gppt
+    - cjfs:
+      - separo
+      - separas
+      - separa
+      - separamos
+      - "separ\xE1is"
+      - separan
+      cjid: pind
+    - cjfs:
+      - separaba
+      - separabas
+      - separaba
+      - "separ\xE1bamos"
+      - separabais
+      - separaban
+      cjid: pret
+    - cjfs:
+      - "separ\xE9"
+      - separaste
+      - "separ\xF3"
+      - separamos
+      - separasteis
+      - separaron
+      cjid: pprf
+    - cjfs:
+      - "separar\xE9"
+      - "separar\xE1s"
+      - "separar\xE1"
+      - separaremos
+      - "separar\xE9is"
+      - "separar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "separar\xEDa"
+      - "separar\xEDas"
+      - "separar\xEDa"
+      - "separar\xEDamos"
+      - "separar\xEDais"
+      - "separar\xEDan"
+      cjid: cond
+    - cjfs:
+      - separe
+      - separes
+      - separe
+      - separemos
+      - "separ\xE9is"
+      - separen
+      cjid: psub
+    - cjfs:
+      - separara
+      - separaras
+      - separara
+      - "separ\xE1ramos"
+      - separarais
+      - separaran
+      cjid: pisb1
+    - cjfs:
+      - separase
+      - separases
+      - separase
+      - "separ\xE1semos"
+      - separaseis
+      - separasen
+      cjid: pisb2
+    - cjfs:
+      - separare
+      - separares
+      - separare
+      - "separ\xE1remos"
+      - separareis
+      - separaren
+      cjid: fsub
+    - cjfs:
+      - he separado
+      - has separado
+      - ha separado
+      - hemos separado
+      - "hab\xE9is separado"
+      - han separado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa separado"
+      - "hab\xEDas separado"
+      - "hab\xEDa separado"
+      - "hab\xEDamos separado"
+      - "hab\xEDais separado"
+      - "hab\xEDan separado"
+      cjid: ppsi
+    - cjfs:
+      - hube separado
+      - hubiste separado
+      - hubo separado
+      - hubimos separado
+      - hubisteis separado
+      - hubieron separado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 separado"
+      - "habr\xE1s separado"
+      - "habr\xE1 separado"
+      - habremos separado
+      - "habr\xE9is separado"
+      - "habr\xE1n separado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa separado"
+      - "habr\xEDas separado"
+      - "habr\xEDa separado"
+      - "habr\xEDamos separado"
+      - "habr\xEDais separado"
+      - "habr\xEDan separado"
+      cjid: cpef
+    - cjfs:
+      - haya separado
+      - hayas separado
+      - haya separado
+      - hayamos separado
+      - "hay\xE1is separado"
+      - hayan separado
+      cjid: ppfs
+    - cjfs:
+      - hubiera separado
+      - hubieras separado
+      - hubiera separado
+      - "hubi\xE9ramos separado"
+      - hubierais separado
+      - hubieran separado
+      cjid: ppss1
+    - cjfs:
+      - hubiese separado
+      - hubieses separado
+      - hubiese separado
+      - "hubi\xE9semos separado"
+      - hubieseis separado
+      - hubiesen separado
+      cjid: ppss2
+    - cjfs:
+      - hubiere separado
+      - hubieres separado
+      - hubiere separado
+      - "hubi\xE9remos separado"
+      - hubiereis separado
+      - hubieren separado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - separa
+      - separe
+      - separemos
+      - separad
+      - separen
+      cjid: impf

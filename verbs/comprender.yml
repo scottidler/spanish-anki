@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|entender||} {bc}to {a_link|comprehend}, to {a_link|understand}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|abarcar||} {bc}to {a_link|cover}, to {a_link|include}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|understand} '
+          - - vis
+            - - t: "\xA1ya comprendo!"
+                tr: now I understand!
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: comprender
+    prs:
+    - sound:
+        audio: compr05sp
+  meta:
+    id: comprender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605288000'
+    src: spanish
+    stems:
+    - comprender
+    uuid: b2087769-a22a-4797-b20f-b3dc1c7c5e81
+  shortdef:
+  - 'entender : to comprehend, to understand'
+  - 'abarcar : to cover, to include'
+  - to understand
+  suppl:
+    cjts:
+    - cjfs:
+      - comprendiendo
+      - comprendido
+      cjid: gppt
+    - cjfs:
+      - comprendo
+      - comprendes
+      - comprende
+      - comprendemos
+      - "comprend\xE9is"
+      - comprenden
+      cjid: pind
+    - cjfs:
+      - "comprend\xEDa"
+      - "comprend\xEDas"
+      - "comprend\xEDa"
+      - "comprend\xEDamos"
+      - "comprend\xEDais"
+      - "comprend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "comprend\xED"
+      - comprendiste
+      - "comprendi\xF3"
+      - comprendimos
+      - comprendisteis
+      - comprendieron
+      cjid: pprf
+    - cjfs:
+      - "comprender\xE9"
+      - "comprender\xE1s"
+      - "comprender\xE1"
+      - comprenderemos
+      - "comprender\xE9is"
+      - "comprender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "comprender\xEDa"
+      - "comprender\xEDas"
+      - "comprender\xEDa"
+      - "comprender\xEDamos"
+      - "comprender\xEDais"
+      - "comprender\xEDan"
+      cjid: cond
+    - cjfs:
+      - comprenda
+      - comprendas
+      - comprenda
+      - comprendamos
+      - "comprend\xE1is"
+      - comprendan
+      cjid: psub
+    - cjfs:
+      - comprendiera
+      - comprendieras
+      - comprendiera
+      - "comprendi\xE9ramos"
+      - comprendierais
+      - comprendieran
+      cjid: pisb1
+    - cjfs:
+      - comprendiese
+      - comprendieses
+      - comprendiese
+      - "comprendi\xE9semos"
+      - comprendieseis
+      - comprendiesen
+      cjid: pisb2
+    - cjfs:
+      - comprendiere
+      - comprendieres
+      - comprendiere
+      - "comprendi\xE9remos"
+      - comprendiereis
+      - comprendieren
+      cjid: fsub
+    - cjfs:
+      - he comprendido
+      - has comprendido
+      - ha comprendido
+      - hemos comprendido
+      - "hab\xE9is comprendido"
+      - han comprendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa comprendido"
+      - "hab\xEDas comprendido"
+      - "hab\xEDa comprendido"
+      - "hab\xEDamos comprendido"
+      - "hab\xEDais comprendido"
+      - "hab\xEDan comprendido"
+      cjid: ppsi
+    - cjfs:
+      - hube comprendido
+      - hubiste comprendido
+      - hubo comprendido
+      - hubimos comprendido
+      - hubisteis comprendido
+      - hubieron comprendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 comprendido"
+      - "habr\xE1s comprendido"
+      - "habr\xE1 comprendido"
+      - habremos comprendido
+      - "habr\xE9is comprendido"
+      - "habr\xE1n comprendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa comprendido"
+      - "habr\xEDas comprendido"
+      - "habr\xEDa comprendido"
+      - "habr\xEDamos comprendido"
+      - "habr\xEDais comprendido"
+      - "habr\xEDan comprendido"
+      cjid: cpef
+    - cjfs:
+      - haya comprendido
+      - hayas comprendido
+      - haya comprendido
+      - hayamos comprendido
+      - "hay\xE1is comprendido"
+      - hayan comprendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera comprendido
+      - hubieras comprendido
+      - hubiera comprendido
+      - "hubi\xE9ramos comprendido"
+      - hubierais comprendido
+      - hubieran comprendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese comprendido
+      - hubieses comprendido
+      - hubiese comprendido
+      - "hubi\xE9semos comprendido"
+      - hubieseis comprendido
+      - hubiesen comprendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere comprendido
+      - hubieres comprendido
+      - hubiere comprendido
+      - "hubi\xE9remos comprendido"
+      - hubiereis comprendido
+      - hubieren comprendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - comprende
+      - comprenda
+      - comprendamos
+      - comprended
+      - comprendan
+      cjid: impf

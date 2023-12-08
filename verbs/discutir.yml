@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|discuss}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dispute}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|altercar||} {bc}to {a_link|argue}, to {a_link|quarrel}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: discutir
+    prs:
+    - sound:
+        audio: discu06sp
+  meta:
+    id: discutir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607683000'
+    src: spanish
+    stems:
+    - discutir
+    uuid: adc5f8f4-7bd8-41df-ba0a-e92e0c8ee1f9
+  shortdef:
+  - to discuss
+  - to dispute
+  - 'altercar : to argue, to quarrel'
+  suppl:
+    cjts:
+    - cjfs:
+      - discutiendo
+      - discutido
+      cjid: gppt
+    - cjfs:
+      - discuto
+      - discutes
+      - discute
+      - discutimos
+      - "discut\xEDs"
+      - discuten
+      cjid: pind
+    - cjfs:
+      - "discut\xEDa"
+      - "discut\xEDas"
+      - "discut\xEDa"
+      - "discut\xEDamos"
+      - "discut\xEDais"
+      - "discut\xEDan"
+      cjid: pret
+    - cjfs:
+      - "discut\xED"
+      - discutiste
+      - "discuti\xF3"
+      - discutimos
+      - discutisteis
+      - discutieron
+      cjid: pprf
+    - cjfs:
+      - "discutir\xE9"
+      - "discutir\xE1s"
+      - "discutir\xE1"
+      - discutiremos
+      - "discutir\xE9is"
+      - "discutir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "discutir\xEDa"
+      - "discutir\xEDas"
+      - "discutir\xEDa"
+      - "discutir\xEDamos"
+      - "discutir\xEDais"
+      - "discutir\xEDan"
+      cjid: cond
+    - cjfs:
+      - discuta
+      - discutas
+      - discuta
+      - discutamos
+      - "discut\xE1is"
+      - discutan
+      cjid: psub
+    - cjfs:
+      - discutiera
+      - discutieras
+      - discutiera
+      - "discuti\xE9ramos"
+      - discutierais
+      - discutieran
+      cjid: pisb1
+    - cjfs:
+      - discutiese
+      - discutieses
+      - discutiese
+      - "discuti\xE9semos"
+      - discutieseis
+      - discutiesen
+      cjid: pisb2
+    - cjfs:
+      - discutiere
+      - discutieres
+      - discutiere
+      - "discuti\xE9remos"
+      - discutiereis
+      - discutieren
+      cjid: fsub
+    - cjfs:
+      - he discutido
+      - has discutido
+      - ha discutido
+      - hemos discutido
+      - "hab\xE9is discutido"
+      - han discutido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa discutido"
+      - "hab\xEDas discutido"
+      - "hab\xEDa discutido"
+      - "hab\xEDamos discutido"
+      - "hab\xEDais discutido"
+      - "hab\xEDan discutido"
+      cjid: ppsi
+    - cjfs:
+      - hube discutido
+      - hubiste discutido
+      - hubo discutido
+      - hubimos discutido
+      - hubisteis discutido
+      - hubieron discutido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 discutido"
+      - "habr\xE1s discutido"
+      - "habr\xE1 discutido"
+      - habremos discutido
+      - "habr\xE9is discutido"
+      - "habr\xE1n discutido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa discutido"
+      - "habr\xEDas discutido"
+      - "habr\xEDa discutido"
+      - "habr\xEDamos discutido"
+      - "habr\xEDais discutido"
+      - "habr\xEDan discutido"
+      cjid: cpef
+    - cjfs:
+      - haya discutido
+      - hayas discutido
+      - haya discutido
+      - hayamos discutido
+      - "hay\xE1is discutido"
+      - hayan discutido
+      cjid: ppfs
+    - cjfs:
+      - hubiera discutido
+      - hubieras discutido
+      - hubiera discutido
+      - "hubi\xE9ramos discutido"
+      - hubierais discutido
+      - hubieran discutido
+      cjid: ppss1
+    - cjfs:
+      - hubiese discutido
+      - hubieses discutido
+      - hubiese discutido
+      - "hubi\xE9semos discutido"
+      - hubieseis discutido
+      - hubiesen discutido
+      cjid: ppss2
+    - cjfs:
+      - hubiere discutido
+      - hubieres discutido
+      - hubiere discutido
+      - "hubi\xE9remos discutido"
+      - hubiereis discutido
+      - hubieren discutido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - discute
+      - discuta
+      - discutamos
+      - discutid
+      - discutan
+      cjid: impf

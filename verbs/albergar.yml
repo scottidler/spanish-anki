@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|alojar||} {bc}to {a_link|house}, to {a_link|lodge}, to {a_link|shelter}'
+  fl: transitive verb
+  hwi:
+    hw: albergar
+    prs:
+    - sound:
+        audio: alber02sp
+  meta:
+    id: albergar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600875000'
+    src: spanish
+    stems:
+    - albergar
+    uuid: 5e5d9551-52ec-4f39-8996-2ec635020c45
+  shortdef:
+  - 'alojar : to house, to lodge, to shelter'
+  suppl:
+    cjts:
+    - cjfs:
+      - albergando
+      - albergado
+      cjid: gppt
+    - cjfs:
+      - albergo
+      - albergas
+      - alberga
+      - albergamos
+      - "alberg\xE1is"
+      - albergan
+      cjid: pind
+    - cjfs:
+      - albergaba
+      - albergabas
+      - albergaba
+      - "alberg\xE1bamos"
+      - albergabais
+      - albergaban
+      cjid: pret
+    - cjfs:
+      - "albergu\xE9"
+      - albergaste
+      - "alberg\xF3"
+      - albergamos
+      - albergasteis
+      - albergaron
+      cjid: pprf
+    - cjfs:
+      - "albergar\xE9"
+      - "albergar\xE1s"
+      - "albergar\xE1"
+      - albergaremos
+      - "albergar\xE9is"
+      - "albergar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "albergar\xEDa"
+      - "albergar\xEDas"
+      - "albergar\xEDa"
+      - "albergar\xEDamos"
+      - "albergar\xEDais"
+      - "albergar\xEDan"
+      cjid: cond
+    - cjfs:
+      - albergue
+      - albergues
+      - albergue
+      - alberguemos
+      - "albergu\xE9is"
+      - alberguen
+      cjid: psub
+    - cjfs:
+      - albergara
+      - albergaras
+      - albergara
+      - "alberg\xE1ramos"
+      - albergarais
+      - albergaran
+      cjid: pisb1
+    - cjfs:
+      - albergase
+      - albergases
+      - albergase
+      - "alberg\xE1semos"
+      - albergaseis
+      - albergasen
+      cjid: pisb2
+    - cjfs:
+      - albergare
+      - albergares
+      - albergare
+      - "alberg\xE1remos"
+      - albergareis
+      - albergaren
+      cjid: fsub
+    - cjfs:
+      - he albergado
+      - has albergado
+      - ha albergado
+      - hemos albergado
+      - "hab\xE9is albergado"
+      - han albergado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa albergado"
+      - "hab\xEDas albergado"
+      - "hab\xEDa albergado"
+      - "hab\xEDamos albergado"
+      - "hab\xEDais albergado"
+      - "hab\xEDan albergado"
+      cjid: ppsi
+    - cjfs:
+      - hube albergado
+      - hubiste albergado
+      - hubo albergado
+      - hubimos albergado
+      - hubisteis albergado
+      - hubieron albergado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 albergado"
+      - "habr\xE1s albergado"
+      - "habr\xE1 albergado"
+      - habremos albergado
+      - "habr\xE9is albergado"
+      - "habr\xE1n albergado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa albergado"
+      - "habr\xEDas albergado"
+      - "habr\xEDa albergado"
+      - "habr\xEDamos albergado"
+      - "habr\xEDais albergado"
+      - "habr\xEDan albergado"
+      cjid: cpef
+    - cjfs:
+      - haya albergado
+      - hayas albergado
+      - haya albergado
+      - hayamos albergado
+      - "hay\xE1is albergado"
+      - hayan albergado
+      cjid: ppfs
+    - cjfs:
+      - hubiera albergado
+      - hubieras albergado
+      - hubiera albergado
+      - "hubi\xE9ramos albergado"
+      - hubierais albergado
+      - hubieran albergado
+      cjid: ppss1
+    - cjfs:
+      - hubiese albergado
+      - hubieses albergado
+      - hubiese albergado
+      - "hubi\xE9semos albergado"
+      - hubieseis albergado
+      - hubiesen albergado
+      cjid: ppss2
+    - cjfs:
+      - hubiere albergado
+      - hubieres albergado
+      - hubiere albergado
+      - "hubi\xE9remos albergado"
+      - hubiereis albergado
+      - hubieren albergado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alberga
+      - albergue
+      - alberguemos
+      - albergad
+      - alberguen
+      cjid: impf

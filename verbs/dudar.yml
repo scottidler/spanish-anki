@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|doubt} '
+          - - vis
+            - - t: lo dudo mucho
+                tr: I doubt that very much
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to hesitate to '
+          - - vis
+            - - t: no dudes en pedirme ayuda
+                tr: don't hesitate to ask me for help
+          vrs:
+          - va: dudar en
+            vac: ~ en
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: dudar
+    prs:
+    - sound:
+        audio: dudar01sp
+  meta:
+    id: dudar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607968000'
+    src: spanish
+    stems:
+    - dudar
+    - dudar en
+    uuid: 96d88344-ec04-4440-90dc-b2a05364038b
+  shortdef:
+  - to doubt
+  - to hesitate to
+  suppl:
+    cjts:
+    - cjfs:
+      - dudando
+      - dudado
+      cjid: gppt
+    - cjfs:
+      - dudo
+      - dudas
+      - duda
+      - dudamos
+      - "dud\xE1is"
+      - dudan
+      cjid: pind
+    - cjfs:
+      - dudaba
+      - dudabas
+      - dudaba
+      - "dud\xE1bamos"
+      - dudabais
+      - dudaban
+      cjid: pret
+    - cjfs:
+      - "dud\xE9"
+      - dudaste
+      - "dud\xF3"
+      - dudamos
+      - dudasteis
+      - dudaron
+      cjid: pprf
+    - cjfs:
+      - "dudar\xE9"
+      - "dudar\xE1s"
+      - "dudar\xE1"
+      - dudaremos
+      - "dudar\xE9is"
+      - "dudar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dudar\xEDa"
+      - "dudar\xEDas"
+      - "dudar\xEDa"
+      - "dudar\xEDamos"
+      - "dudar\xEDais"
+      - "dudar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dude
+      - dudes
+      - dude
+      - dudemos
+      - "dud\xE9is"
+      - duden
+      cjid: psub
+    - cjfs:
+      - dudara
+      - dudaras
+      - dudara
+      - "dud\xE1ramos"
+      - dudarais
+      - dudaran
+      cjid: pisb1
+    - cjfs:
+      - dudase
+      - dudases
+      - dudase
+      - "dud\xE1semos"
+      - dudaseis
+      - dudasen
+      cjid: pisb2
+    - cjfs:
+      - dudare
+      - dudares
+      - dudare
+      - "dud\xE1remos"
+      - dudareis
+      - dudaren
+      cjid: fsub
+    - cjfs:
+      - he dudado
+      - has dudado
+      - ha dudado
+      - hemos dudado
+      - "hab\xE9is dudado"
+      - han dudado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dudado"
+      - "hab\xEDas dudado"
+      - "hab\xEDa dudado"
+      - "hab\xEDamos dudado"
+      - "hab\xEDais dudado"
+      - "hab\xEDan dudado"
+      cjid: ppsi
+    - cjfs:
+      - hube dudado
+      - hubiste dudado
+      - hubo dudado
+      - hubimos dudado
+      - hubisteis dudado
+      - hubieron dudado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dudado"
+      - "habr\xE1s dudado"
+      - "habr\xE1 dudado"
+      - habremos dudado
+      - "habr\xE9is dudado"
+      - "habr\xE1n dudado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dudado"
+      - "habr\xEDas dudado"
+      - "habr\xEDa dudado"
+      - "habr\xEDamos dudado"
+      - "habr\xEDais dudado"
+      - "habr\xEDan dudado"
+      cjid: cpef
+    - cjfs:
+      - haya dudado
+      - hayas dudado
+      - haya dudado
+      - hayamos dudado
+      - "hay\xE1is dudado"
+      - hayan dudado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dudado
+      - hubieras dudado
+      - hubiera dudado
+      - "hubi\xE9ramos dudado"
+      - hubierais dudado
+      - hubieran dudado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dudado
+      - hubieses dudado
+      - hubiese dudado
+      - "hubi\xE9semos dudado"
+      - hubieseis dudado
+      - hubiesen dudado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dudado
+      - hubieres dudado
+      - hubiere dudado
+      - "hubi\xE9remos dudado"
+      - hubiereis dudado
+      - hubieren dudado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - duda
+      - dude
+      - dudemos
+      - dudad
+      - duden
+      cjid: impf

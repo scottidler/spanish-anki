@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get}, to {a_link|obtain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|achieve}, to {a_link|attain} (a goal, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to manage to '
+          - - vis
+            - - t: "consigui\xF3 acabar"
+                tr: she managed to finish
+              - t: "consegu\xED que lo aceptara"
+                tr: I got him to accept it
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: conseguir
+    prs:
+    - sound:
+        audio: conse04sp
+  meta:
+    id: conseguir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605568000'
+    src: spanish
+    stems:
+    - conseguir
+    uuid: d6e2b9ff-0601-476d-9944-e432bd4e116f
+  shortdef:
+  - to get, to obtain
+  - to achieve, to attain (a goal, etc.)
+  - to manage to
+  suppl:
+    cjts:
+    - cjfs:
+      - consiguiendo
+      - conseguido
+      cjid: gppt
+    - cjfs:
+      - consigo
+      - consigues
+      - consigue
+      - conseguimos
+      - "consegu\xEDs"
+      - consiguen
+      cjid: pind
+    - cjfs:
+      - "consegu\xEDa"
+      - "consegu\xEDas"
+      - "consegu\xEDa"
+      - "consegu\xEDamos"
+      - "consegu\xEDais"
+      - "consegu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "consegu\xED"
+      - conseguiste
+      - "consigui\xF3"
+      - conseguimos
+      - conseguisteis
+      - consiguieron
+      cjid: pprf
+    - cjfs:
+      - "conseguir\xE9"
+      - "conseguir\xE1s"
+      - "conseguir\xE1"
+      - conseguiremos
+      - "conseguir\xE9is"
+      - "conseguir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conseguir\xEDa"
+      - "conseguir\xEDas"
+      - "conseguir\xEDa"
+      - "conseguir\xEDamos"
+      - "conseguir\xEDais"
+      - "conseguir\xEDan"
+      cjid: cond
+    - cjfs:
+      - consiga
+      - consigas
+      - consiga
+      - consigamos
+      - "consig\xE1is"
+      - consigan
+      cjid: psub
+    - cjfs:
+      - consiguiera
+      - consiguieras
+      - consiguiera
+      - "consigui\xE9ramos"
+      - consiguierais
+      - consiguieran
+      cjid: pisb1
+    - cjfs:
+      - consiguiese
+      - consiguieses
+      - consiguiese
+      - "consigui\xE9semos"
+      - consiguieseis
+      - consiguiesen
+      cjid: pisb2
+    - cjfs:
+      - consiguiere
+      - consiguieres
+      - consiguiere
+      - "consigui\xE9remos"
+      - consiguiereis
+      - consiguieren
+      cjid: fsub
+    - cjfs:
+      - he conseguido
+      - has conseguido
+      - ha conseguido
+      - hemos conseguido
+      - "hab\xE9is conseguido"
+      - han conseguido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conseguido"
+      - "hab\xEDas conseguido"
+      - "hab\xEDa conseguido"
+      - "hab\xEDamos conseguido"
+      - "hab\xEDais conseguido"
+      - "hab\xEDan conseguido"
+      cjid: ppsi
+    - cjfs:
+      - hube conseguido
+      - hubiste conseguido
+      - hubo conseguido
+      - hubimos conseguido
+      - hubisteis conseguido
+      - hubieron conseguido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conseguido"
+      - "habr\xE1s conseguido"
+      - "habr\xE1 conseguido"
+      - habremos conseguido
+      - "habr\xE9is conseguido"
+      - "habr\xE1n conseguido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conseguido"
+      - "habr\xEDas conseguido"
+      - "habr\xEDa conseguido"
+      - "habr\xEDamos conseguido"
+      - "habr\xEDais conseguido"
+      - "habr\xEDan conseguido"
+      cjid: cpef
+    - cjfs:
+      - haya conseguido
+      - hayas conseguido
+      - haya conseguido
+      - hayamos conseguido
+      - "hay\xE1is conseguido"
+      - hayan conseguido
+      cjid: ppfs
+    - cjfs:
+      - hubiera conseguido
+      - hubieras conseguido
+      - hubiera conseguido
+      - "hubi\xE9ramos conseguido"
+      - hubierais conseguido
+      - hubieran conseguido
+      cjid: ppss1
+    - cjfs:
+      - hubiese conseguido
+      - hubieses conseguido
+      - hubiese conseguido
+      - "hubi\xE9semos conseguido"
+      - hubieseis conseguido
+      - hubiesen conseguido
+      cjid: ppss2
+    - cjfs:
+      - hubiere conseguido
+      - hubieres conseguido
+      - hubiere conseguido
+      - "hubi\xE9remos conseguido"
+      - hubiereis conseguido
+      - hubieren conseguido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - consigue
+      - consiga
+      - consigamos
+      - conseguid
+      - consigan
+      cjid: impf

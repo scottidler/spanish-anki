@@ -1,0 +1,213 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cut}, to {a_link|reduce}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cut out}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trim}, to {a_link|cut off}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|outline}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stand out} '
+            - - vis
+              - - t: "los \xE1rboles se recortaban en el horizonte"
+                  tr: the trees were silhouetted against the horizon
+    drp: recortarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: recortar
+    prs:
+    - sound:
+        audio: recor06sp
+  meta:
+    id: recortar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619042000'
+    src: spanish
+    stems:
+    - recortar
+    - recortarse
+    uuid: a8451ab1-dab2-41ed-bcf2-5f2830150c9f
+  shortdef:
+  - to cut, to reduce
+  - to cut out
+  - to trim, to cut off
+  suppl:
+    cjts:
+    - cjfs:
+      - recortando
+      - recortado
+      cjid: gppt
+    - cjfs:
+      - recorto
+      - recortas
+      - recorta
+      - recortamos
+      - "recort\xE1is"
+      - recortan
+      cjid: pind
+    - cjfs:
+      - recortaba
+      - recortabas
+      - recortaba
+      - "recort\xE1bamos"
+      - recortabais
+      - recortaban
+      cjid: pret
+    - cjfs:
+      - "recort\xE9"
+      - recortaste
+      - "recort\xF3"
+      - recortamos
+      - recortasteis
+      - recortaron
+      cjid: pprf
+    - cjfs:
+      - "recortar\xE9"
+      - "recortar\xE1s"
+      - "recortar\xE1"
+      - recortaremos
+      - "recortar\xE9is"
+      - "recortar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recortar\xEDa"
+      - "recortar\xEDas"
+      - "recortar\xEDa"
+      - "recortar\xEDamos"
+      - "recortar\xEDais"
+      - "recortar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recorte
+      - recortes
+      - recorte
+      - recortemos
+      - "recort\xE9is"
+      - recorten
+      cjid: psub
+    - cjfs:
+      - recortara
+      - recortaras
+      - recortara
+      - "recort\xE1ramos"
+      - recortarais
+      - recortaran
+      cjid: pisb1
+    - cjfs:
+      - recortase
+      - recortases
+      - recortase
+      - "recort\xE1semos"
+      - recortaseis
+      - recortasen
+      cjid: pisb2
+    - cjfs:
+      - recortare
+      - recortares
+      - recortare
+      - "recort\xE1remos"
+      - recortareis
+      - recortaren
+      cjid: fsub
+    - cjfs:
+      - he recortado
+      - has recortado
+      - ha recortado
+      - hemos recortado
+      - "hab\xE9is recortado"
+      - han recortado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recortado"
+      - "hab\xEDas recortado"
+      - "hab\xEDa recortado"
+      - "hab\xEDamos recortado"
+      - "hab\xEDais recortado"
+      - "hab\xEDan recortado"
+      cjid: ppsi
+    - cjfs:
+      - hube recortado
+      - hubiste recortado
+      - hubo recortado
+      - hubimos recortado
+      - hubisteis recortado
+      - hubieron recortado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recortado"
+      - "habr\xE1s recortado"
+      - "habr\xE1 recortado"
+      - habremos recortado
+      - "habr\xE9is recortado"
+      - "habr\xE1n recortado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recortado"
+      - "habr\xEDas recortado"
+      - "habr\xEDa recortado"
+      - "habr\xEDamos recortado"
+      - "habr\xEDais recortado"
+      - "habr\xEDan recortado"
+      cjid: cpef
+    - cjfs:
+      - haya recortado
+      - hayas recortado
+      - haya recortado
+      - hayamos recortado
+      - "hay\xE1is recortado"
+      - hayan recortado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recortado
+      - hubieras recortado
+      - hubiera recortado
+      - "hubi\xE9ramos recortado"
+      - hubierais recortado
+      - hubieran recortado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recortado
+      - hubieses recortado
+      - hubiese recortado
+      - "hubi\xE9semos recortado"
+      - hubieseis recortado
+      - hubiesen recortado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recortado
+      - hubieres recortado
+      - hubiere recortado
+      - "hubi\xE9remos recortado"
+      - hubiereis recortado
+      - hubieren recortado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recorta
+      - recorte
+      - recortemos
+      - recortad
+      - recorten
+      cjid: impf

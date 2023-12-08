@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|unroll}, to {a_link|unwind}'
+  fl: transitive verb
+  hwi:
+    hw: desenrollar
+  meta:
+    id: desenrollar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607045000'
+    src: spanish
+    stems:
+    - desenrollar
+    uuid: 5ac57245-3da1-4674-b26b-6654921b0a63
+  shortdef:
+  - to unroll, to unwind
+  suppl:
+    cjts:
+    - cjfs:
+      - desenrollando
+      - desenrollado
+      cjid: gppt
+    - cjfs:
+      - desenrollo
+      - desenrollas
+      - desenrolla
+      - desenrollamos
+      - "desenroll\xE1is"
+      - desenrollan
+      cjid: pind
+    - cjfs:
+      - desenrollaba
+      - desenrollabas
+      - desenrollaba
+      - "desenroll\xE1bamos"
+      - desenrollabais
+      - desenrollaban
+      cjid: pret
+    - cjfs:
+      - "desenroll\xE9"
+      - desenrollaste
+      - "desenroll\xF3"
+      - desenrollamos
+      - desenrollasteis
+      - desenrollaron
+      cjid: pprf
+    - cjfs:
+      - "desenrollar\xE9"
+      - "desenrollar\xE1s"
+      - "desenrollar\xE1"
+      - desenrollaremos
+      - "desenrollar\xE9is"
+      - "desenrollar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desenrollar\xEDa"
+      - "desenrollar\xEDas"
+      - "desenrollar\xEDa"
+      - "desenrollar\xEDamos"
+      - "desenrollar\xEDais"
+      - "desenrollar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desenrolle
+      - desenrolles
+      - desenrolle
+      - desenrollemos
+      - "desenroll\xE9is"
+      - desenrollen
+      cjid: psub
+    - cjfs:
+      - desenrollara
+      - desenrollaras
+      - desenrollara
+      - "desenroll\xE1ramos"
+      - desenrollarais
+      - desenrollaran
+      cjid: pisb1
+    - cjfs:
+      - desenrollase
+      - desenrollases
+      - desenrollase
+      - "desenroll\xE1semos"
+      - desenrollaseis
+      - desenrollasen
+      cjid: pisb2
+    - cjfs:
+      - desenrollare
+      - desenrollares
+      - desenrollare
+      - "desenroll\xE1remos"
+      - desenrollareis
+      - desenrollaren
+      cjid: fsub
+    - cjfs:
+      - he desenrollado
+      - has desenrollado
+      - ha desenrollado
+      - hemos desenrollado
+      - "hab\xE9is desenrollado"
+      - han desenrollado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desenrollado"
+      - "hab\xEDas desenrollado"
+      - "hab\xEDa desenrollado"
+      - "hab\xEDamos desenrollado"
+      - "hab\xEDais desenrollado"
+      - "hab\xEDan desenrollado"
+      cjid: ppsi
+    - cjfs:
+      - hube desenrollado
+      - hubiste desenrollado
+      - hubo desenrollado
+      - hubimos desenrollado
+      - hubisteis desenrollado
+      - hubieron desenrollado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desenrollado"
+      - "habr\xE1s desenrollado"
+      - "habr\xE1 desenrollado"
+      - habremos desenrollado
+      - "habr\xE9is desenrollado"
+      - "habr\xE1n desenrollado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desenrollado"
+      - "habr\xEDas desenrollado"
+      - "habr\xEDa desenrollado"
+      - "habr\xEDamos desenrollado"
+      - "habr\xEDais desenrollado"
+      - "habr\xEDan desenrollado"
+      cjid: cpef
+    - cjfs:
+      - haya desenrollado
+      - hayas desenrollado
+      - haya desenrollado
+      - hayamos desenrollado
+      - "hay\xE1is desenrollado"
+      - hayan desenrollado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desenrollado
+      - hubieras desenrollado
+      - hubiera desenrollado
+      - "hubi\xE9ramos desenrollado"
+      - hubierais desenrollado
+      - hubieran desenrollado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desenrollado
+      - hubieses desenrollado
+      - hubiese desenrollado
+      - "hubi\xE9semos desenrollado"
+      - hubieseis desenrollado
+      - hubiesen desenrollado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desenrollado
+      - hubieres desenrollado
+      - hubiere desenrollado
+      - "hubi\xE9remos desenrollado"
+      - hubiereis desenrollado
+      - hubieren desenrollado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desenrolla
+      - desenrolle
+      - desenrollemos
+      - desenrollad
+      - desenrollen
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|question}'
+  fl: transitive verb
+  hwi:
+    hw: cuestionar
+    prs:
+    - sound:
+        audio: cuest04sp
+  meta:
+    id: cuestionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606319000'
+    src: spanish
+    stems:
+    - cuestionar
+    uuid: 49de9239-e89c-4178-bca0-ca235556518a
+  shortdef:
+  - to question
+  suppl:
+    cjts:
+    - cjfs:
+      - cuestionando
+      - cuestionado
+      cjid: gppt
+    - cjfs:
+      - cuestiono
+      - cuestionas
+      - cuestiona
+      - cuestionamos
+      - "cuestion\xE1is"
+      - cuestionan
+      cjid: pind
+    - cjfs:
+      - cuestionaba
+      - cuestionabas
+      - cuestionaba
+      - "cuestion\xE1bamos"
+      - cuestionabais
+      - cuestionaban
+      cjid: pret
+    - cjfs:
+      - "cuestion\xE9"
+      - cuestionaste
+      - "cuestion\xF3"
+      - cuestionamos
+      - cuestionasteis
+      - cuestionaron
+      cjid: pprf
+    - cjfs:
+      - "cuestionar\xE9"
+      - "cuestionar\xE1s"
+      - "cuestionar\xE1"
+      - cuestionaremos
+      - "cuestionar\xE9is"
+      - "cuestionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cuestionar\xEDa"
+      - "cuestionar\xEDas"
+      - "cuestionar\xEDa"
+      - "cuestionar\xEDamos"
+      - "cuestionar\xEDais"
+      - "cuestionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cuestione
+      - cuestiones
+      - cuestione
+      - cuestionemos
+      - "cuestion\xE9is"
+      - cuestionen
+      cjid: psub
+    - cjfs:
+      - cuestionara
+      - cuestionaras
+      - cuestionara
+      - "cuestion\xE1ramos"
+      - cuestionarais
+      - cuestionaran
+      cjid: pisb1
+    - cjfs:
+      - cuestionase
+      - cuestionases
+      - cuestionase
+      - "cuestion\xE1semos"
+      - cuestionaseis
+      - cuestionasen
+      cjid: pisb2
+    - cjfs:
+      - cuestionare
+      - cuestionares
+      - cuestionare
+      - "cuestion\xE1remos"
+      - cuestionareis
+      - cuestionaren
+      cjid: fsub
+    - cjfs:
+      - he cuestionado
+      - has cuestionado
+      - ha cuestionado
+      - hemos cuestionado
+      - "hab\xE9is cuestionado"
+      - han cuestionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cuestionado"
+      - "hab\xEDas cuestionado"
+      - "hab\xEDa cuestionado"
+      - "hab\xEDamos cuestionado"
+      - "hab\xEDais cuestionado"
+      - "hab\xEDan cuestionado"
+      cjid: ppsi
+    - cjfs:
+      - hube cuestionado
+      - hubiste cuestionado
+      - hubo cuestionado
+      - hubimos cuestionado
+      - hubisteis cuestionado
+      - hubieron cuestionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cuestionado"
+      - "habr\xE1s cuestionado"
+      - "habr\xE1 cuestionado"
+      - habremos cuestionado
+      - "habr\xE9is cuestionado"
+      - "habr\xE1n cuestionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cuestionado"
+      - "habr\xEDas cuestionado"
+      - "habr\xEDa cuestionado"
+      - "habr\xEDamos cuestionado"
+      - "habr\xEDais cuestionado"
+      - "habr\xEDan cuestionado"
+      cjid: cpef
+    - cjfs:
+      - haya cuestionado
+      - hayas cuestionado
+      - haya cuestionado
+      - hayamos cuestionado
+      - "hay\xE1is cuestionado"
+      - hayan cuestionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cuestionado
+      - hubieras cuestionado
+      - hubiera cuestionado
+      - "hubi\xE9ramos cuestionado"
+      - hubierais cuestionado
+      - hubieran cuestionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cuestionado
+      - hubieses cuestionado
+      - hubiese cuestionado
+      - "hubi\xE9semos cuestionado"
+      - hubieseis cuestionado
+      - hubiesen cuestionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cuestionado
+      - hubieres cuestionado
+      - hubiere cuestionado
+      - "hubi\xE9remos cuestionado"
+      - hubiereis cuestionado
+      - hubieren cuestionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cuestiona
+      - cuestione
+      - cuestionemos
+      - cuestionad
+      - cuestionen
+      cjid: impf

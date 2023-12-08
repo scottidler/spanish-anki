@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|overcome}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|subir||} {bc}to {a_link|go up}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|soar}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to date from, to go back to'
+            sn: '2'
+            vrs:
+            - va: remontarse a
+              vac: ~ a
+    drp: remontarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: remontar
+    prs:
+    - sound:
+        audio: remon01sp
+  meta:
+    id: remontar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619366000'
+    src: spanish
+    stems:
+    - remontar
+    - remontarse
+    - remontarse a
+    uuid: f8a667e4-166e-4697-b130-2681eb8ee804
+  shortdef:
+  - to overcome
+  - 'subir : to go up'
+  suppl:
+    cjts:
+    - cjfs:
+      - remontando
+      - remontado
+      cjid: gppt
+    - cjfs:
+      - remonto
+      - remontas
+      - remonta
+      - remontamos
+      - "remont\xE1is"
+      - remontan
+      cjid: pind
+    - cjfs:
+      - remontaba
+      - remontabas
+      - remontaba
+      - "remont\xE1bamos"
+      - remontabais
+      - remontaban
+      cjid: pret
+    - cjfs:
+      - "remont\xE9"
+      - remontaste
+      - "remont\xF3"
+      - remontamos
+      - remontasteis
+      - remontaron
+      cjid: pprf
+    - cjfs:
+      - "remontar\xE9"
+      - "remontar\xE1s"
+      - "remontar\xE1"
+      - remontaremos
+      - "remontar\xE9is"
+      - "remontar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "remontar\xEDa"
+      - "remontar\xEDas"
+      - "remontar\xEDa"
+      - "remontar\xEDamos"
+      - "remontar\xEDais"
+      - "remontar\xEDan"
+      cjid: cond
+    - cjfs:
+      - remonte
+      - remontes
+      - remonte
+      - remontemos
+      - "remont\xE9is"
+      - remonten
+      cjid: psub
+    - cjfs:
+      - remontara
+      - remontaras
+      - remontara
+      - "remont\xE1ramos"
+      - remontarais
+      - remontaran
+      cjid: pisb1
+    - cjfs:
+      - remontase
+      - remontases
+      - remontase
+      - "remont\xE1semos"
+      - remontaseis
+      - remontasen
+      cjid: pisb2
+    - cjfs:
+      - remontare
+      - remontares
+      - remontare
+      - "remont\xE1remos"
+      - remontareis
+      - remontaren
+      cjid: fsub
+    - cjfs:
+      - he remontado
+      - has remontado
+      - ha remontado
+      - hemos remontado
+      - "hab\xE9is remontado"
+      - han remontado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa remontado"
+      - "hab\xEDas remontado"
+      - "hab\xEDa remontado"
+      - "hab\xEDamos remontado"
+      - "hab\xEDais remontado"
+      - "hab\xEDan remontado"
+      cjid: ppsi
+    - cjfs:
+      - hube remontado
+      - hubiste remontado
+      - hubo remontado
+      - hubimos remontado
+      - hubisteis remontado
+      - hubieron remontado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 remontado"
+      - "habr\xE1s remontado"
+      - "habr\xE1 remontado"
+      - habremos remontado
+      - "habr\xE9is remontado"
+      - "habr\xE1n remontado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa remontado"
+      - "habr\xEDas remontado"
+      - "habr\xEDa remontado"
+      - "habr\xEDamos remontado"
+      - "habr\xEDais remontado"
+      - "habr\xEDan remontado"
+      cjid: cpef
+    - cjfs:
+      - haya remontado
+      - hayas remontado
+      - haya remontado
+      - hayamos remontado
+      - "hay\xE1is remontado"
+      - hayan remontado
+      cjid: ppfs
+    - cjfs:
+      - hubiera remontado
+      - hubieras remontado
+      - hubiera remontado
+      - "hubi\xE9ramos remontado"
+      - hubierais remontado
+      - hubieran remontado
+      cjid: ppss1
+    - cjfs:
+      - hubiese remontado
+      - hubieses remontado
+      - hubiese remontado
+      - "hubi\xE9semos remontado"
+      - hubieseis remontado
+      - hubiesen remontado
+      cjid: ppss2
+    - cjfs:
+      - hubiere remontado
+      - hubieres remontado
+      - hubiere remontado
+      - "hubi\xE9remos remontado"
+      - hubiereis remontado
+      - hubieren remontado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - remonta
+      - remonte
+      - remontemos
+      - remontad
+      - remonten
+      cjid: impf

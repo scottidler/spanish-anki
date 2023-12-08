@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|express}'
+  fl: transitive verb
+  hwi:
+    hw: expresar
+    prs:
+    - sound:
+        audio: expre01sp
+  meta:
+    id: expresar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609713000'
+    src: spanish
+    stems:
+    - expresar
+    - expresarse
+    uuid: dfde9218-cccc-4076-9422-d660c4c02134
+  shortdef:
+  - to express
+  suppl:
+    cjts:
+    - cjfs:
+      - expresando
+      - expresado
+      cjid: gppt
+    - cjfs:
+      - expreso
+      - expresas
+      - expresa
+      - expresamos
+      - "expres\xE1is"
+      - expresan
+      cjid: pind
+    - cjfs:
+      - expresaba
+      - expresabas
+      - expresaba
+      - "expres\xE1bamos"
+      - expresabais
+      - expresaban
+      cjid: pret
+    - cjfs:
+      - "expres\xE9"
+      - expresaste
+      - "expres\xF3"
+      - expresamos
+      - expresasteis
+      - expresaron
+      cjid: pprf
+    - cjfs:
+      - "expresar\xE9"
+      - "expresar\xE1s"
+      - "expresar\xE1"
+      - expresaremos
+      - "expresar\xE9is"
+      - "expresar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "expresar\xEDa"
+      - "expresar\xEDas"
+      - "expresar\xEDa"
+      - "expresar\xEDamos"
+      - "expresar\xEDais"
+      - "expresar\xEDan"
+      cjid: cond
+    - cjfs:
+      - exprese
+      - expreses
+      - exprese
+      - expresemos
+      - "expres\xE9is"
+      - expresen
+      cjid: psub
+    - cjfs:
+      - expresara
+      - expresaras
+      - expresara
+      - "expres\xE1ramos"
+      - expresarais
+      - expresaran
+      cjid: pisb1
+    - cjfs:
+      - expresase
+      - expresases
+      - expresase
+      - "expres\xE1semos"
+      - expresaseis
+      - expresasen
+      cjid: pisb2
+    - cjfs:
+      - expresare
+      - expresares
+      - expresare
+      - "expres\xE1remos"
+      - expresareis
+      - expresaren
+      cjid: fsub
+    - cjfs:
+      - he expresado
+      - has expresado
+      - ha expresado
+      - hemos expresado
+      - "hab\xE9is expresado"
+      - han expresado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa expresado"
+      - "hab\xEDas expresado"
+      - "hab\xEDa expresado"
+      - "hab\xEDamos expresado"
+      - "hab\xEDais expresado"
+      - "hab\xEDan expresado"
+      cjid: ppsi
+    - cjfs:
+      - hube expresado
+      - hubiste expresado
+      - hubo expresado
+      - hubimos expresado
+      - hubisteis expresado
+      - hubieron expresado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 expresado"
+      - "habr\xE1s expresado"
+      - "habr\xE1 expresado"
+      - habremos expresado
+      - "habr\xE9is expresado"
+      - "habr\xE1n expresado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa expresado"
+      - "habr\xEDas expresado"
+      - "habr\xEDa expresado"
+      - "habr\xEDamos expresado"
+      - "habr\xEDais expresado"
+      - "habr\xEDan expresado"
+      cjid: cpef
+    - cjfs:
+      - haya expresado
+      - hayas expresado
+      - haya expresado
+      - hayamos expresado
+      - "hay\xE1is expresado"
+      - hayan expresado
+      cjid: ppfs
+    - cjfs:
+      - hubiera expresado
+      - hubieras expresado
+      - hubiera expresado
+      - "hubi\xE9ramos expresado"
+      - hubierais expresado
+      - hubieran expresado
+      cjid: ppss1
+    - cjfs:
+      - hubiese expresado
+      - hubieses expresado
+      - hubiese expresado
+      - "hubi\xE9semos expresado"
+      - hubieseis expresado
+      - hubiesen expresado
+      cjid: ppss2
+    - cjfs:
+      - hubiere expresado
+      - hubieres expresado
+      - hubiere expresado
+      - "hubi\xE9remos expresado"
+      - hubiereis expresado
+      - hubieren expresado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - expresa
+      - exprese
+      - expresemos
+      - expresad
+      - expresen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: expresarse

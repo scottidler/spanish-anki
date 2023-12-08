@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|comment on}, to {a_link|discuss}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mention}, to {a_link|remark}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: comentar
+    prs:
+    - sound:
+        audio: comen02sp
+  meta:
+    id: comentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605161000'
+    src: spanish
+    stems:
+    - comentar
+    uuid: c4eb2e83-4f34-4d4f-b7f4-f71ee24b5863
+  shortdef:
+  - to comment on, to discuss
+  - to mention, to remark
+  suppl:
+    cjts:
+    - cjfs:
+      - comentando
+      - comentado
+      cjid: gppt
+    - cjfs:
+      - comento
+      - comentas
+      - comenta
+      - comentamos
+      - "coment\xE1is"
+      - comentan
+      cjid: pind
+    - cjfs:
+      - comentaba
+      - comentabas
+      - comentaba
+      - "coment\xE1bamos"
+      - comentabais
+      - comentaban
+      cjid: pret
+    - cjfs:
+      - "coment\xE9"
+      - comentaste
+      - "coment\xF3"
+      - comentamos
+      - comentasteis
+      - comentaron
+      cjid: pprf
+    - cjfs:
+      - "comentar\xE9"
+      - "comentar\xE1s"
+      - "comentar\xE1"
+      - comentaremos
+      - "comentar\xE9is"
+      - "comentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "comentar\xEDa"
+      - "comentar\xEDas"
+      - "comentar\xEDa"
+      - "comentar\xEDamos"
+      - "comentar\xEDais"
+      - "comentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - comente
+      - comentes
+      - comente
+      - comentemos
+      - "coment\xE9is"
+      - comenten
+      cjid: psub
+    - cjfs:
+      - comentara
+      - comentaras
+      - comentara
+      - "coment\xE1ramos"
+      - comentarais
+      - comentaran
+      cjid: pisb1
+    - cjfs:
+      - comentase
+      - comentases
+      - comentase
+      - "coment\xE1semos"
+      - comentaseis
+      - comentasen
+      cjid: pisb2
+    - cjfs:
+      - comentare
+      - comentares
+      - comentare
+      - "coment\xE1remos"
+      - comentareis
+      - comentaren
+      cjid: fsub
+    - cjfs:
+      - he comentado
+      - has comentado
+      - ha comentado
+      - hemos comentado
+      - "hab\xE9is comentado"
+      - han comentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa comentado"
+      - "hab\xEDas comentado"
+      - "hab\xEDa comentado"
+      - "hab\xEDamos comentado"
+      - "hab\xEDais comentado"
+      - "hab\xEDan comentado"
+      cjid: ppsi
+    - cjfs:
+      - hube comentado
+      - hubiste comentado
+      - hubo comentado
+      - hubimos comentado
+      - hubisteis comentado
+      - hubieron comentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 comentado"
+      - "habr\xE1s comentado"
+      - "habr\xE1 comentado"
+      - habremos comentado
+      - "habr\xE9is comentado"
+      - "habr\xE1n comentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa comentado"
+      - "habr\xEDas comentado"
+      - "habr\xEDa comentado"
+      - "habr\xEDamos comentado"
+      - "habr\xEDais comentado"
+      - "habr\xEDan comentado"
+      cjid: cpef
+    - cjfs:
+      - haya comentado
+      - hayas comentado
+      - haya comentado
+      - hayamos comentado
+      - "hay\xE1is comentado"
+      - hayan comentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera comentado
+      - hubieras comentado
+      - hubiera comentado
+      - "hubi\xE9ramos comentado"
+      - hubierais comentado
+      - hubieran comentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese comentado
+      - hubieses comentado
+      - hubiese comentado
+      - "hubi\xE9semos comentado"
+      - hubieseis comentado
+      - hubiesen comentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere comentado
+      - hubieres comentado
+      - hubiere comentado
+      - "hubi\xE9remos comentado"
+      - hubiereis comentado
+      - hubieren comentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - comenta
+      - comente
+      - comentemos
+      - comentad
+      - comenten
+      cjid: impf

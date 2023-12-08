@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|long for}, to yearn for'
+  fl: transitive verb
+  hwi:
+    hw: ansiar
+    prs:
+    - sound:
+        audio: ansia02sp
+  meta:
+    id: ansiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601465000'
+    src: spanish
+    stems:
+    - ansiar
+    uuid: efeb8176-a94a-47f5-91ee-20974775e1dd
+  shortdef:
+  - to long for, to yearn for
+  suppl:
+    cjts:
+    - cjfs:
+      - ansiando
+      - ansiado
+      cjid: gppt
+    - cjfs:
+      - "ans\xEDo"
+      - "ans\xEDas"
+      - "ans\xEDa"
+      - ansiamos
+      - "ansi\xE1is"
+      - "ans\xEDan"
+      cjid: pind
+    - cjfs:
+      - ansiaba
+      - ansiabas
+      - ansiaba
+      - "ansi\xE1bamos"
+      - ansiabais
+      - ansiaban
+      cjid: pret
+    - cjfs:
+      - "ansi\xE9"
+      - ansiaste
+      - "ansi\xF3"
+      - ansiamos
+      - ansiasteis
+      - ansiaron
+      cjid: pprf
+    - cjfs:
+      - "ansiar\xE9"
+      - "ansiar\xE1s"
+      - "ansiar\xE1"
+      - ansiaremos
+      - "ansiar\xE9is"
+      - "ansiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ansiar\xEDa"
+      - "ansiar\xEDas"
+      - "ansiar\xEDa"
+      - "ansiar\xEDamos"
+      - "ansiar\xEDais"
+      - "ansiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ans\xEDe"
+      - "ans\xEDes"
+      - "ans\xEDe"
+      - ansiemos
+      - "ansi\xE9is"
+      - "ans\xEDen"
+      cjid: psub
+    - cjfs:
+      - ansiara
+      - ansiaras
+      - ansiara
+      - "ansi\xE1ramos"
+      - ansiarais
+      - ansiaran
+      cjid: pisb1
+    - cjfs:
+      - ansiase
+      - ansiases
+      - ansiase
+      - "ansi\xE1semos"
+      - ansiaseis
+      - ansiasen
+      cjid: pisb2
+    - cjfs:
+      - ansiare
+      - ansiares
+      - ansiare
+      - "ansi\xE1remos"
+      - ansiareis
+      - ansiaren
+      cjid: fsub
+    - cjfs:
+      - he ansiado
+      - has ansiado
+      - ha ansiado
+      - hemos ansiado
+      - "hab\xE9is ansiado"
+      - han ansiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ansiado"
+      - "hab\xEDas ansiado"
+      - "hab\xEDa ansiado"
+      - "hab\xEDamos ansiado"
+      - "hab\xEDais ansiado"
+      - "hab\xEDan ansiado"
+      cjid: ppsi
+    - cjfs:
+      - hube ansiado
+      - hubiste ansiado
+      - hubo ansiado
+      - hubimos ansiado
+      - hubisteis ansiado
+      - hubieron ansiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ansiado"
+      - "habr\xE1s ansiado"
+      - "habr\xE1 ansiado"
+      - habremos ansiado
+      - "habr\xE9is ansiado"
+      - "habr\xE1n ansiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ansiado"
+      - "habr\xEDas ansiado"
+      - "habr\xEDa ansiado"
+      - "habr\xEDamos ansiado"
+      - "habr\xEDais ansiado"
+      - "habr\xEDan ansiado"
+      cjid: cpef
+    - cjfs:
+      - haya ansiado
+      - hayas ansiado
+      - haya ansiado
+      - hayamos ansiado
+      - "hay\xE1is ansiado"
+      - hayan ansiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ansiado
+      - hubieras ansiado
+      - hubiera ansiado
+      - "hubi\xE9ramos ansiado"
+      - hubierais ansiado
+      - hubieran ansiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ansiado
+      - hubieses ansiado
+      - hubiese ansiado
+      - "hubi\xE9semos ansiado"
+      - hubieseis ansiado
+      - hubiesen ansiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ansiado
+      - hubieres ansiado
+      - hubiere ansiado
+      - "hubi\xE9remos ansiado"
+      - hubiereis ansiado
+      - hubieren ansiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ans\xEDa"
+      - "ans\xEDe"
+      - ansiemos
+      - ansiad
+      - "ans\xEDen"
+      cjid: impf

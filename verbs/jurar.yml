@@ -1,0 +1,214 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|swear} '
+          - - vis
+            - - t: jurar lealtad
+                tr: to swear loyalty
+              - t: jurar bandera
+                tr: to pledge allegiance to the flag
+              - t: "no lo sab\xEDa, \xA1te lo juro!"
+                tr: I swear I didn't know!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take an oath '
+          - - vis
+            - - t: "el alcalde jur\xF3 su cargo"
+                tr: the mayor took the oath of office
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have it in for someone'
+          sn: '3'
+          vrs:
+          - va: "ten\xE9rsela jurada a alguien"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|curse}, to {a_link|swear}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: jurar
+    prs:
+    - sound:
+        audio: jurar01sp
+  meta:
+    id: jurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613318000'
+    src: spanish
+    stems:
+    - jurar
+    - tenersela jurada a alguien
+    uuid: 5fe8dc4b-5230-4b96-8710-b23f44f8bd15
+  shortdef:
+  - to swear
+  - to take an oath
+  - to have it in for someone
+  suppl:
+    cjts:
+    - cjfs:
+      - jurando
+      - jurado
+      cjid: gppt
+    - cjfs:
+      - juro
+      - juras
+      - jura
+      - juramos
+      - "jur\xE1is"
+      - juran
+      cjid: pind
+    - cjfs:
+      - juraba
+      - jurabas
+      - juraba
+      - "jur\xE1bamos"
+      - jurabais
+      - juraban
+      cjid: pret
+    - cjfs:
+      - "jur\xE9"
+      - juraste
+      - "jur\xF3"
+      - juramos
+      - jurasteis
+      - juraron
+      cjid: pprf
+    - cjfs:
+      - "jurar\xE9"
+      - "jurar\xE1s"
+      - "jurar\xE1"
+      - juraremos
+      - "jurar\xE9is"
+      - "jurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "jurar\xEDa"
+      - "jurar\xEDas"
+      - "jurar\xEDa"
+      - "jurar\xEDamos"
+      - "jurar\xEDais"
+      - "jurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - jure
+      - jures
+      - jure
+      - juremos
+      - "jur\xE9is"
+      - juren
+      cjid: psub
+    - cjfs:
+      - jurara
+      - juraras
+      - jurara
+      - "jur\xE1ramos"
+      - jurarais
+      - juraran
+      cjid: pisb1
+    - cjfs:
+      - jurase
+      - jurases
+      - jurase
+      - "jur\xE1semos"
+      - juraseis
+      - jurasen
+      cjid: pisb2
+    - cjfs:
+      - jurare
+      - jurares
+      - jurare
+      - "jur\xE1remos"
+      - jurareis
+      - juraren
+      cjid: fsub
+    - cjfs:
+      - he jurado
+      - has jurado
+      - ha jurado
+      - hemos jurado
+      - "hab\xE9is jurado"
+      - han jurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa jurado"
+      - "hab\xEDas jurado"
+      - "hab\xEDa jurado"
+      - "hab\xEDamos jurado"
+      - "hab\xEDais jurado"
+      - "hab\xEDan jurado"
+      cjid: ppsi
+    - cjfs:
+      - hube jurado
+      - hubiste jurado
+      - hubo jurado
+      - hubimos jurado
+      - hubisteis jurado
+      - hubieron jurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 jurado"
+      - "habr\xE1s jurado"
+      - "habr\xE1 jurado"
+      - habremos jurado
+      - "habr\xE9is jurado"
+      - "habr\xE1n jurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa jurado"
+      - "habr\xEDas jurado"
+      - "habr\xEDa jurado"
+      - "habr\xEDamos jurado"
+      - "habr\xEDais jurado"
+      - "habr\xEDan jurado"
+      cjid: cpef
+    - cjfs:
+      - haya jurado
+      - hayas jurado
+      - haya jurado
+      - hayamos jurado
+      - "hay\xE1is jurado"
+      - hayan jurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera jurado
+      - hubieras jurado
+      - hubiera jurado
+      - "hubi\xE9ramos jurado"
+      - hubierais jurado
+      - hubieran jurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese jurado
+      - hubieses jurado
+      - hubiese jurado
+      - "hubi\xE9semos jurado"
+      - hubieseis jurado
+      - hubiesen jurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere jurado
+      - hubieres jurado
+      - hubiere jurado
+      - "hubi\xE9remos jurado"
+      - hubiereis jurado
+      - hubieren jurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - jura
+      - jure
+      - juremos
+      - jurad
+      - juren
+      cjid: impf

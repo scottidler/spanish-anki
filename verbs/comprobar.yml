@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|verify}, to {a_link|check}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prove}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: comprobar
+    prs:
+    - sound:
+        audio: compr11sp
+  meta:
+    id: comprobar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605300000'
+    src: spanish
+    stems:
+    - comprobar
+    uuid: a58d651a-c81e-47ad-865e-522d99db41e1
+  shortdef:
+  - to verify, to check
+  - to prove
+  suppl:
+    cjts:
+    - cjfs:
+      - comprobando
+      - comprobado
+      cjid: gppt
+    - cjfs:
+      - compruebo
+      - compruebas
+      - comprueba
+      - comprobamos
+      - "comprob\xE1is"
+      - comprueban
+      cjid: pind
+    - cjfs:
+      - comprobaba
+      - comprobabas
+      - comprobaba
+      - "comprob\xE1bamos"
+      - comprobabais
+      - comprobaban
+      cjid: pret
+    - cjfs:
+      - "comprob\xE9"
+      - comprobaste
+      - "comprob\xF3"
+      - comprobamos
+      - comprobasteis
+      - comprobaron
+      cjid: pprf
+    - cjfs:
+      - "comprobar\xE9"
+      - "comprobar\xE1s"
+      - "comprobar\xE1"
+      - comprobaremos
+      - "comprobar\xE9is"
+      - "comprobar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "comprobar\xEDa"
+      - "comprobar\xEDas"
+      - "comprobar\xEDa"
+      - "comprobar\xEDamos"
+      - "comprobar\xEDais"
+      - "comprobar\xEDan"
+      cjid: cond
+    - cjfs:
+      - compruebe
+      - compruebes
+      - compruebe
+      - comprobemos
+      - "comprob\xE9is"
+      - comprueben
+      cjid: psub
+    - cjfs:
+      - comprobara
+      - comprobaras
+      - comprobara
+      - "comprob\xE1ramos"
+      - comprobarais
+      - comprobaran
+      cjid: pisb1
+    - cjfs:
+      - comprobase
+      - comprobases
+      - comprobase
+      - "comprob\xE1semos"
+      - comprobaseis
+      - comprobasen
+      cjid: pisb2
+    - cjfs:
+      - comprobare
+      - comprobares
+      - comprobare
+      - "comprob\xE1remos"
+      - comprobareis
+      - comprobaren
+      cjid: fsub
+    - cjfs:
+      - he comprobado
+      - has comprobado
+      - ha comprobado
+      - hemos comprobado
+      - "hab\xE9is comprobado"
+      - han comprobado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa comprobado"
+      - "hab\xEDas comprobado"
+      - "hab\xEDa comprobado"
+      - "hab\xEDamos comprobado"
+      - "hab\xEDais comprobado"
+      - "hab\xEDan comprobado"
+      cjid: ppsi
+    - cjfs:
+      - hube comprobado
+      - hubiste comprobado
+      - hubo comprobado
+      - hubimos comprobado
+      - hubisteis comprobado
+      - hubieron comprobado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 comprobado"
+      - "habr\xE1s comprobado"
+      - "habr\xE1 comprobado"
+      - habremos comprobado
+      - "habr\xE9is comprobado"
+      - "habr\xE1n comprobado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa comprobado"
+      - "habr\xEDas comprobado"
+      - "habr\xEDa comprobado"
+      - "habr\xEDamos comprobado"
+      - "habr\xEDais comprobado"
+      - "habr\xEDan comprobado"
+      cjid: cpef
+    - cjfs:
+      - haya comprobado
+      - hayas comprobado
+      - haya comprobado
+      - hayamos comprobado
+      - "hay\xE1is comprobado"
+      - hayan comprobado
+      cjid: ppfs
+    - cjfs:
+      - hubiera comprobado
+      - hubieras comprobado
+      - hubiera comprobado
+      - "hubi\xE9ramos comprobado"
+      - hubierais comprobado
+      - hubieran comprobado
+      cjid: ppss1
+    - cjfs:
+      - hubiese comprobado
+      - hubieses comprobado
+      - hubiese comprobado
+      - "hubi\xE9semos comprobado"
+      - hubieseis comprobado
+      - hubiesen comprobado
+      cjid: ppss2
+    - cjfs:
+      - hubiere comprobado
+      - hubieres comprobado
+      - hubiere comprobado
+      - "hubi\xE9remos comprobado"
+      - hubiereis comprobado
+      - hubieren comprobado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - comprueba
+      - compruebe
+      - comprobemos
+      - comprobad
+      - comprueben
+      cjid: impf

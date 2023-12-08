@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|please}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take pleasure in'
+            vrs:
+            - va: complacerse en
+              vac: ~ en
+    drp: complacerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: complacer
+    prs:
+    - sound:
+        audio: compl02sp
+  meta:
+    id: complacer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605257000'
+    src: spanish
+    stems:
+    - complacer
+    - complacerse
+    - complacerse en
+    uuid: 475fa2e2-a584-41e3-acf2-8ae72e405cd7
+  shortdef:
+  - to please
+  suppl:
+    cjts:
+    - cjfs:
+      - complaciendo
+      - complacido
+      cjid: gppt
+    - cjfs:
+      - complazco
+      - complaces
+      - complace
+      - complacemos
+      - "complac\xE9is"
+      - complacen
+      cjid: pind
+    - cjfs:
+      - "complac\xEDa"
+      - "complac\xEDas"
+      - "complac\xEDa"
+      - "complac\xEDamos"
+      - "complac\xEDais"
+      - "complac\xEDan"
+      cjid: pret
+    - cjfs:
+      - "complac\xED"
+      - complaciste
+      - "complaci\xF3"
+      - complacimos
+      - complacisteis
+      - complacieron
+      cjid: pprf
+    - cjfs:
+      - "complacer\xE9"
+      - "complacer\xE1s"
+      - "complacer\xE1"
+      - complaceremos
+      - "complacer\xE9is"
+      - "complacer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "complacer\xEDa"
+      - "complacer\xEDas"
+      - "complacer\xEDa"
+      - "complacer\xEDamos"
+      - "complacer\xEDais"
+      - "complacer\xEDan"
+      cjid: cond
+    - cjfs:
+      - complazca
+      - complazcas
+      - complazca
+      - complazcamos
+      - "complazc\xE1is"
+      - complazcan
+      cjid: psub
+    - cjfs:
+      - complaciera
+      - complacieras
+      - complaciera
+      - "complaci\xE9ramos"
+      - complacierais
+      - complacieran
+      cjid: pisb1
+    - cjfs:
+      - complaciese
+      - complacieses
+      - complaciese
+      - "complaci\xE9semos"
+      - complacieseis
+      - complaciesen
+      cjid: pisb2
+    - cjfs:
+      - complaciere
+      - complacieres
+      - complaciere
+      - "complaci\xE9remos"
+      - complaciereis
+      - complacieren
+      cjid: fsub
+    - cjfs:
+      - he complacido
+      - has complacido
+      - ha complacido
+      - hemos complacido
+      - "hab\xE9is complacido"
+      - han complacido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa complacido"
+      - "hab\xEDas complacido"
+      - "hab\xEDa complacido"
+      - "hab\xEDamos complacido"
+      - "hab\xEDais complacido"
+      - "hab\xEDan complacido"
+      cjid: ppsi
+    - cjfs:
+      - hube complacido
+      - hubiste complacido
+      - hubo complacido
+      - hubimos complacido
+      - hubisteis complacido
+      - hubieron complacido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 complacido"
+      - "habr\xE1s complacido"
+      - "habr\xE1 complacido"
+      - habremos complacido
+      - "habr\xE9is complacido"
+      - "habr\xE1n complacido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa complacido"
+      - "habr\xEDas complacido"
+      - "habr\xEDa complacido"
+      - "habr\xEDamos complacido"
+      - "habr\xEDais complacido"
+      - "habr\xEDan complacido"
+      cjid: cpef
+    - cjfs:
+      - haya complacido
+      - hayas complacido
+      - haya complacido
+      - hayamos complacido
+      - "hay\xE1is complacido"
+      - hayan complacido
+      cjid: ppfs
+    - cjfs:
+      - hubiera complacido
+      - hubieras complacido
+      - hubiera complacido
+      - "hubi\xE9ramos complacido"
+      - hubierais complacido
+      - hubieran complacido
+      cjid: ppss1
+    - cjfs:
+      - hubiese complacido
+      - hubieses complacido
+      - hubiese complacido
+      - "hubi\xE9semos complacido"
+      - hubieseis complacido
+      - hubiesen complacido
+      cjid: ppss2
+    - cjfs:
+      - hubiere complacido
+      - hubieres complacido
+      - hubiere complacido
+      - "hubi\xE9remos complacido"
+      - hubiereis complacido
+      - hubieren complacido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - complace
+      - complazca
+      - complazcamos
+      - complaced
+      - complazcan
+      cjid: impf

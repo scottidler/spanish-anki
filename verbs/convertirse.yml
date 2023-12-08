@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|convert} (someone)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|convert} (money, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn} (someone or something) {a_link|into} (something)'
+          sn: '3'
+          vrs:
+          - va: convertir en
+            vac: ~ en
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|convert}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|turn into}, to {a_link|become}'
+            sn: '2'
+            vrs:
+            - va: convertirse en
+              vac: ~ en
+    drp: convertirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: convertir
+    prs:
+    - sound:
+        audio: conve10sp
+  meta:
+    id: convertir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605818000'
+    src: spanish
+    stems:
+    - convertir
+    - convertir en
+    - convertirse
+    - convertirse en
+    uuid: b46b268a-df6d-4498-a4f8-ded1aa19b834
+  shortdef:
+  - to convert (someone)
+  - to convert (money, etc.)
+  - to turn (someone or something) into (something)
+  suppl:
+    cjts:
+    - cjfs:
+      - convirtiendo
+      - convertido
+      cjid: gppt
+    - cjfs:
+      - convierto
+      - conviertes
+      - convierte
+      - convertimos
+      - "convert\xEDs"
+      - convierten
+      cjid: pind
+    - cjfs:
+      - "convert\xEDa"
+      - "convert\xEDas"
+      - "convert\xEDa"
+      - "convert\xEDamos"
+      - "convert\xEDais"
+      - "convert\xEDan"
+      cjid: pret
+    - cjfs:
+      - "convert\xED"
+      - convertiste
+      - "convirti\xF3"
+      - convertimos
+      - convertisteis
+      - convirtieron
+      cjid: pprf
+    - cjfs:
+      - "convertir\xE9"
+      - "convertir\xE1s"
+      - "convertir\xE1"
+      - convertiremos
+      - "convertir\xE9is"
+      - "convertir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "convertir\xEDa"
+      - "convertir\xEDas"
+      - "convertir\xEDa"
+      - "convertir\xEDamos"
+      - "convertir\xEDais"
+      - "convertir\xEDan"
+      cjid: cond
+    - cjfs:
+      - convierta
+      - conviertas
+      - convierta
+      - convirtamos
+      - "convirt\xE1is"
+      - conviertan
+      cjid: psub
+    - cjfs:
+      - convirtiera
+      - convirtieras
+      - convirtiera
+      - "convirti\xE9ramos"
+      - convirtierais
+      - convirtieran
+      cjid: pisb1
+    - cjfs:
+      - convirtiese
+      - convirtieses
+      - convirtiese
+      - "convirti\xE9semos"
+      - convirtieseis
+      - convirtiesen
+      cjid: pisb2
+    - cjfs:
+      - convirtiere
+      - convirtieres
+      - convirtiere
+      - "convirti\xE9remos"
+      - convirtiereis
+      - convirtieren
+      cjid: fsub
+    - cjfs:
+      - he convertido
+      - has convertido
+      - ha convertido
+      - hemos convertido
+      - "hab\xE9is convertido"
+      - han convertido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa convertido"
+      - "hab\xEDas convertido"
+      - "hab\xEDa convertido"
+      - "hab\xEDamos convertido"
+      - "hab\xEDais convertido"
+      - "hab\xEDan convertido"
+      cjid: ppsi
+    - cjfs:
+      - hube convertido
+      - hubiste convertido
+      - hubo convertido
+      - hubimos convertido
+      - hubisteis convertido
+      - hubieron convertido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 convertido"
+      - "habr\xE1s convertido"
+      - "habr\xE1 convertido"
+      - habremos convertido
+      - "habr\xE9is convertido"
+      - "habr\xE1n convertido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa convertido"
+      - "habr\xEDas convertido"
+      - "habr\xEDa convertido"
+      - "habr\xEDamos convertido"
+      - "habr\xEDais convertido"
+      - "habr\xEDan convertido"
+      cjid: cpef
+    - cjfs:
+      - haya convertido
+      - hayas convertido
+      - haya convertido
+      - hayamos convertido
+      - "hay\xE1is convertido"
+      - hayan convertido
+      cjid: ppfs
+    - cjfs:
+      - hubiera convertido
+      - hubieras convertido
+      - hubiera convertido
+      - "hubi\xE9ramos convertido"
+      - hubierais convertido
+      - hubieran convertido
+      cjid: ppss1
+    - cjfs:
+      - hubiese convertido
+      - hubieses convertido
+      - hubiese convertido
+      - "hubi\xE9semos convertido"
+      - hubieseis convertido
+      - hubiesen convertido
+      cjid: ppss2
+    - cjfs:
+      - hubiere convertido
+      - hubieres convertido
+      - hubiere convertido
+      - "hubi\xE9remos convertido"
+      - hubiereis convertido
+      - hubieren convertido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - convierte
+      - convierta
+      - convirtamos
+      - convertid
+      - conviertan
+      cjid: impf

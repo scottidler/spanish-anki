@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|seize}, to {a_link|take hold of}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|catch}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pick up}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gather}, to {a_link|pick}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gore}'
+          sn: '5'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|agarrarse||} {bc}to {a_link|hold on}'
+    drp: cogerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: coger
+    prs:
+    - sound:
+        audio: coger01sp
+  meta:
+    id: coger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604986000'
+    src: spanish
+    stems:
+    - coger
+    - cogerse
+    uuid: 5ea15d08-6156-43d7-82e9-4137cae92490
+  shortdef:
+  - to seize, to take hold of
+  - to catch
+  - to pick up
+  suppl:
+    cjts:
+    - cjfs:
+      - cogiendo
+      - cogido
+      cjid: gppt
+    - cjfs:
+      - cojo
+      - coges
+      - coge
+      - cogemos
+      - "cog\xE9is"
+      - cogen
+      cjid: pind
+    - cjfs:
+      - "cog\xEDa"
+      - "cog\xEDas"
+      - "cog\xEDa"
+      - "cog\xEDamos"
+      - "cog\xEDais"
+      - "cog\xEDan"
+      cjid: pret
+    - cjfs:
+      - "cog\xED"
+      - cogiste
+      - "cogi\xF3"
+      - cogimos
+      - cogisteis
+      - cogieron
+      cjid: pprf
+    - cjfs:
+      - "coger\xE9"
+      - "coger\xE1s"
+      - "coger\xE1"
+      - cogeremos
+      - "coger\xE9is"
+      - "coger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "coger\xEDa"
+      - "coger\xEDas"
+      - "coger\xEDa"
+      - "coger\xEDamos"
+      - "coger\xEDais"
+      - "coger\xEDan"
+      cjid: cond
+    - cjfs:
+      - coja
+      - cojas
+      - coja
+      - cojamos
+      - "coj\xE1is"
+      - cojan
+      cjid: psub
+    - cjfs:
+      - cogiera
+      - cogieras
+      - cogiera
+      - "cogi\xE9ramos"
+      - cogierais
+      - cogieran
+      cjid: pisb1
+    - cjfs:
+      - cogiese
+      - cogieses
+      - cogiese
+      - "cogi\xE9semos"
+      - cogieseis
+      - cogiesen
+      cjid: pisb2
+    - cjfs:
+      - cogiere
+      - cogieres
+      - cogiere
+      - "cogi\xE9remos"
+      - cogiereis
+      - cogieren
+      cjid: fsub
+    - cjfs:
+      - he cogido
+      - has cogido
+      - ha cogido
+      - hemos cogido
+      - "hab\xE9is cogido"
+      - han cogido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cogido"
+      - "hab\xEDas cogido"
+      - "hab\xEDa cogido"
+      - "hab\xEDamos cogido"
+      - "hab\xEDais cogido"
+      - "hab\xEDan cogido"
+      cjid: ppsi
+    - cjfs:
+      - hube cogido
+      - hubiste cogido
+      - hubo cogido
+      - hubimos cogido
+      - hubisteis cogido
+      - hubieron cogido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cogido"
+      - "habr\xE1s cogido"
+      - "habr\xE1 cogido"
+      - habremos cogido
+      - "habr\xE9is cogido"
+      - "habr\xE1n cogido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cogido"
+      - "habr\xEDas cogido"
+      - "habr\xEDa cogido"
+      - "habr\xEDamos cogido"
+      - "habr\xEDais cogido"
+      - "habr\xEDan cogido"
+      cjid: cpef
+    - cjfs:
+      - haya cogido
+      - hayas cogido
+      - haya cogido
+      - hayamos cogido
+      - "hay\xE1is cogido"
+      - hayan cogido
+      cjid: ppfs
+    - cjfs:
+      - hubiera cogido
+      - hubieras cogido
+      - hubiera cogido
+      - "hubi\xE9ramos cogido"
+      - hubierais cogido
+      - hubieran cogido
+      cjid: ppss1
+    - cjfs:
+      - hubiese cogido
+      - hubieses cogido
+      - hubiese cogido
+      - "hubi\xE9semos cogido"
+      - hubieseis cogido
+      - hubiesen cogido
+      cjid: ppss2
+    - cjfs:
+      - hubiere cogido
+      - hubieres cogido
+      - hubiere cogido
+      - "hubi\xE9remos cogido"
+      - hubiereis cogido
+      - hubieren cogido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - coge
+      - coja
+      - cojamos
+      - coged
+      - cojan
+      cjid: impf

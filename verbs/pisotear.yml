@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to stamp on, to {a_link|trample}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|pisar||} {bc}to walk all over'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flout}, to {a_link|disregard}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: pisotear
+  meta:
+    id: pisotear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617447000'
+    src: spanish
+    stems:
+    - pisotear
+    uuid: db3899b4-77a7-4733-8bf5-9cfb4790e5e4
+  shortdef:
+  - to stamp on, to trample
+  - 'pisar : to walk all over'
+  - to flout, to disregard
+  suppl:
+    cjts:
+    - cjfs:
+      - pisoteando
+      - pisoteado
+      cjid: gppt
+    - cjfs:
+      - pisoteo
+      - pisoteas
+      - pisotea
+      - pisoteamos
+      - "pisote\xE1is"
+      - pisotean
+      cjid: pind
+    - cjfs:
+      - pisoteaba
+      - pisoteabas
+      - pisoteaba
+      - "pisote\xE1bamos"
+      - pisoteabais
+      - pisoteaban
+      cjid: pret
+    - cjfs:
+      - "pisote\xE9"
+      - pisoteaste
+      - "pisote\xF3"
+      - pisoteamos
+      - pisoteasteis
+      - pisotearon
+      cjid: pprf
+    - cjfs:
+      - "pisotear\xE9"
+      - "pisotear\xE1s"
+      - "pisotear\xE1"
+      - pisotearemos
+      - "pisotear\xE9is"
+      - "pisotear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pisotear\xEDa"
+      - "pisotear\xEDas"
+      - "pisotear\xEDa"
+      - "pisotear\xEDamos"
+      - "pisotear\xEDais"
+      - "pisotear\xEDan"
+      cjid: cond
+    - cjfs:
+      - pisotee
+      - pisotees
+      - pisotee
+      - pisoteemos
+      - "pisote\xE9is"
+      - pisoteen
+      cjid: psub
+    - cjfs:
+      - pisoteara
+      - pisotearas
+      - pisoteara
+      - "pisote\xE1ramos"
+      - pisotearais
+      - pisotearan
+      cjid: pisb1
+    - cjfs:
+      - pisotease
+      - pisoteases
+      - pisotease
+      - "pisote\xE1semos"
+      - pisoteaseis
+      - pisoteasen
+      cjid: pisb2
+    - cjfs:
+      - pisoteare
+      - pisoteares
+      - pisoteare
+      - "pisote\xE1remos"
+      - pisoteareis
+      - pisotearen
+      cjid: fsub
+    - cjfs:
+      - he pisoteado
+      - has pisoteado
+      - ha pisoteado
+      - hemos pisoteado
+      - "hab\xE9is pisoteado"
+      - han pisoteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pisoteado"
+      - "hab\xEDas pisoteado"
+      - "hab\xEDa pisoteado"
+      - "hab\xEDamos pisoteado"
+      - "hab\xEDais pisoteado"
+      - "hab\xEDan pisoteado"
+      cjid: ppsi
+    - cjfs:
+      - hube pisoteado
+      - hubiste pisoteado
+      - hubo pisoteado
+      - hubimos pisoteado
+      - hubisteis pisoteado
+      - hubieron pisoteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pisoteado"
+      - "habr\xE1s pisoteado"
+      - "habr\xE1 pisoteado"
+      - habremos pisoteado
+      - "habr\xE9is pisoteado"
+      - "habr\xE1n pisoteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pisoteado"
+      - "habr\xEDas pisoteado"
+      - "habr\xEDa pisoteado"
+      - "habr\xEDamos pisoteado"
+      - "habr\xEDais pisoteado"
+      - "habr\xEDan pisoteado"
+      cjid: cpef
+    - cjfs:
+      - haya pisoteado
+      - hayas pisoteado
+      - haya pisoteado
+      - hayamos pisoteado
+      - "hay\xE1is pisoteado"
+      - hayan pisoteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pisoteado
+      - hubieras pisoteado
+      - hubiera pisoteado
+      - "hubi\xE9ramos pisoteado"
+      - hubierais pisoteado
+      - hubieran pisoteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pisoteado
+      - hubieses pisoteado
+      - hubiese pisoteado
+      - "hubi\xE9semos pisoteado"
+      - hubieseis pisoteado
+      - hubiesen pisoteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pisoteado
+      - hubieres pisoteado
+      - hubiere pisoteado
+      - "hubi\xE9remos pisoteado"
+      - hubiereis pisoteado
+      - hubieren pisoteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pisotea
+      - pisotee
+      - pisoteemos
+      - pisotead
+      - pisoteen
+      cjid: impf

@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hurt}, to {a_link|ache} '
+          - - vis
+            - - t: me duele la cabeza
+                tr: my head hurts
+              - t: no duele nada
+                tr: it doesn't hurt at all
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grieve}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be distressed'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|complain}'
+            sn: '2'
+    drp: dolerse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: doler
+    prs:
+    - sound:
+        audio: doler01sp
+  meta:
+    id: doler
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607866000'
+    src: spanish
+    stems:
+    - doler
+    - dolerse
+    uuid: 58038dbc-c709-44f9-acbf-9b1a4ea863fd
+  shortdef:
+  - to hurt, to ache
+  - to grieve
+  suppl:
+    cjts:
+    - cjfs:
+      - doliendo
+      - dolido
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - duele
+      - '-'
+      - '-'
+      - duelen
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - "dol\xEDa"
+      - '-'
+      - '-'
+      - "dol\xEDan"
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "doli\xF3"
+      - '-'
+      - '-'
+      - dolieron
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "doler\xE1"
+      - '-'
+      - '-'
+      - "doler\xE1n"
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "doler\xEDa"
+      - '-'
+      - '-'
+      - "doler\xEDan"
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - duela
+      - '-'
+      - '-'
+      - duelan
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - doliera
+      - '-'
+      - '-'
+      - dolieran
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - doliese
+      - '-'
+      - '-'
+      - doliesen
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - doliere
+      - '-'
+      - '-'
+      - dolieren
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha dolido
+      - '-'
+      - '-'
+      - han dolido
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa dolido"
+      - '-'
+      - '-'
+      - "hab\xEDan dolido"
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo dolido
+      - '-'
+      - '-'
+      - hubieron dolido
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 dolido"
+      - '-'
+      - '-'
+      - "habr\xE1n dolido"
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa dolido"
+      - '-'
+      - '-'
+      - "habr\xEDan dolido"
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya dolido
+      - '-'
+      - '-'
+      - hayan dolido
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera dolido
+      - '-'
+      - '-'
+      - hubieran dolido
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese dolido
+      - '-'
+      - '-'
+      - hubiesen dolido
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere dolido
+      - '-'
+      - '-'
+      - hubieren dolido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

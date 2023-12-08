@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reconcile}'
+  fl: transitive verb
+  hwi:
+    hw: conciliar
+    prs:
+    - sound:
+        audio: conci05sp
+  meta:
+    id: conciliar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605367000'
+    src: spanish
+    stems:
+    - conciliar
+    - "conciliaci\xF3n"
+    uuid: 5bbc1cb9-b562-4960-999e-86b989fb161c
+  shortdef:
+  - to reconcile
+  suppl:
+    cjts:
+    - cjfs:
+      - conciliando
+      - conciliado
+      cjid: gppt
+    - cjfs:
+      - concilio
+      - concilias
+      - concilia
+      - conciliamos
+      - "concili\xE1is"
+      - concilian
+      cjid: pind
+    - cjfs:
+      - conciliaba
+      - conciliabas
+      - conciliaba
+      - "concili\xE1bamos"
+      - conciliabais
+      - conciliaban
+      cjid: pret
+    - cjfs:
+      - "concili\xE9"
+      - conciliaste
+      - "concili\xF3"
+      - conciliamos
+      - conciliasteis
+      - conciliaron
+      cjid: pprf
+    - cjfs:
+      - "conciliar\xE9"
+      - "conciliar\xE1s"
+      - "conciliar\xE1"
+      - conciliaremos
+      - "conciliar\xE9is"
+      - "conciliar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conciliar\xEDa"
+      - "conciliar\xEDas"
+      - "conciliar\xEDa"
+      - "conciliar\xEDamos"
+      - "conciliar\xEDais"
+      - "conciliar\xEDan"
+      cjid: cond
+    - cjfs:
+      - concilie
+      - concilies
+      - concilie
+      - conciliemos
+      - "concili\xE9is"
+      - concilien
+      cjid: psub
+    - cjfs:
+      - conciliara
+      - conciliaras
+      - conciliara
+      - "concili\xE1ramos"
+      - conciliarais
+      - conciliaran
+      cjid: pisb1
+    - cjfs:
+      - conciliase
+      - conciliases
+      - conciliase
+      - "concili\xE1semos"
+      - conciliaseis
+      - conciliasen
+      cjid: pisb2
+    - cjfs:
+      - conciliare
+      - conciliares
+      - conciliare
+      - "concili\xE1remos"
+      - conciliareis
+      - conciliaren
+      cjid: fsub
+    - cjfs:
+      - he conciliado
+      - has conciliado
+      - ha conciliado
+      - hemos conciliado
+      - "hab\xE9is conciliado"
+      - han conciliado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conciliado"
+      - "hab\xEDas conciliado"
+      - "hab\xEDa conciliado"
+      - "hab\xEDamos conciliado"
+      - "hab\xEDais conciliado"
+      - "hab\xEDan conciliado"
+      cjid: ppsi
+    - cjfs:
+      - hube conciliado
+      - hubiste conciliado
+      - hubo conciliado
+      - hubimos conciliado
+      - hubisteis conciliado
+      - hubieron conciliado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conciliado"
+      - "habr\xE1s conciliado"
+      - "habr\xE1 conciliado"
+      - habremos conciliado
+      - "habr\xE9is conciliado"
+      - "habr\xE1n conciliado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conciliado"
+      - "habr\xEDas conciliado"
+      - "habr\xEDa conciliado"
+      - "habr\xEDamos conciliado"
+      - "habr\xEDais conciliado"
+      - "habr\xEDan conciliado"
+      cjid: cpef
+    - cjfs:
+      - haya conciliado
+      - hayas conciliado
+      - haya conciliado
+      - hayamos conciliado
+      - "hay\xE1is conciliado"
+      - hayan conciliado
+      cjid: ppfs
+    - cjfs:
+      - hubiera conciliado
+      - hubieras conciliado
+      - hubiera conciliado
+      - "hubi\xE9ramos conciliado"
+      - hubierais conciliado
+      - hubieran conciliado
+      cjid: ppss1
+    - cjfs:
+      - hubiese conciliado
+      - hubieses conciliado
+      - hubiese conciliado
+      - "hubi\xE9semos conciliado"
+      - hubieseis conciliado
+      - hubiesen conciliado
+      cjid: ppss2
+    - cjfs:
+      - hubiere conciliado
+      - hubieres conciliado
+      - hubiere conciliado
+      - "hubi\xE9remos conciliado"
+      - hubiereis conciliado
+      - hubieren conciliado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - concilia
+      - concilie
+      - conciliemos
+      - conciliad
+      - concilien
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "conciliaci\xF3n"

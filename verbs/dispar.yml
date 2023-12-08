@@ -1,0 +1,34 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|different}, {a_link|disparate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|diverso||} {bc}{a_link|diverse}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desigual||} {bc}{a_link|inconsistent}'
+          sn: '3'
+  fl: adjective
+  hwi:
+    hw: dispar
+  meta:
+    id: dispar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607726000'
+    src: spanish
+    stems:
+    - dispar
+    uuid: e4fb2591-f433-4812-ab36-7c30452f39b7
+  shortdef:
+  - different, disparate
+  - 'diverso : diverse'
+  - 'desigual : inconsistent'

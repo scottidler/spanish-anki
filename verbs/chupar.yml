@@ -1,0 +1,236 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suck}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|absorb}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to puff on'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drink}, to {a_link|guzzle}'
+          sls:
+          - familiar
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suckle}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|waste away}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|put up with}'
+            sls:
+            - familiar
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}take that!'
+            sls:
+            - familiar
+            sn: '3'
+            vrs:
+            - va: "\xA1ch\xFApate esa!"
+    drp: chuparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: chupar
+    prs:
+    - sound:
+        audio: chupa02sp
+  meta:
+    id: chupar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604671000'
+    src: spanish
+    stems:
+    - chupar
+    - chuparse
+    - "\xA1ch\xFApate esa!"
+    uuid: a323852e-c7a3-41d4-b695-85dd469f332d
+  shortdef:
+  - to suck
+  - to absorb
+  - to puff on
+  suppl:
+    cjts:
+    - cjfs:
+      - chupando
+      - chupado
+      cjid: gppt
+    - cjfs:
+      - chupo
+      - chupas
+      - chupa
+      - chupamos
+      - "chup\xE1is"
+      - chupan
+      cjid: pind
+    - cjfs:
+      - chupaba
+      - chupabas
+      - chupaba
+      - "chup\xE1bamos"
+      - chupabais
+      - chupaban
+      cjid: pret
+    - cjfs:
+      - "chup\xE9"
+      - chupaste
+      - "chup\xF3"
+      - chupamos
+      - chupasteis
+      - chuparon
+      cjid: pprf
+    - cjfs:
+      - "chupar\xE9"
+      - "chupar\xE1s"
+      - "chupar\xE1"
+      - chuparemos
+      - "chupar\xE9is"
+      - "chupar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "chupar\xEDa"
+      - "chupar\xEDas"
+      - "chupar\xEDa"
+      - "chupar\xEDamos"
+      - "chupar\xEDais"
+      - "chupar\xEDan"
+      cjid: cond
+    - cjfs:
+      - chupe
+      - chupes
+      - chupe
+      - chupemos
+      - "chup\xE9is"
+      - chupen
+      cjid: psub
+    - cjfs:
+      - chupara
+      - chuparas
+      - chupara
+      - "chup\xE1ramos"
+      - chuparais
+      - chuparan
+      cjid: pisb1
+    - cjfs:
+      - chupase
+      - chupases
+      - chupase
+      - "chup\xE1semos"
+      - chupaseis
+      - chupasen
+      cjid: pisb2
+    - cjfs:
+      - chupare
+      - chupares
+      - chupare
+      - "chup\xE1remos"
+      - chupareis
+      - chuparen
+      cjid: fsub
+    - cjfs:
+      - he chupado
+      - has chupado
+      - ha chupado
+      - hemos chupado
+      - "hab\xE9is chupado"
+      - han chupado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa chupado"
+      - "hab\xEDas chupado"
+      - "hab\xEDa chupado"
+      - "hab\xEDamos chupado"
+      - "hab\xEDais chupado"
+      - "hab\xEDan chupado"
+      cjid: ppsi
+    - cjfs:
+      - hube chupado
+      - hubiste chupado
+      - hubo chupado
+      - hubimos chupado
+      - hubisteis chupado
+      - hubieron chupado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 chupado"
+      - "habr\xE1s chupado"
+      - "habr\xE1 chupado"
+      - habremos chupado
+      - "habr\xE9is chupado"
+      - "habr\xE1n chupado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa chupado"
+      - "habr\xEDas chupado"
+      - "habr\xEDa chupado"
+      - "habr\xEDamos chupado"
+      - "habr\xEDais chupado"
+      - "habr\xEDan chupado"
+      cjid: cpef
+    - cjfs:
+      - haya chupado
+      - hayas chupado
+      - haya chupado
+      - hayamos chupado
+      - "hay\xE1is chupado"
+      - hayan chupado
+      cjid: ppfs
+    - cjfs:
+      - hubiera chupado
+      - hubieras chupado
+      - hubiera chupado
+      - "hubi\xE9ramos chupado"
+      - hubierais chupado
+      - hubieran chupado
+      cjid: ppss1
+    - cjfs:
+      - hubiese chupado
+      - hubieses chupado
+      - hubiese chupado
+      - "hubi\xE9semos chupado"
+      - hubieseis chupado
+      - hubiesen chupado
+      cjid: ppss2
+    - cjfs:
+      - hubiere chupado
+      - hubieres chupado
+      - hubiere chupado
+      - "hubi\xE9remos chupado"
+      - hubiereis chupado
+      - hubieren chupado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - chupa
+      - chupe
+      - chupemos
+      - chupad
+      - chupen
+      cjid: impf

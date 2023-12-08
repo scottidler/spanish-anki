@@ -1,0 +1,234 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sweep}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sweep away'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crush}, to {a_link|defeat}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sweep}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make a clean sweep'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sweep away'
+          sn: '3'
+          vrs:
+          - va: barrer con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wipe out} (an enemy), to {a_link|crush} (a sports opponent)'
+          sn: '4'
+          vrs:
+          - va: barrer con
+            vac: ~ con
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|slide} (in sports)'
+    drp: barrerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: barrer
+    prs:
+    - sound:
+        audio: barre01sp
+  meta:
+    id: barrer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602811000'
+    src: spanish
+    stems:
+    - barrer
+    - barrer con
+    - barrerse
+    uuid: 648651cd-35ff-4c92-867a-5638bb925346
+  shortdef:
+  - to sweep
+  - to sweep away
+  - to crush, to defeat
+  suppl:
+    cjts:
+    - cjfs:
+      - barriendo
+      - barrido
+      cjid: gppt
+    - cjfs:
+      - barro
+      - barres
+      - barre
+      - barremos
+      - "barr\xE9is"
+      - barren
+      cjid: pind
+    - cjfs:
+      - "barr\xEDa"
+      - "barr\xEDas"
+      - "barr\xEDa"
+      - "barr\xEDamos"
+      - "barr\xEDais"
+      - "barr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "barr\xED"
+      - barriste
+      - "barri\xF3"
+      - barrimos
+      - barristeis
+      - barrieron
+      cjid: pprf
+    - cjfs:
+      - "barrer\xE9"
+      - "barrer\xE1s"
+      - "barrer\xE1"
+      - barreremos
+      - "barrer\xE9is"
+      - "barrer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "barrer\xEDa"
+      - "barrer\xEDas"
+      - "barrer\xEDa"
+      - "barrer\xEDamos"
+      - "barrer\xEDais"
+      - "barrer\xEDan"
+      cjid: cond
+    - cjfs:
+      - barra
+      - barras
+      - barra
+      - barramos
+      - "barr\xE1is"
+      - barran
+      cjid: psub
+    - cjfs:
+      - barriera
+      - barrieras
+      - barriera
+      - "barri\xE9ramos"
+      - barrierais
+      - barrieran
+      cjid: pisb1
+    - cjfs:
+      - barriese
+      - barrieses
+      - barriese
+      - "barri\xE9semos"
+      - barrieseis
+      - barriesen
+      cjid: pisb2
+    - cjfs:
+      - barriere
+      - barrieres
+      - barriere
+      - "barri\xE9remos"
+      - barriereis
+      - barrieren
+      cjid: fsub
+    - cjfs:
+      - he barrido
+      - has barrido
+      - ha barrido
+      - hemos barrido
+      - "hab\xE9is barrido"
+      - han barrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa barrido"
+      - "hab\xEDas barrido"
+      - "hab\xEDa barrido"
+      - "hab\xEDamos barrido"
+      - "hab\xEDais barrido"
+      - "hab\xEDan barrido"
+      cjid: ppsi
+    - cjfs:
+      - hube barrido
+      - hubiste barrido
+      - hubo barrido
+      - hubimos barrido
+      - hubisteis barrido
+      - hubieron barrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 barrido"
+      - "habr\xE1s barrido"
+      - "habr\xE1 barrido"
+      - habremos barrido
+      - "habr\xE9is barrido"
+      - "habr\xE1n barrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa barrido"
+      - "habr\xEDas barrido"
+      - "habr\xEDa barrido"
+      - "habr\xEDamos barrido"
+      - "habr\xEDais barrido"
+      - "habr\xEDan barrido"
+      cjid: cpef
+    - cjfs:
+      - haya barrido
+      - hayas barrido
+      - haya barrido
+      - hayamos barrido
+      - "hay\xE1is barrido"
+      - hayan barrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera barrido
+      - hubieras barrido
+      - hubiera barrido
+      - "hubi\xE9ramos barrido"
+      - hubierais barrido
+      - hubieran barrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese barrido
+      - hubieses barrido
+      - hubiese barrido
+      - "hubi\xE9semos barrido"
+      - hubieseis barrido
+      - hubiesen barrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere barrido
+      - hubieres barrido
+      - hubiere barrido
+      - "hubi\xE9remos barrido"
+      - hubiereis barrido
+      - hubieren barrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - barre
+      - barra
+      - barramos
+      - barred
+      - barran
+      cjid: impf

@@ -1,0 +1,294 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sting} (of bees, etc.), to {a_link|bite} (of fleas,
+              etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to peck at (of birds)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|comer||} {bc}to nibble on'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prick} (of a needle, etc.), to {a_link|punch} (a ticket)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break}, to {a_link|chip} (stone, etc.)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grind}, to {a_link|chop}'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|goad}, to {a_link|incite}'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pique}, to {a_link|provoke}'
+          sn: '8'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|itch} '
+          - - vis
+            - - t: esta camisa me pica
+                tr: this shirt is itchy
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sting}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be spicy, to be hot'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|nibble}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take the bait'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to dabble in'
+          sn: '6'
+          vrs:
+          - va: picar en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to aim too high'
+          sn: '7'
+          vrs:
+          - va: picar muy alto
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get a cavity, to {a_link|decay}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go bad} (of food)'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get annoyed, to take offense'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become choppy (of the sea)'
+            sn: '4'
+    drp: picarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: picar
+    prs:
+    - sound:
+        audio: picar01sp
+  meta:
+    id: picar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617315000'
+    src: spanish
+    stems:
+    - picar
+    - picar en
+    - picar muy alto
+    - picarse
+    uuid: 98c4bd47-b95e-47fb-b302-12a67052374e
+  shortdef:
+  - to sting (of bees, etc.), to bite (of fleas, etc.)
+  - to peck at (of birds)
+  - 'comer : to nibble on'
+  suppl:
+    cjts:
+    - cjfs:
+      - picando
+      - picado
+      cjid: gppt
+    - cjfs:
+      - pico
+      - picas
+      - pica
+      - picamos
+      - "pic\xE1is"
+      - pican
+      cjid: pind
+    - cjfs:
+      - picaba
+      - picabas
+      - picaba
+      - "pic\xE1bamos"
+      - picabais
+      - picaban
+      cjid: pret
+    - cjfs:
+      - "piqu\xE9"
+      - picaste
+      - "pic\xF3"
+      - picamos
+      - picasteis
+      - picaron
+      cjid: pprf
+    - cjfs:
+      - "picar\xE9"
+      - "picar\xE1s"
+      - "picar\xE1"
+      - picaremos
+      - "picar\xE9is"
+      - "picar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "picar\xEDa"
+      - "picar\xEDas"
+      - "picar\xEDa"
+      - "picar\xEDamos"
+      - "picar\xEDais"
+      - "picar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pique
+      - piques
+      - pique
+      - piquemos
+      - "piqu\xE9is"
+      - piquen
+      cjid: psub
+    - cjfs:
+      - picara
+      - picaras
+      - picara
+      - "pic\xE1ramos"
+      - picarais
+      - picaran
+      cjid: pisb1
+    - cjfs:
+      - picase
+      - picases
+      - picase
+      - "pic\xE1semos"
+      - picaseis
+      - picasen
+      cjid: pisb2
+    - cjfs:
+      - picare
+      - picares
+      - picare
+      - "pic\xE1remos"
+      - picareis
+      - picaren
+      cjid: fsub
+    - cjfs:
+      - he picado
+      - has picado
+      - ha picado
+      - hemos picado
+      - "hab\xE9is picado"
+      - han picado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa picado"
+      - "hab\xEDas picado"
+      - "hab\xEDa picado"
+      - "hab\xEDamos picado"
+      - "hab\xEDais picado"
+      - "hab\xEDan picado"
+      cjid: ppsi
+    - cjfs:
+      - hube picado
+      - hubiste picado
+      - hubo picado
+      - hubimos picado
+      - hubisteis picado
+      - hubieron picado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 picado"
+      - "habr\xE1s picado"
+      - "habr\xE1 picado"
+      - habremos picado
+      - "habr\xE9is picado"
+      - "habr\xE1n picado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa picado"
+      - "habr\xEDas picado"
+      - "habr\xEDa picado"
+      - "habr\xEDamos picado"
+      - "habr\xEDais picado"
+      - "habr\xEDan picado"
+      cjid: cpef
+    - cjfs:
+      - haya picado
+      - hayas picado
+      - haya picado
+      - hayamos picado
+      - "hay\xE1is picado"
+      - hayan picado
+      cjid: ppfs
+    - cjfs:
+      - hubiera picado
+      - hubieras picado
+      - hubiera picado
+      - "hubi\xE9ramos picado"
+      - hubierais picado
+      - hubieran picado
+      cjid: ppss1
+    - cjfs:
+      - hubiese picado
+      - hubieses picado
+      - hubiese picado
+      - "hubi\xE9semos picado"
+      - hubieseis picado
+      - hubiesen picado
+      cjid: ppss2
+    - cjfs:
+      - hubiere picado
+      - hubieres picado
+      - hubiere picado
+      - "hubi\xE9remos picado"
+      - hubiereis picado
+      - hubieren picado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pica
+      - pique
+      - piquemos
+      - picad
+      - piquen
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sneeze}'
+  fl: intransitive verb
+  hwi:
+    hw: estornudar
+    prs:
+    - sound:
+        audio: estor02sp
+  meta:
+    id: estornudar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609410000'
+    src: spanish
+    stems:
+    - estornudar
+    uuid: 2302c86b-ee19-4300-9f3e-142ba11245e4
+  shortdef:
+  - to sneeze
+  suppl:
+    cjts:
+    - cjfs:
+      - estornudando
+      - estornudado
+      cjid: gppt
+    - cjfs:
+      - estornudo
+      - estornudas
+      - estornuda
+      - estornudamos
+      - "estornud\xE1is"
+      - estornudan
+      cjid: pind
+    - cjfs:
+      - estornudaba
+      - estornudabas
+      - estornudaba
+      - "estornud\xE1bamos"
+      - estornudabais
+      - estornudaban
+      cjid: pret
+    - cjfs:
+      - "estornud\xE9"
+      - estornudaste
+      - "estornud\xF3"
+      - estornudamos
+      - estornudasteis
+      - estornudaron
+      cjid: pprf
+    - cjfs:
+      - "estornudar\xE9"
+      - "estornudar\xE1s"
+      - "estornudar\xE1"
+      - estornudaremos
+      - "estornudar\xE9is"
+      - "estornudar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estornudar\xEDa"
+      - "estornudar\xEDas"
+      - "estornudar\xEDa"
+      - "estornudar\xEDamos"
+      - "estornudar\xEDais"
+      - "estornudar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estornude
+      - estornudes
+      - estornude
+      - estornudemos
+      - "estornud\xE9is"
+      - estornuden
+      cjid: psub
+    - cjfs:
+      - estornudara
+      - estornudaras
+      - estornudara
+      - "estornud\xE1ramos"
+      - estornudarais
+      - estornudaran
+      cjid: pisb1
+    - cjfs:
+      - estornudase
+      - estornudases
+      - estornudase
+      - "estornud\xE1semos"
+      - estornudaseis
+      - estornudasen
+      cjid: pisb2
+    - cjfs:
+      - estornudare
+      - estornudares
+      - estornudare
+      - "estornud\xE1remos"
+      - estornudareis
+      - estornudaren
+      cjid: fsub
+    - cjfs:
+      - he estornudado
+      - has estornudado
+      - ha estornudado
+      - hemos estornudado
+      - "hab\xE9is estornudado"
+      - han estornudado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estornudado"
+      - "hab\xEDas estornudado"
+      - "hab\xEDa estornudado"
+      - "hab\xEDamos estornudado"
+      - "hab\xEDais estornudado"
+      - "hab\xEDan estornudado"
+      cjid: ppsi
+    - cjfs:
+      - hube estornudado
+      - hubiste estornudado
+      - hubo estornudado
+      - hubimos estornudado
+      - hubisteis estornudado
+      - hubieron estornudado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estornudado"
+      - "habr\xE1s estornudado"
+      - "habr\xE1 estornudado"
+      - habremos estornudado
+      - "habr\xE9is estornudado"
+      - "habr\xE1n estornudado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estornudado"
+      - "habr\xEDas estornudado"
+      - "habr\xEDa estornudado"
+      - "habr\xEDamos estornudado"
+      - "habr\xEDais estornudado"
+      - "habr\xEDan estornudado"
+      cjid: cpef
+    - cjfs:
+      - haya estornudado
+      - hayas estornudado
+      - haya estornudado
+      - hayamos estornudado
+      - "hay\xE1is estornudado"
+      - hayan estornudado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estornudado
+      - hubieras estornudado
+      - hubiera estornudado
+      - "hubi\xE9ramos estornudado"
+      - hubierais estornudado
+      - hubieran estornudado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estornudado
+      - hubieses estornudado
+      - hubiese estornudado
+      - "hubi\xE9semos estornudado"
+      - hubieseis estornudado
+      - hubiesen estornudado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estornudado
+      - hubieres estornudado
+      - hubiere estornudado
+      - "hubi\xE9remos estornudado"
+      - hubiereis estornudado
+      - hubieren estornudado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estornuda
+      - estornude
+      - estornudemos
+      - estornudad
+      - estornuden
+      cjid: impf

@@ -1,0 +1,262 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|work}, to be useful '
+          - - vis
+            - - t: "esta m\xE1quina no sirve para nada"
+                tr: this machine is completely useless
+              - t: esa excusa no sirve
+                tr: that excuse doesn't work
+              - t: "su talento no le sirvi\xF3 de mucho"
+                tr: his talent didn't do him much good
+              - t: deshazte de lo que no te sirve
+                tr: get rid of what you don't need
+              - t: "\xBFpara qu\xE9 sirve?"
+                tr: what's it for?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|serve} '
+          - - vis
+            - - t: "\xBFen qu\xE9 puedo servirle?"
+                tr: how may I help you?
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|serve} (in sports)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|serve} (in the military, etc.)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to serve as '
+          - - vis
+            - - t: servir de ejemplo
+                tr: to serve as an example
+          sn: '5'
+          vrs:
+          - va: servir de
+            vac: ~ de
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|serve} '
+          - - vis
+            - - t: "\xBFen qu\xE9 puedo servirlo?"
+                tr: how may I help you?
+              - t: "\xBFte sirvo m\xE1s caf\xE9?"
+                tr: would you like more coffee?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|surtir||} {bc}to {a_link|fill} (an order)'
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to help oneself to'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be kind enough '
+            - - vis
+              - - t: "s\xEDrvase enviarnos un cat\xE1logo"
+                  tr: please send us a catalog
+            sn: '2'
+    drp: servirse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: servir
+    prs:
+    - sound:
+        audio: servi06sp
+  meta:
+    id: servir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620526000'
+    src: spanish
+    stems:
+    - servir
+    - servir de
+    - servirse
+    uuid: 223ba96b-2cd0-4a95-ac7e-b371f260079f
+  shortdef:
+  - to work, to be useful
+  - to serve
+  - to serve (in sports)
+  suppl:
+    cjts:
+    - cjfs:
+      - sirviendo
+      - servido
+      cjid: gppt
+    - cjfs:
+      - sirvo
+      - sirves
+      - sirve
+      - servimos
+      - "serv\xEDs"
+      - sirven
+      cjid: pind
+    - cjfs:
+      - "serv\xEDa"
+      - "serv\xEDas"
+      - "serv\xEDa"
+      - "serv\xEDamos"
+      - "serv\xEDais"
+      - "serv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "serv\xED"
+      - serviste
+      - "sirvi\xF3"
+      - servimos
+      - servisteis
+      - sirvieron
+      cjid: pprf
+    - cjfs:
+      - "servir\xE9"
+      - "servir\xE1s"
+      - "servir\xE1"
+      - serviremos
+      - "servir\xE9is"
+      - "servir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "servir\xEDa"
+      - "servir\xEDas"
+      - "servir\xEDa"
+      - "servir\xEDamos"
+      - "servir\xEDais"
+      - "servir\xEDan"
+      cjid: cond
+    - cjfs:
+      - sirva
+      - sirvas
+      - sirva
+      - sirvamos
+      - "sirv\xE1is"
+      - sirvan
+      cjid: psub
+    - cjfs:
+      - sirviera
+      - sirvieras
+      - sirviera
+      - "sirvi\xE9ramos"
+      - sirvierais
+      - sirvieran
+      cjid: pisb1
+    - cjfs:
+      - sirviese
+      - sirvieses
+      - sirviese
+      - "sirvi\xE9semos"
+      - sirvieseis
+      - sirviesen
+      cjid: pisb2
+    - cjfs:
+      - sirviere
+      - sirvieres
+      - sirviere
+      - "sirvi\xE9remos"
+      - sirviereis
+      - sirvieren
+      cjid: fsub
+    - cjfs:
+      - he servido
+      - has servido
+      - ha servido
+      - hemos servido
+      - "hab\xE9is servido"
+      - han servido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa servido"
+      - "hab\xEDas servido"
+      - "hab\xEDa servido"
+      - "hab\xEDamos servido"
+      - "hab\xEDais servido"
+      - "hab\xEDan servido"
+      cjid: ppsi
+    - cjfs:
+      - hube servido
+      - hubiste servido
+      - hubo servido
+      - hubimos servido
+      - hubisteis servido
+      - hubieron servido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 servido"
+      - "habr\xE1s servido"
+      - "habr\xE1 servido"
+      - habremos servido
+      - "habr\xE9is servido"
+      - "habr\xE1n servido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa servido"
+      - "habr\xEDas servido"
+      - "habr\xEDa servido"
+      - "habr\xEDamos servido"
+      - "habr\xEDais servido"
+      - "habr\xEDan servido"
+      cjid: cpef
+    - cjfs:
+      - haya servido
+      - hayas servido
+      - haya servido
+      - hayamos servido
+      - "hay\xE1is servido"
+      - hayan servido
+      cjid: ppfs
+    - cjfs:
+      - hubiera servido
+      - hubieras servido
+      - hubiera servido
+      - "hubi\xE9ramos servido"
+      - hubierais servido
+      - hubieran servido
+      cjid: ppss1
+    - cjfs:
+      - hubiese servido
+      - hubieses servido
+      - hubiese servido
+      - "hubi\xE9semos servido"
+      - hubieseis servido
+      - hubiesen servido
+      cjid: ppss2
+    - cjfs:
+      - hubiere servido
+      - hubieres servido
+      - hubiere servido
+      - "hubi\xE9remos servido"
+      - hubiereis servido
+      - hubieren servido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sirve
+      - sirva
+      - sirvamos
+      - servid
+      - sirvan
+      cjid: impf

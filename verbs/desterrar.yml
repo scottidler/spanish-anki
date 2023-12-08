@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|exiliar||} {bc}to {a_link|banish}, to {a_link|exile}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|erradicar||} {bc}to {a_link|eradicate}, to {a_link|do away with}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: desterrar
+    prs:
+    - sound:
+        audio: deste03sp
+  meta:
+    id: desterrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607348000'
+    src: spanish
+    stems:
+    - desterrar
+    uuid: 2fee3691-2e3d-41ee-97b5-b968b8aa7322
+  shortdef:
+  - 'exiliar : to banish, to exile'
+  - 'erradicar : to eradicate, to do away with'
+  suppl:
+    cjts:
+    - cjfs:
+      - desterrando
+      - desterrado
+      cjid: gppt
+    - cjfs:
+      - destierro
+      - destierras
+      - destierra
+      - desterramos
+      - "desterr\xE1is"
+      - destierran
+      cjid: pind
+    - cjfs:
+      - desterraba
+      - desterrabas
+      - desterraba
+      - "desterr\xE1bamos"
+      - desterrabais
+      - desterraban
+      cjid: pret
+    - cjfs:
+      - "desterr\xE9"
+      - desterraste
+      - "desterr\xF3"
+      - desterramos
+      - desterrasteis
+      - desterraron
+      cjid: pprf
+    - cjfs:
+      - "desterrar\xE9"
+      - "desterrar\xE1s"
+      - "desterrar\xE1"
+      - desterraremos
+      - "desterrar\xE9is"
+      - "desterrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desterrar\xEDa"
+      - "desterrar\xEDas"
+      - "desterrar\xEDa"
+      - "desterrar\xEDamos"
+      - "desterrar\xEDais"
+      - "desterrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - destierre
+      - destierres
+      - destierre
+      - desterremos
+      - "desterr\xE9is"
+      - destierren
+      cjid: psub
+    - cjfs:
+      - desterrara
+      - desterraras
+      - desterrara
+      - "desterr\xE1ramos"
+      - desterrarais
+      - desterraran
+      cjid: pisb1
+    - cjfs:
+      - desterrase
+      - desterrases
+      - desterrase
+      - "desterr\xE1semos"
+      - desterraseis
+      - desterrasen
+      cjid: pisb2
+    - cjfs:
+      - desterrare
+      - desterrares
+      - desterrare
+      - "desterr\xE1remos"
+      - desterrareis
+      - desterraren
+      cjid: fsub
+    - cjfs:
+      - he desterrado
+      - has desterrado
+      - ha desterrado
+      - hemos desterrado
+      - "hab\xE9is desterrado"
+      - han desterrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desterrado"
+      - "hab\xEDas desterrado"
+      - "hab\xEDa desterrado"
+      - "hab\xEDamos desterrado"
+      - "hab\xEDais desterrado"
+      - "hab\xEDan desterrado"
+      cjid: ppsi
+    - cjfs:
+      - hube desterrado
+      - hubiste desterrado
+      - hubo desterrado
+      - hubimos desterrado
+      - hubisteis desterrado
+      - hubieron desterrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desterrado"
+      - "habr\xE1s desterrado"
+      - "habr\xE1 desterrado"
+      - habremos desterrado
+      - "habr\xE9is desterrado"
+      - "habr\xE1n desterrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desterrado"
+      - "habr\xEDas desterrado"
+      - "habr\xEDa desterrado"
+      - "habr\xEDamos desterrado"
+      - "habr\xEDais desterrado"
+      - "habr\xEDan desterrado"
+      cjid: cpef
+    - cjfs:
+      - haya desterrado
+      - hayas desterrado
+      - haya desterrado
+      - hayamos desterrado
+      - "hay\xE1is desterrado"
+      - hayan desterrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desterrado
+      - hubieras desterrado
+      - hubiera desterrado
+      - "hubi\xE9ramos desterrado"
+      - hubierais desterrado
+      - hubieran desterrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desterrado
+      - hubieses desterrado
+      - hubiese desterrado
+      - "hubi\xE9semos desterrado"
+      - hubieseis desterrado
+      - hubiesen desterrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desterrado
+      - hubieres desterrado
+      - hubiere desterrado
+      - "hubi\xE9remos desterrado"
+      - hubiereis desterrado
+      - hubieren desterrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - destierra
+      - destierre
+      - desterremos
+      - desterrad
+      - destierren
+      cjid: impf

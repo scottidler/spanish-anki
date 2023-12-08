@@ -1,0 +1,248 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mostrar||} {bc}to {a_link|present}, to {a_link|show}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have}, to {a_link|show} (a symptom)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|offer}, to {a_link|give} (an excuse, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|submit} (a document), to {a_link|file} (a complaint)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|launch} (a product)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|introduce} (a person)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|host} (a show), to {a_link|anchor} (a newscast)'
+          sn: '7'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|show up}, to {a_link|appear} '
+            - - vis
+              - - t: "pres\xE9ntese en la oficina central"
+                  tr: report to the central office
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|surgir||} {bc}to {a_link|arise}, to {a_link|come up}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to introduce oneself'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|enter} (a competition), to run in (an election)'
+            sn: '4'
+            vrs:
+            - va: presentarse a
+              vac: ~ a
+    drp: presentarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: presentar
+    prs:
+    - sound:
+        audio: prese05sp
+  meta:
+    id: presentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618028000'
+    src: spanish
+    stems:
+    - presentar
+    - presentarse
+    - presentarse a
+    uuid: 6ce44430-f0fd-496c-b87c-7c3100aecf12
+  shortdef:
+  - 'mostrar : to present, to show'
+  - to have, to show (a symptom)
+  - to offer, to give (an excuse, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - presentando
+      - presentado
+      cjid: gppt
+    - cjfs:
+      - presento
+      - presentas
+      - presenta
+      - presentamos
+      - "present\xE1is"
+      - presentan
+      cjid: pind
+    - cjfs:
+      - presentaba
+      - presentabas
+      - presentaba
+      - "present\xE1bamos"
+      - presentabais
+      - presentaban
+      cjid: pret
+    - cjfs:
+      - "present\xE9"
+      - presentaste
+      - "present\xF3"
+      - presentamos
+      - presentasteis
+      - presentaron
+      cjid: pprf
+    - cjfs:
+      - "presentar\xE9"
+      - "presentar\xE1s"
+      - "presentar\xE1"
+      - presentaremos
+      - "presentar\xE9is"
+      - "presentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "presentar\xEDa"
+      - "presentar\xEDas"
+      - "presentar\xEDa"
+      - "presentar\xEDamos"
+      - "presentar\xEDais"
+      - "presentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - presente
+      - presentes
+      - presente
+      - presentemos
+      - "present\xE9is"
+      - presenten
+      cjid: psub
+    - cjfs:
+      - presentara
+      - presentaras
+      - presentara
+      - "present\xE1ramos"
+      - presentarais
+      - presentaran
+      cjid: pisb1
+    - cjfs:
+      - presentase
+      - presentases
+      - presentase
+      - "present\xE1semos"
+      - presentaseis
+      - presentasen
+      cjid: pisb2
+    - cjfs:
+      - presentare
+      - presentares
+      - presentare
+      - "present\xE1remos"
+      - presentareis
+      - presentaren
+      cjid: fsub
+    - cjfs:
+      - he presentado
+      - has presentado
+      - ha presentado
+      - hemos presentado
+      - "hab\xE9is presentado"
+      - han presentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa presentado"
+      - "hab\xEDas presentado"
+      - "hab\xEDa presentado"
+      - "hab\xEDamos presentado"
+      - "hab\xEDais presentado"
+      - "hab\xEDan presentado"
+      cjid: ppsi
+    - cjfs:
+      - hube presentado
+      - hubiste presentado
+      - hubo presentado
+      - hubimos presentado
+      - hubisteis presentado
+      - hubieron presentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 presentado"
+      - "habr\xE1s presentado"
+      - "habr\xE1 presentado"
+      - habremos presentado
+      - "habr\xE9is presentado"
+      - "habr\xE1n presentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa presentado"
+      - "habr\xEDas presentado"
+      - "habr\xEDa presentado"
+      - "habr\xEDamos presentado"
+      - "habr\xEDais presentado"
+      - "habr\xEDan presentado"
+      cjid: cpef
+    - cjfs:
+      - haya presentado
+      - hayas presentado
+      - haya presentado
+      - hayamos presentado
+      - "hay\xE1is presentado"
+      - hayan presentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera presentado
+      - hubieras presentado
+      - hubiera presentado
+      - "hubi\xE9ramos presentado"
+      - hubierais presentado
+      - hubieran presentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese presentado
+      - hubieses presentado
+      - hubiese presentado
+      - "hubi\xE9semos presentado"
+      - hubieseis presentado
+      - hubiesen presentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere presentado
+      - hubieres presentado
+      - hubiere presentado
+      - "hubi\xE9remos presentado"
+      - hubiereis presentado
+      - hubieren presentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - presenta
+      - presente
+      - presentemos
+      - presentad
+      - presenten
+      cjid: impf

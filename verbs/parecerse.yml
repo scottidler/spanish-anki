@@ -1,0 +1,228 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|seem}, to {a_link|look}, to appear to be '
+          - - vis
+            - - t: "parece f\xE1cil"
+                tr: it looks easy
+              - t: parece que van a ganar
+                tr: it looks like they're going to win
+              - t: "as\xED parece"
+                tr: so it seems
+              - t: pareces una princesa
+                tr: you look like a princess
+          sn: '1'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "\xBFqu\xE9 te parece?"
+                tr: what do you think?
+              - t: "me parece que s\xED"
+                tr: I think so
+              - t: me parece bien
+                tr: that seems fine to me
+          sls:
+          - (expressing an opinion)
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|like}, to be in agreement '
+          - - vis
+            - - t: si te parece
+                tr: if you like, if it's all right with you
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|resemble}'
+            vrs:
+            - va: parecerse a
+              vac: ~ a
+    drp: parecerse
+    fl: reflexive verb
+  fl: intransitive verb
+  hom: 1
+  hwi:
+    hw: parecer
+    prs:
+    - sound:
+        audio: parec01sp
+  meta:
+    id: parecer:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616680000'
+    src: spanish
+    stems:
+    - parecer
+    - parecerse
+    - parecerse a
+    uuid: a5e15a96-6cf5-4d6e-993b-6b959ffb50cf
+  shortdef:
+  - to seem, to look, to appear to be
+  - to like, to be in agreement
+  suppl:
+    cjts:
+    - cjfs:
+      - pareciendo
+      - parecido
+      cjid: gppt
+    - cjfs:
+      - parezco
+      - pareces
+      - parece
+      - parecemos
+      - "parec\xE9is"
+      - parecen
+      cjid: pind
+    - cjfs:
+      - "parec\xEDa"
+      - "parec\xEDas"
+      - "parec\xEDa"
+      - "parec\xEDamos"
+      - "parec\xEDais"
+      - "parec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "parec\xED"
+      - pareciste
+      - "pareci\xF3"
+      - parecimos
+      - parecisteis
+      - parecieron
+      cjid: pprf
+    - cjfs:
+      - "parecer\xE9"
+      - "parecer\xE1s"
+      - "parecer\xE1"
+      - pareceremos
+      - "parecer\xE9is"
+      - "parecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "parecer\xEDa"
+      - "parecer\xEDas"
+      - "parecer\xEDa"
+      - "parecer\xEDamos"
+      - "parecer\xEDais"
+      - "parecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - parezca
+      - parezcas
+      - parezca
+      - parezcamos
+      - "parezc\xE1is"
+      - parezcan
+      cjid: psub
+    - cjfs:
+      - pareciera
+      - parecieras
+      - pareciera
+      - "pareci\xE9ramos"
+      - parecierais
+      - parecieran
+      cjid: pisb1
+    - cjfs:
+      - pareciese
+      - parecieses
+      - pareciese
+      - "pareci\xE9semos"
+      - parecieseis
+      - pareciesen
+      cjid: pisb2
+    - cjfs:
+      - pareciere
+      - parecieres
+      - pareciere
+      - "pareci\xE9remos"
+      - pareciereis
+      - parecieren
+      cjid: fsub
+    - cjfs:
+      - he parecido
+      - has parecido
+      - ha parecido
+      - hemos parecido
+      - "hab\xE9is parecido"
+      - han parecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa parecido"
+      - "hab\xEDas parecido"
+      - "hab\xEDa parecido"
+      - "hab\xEDamos parecido"
+      - "hab\xEDais parecido"
+      - "hab\xEDan parecido"
+      cjid: ppsi
+    - cjfs:
+      - hube parecido
+      - hubiste parecido
+      - hubo parecido
+      - hubimos parecido
+      - hubisteis parecido
+      - hubieron parecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 parecido"
+      - "habr\xE1s parecido"
+      - "habr\xE1 parecido"
+      - habremos parecido
+      - "habr\xE9is parecido"
+      - "habr\xE1n parecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa parecido"
+      - "habr\xEDas parecido"
+      - "habr\xEDa parecido"
+      - "habr\xEDamos parecido"
+      - "habr\xEDais parecido"
+      - "habr\xEDan parecido"
+      cjid: cpef
+    - cjfs:
+      - haya parecido
+      - hayas parecido
+      - haya parecido
+      - hayamos parecido
+      - "hay\xE1is parecido"
+      - hayan parecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera parecido
+      - hubieras parecido
+      - hubiera parecido
+      - "hubi\xE9ramos parecido"
+      - hubierais parecido
+      - hubieran parecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese parecido
+      - hubieses parecido
+      - hubiese parecido
+      - "hubi\xE9semos parecido"
+      - hubieseis parecido
+      - hubiesen parecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere parecido
+      - hubieres parecido
+      - hubiere parecido
+      - "hubi\xE9remos parecido"
+      - hubiereis parecido
+      - hubieren parecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - parece
+      - parezca
+      - parezcamos
+      - pareced
+      - parezcan
+      cjid: impf

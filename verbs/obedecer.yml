@@ -1,0 +1,213 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|obey} '
+          - - vis
+            - - t: "obedecer \xF3rdenes"
+                tr: to obey orders
+              - t: obedece a tus padres
+                tr: obey your parents
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|obey}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to respond to'
+          sn: '2'
+          vrs:
+          - va: obedecer a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be due to, to result from'
+          sn: '3'
+          vrs:
+          - va: obedecer a
+            vac: ~ a
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: obedecer
+    prs:
+    - sound:
+        audio: obede01sp
+  meta:
+    id: obedecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615967000'
+    src: spanish
+    stems:
+    - obedecer
+    - obedecer a
+    uuid: cd1e10bf-03dc-4d23-9c3a-3c7726ab876a
+  shortdef:
+  - to obey
+  - to obey
+  - to respond to
+  suppl:
+    cjts:
+    - cjfs:
+      - obedeciendo
+      - obedecido
+      cjid: gppt
+    - cjfs:
+      - obedezco
+      - obedeces
+      - obedece
+      - obedecemos
+      - "obedec\xE9is"
+      - obedecen
+      cjid: pind
+    - cjfs:
+      - "obedec\xEDa"
+      - "obedec\xEDas"
+      - "obedec\xEDa"
+      - "obedec\xEDamos"
+      - "obedec\xEDais"
+      - "obedec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "obedec\xED"
+      - obedeciste
+      - "obedeci\xF3"
+      - obedecimos
+      - obedecisteis
+      - obedecieron
+      cjid: pprf
+    - cjfs:
+      - "obedecer\xE9"
+      - "obedecer\xE1s"
+      - "obedecer\xE1"
+      - obedeceremos
+      - "obedecer\xE9is"
+      - "obedecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "obedecer\xEDa"
+      - "obedecer\xEDas"
+      - "obedecer\xEDa"
+      - "obedecer\xEDamos"
+      - "obedecer\xEDais"
+      - "obedecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - obedezca
+      - obedezcas
+      - obedezca
+      - obedezcamos
+      - "obedezc\xE1is"
+      - obedezcan
+      cjid: psub
+    - cjfs:
+      - obedeciera
+      - obedecieras
+      - obedeciera
+      - "obedeci\xE9ramos"
+      - obedecierais
+      - obedecieran
+      cjid: pisb1
+    - cjfs:
+      - obedeciese
+      - obedecieses
+      - obedeciese
+      - "obedeci\xE9semos"
+      - obedecieseis
+      - obedeciesen
+      cjid: pisb2
+    - cjfs:
+      - obedeciere
+      - obedecieres
+      - obedeciere
+      - "obedeci\xE9remos"
+      - obedeciereis
+      - obedecieren
+      cjid: fsub
+    - cjfs:
+      - he obedecido
+      - has obedecido
+      - ha obedecido
+      - hemos obedecido
+      - "hab\xE9is obedecido"
+      - han obedecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa obedecido"
+      - "hab\xEDas obedecido"
+      - "hab\xEDa obedecido"
+      - "hab\xEDamos obedecido"
+      - "hab\xEDais obedecido"
+      - "hab\xEDan obedecido"
+      cjid: ppsi
+    - cjfs:
+      - hube obedecido
+      - hubiste obedecido
+      - hubo obedecido
+      - hubimos obedecido
+      - hubisteis obedecido
+      - hubieron obedecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 obedecido"
+      - "habr\xE1s obedecido"
+      - "habr\xE1 obedecido"
+      - habremos obedecido
+      - "habr\xE9is obedecido"
+      - "habr\xE1n obedecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa obedecido"
+      - "habr\xEDas obedecido"
+      - "habr\xEDa obedecido"
+      - "habr\xEDamos obedecido"
+      - "habr\xEDais obedecido"
+      - "habr\xEDan obedecido"
+      cjid: cpef
+    - cjfs:
+      - haya obedecido
+      - hayas obedecido
+      - haya obedecido
+      - hayamos obedecido
+      - "hay\xE1is obedecido"
+      - hayan obedecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera obedecido
+      - hubieras obedecido
+      - hubiera obedecido
+      - "hubi\xE9ramos obedecido"
+      - hubierais obedecido
+      - hubieran obedecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese obedecido
+      - hubieses obedecido
+      - hubiese obedecido
+      - "hubi\xE9semos obedecido"
+      - hubieseis obedecido
+      - hubiesen obedecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere obedecido
+      - hubieres obedecido
+      - hubiere obedecido
+      - "hubi\xE9remos obedecido"
+      - hubiereis obedecido
+      - hubieren obedecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - obedece
+      - obedezca
+      - obedezcamos
+      - obedeced
+      - obedezcan
+      cjid: impf

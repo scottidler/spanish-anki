@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|demoler||}, {sx|derrumbar||} {bc}to {a_link|demolish}, to {a_link|knock
+              down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot down}, to {a_link|bring down} (an airplane)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|derrocar||} {bc}to {a_link|overthrow}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: derribar
+    prs:
+    - sound:
+        audio: derri01sp
+  meta:
+    id: derribar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606763000'
+    src: spanish
+    stems:
+    - derribar
+    uuid: ea1f80a3-af18-4e18-bcaf-3c700bcaf9d3
+  shortdef:
+  - 'demoler, derrumbar : to demolish, to knock down'
+  - to shoot down, to bring down (an airplane)
+  - 'derrocar : to overthrow'
+  suppl:
+    cjts:
+    - cjfs:
+      - derribando
+      - derribado
+      cjid: gppt
+    - cjfs:
+      - derribo
+      - derribas
+      - derriba
+      - derribamos
+      - "derrib\xE1is"
+      - derriban
+      cjid: pind
+    - cjfs:
+      - derribaba
+      - derribabas
+      - derribaba
+      - "derrib\xE1bamos"
+      - derribabais
+      - derribaban
+      cjid: pret
+    - cjfs:
+      - "derrib\xE9"
+      - derribaste
+      - "derrib\xF3"
+      - derribamos
+      - derribasteis
+      - derribaron
+      cjid: pprf
+    - cjfs:
+      - "derribar\xE9"
+      - "derribar\xE1s"
+      - "derribar\xE1"
+      - derribaremos
+      - "derribar\xE9is"
+      - "derribar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "derribar\xEDa"
+      - "derribar\xEDas"
+      - "derribar\xEDa"
+      - "derribar\xEDamos"
+      - "derribar\xEDais"
+      - "derribar\xEDan"
+      cjid: cond
+    - cjfs:
+      - derribe
+      - derribes
+      - derribe
+      - derribemos
+      - "derrib\xE9is"
+      - derriben
+      cjid: psub
+    - cjfs:
+      - derribara
+      - derribaras
+      - derribara
+      - "derrib\xE1ramos"
+      - derribarais
+      - derribaran
+      cjid: pisb1
+    - cjfs:
+      - derribase
+      - derribases
+      - derribase
+      - "derrib\xE1semos"
+      - derribaseis
+      - derribasen
+      cjid: pisb2
+    - cjfs:
+      - derribare
+      - derribares
+      - derribare
+      - "derrib\xE1remos"
+      - derribareis
+      - derribaren
+      cjid: fsub
+    - cjfs:
+      - he derribado
+      - has derribado
+      - ha derribado
+      - hemos derribado
+      - "hab\xE9is derribado"
+      - han derribado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa derribado"
+      - "hab\xEDas derribado"
+      - "hab\xEDa derribado"
+      - "hab\xEDamos derribado"
+      - "hab\xEDais derribado"
+      - "hab\xEDan derribado"
+      cjid: ppsi
+    - cjfs:
+      - hube derribado
+      - hubiste derribado
+      - hubo derribado
+      - hubimos derribado
+      - hubisteis derribado
+      - hubieron derribado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 derribado"
+      - "habr\xE1s derribado"
+      - "habr\xE1 derribado"
+      - habremos derribado
+      - "habr\xE9is derribado"
+      - "habr\xE1n derribado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa derribado"
+      - "habr\xEDas derribado"
+      - "habr\xEDa derribado"
+      - "habr\xEDamos derribado"
+      - "habr\xEDais derribado"
+      - "habr\xEDan derribado"
+      cjid: cpef
+    - cjfs:
+      - haya derribado
+      - hayas derribado
+      - haya derribado
+      - hayamos derribado
+      - "hay\xE1is derribado"
+      - hayan derribado
+      cjid: ppfs
+    - cjfs:
+      - hubiera derribado
+      - hubieras derribado
+      - hubiera derribado
+      - "hubi\xE9ramos derribado"
+      - hubierais derribado
+      - hubieran derribado
+      cjid: ppss1
+    - cjfs:
+      - hubiese derribado
+      - hubieses derribado
+      - hubiese derribado
+      - "hubi\xE9semos derribado"
+      - hubieseis derribado
+      - hubiesen derribado
+      cjid: ppss2
+    - cjfs:
+      - hubiere derribado
+      - hubieres derribado
+      - hubiere derribado
+      - "hubi\xE9remos derribado"
+      - hubiereis derribado
+      - hubieren derribado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - derriba
+      - derribe
+      - derribemos
+      - derribad
+      - derriben
+      cjid: impf

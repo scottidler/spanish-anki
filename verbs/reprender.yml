@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reprimand}, to {a_link|scold}'
+  fl: transitive verb
+  hwi:
+    hw: reprender
+    prs:
+    - sound:
+        audio: repre01sp
+  meta:
+    id: reprender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619476000'
+    src: spanish
+    stems:
+    - reprender
+    uuid: 78496d5c-3672-4e72-b204-4d454dcabdff
+  shortdef:
+  - to reprimand, to scold
+  suppl:
+    cjts:
+    - cjfs:
+      - reprendiendo
+      - reprendido
+      cjid: gppt
+    - cjfs:
+      - reprendo
+      - reprendes
+      - reprende
+      - reprendemos
+      - "reprend\xE9is"
+      - reprenden
+      cjid: pind
+    - cjfs:
+      - "reprend\xEDa"
+      - "reprend\xEDas"
+      - "reprend\xEDa"
+      - "reprend\xEDamos"
+      - "reprend\xEDais"
+      - "reprend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reprend\xED"
+      - reprendiste
+      - "reprendi\xF3"
+      - reprendimos
+      - reprendisteis
+      - reprendieron
+      cjid: pprf
+    - cjfs:
+      - "reprender\xE9"
+      - "reprender\xE1s"
+      - "reprender\xE1"
+      - reprenderemos
+      - "reprender\xE9is"
+      - "reprender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reprender\xEDa"
+      - "reprender\xEDas"
+      - "reprender\xEDa"
+      - "reprender\xEDamos"
+      - "reprender\xEDais"
+      - "reprender\xEDan"
+      cjid: cond
+    - cjfs:
+      - reprenda
+      - reprendas
+      - reprenda
+      - reprendamos
+      - "reprend\xE1is"
+      - reprendan
+      cjid: psub
+    - cjfs:
+      - reprendiera
+      - reprendieras
+      - reprendiera
+      - "reprendi\xE9ramos"
+      - reprendierais
+      - reprendieran
+      cjid: pisb1
+    - cjfs:
+      - reprendiese
+      - reprendieses
+      - reprendiese
+      - "reprendi\xE9semos"
+      - reprendieseis
+      - reprendiesen
+      cjid: pisb2
+    - cjfs:
+      - reprendiere
+      - reprendieres
+      - reprendiere
+      - "reprendi\xE9remos"
+      - reprendiereis
+      - reprendieren
+      cjid: fsub
+    - cjfs:
+      - he reprendido
+      - has reprendido
+      - ha reprendido
+      - hemos reprendido
+      - "hab\xE9is reprendido"
+      - han reprendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reprendido"
+      - "hab\xEDas reprendido"
+      - "hab\xEDa reprendido"
+      - "hab\xEDamos reprendido"
+      - "hab\xEDais reprendido"
+      - "hab\xEDan reprendido"
+      cjid: ppsi
+    - cjfs:
+      - hube reprendido
+      - hubiste reprendido
+      - hubo reprendido
+      - hubimos reprendido
+      - hubisteis reprendido
+      - hubieron reprendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reprendido"
+      - "habr\xE1s reprendido"
+      - "habr\xE1 reprendido"
+      - habremos reprendido
+      - "habr\xE9is reprendido"
+      - "habr\xE1n reprendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reprendido"
+      - "habr\xEDas reprendido"
+      - "habr\xEDa reprendido"
+      - "habr\xEDamos reprendido"
+      - "habr\xEDais reprendido"
+      - "habr\xEDan reprendido"
+      cjid: cpef
+    - cjfs:
+      - haya reprendido
+      - hayas reprendido
+      - haya reprendido
+      - hayamos reprendido
+      - "hay\xE1is reprendido"
+      - hayan reprendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera reprendido
+      - hubieras reprendido
+      - hubiera reprendido
+      - "hubi\xE9ramos reprendido"
+      - hubierais reprendido
+      - hubieran reprendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese reprendido
+      - hubieses reprendido
+      - hubiese reprendido
+      - "hubi\xE9semos reprendido"
+      - hubieseis reprendido
+      - hubiesen reprendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere reprendido
+      - hubieres reprendido
+      - hubiere reprendido
+      - "hubi\xE9remos reprendido"
+      - hubiereis reprendido
+      - hubieren reprendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reprende
+      - reprenda
+      - reprendamos
+      - reprended
+      - reprendan
+      cjid: impf

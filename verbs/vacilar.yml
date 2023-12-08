@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hesitate}, to {a_link|vacillate}, to {a_link|waver}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be unsteady, to {a_link|wobble}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flicker}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|joke}, to {a_link|fool around}'
+          sls:
+          - familiar
+          sn: '4'
+  fl: intransitive verb
+  hwi:
+    hw: vacilar
+    prs:
+    - sound:
+        audio: vacil01sp
+  meta:
+    id: vacilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622628000'
+    src: spanish
+    stems:
+    - vacilar
+    uuid: 8b14b0c7-4d14-4c48-ab6c-7f11c3a8bdb3
+  shortdef:
+  - to hesitate, to vacillate, to waver
+  - to be unsteady, to wobble
+  - to flicker
+  suppl:
+    cjts:
+    - cjfs:
+      - vacilando
+      - vacilado
+      cjid: gppt
+    - cjfs:
+      - vacilo
+      - vacilas
+      - vacila
+      - vacilamos
+      - "vacil\xE1is"
+      - vacilan
+      cjid: pind
+    - cjfs:
+      - vacilaba
+      - vacilabas
+      - vacilaba
+      - "vacil\xE1bamos"
+      - vacilabais
+      - vacilaban
+      cjid: pret
+    - cjfs:
+      - "vacil\xE9"
+      - vacilaste
+      - "vacil\xF3"
+      - vacilamos
+      - vacilasteis
+      - vacilaron
+      cjid: pprf
+    - cjfs:
+      - "vacilar\xE9"
+      - "vacilar\xE1s"
+      - "vacilar\xE1"
+      - vacilaremos
+      - "vacilar\xE9is"
+      - "vacilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vacilar\xEDa"
+      - "vacilar\xEDas"
+      - "vacilar\xEDa"
+      - "vacilar\xEDamos"
+      - "vacilar\xEDais"
+      - "vacilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vacile
+      - vaciles
+      - vacile
+      - vacilemos
+      - "vacil\xE9is"
+      - vacilen
+      cjid: psub
+    - cjfs:
+      - vacilara
+      - vacilaras
+      - vacilara
+      - "vacil\xE1ramos"
+      - vacilarais
+      - vacilaran
+      cjid: pisb1
+    - cjfs:
+      - vacilase
+      - vacilases
+      - vacilase
+      - "vacil\xE1semos"
+      - vacilaseis
+      - vacilasen
+      cjid: pisb2
+    - cjfs:
+      - vacilare
+      - vacilares
+      - vacilare
+      - "vacil\xE1remos"
+      - vacilareis
+      - vacilaren
+      cjid: fsub
+    - cjfs:
+      - he vacilado
+      - has vacilado
+      - ha vacilado
+      - hemos vacilado
+      - "hab\xE9is vacilado"
+      - han vacilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vacilado"
+      - "hab\xEDas vacilado"
+      - "hab\xEDa vacilado"
+      - "hab\xEDamos vacilado"
+      - "hab\xEDais vacilado"
+      - "hab\xEDan vacilado"
+      cjid: ppsi
+    - cjfs:
+      - hube vacilado
+      - hubiste vacilado
+      - hubo vacilado
+      - hubimos vacilado
+      - hubisteis vacilado
+      - hubieron vacilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vacilado"
+      - "habr\xE1s vacilado"
+      - "habr\xE1 vacilado"
+      - habremos vacilado
+      - "habr\xE9is vacilado"
+      - "habr\xE1n vacilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vacilado"
+      - "habr\xEDas vacilado"
+      - "habr\xEDa vacilado"
+      - "habr\xEDamos vacilado"
+      - "habr\xEDais vacilado"
+      - "habr\xEDan vacilado"
+      cjid: cpef
+    - cjfs:
+      - haya vacilado
+      - hayas vacilado
+      - haya vacilado
+      - hayamos vacilado
+      - "hay\xE1is vacilado"
+      - hayan vacilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vacilado
+      - hubieras vacilado
+      - hubiera vacilado
+      - "hubi\xE9ramos vacilado"
+      - hubierais vacilado
+      - hubieran vacilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vacilado
+      - hubieses vacilado
+      - hubiese vacilado
+      - "hubi\xE9semos vacilado"
+      - hubieseis vacilado
+      - hubiesen vacilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vacilado
+      - hubieres vacilado
+      - hubiere vacilado
+      - "hubi\xE9remos vacilado"
+      - hubiereis vacilado
+      - hubieren vacilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vacila
+      - vacile
+      - vacilemos
+      - vacilad
+      - vacilen
+      cjid: impf

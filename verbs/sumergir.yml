@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|submerge}, to {a_link|immerse}, to {a_link|plunge}'
+  fl: transitive verb
+  hwi:
+    hw: sumergir
+    prs:
+    - sound:
+        audio: sumer01sp
+  meta:
+    id: sumergir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621205000'
+    src: spanish
+    stems:
+    - sumergir
+    - sumergirse
+    uuid: 30b93947-31c2-4cbf-bf20-eced31014172
+  shortdef:
+  - to submerge, to immerse, to plunge
+  suppl:
+    cjts:
+    - cjfs:
+      - sumergiendo
+      - sumergido
+      cjid: gppt
+    - cjfs:
+      - sumerjo
+      - sumerges
+      - sumerge
+      - sumergimos
+      - "sumerg\xEDs"
+      - sumergen
+      cjid: pind
+    - cjfs:
+      - "sumerg\xEDa"
+      - "sumerg\xEDas"
+      - "sumerg\xEDa"
+      - "sumerg\xEDamos"
+      - "sumerg\xEDais"
+      - "sumerg\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sumerg\xED"
+      - sumergiste
+      - "sumergi\xF3"
+      - sumergimos
+      - sumergisteis
+      - sumergieron
+      cjid: pprf
+    - cjfs:
+      - "sumergir\xE9"
+      - "sumergir\xE1s"
+      - "sumergir\xE1"
+      - sumergiremos
+      - "sumergir\xE9is"
+      - "sumergir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sumergir\xEDa"
+      - "sumergir\xEDas"
+      - "sumergir\xEDa"
+      - "sumergir\xEDamos"
+      - "sumergir\xEDais"
+      - "sumergir\xEDan"
+      cjid: cond
+    - cjfs:
+      - sumerja
+      - sumerjas
+      - sumerja
+      - sumerjamos
+      - "sumerj\xE1is"
+      - sumerjan
+      cjid: psub
+    - cjfs:
+      - sumergiera
+      - sumergieras
+      - sumergiera
+      - "sumergi\xE9ramos"
+      - sumergierais
+      - sumergieran
+      cjid: pisb1
+    - cjfs:
+      - sumergiese
+      - sumergieses
+      - sumergiese
+      - "sumergi\xE9semos"
+      - sumergieseis
+      - sumergiesen
+      cjid: pisb2
+    - cjfs:
+      - sumergiere
+      - sumergieres
+      - sumergiere
+      - "sumergi\xE9remos"
+      - sumergiereis
+      - sumergieren
+      cjid: fsub
+    - cjfs:
+      - he sumergido
+      - has sumergido
+      - ha sumergido
+      - hemos sumergido
+      - "hab\xE9is sumergido"
+      - han sumergido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sumergido"
+      - "hab\xEDas sumergido"
+      - "hab\xEDa sumergido"
+      - "hab\xEDamos sumergido"
+      - "hab\xEDais sumergido"
+      - "hab\xEDan sumergido"
+      cjid: ppsi
+    - cjfs:
+      - hube sumergido
+      - hubiste sumergido
+      - hubo sumergido
+      - hubimos sumergido
+      - hubisteis sumergido
+      - hubieron sumergido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sumergido"
+      - "habr\xE1s sumergido"
+      - "habr\xE1 sumergido"
+      - habremos sumergido
+      - "habr\xE9is sumergido"
+      - "habr\xE1n sumergido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sumergido"
+      - "habr\xEDas sumergido"
+      - "habr\xEDa sumergido"
+      - "habr\xEDamos sumergido"
+      - "habr\xEDais sumergido"
+      - "habr\xEDan sumergido"
+      cjid: cpef
+    - cjfs:
+      - haya sumergido
+      - hayas sumergido
+      - haya sumergido
+      - hayamos sumergido
+      - "hay\xE1is sumergido"
+      - hayan sumergido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sumergido
+      - hubieras sumergido
+      - hubiera sumergido
+      - "hubi\xE9ramos sumergido"
+      - hubierais sumergido
+      - hubieran sumergido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sumergido
+      - hubieses sumergido
+      - hubiese sumergido
+      - "hubi\xE9semos sumergido"
+      - hubieseis sumergido
+      - hubiesen sumergido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sumergido
+      - hubieres sumergido
+      - hubiere sumergido
+      - "hubi\xE9remos sumergido"
+      - hubiereis sumergido
+      - hubieren sumergido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sumerge
+      - sumerja
+      - sumerjamos
+      - sumergid
+      - sumerjan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: sumergirse

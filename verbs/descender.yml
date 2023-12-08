@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|descend}, to {a_link|go down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|bajar||} {bc}to {a_link|lower}, to {a_link|take down}, to {a_link|let
+              down}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|descend}, to {a_link|come down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drop}, to {a_link|fall}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be a descendant of'
+          sn: '3'
+          vrs:
+          - va: descender de
+            vac: ~ de
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: descender
+    prs:
+    - sound:
+        audio: desce02sp
+  meta:
+    id: descender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606926000'
+    src: spanish
+    stems:
+    - descender
+    - descender de
+    uuid: a89f20af-9549-47c1-a422-adc794838018
+  shortdef:
+  - to descend, to go down
+  - 'bajar : to lower, to take down, to let down'
+  - to descend, to come down
+  suppl:
+    cjts:
+    - cjfs:
+      - descendiendo
+      - descendido
+      cjid: gppt
+    - cjfs:
+      - desciendo
+      - desciendes
+      - desciende
+      - descendemos
+      - "descend\xE9is"
+      - descienden
+      cjid: pind
+    - cjfs:
+      - "descend\xEDa"
+      - "descend\xEDas"
+      - "descend\xEDa"
+      - "descend\xEDamos"
+      - "descend\xEDais"
+      - "descend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "descend\xED"
+      - descendiste
+      - "descendi\xF3"
+      - descendimos
+      - descendisteis
+      - descendieron
+      cjid: pprf
+    - cjfs:
+      - "descender\xE9"
+      - "descender\xE1s"
+      - "descender\xE1"
+      - descenderemos
+      - "descender\xE9is"
+      - "descender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "descender\xEDa"
+      - "descender\xEDas"
+      - "descender\xEDa"
+      - "descender\xEDamos"
+      - "descender\xEDais"
+      - "descender\xEDan"
+      cjid: cond
+    - cjfs:
+      - descienda
+      - desciendas
+      - descienda
+      - descendamos
+      - "descend\xE1is"
+      - desciendan
+      cjid: psub
+    - cjfs:
+      - descendiera
+      - descendieras
+      - descendiera
+      - "descendi\xE9ramos"
+      - descendierais
+      - descendieran
+      cjid: pisb1
+    - cjfs:
+      - descendiese
+      - descendieses
+      - descendiese
+      - "descendi\xE9semos"
+      - descendieseis
+      - descendiesen
+      cjid: pisb2
+    - cjfs:
+      - descendiere
+      - descendieres
+      - descendiere
+      - "descendi\xE9remos"
+      - descendiereis
+      - descendieren
+      cjid: fsub
+    - cjfs:
+      - he descendido
+      - has descendido
+      - ha descendido
+      - hemos descendido
+      - "hab\xE9is descendido"
+      - han descendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa descendido"
+      - "hab\xEDas descendido"
+      - "hab\xEDa descendido"
+      - "hab\xEDamos descendido"
+      - "hab\xEDais descendido"
+      - "hab\xEDan descendido"
+      cjid: ppsi
+    - cjfs:
+      - hube descendido
+      - hubiste descendido
+      - hubo descendido
+      - hubimos descendido
+      - hubisteis descendido
+      - hubieron descendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 descendido"
+      - "habr\xE1s descendido"
+      - "habr\xE1 descendido"
+      - habremos descendido
+      - "habr\xE9is descendido"
+      - "habr\xE1n descendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa descendido"
+      - "habr\xEDas descendido"
+      - "habr\xEDa descendido"
+      - "habr\xEDamos descendido"
+      - "habr\xEDais descendido"
+      - "habr\xEDan descendido"
+      cjid: cpef
+    - cjfs:
+      - haya descendido
+      - hayas descendido
+      - haya descendido
+      - hayamos descendido
+      - "hay\xE1is descendido"
+      - hayan descendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera descendido
+      - hubieras descendido
+      - hubiera descendido
+      - "hubi\xE9ramos descendido"
+      - hubierais descendido
+      - hubieran descendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese descendido
+      - hubieses descendido
+      - hubiese descendido
+      - "hubi\xE9semos descendido"
+      - hubieseis descendido
+      - hubiesen descendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere descendido
+      - hubieres descendido
+      - hubiere descendido
+      - "hubi\xE9remos descendido"
+      - hubiereis descendido
+      - hubieren descendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desciende
+      - descienda
+      - descendamos
+      - descended
+      - desciendan
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resound}, to {a_link|ring}'
+  fl: intransitive verb
+  hwi:
+    hw: resonar
+  meta:
+    id: resonar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619576000'
+    src: spanish
+    stems:
+    - resonar
+    uuid: febd3c6b-d198-4f77-a298-7ce8b2865782
+  shortdef:
+  - to resound, to ring
+  suppl:
+    cjts:
+    - cjfs:
+      - resonando
+      - resonado
+      cjid: gppt
+    - cjfs:
+      - resueno
+      - resuenas
+      - resuena
+      - resonamos
+      - "reson\xE1is"
+      - resuenan
+      cjid: pind
+    - cjfs:
+      - resonaba
+      - resonabas
+      - resonaba
+      - "reson\xE1bamos"
+      - resonabais
+      - resonaban
+      cjid: pret
+    - cjfs:
+      - "reson\xE9"
+      - resonaste
+      - "reson\xF3"
+      - resonamos
+      - resonasteis
+      - resonaron
+      cjid: pprf
+    - cjfs:
+      - "resonar\xE9"
+      - "resonar\xE1s"
+      - "resonar\xE1"
+      - resonaremos
+      - "resonar\xE9is"
+      - "resonar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resonar\xEDa"
+      - "resonar\xEDas"
+      - "resonar\xEDa"
+      - "resonar\xEDamos"
+      - "resonar\xEDais"
+      - "resonar\xEDan"
+      cjid: cond
+    - cjfs:
+      - resuene
+      - resuenes
+      - resuene
+      - resonemos
+      - "reson\xE9is"
+      - resuenen
+      cjid: psub
+    - cjfs:
+      - resonara
+      - resonaras
+      - resonara
+      - "reson\xE1ramos"
+      - resonarais
+      - resonaran
+      cjid: pisb1
+    - cjfs:
+      - resonase
+      - resonases
+      - resonase
+      - "reson\xE1semos"
+      - resonaseis
+      - resonasen
+      cjid: pisb2
+    - cjfs:
+      - resonare
+      - resonares
+      - resonare
+      - "reson\xE1remos"
+      - resonareis
+      - resonaren
+      cjid: fsub
+    - cjfs:
+      - he resonado
+      - has resonado
+      - ha resonado
+      - hemos resonado
+      - "hab\xE9is resonado"
+      - han resonado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resonado"
+      - "hab\xEDas resonado"
+      - "hab\xEDa resonado"
+      - "hab\xEDamos resonado"
+      - "hab\xEDais resonado"
+      - "hab\xEDan resonado"
+      cjid: ppsi
+    - cjfs:
+      - hube resonado
+      - hubiste resonado
+      - hubo resonado
+      - hubimos resonado
+      - hubisteis resonado
+      - hubieron resonado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resonado"
+      - "habr\xE1s resonado"
+      - "habr\xE1 resonado"
+      - habremos resonado
+      - "habr\xE9is resonado"
+      - "habr\xE1n resonado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resonado"
+      - "habr\xEDas resonado"
+      - "habr\xEDa resonado"
+      - "habr\xEDamos resonado"
+      - "habr\xEDais resonado"
+      - "habr\xEDan resonado"
+      cjid: cpef
+    - cjfs:
+      - haya resonado
+      - hayas resonado
+      - haya resonado
+      - hayamos resonado
+      - "hay\xE1is resonado"
+      - hayan resonado
+      cjid: ppfs
+    - cjfs:
+      - hubiera resonado
+      - hubieras resonado
+      - hubiera resonado
+      - "hubi\xE9ramos resonado"
+      - hubierais resonado
+      - hubieran resonado
+      cjid: ppss1
+    - cjfs:
+      - hubiese resonado
+      - hubieses resonado
+      - hubiese resonado
+      - "hubi\xE9semos resonado"
+      - hubieseis resonado
+      - hubiesen resonado
+      cjid: ppss2
+    - cjfs:
+      - hubiere resonado
+      - hubieres resonado
+      - hubiere resonado
+      - "hubi\xE9remos resonado"
+      - hubiereis resonado
+      - hubieren resonado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resuena
+      - resuene
+      - resonemos
+      - resonad
+      - resuenen
+      cjid: impf

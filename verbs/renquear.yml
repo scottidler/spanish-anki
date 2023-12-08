@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|limp}, to {a_link|hobble}'
+  fl: intransitive verb
+  hwi:
+    hw: renquear
+  meta:
+    id: renquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619402000'
+    src: spanish
+    stems:
+    - renquear
+    uuid: c64a652d-2aa9-42e8-9fff-6c3a980e171f
+  shortdef:
+  - to limp, to hobble
+  suppl:
+    cjts:
+    - cjfs:
+      - renqueando
+      - renqueado
+      cjid: gppt
+    - cjfs:
+      - renqueo
+      - renqueas
+      - renquea
+      - renqueamos
+      - "renque\xE1is"
+      - renquean
+      cjid: pind
+    - cjfs:
+      - renqueaba
+      - renqueabas
+      - renqueaba
+      - "renque\xE1bamos"
+      - renqueabais
+      - renqueaban
+      cjid: pret
+    - cjfs:
+      - "renque\xE9"
+      - renqueaste
+      - "renque\xF3"
+      - renqueamos
+      - renqueasteis
+      - renquearon
+      cjid: pprf
+    - cjfs:
+      - "renquear\xE9"
+      - "renquear\xE1s"
+      - "renquear\xE1"
+      - renquearemos
+      - "renquear\xE9is"
+      - "renquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "renquear\xEDa"
+      - "renquear\xEDas"
+      - "renquear\xEDa"
+      - "renquear\xEDamos"
+      - "renquear\xEDais"
+      - "renquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - renquee
+      - renquees
+      - renquee
+      - renqueemos
+      - "renque\xE9is"
+      - renqueen
+      cjid: psub
+    - cjfs:
+      - renqueara
+      - renquearas
+      - renqueara
+      - "renque\xE1ramos"
+      - renquearais
+      - renquearan
+      cjid: pisb1
+    - cjfs:
+      - renquease
+      - renqueases
+      - renquease
+      - "renque\xE1semos"
+      - renqueaseis
+      - renqueasen
+      cjid: pisb2
+    - cjfs:
+      - renqueare
+      - renqueares
+      - renqueare
+      - "renque\xE1remos"
+      - renqueareis
+      - renquearen
+      cjid: fsub
+    - cjfs:
+      - he renqueado
+      - has renqueado
+      - ha renqueado
+      - hemos renqueado
+      - "hab\xE9is renqueado"
+      - han renqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa renqueado"
+      - "hab\xEDas renqueado"
+      - "hab\xEDa renqueado"
+      - "hab\xEDamos renqueado"
+      - "hab\xEDais renqueado"
+      - "hab\xEDan renqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube renqueado
+      - hubiste renqueado
+      - hubo renqueado
+      - hubimos renqueado
+      - hubisteis renqueado
+      - hubieron renqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 renqueado"
+      - "habr\xE1s renqueado"
+      - "habr\xE1 renqueado"
+      - habremos renqueado
+      - "habr\xE9is renqueado"
+      - "habr\xE1n renqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa renqueado"
+      - "habr\xEDas renqueado"
+      - "habr\xEDa renqueado"
+      - "habr\xEDamos renqueado"
+      - "habr\xEDais renqueado"
+      - "habr\xEDan renqueado"
+      cjid: cpef
+    - cjfs:
+      - haya renqueado
+      - hayas renqueado
+      - haya renqueado
+      - hayamos renqueado
+      - "hay\xE1is renqueado"
+      - hayan renqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera renqueado
+      - hubieras renqueado
+      - hubiera renqueado
+      - "hubi\xE9ramos renqueado"
+      - hubierais renqueado
+      - hubieran renqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese renqueado
+      - hubieses renqueado
+      - hubiese renqueado
+      - "hubi\xE9semos renqueado"
+      - hubieseis renqueado
+      - hubiesen renqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere renqueado
+      - hubieres renqueado
+      - hubiere renqueado
+      - "hubi\xE9remos renqueado"
+      - hubiereis renqueado
+      - hubieren renqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - renquea
+      - renquee
+      - renqueemos
+      - renquead
+      - renqueen
+      cjid: impf

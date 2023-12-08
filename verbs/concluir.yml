@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|terminar||} {bc}to {a_link|conclude}, to {a_link|finish}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|deducir||} {bc}to {a_link|deduce}, to {a_link|conclude}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|end}, to {a_link|conclude}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: concluir
+    prs:
+    - sound:
+        audio: concl01sp
+  meta:
+    id: concluir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605374000'
+    src: spanish
+    stems:
+    - concluir
+    uuid: 333221aa-9805-433b-bd34-61f3c0eab69a
+  shortdef:
+  - 'terminar : to conclude, to finish'
+  - 'deducir : to deduce, to conclude'
+  - to end, to conclude
+  suppl:
+    cjts:
+    - cjfs:
+      - concluyendo
+      - concluido
+      cjid: gppt
+    - cjfs:
+      - concluyo
+      - concluyes
+      - concluye
+      - concluimos
+      - "conclu\xEDs"
+      - concluyen
+      cjid: pind
+    - cjfs:
+      - "conclu\xEDa"
+      - "conclu\xEDas"
+      - "conclu\xEDa"
+      - "conclu\xEDamos"
+      - "conclu\xEDais"
+      - "conclu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "conclu\xED"
+      - concluiste
+      - "concluy\xF3"
+      - concluimos
+      - concluisteis
+      - concluyeron
+      cjid: pprf
+    - cjfs:
+      - "concluir\xE9"
+      - "concluir\xE1s"
+      - "concluir\xE1"
+      - concluiremos
+      - "concluir\xE9is"
+      - "concluir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "concluir\xEDa"
+      - "concluir\xEDas"
+      - "concluir\xEDa"
+      - "concluir\xEDamos"
+      - "concluir\xEDais"
+      - "concluir\xEDan"
+      cjid: cond
+    - cjfs:
+      - concluya
+      - concluyas
+      - concluya
+      - concluyamos
+      - "concluy\xE1is"
+      - concluyan
+      cjid: psub
+    - cjfs:
+      - concluyera
+      - concluyeras
+      - concluyera
+      - "concluy\xE9ramos"
+      - concluyerais
+      - concluyeran
+      cjid: pisb1
+    - cjfs:
+      - concluyese
+      - concluyeses
+      - concluyese
+      - "concluy\xE9semos"
+      - concluyeseis
+      - concluyesen
+      cjid: pisb2
+    - cjfs:
+      - concluyere
+      - concluyeres
+      - concluyere
+      - "concluy\xE9remos"
+      - concluyereis
+      - concluyeren
+      cjid: fsub
+    - cjfs:
+      - he concluido
+      - has concluido
+      - ha concluido
+      - hemos concluido
+      - "hab\xE9is concluido"
+      - han concluido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa concluido"
+      - "hab\xEDas concluido"
+      - "hab\xEDa concluido"
+      - "hab\xEDamos concluido"
+      - "hab\xEDais concluido"
+      - "hab\xEDan concluido"
+      cjid: ppsi
+    - cjfs:
+      - hube concluido
+      - hubiste concluido
+      - hubo concluido
+      - hubimos concluido
+      - hubisteis concluido
+      - hubieron concluido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 concluido"
+      - "habr\xE1s concluido"
+      - "habr\xE1 concluido"
+      - habremos concluido
+      - "habr\xE9is concluido"
+      - "habr\xE1n concluido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa concluido"
+      - "habr\xEDas concluido"
+      - "habr\xEDa concluido"
+      - "habr\xEDamos concluido"
+      - "habr\xEDais concluido"
+      - "habr\xEDan concluido"
+      cjid: cpef
+    - cjfs:
+      - haya concluido
+      - hayas concluido
+      - haya concluido
+      - hayamos concluido
+      - "hay\xE1is concluido"
+      - hayan concluido
+      cjid: ppfs
+    - cjfs:
+      - hubiera concluido
+      - hubieras concluido
+      - hubiera concluido
+      - "hubi\xE9ramos concluido"
+      - hubierais concluido
+      - hubieran concluido
+      cjid: ppss1
+    - cjfs:
+      - hubiese concluido
+      - hubieses concluido
+      - hubiese concluido
+      - "hubi\xE9semos concluido"
+      - hubieseis concluido
+      - hubiesen concluido
+      cjid: ppss2
+    - cjfs:
+      - hubiere concluido
+      - hubieres concluido
+      - hubiere concluido
+      - "hubi\xE9remos concluido"
+      - hubiereis concluido
+      - hubieren concluido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - concluye
+      - concluya
+      - concluyamos
+      - concluid
+      - concluyan
+      cjid: impf

@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|increase} (weight), to make heavier'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|empeorar||} {bc}to {a_link|aggravate}, to {a_link|worsen}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: agravar
+  meta:
+    id: agravar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600721000'
+    src: spanish
+    stems:
+    - agravar
+    - agravarse
+    uuid: cc06c16f-ef33-4de0-929b-3e2996d46fe0
+  shortdef:
+  - to increase (weight), to make heavier
+  - 'empeorar : to aggravate, to worsen'
+  suppl:
+    cjts:
+    - cjfs:
+      - agravando
+      - agravado
+      cjid: gppt
+    - cjfs:
+      - agravo
+      - agravas
+      - agrava
+      - agravamos
+      - "agrav\xE1is"
+      - agravan
+      cjid: pind
+    - cjfs:
+      - agravaba
+      - agravabas
+      - agravaba
+      - "agrav\xE1bamos"
+      - agravabais
+      - agravaban
+      cjid: pret
+    - cjfs:
+      - "agrav\xE9"
+      - agravaste
+      - "agrav\xF3"
+      - agravamos
+      - agravasteis
+      - agravaron
+      cjid: pprf
+    - cjfs:
+      - "agravar\xE9"
+      - "agravar\xE1s"
+      - "agravar\xE1"
+      - agravaremos
+      - "agravar\xE9is"
+      - "agravar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agravar\xEDa"
+      - "agravar\xEDas"
+      - "agravar\xEDa"
+      - "agravar\xEDamos"
+      - "agravar\xEDais"
+      - "agravar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agrave
+      - agraves
+      - agrave
+      - agravemos
+      - "agrav\xE9is"
+      - agraven
+      cjid: psub
+    - cjfs:
+      - agravara
+      - agravaras
+      - agravara
+      - "agrav\xE1ramos"
+      - agravarais
+      - agravaran
+      cjid: pisb1
+    - cjfs:
+      - agravase
+      - agravases
+      - agravase
+      - "agrav\xE1semos"
+      - agravaseis
+      - agravasen
+      cjid: pisb2
+    - cjfs:
+      - agravare
+      - agravares
+      - agravare
+      - "agrav\xE1remos"
+      - agravareis
+      - agravaren
+      cjid: fsub
+    - cjfs:
+      - he agravado
+      - has agravado
+      - ha agravado
+      - hemos agravado
+      - "hab\xE9is agravado"
+      - han agravado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agravado"
+      - "hab\xEDas agravado"
+      - "hab\xEDa agravado"
+      - "hab\xEDamos agravado"
+      - "hab\xEDais agravado"
+      - "hab\xEDan agravado"
+      cjid: ppsi
+    - cjfs:
+      - hube agravado
+      - hubiste agravado
+      - hubo agravado
+      - hubimos agravado
+      - hubisteis agravado
+      - hubieron agravado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agravado"
+      - "habr\xE1s agravado"
+      - "habr\xE1 agravado"
+      - habremos agravado
+      - "habr\xE9is agravado"
+      - "habr\xE1n agravado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agravado"
+      - "habr\xEDas agravado"
+      - "habr\xEDa agravado"
+      - "habr\xEDamos agravado"
+      - "habr\xEDais agravado"
+      - "habr\xEDan agravado"
+      cjid: cpef
+    - cjfs:
+      - haya agravado
+      - hayas agravado
+      - haya agravado
+      - hayamos agravado
+      - "hay\xE1is agravado"
+      - hayan agravado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agravado
+      - hubieras agravado
+      - hubiera agravado
+      - "hubi\xE9ramos agravado"
+      - hubierais agravado
+      - hubieran agravado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agravado
+      - hubieses agravado
+      - hubiese agravado
+      - "hubi\xE9semos agravado"
+      - hubieseis agravado
+      - hubiesen agravado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agravado
+      - hubieres agravado
+      - hubiere agravado
+      - "hubi\xE9remos agravado"
+      - hubiereis agravado
+      - hubieren agravado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agrava
+      - agrave
+      - agravemos
+      - agravad
+      - agraven
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: agravarse

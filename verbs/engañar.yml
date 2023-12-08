@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|embaucar||} {bc}to {a_link|trick}, to {a_link|deceive}, to {a_link|mislead}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cheat on}, to be unfaithful to'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be mistaken'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to deceive oneself'
+            sn: '2'
+    drp: "enga\xF1arse"
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: "enga\xF1ar"
+    prs:
+    - sound:
+        audio: engan01sp
+  meta:
+    id: enganar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608575000'
+    src: spanish
+    stems:
+    - "enga\xF1ar"
+    - "enga\xF1arse"
+    uuid: af9b0a71-c9b7-4094-bb12-71a58785d072
+  shortdef:
+  - 'embaucar : to trick, to deceive, to mislead'
+  - to cheat on, to be unfaithful to
+  suppl:
+    cjts:
+    - cjfs:
+      - "enga\xF1ando"
+      - "enga\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "enga\xF1o"
+      - "enga\xF1as"
+      - "enga\xF1a"
+      - "enga\xF1amos"
+      - "enga\xF1\xE1is"
+      - "enga\xF1an"
+      cjid: pind
+    - cjfs:
+      - "enga\xF1aba"
+      - "enga\xF1abas"
+      - "enga\xF1aba"
+      - "enga\xF1\xE1bamos"
+      - "enga\xF1abais"
+      - "enga\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "enga\xF1\xE9"
+      - "enga\xF1aste"
+      - "enga\xF1\xF3"
+      - "enga\xF1amos"
+      - "enga\xF1asteis"
+      - "enga\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "enga\xF1ar\xE9"
+      - "enga\xF1ar\xE1s"
+      - "enga\xF1ar\xE1"
+      - "enga\xF1aremos"
+      - "enga\xF1ar\xE9is"
+      - "enga\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enga\xF1ar\xEDa"
+      - "enga\xF1ar\xEDas"
+      - "enga\xF1ar\xEDa"
+      - "enga\xF1ar\xEDamos"
+      - "enga\xF1ar\xEDais"
+      - "enga\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "enga\xF1e"
+      - "enga\xF1es"
+      - "enga\xF1e"
+      - "enga\xF1emos"
+      - "enga\xF1\xE9is"
+      - "enga\xF1en"
+      cjid: psub
+    - cjfs:
+      - "enga\xF1ara"
+      - "enga\xF1aras"
+      - "enga\xF1ara"
+      - "enga\xF1\xE1ramos"
+      - "enga\xF1arais"
+      - "enga\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "enga\xF1ase"
+      - "enga\xF1ases"
+      - "enga\xF1ase"
+      - "enga\xF1\xE1semos"
+      - "enga\xF1aseis"
+      - "enga\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "enga\xF1are"
+      - "enga\xF1ares"
+      - "enga\xF1are"
+      - "enga\xF1\xE1remos"
+      - "enga\xF1areis"
+      - "enga\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he enga\xF1ado"
+      - "has enga\xF1ado"
+      - "ha enga\xF1ado"
+      - "hemos enga\xF1ado"
+      - "hab\xE9is enga\xF1ado"
+      - "han enga\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enga\xF1ado"
+      - "hab\xEDas enga\xF1ado"
+      - "hab\xEDa enga\xF1ado"
+      - "hab\xEDamos enga\xF1ado"
+      - "hab\xEDais enga\xF1ado"
+      - "hab\xEDan enga\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube enga\xF1ado"
+      - "hubiste enga\xF1ado"
+      - "hubo enga\xF1ado"
+      - "hubimos enga\xF1ado"
+      - "hubisteis enga\xF1ado"
+      - "hubieron enga\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enga\xF1ado"
+      - "habr\xE1s enga\xF1ado"
+      - "habr\xE1 enga\xF1ado"
+      - "habremos enga\xF1ado"
+      - "habr\xE9is enga\xF1ado"
+      - "habr\xE1n enga\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enga\xF1ado"
+      - "habr\xEDas enga\xF1ado"
+      - "habr\xEDa enga\xF1ado"
+      - "habr\xEDamos enga\xF1ado"
+      - "habr\xEDais enga\xF1ado"
+      - "habr\xEDan enga\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya enga\xF1ado"
+      - "hayas enga\xF1ado"
+      - "haya enga\xF1ado"
+      - "hayamos enga\xF1ado"
+      - "hay\xE1is enga\xF1ado"
+      - "hayan enga\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera enga\xF1ado"
+      - "hubieras enga\xF1ado"
+      - "hubiera enga\xF1ado"
+      - "hubi\xE9ramos enga\xF1ado"
+      - "hubierais enga\xF1ado"
+      - "hubieran enga\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese enga\xF1ado"
+      - "hubieses enga\xF1ado"
+      - "hubiese enga\xF1ado"
+      - "hubi\xE9semos enga\xF1ado"
+      - "hubieseis enga\xF1ado"
+      - "hubiesen enga\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere enga\xF1ado"
+      - "hubieres enga\xF1ado"
+      - "hubiere enga\xF1ado"
+      - "hubi\xE9remos enga\xF1ado"
+      - "hubiereis enga\xF1ado"
+      - "hubieren enga\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "enga\xF1a"
+      - "enga\xF1e"
+      - "enga\xF1emos"
+      - "enga\xF1ad"
+      - "enga\xF1en"
+      cjid: impf

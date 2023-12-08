@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get dark'
+  fl: impersonal verb
+  hom: 1
+  hwi:
+    hw: anochecer
+    prs:
+    - sound:
+        audio: anoch02sp
+  meta:
+    id: anochecer:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601440000'
+    src: spanish
+    stems:
+    - anochecer
+    uuid: ad6ee34f-4297-4651-8f04-2f5727c23fba
+  shortdef:
+  - to get dark
+  suppl:
+    cjts:
+    - cjfs:
+      - anocheciendo
+      - anochecido
+      cjid: gppt
+    - cjfs:
+      - anochezco
+      - anocheces
+      - anochece
+      - anochecemos
+      - "anochec\xE9is"
+      - anochecen
+      cjid: pind
+    - cjfs:
+      - "anochec\xEDa"
+      - "anochec\xEDas"
+      - "anochec\xEDa"
+      - "anochec\xEDamos"
+      - "anochec\xEDais"
+      - "anochec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "anochec\xED"
+      - anocheciste
+      - "anocheci\xF3"
+      - anochecimos
+      - anochecisteis
+      - anochecieron
+      cjid: pprf
+    - cjfs:
+      - "anochecer\xE9"
+      - "anochecer\xE1s"
+      - "anochecer\xE1"
+      - anocheceremos
+      - "anochecer\xE9is"
+      - "anochecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "anochecer\xEDa"
+      - "anochecer\xEDas"
+      - "anochecer\xEDa"
+      - "anochecer\xEDamos"
+      - "anochecer\xEDais"
+      - "anochecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - anochezca
+      - anochezcas
+      - anochezca
+      - anochezcamos
+      - "anochezc\xE1is"
+      - anochezcan
+      cjid: psub
+    - cjfs:
+      - anocheciera
+      - anochecieras
+      - anocheciera
+      - "anocheci\xE9ramos"
+      - anochecierais
+      - anochecieran
+      cjid: pisb1
+    - cjfs:
+      - anocheciese
+      - anochecieses
+      - anocheciese
+      - "anocheci\xE9semos"
+      - anochecieseis
+      - anocheciesen
+      cjid: pisb2
+    - cjfs:
+      - anocheciere
+      - anochecieres
+      - anocheciere
+      - "anocheci\xE9remos"
+      - anocheciereis
+      - anochecieren
+      cjid: fsub
+    - cjfs:
+      - he anochecido
+      - has anochecido
+      - ha anochecido
+      - hemos anochecido
+      - "hab\xE9is anochecido"
+      - han anochecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa anochecido"
+      - "hab\xEDas anochecido"
+      - "hab\xEDa anochecido"
+      - "hab\xEDamos anochecido"
+      - "hab\xEDais anochecido"
+      - "hab\xEDan anochecido"
+      cjid: ppsi
+    - cjfs:
+      - hube anochecido
+      - hubiste anochecido
+      - hubo anochecido
+      - hubimos anochecido
+      - hubisteis anochecido
+      - hubieron anochecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 anochecido"
+      - "habr\xE1s anochecido"
+      - "habr\xE1 anochecido"
+      - habremos anochecido
+      - "habr\xE9is anochecido"
+      - "habr\xE1n anochecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa anochecido"
+      - "habr\xEDas anochecido"
+      - "habr\xEDa anochecido"
+      - "habr\xEDamos anochecido"
+      - "habr\xEDais anochecido"
+      - "habr\xEDan anochecido"
+      cjid: cpef
+    - cjfs:
+      - haya anochecido
+      - hayas anochecido
+      - haya anochecido
+      - hayamos anochecido
+      - "hay\xE1is anochecido"
+      - hayan anochecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera anochecido
+      - hubieras anochecido
+      - hubiera anochecido
+      - "hubi\xE9ramos anochecido"
+      - hubierais anochecido
+      - hubieran anochecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese anochecido
+      - hubieses anochecido
+      - hubiese anochecido
+      - "hubi\xE9semos anochecido"
+      - hubieseis anochecido
+      - hubiesen anochecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere anochecido
+      - hubieres anochecido
+      - hubiere anochecido
+      - "hubi\xE9remos anochecido"
+      - hubiereis anochecido
+      - hubieren anochecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - anochece
+      - anochezca
+      - anochezcamos
+      - anocheced
+      - anochezcan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|dusk}, {a_link|nightfall}'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: anochecer
+    prs:
+    - sound:
+        audio: anoch03sp
+  meta:
+    id: anochecer:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601441000'
+    src: spanish
+    stems:
+    - anochecer
+    uuid: 5f28e329-8f56-4b2d-a451-f9f7da02f9a5
+  shortdef:
+  - dusk, nightfall

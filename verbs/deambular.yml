@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wander}, to {a_link|roam}'
+  fl: intransitive verb
+  hwi:
+    hw: deambular
+  meta:
+    id: deambular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606449000'
+    src: spanish
+    stems:
+    - deambular
+    uuid: 826a6615-22a8-46b8-abb4-8cc4b3b0b0d3
+  shortdef:
+  - to wander, to roam
+  suppl:
+    cjts:
+    - cjfs:
+      - deambulando
+      - deambulado
+      cjid: gppt
+    - cjfs:
+      - deambulo
+      - deambulas
+      - deambula
+      - deambulamos
+      - "deambul\xE1is"
+      - deambulan
+      cjid: pind
+    - cjfs:
+      - deambulaba
+      - deambulabas
+      - deambulaba
+      - "deambul\xE1bamos"
+      - deambulabais
+      - deambulaban
+      cjid: pret
+    - cjfs:
+      - "deambul\xE9"
+      - deambulaste
+      - "deambul\xF3"
+      - deambulamos
+      - deambulasteis
+      - deambularon
+      cjid: pprf
+    - cjfs:
+      - "deambular\xE9"
+      - "deambular\xE1s"
+      - "deambular\xE1"
+      - deambularemos
+      - "deambular\xE9is"
+      - "deambular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deambular\xEDa"
+      - "deambular\xEDas"
+      - "deambular\xEDa"
+      - "deambular\xEDamos"
+      - "deambular\xEDais"
+      - "deambular\xEDan"
+      cjid: cond
+    - cjfs:
+      - deambule
+      - deambules
+      - deambule
+      - deambulemos
+      - "deambul\xE9is"
+      - deambulen
+      cjid: psub
+    - cjfs:
+      - deambulara
+      - deambularas
+      - deambulara
+      - "deambul\xE1ramos"
+      - deambularais
+      - deambularan
+      cjid: pisb1
+    - cjfs:
+      - deambulase
+      - deambulases
+      - deambulase
+      - "deambul\xE1semos"
+      - deambulaseis
+      - deambulasen
+      cjid: pisb2
+    - cjfs:
+      - deambulare
+      - deambulares
+      - deambulare
+      - "deambul\xE1remos"
+      - deambulareis
+      - deambularen
+      cjid: fsub
+    - cjfs:
+      - he deambulado
+      - has deambulado
+      - ha deambulado
+      - hemos deambulado
+      - "hab\xE9is deambulado"
+      - han deambulado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deambulado"
+      - "hab\xEDas deambulado"
+      - "hab\xEDa deambulado"
+      - "hab\xEDamos deambulado"
+      - "hab\xEDais deambulado"
+      - "hab\xEDan deambulado"
+      cjid: ppsi
+    - cjfs:
+      - hube deambulado
+      - hubiste deambulado
+      - hubo deambulado
+      - hubimos deambulado
+      - hubisteis deambulado
+      - hubieron deambulado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deambulado"
+      - "habr\xE1s deambulado"
+      - "habr\xE1 deambulado"
+      - habremos deambulado
+      - "habr\xE9is deambulado"
+      - "habr\xE1n deambulado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deambulado"
+      - "habr\xEDas deambulado"
+      - "habr\xEDa deambulado"
+      - "habr\xEDamos deambulado"
+      - "habr\xEDais deambulado"
+      - "habr\xEDan deambulado"
+      cjid: cpef
+    - cjfs:
+      - haya deambulado
+      - hayas deambulado
+      - haya deambulado
+      - hayamos deambulado
+      - "hay\xE1is deambulado"
+      - hayan deambulado
+      cjid: ppfs
+    - cjfs:
+      - hubiera deambulado
+      - hubieras deambulado
+      - hubiera deambulado
+      - "hubi\xE9ramos deambulado"
+      - hubierais deambulado
+      - hubieran deambulado
+      cjid: ppss1
+    - cjfs:
+      - hubiese deambulado
+      - hubieses deambulado
+      - hubiese deambulado
+      - "hubi\xE9semos deambulado"
+      - hubieseis deambulado
+      - hubiesen deambulado
+      cjid: ppss2
+    - cjfs:
+      - hubiere deambulado
+      - hubieres deambulado
+      - hubiere deambulado
+      - "hubi\xE9remos deambulado"
+      - hubiereis deambulado
+      - hubieren deambulado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - deambula
+      - deambule
+      - deambulemos
+      - deambulad
+      - deambulen
+      cjid: impf

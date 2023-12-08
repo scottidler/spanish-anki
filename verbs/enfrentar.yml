@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confront}, to {a_link|face}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to clash with'
+            sn: '1'
+            vrs:
+            - va: enfrentarse con
+              vac: ~ con
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|face up to}'
+            sn: '2'
+            vrs:
+            - va: enfrentarse a
+              vac: ~ a
+    drp: enfrentarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enfrentar
+    prs:
+    - sound:
+        audio: enfre02sp
+  meta:
+    id: enfrentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608564000'
+    src: spanish
+    stems:
+    - enfrentar
+    - enfrentarse
+    - enfrentarse con
+    - enfrentarse a
+    uuid: cda6d1e2-e842-48cd-b390-c60a4559a038
+  shortdef:
+  - to confront, to face
+  suppl:
+    cjts:
+    - cjfs:
+      - enfrentando
+      - enfrentado
+      cjid: gppt
+    - cjfs:
+      - enfrento
+      - enfrentas
+      - enfrenta
+      - enfrentamos
+      - "enfrent\xE1is"
+      - enfrentan
+      cjid: pind
+    - cjfs:
+      - enfrentaba
+      - enfrentabas
+      - enfrentaba
+      - "enfrent\xE1bamos"
+      - enfrentabais
+      - enfrentaban
+      cjid: pret
+    - cjfs:
+      - "enfrent\xE9"
+      - enfrentaste
+      - "enfrent\xF3"
+      - enfrentamos
+      - enfrentasteis
+      - enfrentaron
+      cjid: pprf
+    - cjfs:
+      - "enfrentar\xE9"
+      - "enfrentar\xE1s"
+      - "enfrentar\xE1"
+      - enfrentaremos
+      - "enfrentar\xE9is"
+      - "enfrentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enfrentar\xEDa"
+      - "enfrentar\xEDas"
+      - "enfrentar\xEDa"
+      - "enfrentar\xEDamos"
+      - "enfrentar\xEDais"
+      - "enfrentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enfrente
+      - enfrentes
+      - enfrente
+      - enfrentemos
+      - "enfrent\xE9is"
+      - enfrenten
+      cjid: psub
+    - cjfs:
+      - enfrentara
+      - enfrentaras
+      - enfrentara
+      - "enfrent\xE1ramos"
+      - enfrentarais
+      - enfrentaran
+      cjid: pisb1
+    - cjfs:
+      - enfrentase
+      - enfrentases
+      - enfrentase
+      - "enfrent\xE1semos"
+      - enfrentaseis
+      - enfrentasen
+      cjid: pisb2
+    - cjfs:
+      - enfrentare
+      - enfrentares
+      - enfrentare
+      - "enfrent\xE1remos"
+      - enfrentareis
+      - enfrentaren
+      cjid: fsub
+    - cjfs:
+      - he enfrentado
+      - has enfrentado
+      - ha enfrentado
+      - hemos enfrentado
+      - "hab\xE9is enfrentado"
+      - han enfrentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enfrentado"
+      - "hab\xEDas enfrentado"
+      - "hab\xEDa enfrentado"
+      - "hab\xEDamos enfrentado"
+      - "hab\xEDais enfrentado"
+      - "hab\xEDan enfrentado"
+      cjid: ppsi
+    - cjfs:
+      - hube enfrentado
+      - hubiste enfrentado
+      - hubo enfrentado
+      - hubimos enfrentado
+      - hubisteis enfrentado
+      - hubieron enfrentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enfrentado"
+      - "habr\xE1s enfrentado"
+      - "habr\xE1 enfrentado"
+      - habremos enfrentado
+      - "habr\xE9is enfrentado"
+      - "habr\xE1n enfrentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enfrentado"
+      - "habr\xEDas enfrentado"
+      - "habr\xEDa enfrentado"
+      - "habr\xEDamos enfrentado"
+      - "habr\xEDais enfrentado"
+      - "habr\xEDan enfrentado"
+      cjid: cpef
+    - cjfs:
+      - haya enfrentado
+      - hayas enfrentado
+      - haya enfrentado
+      - hayamos enfrentado
+      - "hay\xE1is enfrentado"
+      - hayan enfrentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enfrentado
+      - hubieras enfrentado
+      - hubiera enfrentado
+      - "hubi\xE9ramos enfrentado"
+      - hubierais enfrentado
+      - hubieran enfrentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enfrentado
+      - hubieses enfrentado
+      - hubiese enfrentado
+      - "hubi\xE9semos enfrentado"
+      - hubieseis enfrentado
+      - hubiesen enfrentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enfrentado
+      - hubieres enfrentado
+      - hubiere enfrentado
+      - "hubi\xE9remos enfrentado"
+      - hubiereis enfrentado
+      - hubieren enfrentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enfrenta
+      - enfrente
+      - enfrentemos
+      - enfrentad
+      - enfrenten
+      cjid: impf

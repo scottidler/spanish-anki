@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agitate}, to {a_link|shake}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wave}, to {a_link|flap}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stir up}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to toss about, to flap around'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get upset'
+            sn: '2'
+    drp: agitarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: agitar
+    prs:
+    - sound:
+        audio: agita02sp
+  meta:
+    id: agitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600689000'
+    src: spanish
+    stems:
+    - agitar
+    - agitarse
+    uuid: c2e175ec-438c-4fa8-8f6e-6c6b1cb43058
+  shortdef:
+  - to agitate, to shake
+  - to wave, to flap
+  - to stir up
+  suppl:
+    cjts:
+    - cjfs:
+      - agitando
+      - agitado
+      cjid: gppt
+    - cjfs:
+      - agito
+      - agitas
+      - agita
+      - agitamos
+      - "agit\xE1is"
+      - agitan
+      cjid: pind
+    - cjfs:
+      - agitaba
+      - agitabas
+      - agitaba
+      - "agit\xE1bamos"
+      - agitabais
+      - agitaban
+      cjid: pret
+    - cjfs:
+      - "agit\xE9"
+      - agitaste
+      - "agit\xF3"
+      - agitamos
+      - agitasteis
+      - agitaron
+      cjid: pprf
+    - cjfs:
+      - "agitar\xE9"
+      - "agitar\xE1s"
+      - "agitar\xE1"
+      - agitaremos
+      - "agitar\xE9is"
+      - "agitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agitar\xEDa"
+      - "agitar\xEDas"
+      - "agitar\xEDa"
+      - "agitar\xEDamos"
+      - "agitar\xEDais"
+      - "agitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agite
+      - agites
+      - agite
+      - agitemos
+      - "agit\xE9is"
+      - agiten
+      cjid: psub
+    - cjfs:
+      - agitara
+      - agitaras
+      - agitara
+      - "agit\xE1ramos"
+      - agitarais
+      - agitaran
+      cjid: pisb1
+    - cjfs:
+      - agitase
+      - agitases
+      - agitase
+      - "agit\xE1semos"
+      - agitaseis
+      - agitasen
+      cjid: pisb2
+    - cjfs:
+      - agitare
+      - agitares
+      - agitare
+      - "agit\xE1remos"
+      - agitareis
+      - agitaren
+      cjid: fsub
+    - cjfs:
+      - he agitado
+      - has agitado
+      - ha agitado
+      - hemos agitado
+      - "hab\xE9is agitado"
+      - han agitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agitado"
+      - "hab\xEDas agitado"
+      - "hab\xEDa agitado"
+      - "hab\xEDamos agitado"
+      - "hab\xEDais agitado"
+      - "hab\xEDan agitado"
+      cjid: ppsi
+    - cjfs:
+      - hube agitado
+      - hubiste agitado
+      - hubo agitado
+      - hubimos agitado
+      - hubisteis agitado
+      - hubieron agitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agitado"
+      - "habr\xE1s agitado"
+      - "habr\xE1 agitado"
+      - habremos agitado
+      - "habr\xE9is agitado"
+      - "habr\xE1n agitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agitado"
+      - "habr\xEDas agitado"
+      - "habr\xEDa agitado"
+      - "habr\xEDamos agitado"
+      - "habr\xEDais agitado"
+      - "habr\xEDan agitado"
+      cjid: cpef
+    - cjfs:
+      - haya agitado
+      - hayas agitado
+      - haya agitado
+      - hayamos agitado
+      - "hay\xE1is agitado"
+      - hayan agitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agitado
+      - hubieras agitado
+      - hubiera agitado
+      - "hubi\xE9ramos agitado"
+      - hubierais agitado
+      - hubieran agitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agitado
+      - hubieses agitado
+      - hubiese agitado
+      - "hubi\xE9semos agitado"
+      - hubieseis agitado
+      - hubiesen agitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agitado
+      - hubieres agitado
+      - hubiere agitado
+      - "hubi\xE9remos agitado"
+      - hubiereis agitado
+      - hubieren agitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agita
+      - agite
+      - agitemos
+      - agitad
+      - agiten
+      cjid: impf

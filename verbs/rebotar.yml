@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bounce}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ricochet}, to {a_link|rebound}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: rebotar
+  meta:
+    id: rebotar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618913000'
+    src: spanish
+    stems:
+    - rebotar
+    uuid: 2f593b42-c4a0-46e2-8dfc-7f8dc0b0b069
+  shortdef:
+  - to bounce
+  - to ricochet, to rebound
+  suppl:
+    cjts:
+    - cjfs:
+      - rebotando
+      - rebotado
+      cjid: gppt
+    - cjfs:
+      - reboto
+      - rebotas
+      - rebota
+      - rebotamos
+      - "rebot\xE1is"
+      - rebotan
+      cjid: pind
+    - cjfs:
+      - rebotaba
+      - rebotabas
+      - rebotaba
+      - "rebot\xE1bamos"
+      - rebotabais
+      - rebotaban
+      cjid: pret
+    - cjfs:
+      - "rebot\xE9"
+      - rebotaste
+      - "rebot\xF3"
+      - rebotamos
+      - rebotasteis
+      - rebotaron
+      cjid: pprf
+    - cjfs:
+      - "rebotar\xE9"
+      - "rebotar\xE1s"
+      - "rebotar\xE1"
+      - rebotaremos
+      - "rebotar\xE9is"
+      - "rebotar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rebotar\xEDa"
+      - "rebotar\xEDas"
+      - "rebotar\xEDa"
+      - "rebotar\xEDamos"
+      - "rebotar\xEDais"
+      - "rebotar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rebote
+      - rebotes
+      - rebote
+      - rebotemos
+      - "rebot\xE9is"
+      - reboten
+      cjid: psub
+    - cjfs:
+      - rebotara
+      - rebotaras
+      - rebotara
+      - "rebot\xE1ramos"
+      - rebotarais
+      - rebotaran
+      cjid: pisb1
+    - cjfs:
+      - rebotase
+      - rebotases
+      - rebotase
+      - "rebot\xE1semos"
+      - rebotaseis
+      - rebotasen
+      cjid: pisb2
+    - cjfs:
+      - rebotare
+      - rebotares
+      - rebotare
+      - "rebot\xE1remos"
+      - rebotareis
+      - rebotaren
+      cjid: fsub
+    - cjfs:
+      - he rebotado
+      - has rebotado
+      - ha rebotado
+      - hemos rebotado
+      - "hab\xE9is rebotado"
+      - han rebotado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rebotado"
+      - "hab\xEDas rebotado"
+      - "hab\xEDa rebotado"
+      - "hab\xEDamos rebotado"
+      - "hab\xEDais rebotado"
+      - "hab\xEDan rebotado"
+      cjid: ppsi
+    - cjfs:
+      - hube rebotado
+      - hubiste rebotado
+      - hubo rebotado
+      - hubimos rebotado
+      - hubisteis rebotado
+      - hubieron rebotado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rebotado"
+      - "habr\xE1s rebotado"
+      - "habr\xE1 rebotado"
+      - habremos rebotado
+      - "habr\xE9is rebotado"
+      - "habr\xE1n rebotado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rebotado"
+      - "habr\xEDas rebotado"
+      - "habr\xEDa rebotado"
+      - "habr\xEDamos rebotado"
+      - "habr\xEDais rebotado"
+      - "habr\xEDan rebotado"
+      cjid: cpef
+    - cjfs:
+      - haya rebotado
+      - hayas rebotado
+      - haya rebotado
+      - hayamos rebotado
+      - "hay\xE1is rebotado"
+      - hayan rebotado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rebotado
+      - hubieras rebotado
+      - hubiera rebotado
+      - "hubi\xE9ramos rebotado"
+      - hubierais rebotado
+      - hubieran rebotado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rebotado
+      - hubieses rebotado
+      - hubiese rebotado
+      - "hubi\xE9semos rebotado"
+      - hubieseis rebotado
+      - hubiesen rebotado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rebotado
+      - hubieres rebotado
+      - hubiere rebotado
+      - "hubi\xE9remos rebotado"
+      - hubiereis rebotado
+      - hubieren rebotado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rebota
+      - rebote
+      - rebotemos
+      - rebotad
+      - reboten
+      cjid: impf

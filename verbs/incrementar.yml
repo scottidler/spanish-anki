@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|increase}'
+  fl: transitive verb
+  hwi:
+    hw: incrementar
+    prs:
+    - sound:
+        audio: incre03sp
+  meta:
+    id: incrementar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612224000'
+    src: spanish
+    stems:
+    - incrementar
+    - incrementarse
+    uuid: 35ea29ee-ba67-45a6-a89c-28c0687169c4
+  shortdef:
+  - to increase
+  suppl:
+    cjts:
+    - cjfs:
+      - incrementando
+      - incrementado
+      cjid: gppt
+    - cjfs:
+      - incremento
+      - incrementas
+      - incrementa
+      - incrementamos
+      - "increment\xE1is"
+      - incrementan
+      cjid: pind
+    - cjfs:
+      - incrementaba
+      - incrementabas
+      - incrementaba
+      - "increment\xE1bamos"
+      - incrementabais
+      - incrementaban
+      cjid: pret
+    - cjfs:
+      - "increment\xE9"
+      - incrementaste
+      - "increment\xF3"
+      - incrementamos
+      - incrementasteis
+      - incrementaron
+      cjid: pprf
+    - cjfs:
+      - "incrementar\xE9"
+      - "incrementar\xE1s"
+      - "incrementar\xE1"
+      - incrementaremos
+      - "incrementar\xE9is"
+      - "incrementar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "incrementar\xEDa"
+      - "incrementar\xEDas"
+      - "incrementar\xEDa"
+      - "incrementar\xEDamos"
+      - "incrementar\xEDais"
+      - "incrementar\xEDan"
+      cjid: cond
+    - cjfs:
+      - incremente
+      - incrementes
+      - incremente
+      - incrementemos
+      - "increment\xE9is"
+      - incrementen
+      cjid: psub
+    - cjfs:
+      - incrementara
+      - incrementaras
+      - incrementara
+      - "increment\xE1ramos"
+      - incrementarais
+      - incrementaran
+      cjid: pisb1
+    - cjfs:
+      - incrementase
+      - incrementases
+      - incrementase
+      - "increment\xE1semos"
+      - incrementaseis
+      - incrementasen
+      cjid: pisb2
+    - cjfs:
+      - incrementare
+      - incrementares
+      - incrementare
+      - "increment\xE1remos"
+      - incrementareis
+      - incrementaren
+      cjid: fsub
+    - cjfs:
+      - he incrementado
+      - has incrementado
+      - ha incrementado
+      - hemos incrementado
+      - "hab\xE9is incrementado"
+      - han incrementado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa incrementado"
+      - "hab\xEDas incrementado"
+      - "hab\xEDa incrementado"
+      - "hab\xEDamos incrementado"
+      - "hab\xEDais incrementado"
+      - "hab\xEDan incrementado"
+      cjid: ppsi
+    - cjfs:
+      - hube incrementado
+      - hubiste incrementado
+      - hubo incrementado
+      - hubimos incrementado
+      - hubisteis incrementado
+      - hubieron incrementado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 incrementado"
+      - "habr\xE1s incrementado"
+      - "habr\xE1 incrementado"
+      - habremos incrementado
+      - "habr\xE9is incrementado"
+      - "habr\xE1n incrementado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa incrementado"
+      - "habr\xEDas incrementado"
+      - "habr\xEDa incrementado"
+      - "habr\xEDamos incrementado"
+      - "habr\xEDais incrementado"
+      - "habr\xEDan incrementado"
+      cjid: cpef
+    - cjfs:
+      - haya incrementado
+      - hayas incrementado
+      - haya incrementado
+      - hayamos incrementado
+      - "hay\xE1is incrementado"
+      - hayan incrementado
+      cjid: ppfs
+    - cjfs:
+      - hubiera incrementado
+      - hubieras incrementado
+      - hubiera incrementado
+      - "hubi\xE9ramos incrementado"
+      - hubierais incrementado
+      - hubieran incrementado
+      cjid: ppss1
+    - cjfs:
+      - hubiese incrementado
+      - hubieses incrementado
+      - hubiese incrementado
+      - "hubi\xE9semos incrementado"
+      - hubieseis incrementado
+      - hubiesen incrementado
+      cjid: ppss2
+    - cjfs:
+      - hubiere incrementado
+      - hubieres incrementado
+      - hubiere incrementado
+      - "hubi\xE9remos incrementado"
+      - hubiereis incrementado
+      - hubieren incrementado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - incrementa
+      - incremente
+      - incrementemos
+      - incrementad
+      - incrementen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: incrementarse

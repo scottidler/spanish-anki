@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|harangue}, to {a_link|lecture}'
+  fl: transitive verb
+  hwi:
+    hw: arengar
+  meta:
+    id: arengar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601901000'
+    src: spanish
+    stems:
+    - arengar
+    uuid: 53d7d10c-a836-43b1-8a89-dbcf314a9e17
+  shortdef:
+  - to harangue, to lecture
+  suppl:
+    cjts:
+    - cjfs:
+      - arengando
+      - arengado
+      cjid: gppt
+    - cjfs:
+      - arengo
+      - arengas
+      - arenga
+      - arengamos
+      - "areng\xE1is"
+      - arengan
+      cjid: pind
+    - cjfs:
+      - arengaba
+      - arengabas
+      - arengaba
+      - "areng\xE1bamos"
+      - arengabais
+      - arengaban
+      cjid: pret
+    - cjfs:
+      - "arengu\xE9"
+      - arengaste
+      - "areng\xF3"
+      - arengamos
+      - arengasteis
+      - arengaron
+      cjid: pprf
+    - cjfs:
+      - "arengar\xE9"
+      - "arengar\xE1s"
+      - "arengar\xE1"
+      - arengaremos
+      - "arengar\xE9is"
+      - "arengar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arengar\xEDa"
+      - "arengar\xEDas"
+      - "arengar\xEDa"
+      - "arengar\xEDamos"
+      - "arengar\xEDais"
+      - "arengar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arengue
+      - arengues
+      - arengue
+      - arenguemos
+      - "arengu\xE9is"
+      - arenguen
+      cjid: psub
+    - cjfs:
+      - arengara
+      - arengaras
+      - arengara
+      - "areng\xE1ramos"
+      - arengarais
+      - arengaran
+      cjid: pisb1
+    - cjfs:
+      - arengase
+      - arengases
+      - arengase
+      - "areng\xE1semos"
+      - arengaseis
+      - arengasen
+      cjid: pisb2
+    - cjfs:
+      - arengare
+      - arengares
+      - arengare
+      - "areng\xE1remos"
+      - arengareis
+      - arengaren
+      cjid: fsub
+    - cjfs:
+      - he arengado
+      - has arengado
+      - ha arengado
+      - hemos arengado
+      - "hab\xE9is arengado"
+      - han arengado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arengado"
+      - "hab\xEDas arengado"
+      - "hab\xEDa arengado"
+      - "hab\xEDamos arengado"
+      - "hab\xEDais arengado"
+      - "hab\xEDan arengado"
+      cjid: ppsi
+    - cjfs:
+      - hube arengado
+      - hubiste arengado
+      - hubo arengado
+      - hubimos arengado
+      - hubisteis arengado
+      - hubieron arengado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arengado"
+      - "habr\xE1s arengado"
+      - "habr\xE1 arengado"
+      - habremos arengado
+      - "habr\xE9is arengado"
+      - "habr\xE1n arengado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arengado"
+      - "habr\xEDas arengado"
+      - "habr\xEDa arengado"
+      - "habr\xEDamos arengado"
+      - "habr\xEDais arengado"
+      - "habr\xEDan arengado"
+      cjid: cpef
+    - cjfs:
+      - haya arengado
+      - hayas arengado
+      - haya arengado
+      - hayamos arengado
+      - "hay\xE1is arengado"
+      - hayan arengado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arengado
+      - hubieras arengado
+      - hubiera arengado
+      - "hubi\xE9ramos arengado"
+      - hubierais arengado
+      - hubieran arengado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arengado
+      - hubieses arengado
+      - hubiese arengado
+      - "hubi\xE9semos arengado"
+      - hubieseis arengado
+      - hubiesen arengado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arengado
+      - hubieres arengado
+      - hubiere arengado
+      - "hubi\xE9remos arengado"
+      - hubiereis arengado
+      - hubieren arengado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arenga
+      - arengue
+      - arenguemos
+      - arengad
+      - arenguen
+      cjid: impf

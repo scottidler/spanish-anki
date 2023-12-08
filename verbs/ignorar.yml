@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ignore}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desconocer||} {bc}to be unaware of '
+          - - vis
+            - - t: lo ignoramos por absoluto
+                tr: we have no idea
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: ignorar
+    prs:
+    - sound:
+        audio: ignor01sp
+  meta:
+    id: ignorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611841000'
+    src: spanish
+    stems:
+    - ignorar
+    uuid: 51e43115-c452-4178-bde5-82544b69eb99
+  shortdef:
+  - to ignore
+  - 'desconocer : to be unaware of'
+  suppl:
+    cjts:
+    - cjfs:
+      - ignorando
+      - ignorado
+      cjid: gppt
+    - cjfs:
+      - ignoro
+      - ignoras
+      - ignora
+      - ignoramos
+      - "ignor\xE1is"
+      - ignoran
+      cjid: pind
+    - cjfs:
+      - ignoraba
+      - ignorabas
+      - ignoraba
+      - "ignor\xE1bamos"
+      - ignorabais
+      - ignoraban
+      cjid: pret
+    - cjfs:
+      - "ignor\xE9"
+      - ignoraste
+      - "ignor\xF3"
+      - ignoramos
+      - ignorasteis
+      - ignoraron
+      cjid: pprf
+    - cjfs:
+      - "ignorar\xE9"
+      - "ignorar\xE1s"
+      - "ignorar\xE1"
+      - ignoraremos
+      - "ignorar\xE9is"
+      - "ignorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ignorar\xEDa"
+      - "ignorar\xEDas"
+      - "ignorar\xEDa"
+      - "ignorar\xEDamos"
+      - "ignorar\xEDais"
+      - "ignorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ignore
+      - ignores
+      - ignore
+      - ignoremos
+      - "ignor\xE9is"
+      - ignoren
+      cjid: psub
+    - cjfs:
+      - ignorara
+      - ignoraras
+      - ignorara
+      - "ignor\xE1ramos"
+      - ignorarais
+      - ignoraran
+      cjid: pisb1
+    - cjfs:
+      - ignorase
+      - ignorases
+      - ignorase
+      - "ignor\xE1semos"
+      - ignoraseis
+      - ignorasen
+      cjid: pisb2
+    - cjfs:
+      - ignorare
+      - ignorares
+      - ignorare
+      - "ignor\xE1remos"
+      - ignorareis
+      - ignoraren
+      cjid: fsub
+    - cjfs:
+      - he ignorado
+      - has ignorado
+      - ha ignorado
+      - hemos ignorado
+      - "hab\xE9is ignorado"
+      - han ignorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ignorado"
+      - "hab\xEDas ignorado"
+      - "hab\xEDa ignorado"
+      - "hab\xEDamos ignorado"
+      - "hab\xEDais ignorado"
+      - "hab\xEDan ignorado"
+      cjid: ppsi
+    - cjfs:
+      - hube ignorado
+      - hubiste ignorado
+      - hubo ignorado
+      - hubimos ignorado
+      - hubisteis ignorado
+      - hubieron ignorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ignorado"
+      - "habr\xE1s ignorado"
+      - "habr\xE1 ignorado"
+      - habremos ignorado
+      - "habr\xE9is ignorado"
+      - "habr\xE1n ignorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ignorado"
+      - "habr\xEDas ignorado"
+      - "habr\xEDa ignorado"
+      - "habr\xEDamos ignorado"
+      - "habr\xEDais ignorado"
+      - "habr\xEDan ignorado"
+      cjid: cpef
+    - cjfs:
+      - haya ignorado
+      - hayas ignorado
+      - haya ignorado
+      - hayamos ignorado
+      - "hay\xE1is ignorado"
+      - hayan ignorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ignorado
+      - hubieras ignorado
+      - hubiera ignorado
+      - "hubi\xE9ramos ignorado"
+      - hubierais ignorado
+      - hubieran ignorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ignorado
+      - hubieses ignorado
+      - hubiese ignorado
+      - "hubi\xE9semos ignorado"
+      - hubieseis ignorado
+      - hubiesen ignorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ignorado
+      - hubieres ignorado
+      - hubiere ignorado
+      - "hubi\xE9remos ignorado"
+      - hubiereis ignorado
+      - hubieren ignorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ignora
+      - ignore
+      - ignoremos
+      - ignorad
+      - ignoren
+      cjid: impf

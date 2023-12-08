@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disconcert}'
+  fl: transitive verb
+  hwi:
+    hw: desconcertar
+    prs:
+    - sound:
+        audio: desco05sp
+  meta:
+    id: desconcertar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606944000'
+    src: spanish
+    stems:
+    - desconcertar
+    - desconcertarse
+    uuid: 75973f1d-9ead-4042-ad76-ffae4fc757ca
+  shortdef:
+  - to disconcert
+  suppl:
+    cjts:
+    - cjfs:
+      - desconcertando
+      - desconcertado
+      cjid: gppt
+    - cjfs:
+      - desconcierto
+      - desconciertas
+      - desconcierta
+      - desconcertamos
+      - "desconcert\xE1is"
+      - desconciertan
+      cjid: pind
+    - cjfs:
+      - desconcertaba
+      - desconcertabas
+      - desconcertaba
+      - "desconcert\xE1bamos"
+      - desconcertabais
+      - desconcertaban
+      cjid: pret
+    - cjfs:
+      - "desconcert\xE9"
+      - desconcertaste
+      - "desconcert\xF3"
+      - desconcertamos
+      - desconcertasteis
+      - desconcertaron
+      cjid: pprf
+    - cjfs:
+      - "desconcertar\xE9"
+      - "desconcertar\xE1s"
+      - "desconcertar\xE1"
+      - desconcertaremos
+      - "desconcertar\xE9is"
+      - "desconcertar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desconcertar\xEDa"
+      - "desconcertar\xEDas"
+      - "desconcertar\xEDa"
+      - "desconcertar\xEDamos"
+      - "desconcertar\xEDais"
+      - "desconcertar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desconcierte
+      - desconciertes
+      - desconcierte
+      - desconcertemos
+      - "desconcert\xE9is"
+      - desconcierten
+      cjid: psub
+    - cjfs:
+      - desconcertara
+      - desconcertaras
+      - desconcertara
+      - "desconcert\xE1ramos"
+      - desconcertarais
+      - desconcertaran
+      cjid: pisb1
+    - cjfs:
+      - desconcertase
+      - desconcertases
+      - desconcertase
+      - "desconcert\xE1semos"
+      - desconcertaseis
+      - desconcertasen
+      cjid: pisb2
+    - cjfs:
+      - desconcertare
+      - desconcertares
+      - desconcertare
+      - "desconcert\xE1remos"
+      - desconcertareis
+      - desconcertaren
+      cjid: fsub
+    - cjfs:
+      - he desconcertado
+      - has desconcertado
+      - ha desconcertado
+      - hemos desconcertado
+      - "hab\xE9is desconcertado"
+      - han desconcertado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desconcertado"
+      - "hab\xEDas desconcertado"
+      - "hab\xEDa desconcertado"
+      - "hab\xEDamos desconcertado"
+      - "hab\xEDais desconcertado"
+      - "hab\xEDan desconcertado"
+      cjid: ppsi
+    - cjfs:
+      - hube desconcertado
+      - hubiste desconcertado
+      - hubo desconcertado
+      - hubimos desconcertado
+      - hubisteis desconcertado
+      - hubieron desconcertado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desconcertado"
+      - "habr\xE1s desconcertado"
+      - "habr\xE1 desconcertado"
+      - habremos desconcertado
+      - "habr\xE9is desconcertado"
+      - "habr\xE1n desconcertado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desconcertado"
+      - "habr\xEDas desconcertado"
+      - "habr\xEDa desconcertado"
+      - "habr\xEDamos desconcertado"
+      - "habr\xEDais desconcertado"
+      - "habr\xEDan desconcertado"
+      cjid: cpef
+    - cjfs:
+      - haya desconcertado
+      - hayas desconcertado
+      - haya desconcertado
+      - hayamos desconcertado
+      - "hay\xE1is desconcertado"
+      - hayan desconcertado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desconcertado
+      - hubieras desconcertado
+      - hubiera desconcertado
+      - "hubi\xE9ramos desconcertado"
+      - hubierais desconcertado
+      - hubieran desconcertado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desconcertado
+      - hubieses desconcertado
+      - hubiese desconcertado
+      - "hubi\xE9semos desconcertado"
+      - hubieseis desconcertado
+      - hubiesen desconcertado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desconcertado
+      - hubieres desconcertado
+      - hubiere desconcertado
+      - "hubi\xE9remos desconcertado"
+      - hubiereis desconcertado
+      - hubieren desconcertado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desconcierta
+      - desconcierte
+      - desconcertemos
+      - desconcertad
+      - desconcierten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: desconcertarse

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bulge}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enlarge}, to {a_link|expand}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: abultar
+  meta:
+    id: abultar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600156000'
+    src: spanish
+    stems:
+    - abultar
+    uuid: e3005953-4f3d-4826-8f72-faf1f1cf93c7
+  shortdef:
+  - to bulge
+  - to enlarge, to expand
+  suppl:
+    cjts:
+    - cjfs:
+      - abultando
+      - abultado
+      cjid: gppt
+    - cjfs:
+      - abulto
+      - abultas
+      - abulta
+      - abultamos
+      - "abult\xE1is"
+      - abultan
+      cjid: pind
+    - cjfs:
+      - abultaba
+      - abultabas
+      - abultaba
+      - "abult\xE1bamos"
+      - abultabais
+      - abultaban
+      cjid: pret
+    - cjfs:
+      - "abult\xE9"
+      - abultaste
+      - "abult\xF3"
+      - abultamos
+      - abultasteis
+      - abultaron
+      cjid: pprf
+    - cjfs:
+      - "abultar\xE9"
+      - "abultar\xE1s"
+      - "abultar\xE1"
+      - abultaremos
+      - "abultar\xE9is"
+      - "abultar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abultar\xEDa"
+      - "abultar\xEDas"
+      - "abultar\xEDa"
+      - "abultar\xEDamos"
+      - "abultar\xEDais"
+      - "abultar\xEDan"
+      cjid: cond
+    - cjfs:
+      - abulte
+      - abultes
+      - abulte
+      - abultemos
+      - "abult\xE9is"
+      - abulten
+      cjid: psub
+    - cjfs:
+      - abultara
+      - abultaras
+      - abultara
+      - "abult\xE1ramos"
+      - abultarais
+      - abultaran
+      cjid: pisb1
+    - cjfs:
+      - abultase
+      - abultases
+      - abultase
+      - "abult\xE1semos"
+      - abultaseis
+      - abultasen
+      cjid: pisb2
+    - cjfs:
+      - abultare
+      - abultares
+      - abultare
+      - "abult\xE1remos"
+      - abultareis
+      - abultaren
+      cjid: fsub
+    - cjfs:
+      - he abultado
+      - has abultado
+      - ha abultado
+      - hemos abultado
+      - "hab\xE9is abultado"
+      - han abultado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abultado"
+      - "hab\xEDas abultado"
+      - "hab\xEDa abultado"
+      - "hab\xEDamos abultado"
+      - "hab\xEDais abultado"
+      - "hab\xEDan abultado"
+      cjid: ppsi
+    - cjfs:
+      - hube abultado
+      - hubiste abultado
+      - hubo abultado
+      - hubimos abultado
+      - hubisteis abultado
+      - hubieron abultado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abultado"
+      - "habr\xE1s abultado"
+      - "habr\xE1 abultado"
+      - habremos abultado
+      - "habr\xE9is abultado"
+      - "habr\xE1n abultado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abultado"
+      - "habr\xEDas abultado"
+      - "habr\xEDa abultado"
+      - "habr\xEDamos abultado"
+      - "habr\xEDais abultado"
+      - "habr\xEDan abultado"
+      cjid: cpef
+    - cjfs:
+      - haya abultado
+      - hayas abultado
+      - haya abultado
+      - hayamos abultado
+      - "hay\xE1is abultado"
+      - hayan abultado
+      cjid: ppfs
+    - cjfs:
+      - hubiera abultado
+      - hubieras abultado
+      - hubiera abultado
+      - "hubi\xE9ramos abultado"
+      - hubierais abultado
+      - hubieran abultado
+      cjid: ppss1
+    - cjfs:
+      - hubiese abultado
+      - hubieses abultado
+      - hubiese abultado
+      - "hubi\xE9semos abultado"
+      - hubieseis abultado
+      - hubiesen abultado
+      cjid: ppss2
+    - cjfs:
+      - hubiere abultado
+      - hubieres abultado
+      - hubiere abultado
+      - "hubi\xE9remos abultado"
+      - hubiereis abultado
+      - hubieren abultado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abulta
+      - abulte
+      - abultemos
+      - abultad
+      - abulten
+      cjid: impf

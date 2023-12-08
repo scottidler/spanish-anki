@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blink}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flicker}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: parpadear
+    prs:
+    - sound:
+        audio: parpa01sp
+  meta:
+    id: parpadear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616714000'
+    src: spanish
+    stems:
+    - parpadear
+    uuid: f7ec38c4-df28-458c-8397-a5ae497642af
+  shortdef:
+  - to blink
+  - to flicker
+  suppl:
+    cjts:
+    - cjfs:
+      - parpadeando
+      - parpadeado
+      cjid: gppt
+    - cjfs:
+      - parpadeo
+      - parpadeas
+      - parpadea
+      - parpadeamos
+      - "parpade\xE1is"
+      - parpadean
+      cjid: pind
+    - cjfs:
+      - parpadeaba
+      - parpadeabas
+      - parpadeaba
+      - "parpade\xE1bamos"
+      - parpadeabais
+      - parpadeaban
+      cjid: pret
+    - cjfs:
+      - "parpade\xE9"
+      - parpadeaste
+      - "parpade\xF3"
+      - parpadeamos
+      - parpadeasteis
+      - parpadearon
+      cjid: pprf
+    - cjfs:
+      - "parpadear\xE9"
+      - "parpadear\xE1s"
+      - "parpadear\xE1"
+      - parpadearemos
+      - "parpadear\xE9is"
+      - "parpadear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "parpadear\xEDa"
+      - "parpadear\xEDas"
+      - "parpadear\xEDa"
+      - "parpadear\xEDamos"
+      - "parpadear\xEDais"
+      - "parpadear\xEDan"
+      cjid: cond
+    - cjfs:
+      - parpadee
+      - parpadees
+      - parpadee
+      - parpadeemos
+      - "parpade\xE9is"
+      - parpadeen
+      cjid: psub
+    - cjfs:
+      - parpadeara
+      - parpadearas
+      - parpadeara
+      - "parpade\xE1ramos"
+      - parpadearais
+      - parpadearan
+      cjid: pisb1
+    - cjfs:
+      - parpadease
+      - parpadeases
+      - parpadease
+      - "parpade\xE1semos"
+      - parpadeaseis
+      - parpadeasen
+      cjid: pisb2
+    - cjfs:
+      - parpadeare
+      - parpadeares
+      - parpadeare
+      - "parpade\xE1remos"
+      - parpadeareis
+      - parpadearen
+      cjid: fsub
+    - cjfs:
+      - he parpadeado
+      - has parpadeado
+      - ha parpadeado
+      - hemos parpadeado
+      - "hab\xE9is parpadeado"
+      - han parpadeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa parpadeado"
+      - "hab\xEDas parpadeado"
+      - "hab\xEDa parpadeado"
+      - "hab\xEDamos parpadeado"
+      - "hab\xEDais parpadeado"
+      - "hab\xEDan parpadeado"
+      cjid: ppsi
+    - cjfs:
+      - hube parpadeado
+      - hubiste parpadeado
+      - hubo parpadeado
+      - hubimos parpadeado
+      - hubisteis parpadeado
+      - hubieron parpadeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 parpadeado"
+      - "habr\xE1s parpadeado"
+      - "habr\xE1 parpadeado"
+      - habremos parpadeado
+      - "habr\xE9is parpadeado"
+      - "habr\xE1n parpadeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa parpadeado"
+      - "habr\xEDas parpadeado"
+      - "habr\xEDa parpadeado"
+      - "habr\xEDamos parpadeado"
+      - "habr\xEDais parpadeado"
+      - "habr\xEDan parpadeado"
+      cjid: cpef
+    - cjfs:
+      - haya parpadeado
+      - hayas parpadeado
+      - haya parpadeado
+      - hayamos parpadeado
+      - "hay\xE1is parpadeado"
+      - hayan parpadeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera parpadeado
+      - hubieras parpadeado
+      - hubiera parpadeado
+      - "hubi\xE9ramos parpadeado"
+      - hubierais parpadeado
+      - hubieran parpadeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese parpadeado
+      - hubieses parpadeado
+      - hubiese parpadeado
+      - "hubi\xE9semos parpadeado"
+      - hubieseis parpadeado
+      - hubiesen parpadeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere parpadeado
+      - hubieres parpadeado
+      - hubiere parpadeado
+      - "hubi\xE9remos parpadeado"
+      - hubiereis parpadeado
+      - hubieren parpadeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - parpadea
+      - parpadee
+      - parpadeemos
+      - parpadead
+      - parpadeen
+      cjid: impf

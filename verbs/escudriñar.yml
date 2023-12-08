@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|escrutar||} {bc}to {a_link|scrutinize}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inquire into}, to {a_link|investigate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: "escudri\xF1ar"
+    prs:
+    - sound:
+        audio: escud03sp
+  meta:
+    id: escudrinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609065000'
+    src: spanish
+    stems:
+    - "escudri\xF1ar"
+    uuid: 7ac8b1bb-04ab-4e1d-a6c8-7e60b4109d17
+  shortdef:
+  - 'escrutar : to scrutinize'
+  - to inquire into, to investigate
+  suppl:
+    cjts:
+    - cjfs:
+      - "escudri\xF1ando"
+      - "escudri\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "escudri\xF1o"
+      - "escudri\xF1as"
+      - "escudri\xF1a"
+      - "escudri\xF1amos"
+      - "escudri\xF1\xE1is"
+      - "escudri\xF1an"
+      cjid: pind
+    - cjfs:
+      - "escudri\xF1aba"
+      - "escudri\xF1abas"
+      - "escudri\xF1aba"
+      - "escudri\xF1\xE1bamos"
+      - "escudri\xF1abais"
+      - "escudri\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "escudri\xF1\xE9"
+      - "escudri\xF1aste"
+      - "escudri\xF1\xF3"
+      - "escudri\xF1amos"
+      - "escudri\xF1asteis"
+      - "escudri\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "escudri\xF1ar\xE9"
+      - "escudri\xF1ar\xE1s"
+      - "escudri\xF1ar\xE1"
+      - "escudri\xF1aremos"
+      - "escudri\xF1ar\xE9is"
+      - "escudri\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escudri\xF1ar\xEDa"
+      - "escudri\xF1ar\xEDas"
+      - "escudri\xF1ar\xEDa"
+      - "escudri\xF1ar\xEDamos"
+      - "escudri\xF1ar\xEDais"
+      - "escudri\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "escudri\xF1e"
+      - "escudri\xF1es"
+      - "escudri\xF1e"
+      - "escudri\xF1emos"
+      - "escudri\xF1\xE9is"
+      - "escudri\xF1en"
+      cjid: psub
+    - cjfs:
+      - "escudri\xF1ara"
+      - "escudri\xF1aras"
+      - "escudri\xF1ara"
+      - "escudri\xF1\xE1ramos"
+      - "escudri\xF1arais"
+      - "escudri\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "escudri\xF1ase"
+      - "escudri\xF1ases"
+      - "escudri\xF1ase"
+      - "escudri\xF1\xE1semos"
+      - "escudri\xF1aseis"
+      - "escudri\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "escudri\xF1are"
+      - "escudri\xF1ares"
+      - "escudri\xF1are"
+      - "escudri\xF1\xE1remos"
+      - "escudri\xF1areis"
+      - "escudri\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he escudri\xF1ado"
+      - "has escudri\xF1ado"
+      - "ha escudri\xF1ado"
+      - "hemos escudri\xF1ado"
+      - "hab\xE9is escudri\xF1ado"
+      - "han escudri\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escudri\xF1ado"
+      - "hab\xEDas escudri\xF1ado"
+      - "hab\xEDa escudri\xF1ado"
+      - "hab\xEDamos escudri\xF1ado"
+      - "hab\xEDais escudri\xF1ado"
+      - "hab\xEDan escudri\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube escudri\xF1ado"
+      - "hubiste escudri\xF1ado"
+      - "hubo escudri\xF1ado"
+      - "hubimos escudri\xF1ado"
+      - "hubisteis escudri\xF1ado"
+      - "hubieron escudri\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escudri\xF1ado"
+      - "habr\xE1s escudri\xF1ado"
+      - "habr\xE1 escudri\xF1ado"
+      - "habremos escudri\xF1ado"
+      - "habr\xE9is escudri\xF1ado"
+      - "habr\xE1n escudri\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escudri\xF1ado"
+      - "habr\xEDas escudri\xF1ado"
+      - "habr\xEDa escudri\xF1ado"
+      - "habr\xEDamos escudri\xF1ado"
+      - "habr\xEDais escudri\xF1ado"
+      - "habr\xEDan escudri\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya escudri\xF1ado"
+      - "hayas escudri\xF1ado"
+      - "haya escudri\xF1ado"
+      - "hayamos escudri\xF1ado"
+      - "hay\xE1is escudri\xF1ado"
+      - "hayan escudri\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera escudri\xF1ado"
+      - "hubieras escudri\xF1ado"
+      - "hubiera escudri\xF1ado"
+      - "hubi\xE9ramos escudri\xF1ado"
+      - "hubierais escudri\xF1ado"
+      - "hubieran escudri\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese escudri\xF1ado"
+      - "hubieses escudri\xF1ado"
+      - "hubiese escudri\xF1ado"
+      - "hubi\xE9semos escudri\xF1ado"
+      - "hubieseis escudri\xF1ado"
+      - "hubiesen escudri\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere escudri\xF1ado"
+      - "hubieres escudri\xF1ado"
+      - "hubiere escudri\xF1ado"
+      - "hubi\xE9remos escudri\xF1ado"
+      - "hubiereis escudri\xF1ado"
+      - "hubieren escudri\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "escudri\xF1a"
+      - "escudri\xF1e"
+      - "escudri\xF1emos"
+      - "escudri\xF1ad"
+      - "escudri\xF1en"
+      cjid: impf

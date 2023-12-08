@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|suavizar||} {bc}to {a_link|soften}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|calmar||} {bc}to {a_link|soothe}, to {a_link|appease}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|moderate}, to get milder'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become soft, to {a_link|soften}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|ceder||} {bc}to {a_link|yield}, to {a_link|relent}'
+            sn: '2'
+    drp: ablandarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ablandar
+  meta:
+    id: ablandar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600055000'
+    src: spanish
+    stems:
+    - ablandar
+    - ablandarse
+    uuid: 73be6d11-59d7-4e29-aa63-682e973751bd
+  shortdef:
+  - 'suavizar : to soften'
+  - 'calmar : to soothe, to appease'
+  - to moderate, to get milder
+  suppl:
+    cjts:
+    - cjfs:
+      - ablandando
+      - ablandado
+      cjid: gppt
+    - cjfs:
+      - ablando
+      - ablandas
+      - ablanda
+      - ablandamos
+      - "abland\xE1is"
+      - ablandan
+      cjid: pind
+    - cjfs:
+      - ablandaba
+      - ablandabas
+      - ablandaba
+      - "abland\xE1bamos"
+      - ablandabais
+      - ablandaban
+      cjid: pret
+    - cjfs:
+      - "abland\xE9"
+      - ablandaste
+      - "abland\xF3"
+      - ablandamos
+      - ablandasteis
+      - ablandaron
+      cjid: pprf
+    - cjfs:
+      - "ablandar\xE9"
+      - "ablandar\xE1s"
+      - "ablandar\xE1"
+      - ablandaremos
+      - "ablandar\xE9is"
+      - "ablandar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ablandar\xEDa"
+      - "ablandar\xEDas"
+      - "ablandar\xEDa"
+      - "ablandar\xEDamos"
+      - "ablandar\xEDais"
+      - "ablandar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ablande
+      - ablandes
+      - ablande
+      - ablandemos
+      - "abland\xE9is"
+      - ablanden
+      cjid: psub
+    - cjfs:
+      - ablandara
+      - ablandaras
+      - ablandara
+      - "abland\xE1ramos"
+      - ablandarais
+      - ablandaran
+      cjid: pisb1
+    - cjfs:
+      - ablandase
+      - ablandases
+      - ablandase
+      - "abland\xE1semos"
+      - ablandaseis
+      - ablandasen
+      cjid: pisb2
+    - cjfs:
+      - ablandare
+      - ablandares
+      - ablandare
+      - "abland\xE1remos"
+      - ablandareis
+      - ablandaren
+      cjid: fsub
+    - cjfs:
+      - he ablandado
+      - has ablandado
+      - ha ablandado
+      - hemos ablandado
+      - "hab\xE9is ablandado"
+      - han ablandado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ablandado"
+      - "hab\xEDas ablandado"
+      - "hab\xEDa ablandado"
+      - "hab\xEDamos ablandado"
+      - "hab\xEDais ablandado"
+      - "hab\xEDan ablandado"
+      cjid: ppsi
+    - cjfs:
+      - hube ablandado
+      - hubiste ablandado
+      - hubo ablandado
+      - hubimos ablandado
+      - hubisteis ablandado
+      - hubieron ablandado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ablandado"
+      - "habr\xE1s ablandado"
+      - "habr\xE1 ablandado"
+      - habremos ablandado
+      - "habr\xE9is ablandado"
+      - "habr\xE1n ablandado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ablandado"
+      - "habr\xEDas ablandado"
+      - "habr\xEDa ablandado"
+      - "habr\xEDamos ablandado"
+      - "habr\xEDais ablandado"
+      - "habr\xEDan ablandado"
+      cjid: cpef
+    - cjfs:
+      - haya ablandado
+      - hayas ablandado
+      - haya ablandado
+      - hayamos ablandado
+      - "hay\xE1is ablandado"
+      - hayan ablandado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ablandado
+      - hubieras ablandado
+      - hubiera ablandado
+      - "hubi\xE9ramos ablandado"
+      - hubierais ablandado
+      - hubieran ablandado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ablandado
+      - hubieses ablandado
+      - hubiese ablandado
+      - "hubi\xE9semos ablandado"
+      - hubieseis ablandado
+      - hubiesen ablandado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ablandado
+      - hubieres ablandado
+      - hubiere ablandado
+      - "hubi\xE9remos ablandado"
+      - hubiereis ablandado
+      - hubieren ablandado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ablanda
+      - ablande
+      - ablandemos
+      - ablandad
+      - ablanden
+      cjid: impf

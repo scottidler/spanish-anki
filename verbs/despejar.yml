@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clear}, to {a_link|free}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clarify}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clear up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|punt} (in sports)'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: despejar
+    prs:
+    - sound:
+        audio: despe09sp
+  meta:
+    id: despejar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607255000'
+    src: spanish
+    stems:
+    - despejar
+    uuid: 031cddac-7985-422b-8ce8-7a3288fe3b7c
+  shortdef:
+  - to clear, to free
+  - to clarify
+  - to clear up
+  suppl:
+    cjts:
+    - cjfs:
+      - despejando
+      - despejado
+      cjid: gppt
+    - cjfs:
+      - despejo
+      - despejas
+      - despeja
+      - despejamos
+      - "despej\xE1is"
+      - despejan
+      cjid: pind
+    - cjfs:
+      - despejaba
+      - despejabas
+      - despejaba
+      - "despej\xE1bamos"
+      - despejabais
+      - despejaban
+      cjid: pret
+    - cjfs:
+      - "despej\xE9"
+      - despejaste
+      - "despej\xF3"
+      - despejamos
+      - despejasteis
+      - despejaron
+      cjid: pprf
+    - cjfs:
+      - "despejar\xE9"
+      - "despejar\xE1s"
+      - "despejar\xE1"
+      - despejaremos
+      - "despejar\xE9is"
+      - "despejar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "despejar\xEDa"
+      - "despejar\xEDas"
+      - "despejar\xEDa"
+      - "despejar\xEDamos"
+      - "despejar\xEDais"
+      - "despejar\xEDan"
+      cjid: cond
+    - cjfs:
+      - despeje
+      - despejes
+      - despeje
+      - despejemos
+      - "despej\xE9is"
+      - despejen
+      cjid: psub
+    - cjfs:
+      - despejara
+      - despejaras
+      - despejara
+      - "despej\xE1ramos"
+      - despejarais
+      - despejaran
+      cjid: pisb1
+    - cjfs:
+      - despejase
+      - despejases
+      - despejase
+      - "despej\xE1semos"
+      - despejaseis
+      - despejasen
+      cjid: pisb2
+    - cjfs:
+      - despejare
+      - despejares
+      - despejare
+      - "despej\xE1remos"
+      - despejareis
+      - despejaren
+      cjid: fsub
+    - cjfs:
+      - he despejado
+      - has despejado
+      - ha despejado
+      - hemos despejado
+      - "hab\xE9is despejado"
+      - han despejado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa despejado"
+      - "hab\xEDas despejado"
+      - "hab\xEDa despejado"
+      - "hab\xEDamos despejado"
+      - "hab\xEDais despejado"
+      - "hab\xEDan despejado"
+      cjid: ppsi
+    - cjfs:
+      - hube despejado
+      - hubiste despejado
+      - hubo despejado
+      - hubimos despejado
+      - hubisteis despejado
+      - hubieron despejado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 despejado"
+      - "habr\xE1s despejado"
+      - "habr\xE1 despejado"
+      - habremos despejado
+      - "habr\xE9is despejado"
+      - "habr\xE1n despejado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa despejado"
+      - "habr\xEDas despejado"
+      - "habr\xEDa despejado"
+      - "habr\xEDamos despejado"
+      - "habr\xEDais despejado"
+      - "habr\xEDan despejado"
+      cjid: cpef
+    - cjfs:
+      - haya despejado
+      - hayas despejado
+      - haya despejado
+      - hayamos despejado
+      - "hay\xE1is despejado"
+      - hayan despejado
+      cjid: ppfs
+    - cjfs:
+      - hubiera despejado
+      - hubieras despejado
+      - hubiera despejado
+      - "hubi\xE9ramos despejado"
+      - hubierais despejado
+      - hubieran despejado
+      cjid: ppss1
+    - cjfs:
+      - hubiese despejado
+      - hubieses despejado
+      - hubiese despejado
+      - "hubi\xE9semos despejado"
+      - hubieseis despejado
+      - hubiesen despejado
+      cjid: ppss2
+    - cjfs:
+      - hubiere despejado
+      - hubieres despejado
+      - hubiere despejado
+      - "hubi\xE9remos despejado"
+      - hubiereis despejado
+      - hubieren despejado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - despeja
+      - despeje
+      - despejemos
+      - despejad
+      - despejen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reventar||} {bc}to {a_link|burst}, to {a_link|explode}, to {a_link|erupt}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break out}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: estallar
+    prs:
+    - sound:
+        audio: estal01sp
+  meta:
+    id: estallar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609294000'
+    src: spanish
+    stems:
+    - estallar
+    uuid: 6c1423b1-e661-4117-9e83-ac70d7cb32c7
+  shortdef:
+  - 'reventar : to burst, to explode, to erupt'
+  - to break out
+  suppl:
+    cjts:
+    - cjfs:
+      - estallando
+      - estallado
+      cjid: gppt
+    - cjfs:
+      - estallo
+      - estallas
+      - estalla
+      - estallamos
+      - "estall\xE1is"
+      - estallan
+      cjid: pind
+    - cjfs:
+      - estallaba
+      - estallabas
+      - estallaba
+      - "estall\xE1bamos"
+      - estallabais
+      - estallaban
+      cjid: pret
+    - cjfs:
+      - "estall\xE9"
+      - estallaste
+      - "estall\xF3"
+      - estallamos
+      - estallasteis
+      - estallaron
+      cjid: pprf
+    - cjfs:
+      - "estallar\xE9"
+      - "estallar\xE1s"
+      - "estallar\xE1"
+      - estallaremos
+      - "estallar\xE9is"
+      - "estallar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estallar\xEDa"
+      - "estallar\xEDas"
+      - "estallar\xEDa"
+      - "estallar\xEDamos"
+      - "estallar\xEDais"
+      - "estallar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estalle
+      - estalles
+      - estalle
+      - estallemos
+      - "estall\xE9is"
+      - estallen
+      cjid: psub
+    - cjfs:
+      - estallara
+      - estallaras
+      - estallara
+      - "estall\xE1ramos"
+      - estallarais
+      - estallaran
+      cjid: pisb1
+    - cjfs:
+      - estallase
+      - estallases
+      - estallase
+      - "estall\xE1semos"
+      - estallaseis
+      - estallasen
+      cjid: pisb2
+    - cjfs:
+      - estallare
+      - estallares
+      - estallare
+      - "estall\xE1remos"
+      - estallareis
+      - estallaren
+      cjid: fsub
+    - cjfs:
+      - he estallado
+      - has estallado
+      - ha estallado
+      - hemos estallado
+      - "hab\xE9is estallado"
+      - han estallado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estallado"
+      - "hab\xEDas estallado"
+      - "hab\xEDa estallado"
+      - "hab\xEDamos estallado"
+      - "hab\xEDais estallado"
+      - "hab\xEDan estallado"
+      cjid: ppsi
+    - cjfs:
+      - hube estallado
+      - hubiste estallado
+      - hubo estallado
+      - hubimos estallado
+      - hubisteis estallado
+      - hubieron estallado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estallado"
+      - "habr\xE1s estallado"
+      - "habr\xE1 estallado"
+      - habremos estallado
+      - "habr\xE9is estallado"
+      - "habr\xE1n estallado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estallado"
+      - "habr\xEDas estallado"
+      - "habr\xEDa estallado"
+      - "habr\xEDamos estallado"
+      - "habr\xEDais estallado"
+      - "habr\xEDan estallado"
+      cjid: cpef
+    - cjfs:
+      - haya estallado
+      - hayas estallado
+      - haya estallado
+      - hayamos estallado
+      - "hay\xE1is estallado"
+      - hayan estallado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estallado
+      - hubieras estallado
+      - hubiera estallado
+      - "hubi\xE9ramos estallado"
+      - hubierais estallado
+      - hubieran estallado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estallado
+      - hubieses estallado
+      - hubiese estallado
+      - "hubi\xE9semos estallado"
+      - hubieseis estallado
+      - hubiesen estallado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estallado
+      - hubieres estallado
+      - hubiere estallado
+      - "hubi\xE9remos estallado"
+      - hubiereis estallado
+      - hubieren estallado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estalla
+      - estalle
+      - estallemos
+      - estallad
+      - estallen
+      cjid: impf

@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cast a shadow over}, to {a_link|darken}'
+  fl: transitive verb
+  hwi:
+    hw: ensombrecer
+  meta:
+    id: ensombrecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608692000'
+    src: spanish
+    stems:
+    - ensombrecer
+    - ensombrecerse
+    uuid: ac23412e-20c8-459a-9216-6ed519764957
+  shortdef:
+  - to cast a shadow over, to darken
+  suppl:
+    cjts:
+    - cjfs:
+      - ensombreciendo
+      - ensombrecido
+      cjid: gppt
+    - cjfs:
+      - ensombrezco
+      - ensombreces
+      - ensombrece
+      - ensombrecemos
+      - "ensombrec\xE9is"
+      - ensombrecen
+      cjid: pind
+    - cjfs:
+      - "ensombrec\xEDa"
+      - "ensombrec\xEDas"
+      - "ensombrec\xEDa"
+      - "ensombrec\xEDamos"
+      - "ensombrec\xEDais"
+      - "ensombrec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ensombrec\xED"
+      - ensombreciste
+      - "ensombreci\xF3"
+      - ensombrecimos
+      - ensombrecisteis
+      - ensombrecieron
+      cjid: pprf
+    - cjfs:
+      - "ensombrecer\xE9"
+      - "ensombrecer\xE1s"
+      - "ensombrecer\xE1"
+      - ensombreceremos
+      - "ensombrecer\xE9is"
+      - "ensombrecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ensombrecer\xEDa"
+      - "ensombrecer\xEDas"
+      - "ensombrecer\xEDa"
+      - "ensombrecer\xEDamos"
+      - "ensombrecer\xEDais"
+      - "ensombrecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - ensombrezca
+      - ensombrezcas
+      - ensombrezca
+      - ensombrezcamos
+      - "ensombrezc\xE1is"
+      - ensombrezcan
+      cjid: psub
+    - cjfs:
+      - ensombreciera
+      - ensombrecieras
+      - ensombreciera
+      - "ensombreci\xE9ramos"
+      - ensombrecierais
+      - ensombrecieran
+      cjid: pisb1
+    - cjfs:
+      - ensombreciese
+      - ensombrecieses
+      - ensombreciese
+      - "ensombreci\xE9semos"
+      - ensombrecieseis
+      - ensombreciesen
+      cjid: pisb2
+    - cjfs:
+      - ensombreciere
+      - ensombrecieres
+      - ensombreciere
+      - "ensombreci\xE9remos"
+      - ensombreciereis
+      - ensombrecieren
+      cjid: fsub
+    - cjfs:
+      - he ensombrecido
+      - has ensombrecido
+      - ha ensombrecido
+      - hemos ensombrecido
+      - "hab\xE9is ensombrecido"
+      - han ensombrecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ensombrecido"
+      - "hab\xEDas ensombrecido"
+      - "hab\xEDa ensombrecido"
+      - "hab\xEDamos ensombrecido"
+      - "hab\xEDais ensombrecido"
+      - "hab\xEDan ensombrecido"
+      cjid: ppsi
+    - cjfs:
+      - hube ensombrecido
+      - hubiste ensombrecido
+      - hubo ensombrecido
+      - hubimos ensombrecido
+      - hubisteis ensombrecido
+      - hubieron ensombrecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ensombrecido"
+      - "habr\xE1s ensombrecido"
+      - "habr\xE1 ensombrecido"
+      - habremos ensombrecido
+      - "habr\xE9is ensombrecido"
+      - "habr\xE1n ensombrecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ensombrecido"
+      - "habr\xEDas ensombrecido"
+      - "habr\xEDa ensombrecido"
+      - "habr\xEDamos ensombrecido"
+      - "habr\xEDais ensombrecido"
+      - "habr\xEDan ensombrecido"
+      cjid: cpef
+    - cjfs:
+      - haya ensombrecido
+      - hayas ensombrecido
+      - haya ensombrecido
+      - hayamos ensombrecido
+      - "hay\xE1is ensombrecido"
+      - hayan ensombrecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ensombrecido
+      - hubieras ensombrecido
+      - hubiera ensombrecido
+      - "hubi\xE9ramos ensombrecido"
+      - hubierais ensombrecido
+      - hubieran ensombrecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ensombrecido
+      - hubieses ensombrecido
+      - hubiese ensombrecido
+      - "hubi\xE9semos ensombrecido"
+      - hubieseis ensombrecido
+      - hubiesen ensombrecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ensombrecido
+      - hubieres ensombrecido
+      - hubiere ensombrecido
+      - "hubi\xE9remos ensombrecido"
+      - hubiereis ensombrecido
+      - hubieren ensombrecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ensombrece
+      - ensombrezca
+      - ensombrezcamos
+      - ensombreced
+      - ensombrezcan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: ensombrecerse

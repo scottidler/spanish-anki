@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|parade}, to {a_link|march}'
+  fl: intransitive verb
+  hwi:
+    hw: desfilar
+    prs:
+    - sound:
+        audio: desfi01sp
+  meta:
+    id: desfilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607084000'
+    src: spanish
+    stems:
+    - desfilar
+    uuid: f8d54d11-0ada-4d22-8302-4530f33b9aef
+  shortdef:
+  - to parade, to march
+  suppl:
+    cjts:
+    - cjfs:
+      - desfilando
+      - desfilado
+      cjid: gppt
+    - cjfs:
+      - desfilo
+      - desfilas
+      - desfila
+      - desfilamos
+      - "desfil\xE1is"
+      - desfilan
+      cjid: pind
+    - cjfs:
+      - desfilaba
+      - desfilabas
+      - desfilaba
+      - "desfil\xE1bamos"
+      - desfilabais
+      - desfilaban
+      cjid: pret
+    - cjfs:
+      - "desfil\xE9"
+      - desfilaste
+      - "desfil\xF3"
+      - desfilamos
+      - desfilasteis
+      - desfilaron
+      cjid: pprf
+    - cjfs:
+      - "desfilar\xE9"
+      - "desfilar\xE1s"
+      - "desfilar\xE1"
+      - desfilaremos
+      - "desfilar\xE9is"
+      - "desfilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desfilar\xEDa"
+      - "desfilar\xEDas"
+      - "desfilar\xEDa"
+      - "desfilar\xEDamos"
+      - "desfilar\xEDais"
+      - "desfilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desfile
+      - desfiles
+      - desfile
+      - desfilemos
+      - "desfil\xE9is"
+      - desfilen
+      cjid: psub
+    - cjfs:
+      - desfilara
+      - desfilaras
+      - desfilara
+      - "desfil\xE1ramos"
+      - desfilarais
+      - desfilaran
+      cjid: pisb1
+    - cjfs:
+      - desfilase
+      - desfilases
+      - desfilase
+      - "desfil\xE1semos"
+      - desfilaseis
+      - desfilasen
+      cjid: pisb2
+    - cjfs:
+      - desfilare
+      - desfilares
+      - desfilare
+      - "desfil\xE1remos"
+      - desfilareis
+      - desfilaren
+      cjid: fsub
+    - cjfs:
+      - he desfilado
+      - has desfilado
+      - ha desfilado
+      - hemos desfilado
+      - "hab\xE9is desfilado"
+      - han desfilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desfilado"
+      - "hab\xEDas desfilado"
+      - "hab\xEDa desfilado"
+      - "hab\xEDamos desfilado"
+      - "hab\xEDais desfilado"
+      - "hab\xEDan desfilado"
+      cjid: ppsi
+    - cjfs:
+      - hube desfilado
+      - hubiste desfilado
+      - hubo desfilado
+      - hubimos desfilado
+      - hubisteis desfilado
+      - hubieron desfilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desfilado"
+      - "habr\xE1s desfilado"
+      - "habr\xE1 desfilado"
+      - habremos desfilado
+      - "habr\xE9is desfilado"
+      - "habr\xE1n desfilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desfilado"
+      - "habr\xEDas desfilado"
+      - "habr\xEDa desfilado"
+      - "habr\xEDamos desfilado"
+      - "habr\xEDais desfilado"
+      - "habr\xEDan desfilado"
+      cjid: cpef
+    - cjfs:
+      - haya desfilado
+      - hayas desfilado
+      - haya desfilado
+      - hayamos desfilado
+      - "hay\xE1is desfilado"
+      - hayan desfilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desfilado
+      - hubieras desfilado
+      - hubiera desfilado
+      - "hubi\xE9ramos desfilado"
+      - hubierais desfilado
+      - hubieran desfilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desfilado
+      - hubieses desfilado
+      - hubiese desfilado
+      - "hubi\xE9semos desfilado"
+      - hubieseis desfilado
+      - hubiesen desfilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desfilado
+      - hubieres desfilado
+      - hubiere desfilado
+      - "hubi\xE9remos desfilado"
+      - hubiereis desfilado
+      - hubieren desfilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desfila
+      - desfile
+      - desfilemos
+      - desfilad
+      - desfilen
+      cjid: impf

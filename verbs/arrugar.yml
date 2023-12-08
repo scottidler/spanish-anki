@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wrinkle}, to {a_link|crease}, to {a_link|pucker}'
+  fl: transitive verb
+  hwi:
+    hw: arrugar
+    prs:
+    - sound:
+        audio: arrug03sp
+  meta:
+    id: arrugar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602046000'
+    src: spanish
+    stems:
+    - arrugar
+    - arrugarse
+    uuid: 2268a5d6-0657-4893-8e03-7c0e25eb0afe
+  shortdef:
+  - to wrinkle, to crease, to pucker
+  suppl:
+    cjts:
+    - cjfs:
+      - arrugando
+      - arrugado
+      cjid: gppt
+    - cjfs:
+      - arrugo
+      - arrugas
+      - arruga
+      - arrugamos
+      - "arrug\xE1is"
+      - arrugan
+      cjid: pind
+    - cjfs:
+      - arrugaba
+      - arrugabas
+      - arrugaba
+      - "arrug\xE1bamos"
+      - arrugabais
+      - arrugaban
+      cjid: pret
+    - cjfs:
+      - "arrugu\xE9"
+      - arrugaste
+      - "arrug\xF3"
+      - arrugamos
+      - arrugasteis
+      - arrugaron
+      cjid: pprf
+    - cjfs:
+      - "arrugar\xE9"
+      - "arrugar\xE1s"
+      - "arrugar\xE1"
+      - arrugaremos
+      - "arrugar\xE9is"
+      - "arrugar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrugar\xEDa"
+      - "arrugar\xEDas"
+      - "arrugar\xEDa"
+      - "arrugar\xEDamos"
+      - "arrugar\xEDais"
+      - "arrugar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arrugue
+      - arrugues
+      - arrugue
+      - arruguemos
+      - "arrugu\xE9is"
+      - arruguen
+      cjid: psub
+    - cjfs:
+      - arrugara
+      - arrugaras
+      - arrugara
+      - "arrug\xE1ramos"
+      - arrugarais
+      - arrugaran
+      cjid: pisb1
+    - cjfs:
+      - arrugase
+      - arrugases
+      - arrugase
+      - "arrug\xE1semos"
+      - arrugaseis
+      - arrugasen
+      cjid: pisb2
+    - cjfs:
+      - arrugare
+      - arrugares
+      - arrugare
+      - "arrug\xE1remos"
+      - arrugareis
+      - arrugaren
+      cjid: fsub
+    - cjfs:
+      - he arrugado
+      - has arrugado
+      - ha arrugado
+      - hemos arrugado
+      - "hab\xE9is arrugado"
+      - han arrugado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrugado"
+      - "hab\xEDas arrugado"
+      - "hab\xEDa arrugado"
+      - "hab\xEDamos arrugado"
+      - "hab\xEDais arrugado"
+      - "hab\xEDan arrugado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrugado
+      - hubiste arrugado
+      - hubo arrugado
+      - hubimos arrugado
+      - hubisteis arrugado
+      - hubieron arrugado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrugado"
+      - "habr\xE1s arrugado"
+      - "habr\xE1 arrugado"
+      - habremos arrugado
+      - "habr\xE9is arrugado"
+      - "habr\xE1n arrugado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrugado"
+      - "habr\xEDas arrugado"
+      - "habr\xEDa arrugado"
+      - "habr\xEDamos arrugado"
+      - "habr\xEDais arrugado"
+      - "habr\xEDan arrugado"
+      cjid: cpef
+    - cjfs:
+      - haya arrugado
+      - hayas arrugado
+      - haya arrugado
+      - hayamos arrugado
+      - "hay\xE1is arrugado"
+      - hayan arrugado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrugado
+      - hubieras arrugado
+      - hubiera arrugado
+      - "hubi\xE9ramos arrugado"
+      - hubierais arrugado
+      - hubieran arrugado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrugado
+      - hubieses arrugado
+      - hubiese arrugado
+      - "hubi\xE9semos arrugado"
+      - hubieseis arrugado
+      - hubiesen arrugado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrugado
+      - hubieres arrugado
+      - hubiere arrugado
+      - "hubi\xE9remos arrugado"
+      - hubiereis arrugado
+      - hubieren arrugado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arruga
+      - arrugue
+      - arruguemos
+      - arrugad
+      - arruguen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: arrugarse

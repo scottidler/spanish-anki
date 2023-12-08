@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|commit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make a mistake'
+          sn: '2'
+          vrs:
+          - va: cometer un error
+  fl: transitive verb
+  hwi:
+    hw: cometer
+    prs:
+    - sound:
+        audio: comet02sp
+  meta:
+    id: cometer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605176000'
+    src: spanish
+    stems:
+    - cometer
+    - cometer un error
+    uuid: 321d0fd2-52de-4846-b944-6d6e1a8202d0
+  shortdef:
+  - to commit
+  - to make a mistake
+  suppl:
+    cjts:
+    - cjfs:
+      - cometiendo
+      - cometido
+      cjid: gppt
+    - cjfs:
+      - cometo
+      - cometes
+      - comete
+      - cometemos
+      - "comet\xE9is"
+      - cometen
+      cjid: pind
+    - cjfs:
+      - "comet\xEDa"
+      - "comet\xEDas"
+      - "comet\xEDa"
+      - "comet\xEDamos"
+      - "comet\xEDais"
+      - "comet\xEDan"
+      cjid: pret
+    - cjfs:
+      - "comet\xED"
+      - cometiste
+      - "cometi\xF3"
+      - cometimos
+      - cometisteis
+      - cometieron
+      cjid: pprf
+    - cjfs:
+      - "cometer\xE9"
+      - "cometer\xE1s"
+      - "cometer\xE1"
+      - cometeremos
+      - "cometer\xE9is"
+      - "cometer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cometer\xEDa"
+      - "cometer\xEDas"
+      - "cometer\xEDa"
+      - "cometer\xEDamos"
+      - "cometer\xEDais"
+      - "cometer\xEDan"
+      cjid: cond
+    - cjfs:
+      - cometa
+      - cometas
+      - cometa
+      - cometamos
+      - "comet\xE1is"
+      - cometan
+      cjid: psub
+    - cjfs:
+      - cometiera
+      - cometieras
+      - cometiera
+      - "cometi\xE9ramos"
+      - cometierais
+      - cometieran
+      cjid: pisb1
+    - cjfs:
+      - cometiese
+      - cometieses
+      - cometiese
+      - "cometi\xE9semos"
+      - cometieseis
+      - cometiesen
+      cjid: pisb2
+    - cjfs:
+      - cometiere
+      - cometieres
+      - cometiere
+      - "cometi\xE9remos"
+      - cometiereis
+      - cometieren
+      cjid: fsub
+    - cjfs:
+      - he cometido
+      - has cometido
+      - ha cometido
+      - hemos cometido
+      - "hab\xE9is cometido"
+      - han cometido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cometido"
+      - "hab\xEDas cometido"
+      - "hab\xEDa cometido"
+      - "hab\xEDamos cometido"
+      - "hab\xEDais cometido"
+      - "hab\xEDan cometido"
+      cjid: ppsi
+    - cjfs:
+      - hube cometido
+      - hubiste cometido
+      - hubo cometido
+      - hubimos cometido
+      - hubisteis cometido
+      - hubieron cometido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cometido"
+      - "habr\xE1s cometido"
+      - "habr\xE1 cometido"
+      - habremos cometido
+      - "habr\xE9is cometido"
+      - "habr\xE1n cometido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cometido"
+      - "habr\xEDas cometido"
+      - "habr\xEDa cometido"
+      - "habr\xEDamos cometido"
+      - "habr\xEDais cometido"
+      - "habr\xEDan cometido"
+      cjid: cpef
+    - cjfs:
+      - haya cometido
+      - hayas cometido
+      - haya cometido
+      - hayamos cometido
+      - "hay\xE1is cometido"
+      - hayan cometido
+      cjid: ppfs
+    - cjfs:
+      - hubiera cometido
+      - hubieras cometido
+      - hubiera cometido
+      - "hubi\xE9ramos cometido"
+      - hubierais cometido
+      - hubieran cometido
+      cjid: ppss1
+    - cjfs:
+      - hubiese cometido
+      - hubieses cometido
+      - hubiese cometido
+      - "hubi\xE9semos cometido"
+      - hubieseis cometido
+      - hubiesen cometido
+      cjid: ppss2
+    - cjfs:
+      - hubiere cometido
+      - hubieres cometido
+      - hubiere cometido
+      - "hubi\xE9remos cometido"
+      - hubiereis cometido
+      - hubieren cometido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - comete
+      - cometa
+      - cometamos
+      - cometed
+      - cometan
+      cjid: impf

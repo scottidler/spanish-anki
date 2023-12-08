@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mend}, to {a_link|patch}, to {a_link|darn}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|correct}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: remendar
+  meta:
+    id: remendar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619339000'
+    src: spanish
+    stems:
+    - remendar
+    uuid: 01af98ad-6b79-47f5-a132-7d1bd649fa59
+  shortdef:
+  - to mend, to patch, to darn
+  - to correct
+  suppl:
+    cjts:
+    - cjfs:
+      - remendando
+      - remendado
+      cjid: gppt
+    - cjfs:
+      - remiendo
+      - remiendas
+      - remienda
+      - remendamos
+      - "remend\xE1is"
+      - remiendan
+      cjid: pind
+    - cjfs:
+      - remendaba
+      - remendabas
+      - remendaba
+      - "remend\xE1bamos"
+      - remendabais
+      - remendaban
+      cjid: pret
+    - cjfs:
+      - "remend\xE9"
+      - remendaste
+      - "remend\xF3"
+      - remendamos
+      - remendasteis
+      - remendaron
+      cjid: pprf
+    - cjfs:
+      - "remendar\xE9"
+      - "remendar\xE1s"
+      - "remendar\xE1"
+      - remendaremos
+      - "remendar\xE9is"
+      - "remendar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "remendar\xEDa"
+      - "remendar\xEDas"
+      - "remendar\xEDa"
+      - "remendar\xEDamos"
+      - "remendar\xEDais"
+      - "remendar\xEDan"
+      cjid: cond
+    - cjfs:
+      - remiende
+      - remiendes
+      - remiende
+      - remendemos
+      - "remend\xE9is"
+      - remienden
+      cjid: psub
+    - cjfs:
+      - remendara
+      - remendaras
+      - remendara
+      - "remend\xE1ramos"
+      - remendarais
+      - remendaran
+      cjid: pisb1
+    - cjfs:
+      - remendase
+      - remendases
+      - remendase
+      - "remend\xE1semos"
+      - remendaseis
+      - remendasen
+      cjid: pisb2
+    - cjfs:
+      - remendare
+      - remendares
+      - remendare
+      - "remend\xE1remos"
+      - remendareis
+      - remendaren
+      cjid: fsub
+    - cjfs:
+      - he remendado
+      - has remendado
+      - ha remendado
+      - hemos remendado
+      - "hab\xE9is remendado"
+      - han remendado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa remendado"
+      - "hab\xEDas remendado"
+      - "hab\xEDa remendado"
+      - "hab\xEDamos remendado"
+      - "hab\xEDais remendado"
+      - "hab\xEDan remendado"
+      cjid: ppsi
+    - cjfs:
+      - hube remendado
+      - hubiste remendado
+      - hubo remendado
+      - hubimos remendado
+      - hubisteis remendado
+      - hubieron remendado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 remendado"
+      - "habr\xE1s remendado"
+      - "habr\xE1 remendado"
+      - habremos remendado
+      - "habr\xE9is remendado"
+      - "habr\xE1n remendado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa remendado"
+      - "habr\xEDas remendado"
+      - "habr\xEDa remendado"
+      - "habr\xEDamos remendado"
+      - "habr\xEDais remendado"
+      - "habr\xEDan remendado"
+      cjid: cpef
+    - cjfs:
+      - haya remendado
+      - hayas remendado
+      - haya remendado
+      - hayamos remendado
+      - "hay\xE1is remendado"
+      - hayan remendado
+      cjid: ppfs
+    - cjfs:
+      - hubiera remendado
+      - hubieras remendado
+      - hubiera remendado
+      - "hubi\xE9ramos remendado"
+      - hubierais remendado
+      - hubieran remendado
+      cjid: ppss1
+    - cjfs:
+      - hubiese remendado
+      - hubieses remendado
+      - hubiese remendado
+      - "hubi\xE9semos remendado"
+      - hubieseis remendado
+      - hubiesen remendado
+      cjid: ppss2
+    - cjfs:
+      - hubiere remendado
+      - hubieres remendado
+      - hubiere remendado
+      - "hubi\xE9remos remendado"
+      - hubiereis remendado
+      - hubieren remendado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - remienda
+      - remiende
+      - remendemos
+      - remendad
+      - remienden
+      cjid: impf

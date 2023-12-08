@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|possess}, to {a_link|hold}, to {a_link|have}'
+  fl: transitive verb
+  hwi:
+    hw: poseer
+    prs:
+    - sound:
+        audio: posee01sp
+  meta:
+    id: poseer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617802000'
+    src: spanish
+    stems:
+    - poseer
+    uuid: e26c92f0-d85a-4fc2-8fdc-b46ca0aa9ce6
+  shortdef:
+  - to possess, to hold, to have
+  suppl:
+    cjts:
+    - cjfs:
+      - poseyendo
+      - "pose\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - poseo
+      - posees
+      - posee
+      - poseemos
+      - "pose\xE9is"
+      - poseen
+      cjid: pind
+    - cjfs:
+      - "pose\xEDa"
+      - "pose\xEDas"
+      - "pose\xEDa"
+      - "pose\xEDamos"
+      - "pose\xEDais"
+      - "pose\xEDan"
+      cjid: pret
+    - cjfs:
+      - "pose\xED"
+      - "pose\xEDste"
+      - "posey\xF3"
+      - "pose\xEDmos"
+      - "pose\xEDsteis"
+      - poseyeron
+      cjid: pprf
+    - cjfs:
+      - "poseer\xE9"
+      - "poseer\xE1s"
+      - "poseer\xE1"
+      - poseeremos
+      - "poseer\xE9is"
+      - "poseer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "poseer\xEDa"
+      - "poseer\xEDas"
+      - "poseer\xEDa"
+      - "poseer\xEDamos"
+      - "poseer\xEDais"
+      - "poseer\xEDan"
+      cjid: cond
+    - cjfs:
+      - posea
+      - poseas
+      - posea
+      - poseamos
+      - "pose\xE1is"
+      - posean
+      cjid: psub
+    - cjfs:
+      - poseyera
+      - poseyeras
+      - poseyera
+      - "posey\xE9ramos"
+      - poseyerais
+      - poseyeran
+      cjid: pisb1
+    - cjfs:
+      - poseyese
+      - poseyeses
+      - poseyese
+      - "posey\xE9semos"
+      - poseyeseis
+      - poseyesen
+      cjid: pisb2
+    - cjfs:
+      - poseyere
+      - poseyeres
+      - poseyere
+      - "posey\xE9remos"
+      - poseyereis
+      - poseyeren
+      cjid: fsub
+    - cjfs:
+      - "he pose\xEDdo"
+      - "has pose\xEDdo"
+      - "ha pose\xEDdo"
+      - "hemos pose\xEDdo"
+      - "hab\xE9is pose\xEDdo"
+      - "han pose\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pose\xEDdo"
+      - "hab\xEDas pose\xEDdo"
+      - "hab\xEDa pose\xEDdo"
+      - "hab\xEDamos pose\xEDdo"
+      - "hab\xEDais pose\xEDdo"
+      - "hab\xEDan pose\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube pose\xEDdo"
+      - "hubiste pose\xEDdo"
+      - "hubo pose\xEDdo"
+      - "hubimos pose\xEDdo"
+      - "hubisteis pose\xEDdo"
+      - "hubieron pose\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pose\xEDdo"
+      - "habr\xE1s pose\xEDdo"
+      - "habr\xE1 pose\xEDdo"
+      - "habremos pose\xEDdo"
+      - "habr\xE9is pose\xEDdo"
+      - "habr\xE1n pose\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pose\xEDdo"
+      - "habr\xEDas pose\xEDdo"
+      - "habr\xEDa pose\xEDdo"
+      - "habr\xEDamos pose\xEDdo"
+      - "habr\xEDais pose\xEDdo"
+      - "habr\xEDan pose\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya pose\xEDdo"
+      - "hayas pose\xEDdo"
+      - "haya pose\xEDdo"
+      - "hayamos pose\xEDdo"
+      - "hay\xE1is pose\xEDdo"
+      - "hayan pose\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera pose\xEDdo"
+      - "hubieras pose\xEDdo"
+      - "hubiera pose\xEDdo"
+      - "hubi\xE9ramos pose\xEDdo"
+      - "hubierais pose\xEDdo"
+      - "hubieran pose\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese pose\xEDdo"
+      - "hubieses pose\xEDdo"
+      - "hubiese pose\xEDdo"
+      - "hubi\xE9semos pose\xEDdo"
+      - "hubieseis pose\xEDdo"
+      - "hubiesen pose\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere pose\xEDdo"
+      - "hubieres pose\xEDdo"
+      - "hubiere pose\xEDdo"
+      - "hubi\xE9remos pose\xEDdo"
+      - "hubiereis pose\xEDdo"
+      - "hubieren pose\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - posee
+      - posea
+      - poseamos
+      - poseed
+      - posean
+      cjid: impf

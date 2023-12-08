@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apenar||} {bc}to {a_link|shame}, to {a_link|embarrass}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|apenarse||} {bc}to be ashamed, to be embarrassed'
+    drp: avergonzarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: avergonzar
+    prs:
+    - sound:
+        audio: averg02sp
+  meta:
+    id: avergonzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602541000'
+    src: spanish
+    stems:
+    - avergonzar
+    - avergonzarse
+    uuid: 0c6e5996-c475-4772-a62c-b566f6388f21
+  shortdef:
+  - 'apenar : to shame, to embarrass'
+  suppl:
+    cjts:
+    - cjfs:
+      - avergonzando
+      - avergonzado
+      cjid: gppt
+    - cjfs:
+      - "averg\xFCenzo"
+      - "averg\xFCenzas"
+      - "averg\xFCenza"
+      - avergonzamos
+      - "avergonz\xE1is"
+      - "averg\xFCenzan"
+      cjid: pind
+    - cjfs:
+      - avergonzaba
+      - avergonzabas
+      - avergonzaba
+      - "avergonz\xE1bamos"
+      - avergonzabais
+      - avergonzaban
+      cjid: pret
+    - cjfs:
+      - "avergonc\xE9"
+      - avergonzaste
+      - "avergonz\xF3"
+      - avergonzamos
+      - avergonzasteis
+      - avergonzaron
+      cjid: pprf
+    - cjfs:
+      - "avergonzar\xE9"
+      - "avergonzar\xE1s"
+      - "avergonzar\xE1"
+      - avergonzaremos
+      - "avergonzar\xE9is"
+      - "avergonzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "avergonzar\xEDa"
+      - "avergonzar\xEDas"
+      - "avergonzar\xEDa"
+      - "avergonzar\xEDamos"
+      - "avergonzar\xEDais"
+      - "avergonzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "averg\xFCence"
+      - "averg\xFCences"
+      - "averg\xFCence"
+      - avergoncemos
+      - "avergonc\xE9is"
+      - "averg\xFCencen"
+      cjid: psub
+    - cjfs:
+      - avergonzara
+      - avergonzaras
+      - avergonzara
+      - "avergonz\xE1ramos"
+      - avergonzarais
+      - avergonzaran
+      cjid: pisb1
+    - cjfs:
+      - avergonzase
+      - avergonzases
+      - avergonzase
+      - "avergonz\xE1semos"
+      - avergonzaseis
+      - avergonzasen
+      cjid: pisb2
+    - cjfs:
+      - avergonzare
+      - avergonzares
+      - avergonzare
+      - "avergonz\xE1remos"
+      - avergonzareis
+      - avergonzaren
+      cjid: fsub
+    - cjfs:
+      - he avergonzado
+      - has avergonzado
+      - ha avergonzado
+      - hemos avergonzado
+      - "hab\xE9is avergonzado"
+      - han avergonzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa avergonzado"
+      - "hab\xEDas avergonzado"
+      - "hab\xEDa avergonzado"
+      - "hab\xEDamos avergonzado"
+      - "hab\xEDais avergonzado"
+      - "hab\xEDan avergonzado"
+      cjid: ppsi
+    - cjfs:
+      - hube avergonzado
+      - hubiste avergonzado
+      - hubo avergonzado
+      - hubimos avergonzado
+      - hubisteis avergonzado
+      - hubieron avergonzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 avergonzado"
+      - "habr\xE1s avergonzado"
+      - "habr\xE1 avergonzado"
+      - habremos avergonzado
+      - "habr\xE9is avergonzado"
+      - "habr\xE1n avergonzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa avergonzado"
+      - "habr\xEDas avergonzado"
+      - "habr\xEDa avergonzado"
+      - "habr\xEDamos avergonzado"
+      - "habr\xEDais avergonzado"
+      - "habr\xEDan avergonzado"
+      cjid: cpef
+    - cjfs:
+      - haya avergonzado
+      - hayas avergonzado
+      - haya avergonzado
+      - hayamos avergonzado
+      - "hay\xE1is avergonzado"
+      - hayan avergonzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera avergonzado
+      - hubieras avergonzado
+      - hubiera avergonzado
+      - "hubi\xE9ramos avergonzado"
+      - hubierais avergonzado
+      - hubieran avergonzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese avergonzado
+      - hubieses avergonzado
+      - hubiese avergonzado
+      - "hubi\xE9semos avergonzado"
+      - hubieseis avergonzado
+      - hubiesen avergonzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere avergonzado
+      - hubieres avergonzado
+      - hubiere avergonzado
+      - "hubi\xE9remos avergonzado"
+      - hubiereis avergonzado
+      - hubieren avergonzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "averg\xFCenza"
+      - "averg\xFCence"
+      - avergoncemos
+      - avergonzad
+      - "averg\xFCencen"
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|revoke}, to {a_link|repeal}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plaster} (a wall)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: revocar
+    prs:
+    - sound:
+        audio: revoc01sp
+  meta:
+    id: revocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619768000'
+    src: spanish
+    stems:
+    - revocar
+    uuid: 20fa8805-22f7-413e-b1cb-ec05651efdf0
+  shortdef:
+  - to revoke, to repeal
+  - to plaster (a wall)
+  suppl:
+    cjts:
+    - cjfs:
+      - revocando
+      - revocado
+      cjid: gppt
+    - cjfs:
+      - revoco
+      - revocas
+      - revoca
+      - revocamos
+      - "revoc\xE1is"
+      - revocan
+      cjid: pind
+    - cjfs:
+      - revocaba
+      - revocabas
+      - revocaba
+      - "revoc\xE1bamos"
+      - revocabais
+      - revocaban
+      cjid: pret
+    - cjfs:
+      - "revoqu\xE9"
+      - revocaste
+      - "revoc\xF3"
+      - revocamos
+      - revocasteis
+      - revocaron
+      cjid: pprf
+    - cjfs:
+      - "revocar\xE9"
+      - "revocar\xE1s"
+      - "revocar\xE1"
+      - revocaremos
+      - "revocar\xE9is"
+      - "revocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "revocar\xEDa"
+      - "revocar\xEDas"
+      - "revocar\xEDa"
+      - "revocar\xEDamos"
+      - "revocar\xEDais"
+      - "revocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - revoque
+      - revoques
+      - revoque
+      - revoquemos
+      - "revoqu\xE9is"
+      - revoquen
+      cjid: psub
+    - cjfs:
+      - revocara
+      - revocaras
+      - revocara
+      - "revoc\xE1ramos"
+      - revocarais
+      - revocaran
+      cjid: pisb1
+    - cjfs:
+      - revocase
+      - revocases
+      - revocase
+      - "revoc\xE1semos"
+      - revocaseis
+      - revocasen
+      cjid: pisb2
+    - cjfs:
+      - revocare
+      - revocares
+      - revocare
+      - "revoc\xE1remos"
+      - revocareis
+      - revocaren
+      cjid: fsub
+    - cjfs:
+      - he revocado
+      - has revocado
+      - ha revocado
+      - hemos revocado
+      - "hab\xE9is revocado"
+      - han revocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa revocado"
+      - "hab\xEDas revocado"
+      - "hab\xEDa revocado"
+      - "hab\xEDamos revocado"
+      - "hab\xEDais revocado"
+      - "hab\xEDan revocado"
+      cjid: ppsi
+    - cjfs:
+      - hube revocado
+      - hubiste revocado
+      - hubo revocado
+      - hubimos revocado
+      - hubisteis revocado
+      - hubieron revocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 revocado"
+      - "habr\xE1s revocado"
+      - "habr\xE1 revocado"
+      - habremos revocado
+      - "habr\xE9is revocado"
+      - "habr\xE1n revocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa revocado"
+      - "habr\xEDas revocado"
+      - "habr\xEDa revocado"
+      - "habr\xEDamos revocado"
+      - "habr\xEDais revocado"
+      - "habr\xEDan revocado"
+      cjid: cpef
+    - cjfs:
+      - haya revocado
+      - hayas revocado
+      - haya revocado
+      - hayamos revocado
+      - "hay\xE1is revocado"
+      - hayan revocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera revocado
+      - hubieras revocado
+      - hubiera revocado
+      - "hubi\xE9ramos revocado"
+      - hubierais revocado
+      - hubieran revocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese revocado
+      - hubieses revocado
+      - hubiese revocado
+      - "hubi\xE9semos revocado"
+      - hubieseis revocado
+      - hubiesen revocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere revocado
+      - hubieres revocado
+      - hubiere revocado
+      - "hubi\xE9remos revocado"
+      - hubiereis revocado
+      - hubieren revocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - revoca
+      - revoque
+      - revoquemos
+      - revocad
+      - revoquen
+      cjid: impf

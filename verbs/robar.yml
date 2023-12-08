@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|steal}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rob}, to {a_link|burglarize}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|secuestrar||} {bc}to {a_link|abduct}, to {a_link|kidnap}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|captivate}'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break into}'
+          vrs:
+          - va: robar en
+            vac: ~ en
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: robar
+    prs:
+    - sound:
+        audio: robar01sp
+  meta:
+    id: robar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619860000'
+    src: spanish
+    stems:
+    - robar
+    - robar en
+    uuid: 9cfc27e8-175e-4405-866b-b71d5ab6d65e
+  shortdef:
+  - to steal
+  - to rob, to burglarize
+  - 'secuestrar : to abduct, to kidnap'
+  suppl:
+    cjts:
+    - cjfs:
+      - robando
+      - robado
+      cjid: gppt
+    - cjfs:
+      - robo
+      - robas
+      - roba
+      - robamos
+      - "rob\xE1is"
+      - roban
+      cjid: pind
+    - cjfs:
+      - robaba
+      - robabas
+      - robaba
+      - "rob\xE1bamos"
+      - robabais
+      - robaban
+      cjid: pret
+    - cjfs:
+      - "rob\xE9"
+      - robaste
+      - "rob\xF3"
+      - robamos
+      - robasteis
+      - robaron
+      cjid: pprf
+    - cjfs:
+      - "robar\xE9"
+      - "robar\xE1s"
+      - "robar\xE1"
+      - robaremos
+      - "robar\xE9is"
+      - "robar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "robar\xEDa"
+      - "robar\xEDas"
+      - "robar\xEDa"
+      - "robar\xEDamos"
+      - "robar\xEDais"
+      - "robar\xEDan"
+      cjid: cond
+    - cjfs:
+      - robe
+      - robes
+      - robe
+      - robemos
+      - "rob\xE9is"
+      - roben
+      cjid: psub
+    - cjfs:
+      - robara
+      - robaras
+      - robara
+      - "rob\xE1ramos"
+      - robarais
+      - robaran
+      cjid: pisb1
+    - cjfs:
+      - robase
+      - robases
+      - robase
+      - "rob\xE1semos"
+      - robaseis
+      - robasen
+      cjid: pisb2
+    - cjfs:
+      - robare
+      - robares
+      - robare
+      - "rob\xE1remos"
+      - robareis
+      - robaren
+      cjid: fsub
+    - cjfs:
+      - he robado
+      - has robado
+      - ha robado
+      - hemos robado
+      - "hab\xE9is robado"
+      - han robado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa robado"
+      - "hab\xEDas robado"
+      - "hab\xEDa robado"
+      - "hab\xEDamos robado"
+      - "hab\xEDais robado"
+      - "hab\xEDan robado"
+      cjid: ppsi
+    - cjfs:
+      - hube robado
+      - hubiste robado
+      - hubo robado
+      - hubimos robado
+      - hubisteis robado
+      - hubieron robado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 robado"
+      - "habr\xE1s robado"
+      - "habr\xE1 robado"
+      - habremos robado
+      - "habr\xE9is robado"
+      - "habr\xE1n robado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa robado"
+      - "habr\xEDas robado"
+      - "habr\xEDa robado"
+      - "habr\xEDamos robado"
+      - "habr\xEDais robado"
+      - "habr\xEDan robado"
+      cjid: cpef
+    - cjfs:
+      - haya robado
+      - hayas robado
+      - haya robado
+      - hayamos robado
+      - "hay\xE1is robado"
+      - hayan robado
+      cjid: ppfs
+    - cjfs:
+      - hubiera robado
+      - hubieras robado
+      - hubiera robado
+      - "hubi\xE9ramos robado"
+      - hubierais robado
+      - hubieran robado
+      cjid: ppss1
+    - cjfs:
+      - hubiese robado
+      - hubieses robado
+      - hubiese robado
+      - "hubi\xE9semos robado"
+      - hubieseis robado
+      - hubiesen robado
+      cjid: ppss2
+    - cjfs:
+      - hubiere robado
+      - hubieres robado
+      - hubiere robado
+      - "hubi\xE9remos robado"
+      - hubiereis robado
+      - hubieren robado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - roba
+      - robe
+      - robemos
+      - robad
+      - roben
+      cjid: impf

@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|disipar||} {bc}to make disappear, to {a_link|dispel}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fade}, to {a_link|blur}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|vanish}, to {a_link|disappear}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fade}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|desmayarse||} {bc}to {a_link|faint}, to {a_link|swoon}'
+            sn: '3'
+    drp: desvanecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desvanecer
+    prs:
+    - sound:
+        audio: desva02sp
+  meta:
+    id: desvanecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607387000'
+    src: spanish
+    stems:
+    - desvanecer
+    - desvanecerse
+    uuid: 30856811-5b21-47b8-9385-f0b77f9709cf
+  shortdef:
+  - 'disipar : to make disappear, to dispel'
+  - to fade, to blur
+  suppl:
+    cjts:
+    - cjfs:
+      - desvaneciendo
+      - desvanecido
+      cjid: gppt
+    - cjfs:
+      - desvanezco
+      - desvaneces
+      - desvanece
+      - desvanecemos
+      - "desvanec\xE9is"
+      - desvanecen
+      cjid: pind
+    - cjfs:
+      - "desvanec\xEDa"
+      - "desvanec\xEDas"
+      - "desvanec\xEDa"
+      - "desvanec\xEDamos"
+      - "desvanec\xEDais"
+      - "desvanec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "desvanec\xED"
+      - desvaneciste
+      - "desvaneci\xF3"
+      - desvanecimos
+      - desvanecisteis
+      - desvanecieron
+      cjid: pprf
+    - cjfs:
+      - "desvanecer\xE9"
+      - "desvanecer\xE1s"
+      - "desvanecer\xE1"
+      - desvaneceremos
+      - "desvanecer\xE9is"
+      - "desvanecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desvanecer\xEDa"
+      - "desvanecer\xEDas"
+      - "desvanecer\xEDa"
+      - "desvanecer\xEDamos"
+      - "desvanecer\xEDais"
+      - "desvanecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - desvanezca
+      - desvanezcas
+      - desvanezca
+      - desvanezcamos
+      - "desvanezc\xE1is"
+      - desvanezcan
+      cjid: psub
+    - cjfs:
+      - desvaneciera
+      - desvanecieras
+      - desvaneciera
+      - "desvaneci\xE9ramos"
+      - desvanecierais
+      - desvanecieran
+      cjid: pisb1
+    - cjfs:
+      - desvaneciese
+      - desvanecieses
+      - desvaneciese
+      - "desvaneci\xE9semos"
+      - desvanecieseis
+      - desvaneciesen
+      cjid: pisb2
+    - cjfs:
+      - desvaneciere
+      - desvanecieres
+      - desvaneciere
+      - "desvaneci\xE9remos"
+      - desvaneciereis
+      - desvanecieren
+      cjid: fsub
+    - cjfs:
+      - he desvanecido
+      - has desvanecido
+      - ha desvanecido
+      - hemos desvanecido
+      - "hab\xE9is desvanecido"
+      - han desvanecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desvanecido"
+      - "hab\xEDas desvanecido"
+      - "hab\xEDa desvanecido"
+      - "hab\xEDamos desvanecido"
+      - "hab\xEDais desvanecido"
+      - "hab\xEDan desvanecido"
+      cjid: ppsi
+    - cjfs:
+      - hube desvanecido
+      - hubiste desvanecido
+      - hubo desvanecido
+      - hubimos desvanecido
+      - hubisteis desvanecido
+      - hubieron desvanecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desvanecido"
+      - "habr\xE1s desvanecido"
+      - "habr\xE1 desvanecido"
+      - habremos desvanecido
+      - "habr\xE9is desvanecido"
+      - "habr\xE1n desvanecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desvanecido"
+      - "habr\xEDas desvanecido"
+      - "habr\xEDa desvanecido"
+      - "habr\xEDamos desvanecido"
+      - "habr\xEDais desvanecido"
+      - "habr\xEDan desvanecido"
+      cjid: cpef
+    - cjfs:
+      - haya desvanecido
+      - hayas desvanecido
+      - haya desvanecido
+      - hayamos desvanecido
+      - "hay\xE1is desvanecido"
+      - hayan desvanecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera desvanecido
+      - hubieras desvanecido
+      - hubiera desvanecido
+      - "hubi\xE9ramos desvanecido"
+      - hubierais desvanecido
+      - hubieran desvanecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese desvanecido
+      - hubieses desvanecido
+      - hubiese desvanecido
+      - "hubi\xE9semos desvanecido"
+      - hubieseis desvanecido
+      - hubiesen desvanecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere desvanecido
+      - hubieres desvanecido
+      - hubiere desvanecido
+      - "hubi\xE9remos desvanecido"
+      - hubiereis desvanecido
+      - hubieren desvanecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desvanece
+      - desvanezca
+      - desvanezcamos
+      - desvaneced
+      - desvanezcan
+      cjid: impf

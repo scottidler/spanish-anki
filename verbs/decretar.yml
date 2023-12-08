@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|decree}, to {a_link|order}'
+  fl: transitive verb
+  hwi:
+    hw: decretar
+    prs:
+    - sound:
+        audio: decre02sp
+  meta:
+    id: decretar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606537000'
+    src: spanish
+    stems:
+    - decretar
+    uuid: 2a981deb-da58-4430-a4c0-b72553f409ff
+  shortdef:
+  - to decree, to order
+  suppl:
+    cjts:
+    - cjfs:
+      - decretando
+      - decretado
+      cjid: gppt
+    - cjfs:
+      - decreto
+      - decretas
+      - decreta
+      - decretamos
+      - "decret\xE1is"
+      - decretan
+      cjid: pind
+    - cjfs:
+      - decretaba
+      - decretabas
+      - decretaba
+      - "decret\xE1bamos"
+      - decretabais
+      - decretaban
+      cjid: pret
+    - cjfs:
+      - "decret\xE9"
+      - decretaste
+      - "decret\xF3"
+      - decretamos
+      - decretasteis
+      - decretaron
+      cjid: pprf
+    - cjfs:
+      - "decretar\xE9"
+      - "decretar\xE1s"
+      - "decretar\xE1"
+      - decretaremos
+      - "decretar\xE9is"
+      - "decretar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "decretar\xEDa"
+      - "decretar\xEDas"
+      - "decretar\xEDa"
+      - "decretar\xEDamos"
+      - "decretar\xEDais"
+      - "decretar\xEDan"
+      cjid: cond
+    - cjfs:
+      - decrete
+      - decretes
+      - decrete
+      - decretemos
+      - "decret\xE9is"
+      - decreten
+      cjid: psub
+    - cjfs:
+      - decretara
+      - decretaras
+      - decretara
+      - "decret\xE1ramos"
+      - decretarais
+      - decretaran
+      cjid: pisb1
+    - cjfs:
+      - decretase
+      - decretases
+      - decretase
+      - "decret\xE1semos"
+      - decretaseis
+      - decretasen
+      cjid: pisb2
+    - cjfs:
+      - decretare
+      - decretares
+      - decretare
+      - "decret\xE1remos"
+      - decretareis
+      - decretaren
+      cjid: fsub
+    - cjfs:
+      - he decretado
+      - has decretado
+      - ha decretado
+      - hemos decretado
+      - "hab\xE9is decretado"
+      - han decretado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa decretado"
+      - "hab\xEDas decretado"
+      - "hab\xEDa decretado"
+      - "hab\xEDamos decretado"
+      - "hab\xEDais decretado"
+      - "hab\xEDan decretado"
+      cjid: ppsi
+    - cjfs:
+      - hube decretado
+      - hubiste decretado
+      - hubo decretado
+      - hubimos decretado
+      - hubisteis decretado
+      - hubieron decretado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 decretado"
+      - "habr\xE1s decretado"
+      - "habr\xE1 decretado"
+      - habremos decretado
+      - "habr\xE9is decretado"
+      - "habr\xE1n decretado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa decretado"
+      - "habr\xEDas decretado"
+      - "habr\xEDa decretado"
+      - "habr\xEDamos decretado"
+      - "habr\xEDais decretado"
+      - "habr\xEDan decretado"
+      cjid: cpef
+    - cjfs:
+      - haya decretado
+      - hayas decretado
+      - haya decretado
+      - hayamos decretado
+      - "hay\xE1is decretado"
+      - hayan decretado
+      cjid: ppfs
+    - cjfs:
+      - hubiera decretado
+      - hubieras decretado
+      - hubiera decretado
+      - "hubi\xE9ramos decretado"
+      - hubierais decretado
+      - hubieran decretado
+      cjid: ppss1
+    - cjfs:
+      - hubiese decretado
+      - hubieses decretado
+      - hubiese decretado
+      - "hubi\xE9semos decretado"
+      - hubieseis decretado
+      - hubiesen decretado
+      cjid: ppss2
+    - cjfs:
+      - hubiere decretado
+      - hubieres decretado
+      - hubiere decretado
+      - "hubi\xE9remos decretado"
+      - hubiereis decretado
+      - hubieren decretado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - decreta
+      - decrete
+      - decretemos
+      - decretad
+      - decreten
+      cjid: impf

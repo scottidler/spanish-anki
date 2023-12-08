@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|refuse}'
+  fl: verb
+  hwi:
+    hw: rehusar
+    prs:
+    - sound:
+        audio: rehus01sp
+  meta:
+    id: rehusar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619250000'
+    src: spanish
+    stems:
+    - rehusar
+    uuid: 50bb40fb-893c-4394-97e2-c0ad79569a11
+  shortdef:
+  - to refuse
+  suppl:
+    cjts:
+    - cjfs:
+      - rehusando
+      - rehusado
+      cjid: gppt
+    - cjfs:
+      - "reh\xFAso"
+      - "reh\xFAsas"
+      - "reh\xFAsa"
+      - rehusamos
+      - "rehus\xE1is"
+      - "reh\xFAsan"
+      cjid: pind
+    - cjfs:
+      - rehusaba
+      - rehusabas
+      - rehusaba
+      - "rehus\xE1bamos"
+      - rehusabais
+      - rehusaban
+      cjid: pret
+    - cjfs:
+      - "rehus\xE9"
+      - rehusaste
+      - "rehus\xF3"
+      - rehusamos
+      - rehusasteis
+      - rehusaron
+      cjid: pprf
+    - cjfs:
+      - "rehusar\xE9"
+      - "rehusar\xE1s"
+      - "rehusar\xE1"
+      - rehusaremos
+      - "rehusar\xE9is"
+      - "rehusar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rehusar\xEDa"
+      - "rehusar\xEDas"
+      - "rehusar\xEDa"
+      - "rehusar\xEDamos"
+      - "rehusar\xEDais"
+      - "rehusar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "reh\xFAse"
+      - "reh\xFAses"
+      - "reh\xFAse"
+      - rehusemos
+      - "rehus\xE9is"
+      - "reh\xFAsen"
+      cjid: psub
+    - cjfs:
+      - rehusara
+      - rehusaras
+      - rehusara
+      - "rehus\xE1ramos"
+      - rehusarais
+      - rehusaran
+      cjid: pisb1
+    - cjfs:
+      - rehusase
+      - rehusases
+      - rehusase
+      - "rehus\xE1semos"
+      - rehusaseis
+      - rehusasen
+      cjid: pisb2
+    - cjfs:
+      - rehusare
+      - rehusares
+      - rehusare
+      - "rehus\xE1remos"
+      - rehusareis
+      - rehusaren
+      cjid: fsub
+    - cjfs:
+      - he rehusado
+      - has rehusado
+      - ha rehusado
+      - hemos rehusado
+      - "hab\xE9is rehusado"
+      - han rehusado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rehusado"
+      - "hab\xEDas rehusado"
+      - "hab\xEDa rehusado"
+      - "hab\xEDamos rehusado"
+      - "hab\xEDais rehusado"
+      - "hab\xEDan rehusado"
+      cjid: ppsi
+    - cjfs:
+      - hube rehusado
+      - hubiste rehusado
+      - hubo rehusado
+      - hubimos rehusado
+      - hubisteis rehusado
+      - hubieron rehusado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rehusado"
+      - "habr\xE1s rehusado"
+      - "habr\xE1 rehusado"
+      - habremos rehusado
+      - "habr\xE9is rehusado"
+      - "habr\xE1n rehusado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rehusado"
+      - "habr\xEDas rehusado"
+      - "habr\xEDa rehusado"
+      - "habr\xEDamos rehusado"
+      - "habr\xEDais rehusado"
+      - "habr\xEDan rehusado"
+      cjid: cpef
+    - cjfs:
+      - haya rehusado
+      - hayas rehusado
+      - haya rehusado
+      - hayamos rehusado
+      - "hay\xE1is rehusado"
+      - hayan rehusado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rehusado
+      - hubieras rehusado
+      - hubiera rehusado
+      - "hubi\xE9ramos rehusado"
+      - hubierais rehusado
+      - hubieran rehusado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rehusado
+      - hubieses rehusado
+      - hubiese rehusado
+      - "hubi\xE9semos rehusado"
+      - hubieseis rehusado
+      - hubiesen rehusado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rehusado
+      - hubieres rehusado
+      - hubiere rehusado
+      - "hubi\xE9remos rehusado"
+      - hubiereis rehusado
+      - hubieren rehusado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "reh\xFAsa"
+      - "reh\xFAse"
+      - rehusemos
+      - rehusad
+      - "reh\xFAsen"
+      cjid: impf

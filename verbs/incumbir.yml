@@ -1,0 +1,191 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be incumbent upon, to be of concern to '
+          - - vis
+            - - t: "a m\xED no me incumbe"
+                tr: it's not my concern
+          vrs:
+          - va: incumbir a
+            vac: ~ a
+  fl: intransitive verb
+  hwi:
+    hw: incumbir
+    prs:
+    - sound:
+        audio: incum01sp
+  meta:
+    id: incumbir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612242000'
+    src: spanish
+    stems:
+    - incumbir
+    - incumbir a
+    uuid: 3e85a282-6f20-4a00-9469-4a5fb194b444
+  shortdef:
+  - to be incumbent upon, to be of concern to
+  sls:
+  - (3rd person only)
+  suppl:
+    cjts:
+    - cjfs:
+      - incumbiendo
+      - incumbido
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - incumbe
+      - '-'
+      - '-'
+      - '-'
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - "incumb\xEDa"
+      - '-'
+      - '-'
+      - '-'
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "incumbi\xF3"
+      - '-'
+      - '-'
+      - '-'
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "incumbir\xE1"
+      - '-'
+      - '-'
+      - '-'
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "incumbir\xEDa"
+      - '-'
+      - '-'
+      - '-'
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - incumba
+      - '-'
+      - '-'
+      - '-'
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - incumbiera
+      - '-'
+      - '-'
+      - '-'
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - incumbiese
+      - '-'
+      - '-'
+      - '-'
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - incumbiere
+      - '-'
+      - '-'
+      - '-'
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha incumbido
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa incumbido"
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo incumbido
+      - '-'
+      - '-'
+      - '-'
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 incumbido"
+      - '-'
+      - '-'
+      - '-'
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa incumbido"
+      - '-'
+      - '-'
+      - '-'
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya incumbido
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera incumbido
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese incumbido
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere incumbido
+      - '-'
+      - '-'
+      - '-'
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

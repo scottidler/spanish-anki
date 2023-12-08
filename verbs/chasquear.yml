@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snap} (the fingers), to {a_link|click} (the tongue)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snap} (a whip)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: chasquear
+  meta:
+    id: chasquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604507000'
+    src: spanish
+    stems:
+    - chasquear
+    uuid: fc026c0e-7a15-48d1-ad8c-291847f9099c
+  shortdef:
+  - to snap (the fingers), to click (the tongue)
+  - to snap (a whip)
+  suppl:
+    cjts:
+    - cjfs:
+      - chasqueando
+      - chasqueado
+      cjid: gppt
+    - cjfs:
+      - chasqueo
+      - chasqueas
+      - chasquea
+      - chasqueamos
+      - "chasque\xE1is"
+      - chasquean
+      cjid: pind
+    - cjfs:
+      - chasqueaba
+      - chasqueabas
+      - chasqueaba
+      - "chasque\xE1bamos"
+      - chasqueabais
+      - chasqueaban
+      cjid: pret
+    - cjfs:
+      - "chasque\xE9"
+      - chasqueaste
+      - "chasque\xF3"
+      - chasqueamos
+      - chasqueasteis
+      - chasquearon
+      cjid: pprf
+    - cjfs:
+      - "chasquear\xE9"
+      - "chasquear\xE1s"
+      - "chasquear\xE1"
+      - chasquearemos
+      - "chasquear\xE9is"
+      - "chasquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "chasquear\xEDa"
+      - "chasquear\xEDas"
+      - "chasquear\xEDa"
+      - "chasquear\xEDamos"
+      - "chasquear\xEDais"
+      - "chasquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - chasquee
+      - chasquees
+      - chasquee
+      - chasqueemos
+      - "chasque\xE9is"
+      - chasqueen
+      cjid: psub
+    - cjfs:
+      - chasqueara
+      - chasquearas
+      - chasqueara
+      - "chasque\xE1ramos"
+      - chasquearais
+      - chasquearan
+      cjid: pisb1
+    - cjfs:
+      - chasquease
+      - chasqueases
+      - chasquease
+      - "chasque\xE1semos"
+      - chasqueaseis
+      - chasqueasen
+      cjid: pisb2
+    - cjfs:
+      - chasqueare
+      - chasqueares
+      - chasqueare
+      - "chasque\xE1remos"
+      - chasqueareis
+      - chasquearen
+      cjid: fsub
+    - cjfs:
+      - he chasqueado
+      - has chasqueado
+      - ha chasqueado
+      - hemos chasqueado
+      - "hab\xE9is chasqueado"
+      - han chasqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa chasqueado"
+      - "hab\xEDas chasqueado"
+      - "hab\xEDa chasqueado"
+      - "hab\xEDamos chasqueado"
+      - "hab\xEDais chasqueado"
+      - "hab\xEDan chasqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube chasqueado
+      - hubiste chasqueado
+      - hubo chasqueado
+      - hubimos chasqueado
+      - hubisteis chasqueado
+      - hubieron chasqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 chasqueado"
+      - "habr\xE1s chasqueado"
+      - "habr\xE1 chasqueado"
+      - habremos chasqueado
+      - "habr\xE9is chasqueado"
+      - "habr\xE1n chasqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa chasqueado"
+      - "habr\xEDas chasqueado"
+      - "habr\xEDa chasqueado"
+      - "habr\xEDamos chasqueado"
+      - "habr\xEDais chasqueado"
+      - "habr\xEDan chasqueado"
+      cjid: cpef
+    - cjfs:
+      - haya chasqueado
+      - hayas chasqueado
+      - haya chasqueado
+      - hayamos chasqueado
+      - "hay\xE1is chasqueado"
+      - hayan chasqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera chasqueado
+      - hubieras chasqueado
+      - hubiera chasqueado
+      - "hubi\xE9ramos chasqueado"
+      - hubierais chasqueado
+      - hubieran chasqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese chasqueado
+      - hubieses chasqueado
+      - hubiese chasqueado
+      - "hubi\xE9semos chasqueado"
+      - hubieseis chasqueado
+      - hubiesen chasqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere chasqueado
+      - hubieres chasqueado
+      - hubiere chasqueado
+      - "hubi\xE9remos chasqueado"
+      - hubiereis chasqueado
+      - hubieren chasqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - chasquea
+      - chasquee
+      - chasqueemos
+      - chasquead
+      - chasqueen
+      cjid: impf

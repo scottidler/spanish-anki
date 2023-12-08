@@ -1,0 +1,214 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|soltar||} {bc}to {a_link|detach}, to {a_link|loosen}, to {a_link|unfasten}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|emitir||} {bc}to {a_link|emit}, to {a_link|give off}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|come off}, to {a_link|come undone}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be inferred, to {a_link|follow}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|part with}, to {a_link|get rid of}'
+            sn: '3'
+            vrs:
+            - va: desprenderse de
+              vac: ~ de
+    drp: desprenderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desprender
+    prs:
+    - sound:
+        audio: despr04sp
+  meta:
+    id: desprender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607307000'
+    src: spanish
+    stems:
+    - desprender
+    - desprenderse
+    - desprenderse de
+    uuid: 0106b984-7ef1-4092-9c9e-ca72de9c4749
+  shortdef:
+  - 'soltar : to detach, to loosen, to unfasten'
+  - 'emitir : to emit, to give off'
+  suppl:
+    cjts:
+    - cjfs:
+      - desprendiendo
+      - desprendido
+      cjid: gppt
+    - cjfs:
+      - desprendo
+      - desprendes
+      - desprende
+      - desprendemos
+      - "desprend\xE9is"
+      - desprenden
+      cjid: pind
+    - cjfs:
+      - "desprend\xEDa"
+      - "desprend\xEDas"
+      - "desprend\xEDa"
+      - "desprend\xEDamos"
+      - "desprend\xEDais"
+      - "desprend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "desprend\xED"
+      - desprendiste
+      - "desprendi\xF3"
+      - desprendimos
+      - desprendisteis
+      - desprendieron
+      cjid: pprf
+    - cjfs:
+      - "desprender\xE9"
+      - "desprender\xE1s"
+      - "desprender\xE1"
+      - desprenderemos
+      - "desprender\xE9is"
+      - "desprender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desprender\xEDa"
+      - "desprender\xEDas"
+      - "desprender\xEDa"
+      - "desprender\xEDamos"
+      - "desprender\xEDais"
+      - "desprender\xEDan"
+      cjid: cond
+    - cjfs:
+      - desprenda
+      - desprendas
+      - desprenda
+      - desprendamos
+      - "desprend\xE1is"
+      - desprendan
+      cjid: psub
+    - cjfs:
+      - desprendiera
+      - desprendieras
+      - desprendiera
+      - "desprendi\xE9ramos"
+      - desprendierais
+      - desprendieran
+      cjid: pisb1
+    - cjfs:
+      - desprendiese
+      - desprendieses
+      - desprendiese
+      - "desprendi\xE9semos"
+      - desprendieseis
+      - desprendiesen
+      cjid: pisb2
+    - cjfs:
+      - desprendiere
+      - desprendieres
+      - desprendiere
+      - "desprendi\xE9remos"
+      - desprendiereis
+      - desprendieren
+      cjid: fsub
+    - cjfs:
+      - he desprendido
+      - has desprendido
+      - ha desprendido
+      - hemos desprendido
+      - "hab\xE9is desprendido"
+      - han desprendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desprendido"
+      - "hab\xEDas desprendido"
+      - "hab\xEDa desprendido"
+      - "hab\xEDamos desprendido"
+      - "hab\xEDais desprendido"
+      - "hab\xEDan desprendido"
+      cjid: ppsi
+    - cjfs:
+      - hube desprendido
+      - hubiste desprendido
+      - hubo desprendido
+      - hubimos desprendido
+      - hubisteis desprendido
+      - hubieron desprendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desprendido"
+      - "habr\xE1s desprendido"
+      - "habr\xE1 desprendido"
+      - habremos desprendido
+      - "habr\xE9is desprendido"
+      - "habr\xE1n desprendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desprendido"
+      - "habr\xEDas desprendido"
+      - "habr\xEDa desprendido"
+      - "habr\xEDamos desprendido"
+      - "habr\xEDais desprendido"
+      - "habr\xEDan desprendido"
+      cjid: cpef
+    - cjfs:
+      - haya desprendido
+      - hayas desprendido
+      - haya desprendido
+      - hayamos desprendido
+      - "hay\xE1is desprendido"
+      - hayan desprendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera desprendido
+      - hubieras desprendido
+      - hubiera desprendido
+      - "hubi\xE9ramos desprendido"
+      - hubierais desprendido
+      - hubieran desprendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese desprendido
+      - hubieses desprendido
+      - hubiese desprendido
+      - "hubi\xE9semos desprendido"
+      - hubieseis desprendido
+      - hubiesen desprendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere desprendido
+      - hubieres desprendido
+      - hubiere desprendido
+      - "hubi\xE9remos desprendido"
+      - hubiereis desprendido
+      - hubieren desprendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desprende
+      - desprenda
+      - desprendamos
+      - desprended
+      - desprendan
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to scare away, to chase away'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|banish}, to {a_link|dispel} '
+          - - vis
+            - - t: ahuyentar las dudas
+                tr: to dispel doubts
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: ahuyentar
+    prs:
+    - sound:
+        audio: ahuye01sp
+  meta:
+    id: ahuyentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600803000'
+    src: spanish
+    stems:
+    - ahuyentar
+    uuid: 8c410bf5-59d9-42c1-9f11-ef843ee777da
+  shortdef:
+  - to scare away, to chase away
+  - to banish, to dispel
+  suppl:
+    cjts:
+    - cjfs:
+      - ahuyentando
+      - ahuyentado
+      cjid: gppt
+    - cjfs:
+      - ahuyento
+      - ahuyentas
+      - ahuyenta
+      - ahuyentamos
+      - "ahuyent\xE1is"
+      - ahuyentan
+      cjid: pind
+    - cjfs:
+      - ahuyentaba
+      - ahuyentabas
+      - ahuyentaba
+      - "ahuyent\xE1bamos"
+      - ahuyentabais
+      - ahuyentaban
+      cjid: pret
+    - cjfs:
+      - "ahuyent\xE9"
+      - ahuyentaste
+      - "ahuyent\xF3"
+      - ahuyentamos
+      - ahuyentasteis
+      - ahuyentaron
+      cjid: pprf
+    - cjfs:
+      - "ahuyentar\xE9"
+      - "ahuyentar\xE1s"
+      - "ahuyentar\xE1"
+      - ahuyentaremos
+      - "ahuyentar\xE9is"
+      - "ahuyentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ahuyentar\xEDa"
+      - "ahuyentar\xEDas"
+      - "ahuyentar\xEDa"
+      - "ahuyentar\xEDamos"
+      - "ahuyentar\xEDais"
+      - "ahuyentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ahuyente
+      - ahuyentes
+      - ahuyente
+      - ahuyentemos
+      - "ahuyent\xE9is"
+      - ahuyenten
+      cjid: psub
+    - cjfs:
+      - ahuyentara
+      - ahuyentaras
+      - ahuyentara
+      - "ahuyent\xE1ramos"
+      - ahuyentarais
+      - ahuyentaran
+      cjid: pisb1
+    - cjfs:
+      - ahuyentase
+      - ahuyentases
+      - ahuyentase
+      - "ahuyent\xE1semos"
+      - ahuyentaseis
+      - ahuyentasen
+      cjid: pisb2
+    - cjfs:
+      - ahuyentare
+      - ahuyentares
+      - ahuyentare
+      - "ahuyent\xE1remos"
+      - ahuyentareis
+      - ahuyentaren
+      cjid: fsub
+    - cjfs:
+      - he ahuyentado
+      - has ahuyentado
+      - ha ahuyentado
+      - hemos ahuyentado
+      - "hab\xE9is ahuyentado"
+      - han ahuyentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ahuyentado"
+      - "hab\xEDas ahuyentado"
+      - "hab\xEDa ahuyentado"
+      - "hab\xEDamos ahuyentado"
+      - "hab\xEDais ahuyentado"
+      - "hab\xEDan ahuyentado"
+      cjid: ppsi
+    - cjfs:
+      - hube ahuyentado
+      - hubiste ahuyentado
+      - hubo ahuyentado
+      - hubimos ahuyentado
+      - hubisteis ahuyentado
+      - hubieron ahuyentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ahuyentado"
+      - "habr\xE1s ahuyentado"
+      - "habr\xE1 ahuyentado"
+      - habremos ahuyentado
+      - "habr\xE9is ahuyentado"
+      - "habr\xE1n ahuyentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ahuyentado"
+      - "habr\xEDas ahuyentado"
+      - "habr\xEDa ahuyentado"
+      - "habr\xEDamos ahuyentado"
+      - "habr\xEDais ahuyentado"
+      - "habr\xEDan ahuyentado"
+      cjid: cpef
+    - cjfs:
+      - haya ahuyentado
+      - hayas ahuyentado
+      - haya ahuyentado
+      - hayamos ahuyentado
+      - "hay\xE1is ahuyentado"
+      - hayan ahuyentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ahuyentado
+      - hubieras ahuyentado
+      - hubiera ahuyentado
+      - "hubi\xE9ramos ahuyentado"
+      - hubierais ahuyentado
+      - hubieran ahuyentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ahuyentado
+      - hubieses ahuyentado
+      - hubiese ahuyentado
+      - "hubi\xE9semos ahuyentado"
+      - hubieseis ahuyentado
+      - hubiesen ahuyentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ahuyentado
+      - hubieres ahuyentado
+      - hubiere ahuyentado
+      - "hubi\xE9remos ahuyentado"
+      - hubiereis ahuyentado
+      - hubieren ahuyentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ahuyenta
+      - ahuyente
+      - ahuyentemos
+      - ahuyentad
+      - ahuyenten
+      cjid: impf

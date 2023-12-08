@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rinse}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to rinse out'
+    drp: enjuagarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enjuagar
+    prs:
+    - sound:
+        audio: enjua01sp
+  meta:
+    id: enjuagar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608615000'
+    src: spanish
+    stems:
+    - enjuagar
+    - enjuagarse
+    uuid: 7ecc1824-264e-48e5-bedc-9037aa453b40
+  shortdef:
+  - to rinse
+  suppl:
+    cjts:
+    - cjfs:
+      - enjuagando
+      - enjuagado
+      cjid: gppt
+    - cjfs:
+      - enjuago
+      - enjuagas
+      - enjuaga
+      - enjuagamos
+      - "enjuag\xE1is"
+      - enjuagan
+      cjid: pind
+    - cjfs:
+      - enjuagaba
+      - enjuagabas
+      - enjuagaba
+      - "enjuag\xE1bamos"
+      - enjuagabais
+      - enjuagaban
+      cjid: pret
+    - cjfs:
+      - "enjuagu\xE9"
+      - enjuagaste
+      - "enjuag\xF3"
+      - enjuagamos
+      - enjuagasteis
+      - enjuagaron
+      cjid: pprf
+    - cjfs:
+      - "enjuagar\xE9"
+      - "enjuagar\xE1s"
+      - "enjuagar\xE1"
+      - enjuagaremos
+      - "enjuagar\xE9is"
+      - "enjuagar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enjuagar\xEDa"
+      - "enjuagar\xEDas"
+      - "enjuagar\xEDa"
+      - "enjuagar\xEDamos"
+      - "enjuagar\xEDais"
+      - "enjuagar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enjuague
+      - enjuagues
+      - enjuague
+      - enjuaguemos
+      - "enjuagu\xE9is"
+      - enjuaguen
+      cjid: psub
+    - cjfs:
+      - enjuagara
+      - enjuagaras
+      - enjuagara
+      - "enjuag\xE1ramos"
+      - enjuagarais
+      - enjuagaran
+      cjid: pisb1
+    - cjfs:
+      - enjuagase
+      - enjuagases
+      - enjuagase
+      - "enjuag\xE1semos"
+      - enjuagaseis
+      - enjuagasen
+      cjid: pisb2
+    - cjfs:
+      - enjuagare
+      - enjuagares
+      - enjuagare
+      - "enjuag\xE1remos"
+      - enjuagareis
+      - enjuagaren
+      cjid: fsub
+    - cjfs:
+      - he enjuagado
+      - has enjuagado
+      - ha enjuagado
+      - hemos enjuagado
+      - "hab\xE9is enjuagado"
+      - han enjuagado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enjuagado"
+      - "hab\xEDas enjuagado"
+      - "hab\xEDa enjuagado"
+      - "hab\xEDamos enjuagado"
+      - "hab\xEDais enjuagado"
+      - "hab\xEDan enjuagado"
+      cjid: ppsi
+    - cjfs:
+      - hube enjuagado
+      - hubiste enjuagado
+      - hubo enjuagado
+      - hubimos enjuagado
+      - hubisteis enjuagado
+      - hubieron enjuagado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enjuagado"
+      - "habr\xE1s enjuagado"
+      - "habr\xE1 enjuagado"
+      - habremos enjuagado
+      - "habr\xE9is enjuagado"
+      - "habr\xE1n enjuagado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enjuagado"
+      - "habr\xEDas enjuagado"
+      - "habr\xEDa enjuagado"
+      - "habr\xEDamos enjuagado"
+      - "habr\xEDais enjuagado"
+      - "habr\xEDan enjuagado"
+      cjid: cpef
+    - cjfs:
+      - haya enjuagado
+      - hayas enjuagado
+      - haya enjuagado
+      - hayamos enjuagado
+      - "hay\xE1is enjuagado"
+      - hayan enjuagado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enjuagado
+      - hubieras enjuagado
+      - hubiera enjuagado
+      - "hubi\xE9ramos enjuagado"
+      - hubierais enjuagado
+      - hubieran enjuagado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enjuagado
+      - hubieses enjuagado
+      - hubiese enjuagado
+      - "hubi\xE9semos enjuagado"
+      - hubieseis enjuagado
+      - hubiesen enjuagado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enjuagado
+      - hubieres enjuagado
+      - hubiere enjuagado
+      - "hubi\xE9remos enjuagado"
+      - hubiereis enjuagado
+      - hubieren enjuagado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enjuaga
+      - enjuague
+      - enjuaguemos
+      - enjuagad
+      - enjuaguen
+      cjid: impf

@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hesitate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stutter}, to {a_link|stammer}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: titubear
+  meta:
+    id: titubear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621898000'
+    src: spanish
+    stems:
+    - titubear
+    - titubeante
+    uuid: 757f4d93-82e8-4218-9c3c-9a0b130610ba
+  shortdef:
+  - to hesitate
+  - to stutter, to stammer
+  suppl:
+    cjts:
+    - cjfs:
+      - titubeando
+      - titubeado
+      cjid: gppt
+    - cjfs:
+      - titubeo
+      - titubeas
+      - titubea
+      - titubeamos
+      - "titube\xE1is"
+      - titubean
+      cjid: pind
+    - cjfs:
+      - titubeaba
+      - titubeabas
+      - titubeaba
+      - "titube\xE1bamos"
+      - titubeabais
+      - titubeaban
+      cjid: pret
+    - cjfs:
+      - "titube\xE9"
+      - titubeaste
+      - "titube\xF3"
+      - titubeamos
+      - titubeasteis
+      - titubearon
+      cjid: pprf
+    - cjfs:
+      - "titubear\xE9"
+      - "titubear\xE1s"
+      - "titubear\xE1"
+      - titubearemos
+      - "titubear\xE9is"
+      - "titubear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "titubear\xEDa"
+      - "titubear\xEDas"
+      - "titubear\xEDa"
+      - "titubear\xEDamos"
+      - "titubear\xEDais"
+      - "titubear\xEDan"
+      cjid: cond
+    - cjfs:
+      - titubee
+      - titubees
+      - titubee
+      - titubeemos
+      - "titube\xE9is"
+      - titubeen
+      cjid: psub
+    - cjfs:
+      - titubeara
+      - titubearas
+      - titubeara
+      - "titube\xE1ramos"
+      - titubearais
+      - titubearan
+      cjid: pisb1
+    - cjfs:
+      - titubease
+      - titubeases
+      - titubease
+      - "titube\xE1semos"
+      - titubeaseis
+      - titubeasen
+      cjid: pisb2
+    - cjfs:
+      - titubeare
+      - titubeares
+      - titubeare
+      - "titube\xE1remos"
+      - titubeareis
+      - titubearen
+      cjid: fsub
+    - cjfs:
+      - he titubeado
+      - has titubeado
+      - ha titubeado
+      - hemos titubeado
+      - "hab\xE9is titubeado"
+      - han titubeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa titubeado"
+      - "hab\xEDas titubeado"
+      - "hab\xEDa titubeado"
+      - "hab\xEDamos titubeado"
+      - "hab\xEDais titubeado"
+      - "hab\xEDan titubeado"
+      cjid: ppsi
+    - cjfs:
+      - hube titubeado
+      - hubiste titubeado
+      - hubo titubeado
+      - hubimos titubeado
+      - hubisteis titubeado
+      - hubieron titubeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 titubeado"
+      - "habr\xE1s titubeado"
+      - "habr\xE1 titubeado"
+      - habremos titubeado
+      - "habr\xE9is titubeado"
+      - "habr\xE1n titubeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa titubeado"
+      - "habr\xEDas titubeado"
+      - "habr\xEDa titubeado"
+      - "habr\xEDamos titubeado"
+      - "habr\xEDais titubeado"
+      - "habr\xEDan titubeado"
+      cjid: cpef
+    - cjfs:
+      - haya titubeado
+      - hayas titubeado
+      - haya titubeado
+      - hayamos titubeado
+      - "hay\xE1is titubeado"
+      - hayan titubeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera titubeado
+      - hubieras titubeado
+      - hubiera titubeado
+      - "hubi\xE9ramos titubeado"
+      - hubierais titubeado
+      - hubieran titubeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese titubeado
+      - hubieses titubeado
+      - hubiese titubeado
+      - "hubi\xE9semos titubeado"
+      - hubieseis titubeado
+      - hubiesen titubeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere titubeado
+      - hubieres titubeado
+      - hubiere titubeado
+      - "hubi\xE9remos titubeado"
+      - hubiereis titubeado
+      - hubieren titubeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - titubea
+      - titubee
+      - titubeemos
+      - titubead
+      - titubeen
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: titubeante

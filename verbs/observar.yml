@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|observe}, to {a_link|watch} '
+          - - vis
+            - - t: "est\xE1bamos observando a los ni\xF1os"
+                tr: we were watching the children
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|notar||} {bc}to {a_link|notice}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acatar||} {bc}to {a_link|obey}, to {a_link|abide by}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|comentar||} {bc}to {a_link|remark}, to {a_link|comment}'
+          sn: '4'
+  fl: transitive verb
+  hwi:
+    hw: observar
+    prs:
+    - sound:
+        audio: obser03sp
+  meta:
+    id: observar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616014000'
+    src: spanish
+    stems:
+    - observar
+    uuid: 33e6dd2a-c162-4be7-a70b-7fddaef3aaed
+  shortdef:
+  - to observe, to watch
+  - 'notar : to notice'
+  - 'acatar : to obey, to abide by'
+  suppl:
+    cjts:
+    - cjfs:
+      - observando
+      - observado
+      cjid: gppt
+    - cjfs:
+      - observo
+      - observas
+      - observa
+      - observamos
+      - "observ\xE1is"
+      - observan
+      cjid: pind
+    - cjfs:
+      - observaba
+      - observabas
+      - observaba
+      - "observ\xE1bamos"
+      - observabais
+      - observaban
+      cjid: pret
+    - cjfs:
+      - "observ\xE9"
+      - observaste
+      - "observ\xF3"
+      - observamos
+      - observasteis
+      - observaron
+      cjid: pprf
+    - cjfs:
+      - "observar\xE9"
+      - "observar\xE1s"
+      - "observar\xE1"
+      - observaremos
+      - "observar\xE9is"
+      - "observar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "observar\xEDa"
+      - "observar\xEDas"
+      - "observar\xEDa"
+      - "observar\xEDamos"
+      - "observar\xEDais"
+      - "observar\xEDan"
+      cjid: cond
+    - cjfs:
+      - observe
+      - observes
+      - observe
+      - observemos
+      - "observ\xE9is"
+      - observen
+      cjid: psub
+    - cjfs:
+      - observara
+      - observaras
+      - observara
+      - "observ\xE1ramos"
+      - observarais
+      - observaran
+      cjid: pisb1
+    - cjfs:
+      - observase
+      - observases
+      - observase
+      - "observ\xE1semos"
+      - observaseis
+      - observasen
+      cjid: pisb2
+    - cjfs:
+      - observare
+      - observares
+      - observare
+      - "observ\xE1remos"
+      - observareis
+      - observaren
+      cjid: fsub
+    - cjfs:
+      - he observado
+      - has observado
+      - ha observado
+      - hemos observado
+      - "hab\xE9is observado"
+      - han observado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa observado"
+      - "hab\xEDas observado"
+      - "hab\xEDa observado"
+      - "hab\xEDamos observado"
+      - "hab\xEDais observado"
+      - "hab\xEDan observado"
+      cjid: ppsi
+    - cjfs:
+      - hube observado
+      - hubiste observado
+      - hubo observado
+      - hubimos observado
+      - hubisteis observado
+      - hubieron observado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 observado"
+      - "habr\xE1s observado"
+      - "habr\xE1 observado"
+      - habremos observado
+      - "habr\xE9is observado"
+      - "habr\xE1n observado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa observado"
+      - "habr\xEDas observado"
+      - "habr\xEDa observado"
+      - "habr\xEDamos observado"
+      - "habr\xEDais observado"
+      - "habr\xEDan observado"
+      cjid: cpef
+    - cjfs:
+      - haya observado
+      - hayas observado
+      - haya observado
+      - hayamos observado
+      - "hay\xE1is observado"
+      - hayan observado
+      cjid: ppfs
+    - cjfs:
+      - hubiera observado
+      - hubieras observado
+      - hubiera observado
+      - "hubi\xE9ramos observado"
+      - hubierais observado
+      - hubieran observado
+      cjid: ppss1
+    - cjfs:
+      - hubiese observado
+      - hubieses observado
+      - hubiese observado
+      - "hubi\xE9semos observado"
+      - hubieseis observado
+      - hubiesen observado
+      cjid: ppss2
+    - cjfs:
+      - hubiere observado
+      - hubieres observado
+      - hubiere observado
+      - "hubi\xE9remos observado"
+      - hubiereis observado
+      - hubieren observado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - observa
+      - observe
+      - observemos
+      - observad
+      - observen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|air}, to {a_link|air out}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get some fresh air'
+    drp: airearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: airear
+  meta:
+    id: airear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600808000'
+    src: spanish
+    stems:
+    - airear
+    - airearse
+    uuid: 7ae91c97-7407-429f-b102-37463bce7f5b
+  shortdef:
+  - to air, to air out
+  suppl:
+    cjts:
+    - cjfs:
+      - aireando
+      - aireado
+      cjid: gppt
+    - cjfs:
+      - aireo
+      - aireas
+      - airea
+      - aireamos
+      - "aire\xE1is"
+      - airean
+      cjid: pind
+    - cjfs:
+      - aireaba
+      - aireabas
+      - aireaba
+      - "aire\xE1bamos"
+      - aireabais
+      - aireaban
+      cjid: pret
+    - cjfs:
+      - "aire\xE9"
+      - aireaste
+      - "aire\xF3"
+      - aireamos
+      - aireasteis
+      - airearon
+      cjid: pprf
+    - cjfs:
+      - "airear\xE9"
+      - "airear\xE1s"
+      - "airear\xE1"
+      - airearemos
+      - "airear\xE9is"
+      - "airear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "airear\xEDa"
+      - "airear\xEDas"
+      - "airear\xEDa"
+      - "airear\xEDamos"
+      - "airear\xEDais"
+      - "airear\xEDan"
+      cjid: cond
+    - cjfs:
+      - airee
+      - airees
+      - airee
+      - aireemos
+      - "aire\xE9is"
+      - aireen
+      cjid: psub
+    - cjfs:
+      - aireara
+      - airearas
+      - aireara
+      - "aire\xE1ramos"
+      - airearais
+      - airearan
+      cjid: pisb1
+    - cjfs:
+      - airease
+      - aireases
+      - airease
+      - "aire\xE1semos"
+      - aireaseis
+      - aireasen
+      cjid: pisb2
+    - cjfs:
+      - aireare
+      - aireares
+      - aireare
+      - "aire\xE1remos"
+      - aireareis
+      - airearen
+      cjid: fsub
+    - cjfs:
+      - he aireado
+      - has aireado
+      - ha aireado
+      - hemos aireado
+      - "hab\xE9is aireado"
+      - han aireado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aireado"
+      - "hab\xEDas aireado"
+      - "hab\xEDa aireado"
+      - "hab\xEDamos aireado"
+      - "hab\xEDais aireado"
+      - "hab\xEDan aireado"
+      cjid: ppsi
+    - cjfs:
+      - hube aireado
+      - hubiste aireado
+      - hubo aireado
+      - hubimos aireado
+      - hubisteis aireado
+      - hubieron aireado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aireado"
+      - "habr\xE1s aireado"
+      - "habr\xE1 aireado"
+      - habremos aireado
+      - "habr\xE9is aireado"
+      - "habr\xE1n aireado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aireado"
+      - "habr\xEDas aireado"
+      - "habr\xEDa aireado"
+      - "habr\xEDamos aireado"
+      - "habr\xEDais aireado"
+      - "habr\xEDan aireado"
+      cjid: cpef
+    - cjfs:
+      - haya aireado
+      - hayas aireado
+      - haya aireado
+      - hayamos aireado
+      - "hay\xE1is aireado"
+      - hayan aireado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aireado
+      - hubieras aireado
+      - hubiera aireado
+      - "hubi\xE9ramos aireado"
+      - hubierais aireado
+      - hubieran aireado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aireado
+      - hubieses aireado
+      - hubiese aireado
+      - "hubi\xE9semos aireado"
+      - hubieseis aireado
+      - hubiesen aireado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aireado
+      - hubieres aireado
+      - hubiere aireado
+      - "hubi\xE9remos aireado"
+      - hubiereis aireado
+      - hubieren aireado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - airea
+      - airee
+      - aireemos
+      - airead
+      - aireen
+      cjid: impf

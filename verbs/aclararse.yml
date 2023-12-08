@@ -1,0 +1,221 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|clarificar||} {bc}to {a_link|clarify}, to {a_link|explain}, to
+              {a_link|resolve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lighten}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to clear one''s throat'
+          sn: '3'
+          vrs:
+          - va: aclarar la voz
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get light, to {a_link|dawn}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clear up}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become clear'
+    drp: aclararse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aclarar
+    prs:
+    - sound:
+        audio: aclar02sp
+  meta:
+    id: aclarar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600291000'
+    src: spanish
+    stems:
+    - aclarar
+    - aclarar la voz
+    - aclararse
+    uuid: 8d761e97-662b-4b0b-abfc-b5c2e94dcadf
+  shortdef:
+  - 'clarificar : to clarify, to explain, to resolve'
+  - to lighten
+  - to clear one's throat
+  suppl:
+    cjts:
+    - cjfs:
+      - aclarando
+      - aclarado
+      cjid: gppt
+    - cjfs:
+      - aclaro
+      - aclaras
+      - aclara
+      - aclaramos
+      - "aclar\xE1is"
+      - aclaran
+      cjid: pind
+    - cjfs:
+      - aclaraba
+      - aclarabas
+      - aclaraba
+      - "aclar\xE1bamos"
+      - aclarabais
+      - aclaraban
+      cjid: pret
+    - cjfs:
+      - "aclar\xE9"
+      - aclaraste
+      - "aclar\xF3"
+      - aclaramos
+      - aclarasteis
+      - aclararon
+      cjid: pprf
+    - cjfs:
+      - "aclarar\xE9"
+      - "aclarar\xE1s"
+      - "aclarar\xE1"
+      - aclararemos
+      - "aclarar\xE9is"
+      - "aclarar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aclarar\xEDa"
+      - "aclarar\xEDas"
+      - "aclarar\xEDa"
+      - "aclarar\xEDamos"
+      - "aclarar\xEDais"
+      - "aclarar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aclare
+      - aclares
+      - aclare
+      - aclaremos
+      - "aclar\xE9is"
+      - aclaren
+      cjid: psub
+    - cjfs:
+      - aclarara
+      - aclararas
+      - aclarara
+      - "aclar\xE1ramos"
+      - aclararais
+      - aclararan
+      cjid: pisb1
+    - cjfs:
+      - aclarase
+      - aclarases
+      - aclarase
+      - "aclar\xE1semos"
+      - aclaraseis
+      - aclarasen
+      cjid: pisb2
+    - cjfs:
+      - aclarare
+      - aclarares
+      - aclarare
+      - "aclar\xE1remos"
+      - aclarareis
+      - aclararen
+      cjid: fsub
+    - cjfs:
+      - he aclarado
+      - has aclarado
+      - ha aclarado
+      - hemos aclarado
+      - "hab\xE9is aclarado"
+      - han aclarado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aclarado"
+      - "hab\xEDas aclarado"
+      - "hab\xEDa aclarado"
+      - "hab\xEDamos aclarado"
+      - "hab\xEDais aclarado"
+      - "hab\xEDan aclarado"
+      cjid: ppsi
+    - cjfs:
+      - hube aclarado
+      - hubiste aclarado
+      - hubo aclarado
+      - hubimos aclarado
+      - hubisteis aclarado
+      - hubieron aclarado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aclarado"
+      - "habr\xE1s aclarado"
+      - "habr\xE1 aclarado"
+      - habremos aclarado
+      - "habr\xE9is aclarado"
+      - "habr\xE1n aclarado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aclarado"
+      - "habr\xEDas aclarado"
+      - "habr\xEDa aclarado"
+      - "habr\xEDamos aclarado"
+      - "habr\xEDais aclarado"
+      - "habr\xEDan aclarado"
+      cjid: cpef
+    - cjfs:
+      - haya aclarado
+      - hayas aclarado
+      - haya aclarado
+      - hayamos aclarado
+      - "hay\xE1is aclarado"
+      - hayan aclarado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aclarado
+      - hubieras aclarado
+      - hubiera aclarado
+      - "hubi\xE9ramos aclarado"
+      - hubierais aclarado
+      - hubieran aclarado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aclarado
+      - hubieses aclarado
+      - hubiese aclarado
+      - "hubi\xE9semos aclarado"
+      - hubieseis aclarado
+      - hubiesen aclarado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aclarado
+      - hubieres aclarado
+      - hubiere aclarado
+      - "hubi\xE9remos aclarado"
+      - hubiereis aclarado
+      - hubieren aclarado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aclara
+      - aclare
+      - aclaremos
+      - aclarad
+      - aclaren
+      cjid: impf

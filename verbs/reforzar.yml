@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reinforce}, to {a_link|strengthen}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|encourage}, to {a_link|support}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: reforzar
+    prs:
+    - sound:
+        audio: refor02sp
+  meta:
+    id: reforzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619152000'
+    src: spanish
+    stems:
+    - reforzar
+    uuid: 8da3b465-95b6-43d1-a093-1ce03eea37c2
+  shortdef:
+  - to reinforce, to strengthen
+  - to encourage, to support
+  suppl:
+    cjts:
+    - cjfs:
+      - reforzando
+      - reforzado
+      cjid: gppt
+    - cjfs:
+      - refuerzo
+      - refuerzas
+      - refuerza
+      - reforzamos
+      - "reforz\xE1is"
+      - refuerzan
+      cjid: pind
+    - cjfs:
+      - reforzaba
+      - reforzabas
+      - reforzaba
+      - "reforz\xE1bamos"
+      - reforzabais
+      - reforzaban
+      cjid: pret
+    - cjfs:
+      - "reforc\xE9"
+      - reforzaste
+      - "reforz\xF3"
+      - reforzamos
+      - reforzasteis
+      - reforzaron
+      cjid: pprf
+    - cjfs:
+      - "reforzar\xE9"
+      - "reforzar\xE1s"
+      - "reforzar\xE1"
+      - reforzaremos
+      - "reforzar\xE9is"
+      - "reforzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reforzar\xEDa"
+      - "reforzar\xEDas"
+      - "reforzar\xEDa"
+      - "reforzar\xEDamos"
+      - "reforzar\xEDais"
+      - "reforzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - refuerce
+      - refuerces
+      - refuerce
+      - reforcemos
+      - "reforc\xE9is"
+      - refuercen
+      cjid: psub
+    - cjfs:
+      - reforzara
+      - reforzaras
+      - reforzara
+      - "reforz\xE1ramos"
+      - reforzarais
+      - reforzaran
+      cjid: pisb1
+    - cjfs:
+      - reforzase
+      - reforzases
+      - reforzase
+      - "reforz\xE1semos"
+      - reforzaseis
+      - reforzasen
+      cjid: pisb2
+    - cjfs:
+      - reforzare
+      - reforzares
+      - reforzare
+      - "reforz\xE1remos"
+      - reforzareis
+      - reforzaren
+      cjid: fsub
+    - cjfs:
+      - he reforzado
+      - has reforzado
+      - ha reforzado
+      - hemos reforzado
+      - "hab\xE9is reforzado"
+      - han reforzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reforzado"
+      - "hab\xEDas reforzado"
+      - "hab\xEDa reforzado"
+      - "hab\xEDamos reforzado"
+      - "hab\xEDais reforzado"
+      - "hab\xEDan reforzado"
+      cjid: ppsi
+    - cjfs:
+      - hube reforzado
+      - hubiste reforzado
+      - hubo reforzado
+      - hubimos reforzado
+      - hubisteis reforzado
+      - hubieron reforzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reforzado"
+      - "habr\xE1s reforzado"
+      - "habr\xE1 reforzado"
+      - habremos reforzado
+      - "habr\xE9is reforzado"
+      - "habr\xE1n reforzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reforzado"
+      - "habr\xEDas reforzado"
+      - "habr\xEDa reforzado"
+      - "habr\xEDamos reforzado"
+      - "habr\xEDais reforzado"
+      - "habr\xEDan reforzado"
+      cjid: cpef
+    - cjfs:
+      - haya reforzado
+      - hayas reforzado
+      - haya reforzado
+      - hayamos reforzado
+      - "hay\xE1is reforzado"
+      - hayan reforzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reforzado
+      - hubieras reforzado
+      - hubiera reforzado
+      - "hubi\xE9ramos reforzado"
+      - hubierais reforzado
+      - hubieran reforzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reforzado
+      - hubieses reforzado
+      - hubiese reforzado
+      - "hubi\xE9semos reforzado"
+      - hubieseis reforzado
+      - hubiesen reforzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reforzado
+      - hubieres reforzado
+      - hubiere reforzado
+      - "hubi\xE9remos reforzado"
+      - hubiereis reforzado
+      - hubieren reforzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - refuerza
+      - refuerce
+      - reforcemos
+      - reforzad
+      - refuercen
+      cjid: impf

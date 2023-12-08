@@ -1,0 +1,213 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apresurar||} {bc}to {a_link|hasten}, to {a_link|speed up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|arrojar||} {bc}to {a_link|hurl}, to {a_link|throw}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|apresurarse||} {bc}to {a_link|rush}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to act rashly '
+            - - vis
+              - - t: tal vez me precipito
+                  tr: perhaps I'm being too hasty
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|arrojarse||} {bc}to throw oneself'
+            sn: '3'
+    drp: precipitarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: precipitar
+    prs:
+    - sound:
+        audio: preci04sp
+  meta:
+    id: precipitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617915000'
+    src: spanish
+    stems:
+    - precipitar
+    - precipitarse
+    uuid: 55e1db6f-4423-44b2-91e3-38cb8fa8b84d
+  shortdef:
+  - 'apresurar : to hasten, to speed up'
+  - 'arrojar : to hurl, to throw'
+  suppl:
+    cjts:
+    - cjfs:
+      - precipitando
+      - precipitado
+      cjid: gppt
+    - cjfs:
+      - precipito
+      - precipitas
+      - precipita
+      - precipitamos
+      - "precipit\xE1is"
+      - precipitan
+      cjid: pind
+    - cjfs:
+      - precipitaba
+      - precipitabas
+      - precipitaba
+      - "precipit\xE1bamos"
+      - precipitabais
+      - precipitaban
+      cjid: pret
+    - cjfs:
+      - "precipit\xE9"
+      - precipitaste
+      - "precipit\xF3"
+      - precipitamos
+      - precipitasteis
+      - precipitaron
+      cjid: pprf
+    - cjfs:
+      - "precipitar\xE9"
+      - "precipitar\xE1s"
+      - "precipitar\xE1"
+      - precipitaremos
+      - "precipitar\xE9is"
+      - "precipitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "precipitar\xEDa"
+      - "precipitar\xEDas"
+      - "precipitar\xEDa"
+      - "precipitar\xEDamos"
+      - "precipitar\xEDais"
+      - "precipitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - precipite
+      - precipites
+      - precipite
+      - precipitemos
+      - "precipit\xE9is"
+      - precipiten
+      cjid: psub
+    - cjfs:
+      - precipitara
+      - precipitaras
+      - precipitara
+      - "precipit\xE1ramos"
+      - precipitarais
+      - precipitaran
+      cjid: pisb1
+    - cjfs:
+      - precipitase
+      - precipitases
+      - precipitase
+      - "precipit\xE1semos"
+      - precipitaseis
+      - precipitasen
+      cjid: pisb2
+    - cjfs:
+      - precipitare
+      - precipitares
+      - precipitare
+      - "precipit\xE1remos"
+      - precipitareis
+      - precipitaren
+      cjid: fsub
+    - cjfs:
+      - he precipitado
+      - has precipitado
+      - ha precipitado
+      - hemos precipitado
+      - "hab\xE9is precipitado"
+      - han precipitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa precipitado"
+      - "hab\xEDas precipitado"
+      - "hab\xEDa precipitado"
+      - "hab\xEDamos precipitado"
+      - "hab\xEDais precipitado"
+      - "hab\xEDan precipitado"
+      cjid: ppsi
+    - cjfs:
+      - hube precipitado
+      - hubiste precipitado
+      - hubo precipitado
+      - hubimos precipitado
+      - hubisteis precipitado
+      - hubieron precipitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 precipitado"
+      - "habr\xE1s precipitado"
+      - "habr\xE1 precipitado"
+      - habremos precipitado
+      - "habr\xE9is precipitado"
+      - "habr\xE1n precipitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa precipitado"
+      - "habr\xEDas precipitado"
+      - "habr\xEDa precipitado"
+      - "habr\xEDamos precipitado"
+      - "habr\xEDais precipitado"
+      - "habr\xEDan precipitado"
+      cjid: cpef
+    - cjfs:
+      - haya precipitado
+      - hayas precipitado
+      - haya precipitado
+      - hayamos precipitado
+      - "hay\xE1is precipitado"
+      - hayan precipitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera precipitado
+      - hubieras precipitado
+      - hubiera precipitado
+      - "hubi\xE9ramos precipitado"
+      - hubierais precipitado
+      - hubieran precipitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese precipitado
+      - hubieses precipitado
+      - hubiese precipitado
+      - "hubi\xE9semos precipitado"
+      - hubieseis precipitado
+      - hubiesen precipitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere precipitado
+      - hubieres precipitado
+      - hubiere precipitado
+      - "hubi\xE9remos precipitado"
+      - hubiereis precipitado
+      - hubieren precipitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - precipita
+      - precipite
+      - precipitemos
+      - precipitad
+      - precipiten
+      cjid: impf

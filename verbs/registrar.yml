@@ -1,0 +1,247 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|registrador} '
+          - - gl
+            - masculine
+          - - text
+            - ', '
+          - - gwds
+            - gwc: -dora
+              gwd: registradora
+          - - text
+            - ' '
+          - - gl
+            - feminine
+          - - text
+            - ' {a_link|oficial}'
+  fl: noun
+  hwi:
+    hw: registrar
+    prs:
+    - mw: "\u02C8r\u025B\u02A4\u0259\u02CCstr\u0251r"
+      sound:
+        audio: regist06
+  meta:
+    id: registrar
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2619902000'
+    src: spanish
+    stems:
+    - registrar
+    - registrars
+    uuid: 7cffefcf-e893-4b9d-906f-9d8f4cda913d
+  shortdef:
+  - registrador, registradora oficial
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|register}, to {a_link|record}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|grabar||} {bc}to {a_link|record}, to {a_link|tape}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|search}, to {a_link|examine}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|inscribirse||} {bc}to {a_link|register}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|ocurrir||} {bc}to {a_link|happen}, to {a_link|occur}'
+            sn: '2'
+    drp: registrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: registrar
+  meta:
+    id: registrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619215000'
+    src: spanish
+    stems:
+    - registrar
+    - registrarse
+    uuid: 7d84c987-f77e-4cc1-a9ce-095e4b2fc791
+  shortdef:
+  - to register, to record
+  - 'grabar : to record, to tape'
+  - to search, to examine
+  suppl:
+    cjts:
+    - cjfs:
+      - registrando
+      - registrado
+      cjid: gppt
+    - cjfs:
+      - registro
+      - registras
+      - registra
+      - registramos
+      - "registr\xE1is"
+      - registran
+      cjid: pind
+    - cjfs:
+      - registraba
+      - registrabas
+      - registraba
+      - "registr\xE1bamos"
+      - registrabais
+      - registraban
+      cjid: pret
+    - cjfs:
+      - "registr\xE9"
+      - registraste
+      - "registr\xF3"
+      - registramos
+      - registrasteis
+      - registraron
+      cjid: pprf
+    - cjfs:
+      - "registrar\xE9"
+      - "registrar\xE1s"
+      - "registrar\xE1"
+      - registraremos
+      - "registrar\xE9is"
+      - "registrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "registrar\xEDa"
+      - "registrar\xEDas"
+      - "registrar\xEDa"
+      - "registrar\xEDamos"
+      - "registrar\xEDais"
+      - "registrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - registre
+      - registres
+      - registre
+      - registremos
+      - "registr\xE9is"
+      - registren
+      cjid: psub
+    - cjfs:
+      - registrara
+      - registraras
+      - registrara
+      - "registr\xE1ramos"
+      - registrarais
+      - registraran
+      cjid: pisb1
+    - cjfs:
+      - registrase
+      - registrases
+      - registrase
+      - "registr\xE1semos"
+      - registraseis
+      - registrasen
+      cjid: pisb2
+    - cjfs:
+      - registrare
+      - registrares
+      - registrare
+      - "registr\xE1remos"
+      - registrareis
+      - registraren
+      cjid: fsub
+    - cjfs:
+      - he registrado
+      - has registrado
+      - ha registrado
+      - hemos registrado
+      - "hab\xE9is registrado"
+      - han registrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa registrado"
+      - "hab\xEDas registrado"
+      - "hab\xEDa registrado"
+      - "hab\xEDamos registrado"
+      - "hab\xEDais registrado"
+      - "hab\xEDan registrado"
+      cjid: ppsi
+    - cjfs:
+      - hube registrado
+      - hubiste registrado
+      - hubo registrado
+      - hubimos registrado
+      - hubisteis registrado
+      - hubieron registrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 registrado"
+      - "habr\xE1s registrado"
+      - "habr\xE1 registrado"
+      - habremos registrado
+      - "habr\xE9is registrado"
+      - "habr\xE1n registrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa registrado"
+      - "habr\xEDas registrado"
+      - "habr\xEDa registrado"
+      - "habr\xEDamos registrado"
+      - "habr\xEDais registrado"
+      - "habr\xEDan registrado"
+      cjid: cpef
+    - cjfs:
+      - haya registrado
+      - hayas registrado
+      - haya registrado
+      - hayamos registrado
+      - "hay\xE1is registrado"
+      - hayan registrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera registrado
+      - hubieras registrado
+      - hubiera registrado
+      - "hubi\xE9ramos registrado"
+      - hubierais registrado
+      - hubieran registrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese registrado
+      - hubieses registrado
+      - hubiese registrado
+      - "hubi\xE9semos registrado"
+      - hubieseis registrado
+      - hubiesen registrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere registrado
+      - hubieres registrado
+      - hubiere registrado
+      - "hubi\xE9remos registrado"
+      - hubiereis registrado
+      - hubieren registrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - registra
+      - registre
+      - registremos
+      - registrad
+      - registren
+      cjid: impf

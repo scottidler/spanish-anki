@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|use}, to {a_link|utilize}'
+  fl: transitive verb
+  hwi:
+    hw: utilizar
+    prs:
+    - sound:
+        audio: utili03sp
+  meta:
+    id: utilizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622608000'
+    src: spanish
+    stems:
+    - utilizar
+    uuid: 21992a89-2709-4f55-9601-60c1f8348290
+  shortdef:
+  - to use, to utilize
+  suppl:
+    cjts:
+    - cjfs:
+      - utilizando
+      - utilizado
+      cjid: gppt
+    - cjfs:
+      - utilizo
+      - utilizas
+      - utiliza
+      - utilizamos
+      - "utiliz\xE1is"
+      - utilizan
+      cjid: pind
+    - cjfs:
+      - utilizaba
+      - utilizabas
+      - utilizaba
+      - "utiliz\xE1bamos"
+      - utilizabais
+      - utilizaban
+      cjid: pret
+    - cjfs:
+      - "utilic\xE9"
+      - utilizaste
+      - "utiliz\xF3"
+      - utilizamos
+      - utilizasteis
+      - utilizaron
+      cjid: pprf
+    - cjfs:
+      - "utilizar\xE9"
+      - "utilizar\xE1s"
+      - "utilizar\xE1"
+      - utilizaremos
+      - "utilizar\xE9is"
+      - "utilizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "utilizar\xEDa"
+      - "utilizar\xEDas"
+      - "utilizar\xEDa"
+      - "utilizar\xEDamos"
+      - "utilizar\xEDais"
+      - "utilizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - utilice
+      - utilices
+      - utilice
+      - utilicemos
+      - "utilic\xE9is"
+      - utilicen
+      cjid: psub
+    - cjfs:
+      - utilizara
+      - utilizaras
+      - utilizara
+      - "utiliz\xE1ramos"
+      - utilizarais
+      - utilizaran
+      cjid: pisb1
+    - cjfs:
+      - utilizase
+      - utilizases
+      - utilizase
+      - "utiliz\xE1semos"
+      - utilizaseis
+      - utilizasen
+      cjid: pisb2
+    - cjfs:
+      - utilizare
+      - utilizares
+      - utilizare
+      - "utiliz\xE1remos"
+      - utilizareis
+      - utilizaren
+      cjid: fsub
+    - cjfs:
+      - he utilizado
+      - has utilizado
+      - ha utilizado
+      - hemos utilizado
+      - "hab\xE9is utilizado"
+      - han utilizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa utilizado"
+      - "hab\xEDas utilizado"
+      - "hab\xEDa utilizado"
+      - "hab\xEDamos utilizado"
+      - "hab\xEDais utilizado"
+      - "hab\xEDan utilizado"
+      cjid: ppsi
+    - cjfs:
+      - hube utilizado
+      - hubiste utilizado
+      - hubo utilizado
+      - hubimos utilizado
+      - hubisteis utilizado
+      - hubieron utilizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 utilizado"
+      - "habr\xE1s utilizado"
+      - "habr\xE1 utilizado"
+      - habremos utilizado
+      - "habr\xE9is utilizado"
+      - "habr\xE1n utilizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa utilizado"
+      - "habr\xEDas utilizado"
+      - "habr\xEDa utilizado"
+      - "habr\xEDamos utilizado"
+      - "habr\xEDais utilizado"
+      - "habr\xEDan utilizado"
+      cjid: cpef
+    - cjfs:
+      - haya utilizado
+      - hayas utilizado
+      - haya utilizado
+      - hayamos utilizado
+      - "hay\xE1is utilizado"
+      - hayan utilizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera utilizado
+      - hubieras utilizado
+      - hubiera utilizado
+      - "hubi\xE9ramos utilizado"
+      - hubierais utilizado
+      - hubieran utilizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese utilizado
+      - hubieses utilizado
+      - hubiese utilizado
+      - "hubi\xE9semos utilizado"
+      - hubieseis utilizado
+      - hubiesen utilizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere utilizado
+      - hubieres utilizado
+      - hubiere utilizado
+      - "hubi\xE9remos utilizado"
+      - hubiereis utilizado
+      - hubieren utilizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - utiliza
+      - utilice
+      - utilicemos
+      - utilizad
+      - utilicen
+      cjid: impf

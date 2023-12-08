@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reproduce}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|breed}, to {a_link|reproduce}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|recur}'
+            sn: '2'
+    drp: reproducirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reproducir
+  meta:
+    id: reproducir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619497000'
+    src: spanish
+    stems:
+    - reproducir
+    - reproducirse
+    uuid: 47444742-967f-4bd5-b042-92b286b97735
+  shortdef:
+  - to reproduce
+  suppl:
+    cjts:
+    - cjfs:
+      - reproduciendo
+      - reproducido
+      cjid: gppt
+    - cjfs:
+      - reproduzco
+      - reproduces
+      - reproduce
+      - reproducimos
+      - "reproduc\xEDs"
+      - reproducen
+      cjid: pind
+    - cjfs:
+      - "reproduc\xEDa"
+      - "reproduc\xEDas"
+      - "reproduc\xEDa"
+      - "reproduc\xEDamos"
+      - "reproduc\xEDais"
+      - "reproduc\xEDan"
+      cjid: pret
+    - cjfs:
+      - reproduje
+      - reprodujiste
+      - reprodujo
+      - reprodujimos
+      - reprodujisteis
+      - reprodujeron
+      cjid: pprf
+    - cjfs:
+      - "reproducir\xE9"
+      - "reproducir\xE1s"
+      - "reproducir\xE1"
+      - reproduciremos
+      - "reproducir\xE9is"
+      - "reproducir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reproducir\xEDa"
+      - "reproducir\xEDas"
+      - "reproducir\xEDa"
+      - "reproducir\xEDamos"
+      - "reproducir\xEDais"
+      - "reproducir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reproduzca
+      - reproduzcas
+      - reproduzca
+      - reproduzcamos
+      - "reproduzc\xE1is"
+      - reproduzcan
+      cjid: psub
+    - cjfs:
+      - reprodujera
+      - reprodujeras
+      - reprodujera
+      - "reproduj\xE9ramos"
+      - reprodujerais
+      - reprodujeran
+      cjid: pisb1
+    - cjfs:
+      - reprodujese
+      - reprodujeses
+      - reprodujese
+      - "reproduj\xE9semos"
+      - reprodujeseis
+      - reprodujesen
+      cjid: pisb2
+    - cjfs:
+      - reprodujere
+      - reprodujeres
+      - reprodujere
+      - "reproduj\xE9remos"
+      - reprodujereis
+      - reprodujeren
+      cjid: fsub
+    - cjfs:
+      - he reproducido
+      - has reproducido
+      - ha reproducido
+      - hemos reproducido
+      - "hab\xE9is reproducido"
+      - han reproducido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reproducido"
+      - "hab\xEDas reproducido"
+      - "hab\xEDa reproducido"
+      - "hab\xEDamos reproducido"
+      - "hab\xEDais reproducido"
+      - "hab\xEDan reproducido"
+      cjid: ppsi
+    - cjfs:
+      - hube reproducido
+      - hubiste reproducido
+      - hubo reproducido
+      - hubimos reproducido
+      - hubisteis reproducido
+      - hubieron reproducido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reproducido"
+      - "habr\xE1s reproducido"
+      - "habr\xE1 reproducido"
+      - habremos reproducido
+      - "habr\xE9is reproducido"
+      - "habr\xE1n reproducido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reproducido"
+      - "habr\xEDas reproducido"
+      - "habr\xEDa reproducido"
+      - "habr\xEDamos reproducido"
+      - "habr\xEDais reproducido"
+      - "habr\xEDan reproducido"
+      cjid: cpef
+    - cjfs:
+      - haya reproducido
+      - hayas reproducido
+      - haya reproducido
+      - hayamos reproducido
+      - "hay\xE1is reproducido"
+      - hayan reproducido
+      cjid: ppfs
+    - cjfs:
+      - hubiera reproducido
+      - hubieras reproducido
+      - hubiera reproducido
+      - "hubi\xE9ramos reproducido"
+      - hubierais reproducido
+      - hubieran reproducido
+      cjid: ppss1
+    - cjfs:
+      - hubiese reproducido
+      - hubieses reproducido
+      - hubiese reproducido
+      - "hubi\xE9semos reproducido"
+      - hubieseis reproducido
+      - hubiesen reproducido
+      cjid: ppss2
+    - cjfs:
+      - hubiere reproducido
+      - hubieres reproducido
+      - hubiere reproducido
+      - "hubi\xE9remos reproducido"
+      - hubiereis reproducido
+      - hubieren reproducido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reproduce
+      - reproduzca
+      - reproduzcamos
+      - reproducid
+      - reproduzcan
+      cjid: impf

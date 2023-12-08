@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|return}, to {a_link|give back}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make}, to {a_link|render}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go back}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|become}, to {a_link|turn into}'
+    drp: tornarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tornar
+  meta:
+    id: tornar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621992000'
+    src: spanish
+    stems:
+    - tornar
+    - tornarse
+    uuid: 54eecc4c-afb5-4109-9afb-47c74db8ac3d
+  shortdef:
+  - to return, to give back
+  - to make, to render
+  - to go back
+  suppl:
+    cjts:
+    - cjfs:
+      - tornando
+      - tornado
+      cjid: gppt
+    - cjfs:
+      - torno
+      - tornas
+      - torna
+      - tornamos
+      - "torn\xE1is"
+      - tornan
+      cjid: pind
+    - cjfs:
+      - tornaba
+      - tornabas
+      - tornaba
+      - "torn\xE1bamos"
+      - tornabais
+      - tornaban
+      cjid: pret
+    - cjfs:
+      - "torn\xE9"
+      - tornaste
+      - "torn\xF3"
+      - tornamos
+      - tornasteis
+      - tornaron
+      cjid: pprf
+    - cjfs:
+      - "tornar\xE9"
+      - "tornar\xE1s"
+      - "tornar\xE1"
+      - tornaremos
+      - "tornar\xE9is"
+      - "tornar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tornar\xEDa"
+      - "tornar\xEDas"
+      - "tornar\xEDa"
+      - "tornar\xEDamos"
+      - "tornar\xEDais"
+      - "tornar\xEDan"
+      cjid: cond
+    - cjfs:
+      - torne
+      - tornes
+      - torne
+      - tornemos
+      - "torn\xE9is"
+      - tornen
+      cjid: psub
+    - cjfs:
+      - tornara
+      - tornaras
+      - tornara
+      - "torn\xE1ramos"
+      - tornarais
+      - tornaran
+      cjid: pisb1
+    - cjfs:
+      - tornase
+      - tornases
+      - tornase
+      - "torn\xE1semos"
+      - tornaseis
+      - tornasen
+      cjid: pisb2
+    - cjfs:
+      - tornare
+      - tornares
+      - tornare
+      - "torn\xE1remos"
+      - tornareis
+      - tornaren
+      cjid: fsub
+    - cjfs:
+      - he tornado
+      - has tornado
+      - ha tornado
+      - hemos tornado
+      - "hab\xE9is tornado"
+      - han tornado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tornado"
+      - "hab\xEDas tornado"
+      - "hab\xEDa tornado"
+      - "hab\xEDamos tornado"
+      - "hab\xEDais tornado"
+      - "hab\xEDan tornado"
+      cjid: ppsi
+    - cjfs:
+      - hube tornado
+      - hubiste tornado
+      - hubo tornado
+      - hubimos tornado
+      - hubisteis tornado
+      - hubieron tornado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tornado"
+      - "habr\xE1s tornado"
+      - "habr\xE1 tornado"
+      - habremos tornado
+      - "habr\xE9is tornado"
+      - "habr\xE1n tornado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tornado"
+      - "habr\xEDas tornado"
+      - "habr\xEDa tornado"
+      - "habr\xEDamos tornado"
+      - "habr\xEDais tornado"
+      - "habr\xEDan tornado"
+      cjid: cpef
+    - cjfs:
+      - haya tornado
+      - hayas tornado
+      - haya tornado
+      - hayamos tornado
+      - "hay\xE1is tornado"
+      - hayan tornado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tornado
+      - hubieras tornado
+      - hubiera tornado
+      - "hubi\xE9ramos tornado"
+      - hubierais tornado
+      - hubieran tornado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tornado
+      - hubieses tornado
+      - hubiese tornado
+      - "hubi\xE9semos tornado"
+      - hubieseis tornado
+      - hubiesen tornado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tornado
+      - hubieres tornado
+      - hubiere tornado
+      - "hubi\xE9remos tornado"
+      - hubiereis tornado
+      - hubieren tornado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - torna
+      - torne
+      - tornemos
+      - tornad
+      - tornen
+      cjid: impf

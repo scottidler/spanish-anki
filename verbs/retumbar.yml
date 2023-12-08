@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|boom}, to {a_link|thunder}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resound}, to {a_link|reverberate}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: retumbar
+    prs:
+    - sound:
+        audio: retum01sp
+  meta:
+    id: retumbar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619719000'
+    src: spanish
+    stems:
+    - retumbar
+    uuid: a13e805f-b440-4515-9855-a2392e937aad
+  shortdef:
+  - to boom, to thunder
+  - to resound, to reverberate
+  suppl:
+    cjts:
+    - cjfs:
+      - retumbando
+      - retumbado
+      cjid: gppt
+    - cjfs:
+      - retumbo
+      - retumbas
+      - retumba
+      - retumbamos
+      - "retumb\xE1is"
+      - retumban
+      cjid: pind
+    - cjfs:
+      - retumbaba
+      - retumbabas
+      - retumbaba
+      - "retumb\xE1bamos"
+      - retumbabais
+      - retumbaban
+      cjid: pret
+    - cjfs:
+      - "retumb\xE9"
+      - retumbaste
+      - "retumb\xF3"
+      - retumbamos
+      - retumbasteis
+      - retumbaron
+      cjid: pprf
+    - cjfs:
+      - "retumbar\xE9"
+      - "retumbar\xE1s"
+      - "retumbar\xE1"
+      - retumbaremos
+      - "retumbar\xE9is"
+      - "retumbar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "retumbar\xEDa"
+      - "retumbar\xEDas"
+      - "retumbar\xEDa"
+      - "retumbar\xEDamos"
+      - "retumbar\xEDais"
+      - "retumbar\xEDan"
+      cjid: cond
+    - cjfs:
+      - retumbe
+      - retumbes
+      - retumbe
+      - retumbemos
+      - "retumb\xE9is"
+      - retumben
+      cjid: psub
+    - cjfs:
+      - retumbara
+      - retumbaras
+      - retumbara
+      - "retumb\xE1ramos"
+      - retumbarais
+      - retumbaran
+      cjid: pisb1
+    - cjfs:
+      - retumbase
+      - retumbases
+      - retumbase
+      - "retumb\xE1semos"
+      - retumbaseis
+      - retumbasen
+      cjid: pisb2
+    - cjfs:
+      - retumbare
+      - retumbares
+      - retumbare
+      - "retumb\xE1remos"
+      - retumbareis
+      - retumbaren
+      cjid: fsub
+    - cjfs:
+      - he retumbado
+      - has retumbado
+      - ha retumbado
+      - hemos retumbado
+      - "hab\xE9is retumbado"
+      - han retumbado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa retumbado"
+      - "hab\xEDas retumbado"
+      - "hab\xEDa retumbado"
+      - "hab\xEDamos retumbado"
+      - "hab\xEDais retumbado"
+      - "hab\xEDan retumbado"
+      cjid: ppsi
+    - cjfs:
+      - hube retumbado
+      - hubiste retumbado
+      - hubo retumbado
+      - hubimos retumbado
+      - hubisteis retumbado
+      - hubieron retumbado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 retumbado"
+      - "habr\xE1s retumbado"
+      - "habr\xE1 retumbado"
+      - habremos retumbado
+      - "habr\xE9is retumbado"
+      - "habr\xE1n retumbado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa retumbado"
+      - "habr\xEDas retumbado"
+      - "habr\xEDa retumbado"
+      - "habr\xEDamos retumbado"
+      - "habr\xEDais retumbado"
+      - "habr\xEDan retumbado"
+      cjid: cpef
+    - cjfs:
+      - haya retumbado
+      - hayas retumbado
+      - haya retumbado
+      - hayamos retumbado
+      - "hay\xE1is retumbado"
+      - hayan retumbado
+      cjid: ppfs
+    - cjfs:
+      - hubiera retumbado
+      - hubieras retumbado
+      - hubiera retumbado
+      - "hubi\xE9ramos retumbado"
+      - hubierais retumbado
+      - hubieran retumbado
+      cjid: ppss1
+    - cjfs:
+      - hubiese retumbado
+      - hubieses retumbado
+      - hubiese retumbado
+      - "hubi\xE9semos retumbado"
+      - hubieseis retumbado
+      - hubiesen retumbado
+      cjid: ppss2
+    - cjfs:
+      - hubiere retumbado
+      - hubieres retumbado
+      - hubiere retumbado
+      - "hubi\xE9remos retumbado"
+      - hubiereis retumbado
+      - hubieren retumbado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - retumba
+      - retumbe
+      - retumbemos
+      - retumbad
+      - retumben
+      cjid: impf

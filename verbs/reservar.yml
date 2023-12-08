@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reserve}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to save oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|conceal}, to {a_link|keep to oneself}'
+            sn: '2'
+    drp: reservarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reservar
+    prs:
+    - sound:
+        audio: reser03sp
+  meta:
+    id: reservar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619551000'
+    src: spanish
+    stems:
+    - reservar
+    - reservarse
+    uuid: 1dc14704-40fe-433d-9faa-1ea51802059d
+  shortdef:
+  - to reserve
+  suppl:
+    cjts:
+    - cjfs:
+      - reservando
+      - reservado
+      cjid: gppt
+    - cjfs:
+      - reservo
+      - reservas
+      - reserva
+      - reservamos
+      - "reserv\xE1is"
+      - reservan
+      cjid: pind
+    - cjfs:
+      - reservaba
+      - reservabas
+      - reservaba
+      - "reserv\xE1bamos"
+      - reservabais
+      - reservaban
+      cjid: pret
+    - cjfs:
+      - "reserv\xE9"
+      - reservaste
+      - "reserv\xF3"
+      - reservamos
+      - reservasteis
+      - reservaron
+      cjid: pprf
+    - cjfs:
+      - "reservar\xE9"
+      - "reservar\xE1s"
+      - "reservar\xE1"
+      - reservaremos
+      - "reservar\xE9is"
+      - "reservar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reservar\xEDa"
+      - "reservar\xEDas"
+      - "reservar\xEDa"
+      - "reservar\xEDamos"
+      - "reservar\xEDais"
+      - "reservar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reserve
+      - reserves
+      - reserve
+      - reservemos
+      - "reserv\xE9is"
+      - reserven
+      cjid: psub
+    - cjfs:
+      - reservara
+      - reservaras
+      - reservara
+      - "reserv\xE1ramos"
+      - reservarais
+      - reservaran
+      cjid: pisb1
+    - cjfs:
+      - reservase
+      - reservases
+      - reservase
+      - "reserv\xE1semos"
+      - reservaseis
+      - reservasen
+      cjid: pisb2
+    - cjfs:
+      - reservare
+      - reservares
+      - reservare
+      - "reserv\xE1remos"
+      - reservareis
+      - reservaren
+      cjid: fsub
+    - cjfs:
+      - he reservado
+      - has reservado
+      - ha reservado
+      - hemos reservado
+      - "hab\xE9is reservado"
+      - han reservado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reservado"
+      - "hab\xEDas reservado"
+      - "hab\xEDa reservado"
+      - "hab\xEDamos reservado"
+      - "hab\xEDais reservado"
+      - "hab\xEDan reservado"
+      cjid: ppsi
+    - cjfs:
+      - hube reservado
+      - hubiste reservado
+      - hubo reservado
+      - hubimos reservado
+      - hubisteis reservado
+      - hubieron reservado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reservado"
+      - "habr\xE1s reservado"
+      - "habr\xE1 reservado"
+      - habremos reservado
+      - "habr\xE9is reservado"
+      - "habr\xE1n reservado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reservado"
+      - "habr\xEDas reservado"
+      - "habr\xEDa reservado"
+      - "habr\xEDamos reservado"
+      - "habr\xEDais reservado"
+      - "habr\xEDan reservado"
+      cjid: cpef
+    - cjfs:
+      - haya reservado
+      - hayas reservado
+      - haya reservado
+      - hayamos reservado
+      - "hay\xE1is reservado"
+      - hayan reservado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reservado
+      - hubieras reservado
+      - hubiera reservado
+      - "hubi\xE9ramos reservado"
+      - hubierais reservado
+      - hubieran reservado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reservado
+      - hubieses reservado
+      - hubiese reservado
+      - "hubi\xE9semos reservado"
+      - hubieseis reservado
+      - hubiesen reservado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reservado
+      - hubieres reservado
+      - hubiere reservado
+      - "hubi\xE9remos reservado"
+      - hubiereis reservado
+      - hubieren reservado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reserva
+      - reserve
+      - reservemos
+      - reservad
+      - reserven
+      cjid: impf

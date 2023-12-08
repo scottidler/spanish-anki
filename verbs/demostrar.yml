@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|probar||} {bc}to {a_link|demonstrate}, to {a_link|prove}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|manifestar||} {bc}to {a_link|show}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demonstrate} (a procedure, etc.)'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: demostrar
+    prs:
+    - sound:
+        audio: demos02sp
+  meta:
+    id: demostrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606675000'
+    src: spanish
+    stems:
+    - demostrar
+    uuid: 4aab8824-0ce4-4b2f-98ab-9ddde24ffed5
+  shortdef:
+  - 'probar : to demonstrate, to prove'
+  - 'manifestar : to show'
+  - to demonstrate (a procedure, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - demostrando
+      - demostrado
+      cjid: gppt
+    - cjfs:
+      - demostro
+      - demostras
+      - demostra
+      - demostramos
+      - "demostr\xE1is"
+      - demostran
+      cjid: pind
+    - cjfs:
+      - demostraba
+      - demostrabas
+      - demostraba
+      - "demostr\xE1bamos"
+      - demostrabais
+      - demostraban
+      cjid: pret
+    - cjfs:
+      - "demostr\xE9"
+      - demostraste
+      - "demostr\xF3"
+      - demostramos
+      - demostrasteis
+      - demostraron
+      cjid: pprf
+    - cjfs:
+      - "demostrar\xE9"
+      - "demostrar\xE1s"
+      - "demostrar\xE1"
+      - demostraremos
+      - "demostrar\xE9is"
+      - "demostrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "demostrar\xEDa"
+      - "demostrar\xEDas"
+      - "demostrar\xEDa"
+      - "demostrar\xEDamos"
+      - "demostrar\xEDais"
+      - "demostrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - demostre
+      - demostres
+      - demostre
+      - demostremos
+      - "demostr\xE9is"
+      - demostren
+      cjid: psub
+    - cjfs:
+      - demostrara
+      - demostraras
+      - demostrara
+      - "demostr\xE1ramos"
+      - demostrarais
+      - demostraran
+      cjid: pisb1
+    - cjfs:
+      - demostrase
+      - demostrases
+      - demostrase
+      - "demostr\xE1semos"
+      - demostraseis
+      - demostrasen
+      cjid: pisb2
+    - cjfs:
+      - demostrare
+      - demostrares
+      - demostrare
+      - "demostr\xE1remos"
+      - demostrareis
+      - demostraren
+      cjid: fsub
+    - cjfs:
+      - he demostrado
+      - has demostrado
+      - ha demostrado
+      - hemos demostrado
+      - "hab\xE9is demostrado"
+      - han demostrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa demostrado"
+      - "hab\xEDas demostrado"
+      - "hab\xEDa demostrado"
+      - "hab\xEDamos demostrado"
+      - "hab\xEDais demostrado"
+      - "hab\xEDan demostrado"
+      cjid: ppsi
+    - cjfs:
+      - hube demostrado
+      - hubiste demostrado
+      - hubo demostrado
+      - hubimos demostrado
+      - hubisteis demostrado
+      - hubieron demostrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 demostrado"
+      - "habr\xE1s demostrado"
+      - "habr\xE1 demostrado"
+      - habremos demostrado
+      - "habr\xE9is demostrado"
+      - "habr\xE1n demostrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa demostrado"
+      - "habr\xEDas demostrado"
+      - "habr\xEDa demostrado"
+      - "habr\xEDamos demostrado"
+      - "habr\xEDais demostrado"
+      - "habr\xEDan demostrado"
+      cjid: cpef
+    - cjfs:
+      - haya demostrado
+      - hayas demostrado
+      - haya demostrado
+      - hayamos demostrado
+      - "hay\xE1is demostrado"
+      - hayan demostrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera demostrado
+      - hubieras demostrado
+      - hubiera demostrado
+      - "hubi\xE9ramos demostrado"
+      - hubierais demostrado
+      - hubieran demostrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese demostrado
+      - hubieses demostrado
+      - hubiese demostrado
+      - "hubi\xE9semos demostrado"
+      - hubieseis demostrado
+      - hubiesen demostrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere demostrado
+      - hubieres demostrado
+      - hubiere demostrado
+      - "hubi\xE9remos demostrado"
+      - hubiereis demostrado
+      - hubieren demostrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - demostra
+      - demostre
+      - demostremos
+      - demostrad
+      - demostren
+      cjid: impf

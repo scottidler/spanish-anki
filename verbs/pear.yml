@@ -1,0 +1,73 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pera} '
+          - - gl
+            - feminine
+  fl: noun
+  hwi:
+    hw: pear
+    prs:
+    - mw: "\u02C8p\xE6r"
+      sound:
+        audio: pear0001
+  meta:
+    id: pear
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2617577000'
+    src: spanish
+    stems:
+    - pear
+    - pears
+    uuid: 9ac329f4-a00d-4441-b2a3-7e3ae0e28c97
+  shortdef:
+  - pera
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|nopal} '
+          - - gl
+            - masculine
+          - - text
+            - ', {a_link|tuna} '
+          - - gl
+            - feminine
+          - - text
+            - ' (planta)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tuna} '
+          - - gl
+            - feminine
+          - - text
+            - ', {a_link|higo} '
+          - - gl
+            - masculine
+          - - text
+            - ' chumbo (fruta)'
+          sn: '2'
+  fl: noun
+  hwi:
+    hw: prickly pear
+  meta:
+    id: prickly pear
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2618756000'
+    src: spanish
+    stems:
+    - prickly pear
+    - prickly pear cactus
+    uuid: e594e70e-aa2f-4a6e-9876-d60841675d10
+  shortdef:
+  - nopal, tuna (planta)
+  - tuna, higo chumbo (fruta)

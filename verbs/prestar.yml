@@ -1,0 +1,308 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lend}, to {a_link|loan} '
+          - - vis
+            - - t: "\xBFme prestas el paraguas?"
+                tr: can I borrow your umbrella?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|render} (a service), to {a_link|give} (aid)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay attention}'
+          sn: '3'
+          vrs:
+          - va: "prestar atenci\xF3n"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|testify}'
+          sn: '4'
+          vrs:
+          - va: "prestar declaraci\xF3n"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take an oath'
+          sn: '5'
+          vrs:
+          - va: prestar juramento
+  dros:
+  - def:
+    - sseq:
+      - - - sen
+          - vrs:
+            - va: prestarse a/para
+              vac: ~ a/para
+        - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|lend oneself to} '
+            - - vis
+              - - t: se presta a confusiones
+                  tr: it lends itself to confusion
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|agree to}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to participate in'
+            sn: '3'
+    drp: prestarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: prestar
+    prs:
+    - sound:
+        audio: prest04sp
+  meta:
+    id: prestar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618054000'
+    src: spanish
+    stems:
+    - prestar
+    - "prestar atenci\xF3n"
+    - "prestar declaraci\xF3n"
+    - prestar juramento
+    - prestarse
+    - prestarse a/para
+    - prestarse a
+    - prestarse para
+    uuid: 799171e3-c5bb-446c-9d81-26f532f7fe9b
+  shortdef:
+  - to lend, to loan
+  - to render (a service), to give (aid)
+  - to pay attention
+  suppl:
+    cjts:
+    - cjfs:
+      - prestando
+      - prestado
+      cjid: gppt
+    - cjfs:
+      - presto
+      - prestas
+      - presta
+      - prestamos
+      - "prest\xE1is"
+      - prestan
+      cjid: pind
+    - cjfs:
+      - prestaba
+      - prestabas
+      - prestaba
+      - "prest\xE1bamos"
+      - prestabais
+      - prestaban
+      cjid: pret
+    - cjfs:
+      - "prest\xE9"
+      - prestaste
+      - "prest\xF3"
+      - prestamos
+      - prestasteis
+      - prestaron
+      cjid: pprf
+    - cjfs:
+      - "prestar\xE9"
+      - "prestar\xE1s"
+      - "prestar\xE1"
+      - prestaremos
+      - "prestar\xE9is"
+      - "prestar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prestar\xEDa"
+      - "prestar\xEDas"
+      - "prestar\xEDa"
+      - "prestar\xEDamos"
+      - "prestar\xEDais"
+      - "prestar\xEDan"
+      cjid: cond
+    - cjfs:
+      - preste
+      - prestes
+      - preste
+      - prestemos
+      - "prest\xE9is"
+      - presten
+      cjid: psub
+    - cjfs:
+      - prestara
+      - prestaras
+      - prestara
+      - "prest\xE1ramos"
+      - prestarais
+      - prestaran
+      cjid: pisb1
+    - cjfs:
+      - prestase
+      - prestases
+      - prestase
+      - "prest\xE1semos"
+      - prestaseis
+      - prestasen
+      cjid: pisb2
+    - cjfs:
+      - prestare
+      - prestares
+      - prestare
+      - "prest\xE1remos"
+      - prestareis
+      - prestaren
+      cjid: fsub
+    - cjfs:
+      - he prestado
+      - has prestado
+      - ha prestado
+      - hemos prestado
+      - "hab\xE9is prestado"
+      - han prestado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prestado"
+      - "hab\xEDas prestado"
+      - "hab\xEDa prestado"
+      - "hab\xEDamos prestado"
+      - "hab\xEDais prestado"
+      - "hab\xEDan prestado"
+      cjid: ppsi
+    - cjfs:
+      - hube prestado
+      - hubiste prestado
+      - hubo prestado
+      - hubimos prestado
+      - hubisteis prestado
+      - hubieron prestado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prestado"
+      - "habr\xE1s prestado"
+      - "habr\xE1 prestado"
+      - habremos prestado
+      - "habr\xE9is prestado"
+      - "habr\xE1n prestado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prestado"
+      - "habr\xEDas prestado"
+      - "habr\xEDa prestado"
+      - "habr\xEDamos prestado"
+      - "habr\xEDais prestado"
+      - "habr\xEDan prestado"
+      cjid: cpef
+    - cjfs:
+      - haya prestado
+      - hayas prestado
+      - haya prestado
+      - hayamos prestado
+      - "hay\xE1is prestado"
+      - hayan prestado
+      cjid: ppfs
+    - cjfs:
+      - hubiera prestado
+      - hubieras prestado
+      - hubiera prestado
+      - "hubi\xE9ramos prestado"
+      - hubierais prestado
+      - hubieran prestado
+      cjid: ppss1
+    - cjfs:
+      - hubiese prestado
+      - hubieses prestado
+      - hubiese prestado
+      - "hubi\xE9semos prestado"
+      - hubieseis prestado
+      - hubiesen prestado
+      cjid: ppss2
+    - cjfs:
+      - hubiere prestado
+      - hubieres prestado
+      - hubiere prestado
+      - "hubi\xE9remos prestado"
+      - hubiereis prestado
+      - hubieren prestado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - presta
+      - preste
+      - prestemos
+      - prestad
+      - presten
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|attention}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay attention}'
+          sn: '2'
+          vrs:
+          - va: "poner atenci\xF3n"
+          - va: "prestar atenci\xF3n"
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attract attention}'
+          sn: '3'
+          vrs:
+          - va: "llamar la atenci\xF3n"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in view of}'
+          sn: '4'
+          vrs:
+          - va: "en atenci\xF3n a"
+  fl: feminine noun
+  hom: 1
+  hwi:
+    hw: "atenci\xF3n"
+    prs:
+    - sound:
+        audio: atenc01sp
+  ins:
+  - if: atenciones
+    ifc: -ciones
+    il: plural
+  meta:
+    id: atencion:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602274000'
+    src: spanish
+    stems:
+    - "atenci\xF3n"
+    - atenciones
+    - "poner atenci\xF3n"
+    - "prestar atenci\xF3n"
+    - "llamar la atenci\xF3n"
+    - "en atenci\xF3n a"
+    uuid: 92c80876-e0b9-4022-a6fe-8524c3b73129
+  shortdef:
+  - attention
+  - to pay attention
+  - to attract attention

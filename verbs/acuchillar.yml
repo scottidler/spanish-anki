@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|apu\xF1alar||} {bc}to {a_link|knife}, to {a_link|stab}"
+  fl: transitive verb
+  hwi:
+    hw: acuchillar
+  meta:
+    id: acuchillar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600396000'
+    src: spanish
+    stems:
+    - acuchillar
+    uuid: 29a6bdf3-926d-48bf-8faa-57e4094e1cf8
+  shortdef:
+  - "apu\xF1alar : to knife, to stab"
+  suppl:
+    cjts:
+    - cjfs:
+      - acuchillando
+      - acuchillado
+      cjid: gppt
+    - cjfs:
+      - acuchillo
+      - acuchillas
+      - acuchilla
+      - acuchillamos
+      - "acuchill\xE1is"
+      - acuchillan
+      cjid: pind
+    - cjfs:
+      - acuchillaba
+      - acuchillabas
+      - acuchillaba
+      - "acuchill\xE1bamos"
+      - acuchillabais
+      - acuchillaban
+      cjid: pret
+    - cjfs:
+      - "acuchill\xE9"
+      - acuchillaste
+      - "acuchill\xF3"
+      - acuchillamos
+      - acuchillasteis
+      - acuchillaron
+      cjid: pprf
+    - cjfs:
+      - "acuchillar\xE9"
+      - "acuchillar\xE1s"
+      - "acuchillar\xE1"
+      - acuchillaremos
+      - "acuchillar\xE9is"
+      - "acuchillar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acuchillar\xEDa"
+      - "acuchillar\xEDas"
+      - "acuchillar\xEDa"
+      - "acuchillar\xEDamos"
+      - "acuchillar\xEDais"
+      - "acuchillar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acuchille
+      - acuchilles
+      - acuchille
+      - acuchillemos
+      - "acuchill\xE9is"
+      - acuchillen
+      cjid: psub
+    - cjfs:
+      - acuchillara
+      - acuchillaras
+      - acuchillara
+      - "acuchill\xE1ramos"
+      - acuchillarais
+      - acuchillaran
+      cjid: pisb1
+    - cjfs:
+      - acuchillase
+      - acuchillases
+      - acuchillase
+      - "acuchill\xE1semos"
+      - acuchillaseis
+      - acuchillasen
+      cjid: pisb2
+    - cjfs:
+      - acuchillare
+      - acuchillares
+      - acuchillare
+      - "acuchill\xE1remos"
+      - acuchillareis
+      - acuchillaren
+      cjid: fsub
+    - cjfs:
+      - he acuchillado
+      - has acuchillado
+      - ha acuchillado
+      - hemos acuchillado
+      - "hab\xE9is acuchillado"
+      - han acuchillado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acuchillado"
+      - "hab\xEDas acuchillado"
+      - "hab\xEDa acuchillado"
+      - "hab\xEDamos acuchillado"
+      - "hab\xEDais acuchillado"
+      - "hab\xEDan acuchillado"
+      cjid: ppsi
+    - cjfs:
+      - hube acuchillado
+      - hubiste acuchillado
+      - hubo acuchillado
+      - hubimos acuchillado
+      - hubisteis acuchillado
+      - hubieron acuchillado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acuchillado"
+      - "habr\xE1s acuchillado"
+      - "habr\xE1 acuchillado"
+      - habremos acuchillado
+      - "habr\xE9is acuchillado"
+      - "habr\xE1n acuchillado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acuchillado"
+      - "habr\xEDas acuchillado"
+      - "habr\xEDa acuchillado"
+      - "habr\xEDamos acuchillado"
+      - "habr\xEDais acuchillado"
+      - "habr\xEDan acuchillado"
+      cjid: cpef
+    - cjfs:
+      - haya acuchillado
+      - hayas acuchillado
+      - haya acuchillado
+      - hayamos acuchillado
+      - "hay\xE1is acuchillado"
+      - hayan acuchillado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acuchillado
+      - hubieras acuchillado
+      - hubiera acuchillado
+      - "hubi\xE9ramos acuchillado"
+      - hubierais acuchillado
+      - hubieran acuchillado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acuchillado
+      - hubieses acuchillado
+      - hubiese acuchillado
+      - "hubi\xE9semos acuchillado"
+      - hubieseis acuchillado
+      - hubiesen acuchillado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acuchillado
+      - hubieres acuchillado
+      - hubiere acuchillado
+      - "hubi\xE9remos acuchillado"
+      - hubiereis acuchillado
+      - hubieren acuchillado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acuchilla
+      - acuchille
+      - acuchillemos
+      - acuchillad
+      - acuchillen
+      cjid: impf

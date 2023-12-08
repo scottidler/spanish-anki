@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spend}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|consumir||} {bc}to {a_link|consume}, to {a_link|use up}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|squander}, to {a_link|waste}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wear} '
+          - - vis
+            - - t: gasta un bigote
+                tr: he sports a mustache
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|spend}, to {a_link|expend}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|run down}, to {a_link|wear out}'
+            sn: '2'
+    drp: gastarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: gastar
+    prs:
+    - sound:
+        audio: gasta02sp
+  meta:
+    id: gastar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610716000'
+    src: spanish
+    stems:
+    - gastar
+    - gastarse
+    uuid: 70ded470-5e7a-4bdb-82b0-735135db8689
+  shortdef:
+  - to spend
+  - 'consumir : to consume, to use up'
+  - to squander, to waste
+  suppl:
+    cjts:
+    - cjfs:
+      - gastando
+      - gastado
+      cjid: gppt
+    - cjfs:
+      - gasto
+      - gastas
+      - gasta
+      - gastamos
+      - "gast\xE1is"
+      - gastan
+      cjid: pind
+    - cjfs:
+      - gastaba
+      - gastabas
+      - gastaba
+      - "gast\xE1bamos"
+      - gastabais
+      - gastaban
+      cjid: pret
+    - cjfs:
+      - "gast\xE9"
+      - gastaste
+      - "gast\xF3"
+      - gastamos
+      - gastasteis
+      - gastaron
+      cjid: pprf
+    - cjfs:
+      - "gastar\xE9"
+      - "gastar\xE1s"
+      - "gastar\xE1"
+      - gastaremos
+      - "gastar\xE9is"
+      - "gastar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gastar\xEDa"
+      - "gastar\xEDas"
+      - "gastar\xEDa"
+      - "gastar\xEDamos"
+      - "gastar\xEDais"
+      - "gastar\xEDan"
+      cjid: cond
+    - cjfs:
+      - gaste
+      - gastes
+      - gaste
+      - gastemos
+      - "gast\xE9is"
+      - gasten
+      cjid: psub
+    - cjfs:
+      - gastara
+      - gastaras
+      - gastara
+      - "gast\xE1ramos"
+      - gastarais
+      - gastaran
+      cjid: pisb1
+    - cjfs:
+      - gastase
+      - gastases
+      - gastase
+      - "gast\xE1semos"
+      - gastaseis
+      - gastasen
+      cjid: pisb2
+    - cjfs:
+      - gastare
+      - gastares
+      - gastare
+      - "gast\xE1remos"
+      - gastareis
+      - gastaren
+      cjid: fsub
+    - cjfs:
+      - he gastado
+      - has gastado
+      - ha gastado
+      - hemos gastado
+      - "hab\xE9is gastado"
+      - han gastado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gastado"
+      - "hab\xEDas gastado"
+      - "hab\xEDa gastado"
+      - "hab\xEDamos gastado"
+      - "hab\xEDais gastado"
+      - "hab\xEDan gastado"
+      cjid: ppsi
+    - cjfs:
+      - hube gastado
+      - hubiste gastado
+      - hubo gastado
+      - hubimos gastado
+      - hubisteis gastado
+      - hubieron gastado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gastado"
+      - "habr\xE1s gastado"
+      - "habr\xE1 gastado"
+      - habremos gastado
+      - "habr\xE9is gastado"
+      - "habr\xE1n gastado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gastado"
+      - "habr\xEDas gastado"
+      - "habr\xEDa gastado"
+      - "habr\xEDamos gastado"
+      - "habr\xEDais gastado"
+      - "habr\xEDan gastado"
+      cjid: cpef
+    - cjfs:
+      - haya gastado
+      - hayas gastado
+      - haya gastado
+      - hayamos gastado
+      - "hay\xE1is gastado"
+      - hayan gastado
+      cjid: ppfs
+    - cjfs:
+      - hubiera gastado
+      - hubieras gastado
+      - hubiera gastado
+      - "hubi\xE9ramos gastado"
+      - hubierais gastado
+      - hubieran gastado
+      cjid: ppss1
+    - cjfs:
+      - hubiese gastado
+      - hubieses gastado
+      - hubiese gastado
+      - "hubi\xE9semos gastado"
+      - hubieseis gastado
+      - hubiesen gastado
+      cjid: ppss2
+    - cjfs:
+      - hubiere gastado
+      - hubieres gastado
+      - hubiere gastado
+      - "hubi\xE9remos gastado"
+      - hubiereis gastado
+      - hubieren gastado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gasta
+      - gaste
+      - gastemos
+      - gastad
+      - gasten
+      cjid: impf

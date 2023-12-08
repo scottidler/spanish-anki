@@ -1,0 +1,241 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|terminar||} {bc}to {a_link|finish}, to {a_link|end} '
+          - - vis
+            - - t: ya acabo
+                tr: I'm almost done
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have just '
+          - - vis
+            - - t: acabo de ver a tu hermano
+                tr: I just saw your brother
+          sn: '2'
+          vrs:
+          - va: acabar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put an end to, to {a_link|stamp out}'
+          sn: '3'
+          vrs:
+          - va: acabar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|end up doing something}'
+          sn: '4'
+          vrs:
+          - va: acabar por hacer algo
+          - va: acabar haciendo algo
+            vl: or
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|terminar||} {bc}to {a_link|finish}'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|terminarse||} {bc}to come to an end, to {a_link|run out} '
+            - - vis
+              - - t: "se me acab\xF3 el dinero"
+                  tr: I ran out of money
+                - t: "\xA1se acab\xF3!"
+                  tr: that's it!
+    drp: acabarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: acabar
+    prs:
+    - sound:
+        audio: acaba02sp
+  meta:
+    id: acabar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600172000'
+    src: spanish
+    stems:
+    - acabar
+    - acabar de
+    - acabar con
+    - acabar por hacer algo
+    - acabar haciendo algo
+    - acabarse
+    uuid: 1d096470-612f-43b4-b8e9-97ea26c3fb57
+  shortdef:
+  - 'terminar : to finish, to end'
+  - to have just
+  - to put an end to, to stamp out
+  suppl:
+    cjts:
+    - cjfs:
+      - acabando
+      - acabado
+      cjid: gppt
+    - cjfs:
+      - acabo
+      - acabas
+      - acaba
+      - acabamos
+      - "acab\xE1is"
+      - acaban
+      cjid: pind
+    - cjfs:
+      - acababa
+      - acababas
+      - acababa
+      - "acab\xE1bamos"
+      - acababais
+      - acababan
+      cjid: pret
+    - cjfs:
+      - "acab\xE9"
+      - acabaste
+      - "acab\xF3"
+      - acabamos
+      - acabasteis
+      - acabaron
+      cjid: pprf
+    - cjfs:
+      - "acabar\xE9"
+      - "acabar\xE1s"
+      - "acabar\xE1"
+      - acabaremos
+      - "acabar\xE9is"
+      - "acabar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acabar\xEDa"
+      - "acabar\xEDas"
+      - "acabar\xEDa"
+      - "acabar\xEDamos"
+      - "acabar\xEDais"
+      - "acabar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acabe
+      - acabes
+      - acabe
+      - acabemos
+      - "acab\xE9is"
+      - acaben
+      cjid: psub
+    - cjfs:
+      - acabara
+      - acabaras
+      - acabara
+      - "acab\xE1ramos"
+      - acabarais
+      - acabaran
+      cjid: pisb1
+    - cjfs:
+      - acabase
+      - acabases
+      - acabase
+      - "acab\xE1semos"
+      - acabaseis
+      - acabasen
+      cjid: pisb2
+    - cjfs:
+      - acabare
+      - acabares
+      - acabare
+      - "acab\xE1remos"
+      - acabareis
+      - acabaren
+      cjid: fsub
+    - cjfs:
+      - he acabado
+      - has acabado
+      - ha acabado
+      - hemos acabado
+      - "hab\xE9is acabado"
+      - han acabado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acabado"
+      - "hab\xEDas acabado"
+      - "hab\xEDa acabado"
+      - "hab\xEDamos acabado"
+      - "hab\xEDais acabado"
+      - "hab\xEDan acabado"
+      cjid: ppsi
+    - cjfs:
+      - hube acabado
+      - hubiste acabado
+      - hubo acabado
+      - hubimos acabado
+      - hubisteis acabado
+      - hubieron acabado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acabado"
+      - "habr\xE1s acabado"
+      - "habr\xE1 acabado"
+      - habremos acabado
+      - "habr\xE9is acabado"
+      - "habr\xE1n acabado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acabado"
+      - "habr\xEDas acabado"
+      - "habr\xEDa acabado"
+      - "habr\xEDamos acabado"
+      - "habr\xEDais acabado"
+      - "habr\xEDan acabado"
+      cjid: cpef
+    - cjfs:
+      - haya acabado
+      - hayas acabado
+      - haya acabado
+      - hayamos acabado
+      - "hay\xE1is acabado"
+      - hayan acabado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acabado
+      - hubieras acabado
+      - hubiera acabado
+      - "hubi\xE9ramos acabado"
+      - hubierais acabado
+      - hubieran acabado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acabado
+      - hubieses acabado
+      - hubiese acabado
+      - "hubi\xE9semos acabado"
+      - hubieseis acabado
+      - hubiesen acabado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acabado
+      - hubieres acabado
+      - hubiere acabado
+      - "hubi\xE9remos acabado"
+      - hubiereis acabado
+      - hubieren acabado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acaba
+      - acabe
+      - acabemos
+      - acabad
+      - acaben
+      cjid: impf

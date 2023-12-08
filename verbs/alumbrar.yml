@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|iluminar||} {bc}to {a_link|light}, to {a_link|illuminate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give birth to'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: alumbrar
+    prs:
+    - sound:
+        audio: alumb02sp
+  meta:
+    id: alumbrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601149000'
+    src: spanish
+    stems:
+    - alumbrar
+    uuid: be2e4998-a562-49cd-a37f-c99e29f98549
+  shortdef:
+  - 'iluminar : to light, to illuminate'
+  - to give birth to
+  suppl:
+    cjts:
+    - cjfs:
+      - alumbrando
+      - alumbrado
+      cjid: gppt
+    - cjfs:
+      - alumbro
+      - alumbras
+      - alumbra
+      - alumbramos
+      - "alumbr\xE1is"
+      - alumbran
+      cjid: pind
+    - cjfs:
+      - alumbraba
+      - alumbrabas
+      - alumbraba
+      - "alumbr\xE1bamos"
+      - alumbrabais
+      - alumbraban
+      cjid: pret
+    - cjfs:
+      - "alumbr\xE9"
+      - alumbraste
+      - "alumbr\xF3"
+      - alumbramos
+      - alumbrasteis
+      - alumbraron
+      cjid: pprf
+    - cjfs:
+      - "alumbrar\xE9"
+      - "alumbrar\xE1s"
+      - "alumbrar\xE1"
+      - alumbraremos
+      - "alumbrar\xE9is"
+      - "alumbrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alumbrar\xEDa"
+      - "alumbrar\xEDas"
+      - "alumbrar\xEDa"
+      - "alumbrar\xEDamos"
+      - "alumbrar\xEDais"
+      - "alumbrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alumbre
+      - alumbres
+      - alumbre
+      - alumbremos
+      - "alumbr\xE9is"
+      - alumbren
+      cjid: psub
+    - cjfs:
+      - alumbrara
+      - alumbraras
+      - alumbrara
+      - "alumbr\xE1ramos"
+      - alumbrarais
+      - alumbraran
+      cjid: pisb1
+    - cjfs:
+      - alumbrase
+      - alumbrases
+      - alumbrase
+      - "alumbr\xE1semos"
+      - alumbraseis
+      - alumbrasen
+      cjid: pisb2
+    - cjfs:
+      - alumbrare
+      - alumbrares
+      - alumbrare
+      - "alumbr\xE1remos"
+      - alumbrareis
+      - alumbraren
+      cjid: fsub
+    - cjfs:
+      - he alumbrado
+      - has alumbrado
+      - ha alumbrado
+      - hemos alumbrado
+      - "hab\xE9is alumbrado"
+      - han alumbrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alumbrado"
+      - "hab\xEDas alumbrado"
+      - "hab\xEDa alumbrado"
+      - "hab\xEDamos alumbrado"
+      - "hab\xEDais alumbrado"
+      - "hab\xEDan alumbrado"
+      cjid: ppsi
+    - cjfs:
+      - hube alumbrado
+      - hubiste alumbrado
+      - hubo alumbrado
+      - hubimos alumbrado
+      - hubisteis alumbrado
+      - hubieron alumbrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alumbrado"
+      - "habr\xE1s alumbrado"
+      - "habr\xE1 alumbrado"
+      - habremos alumbrado
+      - "habr\xE9is alumbrado"
+      - "habr\xE1n alumbrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alumbrado"
+      - "habr\xEDas alumbrado"
+      - "habr\xEDa alumbrado"
+      - "habr\xEDamos alumbrado"
+      - "habr\xEDais alumbrado"
+      - "habr\xEDan alumbrado"
+      cjid: cpef
+    - cjfs:
+      - haya alumbrado
+      - hayas alumbrado
+      - haya alumbrado
+      - hayamos alumbrado
+      - "hay\xE1is alumbrado"
+      - hayan alumbrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alumbrado
+      - hubieras alumbrado
+      - hubiera alumbrado
+      - "hubi\xE9ramos alumbrado"
+      - hubierais alumbrado
+      - hubieran alumbrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alumbrado
+      - hubieses alumbrado
+      - hubiese alumbrado
+      - "hubi\xE9semos alumbrado"
+      - hubieseis alumbrado
+      - hubiesen alumbrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alumbrado
+      - hubieres alumbrado
+      - hubiere alumbrado
+      - "hubi\xE9remos alumbrado"
+      - hubiereis alumbrado
+      - hubieren alumbrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alumbra
+      - alumbre
+      - alumbremos
+      - alumbrad
+      - alumbren
+      cjid: impf

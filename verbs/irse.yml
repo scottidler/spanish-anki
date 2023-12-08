@@ -1,0 +1,684 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go} '
+          - - vis
+            - - t: ir a pie
+                tr: to go on foot, to walk
+              - t: ir a caballo
+                tr: to ride horseback
+              - t: ir a casa
+                tr: to go home
+              - t: ir por mar
+                tr: to go by sea
+              - t: iba para el aeropuerto
+                tr: he was headed for the airport
+              - t: "fui a ver una pel\xEDcula"
+                tr: I went to see a movie
+              - t: el ir y venir de la gente
+                tr: the comings and goings (of the people)
+              - t: vamos
+                tr: let's go
+              - t: "\xA1voy!"
+                tr: I'm coming!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lead}, to {a_link|extend}, to {a_link|stretch} '
+          - - vis
+            - - t: "el camino va de Cali a Bogot\xE1"
+                tr: "the road goes from Cali to Bogot\xE1"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|funcionar||} {bc}to {a_link|work}, to {a_link|function} '
+          - - vis
+            - - t: esta computadora ya no va
+                tr: this computer doesn't work anymore
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get on}, to {a_link|get along} '
+          - - vis
+            - - t: "\xBFc\xF3mo te va?"
+                tr: how are you?, how's it going?
+              - t: el negocio no va bien
+                tr: the business isn't doing well
+              - t: ir a mejor/peor
+                tr: to get better/worse
+              - t: ir de mal en peor
+                tr: to go from bad to worse
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suit} '
+          - - vis
+            - - t: ese vestido te va bien
+                tr: that dress really suits you
+              - t: "el cambio te ir\xE1 bien"
+                tr: the change will do you good
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|asistir||} {bc}to {a_link|go to}, to {a_link|attend}'
+          sn: '6'
+          vrs:
+          - va: ir a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wear} '
+          - - vis
+            - - t: voy a ir con/en falda
+                tr: I'm going to wear a skirt
+              - t: iba de azul
+                tr: she was wearing blue
+          sn: '7'
+          vrs:
+          - va: ir con/en/de
+            vac: ~ con/en/de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: ir con prisa
+                tr: to be in a hurry
+              - t: ir con cuidado
+                tr: to be cautious
+          sls:
+          - (with a noun)
+          sn: '8'
+          vrs:
+          - va: ir con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go with}, to {a_link|complement}'
+          sn: '9'
+          vrs:
+          - va: ir con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be studying to be '
+          - - vis
+            - - t: "va para m\xE9dico"
+                tr: she's studying to be a doctor
+          sn: '10'
+          vrs:
+          - va: ir para
+            vac: ~ para
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be going on, to {a_link|be close to} (an age)'
+          sn: '11'
+          vrs:
+          - va: ir para
+            vac: ~ para
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be aimed at} '
+          - - vis
+            - - t: "tambi\xE9n va por ti"
+                tr: that goes for you, too
+          sn: '12'
+          vrs:
+          - va: ir por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|follow}, to {a_link|go along} '
+          - - vis
+            - - t: fueron por la costa
+                tr: they followed the shoreline
+          sn: '13'
+          vrs:
+          - va: ir por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be up to} (a point or stage) '
+          - - vis
+            - - t: "voy por la \xFAltima p\xE1gina"
+                tr: I'm on the last page
+          sn: '14'
+          vrs:
+          - va: ir por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go} (and) {a_link|get}, to {a_link|fetch}'
+          sn: '15'
+          vrs:
+          - va: ir por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|let oneself go}'
+          sn: '16'
+          vrs:
+          - va: dejarse ir
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to end up'
+          sn: '17'
+          vrs:
+          - va: ir a parar
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}hardly!'
+          sls:
+          - familiar
+          sn: '18'
+          vrs:
+          - va: "\xA1qu\xE9 va!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|come on!}'
+          sn: '19'
+          vrs:
+          - va: "\xA1vamos!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}let''s see'
+          sn: '20'
+          vrs:
+          - va: vamos a ver
+  - sseq:
+    - - - sense
+        - dt:
+          - - vis
+            - - t: ir caminando
+                tr: to walk, to go on foot
+              - t: "\xA1voy corriendo!"
+                tr: I'll be right there!
+          sls:
+          - (indicating manner)
+          sn: '1'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: va mejorando
+                tr: he's getting better
+              - t: lo iremos haciendo poco a poco
+                tr: we'll do it little by little
+          sls:
+          - (indicating a process)
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be going to} '
+          - - vis
+            - - t: voy a hacerlo
+                tr: I'm going to do it
+              - t: "el avi\xF3n va a despegar"
+                tr: the plane is about to take off
+          sn: '3'
+          vrs:
+          - va: ir a
+            vac: ~ a
+    vd: auxiliary verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|leave}, to {a_link|go} '
+            - - vis
+              - - t: "\xA1v\xE1monos!"
+                  tr: let's go!
+                - t: todo el mundo se fue
+                  tr: everyone left
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|escaparse||} {bc}to {a_link|leak}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|gastarse||} {bc}to be used up, to be gone'
+            sn: '3'
+    drp: irse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: ir
+    prs:
+    - sound:
+        audio: ir00001sp
+  meta:
+    id: ir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613033000'
+    src: spanish
+    stems:
+    - ir
+    - ir a
+    - ir con/en/de
+    - ir con
+    - ir de
+    - ir en
+    - ir para
+    - ir por
+    - dejarse ir
+    - ir a parar
+    - "\xA1que va!"
+    - "\xA1vamos!"
+    - vamos a ver
+    - irse
+    uuid: 3915a3ec-d2da-4de7-852c-b6cabe0d214b
+  shortdef:
+  - to go
+  - to lead, to extend, to stretch
+  - 'funcionar : to work, to function'
+  suppl:
+    cjts:
+    - cjfs:
+      - yendo
+      - ido
+      cjid: gppt
+    - cjfs:
+      - voy
+      - vas
+      - va
+      - vamos
+      - vais
+      - van
+      cjid: pind
+    - cjfs:
+      - iba
+      - ibas
+      - iba
+      - "\xEDbamos"
+      - ibais
+      - iban
+      cjid: pret
+    - cjfs:
+      - fui
+      - fuiste
+      - fue
+      - fuimos
+      - fuisteis
+      - fueron
+      cjid: pprf
+    - cjfs:
+      - "ir\xE9"
+      - "ir\xE1s"
+      - "ir\xE1"
+      - iremos
+      - "ir\xE9is"
+      - "ir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ir\xEDa"
+      - "ir\xEDas"
+      - "ir\xEDa"
+      - "ir\xEDamos"
+      - "ir\xEDais"
+      - "ir\xEDan"
+      cjid: cond
+    - cjfs:
+      - vaya
+      - vayas
+      - vaya
+      - vayamos
+      - "vay\xE1is"
+      - vayan
+      cjid: psub
+    - cjfs:
+      - fuera
+      - fueras
+      - fuera
+      - "fu\xE9ramos"
+      - fuerais
+      - fueran
+      cjid: pisb1
+    - cjfs:
+      - fuese
+      - fueses
+      - fuese
+      - "fu\xE9semos"
+      - fueseis
+      - fuesen
+      cjid: pisb2
+    - cjfs:
+      - fuere
+      - fueres
+      - fuere
+      - "fu\xE9remos"
+      - fuereis
+      - fueren
+      cjid: fsub
+    - cjfs:
+      - he ido
+      - has ido
+      - ha ido
+      - hemos ido
+      - "hab\xE9is ido"
+      - han ido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ido"
+      - "hab\xEDas ido"
+      - "hab\xEDa ido"
+      - "hab\xEDamos ido"
+      - "hab\xEDais ido"
+      - "hab\xEDan ido"
+      cjid: ppsi
+    - cjfs:
+      - hube ido
+      - hubiste ido
+      - hubo ido
+      - hubimos ido
+      - hubisteis ido
+      - hubieron ido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ido"
+      - "habr\xE1s ido"
+      - "habr\xE1 ido"
+      - habremos ido
+      - "habr\xE9is ido"
+      - "habr\xE1n ido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ido"
+      - "habr\xEDas ido"
+      - "habr\xEDa ido"
+      - "habr\xEDamos ido"
+      - "habr\xEDais ido"
+      - "habr\xEDan ido"
+      cjid: cpef
+    - cjfs:
+      - haya ido
+      - hayas ido
+      - haya ido
+      - hayamos ido
+      - "hay\xE1is ido"
+      - hayan ido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ido
+      - hubieras ido
+      - hubiera ido
+      - "hubi\xE9ramos ido"
+      - hubierais ido
+      - hubieran ido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ido
+      - hubieses ido
+      - hubiese ido
+      - "hubi\xE9semos ido"
+      - hubieseis ido
+      - hubiesen ido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ido
+      - hubieres ido
+      - hubiere ido
+      - "hubi\xE9remos ido"
+      - hubiereis ido
+      - hubieren ido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ve
+      - vaya
+      - vayamos
+      - id
+      - vayan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tongue} '
+          - - vis
+            - - t: se me traba la lengua
+                tr: I have trouble speaking, I get tongue-tied
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|idioma||} {bc}{a_link|language} '
+          - - vis
+            - - t: lengua materna
+                tr: mother tongue
+              - t: lengua nativa
+                tr: native language
+              - t: lengua muerta
+                tr: dead language
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tongue} (of flame)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|spit} (of land)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to let something slip, to {a_link|blab}'
+          sn: '5'
+          vrs:
+          - va: irse de la lengua
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bite one''s tongue}'
+          sn: '6'
+          vrs:
+          - va: morderse la lengua
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to stick one''s tongue out at someone'
+          sn: '7'
+          vrs:
+          - va: sacarle la lengua a alguien
+  fl: feminine noun
+  hwi:
+    hw: lengua
+    prs:
+    - sound:
+        audio: lengu01sp
+  meta:
+    id: lengua
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613637000'
+    src: spanish
+    stems:
+    - lengua
+    - irse de la lengua
+    - morderse la lengua
+    - sacarle la lengua a alguien
+    uuid: 4d2db815-2edc-4661-8e04-1e15f4d46a3f
+  shortdef:
+  - tongue
+  - 'idioma : language'
+  - tongue (of flame)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}pique, {a_link|resentment}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|rivalry}, {a_link|competition}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}about to, on the verge of'
+          sn: '3'
+          vrs:
+          - va: a pique de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sink}, to {a_link|founder}'
+          sn: '4'
+          vrs:
+          - va: irse a pique
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: pique
+  meta:
+    id: pique:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617417000'
+    src: spanish
+    stems:
+    - pique
+    - a pique de
+    - irse a pique
+    uuid: a7ab3a81-6cc8-4688-9775-ec4991c610ff
+  shortdef:
+  - pique, resentment
+  - rivalry, competition
+  - about to, on the verge of
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|fret} (on a guitar)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}kitchen utensil '
+          - - vis
+            - - t: lavar los trastes
+                tr: to do the dishes
+          sls:
+          - Central America, Mexico, Puerto Rico
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ruin}, to {a_link|destroy}'
+          sn: '3'
+          vrs:
+          - va: dar al traste con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall through}'
+          sn: '4'
+          vrs:
+          - va: irse al traste
+  fl: masculine noun
+  hwi:
+    hw: traste
+    prs:
+    - sound:
+        audio: trast01sp
+  meta:
+    id: traste
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622234000'
+    src: spanish
+    stems:
+    - traste
+    - dar al traste con
+    - irse al traste
+    uuid: 7c5872f4-3e65-4b37-9173-ef88566c2880
+  shortdef:
+  - fret (on a guitar)
+  - kitchen utensil
+  - to ruin, to destroy
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|vacation} '
+          - - vis
+            - - t: dos semanas de vacaciones
+                tr: two weeks of vacation
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be on vacation'
+          sn: '2'
+          vrs:
+          - va: estar de vacaciones
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go on vacation'
+          sn: '3'
+          vrs:
+          - va: irse de vacaciones
+  fl: feminine noun
+  hwi:
+    hw: "vacaci\xF3n"
+    prs:
+    - sound:
+        audio: vacac01sp
+  ins:
+  - if: vacaciones
+    ifc: -ciones
+    il: plural
+  meta:
+    id: vacacion
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622620000'
+    src: spanish
+    stems:
+    - "vacaci\xF3n"
+    - vacaciones
+    - estar de vacaciones
+    - irse de vacaciones
+    uuid: 6a666a42-9acf-49f5-91ca-f9af16be7933
+  shortdef:
+  - vacation
+  - to be on vacation
+  - to go on vacation

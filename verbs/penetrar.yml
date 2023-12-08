@@ -1,0 +1,221 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|penetrate}, to {a_link|sink in}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pierce}, to {a_link|go in}, to {a_link|enter into} '
+          - - vis
+            - - t: "el fr\xEDo penetra por la ventana"
+                tr: the cold comes right in through the window
+          sn: '2'
+          vrs:
+          - va: penetrar por
+            vac: ~ por
+          - va: penetrar en
+            vac: ~ en
+            vl: or
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|penetrate}, to {a_link|permeate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pierce} '
+          - - vis
+            - - t: "el dolor penetr\xF3 su coraz\xF3n"
+                tr: sorrow pierced her heart
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fathom}, to {a_link|understand}'
+          sn: '3'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: penetrar
+    prs:
+    - sound:
+        audio: penet02sp
+  meta:
+    id: penetrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617015000'
+    src: spanish
+    stems:
+    - penetrar
+    - penetrar por
+    - penetrar en
+    uuid: 8d0767d1-3aa4-4dbb-a917-03dd57b6847c
+  shortdef:
+  - to penetrate, to sink in
+  - to pierce, to go in, to enter into
+  - to penetrate, to permeate
+  suppl:
+    cjts:
+    - cjfs:
+      - penetrando
+      - penetrado
+      cjid: gppt
+    - cjfs:
+      - penetro
+      - penetras
+      - penetra
+      - penetramos
+      - "penetr\xE1is"
+      - penetran
+      cjid: pind
+    - cjfs:
+      - penetraba
+      - penetrabas
+      - penetraba
+      - "penetr\xE1bamos"
+      - penetrabais
+      - penetraban
+      cjid: pret
+    - cjfs:
+      - "penetr\xE9"
+      - penetraste
+      - "penetr\xF3"
+      - penetramos
+      - penetrasteis
+      - penetraron
+      cjid: pprf
+    - cjfs:
+      - "penetrar\xE9"
+      - "penetrar\xE1s"
+      - "penetrar\xE1"
+      - penetraremos
+      - "penetrar\xE9is"
+      - "penetrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "penetrar\xEDa"
+      - "penetrar\xEDas"
+      - "penetrar\xEDa"
+      - "penetrar\xEDamos"
+      - "penetrar\xEDais"
+      - "penetrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - penetre
+      - penetres
+      - penetre
+      - penetremos
+      - "penetr\xE9is"
+      - penetren
+      cjid: psub
+    - cjfs:
+      - penetrara
+      - penetraras
+      - penetrara
+      - "penetr\xE1ramos"
+      - penetrarais
+      - penetraran
+      cjid: pisb1
+    - cjfs:
+      - penetrase
+      - penetrases
+      - penetrase
+      - "penetr\xE1semos"
+      - penetraseis
+      - penetrasen
+      cjid: pisb2
+    - cjfs:
+      - penetrare
+      - penetrares
+      - penetrare
+      - "penetr\xE1remos"
+      - penetrareis
+      - penetraren
+      cjid: fsub
+    - cjfs:
+      - he penetrado
+      - has penetrado
+      - ha penetrado
+      - hemos penetrado
+      - "hab\xE9is penetrado"
+      - han penetrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa penetrado"
+      - "hab\xEDas penetrado"
+      - "hab\xEDa penetrado"
+      - "hab\xEDamos penetrado"
+      - "hab\xEDais penetrado"
+      - "hab\xEDan penetrado"
+      cjid: ppsi
+    - cjfs:
+      - hube penetrado
+      - hubiste penetrado
+      - hubo penetrado
+      - hubimos penetrado
+      - hubisteis penetrado
+      - hubieron penetrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 penetrado"
+      - "habr\xE1s penetrado"
+      - "habr\xE1 penetrado"
+      - habremos penetrado
+      - "habr\xE9is penetrado"
+      - "habr\xE1n penetrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa penetrado"
+      - "habr\xEDas penetrado"
+      - "habr\xEDa penetrado"
+      - "habr\xEDamos penetrado"
+      - "habr\xEDais penetrado"
+      - "habr\xEDan penetrado"
+      cjid: cpef
+    - cjfs:
+      - haya penetrado
+      - hayas penetrado
+      - haya penetrado
+      - hayamos penetrado
+      - "hay\xE1is penetrado"
+      - hayan penetrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera penetrado
+      - hubieras penetrado
+      - hubiera penetrado
+      - "hubi\xE9ramos penetrado"
+      - hubierais penetrado
+      - hubieran penetrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese penetrado
+      - hubieses penetrado
+      - hubiese penetrado
+      - "hubi\xE9semos penetrado"
+      - hubieseis penetrado
+      - hubiesen penetrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere penetrado
+      - hubieres penetrado
+      - hubiere penetrado
+      - "hubi\xE9remos penetrado"
+      - hubiereis penetrado
+      - hubieren penetrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - penetra
+      - penetre
+      - penetremos
+      - penetrad
+      - penetren
+      cjid: impf

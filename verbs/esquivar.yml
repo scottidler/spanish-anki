@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|evadir||} {bc}to {a_link|dodge}, to {a_link|evade}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|evitar||} {bc}to {a_link|avoid}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: esquivar
+    prs:
+    - sound:
+        audio: esqui04sp
+  meta:
+    id: esquivar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609259000'
+    src: spanish
+    stems:
+    - esquivar
+    uuid: 05b83153-ffdf-430d-a4ab-1f4772ec008f
+  shortdef:
+  - 'evadir : to dodge, to evade'
+  - 'evitar : to avoid'
+  suppl:
+    cjts:
+    - cjfs:
+      - esquivando
+      - esquivado
+      cjid: gppt
+    - cjfs:
+      - esquivo
+      - esquivas
+      - esquiva
+      - esquivamos
+      - "esquiv\xE1is"
+      - esquivan
+      cjid: pind
+    - cjfs:
+      - esquivaba
+      - esquivabas
+      - esquivaba
+      - "esquiv\xE1bamos"
+      - esquivabais
+      - esquivaban
+      cjid: pret
+    - cjfs:
+      - "esquiv\xE9"
+      - esquivaste
+      - "esquiv\xF3"
+      - esquivamos
+      - esquivasteis
+      - esquivaron
+      cjid: pprf
+    - cjfs:
+      - "esquivar\xE9"
+      - "esquivar\xE1s"
+      - "esquivar\xE1"
+      - esquivaremos
+      - "esquivar\xE9is"
+      - "esquivar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "esquivar\xEDa"
+      - "esquivar\xEDas"
+      - "esquivar\xEDa"
+      - "esquivar\xEDamos"
+      - "esquivar\xEDais"
+      - "esquivar\xEDan"
+      cjid: cond
+    - cjfs:
+      - esquive
+      - esquives
+      - esquive
+      - esquivemos
+      - "esquiv\xE9is"
+      - esquiven
+      cjid: psub
+    - cjfs:
+      - esquivara
+      - esquivaras
+      - esquivara
+      - "esquiv\xE1ramos"
+      - esquivarais
+      - esquivaran
+      cjid: pisb1
+    - cjfs:
+      - esquivase
+      - esquivases
+      - esquivase
+      - "esquiv\xE1semos"
+      - esquivaseis
+      - esquivasen
+      cjid: pisb2
+    - cjfs:
+      - esquivare
+      - esquivares
+      - esquivare
+      - "esquiv\xE1remos"
+      - esquivareis
+      - esquivaren
+      cjid: fsub
+    - cjfs:
+      - he esquivado
+      - has esquivado
+      - ha esquivado
+      - hemos esquivado
+      - "hab\xE9is esquivado"
+      - han esquivado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa esquivado"
+      - "hab\xEDas esquivado"
+      - "hab\xEDa esquivado"
+      - "hab\xEDamos esquivado"
+      - "hab\xEDais esquivado"
+      - "hab\xEDan esquivado"
+      cjid: ppsi
+    - cjfs:
+      - hube esquivado
+      - hubiste esquivado
+      - hubo esquivado
+      - hubimos esquivado
+      - hubisteis esquivado
+      - hubieron esquivado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 esquivado"
+      - "habr\xE1s esquivado"
+      - "habr\xE1 esquivado"
+      - habremos esquivado
+      - "habr\xE9is esquivado"
+      - "habr\xE1n esquivado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa esquivado"
+      - "habr\xEDas esquivado"
+      - "habr\xEDa esquivado"
+      - "habr\xEDamos esquivado"
+      - "habr\xEDais esquivado"
+      - "habr\xEDan esquivado"
+      cjid: cpef
+    - cjfs:
+      - haya esquivado
+      - hayas esquivado
+      - haya esquivado
+      - hayamos esquivado
+      - "hay\xE1is esquivado"
+      - hayan esquivado
+      cjid: ppfs
+    - cjfs:
+      - hubiera esquivado
+      - hubieras esquivado
+      - hubiera esquivado
+      - "hubi\xE9ramos esquivado"
+      - hubierais esquivado
+      - hubieran esquivado
+      cjid: ppss1
+    - cjfs:
+      - hubiese esquivado
+      - hubieses esquivado
+      - hubiese esquivado
+      - "hubi\xE9semos esquivado"
+      - hubieseis esquivado
+      - hubiesen esquivado
+      cjid: ppss2
+    - cjfs:
+      - hubiere esquivado
+      - hubieres esquivado
+      - hubiere esquivado
+      - "hubi\xE9remos esquivado"
+      - hubiereis esquivado
+      - hubieren esquivado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - esquiva
+      - esquive
+      - esquivemos
+      - esquivad
+      - esquiven
+      cjid: impf

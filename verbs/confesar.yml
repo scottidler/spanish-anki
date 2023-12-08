@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confess}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to go to confession'
+    drp: confesarse
+    fl: reflexive verb
+  fl: verb
+  hwi:
+    hw: confesar
+    prs:
+    - sound:
+        audio: confe06sp
+  meta:
+    id: confesar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605445000'
+    src: spanish
+    stems:
+    - confesar
+    - confesarse
+    uuid: 55092c2f-715c-4bc4-a675-925f9f87d611
+  shortdef:
+  - to confess
+  suppl:
+    cjts:
+    - cjfs:
+      - confesando
+      - confesado
+      cjid: gppt
+    - cjfs:
+      - confieso
+      - confiesas
+      - confiesa
+      - confesamos
+      - "confes\xE1is"
+      - confiesan
+      cjid: pind
+    - cjfs:
+      - confesaba
+      - confesabas
+      - confesaba
+      - "confes\xE1bamos"
+      - confesabais
+      - confesaban
+      cjid: pret
+    - cjfs:
+      - "confes\xE9"
+      - confesaste
+      - "confes\xF3"
+      - confesamos
+      - confesasteis
+      - confesaron
+      cjid: pprf
+    - cjfs:
+      - "confesar\xE9"
+      - "confesar\xE1s"
+      - "confesar\xE1"
+      - confesaremos
+      - "confesar\xE9is"
+      - "confesar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "confesar\xEDa"
+      - "confesar\xEDas"
+      - "confesar\xEDa"
+      - "confesar\xEDamos"
+      - "confesar\xEDais"
+      - "confesar\xEDan"
+      cjid: cond
+    - cjfs:
+      - confiese
+      - confieses
+      - confiese
+      - confesemos
+      - "confes\xE9is"
+      - confiesen
+      cjid: psub
+    - cjfs:
+      - confesara
+      - confesaras
+      - confesara
+      - "confes\xE1ramos"
+      - confesarais
+      - confesaran
+      cjid: pisb1
+    - cjfs:
+      - confesase
+      - confesases
+      - confesase
+      - "confes\xE1semos"
+      - confesaseis
+      - confesasen
+      cjid: pisb2
+    - cjfs:
+      - confesare
+      - confesares
+      - confesare
+      - "confes\xE1remos"
+      - confesareis
+      - confesaren
+      cjid: fsub
+    - cjfs:
+      - he confesado
+      - has confesado
+      - ha confesado
+      - hemos confesado
+      - "hab\xE9is confesado"
+      - han confesado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa confesado"
+      - "hab\xEDas confesado"
+      - "hab\xEDa confesado"
+      - "hab\xEDamos confesado"
+      - "hab\xEDais confesado"
+      - "hab\xEDan confesado"
+      cjid: ppsi
+    - cjfs:
+      - hube confesado
+      - hubiste confesado
+      - hubo confesado
+      - hubimos confesado
+      - hubisteis confesado
+      - hubieron confesado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 confesado"
+      - "habr\xE1s confesado"
+      - "habr\xE1 confesado"
+      - habremos confesado
+      - "habr\xE9is confesado"
+      - "habr\xE1n confesado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa confesado"
+      - "habr\xEDas confesado"
+      - "habr\xEDa confesado"
+      - "habr\xEDamos confesado"
+      - "habr\xEDais confesado"
+      - "habr\xEDan confesado"
+      cjid: cpef
+    - cjfs:
+      - haya confesado
+      - hayas confesado
+      - haya confesado
+      - hayamos confesado
+      - "hay\xE1is confesado"
+      - hayan confesado
+      cjid: ppfs
+    - cjfs:
+      - hubiera confesado
+      - hubieras confesado
+      - hubiera confesado
+      - "hubi\xE9ramos confesado"
+      - hubierais confesado
+      - hubieran confesado
+      cjid: ppss1
+    - cjfs:
+      - hubiese confesado
+      - hubieses confesado
+      - hubiese confesado
+      - "hubi\xE9semos confesado"
+      - hubieseis confesado
+      - hubiesen confesado
+      cjid: ppss2
+    - cjfs:
+      - hubiere confesado
+      - hubieres confesado
+      - hubiere confesado
+      - "hubi\xE9remos confesado"
+      - hubiereis confesado
+      - hubieren confesado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - confiesa
+      - confiese
+      - confesemos
+      - confesad
+      - confiesen
+      cjid: impf

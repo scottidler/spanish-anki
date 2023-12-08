@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|defraudar||} {bc}to {a_link|swindle}, to {a_link|defraud}'
+  fl: transitive verb
+  hwi:
+    hw: estafar
+    prs:
+    - sound:
+        audio: estaf03sp
+  meta:
+    id: estafar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609290000'
+    src: spanish
+    stems:
+    - estafar
+    uuid: d2a4e028-8ed6-4f1a-8dff-c5332809c618
+  shortdef:
+  - 'defraudar : to swindle, to defraud'
+  suppl:
+    cjts:
+    - cjfs:
+      - estafando
+      - estafado
+      cjid: gppt
+    - cjfs:
+      - estafo
+      - estafas
+      - estafa
+      - estafamos
+      - "estaf\xE1is"
+      - estafan
+      cjid: pind
+    - cjfs:
+      - estafaba
+      - estafabas
+      - estafaba
+      - "estaf\xE1bamos"
+      - estafabais
+      - estafaban
+      cjid: pret
+    - cjfs:
+      - "estaf\xE9"
+      - estafaste
+      - "estaf\xF3"
+      - estafamos
+      - estafasteis
+      - estafaron
+      cjid: pprf
+    - cjfs:
+      - "estafar\xE9"
+      - "estafar\xE1s"
+      - "estafar\xE1"
+      - estafaremos
+      - "estafar\xE9is"
+      - "estafar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estafar\xEDa"
+      - "estafar\xEDas"
+      - "estafar\xEDa"
+      - "estafar\xEDamos"
+      - "estafar\xEDais"
+      - "estafar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estafe
+      - estafes
+      - estafe
+      - estafemos
+      - "estaf\xE9is"
+      - estafen
+      cjid: psub
+    - cjfs:
+      - estafara
+      - estafaras
+      - estafara
+      - "estaf\xE1ramos"
+      - estafarais
+      - estafaran
+      cjid: pisb1
+    - cjfs:
+      - estafase
+      - estafases
+      - estafase
+      - "estaf\xE1semos"
+      - estafaseis
+      - estafasen
+      cjid: pisb2
+    - cjfs:
+      - estafare
+      - estafares
+      - estafare
+      - "estaf\xE1remos"
+      - estafareis
+      - estafaren
+      cjid: fsub
+    - cjfs:
+      - he estafado
+      - has estafado
+      - ha estafado
+      - hemos estafado
+      - "hab\xE9is estafado"
+      - han estafado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estafado"
+      - "hab\xEDas estafado"
+      - "hab\xEDa estafado"
+      - "hab\xEDamos estafado"
+      - "hab\xEDais estafado"
+      - "hab\xEDan estafado"
+      cjid: ppsi
+    - cjfs:
+      - hube estafado
+      - hubiste estafado
+      - hubo estafado
+      - hubimos estafado
+      - hubisteis estafado
+      - hubieron estafado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estafado"
+      - "habr\xE1s estafado"
+      - "habr\xE1 estafado"
+      - habremos estafado
+      - "habr\xE9is estafado"
+      - "habr\xE1n estafado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estafado"
+      - "habr\xEDas estafado"
+      - "habr\xEDa estafado"
+      - "habr\xEDamos estafado"
+      - "habr\xEDais estafado"
+      - "habr\xEDan estafado"
+      cjid: cpef
+    - cjfs:
+      - haya estafado
+      - hayas estafado
+      - haya estafado
+      - hayamos estafado
+      - "hay\xE1is estafado"
+      - hayan estafado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estafado
+      - hubieras estafado
+      - hubiera estafado
+      - "hubi\xE9ramos estafado"
+      - hubierais estafado
+      - hubieran estafado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estafado
+      - hubieses estafado
+      - hubiese estafado
+      - "hubi\xE9semos estafado"
+      - hubieseis estafado
+      - hubiesen estafado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estafado
+      - hubieres estafado
+      - hubiere estafado
+      - "hubi\xE9remos estafado"
+      - hubiereis estafado
+      - hubieren estafado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estafa
+      - estafe
+      - estafemos
+      - estafad
+      - estafen
+      cjid: impf

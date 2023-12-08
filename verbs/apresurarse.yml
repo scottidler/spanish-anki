@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|quicken}, to {a_link|speed up}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to hurry up, to {a_link|make haste}'
+    drp: apresurarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apresurar
+    prs:
+    - sound:
+        audio: apres02sp
+  meta:
+    id: apresurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601794000'
+    src: spanish
+    stems:
+    - apresurar
+    - apresurarse
+    uuid: fc4be458-ac26-41f0-bf34-0e5fca39ce6d
+  shortdef:
+  - to quicken, to speed up
+  suppl:
+    cjts:
+    - cjfs:
+      - apresurando
+      - apresurado
+      cjid: gppt
+    - cjfs:
+      - apresuro
+      - apresuras
+      - apresura
+      - apresuramos
+      - "apresur\xE1is"
+      - apresuran
+      cjid: pind
+    - cjfs:
+      - apresuraba
+      - apresurabas
+      - apresuraba
+      - "apresur\xE1bamos"
+      - apresurabais
+      - apresuraban
+      cjid: pret
+    - cjfs:
+      - "apresur\xE9"
+      - apresuraste
+      - "apresur\xF3"
+      - apresuramos
+      - apresurasteis
+      - apresuraron
+      cjid: pprf
+    - cjfs:
+      - "apresurar\xE9"
+      - "apresurar\xE1s"
+      - "apresurar\xE1"
+      - apresuraremos
+      - "apresurar\xE9is"
+      - "apresurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apresurar\xEDa"
+      - "apresurar\xEDas"
+      - "apresurar\xEDa"
+      - "apresurar\xEDamos"
+      - "apresurar\xEDais"
+      - "apresurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apresure
+      - apresures
+      - apresure
+      - apresuremos
+      - "apresur\xE9is"
+      - apresuren
+      cjid: psub
+    - cjfs:
+      - apresurara
+      - apresuraras
+      - apresurara
+      - "apresur\xE1ramos"
+      - apresurarais
+      - apresuraran
+      cjid: pisb1
+    - cjfs:
+      - apresurase
+      - apresurases
+      - apresurase
+      - "apresur\xE1semos"
+      - apresuraseis
+      - apresurasen
+      cjid: pisb2
+    - cjfs:
+      - apresurare
+      - apresurares
+      - apresurare
+      - "apresur\xE1remos"
+      - apresurareis
+      - apresuraren
+      cjid: fsub
+    - cjfs:
+      - he apresurado
+      - has apresurado
+      - ha apresurado
+      - hemos apresurado
+      - "hab\xE9is apresurado"
+      - han apresurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apresurado"
+      - "hab\xEDas apresurado"
+      - "hab\xEDa apresurado"
+      - "hab\xEDamos apresurado"
+      - "hab\xEDais apresurado"
+      - "hab\xEDan apresurado"
+      cjid: ppsi
+    - cjfs:
+      - hube apresurado
+      - hubiste apresurado
+      - hubo apresurado
+      - hubimos apresurado
+      - hubisteis apresurado
+      - hubieron apresurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apresurado"
+      - "habr\xE1s apresurado"
+      - "habr\xE1 apresurado"
+      - habremos apresurado
+      - "habr\xE9is apresurado"
+      - "habr\xE1n apresurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apresurado"
+      - "habr\xEDas apresurado"
+      - "habr\xEDa apresurado"
+      - "habr\xEDamos apresurado"
+      - "habr\xEDais apresurado"
+      - "habr\xEDan apresurado"
+      cjid: cpef
+    - cjfs:
+      - haya apresurado
+      - hayas apresurado
+      - haya apresurado
+      - hayamos apresurado
+      - "hay\xE1is apresurado"
+      - hayan apresurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apresurado
+      - hubieras apresurado
+      - hubiera apresurado
+      - "hubi\xE9ramos apresurado"
+      - hubierais apresurado
+      - hubieran apresurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apresurado
+      - hubieses apresurado
+      - hubiese apresurado
+      - "hubi\xE9semos apresurado"
+      - hubieseis apresurado
+      - hubiesen apresurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apresurado
+      - hubieres apresurado
+      - hubiere apresurado
+      - "hubi\xE9remos apresurado"
+      - hubiereis apresurado
+      - hubieren apresurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apresura
+      - apresure
+      - apresuremos
+      - apresurad
+      - apresuren
+      cjid: impf

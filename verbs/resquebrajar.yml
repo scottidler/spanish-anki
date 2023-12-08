@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|split}, to {a_link|crack}'
+  fl: transitive verb
+  hwi:
+    hw: resquebrajar
+  meta:
+    id: resquebrajar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619609000'
+    src: spanish
+    stems:
+    - resquebrajar
+    - resquebrajarse
+    uuid: 9ffd8dc6-60ec-4369-9866-f57c3a8313b6
+  shortdef:
+  - to split, to crack
+  suppl:
+    cjts:
+    - cjfs:
+      - resquebrajando
+      - resquebrajado
+      cjid: gppt
+    - cjfs:
+      - resquebrajo
+      - resquebrajas
+      - resquebraja
+      - resquebrajamos
+      - "resquebraj\xE1is"
+      - resquebrajan
+      cjid: pind
+    - cjfs:
+      - resquebrajaba
+      - resquebrajabas
+      - resquebrajaba
+      - "resquebraj\xE1bamos"
+      - resquebrajabais
+      - resquebrajaban
+      cjid: pret
+    - cjfs:
+      - "resquebraj\xE9"
+      - resquebrajaste
+      - "resquebraj\xF3"
+      - resquebrajamos
+      - resquebrajasteis
+      - resquebrajaron
+      cjid: pprf
+    - cjfs:
+      - "resquebrajar\xE9"
+      - "resquebrajar\xE1s"
+      - "resquebrajar\xE1"
+      - resquebrajaremos
+      - "resquebrajar\xE9is"
+      - "resquebrajar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resquebrajar\xEDa"
+      - "resquebrajar\xEDas"
+      - "resquebrajar\xEDa"
+      - "resquebrajar\xEDamos"
+      - "resquebrajar\xEDais"
+      - "resquebrajar\xEDan"
+      cjid: cond
+    - cjfs:
+      - resquebraje
+      - resquebrajes
+      - resquebraje
+      - resquebrajemos
+      - "resquebraj\xE9is"
+      - resquebrajen
+      cjid: psub
+    - cjfs:
+      - resquebrajara
+      - resquebrajaras
+      - resquebrajara
+      - "resquebraj\xE1ramos"
+      - resquebrajarais
+      - resquebrajaran
+      cjid: pisb1
+    - cjfs:
+      - resquebrajase
+      - resquebrajases
+      - resquebrajase
+      - "resquebraj\xE1semos"
+      - resquebrajaseis
+      - resquebrajasen
+      cjid: pisb2
+    - cjfs:
+      - resquebrajare
+      - resquebrajares
+      - resquebrajare
+      - "resquebraj\xE1remos"
+      - resquebrajareis
+      - resquebrajaren
+      cjid: fsub
+    - cjfs:
+      - he resquebrajado
+      - has resquebrajado
+      - ha resquebrajado
+      - hemos resquebrajado
+      - "hab\xE9is resquebrajado"
+      - han resquebrajado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resquebrajado"
+      - "hab\xEDas resquebrajado"
+      - "hab\xEDa resquebrajado"
+      - "hab\xEDamos resquebrajado"
+      - "hab\xEDais resquebrajado"
+      - "hab\xEDan resquebrajado"
+      cjid: ppsi
+    - cjfs:
+      - hube resquebrajado
+      - hubiste resquebrajado
+      - hubo resquebrajado
+      - hubimos resquebrajado
+      - hubisteis resquebrajado
+      - hubieron resquebrajado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resquebrajado"
+      - "habr\xE1s resquebrajado"
+      - "habr\xE1 resquebrajado"
+      - habremos resquebrajado
+      - "habr\xE9is resquebrajado"
+      - "habr\xE1n resquebrajado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resquebrajado"
+      - "habr\xEDas resquebrajado"
+      - "habr\xEDa resquebrajado"
+      - "habr\xEDamos resquebrajado"
+      - "habr\xEDais resquebrajado"
+      - "habr\xEDan resquebrajado"
+      cjid: cpef
+    - cjfs:
+      - haya resquebrajado
+      - hayas resquebrajado
+      - haya resquebrajado
+      - hayamos resquebrajado
+      - "hay\xE1is resquebrajado"
+      - hayan resquebrajado
+      cjid: ppfs
+    - cjfs:
+      - hubiera resquebrajado
+      - hubieras resquebrajado
+      - hubiera resquebrajado
+      - "hubi\xE9ramos resquebrajado"
+      - hubierais resquebrajado
+      - hubieran resquebrajado
+      cjid: ppss1
+    - cjfs:
+      - hubiese resquebrajado
+      - hubieses resquebrajado
+      - hubiese resquebrajado
+      - "hubi\xE9semos resquebrajado"
+      - hubieseis resquebrajado
+      - hubiesen resquebrajado
+      cjid: ppss2
+    - cjfs:
+      - hubiere resquebrajado
+      - hubieres resquebrajado
+      - hubiere resquebrajado
+      - "hubi\xE9remos resquebrajado"
+      - hubiereis resquebrajado
+      - hubieren resquebrajado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resquebraja
+      - resquebraje
+      - resquebrajemos
+      - resquebrajad
+      - resquebrajen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: resquebrajarse

@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|escapar||} {bc}to {a_link|escape}, to {a_link|flee}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|avoid}'
+          sn: '2'
+          vrs:
+          - va: huir de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: huir
+    prs:
+    - sound:
+        audio: huir001sp
+  meta:
+    id: huir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611725000'
+    src: spanish
+    stems:
+    - huir
+    - huir de
+    uuid: 92b8041b-9e9c-4c14-8f37-ca15e90c8bf3
+  shortdef:
+  - 'escapar : to escape, to flee'
+  - to avoid
+  suppl:
+    cjts:
+    - cjfs:
+      - huyendo
+      - huido
+      cjid: gppt
+    - cjfs:
+      - huyo
+      - huyes
+      - huye
+      - huimos
+      - "hu\xEDs"
+      - huyen
+      cjid: pind
+    - cjfs:
+      - "hu\xEDa"
+      - "hu\xEDas"
+      - "hu\xEDa"
+      - "hu\xEDamos"
+      - "hu\xEDais"
+      - "hu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "hu\xED"
+      - huiste
+      - "huy\xF3"
+      - huimos
+      - huisteis
+      - huyeron
+      cjid: pprf
+    - cjfs:
+      - "huir\xE9"
+      - "huir\xE1s"
+      - "huir\xE1"
+      - huiremos
+      - "huir\xE9is"
+      - "huir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "huir\xEDa"
+      - "huir\xEDas"
+      - "huir\xEDa"
+      - "huir\xEDamos"
+      - "huir\xEDais"
+      - "huir\xEDan"
+      cjid: cond
+    - cjfs:
+      - huya
+      - huyas
+      - huya
+      - huyamos
+      - "huy\xE1is"
+      - huyan
+      cjid: psub
+    - cjfs:
+      - huyera
+      - huyeras
+      - huyera
+      - "huy\xE9ramos"
+      - huyerais
+      - huyeran
+      cjid: pisb1
+    - cjfs:
+      - huyese
+      - huyeses
+      - huyese
+      - "huy\xE9semos"
+      - huyeseis
+      - huyesen
+      cjid: pisb2
+    - cjfs:
+      - huyere
+      - huyeres
+      - huyere
+      - "huy\xE9remos"
+      - huyereis
+      - huyeren
+      cjid: fsub
+    - cjfs:
+      - he huido
+      - has huido
+      - ha huido
+      - hemos huido
+      - "hab\xE9is huido"
+      - han huido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa huido"
+      - "hab\xEDas huido"
+      - "hab\xEDa huido"
+      - "hab\xEDamos huido"
+      - "hab\xEDais huido"
+      - "hab\xEDan huido"
+      cjid: ppsi
+    - cjfs:
+      - hube huido
+      - hubiste huido
+      - hubo huido
+      - hubimos huido
+      - hubisteis huido
+      - hubieron huido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 huido"
+      - "habr\xE1s huido"
+      - "habr\xE1 huido"
+      - habremos huido
+      - "habr\xE9is huido"
+      - "habr\xE1n huido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa huido"
+      - "habr\xEDas huido"
+      - "habr\xEDa huido"
+      - "habr\xEDamos huido"
+      - "habr\xEDais huido"
+      - "habr\xEDan huido"
+      cjid: cpef
+    - cjfs:
+      - haya huido
+      - hayas huido
+      - haya huido
+      - hayamos huido
+      - "hay\xE1is huido"
+      - hayan huido
+      cjid: ppfs
+    - cjfs:
+      - hubiera huido
+      - hubieras huido
+      - hubiera huido
+      - "hubi\xE9ramos huido"
+      - hubierais huido
+      - hubieran huido
+      cjid: ppss1
+    - cjfs:
+      - hubiese huido
+      - hubieses huido
+      - hubiese huido
+      - "hubi\xE9semos huido"
+      - hubieseis huido
+      - hubiesen huido
+      cjid: ppss2
+    - cjfs:
+      - hubiere huido
+      - hubieres huido
+      - hubiere huido
+      - "hubi\xE9remos huido"
+      - hubiereis huido
+      - hubieren huido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - huye
+      - huya
+      - huyamos
+      - huid
+      - huyan
+      cjid: impf

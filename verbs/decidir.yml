@@ -1,0 +1,218 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|decide} '
+          - - vis
+            - - t: "decid\xED ir"
+                tr: I decided to go
+              - t: no he decidido nada
+                tr: I haven't made a decision
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make} (someone) {a_link|decide}, to {a_link|persuade}
+              (someone)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|decide} '
+          - - vis
+            - - t: decidir sobre
+                tr: to make a decision about
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|make up one''s mind} '
+            - - vis
+              - - t: decidirse por
+                  tr: to decide on, to choose
+    drp: decidirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: decidir
+    prs:
+    - sound:
+        audio: decid02sp
+  meta:
+    id: decidir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606493000'
+    src: spanish
+    stems:
+    - decidir
+    - decidirse
+    uuid: 91ed58f4-1d36-411a-b41f-397ee661fb49
+  shortdef:
+  - to decide
+  - to make (someone) decide, to persuade (someone)
+  - to decide
+  suppl:
+    cjts:
+    - cjfs:
+      - decidiendo
+      - decidido
+      cjid: gppt
+    - cjfs:
+      - decido
+      - decides
+      - decide
+      - decidimos
+      - "decid\xEDs"
+      - deciden
+      cjid: pind
+    - cjfs:
+      - "decid\xEDa"
+      - "decid\xEDas"
+      - "decid\xEDa"
+      - "decid\xEDamos"
+      - "decid\xEDais"
+      - "decid\xEDan"
+      cjid: pret
+    - cjfs:
+      - "decid\xED"
+      - decidiste
+      - "decidi\xF3"
+      - decidimos
+      - decidisteis
+      - decidieron
+      cjid: pprf
+    - cjfs:
+      - "decidir\xE9"
+      - "decidir\xE1s"
+      - "decidir\xE1"
+      - decidiremos
+      - "decidir\xE9is"
+      - "decidir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "decidir\xEDa"
+      - "decidir\xEDas"
+      - "decidir\xEDa"
+      - "decidir\xEDamos"
+      - "decidir\xEDais"
+      - "decidir\xEDan"
+      cjid: cond
+    - cjfs:
+      - decida
+      - decidas
+      - decida
+      - decidamos
+      - "decid\xE1is"
+      - decidan
+      cjid: psub
+    - cjfs:
+      - decidiera
+      - decidieras
+      - decidiera
+      - "decidi\xE9ramos"
+      - decidierais
+      - decidieran
+      cjid: pisb1
+    - cjfs:
+      - decidiese
+      - decidieses
+      - decidiese
+      - "decidi\xE9semos"
+      - decidieseis
+      - decidiesen
+      cjid: pisb2
+    - cjfs:
+      - decidiere
+      - decidieres
+      - decidiere
+      - "decidi\xE9remos"
+      - decidiereis
+      - decidieren
+      cjid: fsub
+    - cjfs:
+      - he decidido
+      - has decidido
+      - ha decidido
+      - hemos decidido
+      - "hab\xE9is decidido"
+      - han decidido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa decidido"
+      - "hab\xEDas decidido"
+      - "hab\xEDa decidido"
+      - "hab\xEDamos decidido"
+      - "hab\xEDais decidido"
+      - "hab\xEDan decidido"
+      cjid: ppsi
+    - cjfs:
+      - hube decidido
+      - hubiste decidido
+      - hubo decidido
+      - hubimos decidido
+      - hubisteis decidido
+      - hubieron decidido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 decidido"
+      - "habr\xE1s decidido"
+      - "habr\xE1 decidido"
+      - habremos decidido
+      - "habr\xE9is decidido"
+      - "habr\xE1n decidido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa decidido"
+      - "habr\xEDas decidido"
+      - "habr\xEDa decidido"
+      - "habr\xEDamos decidido"
+      - "habr\xEDais decidido"
+      - "habr\xEDan decidido"
+      cjid: cpef
+    - cjfs:
+      - haya decidido
+      - hayas decidido
+      - haya decidido
+      - hayamos decidido
+      - "hay\xE1is decidido"
+      - hayan decidido
+      cjid: ppfs
+    - cjfs:
+      - hubiera decidido
+      - hubieras decidido
+      - hubiera decidido
+      - "hubi\xE9ramos decidido"
+      - hubierais decidido
+      - hubieran decidido
+      cjid: ppss1
+    - cjfs:
+      - hubiese decidido
+      - hubieses decidido
+      - hubiese decidido
+      - "hubi\xE9semos decidido"
+      - hubieseis decidido
+      - hubiesen decidido
+      cjid: ppss2
+    - cjfs:
+      - hubiere decidido
+      - hubieres decidido
+      - hubiere decidido
+      - "hubi\xE9remos decidido"
+      - hubiereis decidido
+      - hubieren decidido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - decide
+      - decida
+      - decidamos
+      - decidid
+      - decidan
+      cjid: impf

@@ -1,0 +1,280 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|know}, to {a_link|be acquainted with} '
+          - - vis
+            - - t: "\xBFlo conoces?"
+                tr: do you know him?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|meet} '
+          - - vis
+            - - t: "ya la conoc\xED"
+                tr: I've already met her
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|know}, to be familiar with (a topic, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get to know, to {a_link|experience} '
+          - - vis
+            - - t: "me gustar\xEDa conocer otros pa\xEDses"
+                tr: I'd like to visit other countries
+              - t: conocer de primera mano
+                tr: to experience firsthand
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reconocer||} {bc}to {a_link|recognize} '
+          - - vis
+            - - t: "no te conoc\xED"
+                tr: I didn't recognize you
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disclose}, to {a_link|announce}'
+          sn: '6'
+          vrs:
+          - va: dar a conocer
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make oneself known'
+          sn: '7'
+          vrs:
+          - va: darse a conocer
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to know each other'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|meet}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to know oneself'
+            sn: '3'
+    drp: conocerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: conocer
+    prs:
+    - sound:
+        audio: conoc02sp
+  meta:
+    id: conocer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605547000'
+    src: spanish
+    stems:
+    - conocer
+    - dar a conocer
+    - darse a conocer
+    - conocerse
+    uuid: 9966c813-3d3c-43fe-b8d0-a7ffc47f79e7
+  shortdef:
+  - to know, to be acquainted with
+  - to meet
+  - to know, to be familiar with (a topic, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - conociendo
+      - conocido
+      cjid: gppt
+    - cjfs:
+      - conozco
+      - conoces
+      - conoce
+      - conocemos
+      - "conoc\xE9is"
+      - conocen
+      cjid: pind
+    - cjfs:
+      - "conoc\xEDa"
+      - "conoc\xEDas"
+      - "conoc\xEDa"
+      - "conoc\xEDamos"
+      - "conoc\xEDais"
+      - "conoc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "conoc\xED"
+      - conociste
+      - "conoci\xF3"
+      - conocimos
+      - conocisteis
+      - conocieron
+      cjid: pprf
+    - cjfs:
+      - "conocer\xE9"
+      - "conocer\xE1s"
+      - "conocer\xE1"
+      - conoceremos
+      - "conocer\xE9is"
+      - "conocer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conocer\xEDa"
+      - "conocer\xEDas"
+      - "conocer\xEDa"
+      - "conocer\xEDamos"
+      - "conocer\xEDais"
+      - "conocer\xEDan"
+      cjid: cond
+    - cjfs:
+      - conozca
+      - conozcas
+      - conozca
+      - conozcamos
+      - "conozc\xE1is"
+      - conozcan
+      cjid: psub
+    - cjfs:
+      - conociera
+      - conocieras
+      - conociera
+      - "conoci\xE9ramos"
+      - conocierais
+      - conocieran
+      cjid: pisb1
+    - cjfs:
+      - conociese
+      - conocieses
+      - conociese
+      - "conoci\xE9semos"
+      - conocieseis
+      - conociesen
+      cjid: pisb2
+    - cjfs:
+      - conociere
+      - conocieres
+      - conociere
+      - "conoci\xE9remos"
+      - conociereis
+      - conocieren
+      cjid: fsub
+    - cjfs:
+      - he conocido
+      - has conocido
+      - ha conocido
+      - hemos conocido
+      - "hab\xE9is conocido"
+      - han conocido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conocido"
+      - "hab\xEDas conocido"
+      - "hab\xEDa conocido"
+      - "hab\xEDamos conocido"
+      - "hab\xEDais conocido"
+      - "hab\xEDan conocido"
+      cjid: ppsi
+    - cjfs:
+      - hube conocido
+      - hubiste conocido
+      - hubo conocido
+      - hubimos conocido
+      - hubisteis conocido
+      - hubieron conocido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conocido"
+      - "habr\xE1s conocido"
+      - "habr\xE1 conocido"
+      - habremos conocido
+      - "habr\xE9is conocido"
+      - "habr\xE1n conocido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conocido"
+      - "habr\xEDas conocido"
+      - "habr\xEDa conocido"
+      - "habr\xEDamos conocido"
+      - "habr\xEDais conocido"
+      - "habr\xEDan conocido"
+      cjid: cpef
+    - cjfs:
+      - haya conocido
+      - hayas conocido
+      - haya conocido
+      - hayamos conocido
+      - "hay\xE1is conocido"
+      - hayan conocido
+      cjid: ppfs
+    - cjfs:
+      - hubiera conocido
+      - hubieras conocido
+      - hubiera conocido
+      - "hubi\xE9ramos conocido"
+      - hubierais conocido
+      - hubieran conocido
+      cjid: ppss1
+    - cjfs:
+      - hubiese conocido
+      - hubieses conocido
+      - hubiese conocido
+      - "hubi\xE9semos conocido"
+      - hubieseis conocido
+      - hubiesen conocido
+      cjid: ppss2
+    - cjfs:
+      - hubiere conocido
+      - hubieres conocido
+      - hubiere conocido
+      - "hubi\xE9remos conocido"
+      - hubiereis conocido
+      - hubieren conocido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conoce
+      - conozca
+      - conozcamos
+      - conoced
+      - conozcan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to know something backward and forward'
+          vrs:
+          - va: conocer algo al dedillo
+  fl: masculine noun
+  hwi:
+    hw: dedillo
+  meta:
+    id: dedillo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606545000'
+    src: spanish
+    stems:
+    - dedillo
+    - conocer algo al dedillo
+    uuid: 3efb696d-45a3-4428-aa87-103ce4861445
+  shortdef:
+  - to know something backward and forward

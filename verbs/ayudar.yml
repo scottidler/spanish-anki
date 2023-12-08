@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|help}, to {a_link|assist} '
+          - - vis
+            - - t: "ay\xFAdame a levantar esta caja"
+                tr: help me lift this box
+              - t: "\xBFen qu\xE9 puedo ayudarle?"
+                tr: how can I help you?
+              - t: "\xBFte ayudo con tus cosas?"
+                tr: can I help you with your things?
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|make use of}'
+            vrs:
+            - va: ayudarse de
+              vac: ~ de
+    drp: ayudarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ayudar
+    prs:
+    - sound:
+        audio: ayuda03sp
+  meta:
+    id: ayudar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602584000'
+    src: spanish
+    stems:
+    - ayudar
+    - ayudarse
+    - ayudarse de
+    uuid: f10de5f9-277a-4f1b-baf6-8ac4ce7616f9
+  shortdef:
+  - to help, to assist
+  suppl:
+    cjts:
+    - cjfs:
+      - ayudando
+      - ayudado
+      cjid: gppt
+    - cjfs:
+      - ayudo
+      - ayudas
+      - ayuda
+      - ayudamos
+      - "ayud\xE1is"
+      - ayudan
+      cjid: pind
+    - cjfs:
+      - ayudaba
+      - ayudabas
+      - ayudaba
+      - "ayud\xE1bamos"
+      - ayudabais
+      - ayudaban
+      cjid: pret
+    - cjfs:
+      - "ayud\xE9"
+      - ayudaste
+      - "ayud\xF3"
+      - ayudamos
+      - ayudasteis
+      - ayudaron
+      cjid: pprf
+    - cjfs:
+      - "ayudar\xE9"
+      - "ayudar\xE1s"
+      - "ayudar\xE1"
+      - ayudaremos
+      - "ayudar\xE9is"
+      - "ayudar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ayudar\xEDa"
+      - "ayudar\xEDas"
+      - "ayudar\xEDa"
+      - "ayudar\xEDamos"
+      - "ayudar\xEDais"
+      - "ayudar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ayude
+      - ayudes
+      - ayude
+      - ayudemos
+      - "ayud\xE9is"
+      - ayuden
+      cjid: psub
+    - cjfs:
+      - ayudara
+      - ayudaras
+      - ayudara
+      - "ayud\xE1ramos"
+      - ayudarais
+      - ayudaran
+      cjid: pisb1
+    - cjfs:
+      - ayudase
+      - ayudases
+      - ayudase
+      - "ayud\xE1semos"
+      - ayudaseis
+      - ayudasen
+      cjid: pisb2
+    - cjfs:
+      - ayudare
+      - ayudares
+      - ayudare
+      - "ayud\xE1remos"
+      - ayudareis
+      - ayudaren
+      cjid: fsub
+    - cjfs:
+      - he ayudado
+      - has ayudado
+      - ha ayudado
+      - hemos ayudado
+      - "hab\xE9is ayudado"
+      - han ayudado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ayudado"
+      - "hab\xEDas ayudado"
+      - "hab\xEDa ayudado"
+      - "hab\xEDamos ayudado"
+      - "hab\xEDais ayudado"
+      - "hab\xEDan ayudado"
+      cjid: ppsi
+    - cjfs:
+      - hube ayudado
+      - hubiste ayudado
+      - hubo ayudado
+      - hubimos ayudado
+      - hubisteis ayudado
+      - hubieron ayudado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ayudado"
+      - "habr\xE1s ayudado"
+      - "habr\xE1 ayudado"
+      - habremos ayudado
+      - "habr\xE9is ayudado"
+      - "habr\xE1n ayudado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ayudado"
+      - "habr\xEDas ayudado"
+      - "habr\xEDa ayudado"
+      - "habr\xEDamos ayudado"
+      - "habr\xEDais ayudado"
+      - "habr\xEDan ayudado"
+      cjid: cpef
+    - cjfs:
+      - haya ayudado
+      - hayas ayudado
+      - haya ayudado
+      - hayamos ayudado
+      - "hay\xE1is ayudado"
+      - hayan ayudado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ayudado
+      - hubieras ayudado
+      - hubiera ayudado
+      - "hubi\xE9ramos ayudado"
+      - hubierais ayudado
+      - hubieran ayudado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ayudado
+      - hubieses ayudado
+      - hubiese ayudado
+      - "hubi\xE9semos ayudado"
+      - hubieseis ayudado
+      - hubiesen ayudado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ayudado
+      - hubieres ayudado
+      - hubiere ayudado
+      - "hubi\xE9remos ayudado"
+      - hubiereis ayudado
+      - hubieren ayudado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ayuda
+      - ayude
+      - ayudemos
+      - ayudad
+      - ayuden
+      cjid: impf

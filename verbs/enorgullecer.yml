@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make proud'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to pride oneself'
+    drp: enorgullecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enorgullecer
+  meta:
+    id: enorgullecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608645000'
+    src: spanish
+    stems:
+    - enorgullecer
+    - enorgullecerse
+    uuid: 18a2a54b-cfe5-4796-9fd4-ea36a3869140
+  shortdef:
+  - to make proud
+  suppl:
+    cjts:
+    - cjfs:
+      - enorgulleciendo
+      - enorgullecido
+      cjid: gppt
+    - cjfs:
+      - enorgullezco
+      - enorgulleces
+      - enorgullece
+      - enorgullecemos
+      - "enorgullec\xE9is"
+      - enorgullecen
+      cjid: pind
+    - cjfs:
+      - "enorgullec\xEDa"
+      - "enorgullec\xEDas"
+      - "enorgullec\xEDa"
+      - "enorgullec\xEDamos"
+      - "enorgullec\xEDais"
+      - "enorgullec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "enorgullec\xED"
+      - enorgulleciste
+      - "enorgulleci\xF3"
+      - enorgullecimos
+      - enorgullecisteis
+      - enorgullecieron
+      cjid: pprf
+    - cjfs:
+      - "enorgullecer\xE9"
+      - "enorgullecer\xE1s"
+      - "enorgullecer\xE1"
+      - enorgulleceremos
+      - "enorgullecer\xE9is"
+      - "enorgullecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enorgullecer\xEDa"
+      - "enorgullecer\xEDas"
+      - "enorgullecer\xEDa"
+      - "enorgullecer\xEDamos"
+      - "enorgullecer\xEDais"
+      - "enorgullecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - enorgullezca
+      - enorgullezcas
+      - enorgullezca
+      - enorgullezcamos
+      - "enorgullezc\xE1is"
+      - enorgullezcan
+      cjid: psub
+    - cjfs:
+      - enorgulleciera
+      - enorgullecieras
+      - enorgulleciera
+      - "enorgulleci\xE9ramos"
+      - enorgullecierais
+      - enorgullecieran
+      cjid: pisb1
+    - cjfs:
+      - enorgulleciese
+      - enorgullecieses
+      - enorgulleciese
+      - "enorgulleci\xE9semos"
+      - enorgullecieseis
+      - enorgulleciesen
+      cjid: pisb2
+    - cjfs:
+      - enorgulleciere
+      - enorgullecieres
+      - enorgulleciere
+      - "enorgulleci\xE9remos"
+      - enorgulleciereis
+      - enorgullecieren
+      cjid: fsub
+    - cjfs:
+      - he enorgullecido
+      - has enorgullecido
+      - ha enorgullecido
+      - hemos enorgullecido
+      - "hab\xE9is enorgullecido"
+      - han enorgullecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enorgullecido"
+      - "hab\xEDas enorgullecido"
+      - "hab\xEDa enorgullecido"
+      - "hab\xEDamos enorgullecido"
+      - "hab\xEDais enorgullecido"
+      - "hab\xEDan enorgullecido"
+      cjid: ppsi
+    - cjfs:
+      - hube enorgullecido
+      - hubiste enorgullecido
+      - hubo enorgullecido
+      - hubimos enorgullecido
+      - hubisteis enorgullecido
+      - hubieron enorgullecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enorgullecido"
+      - "habr\xE1s enorgullecido"
+      - "habr\xE1 enorgullecido"
+      - habremos enorgullecido
+      - "habr\xE9is enorgullecido"
+      - "habr\xE1n enorgullecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enorgullecido"
+      - "habr\xEDas enorgullecido"
+      - "habr\xEDa enorgullecido"
+      - "habr\xEDamos enorgullecido"
+      - "habr\xEDais enorgullecido"
+      - "habr\xEDan enorgullecido"
+      cjid: cpef
+    - cjfs:
+      - haya enorgullecido
+      - hayas enorgullecido
+      - haya enorgullecido
+      - hayamos enorgullecido
+      - "hay\xE1is enorgullecido"
+      - hayan enorgullecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera enorgullecido
+      - hubieras enorgullecido
+      - hubiera enorgullecido
+      - "hubi\xE9ramos enorgullecido"
+      - hubierais enorgullecido
+      - hubieran enorgullecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese enorgullecido
+      - hubieses enorgullecido
+      - hubiese enorgullecido
+      - "hubi\xE9semos enorgullecido"
+      - hubieseis enorgullecido
+      - hubiesen enorgullecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere enorgullecido
+      - hubieres enorgullecido
+      - hubiere enorgullecido
+      - "hubi\xE9remos enorgullecido"
+      - hubiereis enorgullecido
+      - hubieren enorgullecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enorgullece
+      - enorgullezca
+      - enorgullezcamos
+      - enorgulleced
+      - enorgullezcan
+      cjid: impf

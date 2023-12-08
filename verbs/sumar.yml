@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|add}, to {a_link|add up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|add up to}, to {a_link|total}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|add up}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|join}'
+            vrs:
+            - va: sumarse a
+              vac: ~ a
+    drp: sumarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sumar
+    prs:
+    - sound:
+        audio: sumar01sp
+  meta:
+    id: sumar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621200000'
+    src: spanish
+    stems:
+    - sumar
+    - sumarse
+    - sumarse a
+    uuid: 46288dab-c6aa-4aed-b22e-d4c78bc4e7c6
+  shortdef:
+  - to add, to add up
+  - to add up to, to total
+  - to add up
+  suppl:
+    cjts:
+    - cjfs:
+      - sumando
+      - sumado
+      cjid: gppt
+    - cjfs:
+      - sumo
+      - sumas
+      - suma
+      - sumamos
+      - "sum\xE1is"
+      - suman
+      cjid: pind
+    - cjfs:
+      - sumaba
+      - sumabas
+      - sumaba
+      - "sum\xE1bamos"
+      - sumabais
+      - sumaban
+      cjid: pret
+    - cjfs:
+      - "sum\xE9"
+      - sumaste
+      - "sum\xF3"
+      - sumamos
+      - sumasteis
+      - sumaron
+      cjid: pprf
+    - cjfs:
+      - "sumar\xE9"
+      - "sumar\xE1s"
+      - "sumar\xE1"
+      - sumaremos
+      - "sumar\xE9is"
+      - "sumar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sumar\xEDa"
+      - "sumar\xEDas"
+      - "sumar\xEDa"
+      - "sumar\xEDamos"
+      - "sumar\xEDais"
+      - "sumar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sume
+      - sumes
+      - sume
+      - sumemos
+      - "sum\xE9is"
+      - sumen
+      cjid: psub
+    - cjfs:
+      - sumara
+      - sumaras
+      - sumara
+      - "sum\xE1ramos"
+      - sumarais
+      - sumaran
+      cjid: pisb1
+    - cjfs:
+      - sumase
+      - sumases
+      - sumase
+      - "sum\xE1semos"
+      - sumaseis
+      - sumasen
+      cjid: pisb2
+    - cjfs:
+      - sumare
+      - sumares
+      - sumare
+      - "sum\xE1remos"
+      - sumareis
+      - sumaren
+      cjid: fsub
+    - cjfs:
+      - he sumado
+      - has sumado
+      - ha sumado
+      - hemos sumado
+      - "hab\xE9is sumado"
+      - han sumado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sumado"
+      - "hab\xEDas sumado"
+      - "hab\xEDa sumado"
+      - "hab\xEDamos sumado"
+      - "hab\xEDais sumado"
+      - "hab\xEDan sumado"
+      cjid: ppsi
+    - cjfs:
+      - hube sumado
+      - hubiste sumado
+      - hubo sumado
+      - hubimos sumado
+      - hubisteis sumado
+      - hubieron sumado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sumado"
+      - "habr\xE1s sumado"
+      - "habr\xE1 sumado"
+      - habremos sumado
+      - "habr\xE9is sumado"
+      - "habr\xE1n sumado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sumado"
+      - "habr\xEDas sumado"
+      - "habr\xEDa sumado"
+      - "habr\xEDamos sumado"
+      - "habr\xEDais sumado"
+      - "habr\xEDan sumado"
+      cjid: cpef
+    - cjfs:
+      - haya sumado
+      - hayas sumado
+      - haya sumado
+      - hayamos sumado
+      - "hay\xE1is sumado"
+      - hayan sumado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sumado
+      - hubieras sumado
+      - hubiera sumado
+      - "hubi\xE9ramos sumado"
+      - hubierais sumado
+      - hubieran sumado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sumado
+      - hubieses sumado
+      - hubiese sumado
+      - "hubi\xE9semos sumado"
+      - hubieseis sumado
+      - hubiesen sumado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sumado
+      - hubieres sumado
+      - hubiere sumado
+      - "hubi\xE9remos sumado"
+      - hubiereis sumado
+      - hubieren sumado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - suma
+      - sume
+      - sumemos
+      - sumad
+      - sumen
+      cjid: impf

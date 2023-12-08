@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pray}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|say} '
+          - - vis
+            - - t: "como reza el refr\xE1n"
+                tr: as the saying goes
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|concern}, to {a_link|have to do with}'
+          sn: '3'
+          vrs:
+          - va: rezar con
+            vac: ~ con
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|say}, to {a_link|recite} '
+          - - vis
+            - - t: "rezar un Ave Mar\xEDa"
+                tr: to say a Hail Mary
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: rezar
+    prs:
+    - sound:
+        audio: rezar01sp
+  meta:
+    id: rezar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619789000'
+    src: spanish
+    stems:
+    - rezar
+    - rezar con
+    uuid: 0e27e4d0-d899-4b8d-b9ee-81de7f8dd9de
+  shortdef:
+  - to pray
+  - to say
+  - to concern, to have to do with
+  suppl:
+    cjts:
+    - cjfs:
+      - rezando
+      - rezado
+      cjid: gppt
+    - cjfs:
+      - rezo
+      - rezas
+      - reza
+      - rezamos
+      - "rez\xE1is"
+      - rezan
+      cjid: pind
+    - cjfs:
+      - rezaba
+      - rezabas
+      - rezaba
+      - "rez\xE1bamos"
+      - rezabais
+      - rezaban
+      cjid: pret
+    - cjfs:
+      - "rec\xE9"
+      - rezaste
+      - "rez\xF3"
+      - rezamos
+      - rezasteis
+      - rezaron
+      cjid: pprf
+    - cjfs:
+      - "rezar\xE9"
+      - "rezar\xE1s"
+      - "rezar\xE1"
+      - rezaremos
+      - "rezar\xE9is"
+      - "rezar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rezar\xEDa"
+      - "rezar\xEDas"
+      - "rezar\xEDa"
+      - "rezar\xEDamos"
+      - "rezar\xEDais"
+      - "rezar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rece
+      - reces
+      - rece
+      - recemos
+      - "rec\xE9is"
+      - recen
+      cjid: psub
+    - cjfs:
+      - rezara
+      - rezaras
+      - rezara
+      - "rez\xE1ramos"
+      - rezarais
+      - rezaran
+      cjid: pisb1
+    - cjfs:
+      - rezase
+      - rezases
+      - rezase
+      - "rez\xE1semos"
+      - rezaseis
+      - rezasen
+      cjid: pisb2
+    - cjfs:
+      - rezare
+      - rezares
+      - rezare
+      - "rez\xE1remos"
+      - rezareis
+      - rezaren
+      cjid: fsub
+    - cjfs:
+      - he rezado
+      - has rezado
+      - ha rezado
+      - hemos rezado
+      - "hab\xE9is rezado"
+      - han rezado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rezado"
+      - "hab\xEDas rezado"
+      - "hab\xEDa rezado"
+      - "hab\xEDamos rezado"
+      - "hab\xEDais rezado"
+      - "hab\xEDan rezado"
+      cjid: ppsi
+    - cjfs:
+      - hube rezado
+      - hubiste rezado
+      - hubo rezado
+      - hubimos rezado
+      - hubisteis rezado
+      - hubieron rezado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rezado"
+      - "habr\xE1s rezado"
+      - "habr\xE1 rezado"
+      - habremos rezado
+      - "habr\xE9is rezado"
+      - "habr\xE1n rezado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rezado"
+      - "habr\xEDas rezado"
+      - "habr\xEDa rezado"
+      - "habr\xEDamos rezado"
+      - "habr\xEDais rezado"
+      - "habr\xEDan rezado"
+      cjid: cpef
+    - cjfs:
+      - haya rezado
+      - hayas rezado
+      - haya rezado
+      - hayamos rezado
+      - "hay\xE1is rezado"
+      - hayan rezado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rezado
+      - hubieras rezado
+      - hubiera rezado
+      - "hubi\xE9ramos rezado"
+      - hubierais rezado
+      - hubieran rezado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rezado
+      - hubieses rezado
+      - hubiese rezado
+      - "hubi\xE9semos rezado"
+      - hubieseis rezado
+      - hubiesen rezado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rezado
+      - hubieres rezado
+      - hubiere rezado
+      - "hubi\xE9remos rezado"
+      - hubiereis rezado
+      - hubieren rezado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reza
+      - rece
+      - recemos
+      - rezad
+      - recen
+      cjid: impf

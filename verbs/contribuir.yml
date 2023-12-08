@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aportar||} {bc}to {a_link|contribute}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay} (in taxes)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|contribute}, to {a_link|help out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pay taxes'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: contribuir
+    prs:
+    - sound:
+        audio: contr15sp
+  meta:
+    id: contribuir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605771000'
+    src: spanish
+    stems:
+    - contribuir
+    uuid: 8dacb1e2-d833-4135-909f-f6b9cf3efbc7
+  shortdef:
+  - 'aportar : to contribute'
+  - to pay (in taxes)
+  - contribute, to help out
+  suppl:
+    cjts:
+    - cjfs:
+      - contribuyendo
+      - contribuido
+      cjid: gppt
+    - cjfs:
+      - contribuyo
+      - contribuyes
+      - contribuye
+      - contribuimos
+      - "contribu\xEDs"
+      - contribuyen
+      cjid: pind
+    - cjfs:
+      - "contribu\xEDa"
+      - "contribu\xEDas"
+      - "contribu\xEDa"
+      - "contribu\xEDamos"
+      - "contribu\xEDais"
+      - "contribu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "contribu\xED"
+      - contribuiste
+      - "contribuy\xF3"
+      - contribuimos
+      - contribuisteis
+      - contribuyeron
+      cjid: pprf
+    - cjfs:
+      - "contribuir\xE9"
+      - "contribuir\xE1s"
+      - "contribuir\xE1"
+      - contribuiremos
+      - "contribuir\xE9is"
+      - "contribuir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contribuir\xEDa"
+      - "contribuir\xEDas"
+      - "contribuir\xEDa"
+      - "contribuir\xEDamos"
+      - "contribuir\xEDais"
+      - "contribuir\xEDan"
+      cjid: cond
+    - cjfs:
+      - contribuya
+      - contribuyas
+      - contribuya
+      - contribuyamos
+      - "contribuy\xE1is"
+      - contribuyan
+      cjid: psub
+    - cjfs:
+      - contribuyera
+      - contribuyeras
+      - contribuyera
+      - "contribuy\xE9ramos"
+      - contribuyerais
+      - contribuyeran
+      cjid: pisb1
+    - cjfs:
+      - contribuyese
+      - contribuyeses
+      - contribuyese
+      - "contribuy\xE9semos"
+      - contribuyeseis
+      - contribuyesen
+      cjid: pisb2
+    - cjfs:
+      - contribuyere
+      - contribuyeres
+      - contribuyere
+      - "contribuy\xE9remos"
+      - contribuyereis
+      - contribuyeren
+      cjid: fsub
+    - cjfs:
+      - he contribuido
+      - has contribuido
+      - ha contribuido
+      - hemos contribuido
+      - "hab\xE9is contribuido"
+      - han contribuido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contribuido"
+      - "hab\xEDas contribuido"
+      - "hab\xEDa contribuido"
+      - "hab\xEDamos contribuido"
+      - "hab\xEDais contribuido"
+      - "hab\xEDan contribuido"
+      cjid: ppsi
+    - cjfs:
+      - hube contribuido
+      - hubiste contribuido
+      - hubo contribuido
+      - hubimos contribuido
+      - hubisteis contribuido
+      - hubieron contribuido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contribuido"
+      - "habr\xE1s contribuido"
+      - "habr\xE1 contribuido"
+      - habremos contribuido
+      - "habr\xE9is contribuido"
+      - "habr\xE1n contribuido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contribuido"
+      - "habr\xEDas contribuido"
+      - "habr\xEDa contribuido"
+      - "habr\xEDamos contribuido"
+      - "habr\xEDais contribuido"
+      - "habr\xEDan contribuido"
+      cjid: cpef
+    - cjfs:
+      - haya contribuido
+      - hayas contribuido
+      - haya contribuido
+      - hayamos contribuido
+      - "hay\xE1is contribuido"
+      - hayan contribuido
+      cjid: ppfs
+    - cjfs:
+      - hubiera contribuido
+      - hubieras contribuido
+      - hubiera contribuido
+      - "hubi\xE9ramos contribuido"
+      - hubierais contribuido
+      - hubieran contribuido
+      cjid: ppss1
+    - cjfs:
+      - hubiese contribuido
+      - hubieses contribuido
+      - hubiese contribuido
+      - "hubi\xE9semos contribuido"
+      - hubieseis contribuido
+      - hubiesen contribuido
+      cjid: ppss2
+    - cjfs:
+      - hubiere contribuido
+      - hubieres contribuido
+      - hubiere contribuido
+      - "hubi\xE9remos contribuido"
+      - hubiereis contribuido
+      - hubieren contribuido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - contribuye
+      - contribuya
+      - contribuyamos
+      - contribuid
+      - contribuyan
+      cjid: impf

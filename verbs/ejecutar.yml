@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|execute}, to put to death'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|carry out}, to {a_link|perform}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: ejecutar
+    prs:
+    - sound:
+        audio: ejecu02sp
+  meta:
+    id: ejecutar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608113000'
+    src: spanish
+    stems:
+    - ejecutar
+    uuid: 3acf2aea-5439-4432-8dd0-7b00f80a9a80
+  shortdef:
+  - to execute, to put to death
+  - to carry out, to perform
+  suppl:
+    cjts:
+    - cjfs:
+      - ejecutando
+      - ejecutado
+      cjid: gppt
+    - cjfs:
+      - ejecuto
+      - ejecutas
+      - ejecuta
+      - ejecutamos
+      - "ejecut\xE1is"
+      - ejecutan
+      cjid: pind
+    - cjfs:
+      - ejecutaba
+      - ejecutabas
+      - ejecutaba
+      - "ejecut\xE1bamos"
+      - ejecutabais
+      - ejecutaban
+      cjid: pret
+    - cjfs:
+      - "ejecut\xE9"
+      - ejecutaste
+      - "ejecut\xF3"
+      - ejecutamos
+      - ejecutasteis
+      - ejecutaron
+      cjid: pprf
+    - cjfs:
+      - "ejecutar\xE9"
+      - "ejecutar\xE1s"
+      - "ejecutar\xE1"
+      - ejecutaremos
+      - "ejecutar\xE9is"
+      - "ejecutar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ejecutar\xEDa"
+      - "ejecutar\xEDas"
+      - "ejecutar\xEDa"
+      - "ejecutar\xEDamos"
+      - "ejecutar\xEDais"
+      - "ejecutar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ejecute
+      - ejecutes
+      - ejecute
+      - ejecutemos
+      - "ejecut\xE9is"
+      - ejecuten
+      cjid: psub
+    - cjfs:
+      - ejecutara
+      - ejecutaras
+      - ejecutara
+      - "ejecut\xE1ramos"
+      - ejecutarais
+      - ejecutaran
+      cjid: pisb1
+    - cjfs:
+      - ejecutase
+      - ejecutases
+      - ejecutase
+      - "ejecut\xE1semos"
+      - ejecutaseis
+      - ejecutasen
+      cjid: pisb2
+    - cjfs:
+      - ejecutare
+      - ejecutares
+      - ejecutare
+      - "ejecut\xE1remos"
+      - ejecutareis
+      - ejecutaren
+      cjid: fsub
+    - cjfs:
+      - he ejecutado
+      - has ejecutado
+      - ha ejecutado
+      - hemos ejecutado
+      - "hab\xE9is ejecutado"
+      - han ejecutado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ejecutado"
+      - "hab\xEDas ejecutado"
+      - "hab\xEDa ejecutado"
+      - "hab\xEDamos ejecutado"
+      - "hab\xEDais ejecutado"
+      - "hab\xEDan ejecutado"
+      cjid: ppsi
+    - cjfs:
+      - hube ejecutado
+      - hubiste ejecutado
+      - hubo ejecutado
+      - hubimos ejecutado
+      - hubisteis ejecutado
+      - hubieron ejecutado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ejecutado"
+      - "habr\xE1s ejecutado"
+      - "habr\xE1 ejecutado"
+      - habremos ejecutado
+      - "habr\xE9is ejecutado"
+      - "habr\xE1n ejecutado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ejecutado"
+      - "habr\xEDas ejecutado"
+      - "habr\xEDa ejecutado"
+      - "habr\xEDamos ejecutado"
+      - "habr\xEDais ejecutado"
+      - "habr\xEDan ejecutado"
+      cjid: cpef
+    - cjfs:
+      - haya ejecutado
+      - hayas ejecutado
+      - haya ejecutado
+      - hayamos ejecutado
+      - "hay\xE1is ejecutado"
+      - hayan ejecutado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ejecutado
+      - hubieras ejecutado
+      - hubiera ejecutado
+      - "hubi\xE9ramos ejecutado"
+      - hubierais ejecutado
+      - hubieran ejecutado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ejecutado
+      - hubieses ejecutado
+      - hubiese ejecutado
+      - "hubi\xE9semos ejecutado"
+      - hubieseis ejecutado
+      - hubiesen ejecutado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ejecutado
+      - hubieres ejecutado
+      - hubiere ejecutado
+      - "hubi\xE9remos ejecutado"
+      - hubiereis ejecutado
+      - hubieren ejecutado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ejecuta
+      - ejecute
+      - ejecutemos
+      - ejecutad
+      - ejecuten
+      cjid: impf

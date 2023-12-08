@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drive crazy}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to go crazy'
+    drp: enloquecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enloquecer
+    prs:
+    - sound:
+        audio: enloq01sp
+  meta:
+    id: enloquecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608627000'
+    src: spanish
+    stems:
+    - enloquecer
+    - enloquecerse
+    uuid: aafc6e5c-9469-429a-9fc7-b325a28a4eb1
+  shortdef:
+  - to drive crazy
+  suppl:
+    cjts:
+    - cjfs:
+      - enloqueciendo
+      - enloquecido
+      cjid: gppt
+    - cjfs:
+      - enloquezco
+      - enloqueces
+      - enloquece
+      - enloquecemos
+      - "enloquec\xE9is"
+      - enloquecen
+      cjid: pind
+    - cjfs:
+      - "enloquec\xEDa"
+      - "enloquec\xEDas"
+      - "enloquec\xEDa"
+      - "enloquec\xEDamos"
+      - "enloquec\xEDais"
+      - "enloquec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "enloquec\xED"
+      - enloqueciste
+      - "enloqueci\xF3"
+      - enloquecimos
+      - enloquecisteis
+      - enloquecieron
+      cjid: pprf
+    - cjfs:
+      - "enloquecer\xE9"
+      - "enloquecer\xE1s"
+      - "enloquecer\xE1"
+      - enloqueceremos
+      - "enloquecer\xE9is"
+      - "enloquecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enloquecer\xEDa"
+      - "enloquecer\xEDas"
+      - "enloquecer\xEDa"
+      - "enloquecer\xEDamos"
+      - "enloquecer\xEDais"
+      - "enloquecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - enloquezca
+      - enloquezcas
+      - enloquezca
+      - enloquezcamos
+      - "enloquezc\xE1is"
+      - enloquezcan
+      cjid: psub
+    - cjfs:
+      - enloqueciera
+      - enloquecieras
+      - enloqueciera
+      - "enloqueci\xE9ramos"
+      - enloquecierais
+      - enloquecieran
+      cjid: pisb1
+    - cjfs:
+      - enloqueciese
+      - enloquecieses
+      - enloqueciese
+      - "enloqueci\xE9semos"
+      - enloquecieseis
+      - enloqueciesen
+      cjid: pisb2
+    - cjfs:
+      - enloqueciere
+      - enloquecieres
+      - enloqueciere
+      - "enloqueci\xE9remos"
+      - enloqueciereis
+      - enloquecieren
+      cjid: fsub
+    - cjfs:
+      - he enloquecido
+      - has enloquecido
+      - ha enloquecido
+      - hemos enloquecido
+      - "hab\xE9is enloquecido"
+      - han enloquecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enloquecido"
+      - "hab\xEDas enloquecido"
+      - "hab\xEDa enloquecido"
+      - "hab\xEDamos enloquecido"
+      - "hab\xEDais enloquecido"
+      - "hab\xEDan enloquecido"
+      cjid: ppsi
+    - cjfs:
+      - hube enloquecido
+      - hubiste enloquecido
+      - hubo enloquecido
+      - hubimos enloquecido
+      - hubisteis enloquecido
+      - hubieron enloquecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enloquecido"
+      - "habr\xE1s enloquecido"
+      - "habr\xE1 enloquecido"
+      - habremos enloquecido
+      - "habr\xE9is enloquecido"
+      - "habr\xE1n enloquecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enloquecido"
+      - "habr\xEDas enloquecido"
+      - "habr\xEDa enloquecido"
+      - "habr\xEDamos enloquecido"
+      - "habr\xEDais enloquecido"
+      - "habr\xEDan enloquecido"
+      cjid: cpef
+    - cjfs:
+      - haya enloquecido
+      - hayas enloquecido
+      - haya enloquecido
+      - hayamos enloquecido
+      - "hay\xE1is enloquecido"
+      - hayan enloquecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera enloquecido
+      - hubieras enloquecido
+      - hubiera enloquecido
+      - "hubi\xE9ramos enloquecido"
+      - hubierais enloquecido
+      - hubieran enloquecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese enloquecido
+      - hubieses enloquecido
+      - hubiese enloquecido
+      - "hubi\xE9semos enloquecido"
+      - hubieseis enloquecido
+      - hubiesen enloquecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere enloquecido
+      - hubieres enloquecido
+      - hubiere enloquecido
+      - "hubi\xE9remos enloquecido"
+      - hubiereis enloquecido
+      - hubieren enloquecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enloquece
+      - enloquezca
+      - enloquezcamos
+      - enloqueced
+      - enloquezcan
+      cjid: impf

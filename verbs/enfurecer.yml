@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|encolerizar||} {bc}to {a_link|infuriate}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to fly into a rage'
+    drp: enfurecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enfurecer
+  meta:
+    id: enfurecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608569000'
+    src: spanish
+    stems:
+    - enfurecer
+    - enfurecerse
+    uuid: f8db4feb-53ec-4650-b272-2973af84dd97
+  shortdef:
+  - 'encolerizar : to infuriate'
+  suppl:
+    cjts:
+    - cjfs:
+      - enfureciendo
+      - enfurecido
+      cjid: gppt
+    - cjfs:
+      - enfurezco
+      - enfureces
+      - enfurece
+      - enfurecemos
+      - "enfurec\xE9is"
+      - enfurecen
+      cjid: pind
+    - cjfs:
+      - "enfurec\xEDa"
+      - "enfurec\xEDas"
+      - "enfurec\xEDa"
+      - "enfurec\xEDamos"
+      - "enfurec\xEDais"
+      - "enfurec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "enfurec\xED"
+      - enfureciste
+      - "enfureci\xF3"
+      - enfurecimos
+      - enfurecisteis
+      - enfurecieron
+      cjid: pprf
+    - cjfs:
+      - "enfurecer\xE9"
+      - "enfurecer\xE1s"
+      - "enfurecer\xE1"
+      - enfureceremos
+      - "enfurecer\xE9is"
+      - "enfurecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enfurecer\xEDa"
+      - "enfurecer\xEDas"
+      - "enfurecer\xEDa"
+      - "enfurecer\xEDamos"
+      - "enfurecer\xEDais"
+      - "enfurecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - enfurezca
+      - enfurezcas
+      - enfurezca
+      - enfurezcamos
+      - "enfurezc\xE1is"
+      - enfurezcan
+      cjid: psub
+    - cjfs:
+      - enfureciera
+      - enfurecieras
+      - enfureciera
+      - "enfureci\xE9ramos"
+      - enfurecierais
+      - enfurecieran
+      cjid: pisb1
+    - cjfs:
+      - enfureciese
+      - enfurecieses
+      - enfureciese
+      - "enfureci\xE9semos"
+      - enfurecieseis
+      - enfureciesen
+      cjid: pisb2
+    - cjfs:
+      - enfureciere
+      - enfurecieres
+      - enfureciere
+      - "enfureci\xE9remos"
+      - enfureciereis
+      - enfurecieren
+      cjid: fsub
+    - cjfs:
+      - he enfurecido
+      - has enfurecido
+      - ha enfurecido
+      - hemos enfurecido
+      - "hab\xE9is enfurecido"
+      - han enfurecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enfurecido"
+      - "hab\xEDas enfurecido"
+      - "hab\xEDa enfurecido"
+      - "hab\xEDamos enfurecido"
+      - "hab\xEDais enfurecido"
+      - "hab\xEDan enfurecido"
+      cjid: ppsi
+    - cjfs:
+      - hube enfurecido
+      - hubiste enfurecido
+      - hubo enfurecido
+      - hubimos enfurecido
+      - hubisteis enfurecido
+      - hubieron enfurecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enfurecido"
+      - "habr\xE1s enfurecido"
+      - "habr\xE1 enfurecido"
+      - habremos enfurecido
+      - "habr\xE9is enfurecido"
+      - "habr\xE1n enfurecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enfurecido"
+      - "habr\xEDas enfurecido"
+      - "habr\xEDa enfurecido"
+      - "habr\xEDamos enfurecido"
+      - "habr\xEDais enfurecido"
+      - "habr\xEDan enfurecido"
+      cjid: cpef
+    - cjfs:
+      - haya enfurecido
+      - hayas enfurecido
+      - haya enfurecido
+      - hayamos enfurecido
+      - "hay\xE1is enfurecido"
+      - hayan enfurecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera enfurecido
+      - hubieras enfurecido
+      - hubiera enfurecido
+      - "hubi\xE9ramos enfurecido"
+      - hubierais enfurecido
+      - hubieran enfurecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese enfurecido
+      - hubieses enfurecido
+      - hubiese enfurecido
+      - "hubi\xE9semos enfurecido"
+      - hubieseis enfurecido
+      - hubiesen enfurecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere enfurecido
+      - hubieres enfurecido
+      - hubiere enfurecido
+      - "hubi\xE9remos enfurecido"
+      - hubiereis enfurecido
+      - hubieren enfurecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enfurece
+      - enfurezca
+      - enfurezcamos
+      - enfureced
+      - enfurezcan
+      cjid: impf

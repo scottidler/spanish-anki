@@ -1,0 +1,181 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gab}, to {a_link|chat}, to {a_link|prattle}'
+          sls:
+          - familiar
+  fl: intransitive verb
+  hwi:
+    hw: parlotear
+  meta:
+    id: parlotear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616708000'
+    src: spanish
+    stems:
+    - parlotear
+    uuid: dcee0f14-f227-4fc1-a894-9c9da45f9664
+  shortdef:
+  - to gab, to chat, to prattle
+  suppl:
+    cjts:
+    - cjfs:
+      - parloteando
+      - parloteado
+      cjid: gppt
+    - cjfs:
+      - parloteo
+      - parloteas
+      - parlotea
+      - parloteamos
+      - "parlote\xE1is"
+      - parlotean
+      cjid: pind
+    - cjfs:
+      - parloteaba
+      - parloteabas
+      - parloteaba
+      - "parlote\xE1bamos"
+      - parloteabais
+      - parloteaban
+      cjid: pret
+    - cjfs:
+      - "parlote\xE9"
+      - parloteaste
+      - "parlote\xF3"
+      - parloteamos
+      - parloteasteis
+      - parlotearon
+      cjid: pprf
+    - cjfs:
+      - "parlotear\xE9"
+      - "parlotear\xE1s"
+      - "parlotear\xE1"
+      - parlotearemos
+      - "parlotear\xE9is"
+      - "parlotear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "parlotear\xEDa"
+      - "parlotear\xEDas"
+      - "parlotear\xEDa"
+      - "parlotear\xEDamos"
+      - "parlotear\xEDais"
+      - "parlotear\xEDan"
+      cjid: cond
+    - cjfs:
+      - parlotee
+      - parlotees
+      - parlotee
+      - parloteemos
+      - "parlote\xE9is"
+      - parloteen
+      cjid: psub
+    - cjfs:
+      - parloteara
+      - parlotearas
+      - parloteara
+      - "parlote\xE1ramos"
+      - parlotearais
+      - parlotearan
+      cjid: pisb1
+    - cjfs:
+      - parlotease
+      - parloteases
+      - parlotease
+      - "parlote\xE1semos"
+      - parloteaseis
+      - parloteasen
+      cjid: pisb2
+    - cjfs:
+      - parloteare
+      - parloteares
+      - parloteare
+      - "parlote\xE1remos"
+      - parloteareis
+      - parlotearen
+      cjid: fsub
+    - cjfs:
+      - he parloteado
+      - has parloteado
+      - ha parloteado
+      - hemos parloteado
+      - "hab\xE9is parloteado"
+      - han parloteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa parloteado"
+      - "hab\xEDas parloteado"
+      - "hab\xEDa parloteado"
+      - "hab\xEDamos parloteado"
+      - "hab\xEDais parloteado"
+      - "hab\xEDan parloteado"
+      cjid: ppsi
+    - cjfs:
+      - hube parloteado
+      - hubiste parloteado
+      - hubo parloteado
+      - hubimos parloteado
+      - hubisteis parloteado
+      - hubieron parloteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 parloteado"
+      - "habr\xE1s parloteado"
+      - "habr\xE1 parloteado"
+      - habremos parloteado
+      - "habr\xE9is parloteado"
+      - "habr\xE1n parloteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa parloteado"
+      - "habr\xEDas parloteado"
+      - "habr\xEDa parloteado"
+      - "habr\xEDamos parloteado"
+      - "habr\xEDais parloteado"
+      - "habr\xEDan parloteado"
+      cjid: cpef
+    - cjfs:
+      - haya parloteado
+      - hayas parloteado
+      - haya parloteado
+      - hayamos parloteado
+      - "hay\xE1is parloteado"
+      - hayan parloteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera parloteado
+      - hubieras parloteado
+      - hubiera parloteado
+      - "hubi\xE9ramos parloteado"
+      - hubierais parloteado
+      - hubieran parloteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese parloteado
+      - hubieses parloteado
+      - hubiese parloteado
+      - "hubi\xE9semos parloteado"
+      - hubieseis parloteado
+      - hubiesen parloteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere parloteado
+      - hubieres parloteado
+      - hubiere parloteado
+      - "hubi\xE9remos parloteado"
+      - hubiereis parloteado
+      - hubieren parloteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - parlotea
+      - parlotee
+      - parloteemos
+      - parlotead
+      - parloteen
+      cjid: impf

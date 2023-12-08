@@ -1,0 +1,308 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn} (wood, letters, etc.), to {a_link|burn down} (a
+              building)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn} (calories, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn}, to {a_link|overcook}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn} (skin, clothes, etc.) '
+          - - vis
+            - - t: te ha quemado el sol
+                tr: you have a sunburn
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|derrochar||} {bc}to {a_link|squander}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn} (a DVD, etc.)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn out} (an engine), to {a_link|blow} (a fuse)'
+          sn: '7'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn} '
+          - - vis
+            - - t: "en el tr\xF3pico el sol quema mucho"
+                tr: the sun is very strong in the tropics
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be burning hot'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|burn}, to {a_link|burn down}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to burn oneself '
+            - - vis
+              - - t: "me quem\xE9 la mano"
+                  tr: I burned my hand
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get sunburned'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|burn out}, to {a_link|blow}'
+            sn: '4'
+    drp: quemarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: quemar
+    prs:
+    - sound:
+        audio: quema02sp
+  meta:
+    id: quemar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618591000'
+    src: spanish
+    stems:
+    - quemar
+    - quemarse
+    uuid: 359ac9ff-ea11-448f-8b53-52cba3804422
+  shortdef:
+  - to burn (wood, letters, etc.), to burn down (a building)
+  - to burn (calories, etc.)
+  - to burn, to overcook
+  suppl:
+    cjts:
+    - cjfs:
+      - quemando
+      - quemado
+      cjid: gppt
+    - cjfs:
+      - quemo
+      - quemas
+      - quema
+      - quemamos
+      - "quem\xE1is"
+      - queman
+      cjid: pind
+    - cjfs:
+      - quemaba
+      - quemabas
+      - quemaba
+      - "quem\xE1bamos"
+      - quemabais
+      - quemaban
+      cjid: pret
+    - cjfs:
+      - "quem\xE9"
+      - quemaste
+      - "quem\xF3"
+      - quemamos
+      - quemasteis
+      - quemaron
+      cjid: pprf
+    - cjfs:
+      - "quemar\xE9"
+      - "quemar\xE1s"
+      - "quemar\xE1"
+      - quemaremos
+      - "quemar\xE9is"
+      - "quemar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "quemar\xEDa"
+      - "quemar\xEDas"
+      - "quemar\xEDa"
+      - "quemar\xEDamos"
+      - "quemar\xEDais"
+      - "quemar\xEDan"
+      cjid: cond
+    - cjfs:
+      - queme
+      - quemes
+      - queme
+      - quememos
+      - "quem\xE9is"
+      - quemen
+      cjid: psub
+    - cjfs:
+      - quemara
+      - quemaras
+      - quemara
+      - "quem\xE1ramos"
+      - quemarais
+      - quemaran
+      cjid: pisb1
+    - cjfs:
+      - quemase
+      - quemases
+      - quemase
+      - "quem\xE1semos"
+      - quemaseis
+      - quemasen
+      cjid: pisb2
+    - cjfs:
+      - quemare
+      - quemares
+      - quemare
+      - "quem\xE1remos"
+      - quemareis
+      - quemaren
+      cjid: fsub
+    - cjfs:
+      - he quemado
+      - has quemado
+      - ha quemado
+      - hemos quemado
+      - "hab\xE9is quemado"
+      - han quemado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa quemado"
+      - "hab\xEDas quemado"
+      - "hab\xEDa quemado"
+      - "hab\xEDamos quemado"
+      - "hab\xEDais quemado"
+      - "hab\xEDan quemado"
+      cjid: ppsi
+    - cjfs:
+      - hube quemado
+      - hubiste quemado
+      - hubo quemado
+      - hubimos quemado
+      - hubisteis quemado
+      - hubieron quemado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 quemado"
+      - "habr\xE1s quemado"
+      - "habr\xE1 quemado"
+      - habremos quemado
+      - "habr\xE9is quemado"
+      - "habr\xE1n quemado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa quemado"
+      - "habr\xEDas quemado"
+      - "habr\xEDa quemado"
+      - "habr\xEDamos quemado"
+      - "habr\xEDais quemado"
+      - "habr\xEDan quemado"
+      cjid: cpef
+    - cjfs:
+      - haya quemado
+      - hayas quemado
+      - haya quemado
+      - hayamos quemado
+      - "hay\xE1is quemado"
+      - hayan quemado
+      cjid: ppfs
+    - cjfs:
+      - hubiera quemado
+      - hubieras quemado
+      - hubiera quemado
+      - "hubi\xE9ramos quemado"
+      - hubierais quemado
+      - hubieran quemado
+      cjid: ppss1
+    - cjfs:
+      - hubiese quemado
+      - hubieses quemado
+      - hubiese quemado
+      - "hubi\xE9semos quemado"
+      - hubieseis quemado
+      - hubiesen quemado
+      cjid: ppss2
+    - cjfs:
+      - hubiere quemado
+      - hubieres quemado
+      - hubiere quemado
+      - "hubi\xE9remos quemado"
+      - hubiereis quemado
+      - hubieren quemado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - quema
+      - queme
+      - quememos
+      - quemad
+      - quemen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ship} '
+          - - vis
+            - - t: nave capitana
+                tr: flagship
+              - t: nave espacial
+                tr: spaceship
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}nave '
+          - - vis
+            - - t: nave lateral
+                tr: aisle
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to burn one''s bridges'
+          sn: '3'
+          vrs:
+          - va: quemar uno sus naves
+  fl: feminine noun
+  hwi:
+    hw: nave
+  meta:
+    id: nave
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615641000'
+    src: spanish
+    stems:
+    - nave
+    - quemar uno sus naves
+    uuid: 346fd855-711a-453d-81bb-c170874c8d19
+  shortdef:
+  - ship
+  - nave
+  - to burn one's bridges

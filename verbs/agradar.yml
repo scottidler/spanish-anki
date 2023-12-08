@@ -1,0 +1,185 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be pleasing '
+          - - vis
+            - - t: "nos agrad\xF3 mucho el resultado"
+                tr: we were very pleased with the result
+  fl: intransitive verb
+  hwi:
+    hw: agradar
+    prs:
+    - sound:
+        audio: agrad02sp
+  meta:
+    id: agradar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600712000'
+    src: spanish
+    stems:
+    - agradar
+    uuid: c782f2f9-f519-412c-8771-08f1ccb8571c
+  shortdef:
+  - to be pleasing
+  suppl:
+    cjts:
+    - cjfs:
+      - agradando
+      - agradado
+      cjid: gppt
+    - cjfs:
+      - agrado
+      - agradas
+      - agrada
+      - agradamos
+      - "agrad\xE1is"
+      - agradan
+      cjid: pind
+    - cjfs:
+      - agradaba
+      - agradabas
+      - agradaba
+      - "agrad\xE1bamos"
+      - agradabais
+      - agradaban
+      cjid: pret
+    - cjfs:
+      - "agrad\xE9"
+      - agradaste
+      - "agrad\xF3"
+      - agradamos
+      - agradasteis
+      - agradaron
+      cjid: pprf
+    - cjfs:
+      - "agradar\xE9"
+      - "agradar\xE1s"
+      - "agradar\xE1"
+      - agradaremos
+      - "agradar\xE9is"
+      - "agradar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agradar\xEDa"
+      - "agradar\xEDas"
+      - "agradar\xEDa"
+      - "agradar\xEDamos"
+      - "agradar\xEDais"
+      - "agradar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agrade
+      - agrades
+      - agrade
+      - agrademos
+      - "agrad\xE9is"
+      - agraden
+      cjid: psub
+    - cjfs:
+      - agradara
+      - agradaras
+      - agradara
+      - "agrad\xE1ramos"
+      - agradarais
+      - agradaran
+      cjid: pisb1
+    - cjfs:
+      - agradase
+      - agradases
+      - agradase
+      - "agrad\xE1semos"
+      - agradaseis
+      - agradasen
+      cjid: pisb2
+    - cjfs:
+      - agradare
+      - agradares
+      - agradare
+      - "agrad\xE1remos"
+      - agradareis
+      - agradaren
+      cjid: fsub
+    - cjfs:
+      - he agradado
+      - has agradado
+      - ha agradado
+      - hemos agradado
+      - "hab\xE9is agradado"
+      - han agradado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agradado"
+      - "hab\xEDas agradado"
+      - "hab\xEDa agradado"
+      - "hab\xEDamos agradado"
+      - "hab\xEDais agradado"
+      - "hab\xEDan agradado"
+      cjid: ppsi
+    - cjfs:
+      - hube agradado
+      - hubiste agradado
+      - hubo agradado
+      - hubimos agradado
+      - hubisteis agradado
+      - hubieron agradado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agradado"
+      - "habr\xE1s agradado"
+      - "habr\xE1 agradado"
+      - habremos agradado
+      - "habr\xE9is agradado"
+      - "habr\xE1n agradado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agradado"
+      - "habr\xEDas agradado"
+      - "habr\xEDa agradado"
+      - "habr\xEDamos agradado"
+      - "habr\xEDais agradado"
+      - "habr\xEDan agradado"
+      cjid: cpef
+    - cjfs:
+      - haya agradado
+      - hayas agradado
+      - haya agradado
+      - hayamos agradado
+      - "hay\xE1is agradado"
+      - hayan agradado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agradado
+      - hubieras agradado
+      - hubiera agradado
+      - "hubi\xE9ramos agradado"
+      - hubierais agradado
+      - hubieran agradado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agradado
+      - hubieses agradado
+      - hubiese agradado
+      - "hubi\xE9semos agradado"
+      - hubieseis agradado
+      - hubiesen agradado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agradado
+      - hubieres agradado
+      - hubiere agradado
+      - "hubi\xE9remos agradado"
+      - hubiereis agradado
+      - hubieren agradado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agrada
+      - agrade
+      - agrademos
+      - agradad
+      - agraden
+      cjid: impf

@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|glitter}, to {a_link|shine}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come to the surface'
+          sn: '2'
+          vrs:
+          - va: salir a relucir
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring up}, to {a_link|mention}'
+          sn: '3'
+          vrs:
+          - va: sacar a relucir
+  fl: intransitive verb
+  hwi:
+    hw: relucir
+  meta:
+    id: relucir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619318000'
+    src: spanish
+    stems:
+    - relucir
+    - salir a relucir
+    - sacar a relucir
+    uuid: d75105f4-92ca-4cc8-9d1c-07f7ffc57684
+  shortdef:
+  - to glitter, to shine
+  - to come to the surface
+  - to bring up, to mention
+  suppl:
+    cjts:
+    - cjfs:
+      - reluciendo
+      - relucido
+      cjid: gppt
+    - cjfs:
+      - reluzco
+      - reluces
+      - reluce
+      - relucimos
+      - "reluc\xEDs"
+      - relucen
+      cjid: pind
+    - cjfs:
+      - "reluc\xEDa"
+      - "reluc\xEDas"
+      - "reluc\xEDa"
+      - "reluc\xEDamos"
+      - "reluc\xEDais"
+      - "reluc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reluc\xED"
+      - reluciste
+      - "reluci\xF3"
+      - relucimos
+      - relucisteis
+      - relucieron
+      cjid: pprf
+    - cjfs:
+      - "relucir\xE9"
+      - "relucir\xE1s"
+      - "relucir\xE1"
+      - reluciremos
+      - "relucir\xE9is"
+      - "relucir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "relucir\xEDa"
+      - "relucir\xEDas"
+      - "relucir\xEDa"
+      - "relucir\xEDamos"
+      - "relucir\xEDais"
+      - "relucir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reluzca
+      - reluzcas
+      - reluzca
+      - reluzcamos
+      - "reluzc\xE1is"
+      - reluzcan
+      cjid: psub
+    - cjfs:
+      - reluciera
+      - relucieras
+      - reluciera
+      - "reluci\xE9ramos"
+      - relucierais
+      - relucieran
+      cjid: pisb1
+    - cjfs:
+      - reluciese
+      - relucieses
+      - reluciese
+      - "reluci\xE9semos"
+      - relucieseis
+      - reluciesen
+      cjid: pisb2
+    - cjfs:
+      - reluciere
+      - relucieres
+      - reluciere
+      - "reluci\xE9remos"
+      - reluciereis
+      - relucieren
+      cjid: fsub
+    - cjfs:
+      - he relucido
+      - has relucido
+      - ha relucido
+      - hemos relucido
+      - "hab\xE9is relucido"
+      - han relucido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa relucido"
+      - "hab\xEDas relucido"
+      - "hab\xEDa relucido"
+      - "hab\xEDamos relucido"
+      - "hab\xEDais relucido"
+      - "hab\xEDan relucido"
+      cjid: ppsi
+    - cjfs:
+      - hube relucido
+      - hubiste relucido
+      - hubo relucido
+      - hubimos relucido
+      - hubisteis relucido
+      - hubieron relucido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 relucido"
+      - "habr\xE1s relucido"
+      - "habr\xE1 relucido"
+      - habremos relucido
+      - "habr\xE9is relucido"
+      - "habr\xE1n relucido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa relucido"
+      - "habr\xEDas relucido"
+      - "habr\xEDa relucido"
+      - "habr\xEDamos relucido"
+      - "habr\xEDais relucido"
+      - "habr\xEDan relucido"
+      cjid: cpef
+    - cjfs:
+      - haya relucido
+      - hayas relucido
+      - haya relucido
+      - hayamos relucido
+      - "hay\xE1is relucido"
+      - hayan relucido
+      cjid: ppfs
+    - cjfs:
+      - hubiera relucido
+      - hubieras relucido
+      - hubiera relucido
+      - "hubi\xE9ramos relucido"
+      - hubierais relucido
+      - hubieran relucido
+      cjid: ppss1
+    - cjfs:
+      - hubiese relucido
+      - hubieses relucido
+      - hubiese relucido
+      - "hubi\xE9semos relucido"
+      - hubieseis relucido
+      - hubiesen relucido
+      cjid: ppss2
+    - cjfs:
+      - hubiere relucido
+      - hubieres relucido
+      - hubiere relucido
+      - "hubi\xE9remos relucido"
+      - hubiereis relucido
+      - hubieren relucido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reluce
+      - reluzca
+      - reluzcamos
+      - relucid
+      - reluzcan
+      cjid: impf

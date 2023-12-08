@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|illuminate}, to {a_link|light} (up)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enlighten}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: iluminar
+    prs:
+    - sound:
+        audio: ilumi01sp
+  meta:
+    id: iluminar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611868000'
+    src: spanish
+    stems:
+    - iluminar
+    uuid: fd5cdb16-179e-4ca5-a38a-7cb73949df03
+  shortdef:
+  - to illuminate, to light (up)
+  - to enlighten
+  suppl:
+    cjts:
+    - cjfs:
+      - iluminando
+      - iluminado
+      cjid: gppt
+    - cjfs:
+      - ilumino
+      - iluminas
+      - ilumina
+      - iluminamos
+      - "ilumin\xE1is"
+      - iluminan
+      cjid: pind
+    - cjfs:
+      - iluminaba
+      - iluminabas
+      - iluminaba
+      - "ilumin\xE1bamos"
+      - iluminabais
+      - iluminaban
+      cjid: pret
+    - cjfs:
+      - "ilumin\xE9"
+      - iluminaste
+      - "ilumin\xF3"
+      - iluminamos
+      - iluminasteis
+      - iluminaron
+      cjid: pprf
+    - cjfs:
+      - "iluminar\xE9"
+      - "iluminar\xE1s"
+      - "iluminar\xE1"
+      - iluminaremos
+      - "iluminar\xE9is"
+      - "iluminar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "iluminar\xEDa"
+      - "iluminar\xEDas"
+      - "iluminar\xEDa"
+      - "iluminar\xEDamos"
+      - "iluminar\xEDais"
+      - "iluminar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ilumine
+      - ilumines
+      - ilumine
+      - iluminemos
+      - "ilumin\xE9is"
+      - iluminen
+      cjid: psub
+    - cjfs:
+      - iluminara
+      - iluminaras
+      - iluminara
+      - "ilumin\xE1ramos"
+      - iluminarais
+      - iluminaran
+      cjid: pisb1
+    - cjfs:
+      - iluminase
+      - iluminases
+      - iluminase
+      - "ilumin\xE1semos"
+      - iluminaseis
+      - iluminasen
+      cjid: pisb2
+    - cjfs:
+      - iluminare
+      - iluminares
+      - iluminare
+      - "ilumin\xE1remos"
+      - iluminareis
+      - iluminaren
+      cjid: fsub
+    - cjfs:
+      - he iluminado
+      - has iluminado
+      - ha iluminado
+      - hemos iluminado
+      - "hab\xE9is iluminado"
+      - han iluminado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa iluminado"
+      - "hab\xEDas iluminado"
+      - "hab\xEDa iluminado"
+      - "hab\xEDamos iluminado"
+      - "hab\xEDais iluminado"
+      - "hab\xEDan iluminado"
+      cjid: ppsi
+    - cjfs:
+      - hube iluminado
+      - hubiste iluminado
+      - hubo iluminado
+      - hubimos iluminado
+      - hubisteis iluminado
+      - hubieron iluminado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 iluminado"
+      - "habr\xE1s iluminado"
+      - "habr\xE1 iluminado"
+      - habremos iluminado
+      - "habr\xE9is iluminado"
+      - "habr\xE1n iluminado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa iluminado"
+      - "habr\xEDas iluminado"
+      - "habr\xEDa iluminado"
+      - "habr\xEDamos iluminado"
+      - "habr\xEDais iluminado"
+      - "habr\xEDan iluminado"
+      cjid: cpef
+    - cjfs:
+      - haya iluminado
+      - hayas iluminado
+      - haya iluminado
+      - hayamos iluminado
+      - "hay\xE1is iluminado"
+      - hayan iluminado
+      cjid: ppfs
+    - cjfs:
+      - hubiera iluminado
+      - hubieras iluminado
+      - hubiera iluminado
+      - "hubi\xE9ramos iluminado"
+      - hubierais iluminado
+      - hubieran iluminado
+      cjid: ppss1
+    - cjfs:
+      - hubiese iluminado
+      - hubieses iluminado
+      - hubiese iluminado
+      - "hubi\xE9semos iluminado"
+      - hubieseis iluminado
+      - hubiesen iluminado
+      cjid: ppss2
+    - cjfs:
+      - hubiere iluminado
+      - hubieres iluminado
+      - hubiere iluminado
+      - "hubi\xE9remos iluminado"
+      - hubiereis iluminado
+      - hubieren iluminado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ilumina
+      - ilumine
+      - iluminemos
+      - iluminad
+      - iluminen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flood}, to {a_link|inundate}'
+  fl: transitive verb
+  hwi:
+    hw: inundar
+    prs:
+    - sound:
+        audio: inund02sp
+  meta:
+    id: inundar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612958000'
+    src: spanish
+    stems:
+    - inundar
+    - inundarse
+    uuid: 463b4944-c9c2-4588-a3dd-19248c445625
+  shortdef:
+  - to flood, to inundate
+  suppl:
+    cjts:
+    - cjfs:
+      - inundando
+      - inundado
+      cjid: gppt
+    - cjfs:
+      - inundo
+      - inundas
+      - inunda
+      - inundamos
+      - "inund\xE1is"
+      - inundan
+      cjid: pind
+    - cjfs:
+      - inundaba
+      - inundabas
+      - inundaba
+      - "inund\xE1bamos"
+      - inundabais
+      - inundaban
+      cjid: pret
+    - cjfs:
+      - "inund\xE9"
+      - inundaste
+      - "inund\xF3"
+      - inundamos
+      - inundasteis
+      - inundaron
+      cjid: pprf
+    - cjfs:
+      - "inundar\xE9"
+      - "inundar\xE1s"
+      - "inundar\xE1"
+      - inundaremos
+      - "inundar\xE9is"
+      - "inundar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inundar\xEDa"
+      - "inundar\xEDas"
+      - "inundar\xEDa"
+      - "inundar\xEDamos"
+      - "inundar\xEDais"
+      - "inundar\xEDan"
+      cjid: cond
+    - cjfs:
+      - inunde
+      - inundes
+      - inunde
+      - inundemos
+      - "inund\xE9is"
+      - inunden
+      cjid: psub
+    - cjfs:
+      - inundara
+      - inundaras
+      - inundara
+      - "inund\xE1ramos"
+      - inundarais
+      - inundaran
+      cjid: pisb1
+    - cjfs:
+      - inundase
+      - inundases
+      - inundase
+      - "inund\xE1semos"
+      - inundaseis
+      - inundasen
+      cjid: pisb2
+    - cjfs:
+      - inundare
+      - inundares
+      - inundare
+      - "inund\xE1remos"
+      - inundareis
+      - inundaren
+      cjid: fsub
+    - cjfs:
+      - he inundado
+      - has inundado
+      - ha inundado
+      - hemos inundado
+      - "hab\xE9is inundado"
+      - han inundado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inundado"
+      - "hab\xEDas inundado"
+      - "hab\xEDa inundado"
+      - "hab\xEDamos inundado"
+      - "hab\xEDais inundado"
+      - "hab\xEDan inundado"
+      cjid: ppsi
+    - cjfs:
+      - hube inundado
+      - hubiste inundado
+      - hubo inundado
+      - hubimos inundado
+      - hubisteis inundado
+      - hubieron inundado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inundado"
+      - "habr\xE1s inundado"
+      - "habr\xE1 inundado"
+      - habremos inundado
+      - "habr\xE9is inundado"
+      - "habr\xE1n inundado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inundado"
+      - "habr\xEDas inundado"
+      - "habr\xEDa inundado"
+      - "habr\xEDamos inundado"
+      - "habr\xEDais inundado"
+      - "habr\xEDan inundado"
+      cjid: cpef
+    - cjfs:
+      - haya inundado
+      - hayas inundado
+      - haya inundado
+      - hayamos inundado
+      - "hay\xE1is inundado"
+      - hayan inundado
+      cjid: ppfs
+    - cjfs:
+      - hubiera inundado
+      - hubieras inundado
+      - hubiera inundado
+      - "hubi\xE9ramos inundado"
+      - hubierais inundado
+      - hubieran inundado
+      cjid: ppss1
+    - cjfs:
+      - hubiese inundado
+      - hubieses inundado
+      - hubiese inundado
+      - "hubi\xE9semos inundado"
+      - hubieseis inundado
+      - hubiesen inundado
+      cjid: ppss2
+    - cjfs:
+      - hubiere inundado
+      - hubieres inundado
+      - hubiere inundado
+      - "hubi\xE9remos inundado"
+      - hubiereis inundado
+      - hubieren inundado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inunda
+      - inunde
+      - inundemos
+      - inundad
+      - inunden
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: inundarse

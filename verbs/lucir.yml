@@ -1,0 +1,226 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shine}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to look good, to {a_link|stand out}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|seem}, to {a_link|appear} '
+          - - vis
+            - - t: ahora luce contento
+                tr: he looks happy now
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wear}, to {a_link|sport}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flaunt}, to {a_link|show off}'
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|distinguish oneself}, to {a_link|excel}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|show off}'
+            sn: '2'
+    drp: lucirse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: lucir
+    prs:
+    - sound:
+        audio: lucir01sp
+  meta:
+    id: lucir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614043000'
+    src: spanish
+    stems:
+    - lucir
+    - lucirse
+    uuid: fa8b4b8c-cb91-417e-99cc-e59a2346e4e5
+  shortdef:
+  - to shine
+  - to look good, to stand out
+  - to seem, to appear
+  suppl:
+    cjts:
+    - cjfs:
+      - luciendo
+      - lucido
+      cjid: gppt
+    - cjfs:
+      - luzco
+      - luces
+      - luce
+      - lucimos
+      - "luc\xEDs"
+      - lucen
+      cjid: pind
+    - cjfs:
+      - "luc\xEDa"
+      - "luc\xEDas"
+      - "luc\xEDa"
+      - "luc\xEDamos"
+      - "luc\xEDais"
+      - "luc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "luc\xED"
+      - luciste
+      - "luci\xF3"
+      - lucimos
+      - lucisteis
+      - lucieron
+      cjid: pprf
+    - cjfs:
+      - "lucir\xE9"
+      - "lucir\xE1s"
+      - "lucir\xE1"
+      - luciremos
+      - "lucir\xE9is"
+      - "lucir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "lucir\xEDa"
+      - "lucir\xEDas"
+      - "lucir\xEDa"
+      - "lucir\xEDamos"
+      - "lucir\xEDais"
+      - "lucir\xEDan"
+      cjid: cond
+    - cjfs:
+      - luzca
+      - luzcas
+      - luzca
+      - luzcamos
+      - "luzc\xE1is"
+      - luzcan
+      cjid: psub
+    - cjfs:
+      - luciera
+      - lucieras
+      - luciera
+      - "luci\xE9ramos"
+      - lucierais
+      - lucieran
+      cjid: pisb1
+    - cjfs:
+      - luciese
+      - lucieses
+      - luciese
+      - "luci\xE9semos"
+      - lucieseis
+      - luciesen
+      cjid: pisb2
+    - cjfs:
+      - luciere
+      - lucieres
+      - luciere
+      - "luci\xE9remos"
+      - luciereis
+      - lucieren
+      cjid: fsub
+    - cjfs:
+      - he lucido
+      - has lucido
+      - ha lucido
+      - hemos lucido
+      - "hab\xE9is lucido"
+      - han lucido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa lucido"
+      - "hab\xEDas lucido"
+      - "hab\xEDa lucido"
+      - "hab\xEDamos lucido"
+      - "hab\xEDais lucido"
+      - "hab\xEDan lucido"
+      cjid: ppsi
+    - cjfs:
+      - hube lucido
+      - hubiste lucido
+      - hubo lucido
+      - hubimos lucido
+      - hubisteis lucido
+      - hubieron lucido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 lucido"
+      - "habr\xE1s lucido"
+      - "habr\xE1 lucido"
+      - habremos lucido
+      - "habr\xE9is lucido"
+      - "habr\xE1n lucido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa lucido"
+      - "habr\xEDas lucido"
+      - "habr\xEDa lucido"
+      - "habr\xEDamos lucido"
+      - "habr\xEDais lucido"
+      - "habr\xEDan lucido"
+      cjid: cpef
+    - cjfs:
+      - haya lucido
+      - hayas lucido
+      - haya lucido
+      - hayamos lucido
+      - "hay\xE1is lucido"
+      - hayan lucido
+      cjid: ppfs
+    - cjfs:
+      - hubiera lucido
+      - hubieras lucido
+      - hubiera lucido
+      - "hubi\xE9ramos lucido"
+      - hubierais lucido
+      - hubieran lucido
+      cjid: ppss1
+    - cjfs:
+      - hubiese lucido
+      - hubieses lucido
+      - hubiese lucido
+      - "hubi\xE9semos lucido"
+      - hubieseis lucido
+      - hubiesen lucido
+      cjid: ppss2
+    - cjfs:
+      - hubiere lucido
+      - hubieres lucido
+      - hubiere lucido
+      - "hubi\xE9remos lucido"
+      - hubiereis lucido
+      - hubieren lucido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - luce
+      - luzca
+      - luzcamos
+      - lucid
+      - luzcan
+      cjid: impf

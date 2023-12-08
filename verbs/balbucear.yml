@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mutter}, to {a_link|stammer}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|babble}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: balbucear
+    prs:
+    - sound:
+        audio: balbu01sp
+  meta:
+    id: balbucear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602682000'
+    src: spanish
+    stems:
+    - balbucear
+    uuid: a0cf862b-f8e7-4f19-815c-0685f2248559
+  shortdef:
+  - to mutter, to stammer
+  - to babble
+  suppl:
+    cjts:
+    - cjfs:
+      - balbuceando
+      - balbuceado
+      cjid: gppt
+    - cjfs:
+      - balbuceo
+      - balbuceas
+      - balbucea
+      - balbuceamos
+      - "balbuce\xE1is"
+      - balbucean
+      cjid: pind
+    - cjfs:
+      - balbuceaba
+      - balbuceabas
+      - balbuceaba
+      - "balbuce\xE1bamos"
+      - balbuceabais
+      - balbuceaban
+      cjid: pret
+    - cjfs:
+      - "balbuce\xE9"
+      - balbuceaste
+      - "balbuce\xF3"
+      - balbuceamos
+      - balbuceasteis
+      - balbucearon
+      cjid: pprf
+    - cjfs:
+      - "balbucear\xE9"
+      - "balbucear\xE1s"
+      - "balbucear\xE1"
+      - balbucearemos
+      - "balbucear\xE9is"
+      - "balbucear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "balbucear\xEDa"
+      - "balbucear\xEDas"
+      - "balbucear\xEDa"
+      - "balbucear\xEDamos"
+      - "balbucear\xEDais"
+      - "balbucear\xEDan"
+      cjid: cond
+    - cjfs:
+      - balbucee
+      - balbucees
+      - balbucee
+      - balbuceemos
+      - "balbuce\xE9is"
+      - balbuceen
+      cjid: psub
+    - cjfs:
+      - balbuceara
+      - balbucearas
+      - balbuceara
+      - "balbuce\xE1ramos"
+      - balbucearais
+      - balbucearan
+      cjid: pisb1
+    - cjfs:
+      - balbucease
+      - balbuceases
+      - balbucease
+      - "balbuce\xE1semos"
+      - balbuceaseis
+      - balbuceasen
+      cjid: pisb2
+    - cjfs:
+      - balbuceare
+      - balbuceares
+      - balbuceare
+      - "balbuce\xE1remos"
+      - balbuceareis
+      - balbucearen
+      cjid: fsub
+    - cjfs:
+      - he balbuceado
+      - has balbuceado
+      - ha balbuceado
+      - hemos balbuceado
+      - "hab\xE9is balbuceado"
+      - han balbuceado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa balbuceado"
+      - "hab\xEDas balbuceado"
+      - "hab\xEDa balbuceado"
+      - "hab\xEDamos balbuceado"
+      - "hab\xEDais balbuceado"
+      - "hab\xEDan balbuceado"
+      cjid: ppsi
+    - cjfs:
+      - hube balbuceado
+      - hubiste balbuceado
+      - hubo balbuceado
+      - hubimos balbuceado
+      - hubisteis balbuceado
+      - hubieron balbuceado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 balbuceado"
+      - "habr\xE1s balbuceado"
+      - "habr\xE1 balbuceado"
+      - habremos balbuceado
+      - "habr\xE9is balbuceado"
+      - "habr\xE1n balbuceado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa balbuceado"
+      - "habr\xEDas balbuceado"
+      - "habr\xEDa balbuceado"
+      - "habr\xEDamos balbuceado"
+      - "habr\xEDais balbuceado"
+      - "habr\xEDan balbuceado"
+      cjid: cpef
+    - cjfs:
+      - haya balbuceado
+      - hayas balbuceado
+      - haya balbuceado
+      - hayamos balbuceado
+      - "hay\xE1is balbuceado"
+      - hayan balbuceado
+      cjid: ppfs
+    - cjfs:
+      - hubiera balbuceado
+      - hubieras balbuceado
+      - hubiera balbuceado
+      - "hubi\xE9ramos balbuceado"
+      - hubierais balbuceado
+      - hubieran balbuceado
+      cjid: ppss1
+    - cjfs:
+      - hubiese balbuceado
+      - hubieses balbuceado
+      - hubiese balbuceado
+      - "hubi\xE9semos balbuceado"
+      - hubieseis balbuceado
+      - hubiesen balbuceado
+      cjid: ppss2
+    - cjfs:
+      - hubiere balbuceado
+      - hubieres balbuceado
+      - hubiere balbuceado
+      - "hubi\xE9remos balbuceado"
+      - hubiereis balbuceado
+      - hubieren balbuceado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - balbucea
+      - balbucee
+      - balbuceemos
+      - balbucead
+      - balbuceen
+      cjid: impf

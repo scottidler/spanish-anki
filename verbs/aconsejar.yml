@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|advise}, to {a_link|counsel}'
+  fl: transitive verb
+  hwi:
+    hw: aconsejar
+    prs:
+    - sound:
+        audio: acons01sp
+  meta:
+    id: aconsejar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600323000'
+    src: spanish
+    stems:
+    - aconsejar
+    uuid: a0ceb5b4-9f12-4981-bcad-cc0ddd033af6
+  shortdef:
+  - to advise, to counsel
+  suppl:
+    cjts:
+    - cjfs:
+      - aconsejando
+      - aconsejado
+      cjid: gppt
+    - cjfs:
+      - aconsejo
+      - aconsejas
+      - aconseja
+      - aconsejamos
+      - "aconsej\xE1is"
+      - aconsejan
+      cjid: pind
+    - cjfs:
+      - aconsejaba
+      - aconsejabas
+      - aconsejaba
+      - "aconsej\xE1bamos"
+      - aconsejabais
+      - aconsejaban
+      cjid: pret
+    - cjfs:
+      - "aconsej\xE9"
+      - aconsejaste
+      - "aconsej\xF3"
+      - aconsejamos
+      - aconsejasteis
+      - aconsejaron
+      cjid: pprf
+    - cjfs:
+      - "aconsejar\xE9"
+      - "aconsejar\xE1s"
+      - "aconsejar\xE1"
+      - aconsejaremos
+      - "aconsejar\xE9is"
+      - "aconsejar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aconsejar\xEDa"
+      - "aconsejar\xEDas"
+      - "aconsejar\xEDa"
+      - "aconsejar\xEDamos"
+      - "aconsejar\xEDais"
+      - "aconsejar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aconseje
+      - aconsejes
+      - aconseje
+      - aconsejemos
+      - "aconsej\xE9is"
+      - aconsejen
+      cjid: psub
+    - cjfs:
+      - aconsejara
+      - aconsejaras
+      - aconsejara
+      - "aconsej\xE1ramos"
+      - aconsejarais
+      - aconsejaran
+      cjid: pisb1
+    - cjfs:
+      - aconsejase
+      - aconsejases
+      - aconsejase
+      - "aconsej\xE1semos"
+      - aconsejaseis
+      - aconsejasen
+      cjid: pisb2
+    - cjfs:
+      - aconsejare
+      - aconsejares
+      - aconsejare
+      - "aconsej\xE1remos"
+      - aconsejareis
+      - aconsejaren
+      cjid: fsub
+    - cjfs:
+      - he aconsejado
+      - has aconsejado
+      - ha aconsejado
+      - hemos aconsejado
+      - "hab\xE9is aconsejado"
+      - han aconsejado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aconsejado"
+      - "hab\xEDas aconsejado"
+      - "hab\xEDa aconsejado"
+      - "hab\xEDamos aconsejado"
+      - "hab\xEDais aconsejado"
+      - "hab\xEDan aconsejado"
+      cjid: ppsi
+    - cjfs:
+      - hube aconsejado
+      - hubiste aconsejado
+      - hubo aconsejado
+      - hubimos aconsejado
+      - hubisteis aconsejado
+      - hubieron aconsejado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aconsejado"
+      - "habr\xE1s aconsejado"
+      - "habr\xE1 aconsejado"
+      - habremos aconsejado
+      - "habr\xE9is aconsejado"
+      - "habr\xE1n aconsejado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aconsejado"
+      - "habr\xEDas aconsejado"
+      - "habr\xEDa aconsejado"
+      - "habr\xEDamos aconsejado"
+      - "habr\xEDais aconsejado"
+      - "habr\xEDan aconsejado"
+      cjid: cpef
+    - cjfs:
+      - haya aconsejado
+      - hayas aconsejado
+      - haya aconsejado
+      - hayamos aconsejado
+      - "hay\xE1is aconsejado"
+      - hayan aconsejado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aconsejado
+      - hubieras aconsejado
+      - hubiera aconsejado
+      - "hubi\xE9ramos aconsejado"
+      - hubierais aconsejado
+      - hubieran aconsejado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aconsejado
+      - hubieses aconsejado
+      - hubiese aconsejado
+      - "hubi\xE9semos aconsejado"
+      - hubieseis aconsejado
+      - hubiesen aconsejado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aconsejado
+      - hubieres aconsejado
+      - hubiere aconsejado
+      - "hubi\xE9remos aconsejado"
+      - hubiereis aconsejado
+      - hubieren aconsejado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aconseja
+      - aconseje
+      - aconsejemos
+      - aconsejad
+      - aconsejen
+      cjid: impf

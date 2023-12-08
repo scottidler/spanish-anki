@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|evadir||} {bc}to {a_link|evade}, to {a_link|avoid}, to {a_link|elude}'
+  fl: transitive verb
+  hwi:
+    hw: eludir
+  meta:
+    id: eludir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608201000'
+    src: spanish
+    stems:
+    - eludir
+    uuid: a979d57c-6f52-4789-b0ed-5e3a8aa314c7
+  shortdef:
+  - 'evadir : to evade, to avoid, to elude'
+  suppl:
+    cjts:
+    - cjfs:
+      - eludiendo
+      - eludido
+      cjid: gppt
+    - cjfs:
+      - eludo
+      - eludes
+      - elude
+      - eludimos
+      - "elud\xEDs"
+      - eluden
+      cjid: pind
+    - cjfs:
+      - "elud\xEDa"
+      - "elud\xEDas"
+      - "elud\xEDa"
+      - "elud\xEDamos"
+      - "elud\xEDais"
+      - "elud\xEDan"
+      cjid: pret
+    - cjfs:
+      - "elud\xED"
+      - eludiste
+      - "eludi\xF3"
+      - eludimos
+      - eludisteis
+      - eludieron
+      cjid: pprf
+    - cjfs:
+      - "eludir\xE9"
+      - "eludir\xE1s"
+      - "eludir\xE1"
+      - eludiremos
+      - "eludir\xE9is"
+      - "eludir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "eludir\xEDa"
+      - "eludir\xEDas"
+      - "eludir\xEDa"
+      - "eludir\xEDamos"
+      - "eludir\xEDais"
+      - "eludir\xEDan"
+      cjid: cond
+    - cjfs:
+      - eluda
+      - eludas
+      - eluda
+      - eludamos
+      - "elud\xE1is"
+      - eludan
+      cjid: psub
+    - cjfs:
+      - eludiera
+      - eludieras
+      - eludiera
+      - "eludi\xE9ramos"
+      - eludierais
+      - eludieran
+      cjid: pisb1
+    - cjfs:
+      - eludiese
+      - eludieses
+      - eludiese
+      - "eludi\xE9semos"
+      - eludieseis
+      - eludiesen
+      cjid: pisb2
+    - cjfs:
+      - eludiere
+      - eludieres
+      - eludiere
+      - "eludi\xE9remos"
+      - eludiereis
+      - eludieren
+      cjid: fsub
+    - cjfs:
+      - he eludido
+      - has eludido
+      - ha eludido
+      - hemos eludido
+      - "hab\xE9is eludido"
+      - han eludido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa eludido"
+      - "hab\xEDas eludido"
+      - "hab\xEDa eludido"
+      - "hab\xEDamos eludido"
+      - "hab\xEDais eludido"
+      - "hab\xEDan eludido"
+      cjid: ppsi
+    - cjfs:
+      - hube eludido
+      - hubiste eludido
+      - hubo eludido
+      - hubimos eludido
+      - hubisteis eludido
+      - hubieron eludido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 eludido"
+      - "habr\xE1s eludido"
+      - "habr\xE1 eludido"
+      - habremos eludido
+      - "habr\xE9is eludido"
+      - "habr\xE1n eludido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa eludido"
+      - "habr\xEDas eludido"
+      - "habr\xEDa eludido"
+      - "habr\xEDamos eludido"
+      - "habr\xEDais eludido"
+      - "habr\xEDan eludido"
+      cjid: cpef
+    - cjfs:
+      - haya eludido
+      - hayas eludido
+      - haya eludido
+      - hayamos eludido
+      - "hay\xE1is eludido"
+      - hayan eludido
+      cjid: ppfs
+    - cjfs:
+      - hubiera eludido
+      - hubieras eludido
+      - hubiera eludido
+      - "hubi\xE9ramos eludido"
+      - hubierais eludido
+      - hubieran eludido
+      cjid: ppss1
+    - cjfs:
+      - hubiese eludido
+      - hubieses eludido
+      - hubiese eludido
+      - "hubi\xE9semos eludido"
+      - hubieseis eludido
+      - hubiesen eludido
+      cjid: ppss2
+    - cjfs:
+      - hubiere eludido
+      - hubieres eludido
+      - hubiere eludido
+      - "hubi\xE9remos eludido"
+      - hubiereis eludido
+      - hubieren eludido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - elude
+      - eluda
+      - eludamos
+      - eludid
+      - eludan
+      cjid: impf

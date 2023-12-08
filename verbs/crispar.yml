@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cause to contract'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|irritate}, to set on edge '
+          - - vis
+            - - t: eso me crispa
+                tr: that gets on my nerves
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to tense up'
+    drp: crisparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: crispar
+  meta:
+    id: crispar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606136000'
+    src: spanish
+    stems:
+    - crispar
+    - crisparse
+    uuid: 24550423-cf74-4b00-b1ee-9a10da2443d9
+  shortdef:
+  - to cause to contract
+  - to irritate, to set on edge
+  suppl:
+    cjts:
+    - cjfs:
+      - crispando
+      - crispado
+      cjid: gppt
+    - cjfs:
+      - crispo
+      - crispas
+      - crispa
+      - crispamos
+      - "crisp\xE1is"
+      - crispan
+      cjid: pind
+    - cjfs:
+      - crispaba
+      - crispabas
+      - crispaba
+      - "crisp\xE1bamos"
+      - crispabais
+      - crispaban
+      cjid: pret
+    - cjfs:
+      - "crisp\xE9"
+      - crispaste
+      - "crisp\xF3"
+      - crispamos
+      - crispasteis
+      - crisparon
+      cjid: pprf
+    - cjfs:
+      - "crispar\xE9"
+      - "crispar\xE1s"
+      - "crispar\xE1"
+      - crisparemos
+      - "crispar\xE9is"
+      - "crispar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "crispar\xEDa"
+      - "crispar\xEDas"
+      - "crispar\xEDa"
+      - "crispar\xEDamos"
+      - "crispar\xEDais"
+      - "crispar\xEDan"
+      cjid: cond
+    - cjfs:
+      - crispe
+      - crispes
+      - crispe
+      - crispemos
+      - "crisp\xE9is"
+      - crispen
+      cjid: psub
+    - cjfs:
+      - crispara
+      - crisparas
+      - crispara
+      - "crisp\xE1ramos"
+      - crisparais
+      - crisparan
+      cjid: pisb1
+    - cjfs:
+      - crispase
+      - crispases
+      - crispase
+      - "crisp\xE1semos"
+      - crispaseis
+      - crispasen
+      cjid: pisb2
+    - cjfs:
+      - crispare
+      - crispares
+      - crispare
+      - "crisp\xE1remos"
+      - crispareis
+      - crisparen
+      cjid: fsub
+    - cjfs:
+      - he crispado
+      - has crispado
+      - ha crispado
+      - hemos crispado
+      - "hab\xE9is crispado"
+      - han crispado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa crispado"
+      - "hab\xEDas crispado"
+      - "hab\xEDa crispado"
+      - "hab\xEDamos crispado"
+      - "hab\xEDais crispado"
+      - "hab\xEDan crispado"
+      cjid: ppsi
+    - cjfs:
+      - hube crispado
+      - hubiste crispado
+      - hubo crispado
+      - hubimos crispado
+      - hubisteis crispado
+      - hubieron crispado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 crispado"
+      - "habr\xE1s crispado"
+      - "habr\xE1 crispado"
+      - habremos crispado
+      - "habr\xE9is crispado"
+      - "habr\xE1n crispado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa crispado"
+      - "habr\xEDas crispado"
+      - "habr\xEDa crispado"
+      - "habr\xEDamos crispado"
+      - "habr\xEDais crispado"
+      - "habr\xEDan crispado"
+      cjid: cpef
+    - cjfs:
+      - haya crispado
+      - hayas crispado
+      - haya crispado
+      - hayamos crispado
+      - "hay\xE1is crispado"
+      - hayan crispado
+      cjid: ppfs
+    - cjfs:
+      - hubiera crispado
+      - hubieras crispado
+      - hubiera crispado
+      - "hubi\xE9ramos crispado"
+      - hubierais crispado
+      - hubieran crispado
+      cjid: ppss1
+    - cjfs:
+      - hubiese crispado
+      - hubieses crispado
+      - hubiese crispado
+      - "hubi\xE9semos crispado"
+      - hubieseis crispado
+      - hubiesen crispado
+      cjid: ppss2
+    - cjfs:
+      - hubiere crispado
+      - hubieres crispado
+      - hubiere crispado
+      - "hubi\xE9remos crispado"
+      - hubiereis crispado
+      - hubieren crispado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - crispa
+      - crispe
+      - crispemos
+      - crispad
+      - crispen
+      cjid: impf

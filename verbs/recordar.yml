@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recall}, to {a_link|remember}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|remind}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acordarse||} {bc}to {a_link|remember} '
+          - - vis
+            - - t: si mal no recuerdo
+                tr: if I recall/remember correctly
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|despertar||} {bc}to {a_link|wake up}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: recordar
+    prs:
+    - sound:
+        audio: recor02sp
+  meta:
+    id: recordar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619037000'
+    src: spanish
+    stems:
+    - recordar
+    uuid: 36fa1dec-d47f-41d9-baea-8514406898f9
+  shortdef:
+  - to recall, to remember
+  - to remind
+  - 'acordarse : to remember'
+  suppl:
+    cjts:
+    - cjfs:
+      - recordando
+      - recordado
+      cjid: gppt
+    - cjfs:
+      - recuerdo
+      - recuerdas
+      - recuerda
+      - recordamos
+      - "record\xE1is"
+      - recuerdan
+      cjid: pind
+    - cjfs:
+      - recordaba
+      - recordabas
+      - recordaba
+      - "record\xE1bamos"
+      - recordabais
+      - recordaban
+      cjid: pret
+    - cjfs:
+      - "record\xE9"
+      - recordaste
+      - "record\xF3"
+      - recordamos
+      - recordasteis
+      - recordaron
+      cjid: pprf
+    - cjfs:
+      - "recordar\xE9"
+      - "recordar\xE1s"
+      - "recordar\xE1"
+      - recordaremos
+      - "recordar\xE9is"
+      - "recordar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recordar\xEDa"
+      - "recordar\xEDas"
+      - "recordar\xEDa"
+      - "recordar\xEDamos"
+      - "recordar\xEDais"
+      - "recordar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recuerde
+      - recuerdes
+      - recuerde
+      - recordemos
+      - "record\xE9is"
+      - recuerden
+      cjid: psub
+    - cjfs:
+      - recordara
+      - recordaras
+      - recordara
+      - "record\xE1ramos"
+      - recordarais
+      - recordaran
+      cjid: pisb1
+    - cjfs:
+      - recordase
+      - recordases
+      - recordase
+      - "record\xE1semos"
+      - recordaseis
+      - recordasen
+      cjid: pisb2
+    - cjfs:
+      - recordare
+      - recordares
+      - recordare
+      - "record\xE1remos"
+      - recordareis
+      - recordaren
+      cjid: fsub
+    - cjfs:
+      - he recordado
+      - has recordado
+      - ha recordado
+      - hemos recordado
+      - "hab\xE9is recordado"
+      - han recordado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recordado"
+      - "hab\xEDas recordado"
+      - "hab\xEDa recordado"
+      - "hab\xEDamos recordado"
+      - "hab\xEDais recordado"
+      - "hab\xEDan recordado"
+      cjid: ppsi
+    - cjfs:
+      - hube recordado
+      - hubiste recordado
+      - hubo recordado
+      - hubimos recordado
+      - hubisteis recordado
+      - hubieron recordado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recordado"
+      - "habr\xE1s recordado"
+      - "habr\xE1 recordado"
+      - habremos recordado
+      - "habr\xE9is recordado"
+      - "habr\xE1n recordado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recordado"
+      - "habr\xEDas recordado"
+      - "habr\xEDa recordado"
+      - "habr\xEDamos recordado"
+      - "habr\xEDais recordado"
+      - "habr\xEDan recordado"
+      cjid: cpef
+    - cjfs:
+      - haya recordado
+      - hayas recordado
+      - haya recordado
+      - hayamos recordado
+      - "hay\xE1is recordado"
+      - hayan recordado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recordado
+      - hubieras recordado
+      - hubiera recordado
+      - "hubi\xE9ramos recordado"
+      - hubierais recordado
+      - hubieran recordado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recordado
+      - hubieses recordado
+      - hubiese recordado
+      - "hubi\xE9semos recordado"
+      - hubieseis recordado
+      - hubiesen recordado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recordado
+      - hubieres recordado
+      - hubiere recordado
+      - "hubi\xE9remos recordado"
+      - hubiereis recordado
+      - hubieren recordado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recuerda
+      - recuerde
+      - recordemos
+      - recordad
+      - recuerden
+      cjid: impf

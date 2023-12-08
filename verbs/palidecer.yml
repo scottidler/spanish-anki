@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to turn pale'
+  fl: intransitive verb
+  hwi:
+    hw: palidecer
+  meta:
+    id: palidecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616507000'
+    src: spanish
+    stems:
+    - palidecer
+    uuid: 0bae189b-8dcd-4ace-ad73-82e797c445d7
+  shortdef:
+  - to turn pale
+  suppl:
+    cjts:
+    - cjfs:
+      - palideciendo
+      - palidecido
+      cjid: gppt
+    - cjfs:
+      - palidezco
+      - palideces
+      - palidece
+      - palidecemos
+      - "palidec\xE9is"
+      - palidecen
+      cjid: pind
+    - cjfs:
+      - "palidec\xEDa"
+      - "palidec\xEDas"
+      - "palidec\xEDa"
+      - "palidec\xEDamos"
+      - "palidec\xEDais"
+      - "palidec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "palidec\xED"
+      - palideciste
+      - "palideci\xF3"
+      - palidecimos
+      - palidecisteis
+      - palidecieron
+      cjid: pprf
+    - cjfs:
+      - "palidecer\xE9"
+      - "palidecer\xE1s"
+      - "palidecer\xE1"
+      - palideceremos
+      - "palidecer\xE9is"
+      - "palidecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "palidecer\xEDa"
+      - "palidecer\xEDas"
+      - "palidecer\xEDa"
+      - "palidecer\xEDamos"
+      - "palidecer\xEDais"
+      - "palidecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - palidezca
+      - palidezcas
+      - palidezca
+      - palidezcamos
+      - "palidezc\xE1is"
+      - palidezcan
+      cjid: psub
+    - cjfs:
+      - palideciera
+      - palidecieras
+      - palideciera
+      - "palideci\xE9ramos"
+      - palidecierais
+      - palidecieran
+      cjid: pisb1
+    - cjfs:
+      - palideciese
+      - palidecieses
+      - palideciese
+      - "palideci\xE9semos"
+      - palidecieseis
+      - palideciesen
+      cjid: pisb2
+    - cjfs:
+      - palideciere
+      - palidecieres
+      - palideciere
+      - "palideci\xE9remos"
+      - palideciereis
+      - palidecieren
+      cjid: fsub
+    - cjfs:
+      - he palidecido
+      - has palidecido
+      - ha palidecido
+      - hemos palidecido
+      - "hab\xE9is palidecido"
+      - han palidecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa palidecido"
+      - "hab\xEDas palidecido"
+      - "hab\xEDa palidecido"
+      - "hab\xEDamos palidecido"
+      - "hab\xEDais palidecido"
+      - "hab\xEDan palidecido"
+      cjid: ppsi
+    - cjfs:
+      - hube palidecido
+      - hubiste palidecido
+      - hubo palidecido
+      - hubimos palidecido
+      - hubisteis palidecido
+      - hubieron palidecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 palidecido"
+      - "habr\xE1s palidecido"
+      - "habr\xE1 palidecido"
+      - habremos palidecido
+      - "habr\xE9is palidecido"
+      - "habr\xE1n palidecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa palidecido"
+      - "habr\xEDas palidecido"
+      - "habr\xEDa palidecido"
+      - "habr\xEDamos palidecido"
+      - "habr\xEDais palidecido"
+      - "habr\xEDan palidecido"
+      cjid: cpef
+    - cjfs:
+      - haya palidecido
+      - hayas palidecido
+      - haya palidecido
+      - hayamos palidecido
+      - "hay\xE1is palidecido"
+      - hayan palidecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera palidecido
+      - hubieras palidecido
+      - hubiera palidecido
+      - "hubi\xE9ramos palidecido"
+      - hubierais palidecido
+      - hubieran palidecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese palidecido
+      - hubieses palidecido
+      - hubiese palidecido
+      - "hubi\xE9semos palidecido"
+      - hubieseis palidecido
+      - hubiesen palidecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere palidecido
+      - hubieres palidecido
+      - hubiere palidecido
+      - "hubi\xE9remos palidecido"
+      - hubiereis palidecido
+      - hubieren palidecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - palidece
+      - palidezca
+      - palidezcamos
+      - palideced
+      - palidezcan
+      cjid: impf

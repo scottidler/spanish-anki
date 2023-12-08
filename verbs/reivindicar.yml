@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vindicate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demand}, to {a_link|claim}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|restore}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: reivindicar
+    prs:
+    - sound:
+        audio: reivi02sp
+  meta:
+    id: reivindicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619273000'
+    src: spanish
+    stems:
+    - reivindicar
+    uuid: 856310ce-9229-4f17-b921-2ddeb2ec6a4a
+  shortdef:
+  - to vindicate
+  - to demand, to claim
+  - to restore
+  suppl:
+    cjts:
+    - cjfs:
+      - reivindicando
+      - reivindicado
+      cjid: gppt
+    - cjfs:
+      - reivindico
+      - reivindicas
+      - reivindica
+      - reivindicamos
+      - "reivindic\xE1is"
+      - reivindican
+      cjid: pind
+    - cjfs:
+      - reivindicaba
+      - reivindicabas
+      - reivindicaba
+      - "reivindic\xE1bamos"
+      - reivindicabais
+      - reivindicaban
+      cjid: pret
+    - cjfs:
+      - "reivindiqu\xE9"
+      - reivindicaste
+      - "reivindic\xF3"
+      - reivindicamos
+      - reivindicasteis
+      - reivindicaron
+      cjid: pprf
+    - cjfs:
+      - "reivindicar\xE9"
+      - "reivindicar\xE1s"
+      - "reivindicar\xE1"
+      - reivindicaremos
+      - "reivindicar\xE9is"
+      - "reivindicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reivindicar\xEDa"
+      - "reivindicar\xEDas"
+      - "reivindicar\xEDa"
+      - "reivindicar\xEDamos"
+      - "reivindicar\xEDais"
+      - "reivindicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reivindique
+      - reivindiques
+      - reivindique
+      - reivindiquemos
+      - "reivindiqu\xE9is"
+      - reivindiquen
+      cjid: psub
+    - cjfs:
+      - reivindicara
+      - reivindicaras
+      - reivindicara
+      - "reivindic\xE1ramos"
+      - reivindicarais
+      - reivindicaran
+      cjid: pisb1
+    - cjfs:
+      - reivindicase
+      - reivindicases
+      - reivindicase
+      - "reivindic\xE1semos"
+      - reivindicaseis
+      - reivindicasen
+      cjid: pisb2
+    - cjfs:
+      - reivindicare
+      - reivindicares
+      - reivindicare
+      - "reivindic\xE1remos"
+      - reivindicareis
+      - reivindicaren
+      cjid: fsub
+    - cjfs:
+      - he reivindicado
+      - has reivindicado
+      - ha reivindicado
+      - hemos reivindicado
+      - "hab\xE9is reivindicado"
+      - han reivindicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reivindicado"
+      - "hab\xEDas reivindicado"
+      - "hab\xEDa reivindicado"
+      - "hab\xEDamos reivindicado"
+      - "hab\xEDais reivindicado"
+      - "hab\xEDan reivindicado"
+      cjid: ppsi
+    - cjfs:
+      - hube reivindicado
+      - hubiste reivindicado
+      - hubo reivindicado
+      - hubimos reivindicado
+      - hubisteis reivindicado
+      - hubieron reivindicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reivindicado"
+      - "habr\xE1s reivindicado"
+      - "habr\xE1 reivindicado"
+      - habremos reivindicado
+      - "habr\xE9is reivindicado"
+      - "habr\xE1n reivindicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reivindicado"
+      - "habr\xEDas reivindicado"
+      - "habr\xEDa reivindicado"
+      - "habr\xEDamos reivindicado"
+      - "habr\xEDais reivindicado"
+      - "habr\xEDan reivindicado"
+      cjid: cpef
+    - cjfs:
+      - haya reivindicado
+      - hayas reivindicado
+      - haya reivindicado
+      - hayamos reivindicado
+      - "hay\xE1is reivindicado"
+      - hayan reivindicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reivindicado
+      - hubieras reivindicado
+      - hubiera reivindicado
+      - "hubi\xE9ramos reivindicado"
+      - hubierais reivindicado
+      - hubieran reivindicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reivindicado
+      - hubieses reivindicado
+      - hubiese reivindicado
+      - "hubi\xE9semos reivindicado"
+      - hubieseis reivindicado
+      - hubiesen reivindicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reivindicado
+      - hubieres reivindicado
+      - hubiere reivindicado
+      - "hubi\xE9remos reivindicado"
+      - hubiereis reivindicado
+      - hubieren reivindicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reivindica
+      - reivindique
+      - reivindiquemos
+      - reivindicad
+      - reivindiquen
+      cjid: impf

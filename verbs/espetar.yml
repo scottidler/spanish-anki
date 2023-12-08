@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to blurt out'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|skewer}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: espetar
+  meta:
+    id: espetar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609189000'
+    src: spanish
+    stems:
+    - espetar
+    uuid: 25ff099e-e743-4298-bcc5-14cf508473ff
+  shortdef:
+  - to blurt out
+  - to skewer
+  suppl:
+    cjts:
+    - cjfs:
+      - espetando
+      - espetado
+      cjid: gppt
+    - cjfs:
+      - espeto
+      - espetas
+      - espeta
+      - espetamos
+      - "espet\xE1is"
+      - espetan
+      cjid: pind
+    - cjfs:
+      - espetaba
+      - espetabas
+      - espetaba
+      - "espet\xE1bamos"
+      - espetabais
+      - espetaban
+      cjid: pret
+    - cjfs:
+      - "espet\xE9"
+      - espetaste
+      - "espet\xF3"
+      - espetamos
+      - espetasteis
+      - espetaron
+      cjid: pprf
+    - cjfs:
+      - "espetar\xE9"
+      - "espetar\xE1s"
+      - "espetar\xE1"
+      - espetaremos
+      - "espetar\xE9is"
+      - "espetar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "espetar\xEDa"
+      - "espetar\xEDas"
+      - "espetar\xEDa"
+      - "espetar\xEDamos"
+      - "espetar\xEDais"
+      - "espetar\xEDan"
+      cjid: cond
+    - cjfs:
+      - espete
+      - espetes
+      - espete
+      - espetemos
+      - "espet\xE9is"
+      - espeten
+      cjid: psub
+    - cjfs:
+      - espetara
+      - espetaras
+      - espetara
+      - "espet\xE1ramos"
+      - espetarais
+      - espetaran
+      cjid: pisb1
+    - cjfs:
+      - espetase
+      - espetases
+      - espetase
+      - "espet\xE1semos"
+      - espetaseis
+      - espetasen
+      cjid: pisb2
+    - cjfs:
+      - espetare
+      - espetares
+      - espetare
+      - "espet\xE1remos"
+      - espetareis
+      - espetaren
+      cjid: fsub
+    - cjfs:
+      - he espetado
+      - has espetado
+      - ha espetado
+      - hemos espetado
+      - "hab\xE9is espetado"
+      - han espetado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa espetado"
+      - "hab\xEDas espetado"
+      - "hab\xEDa espetado"
+      - "hab\xEDamos espetado"
+      - "hab\xEDais espetado"
+      - "hab\xEDan espetado"
+      cjid: ppsi
+    - cjfs:
+      - hube espetado
+      - hubiste espetado
+      - hubo espetado
+      - hubimos espetado
+      - hubisteis espetado
+      - hubieron espetado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 espetado"
+      - "habr\xE1s espetado"
+      - "habr\xE1 espetado"
+      - habremos espetado
+      - "habr\xE9is espetado"
+      - "habr\xE1n espetado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa espetado"
+      - "habr\xEDas espetado"
+      - "habr\xEDa espetado"
+      - "habr\xEDamos espetado"
+      - "habr\xEDais espetado"
+      - "habr\xEDan espetado"
+      cjid: cpef
+    - cjfs:
+      - haya espetado
+      - hayas espetado
+      - haya espetado
+      - hayamos espetado
+      - "hay\xE1is espetado"
+      - hayan espetado
+      cjid: ppfs
+    - cjfs:
+      - hubiera espetado
+      - hubieras espetado
+      - hubiera espetado
+      - "hubi\xE9ramos espetado"
+      - hubierais espetado
+      - hubieran espetado
+      cjid: ppss1
+    - cjfs:
+      - hubiese espetado
+      - hubieses espetado
+      - hubiese espetado
+      - "hubi\xE9semos espetado"
+      - hubieseis espetado
+      - hubiesen espetado
+      cjid: ppss2
+    - cjfs:
+      - hubiere espetado
+      - hubieres espetado
+      - hubiere espetado
+      - "hubi\xE9remos espetado"
+      - hubiereis espetado
+      - hubieren espetado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - espeta
+      - espete
+      - espetemos
+      - espetad
+      - espeten
+      cjid: impf

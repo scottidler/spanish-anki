@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|extend}, to {a_link|lengthen}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|prolongar||} {bc}to {a_link|prolong}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: alargar
+    prs:
+    - sound:
+        audio: alarg01sp
+  meta:
+    id: alargar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600858000'
+    src: spanish
+    stems:
+    - alargar
+    - alargarse
+    uuid: d5847af1-be79-418f-8a91-38d0787a8e76
+  shortdef:
+  - to extend, to lengthen
+  - 'prolongar : to prolong'
+  suppl:
+    cjts:
+    - cjfs:
+      - alargando
+      - alargado
+      cjid: gppt
+    - cjfs:
+      - alargo
+      - alargas
+      - alarga
+      - alargamos
+      - "alarg\xE1is"
+      - alargan
+      cjid: pind
+    - cjfs:
+      - alargaba
+      - alargabas
+      - alargaba
+      - "alarg\xE1bamos"
+      - alargabais
+      - alargaban
+      cjid: pret
+    - cjfs:
+      - "alargu\xE9"
+      - alargaste
+      - "alarg\xF3"
+      - alargamos
+      - alargasteis
+      - alargaron
+      cjid: pprf
+    - cjfs:
+      - "alargar\xE9"
+      - "alargar\xE1s"
+      - "alargar\xE1"
+      - alargaremos
+      - "alargar\xE9is"
+      - "alargar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alargar\xEDa"
+      - "alargar\xEDas"
+      - "alargar\xEDa"
+      - "alargar\xEDamos"
+      - "alargar\xEDais"
+      - "alargar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alargue
+      - alargues
+      - alargue
+      - alarguemos
+      - "alargu\xE9is"
+      - alarguen
+      cjid: psub
+    - cjfs:
+      - alargara
+      - alargaras
+      - alargara
+      - "alarg\xE1ramos"
+      - alargarais
+      - alargaran
+      cjid: pisb1
+    - cjfs:
+      - alargase
+      - alargases
+      - alargase
+      - "alarg\xE1semos"
+      - alargaseis
+      - alargasen
+      cjid: pisb2
+    - cjfs:
+      - alargare
+      - alargares
+      - alargare
+      - "alarg\xE1remos"
+      - alargareis
+      - alargaren
+      cjid: fsub
+    - cjfs:
+      - he alargado
+      - has alargado
+      - ha alargado
+      - hemos alargado
+      - "hab\xE9is alargado"
+      - han alargado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alargado"
+      - "hab\xEDas alargado"
+      - "hab\xEDa alargado"
+      - "hab\xEDamos alargado"
+      - "hab\xEDais alargado"
+      - "hab\xEDan alargado"
+      cjid: ppsi
+    - cjfs:
+      - hube alargado
+      - hubiste alargado
+      - hubo alargado
+      - hubimos alargado
+      - hubisteis alargado
+      - hubieron alargado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alargado"
+      - "habr\xE1s alargado"
+      - "habr\xE1 alargado"
+      - habremos alargado
+      - "habr\xE9is alargado"
+      - "habr\xE1n alargado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alargado"
+      - "habr\xEDas alargado"
+      - "habr\xEDa alargado"
+      - "habr\xEDamos alargado"
+      - "habr\xEDais alargado"
+      - "habr\xEDan alargado"
+      cjid: cpef
+    - cjfs:
+      - haya alargado
+      - hayas alargado
+      - haya alargado
+      - hayamos alargado
+      - "hay\xE1is alargado"
+      - hayan alargado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alargado
+      - hubieras alargado
+      - hubiera alargado
+      - "hubi\xE9ramos alargado"
+      - hubierais alargado
+      - hubieran alargado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alargado
+      - hubieses alargado
+      - hubiese alargado
+      - "hubi\xE9semos alargado"
+      - hubieseis alargado
+      - hubiesen alargado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alargado
+      - hubieres alargado
+      - hubiere alargado
+      - "hubi\xE9remos alargado"
+      - hubiereis alargado
+      - hubieren alargado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alarga
+      - alargue
+      - alarguemos
+      - alargad
+      - alarguen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: alargarse

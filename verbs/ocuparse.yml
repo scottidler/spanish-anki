@@ -1,0 +1,231 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|occupy}, to take possession of'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold} (a position)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|employ}, to keep busy'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fill} (space, time)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inhabit} (a dwelling)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bother}, to {a_link|concern}'
+          sn: '6'
+  dros:
+  - def:
+    - sseq:
+      - - - sen
+          - vrs:
+            - va: ocuparse de
+              vac: ~ de
+        - - sense
+          - dt:
+            - - text
+              - '{bc}to be concerned with'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take care of}'
+            sn: '2'
+    drp: ocuparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ocupar
+    prs:
+    - sound:
+        audio: ocupa03sp
+  meta:
+    id: ocupar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616088000'
+    src: spanish
+    stems:
+    - ocupar
+    - ocuparse
+    - ocuparse de
+    uuid: 5c5dded5-0f57-4951-9be6-8bc2657d69cd
+  shortdef:
+  - to occupy, to take possession of
+  - to hold (a position)
+  - to employ, to keep busy
+  suppl:
+    cjts:
+    - cjfs:
+      - ocupando
+      - ocupado
+      cjid: gppt
+    - cjfs:
+      - ocupo
+      - ocupas
+      - ocupa
+      - ocupamos
+      - "ocup\xE1is"
+      - ocupan
+      cjid: pind
+    - cjfs:
+      - ocupaba
+      - ocupabas
+      - ocupaba
+      - "ocup\xE1bamos"
+      - ocupabais
+      - ocupaban
+      cjid: pret
+    - cjfs:
+      - "ocup\xE9"
+      - ocupaste
+      - "ocup\xF3"
+      - ocupamos
+      - ocupasteis
+      - ocuparon
+      cjid: pprf
+    - cjfs:
+      - "ocupar\xE9"
+      - "ocupar\xE1s"
+      - "ocupar\xE1"
+      - ocuparemos
+      - "ocupar\xE9is"
+      - "ocupar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ocupar\xEDa"
+      - "ocupar\xEDas"
+      - "ocupar\xEDa"
+      - "ocupar\xEDamos"
+      - "ocupar\xEDais"
+      - "ocupar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ocupe
+      - ocupes
+      - ocupe
+      - ocupemos
+      - "ocup\xE9is"
+      - ocupen
+      cjid: psub
+    - cjfs:
+      - ocupara
+      - ocuparas
+      - ocupara
+      - "ocup\xE1ramos"
+      - ocuparais
+      - ocuparan
+      cjid: pisb1
+    - cjfs:
+      - ocupase
+      - ocupases
+      - ocupase
+      - "ocup\xE1semos"
+      - ocupaseis
+      - ocupasen
+      cjid: pisb2
+    - cjfs:
+      - ocupare
+      - ocupares
+      - ocupare
+      - "ocup\xE1remos"
+      - ocupareis
+      - ocuparen
+      cjid: fsub
+    - cjfs:
+      - he ocupado
+      - has ocupado
+      - ha ocupado
+      - hemos ocupado
+      - "hab\xE9is ocupado"
+      - han ocupado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ocupado"
+      - "hab\xEDas ocupado"
+      - "hab\xEDa ocupado"
+      - "hab\xEDamos ocupado"
+      - "hab\xEDais ocupado"
+      - "hab\xEDan ocupado"
+      cjid: ppsi
+    - cjfs:
+      - hube ocupado
+      - hubiste ocupado
+      - hubo ocupado
+      - hubimos ocupado
+      - hubisteis ocupado
+      - hubieron ocupado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ocupado"
+      - "habr\xE1s ocupado"
+      - "habr\xE1 ocupado"
+      - habremos ocupado
+      - "habr\xE9is ocupado"
+      - "habr\xE1n ocupado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ocupado"
+      - "habr\xEDas ocupado"
+      - "habr\xEDa ocupado"
+      - "habr\xEDamos ocupado"
+      - "habr\xEDais ocupado"
+      - "habr\xEDan ocupado"
+      cjid: cpef
+    - cjfs:
+      - haya ocupado
+      - hayas ocupado
+      - haya ocupado
+      - hayamos ocupado
+      - "hay\xE1is ocupado"
+      - hayan ocupado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ocupado
+      - hubieras ocupado
+      - hubiera ocupado
+      - "hubi\xE9ramos ocupado"
+      - hubierais ocupado
+      - hubieran ocupado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ocupado
+      - hubieses ocupado
+      - hubiese ocupado
+      - "hubi\xE9semos ocupado"
+      - hubieseis ocupado
+      - hubiesen ocupado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ocupado
+      - hubieres ocupado
+      - hubiere ocupado
+      - "hubi\xE9remos ocupado"
+      - hubiereis ocupado
+      - hubieren ocupado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ocupa
+      - ocupe
+      - ocupemos
+      - ocupad
+      - ocupen
+      cjid: impf

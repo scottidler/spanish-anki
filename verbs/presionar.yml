@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pressure}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|press}, to {a_link|push}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put on the pressure'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: presionar
+    prs:
+    - sound:
+        audio: presi04sp
+  meta:
+    id: presionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618047000'
+    src: spanish
+    stems:
+    - presionar
+    uuid: f51178c2-2e65-4496-8e0d-a153313f826a
+  shortdef:
+  - to pressure
+  - to press, to push
+  - to put on the pressure
+  suppl:
+    cjts:
+    - cjfs:
+      - presionando
+      - presionado
+      cjid: gppt
+    - cjfs:
+      - presiono
+      - presionas
+      - presiona
+      - presionamos
+      - "presion\xE1is"
+      - presionan
+      cjid: pind
+    - cjfs:
+      - presionaba
+      - presionabas
+      - presionaba
+      - "presion\xE1bamos"
+      - presionabais
+      - presionaban
+      cjid: pret
+    - cjfs:
+      - "presion\xE9"
+      - presionaste
+      - "presion\xF3"
+      - presionamos
+      - presionasteis
+      - presionaron
+      cjid: pprf
+    - cjfs:
+      - "presionar\xE9"
+      - "presionar\xE1s"
+      - "presionar\xE1"
+      - presionaremos
+      - "presionar\xE9is"
+      - "presionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "presionar\xEDa"
+      - "presionar\xEDas"
+      - "presionar\xEDa"
+      - "presionar\xEDamos"
+      - "presionar\xEDais"
+      - "presionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - presione
+      - presiones
+      - presione
+      - presionemos
+      - "presion\xE9is"
+      - presionen
+      cjid: psub
+    - cjfs:
+      - presionara
+      - presionaras
+      - presionara
+      - "presion\xE1ramos"
+      - presionarais
+      - presionaran
+      cjid: pisb1
+    - cjfs:
+      - presionase
+      - presionases
+      - presionase
+      - "presion\xE1semos"
+      - presionaseis
+      - presionasen
+      cjid: pisb2
+    - cjfs:
+      - presionare
+      - presionares
+      - presionare
+      - "presion\xE1remos"
+      - presionareis
+      - presionaren
+      cjid: fsub
+    - cjfs:
+      - he presionado
+      - has presionado
+      - ha presionado
+      - hemos presionado
+      - "hab\xE9is presionado"
+      - han presionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa presionado"
+      - "hab\xEDas presionado"
+      - "hab\xEDa presionado"
+      - "hab\xEDamos presionado"
+      - "hab\xEDais presionado"
+      - "hab\xEDan presionado"
+      cjid: ppsi
+    - cjfs:
+      - hube presionado
+      - hubiste presionado
+      - hubo presionado
+      - hubimos presionado
+      - hubisteis presionado
+      - hubieron presionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 presionado"
+      - "habr\xE1s presionado"
+      - "habr\xE1 presionado"
+      - habremos presionado
+      - "habr\xE9is presionado"
+      - "habr\xE1n presionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa presionado"
+      - "habr\xEDas presionado"
+      - "habr\xEDa presionado"
+      - "habr\xEDamos presionado"
+      - "habr\xEDais presionado"
+      - "habr\xEDan presionado"
+      cjid: cpef
+    - cjfs:
+      - haya presionado
+      - hayas presionado
+      - haya presionado
+      - hayamos presionado
+      - "hay\xE1is presionado"
+      - hayan presionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera presionado
+      - hubieras presionado
+      - hubiera presionado
+      - "hubi\xE9ramos presionado"
+      - hubierais presionado
+      - hubieran presionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese presionado
+      - hubieses presionado
+      - hubiese presionado
+      - "hubi\xE9semos presionado"
+      - hubieseis presionado
+      - hubiesen presionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere presionado
+      - hubieres presionado
+      - hubiere presionado
+      - "hubi\xE9remos presionado"
+      - hubiereis presionado
+      - hubieren presionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - presiona
+      - presione
+      - presionemos
+      - presionad
+      - presionen
+      cjid: impf

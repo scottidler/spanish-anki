@@ -1,0 +1,223 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rasurar||} {bc}to {a_link|shave}'
+  fl: transitive verb
+  hwi:
+    hw: afeitar
+    prs:
+    - sound:
+        audio: afeit01sp
+  meta:
+    id: afeitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600607000'
+    src: spanish
+    stems:
+    - afeitar
+    - afeitarse
+    uuid: d009fcf6-379f-4dd7-badc-8b2ec7b1f5ec
+  shortdef:
+  - 'rasurar : to shave'
+  suppl:
+    cjts:
+    - cjfs:
+      - afeitando
+      - afeitado
+      cjid: gppt
+    - cjfs:
+      - afeito
+      - afeitas
+      - afeita
+      - afeitamos
+      - "afeit\xE1is"
+      - afeitan
+      cjid: pind
+    - cjfs:
+      - afeitaba
+      - afeitabas
+      - afeitaba
+      - "afeit\xE1bamos"
+      - afeitabais
+      - afeitaban
+      cjid: pret
+    - cjfs:
+      - "afeit\xE9"
+      - afeitaste
+      - "afeit\xF3"
+      - afeitamos
+      - afeitasteis
+      - afeitaron
+      cjid: pprf
+    - cjfs:
+      - "afeitar\xE9"
+      - "afeitar\xE1s"
+      - "afeitar\xE1"
+      - afeitaremos
+      - "afeitar\xE9is"
+      - "afeitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "afeitar\xEDa"
+      - "afeitar\xEDas"
+      - "afeitar\xEDa"
+      - "afeitar\xEDamos"
+      - "afeitar\xEDais"
+      - "afeitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - afeite
+      - afeites
+      - afeite
+      - afeitemos
+      - "afeit\xE9is"
+      - afeiten
+      cjid: psub
+    - cjfs:
+      - afeitara
+      - afeitaras
+      - afeitara
+      - "afeit\xE1ramos"
+      - afeitarais
+      - afeitaran
+      cjid: pisb1
+    - cjfs:
+      - afeitase
+      - afeitases
+      - afeitase
+      - "afeit\xE1semos"
+      - afeitaseis
+      - afeitasen
+      cjid: pisb2
+    - cjfs:
+      - afeitare
+      - afeitares
+      - afeitare
+      - "afeit\xE1remos"
+      - afeitareis
+      - afeitaren
+      cjid: fsub
+    - cjfs:
+      - he afeitado
+      - has afeitado
+      - ha afeitado
+      - hemos afeitado
+      - "hab\xE9is afeitado"
+      - han afeitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa afeitado"
+      - "hab\xEDas afeitado"
+      - "hab\xEDa afeitado"
+      - "hab\xEDamos afeitado"
+      - "hab\xEDais afeitado"
+      - "hab\xEDan afeitado"
+      cjid: ppsi
+    - cjfs:
+      - hube afeitado
+      - hubiste afeitado
+      - hubo afeitado
+      - hubimos afeitado
+      - hubisteis afeitado
+      - hubieron afeitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 afeitado"
+      - "habr\xE1s afeitado"
+      - "habr\xE1 afeitado"
+      - habremos afeitado
+      - "habr\xE9is afeitado"
+      - "habr\xE1n afeitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa afeitado"
+      - "habr\xEDas afeitado"
+      - "habr\xEDa afeitado"
+      - "habr\xEDamos afeitado"
+      - "habr\xEDais afeitado"
+      - "habr\xEDan afeitado"
+      cjid: cpef
+    - cjfs:
+      - haya afeitado
+      - hayas afeitado
+      - haya afeitado
+      - hayamos afeitado
+      - "hay\xE1is afeitado"
+      - hayan afeitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera afeitado
+      - hubieras afeitado
+      - hubiera afeitado
+      - "hubi\xE9ramos afeitado"
+      - hubierais afeitado
+      - hubieran afeitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese afeitado
+      - hubieses afeitado
+      - hubiese afeitado
+      - "hubi\xE9semos afeitado"
+      - hubieseis afeitado
+      - hubiesen afeitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere afeitado
+      - hubieres afeitado
+      - hubiere afeitado
+      - "hubi\xE9remos afeitado"
+      - hubiereis afeitado
+      - hubieren afeitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - afeita
+      - afeite
+      - afeitemos
+      - afeitad
+      - afeiten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: afeitarse
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pocketknife}, {a_link|penknife} '
+          - - vis
+            - - t: navaja de muelle
+                tr: switchblade
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|straight razor}'
+          sn: '2'
+          vrs:
+          - va: navaja de afeitar
+  fl: feminine noun
+  hwi:
+    hw: navaja
+    prs:
+    - sound:
+        audio: navaj01sp
+  meta:
+    id: navaja
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615637000'
+    src: spanish
+    stems:
+    - navaja
+    - navaja de afeitar
+    uuid: b55b2b14-0bdb-4232-b7ab-1f39e19bd828
+  shortdef:
+  - pocketknife, penknife
+  - straight razor

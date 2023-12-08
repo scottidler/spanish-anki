@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|center}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|focus}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to focus on, to concentrate on'
+            vrs:
+            - va: centrarse en
+              vac: ~ en
+    drp: centrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: centrar
+  meta:
+    id: centrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604336000'
+    src: spanish
+    stems:
+    - centrar
+    - centrarse
+    - centrarse en
+    uuid: be726ded-1b11-410b-992c-f2138738f29b
+  shortdef:
+  - to center
+  - to focus
+  suppl:
+    cjts:
+    - cjfs:
+      - centrando
+      - centrado
+      cjid: gppt
+    - cjfs:
+      - centro
+      - centras
+      - centra
+      - centramos
+      - "centr\xE1is"
+      - centran
+      cjid: pind
+    - cjfs:
+      - centraba
+      - centrabas
+      - centraba
+      - "centr\xE1bamos"
+      - centrabais
+      - centraban
+      cjid: pret
+    - cjfs:
+      - "centr\xE9"
+      - centraste
+      - "centr\xF3"
+      - centramos
+      - centrasteis
+      - centraron
+      cjid: pprf
+    - cjfs:
+      - "centrar\xE9"
+      - "centrar\xE1s"
+      - "centrar\xE1"
+      - centraremos
+      - "centrar\xE9is"
+      - "centrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "centrar\xEDa"
+      - "centrar\xEDas"
+      - "centrar\xEDa"
+      - "centrar\xEDamos"
+      - "centrar\xEDais"
+      - "centrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - centre
+      - centres
+      - centre
+      - centremos
+      - "centr\xE9is"
+      - centren
+      cjid: psub
+    - cjfs:
+      - centrara
+      - centraras
+      - centrara
+      - "centr\xE1ramos"
+      - centrarais
+      - centraran
+      cjid: pisb1
+    - cjfs:
+      - centrase
+      - centrases
+      - centrase
+      - "centr\xE1semos"
+      - centraseis
+      - centrasen
+      cjid: pisb2
+    - cjfs:
+      - centrare
+      - centrares
+      - centrare
+      - "centr\xE1remos"
+      - centrareis
+      - centraren
+      cjid: fsub
+    - cjfs:
+      - he centrado
+      - has centrado
+      - ha centrado
+      - hemos centrado
+      - "hab\xE9is centrado"
+      - han centrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa centrado"
+      - "hab\xEDas centrado"
+      - "hab\xEDa centrado"
+      - "hab\xEDamos centrado"
+      - "hab\xEDais centrado"
+      - "hab\xEDan centrado"
+      cjid: ppsi
+    - cjfs:
+      - hube centrado
+      - hubiste centrado
+      - hubo centrado
+      - hubimos centrado
+      - hubisteis centrado
+      - hubieron centrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 centrado"
+      - "habr\xE1s centrado"
+      - "habr\xE1 centrado"
+      - habremos centrado
+      - "habr\xE9is centrado"
+      - "habr\xE1n centrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa centrado"
+      - "habr\xEDas centrado"
+      - "habr\xEDa centrado"
+      - "habr\xEDamos centrado"
+      - "habr\xEDais centrado"
+      - "habr\xEDan centrado"
+      cjid: cpef
+    - cjfs:
+      - haya centrado
+      - hayas centrado
+      - haya centrado
+      - hayamos centrado
+      - "hay\xE1is centrado"
+      - hayan centrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera centrado
+      - hubieras centrado
+      - hubiera centrado
+      - "hubi\xE9ramos centrado"
+      - hubierais centrado
+      - hubieran centrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese centrado
+      - hubieses centrado
+      - hubiese centrado
+      - "hubi\xE9semos centrado"
+      - hubieseis centrado
+      - hubiesen centrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere centrado
+      - hubieres centrado
+      - hubiere centrado
+      - "hubi\xE9remos centrado"
+      - hubiereis centrado
+      - hubieren centrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - centra
+      - centre
+      - centremos
+      - centrad
+      - centren
+      cjid: impf

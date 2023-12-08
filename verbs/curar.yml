@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cure}, to {a_link|heal}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|treat}, to {a_link|dress}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|curtir||} {bc}to {a_link|tan}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cure} (meat)'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get well, to {a_link|recover}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: curar
+    prs:
+    - sound:
+        audio: curar01sp
+  meta:
+    id: curar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606377000'
+    src: spanish
+    stems:
+    - curar
+    - curarse
+    uuid: cb8ba0ad-9864-485c-b818-54b834a02b27
+  shortdef:
+  - to cure, to heal
+  - to treat, to dress
+  - 'curtir : to tan'
+  suppl:
+    cjts:
+    - cjfs:
+      - curando
+      - curado
+      cjid: gppt
+    - cjfs:
+      - curo
+      - curas
+      - cura
+      - curamos
+      - "cur\xE1is"
+      - curan
+      cjid: pind
+    - cjfs:
+      - curaba
+      - curabas
+      - curaba
+      - "cur\xE1bamos"
+      - curabais
+      - curaban
+      cjid: pret
+    - cjfs:
+      - "cur\xE9"
+      - curaste
+      - "cur\xF3"
+      - curamos
+      - curasteis
+      - curaron
+      cjid: pprf
+    - cjfs:
+      - "curar\xE9"
+      - "curar\xE1s"
+      - "curar\xE1"
+      - curaremos
+      - "curar\xE9is"
+      - "curar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "curar\xEDa"
+      - "curar\xEDas"
+      - "curar\xEDa"
+      - "curar\xEDamos"
+      - "curar\xEDais"
+      - "curar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cure
+      - cures
+      - cure
+      - curemos
+      - "cur\xE9is"
+      - curen
+      cjid: psub
+    - cjfs:
+      - curara
+      - curaras
+      - curara
+      - "cur\xE1ramos"
+      - curarais
+      - curaran
+      cjid: pisb1
+    - cjfs:
+      - curase
+      - curases
+      - curase
+      - "cur\xE1semos"
+      - curaseis
+      - curasen
+      cjid: pisb2
+    - cjfs:
+      - curare
+      - curares
+      - curare
+      - "cur\xE1remos"
+      - curareis
+      - curaren
+      cjid: fsub
+    - cjfs:
+      - he curado
+      - has curado
+      - ha curado
+      - hemos curado
+      - "hab\xE9is curado"
+      - han curado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa curado"
+      - "hab\xEDas curado"
+      - "hab\xEDa curado"
+      - "hab\xEDamos curado"
+      - "hab\xEDais curado"
+      - "hab\xEDan curado"
+      cjid: ppsi
+    - cjfs:
+      - hube curado
+      - hubiste curado
+      - hubo curado
+      - hubimos curado
+      - hubisteis curado
+      - hubieron curado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 curado"
+      - "habr\xE1s curado"
+      - "habr\xE1 curado"
+      - habremos curado
+      - "habr\xE9is curado"
+      - "habr\xE1n curado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa curado"
+      - "habr\xEDas curado"
+      - "habr\xEDa curado"
+      - "habr\xEDamos curado"
+      - "habr\xEDais curado"
+      - "habr\xEDan curado"
+      cjid: cpef
+    - cjfs:
+      - haya curado
+      - hayas curado
+      - haya curado
+      - hayamos curado
+      - "hay\xE1is curado"
+      - hayan curado
+      cjid: ppfs
+    - cjfs:
+      - hubiera curado
+      - hubieras curado
+      - hubiera curado
+      - "hubi\xE9ramos curado"
+      - hubierais curado
+      - hubieran curado
+      cjid: ppss1
+    - cjfs:
+      - hubiese curado
+      - hubieses curado
+      - hubiese curado
+      - "hubi\xE9semos curado"
+      - hubieseis curado
+      - hubiesen curado
+      cjid: ppss2
+    - cjfs:
+      - hubiere curado
+      - hubieres curado
+      - hubiere curado
+      - "hubi\xE9remos curado"
+      - hubiereis curado
+      - hubieren curado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cura
+      - cure
+      - curemos
+      - curad
+      - curen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: curarse

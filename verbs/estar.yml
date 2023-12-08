@@ -1,0 +1,744 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: "estoy aprendiendo ingl\xE9s"
+                tr: I'm learning English
+              - t: "est\xE1 terminado"
+                tr: it's finished
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: "est\xE1 lleno"
+                tr: it's full
+              - t: "est\xE1 claro que \u2026"
+                tr: "it's clear that \u2026"
+              - t: "\xBFya est\xE1s mejor?"
+                tr: are you feeling better now?
+              - t: estoy casado
+                tr: I'm married
+              - t: "est\xE1 sin trabajo"
+                tr: she's out of work, she has no job
+              - t: "est\xE1 muy alto"
+                tr: he's so tall, he's gotten very tall
+          sls:
+          - (indicating a state or condition)
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: "est\xE1n en la mesa"
+                tr: they're on the table
+              - t: "estamos en la p\xE1gina 2"
+                tr: we're on page 2
+              - t: "ah\xED est\xE1 el problema"
+                tr: therein lies the problem
+          sls:
+          - (indicating location)
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be at home '
+          - - vis
+            - - t: "\xBFest\xE1 Julia?"
+                tr: is Julia in?
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be}, to {a_link|remain} '
+          - - vis
+            - - t: "estar\xE9 aqu\xED 5 d\xEDas"
+                tr: I'll be here for 5 days
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be ready, to be done '
+          - - vis
+            - - t: "estar\xE1 para las diez"
+                tr: it will be ready by ten o'clock
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree} '
+          - - vis
+            - - t: "\xBFestamos?"
+                tr: are we in agreement?
+              - t: estoy contigo
+                tr: I'm with you
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}how are you?'
+          sn: '7'
+          vrs:
+          - va: "\xBFc\xF3mo est\xE1s?"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}all right!, that''s fine!'
+          sn: '8'
+          vrs:
+          - va: "\xA1est\xE1 bien!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cost}'
+          sn: '9'
+          vrs:
+          - va: estar a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: "\xBFa qu\xE9 d\xEDa estamos?"
+                tr: what day is today?, what's today's date?
+              - t: "est\xE1 a 15 kil\xF3metros del centro"
+                tr: it's 15 kilometers from the downtown
+          sn: '10'
+          vrs:
+          - va: estar a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have} '
+          - - vis
+            - - t: "est\xE1 con fiebre"
+                tr: she has a fever
+          sn: '11'
+          vrs:
+          - va: estar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: estoy de vacaciones
+                tr: I'm on vacation
+              - t: "est\xE1 de director hoy"
+                tr: he's acting as director today
+          sn: '12'
+          vrs:
+          - va: estar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be well/sick'
+          sn: '13'
+          vrs:
+          - va: estar bien/mal
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in the mood for'
+          sn: '14'
+          vrs:
+          - va: estar para
+            vac: ~ para
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be for (a purpose) '
+          - - vis
+            - - t: "para eso est\xE1"
+                tr: that's what it's here for
+          sn: '15'
+          vrs:
+          - va: estar para
+            vac: ~ para
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in favor of'
+          sn: '16'
+          vrs:
+          - va: estar por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be about to} '
+          - - vis
+            - - t: "est\xE1 por cerrar"
+                tr: it's on the verge of closing
+          sn: '17'
+          vrs:
+          - va: estar por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be unnecessary'
+          sn: '18'
+          vrs:
+          - va: "estar de m\xE1s"
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "est\xE1 que echa chispas"
+                tr: he's hopping mad
+          sls:
+          - (indicating a state or condition)
+          sn: '19'
+          vrs:
+          - va: estar que
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|quedarse||} {bc}to {a_link|stay}, to {a_link|remain} '
+            - - vis
+              - - t: "\xA1est\xE1te quieto!"
+                  tr: be still!
+    drp: estarse
+    fl: reflexive verb
+  fl: auxiliary verb
+  hwi:
+    hw: estar
+    prs:
+    - sound:
+        audio: estar01sp
+  meta:
+    id: estar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609321000'
+    src: spanish
+    stems:
+    - estar
+    - "\xBFc\xF3mo est\xE1s?"
+    - "\xA1est\xE1 bien!"
+    - estar a
+    - estar con
+    - estar de
+    - estar bien/mal
+    - estar bien
+    - estar mal
+    - estar para
+    - estar por
+    - "estar de m\xE1s"
+    - estar que
+    - estarse
+    uuid: ff2d4526-bd83-4f91-892f-3815a2640cd9
+  shortdef:
+  - to be
+  - to be
+  - to be
+  suppl:
+    cjts:
+    - cjfs:
+      - estando
+      - estado
+      cjid: gppt
+    - cjfs:
+      - estoy
+      - "est\xE1s"
+      - "est\xE1"
+      - estamos
+      - "est\xE1is"
+      - "est\xE1n"
+      cjid: pind
+    - cjfs:
+      - estaba
+      - estabas
+      - estaba
+      - "est\xE1bamos"
+      - estabais
+      - estaban
+      cjid: pret
+    - cjfs:
+      - estuve
+      - estuviste
+      - estuvo
+      - estuvimos
+      - estuvisteis
+      - estuvieron
+      cjid: pprf
+    - cjfs:
+      - "estar\xE9"
+      - "estar\xE1s"
+      - "estar\xE1"
+      - estaremos
+      - "estar\xE9is"
+      - "estar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estar\xEDa"
+      - "estar\xEDas"
+      - "estar\xEDa"
+      - "estar\xEDamos"
+      - "estar\xEDais"
+      - "estar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "est\xE9"
+      - "est\xE9s"
+      - "est\xE9"
+      - estemos
+      - "est\xE9is"
+      - "est\xE9n"
+      cjid: psub
+    - cjfs:
+      - estuviera
+      - estuvieras
+      - estuviera
+      - "estuvi\xE9ramos"
+      - estuvierais
+      - estuvieran
+      cjid: pisb1
+    - cjfs:
+      - estuviese
+      - estuvieses
+      - estuviese
+      - "estuvi\xE9semos"
+      - estuvieseis
+      - estuviesen
+      cjid: pisb2
+    - cjfs:
+      - estuviere
+      - estuvieres
+      - estuviere
+      - "estuvi\xE9remos"
+      - estuviereis
+      - estuvieren
+      cjid: fsub
+    - cjfs:
+      - he estado
+      - has estado
+      - ha estado
+      - hemos estado
+      - "hab\xE9is estado"
+      - han estado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estado"
+      - "hab\xEDas estado"
+      - "hab\xEDa estado"
+      - "hab\xEDamos estado"
+      - "hab\xEDais estado"
+      - "hab\xEDan estado"
+      cjid: ppsi
+    - cjfs:
+      - hube estado
+      - hubiste estado
+      - hubo estado
+      - hubimos estado
+      - hubisteis estado
+      - hubieron estado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estado"
+      - "habr\xE1s estado"
+      - "habr\xE1 estado"
+      - habremos estado
+      - "habr\xE9is estado"
+      - "habr\xE1n estado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estado"
+      - "habr\xEDas estado"
+      - "habr\xEDa estado"
+      - "habr\xEDamos estado"
+      - "habr\xEDais estado"
+      - "habr\xEDan estado"
+      cjid: cpef
+    - cjfs:
+      - haya estado
+      - hayas estado
+      - haya estado
+      - hayamos estado
+      - "hay\xE1is estado"
+      - hayan estado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estado
+      - hubieras estado
+      - hubiera estado
+      - "hubi\xE9ramos estado"
+      - hubierais estado
+      - hubieran estado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estado
+      - hubieses estado
+      - hubiese estado
+      - "hubi\xE9semos estado"
+      - hubieseis estado
+      - hubiesen estado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estado
+      - hubieres estado
+      - hubiere estado
+      - "hubi\xE9remos estado"
+      - hubiereis estado
+      - hubieren estado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "est\xE1"
+      - "est\xE9"
+      - estemos
+      - estad
+      - "est\xE9n"
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|agreement}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree}'
+          sn: '2'
+          vrs:
+          - va: estar de acuerdo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in accordance with}'
+          sn: '3'
+          vrs:
+          - va: de acuerdo con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|OK}, {a_link|all right}'
+          sn: '4'
+          vrs:
+          - va: de acuerdo
+            vac: de ~
+  fl: masculine noun
+  hwi:
+    hw: acuerdo
+    prs:
+    - sound:
+        audio: acuer01sp
+  meta:
+    id: acuerdo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600401000'
+    src: spanish
+    stems:
+    - acuerdo
+    - estar de acuerdo
+    - de acuerdo con
+    - de acuerdo
+    uuid: 67b87130-281c-404d-a5dc-eab3479e50fd
+  shortdef:
+  - agreement
+  - to agree
+  - in accordance with
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|disgust} '
+          - - vis
+            - - t: "\xA1qu\xE9 asco!"
+                tr: that's disgusting!, how revolting!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to disgust someone'
+          sn: '2'
+          vrs:
+          - va: darle asco a alguien
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be filthy'
+          sn: '3'
+          vrs:
+          - va: estar hecho un asco
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to turn up one''s nose at something'
+          sn: '4'
+          vrs:
+          - va: hacerle ascos a algo
+  fl: masculine noun
+  hwi:
+    hw: asco
+    prs:
+    - sound:
+        audio: asco001sp
+  meta:
+    id: asco
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602110000'
+    src: spanish
+    stems:
+    - asco
+    - darle asco a alguien
+    - estar hecho un asco
+    - hacerle ascos a algo
+    uuid: 080bf458-1273-4862-ad90-a7a5fc3cf008
+  shortdef:
+  - disgust
+  - to disgust someone
+  - to be filthy
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|brasa||} {bc}{a_link|ember}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be on edge}'
+          sls:
+          - familiar
+          sn: '2'
+          vrs:
+          - va: estar en ascuas
+  fl: feminine noun
+  hwi:
+    hw: ascua
+  meta:
+    id: ascua
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602111000'
+    src: spanish
+    stems:
+    - ascua
+    - estar en ascuas
+    uuid: 49792bcb-920f-4108-b4e0-f152e465a924
+  shortdef:
+  - 'brasa : ember'
+  - to be on edge
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|notice}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|advertisement}, {a_link|ad}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|advertencia||} {bc}{a_link|warning}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be on the alert'
+          sn: '4'
+          vrs:
+          - va: estar sobre aviso
+  fl: masculine noun
+  hwi:
+    hw: aviso
+    prs:
+    - sound:
+        audio: aviso01sp
+  meta:
+    id: aviso
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602565000'
+    src: spanish
+    stems:
+    - aviso
+    - estar sobre aviso
+    uuid: 9833292c-6ac8-4895-a82a-72b4b9ebdf12
+  shortdef:
+  - notice
+  - advertisement, ad
+  - 'advertencia : warning'
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}not to be in one''s right mind'
+          vrs:
+          - va: no estar en sus cabales
+  fl: masculine plural noun
+  hwi:
+    hw: cabales
+    prs:
+    - sound:
+        audio: cabal01sp
+  meta:
+    id: cabales
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603478000'
+    src: spanish
+    stems:
+    - cabales
+    - no estar en sus cabales
+    uuid: 9ec79ec5-d260-4591-a0a8-5ab8e5fe1ee9
+  shortdef:
+  - not to be in one's right mind
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|candlestick}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be in the spotlight}'
+          sn: '2'
+          vrs:
+          - va: estar en el candelero
+  fl: masculine noun
+  hwi:
+    hw: candelero
+  meta:
+    id: candelero
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603813000'
+    src: spanish
+    stems:
+    - candelero
+    - estar en el candelero
+    uuid: 599c338c-376c-4772-a8a0-2d13a07cd3ea
+  shortdef:
+  - candlestick
+  - to be in the spotlight
+- ahws:
+  - hw: constipada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a cold'
+          vrs:
+          - va: estar constipado
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: constipado
+    prs:
+    - sound:
+        audio: const05sp
+  meta:
+    id: constipado:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605622000'
+    src: spanish
+    stems:
+    - constipado
+    - constipada
+    - estar constipado
+    uuid: a8f84cd4-9f1a-4701-951a-4944dcbc3141
+  shortdef:
+  - to have a cold
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tuft} (of hair)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be completely fed up'
+          sn: '2'
+          vrs:
+          - va: estar hasta el copete
+  fl: masculine noun
+  hwi:
+    hw: copete
+    prs:
+    - sound:
+        audio: copet01sp
+  meta:
+    id: copete
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605850000'
+    src: spanish
+    stems:
+    - copete
+    - estar hasta el copete
+    uuid: a4ce6d3e-a14c-4790-a97a-32648c1162d8
+  shortdef:
+  - tuft (of hair)
+  - to be completely fed up
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|crown} (of the head)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be completely fed up'
+          sn: '2'
+          vrs:
+          - va: estar hasta la coronilla
+  fl: feminine noun
+  hwi:
+    hw: coronilla
+  meta:
+    id: coronilla
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605919000'
+    src: spanish
+    stems:
+    - coronilla
+    - estar hasta la coronilla
+    uuid: 4eaee434-4ea4-4b3d-9ca8-3c175cfbcad2
+  shortdef:
+  - crown (of the head)
+  - to be completely fed up

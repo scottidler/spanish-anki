@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|edify}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|construir||} {bc}to {a_link|build}, to {a_link|construct}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: edificar
+  meta:
+    id: edificar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608057000'
+    src: spanish
+    stems:
+    - edificar
+    uuid: 0b2dd132-c8cc-4414-a183-769f17729ead
+  shortdef:
+  - to edify
+  - 'construir : to build, to construct'
+  suppl:
+    cjts:
+    - cjfs:
+      - edificando
+      - edificado
+      cjid: gppt
+    - cjfs:
+      - edifico
+      - edificas
+      - edifica
+      - edificamos
+      - "edific\xE1is"
+      - edifican
+      cjid: pind
+    - cjfs:
+      - edificaba
+      - edificabas
+      - edificaba
+      - "edific\xE1bamos"
+      - edificabais
+      - edificaban
+      cjid: pret
+    - cjfs:
+      - "edifiqu\xE9"
+      - edificaste
+      - "edific\xF3"
+      - edificamos
+      - edificasteis
+      - edificaron
+      cjid: pprf
+    - cjfs:
+      - "edificar\xE9"
+      - "edificar\xE1s"
+      - "edificar\xE1"
+      - edificaremos
+      - "edificar\xE9is"
+      - "edificar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "edificar\xEDa"
+      - "edificar\xEDas"
+      - "edificar\xEDa"
+      - "edificar\xEDamos"
+      - "edificar\xEDais"
+      - "edificar\xEDan"
+      cjid: cond
+    - cjfs:
+      - edifique
+      - edifiques
+      - edifique
+      - edifiquemos
+      - "edifiqu\xE9is"
+      - edifiquen
+      cjid: psub
+    - cjfs:
+      - edificara
+      - edificaras
+      - edificara
+      - "edific\xE1ramos"
+      - edificarais
+      - edificaran
+      cjid: pisb1
+    - cjfs:
+      - edificase
+      - edificases
+      - edificase
+      - "edific\xE1semos"
+      - edificaseis
+      - edificasen
+      cjid: pisb2
+    - cjfs:
+      - edificare
+      - edificares
+      - edificare
+      - "edific\xE1remos"
+      - edificareis
+      - edificaren
+      cjid: fsub
+    - cjfs:
+      - he edificado
+      - has edificado
+      - ha edificado
+      - hemos edificado
+      - "hab\xE9is edificado"
+      - han edificado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa edificado"
+      - "hab\xEDas edificado"
+      - "hab\xEDa edificado"
+      - "hab\xEDamos edificado"
+      - "hab\xEDais edificado"
+      - "hab\xEDan edificado"
+      cjid: ppsi
+    - cjfs:
+      - hube edificado
+      - hubiste edificado
+      - hubo edificado
+      - hubimos edificado
+      - hubisteis edificado
+      - hubieron edificado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 edificado"
+      - "habr\xE1s edificado"
+      - "habr\xE1 edificado"
+      - habremos edificado
+      - "habr\xE9is edificado"
+      - "habr\xE1n edificado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa edificado"
+      - "habr\xEDas edificado"
+      - "habr\xEDa edificado"
+      - "habr\xEDamos edificado"
+      - "habr\xEDais edificado"
+      - "habr\xEDan edificado"
+      cjid: cpef
+    - cjfs:
+      - haya edificado
+      - hayas edificado
+      - haya edificado
+      - hayamos edificado
+      - "hay\xE1is edificado"
+      - hayan edificado
+      cjid: ppfs
+    - cjfs:
+      - hubiera edificado
+      - hubieras edificado
+      - hubiera edificado
+      - "hubi\xE9ramos edificado"
+      - hubierais edificado
+      - hubieran edificado
+      cjid: ppss1
+    - cjfs:
+      - hubiese edificado
+      - hubieses edificado
+      - hubiese edificado
+      - "hubi\xE9semos edificado"
+      - hubieseis edificado
+      - hubiesen edificado
+      cjid: ppss2
+    - cjfs:
+      - hubiere edificado
+      - hubieres edificado
+      - hubiere edificado
+      - "hubi\xE9remos edificado"
+      - hubiereis edificado
+      - hubieren edificado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - edifica
+      - edifique
+      - edifiquemos
+      - edificad
+      - edifiquen
+      cjid: impf

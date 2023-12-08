@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|moan}, to {a_link|groan}, to {a_link|wail}'
+  fl: intransitive verb
+  hwi:
+    hw: gemir
+    prs:
+    - sound:
+        audio: gemir01sp
+  meta:
+    id: gemir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610755000'
+    src: spanish
+    stems:
+    - gemir
+    uuid: 75ad8ceb-2694-4dbc-9b3c-fe47e9a46fca
+  shortdef:
+  - to moan, to groan, to wail
+  suppl:
+    cjts:
+    - cjfs:
+      - gimiendo
+      - gemido
+      cjid: gppt
+    - cjfs:
+      - gimo
+      - gimes
+      - gime
+      - gemimos
+      - "gem\xEDs"
+      - gimen
+      cjid: pind
+    - cjfs:
+      - "gem\xEDa"
+      - "gem\xEDas"
+      - "gem\xEDa"
+      - "gem\xEDamos"
+      - "gem\xEDais"
+      - "gem\xEDan"
+      cjid: pret
+    - cjfs:
+      - "gem\xED"
+      - gemiste
+      - "gimi\xF3"
+      - gemimos
+      - gemisteis
+      - gimieron
+      cjid: pprf
+    - cjfs:
+      - "gemir\xE9"
+      - "gemir\xE1s"
+      - "gemir\xE1"
+      - gemiremos
+      - "gemir\xE9is"
+      - "gemir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gemir\xEDa"
+      - "gemir\xEDas"
+      - "gemir\xEDa"
+      - "gemir\xEDamos"
+      - "gemir\xEDais"
+      - "gemir\xEDan"
+      cjid: cond
+    - cjfs:
+      - gima
+      - gimas
+      - gima
+      - gimamos
+      - "gim\xE1is"
+      - giman
+      cjid: psub
+    - cjfs:
+      - gimiera
+      - gimieras
+      - gimiera
+      - "gimi\xE9ramos"
+      - gimierais
+      - gimieran
+      cjid: pisb1
+    - cjfs:
+      - gimiese
+      - gimieses
+      - gimiese
+      - "gimi\xE9semos"
+      - gimieseis
+      - gimiesen
+      cjid: pisb2
+    - cjfs:
+      - gimiere
+      - gimieres
+      - gimiere
+      - "gimi\xE9remos"
+      - gimiereis
+      - gimieren
+      cjid: fsub
+    - cjfs:
+      - he gemido
+      - has gemido
+      - ha gemido
+      - hemos gemido
+      - "hab\xE9is gemido"
+      - han gemido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gemido"
+      - "hab\xEDas gemido"
+      - "hab\xEDa gemido"
+      - "hab\xEDamos gemido"
+      - "hab\xEDais gemido"
+      - "hab\xEDan gemido"
+      cjid: ppsi
+    - cjfs:
+      - hube gemido
+      - hubiste gemido
+      - hubo gemido
+      - hubimos gemido
+      - hubisteis gemido
+      - hubieron gemido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gemido"
+      - "habr\xE1s gemido"
+      - "habr\xE1 gemido"
+      - habremos gemido
+      - "habr\xE9is gemido"
+      - "habr\xE1n gemido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gemido"
+      - "habr\xEDas gemido"
+      - "habr\xEDa gemido"
+      - "habr\xEDamos gemido"
+      - "habr\xEDais gemido"
+      - "habr\xEDan gemido"
+      cjid: cpef
+    - cjfs:
+      - haya gemido
+      - hayas gemido
+      - haya gemido
+      - hayamos gemido
+      - "hay\xE1is gemido"
+      - hayan gemido
+      cjid: ppfs
+    - cjfs:
+      - hubiera gemido
+      - hubieras gemido
+      - hubiera gemido
+      - "hubi\xE9ramos gemido"
+      - hubierais gemido
+      - hubieran gemido
+      cjid: ppss1
+    - cjfs:
+      - hubiese gemido
+      - hubieses gemido
+      - hubiese gemido
+      - "hubi\xE9semos gemido"
+      - hubieseis gemido
+      - hubiesen gemido
+      cjid: ppss2
+    - cjfs:
+      - hubiere gemido
+      - hubieres gemido
+      - hubiere gemido
+      - "hubi\xE9remos gemido"
+      - hubiereis gemido
+      - hubieren gemido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gime
+      - gima
+      - gimamos
+      - gemid
+      - giman
+      cjid: impf

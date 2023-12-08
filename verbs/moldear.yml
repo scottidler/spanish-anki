@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|formar||} {bc}to {a_link|mold}, to {a_link|shape}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cast}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: moldear
+    prs:
+    - sound:
+        audio: molde02sp
+  meta:
+    id: moldear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615220000'
+    src: spanish
+    stems:
+    - moldear
+    uuid: e07fbd8a-0e1e-482d-bc21-6bdd30af05c3
+  shortdef:
+  - 'formar : to mold, to shape'
+  - to cast
+  suppl:
+    cjts:
+    - cjfs:
+      - moldeando
+      - moldeado
+      cjid: gppt
+    - cjfs:
+      - moldeo
+      - moldeas
+      - moldea
+      - moldeamos
+      - "molde\xE1is"
+      - moldean
+      cjid: pind
+    - cjfs:
+      - moldeaba
+      - moldeabas
+      - moldeaba
+      - "molde\xE1bamos"
+      - moldeabais
+      - moldeaban
+      cjid: pret
+    - cjfs:
+      - "molde\xE9"
+      - moldeaste
+      - "molde\xF3"
+      - moldeamos
+      - moldeasteis
+      - moldearon
+      cjid: pprf
+    - cjfs:
+      - "moldear\xE9"
+      - "moldear\xE1s"
+      - "moldear\xE1"
+      - moldearemos
+      - "moldear\xE9is"
+      - "moldear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "moldear\xEDa"
+      - "moldear\xEDas"
+      - "moldear\xEDa"
+      - "moldear\xEDamos"
+      - "moldear\xEDais"
+      - "moldear\xEDan"
+      cjid: cond
+    - cjfs:
+      - moldee
+      - moldees
+      - moldee
+      - moldeemos
+      - "molde\xE9is"
+      - moldeen
+      cjid: psub
+    - cjfs:
+      - moldeara
+      - moldearas
+      - moldeara
+      - "molde\xE1ramos"
+      - moldearais
+      - moldearan
+      cjid: pisb1
+    - cjfs:
+      - moldease
+      - moldeases
+      - moldease
+      - "molde\xE1semos"
+      - moldeaseis
+      - moldeasen
+      cjid: pisb2
+    - cjfs:
+      - moldeare
+      - moldeares
+      - moldeare
+      - "molde\xE1remos"
+      - moldeareis
+      - moldearen
+      cjid: fsub
+    - cjfs:
+      - he moldeado
+      - has moldeado
+      - ha moldeado
+      - hemos moldeado
+      - "hab\xE9is moldeado"
+      - han moldeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa moldeado"
+      - "hab\xEDas moldeado"
+      - "hab\xEDa moldeado"
+      - "hab\xEDamos moldeado"
+      - "hab\xEDais moldeado"
+      - "hab\xEDan moldeado"
+      cjid: ppsi
+    - cjfs:
+      - hube moldeado
+      - hubiste moldeado
+      - hubo moldeado
+      - hubimos moldeado
+      - hubisteis moldeado
+      - hubieron moldeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 moldeado"
+      - "habr\xE1s moldeado"
+      - "habr\xE1 moldeado"
+      - habremos moldeado
+      - "habr\xE9is moldeado"
+      - "habr\xE1n moldeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa moldeado"
+      - "habr\xEDas moldeado"
+      - "habr\xEDa moldeado"
+      - "habr\xEDamos moldeado"
+      - "habr\xEDais moldeado"
+      - "habr\xEDan moldeado"
+      cjid: cpef
+    - cjfs:
+      - haya moldeado
+      - hayas moldeado
+      - haya moldeado
+      - hayamos moldeado
+      - "hay\xE1is moldeado"
+      - hayan moldeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera moldeado
+      - hubieras moldeado
+      - hubiera moldeado
+      - "hubi\xE9ramos moldeado"
+      - hubierais moldeado
+      - hubieran moldeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese moldeado
+      - hubieses moldeado
+      - hubiese moldeado
+      - "hubi\xE9semos moldeado"
+      - hubieseis moldeado
+      - hubiesen moldeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere moldeado
+      - hubieres moldeado
+      - hubiere moldeado
+      - "hubi\xE9remos moldeado"
+      - hubiereis moldeado
+      - hubieren moldeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - moldea
+      - moldee
+      - moldeemos
+      - moldead
+      - moldeen
+      cjid: impf

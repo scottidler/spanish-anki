@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|frequent}, to {a_link|haunt}'
+  fl: transitive verb
+  hwi:
+    hw: frecuentar
+  meta:
+    id: frecuentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610414000'
+    src: spanish
+    stems:
+    - frecuentar
+    uuid: 2e21bf68-7159-4db8-9a30-3df1c035f9e2
+  shortdef:
+  - to frequent, to haunt
+  suppl:
+    cjts:
+    - cjfs:
+      - frecuentando
+      - frecuentado
+      cjid: gppt
+    - cjfs:
+      - frecuento
+      - frecuentas
+      - frecuenta
+      - frecuentamos
+      - "frecuent\xE1is"
+      - frecuentan
+      cjid: pind
+    - cjfs:
+      - frecuentaba
+      - frecuentabas
+      - frecuentaba
+      - "frecuent\xE1bamos"
+      - frecuentabais
+      - frecuentaban
+      cjid: pret
+    - cjfs:
+      - "frecuent\xE9"
+      - frecuentaste
+      - "frecuent\xF3"
+      - frecuentamos
+      - frecuentasteis
+      - frecuentaron
+      cjid: pprf
+    - cjfs:
+      - "frecuentar\xE9"
+      - "frecuentar\xE1s"
+      - "frecuentar\xE1"
+      - frecuentaremos
+      - "frecuentar\xE9is"
+      - "frecuentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "frecuentar\xEDa"
+      - "frecuentar\xEDas"
+      - "frecuentar\xEDa"
+      - "frecuentar\xEDamos"
+      - "frecuentar\xEDais"
+      - "frecuentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - frecuente
+      - frecuentes
+      - frecuente
+      - frecuentemos
+      - "frecuent\xE9is"
+      - frecuenten
+      cjid: psub
+    - cjfs:
+      - frecuentara
+      - frecuentaras
+      - frecuentara
+      - "frecuent\xE1ramos"
+      - frecuentarais
+      - frecuentaran
+      cjid: pisb1
+    - cjfs:
+      - frecuentase
+      - frecuentases
+      - frecuentase
+      - "frecuent\xE1semos"
+      - frecuentaseis
+      - frecuentasen
+      cjid: pisb2
+    - cjfs:
+      - frecuentare
+      - frecuentares
+      - frecuentare
+      - "frecuent\xE1remos"
+      - frecuentareis
+      - frecuentaren
+      cjid: fsub
+    - cjfs:
+      - he frecuentado
+      - has frecuentado
+      - ha frecuentado
+      - hemos frecuentado
+      - "hab\xE9is frecuentado"
+      - han frecuentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa frecuentado"
+      - "hab\xEDas frecuentado"
+      - "hab\xEDa frecuentado"
+      - "hab\xEDamos frecuentado"
+      - "hab\xEDais frecuentado"
+      - "hab\xEDan frecuentado"
+      cjid: ppsi
+    - cjfs:
+      - hube frecuentado
+      - hubiste frecuentado
+      - hubo frecuentado
+      - hubimos frecuentado
+      - hubisteis frecuentado
+      - hubieron frecuentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 frecuentado"
+      - "habr\xE1s frecuentado"
+      - "habr\xE1 frecuentado"
+      - habremos frecuentado
+      - "habr\xE9is frecuentado"
+      - "habr\xE1n frecuentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa frecuentado"
+      - "habr\xEDas frecuentado"
+      - "habr\xEDa frecuentado"
+      - "habr\xEDamos frecuentado"
+      - "habr\xEDais frecuentado"
+      - "habr\xEDan frecuentado"
+      cjid: cpef
+    - cjfs:
+      - haya frecuentado
+      - hayas frecuentado
+      - haya frecuentado
+      - hayamos frecuentado
+      - "hay\xE1is frecuentado"
+      - hayan frecuentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera frecuentado
+      - hubieras frecuentado
+      - hubiera frecuentado
+      - "hubi\xE9ramos frecuentado"
+      - hubierais frecuentado
+      - hubieran frecuentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese frecuentado
+      - hubieses frecuentado
+      - hubiese frecuentado
+      - "hubi\xE9semos frecuentado"
+      - hubieseis frecuentado
+      - hubiesen frecuentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere frecuentado
+      - hubieres frecuentado
+      - hubiere frecuentado
+      - "hubi\xE9remos frecuentado"
+      - hubiereis frecuentado
+      - hubieren frecuentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - frecuenta
+      - frecuente
+      - frecuentemos
+      - frecuentad
+      - frecuenten
+      cjid: impf

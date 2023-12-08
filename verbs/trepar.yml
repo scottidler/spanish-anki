@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|climb} '
+          - - vis
+            - - t: "trepar a un \xE1rbol"
+                tr: to climb up a tree
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|creep}, to {a_link|spread} (of a plant)'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: trepar
+    prs:
+    - sound:
+        audio: trepa02sp
+  meta:
+    id: trepar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622283000'
+    src: spanish
+    stems:
+    - trepar
+    uuid: b78a6ba7-c0d4-4c9f-b8b0-26a9b06f92e6
+  shortdef:
+  - to climb
+  - to creep, to spread (of a plant)
+  suppl:
+    cjts:
+    - cjfs:
+      - trepando
+      - trepado
+      cjid: gppt
+    - cjfs:
+      - trepo
+      - trepas
+      - trepa
+      - trepamos
+      - "trep\xE1is"
+      - trepan
+      cjid: pind
+    - cjfs:
+      - trepaba
+      - trepabas
+      - trepaba
+      - "trep\xE1bamos"
+      - trepabais
+      - trepaban
+      cjid: pret
+    - cjfs:
+      - "trep\xE9"
+      - trepaste
+      - "trep\xF3"
+      - trepamos
+      - trepasteis
+      - treparon
+      cjid: pprf
+    - cjfs:
+      - "trepar\xE9"
+      - "trepar\xE1s"
+      - "trepar\xE1"
+      - treparemos
+      - "trepar\xE9is"
+      - "trepar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "trepar\xEDa"
+      - "trepar\xEDas"
+      - "trepar\xEDa"
+      - "trepar\xEDamos"
+      - "trepar\xEDais"
+      - "trepar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trepe
+      - trepes
+      - trepe
+      - trepemos
+      - "trep\xE9is"
+      - trepen
+      cjid: psub
+    - cjfs:
+      - trepara
+      - treparas
+      - trepara
+      - "trep\xE1ramos"
+      - treparais
+      - treparan
+      cjid: pisb1
+    - cjfs:
+      - trepase
+      - trepases
+      - trepase
+      - "trep\xE1semos"
+      - trepaseis
+      - trepasen
+      cjid: pisb2
+    - cjfs:
+      - trepare
+      - trepares
+      - trepare
+      - "trep\xE1remos"
+      - trepareis
+      - treparen
+      cjid: fsub
+    - cjfs:
+      - he trepado
+      - has trepado
+      - ha trepado
+      - hemos trepado
+      - "hab\xE9is trepado"
+      - han trepado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa trepado"
+      - "hab\xEDas trepado"
+      - "hab\xEDa trepado"
+      - "hab\xEDamos trepado"
+      - "hab\xEDais trepado"
+      - "hab\xEDan trepado"
+      cjid: ppsi
+    - cjfs:
+      - hube trepado
+      - hubiste trepado
+      - hubo trepado
+      - hubimos trepado
+      - hubisteis trepado
+      - hubieron trepado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 trepado"
+      - "habr\xE1s trepado"
+      - "habr\xE1 trepado"
+      - habremos trepado
+      - "habr\xE9is trepado"
+      - "habr\xE1n trepado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa trepado"
+      - "habr\xEDas trepado"
+      - "habr\xEDa trepado"
+      - "habr\xEDamos trepado"
+      - "habr\xEDais trepado"
+      - "habr\xEDan trepado"
+      cjid: cpef
+    - cjfs:
+      - haya trepado
+      - hayas trepado
+      - haya trepado
+      - hayamos trepado
+      - "hay\xE1is trepado"
+      - hayan trepado
+      cjid: ppfs
+    - cjfs:
+      - hubiera trepado
+      - hubieras trepado
+      - hubiera trepado
+      - "hubi\xE9ramos trepado"
+      - hubierais trepado
+      - hubieran trepado
+      cjid: ppss1
+    - cjfs:
+      - hubiese trepado
+      - hubieses trepado
+      - hubiese trepado
+      - "hubi\xE9semos trepado"
+      - hubieseis trepado
+      - hubiesen trepado
+      cjid: ppss2
+    - cjfs:
+      - hubiere trepado
+      - hubieres trepado
+      - hubiere trepado
+      - "hubi\xE9remos trepado"
+      - hubiereis trepado
+      - hubieren trepado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - trepa
+      - trepe
+      - trepemos
+      - trepad
+      - trepen
+      cjid: impf

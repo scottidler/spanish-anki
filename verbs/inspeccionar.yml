@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inspect}'
+  fl: transitive verb
+  hwi:
+    hw: inspeccionar
+  meta:
+    id: inspeccionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612717000'
+    src: spanish
+    stems:
+    - inspeccionar
+    uuid: 7bfd1b97-5368-4d67-ad9c-d1ddba30f0a8
+  shortdef:
+  - to inspect
+  suppl:
+    cjts:
+    - cjfs:
+      - inspeccionando
+      - inspeccionado
+      cjid: gppt
+    - cjfs:
+      - inspecciono
+      - inspeccionas
+      - inspecciona
+      - inspeccionamos
+      - "inspeccion\xE1is"
+      - inspeccionan
+      cjid: pind
+    - cjfs:
+      - inspeccionaba
+      - inspeccionabas
+      - inspeccionaba
+      - "inspeccion\xE1bamos"
+      - inspeccionabais
+      - inspeccionaban
+      cjid: pret
+    - cjfs:
+      - "inspeccion\xE9"
+      - inspeccionaste
+      - "inspeccion\xF3"
+      - inspeccionamos
+      - inspeccionasteis
+      - inspeccionaron
+      cjid: pprf
+    - cjfs:
+      - "inspeccionar\xE9"
+      - "inspeccionar\xE1s"
+      - "inspeccionar\xE1"
+      - inspeccionaremos
+      - "inspeccionar\xE9is"
+      - "inspeccionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inspeccionar\xEDa"
+      - "inspeccionar\xEDas"
+      - "inspeccionar\xEDa"
+      - "inspeccionar\xEDamos"
+      - "inspeccionar\xEDais"
+      - "inspeccionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - inspeccione
+      - inspecciones
+      - inspeccione
+      - inspeccionemos
+      - "inspeccion\xE9is"
+      - inspeccionen
+      cjid: psub
+    - cjfs:
+      - inspeccionara
+      - inspeccionaras
+      - inspeccionara
+      - "inspeccion\xE1ramos"
+      - inspeccionarais
+      - inspeccionaran
+      cjid: pisb1
+    - cjfs:
+      - inspeccionase
+      - inspeccionases
+      - inspeccionase
+      - "inspeccion\xE1semos"
+      - inspeccionaseis
+      - inspeccionasen
+      cjid: pisb2
+    - cjfs:
+      - inspeccionare
+      - inspeccionares
+      - inspeccionare
+      - "inspeccion\xE1remos"
+      - inspeccionareis
+      - inspeccionaren
+      cjid: fsub
+    - cjfs:
+      - he inspeccionado
+      - has inspeccionado
+      - ha inspeccionado
+      - hemos inspeccionado
+      - "hab\xE9is inspeccionado"
+      - han inspeccionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inspeccionado"
+      - "hab\xEDas inspeccionado"
+      - "hab\xEDa inspeccionado"
+      - "hab\xEDamos inspeccionado"
+      - "hab\xEDais inspeccionado"
+      - "hab\xEDan inspeccionado"
+      cjid: ppsi
+    - cjfs:
+      - hube inspeccionado
+      - hubiste inspeccionado
+      - hubo inspeccionado
+      - hubimos inspeccionado
+      - hubisteis inspeccionado
+      - hubieron inspeccionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inspeccionado"
+      - "habr\xE1s inspeccionado"
+      - "habr\xE1 inspeccionado"
+      - habremos inspeccionado
+      - "habr\xE9is inspeccionado"
+      - "habr\xE1n inspeccionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inspeccionado"
+      - "habr\xEDas inspeccionado"
+      - "habr\xEDa inspeccionado"
+      - "habr\xEDamos inspeccionado"
+      - "habr\xEDais inspeccionado"
+      - "habr\xEDan inspeccionado"
+      cjid: cpef
+    - cjfs:
+      - haya inspeccionado
+      - hayas inspeccionado
+      - haya inspeccionado
+      - hayamos inspeccionado
+      - "hay\xE1is inspeccionado"
+      - hayan inspeccionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera inspeccionado
+      - hubieras inspeccionado
+      - hubiera inspeccionado
+      - "hubi\xE9ramos inspeccionado"
+      - hubierais inspeccionado
+      - hubieran inspeccionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese inspeccionado
+      - hubieses inspeccionado
+      - hubiese inspeccionado
+      - "hubi\xE9semos inspeccionado"
+      - hubieseis inspeccionado
+      - hubiesen inspeccionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere inspeccionado
+      - hubieres inspeccionado
+      - hubiere inspeccionado
+      - "hubi\xE9remos inspeccionado"
+      - hubiereis inspeccionado
+      - hubieren inspeccionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inspecciona
+      - inspeccione
+      - inspeccionemos
+      - inspeccionad
+      - inspeccionen
+      cjid: impf

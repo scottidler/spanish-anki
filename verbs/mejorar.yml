@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|improve}, to make better'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|improve}, to get better'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: mejorar
+    prs:
+    - sound:
+        audio: mejor06sp
+  meta:
+    id: mejorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614754000'
+    src: spanish
+    stems:
+    - mejorar
+    - mejorarse
+    uuid: ad604074-b664-4639-b623-f8f18126dd5e
+  shortdef:
+  - to improve, to make better
+  - to improve, to get better
+  suppl:
+    cjts:
+    - cjfs:
+      - mejorando
+      - mejorado
+      cjid: gppt
+    - cjfs:
+      - mejoro
+      - mejoras
+      - mejora
+      - mejoramos
+      - "mejor\xE1is"
+      - mejoran
+      cjid: pind
+    - cjfs:
+      - mejoraba
+      - mejorabas
+      - mejoraba
+      - "mejor\xE1bamos"
+      - mejorabais
+      - mejoraban
+      cjid: pret
+    - cjfs:
+      - "mejor\xE9"
+      - mejoraste
+      - "mejor\xF3"
+      - mejoramos
+      - mejorasteis
+      - mejoraron
+      cjid: pprf
+    - cjfs:
+      - "mejorar\xE9"
+      - "mejorar\xE1s"
+      - "mejorar\xE1"
+      - mejoraremos
+      - "mejorar\xE9is"
+      - "mejorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mejorar\xEDa"
+      - "mejorar\xEDas"
+      - "mejorar\xEDa"
+      - "mejorar\xEDamos"
+      - "mejorar\xEDais"
+      - "mejorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - mejore
+      - mejores
+      - mejore
+      - mejoremos
+      - "mejor\xE9is"
+      - mejoren
+      cjid: psub
+    - cjfs:
+      - mejorara
+      - mejoraras
+      - mejorara
+      - "mejor\xE1ramos"
+      - mejorarais
+      - mejoraran
+      cjid: pisb1
+    - cjfs:
+      - mejorase
+      - mejorases
+      - mejorase
+      - "mejor\xE1semos"
+      - mejoraseis
+      - mejorasen
+      cjid: pisb2
+    - cjfs:
+      - mejorare
+      - mejorares
+      - mejorare
+      - "mejor\xE1remos"
+      - mejorareis
+      - mejoraren
+      cjid: fsub
+    - cjfs:
+      - he mejorado
+      - has mejorado
+      - ha mejorado
+      - hemos mejorado
+      - "hab\xE9is mejorado"
+      - han mejorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mejorado"
+      - "hab\xEDas mejorado"
+      - "hab\xEDa mejorado"
+      - "hab\xEDamos mejorado"
+      - "hab\xEDais mejorado"
+      - "hab\xEDan mejorado"
+      cjid: ppsi
+    - cjfs:
+      - hube mejorado
+      - hubiste mejorado
+      - hubo mejorado
+      - hubimos mejorado
+      - hubisteis mejorado
+      - hubieron mejorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mejorado"
+      - "habr\xE1s mejorado"
+      - "habr\xE1 mejorado"
+      - habremos mejorado
+      - "habr\xE9is mejorado"
+      - "habr\xE1n mejorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mejorado"
+      - "habr\xEDas mejorado"
+      - "habr\xEDa mejorado"
+      - "habr\xEDamos mejorado"
+      - "habr\xEDais mejorado"
+      - "habr\xEDan mejorado"
+      cjid: cpef
+    - cjfs:
+      - haya mejorado
+      - hayas mejorado
+      - haya mejorado
+      - hayamos mejorado
+      - "hay\xE1is mejorado"
+      - hayan mejorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera mejorado
+      - hubieras mejorado
+      - hubiera mejorado
+      - "hubi\xE9ramos mejorado"
+      - hubierais mejorado
+      - hubieran mejorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese mejorado
+      - hubieses mejorado
+      - hubiese mejorado
+      - "hubi\xE9semos mejorado"
+      - hubieseis mejorado
+      - hubiesen mejorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere mejorado
+      - hubieres mejorado
+      - hubiere mejorado
+      - "hubi\xE9remos mejorado"
+      - hubiereis mejorado
+      - hubieren mejorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mejora
+      - mejore
+      - mejoremos
+      - mejorad
+      - mejoren
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: mejorarse

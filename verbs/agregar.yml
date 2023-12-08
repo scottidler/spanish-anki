@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|a\xF1adir||} {bc}to {a_link|add}, to {a_link|attach}"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|appoint}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|join}'
+    drp: agregarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: agregar
+    prs:
+    - sound:
+        audio: agreg02sp
+  meta:
+    id: agregar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600727000'
+    src: spanish
+    stems:
+    - agregar
+    - agregarse
+    uuid: 03a5878a-e109-4a60-8384-e8e8fdeb2b21
+  shortdef:
+  - "a\xF1adir : to add, to attach"
+  - to appoint
+  suppl:
+    cjts:
+    - cjfs:
+      - agregando
+      - agregado
+      cjid: gppt
+    - cjfs:
+      - agrego
+      - agregas
+      - agrega
+      - agregamos
+      - "agreg\xE1is"
+      - agregan
+      cjid: pind
+    - cjfs:
+      - agregaba
+      - agregabas
+      - agregaba
+      - "agreg\xE1bamos"
+      - agregabais
+      - agregaban
+      cjid: pret
+    - cjfs:
+      - "agregu\xE9"
+      - agregaste
+      - "agreg\xF3"
+      - agregamos
+      - agregasteis
+      - agregaron
+      cjid: pprf
+    - cjfs:
+      - "agregar\xE9"
+      - "agregar\xE1s"
+      - "agregar\xE1"
+      - agregaremos
+      - "agregar\xE9is"
+      - "agregar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agregar\xEDa"
+      - "agregar\xEDas"
+      - "agregar\xEDa"
+      - "agregar\xEDamos"
+      - "agregar\xEDais"
+      - "agregar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agregue
+      - agregues
+      - agregue
+      - agreguemos
+      - "agregu\xE9is"
+      - agreguen
+      cjid: psub
+    - cjfs:
+      - agregara
+      - agregaras
+      - agregara
+      - "agreg\xE1ramos"
+      - agregarais
+      - agregaran
+      cjid: pisb1
+    - cjfs:
+      - agregase
+      - agregases
+      - agregase
+      - "agreg\xE1semos"
+      - agregaseis
+      - agregasen
+      cjid: pisb2
+    - cjfs:
+      - agregare
+      - agregares
+      - agregare
+      - "agreg\xE1remos"
+      - agregareis
+      - agregaren
+      cjid: fsub
+    - cjfs:
+      - he agregado
+      - has agregado
+      - ha agregado
+      - hemos agregado
+      - "hab\xE9is agregado"
+      - han agregado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agregado"
+      - "hab\xEDas agregado"
+      - "hab\xEDa agregado"
+      - "hab\xEDamos agregado"
+      - "hab\xEDais agregado"
+      - "hab\xEDan agregado"
+      cjid: ppsi
+    - cjfs:
+      - hube agregado
+      - hubiste agregado
+      - hubo agregado
+      - hubimos agregado
+      - hubisteis agregado
+      - hubieron agregado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agregado"
+      - "habr\xE1s agregado"
+      - "habr\xE1 agregado"
+      - habremos agregado
+      - "habr\xE9is agregado"
+      - "habr\xE1n agregado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agregado"
+      - "habr\xEDas agregado"
+      - "habr\xEDa agregado"
+      - "habr\xEDamos agregado"
+      - "habr\xEDais agregado"
+      - "habr\xEDan agregado"
+      cjid: cpef
+    - cjfs:
+      - haya agregado
+      - hayas agregado
+      - haya agregado
+      - hayamos agregado
+      - "hay\xE1is agregado"
+      - hayan agregado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agregado
+      - hubieras agregado
+      - hubiera agregado
+      - "hubi\xE9ramos agregado"
+      - hubierais agregado
+      - hubieran agregado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agregado
+      - hubieses agregado
+      - hubiese agregado
+      - "hubi\xE9semos agregado"
+      - hubieseis agregado
+      - hubiesen agregado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agregado
+      - hubieres agregado
+      - hubiere agregado
+      - "hubi\xE9remos agregado"
+      - hubiereis agregado
+      - hubieren agregado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agrega
+      - agregue
+      - agreguemos
+      - agregad
+      - agreguen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|function}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run}, to {a_link|work}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: funcionar
+    prs:
+    - sound:
+        audio: funci03sp
+  meta:
+    id: funcionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610522000'
+    src: spanish
+    stems:
+    - funcionar
+    uuid: 55d1e076-94e5-414a-a471-72a3ec358623
+  shortdef:
+  - to function
+  - to run, to work
+  suppl:
+    cjts:
+    - cjfs:
+      - funcionando
+      - funcionado
+      cjid: gppt
+    - cjfs:
+      - funciono
+      - funcionas
+      - funciona
+      - funcionamos
+      - "funcion\xE1is"
+      - funcionan
+      cjid: pind
+    - cjfs:
+      - funcionaba
+      - funcionabas
+      - funcionaba
+      - "funcion\xE1bamos"
+      - funcionabais
+      - funcionaban
+      cjid: pret
+    - cjfs:
+      - "funcion\xE9"
+      - funcionaste
+      - "funcion\xF3"
+      - funcionamos
+      - funcionasteis
+      - funcionaron
+      cjid: pprf
+    - cjfs:
+      - "funcionar\xE9"
+      - "funcionar\xE1s"
+      - "funcionar\xE1"
+      - funcionaremos
+      - "funcionar\xE9is"
+      - "funcionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "funcionar\xEDa"
+      - "funcionar\xEDas"
+      - "funcionar\xEDa"
+      - "funcionar\xEDamos"
+      - "funcionar\xEDais"
+      - "funcionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - funcione
+      - funciones
+      - funcione
+      - funcionemos
+      - "funcion\xE9is"
+      - funcionen
+      cjid: psub
+    - cjfs:
+      - funcionara
+      - funcionaras
+      - funcionara
+      - "funcion\xE1ramos"
+      - funcionarais
+      - funcionaran
+      cjid: pisb1
+    - cjfs:
+      - funcionase
+      - funcionases
+      - funcionase
+      - "funcion\xE1semos"
+      - funcionaseis
+      - funcionasen
+      cjid: pisb2
+    - cjfs:
+      - funcionare
+      - funcionares
+      - funcionare
+      - "funcion\xE1remos"
+      - funcionareis
+      - funcionaren
+      cjid: fsub
+    - cjfs:
+      - he funcionado
+      - has funcionado
+      - ha funcionado
+      - hemos funcionado
+      - "hab\xE9is funcionado"
+      - han funcionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa funcionado"
+      - "hab\xEDas funcionado"
+      - "hab\xEDa funcionado"
+      - "hab\xEDamos funcionado"
+      - "hab\xEDais funcionado"
+      - "hab\xEDan funcionado"
+      cjid: ppsi
+    - cjfs:
+      - hube funcionado
+      - hubiste funcionado
+      - hubo funcionado
+      - hubimos funcionado
+      - hubisteis funcionado
+      - hubieron funcionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 funcionado"
+      - "habr\xE1s funcionado"
+      - "habr\xE1 funcionado"
+      - habremos funcionado
+      - "habr\xE9is funcionado"
+      - "habr\xE1n funcionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa funcionado"
+      - "habr\xEDas funcionado"
+      - "habr\xEDa funcionado"
+      - "habr\xEDamos funcionado"
+      - "habr\xEDais funcionado"
+      - "habr\xEDan funcionado"
+      cjid: cpef
+    - cjfs:
+      - haya funcionado
+      - hayas funcionado
+      - haya funcionado
+      - hayamos funcionado
+      - "hay\xE1is funcionado"
+      - hayan funcionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera funcionado
+      - hubieras funcionado
+      - hubiera funcionado
+      - "hubi\xE9ramos funcionado"
+      - hubierais funcionado
+      - hubieran funcionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese funcionado
+      - hubieses funcionado
+      - hubiese funcionado
+      - "hubi\xE9semos funcionado"
+      - hubieseis funcionado
+      - hubiesen funcionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere funcionado
+      - hubieres funcionado
+      - hubiere funcionado
+      - "hubi\xE9remos funcionado"
+      - hubiereis funcionado
+      - hubieren funcionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - funciona
+      - funcione
+      - funcionemos
+      - funcionad
+      - funcionen
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|list}'
+  fl: transitive verb
+  hwi:
+    hw: listar
+  meta:
+    id: listar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613877000'
+    src: spanish
+    stems:
+    - listar
+    uuid: 18fd4ede-a273-4181-a24e-d0cc92fdd25f
+  shortdef:
+  - to list
+  suppl:
+    cjts:
+    - cjfs:
+      - listando
+      - listado
+      cjid: gppt
+    - cjfs:
+      - listo
+      - listas
+      - lista
+      - listamos
+      - "list\xE1is"
+      - listan
+      cjid: pind
+    - cjfs:
+      - listaba
+      - listabas
+      - listaba
+      - "list\xE1bamos"
+      - listabais
+      - listaban
+      cjid: pret
+    - cjfs:
+      - "list\xE9"
+      - listaste
+      - "list\xF3"
+      - listamos
+      - listasteis
+      - listaron
+      cjid: pprf
+    - cjfs:
+      - "listar\xE9"
+      - "listar\xE1s"
+      - "listar\xE1"
+      - listaremos
+      - "listar\xE9is"
+      - "listar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "listar\xEDa"
+      - "listar\xEDas"
+      - "listar\xEDa"
+      - "listar\xEDamos"
+      - "listar\xEDais"
+      - "listar\xEDan"
+      cjid: cond
+    - cjfs:
+      - liste
+      - listes
+      - liste
+      - listemos
+      - "list\xE9is"
+      - listen
+      cjid: psub
+    - cjfs:
+      - listara
+      - listaras
+      - listara
+      - "list\xE1ramos"
+      - listarais
+      - listaran
+      cjid: pisb1
+    - cjfs:
+      - listase
+      - listases
+      - listase
+      - "list\xE1semos"
+      - listaseis
+      - listasen
+      cjid: pisb2
+    - cjfs:
+      - listare
+      - listares
+      - listare
+      - "list\xE1remos"
+      - listareis
+      - listaren
+      cjid: fsub
+    - cjfs:
+      - he listado
+      - has listado
+      - ha listado
+      - hemos listado
+      - "hab\xE9is listado"
+      - han listado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa listado"
+      - "hab\xEDas listado"
+      - "hab\xEDa listado"
+      - "hab\xEDamos listado"
+      - "hab\xEDais listado"
+      - "hab\xEDan listado"
+      cjid: ppsi
+    - cjfs:
+      - hube listado
+      - hubiste listado
+      - hubo listado
+      - hubimos listado
+      - hubisteis listado
+      - hubieron listado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 listado"
+      - "habr\xE1s listado"
+      - "habr\xE1 listado"
+      - habremos listado
+      - "habr\xE9is listado"
+      - "habr\xE1n listado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa listado"
+      - "habr\xEDas listado"
+      - "habr\xEDa listado"
+      - "habr\xEDamos listado"
+      - "habr\xEDais listado"
+      - "habr\xEDan listado"
+      cjid: cpef
+    - cjfs:
+      - haya listado
+      - hayas listado
+      - haya listado
+      - hayamos listado
+      - "hay\xE1is listado"
+      - hayan listado
+      cjid: ppfs
+    - cjfs:
+      - hubiera listado
+      - hubieras listado
+      - hubiera listado
+      - "hubi\xE9ramos listado"
+      - hubierais listado
+      - hubieran listado
+      cjid: ppss1
+    - cjfs:
+      - hubiese listado
+      - hubieses listado
+      - hubiese listado
+      - "hubi\xE9semos listado"
+      - hubieseis listado
+      - hubiesen listado
+      cjid: ppss2
+    - cjfs:
+      - hubiere listado
+      - hubieres listado
+      - hubiere listado
+      - "hubi\xE9remos listado"
+      - hubiereis listado
+      - hubieren listado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - lista
+      - liste
+      - listemos
+      - listad
+      - listen
+      cjid: impf

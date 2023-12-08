@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|embrujar||} {bc}to {a_link|bewitch}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cautivar||} {bc}to {a_link|charm}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: hechizar
+  meta:
+    id: hechizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611331000'
+    src: spanish
+    stems:
+    - hechizar
+    uuid: a04a96dd-b50b-4760-8989-99cca2e40796
+  shortdef:
+  - 'embrujar : to bewitch'
+  - 'cautivar : to charm'
+  suppl:
+    cjts:
+    - cjfs:
+      - hechizando
+      - hechizado
+      cjid: gppt
+    - cjfs:
+      - hechizo
+      - hechizas
+      - hechiza
+      - hechizamos
+      - "hechiz\xE1is"
+      - hechizan
+      cjid: pind
+    - cjfs:
+      - hechizaba
+      - hechizabas
+      - hechizaba
+      - "hechiz\xE1bamos"
+      - hechizabais
+      - hechizaban
+      cjid: pret
+    - cjfs:
+      - "hechic\xE9"
+      - hechizaste
+      - "hechiz\xF3"
+      - hechizamos
+      - hechizasteis
+      - hechizaron
+      cjid: pprf
+    - cjfs:
+      - "hechizar\xE9"
+      - "hechizar\xE1s"
+      - "hechizar\xE1"
+      - hechizaremos
+      - "hechizar\xE9is"
+      - "hechizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "hechizar\xEDa"
+      - "hechizar\xEDas"
+      - "hechizar\xEDa"
+      - "hechizar\xEDamos"
+      - "hechizar\xEDais"
+      - "hechizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - hechice
+      - hechices
+      - hechice
+      - hechicemos
+      - "hechic\xE9is"
+      - hechicen
+      cjid: psub
+    - cjfs:
+      - hechizara
+      - hechizaras
+      - hechizara
+      - "hechiz\xE1ramos"
+      - hechizarais
+      - hechizaran
+      cjid: pisb1
+    - cjfs:
+      - hechizase
+      - hechizases
+      - hechizase
+      - "hechiz\xE1semos"
+      - hechizaseis
+      - hechizasen
+      cjid: pisb2
+    - cjfs:
+      - hechizare
+      - hechizares
+      - hechizare
+      - "hechiz\xE1remos"
+      - hechizareis
+      - hechizaren
+      cjid: fsub
+    - cjfs:
+      - he hechizado
+      - has hechizado
+      - ha hechizado
+      - hemos hechizado
+      - "hab\xE9is hechizado"
+      - han hechizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa hechizado"
+      - "hab\xEDas hechizado"
+      - "hab\xEDa hechizado"
+      - "hab\xEDamos hechizado"
+      - "hab\xEDais hechizado"
+      - "hab\xEDan hechizado"
+      cjid: ppsi
+    - cjfs:
+      - hube hechizado
+      - hubiste hechizado
+      - hubo hechizado
+      - hubimos hechizado
+      - hubisteis hechizado
+      - hubieron hechizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 hechizado"
+      - "habr\xE1s hechizado"
+      - "habr\xE1 hechizado"
+      - habremos hechizado
+      - "habr\xE9is hechizado"
+      - "habr\xE1n hechizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa hechizado"
+      - "habr\xEDas hechizado"
+      - "habr\xEDa hechizado"
+      - "habr\xEDamos hechizado"
+      - "habr\xEDais hechizado"
+      - "habr\xEDan hechizado"
+      cjid: cpef
+    - cjfs:
+      - haya hechizado
+      - hayas hechizado
+      - haya hechizado
+      - hayamos hechizado
+      - "hay\xE1is hechizado"
+      - hayan hechizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera hechizado
+      - hubieras hechizado
+      - hubiera hechizado
+      - "hubi\xE9ramos hechizado"
+      - hubierais hechizado
+      - hubieran hechizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese hechizado
+      - hubieses hechizado
+      - hubiese hechizado
+      - "hubi\xE9semos hechizado"
+      - hubieseis hechizado
+      - hubiesen hechizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere hechizado
+      - hubieres hechizado
+      - hubiere hechizado
+      - "hubi\xE9remos hechizado"
+      - hubiereis hechizado
+      - hubieren hechizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - hechiza
+      - hechice
+      - hechicemos
+      - hechizad
+      - hechicen
+      cjid: impf

@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|murmur}, to {a_link|mutter}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|whisper} (gossip)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|murmur}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|chismear||} {bc}to {a_link|gossip}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: murmurar
+    prs:
+    - sound:
+        audio: murmu01sp
+  meta:
+    id: murmurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615514000'
+    src: spanish
+    stems:
+    - murmurar
+    uuid: 96db88da-b6be-4b9b-acf1-805b610a3da8
+  shortdef:
+  - to murmur, to mutter
+  - to whisper (gossip)
+  - to murmur
+  suppl:
+    cjts:
+    - cjfs:
+      - murmurando
+      - murmurado
+      cjid: gppt
+    - cjfs:
+      - murmuro
+      - murmuras
+      - murmura
+      - murmuramos
+      - "murmur\xE1is"
+      - murmuran
+      cjid: pind
+    - cjfs:
+      - murmuraba
+      - murmurabas
+      - murmuraba
+      - "murmur\xE1bamos"
+      - murmurabais
+      - murmuraban
+      cjid: pret
+    - cjfs:
+      - "murmur\xE9"
+      - murmuraste
+      - "murmur\xF3"
+      - murmuramos
+      - murmurasteis
+      - murmuraron
+      cjid: pprf
+    - cjfs:
+      - "murmurar\xE9"
+      - "murmurar\xE1s"
+      - "murmurar\xE1"
+      - murmuraremos
+      - "murmurar\xE9is"
+      - "murmurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "murmurar\xEDa"
+      - "murmurar\xEDas"
+      - "murmurar\xEDa"
+      - "murmurar\xEDamos"
+      - "murmurar\xEDais"
+      - "murmurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - murmure
+      - murmures
+      - murmure
+      - murmuremos
+      - "murmur\xE9is"
+      - murmuren
+      cjid: psub
+    - cjfs:
+      - murmurara
+      - murmuraras
+      - murmurara
+      - "murmur\xE1ramos"
+      - murmurarais
+      - murmuraran
+      cjid: pisb1
+    - cjfs:
+      - murmurase
+      - murmurases
+      - murmurase
+      - "murmur\xE1semos"
+      - murmuraseis
+      - murmurasen
+      cjid: pisb2
+    - cjfs:
+      - murmurare
+      - murmurares
+      - murmurare
+      - "murmur\xE1remos"
+      - murmurareis
+      - murmuraren
+      cjid: fsub
+    - cjfs:
+      - he murmurado
+      - has murmurado
+      - ha murmurado
+      - hemos murmurado
+      - "hab\xE9is murmurado"
+      - han murmurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa murmurado"
+      - "hab\xEDas murmurado"
+      - "hab\xEDa murmurado"
+      - "hab\xEDamos murmurado"
+      - "hab\xEDais murmurado"
+      - "hab\xEDan murmurado"
+      cjid: ppsi
+    - cjfs:
+      - hube murmurado
+      - hubiste murmurado
+      - hubo murmurado
+      - hubimos murmurado
+      - hubisteis murmurado
+      - hubieron murmurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 murmurado"
+      - "habr\xE1s murmurado"
+      - "habr\xE1 murmurado"
+      - habremos murmurado
+      - "habr\xE9is murmurado"
+      - "habr\xE1n murmurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa murmurado"
+      - "habr\xEDas murmurado"
+      - "habr\xEDa murmurado"
+      - "habr\xEDamos murmurado"
+      - "habr\xEDais murmurado"
+      - "habr\xEDan murmurado"
+      cjid: cpef
+    - cjfs:
+      - haya murmurado
+      - hayas murmurado
+      - haya murmurado
+      - hayamos murmurado
+      - "hay\xE1is murmurado"
+      - hayan murmurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera murmurado
+      - hubieras murmurado
+      - hubiera murmurado
+      - "hubi\xE9ramos murmurado"
+      - hubierais murmurado
+      - hubieran murmurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese murmurado
+      - hubieses murmurado
+      - hubiese murmurado
+      - "hubi\xE9semos murmurado"
+      - hubieseis murmurado
+      - hubiesen murmurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere murmurado
+      - hubieres murmurado
+      - hubiere murmurado
+      - "hubi\xE9remos murmurado"
+      - hubiereis murmurado
+      - hubieren murmurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - murmura
+      - murmure
+      - murmuremos
+      - murmurad
+      - murmuren
+      cjid: impf

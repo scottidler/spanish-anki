@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exorcise}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|avert}, to {a_link|ward off}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conspirar||} {bc}to {a_link|conspire}, to {a_link|plot}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: conjurar
+  meta:
+    id: conjurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605527000'
+    src: spanish
+    stems:
+    - conjurar
+    uuid: cf6c4c44-338b-426e-a49c-124511528993
+  shortdef:
+  - to exorcise
+  - to avert, to ward off
+  - 'conspirar : to conspire, to plot'
+  suppl:
+    cjts:
+    - cjfs:
+      - conjurando
+      - conjurado
+      cjid: gppt
+    - cjfs:
+      - conjuro
+      - conjuras
+      - conjura
+      - conjuramos
+      - "conjur\xE1is"
+      - conjuran
+      cjid: pind
+    - cjfs:
+      - conjuraba
+      - conjurabas
+      - conjuraba
+      - "conjur\xE1bamos"
+      - conjurabais
+      - conjuraban
+      cjid: pret
+    - cjfs:
+      - "conjur\xE9"
+      - conjuraste
+      - "conjur\xF3"
+      - conjuramos
+      - conjurasteis
+      - conjuraron
+      cjid: pprf
+    - cjfs:
+      - "conjurar\xE9"
+      - "conjurar\xE1s"
+      - "conjurar\xE1"
+      - conjuraremos
+      - "conjurar\xE9is"
+      - "conjurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conjurar\xEDa"
+      - "conjurar\xEDas"
+      - "conjurar\xEDa"
+      - "conjurar\xEDamos"
+      - "conjurar\xEDais"
+      - "conjurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - conjure
+      - conjures
+      - conjure
+      - conjuremos
+      - "conjur\xE9is"
+      - conjuren
+      cjid: psub
+    - cjfs:
+      - conjurara
+      - conjuraras
+      - conjurara
+      - "conjur\xE1ramos"
+      - conjurarais
+      - conjuraran
+      cjid: pisb1
+    - cjfs:
+      - conjurase
+      - conjurases
+      - conjurase
+      - "conjur\xE1semos"
+      - conjuraseis
+      - conjurasen
+      cjid: pisb2
+    - cjfs:
+      - conjurare
+      - conjurares
+      - conjurare
+      - "conjur\xE1remos"
+      - conjurareis
+      - conjuraren
+      cjid: fsub
+    - cjfs:
+      - he conjurado
+      - has conjurado
+      - ha conjurado
+      - hemos conjurado
+      - "hab\xE9is conjurado"
+      - han conjurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conjurado"
+      - "hab\xEDas conjurado"
+      - "hab\xEDa conjurado"
+      - "hab\xEDamos conjurado"
+      - "hab\xEDais conjurado"
+      - "hab\xEDan conjurado"
+      cjid: ppsi
+    - cjfs:
+      - hube conjurado
+      - hubiste conjurado
+      - hubo conjurado
+      - hubimos conjurado
+      - hubisteis conjurado
+      - hubieron conjurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conjurado"
+      - "habr\xE1s conjurado"
+      - "habr\xE1 conjurado"
+      - habremos conjurado
+      - "habr\xE9is conjurado"
+      - "habr\xE1n conjurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conjurado"
+      - "habr\xEDas conjurado"
+      - "habr\xEDa conjurado"
+      - "habr\xEDamos conjurado"
+      - "habr\xEDais conjurado"
+      - "habr\xEDan conjurado"
+      cjid: cpef
+    - cjfs:
+      - haya conjurado
+      - hayas conjurado
+      - haya conjurado
+      - hayamos conjurado
+      - "hay\xE1is conjurado"
+      - hayan conjurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera conjurado
+      - hubieras conjurado
+      - hubiera conjurado
+      - "hubi\xE9ramos conjurado"
+      - hubierais conjurado
+      - hubieran conjurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese conjurado
+      - hubieses conjurado
+      - hubiese conjurado
+      - "hubi\xE9semos conjurado"
+      - hubieseis conjurado
+      - hubiesen conjurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere conjurado
+      - hubieres conjurado
+      - hubiere conjurado
+      - "hubi\xE9remos conjurado"
+      - hubiereis conjurado
+      - hubieren conjurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conjura
+      - conjure
+      - conjuremos
+      - conjurad
+      - conjuren
+      cjid: impf

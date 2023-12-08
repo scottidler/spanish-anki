@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|advance}, to move forward, to make progress'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|advance}, to move forward'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|advance}, to put forward'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: avanzar
+    prs:
+    - sound:
+        audio: avanz02sp
+  meta:
+    id: avanzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602513000'
+    src: spanish
+    stems:
+    - avanzar
+    uuid: b6907cc7-5955-4a20-87ee-55fc5efe664e
+  shortdef:
+  - to advance, to move forward, to make progress
+  - to advance, to move forward
+  - to advance, to put forward
+  suppl:
+    cjts:
+    - cjfs:
+      - avanzando
+      - avanzado
+      cjid: gppt
+    - cjfs:
+      - avanzo
+      - avanzas
+      - avanza
+      - avanzamos
+      - "avanz\xE1is"
+      - avanzan
+      cjid: pind
+    - cjfs:
+      - avanzaba
+      - avanzabas
+      - avanzaba
+      - "avanz\xE1bamos"
+      - avanzabais
+      - avanzaban
+      cjid: pret
+    - cjfs:
+      - "avanc\xE9"
+      - avanzaste
+      - "avanz\xF3"
+      - avanzamos
+      - avanzasteis
+      - avanzaron
+      cjid: pprf
+    - cjfs:
+      - "avanzar\xE9"
+      - "avanzar\xE1s"
+      - "avanzar\xE1"
+      - avanzaremos
+      - "avanzar\xE9is"
+      - "avanzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "avanzar\xEDa"
+      - "avanzar\xEDas"
+      - "avanzar\xEDa"
+      - "avanzar\xEDamos"
+      - "avanzar\xEDais"
+      - "avanzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - avance
+      - avances
+      - avance
+      - avancemos
+      - "avanc\xE9is"
+      - avancen
+      cjid: psub
+    - cjfs:
+      - avanzara
+      - avanzaras
+      - avanzara
+      - "avanz\xE1ramos"
+      - avanzarais
+      - avanzaran
+      cjid: pisb1
+    - cjfs:
+      - avanzase
+      - avanzases
+      - avanzase
+      - "avanz\xE1semos"
+      - avanzaseis
+      - avanzasen
+      cjid: pisb2
+    - cjfs:
+      - avanzare
+      - avanzares
+      - avanzare
+      - "avanz\xE1remos"
+      - avanzareis
+      - avanzaren
+      cjid: fsub
+    - cjfs:
+      - he avanzado
+      - has avanzado
+      - ha avanzado
+      - hemos avanzado
+      - "hab\xE9is avanzado"
+      - han avanzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa avanzado"
+      - "hab\xEDas avanzado"
+      - "hab\xEDa avanzado"
+      - "hab\xEDamos avanzado"
+      - "hab\xEDais avanzado"
+      - "hab\xEDan avanzado"
+      cjid: ppsi
+    - cjfs:
+      - hube avanzado
+      - hubiste avanzado
+      - hubo avanzado
+      - hubimos avanzado
+      - hubisteis avanzado
+      - hubieron avanzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 avanzado"
+      - "habr\xE1s avanzado"
+      - "habr\xE1 avanzado"
+      - habremos avanzado
+      - "habr\xE9is avanzado"
+      - "habr\xE1n avanzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa avanzado"
+      - "habr\xEDas avanzado"
+      - "habr\xEDa avanzado"
+      - "habr\xEDamos avanzado"
+      - "habr\xEDais avanzado"
+      - "habr\xEDan avanzado"
+      cjid: cpef
+    - cjfs:
+      - haya avanzado
+      - hayas avanzado
+      - haya avanzado
+      - hayamos avanzado
+      - "hay\xE1is avanzado"
+      - hayan avanzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera avanzado
+      - hubieras avanzado
+      - hubiera avanzado
+      - "hubi\xE9ramos avanzado"
+      - hubierais avanzado
+      - hubieran avanzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese avanzado
+      - hubieses avanzado
+      - hubiese avanzado
+      - "hubi\xE9semos avanzado"
+      - hubieseis avanzado
+      - hubiesen avanzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere avanzado
+      - hubieres avanzado
+      - hubiere avanzado
+      - "hubi\xE9remos avanzado"
+      - hubiereis avanzado
+      - hubieren avanzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - avanza
+      - avance
+      - avancemos
+      - avanzad
+      - avancen
+      cjid: impf

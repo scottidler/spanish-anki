@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be found, to {a_link|lie}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|arraigar||} {bc}to {a_link|take root}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|settle}, to establish oneself'
+    drp: radicarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: radicar
+    prs:
+    - sound:
+        audio: radic01sp
+  meta:
+    id: radicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618713000'
+    src: spanish
+    stems:
+    - radicar
+    - radicarse
+    uuid: 430d7b44-5042-4ffa-b0df-3a219a7118dd
+  shortdef:
+  - to be found, to lie
+  - 'arraigar : to take root'
+  suppl:
+    cjts:
+    - cjfs:
+      - radicando
+      - radicado
+      cjid: gppt
+    - cjfs:
+      - radico
+      - radicas
+      - radica
+      - radicamos
+      - "radic\xE1is"
+      - radican
+      cjid: pind
+    - cjfs:
+      - radicaba
+      - radicabas
+      - radicaba
+      - "radic\xE1bamos"
+      - radicabais
+      - radicaban
+      cjid: pret
+    - cjfs:
+      - "radiqu\xE9"
+      - radicaste
+      - "radic\xF3"
+      - radicamos
+      - radicasteis
+      - radicaron
+      cjid: pprf
+    - cjfs:
+      - "radicar\xE9"
+      - "radicar\xE1s"
+      - "radicar\xE1"
+      - radicaremos
+      - "radicar\xE9is"
+      - "radicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "radicar\xEDa"
+      - "radicar\xEDas"
+      - "radicar\xEDa"
+      - "radicar\xEDamos"
+      - "radicar\xEDais"
+      - "radicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - radique
+      - radiques
+      - radique
+      - radiquemos
+      - "radiqu\xE9is"
+      - radiquen
+      cjid: psub
+    - cjfs:
+      - radicara
+      - radicaras
+      - radicara
+      - "radic\xE1ramos"
+      - radicarais
+      - radicaran
+      cjid: pisb1
+    - cjfs:
+      - radicase
+      - radicases
+      - radicase
+      - "radic\xE1semos"
+      - radicaseis
+      - radicasen
+      cjid: pisb2
+    - cjfs:
+      - radicare
+      - radicares
+      - radicare
+      - "radic\xE1remos"
+      - radicareis
+      - radicaren
+      cjid: fsub
+    - cjfs:
+      - he radicado
+      - has radicado
+      - ha radicado
+      - hemos radicado
+      - "hab\xE9is radicado"
+      - han radicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa radicado"
+      - "hab\xEDas radicado"
+      - "hab\xEDa radicado"
+      - "hab\xEDamos radicado"
+      - "hab\xEDais radicado"
+      - "hab\xEDan radicado"
+      cjid: ppsi
+    - cjfs:
+      - hube radicado
+      - hubiste radicado
+      - hubo radicado
+      - hubimos radicado
+      - hubisteis radicado
+      - hubieron radicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 radicado"
+      - "habr\xE1s radicado"
+      - "habr\xE1 radicado"
+      - habremos radicado
+      - "habr\xE9is radicado"
+      - "habr\xE1n radicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa radicado"
+      - "habr\xEDas radicado"
+      - "habr\xEDa radicado"
+      - "habr\xEDamos radicado"
+      - "habr\xEDais radicado"
+      - "habr\xEDan radicado"
+      cjid: cpef
+    - cjfs:
+      - haya radicado
+      - hayas radicado
+      - haya radicado
+      - hayamos radicado
+      - "hay\xE1is radicado"
+      - hayan radicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera radicado
+      - hubieras radicado
+      - hubiera radicado
+      - "hubi\xE9ramos radicado"
+      - hubierais radicado
+      - hubieran radicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese radicado
+      - hubieses radicado
+      - hubiese radicado
+      - "hubi\xE9semos radicado"
+      - hubieseis radicado
+      - hubiesen radicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere radicado
+      - hubieres radicado
+      - hubiere radicado
+      - "hubi\xE9remos radicado"
+      - hubiereis radicado
+      - hubieren radicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - radica
+      - radique
+      - radiquemos
+      - radicad
+      - radiquen
+      cjid: impf

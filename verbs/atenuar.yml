@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mitigar||} {bc}to {a_link|extenuate}, to {a_link|mitigate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dim} (light), to {a_link|tone down} (colors)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|minimize}, to {a_link|lessen}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: atenuar
+    prs:
+    - sound:
+        audio: atenu01sp
+  meta:
+    id: atenuar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602285000'
+    src: spanish
+    stems:
+    - atenuar
+    uuid: 4376a987-0980-4252-807d-92e6edab0525
+  shortdef:
+  - 'mitigar : to extenuate, to mitigate'
+  - to dim (light), to tone down (colors)
+  - to minimize, to lessen
+  suppl:
+    cjts:
+    - cjfs:
+      - atenuando
+      - atenuado
+      cjid: gppt
+    - cjfs:
+      - "aten\xFAo"
+      - "aten\xFAas"
+      - "aten\xFAa"
+      - atenuamos
+      - "atenu\xE1is"
+      - "aten\xFAan"
+      cjid: pind
+    - cjfs:
+      - atenuaba
+      - atenuabas
+      - atenuaba
+      - "atenu\xE1bamos"
+      - atenuabais
+      - atenuaban
+      cjid: pret
+    - cjfs:
+      - "atenu\xE9"
+      - atenuaste
+      - "atenu\xF3"
+      - atenuamos
+      - atenuasteis
+      - atenuaron
+      cjid: pprf
+    - cjfs:
+      - "atenuar\xE9"
+      - "atenuar\xE1s"
+      - "atenuar\xE1"
+      - atenuaremos
+      - "atenuar\xE9is"
+      - "atenuar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atenuar\xEDa"
+      - "atenuar\xEDas"
+      - "atenuar\xEDa"
+      - "atenuar\xEDamos"
+      - "atenuar\xEDais"
+      - "atenuar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "aten\xFAe"
+      - "aten\xFAes"
+      - "aten\xFAe"
+      - atenuemos
+      - "atenu\xE9is"
+      - "aten\xFAen"
+      cjid: psub
+    - cjfs:
+      - atenuara
+      - atenuaras
+      - atenuara
+      - "atenu\xE1ramos"
+      - atenuarais
+      - atenuaran
+      cjid: pisb1
+    - cjfs:
+      - atenuase
+      - atenuases
+      - atenuase
+      - "atenu\xE1semos"
+      - atenuaseis
+      - atenuasen
+      cjid: pisb2
+    - cjfs:
+      - atenuare
+      - atenuares
+      - atenuare
+      - "atenu\xE1remos"
+      - atenuareis
+      - atenuaren
+      cjid: fsub
+    - cjfs:
+      - he atenuado
+      - has atenuado
+      - ha atenuado
+      - hemos atenuado
+      - "hab\xE9is atenuado"
+      - han atenuado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atenuado"
+      - "hab\xEDas atenuado"
+      - "hab\xEDa atenuado"
+      - "hab\xEDamos atenuado"
+      - "hab\xEDais atenuado"
+      - "hab\xEDan atenuado"
+      cjid: ppsi
+    - cjfs:
+      - hube atenuado
+      - hubiste atenuado
+      - hubo atenuado
+      - hubimos atenuado
+      - hubisteis atenuado
+      - hubieron atenuado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atenuado"
+      - "habr\xE1s atenuado"
+      - "habr\xE1 atenuado"
+      - habremos atenuado
+      - "habr\xE9is atenuado"
+      - "habr\xE1n atenuado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atenuado"
+      - "habr\xEDas atenuado"
+      - "habr\xEDa atenuado"
+      - "habr\xEDamos atenuado"
+      - "habr\xEDais atenuado"
+      - "habr\xEDan atenuado"
+      cjid: cpef
+    - cjfs:
+      - haya atenuado
+      - hayas atenuado
+      - haya atenuado
+      - hayamos atenuado
+      - "hay\xE1is atenuado"
+      - hayan atenuado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atenuado
+      - hubieras atenuado
+      - hubiera atenuado
+      - "hubi\xE9ramos atenuado"
+      - hubierais atenuado
+      - hubieran atenuado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atenuado
+      - hubieses atenuado
+      - hubiese atenuado
+      - "hubi\xE9semos atenuado"
+      - hubieseis atenuado
+      - hubiesen atenuado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atenuado
+      - hubieres atenuado
+      - hubiere atenuado
+      - "hubi\xE9remos atenuado"
+      - hubiereis atenuado
+      - hubieren atenuado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "aten\xFAa"
+      - "aten\xFAe"
+      - atenuemos
+      - atenuad
+      - "aten\xFAen"
+      cjid: impf

@@ -1,0 +1,586 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desear||} {bc}to {a_link|want}, to {a_link|desire} '
+          - - vis
+            - - t: quiere ser profesor
+                tr: he wants to be a teacher
+              - t: "\xBFcu\xE1nto quieres por esta computadora?"
+                tr: how much do you want for this computer?
+              - t: "\xBFqu\xE9 quieres que haga?"
+                tr: what do you want me to do?
+              - t: quiero que ella me ayude
+                tr: I want her to help me
+              - t: quisiera cancelar la cuenta
+                tr: I'd like to cancel the account
+              - t: "quisiera que no fuera as\xED"
+                tr: I wish it weren't so
+              - t: "l\xE9elo cuando quieras"
+                tr: read it whenever you like
+              - t: "no quer\xEDa dec\xEDrselo"
+                tr: he didn't want to tell her
+              - t: no quiso dar detalles
+                tr: she wouldn't give any details
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|love}, to {a_link|like}, to be fond of '
+          - - vis
+            - - t: te quiero
+                tr: I love you
+              - t: te quiere bien
+                tr: he's very fond of you
+          sn: '2'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "\xBFquieres pasarme la leche?"
+                tr: please pass the milk
+              - t: "\xBFquieres decirme qu\xE9 pasa?"
+                tr: do you mind telling me what's going on?
+          sls:
+          - (indicating a request)
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mean} '
+          - - vis
+            - - t: "\xBFqu\xE9 quieres decir con eso?"
+                tr: what do you mean by that?
+              - t: eso no es lo que quiero decir
+                tr: that's not what I meant to say
+          sn: '4'
+          vrs:
+          - va: querer decir
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|unintentionally}'
+          sn: '5'
+          vrs:
+          - va: sin querer
+            vac: sin ~
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|like}, {a_link|want} '
+          - - vis
+            - - t: si quieres
+                tr: if you like
+              - t: "\xA1no quiero!"
+                tr: I don't want to!
+    vd: intransitive verb
+  fl: transitive verb
+  hom: 1
+  hwi:
+    hw: querer
+    prs:
+    - sound:
+        audio: quere02sp
+  meta:
+    id: querer:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618599000'
+    src: spanish
+    stems:
+    - querer
+    - querer decir
+    - sin querer
+    uuid: ffd22b65-fddb-4b8b-af17-a633e41b58bd
+  shortdef:
+  - 'desear : to want, to desire'
+  - to love, to like, to be fond of
+  - to mean
+  suppl:
+    cjts:
+    - cjfs:
+      - queriendo
+      - querido
+      cjid: gppt
+    - cjfs:
+      - quiero
+      - quieres
+      - quiere
+      - queremos
+      - "quer\xE9is"
+      - quieren
+      cjid: pind
+    - cjfs:
+      - "quer\xEDa"
+      - "quer\xEDas"
+      - "quer\xEDa"
+      - "quer\xEDamos"
+      - "quer\xEDais"
+      - "quer\xEDan"
+      cjid: pret
+    - cjfs:
+      - quise
+      - quisiste
+      - quiso
+      - quisimos
+      - quisisteis
+      - quisieron
+      cjid: pprf
+    - cjfs:
+      - "querr\xE9"
+      - "querr\xE1s"
+      - "querr\xE1"
+      - querremos
+      - "querr\xE9is"
+      - "querr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "querr\xEDa"
+      - "querr\xEDas"
+      - "querr\xEDa"
+      - "querr\xEDamos"
+      - "querr\xEDais"
+      - "querr\xEDan"
+      cjid: cond
+    - cjfs:
+      - quiera
+      - quieras
+      - quiera
+      - queramos
+      - "quer\xE1is"
+      - quieran
+      cjid: psub
+    - cjfs:
+      - quisiera
+      - quisieras
+      - quisiera
+      - "quisi\xE9ramos"
+      - quisierais
+      - quisieran
+      cjid: pisb1
+    - cjfs:
+      - quisiese
+      - quisieses
+      - quisiese
+      - "quisi\xE9semos"
+      - quisieseis
+      - quisiesen
+      cjid: pisb2
+    - cjfs:
+      - quisiere
+      - quisieres
+      - quisiere
+      - "quisi\xE9remos"
+      - quisiereis
+      - quisieren
+      cjid: fsub
+    - cjfs:
+      - he querido
+      - has querido
+      - ha querido
+      - hemos querido
+      - "hab\xE9is querido"
+      - han querido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa querido"
+      - "hab\xEDas querido"
+      - "hab\xEDa querido"
+      - "hab\xEDamos querido"
+      - "hab\xEDais querido"
+      - "hab\xEDan querido"
+      cjid: ppsi
+    - cjfs:
+      - hube querido
+      - hubiste querido
+      - hubo querido
+      - hubimos querido
+      - hubisteis querido
+      - hubieron querido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 querido"
+      - "habr\xE1s querido"
+      - "habr\xE1 querido"
+      - habremos querido
+      - "habr\xE9is querido"
+      - "habr\xE1n querido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa querido"
+      - "habr\xEDas querido"
+      - "habr\xEDa querido"
+      - "habr\xEDamos querido"
+      - "habr\xEDais querido"
+      - "habr\xEDan querido"
+      cjid: cpef
+    - cjfs:
+      - haya querido
+      - hayas querido
+      - haya querido
+      - hayamos querido
+      - "hay\xE1is querido"
+      - hayan querido
+      cjid: ppfs
+    - cjfs:
+      - hubiera querido
+      - hubieras querido
+      - hubiera querido
+      - "hubi\xE9ramos querido"
+      - hubierais querido
+      - hubieran querido
+      cjid: ppss1
+    - cjfs:
+      - hubiese querido
+      - hubieses querido
+      - hubiese querido
+      - "hubi\xE9semos querido"
+      - hubieseis querido
+      - hubiesen querido
+      cjid: ppss2
+    - cjfs:
+      - hubiere querido
+      - hubieres querido
+      - hubiere querido
+      - "hubi\xE9remos querido"
+      - hubiereis querido
+      - hubieren querido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - quiere
+      - quiera
+      - queramos
+      - quered
+      - quieran
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|love}, {a_link|affection}'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: querer
+    prs:
+    - sound:
+        audio: quere03sp
+  meta:
+    id: querer:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618600000'
+    src: spanish
+    stems:
+    - querer
+    uuid: feb2e84c-9164-4528-a1c1-d613bc5203ef
+  shortdef:
+  - love, affection
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|say} '
+          - - vis
+            - - t: "dice que no ir\xE1"
+                tr: she says she won't go
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tell} '
+          - - vis
+            - - t: "dime lo que est\xE1s pensando"
+                tr: tell me what you're thinking
+              - t: "ya te lo dec\xEDa yo"
+                tr: I told you so
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tell}, to {a_link|say} '
+          - - vis
+            - - t: haz lo que te digo
+                tr: do as I say, do what I tell you
+              - t: te dije que callaras
+                tr: I told you to be quiet
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|speak}, to {a_link|talk} '
+          - - vis
+            - - t: "no digas tonter\xEDas"
+                tr: don't talk nonsense
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|call} '
+          - - vis
+            - - t: me dicen Rosy
+                tr: they call me Rosy
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}so to speak'
+          sn: '6'
+          vrs:
+          - va: como quien dice
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|that is to say}'
+          sn: '7'
+          vrs:
+          - va: es decir
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|no sooner said than done}'
+          sn: '8'
+          vrs:
+          - va: dicho y hecho
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}(or) {a_link|rather}'
+          sn: '9'
+          vrs:
+          - va: (o) mejor dicho
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}you''re kidding!, {a_link|you don''t say!}'
+          sn: '10'
+          vrs:
+          - va: "\xA1no me digas!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}so to speak'
+          sn: '11'
+          vrs:
+          - va: "por as\xED decirlo"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mean} '
+          - - vis
+            - - t: "\xBFqu\xE9 quiere decir?"
+                tr: what do you mean?
+          sn: '12'
+          vrs:
+          - va: querer decir
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to say to oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be said '
+            - - vis
+              - - t: "\xBFc\xF3mo se dice {ldquo}l\xE1piz{rdquo} en franc\xE9s?"
+                  tr: how do you say {ldquo}pencil{rdquo} in French?
+            sn: '2'
+    drp: decirse
+    fl: reflexive verb
+  fl: transitive verb
+  hom: 1
+  hwi:
+    hw: decir
+    prs:
+    - sound:
+        audio: decir01sp
+  meta:
+    id: decir:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606512000'
+    src: spanish
+    stems:
+    - decir
+    - como quien dice
+    - es decir
+    - dicho y hecho
+    - (o) mejor dicho
+    - "\xA1no me digas!"
+    - "por as\xED decirlo"
+    - querer decir
+    - decirse
+    uuid: 48a4e281-4007-423c-9bb9-05dbae10f766
+  shortdef:
+  - to say
+  - to tell
+  - to tell, to say
+  suppl:
+    cjts:
+    - cjfs:
+      - diciendo
+      - dicho
+      cjid: gppt
+    - cjfs:
+      - digo
+      - dices
+      - dice
+      - decimos
+      - "dec\xEDs"
+      - dicen
+      cjid: pind
+    - cjfs:
+      - "dec\xEDa"
+      - "dec\xEDas"
+      - "dec\xEDa"
+      - "dec\xEDamos"
+      - "dec\xEDais"
+      - "dec\xEDan"
+      cjid: pret
+    - cjfs:
+      - dije
+      - dijiste
+      - dijo
+      - dijimos
+      - dijisteis
+      - dijeron
+      cjid: pprf
+    - cjfs:
+      - "dir\xE9"
+      - "dir\xE1s"
+      - "dir\xE1"
+      - diremos
+      - "dir\xE9is"
+      - "dir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dir\xEDa"
+      - "dir\xEDas"
+      - "dir\xEDa"
+      - "dir\xEDamos"
+      - "dir\xEDais"
+      - "dir\xEDan"
+      cjid: cond
+    - cjfs:
+      - diga
+      - digas
+      - diga
+      - digamos
+      - "dig\xE1is"
+      - digan
+      cjid: psub
+    - cjfs:
+      - dijera
+      - dijeras
+      - dijera
+      - "dij\xE9ramos"
+      - dijerais
+      - dijeran
+      cjid: pisb1
+    - cjfs:
+      - dijese
+      - dijeses
+      - dijese
+      - "dij\xE9semos"
+      - dijeseis
+      - dijesen
+      cjid: pisb2
+    - cjfs:
+      - dijere
+      - dijeres
+      - dijere
+      - "dij\xE9remos"
+      - dijereis
+      - dijeren
+      cjid: fsub
+    - cjfs:
+      - he dicho
+      - has dicho
+      - ha dicho
+      - hemos dicho
+      - "hab\xE9is dicho"
+      - han dicho
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dicho"
+      - "hab\xEDas dicho"
+      - "hab\xEDa dicho"
+      - "hab\xEDamos dicho"
+      - "hab\xEDais dicho"
+      - "hab\xEDan dicho"
+      cjid: ppsi
+    - cjfs:
+      - hube dicho
+      - hubiste dicho
+      - hubo dicho
+      - hubimos dicho
+      - hubisteis dicho
+      - hubieron dicho
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dicho"
+      - "habr\xE1s dicho"
+      - "habr\xE1 dicho"
+      - habremos dicho
+      - "habr\xE9is dicho"
+      - "habr\xE1n dicho"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dicho"
+      - "habr\xEDas dicho"
+      - "habr\xEDa dicho"
+      - "habr\xEDamos dicho"
+      - "habr\xEDais dicho"
+      - "habr\xEDan dicho"
+      cjid: cpef
+    - cjfs:
+      - haya dicho
+      - hayas dicho
+      - haya dicho
+      - hayamos dicho
+      - "hay\xE1is dicho"
+      - hayan dicho
+      cjid: ppfs
+    - cjfs:
+      - hubiera dicho
+      - hubieras dicho
+      - hubiera dicho
+      - "hubi\xE9ramos dicho"
+      - hubierais dicho
+      - hubieran dicho
+      cjid: ppss1
+    - cjfs:
+      - hubiese dicho
+      - hubieses dicho
+      - hubiese dicho
+      - "hubi\xE9semos dicho"
+      - hubieseis dicho
+      - hubiesen dicho
+      cjid: ppss2
+    - cjfs:
+      - hubiere dicho
+      - hubieres dicho
+      - hubiere dicho
+      - "hubi\xE9remos dicho"
+      - hubiereis dicho
+      - hubieren dicho
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - di
+      - diga
+      - digamos
+      - decid
+      - digan
+      cjid: impf

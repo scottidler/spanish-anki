@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|age}, to make look old'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|age}, to grow old'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: envejecer
+    prs:
+    - sound:
+        audio: envej01sp
+  meta:
+    id: envejecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608808000'
+    src: spanish
+    stems:
+    - envejecer
+    uuid: 5baeb1a8-7b78-48c0-8cfd-be078f560109
+  shortdef:
+  - to age, to make look old
+  - to age, to grow old
+  suppl:
+    cjts:
+    - cjfs:
+      - envejeciendo
+      - envejecido
+      cjid: gppt
+    - cjfs:
+      - envejezco
+      - envejeces
+      - envejece
+      - envejecemos
+      - "envejec\xE9is"
+      - envejecen
+      cjid: pind
+    - cjfs:
+      - "envejec\xEDa"
+      - "envejec\xEDas"
+      - "envejec\xEDa"
+      - "envejec\xEDamos"
+      - "envejec\xEDais"
+      - "envejec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "envejec\xED"
+      - envejeciste
+      - "envejeci\xF3"
+      - envejecimos
+      - envejecisteis
+      - envejecieron
+      cjid: pprf
+    - cjfs:
+      - "envejecer\xE9"
+      - "envejecer\xE1s"
+      - "envejecer\xE1"
+      - envejeceremos
+      - "envejecer\xE9is"
+      - "envejecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "envejecer\xEDa"
+      - "envejecer\xEDas"
+      - "envejecer\xEDa"
+      - "envejecer\xEDamos"
+      - "envejecer\xEDais"
+      - "envejecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - envejezca
+      - envejezcas
+      - envejezca
+      - envejezcamos
+      - "envejezc\xE1is"
+      - envejezcan
+      cjid: psub
+    - cjfs:
+      - envejeciera
+      - envejecieras
+      - envejeciera
+      - "envejeci\xE9ramos"
+      - envejecierais
+      - envejecieran
+      cjid: pisb1
+    - cjfs:
+      - envejeciese
+      - envejecieses
+      - envejeciese
+      - "envejeci\xE9semos"
+      - envejecieseis
+      - envejeciesen
+      cjid: pisb2
+    - cjfs:
+      - envejeciere
+      - envejecieres
+      - envejeciere
+      - "envejeci\xE9remos"
+      - envejeciereis
+      - envejecieren
+      cjid: fsub
+    - cjfs:
+      - he envejecido
+      - has envejecido
+      - ha envejecido
+      - hemos envejecido
+      - "hab\xE9is envejecido"
+      - han envejecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa envejecido"
+      - "hab\xEDas envejecido"
+      - "hab\xEDa envejecido"
+      - "hab\xEDamos envejecido"
+      - "hab\xEDais envejecido"
+      - "hab\xEDan envejecido"
+      cjid: ppsi
+    - cjfs:
+      - hube envejecido
+      - hubiste envejecido
+      - hubo envejecido
+      - hubimos envejecido
+      - hubisteis envejecido
+      - hubieron envejecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 envejecido"
+      - "habr\xE1s envejecido"
+      - "habr\xE1 envejecido"
+      - habremos envejecido
+      - "habr\xE9is envejecido"
+      - "habr\xE1n envejecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa envejecido"
+      - "habr\xEDas envejecido"
+      - "habr\xEDa envejecido"
+      - "habr\xEDamos envejecido"
+      - "habr\xEDais envejecido"
+      - "habr\xEDan envejecido"
+      cjid: cpef
+    - cjfs:
+      - haya envejecido
+      - hayas envejecido
+      - haya envejecido
+      - hayamos envejecido
+      - "hay\xE1is envejecido"
+      - hayan envejecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera envejecido
+      - hubieras envejecido
+      - hubiera envejecido
+      - "hubi\xE9ramos envejecido"
+      - hubierais envejecido
+      - hubieran envejecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese envejecido
+      - hubieses envejecido
+      - hubiese envejecido
+      - "hubi\xE9semos envejecido"
+      - hubieseis envejecido
+      - hubiesen envejecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere envejecido
+      - hubieres envejecido
+      - hubiere envejecido
+      - "hubi\xE9remos envejecido"
+      - hubiereis envejecido
+      - hubieren envejecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - envejece
+      - envejezca
+      - envejezcamos
+      - envejeced
+      - envejezcan
+      cjid: impf

@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|memorize}'
+  fl: transitive verb
+  hwi:
+    hw: memorizar
+  meta:
+    id: memorizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614789000'
+    src: spanish
+    stems:
+    - memorizar
+    - "memorizaci\xF3n"
+    uuid: 32537355-fb45-4547-bc16-e123efef5f30
+  shortdef:
+  - to memorize
+  suppl:
+    cjts:
+    - cjfs:
+      - memorizando
+      - memorizado
+      cjid: gppt
+    - cjfs:
+      - memorizo
+      - memorizas
+      - memoriza
+      - memorizamos
+      - "memoriz\xE1is"
+      - memorizan
+      cjid: pind
+    - cjfs:
+      - memorizaba
+      - memorizabas
+      - memorizaba
+      - "memoriz\xE1bamos"
+      - memorizabais
+      - memorizaban
+      cjid: pret
+    - cjfs:
+      - "memoric\xE9"
+      - memorizaste
+      - "memoriz\xF3"
+      - memorizamos
+      - memorizasteis
+      - memorizaron
+      cjid: pprf
+    - cjfs:
+      - "memorizar\xE9"
+      - "memorizar\xE1s"
+      - "memorizar\xE1"
+      - memorizaremos
+      - "memorizar\xE9is"
+      - "memorizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "memorizar\xEDa"
+      - "memorizar\xEDas"
+      - "memorizar\xEDa"
+      - "memorizar\xEDamos"
+      - "memorizar\xEDais"
+      - "memorizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - memorice
+      - memorices
+      - memorice
+      - memoricemos
+      - "memoric\xE9is"
+      - memoricen
+      cjid: psub
+    - cjfs:
+      - memorizara
+      - memorizaras
+      - memorizara
+      - "memoriz\xE1ramos"
+      - memorizarais
+      - memorizaran
+      cjid: pisb1
+    - cjfs:
+      - memorizase
+      - memorizases
+      - memorizase
+      - "memoriz\xE1semos"
+      - memorizaseis
+      - memorizasen
+      cjid: pisb2
+    - cjfs:
+      - memorizare
+      - memorizares
+      - memorizare
+      - "memoriz\xE1remos"
+      - memorizareis
+      - memorizaren
+      cjid: fsub
+    - cjfs:
+      - he memorizado
+      - has memorizado
+      - ha memorizado
+      - hemos memorizado
+      - "hab\xE9is memorizado"
+      - han memorizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa memorizado"
+      - "hab\xEDas memorizado"
+      - "hab\xEDa memorizado"
+      - "hab\xEDamos memorizado"
+      - "hab\xEDais memorizado"
+      - "hab\xEDan memorizado"
+      cjid: ppsi
+    - cjfs:
+      - hube memorizado
+      - hubiste memorizado
+      - hubo memorizado
+      - hubimos memorizado
+      - hubisteis memorizado
+      - hubieron memorizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 memorizado"
+      - "habr\xE1s memorizado"
+      - "habr\xE1 memorizado"
+      - habremos memorizado
+      - "habr\xE9is memorizado"
+      - "habr\xE1n memorizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa memorizado"
+      - "habr\xEDas memorizado"
+      - "habr\xEDa memorizado"
+      - "habr\xEDamos memorizado"
+      - "habr\xEDais memorizado"
+      - "habr\xEDan memorizado"
+      cjid: cpef
+    - cjfs:
+      - haya memorizado
+      - hayas memorizado
+      - haya memorizado
+      - hayamos memorizado
+      - "hay\xE1is memorizado"
+      - hayan memorizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera memorizado
+      - hubieras memorizado
+      - hubiera memorizado
+      - "hubi\xE9ramos memorizado"
+      - hubierais memorizado
+      - hubieran memorizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese memorizado
+      - hubieses memorizado
+      - hubiese memorizado
+      - "hubi\xE9semos memorizado"
+      - hubieseis memorizado
+      - hubiesen memorizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere memorizado
+      - hubieres memorizado
+      - hubiere memorizado
+      - "hubi\xE9remos memorizado"
+      - hubiereis memorizado
+      - hubieren memorizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - memoriza
+      - memorice
+      - memoricemos
+      - memorizad
+      - memoricen
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "memorizaci\xF3n"

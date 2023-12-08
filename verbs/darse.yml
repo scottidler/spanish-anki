@@ -1,0 +1,1356 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a gift, a donation, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|entregar||} {bc}to {a_link|give}, to {a_link|hand} (over)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|proporcionar||} {bc}to {a_link|give} (supplies, support, etc.) '
+          - - vis
+            - - t: dale una oportunidad
+                tr: give him a chance
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conceder||} {bc}to {a_link|give} (time, permission, etc.)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|administrar||} {bc}to {a_link|give} (medicine, etc.)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|expresar||} {bc}to {a_link|give}, to {a_link|express} '
+          - - vis
+            - - t: dales recuerdos de mi parte
+                tr: give them my regards
+              - t: darle las gracias a
+                tr: to thank
+              - t: dar su palabra
+                tr: to give one's word
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mostrar||} {bc}to {a_link|give} (an indication, etc.)'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ofrecer||} {bc}to {a_link|give} (a reason, etc.)'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (an impression, etc.)'
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|golpear||} {bc}to {a_link|hit} '
+          - - vis
+            - - t: me dio en la cara
+                tr: it hit me in the face
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|strike} '
+          - - vis
+            - - t: el reloj dio las doce
+                tr: the clock struck twelve
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|producir||} {bc}to {a_link|yield}, to {a_link|produce}'
+          sn: '12'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a performance, a party, etc.), to {a_link|show}
+              (a film, etc.)'
+          sn: '13'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|do} (an action) '
+          - - vis
+            - - t: dar un grito
+                tr: to give a shout
+              - t: dar un paseo
+                tr: to go for a walk
+              - t: me dio un beso
+                tr: she gave me a kiss
+          sn: '14'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|vender||} {bc}to {a_link|give}, to {a_link|sell}'
+          sn: '15'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|causar||} {bc}to {a_link|cause} '
+          - - vis
+            - - t: darle miedo/sed (etc.) a alguien
+                tr: to make someone frightened/thirsty (etc.)
+              - t: me da risa
+                tr: it makes me laugh, it's funny
+              - t: le da problemas/esperanza
+                tr: it gives her trouble/hope
+          sn: '16'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aplicar||} {bc}to {a_link|apply} '
+          - - vis
+            - - t: dale una mano de pintura
+                tr: give it a coat of paint
+              - t: dar un impulso a
+                tr: to give a boost to
+          sn: '17'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conferir||} {bc}to {a_link|give}, to {a_link|impart} (a quality)'
+          sn: '18'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to regard as, to {a_link|consider} '
+          - - vis
+            - - t: dar por hecho
+                tr: to take for granted
+              - t: dar a alguien por muerto
+                tr: to give someone up for dead
+          sn: '19'
+          vrs:
+          - va: dar como/por
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|provide} (enough) '
+          - - vis
+            - - t: no me da para dos pasajes
+                tr: I don't have enough for two fares
+              - t: no me da tiempo
+                tr: I don't have time
+              - t: "esto no da para m\xE1s"
+                tr: this can't go on
+              - t: a todo lo que da
+                tr: at full speed/power (etc.)
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to hand something over '
+          - - vis
+            - - t: dame
+                tr: give it to me
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deal} (in cards)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hit} '
+          - - vis
+            - - t: dar en el blanco
+                tr: to hit the target
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give a result '
+          - - vis
+            - - t: dio positivo al virus
+                tr: he tested positive for the virus
+          sn: '5'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "est\xE1n dale que dale con el tel\xE9fono"
+                tr: they're constantly on the phone
+              - t: y ella dale que te pego con sus problemas
+                tr: and she was going on and on about her problems
+          sn: '6'
+          vrs:
+          - va: dale que dale
+          - va: dale que te pego
+            vl: or Spain
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|press} (a button, etc.), to {a_link|turn} (a dial, etc.)'
+          sn: '7'
+          vrs:
+          - va: darle a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|overlook}, to look out on'
+          sn: '8'
+          vrs:
+          - va: dar a/sobre
+            vac: ~ a/sobre
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run into}'
+          sn: '9'
+          vrs:
+          - va: dar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to hit upon (an idea)'
+          sn: '10'
+          vrs:
+          - va: dar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give}, to {a_link|stretch} (of clothing, etc.)'
+          sn: '11'
+          vrs:
+          - va: "dar de s\xED"
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to consider oneself '
+            - - vis
+              - - t: se dio por vencido
+                  tr: he gave in
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|occur}, to {a_link|arise}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|grow}, to {a_link|come up}'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to hit oneself against, to {a_link|bump into}'
+            sn: '4'
+            vrs:
+            - va: 'darse con/contra '
+              vac: '~ con/contra '
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to boast about '
+            - - vis
+              - - t: se las da de muy listo
+                  tr: he thinks he's very smart
+            sn: '5'
+            vrs:
+            - va: "d\xE1rselas de"
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be good at something '
+            - - vis
+              - - t: "se le dan muy bien las matem\xE1ticas"
+                  tr: she's very good at math
+            sn: '6'
+            vrs:
+            - va: "d\xE1rsele bien algo a uno"
+    drp: darse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: dar
+    prs:
+    - sound:
+        audio: dar0001sp
+  meta:
+    id: dar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606439000'
+    src: spanish
+    stems:
+    - dar
+    - dar como/por
+    - dar como
+    - dar por
+    - dale que dale
+    - dale que te pego
+    - darle a
+    - dar a/sobre
+    - dar a
+    - dar sobre
+    - dar con
+    - "dar de s\xED"
+    - darse
+    - 'darse con/contra '
+    - 'darse con '
+    - 'darse contra '
+    - "d\xE1rselas de"
+    - "d\xE1rsele bien algo a uno"
+    uuid: e9e926a6-88c8-469c-aecc-584b986a5e16
+  shortdef:
+  - to give (a gift, a donation, etc.)
+  - 'entregar : to give, to hand (over)'
+  - 'proporcionar : to give (supplies, support, etc.)'
+  suppl:
+    cjts:
+    - cjfs:
+      - dando
+      - dado
+      cjid: gppt
+    - cjfs:
+      - doy
+      - das
+      - da
+      - damos
+      - dais
+      - dan
+      cjid: pind
+    - cjfs:
+      - daba
+      - dabas
+      - daba
+      - "d\xE1bamos"
+      - dabais
+      - daban
+      cjid: pret
+    - cjfs:
+      - di
+      - diste
+      - dio
+      - dimos
+      - disteis
+      - dieron
+      cjid: pprf
+    - cjfs:
+      - "dar\xE9"
+      - "dar\xE1s"
+      - "dar\xE1"
+      - daremos
+      - "dar\xE9is"
+      - "dar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dar\xEDa"
+      - "dar\xEDas"
+      - "dar\xEDa"
+      - "dar\xEDamos"
+      - "dar\xEDais"
+      - "dar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "d\xE9"
+      - des
+      - "d\xE9"
+      - demos
+      - deis
+      - den
+      cjid: psub
+    - cjfs:
+      - diera
+      - dieras
+      - diera
+      - "di\xE9ramos"
+      - dierais
+      - dieran
+      cjid: pisb1
+    - cjfs:
+      - diese
+      - dieses
+      - diese
+      - "di\xE9semos"
+      - dieseis
+      - diesen
+      cjid: pisb2
+    - cjfs:
+      - diere
+      - dieres
+      - diere
+      - "di\xE9remos"
+      - diereis
+      - dieren
+      cjid: fsub
+    - cjfs:
+      - he dado
+      - has dado
+      - ha dado
+      - hemos dado
+      - "hab\xE9is dado"
+      - han dado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dado"
+      - "hab\xEDas dado"
+      - "hab\xEDa dado"
+      - "hab\xEDamos dado"
+      - "hab\xEDais dado"
+      - "hab\xEDan dado"
+      cjid: ppsi
+    - cjfs:
+      - hube dado
+      - hubiste dado
+      - hubo dado
+      - hubimos dado
+      - hubisteis dado
+      - hubieron dado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dado"
+      - "habr\xE1s dado"
+      - "habr\xE1 dado"
+      - habremos dado
+      - "habr\xE9is dado"
+      - "habr\xE1n dado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dado"
+      - "habr\xEDas dado"
+      - "habr\xEDa dado"
+      - "habr\xEDamos dado"
+      - "habr\xEDais dado"
+      - "habr\xEDan dado"
+      cjid: cpef
+    - cjfs:
+      - haya dado
+      - hayas dado
+      - haya dado
+      - hayamos dado
+      - "hay\xE1is dado"
+      - hayan dado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dado
+      - hubieras dado
+      - hubiera dado
+      - "hubi\xE9ramos dado"
+      - hubierais dado
+      - hubieran dado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dado
+      - hubieses dado
+      - hubiese dado
+      - "hubi\xE9semos dado"
+      - hubieseis dado
+      - hubiesen dado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dado
+      - hubieres dado
+      - hubiere dado
+      - "hubi\xE9remos dado"
+      - hubiereis dado
+      - hubieren dado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - da
+      - "d\xE9"
+      - demos
+      - dad
+      - den
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|air} '
+          - - vis
+            - - t: "aire fr\xEDo"
+                tr: cold air
+              - t: un aire caliente
+                tr: a hot breeze
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|air} '
+          - - vis
+            - - t: un aire de autoridad
+                tr: an air of authority
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|air-conditioning}'
+          sn: '3'
+          vrs:
+          - va: aire acondicionado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}in the open air'
+          sn: '4'
+          vrs:
+          - va: al aire libre
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give oneself airs'
+          sn: '5'
+          vrs:
+          - va: darse aires
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}on the air, broadcasting'
+          sn: '6'
+          vrs:
+          - va: en el aire
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}up in the air, {a_link|unresolved}'
+          sn: '7'
+          vrs:
+          - va: en el aire
+  fl: masculine noun
+  hwi:
+    hw: aire
+    prs:
+    - sound:
+        audio: aire001sp
+  meta:
+    id: aire
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600807000'
+    src: spanish
+    stems:
+    - aire
+    - aire acondicionado
+    - al aire libre
+    - darse aires
+    - en el aire
+    uuid: 53b8a55c-2ebb-447d-96d5-c429569d35c4
+  shortdef:
+  - air
+  - air
+  - air-conditioning
+- ahws:
+  - hw: aludida
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}person in question '
+          - - vis
+            - - t: el aludido
+                tr: the aforesaid
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take it personally'
+          sn: '2'
+          vrs:
+          - va: darse por aludido
+  fl: noun
+  hwi:
+    hw: aludido
+  meta:
+    id: aludido
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601145000'
+    src: spanish
+    stems:
+    - aludido
+    - aludida
+    - darse por aludido
+    uuid: e9c7c522-4d0f-4917-bb5a-13fc2fcbd1c9
+  shortdef:
+  - person in question
+  - to take it personally
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pig out} (on)'
+          vrs:
+          - va: "darse un atrac\xF3n (de)"
+  fl: masculine noun
+  hwi:
+    hw: "atrac\xF3n"
+  ins:
+  - if: atracones
+    ifc: -cones
+    il: plural
+  meta:
+    id: atracon
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602342000'
+    src: spanish
+    stems:
+    - "atrac\xF3n"
+    - atracones
+    - "darse un atrac\xF3n (de)"
+    - "darse un atrac\xF3n"
+    - "darse un atrac\xF3n de"
+    uuid: 73dbd840-baf2-476f-924e-68b416ceb3df
+  shortdef:
+  - to pig out (on)
+  sls:
+  - familiar
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|descenso||} {bc}{a_link|fall}, {a_link|drop}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|slump}, {a_link|recession}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|loss}, {a_link|casualty}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|discharge}, to {a_link|dismiss}'
+          sn: '4'
+          vrs:
+          - va: dar de baja
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|withdraw}, to drop out, to {a_link|resign}'
+          sn: '5'
+          vrs:
+          - va: darse de baja
+  fl: feminine noun
+  hwi:
+    hw: baja
+    prs:
+    - sound:
+        audio: baja001sp
+  meta:
+    id: baja
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602656000'
+    src: spanish
+    stems:
+    - baja
+    - dar de baja
+    - darse de baja
+    uuid: 8defc907-c171-470c-8fb1-4ab953404aa2
+  shortdef:
+  - 'descenso : fall, drop'
+  - slump, recession
+  - loss, casualty
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|know}, to {a_link|be acquainted with} '
+          - - vis
+            - - t: "\xBFlo conoces?"
+                tr: do you know him?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|meet} '
+          - - vis
+            - - t: "ya la conoc\xED"
+                tr: I've already met her
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|know}, to be familiar with (a topic, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get to know, to {a_link|experience} '
+          - - vis
+            - - t: "me gustar\xEDa conocer otros pa\xEDses"
+                tr: I'd like to visit other countries
+              - t: conocer de primera mano
+                tr: to experience firsthand
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reconocer||} {bc}to {a_link|recognize} '
+          - - vis
+            - - t: "no te conoc\xED"
+                tr: I didn't recognize you
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disclose}, to {a_link|announce}'
+          sn: '6'
+          vrs:
+          - va: dar a conocer
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make oneself known'
+          sn: '7'
+          vrs:
+          - va: darse a conocer
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to know each other'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|meet}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to know oneself'
+            sn: '3'
+    drp: conocerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: conocer
+    prs:
+    - sound:
+        audio: conoc02sp
+  meta:
+    id: conocer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605547000'
+    src: spanish
+    stems:
+    - conocer
+    - dar a conocer
+    - darse a conocer
+    - conocerse
+    uuid: 9966c813-3d3c-43fe-b8d0-a7ffc47f79e7
+  shortdef:
+  - to know, to be acquainted with
+  - to meet
+  - to know, to be familiar with (a topic, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - conociendo
+      - conocido
+      cjid: gppt
+    - cjfs:
+      - conozco
+      - conoces
+      - conoce
+      - conocemos
+      - "conoc\xE9is"
+      - conocen
+      cjid: pind
+    - cjfs:
+      - "conoc\xEDa"
+      - "conoc\xEDas"
+      - "conoc\xEDa"
+      - "conoc\xEDamos"
+      - "conoc\xEDais"
+      - "conoc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "conoc\xED"
+      - conociste
+      - "conoci\xF3"
+      - conocimos
+      - conocisteis
+      - conocieron
+      cjid: pprf
+    - cjfs:
+      - "conocer\xE9"
+      - "conocer\xE1s"
+      - "conocer\xE1"
+      - conoceremos
+      - "conocer\xE9is"
+      - "conocer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conocer\xEDa"
+      - "conocer\xEDas"
+      - "conocer\xEDa"
+      - "conocer\xEDamos"
+      - "conocer\xEDais"
+      - "conocer\xEDan"
+      cjid: cond
+    - cjfs:
+      - conozca
+      - conozcas
+      - conozca
+      - conozcamos
+      - "conozc\xE1is"
+      - conozcan
+      cjid: psub
+    - cjfs:
+      - conociera
+      - conocieras
+      - conociera
+      - "conoci\xE9ramos"
+      - conocierais
+      - conocieran
+      cjid: pisb1
+    - cjfs:
+      - conociese
+      - conocieses
+      - conociese
+      - "conoci\xE9semos"
+      - conocieseis
+      - conociesen
+      cjid: pisb2
+    - cjfs:
+      - conociere
+      - conocieres
+      - conociere
+      - "conoci\xE9remos"
+      - conociereis
+      - conocieren
+      cjid: fsub
+    - cjfs:
+      - he conocido
+      - has conocido
+      - ha conocido
+      - hemos conocido
+      - "hab\xE9is conocido"
+      - han conocido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conocido"
+      - "hab\xEDas conocido"
+      - "hab\xEDa conocido"
+      - "hab\xEDamos conocido"
+      - "hab\xEDais conocido"
+      - "hab\xEDan conocido"
+      cjid: ppsi
+    - cjfs:
+      - hube conocido
+      - hubiste conocido
+      - hubo conocido
+      - hubimos conocido
+      - hubisteis conocido
+      - hubieron conocido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conocido"
+      - "habr\xE1s conocido"
+      - "habr\xE1 conocido"
+      - habremos conocido
+      - "habr\xE9is conocido"
+      - "habr\xE1n conocido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conocido"
+      - "habr\xEDas conocido"
+      - "habr\xEDa conocido"
+      - "habr\xEDamos conocido"
+      - "habr\xEDais conocido"
+      - "habr\xEDan conocido"
+      cjid: cpef
+    - cjfs:
+      - haya conocido
+      - hayas conocido
+      - haya conocido
+      - hayamos conocido
+      - "hay\xE1is conocido"
+      - hayan conocido
+      cjid: ppfs
+    - cjfs:
+      - hubiera conocido
+      - hubieras conocido
+      - hubiera conocido
+      - "hubi\xE9ramos conocido"
+      - hubierais conocido
+      - hubieran conocido
+      cjid: ppss1
+    - cjfs:
+      - hubiese conocido
+      - hubieses conocido
+      - hubiese conocido
+      - "hubi\xE9semos conocido"
+      - hubieseis conocido
+      - hubiesen conocido
+      cjid: ppss2
+    - cjfs:
+      - hubiere conocido
+      - hubieres conocido
+      - hubiere conocido
+      - "hubi\xE9remos conocido"
+      - hubiereis conocido
+      - hubieren conocido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conoce
+      - conozca
+      - conozcamos
+      - conoced
+      - conozcan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|calculation}, {a_link|count}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|account} '
+          - - vis
+            - - t: cuenta corriente
+                tr: checking account
+              - t: cuenta de ahorro(s)
+                tr: savings account
+              - t: "cuenta de correo(s) electr\xF3nico(s), cuenta de email"
+                tr: e-mail account
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|responsibility}, {a_link|liability} '
+          - - vis
+            - - t: corre por cuenta del gobierno
+                tr: the government is footing the bill
+              - t: trabajar por cuenta propia
+                tr: to be self-employed
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|check}, {a_link|bill}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in the end}'
+          sn: '5'
+          vrs:
+          - va: a fin de cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|realize}'
+          sn: '6'
+          vrs:
+          - va: darse cuenta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in short}'
+          sls:
+          - Chile
+          sn: '7'
+          vrs:
+          - va: en buenas cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|on account of}, {a_link|because of}'
+          sn: '8'
+          vrs:
+          - va: por cuenta de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be held accountable'
+          sn: '9'
+          vrs:
+          - va: rendir cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to bear in mind'
+          sn: '10'
+          vrs:
+          - va: tener en cuenta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take into account}'
+          sn: '11'
+          vrs:
+          - va: tomar en cuenta
+  fl: feminine noun
+  hom: 2
+  hwi:
+    hw: cuenta
+    prs:
+    - sound:
+        audio: cuent02sp
+  meta:
+    id: cuenta:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606303000'
+    src: spanish
+    stems:
+    - cuenta
+    - a fin de cuentas
+    - darse cuenta
+    - en buenas cuentas
+    - por cuenta de
+    - rendir cuentas
+    - tener en cuenta
+    - tomar en cuenta
+    uuid: 0e3c2d31-6bd9-490f-8e43-cbbad91d7815
+  shortdef:
+  - calculation, count
+  - account
+  - responsibility, liability
+- ahws:
+  - hw: entendida
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|skilled}, {a_link|expert}, {a_link|knowledgeable}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|understand}, to be under the impression '
+          - - vis
+            - - t: "ten\xEDamos entendido que vendr\xEDas"
+                tr: we were under the impression you would come
+          sn: '2'
+          vrs:
+          - va: tener entendido
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go without saying'
+          sn: '3'
+          vrs:
+          - va: darse por entendido
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: entendido
+    prs:
+    - sound:
+        audio: enten04sp
+  meta:
+    id: entendido:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608707000'
+    src: spanish
+    stems:
+    - entendido
+    - entendida
+    - tener entendido
+    - darse por entendido
+    uuid: 5928f30b-0d7c-4c99-8101-c27cf55b0ad6
+  shortdef:
+  - skilled, expert, knowledgeable
+  - to understand, to be under the impression
+  - to go without saying
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|conceit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put on airs'
+          sn: '2'
+          vrs:
+          - va: "darse \xEDnfulas"
+  fl: feminine plural noun
+  hwi:
+    hw: "\xEDnfulas"
+    prs:
+    - sound:
+        audio: inful01sp
+  meta:
+    id: infulas
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612494000'
+    src: spanish
+    stems:
+    - "\xEDnfulas"
+    - "darse \xEDnfulas"
+    uuid: aa401ee7-300c-49a2-9671-0f692317bfda
+  shortdef:
+  - conceit
+  - to put on airs
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hand} '
+          - - vis
+            - - t: "l\xE1vate las manos"
+                tr: wash your hands
+              - t: "ag\xE1rralo con las dos manos"
+                tr: hold it with both hands
+              - t: "ten\xEDa algo en la mano"
+                tr: she had something in her hand
+              - t: con mis propias manos
+                tr: with my own two hands
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|coat} (of paint or varnish)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hand} (in games)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}by hand'
+          sn: '4'
+          vrs:
+          - va: a mano
+            vac: a ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|handy}, {a_link|at hand}, {a_link|nearby} '
+          - - vis
+            - - t: "ten\xEDa los libros a (la) mano"
+                tr: I kept the books handy
+          sn: '5'
+          vrs:
+          - va: a mano
+            vac: a ~
+          - va: a la mano
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|secretly}, on the sly'
+          sn: '6'
+          vrs:
+          - va: bajo mano
+            vac: bajo ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall into the hands of}'
+          sn: '7'
+          vrs:
+          - va: caer en manos de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|red-handed}'
+          sn: '8'
+          vrs:
+          - va: con las manos en la masa
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to shake someone''s hand'
+          sn: '9'
+          vrs:
+          - va: darle la mano a alguien
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to shake hands'
+          sn: '10'
+          vrs:
+          - va: darse la mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}by the hand, hand in hand '
+          - - vis
+            - - t: "me tom\xF3 de la mano"
+                tr: he took me by the hand
+              - t: "la pol\xEDtica y la econom\xEDa van de la mano"
+                tr: politics and economics go hand in hand
+          sn: '11'
+          vrs:
+          - va: de la mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}from one person to the next '
+          - - vis
+            - - t: pasar de mano en mano
+                tr: to be passed along/around
+          sn: '12'
+          vrs:
+          - va: de mano en mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|firsthand}, at firsthand '
+          - - vis
+            - - t: conocer de primera mano
+                tr: to experience firsthand
+          sn: '13'
+          vrs:
+          - va: de primera mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|secondhand}, {a_link|used} '
+          - - vis
+            - - t: ropa de segunda mano
+                tr: secondhand clothing
+          sn: '14'
+          vrs:
+          - va: de segunda mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lend a hand'
+          sn: '15'
+          vrs:
+          - va: echar una mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|one-on-one}'
+          sn: '16'
+          vrs:
+          - va: mano a mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|labor}, {a_link|manpower}'
+          sn: '17'
+          vrs:
+          - va: mano de obra
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pestle}'
+          sn: '18'
+          vrs:
+          - va: mano de mortero
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}shady dealings {it}plural{/it}'
+          sls:
+          - Mexico familiar
+          sn: '19'
+          vrs:
+          - va: mano negra
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}stick ''em up!, (put your) hands up!'
+          sn: '20'
+          vrs:
+          - va: "\xA1manos arriba!"
+          - va: "\xA1arriba las manos!"
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be good at'
+          sn: '21'
+          vrs:
+          - va: tener (buena) mano para
+  fl: feminine noun
+  hom: 1
+  hwi:
+    hw: mano
+    prs:
+    - sound:
+        audio: mano001sp
+  meta:
+    id: mano:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614379000'
+    src: spanish
+    stems:
+    - mano
+    - a mano
+    - a la mano
+    - bajo mano
+    - caer en manos de
+    - con las manos en la masa
+    - darle la mano a alguien
+    - darse la mano
+    - de la mano
+    - de mano en mano
+    - de primera mano
+    - de segunda mano
+    - echar una mano
+    - mano a mano
+    - mano de obra
+    - mano de mortero
+    - mano negra
+    - "\xA1manos arriba!"
+    - "\xA1arriba las manos!"
+    - tener (buena) mano para
+    uuid: 136e93c2-fc79-4df5-a05e-7538f7664b5e
+  shortdef:
+  - hand
+  - coat (of paint or varnish)
+  - hand (in games)

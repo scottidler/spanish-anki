@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fry}'
+  fl: transitive verb
+  hwi:
+    hw: "fre\xEDr"
+    prs:
+    - sound:
+        audio: freir01sp
+  meta:
+    id: freir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610424000'
+    src: spanish
+    stems:
+    - "fre\xEDr"
+    - "fre\xEDrse"
+    uuid: 6235008e-8bf0-41e2-ba31-58dee1d5de73
+  shortdef:
+  - to fry
+  suppl:
+    cjts:
+    - cjfs:
+      - friendo
+      - frito
+      cjid: gppt
+    - cjfs:
+      - "fr\xEDo"
+      - "fr\xEDes"
+      - "fr\xEDe"
+      - "fre\xEDmos"
+      - "fre\xEDs"
+      - "fr\xEDen"
+      cjid: pind
+    - cjfs:
+      - "fre\xEDa"
+      - "fre\xEDas"
+      - "fre\xEDa"
+      - "fre\xEDamos"
+      - "fre\xEDais"
+      - "fre\xEDan"
+      cjid: pret
+    - cjfs:
+      - "fre\xED"
+      - "fre\xEDste"
+      - "fri\xF3"
+      - "fre\xEDmos"
+      - "fre\xEDsteis"
+      - frieron
+      cjid: pprf
+    - cjfs:
+      - "freir\xE9"
+      - "freir\xE1s"
+      - "freir\xE1"
+      - freiremos
+      - "freir\xE9is"
+      - "freir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "freir\xEDa"
+      - "freir\xEDas"
+      - "freir\xEDa"
+      - "freir\xEDamos"
+      - "freir\xEDais"
+      - "freir\xEDan"
+      cjid: cond
+    - cjfs:
+      - "fr\xEDa"
+      - "fr\xEDas"
+      - "fr\xEDa"
+      - friamos
+      - "fri\xE1is"
+      - "fr\xEDan"
+      cjid: psub
+    - cjfs:
+      - friera
+      - frieras
+      - friera
+      - "fri\xE9ramos"
+      - frierais
+      - frieran
+      cjid: pisb1
+    - cjfs:
+      - friese
+      - frieses
+      - friese
+      - "fri\xE9semos"
+      - frieseis
+      - friesen
+      cjid: pisb2
+    - cjfs:
+      - friere
+      - frieres
+      - friere
+      - "fri\xE9remos"
+      - friereis
+      - frieren
+      cjid: fsub
+    - cjfs:
+      - he frito
+      - has frito
+      - ha frito
+      - hemos frito
+      - "hab\xE9is frito"
+      - han frito
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa frito"
+      - "hab\xEDas frito"
+      - "hab\xEDa frito"
+      - "hab\xEDamos frito"
+      - "hab\xEDais frito"
+      - "hab\xEDan frito"
+      cjid: ppsi
+    - cjfs:
+      - hube frito
+      - hubiste frito
+      - hubo frito
+      - hubimos frito
+      - hubisteis frito
+      - hubieron frito
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 frito"
+      - "habr\xE1s frito"
+      - "habr\xE1 frito"
+      - habremos frito
+      - "habr\xE9is frito"
+      - "habr\xE1n frito"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa frito"
+      - "habr\xEDas frito"
+      - "habr\xEDa frito"
+      - "habr\xEDamos frito"
+      - "habr\xEDais frito"
+      - "habr\xEDan frito"
+      cjid: cpef
+    - cjfs:
+      - haya frito
+      - hayas frito
+      - haya frito
+      - hayamos frito
+      - "hay\xE1is frito"
+      - hayan frito
+      cjid: ppfs
+    - cjfs:
+      - hubiera frito
+      - hubieras frito
+      - hubiera frito
+      - "hubi\xE9ramos frito"
+      - hubierais frito
+      - hubieran frito
+      cjid: ppss1
+    - cjfs:
+      - hubiese frito
+      - hubieses frito
+      - hubiese frito
+      - "hubi\xE9semos frito"
+      - hubieseis frito
+      - hubiesen frito
+      cjid: ppss2
+    - cjfs:
+      - hubiere frito
+      - hubieres frito
+      - hubiere frito
+      - "hubi\xE9remos frito"
+      - hubiereis frito
+      - hubieren frito
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "fr\xEDe"
+      - "fr\xEDa"
+      - friamos
+      - "fre\xEDd"
+      - "fr\xEDan"
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: "fre\xEDrse"

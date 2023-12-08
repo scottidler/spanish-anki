@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|notify}, to {a_link|inform}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|advise}, to {a_link|warn}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: avisar
+    prs:
+    - sound:
+        audio: avisa01sp
+  meta:
+    id: avisar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602564000'
+    src: spanish
+    stems:
+    - avisar
+    uuid: ff1f8e92-d531-4ded-8cca-0a012589bd4f
+  shortdef:
+  - to notify, to inform
+  - to advise, to warn
+  suppl:
+    cjts:
+    - cjfs:
+      - avisando
+      - avisado
+      cjid: gppt
+    - cjfs:
+      - aviso
+      - avisas
+      - avisa
+      - avisamos
+      - "avis\xE1is"
+      - avisan
+      cjid: pind
+    - cjfs:
+      - avisaba
+      - avisabas
+      - avisaba
+      - "avis\xE1bamos"
+      - avisabais
+      - avisaban
+      cjid: pret
+    - cjfs:
+      - "avis\xE9"
+      - avisaste
+      - "avis\xF3"
+      - avisamos
+      - avisasteis
+      - avisaron
+      cjid: pprf
+    - cjfs:
+      - "avisar\xE9"
+      - "avisar\xE1s"
+      - "avisar\xE1"
+      - avisaremos
+      - "avisar\xE9is"
+      - "avisar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "avisar\xEDa"
+      - "avisar\xEDas"
+      - "avisar\xEDa"
+      - "avisar\xEDamos"
+      - "avisar\xEDais"
+      - "avisar\xEDan"
+      cjid: cond
+    - cjfs:
+      - avise
+      - avises
+      - avise
+      - avisemos
+      - "avis\xE9is"
+      - avisen
+      cjid: psub
+    - cjfs:
+      - avisara
+      - avisaras
+      - avisara
+      - "avis\xE1ramos"
+      - avisarais
+      - avisaran
+      cjid: pisb1
+    - cjfs:
+      - avisase
+      - avisases
+      - avisase
+      - "avis\xE1semos"
+      - avisaseis
+      - avisasen
+      cjid: pisb2
+    - cjfs:
+      - avisare
+      - avisares
+      - avisare
+      - "avis\xE1remos"
+      - avisareis
+      - avisaren
+      cjid: fsub
+    - cjfs:
+      - he avisado
+      - has avisado
+      - ha avisado
+      - hemos avisado
+      - "hab\xE9is avisado"
+      - han avisado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa avisado"
+      - "hab\xEDas avisado"
+      - "hab\xEDa avisado"
+      - "hab\xEDamos avisado"
+      - "hab\xEDais avisado"
+      - "hab\xEDan avisado"
+      cjid: ppsi
+    - cjfs:
+      - hube avisado
+      - hubiste avisado
+      - hubo avisado
+      - hubimos avisado
+      - hubisteis avisado
+      - hubieron avisado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 avisado"
+      - "habr\xE1s avisado"
+      - "habr\xE1 avisado"
+      - habremos avisado
+      - "habr\xE9is avisado"
+      - "habr\xE1n avisado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa avisado"
+      - "habr\xEDas avisado"
+      - "habr\xEDa avisado"
+      - "habr\xEDamos avisado"
+      - "habr\xEDais avisado"
+      - "habr\xEDan avisado"
+      cjid: cpef
+    - cjfs:
+      - haya avisado
+      - hayas avisado
+      - haya avisado
+      - hayamos avisado
+      - "hay\xE1is avisado"
+      - hayan avisado
+      cjid: ppfs
+    - cjfs:
+      - hubiera avisado
+      - hubieras avisado
+      - hubiera avisado
+      - "hubi\xE9ramos avisado"
+      - hubierais avisado
+      - hubieran avisado
+      cjid: ppss1
+    - cjfs:
+      - hubiese avisado
+      - hubieses avisado
+      - hubiese avisado
+      - "hubi\xE9semos avisado"
+      - hubieseis avisado
+      - hubiesen avisado
+      cjid: ppss2
+    - cjfs:
+      - hubiere avisado
+      - hubieres avisado
+      - hubiere avisado
+      - "hubi\xE9remos avisado"
+      - hubiereis avisado
+      - hubieren avisado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - avisa
+      - avise
+      - avisemos
+      - avisad
+      - avisen
+      cjid: impf

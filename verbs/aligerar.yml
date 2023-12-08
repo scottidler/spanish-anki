@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lighten}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acelerar||} {bc}to {a_link|hasten}, to {a_link|quicken}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: aligerar
+  meta:
+    id: aligerar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601024000'
+    src: spanish
+    stems:
+    - aligerar
+    uuid: 28b0c884-ac81-4484-85bd-529b25bd1df5
+  shortdef:
+  - to lighten
+  - 'acelerar : to hasten, to quicken'
+  suppl:
+    cjts:
+    - cjfs:
+      - aligerando
+      - aligerado
+      cjid: gppt
+    - cjfs:
+      - aligero
+      - aligeras
+      - aligera
+      - aligeramos
+      - "aliger\xE1is"
+      - aligeran
+      cjid: pind
+    - cjfs:
+      - aligeraba
+      - aligerabas
+      - aligeraba
+      - "aliger\xE1bamos"
+      - aligerabais
+      - aligeraban
+      cjid: pret
+    - cjfs:
+      - "aliger\xE9"
+      - aligeraste
+      - "aliger\xF3"
+      - aligeramos
+      - aligerasteis
+      - aligeraron
+      cjid: pprf
+    - cjfs:
+      - "aligerar\xE9"
+      - "aligerar\xE1s"
+      - "aligerar\xE1"
+      - aligeraremos
+      - "aligerar\xE9is"
+      - "aligerar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aligerar\xEDa"
+      - "aligerar\xEDas"
+      - "aligerar\xEDa"
+      - "aligerar\xEDamos"
+      - "aligerar\xEDais"
+      - "aligerar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aligere
+      - aligeres
+      - aligere
+      - aligeremos
+      - "aliger\xE9is"
+      - aligeren
+      cjid: psub
+    - cjfs:
+      - aligerara
+      - aligeraras
+      - aligerara
+      - "aliger\xE1ramos"
+      - aligerarais
+      - aligeraran
+      cjid: pisb1
+    - cjfs:
+      - aligerase
+      - aligerases
+      - aligerase
+      - "aliger\xE1semos"
+      - aligeraseis
+      - aligerasen
+      cjid: pisb2
+    - cjfs:
+      - aligerare
+      - aligerares
+      - aligerare
+      - "aliger\xE1remos"
+      - aligerareis
+      - aligeraren
+      cjid: fsub
+    - cjfs:
+      - he aligerado
+      - has aligerado
+      - ha aligerado
+      - hemos aligerado
+      - "hab\xE9is aligerado"
+      - han aligerado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aligerado"
+      - "hab\xEDas aligerado"
+      - "hab\xEDa aligerado"
+      - "hab\xEDamos aligerado"
+      - "hab\xEDais aligerado"
+      - "hab\xEDan aligerado"
+      cjid: ppsi
+    - cjfs:
+      - hube aligerado
+      - hubiste aligerado
+      - hubo aligerado
+      - hubimos aligerado
+      - hubisteis aligerado
+      - hubieron aligerado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aligerado"
+      - "habr\xE1s aligerado"
+      - "habr\xE1 aligerado"
+      - habremos aligerado
+      - "habr\xE9is aligerado"
+      - "habr\xE1n aligerado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aligerado"
+      - "habr\xEDas aligerado"
+      - "habr\xEDa aligerado"
+      - "habr\xEDamos aligerado"
+      - "habr\xEDais aligerado"
+      - "habr\xEDan aligerado"
+      cjid: cpef
+    - cjfs:
+      - haya aligerado
+      - hayas aligerado
+      - haya aligerado
+      - hayamos aligerado
+      - "hay\xE1is aligerado"
+      - hayan aligerado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aligerado
+      - hubieras aligerado
+      - hubiera aligerado
+      - "hubi\xE9ramos aligerado"
+      - hubierais aligerado
+      - hubieran aligerado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aligerado
+      - hubieses aligerado
+      - hubiese aligerado
+      - "hubi\xE9semos aligerado"
+      - hubieseis aligerado
+      - hubiesen aligerado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aligerado
+      - hubieres aligerado
+      - hubiere aligerado
+      - "hubi\xE9remos aligerado"
+      - hubiereis aligerado
+      - hubieren aligerado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aligera
+      - aligere
+      - aligeremos
+      - aligerad
+      - aligeren
+      cjid: impf

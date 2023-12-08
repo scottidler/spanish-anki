@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dedicate}, to {a_link|devote}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to devote oneself to, to {a_link|engage in}'
+            vrs:
+            - va: dedicarse a
+              vac: ~ a
+    drp: dedicarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: dedicar
+    prs:
+    - sound:
+        audio: dedic02sp
+  meta:
+    id: dedicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606543000'
+    src: spanish
+    stems:
+    - dedicar
+    - dedicarse
+    - dedicarse a
+    uuid: 1ec89008-85c8-4f3a-899b-e6df9de866c6
+  shortdef:
+  - to dedicate, to devote
+  suppl:
+    cjts:
+    - cjfs:
+      - dedicando
+      - dedicado
+      cjid: gppt
+    - cjfs:
+      - dedico
+      - dedicas
+      - dedica
+      - dedicamos
+      - "dedic\xE1is"
+      - dedican
+      cjid: pind
+    - cjfs:
+      - dedicaba
+      - dedicabas
+      - dedicaba
+      - "dedic\xE1bamos"
+      - dedicabais
+      - dedicaban
+      cjid: pret
+    - cjfs:
+      - "dediqu\xE9"
+      - dedicaste
+      - "dedic\xF3"
+      - dedicamos
+      - dedicasteis
+      - dedicaron
+      cjid: pprf
+    - cjfs:
+      - "dedicar\xE9"
+      - "dedicar\xE1s"
+      - "dedicar\xE1"
+      - dedicaremos
+      - "dedicar\xE9is"
+      - "dedicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dedicar\xEDa"
+      - "dedicar\xEDas"
+      - "dedicar\xEDa"
+      - "dedicar\xEDamos"
+      - "dedicar\xEDais"
+      - "dedicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dedique
+      - dediques
+      - dedique
+      - dediquemos
+      - "dediqu\xE9is"
+      - dediquen
+      cjid: psub
+    - cjfs:
+      - dedicara
+      - dedicaras
+      - dedicara
+      - "dedic\xE1ramos"
+      - dedicarais
+      - dedicaran
+      cjid: pisb1
+    - cjfs:
+      - dedicase
+      - dedicases
+      - dedicase
+      - "dedic\xE1semos"
+      - dedicaseis
+      - dedicasen
+      cjid: pisb2
+    - cjfs:
+      - dedicare
+      - dedicares
+      - dedicare
+      - "dedic\xE1remos"
+      - dedicareis
+      - dedicaren
+      cjid: fsub
+    - cjfs:
+      - he dedicado
+      - has dedicado
+      - ha dedicado
+      - hemos dedicado
+      - "hab\xE9is dedicado"
+      - han dedicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dedicado"
+      - "hab\xEDas dedicado"
+      - "hab\xEDa dedicado"
+      - "hab\xEDamos dedicado"
+      - "hab\xEDais dedicado"
+      - "hab\xEDan dedicado"
+      cjid: ppsi
+    - cjfs:
+      - hube dedicado
+      - hubiste dedicado
+      - hubo dedicado
+      - hubimos dedicado
+      - hubisteis dedicado
+      - hubieron dedicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dedicado"
+      - "habr\xE1s dedicado"
+      - "habr\xE1 dedicado"
+      - habremos dedicado
+      - "habr\xE9is dedicado"
+      - "habr\xE1n dedicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dedicado"
+      - "habr\xEDas dedicado"
+      - "habr\xEDa dedicado"
+      - "habr\xEDamos dedicado"
+      - "habr\xEDais dedicado"
+      - "habr\xEDan dedicado"
+      cjid: cpef
+    - cjfs:
+      - haya dedicado
+      - hayas dedicado
+      - haya dedicado
+      - hayamos dedicado
+      - "hay\xE1is dedicado"
+      - hayan dedicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dedicado
+      - hubieras dedicado
+      - hubiera dedicado
+      - "hubi\xE9ramos dedicado"
+      - hubierais dedicado
+      - hubieran dedicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dedicado
+      - hubieses dedicado
+      - hubiese dedicado
+      - "hubi\xE9semos dedicado"
+      - hubieseis dedicado
+      - hubiesen dedicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dedicado
+      - hubieres dedicado
+      - hubiere dedicado
+      - "hubi\xE9remos dedicado"
+      - hubiereis dedicado
+      - hubieren dedicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dedica
+      - dedique
+      - dediquemos
+      - dedicad
+      - dediquen
+      cjid: impf

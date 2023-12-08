@@ -1,0 +1,377 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|close}, to {a_link|shut} (a door, a book, etc.) '
+          - - vis
+            - - t: cerrar los ojos
+                tr: to close one's eyes
+              - t: cerrar algo (con llave)
+                tr: to lock something
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn off} (a faucet, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|close}, to put the top on (a jar, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fasten}, to button up (buttons), to {a_link|zip up}
+              (a zipper)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|concluir||} {bc}to bring to an end, to {a_link|close} '
+          - - vis
+            - - t: "cerrar (la) sesi\xF3n"
+                tr: to log off/out
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|close} (a business, an account)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|close}, to {a_link|close off} (a street, etc.)'
+          sn: '7'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|close up}, to {a_link|lock up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|close down}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|close}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fasten}, to button up, to {a_link|zip up}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|conclude}, to {a_link|end}'
+            sn: '3'
+    drp: cerrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: cerrar
+    prs:
+    - sound:
+        audio: cerra04sp
+  meta:
+    id: cerrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604389000'
+    src: spanish
+    stems:
+    - cerrar
+    - cerrarse
+    uuid: 6de6c6bc-0c8b-471b-9a22-898dfd7ed908
+  shortdef:
+  - to close, to shut (a door, a book, etc.)
+  - to turn off (a faucet, etc.)
+  - to close, to put the top on (a jar, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - cerrando
+      - cerrado
+      cjid: gppt
+    - cjfs:
+      - cierro
+      - cierras
+      - cierra
+      - cerramos
+      - "cerr\xE1is"
+      - cierran
+      cjid: pind
+    - cjfs:
+      - cerraba
+      - cerrabas
+      - cerraba
+      - "cerr\xE1bamos"
+      - cerrabais
+      - cerraban
+      cjid: pret
+    - cjfs:
+      - "cerr\xE9"
+      - cerraste
+      - "cerr\xF3"
+      - cerramos
+      - cerrasteis
+      - cerraron
+      cjid: pprf
+    - cjfs:
+      - "cerrar\xE9"
+      - "cerrar\xE1s"
+      - "cerrar\xE1"
+      - cerraremos
+      - "cerrar\xE9is"
+      - "cerrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cerrar\xEDa"
+      - "cerrar\xEDas"
+      - "cerrar\xEDa"
+      - "cerrar\xEDamos"
+      - "cerrar\xEDais"
+      - "cerrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cierre
+      - cierres
+      - cierre
+      - cerremos
+      - "cerr\xE9is"
+      - cierren
+      cjid: psub
+    - cjfs:
+      - cerrara
+      - cerraras
+      - cerrara
+      - "cerr\xE1ramos"
+      - cerrarais
+      - cerraran
+      cjid: pisb1
+    - cjfs:
+      - cerrase
+      - cerrases
+      - cerrase
+      - "cerr\xE1semos"
+      - cerraseis
+      - cerrasen
+      cjid: pisb2
+    - cjfs:
+      - cerrare
+      - cerrares
+      - cerrare
+      - "cerr\xE1remos"
+      - cerrareis
+      - cerraren
+      cjid: fsub
+    - cjfs:
+      - he cerrado
+      - has cerrado
+      - ha cerrado
+      - hemos cerrado
+      - "hab\xE9is cerrado"
+      - han cerrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cerrado"
+      - "hab\xEDas cerrado"
+      - "hab\xEDa cerrado"
+      - "hab\xEDamos cerrado"
+      - "hab\xEDais cerrado"
+      - "hab\xEDan cerrado"
+      cjid: ppsi
+    - cjfs:
+      - hube cerrado
+      - hubiste cerrado
+      - hubo cerrado
+      - hubimos cerrado
+      - hubisteis cerrado
+      - hubieron cerrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cerrado"
+      - "habr\xE1s cerrado"
+      - "habr\xE1 cerrado"
+      - habremos cerrado
+      - "habr\xE9is cerrado"
+      - "habr\xE1n cerrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cerrado"
+      - "habr\xEDas cerrado"
+      - "habr\xEDa cerrado"
+      - "habr\xEDamos cerrado"
+      - "habr\xEDais cerrado"
+      - "habr\xEDan cerrado"
+      cjid: cpef
+    - cjfs:
+      - haya cerrado
+      - hayas cerrado
+      - haya cerrado
+      - hayamos cerrado
+      - "hay\xE1is cerrado"
+      - hayan cerrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cerrado
+      - hubieras cerrado
+      - hubiera cerrado
+      - "hubi\xE9ramos cerrado"
+      - hubierais cerrado
+      - hubieran cerrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cerrado
+      - hubieses cerrado
+      - hubiese cerrado
+      - "hubi\xE9semos cerrado"
+      - hubieseis cerrado
+      - hubiesen cerrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cerrado
+      - hubieres cerrado
+      - hubiere cerrado
+      - "hubi\xE9remos cerrado"
+      - hubiereis cerrado
+      - hubieren cerrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cierra
+      - cierre
+      - cerremos
+      - cerrad
+      - cierren
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|eye} '
+          - - vis
+            - - t: un hombre con/de ojos verdes
+                tr: a man with green eyes
+              - t: ojos negros
+                tr: dark eyes
+              - t: "la mir\xE9 a los ojos"
+                tr: I looked her in the eye
+              - t: lo vi con mis propios ojos
+                tr: I saw it with my own two eyes
+              - t: "apareci\xF3 ante nuestros ojos"
+                tr: it appeared before our very eyes
+              - t: con los ojos abiertos
+                tr: with one's eyes open
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|judgment}, {a_link|sharpness} '
+          - - vis
+            - - t: tener buen ojo para
+                tr: to be a good judge of, to have a good eye for
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hole} (in cheese), {a_link|eye} (in a needle), {a_link|center}
+              (of a storm) '
+          - - vis
+            - - t: ojo de cerradura
+                tr: keyhole
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|span} (of a bridge)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|obviously}, {a_link|visibly}'
+          sn: '5'
+          vrs:
+          - va: a ojos vistas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be careful'
+          sn: '6'
+          vrs:
+          - va: andar con ojo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cost an arm and a leg'
+          sn: '7'
+          vrs:
+          - va: costar un ojo de la cara
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}in the blink of an eye'
+          sn: '8'
+          vrs:
+          - va: en un abrir y cerrar de ojos
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|spring}, {a_link|source}'
+          sls:
+          - Mexico
+          sn: '9'
+          vrs:
+          - va: ojo de agua
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}look out!, pay attention!'
+          sn: '10'
+          vrs:
+          - va: "\xA1ojo!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have eyes like a hawk'
+          sn: '11'
+          vrs:
+          - va: "tener ojos de \xE1guila"
+  fl: masculine noun
+  hwi:
+    hw: ojo
+    prs:
+    - sound:
+        audio: ojo0001sp
+  meta:
+    id: ojo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616145000'
+    src: spanish
+    stems:
+    - ojo
+    - a ojos vistas
+    - andar con ojo
+    - costar un ojo de la cara
+    - en un abrir y cerrar de ojos
+    - ojo de agua
+    - "\xA1ojo!"
+    - "tener ojos de \xE1guila"
+    uuid: 7f870d1e-4bb4-43cd-bb7d-b8ad00377675
+  shortdef:
+  - eye
+  - judgment, sharpness
+  - hole (in cheese), eye (in a needle), center (of a storm)

@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|inquietar||} {bc}to {a_link|worry}, to {a_link|concern} '
+          - - vis
+            - - t: eso me preocupa
+                tr: that worries me
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|apurarse||} {bc}to {a_link|worry}, to be concerned '
+            - - vis
+              - - t: preocuparse por
+                  tr: to worry about
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take care of} (something) '
+            - - vis
+              - - t: "preocuparse de que \u2026"
+                  tr: "to make sure that \u2026"
+            sn: '2'
+            vrs:
+            - va: preocuparse de
+              vac: ~ de
+    drp: preocuparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: preocupar
+    prs:
+    - sound:
+        audio: preoc03sp
+  meta:
+    id: preocupar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618002000'
+    src: spanish
+    stems:
+    - preocupar
+    - preocuparse
+    - preocuparse de
+    uuid: fb1eb1d9-805e-48a0-861f-261dd38354b8
+  shortdef:
+  - 'inquietar : to worry, to concern'
+  suppl:
+    cjts:
+    - cjfs:
+      - preocupando
+      - preocupado
+      cjid: gppt
+    - cjfs:
+      - preocupo
+      - preocupas
+      - preocupa
+      - preocupamos
+      - "preocup\xE1is"
+      - preocupan
+      cjid: pind
+    - cjfs:
+      - preocupaba
+      - preocupabas
+      - preocupaba
+      - "preocup\xE1bamos"
+      - preocupabais
+      - preocupaban
+      cjid: pret
+    - cjfs:
+      - "preocup\xE9"
+      - preocupaste
+      - "preocup\xF3"
+      - preocupamos
+      - preocupasteis
+      - preocuparon
+      cjid: pprf
+    - cjfs:
+      - "preocupar\xE9"
+      - "preocupar\xE1s"
+      - "preocupar\xE1"
+      - preocuparemos
+      - "preocupar\xE9is"
+      - "preocupar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "preocupar\xEDa"
+      - "preocupar\xEDas"
+      - "preocupar\xEDa"
+      - "preocupar\xEDamos"
+      - "preocupar\xEDais"
+      - "preocupar\xEDan"
+      cjid: cond
+    - cjfs:
+      - preocupe
+      - preocupes
+      - preocupe
+      - preocupemos
+      - "preocup\xE9is"
+      - preocupen
+      cjid: psub
+    - cjfs:
+      - preocupara
+      - preocuparas
+      - preocupara
+      - "preocup\xE1ramos"
+      - preocuparais
+      - preocuparan
+      cjid: pisb1
+    - cjfs:
+      - preocupase
+      - preocupases
+      - preocupase
+      - "preocup\xE1semos"
+      - preocupaseis
+      - preocupasen
+      cjid: pisb2
+    - cjfs:
+      - preocupare
+      - preocupares
+      - preocupare
+      - "preocup\xE1remos"
+      - preocupareis
+      - preocuparen
+      cjid: fsub
+    - cjfs:
+      - he preocupado
+      - has preocupado
+      - ha preocupado
+      - hemos preocupado
+      - "hab\xE9is preocupado"
+      - han preocupado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa preocupado"
+      - "hab\xEDas preocupado"
+      - "hab\xEDa preocupado"
+      - "hab\xEDamos preocupado"
+      - "hab\xEDais preocupado"
+      - "hab\xEDan preocupado"
+      cjid: ppsi
+    - cjfs:
+      - hube preocupado
+      - hubiste preocupado
+      - hubo preocupado
+      - hubimos preocupado
+      - hubisteis preocupado
+      - hubieron preocupado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 preocupado"
+      - "habr\xE1s preocupado"
+      - "habr\xE1 preocupado"
+      - habremos preocupado
+      - "habr\xE9is preocupado"
+      - "habr\xE1n preocupado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa preocupado"
+      - "habr\xEDas preocupado"
+      - "habr\xEDa preocupado"
+      - "habr\xEDamos preocupado"
+      - "habr\xEDais preocupado"
+      - "habr\xEDan preocupado"
+      cjid: cpef
+    - cjfs:
+      - haya preocupado
+      - hayas preocupado
+      - haya preocupado
+      - hayamos preocupado
+      - "hay\xE1is preocupado"
+      - hayan preocupado
+      cjid: ppfs
+    - cjfs:
+      - hubiera preocupado
+      - hubieras preocupado
+      - hubiera preocupado
+      - "hubi\xE9ramos preocupado"
+      - hubierais preocupado
+      - hubieran preocupado
+      cjid: ppss1
+    - cjfs:
+      - hubiese preocupado
+      - hubieses preocupado
+      - hubiese preocupado
+      - "hubi\xE9semos preocupado"
+      - hubieseis preocupado
+      - hubiesen preocupado
+      cjid: ppss2
+    - cjfs:
+      - hubiere preocupado
+      - hubieres preocupado
+      - hubiere preocupado
+      - "hubi\xE9remos preocupado"
+      - hubiereis preocupado
+      - hubieren preocupado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - preocupa
+      - preocupe
+      - preocupemos
+      - preocupad
+      - preocupen
+      cjid: impf

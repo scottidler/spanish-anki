@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|awaken}, to {a_link|wake up}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arouse}, to {a_link|wake}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|evocar||} {bc}to {a_link|elicit}, to {a_link|evoke}'
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|wake} (oneself) {a_link|up}'
+    drp: despertarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: despertar
+    prs:
+    - sound:
+        audio: despe13sp
+  meta:
+    id: despertar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607269000'
+    src: spanish
+    stems:
+    - despertar
+    - despertarse
+    uuid: da529b62-c307-4a0e-a09f-27857d1d6443
+  shortdef:
+  - to awaken, to wake up
+  - to arouse, to wake
+  - 'evocar : to elicit, to evoke'
+  suppl:
+    cjts:
+    - cjfs:
+      - despertando
+      - despertado
+      cjid: gppt
+    - cjfs:
+      - despierto
+      - despiertas
+      - despierta
+      - despertamos
+      - "despert\xE1is"
+      - despiertan
+      cjid: pind
+    - cjfs:
+      - despertaba
+      - despertabas
+      - despertaba
+      - "despert\xE1bamos"
+      - despertabais
+      - despertaban
+      cjid: pret
+    - cjfs:
+      - "despert\xE9"
+      - despertaste
+      - "despert\xF3"
+      - despertamos
+      - despertasteis
+      - despertaron
+      cjid: pprf
+    - cjfs:
+      - "despertar\xE9"
+      - "despertar\xE1s"
+      - "despertar\xE1"
+      - despertaremos
+      - "despertar\xE9is"
+      - "despertar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "despertar\xEDa"
+      - "despertar\xEDas"
+      - "despertar\xEDa"
+      - "despertar\xEDamos"
+      - "despertar\xEDais"
+      - "despertar\xEDan"
+      cjid: cond
+    - cjfs:
+      - despierte
+      - despiertes
+      - despierte
+      - despertemos
+      - "despert\xE9is"
+      - despierten
+      cjid: psub
+    - cjfs:
+      - despertara
+      - despertaras
+      - despertara
+      - "despert\xE1ramos"
+      - despertarais
+      - despertaran
+      cjid: pisb1
+    - cjfs:
+      - despertase
+      - despertases
+      - despertase
+      - "despert\xE1semos"
+      - despertaseis
+      - despertasen
+      cjid: pisb2
+    - cjfs:
+      - despertare
+      - despertares
+      - despertare
+      - "despert\xE1remos"
+      - despertareis
+      - despertaren
+      cjid: fsub
+    - cjfs:
+      - he despertado
+      - has despertado
+      - ha despertado
+      - hemos despertado
+      - "hab\xE9is despertado"
+      - han despertado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa despertado"
+      - "hab\xEDas despertado"
+      - "hab\xEDa despertado"
+      - "hab\xEDamos despertado"
+      - "hab\xEDais despertado"
+      - "hab\xEDan despertado"
+      cjid: ppsi
+    - cjfs:
+      - hube despertado
+      - hubiste despertado
+      - hubo despertado
+      - hubimos despertado
+      - hubisteis despertado
+      - hubieron despertado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 despertado"
+      - "habr\xE1s despertado"
+      - "habr\xE1 despertado"
+      - habremos despertado
+      - "habr\xE9is despertado"
+      - "habr\xE1n despertado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa despertado"
+      - "habr\xEDas despertado"
+      - "habr\xEDa despertado"
+      - "habr\xEDamos despertado"
+      - "habr\xEDais despertado"
+      - "habr\xEDan despertado"
+      cjid: cpef
+    - cjfs:
+      - haya despertado
+      - hayas despertado
+      - haya despertado
+      - hayamos despertado
+      - "hay\xE1is despertado"
+      - hayan despertado
+      cjid: ppfs
+    - cjfs:
+      - hubiera despertado
+      - hubieras despertado
+      - hubiera despertado
+      - "hubi\xE9ramos despertado"
+      - hubierais despertado
+      - hubieran despertado
+      cjid: ppss1
+    - cjfs:
+      - hubiese despertado
+      - hubieses despertado
+      - hubiese despertado
+      - "hubi\xE9semos despertado"
+      - hubieseis despertado
+      - hubiesen despertado
+      cjid: ppss2
+    - cjfs:
+      - hubiere despertado
+      - hubieres despertado
+      - hubiere despertado
+      - "hubi\xE9remos despertado"
+      - hubiereis despertado
+      - hubieren despertado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - despierta
+      - despierte
+      - despertemos
+      - despertad
+      - despierten
+      cjid: impf

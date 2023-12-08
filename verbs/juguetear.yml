@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play}, to {a_link|cavort}, to {a_link|frolic}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|toy}, to {a_link|fiddle}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: juguetear
+  meta:
+    id: juguetear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613294000'
+    src: spanish
+    stems:
+    - juguetear
+    uuid: d1a7a186-0135-4ef1-8339-90371242a872
+  shortdef:
+  - to play, to cavort, to frolic
+  - to toy, to fiddle
+  suppl:
+    cjts:
+    - cjfs:
+      - jugueteando
+      - jugueteado
+      cjid: gppt
+    - cjfs:
+      - jugueteo
+      - jugueteas
+      - juguetea
+      - jugueteamos
+      - "juguete\xE1is"
+      - juguetean
+      cjid: pind
+    - cjfs:
+      - jugueteaba
+      - jugueteabas
+      - jugueteaba
+      - "juguete\xE1bamos"
+      - jugueteabais
+      - jugueteaban
+      cjid: pret
+    - cjfs:
+      - "juguete\xE9"
+      - jugueteaste
+      - "juguete\xF3"
+      - jugueteamos
+      - jugueteasteis
+      - juguetearon
+      cjid: pprf
+    - cjfs:
+      - "juguetear\xE9"
+      - "juguetear\xE1s"
+      - "juguetear\xE1"
+      - juguetearemos
+      - "juguetear\xE9is"
+      - "juguetear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "juguetear\xEDa"
+      - "juguetear\xEDas"
+      - "juguetear\xEDa"
+      - "juguetear\xEDamos"
+      - "juguetear\xEDais"
+      - "juguetear\xEDan"
+      cjid: cond
+    - cjfs:
+      - juguetee
+      - juguetees
+      - juguetee
+      - jugueteemos
+      - "juguete\xE9is"
+      - jugueteen
+      cjid: psub
+    - cjfs:
+      - jugueteara
+      - juguetearas
+      - jugueteara
+      - "juguete\xE1ramos"
+      - juguetearais
+      - juguetearan
+      cjid: pisb1
+    - cjfs:
+      - juguetease
+      - jugueteases
+      - juguetease
+      - "juguete\xE1semos"
+      - jugueteaseis
+      - jugueteasen
+      cjid: pisb2
+    - cjfs:
+      - jugueteare
+      - jugueteares
+      - jugueteare
+      - "juguete\xE1remos"
+      - jugueteareis
+      - juguetearen
+      cjid: fsub
+    - cjfs:
+      - he jugueteado
+      - has jugueteado
+      - ha jugueteado
+      - hemos jugueteado
+      - "hab\xE9is jugueteado"
+      - han jugueteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa jugueteado"
+      - "hab\xEDas jugueteado"
+      - "hab\xEDa jugueteado"
+      - "hab\xEDamos jugueteado"
+      - "hab\xEDais jugueteado"
+      - "hab\xEDan jugueteado"
+      cjid: ppsi
+    - cjfs:
+      - hube jugueteado
+      - hubiste jugueteado
+      - hubo jugueteado
+      - hubimos jugueteado
+      - hubisteis jugueteado
+      - hubieron jugueteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 jugueteado"
+      - "habr\xE1s jugueteado"
+      - "habr\xE1 jugueteado"
+      - habremos jugueteado
+      - "habr\xE9is jugueteado"
+      - "habr\xE1n jugueteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa jugueteado"
+      - "habr\xEDas jugueteado"
+      - "habr\xEDa jugueteado"
+      - "habr\xEDamos jugueteado"
+      - "habr\xEDais jugueteado"
+      - "habr\xEDan jugueteado"
+      cjid: cpef
+    - cjfs:
+      - haya jugueteado
+      - hayas jugueteado
+      - haya jugueteado
+      - hayamos jugueteado
+      - "hay\xE1is jugueteado"
+      - hayan jugueteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera jugueteado
+      - hubieras jugueteado
+      - hubiera jugueteado
+      - "hubi\xE9ramos jugueteado"
+      - hubierais jugueteado
+      - hubieran jugueteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese jugueteado
+      - hubieses jugueteado
+      - hubiese jugueteado
+      - "hubi\xE9semos jugueteado"
+      - hubieseis jugueteado
+      - hubiesen jugueteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere jugueteado
+      - hubieres jugueteado
+      - hubiere jugueteado
+      - "hubi\xE9remos jugueteado"
+      - hubiereis jugueteado
+      - hubieren jugueteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - juguetea
+      - juguetee
+      - jugueteemos
+      - juguetead
+      - jugueteen
+      cjid: impf

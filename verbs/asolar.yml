@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|devastate}, to {a_link|destroy}'
+  fl: transitive verb
+  hwi:
+    hw: asolar
+  meta:
+    id: asolar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602190000'
+    src: spanish
+    stems:
+    - asolar
+    uuid: 884123db-1553-4ee0-9324-bb899624d6ba
+  shortdef:
+  - to devastate, to destroy
+  suppl:
+    cjts:
+    - cjfs:
+      - asolando
+      - asolado
+      cjid: gppt
+    - cjfs:
+      - asolo
+      - asolas
+      - asola
+      - asolamos
+      - "asol\xE1is"
+      - asolan
+      cjid: pind
+    - cjfs:
+      - asolaba
+      - asolabas
+      - asolaba
+      - "asol\xE1bamos"
+      - asolabais
+      - asolaban
+      cjid: pret
+    - cjfs:
+      - "asol\xE9"
+      - asolaste
+      - "asol\xF3"
+      - asolamos
+      - asolasteis
+      - asolaron
+      cjid: pprf
+    - cjfs:
+      - "asolar\xE9"
+      - "asolar\xE1s"
+      - "asolar\xE1"
+      - asolaremos
+      - "asolar\xE9is"
+      - "asolar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asolar\xEDa"
+      - "asolar\xEDas"
+      - "asolar\xEDa"
+      - "asolar\xEDamos"
+      - "asolar\xEDais"
+      - "asolar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asole
+      - asoles
+      - asole
+      - asolemos
+      - "asol\xE9is"
+      - asolen
+      cjid: psub
+    - cjfs:
+      - asolara
+      - asolaras
+      - asolara
+      - "asol\xE1ramos"
+      - asolarais
+      - asolaran
+      cjid: pisb1
+    - cjfs:
+      - asolase
+      - asolases
+      - asolase
+      - "asol\xE1semos"
+      - asolaseis
+      - asolasen
+      cjid: pisb2
+    - cjfs:
+      - asolare
+      - asolares
+      - asolare
+      - "asol\xE1remos"
+      - asolareis
+      - asolaren
+      cjid: fsub
+    - cjfs:
+      - he asolado
+      - has asolado
+      - ha asolado
+      - hemos asolado
+      - "hab\xE9is asolado"
+      - han asolado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asolado"
+      - "hab\xEDas asolado"
+      - "hab\xEDa asolado"
+      - "hab\xEDamos asolado"
+      - "hab\xEDais asolado"
+      - "hab\xEDan asolado"
+      cjid: ppsi
+    - cjfs:
+      - hube asolado
+      - hubiste asolado
+      - hubo asolado
+      - hubimos asolado
+      - hubisteis asolado
+      - hubieron asolado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asolado"
+      - "habr\xE1s asolado"
+      - "habr\xE1 asolado"
+      - habremos asolado
+      - "habr\xE9is asolado"
+      - "habr\xE1n asolado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asolado"
+      - "habr\xEDas asolado"
+      - "habr\xEDa asolado"
+      - "habr\xEDamos asolado"
+      - "habr\xEDais asolado"
+      - "habr\xEDan asolado"
+      cjid: cpef
+    - cjfs:
+      - haya asolado
+      - hayas asolado
+      - haya asolado
+      - hayamos asolado
+      - "hay\xE1is asolado"
+      - hayan asolado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asolado
+      - hubieras asolado
+      - hubiera asolado
+      - "hubi\xE9ramos asolado"
+      - hubierais asolado
+      - hubieran asolado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asolado
+      - hubieses asolado
+      - hubiese asolado
+      - "hubi\xE9semos asolado"
+      - hubieseis asolado
+      - hubiesen asolado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asolado
+      - hubieres asolado
+      - hubiere asolado
+      - "hubi\xE9remos asolado"
+      - hubiereis asolado
+      - hubieren asolado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asola
+      - asole
+      - asolemos
+      - asolad
+      - asolen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|delight}, to {a_link|please}'
+  fl: transitive verb
+  hwi:
+    hw: deleitar
+    prs:
+    - sound:
+        audio: delei01sp
+  meta:
+    id: deleitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606612000'
+    src: spanish
+    stems:
+    - deleitar
+    - deleitarse
+    uuid: 65a735d0-ae69-4752-b2ff-4a14e048f0fd
+  shortdef:
+  - to delight, to please
+  suppl:
+    cjts:
+    - cjfs:
+      - deleitando
+      - deleitado
+      cjid: gppt
+    - cjfs:
+      - deleito
+      - deleitas
+      - deleita
+      - deleitamos
+      - "deleit\xE1is"
+      - deleitan
+      cjid: pind
+    - cjfs:
+      - deleitaba
+      - deleitabas
+      - deleitaba
+      - "deleit\xE1bamos"
+      - deleitabais
+      - deleitaban
+      cjid: pret
+    - cjfs:
+      - "deleit\xE9"
+      - deleitaste
+      - "deleit\xF3"
+      - deleitamos
+      - deleitasteis
+      - deleitaron
+      cjid: pprf
+    - cjfs:
+      - "deleitar\xE9"
+      - "deleitar\xE1s"
+      - "deleitar\xE1"
+      - deleitaremos
+      - "deleitar\xE9is"
+      - "deleitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deleitar\xEDa"
+      - "deleitar\xEDas"
+      - "deleitar\xEDa"
+      - "deleitar\xEDamos"
+      - "deleitar\xEDais"
+      - "deleitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deleite
+      - deleites
+      - deleite
+      - deleitemos
+      - "deleit\xE9is"
+      - deleiten
+      cjid: psub
+    - cjfs:
+      - deleitara
+      - deleitaras
+      - deleitara
+      - "deleit\xE1ramos"
+      - deleitarais
+      - deleitaran
+      cjid: pisb1
+    - cjfs:
+      - deleitase
+      - deleitases
+      - deleitase
+      - "deleit\xE1semos"
+      - deleitaseis
+      - deleitasen
+      cjid: pisb2
+    - cjfs:
+      - deleitare
+      - deleitares
+      - deleitare
+      - "deleit\xE1remos"
+      - deleitareis
+      - deleitaren
+      cjid: fsub
+    - cjfs:
+      - he deleitado
+      - has deleitado
+      - ha deleitado
+      - hemos deleitado
+      - "hab\xE9is deleitado"
+      - han deleitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deleitado"
+      - "hab\xEDas deleitado"
+      - "hab\xEDa deleitado"
+      - "hab\xEDamos deleitado"
+      - "hab\xEDais deleitado"
+      - "hab\xEDan deleitado"
+      cjid: ppsi
+    - cjfs:
+      - hube deleitado
+      - hubiste deleitado
+      - hubo deleitado
+      - hubimos deleitado
+      - hubisteis deleitado
+      - hubieron deleitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deleitado"
+      - "habr\xE1s deleitado"
+      - "habr\xE1 deleitado"
+      - habremos deleitado
+      - "habr\xE9is deleitado"
+      - "habr\xE1n deleitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deleitado"
+      - "habr\xEDas deleitado"
+      - "habr\xEDa deleitado"
+      - "habr\xEDamos deleitado"
+      - "habr\xEDais deleitado"
+      - "habr\xEDan deleitado"
+      cjid: cpef
+    - cjfs:
+      - haya deleitado
+      - hayas deleitado
+      - haya deleitado
+      - hayamos deleitado
+      - "hay\xE1is deleitado"
+      - hayan deleitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera deleitado
+      - hubieras deleitado
+      - hubiera deleitado
+      - "hubi\xE9ramos deleitado"
+      - hubierais deleitado
+      - hubieran deleitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese deleitado
+      - hubieses deleitado
+      - hubiese deleitado
+      - "hubi\xE9semos deleitado"
+      - hubieseis deleitado
+      - hubiesen deleitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere deleitado
+      - hubieres deleitado
+      - hubiere deleitado
+      - "hubi\xE9remos deleitado"
+      - hubiereis deleitado
+      - hubieren deleitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - deleita
+      - deleite
+      - deleitemos
+      - deleitad
+      - deleiten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: deleitarse

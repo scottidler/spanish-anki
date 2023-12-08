@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tilt}, to {a_link|tip}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|bend} (over)'
+    drp: ladearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ladear
+  meta:
+    id: ladear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613427000'
+    src: spanish
+    stems:
+    - ladear
+    - ladearse
+    uuid: 539dcf3a-2bd1-416a-bea9-0a2dbac38890
+  shortdef:
+  - to tilt, to tip
+  suppl:
+    cjts:
+    - cjfs:
+      - ladeando
+      - ladeado
+      cjid: gppt
+    - cjfs:
+      - ladeo
+      - ladeas
+      - ladea
+      - ladeamos
+      - "lade\xE1is"
+      - ladean
+      cjid: pind
+    - cjfs:
+      - ladeaba
+      - ladeabas
+      - ladeaba
+      - "lade\xE1bamos"
+      - ladeabais
+      - ladeaban
+      cjid: pret
+    - cjfs:
+      - "lade\xE9"
+      - ladeaste
+      - "lade\xF3"
+      - ladeamos
+      - ladeasteis
+      - ladearon
+      cjid: pprf
+    - cjfs:
+      - "ladear\xE9"
+      - "ladear\xE1s"
+      - "ladear\xE1"
+      - ladearemos
+      - "ladear\xE9is"
+      - "ladear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ladear\xEDa"
+      - "ladear\xEDas"
+      - "ladear\xEDa"
+      - "ladear\xEDamos"
+      - "ladear\xEDais"
+      - "ladear\xEDan"
+      cjid: cond
+    - cjfs:
+      - ladee
+      - ladees
+      - ladee
+      - ladeemos
+      - "lade\xE9is"
+      - ladeen
+      cjid: psub
+    - cjfs:
+      - ladeara
+      - ladearas
+      - ladeara
+      - "lade\xE1ramos"
+      - ladearais
+      - ladearan
+      cjid: pisb1
+    - cjfs:
+      - ladease
+      - ladeases
+      - ladease
+      - "lade\xE1semos"
+      - ladeaseis
+      - ladeasen
+      cjid: pisb2
+    - cjfs:
+      - ladeare
+      - ladeares
+      - ladeare
+      - "lade\xE1remos"
+      - ladeareis
+      - ladearen
+      cjid: fsub
+    - cjfs:
+      - he ladeado
+      - has ladeado
+      - ha ladeado
+      - hemos ladeado
+      - "hab\xE9is ladeado"
+      - han ladeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ladeado"
+      - "hab\xEDas ladeado"
+      - "hab\xEDa ladeado"
+      - "hab\xEDamos ladeado"
+      - "hab\xEDais ladeado"
+      - "hab\xEDan ladeado"
+      cjid: ppsi
+    - cjfs:
+      - hube ladeado
+      - hubiste ladeado
+      - hubo ladeado
+      - hubimos ladeado
+      - hubisteis ladeado
+      - hubieron ladeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ladeado"
+      - "habr\xE1s ladeado"
+      - "habr\xE1 ladeado"
+      - habremos ladeado
+      - "habr\xE9is ladeado"
+      - "habr\xE1n ladeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ladeado"
+      - "habr\xEDas ladeado"
+      - "habr\xEDa ladeado"
+      - "habr\xEDamos ladeado"
+      - "habr\xEDais ladeado"
+      - "habr\xEDan ladeado"
+      cjid: cpef
+    - cjfs:
+      - haya ladeado
+      - hayas ladeado
+      - haya ladeado
+      - hayamos ladeado
+      - "hay\xE1is ladeado"
+      - hayan ladeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ladeado
+      - hubieras ladeado
+      - hubiera ladeado
+      - "hubi\xE9ramos ladeado"
+      - hubierais ladeado
+      - hubieran ladeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ladeado
+      - hubieses ladeado
+      - hubiese ladeado
+      - "hubi\xE9semos ladeado"
+      - hubieseis ladeado
+      - hubiesen ladeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ladeado
+      - hubieres ladeado
+      - hubiere ladeado
+      - "hubi\xE9remos ladeado"
+      - hubiereis ladeado
+      - hubieren ladeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ladea
+      - ladee
+      - ladeemos
+      - ladead
+      - ladeen
+      cjid: impf

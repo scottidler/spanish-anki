@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|modificar||} {bc}to {a_link|alter}, to {a_link|modify}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|perturbar||} {bc}to {a_link|disturb}, to {a_link|disrupt}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get upset, to get worked up'
+    drp: alterarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: alterar
+    prs:
+    - sound:
+        audio: alter02sp
+  meta:
+    id: alterar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601111000'
+    src: spanish
+    stems:
+    - alterar
+    - alterarse
+    uuid: 7fcbff62-3c8f-498a-9076-98050527da74
+  shortdef:
+  - 'modificar : to alter, to modify'
+  - 'perturbar : to disturb, to disrupt'
+  suppl:
+    cjts:
+    - cjfs:
+      - alterando
+      - alterado
+      cjid: gppt
+    - cjfs:
+      - altero
+      - alteras
+      - altera
+      - alteramos
+      - "alter\xE1is"
+      - alteran
+      cjid: pind
+    - cjfs:
+      - alteraba
+      - alterabas
+      - alteraba
+      - "alter\xE1bamos"
+      - alterabais
+      - alteraban
+      cjid: pret
+    - cjfs:
+      - "alter\xE9"
+      - alteraste
+      - "alter\xF3"
+      - alteramos
+      - alterasteis
+      - alteraron
+      cjid: pprf
+    - cjfs:
+      - "alterar\xE9"
+      - "alterar\xE1s"
+      - "alterar\xE1"
+      - alteraremos
+      - "alterar\xE9is"
+      - "alterar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alterar\xEDa"
+      - "alterar\xEDas"
+      - "alterar\xEDa"
+      - "alterar\xEDamos"
+      - "alterar\xEDais"
+      - "alterar\xEDan"
+      cjid: cond
+    - cjfs:
+      - altere
+      - alteres
+      - altere
+      - alteremos
+      - "alter\xE9is"
+      - alteren
+      cjid: psub
+    - cjfs:
+      - alterara
+      - alteraras
+      - alterara
+      - "alter\xE1ramos"
+      - alterarais
+      - alteraran
+      cjid: pisb1
+    - cjfs:
+      - alterase
+      - alterases
+      - alterase
+      - "alter\xE1semos"
+      - alteraseis
+      - alterasen
+      cjid: pisb2
+    - cjfs:
+      - alterare
+      - alterares
+      - alterare
+      - "alter\xE1remos"
+      - alterareis
+      - alteraren
+      cjid: fsub
+    - cjfs:
+      - he alterado
+      - has alterado
+      - ha alterado
+      - hemos alterado
+      - "hab\xE9is alterado"
+      - han alterado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alterado"
+      - "hab\xEDas alterado"
+      - "hab\xEDa alterado"
+      - "hab\xEDamos alterado"
+      - "hab\xEDais alterado"
+      - "hab\xEDan alterado"
+      cjid: ppsi
+    - cjfs:
+      - hube alterado
+      - hubiste alterado
+      - hubo alterado
+      - hubimos alterado
+      - hubisteis alterado
+      - hubieron alterado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alterado"
+      - "habr\xE1s alterado"
+      - "habr\xE1 alterado"
+      - habremos alterado
+      - "habr\xE9is alterado"
+      - "habr\xE1n alterado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alterado"
+      - "habr\xEDas alterado"
+      - "habr\xEDa alterado"
+      - "habr\xEDamos alterado"
+      - "habr\xEDais alterado"
+      - "habr\xEDan alterado"
+      cjid: cpef
+    - cjfs:
+      - haya alterado
+      - hayas alterado
+      - haya alterado
+      - hayamos alterado
+      - "hay\xE1is alterado"
+      - hayan alterado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alterado
+      - hubieras alterado
+      - hubiera alterado
+      - "hubi\xE9ramos alterado"
+      - hubierais alterado
+      - hubieran alterado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alterado
+      - hubieses alterado
+      - hubiese alterado
+      - "hubi\xE9semos alterado"
+      - hubieseis alterado
+      - hubiesen alterado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alterado
+      - hubieres alterado
+      - hubiere alterado
+      - "hubi\xE9remos alterado"
+      - hubiereis alterado
+      - hubieren alterado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - altera
+      - altere
+      - alteremos
+      - alterad
+      - alteren
+      cjid: impf

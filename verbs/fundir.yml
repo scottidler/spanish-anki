@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|melt down}, to {a_link|smelt}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fuse}, to {a_link|merge}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burn out} (a lightbulb)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to fuse together, to {a_link|blend}, to {a_link|merge}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|melt}, to {a_link|thaw}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fade} (in television or movies)'
+            sn: '3'
+    drp: fundirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: fundir
+    prs:
+    - sound:
+        audio: fundi02sp
+  meta:
+    id: fundir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610534000'
+    src: spanish
+    stems:
+    - fundir
+    - fundirse
+    uuid: d1421af2-49f0-4d08-96e5-0a75a2adeba5
+  shortdef:
+  - to melt down, to smelt
+  - to fuse, to merge
+  - to burn out (a lightbulb)
+  suppl:
+    cjts:
+    - cjfs:
+      - fundiendo
+      - fundido
+      cjid: gppt
+    - cjfs:
+      - fundo
+      - fundes
+      - funde
+      - fundimos
+      - "fund\xEDs"
+      - funden
+      cjid: pind
+    - cjfs:
+      - "fund\xEDa"
+      - "fund\xEDas"
+      - "fund\xEDa"
+      - "fund\xEDamos"
+      - "fund\xEDais"
+      - "fund\xEDan"
+      cjid: pret
+    - cjfs:
+      - "fund\xED"
+      - fundiste
+      - "fundi\xF3"
+      - fundimos
+      - fundisteis
+      - fundieron
+      cjid: pprf
+    - cjfs:
+      - "fundir\xE9"
+      - "fundir\xE1s"
+      - "fundir\xE1"
+      - fundiremos
+      - "fundir\xE9is"
+      - "fundir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fundir\xEDa"
+      - "fundir\xEDas"
+      - "fundir\xEDa"
+      - "fundir\xEDamos"
+      - "fundir\xEDais"
+      - "fundir\xEDan"
+      cjid: cond
+    - cjfs:
+      - funda
+      - fundas
+      - funda
+      - fundamos
+      - "fund\xE1is"
+      - fundan
+      cjid: psub
+    - cjfs:
+      - fundiera
+      - fundieras
+      - fundiera
+      - "fundi\xE9ramos"
+      - fundierais
+      - fundieran
+      cjid: pisb1
+    - cjfs:
+      - fundiese
+      - fundieses
+      - fundiese
+      - "fundi\xE9semos"
+      - fundieseis
+      - fundiesen
+      cjid: pisb2
+    - cjfs:
+      - fundiere
+      - fundieres
+      - fundiere
+      - "fundi\xE9remos"
+      - fundiereis
+      - fundieren
+      cjid: fsub
+    - cjfs:
+      - he fundido
+      - has fundido
+      - ha fundido
+      - hemos fundido
+      - "hab\xE9is fundido"
+      - han fundido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fundido"
+      - "hab\xEDas fundido"
+      - "hab\xEDa fundido"
+      - "hab\xEDamos fundido"
+      - "hab\xEDais fundido"
+      - "hab\xEDan fundido"
+      cjid: ppsi
+    - cjfs:
+      - hube fundido
+      - hubiste fundido
+      - hubo fundido
+      - hubimos fundido
+      - hubisteis fundido
+      - hubieron fundido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fundido"
+      - "habr\xE1s fundido"
+      - "habr\xE1 fundido"
+      - habremos fundido
+      - "habr\xE9is fundido"
+      - "habr\xE1n fundido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fundido"
+      - "habr\xEDas fundido"
+      - "habr\xEDa fundido"
+      - "habr\xEDamos fundido"
+      - "habr\xEDais fundido"
+      - "habr\xEDan fundido"
+      cjid: cpef
+    - cjfs:
+      - haya fundido
+      - hayas fundido
+      - haya fundido
+      - hayamos fundido
+      - "hay\xE1is fundido"
+      - hayan fundido
+      cjid: ppfs
+    - cjfs:
+      - hubiera fundido
+      - hubieras fundido
+      - hubiera fundido
+      - "hubi\xE9ramos fundido"
+      - hubierais fundido
+      - hubieran fundido
+      cjid: ppss1
+    - cjfs:
+      - hubiese fundido
+      - hubieses fundido
+      - hubiese fundido
+      - "hubi\xE9semos fundido"
+      - hubieseis fundido
+      - hubiesen fundido
+      cjid: ppss2
+    - cjfs:
+      - hubiere fundido
+      - hubieres fundido
+      - hubiere fundido
+      - "hubi\xE9remos fundido"
+      - hubiereis fundido
+      - hubieren fundido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - funde
+      - funda
+      - fundamos
+      - fundid
+      - fundan
+      cjid: impf

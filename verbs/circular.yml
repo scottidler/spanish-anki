@@ -1,0 +1,355 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|round||} {bc}circular, {a_link|redondo}'
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: circular
+    prs:
+    - mw: "\u02C8s\u0259rkj\u0259l\u0259r"
+      sound:
+        audio: circul01
+  meta:
+    id: circular:1
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2604210000'
+    src: spanish
+    stems:
+    - circular
+    - circularity
+    - circularities
+    - circularly
+    - circularness
+    - circularnesses
+    uuid: 28905806-b12d-4cd6-b8df-50c9b7f48a65
+  shortdef:
+  - 'round : circular, redondo'
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}circular '
+          - - gl
+            - feminine
+  fl: noun
+  hom: 2
+  hwi:
+    hw: circular
+  meta:
+    id: circular:2
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2604211000'
+    src: spanish
+    stems:
+    - circular
+    - circulars
+    uuid: dff75f7e-b138-4b82-8327-4d14eaa71cf4
+  shortdef:
+  - circular
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|circulate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|move along}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drive}'
+          sn: '3'
+  fl: intransitive verb
+  hom: 1
+  hwi:
+    hw: circular
+    prs:
+    - sound:
+        audio: circu02sp
+  meta:
+    id: circular:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604765000'
+    src: spanish
+    stems:
+    - circular
+    uuid: a4e0d5f1-2a7b-43ff-9981-4c26ad5bfcf4
+  shortdef:
+  - to circulate
+  - to move along
+  - to drive
+  suppl:
+    cjts:
+    - cjfs:
+      - circulando
+      - circulado
+      cjid: gppt
+    - cjfs:
+      - circulo
+      - circulas
+      - circula
+      - circulamos
+      - "circul\xE1is"
+      - circulan
+      cjid: pind
+    - cjfs:
+      - circulaba
+      - circulabas
+      - circulaba
+      - "circul\xE1bamos"
+      - circulabais
+      - circulaban
+      cjid: pret
+    - cjfs:
+      - "circul\xE9"
+      - circulaste
+      - "circul\xF3"
+      - circulamos
+      - circulasteis
+      - circularon
+      cjid: pprf
+    - cjfs:
+      - "circular\xE9"
+      - "circular\xE1s"
+      - "circular\xE1"
+      - circularemos
+      - "circular\xE9is"
+      - "circular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "circular\xEDa"
+      - "circular\xEDas"
+      - "circular\xEDa"
+      - "circular\xEDamos"
+      - "circular\xEDais"
+      - "circular\xEDan"
+      cjid: cond
+    - cjfs:
+      - circule
+      - circules
+      - circule
+      - circulemos
+      - "circul\xE9is"
+      - circulen
+      cjid: psub
+    - cjfs:
+      - circulara
+      - circularas
+      - circulara
+      - "circul\xE1ramos"
+      - circularais
+      - circularan
+      cjid: pisb1
+    - cjfs:
+      - circulase
+      - circulases
+      - circulase
+      - "circul\xE1semos"
+      - circulaseis
+      - circulasen
+      cjid: pisb2
+    - cjfs:
+      - circulare
+      - circulares
+      - circulare
+      - "circul\xE1remos"
+      - circulareis
+      - circularen
+      cjid: fsub
+    - cjfs:
+      - he circulado
+      - has circulado
+      - ha circulado
+      - hemos circulado
+      - "hab\xE9is circulado"
+      - han circulado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa circulado"
+      - "hab\xEDas circulado"
+      - "hab\xEDa circulado"
+      - "hab\xEDamos circulado"
+      - "hab\xEDais circulado"
+      - "hab\xEDan circulado"
+      cjid: ppsi
+    - cjfs:
+      - hube circulado
+      - hubiste circulado
+      - hubo circulado
+      - hubimos circulado
+      - hubisteis circulado
+      - hubieron circulado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 circulado"
+      - "habr\xE1s circulado"
+      - "habr\xE1 circulado"
+      - habremos circulado
+      - "habr\xE9is circulado"
+      - "habr\xE1n circulado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa circulado"
+      - "habr\xEDas circulado"
+      - "habr\xEDa circulado"
+      - "habr\xEDamos circulado"
+      - "habr\xEDais circulado"
+      - "habr\xEDan circulado"
+      cjid: cpef
+    - cjfs:
+      - haya circulado
+      - hayas circulado
+      - haya circulado
+      - hayamos circulado
+      - "hay\xE1is circulado"
+      - hayan circulado
+      cjid: ppfs
+    - cjfs:
+      - hubiera circulado
+      - hubieras circulado
+      - hubiera circulado
+      - "hubi\xE9ramos circulado"
+      - hubierais circulado
+      - hubieran circulado
+      cjid: ppss1
+    - cjfs:
+      - hubiese circulado
+      - hubieses circulado
+      - hubiese circulado
+      - "hubi\xE9semos circulado"
+      - hubieseis circulado
+      - hubiesen circulado
+      cjid: ppss2
+    - cjfs:
+      - hubiere circulado
+      - hubieres circulado
+      - hubiere circulado
+      - "hubi\xE9remos circulado"
+      - hubiereis circulado
+      - hubieren circulado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - circula
+      - circule
+      - circulemos
+      - circulad
+      - circulen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}circular'
+  fl: adjective
+  hom: 2
+  hwi:
+    hw: circular
+  meta:
+    id: circular:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604766000'
+    src: spanish
+    stems:
+    - circular
+    uuid: 434e23c2-ef47-4449-aad9-172c400fe698
+  shortdef:
+  - circular
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}circular, {a_link|flier}'
+  fl: feminine noun
+  hom: 3
+  hwi:
+    hw: circular
+  meta:
+    id: circular:3
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604767000'
+    src: spanish
+    stems:
+    - circular
+    uuid: 3986683f-1155-442b-b708-3e01ef3c7dc9
+  shortdef:
+  - circular, flier
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}{a_link|pi\xF1a} "
+          - - gl
+            - feminine
+          - - text
+            - " (fruto de las con\xEDferas)"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cono} '
+          - - gl
+            - masculine
+          - - text
+            - " (en geometr\xEDa)"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cono} '
+          - - gl
+            - masculine
+          - - text
+            - ', {a_link|barquillo} '
+          - - gl
+            - masculine
+          - - text
+            - ', {a_link|cucurucho} '
+          - - gl
+            - masculine
+          sn: '3'
+          vrs:
+          - va: ice-cream cone
+  fl: noun
+  hwi:
+    hw: cone
+    prs:
+    - mw: "\u02C8ko\u02D0n"
+  meta:
+    id: cone
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2604897000'
+    src: spanish
+    stems:
+    - cone
+    - cones
+    - right circular cone
+    - ice-cream cone
+    uuid: cda07df7-5545-418f-b7bb-1b64138efd59
+  shortdef:
+  - "pi\xF1a (fruto de las con\xEDferas)"
+  - "cono (en geometr\xEDa)"
+  - cono, barquillo, cucurucho

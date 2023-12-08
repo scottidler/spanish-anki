@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sift}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|hover}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to loom over, to {a_link|threaten}'
+            sn: '2'
+            vrs:
+            - va: cernerse sobre
+              vac: ~ sobre
+    drp: cernerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: cerner
+    prs:
+    - sound:
+        audio: cerne01sp
+  meta:
+    id: cerner
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604377000'
+    src: spanish
+    stems:
+    - cerner
+    - cernerse
+    - cernerse sobre
+    uuid: 0a9aaaff-c27f-4656-bf1f-b9293791de37
+  shortdef:
+  - to sift
+  suppl:
+    cjts:
+    - cjfs:
+      - cernerar
+      - cernerando
+      - cernerado
+      cjid: gppt
+    - cjfs:
+      - cernero
+      - cerneras
+      - cernera
+      - cerneramos
+      - "cerner\xE1is"
+      - cerneran
+      cjid: pind
+    - cjfs:
+      - cerneraba
+      - cernerabas
+      - cerneraba
+      - "cerner\xE1bamos"
+      - cernerabais
+      - cerneraban
+      cjid: pret
+    - cjfs:
+      - "cerner\xE9"
+      - cerneraste
+      - "cerner\xF3"
+      - cerneramos
+      - cernerasteis
+      - cerneraron
+      cjid: pprf
+    - cjfs:
+      - "cernerar\xE9"
+      - "cernerar\xE1s"
+      - "cernerar\xE1"
+      - cerneraremos
+      - "cernerar\xE9is"
+      - "cernerar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cernerar\xEDa"
+      - "cernerar\xEDas"
+      - "cernerar\xEDa"
+      - "cernerar\xEDamos"
+      - "cernerar\xEDais"
+      - "cernerar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cernere
+      - cerneres
+      - cernere
+      - cerneremos
+      - "cerner\xE9is"
+      - cerneren
+      cjid: psub
+    - cjfs:
+      - cernerara
+      - cerneraras
+      - cernerara
+      - "cerner\xE1ramos"
+      - cernerarais
+      - cerneraran
+      cjid: pisb1
+    - cjfs:
+      - cernerase
+      - cernerases
+      - cernerase
+      - "cerner\xE1semos"
+      - cerneraseis
+      - cernerasen
+      cjid: pisb2
+    - cjfs:
+      - cernerare
+      - cernerares
+      - cernerare
+      - "cerner\xE1remos"
+      - cernerareis
+      - cerneraren
+      cjid: fsub
+    - cjfs:
+      - he cernerado
+      - has cernerado
+      - ha cernerado
+      - hemos cernerado
+      - "hab\xE9is cernerado"
+      - han cernerado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cernerado"
+      - "hab\xEDas cernerado"
+      - "hab\xEDa cernerado"
+      - "hab\xEDamos cernerado"
+      - "hab\xEDais cernerado"
+      - "hab\xEDan cernerado"
+      cjid: ppsi
+    - cjfs:
+      - hube cernerado
+      - hubiste cernerado
+      - hubo cernerado
+      - hubimos cernerado
+      - hubisteis cernerado
+      - hubieron cernerado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cernerado"
+      - "habr\xE1s cernerado"
+      - "habr\xE1 cernerado"
+      - habremos cernerado
+      - "habr\xE9is cernerado"
+      - "habr\xE1n cernerado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cernerado"
+      - "habr\xEDas cernerado"
+      - "habr\xEDa cernerado"
+      - "habr\xEDamos cernerado"
+      - "habr\xEDais cernerado"
+      - "habr\xEDan cernerado"
+      cjid: cpef
+    - cjfs:
+      - haya cernerado
+      - hayas cernerado
+      - haya cernerado
+      - hayamos cernerado
+      - "hay\xE1is cernerado"
+      - hayan cernerado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cernerado
+      - hubieras cernerado
+      - hubiera cernerado
+      - "hubi\xE9ramos cernerado"
+      - hubierais cernerado
+      - hubieran cernerado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cernerado
+      - hubieses cernerado
+      - hubiese cernerado
+      - "hubi\xE9semos cernerado"
+      - hubieseis cernerado
+      - hubiesen cernerado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cernerado
+      - hubieres cernerado
+      - hubiere cernerado
+      - "hubi\xE9remos cernerado"
+      - hubiereis cernerado
+      - hubieren cernerado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cernera
+      - cernere
+      - cerneremos
+      - cernerad
+      - cerneren
+      cjid: impf

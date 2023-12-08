@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shout}, to {a_link|scream}, to {a_link|cry}'
+  fl: verb
+  hwi:
+    hw: gritar
+    prs:
+    - sound:
+        audio: grita01sp
+  meta:
+    id: gritar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611076000'
+    src: spanish
+    stems:
+    - gritar
+    uuid: 319e6151-fe24-4c2c-b88d-3a98247248c2
+  shortdef:
+  - to shout, to scream, to cry
+  suppl:
+    cjts:
+    - cjfs:
+      - gritando
+      - gritado
+      cjid: gppt
+    - cjfs:
+      - grito
+      - gritas
+      - grita
+      - gritamos
+      - "grit\xE1is"
+      - gritan
+      cjid: pind
+    - cjfs:
+      - gritaba
+      - gritabas
+      - gritaba
+      - "grit\xE1bamos"
+      - gritabais
+      - gritaban
+      cjid: pret
+    - cjfs:
+      - "grit\xE9"
+      - gritaste
+      - "grit\xF3"
+      - gritamos
+      - gritasteis
+      - gritaron
+      cjid: pprf
+    - cjfs:
+      - "gritar\xE9"
+      - "gritar\xE1s"
+      - "gritar\xE1"
+      - gritaremos
+      - "gritar\xE9is"
+      - "gritar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gritar\xEDa"
+      - "gritar\xEDas"
+      - "gritar\xEDa"
+      - "gritar\xEDamos"
+      - "gritar\xEDais"
+      - "gritar\xEDan"
+      cjid: cond
+    - cjfs:
+      - grite
+      - grites
+      - grite
+      - gritemos
+      - "grit\xE9is"
+      - griten
+      cjid: psub
+    - cjfs:
+      - gritara
+      - gritaras
+      - gritara
+      - "grit\xE1ramos"
+      - gritarais
+      - gritaran
+      cjid: pisb1
+    - cjfs:
+      - gritase
+      - gritases
+      - gritase
+      - "grit\xE1semos"
+      - gritaseis
+      - gritasen
+      cjid: pisb2
+    - cjfs:
+      - gritare
+      - gritares
+      - gritare
+      - "grit\xE1remos"
+      - gritareis
+      - gritaren
+      cjid: fsub
+    - cjfs:
+      - he gritado
+      - has gritado
+      - ha gritado
+      - hemos gritado
+      - "hab\xE9is gritado"
+      - han gritado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gritado"
+      - "hab\xEDas gritado"
+      - "hab\xEDa gritado"
+      - "hab\xEDamos gritado"
+      - "hab\xEDais gritado"
+      - "hab\xEDan gritado"
+      cjid: ppsi
+    - cjfs:
+      - hube gritado
+      - hubiste gritado
+      - hubo gritado
+      - hubimos gritado
+      - hubisteis gritado
+      - hubieron gritado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gritado"
+      - "habr\xE1s gritado"
+      - "habr\xE1 gritado"
+      - habremos gritado
+      - "habr\xE9is gritado"
+      - "habr\xE1n gritado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gritado"
+      - "habr\xEDas gritado"
+      - "habr\xEDa gritado"
+      - "habr\xEDamos gritado"
+      - "habr\xEDais gritado"
+      - "habr\xEDan gritado"
+      cjid: cpef
+    - cjfs:
+      - haya gritado
+      - hayas gritado
+      - haya gritado
+      - hayamos gritado
+      - "hay\xE1is gritado"
+      - hayan gritado
+      cjid: ppfs
+    - cjfs:
+      - hubiera gritado
+      - hubieras gritado
+      - hubiera gritado
+      - "hubi\xE9ramos gritado"
+      - hubierais gritado
+      - hubieran gritado
+      cjid: ppss1
+    - cjfs:
+      - hubiese gritado
+      - hubieses gritado
+      - hubiese gritado
+      - "hubi\xE9semos gritado"
+      - hubieseis gritado
+      - hubiesen gritado
+      cjid: ppss2
+    - cjfs:
+      - hubiere gritado
+      - hubieres gritado
+      - hubiere gritado
+      - "hubi\xE9remos gritado"
+      - hubiereis gritado
+      - hubieren gritado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - grita
+      - grite
+      - gritemos
+      - gritad
+      - griten
+      cjid: impf

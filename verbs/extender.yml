@@ -1,0 +1,214 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spread out}, to {a_link|stretch out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|broaden}, to {a_link|expand} '
+          - - vis
+            - - t: extender la influencia
+                tr: to broaden one's influence
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw up} (a document), to {a_link|write out} (a check)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|spread}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|last}'
+            sn: '2'
+    drp: extenderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: extender
+    prs:
+    - sound:
+        audio: exten01sp
+  meta:
+    id: extender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609734000'
+    src: spanish
+    stems:
+    - extender
+    - extenderse
+    uuid: 95192638-ecb6-4ed7-ae64-e729d54988c5
+  shortdef:
+  - to spread out, to stretch out
+  - to broaden, to expand
+  - to draw up (a document), to write out (a check)
+  suppl:
+    cjts:
+    - cjfs:
+      - extendiendo
+      - extendido
+      cjid: gppt
+    - cjfs:
+      - extiendo
+      - extiendes
+      - extiende
+      - extendemos
+      - "extend\xE9is"
+      - extienden
+      cjid: pind
+    - cjfs:
+      - "extend\xEDa"
+      - "extend\xEDas"
+      - "extend\xEDa"
+      - "extend\xEDamos"
+      - "extend\xEDais"
+      - "extend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "extend\xED"
+      - extendiste
+      - "extendi\xF3"
+      - extendimos
+      - extendisteis
+      - extendieron
+      cjid: pprf
+    - cjfs:
+      - "extender\xE9"
+      - "extender\xE1s"
+      - "extender\xE1"
+      - extenderemos
+      - "extender\xE9is"
+      - "extender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "extender\xEDa"
+      - "extender\xEDas"
+      - "extender\xEDa"
+      - "extender\xEDamos"
+      - "extender\xEDais"
+      - "extender\xEDan"
+      cjid: cond
+    - cjfs:
+      - extienda
+      - extiendas
+      - extienda
+      - extendamos
+      - "extend\xE1is"
+      - extiendan
+      cjid: psub
+    - cjfs:
+      - extendiera
+      - extendieras
+      - extendiera
+      - "extendi\xE9ramos"
+      - extendierais
+      - extendieran
+      cjid: pisb1
+    - cjfs:
+      - extendiese
+      - extendieses
+      - extendiese
+      - "extendi\xE9semos"
+      - extendieseis
+      - extendiesen
+      cjid: pisb2
+    - cjfs:
+      - extendiere
+      - extendieres
+      - extendiere
+      - "extendi\xE9remos"
+      - extendiereis
+      - extendieren
+      cjid: fsub
+    - cjfs:
+      - he extendido
+      - has extendido
+      - ha extendido
+      - hemos extendido
+      - "hab\xE9is extendido"
+      - han extendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa extendido"
+      - "hab\xEDas extendido"
+      - "hab\xEDa extendido"
+      - "hab\xEDamos extendido"
+      - "hab\xEDais extendido"
+      - "hab\xEDan extendido"
+      cjid: ppsi
+    - cjfs:
+      - hube extendido
+      - hubiste extendido
+      - hubo extendido
+      - hubimos extendido
+      - hubisteis extendido
+      - hubieron extendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 extendido"
+      - "habr\xE1s extendido"
+      - "habr\xE1 extendido"
+      - habremos extendido
+      - "habr\xE9is extendido"
+      - "habr\xE1n extendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa extendido"
+      - "habr\xEDas extendido"
+      - "habr\xEDa extendido"
+      - "habr\xEDamos extendido"
+      - "habr\xEDais extendido"
+      - "habr\xEDan extendido"
+      cjid: cpef
+    - cjfs:
+      - haya extendido
+      - hayas extendido
+      - haya extendido
+      - hayamos extendido
+      - "hay\xE1is extendido"
+      - hayan extendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera extendido
+      - hubieras extendido
+      - hubiera extendido
+      - "hubi\xE9ramos extendido"
+      - hubierais extendido
+      - hubieran extendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese extendido
+      - hubieses extendido
+      - hubiese extendido
+      - "hubi\xE9semos extendido"
+      - hubieseis extendido
+      - hubiesen extendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere extendido
+      - hubieres extendido
+      - hubiere extendido
+      - "hubi\xE9remos extendido"
+      - hubiereis extendido
+      - hubieren extendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - extiende
+      - extienda
+      - extendamos
+      - extended
+      - extiendan
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flutter}, to flap one''s wings'
+  fl: intransitive verb
+  hwi:
+    hw: aletear
+  meta:
+    id: aletear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600964000'
+    src: spanish
+    stems:
+    - aletear
+    uuid: bc23dbbc-16aa-42cc-be1b-ecef6f6aa595
+  shortdef:
+  - to flutter, to flap one's wings
+  suppl:
+    cjts:
+    - cjfs:
+      - aleteando
+      - aleteado
+      cjid: gppt
+    - cjfs:
+      - aleteo
+      - aleteas
+      - aletea
+      - aleteamos
+      - "alete\xE1is"
+      - aletean
+      cjid: pind
+    - cjfs:
+      - aleteaba
+      - aleteabas
+      - aleteaba
+      - "alete\xE1bamos"
+      - aleteabais
+      - aleteaban
+      cjid: pret
+    - cjfs:
+      - "alete\xE9"
+      - aleteaste
+      - "alete\xF3"
+      - aleteamos
+      - aleteasteis
+      - aletearon
+      cjid: pprf
+    - cjfs:
+      - "aletear\xE9"
+      - "aletear\xE1s"
+      - "aletear\xE1"
+      - aletearemos
+      - "aletear\xE9is"
+      - "aletear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aletear\xEDa"
+      - "aletear\xEDas"
+      - "aletear\xEDa"
+      - "aletear\xEDamos"
+      - "aletear\xEDais"
+      - "aletear\xEDan"
+      cjid: cond
+    - cjfs:
+      - aletee
+      - aletees
+      - aletee
+      - aleteemos
+      - "alete\xE9is"
+      - aleteen
+      cjid: psub
+    - cjfs:
+      - aleteara
+      - aletearas
+      - aleteara
+      - "alete\xE1ramos"
+      - aletearais
+      - aletearan
+      cjid: pisb1
+    - cjfs:
+      - aletease
+      - aleteases
+      - aletease
+      - "alete\xE1semos"
+      - aleteaseis
+      - aleteasen
+      cjid: pisb2
+    - cjfs:
+      - aleteare
+      - aleteares
+      - aleteare
+      - "alete\xE1remos"
+      - aleteareis
+      - aletearen
+      cjid: fsub
+    - cjfs:
+      - he aleteado
+      - has aleteado
+      - ha aleteado
+      - hemos aleteado
+      - "hab\xE9is aleteado"
+      - han aleteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aleteado"
+      - "hab\xEDas aleteado"
+      - "hab\xEDa aleteado"
+      - "hab\xEDamos aleteado"
+      - "hab\xEDais aleteado"
+      - "hab\xEDan aleteado"
+      cjid: ppsi
+    - cjfs:
+      - hube aleteado
+      - hubiste aleteado
+      - hubo aleteado
+      - hubimos aleteado
+      - hubisteis aleteado
+      - hubieron aleteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aleteado"
+      - "habr\xE1s aleteado"
+      - "habr\xE1 aleteado"
+      - habremos aleteado
+      - "habr\xE9is aleteado"
+      - "habr\xE1n aleteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aleteado"
+      - "habr\xEDas aleteado"
+      - "habr\xEDa aleteado"
+      - "habr\xEDamos aleteado"
+      - "habr\xEDais aleteado"
+      - "habr\xEDan aleteado"
+      cjid: cpef
+    - cjfs:
+      - haya aleteado
+      - hayas aleteado
+      - haya aleteado
+      - hayamos aleteado
+      - "hay\xE1is aleteado"
+      - hayan aleteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aleteado
+      - hubieras aleteado
+      - hubiera aleteado
+      - "hubi\xE9ramos aleteado"
+      - hubierais aleteado
+      - hubieran aleteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aleteado
+      - hubieses aleteado
+      - hubiese aleteado
+      - "hubi\xE9semos aleteado"
+      - hubieseis aleteado
+      - hubiesen aleteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aleteado
+      - hubieres aleteado
+      - hubiere aleteado
+      - "hubi\xE9remos aleteado"
+      - hubiereis aleteado
+      - hubieren aleteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aletea
+      - aletee
+      - aleteemos
+      - aletead
+      - aleteen
+      cjid: impf

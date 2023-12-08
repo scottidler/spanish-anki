@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|adopt} (a measure), to {a_link|take} (a decision)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|adopt} (children)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: adoptar
+    prs:
+    - sound:
+        audio: adopt01sp
+  meta:
+    id: adoptar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600514000'
+    src: spanish
+    stems:
+    - adoptar
+    uuid: f5115f9b-02cf-49c3-8f26-eba9c3636bc6
+  shortdef:
+  - to adopt (a measure), to take (a decision)
+  - to adopt (children)
+  suppl:
+    cjts:
+    - cjfs:
+      - adoptando
+      - adoptado
+      cjid: gppt
+    - cjfs:
+      - adopto
+      - adoptas
+      - adopta
+      - adoptamos
+      - "adopt\xE1is"
+      - adoptan
+      cjid: pind
+    - cjfs:
+      - adoptaba
+      - adoptabas
+      - adoptaba
+      - "adopt\xE1bamos"
+      - adoptabais
+      - adoptaban
+      cjid: pret
+    - cjfs:
+      - "adopt\xE9"
+      - adoptaste
+      - "adopt\xF3"
+      - adoptamos
+      - adoptasteis
+      - adoptaron
+      cjid: pprf
+    - cjfs:
+      - "adoptar\xE9"
+      - "adoptar\xE1s"
+      - "adoptar\xE1"
+      - adoptaremos
+      - "adoptar\xE9is"
+      - "adoptar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "adoptar\xEDa"
+      - "adoptar\xEDas"
+      - "adoptar\xEDa"
+      - "adoptar\xEDamos"
+      - "adoptar\xEDais"
+      - "adoptar\xEDan"
+      cjid: cond
+    - cjfs:
+      - adopte
+      - adoptes
+      - adopte
+      - adoptemos
+      - "adopt\xE9is"
+      - adopten
+      cjid: psub
+    - cjfs:
+      - adoptara
+      - adoptaras
+      - adoptara
+      - "adopt\xE1ramos"
+      - adoptarais
+      - adoptaran
+      cjid: pisb1
+    - cjfs:
+      - adoptase
+      - adoptases
+      - adoptase
+      - "adopt\xE1semos"
+      - adoptaseis
+      - adoptasen
+      cjid: pisb2
+    - cjfs:
+      - adoptare
+      - adoptares
+      - adoptare
+      - "adopt\xE1remos"
+      - adoptareis
+      - adoptaren
+      cjid: fsub
+    - cjfs:
+      - he adoptado
+      - has adoptado
+      - ha adoptado
+      - hemos adoptado
+      - "hab\xE9is adoptado"
+      - han adoptado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa adoptado"
+      - "hab\xEDas adoptado"
+      - "hab\xEDa adoptado"
+      - "hab\xEDamos adoptado"
+      - "hab\xEDais adoptado"
+      - "hab\xEDan adoptado"
+      cjid: ppsi
+    - cjfs:
+      - hube adoptado
+      - hubiste adoptado
+      - hubo adoptado
+      - hubimos adoptado
+      - hubisteis adoptado
+      - hubieron adoptado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 adoptado"
+      - "habr\xE1s adoptado"
+      - "habr\xE1 adoptado"
+      - habremos adoptado
+      - "habr\xE9is adoptado"
+      - "habr\xE1n adoptado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa adoptado"
+      - "habr\xEDas adoptado"
+      - "habr\xEDa adoptado"
+      - "habr\xEDamos adoptado"
+      - "habr\xEDais adoptado"
+      - "habr\xEDan adoptado"
+      cjid: cpef
+    - cjfs:
+      - haya adoptado
+      - hayas adoptado
+      - haya adoptado
+      - hayamos adoptado
+      - "hay\xE1is adoptado"
+      - hayan adoptado
+      cjid: ppfs
+    - cjfs:
+      - hubiera adoptado
+      - hubieras adoptado
+      - hubiera adoptado
+      - "hubi\xE9ramos adoptado"
+      - hubierais adoptado
+      - hubieran adoptado
+      cjid: ppss1
+    - cjfs:
+      - hubiese adoptado
+      - hubieses adoptado
+      - hubiese adoptado
+      - "hubi\xE9semos adoptado"
+      - hubieseis adoptado
+      - hubiesen adoptado
+      cjid: ppss2
+    - cjfs:
+      - hubiere adoptado
+      - hubieres adoptado
+      - hubiere adoptado
+      - "hubi\xE9remos adoptado"
+      - hubiereis adoptado
+      - hubieren adoptado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - adopta
+      - adopte
+      - adoptemos
+      - adoptad
+      - adopten
+      cjid: impf

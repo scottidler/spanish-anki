@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|strain}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to make an effort'
+    drp: esforzarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: esforzar
+    prs:
+    - sound:
+        audio: esfor01sp
+  meta:
+    id: esforzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609090000'
+    src: spanish
+    stems:
+    - esforzar
+    - esforzarse
+    uuid: 4dabdd83-f60d-4a5f-b923-17b0c46b01cb
+  shortdef:
+  - to strain
+  suppl:
+    cjts:
+    - cjfs:
+      - esforzando
+      - esforzado
+      cjid: gppt
+    - cjfs:
+      - esfuerzo
+      - esfuerzas
+      - esfuerza
+      - esforzamos
+      - "esforz\xE1is"
+      - esfuerzan
+      cjid: pind
+    - cjfs:
+      - esforzaba
+      - esforzabas
+      - esforzaba
+      - "esforz\xE1bamos"
+      - esforzabais
+      - esforzaban
+      cjid: pret
+    - cjfs:
+      - "esforc\xE9"
+      - esforzaste
+      - "esforz\xF3"
+      - esforzamos
+      - esforzasteis
+      - esforzaron
+      cjid: pprf
+    - cjfs:
+      - "esforzar\xE9"
+      - "esforzar\xE1s"
+      - "esforzar\xE1"
+      - esforzaremos
+      - "esforzar\xE9is"
+      - "esforzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "esforzar\xEDa"
+      - "esforzar\xEDas"
+      - "esforzar\xEDa"
+      - "esforzar\xEDamos"
+      - "esforzar\xEDais"
+      - "esforzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - esfuerce
+      - esfuerces
+      - esfuerce
+      - esforcemos
+      - "esforc\xE9is"
+      - esfuercen
+      cjid: psub
+    - cjfs:
+      - esforzara
+      - esforzaras
+      - esforzara
+      - "esforz\xE1ramos"
+      - esforzarais
+      - esforzaran
+      cjid: pisb1
+    - cjfs:
+      - esforzase
+      - esforzases
+      - esforzase
+      - "esforz\xE1semos"
+      - esforzaseis
+      - esforzasen
+      cjid: pisb2
+    - cjfs:
+      - esforzare
+      - esforzares
+      - esforzare
+      - "esforz\xE1remos"
+      - esforzareis
+      - esforzaren
+      cjid: fsub
+    - cjfs:
+      - he esforzado
+      - has esforzado
+      - ha esforzado
+      - hemos esforzado
+      - "hab\xE9is esforzado"
+      - han esforzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa esforzado"
+      - "hab\xEDas esforzado"
+      - "hab\xEDa esforzado"
+      - "hab\xEDamos esforzado"
+      - "hab\xEDais esforzado"
+      - "hab\xEDan esforzado"
+      cjid: ppsi
+    - cjfs:
+      - hube esforzado
+      - hubiste esforzado
+      - hubo esforzado
+      - hubimos esforzado
+      - hubisteis esforzado
+      - hubieron esforzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 esforzado"
+      - "habr\xE1s esforzado"
+      - "habr\xE1 esforzado"
+      - habremos esforzado
+      - "habr\xE9is esforzado"
+      - "habr\xE1n esforzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa esforzado"
+      - "habr\xEDas esforzado"
+      - "habr\xEDa esforzado"
+      - "habr\xEDamos esforzado"
+      - "habr\xEDais esforzado"
+      - "habr\xEDan esforzado"
+      cjid: cpef
+    - cjfs:
+      - haya esforzado
+      - hayas esforzado
+      - haya esforzado
+      - hayamos esforzado
+      - "hay\xE1is esforzado"
+      - hayan esforzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera esforzado
+      - hubieras esforzado
+      - hubiera esforzado
+      - "hubi\xE9ramos esforzado"
+      - hubierais esforzado
+      - hubieran esforzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese esforzado
+      - hubieses esforzado
+      - hubiese esforzado
+      - "hubi\xE9semos esforzado"
+      - hubieseis esforzado
+      - hubiesen esforzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere esforzado
+      - hubieres esforzado
+      - hubiere esforzado
+      - "hubi\xE9remos esforzado"
+      - hubiereis esforzado
+      - hubieren esforzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - esfuerza
+      - esfuerce
+      - esforcemos
+      - esforzad
+      - esfuercen
+      cjid: impf

@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|intrigue}'
+  fl: verb
+  hwi:
+    hw: intrigar
+  meta:
+    id: intrigar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612940000'
+    src: spanish
+    stems:
+    - intrigar
+    - intrigante
+    uuid: 6d6061ce-056a-48d1-9880-93a0d4b40fbf
+  shortdef:
+  - to intrigue
+  suppl:
+    cjts:
+    - cjfs:
+      - intrigando
+      - intrigado
+      cjid: gppt
+    - cjfs:
+      - intrigo
+      - intrigas
+      - intriga
+      - intrigamos
+      - "intrig\xE1is"
+      - intrigan
+      cjid: pind
+    - cjfs:
+      - intrigaba
+      - intrigabas
+      - intrigaba
+      - "intrig\xE1bamos"
+      - intrigabais
+      - intrigaban
+      cjid: pret
+    - cjfs:
+      - "intrigu\xE9"
+      - intrigaste
+      - "intrig\xF3"
+      - intrigamos
+      - intrigasteis
+      - intrigaron
+      cjid: pprf
+    - cjfs:
+      - "intrigar\xE9"
+      - "intrigar\xE1s"
+      - "intrigar\xE1"
+      - intrigaremos
+      - "intrigar\xE9is"
+      - "intrigar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "intrigar\xEDa"
+      - "intrigar\xEDas"
+      - "intrigar\xEDa"
+      - "intrigar\xEDamos"
+      - "intrigar\xEDais"
+      - "intrigar\xEDan"
+      cjid: cond
+    - cjfs:
+      - intrigue
+      - intrigues
+      - intrigue
+      - intriguemos
+      - "intrigu\xE9is"
+      - intriguen
+      cjid: psub
+    - cjfs:
+      - intrigara
+      - intrigaras
+      - intrigara
+      - "intrig\xE1ramos"
+      - intrigarais
+      - intrigaran
+      cjid: pisb1
+    - cjfs:
+      - intrigase
+      - intrigases
+      - intrigase
+      - "intrig\xE1semos"
+      - intrigaseis
+      - intrigasen
+      cjid: pisb2
+    - cjfs:
+      - intrigare
+      - intrigares
+      - intrigare
+      - "intrig\xE1remos"
+      - intrigareis
+      - intrigaren
+      cjid: fsub
+    - cjfs:
+      - he intrigado
+      - has intrigado
+      - ha intrigado
+      - hemos intrigado
+      - "hab\xE9is intrigado"
+      - han intrigado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa intrigado"
+      - "hab\xEDas intrigado"
+      - "hab\xEDa intrigado"
+      - "hab\xEDamos intrigado"
+      - "hab\xEDais intrigado"
+      - "hab\xEDan intrigado"
+      cjid: ppsi
+    - cjfs:
+      - hube intrigado
+      - hubiste intrigado
+      - hubo intrigado
+      - hubimos intrigado
+      - hubisteis intrigado
+      - hubieron intrigado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 intrigado"
+      - "habr\xE1s intrigado"
+      - "habr\xE1 intrigado"
+      - habremos intrigado
+      - "habr\xE9is intrigado"
+      - "habr\xE1n intrigado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa intrigado"
+      - "habr\xEDas intrigado"
+      - "habr\xEDa intrigado"
+      - "habr\xEDamos intrigado"
+      - "habr\xEDais intrigado"
+      - "habr\xEDan intrigado"
+      cjid: cpef
+    - cjfs:
+      - haya intrigado
+      - hayas intrigado
+      - haya intrigado
+      - hayamos intrigado
+      - "hay\xE1is intrigado"
+      - hayan intrigado
+      cjid: ppfs
+    - cjfs:
+      - hubiera intrigado
+      - hubieras intrigado
+      - hubiera intrigado
+      - "hubi\xE9ramos intrigado"
+      - hubierais intrigado
+      - hubieran intrigado
+      cjid: ppss1
+    - cjfs:
+      - hubiese intrigado
+      - hubieses intrigado
+      - hubiese intrigado
+      - "hubi\xE9semos intrigado"
+      - hubieseis intrigado
+      - hubiesen intrigado
+      cjid: ppss2
+    - cjfs:
+      - hubiere intrigado
+      - hubieres intrigado
+      - hubiere intrigado
+      - "hubi\xE9remos intrigado"
+      - hubiereis intrigado
+      - hubieren intrigado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - intriga
+      - intrigue
+      - intriguemos
+      - intrigad
+      - intriguen
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: intrigante

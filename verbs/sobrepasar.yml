@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exceed}, to {a_link|surpass}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|pasarse||} {bc}to go too far'
+    drp: sobrepasarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sobrepasar
+    prs:
+    - sound:
+        audio: sobre08sp
+  meta:
+    id: sobrepasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620783000'
+    src: spanish
+    stems:
+    - sobrepasar
+    - sobrepasarse
+    uuid: 503723fc-ea10-4ea2-b0d9-47ce39375ad5
+  shortdef:
+  - to exceed, to surpass
+  suppl:
+    cjts:
+    - cjfs:
+      - sobrepasando
+      - sobrepasado
+      cjid: gppt
+    - cjfs:
+      - sobrepaso
+      - sobrepasas
+      - sobrepasa
+      - sobrepasamos
+      - "sobrepas\xE1is"
+      - sobrepasan
+      cjid: pind
+    - cjfs:
+      - sobrepasaba
+      - sobrepasabas
+      - sobrepasaba
+      - "sobrepas\xE1bamos"
+      - sobrepasabais
+      - sobrepasaban
+      cjid: pret
+    - cjfs:
+      - "sobrepas\xE9"
+      - sobrepasaste
+      - "sobrepas\xF3"
+      - sobrepasamos
+      - sobrepasasteis
+      - sobrepasaron
+      cjid: pprf
+    - cjfs:
+      - "sobrepasar\xE9"
+      - "sobrepasar\xE1s"
+      - "sobrepasar\xE1"
+      - sobrepasaremos
+      - "sobrepasar\xE9is"
+      - "sobrepasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sobrepasar\xEDa"
+      - "sobrepasar\xEDas"
+      - "sobrepasar\xEDa"
+      - "sobrepasar\xEDamos"
+      - "sobrepasar\xEDais"
+      - "sobrepasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sobrepase
+      - sobrepases
+      - sobrepase
+      - sobrepasemos
+      - "sobrepas\xE9is"
+      - sobrepasen
+      cjid: psub
+    - cjfs:
+      - sobrepasara
+      - sobrepasaras
+      - sobrepasara
+      - "sobrepas\xE1ramos"
+      - sobrepasarais
+      - sobrepasaran
+      cjid: pisb1
+    - cjfs:
+      - sobrepasase
+      - sobrepasases
+      - sobrepasase
+      - "sobrepas\xE1semos"
+      - sobrepasaseis
+      - sobrepasasen
+      cjid: pisb2
+    - cjfs:
+      - sobrepasare
+      - sobrepasares
+      - sobrepasare
+      - "sobrepas\xE1remos"
+      - sobrepasareis
+      - sobrepasaren
+      cjid: fsub
+    - cjfs:
+      - he sobrepasado
+      - has sobrepasado
+      - ha sobrepasado
+      - hemos sobrepasado
+      - "hab\xE9is sobrepasado"
+      - han sobrepasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sobrepasado"
+      - "hab\xEDas sobrepasado"
+      - "hab\xEDa sobrepasado"
+      - "hab\xEDamos sobrepasado"
+      - "hab\xEDais sobrepasado"
+      - "hab\xEDan sobrepasado"
+      cjid: ppsi
+    - cjfs:
+      - hube sobrepasado
+      - hubiste sobrepasado
+      - hubo sobrepasado
+      - hubimos sobrepasado
+      - hubisteis sobrepasado
+      - hubieron sobrepasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sobrepasado"
+      - "habr\xE1s sobrepasado"
+      - "habr\xE1 sobrepasado"
+      - habremos sobrepasado
+      - "habr\xE9is sobrepasado"
+      - "habr\xE1n sobrepasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sobrepasado"
+      - "habr\xEDas sobrepasado"
+      - "habr\xEDa sobrepasado"
+      - "habr\xEDamos sobrepasado"
+      - "habr\xEDais sobrepasado"
+      - "habr\xEDan sobrepasado"
+      cjid: cpef
+    - cjfs:
+      - haya sobrepasado
+      - hayas sobrepasado
+      - haya sobrepasado
+      - hayamos sobrepasado
+      - "hay\xE1is sobrepasado"
+      - hayan sobrepasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sobrepasado
+      - hubieras sobrepasado
+      - hubiera sobrepasado
+      - "hubi\xE9ramos sobrepasado"
+      - hubierais sobrepasado
+      - hubieran sobrepasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sobrepasado
+      - hubieses sobrepasado
+      - hubiese sobrepasado
+      - "hubi\xE9semos sobrepasado"
+      - hubieseis sobrepasado
+      - hubiesen sobrepasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sobrepasado
+      - hubieres sobrepasado
+      - hubiere sobrepasado
+      - "hubi\xE9remos sobrepasado"
+      - hubiereis sobrepasado
+      - hubieren sobrepasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sobrepasa
+      - sobrepase
+      - sobrepasemos
+      - sobrepasad
+      - sobrepasen
+      cjid: impf

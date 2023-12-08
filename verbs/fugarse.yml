@@ -1,0 +1,34 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|escape}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|huir||} {bc}to {a_link|flee}, to {a_link|run away}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|elope}'
+          sn: '3'
+  fl: reflexive verb
+  hwi:
+    hw: fugarse
+  meta:
+    id: fugarse
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610505000'
+    src: spanish
+    stems:
+    - fugarse
+    uuid: 387eda0b-0b42-492d-bf0f-1617e9390af8
+  shortdef:
+  - to escape
+  - 'huir : to flee, to run away'
+  - to elope

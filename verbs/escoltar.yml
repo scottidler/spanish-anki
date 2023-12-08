@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|escort}, to {a_link|accompany}'
+  fl: transitive verb
+  hwi:
+    hw: escoltar
+  meta:
+    id: escoltar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609021000'
+    src: spanish
+    stems:
+    - escoltar
+    uuid: bf79ddb9-a2a9-4041-aa7d-34c6d3c348ac
+  shortdef:
+  - to escort, to accompany
+  suppl:
+    cjts:
+    - cjfs:
+      - escoltando
+      - escoltado
+      cjid: gppt
+    - cjfs:
+      - escolto
+      - escoltas
+      - escolta
+      - escoltamos
+      - "escolt\xE1is"
+      - escoltan
+      cjid: pind
+    - cjfs:
+      - escoltaba
+      - escoltabas
+      - escoltaba
+      - "escolt\xE1bamos"
+      - escoltabais
+      - escoltaban
+      cjid: pret
+    - cjfs:
+      - "escolt\xE9"
+      - escoltaste
+      - "escolt\xF3"
+      - escoltamos
+      - escoltasteis
+      - escoltaron
+      cjid: pprf
+    - cjfs:
+      - "escoltar\xE9"
+      - "escoltar\xE1s"
+      - "escoltar\xE1"
+      - escoltaremos
+      - "escoltar\xE9is"
+      - "escoltar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escoltar\xEDa"
+      - "escoltar\xEDas"
+      - "escoltar\xEDa"
+      - "escoltar\xEDamos"
+      - "escoltar\xEDais"
+      - "escoltar\xEDan"
+      cjid: cond
+    - cjfs:
+      - escolte
+      - escoltes
+      - escolte
+      - escoltemos
+      - "escolt\xE9is"
+      - escolten
+      cjid: psub
+    - cjfs:
+      - escoltara
+      - escoltaras
+      - escoltara
+      - "escolt\xE1ramos"
+      - escoltarais
+      - escoltaran
+      cjid: pisb1
+    - cjfs:
+      - escoltase
+      - escoltases
+      - escoltase
+      - "escolt\xE1semos"
+      - escoltaseis
+      - escoltasen
+      cjid: pisb2
+    - cjfs:
+      - escoltare
+      - escoltares
+      - escoltare
+      - "escolt\xE1remos"
+      - escoltareis
+      - escoltaren
+      cjid: fsub
+    - cjfs:
+      - he escoltado
+      - has escoltado
+      - ha escoltado
+      - hemos escoltado
+      - "hab\xE9is escoltado"
+      - han escoltado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escoltado"
+      - "hab\xEDas escoltado"
+      - "hab\xEDa escoltado"
+      - "hab\xEDamos escoltado"
+      - "hab\xEDais escoltado"
+      - "hab\xEDan escoltado"
+      cjid: ppsi
+    - cjfs:
+      - hube escoltado
+      - hubiste escoltado
+      - hubo escoltado
+      - hubimos escoltado
+      - hubisteis escoltado
+      - hubieron escoltado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escoltado"
+      - "habr\xE1s escoltado"
+      - "habr\xE1 escoltado"
+      - habremos escoltado
+      - "habr\xE9is escoltado"
+      - "habr\xE1n escoltado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escoltado"
+      - "habr\xEDas escoltado"
+      - "habr\xEDa escoltado"
+      - "habr\xEDamos escoltado"
+      - "habr\xEDais escoltado"
+      - "habr\xEDan escoltado"
+      cjid: cpef
+    - cjfs:
+      - haya escoltado
+      - hayas escoltado
+      - haya escoltado
+      - hayamos escoltado
+      - "hay\xE1is escoltado"
+      - hayan escoltado
+      cjid: ppfs
+    - cjfs:
+      - hubiera escoltado
+      - hubieras escoltado
+      - hubiera escoltado
+      - "hubi\xE9ramos escoltado"
+      - hubierais escoltado
+      - hubieran escoltado
+      cjid: ppss1
+    - cjfs:
+      - hubiese escoltado
+      - hubieses escoltado
+      - hubiese escoltado
+      - "hubi\xE9semos escoltado"
+      - hubieseis escoltado
+      - hubiesen escoltado
+      cjid: ppss2
+    - cjfs:
+      - hubiere escoltado
+      - hubieres escoltado
+      - hubiere escoltado
+      - "hubi\xE9remos escoltado"
+      - hubiereis escoltado
+      - hubieren escoltado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escolta
+      - escolte
+      - escoltemos
+      - escoltad
+      - escolten
+      cjid: impf

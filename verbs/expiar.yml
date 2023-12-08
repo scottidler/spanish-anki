@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expiate}, to {a_link|atone for}'
+  fl: transitive verb
+  hwi:
+    hw: expiar
+  meta:
+    id: expiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609682000'
+    src: spanish
+    stems:
+    - expiar
+    uuid: e2738d6d-1fd1-4fa8-9cf7-beea2ee3d9e8
+  shortdef:
+  - to expiate, to atone for
+  suppl:
+    cjts:
+    - cjfs:
+      - expiando
+      - expiado
+      cjid: gppt
+    - cjfs:
+      - "exp\xEDo"
+      - "exp\xEDas"
+      - "exp\xEDa"
+      - expiamos
+      - "expi\xE1is"
+      - "exp\xEDan"
+      cjid: pind
+    - cjfs:
+      - expiaba
+      - expiabas
+      - expiaba
+      - "expi\xE1bamos"
+      - expiabais
+      - expiaban
+      cjid: pret
+    - cjfs:
+      - "expi\xE9"
+      - expiaste
+      - "expi\xF3"
+      - expiamos
+      - expiasteis
+      - expiaron
+      cjid: pprf
+    - cjfs:
+      - "expiar\xE9"
+      - "expiar\xE1s"
+      - "expiar\xE1"
+      - expiaremos
+      - "expiar\xE9is"
+      - "expiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "expiar\xEDa"
+      - "expiar\xEDas"
+      - "expiar\xEDa"
+      - "expiar\xEDamos"
+      - "expiar\xEDais"
+      - "expiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "exp\xEDe"
+      - "exp\xEDes"
+      - "exp\xEDe"
+      - expiemos
+      - "expi\xE9is"
+      - "exp\xEDen"
+      cjid: psub
+    - cjfs:
+      - expiara
+      - expiaras
+      - expiara
+      - "expi\xE1ramos"
+      - expiarais
+      - expiaran
+      cjid: pisb1
+    - cjfs:
+      - expiase
+      - expiases
+      - expiase
+      - "expi\xE1semos"
+      - expiaseis
+      - expiasen
+      cjid: pisb2
+    - cjfs:
+      - expiare
+      - expiares
+      - expiare
+      - "expi\xE1remos"
+      - expiareis
+      - expiaren
+      cjid: fsub
+    - cjfs:
+      - he expiado
+      - has expiado
+      - ha expiado
+      - hemos expiado
+      - "hab\xE9is expiado"
+      - han expiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa expiado"
+      - "hab\xEDas expiado"
+      - "hab\xEDa expiado"
+      - "hab\xEDamos expiado"
+      - "hab\xEDais expiado"
+      - "hab\xEDan expiado"
+      cjid: ppsi
+    - cjfs:
+      - hube expiado
+      - hubiste expiado
+      - hubo expiado
+      - hubimos expiado
+      - hubisteis expiado
+      - hubieron expiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 expiado"
+      - "habr\xE1s expiado"
+      - "habr\xE1 expiado"
+      - habremos expiado
+      - "habr\xE9is expiado"
+      - "habr\xE1n expiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa expiado"
+      - "habr\xEDas expiado"
+      - "habr\xEDa expiado"
+      - "habr\xEDamos expiado"
+      - "habr\xEDais expiado"
+      - "habr\xEDan expiado"
+      cjid: cpef
+    - cjfs:
+      - haya expiado
+      - hayas expiado
+      - haya expiado
+      - hayamos expiado
+      - "hay\xE1is expiado"
+      - hayan expiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera expiado
+      - hubieras expiado
+      - hubiera expiado
+      - "hubi\xE9ramos expiado"
+      - hubierais expiado
+      - hubieran expiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese expiado
+      - hubieses expiado
+      - hubiese expiado
+      - "hubi\xE9semos expiado"
+      - hubieseis expiado
+      - hubiesen expiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere expiado
+      - hubieres expiado
+      - hubiere expiado
+      - "hubi\xE9remos expiado"
+      - hubiereis expiado
+      - hubieren expiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "exp\xEDa"
+      - "exp\xEDe"
+      - expiemos
+      - expiad
+      - "exp\xEDen"
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lavish}, to be generous with'
+  fl: transitive verb
+  hwi:
+    hw: prodigar
+  meta:
+    id: prodigar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618189000'
+    src: spanish
+    stems:
+    - prodigar
+    uuid: 2b7ef207-ad97-4a3d-97bc-36fbed25da66
+  shortdef:
+  - to lavish, to be generous with
+  suppl:
+    cjts:
+    - cjfs:
+      - prodigando
+      - prodigado
+      cjid: gppt
+    - cjfs:
+      - prodigo
+      - prodigas
+      - prodiga
+      - prodigamos
+      - "prodig\xE1is"
+      - prodigan
+      cjid: pind
+    - cjfs:
+      - prodigaba
+      - prodigabas
+      - prodigaba
+      - "prodig\xE1bamos"
+      - prodigabais
+      - prodigaban
+      cjid: pret
+    - cjfs:
+      - "prodigu\xE9"
+      - prodigaste
+      - "prodig\xF3"
+      - prodigamos
+      - prodigasteis
+      - prodigaron
+      cjid: pprf
+    - cjfs:
+      - "prodigar\xE9"
+      - "prodigar\xE1s"
+      - "prodigar\xE1"
+      - prodigaremos
+      - "prodigar\xE9is"
+      - "prodigar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prodigar\xEDa"
+      - "prodigar\xEDas"
+      - "prodigar\xEDa"
+      - "prodigar\xEDamos"
+      - "prodigar\xEDais"
+      - "prodigar\xEDan"
+      cjid: cond
+    - cjfs:
+      - prodigue
+      - prodigues
+      - prodigue
+      - prodiguemos
+      - "prodigu\xE9is"
+      - prodiguen
+      cjid: psub
+    - cjfs:
+      - prodigara
+      - prodigaras
+      - prodigara
+      - "prodig\xE1ramos"
+      - prodigarais
+      - prodigaran
+      cjid: pisb1
+    - cjfs:
+      - prodigase
+      - prodigases
+      - prodigase
+      - "prodig\xE1semos"
+      - prodigaseis
+      - prodigasen
+      cjid: pisb2
+    - cjfs:
+      - prodigare
+      - prodigares
+      - prodigare
+      - "prodig\xE1remos"
+      - prodigareis
+      - prodigaren
+      cjid: fsub
+    - cjfs:
+      - he prodigado
+      - has prodigado
+      - ha prodigado
+      - hemos prodigado
+      - "hab\xE9is prodigado"
+      - han prodigado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prodigado"
+      - "hab\xEDas prodigado"
+      - "hab\xEDa prodigado"
+      - "hab\xEDamos prodigado"
+      - "hab\xEDais prodigado"
+      - "hab\xEDan prodigado"
+      cjid: ppsi
+    - cjfs:
+      - hube prodigado
+      - hubiste prodigado
+      - hubo prodigado
+      - hubimos prodigado
+      - hubisteis prodigado
+      - hubieron prodigado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prodigado"
+      - "habr\xE1s prodigado"
+      - "habr\xE1 prodigado"
+      - habremos prodigado
+      - "habr\xE9is prodigado"
+      - "habr\xE1n prodigado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prodigado"
+      - "habr\xEDas prodigado"
+      - "habr\xEDa prodigado"
+      - "habr\xEDamos prodigado"
+      - "habr\xEDais prodigado"
+      - "habr\xEDan prodigado"
+      cjid: cpef
+    - cjfs:
+      - haya prodigado
+      - hayas prodigado
+      - haya prodigado
+      - hayamos prodigado
+      - "hay\xE1is prodigado"
+      - hayan prodigado
+      cjid: ppfs
+    - cjfs:
+      - hubiera prodigado
+      - hubieras prodigado
+      - hubiera prodigado
+      - "hubi\xE9ramos prodigado"
+      - hubierais prodigado
+      - hubieran prodigado
+      cjid: ppss1
+    - cjfs:
+      - hubiese prodigado
+      - hubieses prodigado
+      - hubiese prodigado
+      - "hubi\xE9semos prodigado"
+      - hubieseis prodigado
+      - hubiesen prodigado
+      cjid: ppss2
+    - cjfs:
+      - hubiere prodigado
+      - hubieres prodigado
+      - hubiere prodigado
+      - "hubi\xE9remos prodigado"
+      - hubiereis prodigado
+      - hubieren prodigado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prodiga
+      - prodigue
+      - prodiguemos
+      - prodigad
+      - prodiguen
+      cjid: impf

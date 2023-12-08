@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rape}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|violate} (a law or right)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|profanar||} {bc}to {a_link|desecrate}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: violar
+    prs:
+    - sound:
+        audio: viola03sp
+  meta:
+    id: violar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623057000'
+    src: spanish
+    stems:
+    - violar
+    uuid: 244c7a83-d292-45dd-98d7-9d92a7cd82f6
+  shortdef:
+  - to rape
+  - to violate (a law or right)
+  - 'profanar : to desecrate'
+  suppl:
+    cjts:
+    - cjfs:
+      - violando
+      - violado
+      cjid: gppt
+    - cjfs:
+      - violo
+      - violas
+      - viola
+      - violamos
+      - "viol\xE1is"
+      - violan
+      cjid: pind
+    - cjfs:
+      - violaba
+      - violabas
+      - violaba
+      - "viol\xE1bamos"
+      - violabais
+      - violaban
+      cjid: pret
+    - cjfs:
+      - "viol\xE9"
+      - violaste
+      - "viol\xF3"
+      - violamos
+      - violasteis
+      - violaron
+      cjid: pprf
+    - cjfs:
+      - "violar\xE9"
+      - "violar\xE1s"
+      - "violar\xE1"
+      - violaremos
+      - "violar\xE9is"
+      - "violar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "violar\xEDa"
+      - "violar\xEDas"
+      - "violar\xEDa"
+      - "violar\xEDamos"
+      - "violar\xEDais"
+      - "violar\xEDan"
+      cjid: cond
+    - cjfs:
+      - viole
+      - violes
+      - viole
+      - violemos
+      - "viol\xE9is"
+      - violen
+      cjid: psub
+    - cjfs:
+      - violara
+      - violaras
+      - violara
+      - "viol\xE1ramos"
+      - violarais
+      - violaran
+      cjid: pisb1
+    - cjfs:
+      - violase
+      - violases
+      - violase
+      - "viol\xE1semos"
+      - violaseis
+      - violasen
+      cjid: pisb2
+    - cjfs:
+      - violare
+      - violares
+      - violare
+      - "viol\xE1remos"
+      - violareis
+      - violaren
+      cjid: fsub
+    - cjfs:
+      - he violado
+      - has violado
+      - ha violado
+      - hemos violado
+      - "hab\xE9is violado"
+      - han violado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa violado"
+      - "hab\xEDas violado"
+      - "hab\xEDa violado"
+      - "hab\xEDamos violado"
+      - "hab\xEDais violado"
+      - "hab\xEDan violado"
+      cjid: ppsi
+    - cjfs:
+      - hube violado
+      - hubiste violado
+      - hubo violado
+      - hubimos violado
+      - hubisteis violado
+      - hubieron violado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 violado"
+      - "habr\xE1s violado"
+      - "habr\xE1 violado"
+      - habremos violado
+      - "habr\xE9is violado"
+      - "habr\xE1n violado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa violado"
+      - "habr\xEDas violado"
+      - "habr\xEDa violado"
+      - "habr\xEDamos violado"
+      - "habr\xEDais violado"
+      - "habr\xEDan violado"
+      cjid: cpef
+    - cjfs:
+      - haya violado
+      - hayas violado
+      - haya violado
+      - hayamos violado
+      - "hay\xE1is violado"
+      - hayan violado
+      cjid: ppfs
+    - cjfs:
+      - hubiera violado
+      - hubieras violado
+      - hubiera violado
+      - "hubi\xE9ramos violado"
+      - hubierais violado
+      - hubieran violado
+      cjid: ppss1
+    - cjfs:
+      - hubiese violado
+      - hubieses violado
+      - hubiese violado
+      - "hubi\xE9semos violado"
+      - hubieseis violado
+      - hubiesen violado
+      cjid: ppss2
+    - cjfs:
+      - hubiere violado
+      - hubieres violado
+      - hubiere violado
+      - "hubi\xE9remos violado"
+      - hubiereis violado
+      - hubieren violado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - viola
+      - viole
+      - violemos
+      - violad
+      - violen
+      cjid: impf

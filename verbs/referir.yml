@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|relate}, to {a_link|tell}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|refer} '
+          - - vis
+            - - t: "nos refiri\xF3 al diccionario"
+                tr: she referred us to the dictionary
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sen
+          - vrs:
+            - va: referirse a
+              vac: ~ a
+        - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|refer to}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be concerned, to be in reference to '
+            - - vis
+              - - t: "en lo que se refiere a la educaci\xF3n"
+                  tr: as far as education is concerned
+            sn: '2'
+    drp: referirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: referir
+    prs:
+    - sound:
+        audio: refer03sp
+  meta:
+    id: referir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619131000'
+    src: spanish
+    stems:
+    - referir
+    - referirse
+    - referirse a
+    uuid: ea929319-d94e-4085-861d-33185e61f0d8
+  shortdef:
+  - to relate, to tell
+  - to refer
+  suppl:
+    cjts:
+    - cjfs:
+      - refiriendo
+      - referido
+      cjid: gppt
+    - cjfs:
+      - refiero
+      - refieres
+      - refiere
+      - referimos
+      - "refer\xEDs"
+      - refieren
+      cjid: pind
+    - cjfs:
+      - "refer\xEDa"
+      - "refer\xEDas"
+      - "refer\xEDa"
+      - "refer\xEDamos"
+      - "refer\xEDais"
+      - "refer\xEDan"
+      cjid: pret
+    - cjfs:
+      - "refer\xED"
+      - referiste
+      - "refiri\xF3"
+      - referimos
+      - referisteis
+      - refirieron
+      cjid: pprf
+    - cjfs:
+      - "referir\xE9"
+      - "referir\xE1s"
+      - "referir\xE1"
+      - referiremos
+      - "referir\xE9is"
+      - "referir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "referir\xEDa"
+      - "referir\xEDas"
+      - "referir\xEDa"
+      - "referir\xEDamos"
+      - "referir\xEDais"
+      - "referir\xEDan"
+      cjid: cond
+    - cjfs:
+      - refiera
+      - refieras
+      - refiera
+      - refiramos
+      - "refir\xE1is"
+      - refieran
+      cjid: psub
+    - cjfs:
+      - refiriera
+      - refirieras
+      - refiriera
+      - "refiri\xE9ramos"
+      - refirierais
+      - refirieran
+      cjid: pisb1
+    - cjfs:
+      - refiriese
+      - refirieses
+      - refiriese
+      - "refiri\xE9semos"
+      - refirieseis
+      - refiriesen
+      cjid: pisb2
+    - cjfs:
+      - refiriere
+      - refirieres
+      - refiriere
+      - "refiri\xE9remos"
+      - refiriereis
+      - refirieren
+      cjid: fsub
+    - cjfs:
+      - he referido
+      - has referido
+      - ha referido
+      - hemos referido
+      - "hab\xE9is referido"
+      - han referido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa referido"
+      - "hab\xEDas referido"
+      - "hab\xEDa referido"
+      - "hab\xEDamos referido"
+      - "hab\xEDais referido"
+      - "hab\xEDan referido"
+      cjid: ppsi
+    - cjfs:
+      - hube referido
+      - hubiste referido
+      - hubo referido
+      - hubimos referido
+      - hubisteis referido
+      - hubieron referido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 referido"
+      - "habr\xE1s referido"
+      - "habr\xE1 referido"
+      - habremos referido
+      - "habr\xE9is referido"
+      - "habr\xE1n referido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa referido"
+      - "habr\xEDas referido"
+      - "habr\xEDa referido"
+      - "habr\xEDamos referido"
+      - "habr\xEDais referido"
+      - "habr\xEDan referido"
+      cjid: cpef
+    - cjfs:
+      - haya referido
+      - hayas referido
+      - haya referido
+      - hayamos referido
+      - "hay\xE1is referido"
+      - hayan referido
+      cjid: ppfs
+    - cjfs:
+      - hubiera referido
+      - hubieras referido
+      - hubiera referido
+      - "hubi\xE9ramos referido"
+      - hubierais referido
+      - hubieran referido
+      cjid: ppss1
+    - cjfs:
+      - hubiese referido
+      - hubieses referido
+      - hubiese referido
+      - "hubi\xE9semos referido"
+      - hubieseis referido
+      - hubiesen referido
+      cjid: ppss2
+    - cjfs:
+      - hubiere referido
+      - hubieres referido
+      - hubiere referido
+      - "hubi\xE9remos referido"
+      - hubiereis referido
+      - hubieren referido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - refiere
+      - refiera
+      - refiramos
+      - referid
+      - refieran
+      cjid: impf

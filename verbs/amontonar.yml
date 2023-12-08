@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apilar||} {bc}to {a_link|pile up}, to heap up'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|collect}, to {a_link|gather}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hoard}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: amontonar
+  meta:
+    id: amontonar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601269000'
+    src: spanish
+    stems:
+    - amontonar
+    - amontonarse
+    uuid: 482a4e58-69da-4ced-84fb-c558e63ced82
+  shortdef:
+  - 'apilar : to pile up, to heap up'
+  - to collect, to gather
+  - to hoard
+  suppl:
+    cjts:
+    - cjfs:
+      - amontonando
+      - amontonado
+      cjid: gppt
+    - cjfs:
+      - amontono
+      - amontonas
+      - amontona
+      - amontonamos
+      - "amonton\xE1is"
+      - amontonan
+      cjid: pind
+    - cjfs:
+      - amontonaba
+      - amontonabas
+      - amontonaba
+      - "amonton\xE1bamos"
+      - amontonabais
+      - amontonaban
+      cjid: pret
+    - cjfs:
+      - "amonton\xE9"
+      - amontonaste
+      - "amonton\xF3"
+      - amontonamos
+      - amontonasteis
+      - amontonaron
+      cjid: pprf
+    - cjfs:
+      - "amontonar\xE9"
+      - "amontonar\xE1s"
+      - "amontonar\xE1"
+      - amontonaremos
+      - "amontonar\xE9is"
+      - "amontonar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amontonar\xEDa"
+      - "amontonar\xEDas"
+      - "amontonar\xEDa"
+      - "amontonar\xEDamos"
+      - "amontonar\xEDais"
+      - "amontonar\xEDan"
+      cjid: cond
+    - cjfs:
+      - amontone
+      - amontones
+      - amontone
+      - amontonemos
+      - "amonton\xE9is"
+      - amontonen
+      cjid: psub
+    - cjfs:
+      - amontonara
+      - amontonaras
+      - amontonara
+      - "amonton\xE1ramos"
+      - amontonarais
+      - amontonaran
+      cjid: pisb1
+    - cjfs:
+      - amontonase
+      - amontonases
+      - amontonase
+      - "amonton\xE1semos"
+      - amontonaseis
+      - amontonasen
+      cjid: pisb2
+    - cjfs:
+      - amontonare
+      - amontonares
+      - amontonare
+      - "amonton\xE1remos"
+      - amontonareis
+      - amontonaren
+      cjid: fsub
+    - cjfs:
+      - he amontonado
+      - has amontonado
+      - ha amontonado
+      - hemos amontonado
+      - "hab\xE9is amontonado"
+      - han amontonado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amontonado"
+      - "hab\xEDas amontonado"
+      - "hab\xEDa amontonado"
+      - "hab\xEDamos amontonado"
+      - "hab\xEDais amontonado"
+      - "hab\xEDan amontonado"
+      cjid: ppsi
+    - cjfs:
+      - hube amontonado
+      - hubiste amontonado
+      - hubo amontonado
+      - hubimos amontonado
+      - hubisteis amontonado
+      - hubieron amontonado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amontonado"
+      - "habr\xE1s amontonado"
+      - "habr\xE1 amontonado"
+      - habremos amontonado
+      - "habr\xE9is amontonado"
+      - "habr\xE1n amontonado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amontonado"
+      - "habr\xEDas amontonado"
+      - "habr\xEDa amontonado"
+      - "habr\xEDamos amontonado"
+      - "habr\xEDais amontonado"
+      - "habr\xEDan amontonado"
+      cjid: cpef
+    - cjfs:
+      - haya amontonado
+      - hayas amontonado
+      - haya amontonado
+      - hayamos amontonado
+      - "hay\xE1is amontonado"
+      - hayan amontonado
+      cjid: ppfs
+    - cjfs:
+      - hubiera amontonado
+      - hubieras amontonado
+      - hubiera amontonado
+      - "hubi\xE9ramos amontonado"
+      - hubierais amontonado
+      - hubieran amontonado
+      cjid: ppss1
+    - cjfs:
+      - hubiese amontonado
+      - hubieses amontonado
+      - hubiese amontonado
+      - "hubi\xE9semos amontonado"
+      - hubieseis amontonado
+      - hubiesen amontonado
+      cjid: ppss2
+    - cjfs:
+      - hubiere amontonado
+      - hubieres amontonado
+      - hubiere amontonado
+      - "hubi\xE9remos amontonado"
+      - hubiereis amontonado
+      - hubieren amontonado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - amontona
+      - amontone
+      - amontonemos
+      - amontonad
+      - amontonen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: amontonarse

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disturb}, to {a_link|disrupt}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|worry}, to {a_link|upset}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confuse}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: turbar
+  meta:
+    id: turbar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622458000'
+    src: spanish
+    stems:
+    - turbar
+    uuid: 1fcbc33f-1b7b-4716-b97e-dd8f8c6c38bc
+  shortdef:
+  - to disturb, to disrupt
+  - to worry, to upset
+  - to confuse
+  suppl:
+    cjts:
+    - cjfs:
+      - turbando
+      - turbado
+      cjid: gppt
+    - cjfs:
+      - turbo
+      - turbas
+      - turba
+      - turbamos
+      - "turb\xE1is"
+      - turban
+      cjid: pind
+    - cjfs:
+      - turbaba
+      - turbabas
+      - turbaba
+      - "turb\xE1bamos"
+      - turbabais
+      - turbaban
+      cjid: pret
+    - cjfs:
+      - "turb\xE9"
+      - turbaste
+      - "turb\xF3"
+      - turbamos
+      - turbasteis
+      - turbaron
+      cjid: pprf
+    - cjfs:
+      - "turbar\xE9"
+      - "turbar\xE1s"
+      - "turbar\xE1"
+      - turbaremos
+      - "turbar\xE9is"
+      - "turbar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "turbar\xEDa"
+      - "turbar\xEDas"
+      - "turbar\xEDa"
+      - "turbar\xEDamos"
+      - "turbar\xEDais"
+      - "turbar\xEDan"
+      cjid: cond
+    - cjfs:
+      - turbe
+      - turbes
+      - turbe
+      - turbemos
+      - "turb\xE9is"
+      - turben
+      cjid: psub
+    - cjfs:
+      - turbara
+      - turbaras
+      - turbara
+      - "turb\xE1ramos"
+      - turbarais
+      - turbaran
+      cjid: pisb1
+    - cjfs:
+      - turbase
+      - turbases
+      - turbase
+      - "turb\xE1semos"
+      - turbaseis
+      - turbasen
+      cjid: pisb2
+    - cjfs:
+      - turbare
+      - turbares
+      - turbare
+      - "turb\xE1remos"
+      - turbareis
+      - turbaren
+      cjid: fsub
+    - cjfs:
+      - he turbado
+      - has turbado
+      - ha turbado
+      - hemos turbado
+      - "hab\xE9is turbado"
+      - han turbado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa turbado"
+      - "hab\xEDas turbado"
+      - "hab\xEDa turbado"
+      - "hab\xEDamos turbado"
+      - "hab\xEDais turbado"
+      - "hab\xEDan turbado"
+      cjid: ppsi
+    - cjfs:
+      - hube turbado
+      - hubiste turbado
+      - hubo turbado
+      - hubimos turbado
+      - hubisteis turbado
+      - hubieron turbado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 turbado"
+      - "habr\xE1s turbado"
+      - "habr\xE1 turbado"
+      - habremos turbado
+      - "habr\xE9is turbado"
+      - "habr\xE1n turbado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa turbado"
+      - "habr\xEDas turbado"
+      - "habr\xEDa turbado"
+      - "habr\xEDamos turbado"
+      - "habr\xEDais turbado"
+      - "habr\xEDan turbado"
+      cjid: cpef
+    - cjfs:
+      - haya turbado
+      - hayas turbado
+      - haya turbado
+      - hayamos turbado
+      - "hay\xE1is turbado"
+      - hayan turbado
+      cjid: ppfs
+    - cjfs:
+      - hubiera turbado
+      - hubieras turbado
+      - hubiera turbado
+      - "hubi\xE9ramos turbado"
+      - hubierais turbado
+      - hubieran turbado
+      cjid: ppss1
+    - cjfs:
+      - hubiese turbado
+      - hubieses turbado
+      - hubiese turbado
+      - "hubi\xE9semos turbado"
+      - hubieseis turbado
+      - hubiesen turbado
+      cjid: ppss2
+    - cjfs:
+      - hubiere turbado
+      - hubieres turbado
+      - hubiere turbado
+      - "hubi\xE9remos turbado"
+      - hubiereis turbado
+      - hubieren turbado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - turba
+      - turbe
+      - turbemos
+      - turbad
+      - turben
+      cjid: impf

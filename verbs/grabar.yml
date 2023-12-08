@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|engrave}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|record}, to {a_link|tape}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|etch}'
+          vrs:
+          - va: grabar al aguafuerte
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become engraved on someone''s mind'
+            vrs:
+            - va: "grab\xE1rsele a alguien en la memoria"
+    drp: grabarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: grabar
+    prs:
+    - sound:
+        audio: graba04sp
+  meta:
+    id: grabar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610965000'
+    src: spanish
+    stems:
+    - grabar
+    - grabar al aguafuerte
+    - grabarse
+    - "grab\xE1rsele a alguien en la memoria"
+    uuid: 18139abf-d638-41e7-9abb-0a4ebe2e1178
+  shortdef:
+  - to engrave
+  - to record, to tape
+  - to etch
+  suppl:
+    cjts:
+    - cjfs:
+      - grabando
+      - grabado
+      cjid: gppt
+    - cjfs:
+      - grabo
+      - grabas
+      - graba
+      - grabamos
+      - "grab\xE1is"
+      - graban
+      cjid: pind
+    - cjfs:
+      - grababa
+      - grababas
+      - grababa
+      - "grab\xE1bamos"
+      - grababais
+      - grababan
+      cjid: pret
+    - cjfs:
+      - "grab\xE9"
+      - grabaste
+      - "grab\xF3"
+      - grabamos
+      - grabasteis
+      - grabaron
+      cjid: pprf
+    - cjfs:
+      - "grabar\xE9"
+      - "grabar\xE1s"
+      - "grabar\xE1"
+      - grabaremos
+      - "grabar\xE9is"
+      - "grabar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "grabar\xEDa"
+      - "grabar\xEDas"
+      - "grabar\xEDa"
+      - "grabar\xEDamos"
+      - "grabar\xEDais"
+      - "grabar\xEDan"
+      cjid: cond
+    - cjfs:
+      - grabe
+      - grabes
+      - grabe
+      - grabemos
+      - "grab\xE9is"
+      - graben
+      cjid: psub
+    - cjfs:
+      - grabara
+      - grabaras
+      - grabara
+      - "grab\xE1ramos"
+      - grabarais
+      - grabaran
+      cjid: pisb1
+    - cjfs:
+      - grabase
+      - grabases
+      - grabase
+      - "grab\xE1semos"
+      - grabaseis
+      - grabasen
+      cjid: pisb2
+    - cjfs:
+      - grabare
+      - grabares
+      - grabare
+      - "grab\xE1remos"
+      - grabareis
+      - grabaren
+      cjid: fsub
+    - cjfs:
+      - he grabado
+      - has grabado
+      - ha grabado
+      - hemos grabado
+      - "hab\xE9is grabado"
+      - han grabado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa grabado"
+      - "hab\xEDas grabado"
+      - "hab\xEDa grabado"
+      - "hab\xEDamos grabado"
+      - "hab\xEDais grabado"
+      - "hab\xEDan grabado"
+      cjid: ppsi
+    - cjfs:
+      - hube grabado
+      - hubiste grabado
+      - hubo grabado
+      - hubimos grabado
+      - hubisteis grabado
+      - hubieron grabado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 grabado"
+      - "habr\xE1s grabado"
+      - "habr\xE1 grabado"
+      - habremos grabado
+      - "habr\xE9is grabado"
+      - "habr\xE1n grabado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa grabado"
+      - "habr\xEDas grabado"
+      - "habr\xEDa grabado"
+      - "habr\xEDamos grabado"
+      - "habr\xEDais grabado"
+      - "habr\xEDan grabado"
+      cjid: cpef
+    - cjfs:
+      - haya grabado
+      - hayas grabado
+      - haya grabado
+      - hayamos grabado
+      - "hay\xE1is grabado"
+      - hayan grabado
+      cjid: ppfs
+    - cjfs:
+      - hubiera grabado
+      - hubieras grabado
+      - hubiera grabado
+      - "hubi\xE9ramos grabado"
+      - hubierais grabado
+      - hubieran grabado
+      cjid: ppss1
+    - cjfs:
+      - hubiese grabado
+      - hubieses grabado
+      - hubiese grabado
+      - "hubi\xE9semos grabado"
+      - hubieseis grabado
+      - hubiesen grabado
+      cjid: ppss2
+    - cjfs:
+      - hubiere grabado
+      - hubieres grabado
+      - hubiere grabado
+      - "hubi\xE9remos grabado"
+      - hubiereis grabado
+      - hubieren grabado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - graba
+      - grabe
+      - grabemos
+      - grabad
+      - graben
+      cjid: impf

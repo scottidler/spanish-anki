@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to rein in (a horse)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|restrain}, to {a_link|check}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|restrain oneself}'
+    drp: refrenarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: refrenar
+    prs:
+    - sound:
+        audio: refre01sp
+  meta:
+    id: refrenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619157000'
+    src: spanish
+    stems:
+    - refrenar
+    - refrenarse
+    uuid: 8e07979d-927f-4a19-8215-c4e786357bc3
+  shortdef:
+  - to rein in (a horse)
+  - to restrain, to check
+  suppl:
+    cjts:
+    - cjfs:
+      - refrenando
+      - refrenado
+      cjid: gppt
+    - cjfs:
+      - refreno
+      - refrenas
+      - refrena
+      - refrenamos
+      - "refren\xE1is"
+      - refrenan
+      cjid: pind
+    - cjfs:
+      - refrenaba
+      - refrenabas
+      - refrenaba
+      - "refren\xE1bamos"
+      - refrenabais
+      - refrenaban
+      cjid: pret
+    - cjfs:
+      - "refren\xE9"
+      - refrenaste
+      - "refren\xF3"
+      - refrenamos
+      - refrenasteis
+      - refrenaron
+      cjid: pprf
+    - cjfs:
+      - "refrenar\xE9"
+      - "refrenar\xE1s"
+      - "refrenar\xE1"
+      - refrenaremos
+      - "refrenar\xE9is"
+      - "refrenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "refrenar\xEDa"
+      - "refrenar\xEDas"
+      - "refrenar\xEDa"
+      - "refrenar\xEDamos"
+      - "refrenar\xEDais"
+      - "refrenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - refrene
+      - refrenes
+      - refrene
+      - refrenemos
+      - "refren\xE9is"
+      - refrenen
+      cjid: psub
+    - cjfs:
+      - refrenara
+      - refrenaras
+      - refrenara
+      - "refren\xE1ramos"
+      - refrenarais
+      - refrenaran
+      cjid: pisb1
+    - cjfs:
+      - refrenase
+      - refrenases
+      - refrenase
+      - "refren\xE1semos"
+      - refrenaseis
+      - refrenasen
+      cjid: pisb2
+    - cjfs:
+      - refrenare
+      - refrenares
+      - refrenare
+      - "refren\xE1remos"
+      - refrenareis
+      - refrenaren
+      cjid: fsub
+    - cjfs:
+      - he refrenado
+      - has refrenado
+      - ha refrenado
+      - hemos refrenado
+      - "hab\xE9is refrenado"
+      - han refrenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa refrenado"
+      - "hab\xEDas refrenado"
+      - "hab\xEDa refrenado"
+      - "hab\xEDamos refrenado"
+      - "hab\xEDais refrenado"
+      - "hab\xEDan refrenado"
+      cjid: ppsi
+    - cjfs:
+      - hube refrenado
+      - hubiste refrenado
+      - hubo refrenado
+      - hubimos refrenado
+      - hubisteis refrenado
+      - hubieron refrenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 refrenado"
+      - "habr\xE1s refrenado"
+      - "habr\xE1 refrenado"
+      - habremos refrenado
+      - "habr\xE9is refrenado"
+      - "habr\xE1n refrenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa refrenado"
+      - "habr\xEDas refrenado"
+      - "habr\xEDa refrenado"
+      - "habr\xEDamos refrenado"
+      - "habr\xEDais refrenado"
+      - "habr\xEDan refrenado"
+      cjid: cpef
+    - cjfs:
+      - haya refrenado
+      - hayas refrenado
+      - haya refrenado
+      - hayamos refrenado
+      - "hay\xE1is refrenado"
+      - hayan refrenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera refrenado
+      - hubieras refrenado
+      - hubiera refrenado
+      - "hubi\xE9ramos refrenado"
+      - hubierais refrenado
+      - hubieran refrenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese refrenado
+      - hubieses refrenado
+      - hubiese refrenado
+      - "hubi\xE9semos refrenado"
+      - hubieseis refrenado
+      - hubiesen refrenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere refrenado
+      - hubieres refrenado
+      - hubiere refrenado
+      - "hubi\xE9remos refrenado"
+      - hubiereis refrenado
+      - hubieren refrenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - refrena
+      - refrene
+      - refrenemos
+      - refrenad
+      - refrenen
+      cjid: impf

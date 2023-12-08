@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drip}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leak}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|lloviznar||} {bc}to {a_link|drizzle}'
+    vd: impersonal verb
+  fl: verb
+  hwi:
+    hw: gotear
+  meta:
+    id: gotear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610950000'
+    src: spanish
+    stems:
+    - gotear
+    uuid: 7d326a02-4bbc-4fac-a859-74bde3935094
+  shortdef:
+  - to drip
+  - to leak
+  - 'lloviznar : to drizzle'
+  suppl:
+    cjts:
+    - cjfs:
+      - goteando
+      - goteado
+      cjid: gppt
+    - cjfs:
+      - goteo
+      - goteas
+      - gotea
+      - goteamos
+      - "gote\xE1is"
+      - gotean
+      cjid: pind
+    - cjfs:
+      - goteaba
+      - goteabas
+      - goteaba
+      - "gote\xE1bamos"
+      - goteabais
+      - goteaban
+      cjid: pret
+    - cjfs:
+      - "gote\xE9"
+      - goteaste
+      - "gote\xF3"
+      - goteamos
+      - goteasteis
+      - gotearon
+      cjid: pprf
+    - cjfs:
+      - "gotear\xE9"
+      - "gotear\xE1s"
+      - "gotear\xE1"
+      - gotearemos
+      - "gotear\xE9is"
+      - "gotear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gotear\xEDa"
+      - "gotear\xEDas"
+      - "gotear\xEDa"
+      - "gotear\xEDamos"
+      - "gotear\xEDais"
+      - "gotear\xEDan"
+      cjid: cond
+    - cjfs:
+      - gotee
+      - gotees
+      - gotee
+      - goteemos
+      - "gote\xE9is"
+      - goteen
+      cjid: psub
+    - cjfs:
+      - goteara
+      - gotearas
+      - goteara
+      - "gote\xE1ramos"
+      - gotearais
+      - gotearan
+      cjid: pisb1
+    - cjfs:
+      - gotease
+      - goteases
+      - gotease
+      - "gote\xE1semos"
+      - goteaseis
+      - goteasen
+      cjid: pisb2
+    - cjfs:
+      - goteare
+      - goteares
+      - goteare
+      - "gote\xE1remos"
+      - goteareis
+      - gotearen
+      cjid: fsub
+    - cjfs:
+      - he goteado
+      - has goteado
+      - ha goteado
+      - hemos goteado
+      - "hab\xE9is goteado"
+      - han goteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa goteado"
+      - "hab\xEDas goteado"
+      - "hab\xEDa goteado"
+      - "hab\xEDamos goteado"
+      - "hab\xEDais goteado"
+      - "hab\xEDan goteado"
+      cjid: ppsi
+    - cjfs:
+      - hube goteado
+      - hubiste goteado
+      - hubo goteado
+      - hubimos goteado
+      - hubisteis goteado
+      - hubieron goteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 goteado"
+      - "habr\xE1s goteado"
+      - "habr\xE1 goteado"
+      - habremos goteado
+      - "habr\xE9is goteado"
+      - "habr\xE1n goteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa goteado"
+      - "habr\xEDas goteado"
+      - "habr\xEDa goteado"
+      - "habr\xEDamos goteado"
+      - "habr\xEDais goteado"
+      - "habr\xEDan goteado"
+      cjid: cpef
+    - cjfs:
+      - haya goteado
+      - hayas goteado
+      - haya goteado
+      - hayamos goteado
+      - "hay\xE1is goteado"
+      - hayan goteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera goteado
+      - hubieras goteado
+      - hubiera goteado
+      - "hubi\xE9ramos goteado"
+      - hubierais goteado
+      - hubieran goteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese goteado
+      - hubieses goteado
+      - hubiese goteado
+      - "hubi\xE9semos goteado"
+      - hubieseis goteado
+      - hubiesen goteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere goteado
+      - hubieres goteado
+      - hubiere goteado
+      - "hubi\xE9remos goteado"
+      - hubiereis goteado
+      - hubieren goteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gotea
+      - gotee
+      - goteemos
+      - gotead
+      - goteen
+      cjid: impf

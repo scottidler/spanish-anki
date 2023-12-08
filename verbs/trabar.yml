@@ -1,0 +1,221 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|join}, to {a_link|connect}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|impede}, to {a_link|hold back}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|strike up} (a conversation), to {a_link|form} (a friendship)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|thicken} (sauces)'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|jam}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become entangled'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be tongue-tied, to {a_link|stammer}'
+            sn: '3'
+    drp: trabarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: trabar
+    prs:
+    - sound:
+        audio: traba07sp
+  meta:
+    id: trabar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622063000'
+    src: spanish
+    stems:
+    - trabar
+    - trabarse
+    uuid: 42c5d008-c6ce-42be-803e-c88fd79dfc53
+  shortdef:
+  - to join, to connect
+  - to impede, to hold back
+  - to strike up (a conversation), to form (a friendship)
+  suppl:
+    cjts:
+    - cjfs:
+      - trabando
+      - trabado
+      cjid: gppt
+    - cjfs:
+      - trabo
+      - trabas
+      - traba
+      - trabamos
+      - "trab\xE1is"
+      - traban
+      cjid: pind
+    - cjfs:
+      - trababa
+      - trababas
+      - trababa
+      - "trab\xE1bamos"
+      - trababais
+      - trababan
+      cjid: pret
+    - cjfs:
+      - "trab\xE9"
+      - trabaste
+      - "trab\xF3"
+      - trabamos
+      - trabasteis
+      - trabaron
+      cjid: pprf
+    - cjfs:
+      - "trabar\xE9"
+      - "trabar\xE1s"
+      - "trabar\xE1"
+      - trabaremos
+      - "trabar\xE9is"
+      - "trabar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "trabar\xEDa"
+      - "trabar\xEDas"
+      - "trabar\xEDa"
+      - "trabar\xEDamos"
+      - "trabar\xEDais"
+      - "trabar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trabe
+      - trabes
+      - trabe
+      - trabemos
+      - "trab\xE9is"
+      - traben
+      cjid: psub
+    - cjfs:
+      - trabara
+      - trabaras
+      - trabara
+      - "trab\xE1ramos"
+      - trabarais
+      - trabaran
+      cjid: pisb1
+    - cjfs:
+      - trabase
+      - trabases
+      - trabase
+      - "trab\xE1semos"
+      - trabaseis
+      - trabasen
+      cjid: pisb2
+    - cjfs:
+      - trabare
+      - trabares
+      - trabare
+      - "trab\xE1remos"
+      - trabareis
+      - trabaren
+      cjid: fsub
+    - cjfs:
+      - he trabado
+      - has trabado
+      - ha trabado
+      - hemos trabado
+      - "hab\xE9is trabado"
+      - han trabado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa trabado"
+      - "hab\xEDas trabado"
+      - "hab\xEDa trabado"
+      - "hab\xEDamos trabado"
+      - "hab\xEDais trabado"
+      - "hab\xEDan trabado"
+      cjid: ppsi
+    - cjfs:
+      - hube trabado
+      - hubiste trabado
+      - hubo trabado
+      - hubimos trabado
+      - hubisteis trabado
+      - hubieron trabado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 trabado"
+      - "habr\xE1s trabado"
+      - "habr\xE1 trabado"
+      - habremos trabado
+      - "habr\xE9is trabado"
+      - "habr\xE1n trabado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa trabado"
+      - "habr\xEDas trabado"
+      - "habr\xEDa trabado"
+      - "habr\xEDamos trabado"
+      - "habr\xEDais trabado"
+      - "habr\xEDan trabado"
+      cjid: cpef
+    - cjfs:
+      - haya trabado
+      - hayas trabado
+      - haya trabado
+      - hayamos trabado
+      - "hay\xE1is trabado"
+      - hayan trabado
+      cjid: ppfs
+    - cjfs:
+      - hubiera trabado
+      - hubieras trabado
+      - hubiera trabado
+      - "hubi\xE9ramos trabado"
+      - hubierais trabado
+      - hubieran trabado
+      cjid: ppss1
+    - cjfs:
+      - hubiese trabado
+      - hubieses trabado
+      - hubiese trabado
+      - "hubi\xE9semos trabado"
+      - hubieseis trabado
+      - hubiesen trabado
+      cjid: ppss2
+    - cjfs:
+      - hubiere trabado
+      - hubieres trabado
+      - hubiere trabado
+      - "hubi\xE9remos trabado"
+      - hubiereis trabado
+      - hubieren trabado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - traba
+      - trabe
+      - trabemos
+      - trabad
+      - traben
+      cjid: impf

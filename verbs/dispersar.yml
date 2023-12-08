@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desperdigar||} {bc}to {a_link|disperse}, to {a_link|scatter}'
+  fl: transitive verb
+  hwi:
+    hw: dispersar
+  meta:
+    id: dispersar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607740000'
+    src: spanish
+    stems:
+    - dispersar
+    uuid: cbb18c40-83d7-4e52-962d-df1dd405e9b2
+  shortdef:
+  - 'desperdigar : to disperse, to scatter'
+  suppl:
+    cjts:
+    - cjfs:
+      - dispersando
+      - dispersado
+      cjid: gppt
+    - cjfs:
+      - disperso
+      - dispersas
+      - dispersa
+      - dispersamos
+      - "dispers\xE1is"
+      - dispersan
+      cjid: pind
+    - cjfs:
+      - dispersaba
+      - dispersabas
+      - dispersaba
+      - "dispers\xE1bamos"
+      - dispersabais
+      - dispersaban
+      cjid: pret
+    - cjfs:
+      - "dispers\xE9"
+      - dispersaste
+      - "dispers\xF3"
+      - dispersamos
+      - dispersasteis
+      - dispersaron
+      cjid: pprf
+    - cjfs:
+      - "dispersar\xE9"
+      - "dispersar\xE1s"
+      - "dispersar\xE1"
+      - dispersaremos
+      - "dispersar\xE9is"
+      - "dispersar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dispersar\xEDa"
+      - "dispersar\xEDas"
+      - "dispersar\xEDa"
+      - "dispersar\xEDamos"
+      - "dispersar\xEDais"
+      - "dispersar\xEDan"
+      cjid: cond
+    - cjfs:
+      - disperse
+      - disperses
+      - disperse
+      - dispersemos
+      - "dispers\xE9is"
+      - dispersen
+      cjid: psub
+    - cjfs:
+      - dispersara
+      - dispersaras
+      - dispersara
+      - "dispers\xE1ramos"
+      - dispersarais
+      - dispersaran
+      cjid: pisb1
+    - cjfs:
+      - dispersase
+      - dispersases
+      - dispersase
+      - "dispers\xE1semos"
+      - dispersaseis
+      - dispersasen
+      cjid: pisb2
+    - cjfs:
+      - dispersare
+      - dispersares
+      - dispersare
+      - "dispers\xE1remos"
+      - dispersareis
+      - dispersaren
+      cjid: fsub
+    - cjfs:
+      - he dispersado
+      - has dispersado
+      - ha dispersado
+      - hemos dispersado
+      - "hab\xE9is dispersado"
+      - han dispersado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dispersado"
+      - "hab\xEDas dispersado"
+      - "hab\xEDa dispersado"
+      - "hab\xEDamos dispersado"
+      - "hab\xEDais dispersado"
+      - "hab\xEDan dispersado"
+      cjid: ppsi
+    - cjfs:
+      - hube dispersado
+      - hubiste dispersado
+      - hubo dispersado
+      - hubimos dispersado
+      - hubisteis dispersado
+      - hubieron dispersado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dispersado"
+      - "habr\xE1s dispersado"
+      - "habr\xE1 dispersado"
+      - habremos dispersado
+      - "habr\xE9is dispersado"
+      - "habr\xE1n dispersado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dispersado"
+      - "habr\xEDas dispersado"
+      - "habr\xEDa dispersado"
+      - "habr\xEDamos dispersado"
+      - "habr\xEDais dispersado"
+      - "habr\xEDan dispersado"
+      cjid: cpef
+    - cjfs:
+      - haya dispersado
+      - hayas dispersado
+      - haya dispersado
+      - hayamos dispersado
+      - "hay\xE1is dispersado"
+      - hayan dispersado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dispersado
+      - hubieras dispersado
+      - hubiera dispersado
+      - "hubi\xE9ramos dispersado"
+      - hubierais dispersado
+      - hubieran dispersado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dispersado
+      - hubieses dispersado
+      - hubiese dispersado
+      - "hubi\xE9semos dispersado"
+      - hubieseis dispersado
+      - hubiesen dispersado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dispersado
+      - hubieres dispersado
+      - hubiere dispersado
+      - "hubi\xE9remos dispersado"
+      - hubiereis dispersado
+      - hubieren dispersado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dispersa
+      - disperse
+      - dispersemos
+      - dispersad
+      - dispersen
+      cjid: impf

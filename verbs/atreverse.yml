@@ -1,0 +1,31 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dare}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be insolent'
+          sn: '2'
+  fl: reflexive verb
+  hwi:
+    hw: atreverse
+    prs:
+    - sound:
+        audio: atrev01sp
+  meta:
+    id: atreverse
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602356000'
+    src: spanish
+    stems:
+    - atreverse
+    uuid: ad811e50-0327-41a5-bcf4-ffefac262ba3
+  shortdef:
+  - to dare
+  - to be insolent

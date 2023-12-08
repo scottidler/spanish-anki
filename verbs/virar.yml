@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tack}, to {a_link|turn}, to {a_link|veer}'
+  fl: intransitive verb
+  hwi:
+    hw: virar
+    prs:
+    - sound:
+        audio: virar01sp
+  meta:
+    id: virar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623071000'
+    src: spanish
+    stems:
+    - virar
+    uuid: 712c816e-55f4-4554-ad3d-4add3d799539
+  shortdef:
+  - to tack, to turn, to veer
+  suppl:
+    cjts:
+    - cjfs:
+      - virando
+      - virado
+      cjid: gppt
+    - cjfs:
+      - viro
+      - viras
+      - vira
+      - viramos
+      - "vir\xE1is"
+      - viran
+      cjid: pind
+    - cjfs:
+      - viraba
+      - virabas
+      - viraba
+      - "vir\xE1bamos"
+      - virabais
+      - viraban
+      cjid: pret
+    - cjfs:
+      - "vir\xE9"
+      - viraste
+      - "vir\xF3"
+      - viramos
+      - virasteis
+      - viraron
+      cjid: pprf
+    - cjfs:
+      - "virar\xE9"
+      - "virar\xE1s"
+      - "virar\xE1"
+      - viraremos
+      - "virar\xE9is"
+      - "virar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "virar\xEDa"
+      - "virar\xEDas"
+      - "virar\xEDa"
+      - "virar\xEDamos"
+      - "virar\xEDais"
+      - "virar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vire
+      - vires
+      - vire
+      - viremos
+      - "vir\xE9is"
+      - viren
+      cjid: psub
+    - cjfs:
+      - virara
+      - viraras
+      - virara
+      - "vir\xE1ramos"
+      - virarais
+      - viraran
+      cjid: pisb1
+    - cjfs:
+      - virase
+      - virases
+      - virase
+      - "vir\xE1semos"
+      - viraseis
+      - virasen
+      cjid: pisb2
+    - cjfs:
+      - virare
+      - virares
+      - virare
+      - "vir\xE1remos"
+      - virareis
+      - viraren
+      cjid: fsub
+    - cjfs:
+      - he virado
+      - has virado
+      - ha virado
+      - hemos virado
+      - "hab\xE9is virado"
+      - han virado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa virado"
+      - "hab\xEDas virado"
+      - "hab\xEDa virado"
+      - "hab\xEDamos virado"
+      - "hab\xEDais virado"
+      - "hab\xEDan virado"
+      cjid: ppsi
+    - cjfs:
+      - hube virado
+      - hubiste virado
+      - hubo virado
+      - hubimos virado
+      - hubisteis virado
+      - hubieron virado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 virado"
+      - "habr\xE1s virado"
+      - "habr\xE1 virado"
+      - habremos virado
+      - "habr\xE9is virado"
+      - "habr\xE1n virado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa virado"
+      - "habr\xEDas virado"
+      - "habr\xEDa virado"
+      - "habr\xEDamos virado"
+      - "habr\xEDais virado"
+      - "habr\xEDan virado"
+      cjid: cpef
+    - cjfs:
+      - haya virado
+      - hayas virado
+      - haya virado
+      - hayamos virado
+      - "hay\xE1is virado"
+      - hayan virado
+      cjid: ppfs
+    - cjfs:
+      - hubiera virado
+      - hubieras virado
+      - hubiera virado
+      - "hubi\xE9ramos virado"
+      - hubierais virado
+      - hubieran virado
+      cjid: ppss1
+    - cjfs:
+      - hubiese virado
+      - hubieses virado
+      - hubiese virado
+      - "hubi\xE9semos virado"
+      - hubieseis virado
+      - hubiesen virado
+      cjid: ppss2
+    - cjfs:
+      - hubiere virado
+      - hubieres virado
+      - hubiere virado
+      - "hubi\xE9remos virado"
+      - hubiereis virado
+      - hubieren virado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vira
+      - vire
+      - viremos
+      - virad
+      - viren
+      cjid: impf

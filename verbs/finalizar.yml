@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|finish}, to {a_link|end}'
+  fl: verb
+  hwi:
+    hw: finalizar
+    prs:
+    - sound:
+        audio: final02sp
+  meta:
+    id: finalizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610124000'
+    src: spanish
+    stems:
+    - finalizar
+    uuid: aad86c43-2b2d-480e-95ff-10f83aa1f6f6
+  shortdef:
+  - to finish, to end
+  suppl:
+    cjts:
+    - cjfs:
+      - finalizando
+      - finalizado
+      cjid: gppt
+    - cjfs:
+      - finalizo
+      - finalizas
+      - finaliza
+      - finalizamos
+      - "finaliz\xE1is"
+      - finalizan
+      cjid: pind
+    - cjfs:
+      - finalizaba
+      - finalizabas
+      - finalizaba
+      - "finaliz\xE1bamos"
+      - finalizabais
+      - finalizaban
+      cjid: pret
+    - cjfs:
+      - "finalic\xE9"
+      - finalizaste
+      - "finaliz\xF3"
+      - finalizamos
+      - finalizasteis
+      - finalizaron
+      cjid: pprf
+    - cjfs:
+      - "finalizar\xE9"
+      - "finalizar\xE1s"
+      - "finalizar\xE1"
+      - finalizaremos
+      - "finalizar\xE9is"
+      - "finalizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "finalizar\xEDa"
+      - "finalizar\xEDas"
+      - "finalizar\xEDa"
+      - "finalizar\xEDamos"
+      - "finalizar\xEDais"
+      - "finalizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - finalice
+      - finalices
+      - finalice
+      - finalicemos
+      - "finalic\xE9is"
+      - finalicen
+      cjid: psub
+    - cjfs:
+      - finalizara
+      - finalizaras
+      - finalizara
+      - "finaliz\xE1ramos"
+      - finalizarais
+      - finalizaran
+      cjid: pisb1
+    - cjfs:
+      - finalizase
+      - finalizases
+      - finalizase
+      - "finaliz\xE1semos"
+      - finalizaseis
+      - finalizasen
+      cjid: pisb2
+    - cjfs:
+      - finalizare
+      - finalizares
+      - finalizare
+      - "finaliz\xE1remos"
+      - finalizareis
+      - finalizaren
+      cjid: fsub
+    - cjfs:
+      - he finalizado
+      - has finalizado
+      - ha finalizado
+      - hemos finalizado
+      - "hab\xE9is finalizado"
+      - han finalizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa finalizado"
+      - "hab\xEDas finalizado"
+      - "hab\xEDa finalizado"
+      - "hab\xEDamos finalizado"
+      - "hab\xEDais finalizado"
+      - "hab\xEDan finalizado"
+      cjid: ppsi
+    - cjfs:
+      - hube finalizado
+      - hubiste finalizado
+      - hubo finalizado
+      - hubimos finalizado
+      - hubisteis finalizado
+      - hubieron finalizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 finalizado"
+      - "habr\xE1s finalizado"
+      - "habr\xE1 finalizado"
+      - habremos finalizado
+      - "habr\xE9is finalizado"
+      - "habr\xE1n finalizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa finalizado"
+      - "habr\xEDas finalizado"
+      - "habr\xEDa finalizado"
+      - "habr\xEDamos finalizado"
+      - "habr\xEDais finalizado"
+      - "habr\xEDan finalizado"
+      cjid: cpef
+    - cjfs:
+      - haya finalizado
+      - hayas finalizado
+      - haya finalizado
+      - hayamos finalizado
+      - "hay\xE1is finalizado"
+      - hayan finalizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera finalizado
+      - hubieras finalizado
+      - hubiera finalizado
+      - "hubi\xE9ramos finalizado"
+      - hubierais finalizado
+      - hubieran finalizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese finalizado
+      - hubieses finalizado
+      - hubiese finalizado
+      - "hubi\xE9semos finalizado"
+      - hubieseis finalizado
+      - hubiesen finalizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere finalizado
+      - hubieres finalizado
+      - hubiere finalizado
+      - "hubi\xE9remos finalizado"
+      - hubiereis finalizado
+      - hubieren finalizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - finaliza
+      - finalice
+      - finalicemos
+      - finalizad
+      - finalicen
+      cjid: impf

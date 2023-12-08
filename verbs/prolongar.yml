@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prolong} (a life, a war, etc.), to {a_link|extend} (a
+              visit, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|extend}, to {a_link|lengthen} (in size)'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|continuar||} {bc}to {a_link|last}, to {a_link|continue}'
+    drp: prolongarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: prolongar
+    prs:
+    - sound:
+        audio: prolo02sp
+  meta:
+    id: prolongar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618251000'
+    src: spanish
+    stems:
+    - prolongar
+    - prolongarse
+    uuid: 8f605e53-7b64-4845-832e-ed5dccabbbc2
+  shortdef:
+  - to prolong (a life, a war, etc.), to extend (a visit, etc.)
+  - to extend, to lengthen (in size)
+  suppl:
+    cjts:
+    - cjfs:
+      - prolongando
+      - prolongado
+      cjid: gppt
+    - cjfs:
+      - prolongo
+      - prolongas
+      - prolonga
+      - prolongamos
+      - "prolong\xE1is"
+      - prolongan
+      cjid: pind
+    - cjfs:
+      - prolongaba
+      - prolongabas
+      - prolongaba
+      - "prolong\xE1bamos"
+      - prolongabais
+      - prolongaban
+      cjid: pret
+    - cjfs:
+      - "prolongu\xE9"
+      - prolongaste
+      - "prolong\xF3"
+      - prolongamos
+      - prolongasteis
+      - prolongaron
+      cjid: pprf
+    - cjfs:
+      - "prolongar\xE9"
+      - "prolongar\xE1s"
+      - "prolongar\xE1"
+      - prolongaremos
+      - "prolongar\xE9is"
+      - "prolongar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prolongar\xEDa"
+      - "prolongar\xEDas"
+      - "prolongar\xEDa"
+      - "prolongar\xEDamos"
+      - "prolongar\xEDais"
+      - "prolongar\xEDan"
+      cjid: cond
+    - cjfs:
+      - prolongue
+      - prolongues
+      - prolongue
+      - prolonguemos
+      - "prolongu\xE9is"
+      - prolonguen
+      cjid: psub
+    - cjfs:
+      - prolongara
+      - prolongaras
+      - prolongara
+      - "prolong\xE1ramos"
+      - prolongarais
+      - prolongaran
+      cjid: pisb1
+    - cjfs:
+      - prolongase
+      - prolongases
+      - prolongase
+      - "prolong\xE1semos"
+      - prolongaseis
+      - prolongasen
+      cjid: pisb2
+    - cjfs:
+      - prolongare
+      - prolongares
+      - prolongare
+      - "prolong\xE1remos"
+      - prolongareis
+      - prolongaren
+      cjid: fsub
+    - cjfs:
+      - he prolongado
+      - has prolongado
+      - ha prolongado
+      - hemos prolongado
+      - "hab\xE9is prolongado"
+      - han prolongado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prolongado"
+      - "hab\xEDas prolongado"
+      - "hab\xEDa prolongado"
+      - "hab\xEDamos prolongado"
+      - "hab\xEDais prolongado"
+      - "hab\xEDan prolongado"
+      cjid: ppsi
+    - cjfs:
+      - hube prolongado
+      - hubiste prolongado
+      - hubo prolongado
+      - hubimos prolongado
+      - hubisteis prolongado
+      - hubieron prolongado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prolongado"
+      - "habr\xE1s prolongado"
+      - "habr\xE1 prolongado"
+      - habremos prolongado
+      - "habr\xE9is prolongado"
+      - "habr\xE1n prolongado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prolongado"
+      - "habr\xEDas prolongado"
+      - "habr\xEDa prolongado"
+      - "habr\xEDamos prolongado"
+      - "habr\xEDais prolongado"
+      - "habr\xEDan prolongado"
+      cjid: cpef
+    - cjfs:
+      - haya prolongado
+      - hayas prolongado
+      - haya prolongado
+      - hayamos prolongado
+      - "hay\xE1is prolongado"
+      - hayan prolongado
+      cjid: ppfs
+    - cjfs:
+      - hubiera prolongado
+      - hubieras prolongado
+      - hubiera prolongado
+      - "hubi\xE9ramos prolongado"
+      - hubierais prolongado
+      - hubieran prolongado
+      cjid: ppss1
+    - cjfs:
+      - hubiese prolongado
+      - hubieses prolongado
+      - hubiese prolongado
+      - "hubi\xE9semos prolongado"
+      - hubieseis prolongado
+      - hubiesen prolongado
+      cjid: ppss2
+    - cjfs:
+      - hubiere prolongado
+      - hubieres prolongado
+      - hubiere prolongado
+      - "hubi\xE9remos prolongado"
+      - hubiereis prolongado
+      - hubieren prolongado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prolonga
+      - prolongue
+      - prolonguemos
+      - prolongad
+      - prolonguen
+      cjid: impf

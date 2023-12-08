@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|adiestrar||} {bc}to {a_link|instruct}, to {a_link|train}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|ense\xF1ar||} {bc}to {a_link|educate}, to {a_link|teach}"
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: instruir
+    prs:
+    - sound:
+        audio: instr01sp
+  meta:
+    id: instruir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612744000'
+    src: spanish
+    stems:
+    - instruir
+    uuid: 329f1083-1c30-4905-b836-8e5326c1c7ce
+  shortdef:
+  - 'adiestrar : to instruct, to train'
+  - "ense\xF1ar : to educate, to teach"
+  suppl:
+    cjts:
+    - cjfs:
+      - instruyendo
+      - instruido
+      cjid: gppt
+    - cjfs:
+      - instruyo
+      - instruyes
+      - instruye
+      - instruimos
+      - "instru\xEDs"
+      - instruyen
+      cjid: pind
+    - cjfs:
+      - "instru\xEDa"
+      - "instru\xEDas"
+      - "instru\xEDa"
+      - "instru\xEDamos"
+      - "instru\xEDais"
+      - "instru\xEDan"
+      cjid: pret
+    - cjfs:
+      - "instru\xED"
+      - instruiste
+      - "instruy\xF3"
+      - instruimos
+      - instruisteis
+      - instruyeron
+      cjid: pprf
+    - cjfs:
+      - "instruir\xE9"
+      - "instruir\xE1s"
+      - "instruir\xE1"
+      - instruiremos
+      - "instruir\xE9is"
+      - "instruir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "instruir\xEDa"
+      - "instruir\xEDas"
+      - "instruir\xEDa"
+      - "instruir\xEDamos"
+      - "instruir\xEDais"
+      - "instruir\xEDan"
+      cjid: cond
+    - cjfs:
+      - instruya
+      - instruyas
+      - instruya
+      - instruyamos
+      - "instruy\xE1is"
+      - instruyan
+      cjid: psub
+    - cjfs:
+      - instruyera
+      - instruyeras
+      - instruyera
+      - "instruy\xE9ramos"
+      - instruyerais
+      - instruyeran
+      cjid: pisb1
+    - cjfs:
+      - instruyese
+      - instruyeses
+      - instruyese
+      - "instruy\xE9semos"
+      - instruyeseis
+      - instruyesen
+      cjid: pisb2
+    - cjfs:
+      - instruyere
+      - instruyeres
+      - instruyere
+      - "instruy\xE9remos"
+      - instruyereis
+      - instruyeren
+      cjid: fsub
+    - cjfs:
+      - he instruido
+      - has instruido
+      - ha instruido
+      - hemos instruido
+      - "hab\xE9is instruido"
+      - han instruido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa instruido"
+      - "hab\xEDas instruido"
+      - "hab\xEDa instruido"
+      - "hab\xEDamos instruido"
+      - "hab\xEDais instruido"
+      - "hab\xEDan instruido"
+      cjid: ppsi
+    - cjfs:
+      - hube instruido
+      - hubiste instruido
+      - hubo instruido
+      - hubimos instruido
+      - hubisteis instruido
+      - hubieron instruido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 instruido"
+      - "habr\xE1s instruido"
+      - "habr\xE1 instruido"
+      - habremos instruido
+      - "habr\xE9is instruido"
+      - "habr\xE1n instruido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa instruido"
+      - "habr\xEDas instruido"
+      - "habr\xEDa instruido"
+      - "habr\xEDamos instruido"
+      - "habr\xEDais instruido"
+      - "habr\xEDan instruido"
+      cjid: cpef
+    - cjfs:
+      - haya instruido
+      - hayas instruido
+      - haya instruido
+      - hayamos instruido
+      - "hay\xE1is instruido"
+      - hayan instruido
+      cjid: ppfs
+    - cjfs:
+      - hubiera instruido
+      - hubieras instruido
+      - hubiera instruido
+      - "hubi\xE9ramos instruido"
+      - hubierais instruido
+      - hubieran instruido
+      cjid: ppss1
+    - cjfs:
+      - hubiese instruido
+      - hubieses instruido
+      - hubiese instruido
+      - "hubi\xE9semos instruido"
+      - hubieseis instruido
+      - hubiesen instruido
+      cjid: ppss2
+    - cjfs:
+      - hubiere instruido
+      - hubieres instruido
+      - hubiere instruido
+      - "hubi\xE9remos instruido"
+      - hubiereis instruido
+      - hubieren instruido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - instruye
+      - instruya
+      - instruyamos
+      - instruid
+      - instruyan
+      cjid: impf

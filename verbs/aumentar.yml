@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acrecentar||} {bc}to {a_link|increase}, to {a_link|raise}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rise}, to {a_link|increase}, to {a_link|grow}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: aumentar
+    prs:
+    - sound:
+        audio: aumen01sp
+  meta:
+    id: aumentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602404000'
+    src: spanish
+    stems:
+    - aumentar
+    uuid: 5a1faa50-ab8e-49dd-8c4e-b5c5c8b76ee0
+  shortdef:
+  - 'acrecentar : to increase, to raise'
+  - to rise, to increase, to grow
+  suppl:
+    cjts:
+    - cjfs:
+      - aumentando
+      - aumentado
+      cjid: gppt
+    - cjfs:
+      - aumento
+      - aumentas
+      - aumenta
+      - aumentamos
+      - "aument\xE1is"
+      - aumentan
+      cjid: pind
+    - cjfs:
+      - aumentaba
+      - aumentabas
+      - aumentaba
+      - "aument\xE1bamos"
+      - aumentabais
+      - aumentaban
+      cjid: pret
+    - cjfs:
+      - "aument\xE9"
+      - aumentaste
+      - "aument\xF3"
+      - aumentamos
+      - aumentasteis
+      - aumentaron
+      cjid: pprf
+    - cjfs:
+      - "aumentar\xE9"
+      - "aumentar\xE1s"
+      - "aumentar\xE1"
+      - aumentaremos
+      - "aumentar\xE9is"
+      - "aumentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aumentar\xEDa"
+      - "aumentar\xEDas"
+      - "aumentar\xEDa"
+      - "aumentar\xEDamos"
+      - "aumentar\xEDais"
+      - "aumentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aumente
+      - aumentes
+      - aumente
+      - aumentemos
+      - "aument\xE9is"
+      - aumenten
+      cjid: psub
+    - cjfs:
+      - aumentara
+      - aumentaras
+      - aumentara
+      - "aument\xE1ramos"
+      - aumentarais
+      - aumentaran
+      cjid: pisb1
+    - cjfs:
+      - aumentase
+      - aumentases
+      - aumentase
+      - "aument\xE1semos"
+      - aumentaseis
+      - aumentasen
+      cjid: pisb2
+    - cjfs:
+      - aumentare
+      - aumentares
+      - aumentare
+      - "aument\xE1remos"
+      - aumentareis
+      - aumentaren
+      cjid: fsub
+    - cjfs:
+      - he aumentado
+      - has aumentado
+      - ha aumentado
+      - hemos aumentado
+      - "hab\xE9is aumentado"
+      - han aumentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aumentado"
+      - "hab\xEDas aumentado"
+      - "hab\xEDa aumentado"
+      - "hab\xEDamos aumentado"
+      - "hab\xEDais aumentado"
+      - "hab\xEDan aumentado"
+      cjid: ppsi
+    - cjfs:
+      - hube aumentado
+      - hubiste aumentado
+      - hubo aumentado
+      - hubimos aumentado
+      - hubisteis aumentado
+      - hubieron aumentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aumentado"
+      - "habr\xE1s aumentado"
+      - "habr\xE1 aumentado"
+      - habremos aumentado
+      - "habr\xE9is aumentado"
+      - "habr\xE1n aumentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aumentado"
+      - "habr\xEDas aumentado"
+      - "habr\xEDa aumentado"
+      - "habr\xEDamos aumentado"
+      - "habr\xEDais aumentado"
+      - "habr\xEDan aumentado"
+      cjid: cpef
+    - cjfs:
+      - haya aumentado
+      - hayas aumentado
+      - haya aumentado
+      - hayamos aumentado
+      - "hay\xE1is aumentado"
+      - hayan aumentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aumentado
+      - hubieras aumentado
+      - hubiera aumentado
+      - "hubi\xE9ramos aumentado"
+      - hubierais aumentado
+      - hubieran aumentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aumentado
+      - hubieses aumentado
+      - hubiese aumentado
+      - "hubi\xE9semos aumentado"
+      - hubieseis aumentado
+      - hubiesen aumentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aumentado
+      - hubieres aumentado
+      - hubiere aumentado
+      - "hubi\xE9remos aumentado"
+      - hubiereis aumentado
+      - hubieren aumentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aumenta
+      - aumente
+      - aumentemos
+      - aumentad
+      - aumenten
+      cjid: impf

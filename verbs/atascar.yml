@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|atorar||} {bc}to {a_link|block}, to {a_link|clog}, to {a_link|stop
+              up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hinder}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become obstructed'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get bogged down'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|pararse||} {bc}to {a_link|stall}'
+            sn: '3'
+    drp: atascarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: atascar
+    prs:
+    - sound:
+        audio: atasc01sp
+  meta:
+    id: atascar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602266000'
+    src: spanish
+    stems:
+    - atascar
+    - atascarse
+    uuid: 3d2459a9-88cc-4fe5-bcbd-e2dc0838beb1
+  shortdef:
+  - 'atorar : to block, to clog, to stop up'
+  - to hinder
+  suppl:
+    cjts:
+    - cjfs:
+      - atascando
+      - atascado
+      cjid: gppt
+    - cjfs:
+      - atasco
+      - atascas
+      - atasca
+      - atascamos
+      - "atasc\xE1is"
+      - atascan
+      cjid: pind
+    - cjfs:
+      - atascaba
+      - atascabas
+      - atascaba
+      - "atasc\xE1bamos"
+      - atascabais
+      - atascaban
+      cjid: pret
+    - cjfs:
+      - "atasqu\xE9"
+      - atascaste
+      - "atasc\xF3"
+      - atascamos
+      - atascasteis
+      - atascaron
+      cjid: pprf
+    - cjfs:
+      - "atascar\xE9"
+      - "atascar\xE1s"
+      - "atascar\xE1"
+      - atascaremos
+      - "atascar\xE9is"
+      - "atascar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atascar\xEDa"
+      - "atascar\xEDas"
+      - "atascar\xEDa"
+      - "atascar\xEDamos"
+      - "atascar\xEDais"
+      - "atascar\xEDan"
+      cjid: cond
+    - cjfs:
+      - atasque
+      - atasques
+      - atasque
+      - atasquemos
+      - "atasqu\xE9is"
+      - atasquen
+      cjid: psub
+    - cjfs:
+      - atascara
+      - atascaras
+      - atascara
+      - "atasc\xE1ramos"
+      - atascarais
+      - atascaran
+      cjid: pisb1
+    - cjfs:
+      - atascase
+      - atascases
+      - atascase
+      - "atasc\xE1semos"
+      - atascaseis
+      - atascasen
+      cjid: pisb2
+    - cjfs:
+      - atascare
+      - atascares
+      - atascare
+      - "atasc\xE1remos"
+      - atascareis
+      - atascaren
+      cjid: fsub
+    - cjfs:
+      - he atascado
+      - has atascado
+      - ha atascado
+      - hemos atascado
+      - "hab\xE9is atascado"
+      - han atascado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atascado"
+      - "hab\xEDas atascado"
+      - "hab\xEDa atascado"
+      - "hab\xEDamos atascado"
+      - "hab\xEDais atascado"
+      - "hab\xEDan atascado"
+      cjid: ppsi
+    - cjfs:
+      - hube atascado
+      - hubiste atascado
+      - hubo atascado
+      - hubimos atascado
+      - hubisteis atascado
+      - hubieron atascado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atascado"
+      - "habr\xE1s atascado"
+      - "habr\xE1 atascado"
+      - habremos atascado
+      - "habr\xE9is atascado"
+      - "habr\xE1n atascado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atascado"
+      - "habr\xEDas atascado"
+      - "habr\xEDa atascado"
+      - "habr\xEDamos atascado"
+      - "habr\xEDais atascado"
+      - "habr\xEDan atascado"
+      cjid: cpef
+    - cjfs:
+      - haya atascado
+      - hayas atascado
+      - haya atascado
+      - hayamos atascado
+      - "hay\xE1is atascado"
+      - hayan atascado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atascado
+      - hubieras atascado
+      - hubiera atascado
+      - "hubi\xE9ramos atascado"
+      - hubierais atascado
+      - hubieran atascado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atascado
+      - hubieses atascado
+      - hubiese atascado
+      - "hubi\xE9semos atascado"
+      - hubieseis atascado
+      - hubiesen atascado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atascado
+      - hubieres atascado
+      - hubiere atascado
+      - "hubi\xE9remos atascado"
+      - hubiereis atascado
+      - hubieren atascado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atasca
+      - atasque
+      - atasquemos
+      - atascad
+      - atasquen
+      cjid: impf

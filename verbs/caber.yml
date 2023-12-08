@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit}, to {a_link|go} '
+          - - vis
+            - - t: "\xBFcabremos todos?"
+                tr: will we all fit?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be possible '
+          - - vis
+            - - t: no cabe duda alguna
+                tr: there's no doubt about it
+              - t: "cabe la posibilidad que llegue ma\xF1ana"
+                tr: it's possible he'll come tomorrow
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: caber
+    prs:
+    - sound:
+        audio: caber01sp
+  meta:
+    id: caber
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603505000'
+    src: spanish
+    stems:
+    - caber
+    uuid: 6106ff3c-10a3-4b6f-8ee2-c5c9565c5aab
+  shortdef:
+  - to fit, to go
+  - to be possible
+  suppl:
+    cjts:
+    - cjfs:
+      - cabiendo
+      - cabido
+      cjid: gppt
+    - cjfs:
+      - quepo
+      - cabes
+      - cabe
+      - cabemos
+      - "cab\xE9is"
+      - caben
+      cjid: pind
+    - cjfs:
+      - "cab\xEDa"
+      - "cab\xEDas"
+      - "cab\xEDa"
+      - "cab\xEDamos"
+      - "cab\xEDais"
+      - "cab\xEDan"
+      cjid: pret
+    - cjfs:
+      - cupe
+      - cupiste
+      - cupo
+      - cupimos
+      - cupisteis
+      - cupieron
+      cjid: pprf
+    - cjfs:
+      - "cabr\xE9"
+      - "cabr\xE1s"
+      - "cabr\xE1"
+      - cabremos
+      - "cabr\xE9is"
+      - "cabr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cabr\xEDa"
+      - "cabr\xEDas"
+      - "cabr\xEDa"
+      - "cabr\xEDamos"
+      - "cabr\xEDais"
+      - "cabr\xEDan"
+      cjid: cond
+    - cjfs:
+      - quepa
+      - quepas
+      - quepa
+      - quepamos
+      - "quep\xE1is"
+      - quepan
+      cjid: psub
+    - cjfs:
+      - cupiera
+      - cupieras
+      - cupiera
+      - "cupi\xE9ramos"
+      - cupierais
+      - cupieran
+      cjid: pisb1
+    - cjfs:
+      - cupiese
+      - cupieses
+      - cupiese
+      - "cupi\xE9semos"
+      - cupieseis
+      - cupiesen
+      cjid: pisb2
+    - cjfs:
+      - cupiere
+      - cupieres
+      - cupiere
+      - "cupi\xE9remos"
+      - cupiereis
+      - cupieren
+      cjid: fsub
+    - cjfs:
+      - he cabido
+      - has cabido
+      - ha cabido
+      - hemos cabido
+      - "hab\xE9is cabido"
+      - han cabido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cabido"
+      - "hab\xEDas cabido"
+      - "hab\xEDa cabido"
+      - "hab\xEDamos cabido"
+      - "hab\xEDais cabido"
+      - "hab\xEDan cabido"
+      cjid: ppsi
+    - cjfs:
+      - hube cabido
+      - hubiste cabido
+      - hubo cabido
+      - hubimos cabido
+      - hubisteis cabido
+      - hubieron cabido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cabido"
+      - "habr\xE1s cabido"
+      - "habr\xE1 cabido"
+      - habremos cabido
+      - "habr\xE9is cabido"
+      - "habr\xE1n cabido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cabido"
+      - "habr\xEDas cabido"
+      - "habr\xEDa cabido"
+      - "habr\xEDamos cabido"
+      - "habr\xEDais cabido"
+      - "habr\xEDan cabido"
+      cjid: cpef
+    - cjfs:
+      - haya cabido
+      - hayas cabido
+      - haya cabido
+      - hayamos cabido
+      - "hay\xE1is cabido"
+      - hayan cabido
+      cjid: ppfs
+    - cjfs:
+      - hubiera cabido
+      - hubieras cabido
+      - hubiera cabido
+      - "hubi\xE9ramos cabido"
+      - hubierais cabido
+      - hubieran cabido
+      cjid: ppss1
+    - cjfs:
+      - hubiese cabido
+      - hubieses cabido
+      - hubiese cabido
+      - "hubi\xE9semos cabido"
+      - hubieseis cabido
+      - hubiesen cabido
+      cjid: ppss2
+    - cjfs:
+      - hubiere cabido
+      - hubieres cabido
+      - hubiere cabido
+      - "hubi\xE9remos cabido"
+      - hubiereis cabido
+      - hubieren cabido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cabe
+      - quepa
+      - quepamos
+      - cabed
+      - quepan
+      cjid: impf

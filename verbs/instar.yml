@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apremiar||} {bc}to {a_link|urge}, to {a_link|press}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|urgir||} {bc}to be urgent or pressing '
+          - - vis
+            - - t: insta que vayamos pronto
+                tr: it is imperative that we leave soon
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: instar
+    prs:
+    - sound:
+        audio: insta05sp
+  meta:
+    id: instar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612728000'
+    src: spanish
+    stems:
+    - instar
+    uuid: 60ccbd4c-9b09-459e-a3f8-c78b8635ee8a
+  shortdef:
+  - 'apremiar : to urge, to press'
+  - 'urgir : to be urgent or pressing'
+  suppl:
+    cjts:
+    - cjfs:
+      - instando
+      - instado
+      cjid: gppt
+    - cjfs:
+      - insto
+      - instas
+      - insta
+      - instamos
+      - "inst\xE1is"
+      - instan
+      cjid: pind
+    - cjfs:
+      - instaba
+      - instabas
+      - instaba
+      - "inst\xE1bamos"
+      - instabais
+      - instaban
+      cjid: pret
+    - cjfs:
+      - "inst\xE9"
+      - instaste
+      - "inst\xF3"
+      - instamos
+      - instasteis
+      - instaron
+      cjid: pprf
+    - cjfs:
+      - "instar\xE9"
+      - "instar\xE1s"
+      - "instar\xE1"
+      - instaremos
+      - "instar\xE9is"
+      - "instar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "instar\xEDa"
+      - "instar\xEDas"
+      - "instar\xEDa"
+      - "instar\xEDamos"
+      - "instar\xEDais"
+      - "instar\xEDan"
+      cjid: cond
+    - cjfs:
+      - inste
+      - instes
+      - inste
+      - instemos
+      - "inst\xE9is"
+      - insten
+      cjid: psub
+    - cjfs:
+      - instara
+      - instaras
+      - instara
+      - "inst\xE1ramos"
+      - instarais
+      - instaran
+      cjid: pisb1
+    - cjfs:
+      - instase
+      - instases
+      - instase
+      - "inst\xE1semos"
+      - instaseis
+      - instasen
+      cjid: pisb2
+    - cjfs:
+      - instare
+      - instares
+      - instare
+      - "inst\xE1remos"
+      - instareis
+      - instaren
+      cjid: fsub
+    - cjfs:
+      - he instado
+      - has instado
+      - ha instado
+      - hemos instado
+      - "hab\xE9is instado"
+      - han instado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa instado"
+      - "hab\xEDas instado"
+      - "hab\xEDa instado"
+      - "hab\xEDamos instado"
+      - "hab\xEDais instado"
+      - "hab\xEDan instado"
+      cjid: ppsi
+    - cjfs:
+      - hube instado
+      - hubiste instado
+      - hubo instado
+      - hubimos instado
+      - hubisteis instado
+      - hubieron instado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 instado"
+      - "habr\xE1s instado"
+      - "habr\xE1 instado"
+      - habremos instado
+      - "habr\xE9is instado"
+      - "habr\xE1n instado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa instado"
+      - "habr\xEDas instado"
+      - "habr\xEDa instado"
+      - "habr\xEDamos instado"
+      - "habr\xEDais instado"
+      - "habr\xEDan instado"
+      cjid: cpef
+    - cjfs:
+      - haya instado
+      - hayas instado
+      - haya instado
+      - hayamos instado
+      - "hay\xE1is instado"
+      - hayan instado
+      cjid: ppfs
+    - cjfs:
+      - hubiera instado
+      - hubieras instado
+      - hubiera instado
+      - "hubi\xE9ramos instado"
+      - hubierais instado
+      - hubieran instado
+      cjid: ppss1
+    - cjfs:
+      - hubiese instado
+      - hubieses instado
+      - hubiese instado
+      - "hubi\xE9semos instado"
+      - hubieseis instado
+      - hubiesen instado
+      cjid: ppss2
+    - cjfs:
+      - hubiere instado
+      - hubieres instado
+      - hubiere instado
+      - "hubi\xE9remos instado"
+      - hubiereis instado
+      - hubieren instado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - insta
+      - inste
+      - instemos
+      - instad
+      - insten
+      cjid: impf

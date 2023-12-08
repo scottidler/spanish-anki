@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|lidiar||}, {sx|luchar||} {bc}to {a_link|battle}, to {a_link|fight}'
+  fl: intransitive verb
+  hwi:
+    hw: batallar
+  meta:
+    id: batallar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602860000'
+    src: spanish
+    stems:
+    - batallar
+    uuid: fde6f702-49a7-4321-ac36-7b13089f4e98
+  shortdef:
+  - 'lidiar, luchar : to battle, to fight'
+  suppl:
+    cjts:
+    - cjfs:
+      - batallando
+      - batallado
+      cjid: gppt
+    - cjfs:
+      - batallo
+      - batallas
+      - batalla
+      - batallamos
+      - "batall\xE1is"
+      - batallan
+      cjid: pind
+    - cjfs:
+      - batallaba
+      - batallabas
+      - batallaba
+      - "batall\xE1bamos"
+      - batallabais
+      - batallaban
+      cjid: pret
+    - cjfs:
+      - "batall\xE9"
+      - batallaste
+      - "batall\xF3"
+      - batallamos
+      - batallasteis
+      - batallaron
+      cjid: pprf
+    - cjfs:
+      - "batallar\xE9"
+      - "batallar\xE1s"
+      - "batallar\xE1"
+      - batallaremos
+      - "batallar\xE9is"
+      - "batallar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "batallar\xEDa"
+      - "batallar\xEDas"
+      - "batallar\xEDa"
+      - "batallar\xEDamos"
+      - "batallar\xEDais"
+      - "batallar\xEDan"
+      cjid: cond
+    - cjfs:
+      - batalle
+      - batalles
+      - batalle
+      - batallemos
+      - "batall\xE9is"
+      - batallen
+      cjid: psub
+    - cjfs:
+      - batallara
+      - batallaras
+      - batallara
+      - "batall\xE1ramos"
+      - batallarais
+      - batallaran
+      cjid: pisb1
+    - cjfs:
+      - batallase
+      - batallases
+      - batallase
+      - "batall\xE1semos"
+      - batallaseis
+      - batallasen
+      cjid: pisb2
+    - cjfs:
+      - batallare
+      - batallares
+      - batallare
+      - "batall\xE1remos"
+      - batallareis
+      - batallaren
+      cjid: fsub
+    - cjfs:
+      - he batallado
+      - has batallado
+      - ha batallado
+      - hemos batallado
+      - "hab\xE9is batallado"
+      - han batallado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa batallado"
+      - "hab\xEDas batallado"
+      - "hab\xEDa batallado"
+      - "hab\xEDamos batallado"
+      - "hab\xEDais batallado"
+      - "hab\xEDan batallado"
+      cjid: ppsi
+    - cjfs:
+      - hube batallado
+      - hubiste batallado
+      - hubo batallado
+      - hubimos batallado
+      - hubisteis batallado
+      - hubieron batallado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 batallado"
+      - "habr\xE1s batallado"
+      - "habr\xE1 batallado"
+      - habremos batallado
+      - "habr\xE9is batallado"
+      - "habr\xE1n batallado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa batallado"
+      - "habr\xEDas batallado"
+      - "habr\xEDa batallado"
+      - "habr\xEDamos batallado"
+      - "habr\xEDais batallado"
+      - "habr\xEDan batallado"
+      cjid: cpef
+    - cjfs:
+      - haya batallado
+      - hayas batallado
+      - haya batallado
+      - hayamos batallado
+      - "hay\xE1is batallado"
+      - hayan batallado
+      cjid: ppfs
+    - cjfs:
+      - hubiera batallado
+      - hubieras batallado
+      - hubiera batallado
+      - "hubi\xE9ramos batallado"
+      - hubierais batallado
+      - hubieran batallado
+      cjid: ppss1
+    - cjfs:
+      - hubiese batallado
+      - hubieses batallado
+      - hubiese batallado
+      - "hubi\xE9semos batallado"
+      - hubieseis batallado
+      - hubiesen batallado
+      cjid: ppss2
+    - cjfs:
+      - hubiere batallado
+      - hubieres batallado
+      - hubiere batallado
+      - "hubi\xE9remos batallado"
+      - hubiereis batallado
+      - hubieren batallado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - batalla
+      - batalle
+      - batallemos
+      - batallad
+      - batallen
+      cjid: impf

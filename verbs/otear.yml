@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scan}, to {a_link|survey}, to look over'
+  fl: transitive verb
+  hwi:
+    hw: otear
+  meta:
+    id: otear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616389000'
+    src: spanish
+    stems:
+    - otear
+    uuid: 9eded9df-178a-4e10-a3d5-0b4a74251740
+  shortdef:
+  - to scan, to survey, to look over
+  suppl:
+    cjts:
+    - cjfs:
+      - oteando
+      - oteado
+      cjid: gppt
+    - cjfs:
+      - oteo
+      - oteas
+      - otea
+      - oteamos
+      - "ote\xE1is"
+      - otean
+      cjid: pind
+    - cjfs:
+      - oteaba
+      - oteabas
+      - oteaba
+      - "ote\xE1bamos"
+      - oteabais
+      - oteaban
+      cjid: pret
+    - cjfs:
+      - "ote\xE9"
+      - oteaste
+      - "ote\xF3"
+      - oteamos
+      - oteasteis
+      - otearon
+      cjid: pprf
+    - cjfs:
+      - "otear\xE9"
+      - "otear\xE1s"
+      - "otear\xE1"
+      - otearemos
+      - "otear\xE9is"
+      - "otear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "otear\xEDa"
+      - "otear\xEDas"
+      - "otear\xEDa"
+      - "otear\xEDamos"
+      - "otear\xEDais"
+      - "otear\xEDan"
+      cjid: cond
+    - cjfs:
+      - otee
+      - otees
+      - otee
+      - oteemos
+      - "ote\xE9is"
+      - oteen
+      cjid: psub
+    - cjfs:
+      - oteara
+      - otearas
+      - oteara
+      - "ote\xE1ramos"
+      - otearais
+      - otearan
+      cjid: pisb1
+    - cjfs:
+      - otease
+      - oteases
+      - otease
+      - "ote\xE1semos"
+      - oteaseis
+      - oteasen
+      cjid: pisb2
+    - cjfs:
+      - oteare
+      - oteares
+      - oteare
+      - "ote\xE1remos"
+      - oteareis
+      - otearen
+      cjid: fsub
+    - cjfs:
+      - he oteado
+      - has oteado
+      - ha oteado
+      - hemos oteado
+      - "hab\xE9is oteado"
+      - han oteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa oteado"
+      - "hab\xEDas oteado"
+      - "hab\xEDa oteado"
+      - "hab\xEDamos oteado"
+      - "hab\xEDais oteado"
+      - "hab\xEDan oteado"
+      cjid: ppsi
+    - cjfs:
+      - hube oteado
+      - hubiste oteado
+      - hubo oteado
+      - hubimos oteado
+      - hubisteis oteado
+      - hubieron oteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 oteado"
+      - "habr\xE1s oteado"
+      - "habr\xE1 oteado"
+      - habremos oteado
+      - "habr\xE9is oteado"
+      - "habr\xE1n oteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa oteado"
+      - "habr\xEDas oteado"
+      - "habr\xEDa oteado"
+      - "habr\xEDamos oteado"
+      - "habr\xEDais oteado"
+      - "habr\xEDan oteado"
+      cjid: cpef
+    - cjfs:
+      - haya oteado
+      - hayas oteado
+      - haya oteado
+      - hayamos oteado
+      - "hay\xE1is oteado"
+      - hayan oteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera oteado
+      - hubieras oteado
+      - hubiera oteado
+      - "hubi\xE9ramos oteado"
+      - hubierais oteado
+      - hubieran oteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese oteado
+      - hubieses oteado
+      - hubiese oteado
+      - "hubi\xE9semos oteado"
+      - hubieseis oteado
+      - hubiesen oteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere oteado
+      - hubieres oteado
+      - hubiere oteado
+      - "hubi\xE9remos oteado"
+      - hubiereis oteado
+      - hubieren oteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - otea
+      - otee
+      - oteemos
+      - otead
+      - oteen
+      cjid: impf

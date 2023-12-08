@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|specify}, to determine exactly'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|necesitar||} {bc}to {a_link|need}, to {a_link|require}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be necessary'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: precisar
+    prs:
+    - sound:
+        audio: preci06sp
+  meta:
+    id: precisar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617917000'
+    src: spanish
+    stems:
+    - precisar
+    uuid: 0833c0aa-3ccc-4423-b5b6-afead25f86a9
+  shortdef:
+  - to specify, to determine exactly
+  - 'necesitar : to need, to require'
+  - to be necessary
+  suppl:
+    cjts:
+    - cjfs:
+      - precisando
+      - precisado
+      cjid: gppt
+    - cjfs:
+      - preciso
+      - precisas
+      - precisa
+      - precisamos
+      - "precis\xE1is"
+      - precisan
+      cjid: pind
+    - cjfs:
+      - precisaba
+      - precisabas
+      - precisaba
+      - "precis\xE1bamos"
+      - precisabais
+      - precisaban
+      cjid: pret
+    - cjfs:
+      - "precis\xE9"
+      - precisaste
+      - "precis\xF3"
+      - precisamos
+      - precisasteis
+      - precisaron
+      cjid: pprf
+    - cjfs:
+      - "precisar\xE9"
+      - "precisar\xE1s"
+      - "precisar\xE1"
+      - precisaremos
+      - "precisar\xE9is"
+      - "precisar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "precisar\xEDa"
+      - "precisar\xEDas"
+      - "precisar\xEDa"
+      - "precisar\xEDamos"
+      - "precisar\xEDais"
+      - "precisar\xEDan"
+      cjid: cond
+    - cjfs:
+      - precise
+      - precises
+      - precise
+      - precisemos
+      - "precis\xE9is"
+      - precisen
+      cjid: psub
+    - cjfs:
+      - precisara
+      - precisaras
+      - precisara
+      - "precis\xE1ramos"
+      - precisarais
+      - precisaran
+      cjid: pisb1
+    - cjfs:
+      - precisase
+      - precisases
+      - precisase
+      - "precis\xE1semos"
+      - precisaseis
+      - precisasen
+      cjid: pisb2
+    - cjfs:
+      - precisare
+      - precisares
+      - precisare
+      - "precis\xE1remos"
+      - precisareis
+      - precisaren
+      cjid: fsub
+    - cjfs:
+      - he precisado
+      - has precisado
+      - ha precisado
+      - hemos precisado
+      - "hab\xE9is precisado"
+      - han precisado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa precisado"
+      - "hab\xEDas precisado"
+      - "hab\xEDa precisado"
+      - "hab\xEDamos precisado"
+      - "hab\xEDais precisado"
+      - "hab\xEDan precisado"
+      cjid: ppsi
+    - cjfs:
+      - hube precisado
+      - hubiste precisado
+      - hubo precisado
+      - hubimos precisado
+      - hubisteis precisado
+      - hubieron precisado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 precisado"
+      - "habr\xE1s precisado"
+      - "habr\xE1 precisado"
+      - habremos precisado
+      - "habr\xE9is precisado"
+      - "habr\xE1n precisado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa precisado"
+      - "habr\xEDas precisado"
+      - "habr\xEDa precisado"
+      - "habr\xEDamos precisado"
+      - "habr\xEDais precisado"
+      - "habr\xEDan precisado"
+      cjid: cpef
+    - cjfs:
+      - haya precisado
+      - hayas precisado
+      - haya precisado
+      - hayamos precisado
+      - "hay\xE1is precisado"
+      - hayan precisado
+      cjid: ppfs
+    - cjfs:
+      - hubiera precisado
+      - hubieras precisado
+      - hubiera precisado
+      - "hubi\xE9ramos precisado"
+      - hubierais precisado
+      - hubieran precisado
+      cjid: ppss1
+    - cjfs:
+      - hubiese precisado
+      - hubieses precisado
+      - hubiese precisado
+      - "hubi\xE9semos precisado"
+      - hubieseis precisado
+      - hubiesen precisado
+      cjid: ppss2
+    - cjfs:
+      - hubiere precisado
+      - hubieres precisado
+      - hubiere precisado
+      - "hubi\xE9remos precisado"
+      - hubiereis precisado
+      - hubieren precisado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - precisa
+      - precise
+      - precisemos
+      - precisad
+      - precisen
+      cjid: impf

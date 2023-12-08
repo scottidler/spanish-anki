@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arrange}, to {a_link|lay out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stipulate}, to {a_link|order}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prepare}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have at one''s disposal}'
+          vrs:
+          - va: disponer de
+            vac: ~ de
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to prepare to, to {a_link|be about to}'
+            vrs:
+            - va: disponerse a
+              vac: ~ a
+    drp: disponerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: disponer
+    prs:
+    - sound:
+        audio: dispo01sp
+  meta:
+    id: disponer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607745000'
+    src: spanish
+    stems:
+    - disponer
+    - disponer de
+    - disponerse
+    - disponerse a
+    uuid: a507baf2-17ac-4b31-bbc9-dd3f6574d561
+  shortdef:
+  - to arrange, to lay out
+  - to stipulate, to order
+  - to prepare
+  suppl:
+    cjts:
+    - cjfs:
+      - disponiendo
+      - dispuesto
+      cjid: gppt
+    - cjfs:
+      - dispongo
+      - dispones
+      - dispone
+      - disponemos
+      - "dispon\xE9is"
+      - disponen
+      cjid: pind
+    - cjfs:
+      - "dispon\xEDa"
+      - "dispon\xEDas"
+      - "dispon\xEDa"
+      - "dispon\xEDamos"
+      - "dispon\xEDais"
+      - "dispon\xEDan"
+      cjid: pret
+    - cjfs:
+      - dispuse
+      - dispusiste
+      - dispuso
+      - dispusimos
+      - dispusisteis
+      - dispusieron
+      cjid: pprf
+    - cjfs:
+      - "dispondr\xE9"
+      - "dispondr\xE1s"
+      - "dispondr\xE1"
+      - dispondremos
+      - "dispondr\xE9is"
+      - "dispondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dispondr\xEDa"
+      - "dispondr\xEDas"
+      - "dispondr\xEDa"
+      - "dispondr\xEDamos"
+      - "dispondr\xEDais"
+      - "dispondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - disponga
+      - dispongas
+      - disponga
+      - dispongamos
+      - "dispong\xE1is"
+      - dispongan
+      cjid: psub
+    - cjfs:
+      - dispusiera
+      - dispusieras
+      - dispusiera
+      - "dispusi\xE9ramos"
+      - dispusierais
+      - dispusieran
+      cjid: pisb1
+    - cjfs:
+      - dispusiese
+      - dispusieses
+      - dispusiese
+      - "dispusi\xE9semos"
+      - dispusieseis
+      - dispusiesen
+      cjid: pisb2
+    - cjfs:
+      - dispusiere
+      - dispusieres
+      - dispusiere
+      - "dispusi\xE9remos"
+      - dispusiereis
+      - dispusieren
+      cjid: fsub
+    - cjfs:
+      - he dispuesto
+      - has dispuesto
+      - ha dispuesto
+      - hemos dispuesto
+      - "hab\xE9is dispuesto"
+      - han dispuesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dispuesto"
+      - "hab\xEDas dispuesto"
+      - "hab\xEDa dispuesto"
+      - "hab\xEDamos dispuesto"
+      - "hab\xEDais dispuesto"
+      - "hab\xEDan dispuesto"
+      cjid: ppsi
+    - cjfs:
+      - hube dispuesto
+      - hubiste dispuesto
+      - hubo dispuesto
+      - hubimos dispuesto
+      - hubisteis dispuesto
+      - hubieron dispuesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dispuesto"
+      - "habr\xE1s dispuesto"
+      - "habr\xE1 dispuesto"
+      - habremos dispuesto
+      - "habr\xE9is dispuesto"
+      - "habr\xE1n dispuesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dispuesto"
+      - "habr\xEDas dispuesto"
+      - "habr\xEDa dispuesto"
+      - "habr\xEDamos dispuesto"
+      - "habr\xEDais dispuesto"
+      - "habr\xEDan dispuesto"
+      cjid: cpef
+    - cjfs:
+      - haya dispuesto
+      - hayas dispuesto
+      - haya dispuesto
+      - hayamos dispuesto
+      - "hay\xE1is dispuesto"
+      - hayan dispuesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera dispuesto
+      - hubieras dispuesto
+      - hubiera dispuesto
+      - "hubi\xE9ramos dispuesto"
+      - hubierais dispuesto
+      - hubieran dispuesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese dispuesto
+      - hubieses dispuesto
+      - hubiese dispuesto
+      - "hubi\xE9semos dispuesto"
+      - hubieseis dispuesto
+      - hubiesen dispuesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere dispuesto
+      - hubieres dispuesto
+      - hubiere dispuesto
+      - "hubi\xE9remos dispuesto"
+      - hubiereis dispuesto
+      - hubieren dispuesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "disp\xF3n"
+      - disponga
+      - dispongamos
+      - disponed
+      - dispongan
+      cjid: impf

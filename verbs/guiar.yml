@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|guide}, to {a_link|lead}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conducir||} {bc}to {a_link|manage}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be guided by, to {a_link|go by}'
+    drp: guiarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: guiar
+    prs:
+    - sound:
+        audio: guiar01sp
+  meta:
+    id: guiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611177000'
+    src: spanish
+    stems:
+    - guiar
+    - guiarse
+    uuid: 06b21c66-546e-4d5f-ad59-f123bab4d8ba
+  shortdef:
+  - to guide, to lead
+  - 'conducir : to manage'
+  suppl:
+    cjts:
+    - cjfs:
+      - guiando
+      - guiado
+      cjid: gppt
+    - cjfs:
+      - "gu\xEDo"
+      - "gu\xEDas"
+      - "gu\xEDa"
+      - guiamos
+      - "gui\xE1is"
+      - "gu\xEDan"
+      cjid: pind
+    - cjfs:
+      - guiaba
+      - guiabas
+      - guiaba
+      - "gui\xE1bamos"
+      - guiabais
+      - guiaban
+      cjid: pret
+    - cjfs:
+      - "gui\xE9"
+      - guiaste
+      - "gui\xF3"
+      - guiamos
+      - guiasteis
+      - guiaron
+      cjid: pprf
+    - cjfs:
+      - "guiar\xE9"
+      - "guiar\xE1s"
+      - "guiar\xE1"
+      - guiaremos
+      - "guiar\xE9is"
+      - "guiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "guiar\xEDa"
+      - "guiar\xEDas"
+      - "guiar\xEDa"
+      - "guiar\xEDamos"
+      - "guiar\xEDais"
+      - "guiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "gu\xEDe"
+      - "gu\xEDes"
+      - "gu\xEDe"
+      - guiemos
+      - "gui\xE9is"
+      - "gu\xEDen"
+      cjid: psub
+    - cjfs:
+      - guiara
+      - guiaras
+      - guiara
+      - "gui\xE1ramos"
+      - guiarais
+      - guiaran
+      cjid: pisb1
+    - cjfs:
+      - guiase
+      - guiases
+      - guiase
+      - "gui\xE1semos"
+      - guiaseis
+      - guiasen
+      cjid: pisb2
+    - cjfs:
+      - guiare
+      - guiares
+      - guiare
+      - "gui\xE1remos"
+      - guiareis
+      - guiaren
+      cjid: fsub
+    - cjfs:
+      - he guiado
+      - has guiado
+      - ha guiado
+      - hemos guiado
+      - "hab\xE9is guiado"
+      - han guiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa guiado"
+      - "hab\xEDas guiado"
+      - "hab\xEDa guiado"
+      - "hab\xEDamos guiado"
+      - "hab\xEDais guiado"
+      - "hab\xEDan guiado"
+      cjid: ppsi
+    - cjfs:
+      - hube guiado
+      - hubiste guiado
+      - hubo guiado
+      - hubimos guiado
+      - hubisteis guiado
+      - hubieron guiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 guiado"
+      - "habr\xE1s guiado"
+      - "habr\xE1 guiado"
+      - habremos guiado
+      - "habr\xE9is guiado"
+      - "habr\xE1n guiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa guiado"
+      - "habr\xEDas guiado"
+      - "habr\xEDa guiado"
+      - "habr\xEDamos guiado"
+      - "habr\xEDais guiado"
+      - "habr\xEDan guiado"
+      cjid: cpef
+    - cjfs:
+      - haya guiado
+      - hayas guiado
+      - haya guiado
+      - hayamos guiado
+      - "hay\xE1is guiado"
+      - hayan guiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera guiado
+      - hubieras guiado
+      - hubiera guiado
+      - "hubi\xE9ramos guiado"
+      - hubierais guiado
+      - hubieran guiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese guiado
+      - hubieses guiado
+      - hubiese guiado
+      - "hubi\xE9semos guiado"
+      - hubieseis guiado
+      - hubiesen guiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere guiado
+      - hubieres guiado
+      - hubiere guiado
+      - "hubi\xE9remos guiado"
+      - hubiereis guiado
+      - hubieren guiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "gu\xEDa"
+      - "gu\xEDe"
+      - guiemos
+      - guiad
+      - "gu\xEDen"
+      cjid: impf

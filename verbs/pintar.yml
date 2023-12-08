@@ -1,0 +1,241 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|paint}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw}, to {a_link|mark}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|describe}, to {a_link|depict}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|paint}, to {a_link|draw}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look} '
+          - - vis
+            - - t: no pinta bien
+                tr: it doesn't look good
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|count} '
+          - - vis
+            - - t: "aqu\xED no pinta nada"
+                tr: he has no say here
+          sls:
+          - familiar
+          sn: '3'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|maquillarse||} {bc}to put on makeup'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to manage by oneself, to know it all'
+            sls:
+            - familiar
+            sn: '2'
+            vrs:
+            - va: "pint\xE1rselas solo"
+    drp: pintarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: pintar
+    prs:
+    - sound:
+        audio: pinta02sp
+  meta:
+    id: pintar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617392000'
+    src: spanish
+    stems:
+    - pintar
+    - pintarse
+    - "pint\xE1rselas solo"
+    uuid: ff9081a6-f7ec-4f53-a21a-9d7882d42107
+  shortdef:
+  - to paint
+  - to draw, to mark
+  - to describe, to depict
+  suppl:
+    cjts:
+    - cjfs:
+      - pintando
+      - pintado
+      cjid: gppt
+    - cjfs:
+      - pinto
+      - pintas
+      - pinta
+      - pintamos
+      - "pint\xE1is"
+      - pintan
+      cjid: pind
+    - cjfs:
+      - pintaba
+      - pintabas
+      - pintaba
+      - "pint\xE1bamos"
+      - pintabais
+      - pintaban
+      cjid: pret
+    - cjfs:
+      - "pint\xE9"
+      - pintaste
+      - "pint\xF3"
+      - pintamos
+      - pintasteis
+      - pintaron
+      cjid: pprf
+    - cjfs:
+      - "pintar\xE9"
+      - "pintar\xE1s"
+      - "pintar\xE1"
+      - pintaremos
+      - "pintar\xE9is"
+      - "pintar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pintar\xEDa"
+      - "pintar\xEDas"
+      - "pintar\xEDa"
+      - "pintar\xEDamos"
+      - "pintar\xEDais"
+      - "pintar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pinte
+      - pintes
+      - pinte
+      - pintemos
+      - "pint\xE9is"
+      - pinten
+      cjid: psub
+    - cjfs:
+      - pintara
+      - pintaras
+      - pintara
+      - "pint\xE1ramos"
+      - pintarais
+      - pintaran
+      cjid: pisb1
+    - cjfs:
+      - pintase
+      - pintases
+      - pintase
+      - "pint\xE1semos"
+      - pintaseis
+      - pintasen
+      cjid: pisb2
+    - cjfs:
+      - pintare
+      - pintares
+      - pintare
+      - "pint\xE1remos"
+      - pintareis
+      - pintaren
+      cjid: fsub
+    - cjfs:
+      - he pintado
+      - has pintado
+      - ha pintado
+      - hemos pintado
+      - "hab\xE9is pintado"
+      - han pintado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pintado"
+      - "hab\xEDas pintado"
+      - "hab\xEDa pintado"
+      - "hab\xEDamos pintado"
+      - "hab\xEDais pintado"
+      - "hab\xEDan pintado"
+      cjid: ppsi
+    - cjfs:
+      - hube pintado
+      - hubiste pintado
+      - hubo pintado
+      - hubimos pintado
+      - hubisteis pintado
+      - hubieron pintado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pintado"
+      - "habr\xE1s pintado"
+      - "habr\xE1 pintado"
+      - habremos pintado
+      - "habr\xE9is pintado"
+      - "habr\xE1n pintado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pintado"
+      - "habr\xEDas pintado"
+      - "habr\xEDa pintado"
+      - "habr\xEDamos pintado"
+      - "habr\xEDais pintado"
+      - "habr\xEDan pintado"
+      cjid: cpef
+    - cjfs:
+      - haya pintado
+      - hayas pintado
+      - haya pintado
+      - hayamos pintado
+      - "hay\xE1is pintado"
+      - hayan pintado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pintado
+      - hubieras pintado
+      - hubiera pintado
+      - "hubi\xE9ramos pintado"
+      - hubierais pintado
+      - hubieran pintado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pintado
+      - hubieses pintado
+      - hubiese pintado
+      - "hubi\xE9semos pintado"
+      - hubieseis pintado
+      - hubiesen pintado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pintado
+      - hubieres pintado
+      - hubiere pintado
+      - "hubi\xE9remos pintado"
+      - hubiereis pintado
+      - hubieren pintado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pinta
+      - pinte
+      - pintemos
+      - pintad
+      - pinten
+      cjid: impf

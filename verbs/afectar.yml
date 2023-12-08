@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|affect}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|upset}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|feign}, to {a_link|pretend}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: afectar
+    prs:
+    - sound:
+        audio: afect02sp
+  meta:
+    id: afectar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600600000'
+    src: spanish
+    stems:
+    - afectar
+    uuid: 81149f68-9db2-4e16-b3b5-2fb4498a936d
+  shortdef:
+  - to affect
+  - to upset
+  - to feign, to pretend
+  suppl:
+    cjts:
+    - cjfs:
+      - afectando
+      - afectado
+      cjid: gppt
+    - cjfs:
+      - afecto
+      - afectas
+      - afecta
+      - afectamos
+      - "afect\xE1is"
+      - afectan
+      cjid: pind
+    - cjfs:
+      - afectaba
+      - afectabas
+      - afectaba
+      - "afect\xE1bamos"
+      - afectabais
+      - afectaban
+      cjid: pret
+    - cjfs:
+      - "afect\xE9"
+      - afectaste
+      - "afect\xF3"
+      - afectamos
+      - afectasteis
+      - afectaron
+      cjid: pprf
+    - cjfs:
+      - "afectar\xE9"
+      - "afectar\xE1s"
+      - "afectar\xE1"
+      - afectaremos
+      - "afectar\xE9is"
+      - "afectar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "afectar\xEDa"
+      - "afectar\xEDas"
+      - "afectar\xEDa"
+      - "afectar\xEDamos"
+      - "afectar\xEDais"
+      - "afectar\xEDan"
+      cjid: cond
+    - cjfs:
+      - afecte
+      - afectes
+      - afecte
+      - afectemos
+      - "afect\xE9is"
+      - afecten
+      cjid: psub
+    - cjfs:
+      - afectara
+      - afectaras
+      - afectara
+      - "afect\xE1ramos"
+      - afectarais
+      - afectaran
+      cjid: pisb1
+    - cjfs:
+      - afectase
+      - afectases
+      - afectase
+      - "afect\xE1semos"
+      - afectaseis
+      - afectasen
+      cjid: pisb2
+    - cjfs:
+      - afectare
+      - afectares
+      - afectare
+      - "afect\xE1remos"
+      - afectareis
+      - afectaren
+      cjid: fsub
+    - cjfs:
+      - he afectado
+      - has afectado
+      - ha afectado
+      - hemos afectado
+      - "hab\xE9is afectado"
+      - han afectado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa afectado"
+      - "hab\xEDas afectado"
+      - "hab\xEDa afectado"
+      - "hab\xEDamos afectado"
+      - "hab\xEDais afectado"
+      - "hab\xEDan afectado"
+      cjid: ppsi
+    - cjfs:
+      - hube afectado
+      - hubiste afectado
+      - hubo afectado
+      - hubimos afectado
+      - hubisteis afectado
+      - hubieron afectado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 afectado"
+      - "habr\xE1s afectado"
+      - "habr\xE1 afectado"
+      - habremos afectado
+      - "habr\xE9is afectado"
+      - "habr\xE1n afectado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa afectado"
+      - "habr\xEDas afectado"
+      - "habr\xEDa afectado"
+      - "habr\xEDamos afectado"
+      - "habr\xEDais afectado"
+      - "habr\xEDan afectado"
+      cjid: cpef
+    - cjfs:
+      - haya afectado
+      - hayas afectado
+      - haya afectado
+      - hayamos afectado
+      - "hay\xE1is afectado"
+      - hayan afectado
+      cjid: ppfs
+    - cjfs:
+      - hubiera afectado
+      - hubieras afectado
+      - hubiera afectado
+      - "hubi\xE9ramos afectado"
+      - hubierais afectado
+      - hubieran afectado
+      cjid: ppss1
+    - cjfs:
+      - hubiese afectado
+      - hubieses afectado
+      - hubiese afectado
+      - "hubi\xE9semos afectado"
+      - hubieseis afectado
+      - hubiesen afectado
+      cjid: ppss2
+    - cjfs:
+      - hubiere afectado
+      - hubieres afectado
+      - hubiere afectado
+      - "hubi\xE9remos afectado"
+      - hubiereis afectado
+      - hubieren afectado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - afecta
+      - afecte
+      - afectemos
+      - afectad
+      - afecten
+      cjid: impf

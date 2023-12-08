@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spill}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shed} (tears, blood)'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to spill over'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|scatter}'
+            sn: '2'
+    drp: derramarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: derramar
+    prs:
+    - sound:
+        audio: derra01sp
+  meta:
+    id: derramar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606756000'
+    src: spanish
+    stems:
+    - derramar
+    - derramarse
+    uuid: fe239c4e-959c-4ec8-8fe2-3c6c077cb343
+  shortdef:
+  - to spill
+  - to shed (tears, blood)
+  suppl:
+    cjts:
+    - cjfs:
+      - derramando
+      - derramado
+      cjid: gppt
+    - cjfs:
+      - derramo
+      - derramas
+      - derrama
+      - derramamos
+      - "derram\xE1is"
+      - derraman
+      cjid: pind
+    - cjfs:
+      - derramaba
+      - derramabas
+      - derramaba
+      - "derram\xE1bamos"
+      - derramabais
+      - derramaban
+      cjid: pret
+    - cjfs:
+      - "derram\xE9"
+      - derramaste
+      - "derram\xF3"
+      - derramamos
+      - derramasteis
+      - derramaron
+      cjid: pprf
+    - cjfs:
+      - "derramar\xE9"
+      - "derramar\xE1s"
+      - "derramar\xE1"
+      - derramaremos
+      - "derramar\xE9is"
+      - "derramar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "derramar\xEDa"
+      - "derramar\xEDas"
+      - "derramar\xEDa"
+      - "derramar\xEDamos"
+      - "derramar\xEDais"
+      - "derramar\xEDan"
+      cjid: cond
+    - cjfs:
+      - derrame
+      - derrames
+      - derrame
+      - derramemos
+      - "derram\xE9is"
+      - derramen
+      cjid: psub
+    - cjfs:
+      - derramara
+      - derramaras
+      - derramara
+      - "derram\xE1ramos"
+      - derramarais
+      - derramaran
+      cjid: pisb1
+    - cjfs:
+      - derramase
+      - derramases
+      - derramase
+      - "derram\xE1semos"
+      - derramaseis
+      - derramasen
+      cjid: pisb2
+    - cjfs:
+      - derramare
+      - derramares
+      - derramare
+      - "derram\xE1remos"
+      - derramareis
+      - derramaren
+      cjid: fsub
+    - cjfs:
+      - he derramado
+      - has derramado
+      - ha derramado
+      - hemos derramado
+      - "hab\xE9is derramado"
+      - han derramado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa derramado"
+      - "hab\xEDas derramado"
+      - "hab\xEDa derramado"
+      - "hab\xEDamos derramado"
+      - "hab\xEDais derramado"
+      - "hab\xEDan derramado"
+      cjid: ppsi
+    - cjfs:
+      - hube derramado
+      - hubiste derramado
+      - hubo derramado
+      - hubimos derramado
+      - hubisteis derramado
+      - hubieron derramado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 derramado"
+      - "habr\xE1s derramado"
+      - "habr\xE1 derramado"
+      - habremos derramado
+      - "habr\xE9is derramado"
+      - "habr\xE1n derramado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa derramado"
+      - "habr\xEDas derramado"
+      - "habr\xEDa derramado"
+      - "habr\xEDamos derramado"
+      - "habr\xEDais derramado"
+      - "habr\xEDan derramado"
+      cjid: cpef
+    - cjfs:
+      - haya derramado
+      - hayas derramado
+      - haya derramado
+      - hayamos derramado
+      - "hay\xE1is derramado"
+      - hayan derramado
+      cjid: ppfs
+    - cjfs:
+      - hubiera derramado
+      - hubieras derramado
+      - hubiera derramado
+      - "hubi\xE9ramos derramado"
+      - hubierais derramado
+      - hubieran derramado
+      cjid: ppss1
+    - cjfs:
+      - hubiese derramado
+      - hubieses derramado
+      - hubiese derramado
+      - "hubi\xE9semos derramado"
+      - hubieseis derramado
+      - hubiesen derramado
+      cjid: ppss2
+    - cjfs:
+      - hubiere derramado
+      - hubieres derramado
+      - hubiere derramado
+      - "hubi\xE9remos derramado"
+      - hubiereis derramado
+      - hubieren derramado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - derrama
+      - derrame
+      - derramemos
+      - derramad
+      - derramen
+      cjid: impf

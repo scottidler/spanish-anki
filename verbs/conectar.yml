@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|connect}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to link up with, to communicate with'
+          vrs:
+          - va: conectar con
+            vac: ~ con
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: conectar
+    prs:
+    - sound:
+        audio: conec01sp
+  meta:
+    id: conectar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605428000'
+    src: spanish
+    stems:
+    - conectar
+    - conectar con
+    uuid: 0bca5c7e-afe2-49f5-a663-78bf1b71b7f9
+  shortdef:
+  - to connect
+  - to link up with, to communicate with
+  suppl:
+    cjts:
+    - cjfs:
+      - conectando
+      - conectado
+      cjid: gppt
+    - cjfs:
+      - conecto
+      - conectas
+      - conecta
+      - conectamos
+      - "conect\xE1is"
+      - conectan
+      cjid: pind
+    - cjfs:
+      - conectaba
+      - conectabas
+      - conectaba
+      - "conect\xE1bamos"
+      - conectabais
+      - conectaban
+      cjid: pret
+    - cjfs:
+      - "conect\xE9"
+      - conectaste
+      - "conect\xF3"
+      - conectamos
+      - conectasteis
+      - conectaron
+      cjid: pprf
+    - cjfs:
+      - "conectar\xE9"
+      - "conectar\xE1s"
+      - "conectar\xE1"
+      - conectaremos
+      - "conectar\xE9is"
+      - "conectar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conectar\xEDa"
+      - "conectar\xEDas"
+      - "conectar\xEDa"
+      - "conectar\xEDamos"
+      - "conectar\xEDais"
+      - "conectar\xEDan"
+      cjid: cond
+    - cjfs:
+      - conecte
+      - conectes
+      - conecte
+      - conectemos
+      - "conect\xE9is"
+      - conecten
+      cjid: psub
+    - cjfs:
+      - conectara
+      - conectaras
+      - conectara
+      - "conect\xE1ramos"
+      - conectarais
+      - conectaran
+      cjid: pisb1
+    - cjfs:
+      - conectase
+      - conectases
+      - conectase
+      - "conect\xE1semos"
+      - conectaseis
+      - conectasen
+      cjid: pisb2
+    - cjfs:
+      - conectare
+      - conectares
+      - conectare
+      - "conect\xE1remos"
+      - conectareis
+      - conectaren
+      cjid: fsub
+    - cjfs:
+      - he conectado
+      - has conectado
+      - ha conectado
+      - hemos conectado
+      - "hab\xE9is conectado"
+      - han conectado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conectado"
+      - "hab\xEDas conectado"
+      - "hab\xEDa conectado"
+      - "hab\xEDamos conectado"
+      - "hab\xEDais conectado"
+      - "hab\xEDan conectado"
+      cjid: ppsi
+    - cjfs:
+      - hube conectado
+      - hubiste conectado
+      - hubo conectado
+      - hubimos conectado
+      - hubisteis conectado
+      - hubieron conectado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conectado"
+      - "habr\xE1s conectado"
+      - "habr\xE1 conectado"
+      - habremos conectado
+      - "habr\xE9is conectado"
+      - "habr\xE1n conectado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conectado"
+      - "habr\xEDas conectado"
+      - "habr\xEDa conectado"
+      - "habr\xEDamos conectado"
+      - "habr\xEDais conectado"
+      - "habr\xEDan conectado"
+      cjid: cpef
+    - cjfs:
+      - haya conectado
+      - hayas conectado
+      - haya conectado
+      - hayamos conectado
+      - "hay\xE1is conectado"
+      - hayan conectado
+      cjid: ppfs
+    - cjfs:
+      - hubiera conectado
+      - hubieras conectado
+      - hubiera conectado
+      - "hubi\xE9ramos conectado"
+      - hubierais conectado
+      - hubieran conectado
+      cjid: ppss1
+    - cjfs:
+      - hubiese conectado
+      - hubieses conectado
+      - hubiese conectado
+      - "hubi\xE9semos conectado"
+      - hubieseis conectado
+      - hubiesen conectado
+      cjid: ppss2
+    - cjfs:
+      - hubiere conectado
+      - hubieres conectado
+      - hubiere conectado
+      - "hubi\xE9remos conectado"
+      - hubiereis conectado
+      - hubieren conectado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conecta
+      - conecte
+      - conectemos
+      - conectad
+      - conecten
+      cjid: impf

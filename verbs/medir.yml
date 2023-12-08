@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|measure}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|weigh}, to {a_link|consider} '
+          - - vis
+            - - t: medir los riesgos
+                tr: to weigh the risks
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|measure}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be moderate, to exercise restraint'
+    drp: medirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: medir
+    prs:
+    - sound:
+        audio: medir01sp
+  meta:
+    id: medir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614726000'
+    src: spanish
+    stems:
+    - medir
+    - medirse
+    uuid: ce5daebc-10e4-4b9f-a38d-0d8622226777
+  shortdef:
+  - to measure
+  - to weigh, to consider
+  - to measure
+  suppl:
+    cjts:
+    - cjfs:
+      - midiendo
+      - medido
+      cjid: gppt
+    - cjfs:
+      - mido
+      - mides
+      - mide
+      - medimos
+      - "med\xEDs"
+      - miden
+      cjid: pind
+    - cjfs:
+      - "med\xEDa"
+      - "med\xEDas"
+      - "med\xEDa"
+      - "med\xEDamos"
+      - "med\xEDais"
+      - "med\xEDan"
+      cjid: pret
+    - cjfs:
+      - "med\xED"
+      - mediste
+      - "midi\xF3"
+      - medimos
+      - medisteis
+      - midieron
+      cjid: pprf
+    - cjfs:
+      - "medir\xE9"
+      - "medir\xE1s"
+      - "medir\xE1"
+      - mediremos
+      - "medir\xE9is"
+      - "medir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "medir\xEDa"
+      - "medir\xEDas"
+      - "medir\xEDa"
+      - "medir\xEDamos"
+      - "medir\xEDais"
+      - "medir\xEDan"
+      cjid: cond
+    - cjfs:
+      - mida
+      - midas
+      - mida
+      - midamos
+      - "mid\xE1is"
+      - midan
+      cjid: psub
+    - cjfs:
+      - midiera
+      - midieras
+      - midiera
+      - "midi\xE9ramos"
+      - midierais
+      - midieran
+      cjid: pisb1
+    - cjfs:
+      - midiese
+      - midieses
+      - midiese
+      - "midi\xE9semos"
+      - midieseis
+      - midiesen
+      cjid: pisb2
+    - cjfs:
+      - midiere
+      - midieres
+      - midiere
+      - "midi\xE9remos"
+      - midiereis
+      - midieren
+      cjid: fsub
+    - cjfs:
+      - he medido
+      - has medido
+      - ha medido
+      - hemos medido
+      - "hab\xE9is medido"
+      - han medido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa medido"
+      - "hab\xEDas medido"
+      - "hab\xEDa medido"
+      - "hab\xEDamos medido"
+      - "hab\xEDais medido"
+      - "hab\xEDan medido"
+      cjid: ppsi
+    - cjfs:
+      - hube medido
+      - hubiste medido
+      - hubo medido
+      - hubimos medido
+      - hubisteis medido
+      - hubieron medido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 medido"
+      - "habr\xE1s medido"
+      - "habr\xE1 medido"
+      - habremos medido
+      - "habr\xE9is medido"
+      - "habr\xE1n medido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa medido"
+      - "habr\xEDas medido"
+      - "habr\xEDa medido"
+      - "habr\xEDamos medido"
+      - "habr\xEDais medido"
+      - "habr\xEDan medido"
+      cjid: cpef
+    - cjfs:
+      - haya medido
+      - hayas medido
+      - haya medido
+      - hayamos medido
+      - "hay\xE1is medido"
+      - hayan medido
+      cjid: ppfs
+    - cjfs:
+      - hubiera medido
+      - hubieras medido
+      - hubiera medido
+      - "hubi\xE9ramos medido"
+      - hubierais medido
+      - hubieran medido
+      cjid: ppss1
+    - cjfs:
+      - hubiese medido
+      - hubieses medido
+      - hubiese medido
+      - "hubi\xE9semos medido"
+      - hubieseis medido
+      - hubiesen medido
+      cjid: ppss2
+    - cjfs:
+      - hubiere medido
+      - hubieres medido
+      - hubiere medido
+      - "hubi\xE9remos medido"
+      - hubiereis medido
+      - hubieren medido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mide
+      - mida
+      - midamos
+      - medid
+      - midan
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|doblar||} {bc}to {a_link|fold}, to {a_link|bend}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to give in, to {a_link|yield}'
+    drp: plegarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: plegar
+    prs:
+    - sound:
+        audio: plega02sp
+  meta:
+    id: plegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617566000'
+    src: spanish
+    stems:
+    - plegar
+    - plegarse
+    uuid: 586ae328-05e4-4c05-86c2-0a95f384257d
+  shortdef:
+  - 'doblar : to fold, to bend'
+  suppl:
+    cjts:
+    - cjfs:
+      - plegando
+      - plegado
+      cjid: gppt
+    - cjfs:
+      - pliego
+      - pliegas
+      - pliega
+      - plegamos
+      - "pleg\xE1is"
+      - pliegan
+      cjid: pind
+    - cjfs:
+      - plegaba
+      - plegabas
+      - plegaba
+      - "pleg\xE1bamos"
+      - plegabais
+      - plegaban
+      cjid: pret
+    - cjfs:
+      - "plegu\xE9"
+      - plegaste
+      - "pleg\xF3"
+      - plegamos
+      - plegasteis
+      - plegaron
+      cjid: pprf
+    - cjfs:
+      - "plegar\xE9"
+      - "plegar\xE1s"
+      - "plegar\xE1"
+      - plegaremos
+      - "plegar\xE9is"
+      - "plegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "plegar\xEDa"
+      - "plegar\xEDas"
+      - "plegar\xEDa"
+      - "plegar\xEDamos"
+      - "plegar\xEDais"
+      - "plegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pliegue
+      - pliegues
+      - pliegue
+      - pleguemos
+      - "plegu\xE9is"
+      - plieguen
+      cjid: psub
+    - cjfs:
+      - plegara
+      - plegaras
+      - plegara
+      - "pleg\xE1ramos"
+      - plegarais
+      - plegaran
+      cjid: pisb1
+    - cjfs:
+      - plegase
+      - plegases
+      - plegase
+      - "pleg\xE1semos"
+      - plegaseis
+      - plegasen
+      cjid: pisb2
+    - cjfs:
+      - plegare
+      - plegares
+      - plegare
+      - "pleg\xE1remos"
+      - plegareis
+      - plegaren
+      cjid: fsub
+    - cjfs:
+      - he plegado
+      - has plegado
+      - ha plegado
+      - hemos plegado
+      - "hab\xE9is plegado"
+      - han plegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa plegado"
+      - "hab\xEDas plegado"
+      - "hab\xEDa plegado"
+      - "hab\xEDamos plegado"
+      - "hab\xEDais plegado"
+      - "hab\xEDan plegado"
+      cjid: ppsi
+    - cjfs:
+      - hube plegado
+      - hubiste plegado
+      - hubo plegado
+      - hubimos plegado
+      - hubisteis plegado
+      - hubieron plegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 plegado"
+      - "habr\xE1s plegado"
+      - "habr\xE1 plegado"
+      - habremos plegado
+      - "habr\xE9is plegado"
+      - "habr\xE1n plegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa plegado"
+      - "habr\xEDas plegado"
+      - "habr\xEDa plegado"
+      - "habr\xEDamos plegado"
+      - "habr\xEDais plegado"
+      - "habr\xEDan plegado"
+      cjid: cpef
+    - cjfs:
+      - haya plegado
+      - hayas plegado
+      - haya plegado
+      - hayamos plegado
+      - "hay\xE1is plegado"
+      - hayan plegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera plegado
+      - hubieras plegado
+      - hubiera plegado
+      - "hubi\xE9ramos plegado"
+      - hubierais plegado
+      - hubieran plegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese plegado
+      - hubieses plegado
+      - hubiese plegado
+      - "hubi\xE9semos plegado"
+      - hubieseis plegado
+      - hubiesen plegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere plegado
+      - hubieres plegado
+      - hubiere plegado
+      - "hubi\xE9remos plegado"
+      - hubiereis plegado
+      - hubieren plegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pliega
+      - pliegue
+      - pleguemos
+      - plegad
+      - plieguen
+      cjid: impf

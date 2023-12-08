@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|convince}, to {a_link|persuade}'
+  fl: transitive verb
+  hwi:
+    hw: convencer
+    prs:
+    - sound:
+        audio: conve01sp
+  meta:
+    id: convencer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605797000'
+    src: spanish
+    stems:
+    - convencer
+    - convencerse
+    uuid: 3112c7be-c324-4ccf-8e2d-2e77d15d82c6
+  shortdef:
+  - to convince, to persuade
+  suppl:
+    cjts:
+    - cjfs:
+      - convenciendo
+      - convencido
+      cjid: gppt
+    - cjfs:
+      - convenzo
+      - convences
+      - convence
+      - convencemos
+      - "convenc\xE9is"
+      - convencen
+      cjid: pind
+    - cjfs:
+      - "convenc\xEDa"
+      - "convenc\xEDas"
+      - "convenc\xEDa"
+      - "convenc\xEDamos"
+      - "convenc\xEDais"
+      - "convenc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "convenc\xED"
+      - convenciste
+      - "convenci\xF3"
+      - convencimos
+      - convencisteis
+      - convencieron
+      cjid: pprf
+    - cjfs:
+      - "convencer\xE9"
+      - "convencer\xE1s"
+      - "convencer\xE1"
+      - convenceremos
+      - "convencer\xE9is"
+      - "convencer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "convencer\xEDa"
+      - "convencer\xEDas"
+      - "convencer\xEDa"
+      - "convencer\xEDamos"
+      - "convencer\xEDais"
+      - "convencer\xEDan"
+      cjid: cond
+    - cjfs:
+      - convenza
+      - convenzas
+      - convenza
+      - convenzamos
+      - "convenz\xE1is"
+      - convenzan
+      cjid: psub
+    - cjfs:
+      - convenciera
+      - convencieras
+      - convenciera
+      - "convenci\xE9ramos"
+      - convencierais
+      - convencieran
+      cjid: pisb1
+    - cjfs:
+      - convenciese
+      - convencieses
+      - convenciese
+      - "convenci\xE9semos"
+      - convencieseis
+      - convenciesen
+      cjid: pisb2
+    - cjfs:
+      - convenciere
+      - convencieres
+      - convenciere
+      - "convenci\xE9remos"
+      - convenciereis
+      - convencieren
+      cjid: fsub
+    - cjfs:
+      - he convencido
+      - has convencido
+      - ha convencido
+      - hemos convencido
+      - "hab\xE9is convencido"
+      - han convencido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa convencido"
+      - "hab\xEDas convencido"
+      - "hab\xEDa convencido"
+      - "hab\xEDamos convencido"
+      - "hab\xEDais convencido"
+      - "hab\xEDan convencido"
+      cjid: ppsi
+    - cjfs:
+      - hube convencido
+      - hubiste convencido
+      - hubo convencido
+      - hubimos convencido
+      - hubisteis convencido
+      - hubieron convencido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 convencido"
+      - "habr\xE1s convencido"
+      - "habr\xE1 convencido"
+      - habremos convencido
+      - "habr\xE9is convencido"
+      - "habr\xE1n convencido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa convencido"
+      - "habr\xEDas convencido"
+      - "habr\xEDa convencido"
+      - "habr\xEDamos convencido"
+      - "habr\xEDais convencido"
+      - "habr\xEDan convencido"
+      cjid: cpef
+    - cjfs:
+      - haya convencido
+      - hayas convencido
+      - haya convencido
+      - hayamos convencido
+      - "hay\xE1is convencido"
+      - hayan convencido
+      cjid: ppfs
+    - cjfs:
+      - hubiera convencido
+      - hubieras convencido
+      - hubiera convencido
+      - "hubi\xE9ramos convencido"
+      - hubierais convencido
+      - hubieran convencido
+      cjid: ppss1
+    - cjfs:
+      - hubiese convencido
+      - hubieses convencido
+      - hubiese convencido
+      - "hubi\xE9semos convencido"
+      - hubieseis convencido
+      - hubiesen convencido
+      cjid: ppss2
+    - cjfs:
+      - hubiere convencido
+      - hubieres convencido
+      - hubiere convencido
+      - "hubi\xE9remos convencido"
+      - hubiereis convencido
+      - hubieren convencido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - convence
+      - convenza
+      - convenzamos
+      - convenced
+      - convenzan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: convencerse

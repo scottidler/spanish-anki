@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expel}, to {a_link|eject}'
+  fl: transitive verb
+  hwi:
+    hw: expulsar
+    prs:
+    - sound:
+        audio: expul01sp
+  meta:
+    id: expulsar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609724000'
+    src: spanish
+    stems:
+    - expulsar
+    - expulsarse
+    uuid: 671d95bb-7d2c-4eab-9cb0-e4acac1e8ff9
+  shortdef:
+  - to expel, to eject
+  suppl:
+    cjts:
+    - cjfs:
+      - expulsando
+      - expulsado
+      cjid: gppt
+    - cjfs:
+      - expulso
+      - expulsas
+      - expulsa
+      - expulsamos
+      - "expuls\xE1is"
+      - expulsan
+      cjid: pind
+    - cjfs:
+      - expulsaba
+      - expulsabas
+      - expulsaba
+      - "expuls\xE1bamos"
+      - expulsabais
+      - expulsaban
+      cjid: pret
+    - cjfs:
+      - "expuls\xE9"
+      - expulsaste
+      - "expuls\xF3"
+      - expulsamos
+      - expulsasteis
+      - expulsaron
+      cjid: pprf
+    - cjfs:
+      - "expulsar\xE9"
+      - "expulsar\xE1s"
+      - "expulsar\xE1"
+      - expulsaremos
+      - "expulsar\xE9is"
+      - "expulsar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "expulsar\xEDa"
+      - "expulsar\xEDas"
+      - "expulsar\xEDa"
+      - "expulsar\xEDamos"
+      - "expulsar\xEDais"
+      - "expulsar\xEDan"
+      cjid: cond
+    - cjfs:
+      - expulse
+      - expulses
+      - expulse
+      - expulsemos
+      - "expuls\xE9is"
+      - expulsen
+      cjid: psub
+    - cjfs:
+      - expulsara
+      - expulsaras
+      - expulsara
+      - "expuls\xE1ramos"
+      - expulsarais
+      - expulsaran
+      cjid: pisb1
+    - cjfs:
+      - expulsase
+      - expulsases
+      - expulsase
+      - "expuls\xE1semos"
+      - expulsaseis
+      - expulsasen
+      cjid: pisb2
+    - cjfs:
+      - expulsare
+      - expulsares
+      - expulsare
+      - "expuls\xE1remos"
+      - expulsareis
+      - expulsaren
+      cjid: fsub
+    - cjfs:
+      - he expulsado
+      - has expulsado
+      - ha expulsado
+      - hemos expulsado
+      - "hab\xE9is expulsado"
+      - han expulsado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa expulsado"
+      - "hab\xEDas expulsado"
+      - "hab\xEDa expulsado"
+      - "hab\xEDamos expulsado"
+      - "hab\xEDais expulsado"
+      - "hab\xEDan expulsado"
+      cjid: ppsi
+    - cjfs:
+      - hube expulsado
+      - hubiste expulsado
+      - hubo expulsado
+      - hubimos expulsado
+      - hubisteis expulsado
+      - hubieron expulsado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 expulsado"
+      - "habr\xE1s expulsado"
+      - "habr\xE1 expulsado"
+      - habremos expulsado
+      - "habr\xE9is expulsado"
+      - "habr\xE1n expulsado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa expulsado"
+      - "habr\xEDas expulsado"
+      - "habr\xEDa expulsado"
+      - "habr\xEDamos expulsado"
+      - "habr\xEDais expulsado"
+      - "habr\xEDan expulsado"
+      cjid: cpef
+    - cjfs:
+      - haya expulsado
+      - hayas expulsado
+      - haya expulsado
+      - hayamos expulsado
+      - "hay\xE1is expulsado"
+      - hayan expulsado
+      cjid: ppfs
+    - cjfs:
+      - hubiera expulsado
+      - hubieras expulsado
+      - hubiera expulsado
+      - "hubi\xE9ramos expulsado"
+      - hubierais expulsado
+      - hubieran expulsado
+      cjid: ppss1
+    - cjfs:
+      - hubiese expulsado
+      - hubieses expulsado
+      - hubiese expulsado
+      - "hubi\xE9semos expulsado"
+      - hubieseis expulsado
+      - hubiesen expulsado
+      cjid: ppss2
+    - cjfs:
+      - hubiere expulsado
+      - hubieres expulsado
+      - hubiere expulsado
+      - "hubi\xE9remos expulsado"
+      - hubiereis expulsado
+      - hubieren expulsado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - expulsa
+      - expulse
+      - expulsemos
+      - expulsad
+      - expulsen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: expulsarse

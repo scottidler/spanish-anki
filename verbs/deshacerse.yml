@@ -1,0 +1,225 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|destroy}, to {a_link|ruin}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desatar||} {bc}to {a_link|undo}, to {a_link|untie}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to break apart, to {a_link|crumble}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dissolve}, to {a_link|melt}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break}, to {a_link|cancel}'
+          sn: '5'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fall apart}, to {a_link|come undone}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get rid of}'
+            sn: '2'
+            vrs:
+            - va: deshacerse de
+              vac: ~ de
+    drp: deshacerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: deshacer
+    prs:
+    - sound:
+        audio: desha02sp
+  meta:
+    id: deshacer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607110000'
+    src: spanish
+    stems:
+    - deshacer
+    - deshacerse
+    - deshacerse de
+    uuid: 0b04e869-2adc-4a88-a1b1-c478c02b0e8a
+  shortdef:
+  - to destroy, to ruin
+  - 'desatar : to undo, to untie'
+  - to break apart, to crumble
+  suppl:
+    cjts:
+    - cjfs:
+      - deshaciendo
+      - deshecho
+      cjid: gppt
+    - cjfs:
+      - deshago
+      - deshaces
+      - deshace
+      - deshacemos
+      - "deshac\xE9is"
+      - deshacen
+      cjid: pind
+    - cjfs:
+      - "deshac\xEDa"
+      - "deshac\xEDas"
+      - "deshac\xEDa"
+      - "deshac\xEDamos"
+      - "deshac\xEDais"
+      - "deshac\xEDan"
+      cjid: pret
+    - cjfs:
+      - deshice
+      - deshiciste
+      - deshizo
+      - deshicimos
+      - deshicisteis
+      - deshicieron
+      cjid: pprf
+    - cjfs:
+      - "deshar\xE9"
+      - "deshar\xE1s"
+      - "deshar\xE1"
+      - desharemos
+      - "deshar\xE9is"
+      - "deshar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deshar\xEDa"
+      - "deshar\xEDas"
+      - "deshar\xEDa"
+      - "deshar\xEDamos"
+      - "deshar\xEDais"
+      - "deshar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deshaga
+      - deshagas
+      - deshaga
+      - deshagamos
+      - "deshag\xE1is"
+      - deshagan
+      cjid: psub
+    - cjfs:
+      - deshiciera
+      - deshicieras
+      - deshiciera
+      - "deshici\xE9ramos"
+      - deshicierais
+      - deshicieran
+      cjid: pisb1
+    - cjfs:
+      - deshiciese
+      - deshicieses
+      - deshiciese
+      - "deshici\xE9semos"
+      - deshicieseis
+      - deshiciesen
+      cjid: pisb2
+    - cjfs:
+      - deshiciere
+      - deshicieres
+      - deshiciere
+      - "deshici\xE9remos"
+      - deshiciereis
+      - deshicieren
+      cjid: fsub
+    - cjfs:
+      - he deshecho
+      - has deshecho
+      - ha deshecho
+      - hemos deshecho
+      - "hab\xE9is deshecho"
+      - han deshecho
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deshecho"
+      - "hab\xEDas deshecho"
+      - "hab\xEDa deshecho"
+      - "hab\xEDamos deshecho"
+      - "hab\xEDais deshecho"
+      - "hab\xEDan deshecho"
+      cjid: ppsi
+    - cjfs:
+      - hube deshecho
+      - hubiste deshecho
+      - hubo deshecho
+      - hubimos deshecho
+      - hubisteis deshecho
+      - hubieron deshecho
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deshecho"
+      - "habr\xE1s deshecho"
+      - "habr\xE1 deshecho"
+      - habremos deshecho
+      - "habr\xE9is deshecho"
+      - "habr\xE1n deshecho"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deshecho"
+      - "habr\xEDas deshecho"
+      - "habr\xEDa deshecho"
+      - "habr\xEDamos deshecho"
+      - "habr\xEDais deshecho"
+      - "habr\xEDan deshecho"
+      cjid: cpef
+    - cjfs:
+      - haya deshecho
+      - hayas deshecho
+      - haya deshecho
+      - hayamos deshecho
+      - "hay\xE1is deshecho"
+      - hayan deshecho
+      cjid: ppfs
+    - cjfs:
+      - hubiera deshecho
+      - hubieras deshecho
+      - hubiera deshecho
+      - "hubi\xE9ramos deshecho"
+      - hubierais deshecho
+      - hubieran deshecho
+      cjid: ppss1
+    - cjfs:
+      - hubiese deshecho
+      - hubieses deshecho
+      - hubiese deshecho
+      - "hubi\xE9semos deshecho"
+      - hubieseis deshecho
+      - hubiesen deshecho
+      cjid: ppss2
+    - cjfs:
+      - hubiere deshecho
+      - hubieres deshecho
+      - hubiere deshecho
+      - "hubi\xE9remos deshecho"
+      - hubiereis deshecho
+      - hubieren deshecho
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - deshaz
+      - deshaga
+      - deshagamos
+      - deshaced
+      - deshagan
+      cjid: impf

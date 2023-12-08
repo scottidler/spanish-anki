@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|destacar||}, {sx|subrayar||} {bc}to {a_link|emphasize}'
+  fl: transitive verb
+  hwi:
+    hw: enfatizar
+    prs:
+    - sound:
+        audio: enfat01sp
+  meta:
+    id: enfatizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608550000'
+    src: spanish
+    stems:
+    - enfatizar
+    uuid: cd1a53c0-0fd2-4ac8-8c42-101bcc295767
+  shortdef:
+  - 'destacar, subrayar : to emphasize'
+  suppl:
+    cjts:
+    - cjfs:
+      - enfatizando
+      - enfatizado
+      cjid: gppt
+    - cjfs:
+      - enfatizo
+      - enfatizas
+      - enfatiza
+      - enfatizamos
+      - "enfatiz\xE1is"
+      - enfatizan
+      cjid: pind
+    - cjfs:
+      - enfatizaba
+      - enfatizabas
+      - enfatizaba
+      - "enfatiz\xE1bamos"
+      - enfatizabais
+      - enfatizaban
+      cjid: pret
+    - cjfs:
+      - "enfatic\xE9"
+      - enfatizaste
+      - "enfatiz\xF3"
+      - enfatizamos
+      - enfatizasteis
+      - enfatizaron
+      cjid: pprf
+    - cjfs:
+      - "enfatizar\xE9"
+      - "enfatizar\xE1s"
+      - "enfatizar\xE1"
+      - enfatizaremos
+      - "enfatizar\xE9is"
+      - "enfatizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enfatizar\xEDa"
+      - "enfatizar\xEDas"
+      - "enfatizar\xEDa"
+      - "enfatizar\xEDamos"
+      - "enfatizar\xEDais"
+      - "enfatizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enfatice
+      - enfatices
+      - enfatice
+      - enfaticemos
+      - "enfatic\xE9is"
+      - enfaticen
+      cjid: psub
+    - cjfs:
+      - enfatizara
+      - enfatizaras
+      - enfatizara
+      - "enfatiz\xE1ramos"
+      - enfatizarais
+      - enfatizaran
+      cjid: pisb1
+    - cjfs:
+      - enfatizase
+      - enfatizases
+      - enfatizase
+      - "enfatiz\xE1semos"
+      - enfatizaseis
+      - enfatizasen
+      cjid: pisb2
+    - cjfs:
+      - enfatizare
+      - enfatizares
+      - enfatizare
+      - "enfatiz\xE1remos"
+      - enfatizareis
+      - enfatizaren
+      cjid: fsub
+    - cjfs:
+      - he enfatizado
+      - has enfatizado
+      - ha enfatizado
+      - hemos enfatizado
+      - "hab\xE9is enfatizado"
+      - han enfatizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enfatizado"
+      - "hab\xEDas enfatizado"
+      - "hab\xEDa enfatizado"
+      - "hab\xEDamos enfatizado"
+      - "hab\xEDais enfatizado"
+      - "hab\xEDan enfatizado"
+      cjid: ppsi
+    - cjfs:
+      - hube enfatizado
+      - hubiste enfatizado
+      - hubo enfatizado
+      - hubimos enfatizado
+      - hubisteis enfatizado
+      - hubieron enfatizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enfatizado"
+      - "habr\xE1s enfatizado"
+      - "habr\xE1 enfatizado"
+      - habremos enfatizado
+      - "habr\xE9is enfatizado"
+      - "habr\xE1n enfatizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enfatizado"
+      - "habr\xEDas enfatizado"
+      - "habr\xEDa enfatizado"
+      - "habr\xEDamos enfatizado"
+      - "habr\xEDais enfatizado"
+      - "habr\xEDan enfatizado"
+      cjid: cpef
+    - cjfs:
+      - haya enfatizado
+      - hayas enfatizado
+      - haya enfatizado
+      - hayamos enfatizado
+      - "hay\xE1is enfatizado"
+      - hayan enfatizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enfatizado
+      - hubieras enfatizado
+      - hubiera enfatizado
+      - "hubi\xE9ramos enfatizado"
+      - hubierais enfatizado
+      - hubieran enfatizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enfatizado
+      - hubieses enfatizado
+      - hubiese enfatizado
+      - "hubi\xE9semos enfatizado"
+      - hubieseis enfatizado
+      - hubiesen enfatizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enfatizado
+      - hubieres enfatizado
+      - hubiere enfatizado
+      - "hubi\xE9remos enfatizado"
+      - hubiereis enfatizado
+      - hubieren enfatizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enfatiza
+      - enfatice
+      - enfaticemos
+      - enfatizad
+      - enfaticen
+      cjid: impf

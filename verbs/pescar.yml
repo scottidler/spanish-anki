@@ -1,0 +1,254 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fish for}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|catch}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get a hold of, to {a_link|land}'
+          sls:
+          - familiar
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fish}, to go fishing'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: pescar
+    prs:
+    - sound:
+        audio: pesca05sp
+  meta:
+    id: pescar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617244000'
+    src: spanish
+    stems:
+    - pescar
+    uuid: c99a9e9c-1df8-427b-b072-b7ced106c81d
+  shortdef:
+  - to fish for
+  - to catch
+  - to get a hold of, to land
+  suppl:
+    cjts:
+    - cjfs:
+      - pescando
+      - pescado
+      cjid: gppt
+    - cjfs:
+      - pesco
+      - pescas
+      - pesca
+      - pescamos
+      - "pesc\xE1is"
+      - pescan
+      cjid: pind
+    - cjfs:
+      - pescaba
+      - pescabas
+      - pescaba
+      - "pesc\xE1bamos"
+      - pescabais
+      - pescaban
+      cjid: pret
+    - cjfs:
+      - "pesqu\xE9"
+      - pescaste
+      - "pesc\xF3"
+      - pescamos
+      - pescasteis
+      - pescaron
+      cjid: pprf
+    - cjfs:
+      - "pescar\xE9"
+      - "pescar\xE1s"
+      - "pescar\xE1"
+      - pescaremos
+      - "pescar\xE9is"
+      - "pescar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pescar\xEDa"
+      - "pescar\xEDas"
+      - "pescar\xEDa"
+      - "pescar\xEDamos"
+      - "pescar\xEDais"
+      - "pescar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pesque
+      - pesques
+      - pesque
+      - pesquemos
+      - "pesqu\xE9is"
+      - pesquen
+      cjid: psub
+    - cjfs:
+      - pescara
+      - pescaras
+      - pescara
+      - "pesc\xE1ramos"
+      - pescarais
+      - pescaran
+      cjid: pisb1
+    - cjfs:
+      - pescase
+      - pescases
+      - pescase
+      - "pesc\xE1semos"
+      - pescaseis
+      - pescasen
+      cjid: pisb2
+    - cjfs:
+      - pescare
+      - pescares
+      - pescare
+      - "pesc\xE1remos"
+      - pescareis
+      - pescaren
+      cjid: fsub
+    - cjfs:
+      - he pescado
+      - has pescado
+      - ha pescado
+      - hemos pescado
+      - "hab\xE9is pescado"
+      - han pescado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pescado"
+      - "hab\xEDas pescado"
+      - "hab\xEDa pescado"
+      - "hab\xEDamos pescado"
+      - "hab\xEDais pescado"
+      - "hab\xEDan pescado"
+      cjid: ppsi
+    - cjfs:
+      - hube pescado
+      - hubiste pescado
+      - hubo pescado
+      - hubimos pescado
+      - hubisteis pescado
+      - hubieron pescado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pescado"
+      - "habr\xE1s pescado"
+      - "habr\xE1 pescado"
+      - habremos pescado
+      - "habr\xE9is pescado"
+      - "habr\xE1n pescado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pescado"
+      - "habr\xEDas pescado"
+      - "habr\xEDa pescado"
+      - "habr\xEDamos pescado"
+      - "habr\xEDais pescado"
+      - "habr\xEDan pescado"
+      cjid: cpef
+    - cjfs:
+      - haya pescado
+      - hayas pescado
+      - haya pescado
+      - hayamos pescado
+      - "hay\xE1is pescado"
+      - hayan pescado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pescado
+      - hubieras pescado
+      - hubiera pescado
+      - "hubi\xE9ramos pescado"
+      - hubierais pescado
+      - hubieran pescado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pescado
+      - hubieses pescado
+      - hubiese pescado
+      - "hubi\xE9semos pescado"
+      - hubieseis pescado
+      - hubiesen pescado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pescado
+      - hubieres pescado
+      - hubiere pescado
+      - "hubi\xE9remos pescado"
+      - hubiereis pescado
+      - hubieren pescado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pesca
+      - pesque
+      - pesquemos
+      - pescad
+      - pesquen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cane} '
+          - - vis
+            - - t: "ca\xF1a de az\xFAcar"
+                tr: sugarcane
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|reed}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|fishing rod}'
+          sn: '3'
+          vrs:
+          - va: "ca\xF1a de pescar"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tiller} (of a boat)'
+          sn: '4'
+          vrs:
+          - va: "ca\xF1a del tim\xF3n"
+  fl: feminine noun
+  hwi:
+    hw: "ca\xF1a"
+    prs:
+    - sound:
+        audio: cana001sp
+  meta:
+    id: can~a
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603878000'
+    src: spanish
+    stems:
+    - "ca\xF1a"
+    - "ca\xF1a de pescar"
+    - "ca\xF1a del tim\xF3n"
+    uuid: b8afbd9c-abb7-4ed5-8c9f-27ae764c092d
+  shortdef:
+  - cane
+  - reed
+  - fishing rod

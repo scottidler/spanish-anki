@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|squeak}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grind}, to {a_link|gnash} '
+          - - vis
+            - - t: hacer rechinar los dientes
+                tr: to grind one's teeth
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: rechinar
+    prs:
+    - sound:
+        audio: rechi01sp
+  meta:
+    id: rechinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618967000'
+    src: spanish
+    stems:
+    - rechinar
+    uuid: 8e01a7a1-f769-46ca-9db8-3fb11e0329c7
+  shortdef:
+  - to squeak
+  - to grind, to gnash
+  suppl:
+    cjts:
+    - cjfs:
+      - rechinando
+      - rechinado
+      cjid: gppt
+    - cjfs:
+      - rechino
+      - rechinas
+      - rechina
+      - rechinamos
+      - "rechin\xE1is"
+      - rechinan
+      cjid: pind
+    - cjfs:
+      - rechinaba
+      - rechinabas
+      - rechinaba
+      - "rechin\xE1bamos"
+      - rechinabais
+      - rechinaban
+      cjid: pret
+    - cjfs:
+      - "rechin\xE9"
+      - rechinaste
+      - "rechin\xF3"
+      - rechinamos
+      - rechinasteis
+      - rechinaron
+      cjid: pprf
+    - cjfs:
+      - "rechinar\xE9"
+      - "rechinar\xE1s"
+      - "rechinar\xE1"
+      - rechinaremos
+      - "rechinar\xE9is"
+      - "rechinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rechinar\xEDa"
+      - "rechinar\xEDas"
+      - "rechinar\xEDa"
+      - "rechinar\xEDamos"
+      - "rechinar\xEDais"
+      - "rechinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rechine
+      - rechines
+      - rechine
+      - rechinemos
+      - "rechin\xE9is"
+      - rechinen
+      cjid: psub
+    - cjfs:
+      - rechinara
+      - rechinaras
+      - rechinara
+      - "rechin\xE1ramos"
+      - rechinarais
+      - rechinaran
+      cjid: pisb1
+    - cjfs:
+      - rechinase
+      - rechinases
+      - rechinase
+      - "rechin\xE1semos"
+      - rechinaseis
+      - rechinasen
+      cjid: pisb2
+    - cjfs:
+      - rechinare
+      - rechinares
+      - rechinare
+      - "rechin\xE1remos"
+      - rechinareis
+      - rechinaren
+      cjid: fsub
+    - cjfs:
+      - he rechinado
+      - has rechinado
+      - ha rechinado
+      - hemos rechinado
+      - "hab\xE9is rechinado"
+      - han rechinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rechinado"
+      - "hab\xEDas rechinado"
+      - "hab\xEDa rechinado"
+      - "hab\xEDamos rechinado"
+      - "hab\xEDais rechinado"
+      - "hab\xEDan rechinado"
+      cjid: ppsi
+    - cjfs:
+      - hube rechinado
+      - hubiste rechinado
+      - hubo rechinado
+      - hubimos rechinado
+      - hubisteis rechinado
+      - hubieron rechinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rechinado"
+      - "habr\xE1s rechinado"
+      - "habr\xE1 rechinado"
+      - habremos rechinado
+      - "habr\xE9is rechinado"
+      - "habr\xE1n rechinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rechinado"
+      - "habr\xEDas rechinado"
+      - "habr\xEDa rechinado"
+      - "habr\xEDamos rechinado"
+      - "habr\xEDais rechinado"
+      - "habr\xEDan rechinado"
+      cjid: cpef
+    - cjfs:
+      - haya rechinado
+      - hayas rechinado
+      - haya rechinado
+      - hayamos rechinado
+      - "hay\xE1is rechinado"
+      - hayan rechinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rechinado
+      - hubieras rechinado
+      - hubiera rechinado
+      - "hubi\xE9ramos rechinado"
+      - hubierais rechinado
+      - hubieran rechinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rechinado
+      - hubieses rechinado
+      - hubiese rechinado
+      - "hubi\xE9semos rechinado"
+      - hubieseis rechinado
+      - hubiesen rechinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rechinado
+      - hubieres rechinado
+      - hubiere rechinado
+      - "hubi\xE9remos rechinado"
+      - hubiereis rechinado
+      - hubieren rechinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rechina
+      - rechine
+      - rechinemos
+      - rechinad
+      - rechinen
+      cjid: impf

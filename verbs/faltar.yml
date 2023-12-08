@@ -1,0 +1,239 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be lacking, to {a_link|be needed} '
+          - - vis
+            - - t: me falta tiempo
+                tr: I don't have time
+              - t: "le falta imaginaci\xF3n"
+                tr: he lacks imagination
+              - t: le falta sal
+                tr: it needs salt
+              - t: falta algo
+                tr: something's missing
+              - t: "al libro le falta una p\xE1gina"
+                tr: the book is missing a page
+              - t: nos faltan sillas
+                tr: we need more chairs
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be absent, to {a_link|be missing} '
+          - - vis
+            - - t: "faltan Juan y Mar\xEDa"
+                tr: "Juan and Mar\xEDa aren't here"
+              - t: faltar al trabajo/colegio
+                tr: to miss work/school
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|quedar||} {bc}to {a_link|remain}, to {a_link|be left} '
+          - - vis
+            - - t: falta un mes para la boda
+                tr: there's a month to go until the wedding, the wedding is a month
+                  away
+              - t: falta mucho por hacer
+                tr: there is still a lot to be done
+              - t: "\xBFte falta mucho?"
+                tr: are you almost ready/done?
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}not to keep one''s promise/word'
+          sn: '4'
+          vrs:
+          - va: faltar a su promesa/palabra
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}don''t mention it!, you''re welcome!'
+          sn: '5'
+          vrs:
+          - va: "\xA1no faltaba m\xE1s!"
+  fl: intransitive verb
+  hwi:
+    hw: faltar
+    prs:
+    - sound:
+        audio: falta02sp
+  meta:
+    id: faltar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609881000'
+    src: spanish
+    stems:
+    - faltar
+    - faltar a su promesa/palabra
+    - faltar a su palabra
+    - faltar a su promesa
+    - "\xA1no faltaba m\xE1s!"
+    uuid: 1891e3f5-7e7c-4eb0-a6bb-0efeaa9a2767
+  shortdef:
+  - to be lacking, to be needed
+  - to be absent, to be missing
+  - 'quedar : to remain, to be left'
+  suppl:
+    cjts:
+    - cjfs:
+      - faltando
+      - faltado
+      cjid: gppt
+    - cjfs:
+      - falto
+      - faltas
+      - falta
+      - faltamos
+      - "falt\xE1is"
+      - faltan
+      cjid: pind
+    - cjfs:
+      - faltaba
+      - faltabas
+      - faltaba
+      - "falt\xE1bamos"
+      - faltabais
+      - faltaban
+      cjid: pret
+    - cjfs:
+      - "falt\xE9"
+      - faltaste
+      - "falt\xF3"
+      - faltamos
+      - faltasteis
+      - faltaron
+      cjid: pprf
+    - cjfs:
+      - "faltar\xE9"
+      - "faltar\xE1s"
+      - "faltar\xE1"
+      - faltaremos
+      - "faltar\xE9is"
+      - "faltar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "faltar\xEDa"
+      - "faltar\xEDas"
+      - "faltar\xEDa"
+      - "faltar\xEDamos"
+      - "faltar\xEDais"
+      - "faltar\xEDan"
+      cjid: cond
+    - cjfs:
+      - falte
+      - faltes
+      - falte
+      - faltemos
+      - "falt\xE9is"
+      - falten
+      cjid: psub
+    - cjfs:
+      - faltara
+      - faltaras
+      - faltara
+      - "falt\xE1ramos"
+      - faltarais
+      - faltaran
+      cjid: pisb1
+    - cjfs:
+      - faltase
+      - faltases
+      - faltase
+      - "falt\xE1semos"
+      - faltaseis
+      - faltasen
+      cjid: pisb2
+    - cjfs:
+      - faltare
+      - faltares
+      - faltare
+      - "falt\xE1remos"
+      - faltareis
+      - faltaren
+      cjid: fsub
+    - cjfs:
+      - he faltado
+      - has faltado
+      - ha faltado
+      - hemos faltado
+      - "hab\xE9is faltado"
+      - han faltado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa faltado"
+      - "hab\xEDas faltado"
+      - "hab\xEDa faltado"
+      - "hab\xEDamos faltado"
+      - "hab\xEDais faltado"
+      - "hab\xEDan faltado"
+      cjid: ppsi
+    - cjfs:
+      - hube faltado
+      - hubiste faltado
+      - hubo faltado
+      - hubimos faltado
+      - hubisteis faltado
+      - hubieron faltado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 faltado"
+      - "habr\xE1s faltado"
+      - "habr\xE1 faltado"
+      - habremos faltado
+      - "habr\xE9is faltado"
+      - "habr\xE1n faltado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa faltado"
+      - "habr\xEDas faltado"
+      - "habr\xEDa faltado"
+      - "habr\xEDamos faltado"
+      - "habr\xEDais faltado"
+      - "habr\xEDan faltado"
+      cjid: cpef
+    - cjfs:
+      - haya faltado
+      - hayas faltado
+      - haya faltado
+      - hayamos faltado
+      - "hay\xE1is faltado"
+      - hayan faltado
+      cjid: ppfs
+    - cjfs:
+      - hubiera faltado
+      - hubieras faltado
+      - hubiera faltado
+      - "hubi\xE9ramos faltado"
+      - hubierais faltado
+      - hubieran faltado
+      cjid: ppss1
+    - cjfs:
+      - hubiese faltado
+      - hubieses faltado
+      - hubiese faltado
+      - "hubi\xE9semos faltado"
+      - hubieseis faltado
+      - hubiesen faltado
+      cjid: ppss2
+    - cjfs:
+      - hubiere faltado
+      - hubieres faltado
+      - hubiere faltado
+      - "hubi\xE9remos faltado"
+      - hubiereis faltado
+      - hubieren faltado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - falta
+      - falte
+      - faltemos
+      - faltad
+      - falten
+      cjid: impf

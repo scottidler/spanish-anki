@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|alzar||} {bc}to {a_link|raise}, to {a_link|lift}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aumentar||} {bc}to {a_link|raise}, to {a_link|increase}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|elevate} (in a hierarchy), to {a_link|promote}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|present}, to {a_link|submit}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|rise}'
+    drp: elevarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: elevar
+    prs:
+    - sound:
+        audio: eleva03sp
+  meta:
+    id: elevar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608178000'
+    src: spanish
+    stems:
+    - elevar
+    - elevarse
+    uuid: 9ed0edf6-f31f-4a96-b6d0-cd21712f47a7
+  shortdef:
+  - 'alzar : to raise, to lift'
+  - 'aumentar : to raise, to increase'
+  - to elevate (in a hierarchy), to promote
+  suppl:
+    cjts:
+    - cjfs:
+      - elevando
+      - elevado
+      cjid: gppt
+    - cjfs:
+      - elevo
+      - elevas
+      - eleva
+      - elevamos
+      - "elev\xE1is"
+      - elevan
+      cjid: pind
+    - cjfs:
+      - elevaba
+      - elevabas
+      - elevaba
+      - "elev\xE1bamos"
+      - elevabais
+      - elevaban
+      cjid: pret
+    - cjfs:
+      - "elev\xE9"
+      - elevaste
+      - "elev\xF3"
+      - elevamos
+      - elevasteis
+      - elevaron
+      cjid: pprf
+    - cjfs:
+      - "elevar\xE9"
+      - "elevar\xE1s"
+      - "elevar\xE1"
+      - elevaremos
+      - "elevar\xE9is"
+      - "elevar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "elevar\xEDa"
+      - "elevar\xEDas"
+      - "elevar\xEDa"
+      - "elevar\xEDamos"
+      - "elevar\xEDais"
+      - "elevar\xEDan"
+      cjid: cond
+    - cjfs:
+      - eleve
+      - eleves
+      - eleve
+      - elevemos
+      - "elev\xE9is"
+      - eleven
+      cjid: psub
+    - cjfs:
+      - elevara
+      - elevaras
+      - elevara
+      - "elev\xE1ramos"
+      - elevarais
+      - elevaran
+      cjid: pisb1
+    - cjfs:
+      - elevase
+      - elevases
+      - elevase
+      - "elev\xE1semos"
+      - elevaseis
+      - elevasen
+      cjid: pisb2
+    - cjfs:
+      - elevare
+      - elevares
+      - elevare
+      - "elev\xE1remos"
+      - elevareis
+      - elevaren
+      cjid: fsub
+    - cjfs:
+      - he elevado
+      - has elevado
+      - ha elevado
+      - hemos elevado
+      - "hab\xE9is elevado"
+      - han elevado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa elevado"
+      - "hab\xEDas elevado"
+      - "hab\xEDa elevado"
+      - "hab\xEDamos elevado"
+      - "hab\xEDais elevado"
+      - "hab\xEDan elevado"
+      cjid: ppsi
+    - cjfs:
+      - hube elevado
+      - hubiste elevado
+      - hubo elevado
+      - hubimos elevado
+      - hubisteis elevado
+      - hubieron elevado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 elevado"
+      - "habr\xE1s elevado"
+      - "habr\xE1 elevado"
+      - habremos elevado
+      - "habr\xE9is elevado"
+      - "habr\xE1n elevado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa elevado"
+      - "habr\xEDas elevado"
+      - "habr\xEDa elevado"
+      - "habr\xEDamos elevado"
+      - "habr\xEDais elevado"
+      - "habr\xEDan elevado"
+      cjid: cpef
+    - cjfs:
+      - haya elevado
+      - hayas elevado
+      - haya elevado
+      - hayamos elevado
+      - "hay\xE1is elevado"
+      - hayan elevado
+      cjid: ppfs
+    - cjfs:
+      - hubiera elevado
+      - hubieras elevado
+      - hubiera elevado
+      - "hubi\xE9ramos elevado"
+      - hubierais elevado
+      - hubieran elevado
+      cjid: ppss1
+    - cjfs:
+      - hubiese elevado
+      - hubieses elevado
+      - hubiese elevado
+      - "hubi\xE9semos elevado"
+      - hubieseis elevado
+      - hubiesen elevado
+      cjid: ppss2
+    - cjfs:
+      - hubiere elevado
+      - hubieres elevado
+      - hubiere elevado
+      - "hubi\xE9remos elevado"
+      - hubiereis elevado
+      - hubieren elevado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - eleva
+      - eleve
+      - elevemos
+      - elevad
+      - eleven
+      cjid: impf

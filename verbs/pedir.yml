@@ -1,0 +1,268 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to ask for, to {a_link|request} '
+          - - vis
+            - - t: "le ped\xED un pr\xE9stamo a Claudia"
+                tr: I asked Claudia for a loan
+              - t: "le ped\xED que nos llamara"
+                tr: I asked her to call us
+              - t: me pidieron ayuda/permiso
+                tr: they asked me for help/permission
+              - t: "pide 200 d\xF3lares por la bici"
+                tr: he's asking 200 dollars for the bike
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|order} (food, merchandise)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|apologize}'
+          sn: '3'
+          vrs:
+          - va: "pedir disculpas/perd\xF3n"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|order}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|beg}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: pedir
+    prs:
+    - sound:
+        audio: pedir01sp
+  meta:
+    id: pedir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616933000'
+    src: spanish
+    stems:
+    - pedir
+    - "pedir disculpas/perd\xF3n"
+    - pedir disculpas
+    - "pedir perd\xF3n"
+    uuid: 8cd75b08-5fcd-4cbd-af60-7bccdf685625
+  shortdef:
+  - to ask for, to request
+  - to order (food, merchandise)
+  - to apologize
+  suppl:
+    cjts:
+    - cjfs:
+      - pidiendo
+      - pedido
+      cjid: gppt
+    - cjfs:
+      - pido
+      - pides
+      - pide
+      - pedimos
+      - "ped\xEDs"
+      - piden
+      cjid: pind
+    - cjfs:
+      - "ped\xEDa"
+      - "ped\xEDas"
+      - "ped\xEDa"
+      - "ped\xEDamos"
+      - "ped\xEDais"
+      - "ped\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ped\xED"
+      - pediste
+      - "pidi\xF3"
+      - pedimos
+      - pedisteis
+      - pidieron
+      cjid: pprf
+    - cjfs:
+      - "pedir\xE9"
+      - "pedir\xE1s"
+      - "pedir\xE1"
+      - pediremos
+      - "pedir\xE9is"
+      - "pedir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pedir\xEDa"
+      - "pedir\xEDas"
+      - "pedir\xEDa"
+      - "pedir\xEDamos"
+      - "pedir\xEDais"
+      - "pedir\xEDan"
+      cjid: cond
+    - cjfs:
+      - pida
+      - pidas
+      - pida
+      - pidamos
+      - "pid\xE1is"
+      - pidan
+      cjid: psub
+    - cjfs:
+      - pidiera
+      - pidieras
+      - pidiera
+      - "pidi\xE9ramos"
+      - pidierais
+      - pidieran
+      cjid: pisb1
+    - cjfs:
+      - pidiese
+      - pidieses
+      - pidiese
+      - "pidi\xE9semos"
+      - pidieseis
+      - pidiesen
+      cjid: pisb2
+    - cjfs:
+      - pidiere
+      - pidieres
+      - pidiere
+      - "pidi\xE9remos"
+      - pidiereis
+      - pidieren
+      cjid: fsub
+    - cjfs:
+      - he pedido
+      - has pedido
+      - ha pedido
+      - hemos pedido
+      - "hab\xE9is pedido"
+      - han pedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pedido"
+      - "hab\xEDas pedido"
+      - "hab\xEDa pedido"
+      - "hab\xEDamos pedido"
+      - "hab\xEDais pedido"
+      - "hab\xEDan pedido"
+      cjid: ppsi
+    - cjfs:
+      - hube pedido
+      - hubiste pedido
+      - hubo pedido
+      - hubimos pedido
+      - hubisteis pedido
+      - hubieron pedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pedido"
+      - "habr\xE1s pedido"
+      - "habr\xE1 pedido"
+      - habremos pedido
+      - "habr\xE9is pedido"
+      - "habr\xE1n pedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pedido"
+      - "habr\xEDas pedido"
+      - "habr\xEDa pedido"
+      - "habr\xEDamos pedido"
+      - "habr\xEDais pedido"
+      - "habr\xEDan pedido"
+      cjid: cpef
+    - cjfs:
+      - haya pedido
+      - hayas pedido
+      - haya pedido
+      - hayamos pedido
+      - "hay\xE1is pedido"
+      - hayan pedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera pedido
+      - hubieras pedido
+      - hubiera pedido
+      - "hubi\xE9ramos pedido"
+      - hubierais pedido
+      - hubieran pedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese pedido
+      - hubieses pedido
+      - hubiese pedido
+      - "hubi\xE9semos pedido"
+      - hubieseis pedido
+      - hubiesen pedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere pedido
+      - hubieres pedido
+      - hubiere pedido
+      - "hubi\xE9remos pedido"
+      - hubiereis pedido
+      - hubieren pedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pide
+      - pida
+      - pidamos
+      - pedid
+      - pidan
+      cjid: impf
+- ahws:
+  - hw: prestada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}borrowed, on loan'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|borrow}, to ask to borrow'
+          sn: '2'
+          vrs:
+          - va: pedir prestado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|borrow}'
+          sn: '3'
+          vrs:
+          - va: tomar prestado
+  fl: adjective
+  hwi:
+    hw: prestado
+    prs:
+    - sound:
+        audio: prest01sp
+  meta:
+    id: prestado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618051000'
+    src: spanish
+    stems:
+    - prestado
+    - prestada
+    - pedir prestado
+    - tomar prestado
+    uuid: c3d9e295-c262-4693-8830-0b79097415b0
+  shortdef:
+  - borrowed, on loan
+  - to borrow, to ask to borrow
+  - to borrow

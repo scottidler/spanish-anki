@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|torcer||} {bc}to {a_link|twist}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|coil}, to {a_link|twine}'
+    drp: enroscarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enroscar
+    prs:
+    - sound:
+        audio: enros01sp
+  meta:
+    id: enroscar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608666000'
+    src: spanish
+    stems:
+    - enroscar
+    - enroscarse
+    uuid: 68277198-b7b4-42e3-a669-be80c1b222ee
+  shortdef:
+  - 'torcer : to twist'
+  suppl:
+    cjts:
+    - cjfs:
+      - enroscando
+      - enroscado
+      cjid: gppt
+    - cjfs:
+      - enrosco
+      - enroscas
+      - enrosca
+      - enroscamos
+      - "enrosc\xE1is"
+      - enroscan
+      cjid: pind
+    - cjfs:
+      - enroscaba
+      - enroscabas
+      - enroscaba
+      - "enrosc\xE1bamos"
+      - enroscabais
+      - enroscaban
+      cjid: pret
+    - cjfs:
+      - "enrosqu\xE9"
+      - enroscaste
+      - "enrosc\xF3"
+      - enroscamos
+      - enroscasteis
+      - enroscaron
+      cjid: pprf
+    - cjfs:
+      - "enroscar\xE9"
+      - "enroscar\xE1s"
+      - "enroscar\xE1"
+      - enroscaremos
+      - "enroscar\xE9is"
+      - "enroscar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enroscar\xEDa"
+      - "enroscar\xEDas"
+      - "enroscar\xEDa"
+      - "enroscar\xEDamos"
+      - "enroscar\xEDais"
+      - "enroscar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enrosque
+      - enrosques
+      - enrosque
+      - enrosquemos
+      - "enrosqu\xE9is"
+      - enrosquen
+      cjid: psub
+    - cjfs:
+      - enroscara
+      - enroscaras
+      - enroscara
+      - "enrosc\xE1ramos"
+      - enroscarais
+      - enroscaran
+      cjid: pisb1
+    - cjfs:
+      - enroscase
+      - enroscases
+      - enroscase
+      - "enrosc\xE1semos"
+      - enroscaseis
+      - enroscasen
+      cjid: pisb2
+    - cjfs:
+      - enroscare
+      - enroscares
+      - enroscare
+      - "enrosc\xE1remos"
+      - enroscareis
+      - enroscaren
+      cjid: fsub
+    - cjfs:
+      - he enroscado
+      - has enroscado
+      - ha enroscado
+      - hemos enroscado
+      - "hab\xE9is enroscado"
+      - han enroscado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enroscado"
+      - "hab\xEDas enroscado"
+      - "hab\xEDa enroscado"
+      - "hab\xEDamos enroscado"
+      - "hab\xEDais enroscado"
+      - "hab\xEDan enroscado"
+      cjid: ppsi
+    - cjfs:
+      - hube enroscado
+      - hubiste enroscado
+      - hubo enroscado
+      - hubimos enroscado
+      - hubisteis enroscado
+      - hubieron enroscado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enroscado"
+      - "habr\xE1s enroscado"
+      - "habr\xE1 enroscado"
+      - habremos enroscado
+      - "habr\xE9is enroscado"
+      - "habr\xE1n enroscado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enroscado"
+      - "habr\xEDas enroscado"
+      - "habr\xEDa enroscado"
+      - "habr\xEDamos enroscado"
+      - "habr\xEDais enroscado"
+      - "habr\xEDan enroscado"
+      cjid: cpef
+    - cjfs:
+      - haya enroscado
+      - hayas enroscado
+      - haya enroscado
+      - hayamos enroscado
+      - "hay\xE1is enroscado"
+      - hayan enroscado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enroscado
+      - hubieras enroscado
+      - hubiera enroscado
+      - "hubi\xE9ramos enroscado"
+      - hubierais enroscado
+      - hubieran enroscado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enroscado
+      - hubieses enroscado
+      - hubiese enroscado
+      - "hubi\xE9semos enroscado"
+      - hubieseis enroscado
+      - hubiesen enroscado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enroscado
+      - hubieres enroscado
+      - hubiere enroscado
+      - "hubi\xE9remos enroscado"
+      - hubiereis enroscado
+      - hubieren enroscado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enrosca
+      - enrosque
+      - enrosquemos
+      - enroscad
+      - enrosquen
+      cjid: impf

@@ -1,0 +1,271 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bite}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|bite} '
+            - - vis
+              - - t: "morderse la lengua/las u\xF1as"
+                  tr: to bite one's tongue/nails
+    drp: morderse
+    fl: reflexive verb
+  fl: verb
+  hwi:
+    hw: morder
+    prs:
+    - sound:
+        audio: morde01sp
+  meta:
+    id: morder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615339000'
+    src: spanish
+    stems:
+    - morder
+    - morderse
+    uuid: 5889ccad-73e8-422e-8795-289c647c7acc
+  shortdef:
+  - to bite
+  suppl:
+    cjts:
+    - cjfs:
+      - mordiendo
+      - mordido
+      cjid: gppt
+    - cjfs:
+      - muerdo
+      - muerdes
+      - muerde
+      - mordemos
+      - "mord\xE9is"
+      - muerden
+      cjid: pind
+    - cjfs:
+      - "mord\xEDa"
+      - "mord\xEDas"
+      - "mord\xEDa"
+      - "mord\xEDamos"
+      - "mord\xEDais"
+      - "mord\xEDan"
+      cjid: pret
+    - cjfs:
+      - "mord\xED"
+      - mordiste
+      - "mordi\xF3"
+      - mordimos
+      - mordisteis
+      - mordieron
+      cjid: pprf
+    - cjfs:
+      - "morder\xE9"
+      - "morder\xE1s"
+      - "morder\xE1"
+      - morderemos
+      - "morder\xE9is"
+      - "morder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "morder\xEDa"
+      - "morder\xEDas"
+      - "morder\xEDa"
+      - "morder\xEDamos"
+      - "morder\xEDais"
+      - "morder\xEDan"
+      cjid: cond
+    - cjfs:
+      - muerda
+      - muerdas
+      - muerda
+      - mordamos
+      - "mord\xE1is"
+      - muerdan
+      cjid: psub
+    - cjfs:
+      - mordiera
+      - mordieras
+      - mordiera
+      - "mordi\xE9ramos"
+      - mordierais
+      - mordieran
+      cjid: pisb1
+    - cjfs:
+      - mordiese
+      - mordieses
+      - mordiese
+      - "mordi\xE9semos"
+      - mordieseis
+      - mordiesen
+      cjid: pisb2
+    - cjfs:
+      - mordiere
+      - mordieres
+      - mordiere
+      - "mordi\xE9remos"
+      - mordiereis
+      - mordieren
+      cjid: fsub
+    - cjfs:
+      - he mordido
+      - has mordido
+      - ha mordido
+      - hemos mordido
+      - "hab\xE9is mordido"
+      - han mordido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mordido"
+      - "hab\xEDas mordido"
+      - "hab\xEDa mordido"
+      - "hab\xEDamos mordido"
+      - "hab\xEDais mordido"
+      - "hab\xEDan mordido"
+      cjid: ppsi
+    - cjfs:
+      - hube mordido
+      - hubiste mordido
+      - hubo mordido
+      - hubimos mordido
+      - hubisteis mordido
+      - hubieron mordido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mordido"
+      - "habr\xE1s mordido"
+      - "habr\xE1 mordido"
+      - habremos mordido
+      - "habr\xE9is mordido"
+      - "habr\xE1n mordido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mordido"
+      - "habr\xEDas mordido"
+      - "habr\xEDa mordido"
+      - "habr\xEDamos mordido"
+      - "habr\xEDais mordido"
+      - "habr\xEDan mordido"
+      cjid: cpef
+    - cjfs:
+      - haya mordido
+      - hayas mordido
+      - haya mordido
+      - hayamos mordido
+      - "hay\xE1is mordido"
+      - hayan mordido
+      cjid: ppfs
+    - cjfs:
+      - hubiera mordido
+      - hubieras mordido
+      - hubiera mordido
+      - "hubi\xE9ramos mordido"
+      - hubierais mordido
+      - hubieran mordido
+      cjid: ppss1
+    - cjfs:
+      - hubiese mordido
+      - hubieses mordido
+      - hubiese mordido
+      - "hubi\xE9semos mordido"
+      - hubieseis mordido
+      - hubiesen mordido
+      cjid: ppss2
+    - cjfs:
+      - hubiere mordido
+      - hubieres mordido
+      - hubiere mordido
+      - "hubi\xE9remos mordido"
+      - hubiereis mordido
+      - hubieren mordido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - muerde
+      - muerda
+      - mordamos
+      - morded
+      - muerdan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tongue} '
+          - - vis
+            - - t: se me traba la lengua
+                tr: I have trouble speaking, I get tongue-tied
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|idioma||} {bc}{a_link|language} '
+          - - vis
+            - - t: lengua materna
+                tr: mother tongue
+              - t: lengua nativa
+                tr: native language
+              - t: lengua muerta
+                tr: dead language
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tongue} (of flame)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|spit} (of land)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to let something slip, to {a_link|blab}'
+          sn: '5'
+          vrs:
+          - va: irse de la lengua
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bite one''s tongue}'
+          sn: '6'
+          vrs:
+          - va: morderse la lengua
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to stick one''s tongue out at someone'
+          sn: '7'
+          vrs:
+          - va: sacarle la lengua a alguien
+  fl: feminine noun
+  hwi:
+    hw: lengua
+    prs:
+    - sound:
+        audio: lengu01sp
+  meta:
+    id: lengua
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613637000'
+    src: spanish
+    stems:
+    - lengua
+    - irse de la lengua
+    - morderse la lengua
+    - sacarle la lengua a alguien
+    uuid: 4d2db815-2edc-4661-8e04-1e15f4d46a3f
+  shortdef:
+  - tongue
+  - 'idioma : language'
+  - tongue (of flame)

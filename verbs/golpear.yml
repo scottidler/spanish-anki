@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|beat} (up), to {a_link|hit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|slam}, to {a_link|bang}, to {a_link|strike}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knock} (at a door)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|beat} '
+          - - vis
+            - - t: la lluvia golpeaba contra el tejado
+                tr: the rain beat against the roof
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: golpear
+    prs:
+    - sound:
+        audio: golpe03sp
+  meta:
+    id: golpear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610914000'
+    src: spanish
+    stems:
+    - golpear
+    - golpearse
+    uuid: 9cf99d20-4444-4d36-8e8f-0edbf7e0c849
+  shortdef:
+  - to beat (up), to hit
+  - to slam, to bang, to strike
+  - to knock (at a door)
+  suppl:
+    cjts:
+    - cjfs:
+      - golpeando
+      - golpeado
+      cjid: gppt
+    - cjfs:
+      - golpeo
+      - golpeas
+      - golpea
+      - golpeamos
+      - "golpe\xE1is"
+      - golpean
+      cjid: pind
+    - cjfs:
+      - golpeaba
+      - golpeabas
+      - golpeaba
+      - "golpe\xE1bamos"
+      - golpeabais
+      - golpeaban
+      cjid: pret
+    - cjfs:
+      - "golpe\xE9"
+      - golpeaste
+      - "golpe\xF3"
+      - golpeamos
+      - golpeasteis
+      - golpearon
+      cjid: pprf
+    - cjfs:
+      - "golpear\xE9"
+      - "golpear\xE1s"
+      - "golpear\xE1"
+      - golpearemos
+      - "golpear\xE9is"
+      - "golpear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "golpear\xEDa"
+      - "golpear\xEDas"
+      - "golpear\xEDa"
+      - "golpear\xEDamos"
+      - "golpear\xEDais"
+      - "golpear\xEDan"
+      cjid: cond
+    - cjfs:
+      - golpee
+      - golpees
+      - golpee
+      - golpeemos
+      - "golpe\xE9is"
+      - golpeen
+      cjid: psub
+    - cjfs:
+      - golpeara
+      - golpearas
+      - golpeara
+      - "golpe\xE1ramos"
+      - golpearais
+      - golpearan
+      cjid: pisb1
+    - cjfs:
+      - golpease
+      - golpeases
+      - golpease
+      - "golpe\xE1semos"
+      - golpeaseis
+      - golpeasen
+      cjid: pisb2
+    - cjfs:
+      - golpeare
+      - golpeares
+      - golpeare
+      - "golpe\xE1remos"
+      - golpeareis
+      - golpearen
+      cjid: fsub
+    - cjfs:
+      - he golpeado
+      - has golpeado
+      - ha golpeado
+      - hemos golpeado
+      - "hab\xE9is golpeado"
+      - han golpeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa golpeado"
+      - "hab\xEDas golpeado"
+      - "hab\xEDa golpeado"
+      - "hab\xEDamos golpeado"
+      - "hab\xEDais golpeado"
+      - "hab\xEDan golpeado"
+      cjid: ppsi
+    - cjfs:
+      - hube golpeado
+      - hubiste golpeado
+      - hubo golpeado
+      - hubimos golpeado
+      - hubisteis golpeado
+      - hubieron golpeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 golpeado"
+      - "habr\xE1s golpeado"
+      - "habr\xE1 golpeado"
+      - habremos golpeado
+      - "habr\xE9is golpeado"
+      - "habr\xE1n golpeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa golpeado"
+      - "habr\xEDas golpeado"
+      - "habr\xEDa golpeado"
+      - "habr\xEDamos golpeado"
+      - "habr\xEDais golpeado"
+      - "habr\xEDan golpeado"
+      cjid: cpef
+    - cjfs:
+      - haya golpeado
+      - hayas golpeado
+      - haya golpeado
+      - hayamos golpeado
+      - "hay\xE1is golpeado"
+      - hayan golpeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera golpeado
+      - hubieras golpeado
+      - hubiera golpeado
+      - "hubi\xE9ramos golpeado"
+      - hubierais golpeado
+      - hubieran golpeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese golpeado
+      - hubieses golpeado
+      - hubiese golpeado
+      - "hubi\xE9semos golpeado"
+      - hubieseis golpeado
+      - hubiesen golpeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere golpeado
+      - hubieres golpeado
+      - hubiere golpeado
+      - "hubi\xE9remos golpeado"
+      - hubiereis golpeado
+      - hubieren golpeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - golpea
+      - golpee
+      - golpeemos
+      - golpead
+      - golpeen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: golpearse

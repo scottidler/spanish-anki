@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|interpret}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play}, to {a_link|perform}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: interpretar
+    prs:
+    - sound:
+        audio: inter24sp
+  meta:
+    id: interpretar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612877000'
+    src: spanish
+    stems:
+    - interpretar
+    uuid: 5622dbdf-b5da-4400-aeb1-0d65e49bedc7
+  shortdef:
+  - to interpret
+  - to play, to perform
+  suppl:
+    cjts:
+    - cjfs:
+      - interpretando
+      - interpretado
+      cjid: gppt
+    - cjfs:
+      - interpreto
+      - interpretas
+      - interpreta
+      - interpretamos
+      - "interpret\xE1is"
+      - interpretan
+      cjid: pind
+    - cjfs:
+      - interpretaba
+      - interpretabas
+      - interpretaba
+      - "interpret\xE1bamos"
+      - interpretabais
+      - interpretaban
+      cjid: pret
+    - cjfs:
+      - "interpret\xE9"
+      - interpretaste
+      - "interpret\xF3"
+      - interpretamos
+      - interpretasteis
+      - interpretaron
+      cjid: pprf
+    - cjfs:
+      - "interpretar\xE9"
+      - "interpretar\xE1s"
+      - "interpretar\xE1"
+      - interpretaremos
+      - "interpretar\xE9is"
+      - "interpretar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "interpretar\xEDa"
+      - "interpretar\xEDas"
+      - "interpretar\xEDa"
+      - "interpretar\xEDamos"
+      - "interpretar\xEDais"
+      - "interpretar\xEDan"
+      cjid: cond
+    - cjfs:
+      - interprete
+      - interpretes
+      - interprete
+      - interpretemos
+      - "interpret\xE9is"
+      - interpreten
+      cjid: psub
+    - cjfs:
+      - interpretara
+      - interpretaras
+      - interpretara
+      - "interpret\xE1ramos"
+      - interpretarais
+      - interpretaran
+      cjid: pisb1
+    - cjfs:
+      - interpretase
+      - interpretases
+      - interpretase
+      - "interpret\xE1semos"
+      - interpretaseis
+      - interpretasen
+      cjid: pisb2
+    - cjfs:
+      - interpretare
+      - interpretares
+      - interpretare
+      - "interpret\xE1remos"
+      - interpretareis
+      - interpretaren
+      cjid: fsub
+    - cjfs:
+      - he interpretado
+      - has interpretado
+      - ha interpretado
+      - hemos interpretado
+      - "hab\xE9is interpretado"
+      - han interpretado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa interpretado"
+      - "hab\xEDas interpretado"
+      - "hab\xEDa interpretado"
+      - "hab\xEDamos interpretado"
+      - "hab\xEDais interpretado"
+      - "hab\xEDan interpretado"
+      cjid: ppsi
+    - cjfs:
+      - hube interpretado
+      - hubiste interpretado
+      - hubo interpretado
+      - hubimos interpretado
+      - hubisteis interpretado
+      - hubieron interpretado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 interpretado"
+      - "habr\xE1s interpretado"
+      - "habr\xE1 interpretado"
+      - habremos interpretado
+      - "habr\xE9is interpretado"
+      - "habr\xE1n interpretado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa interpretado"
+      - "habr\xEDas interpretado"
+      - "habr\xEDa interpretado"
+      - "habr\xEDamos interpretado"
+      - "habr\xEDais interpretado"
+      - "habr\xEDan interpretado"
+      cjid: cpef
+    - cjfs:
+      - haya interpretado
+      - hayas interpretado
+      - haya interpretado
+      - hayamos interpretado
+      - "hay\xE1is interpretado"
+      - hayan interpretado
+      cjid: ppfs
+    - cjfs:
+      - hubiera interpretado
+      - hubieras interpretado
+      - hubiera interpretado
+      - "hubi\xE9ramos interpretado"
+      - hubierais interpretado
+      - hubieran interpretado
+      cjid: ppss1
+    - cjfs:
+      - hubiese interpretado
+      - hubieses interpretado
+      - hubiese interpretado
+      - "hubi\xE9semos interpretado"
+      - hubieseis interpretado
+      - hubiesen interpretado
+      cjid: ppss2
+    - cjfs:
+      - hubiere interpretado
+      - hubieres interpretado
+      - hubiere interpretado
+      - "hubi\xE9remos interpretado"
+      - hubiereis interpretado
+      - hubieren interpretado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - interpreta
+      - interprete
+      - interpretemos
+      - interpretad
+      - interpreten
+      cjid: impf

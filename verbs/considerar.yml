@@ -1,0 +1,213 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|consider}, to think about '
+          - - vis
+            - - t: considerar la posibilidad
+                tr: to consider the possibility
+              - t: considerando su edad
+                tr: considering his age
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|consider}, to regard as '
+          - - vis
+            - - t: lo considera necesario
+                tr: she considers it necessary
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to treat with consideration'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to consider oneself'
+    drp: considerarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: considerar
+    prs:
+    - sound:
+        audio: consi03sp
+  meta:
+    id: considerar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605589000'
+    src: spanish
+    stems:
+    - considerar
+    - considerarse
+    uuid: 47e03445-96c8-4a9c-acef-6255a6b56689
+  shortdef:
+  - to consider, to think about
+  - to consider, to regard as
+  - to treat with consideration
+  suppl:
+    cjts:
+    - cjfs:
+      - considerando
+      - considerado
+      cjid: gppt
+    - cjfs:
+      - considero
+      - consideras
+      - considera
+      - consideramos
+      - "consider\xE1is"
+      - consideran
+      cjid: pind
+    - cjfs:
+      - consideraba
+      - considerabas
+      - consideraba
+      - "consider\xE1bamos"
+      - considerabais
+      - consideraban
+      cjid: pret
+    - cjfs:
+      - "consider\xE9"
+      - consideraste
+      - "consider\xF3"
+      - consideramos
+      - considerasteis
+      - consideraron
+      cjid: pprf
+    - cjfs:
+      - "considerar\xE9"
+      - "considerar\xE1s"
+      - "considerar\xE1"
+      - consideraremos
+      - "considerar\xE9is"
+      - "considerar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "considerar\xEDa"
+      - "considerar\xEDas"
+      - "considerar\xEDa"
+      - "considerar\xEDamos"
+      - "considerar\xEDais"
+      - "considerar\xEDan"
+      cjid: cond
+    - cjfs:
+      - considere
+      - consideres
+      - considere
+      - consideremos
+      - "consider\xE9is"
+      - consideren
+      cjid: psub
+    - cjfs:
+      - considerara
+      - consideraras
+      - considerara
+      - "consider\xE1ramos"
+      - considerarais
+      - consideraran
+      cjid: pisb1
+    - cjfs:
+      - considerase
+      - considerases
+      - considerase
+      - "consider\xE1semos"
+      - consideraseis
+      - considerasen
+      cjid: pisb2
+    - cjfs:
+      - considerare
+      - considerares
+      - considerare
+      - "consider\xE1remos"
+      - considerareis
+      - consideraren
+      cjid: fsub
+    - cjfs:
+      - he considerado
+      - has considerado
+      - ha considerado
+      - hemos considerado
+      - "hab\xE9is considerado"
+      - han considerado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa considerado"
+      - "hab\xEDas considerado"
+      - "hab\xEDa considerado"
+      - "hab\xEDamos considerado"
+      - "hab\xEDais considerado"
+      - "hab\xEDan considerado"
+      cjid: ppsi
+    - cjfs:
+      - hube considerado
+      - hubiste considerado
+      - hubo considerado
+      - hubimos considerado
+      - hubisteis considerado
+      - hubieron considerado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 considerado"
+      - "habr\xE1s considerado"
+      - "habr\xE1 considerado"
+      - habremos considerado
+      - "habr\xE9is considerado"
+      - "habr\xE1n considerado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa considerado"
+      - "habr\xEDas considerado"
+      - "habr\xEDa considerado"
+      - "habr\xEDamos considerado"
+      - "habr\xEDais considerado"
+      - "habr\xEDan considerado"
+      cjid: cpef
+    - cjfs:
+      - haya considerado
+      - hayas considerado
+      - haya considerado
+      - hayamos considerado
+      - "hay\xE1is considerado"
+      - hayan considerado
+      cjid: ppfs
+    - cjfs:
+      - hubiera considerado
+      - hubieras considerado
+      - hubiera considerado
+      - "hubi\xE9ramos considerado"
+      - hubierais considerado
+      - hubieran considerado
+      cjid: ppss1
+    - cjfs:
+      - hubiese considerado
+      - hubieses considerado
+      - hubiese considerado
+      - "hubi\xE9semos considerado"
+      - hubieseis considerado
+      - hubiesen considerado
+      cjid: ppss2
+    - cjfs:
+      - hubiere considerado
+      - hubieres considerado
+      - hubiere considerado
+      - "hubi\xE9remos considerado"
+      - hubiereis considerado
+      - hubieren considerado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - considera
+      - considere
+      - consideremos
+      - considerad
+      - consideren
+      cjid: impf

@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|comenzar||} {bc}to {a_link|start}, to {a_link|begin} '
+          - - vis
+            - - t: empezar a hacer algo
+                tr: to start to do something, to start doing something
+              - t: empezar por algo/alguien
+                tr: to start with something/someone
+              - t: empezar por hacer algo
+                tr: to start by doing something
+              - t: "empez\xF3 diciendo que \u2026"
+                tr: "she started out by saying that \u2026"
+              - t: para empezar
+                tr: to begin with
+  fl: verb
+  hwi:
+    hw: empezar
+    prs:
+    - sound:
+        audio: empez01sp
+  meta:
+    id: empezar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608347000'
+    src: spanish
+    stems:
+    - empezar
+    uuid: c6824e61-206a-439f-baa7-61f811ec532b
+  shortdef:
+  - 'comenzar : to start, to begin'
+  suppl:
+    cjts:
+    - cjfs:
+      - empezando
+      - empezado
+      cjid: gppt
+    - cjfs:
+      - empiezo
+      - empiezas
+      - empieza
+      - empezamos
+      - "empez\xE1is"
+      - empiezan
+      cjid: pind
+    - cjfs:
+      - empezaba
+      - empezabas
+      - empezaba
+      - "empez\xE1bamos"
+      - empezabais
+      - empezaban
+      cjid: pret
+    - cjfs:
+      - "empec\xE9"
+      - empezaste
+      - "empez\xF3"
+      - empezamos
+      - empezasteis
+      - empezaron
+      cjid: pprf
+    - cjfs:
+      - "empezar\xE9"
+      - "empezar\xE1s"
+      - "empezar\xE1"
+      - empezaremos
+      - "empezar\xE9is"
+      - "empezar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "empezar\xEDa"
+      - "empezar\xEDas"
+      - "empezar\xEDa"
+      - "empezar\xEDamos"
+      - "empezar\xEDais"
+      - "empezar\xEDan"
+      cjid: cond
+    - cjfs:
+      - empiece
+      - empieces
+      - empiece
+      - empecemos
+      - "empec\xE9is"
+      - empiecen
+      cjid: psub
+    - cjfs:
+      - empezara
+      - empezaras
+      - empezara
+      - "empez\xE1ramos"
+      - empezarais
+      - empezaran
+      cjid: pisb1
+    - cjfs:
+      - empezase
+      - empezases
+      - empezase
+      - "empez\xE1semos"
+      - empezaseis
+      - empezasen
+      cjid: pisb2
+    - cjfs:
+      - empezare
+      - empezares
+      - empezare
+      - "empez\xE1remos"
+      - empezareis
+      - empezaren
+      cjid: fsub
+    - cjfs:
+      - he empezado
+      - has empezado
+      - ha empezado
+      - hemos empezado
+      - "hab\xE9is empezado"
+      - han empezado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa empezado"
+      - "hab\xEDas empezado"
+      - "hab\xEDa empezado"
+      - "hab\xEDamos empezado"
+      - "hab\xEDais empezado"
+      - "hab\xEDan empezado"
+      cjid: ppsi
+    - cjfs:
+      - hube empezado
+      - hubiste empezado
+      - hubo empezado
+      - hubimos empezado
+      - hubisteis empezado
+      - hubieron empezado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 empezado"
+      - "habr\xE1s empezado"
+      - "habr\xE1 empezado"
+      - habremos empezado
+      - "habr\xE9is empezado"
+      - "habr\xE1n empezado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa empezado"
+      - "habr\xEDas empezado"
+      - "habr\xEDa empezado"
+      - "habr\xEDamos empezado"
+      - "habr\xEDais empezado"
+      - "habr\xEDan empezado"
+      cjid: cpef
+    - cjfs:
+      - haya empezado
+      - hayas empezado
+      - haya empezado
+      - hayamos empezado
+      - "hay\xE1is empezado"
+      - hayan empezado
+      cjid: ppfs
+    - cjfs:
+      - hubiera empezado
+      - hubieras empezado
+      - hubiera empezado
+      - "hubi\xE9ramos empezado"
+      - hubierais empezado
+      - hubieran empezado
+      cjid: ppss1
+    - cjfs:
+      - hubiese empezado
+      - hubieses empezado
+      - hubiese empezado
+      - "hubi\xE9semos empezado"
+      - hubieseis empezado
+      - hubiesen empezado
+      cjid: ppss2
+    - cjfs:
+      - hubiere empezado
+      - hubieres empezado
+      - hubiere empezado
+      - "hubi\xE9remos empezado"
+      - hubiereis empezado
+      - hubieren empezado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - empieza
+      - empiece
+      - empecemos
+      - empezad
+      - empiecen
+      cjid: impf

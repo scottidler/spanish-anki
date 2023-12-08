@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fear}, to {a_link|dread} '
+          - - vis
+            - - t: "tem\xEDamos lo peor"
+                tr: we feared the worst
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be afraid} '
+          - - vis
+            - - t: temer por alguien/algo
+                tr: to fear for someone/something
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: temer
+    prs:
+    - sound:
+        audio: temer01sp
+  meta:
+    id: temer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621609000'
+    src: spanish
+    stems:
+    - temer
+    - temerse
+    uuid: 12744069-bc00-46f3-93e4-227eae7f191d
+  shortdef:
+  - to fear, to dread
+  - to be afraid
+  suppl:
+    cjts:
+    - cjfs:
+      - temiendo
+      - temido
+      cjid: gppt
+    - cjfs:
+      - temo
+      - temes
+      - teme
+      - tememos
+      - "tem\xE9is"
+      - temen
+      cjid: pind
+    - cjfs:
+      - "tem\xEDa"
+      - "tem\xEDas"
+      - "tem\xEDa"
+      - "tem\xEDamos"
+      - "tem\xEDais"
+      - "tem\xEDan"
+      cjid: pret
+    - cjfs:
+      - "tem\xED"
+      - temiste
+      - "temi\xF3"
+      - temimos
+      - temisteis
+      - temieron
+      cjid: pprf
+    - cjfs:
+      - "temer\xE9"
+      - "temer\xE1s"
+      - "temer\xE1"
+      - temeremos
+      - "temer\xE9is"
+      - "temer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "temer\xEDa"
+      - "temer\xEDas"
+      - "temer\xEDa"
+      - "temer\xEDamos"
+      - "temer\xEDais"
+      - "temer\xEDan"
+      cjid: cond
+    - cjfs:
+      - tema
+      - temas
+      - tema
+      - temamos
+      - "tem\xE1is"
+      - teman
+      cjid: psub
+    - cjfs:
+      - temiera
+      - temieras
+      - temiera
+      - "temi\xE9ramos"
+      - temierais
+      - temieran
+      cjid: pisb1
+    - cjfs:
+      - temiese
+      - temieses
+      - temiese
+      - "temi\xE9semos"
+      - temieseis
+      - temiesen
+      cjid: pisb2
+    - cjfs:
+      - temiere
+      - temieres
+      - temiere
+      - "temi\xE9remos"
+      - temiereis
+      - temieren
+      cjid: fsub
+    - cjfs:
+      - he temido
+      - has temido
+      - ha temido
+      - hemos temido
+      - "hab\xE9is temido"
+      - han temido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa temido"
+      - "hab\xEDas temido"
+      - "hab\xEDa temido"
+      - "hab\xEDamos temido"
+      - "hab\xEDais temido"
+      - "hab\xEDan temido"
+      cjid: ppsi
+    - cjfs:
+      - hube temido
+      - hubiste temido
+      - hubo temido
+      - hubimos temido
+      - hubisteis temido
+      - hubieron temido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 temido"
+      - "habr\xE1s temido"
+      - "habr\xE1 temido"
+      - habremos temido
+      - "habr\xE9is temido"
+      - "habr\xE1n temido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa temido"
+      - "habr\xEDas temido"
+      - "habr\xEDa temido"
+      - "habr\xEDamos temido"
+      - "habr\xEDais temido"
+      - "habr\xEDan temido"
+      cjid: cpef
+    - cjfs:
+      - haya temido
+      - hayas temido
+      - haya temido
+      - hayamos temido
+      - "hay\xE1is temido"
+      - hayan temido
+      cjid: ppfs
+    - cjfs:
+      - hubiera temido
+      - hubieras temido
+      - hubiera temido
+      - "hubi\xE9ramos temido"
+      - hubierais temido
+      - hubieran temido
+      cjid: ppss1
+    - cjfs:
+      - hubiese temido
+      - hubieses temido
+      - hubiese temido
+      - "hubi\xE9semos temido"
+      - hubieseis temido
+      - hubiesen temido
+      cjid: ppss2
+    - cjfs:
+      - hubiere temido
+      - hubieres temido
+      - hubiere temido
+      - "hubi\xE9remos temido"
+      - hubiereis temido
+      - hubieren temido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - teme
+      - tema
+      - temamos
+      - temed
+      - teman
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: temerse

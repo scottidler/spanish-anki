@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|estimar||} {bc}to {a_link|appreciate}, to {a_link|value}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|evaluar||} {bc}to {a_link|appraise}, to {a_link|assess}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|appreciate}, to increase in value'
+    drp: apreciarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apreciar
+    prs:
+    - sound:
+        audio: aprec03sp
+  meta:
+    id: apreciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601775000'
+    src: spanish
+    stems:
+    - apreciar
+    - apreciarse
+    uuid: 848e645c-4dfe-4a09-b6ec-3a3845123350
+  shortdef:
+  - 'estimar : to appreciate, to value'
+  - 'evaluar : to appraise, to assess'
+  suppl:
+    cjts:
+    - cjfs:
+      - apreciando
+      - apreciado
+      cjid: gppt
+    - cjfs:
+      - aprecio
+      - aprecias
+      - aprecia
+      - apreciamos
+      - "apreci\xE1is"
+      - aprecian
+      cjid: pind
+    - cjfs:
+      - apreciaba
+      - apreciabas
+      - apreciaba
+      - "apreci\xE1bamos"
+      - apreciabais
+      - apreciaban
+      cjid: pret
+    - cjfs:
+      - "apreci\xE9"
+      - apreciaste
+      - "apreci\xF3"
+      - apreciamos
+      - apreciasteis
+      - apreciaron
+      cjid: pprf
+    - cjfs:
+      - "apreciar\xE9"
+      - "apreciar\xE1s"
+      - "apreciar\xE1"
+      - apreciaremos
+      - "apreciar\xE9is"
+      - "apreciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apreciar\xEDa"
+      - "apreciar\xEDas"
+      - "apreciar\xEDa"
+      - "apreciar\xEDamos"
+      - "apreciar\xEDais"
+      - "apreciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aprecie
+      - aprecies
+      - aprecie
+      - apreciemos
+      - "apreci\xE9is"
+      - aprecien
+      cjid: psub
+    - cjfs:
+      - apreciara
+      - apreciaras
+      - apreciara
+      - "apreci\xE1ramos"
+      - apreciarais
+      - apreciaran
+      cjid: pisb1
+    - cjfs:
+      - apreciase
+      - apreciases
+      - apreciase
+      - "apreci\xE1semos"
+      - apreciaseis
+      - apreciasen
+      cjid: pisb2
+    - cjfs:
+      - apreciare
+      - apreciares
+      - apreciare
+      - "apreci\xE1remos"
+      - apreciareis
+      - apreciaren
+      cjid: fsub
+    - cjfs:
+      - he apreciado
+      - has apreciado
+      - ha apreciado
+      - hemos apreciado
+      - "hab\xE9is apreciado"
+      - han apreciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apreciado"
+      - "hab\xEDas apreciado"
+      - "hab\xEDa apreciado"
+      - "hab\xEDamos apreciado"
+      - "hab\xEDais apreciado"
+      - "hab\xEDan apreciado"
+      cjid: ppsi
+    - cjfs:
+      - hube apreciado
+      - hubiste apreciado
+      - hubo apreciado
+      - hubimos apreciado
+      - hubisteis apreciado
+      - hubieron apreciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apreciado"
+      - "habr\xE1s apreciado"
+      - "habr\xE1 apreciado"
+      - habremos apreciado
+      - "habr\xE9is apreciado"
+      - "habr\xE1n apreciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apreciado"
+      - "habr\xEDas apreciado"
+      - "habr\xEDa apreciado"
+      - "habr\xEDamos apreciado"
+      - "habr\xEDais apreciado"
+      - "habr\xEDan apreciado"
+      cjid: cpef
+    - cjfs:
+      - haya apreciado
+      - hayas apreciado
+      - haya apreciado
+      - hayamos apreciado
+      - "hay\xE1is apreciado"
+      - hayan apreciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apreciado
+      - hubieras apreciado
+      - hubiera apreciado
+      - "hubi\xE9ramos apreciado"
+      - hubierais apreciado
+      - hubieran apreciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apreciado
+      - hubieses apreciado
+      - hubiese apreciado
+      - "hubi\xE9semos apreciado"
+      - hubieseis apreciado
+      - hubiesen apreciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apreciado
+      - hubieres apreciado
+      - hubiere apreciado
+      - "hubi\xE9remos apreciado"
+      - hubiereis apreciado
+      - hubieren apreciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aprecia
+      - aprecie
+      - apreciemos
+      - apreciad
+      - aprecien
+      cjid: impf

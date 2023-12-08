@@ -1,0 +1,392 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|brincar||} {bc}to {a_link|jump}, to {a_link|leap} '
+          - - vis
+            - - t: "salt\xF3 de la silla"
+                tr: he jumped out of his chair
+              - t: "el gato salt\xF3 sobre el rat\xF3n"
+                tr: the cat pounced on the mouse
+              - t: "salt\xF3 a la fama"
+                tr: she rose to fame
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rebotar||} {bc}to {a_link|bounce}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come off}, to {a_link|pop out} '
+          - - vis
+            - - t: "el corcho salt\xF3 de la botella"
+                tr: the cork popped out of the bottle
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shatter}, to {a_link|break}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|explode}, to {a_link|blow up}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|jump}, to {a_link|increase} '
+          - - vis
+            - - t: "salt\xF3 de 500.000 a un mill\xF3n"
+                tr: it jumped from 500,000 to a million
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be glaringly obvious'
+          sn: '7'
+          vrs:
+          - va: saltar a la vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to jump for joy'
+          sn: '8'
+          vrs:
+          - va: "saltar de alegr\xEDa"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|jump}, to jump over '
+          - - vis
+            - - t: "salt\xF3 la reja"
+                tr: he jumped over the railing
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|skip}, to {a_link|miss}'
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|omitir||} {bc}to {a_link|skip}, to {a_link|omit} '
+            - - vis
+              - - t: "me salt\xE9 ese cap\xEDtulo"
+                  tr: I skipped that chapter
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|come off}, to {a_link|fall off}'
+            sn: '2'
+    drp: saltarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: saltar
+    prs:
+    - sound:
+        audio: salta02sp
+  meta:
+    id: saltar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620149000'
+    src: spanish
+    stems:
+    - saltar
+    - saltar a la vista
+    - "saltar de alegr\xEDa"
+    - saltarse
+    uuid: 0b1723f7-488d-446a-971c-d08dafa09eba
+  shortdef:
+  - 'brincar : to jump, to leap'
+  - 'rebotar : to bounce'
+  - to come off, to pop out
+  suppl:
+    cjts:
+    - cjfs:
+      - saltando
+      - saltado
+      cjid: gppt
+    - cjfs:
+      - salto
+      - saltas
+      - salta
+      - saltamos
+      - "salt\xE1is"
+      - saltan
+      cjid: pind
+    - cjfs:
+      - saltaba
+      - saltabas
+      - saltaba
+      - "salt\xE1bamos"
+      - saltabais
+      - saltaban
+      cjid: pret
+    - cjfs:
+      - "salt\xE9"
+      - saltaste
+      - "salt\xF3"
+      - saltamos
+      - saltasteis
+      - saltaron
+      cjid: pprf
+    - cjfs:
+      - "saltar\xE9"
+      - "saltar\xE1s"
+      - "saltar\xE1"
+      - saltaremos
+      - "saltar\xE9is"
+      - "saltar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "saltar\xEDa"
+      - "saltar\xEDas"
+      - "saltar\xEDa"
+      - "saltar\xEDamos"
+      - "saltar\xEDais"
+      - "saltar\xEDan"
+      cjid: cond
+    - cjfs:
+      - salte
+      - saltes
+      - salte
+      - saltemos
+      - "salt\xE9is"
+      - salten
+      cjid: psub
+    - cjfs:
+      - saltara
+      - saltaras
+      - saltara
+      - "salt\xE1ramos"
+      - saltarais
+      - saltaran
+      cjid: pisb1
+    - cjfs:
+      - saltase
+      - saltases
+      - saltase
+      - "salt\xE1semos"
+      - saltaseis
+      - saltasen
+      cjid: pisb2
+    - cjfs:
+      - saltare
+      - saltares
+      - saltare
+      - "salt\xE1remos"
+      - saltareis
+      - saltaren
+      cjid: fsub
+    - cjfs:
+      - he saltado
+      - has saltado
+      - ha saltado
+      - hemos saltado
+      - "hab\xE9is saltado"
+      - han saltado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa saltado"
+      - "hab\xEDas saltado"
+      - "hab\xEDa saltado"
+      - "hab\xEDamos saltado"
+      - "hab\xEDais saltado"
+      - "hab\xEDan saltado"
+      cjid: ppsi
+    - cjfs:
+      - hube saltado
+      - hubiste saltado
+      - hubo saltado
+      - hubimos saltado
+      - hubisteis saltado
+      - hubieron saltado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 saltado"
+      - "habr\xE1s saltado"
+      - "habr\xE1 saltado"
+      - habremos saltado
+      - "habr\xE9is saltado"
+      - "habr\xE1n saltado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa saltado"
+      - "habr\xEDas saltado"
+      - "habr\xEDa saltado"
+      - "habr\xEDamos saltado"
+      - "habr\xEDais saltado"
+      - "habr\xEDan saltado"
+      cjid: cpef
+    - cjfs:
+      - haya saltado
+      - hayas saltado
+      - haya saltado
+      - hayamos saltado
+      - "hay\xE1is saltado"
+      - hayan saltado
+      cjid: ppfs
+    - cjfs:
+      - hubiera saltado
+      - hubieras saltado
+      - hubiera saltado
+      - "hubi\xE9ramos saltado"
+      - hubierais saltado
+      - hubieran saltado
+      cjid: ppss1
+    - cjfs:
+      - hubiese saltado
+      - hubieses saltado
+      - hubiese saltado
+      - "hubi\xE9semos saltado"
+      - hubieseis saltado
+      - hubiesen saltado
+      cjid: ppss2
+    - cjfs:
+      - hubiere saltado
+      - hubieres saltado
+      - hubiere saltado
+      - "hubi\xE9remos saltado"
+      - hubiereis saltado
+      - hubieren saltado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - salta
+      - salte
+      - saltemos
+      - saltad
+      - salten
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|visi\xF3n||} {bc}{a_link|vision}, {a_link|eyesight} "
+          - - vis
+            - - t: perder la vista
+                tr: to lose one's eyesight
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mirada||} {bc}{a_link|look}, {a_link|gaze}, {a_link|glance} '
+          - - vis
+            - - t: "baj\xF3 la vista"
+                tr: he looked down
+              - t: fijar la vista en
+                tr: to fix one's gaze on
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|panorama||} {bc}{a_link|view}, vista, {a_link|panorama}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hearing} (in court)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}in sight, in view'
+          sn: '5'
+          vrs:
+          - va: a la vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}at first sight'
+          sn: '6'
+          vrs:
+          - va: a primera vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}with a view to'
+          sn: '7'
+          vrs:
+          - va: con vistas a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in view of}'
+          sn: '8'
+          vrs:
+          - va: en vista de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to turn a blind eye'
+          sn: '9'
+          vrs:
+          - va: hacer la vista gorda
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|so long!}, see you!'
+          sn: '10'
+          vrs:
+          - va: "\xA1hasta la vista!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lose sight of'
+          sn: '11'
+          vrs:
+          - va: perder de vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|point of view}'
+          sn: '12'
+          vrs:
+          - va: punto de vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be obvious, to {a_link|stand out}'
+          sn: '13'
+          vrs:
+          - va: saltar a la vista
+  fl: feminine noun
+  hwi:
+    hw: vista
+  meta:
+    id: vista
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623114000'
+    src: spanish
+    stems:
+    - vista
+    - a la vista
+    - a primera vista
+    - con vistas a
+    - en vista de
+    - hacer la vista gorda
+    - "\xA1hasta la vista!"
+    - perder de vista
+    - punto de vista
+    - saltar a la vista
+    uuid: ccbd199b-f240-4b57-bbee-ed640f149f3a
+  shortdef:
+  - "visi\xF3n : vision, eyesight"
+  - 'mirada : look, gaze, glance'
+  - 'panorama : view, vista, panorama'

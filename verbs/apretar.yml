@@ -1,0 +1,225 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|press}, to {a_link|push} (a button)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tighten}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|squeeze}, to {a_link|clasp} '
+          - - vis
+            - - t: apretar el gatillo
+                tr: to pull the trigger
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to press together '
+          - - vis
+            - - t: apretar los dientes
+                tr: to grit one's teeth
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|press}, to {a_link|push}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fit tightly, to be too tight '
+          - - vis
+            - - t: los zapatos me aprietan
+                tr: my shoes are too tight
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: apretar
+    prs:
+    - sound:
+        audio: apret02sp
+  meta:
+    id: apretar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601796000'
+    src: spanish
+    stems:
+    - apretar
+    - apretarse
+    uuid: 3abe9b1a-defd-4a57-8371-af5f9176d1db
+  shortdef:
+  - to press, to push (a button)
+  - to tighten
+  - to squeeze, to clasp
+  suppl:
+    cjts:
+    - cjfs:
+      - apretando
+      - apretado
+      cjid: gppt
+    - cjfs:
+      - aprieto
+      - aprietas
+      - aprieta
+      - apretamos
+      - "apret\xE1is"
+      - aprietan
+      cjid: pind
+    - cjfs:
+      - apretaba
+      - apretabas
+      - apretaba
+      - "apret\xE1bamos"
+      - apretabais
+      - apretaban
+      cjid: pret
+    - cjfs:
+      - "apret\xE9"
+      - apretaste
+      - "apret\xF3"
+      - apretamos
+      - apretasteis
+      - apretaron
+      cjid: pprf
+    - cjfs:
+      - "apretar\xE9"
+      - "apretar\xE1s"
+      - "apretar\xE1"
+      - apretaremos
+      - "apretar\xE9is"
+      - "apretar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apretar\xEDa"
+      - "apretar\xEDas"
+      - "apretar\xEDa"
+      - "apretar\xEDamos"
+      - "apretar\xEDais"
+      - "apretar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apriete
+      - aprietes
+      - apriete
+      - apretemos
+      - "apret\xE9is"
+      - aprieten
+      cjid: psub
+    - cjfs:
+      - apretara
+      - apretaras
+      - apretara
+      - "apret\xE1ramos"
+      - apretarais
+      - apretaran
+      cjid: pisb1
+    - cjfs:
+      - apretase
+      - apretases
+      - apretase
+      - "apret\xE1semos"
+      - apretaseis
+      - apretasen
+      cjid: pisb2
+    - cjfs:
+      - apretare
+      - apretares
+      - apretare
+      - "apret\xE1remos"
+      - apretareis
+      - apretaren
+      cjid: fsub
+    - cjfs:
+      - he apretado
+      - has apretado
+      - ha apretado
+      - hemos apretado
+      - "hab\xE9is apretado"
+      - han apretado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apretado"
+      - "hab\xEDas apretado"
+      - "hab\xEDa apretado"
+      - "hab\xEDamos apretado"
+      - "hab\xEDais apretado"
+      - "hab\xEDan apretado"
+      cjid: ppsi
+    - cjfs:
+      - hube apretado
+      - hubiste apretado
+      - hubo apretado
+      - hubimos apretado
+      - hubisteis apretado
+      - hubieron apretado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apretado"
+      - "habr\xE1s apretado"
+      - "habr\xE1 apretado"
+      - habremos apretado
+      - "habr\xE9is apretado"
+      - "habr\xE1n apretado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apretado"
+      - "habr\xEDas apretado"
+      - "habr\xEDa apretado"
+      - "habr\xEDamos apretado"
+      - "habr\xEDais apretado"
+      - "habr\xEDan apretado"
+      cjid: cpef
+    - cjfs:
+      - haya apretado
+      - hayas apretado
+      - haya apretado
+      - hayamos apretado
+      - "hay\xE1is apretado"
+      - hayan apretado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apretado
+      - hubieras apretado
+      - hubiera apretado
+      - "hubi\xE9ramos apretado"
+      - hubierais apretado
+      - hubieran apretado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apretado
+      - hubieses apretado
+      - hubiese apretado
+      - "hubi\xE9semos apretado"
+      - hubieseis apretado
+      - hubiesen apretado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apretado
+      - hubieres apretado
+      - hubiere apretado
+      - "hubi\xE9remos apretado"
+      - hubiereis apretado
+      - hubieren apretado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aprieta
+      - apriete
+      - apretemos
+      - apretad
+      - aprieten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: apretarse

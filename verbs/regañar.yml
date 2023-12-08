@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scold}, to give a talking to'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|quejarse||} {bc}to {a_link|grumble}, to {a_link|complain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|re\xF1ir||} {bc}to {a_link|quarrel}, to {a_link|argue}"
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: "rega\xF1ar"
+    prs:
+    - sound:
+        audio: regan01sp
+  meta:
+    id: reganar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619190000'
+    src: spanish
+    stems:
+    - "rega\xF1ar"
+    uuid: c316531f-8018-449e-a054-92b1d0d910b2
+  shortdef:
+  - to scold, to give a talking to
+  - 'quejarse : to grumble, to complain'
+  - "re\xF1ir : to quarrel, to argue"
+  suppl:
+    cjts:
+    - cjfs:
+      - "rega\xF1ando"
+      - "rega\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "rega\xF1o"
+      - "rega\xF1as"
+      - "rega\xF1a"
+      - "rega\xF1amos"
+      - "rega\xF1\xE1is"
+      - "rega\xF1an"
+      cjid: pind
+    - cjfs:
+      - "rega\xF1aba"
+      - "rega\xF1abas"
+      - "rega\xF1aba"
+      - "rega\xF1\xE1bamos"
+      - "rega\xF1abais"
+      - "rega\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "rega\xF1\xE9"
+      - "rega\xF1aste"
+      - "rega\xF1\xF3"
+      - "rega\xF1amos"
+      - "rega\xF1asteis"
+      - "rega\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "rega\xF1ar\xE9"
+      - "rega\xF1ar\xE1s"
+      - "rega\xF1ar\xE1"
+      - "rega\xF1aremos"
+      - "rega\xF1ar\xE9is"
+      - "rega\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rega\xF1ar\xEDa"
+      - "rega\xF1ar\xEDas"
+      - "rega\xF1ar\xEDa"
+      - "rega\xF1ar\xEDamos"
+      - "rega\xF1ar\xEDais"
+      - "rega\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "rega\xF1e"
+      - "rega\xF1es"
+      - "rega\xF1e"
+      - "rega\xF1emos"
+      - "rega\xF1\xE9is"
+      - "rega\xF1en"
+      cjid: psub
+    - cjfs:
+      - "rega\xF1ara"
+      - "rega\xF1aras"
+      - "rega\xF1ara"
+      - "rega\xF1\xE1ramos"
+      - "rega\xF1arais"
+      - "rega\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "rega\xF1ase"
+      - "rega\xF1ases"
+      - "rega\xF1ase"
+      - "rega\xF1\xE1semos"
+      - "rega\xF1aseis"
+      - "rega\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "rega\xF1are"
+      - "rega\xF1ares"
+      - "rega\xF1are"
+      - "rega\xF1\xE1remos"
+      - "rega\xF1areis"
+      - "rega\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he rega\xF1ado"
+      - "has rega\xF1ado"
+      - "ha rega\xF1ado"
+      - "hemos rega\xF1ado"
+      - "hab\xE9is rega\xF1ado"
+      - "han rega\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rega\xF1ado"
+      - "hab\xEDas rega\xF1ado"
+      - "hab\xEDa rega\xF1ado"
+      - "hab\xEDamos rega\xF1ado"
+      - "hab\xEDais rega\xF1ado"
+      - "hab\xEDan rega\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube rega\xF1ado"
+      - "hubiste rega\xF1ado"
+      - "hubo rega\xF1ado"
+      - "hubimos rega\xF1ado"
+      - "hubisteis rega\xF1ado"
+      - "hubieron rega\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rega\xF1ado"
+      - "habr\xE1s rega\xF1ado"
+      - "habr\xE1 rega\xF1ado"
+      - "habremos rega\xF1ado"
+      - "habr\xE9is rega\xF1ado"
+      - "habr\xE1n rega\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rega\xF1ado"
+      - "habr\xEDas rega\xF1ado"
+      - "habr\xEDa rega\xF1ado"
+      - "habr\xEDamos rega\xF1ado"
+      - "habr\xEDais rega\xF1ado"
+      - "habr\xEDan rega\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya rega\xF1ado"
+      - "hayas rega\xF1ado"
+      - "haya rega\xF1ado"
+      - "hayamos rega\xF1ado"
+      - "hay\xE1is rega\xF1ado"
+      - "hayan rega\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera rega\xF1ado"
+      - "hubieras rega\xF1ado"
+      - "hubiera rega\xF1ado"
+      - "hubi\xE9ramos rega\xF1ado"
+      - "hubierais rega\xF1ado"
+      - "hubieran rega\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese rega\xF1ado"
+      - "hubieses rega\xF1ado"
+      - "hubiese rega\xF1ado"
+      - "hubi\xE9semos rega\xF1ado"
+      - "hubieseis rega\xF1ado"
+      - "hubiesen rega\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere rega\xF1ado"
+      - "hubieres rega\xF1ado"
+      - "hubiere rega\xF1ado"
+      - "hubi\xE9remos rega\xF1ado"
+      - "hubiereis rega\xF1ado"
+      - "hubieren rega\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "rega\xF1a"
+      - "rega\xF1e"
+      - "rega\xF1emos"
+      - "rega\xF1ad"
+      - "rega\xF1en"
+      cjid: impf

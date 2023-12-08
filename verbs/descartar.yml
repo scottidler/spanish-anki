@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rule out}, to {a_link|reject}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|discard}'
+    drp: descartarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: descartar
+    prs:
+    - sound:
+        audio: desca08sp
+  meta:
+    id: descartar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606922000'
+    src: spanish
+    stems:
+    - descartar
+    - descartarse
+    uuid: c62067eb-7acb-4c67-9177-13924e3bfbd1
+  shortdef:
+  - to rule out, to reject
+  suppl:
+    cjts:
+    - cjfs:
+      - descartando
+      - descartado
+      cjid: gppt
+    - cjfs:
+      - descarto
+      - descartas
+      - descarta
+      - descartamos
+      - "descart\xE1is"
+      - descartan
+      cjid: pind
+    - cjfs:
+      - descartaba
+      - descartabas
+      - descartaba
+      - "descart\xE1bamos"
+      - descartabais
+      - descartaban
+      cjid: pret
+    - cjfs:
+      - "descart\xE9"
+      - descartaste
+      - "descart\xF3"
+      - descartamos
+      - descartasteis
+      - descartaron
+      cjid: pprf
+    - cjfs:
+      - "descartar\xE9"
+      - "descartar\xE1s"
+      - "descartar\xE1"
+      - descartaremos
+      - "descartar\xE9is"
+      - "descartar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "descartar\xEDa"
+      - "descartar\xEDas"
+      - "descartar\xEDa"
+      - "descartar\xEDamos"
+      - "descartar\xEDais"
+      - "descartar\xEDan"
+      cjid: cond
+    - cjfs:
+      - descarte
+      - descartes
+      - descarte
+      - descartemos
+      - "descart\xE9is"
+      - descarten
+      cjid: psub
+    - cjfs:
+      - descartara
+      - descartaras
+      - descartara
+      - "descart\xE1ramos"
+      - descartarais
+      - descartaran
+      cjid: pisb1
+    - cjfs:
+      - descartase
+      - descartases
+      - descartase
+      - "descart\xE1semos"
+      - descartaseis
+      - descartasen
+      cjid: pisb2
+    - cjfs:
+      - descartare
+      - descartares
+      - descartare
+      - "descart\xE1remos"
+      - descartareis
+      - descartaren
+      cjid: fsub
+    - cjfs:
+      - he descartado
+      - has descartado
+      - ha descartado
+      - hemos descartado
+      - "hab\xE9is descartado"
+      - han descartado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa descartado"
+      - "hab\xEDas descartado"
+      - "hab\xEDa descartado"
+      - "hab\xEDamos descartado"
+      - "hab\xEDais descartado"
+      - "hab\xEDan descartado"
+      cjid: ppsi
+    - cjfs:
+      - hube descartado
+      - hubiste descartado
+      - hubo descartado
+      - hubimos descartado
+      - hubisteis descartado
+      - hubieron descartado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 descartado"
+      - "habr\xE1s descartado"
+      - "habr\xE1 descartado"
+      - habremos descartado
+      - "habr\xE9is descartado"
+      - "habr\xE1n descartado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa descartado"
+      - "habr\xEDas descartado"
+      - "habr\xEDa descartado"
+      - "habr\xEDamos descartado"
+      - "habr\xEDais descartado"
+      - "habr\xEDan descartado"
+      cjid: cpef
+    - cjfs:
+      - haya descartado
+      - hayas descartado
+      - haya descartado
+      - hayamos descartado
+      - "hay\xE1is descartado"
+      - hayan descartado
+      cjid: ppfs
+    - cjfs:
+      - hubiera descartado
+      - hubieras descartado
+      - hubiera descartado
+      - "hubi\xE9ramos descartado"
+      - hubierais descartado
+      - hubieran descartado
+      cjid: ppss1
+    - cjfs:
+      - hubiese descartado
+      - hubieses descartado
+      - hubiese descartado
+      - "hubi\xE9semos descartado"
+      - hubieseis descartado
+      - hubiesen descartado
+      cjid: ppss2
+    - cjfs:
+      - hubiere descartado
+      - hubieres descartado
+      - hubiere descartado
+      - "hubi\xE9remos descartado"
+      - hubiereis descartado
+      - hubieren descartado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - descarta
+      - descarte
+      - descartemos
+      - descartad
+      - descarten
+      cjid: impf

@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|soften}, to smooth out'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tone down}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: suavizar
+  meta:
+    id: suavizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621040000'
+    src: spanish
+    stems:
+    - suavizar
+    - suavizarse
+    uuid: 2547599f-d3cf-4e89-9094-5b0622818229
+  shortdef:
+  - to soften, to smooth out
+  - to tone down
+  suppl:
+    cjts:
+    - cjfs:
+      - suavizando
+      - suavizado
+      cjid: gppt
+    - cjfs:
+      - suavizo
+      - suavizas
+      - suaviza
+      - suavizamos
+      - "suaviz\xE1is"
+      - suavizan
+      cjid: pind
+    - cjfs:
+      - suavizaba
+      - suavizabas
+      - suavizaba
+      - "suaviz\xE1bamos"
+      - suavizabais
+      - suavizaban
+      cjid: pret
+    - cjfs:
+      - "suavic\xE9"
+      - suavizaste
+      - "suaviz\xF3"
+      - suavizamos
+      - suavizasteis
+      - suavizaron
+      cjid: pprf
+    - cjfs:
+      - "suavizar\xE9"
+      - "suavizar\xE1s"
+      - "suavizar\xE1"
+      - suavizaremos
+      - "suavizar\xE9is"
+      - "suavizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "suavizar\xEDa"
+      - "suavizar\xEDas"
+      - "suavizar\xEDa"
+      - "suavizar\xEDamos"
+      - "suavizar\xEDais"
+      - "suavizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - suavice
+      - suavices
+      - suavice
+      - suavicemos
+      - "suavic\xE9is"
+      - suavicen
+      cjid: psub
+    - cjfs:
+      - suavizara
+      - suavizaras
+      - suavizara
+      - "suaviz\xE1ramos"
+      - suavizarais
+      - suavizaran
+      cjid: pisb1
+    - cjfs:
+      - suavizase
+      - suavizases
+      - suavizase
+      - "suaviz\xE1semos"
+      - suavizaseis
+      - suavizasen
+      cjid: pisb2
+    - cjfs:
+      - suavizare
+      - suavizares
+      - suavizare
+      - "suaviz\xE1remos"
+      - suavizareis
+      - suavizaren
+      cjid: fsub
+    - cjfs:
+      - he suavizado
+      - has suavizado
+      - ha suavizado
+      - hemos suavizado
+      - "hab\xE9is suavizado"
+      - han suavizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa suavizado"
+      - "hab\xEDas suavizado"
+      - "hab\xEDa suavizado"
+      - "hab\xEDamos suavizado"
+      - "hab\xEDais suavizado"
+      - "hab\xEDan suavizado"
+      cjid: ppsi
+    - cjfs:
+      - hube suavizado
+      - hubiste suavizado
+      - hubo suavizado
+      - hubimos suavizado
+      - hubisteis suavizado
+      - hubieron suavizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 suavizado"
+      - "habr\xE1s suavizado"
+      - "habr\xE1 suavizado"
+      - habremos suavizado
+      - "habr\xE9is suavizado"
+      - "habr\xE1n suavizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa suavizado"
+      - "habr\xEDas suavizado"
+      - "habr\xEDa suavizado"
+      - "habr\xEDamos suavizado"
+      - "habr\xEDais suavizado"
+      - "habr\xEDan suavizado"
+      cjid: cpef
+    - cjfs:
+      - haya suavizado
+      - hayas suavizado
+      - haya suavizado
+      - hayamos suavizado
+      - "hay\xE1is suavizado"
+      - hayan suavizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera suavizado
+      - hubieras suavizado
+      - hubiera suavizado
+      - "hubi\xE9ramos suavizado"
+      - hubierais suavizado
+      - hubieran suavizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese suavizado
+      - hubieses suavizado
+      - hubiese suavizado
+      - "hubi\xE9semos suavizado"
+      - hubieseis suavizado
+      - hubiesen suavizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere suavizado
+      - hubieres suavizado
+      - hubiere suavizado
+      - "hubi\xE9remos suavizado"
+      - hubiereis suavizado
+      - hubieren suavizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - suaviza
+      - suavice
+      - suavicemos
+      - suavizad
+      - suavicen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: suavizarse

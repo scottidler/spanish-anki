@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|discern}, to {a_link|make out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to begin to see, to have an inkling of'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: vislumbrar
+    prs:
+    - sound:
+        audio: vislu01sp
+  meta:
+    id: vislumbrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623108000'
+    src: spanish
+    stems:
+    - vislumbrar
+    uuid: 4523ca03-5c89-4273-8ec3-24c6783d4f0e
+  shortdef:
+  - to discern, to make out
+  - to begin to see, to have an inkling of
+  suppl:
+    cjts:
+    - cjfs:
+      - vislumbrando
+      - vislumbrado
+      cjid: gppt
+    - cjfs:
+      - vislumbro
+      - vislumbras
+      - vislumbra
+      - vislumbramos
+      - "vislumbr\xE1is"
+      - vislumbran
+      cjid: pind
+    - cjfs:
+      - vislumbraba
+      - vislumbrabas
+      - vislumbraba
+      - "vislumbr\xE1bamos"
+      - vislumbrabais
+      - vislumbraban
+      cjid: pret
+    - cjfs:
+      - "vislumbr\xE9"
+      - vislumbraste
+      - "vislumbr\xF3"
+      - vislumbramos
+      - vislumbrasteis
+      - vislumbraron
+      cjid: pprf
+    - cjfs:
+      - "vislumbrar\xE9"
+      - "vislumbrar\xE1s"
+      - "vislumbrar\xE1"
+      - vislumbraremos
+      - "vislumbrar\xE9is"
+      - "vislumbrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vislumbrar\xEDa"
+      - "vislumbrar\xEDas"
+      - "vislumbrar\xEDa"
+      - "vislumbrar\xEDamos"
+      - "vislumbrar\xEDais"
+      - "vislumbrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vislumbre
+      - vislumbres
+      - vislumbre
+      - vislumbremos
+      - "vislumbr\xE9is"
+      - vislumbren
+      cjid: psub
+    - cjfs:
+      - vislumbrara
+      - vislumbraras
+      - vislumbrara
+      - "vislumbr\xE1ramos"
+      - vislumbrarais
+      - vislumbraran
+      cjid: pisb1
+    - cjfs:
+      - vislumbrase
+      - vislumbrases
+      - vislumbrase
+      - "vislumbr\xE1semos"
+      - vislumbraseis
+      - vislumbrasen
+      cjid: pisb2
+    - cjfs:
+      - vislumbrare
+      - vislumbrares
+      - vislumbrare
+      - "vislumbr\xE1remos"
+      - vislumbrareis
+      - vislumbraren
+      cjid: fsub
+    - cjfs:
+      - he vislumbrado
+      - has vislumbrado
+      - ha vislumbrado
+      - hemos vislumbrado
+      - "hab\xE9is vislumbrado"
+      - han vislumbrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vislumbrado"
+      - "hab\xEDas vislumbrado"
+      - "hab\xEDa vislumbrado"
+      - "hab\xEDamos vislumbrado"
+      - "hab\xEDais vislumbrado"
+      - "hab\xEDan vislumbrado"
+      cjid: ppsi
+    - cjfs:
+      - hube vislumbrado
+      - hubiste vislumbrado
+      - hubo vislumbrado
+      - hubimos vislumbrado
+      - hubisteis vislumbrado
+      - hubieron vislumbrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vislumbrado"
+      - "habr\xE1s vislumbrado"
+      - "habr\xE1 vislumbrado"
+      - habremos vislumbrado
+      - "habr\xE9is vislumbrado"
+      - "habr\xE1n vislumbrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vislumbrado"
+      - "habr\xEDas vislumbrado"
+      - "habr\xEDa vislumbrado"
+      - "habr\xEDamos vislumbrado"
+      - "habr\xEDais vislumbrado"
+      - "habr\xEDan vislumbrado"
+      cjid: cpef
+    - cjfs:
+      - haya vislumbrado
+      - hayas vislumbrado
+      - haya vislumbrado
+      - hayamos vislumbrado
+      - "hay\xE1is vislumbrado"
+      - hayan vislumbrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vislumbrado
+      - hubieras vislumbrado
+      - hubiera vislumbrado
+      - "hubi\xE9ramos vislumbrado"
+      - hubierais vislumbrado
+      - hubieran vislumbrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vislumbrado
+      - hubieses vislumbrado
+      - hubiese vislumbrado
+      - "hubi\xE9semos vislumbrado"
+      - hubieseis vislumbrado
+      - hubiesen vislumbrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vislumbrado
+      - hubieres vislumbrado
+      - hubiere vislumbrado
+      - "hubi\xE9remos vislumbrado"
+      - hubiereis vislumbrado
+      - hubieren vislumbrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vislumbra
+      - vislumbre
+      - vislumbremos
+      - vislumbrad
+      - vislumbren
+      cjid: impf

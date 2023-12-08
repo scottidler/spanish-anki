@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rest}, to {a_link|repose}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stand}, to {a_link|settle} '
+          - - vis
+            - - t: deje reposar la masa media hora
+                tr: let the dough stand for half an hour
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lie}, to be buried'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|settle}'
+    drp: reposarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: reposar
+    prs:
+    - sound:
+        audio: repos02sp
+  meta:
+    id: reposar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619466000'
+    src: spanish
+    stems:
+    - reposar
+    - reposarse
+    uuid: 8dfbaf71-ba35-44d5-a550-b9384005bbc2
+  shortdef:
+  - to rest, to repose
+  - to stand, to settle
+  - to lie, to be buried
+  suppl:
+    cjts:
+    - cjfs:
+      - reposando
+      - reposado
+      cjid: gppt
+    - cjfs:
+      - reposo
+      - reposas
+      - reposa
+      - reposamos
+      - "repos\xE1is"
+      - reposan
+      cjid: pind
+    - cjfs:
+      - reposaba
+      - reposabas
+      - reposaba
+      - "repos\xE1bamos"
+      - reposabais
+      - reposaban
+      cjid: pret
+    - cjfs:
+      - "repos\xE9"
+      - reposaste
+      - "repos\xF3"
+      - reposamos
+      - reposasteis
+      - reposaron
+      cjid: pprf
+    - cjfs:
+      - "reposar\xE9"
+      - "reposar\xE1s"
+      - "reposar\xE1"
+      - reposaremos
+      - "reposar\xE9is"
+      - "reposar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reposar\xEDa"
+      - "reposar\xEDas"
+      - "reposar\xEDa"
+      - "reposar\xEDamos"
+      - "reposar\xEDais"
+      - "reposar\xEDan"
+      cjid: cond
+    - cjfs:
+      - repose
+      - reposes
+      - repose
+      - reposemos
+      - "repos\xE9is"
+      - reposen
+      cjid: psub
+    - cjfs:
+      - reposara
+      - reposaras
+      - reposara
+      - "repos\xE1ramos"
+      - reposarais
+      - reposaran
+      cjid: pisb1
+    - cjfs:
+      - reposase
+      - reposases
+      - reposase
+      - "repos\xE1semos"
+      - reposaseis
+      - reposasen
+      cjid: pisb2
+    - cjfs:
+      - reposare
+      - reposares
+      - reposare
+      - "repos\xE1remos"
+      - reposareis
+      - reposaren
+      cjid: fsub
+    - cjfs:
+      - he reposado
+      - has reposado
+      - ha reposado
+      - hemos reposado
+      - "hab\xE9is reposado"
+      - han reposado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reposado"
+      - "hab\xEDas reposado"
+      - "hab\xEDa reposado"
+      - "hab\xEDamos reposado"
+      - "hab\xEDais reposado"
+      - "hab\xEDan reposado"
+      cjid: ppsi
+    - cjfs:
+      - hube reposado
+      - hubiste reposado
+      - hubo reposado
+      - hubimos reposado
+      - hubisteis reposado
+      - hubieron reposado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reposado"
+      - "habr\xE1s reposado"
+      - "habr\xE1 reposado"
+      - habremos reposado
+      - "habr\xE9is reposado"
+      - "habr\xE1n reposado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reposado"
+      - "habr\xEDas reposado"
+      - "habr\xEDa reposado"
+      - "habr\xEDamos reposado"
+      - "habr\xEDais reposado"
+      - "habr\xEDan reposado"
+      cjid: cpef
+    - cjfs:
+      - haya reposado
+      - hayas reposado
+      - haya reposado
+      - hayamos reposado
+      - "hay\xE1is reposado"
+      - hayan reposado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reposado
+      - hubieras reposado
+      - hubiera reposado
+      - "hubi\xE9ramos reposado"
+      - hubierais reposado
+      - hubieran reposado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reposado
+      - hubieses reposado
+      - hubiese reposado
+      - "hubi\xE9semos reposado"
+      - hubieseis reposado
+      - hubiesen reposado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reposado
+      - hubieres reposado
+      - hubiere reposado
+      - "hubi\xE9remos reposado"
+      - hubiereis reposado
+      - hubieren reposado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reposa
+      - repose
+      - reposemos
+      - reposad
+      - reposen
+      cjid: impf

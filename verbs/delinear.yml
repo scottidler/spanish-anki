@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|delineate}, to {a_link|outline}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draft}, to {a_link|draw up}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: delinear
+    prs:
+    - sound:
+        audio: delin02sp
+  meta:
+    id: delinear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606634000'
+    src: spanish
+    stems:
+    - delinear
+    uuid: 76ae4613-6d19-4bce-b2c0-780f4ac71d7d
+  shortdef:
+  - to delineate, to outline
+  - to draft, to draw up
+  suppl:
+    cjts:
+    - cjfs:
+      - delineando
+      - delineado
+      cjid: gppt
+    - cjfs:
+      - delineo
+      - delineas
+      - delinea
+      - delineamos
+      - "deline\xE1is"
+      - delinean
+      cjid: pind
+    - cjfs:
+      - delineaba
+      - delineabas
+      - delineaba
+      - "deline\xE1bamos"
+      - delineabais
+      - delineaban
+      cjid: pret
+    - cjfs:
+      - "deline\xE9"
+      - delineaste
+      - "deline\xF3"
+      - delineamos
+      - delineasteis
+      - delinearon
+      cjid: pprf
+    - cjfs:
+      - "delinear\xE9"
+      - "delinear\xE1s"
+      - "delinear\xE1"
+      - delinearemos
+      - "delinear\xE9is"
+      - "delinear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "delinear\xEDa"
+      - "delinear\xEDas"
+      - "delinear\xEDa"
+      - "delinear\xEDamos"
+      - "delinear\xEDais"
+      - "delinear\xEDan"
+      cjid: cond
+    - cjfs:
+      - delinee
+      - delinees
+      - delinee
+      - delineemos
+      - "deline\xE9is"
+      - delineen
+      cjid: psub
+    - cjfs:
+      - delineara
+      - delinearas
+      - delineara
+      - "deline\xE1ramos"
+      - delinearais
+      - delinearan
+      cjid: pisb1
+    - cjfs:
+      - delinease
+      - delineases
+      - delinease
+      - "deline\xE1semos"
+      - delineaseis
+      - delineasen
+      cjid: pisb2
+    - cjfs:
+      - delineare
+      - delineares
+      - delineare
+      - "deline\xE1remos"
+      - delineareis
+      - delinearen
+      cjid: fsub
+    - cjfs:
+      - he delineado
+      - has delineado
+      - ha delineado
+      - hemos delineado
+      - "hab\xE9is delineado"
+      - han delineado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa delineado"
+      - "hab\xEDas delineado"
+      - "hab\xEDa delineado"
+      - "hab\xEDamos delineado"
+      - "hab\xEDais delineado"
+      - "hab\xEDan delineado"
+      cjid: ppsi
+    - cjfs:
+      - hube delineado
+      - hubiste delineado
+      - hubo delineado
+      - hubimos delineado
+      - hubisteis delineado
+      - hubieron delineado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 delineado"
+      - "habr\xE1s delineado"
+      - "habr\xE1 delineado"
+      - habremos delineado
+      - "habr\xE9is delineado"
+      - "habr\xE1n delineado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa delineado"
+      - "habr\xEDas delineado"
+      - "habr\xEDa delineado"
+      - "habr\xEDamos delineado"
+      - "habr\xEDais delineado"
+      - "habr\xEDan delineado"
+      cjid: cpef
+    - cjfs:
+      - haya delineado
+      - hayas delineado
+      - haya delineado
+      - hayamos delineado
+      - "hay\xE1is delineado"
+      - hayan delineado
+      cjid: ppfs
+    - cjfs:
+      - hubiera delineado
+      - hubieras delineado
+      - hubiera delineado
+      - "hubi\xE9ramos delineado"
+      - hubierais delineado
+      - hubieran delineado
+      cjid: ppss1
+    - cjfs:
+      - hubiese delineado
+      - hubieses delineado
+      - hubiese delineado
+      - "hubi\xE9semos delineado"
+      - hubieseis delineado
+      - hubiesen delineado
+      cjid: ppss2
+    - cjfs:
+      - hubiere delineado
+      - hubieres delineado
+      - hubiere delineado
+      - "hubi\xE9remos delineado"
+      - hubiereis delineado
+      - hubieren delineado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - delinea
+      - delinee
+      - delineemos
+      - delinead
+      - delineen
+      cjid: impf

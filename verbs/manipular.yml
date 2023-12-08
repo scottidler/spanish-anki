@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|manipulate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|manejar||} {bc}to {a_link|handle}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: manipular
+    prs:
+    - sound:
+        audio: manip02sp
+  meta:
+    id: manipular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614370000'
+    src: spanish
+    stems:
+    - manipular
+    uuid: 27761f26-35e4-49dc-80fe-e02cfb61d18c
+  shortdef:
+  - to manipulate
+  - 'manejar : to handle'
+  suppl:
+    cjts:
+    - cjfs:
+      - manipulando
+      - manipulado
+      cjid: gppt
+    - cjfs:
+      - manipulo
+      - manipulas
+      - manipula
+      - manipulamos
+      - "manipul\xE1is"
+      - manipulan
+      cjid: pind
+    - cjfs:
+      - manipulaba
+      - manipulabas
+      - manipulaba
+      - "manipul\xE1bamos"
+      - manipulabais
+      - manipulaban
+      cjid: pret
+    - cjfs:
+      - "manipul\xE9"
+      - manipulaste
+      - "manipul\xF3"
+      - manipulamos
+      - manipulasteis
+      - manipularon
+      cjid: pprf
+    - cjfs:
+      - "manipular\xE9"
+      - "manipular\xE1s"
+      - "manipular\xE1"
+      - manipularemos
+      - "manipular\xE9is"
+      - "manipular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "manipular\xEDa"
+      - "manipular\xEDas"
+      - "manipular\xEDa"
+      - "manipular\xEDamos"
+      - "manipular\xEDais"
+      - "manipular\xEDan"
+      cjid: cond
+    - cjfs:
+      - manipule
+      - manipules
+      - manipule
+      - manipulemos
+      - "manipul\xE9is"
+      - manipulen
+      cjid: psub
+    - cjfs:
+      - manipulara
+      - manipularas
+      - manipulara
+      - "manipul\xE1ramos"
+      - manipularais
+      - manipularan
+      cjid: pisb1
+    - cjfs:
+      - manipulase
+      - manipulases
+      - manipulase
+      - "manipul\xE1semos"
+      - manipulaseis
+      - manipulasen
+      cjid: pisb2
+    - cjfs:
+      - manipulare
+      - manipulares
+      - manipulare
+      - "manipul\xE1remos"
+      - manipulareis
+      - manipularen
+      cjid: fsub
+    - cjfs:
+      - he manipulado
+      - has manipulado
+      - ha manipulado
+      - hemos manipulado
+      - "hab\xE9is manipulado"
+      - han manipulado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa manipulado"
+      - "hab\xEDas manipulado"
+      - "hab\xEDa manipulado"
+      - "hab\xEDamos manipulado"
+      - "hab\xEDais manipulado"
+      - "hab\xEDan manipulado"
+      cjid: ppsi
+    - cjfs:
+      - hube manipulado
+      - hubiste manipulado
+      - hubo manipulado
+      - hubimos manipulado
+      - hubisteis manipulado
+      - hubieron manipulado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 manipulado"
+      - "habr\xE1s manipulado"
+      - "habr\xE1 manipulado"
+      - habremos manipulado
+      - "habr\xE9is manipulado"
+      - "habr\xE1n manipulado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa manipulado"
+      - "habr\xEDas manipulado"
+      - "habr\xEDa manipulado"
+      - "habr\xEDamos manipulado"
+      - "habr\xEDais manipulado"
+      - "habr\xEDan manipulado"
+      cjid: cpef
+    - cjfs:
+      - haya manipulado
+      - hayas manipulado
+      - haya manipulado
+      - hayamos manipulado
+      - "hay\xE1is manipulado"
+      - hayan manipulado
+      cjid: ppfs
+    - cjfs:
+      - hubiera manipulado
+      - hubieras manipulado
+      - hubiera manipulado
+      - "hubi\xE9ramos manipulado"
+      - hubierais manipulado
+      - hubieran manipulado
+      cjid: ppss1
+    - cjfs:
+      - hubiese manipulado
+      - hubieses manipulado
+      - hubiese manipulado
+      - "hubi\xE9semos manipulado"
+      - hubieseis manipulado
+      - hubiesen manipulado
+      cjid: ppss2
+    - cjfs:
+      - hubiere manipulado
+      - hubieres manipulado
+      - hubiere manipulado
+      - "hubi\xE9remos manipulado"
+      - hubiereis manipulado
+      - hubieren manipulado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - manipula
+      - manipule
+      - manipulemos
+      - manipulad
+      - manipulen
+      cjid: impf

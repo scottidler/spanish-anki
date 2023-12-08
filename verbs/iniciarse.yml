@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|comenzar||} {bc}to {a_link|initiate}, to {a_link|begin} '
+          - - vis
+            - - t: "iniciar (la) sesi\xF3n"
+                tr: to log in/on
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|initiate} (someone)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: iniciar
+    prs:
+    - sound:
+        audio: inici03sp
+  meta:
+    id: iniciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612549000'
+    src: spanish
+    stems:
+    - iniciar
+    - iniciarse
+    uuid: 792a61eb-e8b6-414c-93b7-cc43b09643c1
+  shortdef:
+  - 'comenzar : to initiate, to begin'
+  - to initiate (someone)
+  suppl:
+    cjts:
+    - cjfs:
+      - iniciando
+      - iniciado
+      cjid: gppt
+    - cjfs:
+      - inicio
+      - inicias
+      - inicia
+      - iniciamos
+      - "inici\xE1is"
+      - inician
+      cjid: pind
+    - cjfs:
+      - iniciaba
+      - iniciabas
+      - iniciaba
+      - "inici\xE1bamos"
+      - iniciabais
+      - iniciaban
+      cjid: pret
+    - cjfs:
+      - "inici\xE9"
+      - iniciaste
+      - "inici\xF3"
+      - iniciamos
+      - iniciasteis
+      - iniciaron
+      cjid: pprf
+    - cjfs:
+      - "iniciar\xE9"
+      - "iniciar\xE1s"
+      - "iniciar\xE1"
+      - iniciaremos
+      - "iniciar\xE9is"
+      - "iniciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "iniciar\xEDa"
+      - "iniciar\xEDas"
+      - "iniciar\xEDa"
+      - "iniciar\xEDamos"
+      - "iniciar\xEDais"
+      - "iniciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - inicie
+      - inicies
+      - inicie
+      - iniciemos
+      - "inici\xE9is"
+      - inicien
+      cjid: psub
+    - cjfs:
+      - iniciara
+      - iniciaras
+      - iniciara
+      - "inici\xE1ramos"
+      - iniciarais
+      - iniciaran
+      cjid: pisb1
+    - cjfs:
+      - iniciase
+      - iniciases
+      - iniciase
+      - "inici\xE1semos"
+      - iniciaseis
+      - iniciasen
+      cjid: pisb2
+    - cjfs:
+      - iniciare
+      - iniciares
+      - iniciare
+      - "inici\xE1remos"
+      - iniciareis
+      - iniciaren
+      cjid: fsub
+    - cjfs:
+      - he iniciado
+      - has iniciado
+      - ha iniciado
+      - hemos iniciado
+      - "hab\xE9is iniciado"
+      - han iniciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa iniciado"
+      - "hab\xEDas iniciado"
+      - "hab\xEDa iniciado"
+      - "hab\xEDamos iniciado"
+      - "hab\xEDais iniciado"
+      - "hab\xEDan iniciado"
+      cjid: ppsi
+    - cjfs:
+      - hube iniciado
+      - hubiste iniciado
+      - hubo iniciado
+      - hubimos iniciado
+      - hubisteis iniciado
+      - hubieron iniciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 iniciado"
+      - "habr\xE1s iniciado"
+      - "habr\xE1 iniciado"
+      - habremos iniciado
+      - "habr\xE9is iniciado"
+      - "habr\xE1n iniciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa iniciado"
+      - "habr\xEDas iniciado"
+      - "habr\xEDa iniciado"
+      - "habr\xEDamos iniciado"
+      - "habr\xEDais iniciado"
+      - "habr\xEDan iniciado"
+      cjid: cpef
+    - cjfs:
+      - haya iniciado
+      - hayas iniciado
+      - haya iniciado
+      - hayamos iniciado
+      - "hay\xE1is iniciado"
+      - hayan iniciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera iniciado
+      - hubieras iniciado
+      - hubiera iniciado
+      - "hubi\xE9ramos iniciado"
+      - hubierais iniciado
+      - hubieran iniciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese iniciado
+      - hubieses iniciado
+      - hubiese iniciado
+      - "hubi\xE9semos iniciado"
+      - hubieseis iniciado
+      - hubiesen iniciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere iniciado
+      - hubieres iniciado
+      - hubiere iniciado
+      - "hubi\xE9remos iniciado"
+      - hubiereis iniciado
+      - hubieren iniciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inicia
+      - inicie
+      - iniciemos
+      - iniciad
+      - inicien
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: iniciarse

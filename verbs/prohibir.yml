@@ -1,0 +1,191 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prohibit}, to {a_link|ban}, to {a_link|forbid} '
+          - - vis
+            - - t: prohibido fumar
+                tr: no smoking
+              - t: prohibido el paso
+                tr: do not enter
+              - t: "me prohibi\xF3 ir"
+                tr: she forbade me to go
+              - t: se prohibe el uso de pesticidas
+                tr: the use of pesticides is banned/prohibited
+  fl: transitive verb
+  hwi:
+    hw: prohibir
+    prs:
+    - sound:
+        audio: prohi02sp
+  meta:
+    id: prohibir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618239000'
+    src: spanish
+    stems:
+    - prohibir
+    uuid: f42211a8-0f41-42b8-8ae3-0ec607a9b800
+  shortdef:
+  - to prohibit, to ban, to forbid
+  suppl:
+    cjts:
+    - cjfs:
+      - prohibiendo
+      - prohibido
+      cjid: gppt
+    - cjfs:
+      - "proh\xEDbo"
+      - "proh\xEDbes"
+      - "proh\xEDbe"
+      - prohibimos
+      - "prohib\xEDs"
+      - "proh\xEDben"
+      cjid: pind
+    - cjfs:
+      - "prohib\xEDa"
+      - "prohib\xEDas"
+      - "prohib\xEDa"
+      - "prohib\xEDamos"
+      - "prohib\xEDais"
+      - "prohib\xEDan"
+      cjid: pret
+    - cjfs:
+      - "prohib\xED"
+      - prohibiste
+      - "prohibi\xF3"
+      - prohibimos
+      - prohibisteis
+      - prohibieron
+      cjid: pprf
+    - cjfs:
+      - "prohibir\xE9"
+      - "prohibir\xE1s"
+      - "prohibir\xE1"
+      - prohibiremos
+      - "prohibir\xE9is"
+      - "prohibir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prohibir\xEDa"
+      - "prohibir\xEDas"
+      - "prohibir\xEDa"
+      - "prohibir\xEDamos"
+      - "prohibir\xEDais"
+      - "prohibir\xEDan"
+      cjid: cond
+    - cjfs:
+      - "proh\xEDba"
+      - "proh\xEDbas"
+      - "proh\xEDba"
+      - prohibamos
+      - "prohib\xE1is"
+      - "proh\xEDban"
+      cjid: psub
+    - cjfs:
+      - prohibiera
+      - prohibieras
+      - prohibiera
+      - "prohibi\xE9ramos"
+      - prohibierais
+      - prohibieran
+      cjid: pisb1
+    - cjfs:
+      - prohibiese
+      - prohibieses
+      - prohibiese
+      - "prohibi\xE9semos"
+      - prohibieseis
+      - prohibiesen
+      cjid: pisb2
+    - cjfs:
+      - prohibiere
+      - prohibieres
+      - prohibiere
+      - "prohibi\xE9remos"
+      - prohibiereis
+      - prohibieren
+      cjid: fsub
+    - cjfs:
+      - he prohibido
+      - has prohibido
+      - ha prohibido
+      - hemos prohibido
+      - "hab\xE9is prohibido"
+      - han prohibido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prohibido"
+      - "hab\xEDas prohibido"
+      - "hab\xEDa prohibido"
+      - "hab\xEDamos prohibido"
+      - "hab\xEDais prohibido"
+      - "hab\xEDan prohibido"
+      cjid: ppsi
+    - cjfs:
+      - hube prohibido
+      - hubiste prohibido
+      - hubo prohibido
+      - hubimos prohibido
+      - hubisteis prohibido
+      - hubieron prohibido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prohibido"
+      - "habr\xE1s prohibido"
+      - "habr\xE1 prohibido"
+      - habremos prohibido
+      - "habr\xE9is prohibido"
+      - "habr\xE1n prohibido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prohibido"
+      - "habr\xEDas prohibido"
+      - "habr\xEDa prohibido"
+      - "habr\xEDamos prohibido"
+      - "habr\xEDais prohibido"
+      - "habr\xEDan prohibido"
+      cjid: cpef
+    - cjfs:
+      - haya prohibido
+      - hayas prohibido
+      - haya prohibido
+      - hayamos prohibido
+      - "hay\xE1is prohibido"
+      - hayan prohibido
+      cjid: ppfs
+    - cjfs:
+      - hubiera prohibido
+      - hubieras prohibido
+      - hubiera prohibido
+      - "hubi\xE9ramos prohibido"
+      - hubierais prohibido
+      - hubieran prohibido
+      cjid: ppss1
+    - cjfs:
+      - hubiese prohibido
+      - hubieses prohibido
+      - hubiese prohibido
+      - "hubi\xE9semos prohibido"
+      - hubieseis prohibido
+      - hubiesen prohibido
+      cjid: ppss2
+    - cjfs:
+      - hubiere prohibido
+      - hubieres prohibido
+      - hubiere prohibido
+      - "hubi\xE9remos prohibido"
+      - hubiereis prohibido
+      - hubieren prohibido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "proh\xEDbe"
+      - "proh\xEDba"
+      - prohibamos
+      - prohibid
+      - "proh\xEDban"
+      cjid: impf

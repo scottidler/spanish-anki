@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|moderar||} {bc}to {a_link|preside over}, to {a_link|chair}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dominate}, to rule over'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: presidir
+  meta:
+    id: presidir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618044000'
+    src: spanish
+    stems:
+    - presidir
+    uuid: 6408d4d1-5e3a-4bf9-b59d-4307d7108e47
+  shortdef:
+  - 'moderar : to preside over, to chair'
+  - to dominate, to rule over
+  suppl:
+    cjts:
+    - cjfs:
+      - presidiendo
+      - presidido
+      cjid: gppt
+    - cjfs:
+      - presido
+      - presides
+      - preside
+      - presidimos
+      - "presid\xEDs"
+      - presiden
+      cjid: pind
+    - cjfs:
+      - "presid\xEDa"
+      - "presid\xEDas"
+      - "presid\xEDa"
+      - "presid\xEDamos"
+      - "presid\xEDais"
+      - "presid\xEDan"
+      cjid: pret
+    - cjfs:
+      - "presid\xED"
+      - presidiste
+      - "presidi\xF3"
+      - presidimos
+      - presidisteis
+      - presidieron
+      cjid: pprf
+    - cjfs:
+      - "presidir\xE9"
+      - "presidir\xE1s"
+      - "presidir\xE1"
+      - presidiremos
+      - "presidir\xE9is"
+      - "presidir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "presidir\xEDa"
+      - "presidir\xEDas"
+      - "presidir\xEDa"
+      - "presidir\xEDamos"
+      - "presidir\xEDais"
+      - "presidir\xEDan"
+      cjid: cond
+    - cjfs:
+      - presida
+      - presidas
+      - presida
+      - presidamos
+      - "presid\xE1is"
+      - presidan
+      cjid: psub
+    - cjfs:
+      - presidiera
+      - presidieras
+      - presidiera
+      - "presidi\xE9ramos"
+      - presidierais
+      - presidieran
+      cjid: pisb1
+    - cjfs:
+      - presidiese
+      - presidieses
+      - presidiese
+      - "presidi\xE9semos"
+      - presidieseis
+      - presidiesen
+      cjid: pisb2
+    - cjfs:
+      - presidiere
+      - presidieres
+      - presidiere
+      - "presidi\xE9remos"
+      - presidiereis
+      - presidieren
+      cjid: fsub
+    - cjfs:
+      - he presidido
+      - has presidido
+      - ha presidido
+      - hemos presidido
+      - "hab\xE9is presidido"
+      - han presidido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa presidido"
+      - "hab\xEDas presidido"
+      - "hab\xEDa presidido"
+      - "hab\xEDamos presidido"
+      - "hab\xEDais presidido"
+      - "hab\xEDan presidido"
+      cjid: ppsi
+    - cjfs:
+      - hube presidido
+      - hubiste presidido
+      - hubo presidido
+      - hubimos presidido
+      - hubisteis presidido
+      - hubieron presidido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 presidido"
+      - "habr\xE1s presidido"
+      - "habr\xE1 presidido"
+      - habremos presidido
+      - "habr\xE9is presidido"
+      - "habr\xE1n presidido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa presidido"
+      - "habr\xEDas presidido"
+      - "habr\xEDa presidido"
+      - "habr\xEDamos presidido"
+      - "habr\xEDais presidido"
+      - "habr\xEDan presidido"
+      cjid: cpef
+    - cjfs:
+      - haya presidido
+      - hayas presidido
+      - haya presidido
+      - hayamos presidido
+      - "hay\xE1is presidido"
+      - hayan presidido
+      cjid: ppfs
+    - cjfs:
+      - hubiera presidido
+      - hubieras presidido
+      - hubiera presidido
+      - "hubi\xE9ramos presidido"
+      - hubierais presidido
+      - hubieran presidido
+      cjid: ppss1
+    - cjfs:
+      - hubiese presidido
+      - hubieses presidido
+      - hubiese presidido
+      - "hubi\xE9semos presidido"
+      - hubieseis presidido
+      - hubiesen presidido
+      cjid: ppss2
+    - cjfs:
+      - hubiere presidido
+      - hubieres presidido
+      - hubiere presidido
+      - "hubi\xE9remos presidido"
+      - hubiereis presidido
+      - hubieren presidido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - preside
+      - presida
+      - presidamos
+      - presidid
+      - presidan
+      cjid: impf

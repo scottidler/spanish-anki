@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|bosquejar||} {bc}to {a_link|sketch}, to {a_link|outline}'
+  fl: transitive verb
+  hwi:
+    hw: esbozar
+    prs:
+    - sound:
+        audio: esboz01sp
+  meta:
+    id: esbozar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608920000'
+    src: spanish
+    stems:
+    - esbozar
+    uuid: dd8d4011-a6cc-4ab9-9542-c753c0e6258a
+  shortdef:
+  - 'bosquejar : to sketch, to outline'
+  suppl:
+    cjts:
+    - cjfs:
+      - esbozando
+      - esbozado
+      cjid: gppt
+    - cjfs:
+      - esbozo
+      - esbozas
+      - esboza
+      - esbozamos
+      - "esboz\xE1is"
+      - esbozan
+      cjid: pind
+    - cjfs:
+      - esbozaba
+      - esbozabas
+      - esbozaba
+      - "esboz\xE1bamos"
+      - esbozabais
+      - esbozaban
+      cjid: pret
+    - cjfs:
+      - "esboc\xE9"
+      - esbozaste
+      - "esboz\xF3"
+      - esbozamos
+      - esbozasteis
+      - esbozaron
+      cjid: pprf
+    - cjfs:
+      - "esbozar\xE9"
+      - "esbozar\xE1s"
+      - "esbozar\xE1"
+      - esbozaremos
+      - "esbozar\xE9is"
+      - "esbozar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "esbozar\xEDa"
+      - "esbozar\xEDas"
+      - "esbozar\xEDa"
+      - "esbozar\xEDamos"
+      - "esbozar\xEDais"
+      - "esbozar\xEDan"
+      cjid: cond
+    - cjfs:
+      - esboce
+      - esboces
+      - esboce
+      - esbocemos
+      - "esboc\xE9is"
+      - esbocen
+      cjid: psub
+    - cjfs:
+      - esbozara
+      - esbozaras
+      - esbozara
+      - "esboz\xE1ramos"
+      - esbozarais
+      - esbozaran
+      cjid: pisb1
+    - cjfs:
+      - esbozase
+      - esbozases
+      - esbozase
+      - "esboz\xE1semos"
+      - esbozaseis
+      - esbozasen
+      cjid: pisb2
+    - cjfs:
+      - esbozare
+      - esbozares
+      - esbozare
+      - "esboz\xE1remos"
+      - esbozareis
+      - esbozaren
+      cjid: fsub
+    - cjfs:
+      - he esbozado
+      - has esbozado
+      - ha esbozado
+      - hemos esbozado
+      - "hab\xE9is esbozado"
+      - han esbozado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa esbozado"
+      - "hab\xEDas esbozado"
+      - "hab\xEDa esbozado"
+      - "hab\xEDamos esbozado"
+      - "hab\xEDais esbozado"
+      - "hab\xEDan esbozado"
+      cjid: ppsi
+    - cjfs:
+      - hube esbozado
+      - hubiste esbozado
+      - hubo esbozado
+      - hubimos esbozado
+      - hubisteis esbozado
+      - hubieron esbozado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 esbozado"
+      - "habr\xE1s esbozado"
+      - "habr\xE1 esbozado"
+      - habremos esbozado
+      - "habr\xE9is esbozado"
+      - "habr\xE1n esbozado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa esbozado"
+      - "habr\xEDas esbozado"
+      - "habr\xEDa esbozado"
+      - "habr\xEDamos esbozado"
+      - "habr\xEDais esbozado"
+      - "habr\xEDan esbozado"
+      cjid: cpef
+    - cjfs:
+      - haya esbozado
+      - hayas esbozado
+      - haya esbozado
+      - hayamos esbozado
+      - "hay\xE1is esbozado"
+      - hayan esbozado
+      cjid: ppfs
+    - cjfs:
+      - hubiera esbozado
+      - hubieras esbozado
+      - hubiera esbozado
+      - "hubi\xE9ramos esbozado"
+      - hubierais esbozado
+      - hubieran esbozado
+      cjid: ppss1
+    - cjfs:
+      - hubiese esbozado
+      - hubieses esbozado
+      - hubiese esbozado
+      - "hubi\xE9semos esbozado"
+      - hubieseis esbozado
+      - hubiesen esbozado
+      cjid: ppss2
+    - cjfs:
+      - hubiere esbozado
+      - hubieres esbozado
+      - hubiere esbozado
+      - "hubi\xE9remos esbozado"
+      - hubiereis esbozado
+      - hubieren esbozado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - esboza
+      - esboce
+      - esbocemos
+      - esbozad
+      - esbocen
+      cjid: impf

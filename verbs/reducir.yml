@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|disminuir||} {bc}to {a_link|reduce}, to {a_link|decrease}, to {a_link|cut}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|subdue}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to boil down'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|come down to}, to be nothing more than'
+            vrs:
+            - va: reducirse a
+              vac: ~ a
+    drp: reducirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reducir
+    prs:
+    - sound:
+        audio: reduc03sp
+  meta:
+    id: reducir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619106000'
+    src: spanish
+    stems:
+    - reducir
+    - reducirse
+    - reducirse a
+    uuid: 3799c2d3-9679-4514-9f43-d835d76a0c67
+  shortdef:
+  - 'disminuir : to reduce, to decrease, to cut'
+  - to subdue
+  - to boil down
+  suppl:
+    cjts:
+    - cjfs:
+      - reduciendo
+      - reducido
+      cjid: gppt
+    - cjfs:
+      - reduzco
+      - reduces
+      - reduce
+      - reducimos
+      - "reduc\xEDs"
+      - reducen
+      cjid: pind
+    - cjfs:
+      - "reduc\xEDa"
+      - "reduc\xEDas"
+      - "reduc\xEDa"
+      - "reduc\xEDamos"
+      - "reduc\xEDais"
+      - "reduc\xEDan"
+      cjid: pret
+    - cjfs:
+      - reduje
+      - redujiste
+      - redujo
+      - redujimos
+      - redujisteis
+      - redujeron
+      cjid: pprf
+    - cjfs:
+      - "reducir\xE9"
+      - "reducir\xE1s"
+      - "reducir\xE1"
+      - reduciremos
+      - "reducir\xE9is"
+      - "reducir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reducir\xEDa"
+      - "reducir\xEDas"
+      - "reducir\xEDa"
+      - "reducir\xEDamos"
+      - "reducir\xEDais"
+      - "reducir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reduzca
+      - reduzcas
+      - reduzca
+      - reduzcamos
+      - "reduzc\xE1is"
+      - reduzcan
+      cjid: psub
+    - cjfs:
+      - redujera
+      - redujeras
+      - redujera
+      - "reduj\xE9ramos"
+      - redujerais
+      - redujeran
+      cjid: pisb1
+    - cjfs:
+      - redujese
+      - redujeses
+      - redujese
+      - "reduj\xE9semos"
+      - redujeseis
+      - redujesen
+      cjid: pisb2
+    - cjfs:
+      - redujere
+      - redujeres
+      - redujere
+      - "reduj\xE9remos"
+      - redujereis
+      - redujeren
+      cjid: fsub
+    - cjfs:
+      - he reducido
+      - has reducido
+      - ha reducido
+      - hemos reducido
+      - "hab\xE9is reducido"
+      - han reducido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reducido"
+      - "hab\xEDas reducido"
+      - "hab\xEDa reducido"
+      - "hab\xEDamos reducido"
+      - "hab\xEDais reducido"
+      - "hab\xEDan reducido"
+      cjid: ppsi
+    - cjfs:
+      - hube reducido
+      - hubiste reducido
+      - hubo reducido
+      - hubimos reducido
+      - hubisteis reducido
+      - hubieron reducido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reducido"
+      - "habr\xE1s reducido"
+      - "habr\xE1 reducido"
+      - habremos reducido
+      - "habr\xE9is reducido"
+      - "habr\xE1n reducido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reducido"
+      - "habr\xEDas reducido"
+      - "habr\xEDa reducido"
+      - "habr\xEDamos reducido"
+      - "habr\xEDais reducido"
+      - "habr\xEDan reducido"
+      cjid: cpef
+    - cjfs:
+      - haya reducido
+      - hayas reducido
+      - haya reducido
+      - hayamos reducido
+      - "hay\xE1is reducido"
+      - hayan reducido
+      cjid: ppfs
+    - cjfs:
+      - hubiera reducido
+      - hubieras reducido
+      - hubiera reducido
+      - "hubi\xE9ramos reducido"
+      - hubierais reducido
+      - hubieran reducido
+      cjid: ppss1
+    - cjfs:
+      - hubiese reducido
+      - hubieses reducido
+      - hubiese reducido
+      - "hubi\xE9semos reducido"
+      - hubieseis reducido
+      - hubiesen reducido
+      cjid: ppss2
+    - cjfs:
+      - hubiere reducido
+      - hubieres reducido
+      - hubiere reducido
+      - "hubi\xE9remos reducido"
+      - hubiereis reducido
+      - hubieren reducido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reduce
+      - reduzca
+      - reduzcamos
+      - reducid
+      - reduzcan
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hoist}, to {a_link|raise} '
+          - - vis
+            - - t: izar la bandera
+                tr: to raise the flag
+  fl: transitive verb
+  hwi:
+    hw: izar
+  meta:
+    id: izar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613125000'
+    src: spanish
+    stems:
+    - izar
+    uuid: d04f1bc7-1242-4663-b77c-3f03065328ef
+  shortdef:
+  - to hoist, to raise
+  suppl:
+    cjts:
+    - cjfs:
+      - izando
+      - izado
+      cjid: gppt
+    - cjfs:
+      - izo
+      - izas
+      - iza
+      - izamos
+      - "iz\xE1is"
+      - izan
+      cjid: pind
+    - cjfs:
+      - izaba
+      - izabas
+      - izaba
+      - "iz\xE1bamos"
+      - izabais
+      - izaban
+      cjid: pret
+    - cjfs:
+      - "ic\xE9"
+      - izaste
+      - "iz\xF3"
+      - izamos
+      - izasteis
+      - izaron
+      cjid: pprf
+    - cjfs:
+      - "izar\xE9"
+      - "izar\xE1s"
+      - "izar\xE1"
+      - izaremos
+      - "izar\xE9is"
+      - "izar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "izar\xEDa"
+      - "izar\xEDas"
+      - "izar\xEDa"
+      - "izar\xEDamos"
+      - "izar\xEDais"
+      - "izar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ice
+      - ices
+      - ice
+      - icemos
+      - "ic\xE9is"
+      - icen
+      cjid: psub
+    - cjfs:
+      - izara
+      - izaras
+      - izara
+      - "iz\xE1ramos"
+      - izarais
+      - izaran
+      cjid: pisb1
+    - cjfs:
+      - izase
+      - izases
+      - izase
+      - "iz\xE1semos"
+      - izaseis
+      - izasen
+      cjid: pisb2
+    - cjfs:
+      - izare
+      - izares
+      - izare
+      - "iz\xE1remos"
+      - izareis
+      - izaren
+      cjid: fsub
+    - cjfs:
+      - he izado
+      - has izado
+      - ha izado
+      - hemos izado
+      - "hab\xE9is izado"
+      - han izado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa izado"
+      - "hab\xEDas izado"
+      - "hab\xEDa izado"
+      - "hab\xEDamos izado"
+      - "hab\xEDais izado"
+      - "hab\xEDan izado"
+      cjid: ppsi
+    - cjfs:
+      - hube izado
+      - hubiste izado
+      - hubo izado
+      - hubimos izado
+      - hubisteis izado
+      - hubieron izado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 izado"
+      - "habr\xE1s izado"
+      - "habr\xE1 izado"
+      - habremos izado
+      - "habr\xE9is izado"
+      - "habr\xE1n izado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa izado"
+      - "habr\xEDas izado"
+      - "habr\xEDa izado"
+      - "habr\xEDamos izado"
+      - "habr\xEDais izado"
+      - "habr\xEDan izado"
+      cjid: cpef
+    - cjfs:
+      - haya izado
+      - hayas izado
+      - haya izado
+      - hayamos izado
+      - "hay\xE1is izado"
+      - hayan izado
+      cjid: ppfs
+    - cjfs:
+      - hubiera izado
+      - hubieras izado
+      - hubiera izado
+      - "hubi\xE9ramos izado"
+      - hubierais izado
+      - hubieran izado
+      cjid: ppss1
+    - cjfs:
+      - hubiese izado
+      - hubieses izado
+      - hubiese izado
+      - "hubi\xE9semos izado"
+      - hubieseis izado
+      - hubiesen izado
+      cjid: ppss2
+    - cjfs:
+      - hubiere izado
+      - hubieres izado
+      - hubiere izado
+      - "hubi\xE9remos izado"
+      - hubiereis izado
+      - hubieren izado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - iza
+      - ice
+      - icemos
+      - izad
+      - icen
+      cjid: impf

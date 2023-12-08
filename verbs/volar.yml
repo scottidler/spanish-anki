@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fly}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|correr||} {bc}to go quickly, to {a_link|rush} '
+          - - vis
+            - - t: el tiempo vuela
+                tr: time flies
+              - t: pasar volando
+                tr: to fly past
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desaparecer||} {bc}to {a_link|disappear} '
+          - - vis
+            - - t: "el dinero ya vol\xF3"
+                tr: the money's already gone
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blow up}, to {a_link|demolish}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|irritate}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: volar
+    prs:
+    - sound:
+        audio: volar01sp
+  meta:
+    id: volar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623183000'
+    src: spanish
+    stems:
+    - volar
+    uuid: e4b04d6d-b060-4366-9863-9f9321e67452
+  shortdef:
+  - to fly
+  - 'correr : to go quickly, to rush'
+  - 'desaparecer : to disappear'
+  suppl:
+    cjts:
+    - cjfs:
+      - volando
+      - volado
+      cjid: gppt
+    - cjfs:
+      - vuelo
+      - vuelas
+      - vuela
+      - volamos
+      - "vol\xE1is"
+      - vuelan
+      cjid: pind
+    - cjfs:
+      - volaba
+      - volabas
+      - volaba
+      - "vol\xE1bamos"
+      - volabais
+      - volaban
+      cjid: pret
+    - cjfs:
+      - "vol\xE9"
+      - volaste
+      - "vol\xF3"
+      - volamos
+      - volasteis
+      - volaron
+      cjid: pprf
+    - cjfs:
+      - "volar\xE9"
+      - "volar\xE1s"
+      - "volar\xE1"
+      - volaremos
+      - "volar\xE9is"
+      - "volar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "volar\xEDa"
+      - "volar\xEDas"
+      - "volar\xEDa"
+      - "volar\xEDamos"
+      - "volar\xEDais"
+      - "volar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vuele
+      - vueles
+      - vuele
+      - volemos
+      - "vol\xE9is"
+      - vuelen
+      cjid: psub
+    - cjfs:
+      - volara
+      - volaras
+      - volara
+      - "vol\xE1ramos"
+      - volarais
+      - volaran
+      cjid: pisb1
+    - cjfs:
+      - volase
+      - volases
+      - volase
+      - "vol\xE1semos"
+      - volaseis
+      - volasen
+      cjid: pisb2
+    - cjfs:
+      - volare
+      - volares
+      - volare
+      - "vol\xE1remos"
+      - volareis
+      - volaren
+      cjid: fsub
+    - cjfs:
+      - he volado
+      - has volado
+      - ha volado
+      - hemos volado
+      - "hab\xE9is volado"
+      - han volado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa volado"
+      - "hab\xEDas volado"
+      - "hab\xEDa volado"
+      - "hab\xEDamos volado"
+      - "hab\xEDais volado"
+      - "hab\xEDan volado"
+      cjid: ppsi
+    - cjfs:
+      - hube volado
+      - hubiste volado
+      - hubo volado
+      - hubimos volado
+      - hubisteis volado
+      - hubieron volado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 volado"
+      - "habr\xE1s volado"
+      - "habr\xE1 volado"
+      - habremos volado
+      - "habr\xE9is volado"
+      - "habr\xE1n volado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa volado"
+      - "habr\xEDas volado"
+      - "habr\xEDa volado"
+      - "habr\xEDamos volado"
+      - "habr\xEDais volado"
+      - "habr\xEDan volado"
+      cjid: cpef
+    - cjfs:
+      - haya volado
+      - hayas volado
+      - haya volado
+      - hayamos volado
+      - "hay\xE1is volado"
+      - hayan volado
+      cjid: ppfs
+    - cjfs:
+      - hubiera volado
+      - hubieras volado
+      - hubiera volado
+      - "hubi\xE9ramos volado"
+      - hubierais volado
+      - hubieran volado
+      cjid: ppss1
+    - cjfs:
+      - hubiese volado
+      - hubieses volado
+      - hubiese volado
+      - "hubi\xE9semos volado"
+      - hubieseis volado
+      - hubiesen volado
+      cjid: ppss2
+    - cjfs:
+      - hubiere volado
+      - hubieres volado
+      - hubiere volado
+      - "hubi\xE9remos volado"
+      - hubiereis volado
+      - hubieren volado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vuela
+      - vuele
+      - volemos
+      - volad
+      - vuelen
+      cjid: impf

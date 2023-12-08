@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to guess correctly'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|atinar||} {bc}to be correct, to be on target'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to manage to'
+          sn: '2'
+          vrs:
+          - va: acertar a
+            vac: ~ a
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: acertar
+    prs:
+    - sound:
+        audio: acert02sp
+  meta:
+    id: acertar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600261000'
+    src: spanish
+    stems:
+    - acertar
+    - acertar a
+    uuid: ee81a8bf-1b4c-4095-97c1-87cec1939019
+  shortdef:
+  - to guess correctly
+  - 'atinar : to be correct, to be on target'
+  - to manage to
+  suppl:
+    cjts:
+    - cjfs:
+      - acertando
+      - acertado
+      cjid: gppt
+    - cjfs:
+      - acierto
+      - aciertas
+      - acierta
+      - acertamos
+      - "acert\xE1is"
+      - aciertan
+      cjid: pind
+    - cjfs:
+      - acertaba
+      - acertabas
+      - acertaba
+      - "acert\xE1bamos"
+      - acertabais
+      - acertaban
+      cjid: pret
+    - cjfs:
+      - "acert\xE9"
+      - acertaste
+      - "acert\xF3"
+      - acertamos
+      - acertasteis
+      - acertaron
+      cjid: pprf
+    - cjfs:
+      - "acertar\xE9"
+      - "acertar\xE1s"
+      - "acertar\xE1"
+      - acertaremos
+      - "acertar\xE9is"
+      - "acertar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acertar\xEDa"
+      - "acertar\xEDas"
+      - "acertar\xEDa"
+      - "acertar\xEDamos"
+      - "acertar\xEDais"
+      - "acertar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acierte
+      - aciertes
+      - acierte
+      - acertemos
+      - "acert\xE9is"
+      - acierten
+      cjid: psub
+    - cjfs:
+      - acertara
+      - acertaras
+      - acertara
+      - "acert\xE1ramos"
+      - acertarais
+      - acertaran
+      cjid: pisb1
+    - cjfs:
+      - acertase
+      - acertases
+      - acertase
+      - "acert\xE1semos"
+      - acertaseis
+      - acertasen
+      cjid: pisb2
+    - cjfs:
+      - acertare
+      - acertares
+      - acertare
+      - "acert\xE1remos"
+      - acertareis
+      - acertaren
+      cjid: fsub
+    - cjfs:
+      - he acertado
+      - has acertado
+      - ha acertado
+      - hemos acertado
+      - "hab\xE9is acertado"
+      - han acertado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acertado"
+      - "hab\xEDas acertado"
+      - "hab\xEDa acertado"
+      - "hab\xEDamos acertado"
+      - "hab\xEDais acertado"
+      - "hab\xEDan acertado"
+      cjid: ppsi
+    - cjfs:
+      - hube acertado
+      - hubiste acertado
+      - hubo acertado
+      - hubimos acertado
+      - hubisteis acertado
+      - hubieron acertado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acertado"
+      - "habr\xE1s acertado"
+      - "habr\xE1 acertado"
+      - habremos acertado
+      - "habr\xE9is acertado"
+      - "habr\xE1n acertado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acertado"
+      - "habr\xEDas acertado"
+      - "habr\xEDa acertado"
+      - "habr\xEDamos acertado"
+      - "habr\xEDais acertado"
+      - "habr\xEDan acertado"
+      cjid: cpef
+    - cjfs:
+      - haya acertado
+      - hayas acertado
+      - haya acertado
+      - hayamos acertado
+      - "hay\xE1is acertado"
+      - hayan acertado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acertado
+      - hubieras acertado
+      - hubiera acertado
+      - "hubi\xE9ramos acertado"
+      - hubierais acertado
+      - hubieran acertado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acertado
+      - hubieses acertado
+      - hubiese acertado
+      - "hubi\xE9semos acertado"
+      - hubieseis acertado
+      - hubiesen acertado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acertado
+      - hubieres acertado
+      - hubiere acertado
+      - "hubi\xE9remos acertado"
+      - hubiereis acertado
+      - hubieren acertado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acierta
+      - acierte
+      - acertemos
+      - acertad
+      - acierten
+      cjid: impf

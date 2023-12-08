@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|retain}, to {a_link|keep}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|withhold}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|detain}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: retener
+    prs:
+    - sound:
+        audio: reten02sp
+  meta:
+    id: retener
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619662000'
+    src: spanish
+    stems:
+    - retener
+    uuid: 3442012a-2691-4c73-b76c-822bbbfce61b
+  shortdef:
+  - to retain, to keep
+  - to withhold
+  - to detain
+  suppl:
+    cjts:
+    - cjfs:
+      - reteniendo
+      - retenido
+      cjid: gppt
+    - cjfs:
+      - retengo
+      - retienes
+      - retiene
+      - retenemos
+      - "reten\xE9is"
+      - retienen
+      cjid: pind
+    - cjfs:
+      - "reten\xEDa"
+      - "reten\xEDas"
+      - "reten\xEDa"
+      - "reten\xEDamos"
+      - "reten\xEDais"
+      - "reten\xEDan"
+      cjid: pret
+    - cjfs:
+      - retuve
+      - retuviste
+      - retuvo
+      - retuvimos
+      - retuvisteis
+      - retuvieron
+      cjid: pprf
+    - cjfs:
+      - "retendr\xE9"
+      - "retendr\xE1s"
+      - "retendr\xE1"
+      - retendremos
+      - "retendr\xE9is"
+      - "retendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "retendr\xEDa"
+      - "retendr\xEDas"
+      - "retendr\xEDa"
+      - "retendr\xEDamos"
+      - "retendr\xEDais"
+      - "retendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - retenga
+      - retengas
+      - retenga
+      - retengamos
+      - "reteng\xE1is"
+      - retengan
+      cjid: psub
+    - cjfs:
+      - retuviera
+      - retuvieras
+      - retuviera
+      - "retuvi\xE9ramos"
+      - retuvierais
+      - retuvieran
+      cjid: pisb1
+    - cjfs:
+      - retuviese
+      - retuvieses
+      - retuviese
+      - "retuvi\xE9semos"
+      - retuvieseis
+      - retuviesen
+      cjid: pisb2
+    - cjfs:
+      - retuviere
+      - retuvieres
+      - retuviere
+      - "retuvi\xE9remos"
+      - retuviereis
+      - retuvieren
+      cjid: fsub
+    - cjfs:
+      - he retenido
+      - has retenido
+      - ha retenido
+      - hemos retenido
+      - "hab\xE9is retenido"
+      - han retenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa retenido"
+      - "hab\xEDas retenido"
+      - "hab\xEDa retenido"
+      - "hab\xEDamos retenido"
+      - "hab\xEDais retenido"
+      - "hab\xEDan retenido"
+      cjid: ppsi
+    - cjfs:
+      - hube retenido
+      - hubiste retenido
+      - hubo retenido
+      - hubimos retenido
+      - hubisteis retenido
+      - hubieron retenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 retenido"
+      - "habr\xE1s retenido"
+      - "habr\xE1 retenido"
+      - habremos retenido
+      - "habr\xE9is retenido"
+      - "habr\xE1n retenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa retenido"
+      - "habr\xEDas retenido"
+      - "habr\xEDa retenido"
+      - "habr\xEDamos retenido"
+      - "habr\xEDais retenido"
+      - "habr\xEDan retenido"
+      cjid: cpef
+    - cjfs:
+      - haya retenido
+      - hayas retenido
+      - haya retenido
+      - hayamos retenido
+      - "hay\xE1is retenido"
+      - hayan retenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera retenido
+      - hubieras retenido
+      - hubiera retenido
+      - "hubi\xE9ramos retenido"
+      - hubierais retenido
+      - hubieran retenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese retenido
+      - hubieses retenido
+      - hubiese retenido
+      - "hubi\xE9semos retenido"
+      - hubieseis retenido
+      - hubiesen retenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere retenido
+      - hubieres retenido
+      - hubiere retenido
+      - "hubi\xE9remos retenido"
+      - hubiereis retenido
+      - hubieren retenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ret\xE9n"
+      - retenga
+      - retengamos
+      - retened
+      - retengan
+      cjid: impf

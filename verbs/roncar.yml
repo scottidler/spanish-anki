@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snore}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|roar}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: roncar
+    prs:
+    - sound:
+        audio: ronca01sp
+  meta:
+    id: roncar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619922000'
+    src: spanish
+    stems:
+    - roncar
+    uuid: 30e36a81-4ee9-4b4f-b13d-e2f06ff13df5
+  shortdef:
+  - to snore
+  - to roar
+  suppl:
+    cjts:
+    - cjfs:
+      - roncando
+      - roncado
+      cjid: gppt
+    - cjfs:
+      - ronco
+      - roncas
+      - ronca
+      - roncamos
+      - "ronc\xE1is"
+      - roncan
+      cjid: pind
+    - cjfs:
+      - roncaba
+      - roncabas
+      - roncaba
+      - "ronc\xE1bamos"
+      - roncabais
+      - roncaban
+      cjid: pret
+    - cjfs:
+      - "ronqu\xE9"
+      - roncaste
+      - "ronc\xF3"
+      - roncamos
+      - roncasteis
+      - roncaron
+      cjid: pprf
+    - cjfs:
+      - "roncar\xE9"
+      - "roncar\xE1s"
+      - "roncar\xE1"
+      - roncaremos
+      - "roncar\xE9is"
+      - "roncar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "roncar\xEDa"
+      - "roncar\xEDas"
+      - "roncar\xEDa"
+      - "roncar\xEDamos"
+      - "roncar\xEDais"
+      - "roncar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ronque
+      - ronques
+      - ronque
+      - ronquemos
+      - "ronqu\xE9is"
+      - ronquen
+      cjid: psub
+    - cjfs:
+      - roncara
+      - roncaras
+      - roncara
+      - "ronc\xE1ramos"
+      - roncarais
+      - roncaran
+      cjid: pisb1
+    - cjfs:
+      - roncase
+      - roncases
+      - roncase
+      - "ronc\xE1semos"
+      - roncaseis
+      - roncasen
+      cjid: pisb2
+    - cjfs:
+      - roncare
+      - roncares
+      - roncare
+      - "ronc\xE1remos"
+      - roncareis
+      - roncaren
+      cjid: fsub
+    - cjfs:
+      - he roncado
+      - has roncado
+      - ha roncado
+      - hemos roncado
+      - "hab\xE9is roncado"
+      - han roncado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa roncado"
+      - "hab\xEDas roncado"
+      - "hab\xEDa roncado"
+      - "hab\xEDamos roncado"
+      - "hab\xEDais roncado"
+      - "hab\xEDan roncado"
+      cjid: ppsi
+    - cjfs:
+      - hube roncado
+      - hubiste roncado
+      - hubo roncado
+      - hubimos roncado
+      - hubisteis roncado
+      - hubieron roncado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 roncado"
+      - "habr\xE1s roncado"
+      - "habr\xE1 roncado"
+      - habremos roncado
+      - "habr\xE9is roncado"
+      - "habr\xE1n roncado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa roncado"
+      - "habr\xEDas roncado"
+      - "habr\xEDa roncado"
+      - "habr\xEDamos roncado"
+      - "habr\xEDais roncado"
+      - "habr\xEDan roncado"
+      cjid: cpef
+    - cjfs:
+      - haya roncado
+      - hayas roncado
+      - haya roncado
+      - hayamos roncado
+      - "hay\xE1is roncado"
+      - hayan roncado
+      cjid: ppfs
+    - cjfs:
+      - hubiera roncado
+      - hubieras roncado
+      - hubiera roncado
+      - "hubi\xE9ramos roncado"
+      - hubierais roncado
+      - hubieran roncado
+      cjid: ppss1
+    - cjfs:
+      - hubiese roncado
+      - hubieses roncado
+      - hubiese roncado
+      - "hubi\xE9semos roncado"
+      - hubieseis roncado
+      - hubiesen roncado
+      cjid: ppss2
+    - cjfs:
+      - hubiere roncado
+      - hubieres roncado
+      - hubiere roncado
+      - "hubi\xE9remos roncado"
+      - hubiereis roncado
+      - hubieren roncado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ronca
+      - ronque
+      - ronquemos
+      - roncad
+      - ronquen
+      cjid: impf

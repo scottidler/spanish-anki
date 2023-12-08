@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|utter}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hurl} (insults)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: proferir
+    prs:
+    - sound:
+        audio: profe01sp
+  meta:
+    id: proferir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618207000'
+    src: spanish
+    stems:
+    - proferir
+    uuid: 2cfd67e3-9f20-4802-ae8d-4e644da71a72
+  shortdef:
+  - to utter
+  - to hurl (insults)
+  suppl:
+    cjts:
+    - cjfs:
+      - profiriendo
+      - proferido
+      cjid: gppt
+    - cjfs:
+      - profiero
+      - profieres
+      - profiere
+      - proferimos
+      - "profer\xEDs"
+      - profieren
+      cjid: pind
+    - cjfs:
+      - "profer\xEDa"
+      - "profer\xEDas"
+      - "profer\xEDa"
+      - "profer\xEDamos"
+      - "profer\xEDais"
+      - "profer\xEDan"
+      cjid: pret
+    - cjfs:
+      - "profer\xED"
+      - proferiste
+      - "profiri\xF3"
+      - proferimos
+      - proferisteis
+      - profirieron
+      cjid: pprf
+    - cjfs:
+      - "proferir\xE9"
+      - "proferir\xE1s"
+      - "proferir\xE1"
+      - proferiremos
+      - "proferir\xE9is"
+      - "proferir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "proferir\xEDa"
+      - "proferir\xEDas"
+      - "proferir\xEDa"
+      - "proferir\xEDamos"
+      - "proferir\xEDais"
+      - "proferir\xEDan"
+      cjid: cond
+    - cjfs:
+      - profiera
+      - profieras
+      - profiera
+      - profiramos
+      - "profir\xE1is"
+      - profieran
+      cjid: psub
+    - cjfs:
+      - profiriera
+      - profirieras
+      - profiriera
+      - "profiri\xE9ramos"
+      - profirierais
+      - profirieran
+      cjid: pisb1
+    - cjfs:
+      - profiriese
+      - profirieses
+      - profiriese
+      - "profiri\xE9semos"
+      - profirieseis
+      - profiriesen
+      cjid: pisb2
+    - cjfs:
+      - profiriere
+      - profirieres
+      - profiriere
+      - "profiri\xE9remos"
+      - profiriereis
+      - profirieren
+      cjid: fsub
+    - cjfs:
+      - he proferido
+      - has proferido
+      - ha proferido
+      - hemos proferido
+      - "hab\xE9is proferido"
+      - han proferido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa proferido"
+      - "hab\xEDas proferido"
+      - "hab\xEDa proferido"
+      - "hab\xEDamos proferido"
+      - "hab\xEDais proferido"
+      - "hab\xEDan proferido"
+      cjid: ppsi
+    - cjfs:
+      - hube proferido
+      - hubiste proferido
+      - hubo proferido
+      - hubimos proferido
+      - hubisteis proferido
+      - hubieron proferido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 proferido"
+      - "habr\xE1s proferido"
+      - "habr\xE1 proferido"
+      - habremos proferido
+      - "habr\xE9is proferido"
+      - "habr\xE1n proferido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa proferido"
+      - "habr\xEDas proferido"
+      - "habr\xEDa proferido"
+      - "habr\xEDamos proferido"
+      - "habr\xEDais proferido"
+      - "habr\xEDan proferido"
+      cjid: cpef
+    - cjfs:
+      - haya proferido
+      - hayas proferido
+      - haya proferido
+      - hayamos proferido
+      - "hay\xE1is proferido"
+      - hayan proferido
+      cjid: ppfs
+    - cjfs:
+      - hubiera proferido
+      - hubieras proferido
+      - hubiera proferido
+      - "hubi\xE9ramos proferido"
+      - hubierais proferido
+      - hubieran proferido
+      cjid: ppss1
+    - cjfs:
+      - hubiese proferido
+      - hubieses proferido
+      - hubiese proferido
+      - "hubi\xE9semos proferido"
+      - hubieseis proferido
+      - hubiesen proferido
+      cjid: ppss2
+    - cjfs:
+      - hubiere proferido
+      - hubieres proferido
+      - hubiere proferido
+      - "hubi\xE9remos proferido"
+      - hubiereis proferido
+      - hubieren proferido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - profiere
+      - profiera
+      - profiramos
+      - proferid
+      - profieran
+      cjid: impf

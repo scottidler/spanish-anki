@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring to fruition}, to {a_link|realize}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|materialize}, to come into being'
+    drp: materializarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: materializar
+    prs:
+    - sound:
+        audio: mater02sp
+  meta:
+    id: materializar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614604000'
+    src: spanish
+    stems:
+    - materializar
+    - materializarse
+    uuid: fb86156c-66c2-4239-9f25-4ecc09d76505
+  shortdef:
+  - to bring to fruition, to realize
+  suppl:
+    cjts:
+    - cjfs:
+      - materializando
+      - materializado
+      cjid: gppt
+    - cjfs:
+      - materializo
+      - materializas
+      - materializa
+      - materializamos
+      - "materializ\xE1is"
+      - materializan
+      cjid: pind
+    - cjfs:
+      - materializaba
+      - materializabas
+      - materializaba
+      - "materializ\xE1bamos"
+      - materializabais
+      - materializaban
+      cjid: pret
+    - cjfs:
+      - "materialic\xE9"
+      - materializaste
+      - "materializ\xF3"
+      - materializamos
+      - materializasteis
+      - materializaron
+      cjid: pprf
+    - cjfs:
+      - "materializar\xE9"
+      - "materializar\xE1s"
+      - "materializar\xE1"
+      - materializaremos
+      - "materializar\xE9is"
+      - "materializar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "materializar\xEDa"
+      - "materializar\xEDas"
+      - "materializar\xEDa"
+      - "materializar\xEDamos"
+      - "materializar\xEDais"
+      - "materializar\xEDan"
+      cjid: cond
+    - cjfs:
+      - materialice
+      - materialices
+      - materialice
+      - materialicemos
+      - "materialic\xE9is"
+      - materialicen
+      cjid: psub
+    - cjfs:
+      - materializara
+      - materializaras
+      - materializara
+      - "materializ\xE1ramos"
+      - materializarais
+      - materializaran
+      cjid: pisb1
+    - cjfs:
+      - materializase
+      - materializases
+      - materializase
+      - "materializ\xE1semos"
+      - materializaseis
+      - materializasen
+      cjid: pisb2
+    - cjfs:
+      - materializare
+      - materializares
+      - materializare
+      - "materializ\xE1remos"
+      - materializareis
+      - materializaren
+      cjid: fsub
+    - cjfs:
+      - he materializado
+      - has materializado
+      - ha materializado
+      - hemos materializado
+      - "hab\xE9is materializado"
+      - han materializado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa materializado"
+      - "hab\xEDas materializado"
+      - "hab\xEDa materializado"
+      - "hab\xEDamos materializado"
+      - "hab\xEDais materializado"
+      - "hab\xEDan materializado"
+      cjid: ppsi
+    - cjfs:
+      - hube materializado
+      - hubiste materializado
+      - hubo materializado
+      - hubimos materializado
+      - hubisteis materializado
+      - hubieron materializado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 materializado"
+      - "habr\xE1s materializado"
+      - "habr\xE1 materializado"
+      - habremos materializado
+      - "habr\xE9is materializado"
+      - "habr\xE1n materializado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa materializado"
+      - "habr\xEDas materializado"
+      - "habr\xEDa materializado"
+      - "habr\xEDamos materializado"
+      - "habr\xEDais materializado"
+      - "habr\xEDan materializado"
+      cjid: cpef
+    - cjfs:
+      - haya materializado
+      - hayas materializado
+      - haya materializado
+      - hayamos materializado
+      - "hay\xE1is materializado"
+      - hayan materializado
+      cjid: ppfs
+    - cjfs:
+      - hubiera materializado
+      - hubieras materializado
+      - hubiera materializado
+      - "hubi\xE9ramos materializado"
+      - hubierais materializado
+      - hubieran materializado
+      cjid: ppss1
+    - cjfs:
+      - hubiese materializado
+      - hubieses materializado
+      - hubiese materializado
+      - "hubi\xE9semos materializado"
+      - hubieseis materializado
+      - hubiesen materializado
+      cjid: ppss2
+    - cjfs:
+      - hubiere materializado
+      - hubieres materializado
+      - hubiere materializado
+      - "hubi\xE9remos materializado"
+      - hubiereis materializado
+      - hubieren materializado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - materializa
+      - materialice
+      - materialicemos
+      - materializad
+      - materialicen
+      cjid: impf

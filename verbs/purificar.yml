@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|purify}'
+  fl: transitive verb
+  hwi:
+    hw: purificar
+  meta:
+    id: purificar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618541000'
+    src: spanish
+    stems:
+    - purificar
+    - "purificaci\xF3n"
+    uuid: d6dc17e1-60b4-4a79-a183-e6ecfe291d91
+  shortdef:
+  - to purify
+  suppl:
+    cjts:
+    - cjfs:
+      - purificando
+      - purificado
+      cjid: gppt
+    - cjfs:
+      - purifico
+      - purificas
+      - purifica
+      - purificamos
+      - "purific\xE1is"
+      - purifican
+      cjid: pind
+    - cjfs:
+      - purificaba
+      - purificabas
+      - purificaba
+      - "purific\xE1bamos"
+      - purificabais
+      - purificaban
+      cjid: pret
+    - cjfs:
+      - "purifiqu\xE9"
+      - purificaste
+      - "purific\xF3"
+      - purificamos
+      - purificasteis
+      - purificaron
+      cjid: pprf
+    - cjfs:
+      - "purificar\xE9"
+      - "purificar\xE1s"
+      - "purificar\xE1"
+      - purificaremos
+      - "purificar\xE9is"
+      - "purificar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "purificar\xEDa"
+      - "purificar\xEDas"
+      - "purificar\xEDa"
+      - "purificar\xEDamos"
+      - "purificar\xEDais"
+      - "purificar\xEDan"
+      cjid: cond
+    - cjfs:
+      - purifique
+      - purifiques
+      - purifique
+      - purifiquemos
+      - "purifiqu\xE9is"
+      - purifiquen
+      cjid: psub
+    - cjfs:
+      - purificara
+      - purificaras
+      - purificara
+      - "purific\xE1ramos"
+      - purificarais
+      - purificaran
+      cjid: pisb1
+    - cjfs:
+      - purificase
+      - purificases
+      - purificase
+      - "purific\xE1semos"
+      - purificaseis
+      - purificasen
+      cjid: pisb2
+    - cjfs:
+      - purificare
+      - purificares
+      - purificare
+      - "purific\xE1remos"
+      - purificareis
+      - purificaren
+      cjid: fsub
+    - cjfs:
+      - he purificado
+      - has purificado
+      - ha purificado
+      - hemos purificado
+      - "hab\xE9is purificado"
+      - han purificado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa purificado"
+      - "hab\xEDas purificado"
+      - "hab\xEDa purificado"
+      - "hab\xEDamos purificado"
+      - "hab\xEDais purificado"
+      - "hab\xEDan purificado"
+      cjid: ppsi
+    - cjfs:
+      - hube purificado
+      - hubiste purificado
+      - hubo purificado
+      - hubimos purificado
+      - hubisteis purificado
+      - hubieron purificado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 purificado"
+      - "habr\xE1s purificado"
+      - "habr\xE1 purificado"
+      - habremos purificado
+      - "habr\xE9is purificado"
+      - "habr\xE1n purificado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa purificado"
+      - "habr\xEDas purificado"
+      - "habr\xEDa purificado"
+      - "habr\xEDamos purificado"
+      - "habr\xEDais purificado"
+      - "habr\xEDan purificado"
+      cjid: cpef
+    - cjfs:
+      - haya purificado
+      - hayas purificado
+      - haya purificado
+      - hayamos purificado
+      - "hay\xE1is purificado"
+      - hayan purificado
+      cjid: ppfs
+    - cjfs:
+      - hubiera purificado
+      - hubieras purificado
+      - hubiera purificado
+      - "hubi\xE9ramos purificado"
+      - hubierais purificado
+      - hubieran purificado
+      cjid: ppss1
+    - cjfs:
+      - hubiese purificado
+      - hubieses purificado
+      - hubiese purificado
+      - "hubi\xE9semos purificado"
+      - hubieseis purificado
+      - hubiesen purificado
+      cjid: ppss2
+    - cjfs:
+      - hubiere purificado
+      - hubieres purificado
+      - hubiere purificado
+      - "hubi\xE9remos purificado"
+      - hubiereis purificado
+      - hubieren purificado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - purifica
+      - purifique
+      - purifiquemos
+      - purificad
+      - purifiquen
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "purificaci\xF3n"

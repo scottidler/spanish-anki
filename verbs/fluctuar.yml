@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fluctuate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|vacilar||} {bc}to {a_link|vacillate}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: fluctuar
+    prs:
+    - sound:
+        audio: fluct01sp
+  meta:
+    id: fluctuar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610246000'
+    src: spanish
+    stems:
+    - fluctuar
+    - "fluctuaci\xF3n"
+    - fluctuante
+    uuid: 5d228b2e-99ce-4505-b1f9-e60039844952
+  shortdef:
+  - to fluctuate
+  - 'vacilar : to vacillate'
+  suppl:
+    cjts:
+    - cjfs:
+      - fluctuando
+      - fluctuado
+      cjid: gppt
+    - cjfs:
+      - "fluct\xFAo"
+      - "fluct\xFAas"
+      - "fluct\xFAa"
+      - fluctuamos
+      - "fluctu\xE1is"
+      - "fluct\xFAan"
+      cjid: pind
+    - cjfs:
+      - fluctuaba
+      - fluctuabas
+      - fluctuaba
+      - "fluctu\xE1bamos"
+      - fluctuabais
+      - fluctuaban
+      cjid: pret
+    - cjfs:
+      - "fluctu\xE9"
+      - fluctuaste
+      - "fluctu\xF3"
+      - fluctuamos
+      - fluctuasteis
+      - fluctuaron
+      cjid: pprf
+    - cjfs:
+      - "fluctuar\xE9"
+      - "fluctuar\xE1s"
+      - "fluctuar\xE1"
+      - fluctuaremos
+      - "fluctuar\xE9is"
+      - "fluctuar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fluctuar\xEDa"
+      - "fluctuar\xEDas"
+      - "fluctuar\xEDa"
+      - "fluctuar\xEDamos"
+      - "fluctuar\xEDais"
+      - "fluctuar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "fluct\xFAe"
+      - "fluct\xFAes"
+      - "fluct\xFAe"
+      - fluctuemos
+      - "fluctu\xE9is"
+      - "fluct\xFAen"
+      cjid: psub
+    - cjfs:
+      - fluctuara
+      - fluctuaras
+      - fluctuara
+      - "fluctu\xE1ramos"
+      - fluctuarais
+      - fluctuaran
+      cjid: pisb1
+    - cjfs:
+      - fluctuase
+      - fluctuases
+      - fluctuase
+      - "fluctu\xE1semos"
+      - fluctuaseis
+      - fluctuasen
+      cjid: pisb2
+    - cjfs:
+      - fluctuare
+      - fluctuares
+      - fluctuare
+      - "fluctu\xE1remos"
+      - fluctuareis
+      - fluctuaren
+      cjid: fsub
+    - cjfs:
+      - he fluctuado
+      - has fluctuado
+      - ha fluctuado
+      - hemos fluctuado
+      - "hab\xE9is fluctuado"
+      - han fluctuado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fluctuado"
+      - "hab\xEDas fluctuado"
+      - "hab\xEDa fluctuado"
+      - "hab\xEDamos fluctuado"
+      - "hab\xEDais fluctuado"
+      - "hab\xEDan fluctuado"
+      cjid: ppsi
+    - cjfs:
+      - hube fluctuado
+      - hubiste fluctuado
+      - hubo fluctuado
+      - hubimos fluctuado
+      - hubisteis fluctuado
+      - hubieron fluctuado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fluctuado"
+      - "habr\xE1s fluctuado"
+      - "habr\xE1 fluctuado"
+      - habremos fluctuado
+      - "habr\xE9is fluctuado"
+      - "habr\xE1n fluctuado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fluctuado"
+      - "habr\xEDas fluctuado"
+      - "habr\xEDa fluctuado"
+      - "habr\xEDamos fluctuado"
+      - "habr\xEDais fluctuado"
+      - "habr\xEDan fluctuado"
+      cjid: cpef
+    - cjfs:
+      - haya fluctuado
+      - hayas fluctuado
+      - haya fluctuado
+      - hayamos fluctuado
+      - "hay\xE1is fluctuado"
+      - hayan fluctuado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fluctuado
+      - hubieras fluctuado
+      - hubiera fluctuado
+      - "hubi\xE9ramos fluctuado"
+      - hubierais fluctuado
+      - hubieran fluctuado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fluctuado
+      - hubieses fluctuado
+      - hubiese fluctuado
+      - "hubi\xE9semos fluctuado"
+      - hubieseis fluctuado
+      - hubiesen fluctuado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fluctuado
+      - hubieres fluctuado
+      - hubiere fluctuado
+      - "hubi\xE9remos fluctuado"
+      - hubiereis fluctuado
+      - hubieren fluctuado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "fluct\xFAa"
+      - "fluct\xFAe"
+      - fluctuemos
+      - fluctuad
+      - "fluct\xFAen"
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "fluctuaci\xF3n"
+  - fl: adjective
+    ure: fluctuante

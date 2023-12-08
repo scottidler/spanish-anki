@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cheer}'
+  fl: transitive verb
+  hwi:
+    hw: vitorear
+  meta:
+    id: vitorear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623132000'
+    src: spanish
+    stems:
+    - vitorear
+    uuid: cc50e67b-5d4f-4dfd-8717-934b4d99411c
+  shortdef:
+  - to cheer
+  suppl:
+    cjts:
+    - cjfs:
+      - vitoreando
+      - vitoreado
+      cjid: gppt
+    - cjfs:
+      - vitoreo
+      - vitoreas
+      - vitorea
+      - vitoreamos
+      - "vitore\xE1is"
+      - vitorean
+      cjid: pind
+    - cjfs:
+      - vitoreaba
+      - vitoreabas
+      - vitoreaba
+      - "vitore\xE1bamos"
+      - vitoreabais
+      - vitoreaban
+      cjid: pret
+    - cjfs:
+      - "vitore\xE9"
+      - vitoreaste
+      - "vitore\xF3"
+      - vitoreamos
+      - vitoreasteis
+      - vitorearon
+      cjid: pprf
+    - cjfs:
+      - "vitorear\xE9"
+      - "vitorear\xE1s"
+      - "vitorear\xE1"
+      - vitorearemos
+      - "vitorear\xE9is"
+      - "vitorear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vitorear\xEDa"
+      - "vitorear\xEDas"
+      - "vitorear\xEDa"
+      - "vitorear\xEDamos"
+      - "vitorear\xEDais"
+      - "vitorear\xEDan"
+      cjid: cond
+    - cjfs:
+      - vitoree
+      - vitorees
+      - vitoree
+      - vitoreemos
+      - "vitore\xE9is"
+      - vitoreen
+      cjid: psub
+    - cjfs:
+      - vitoreara
+      - vitorearas
+      - vitoreara
+      - "vitore\xE1ramos"
+      - vitorearais
+      - vitorearan
+      cjid: pisb1
+    - cjfs:
+      - vitorease
+      - vitoreases
+      - vitorease
+      - "vitore\xE1semos"
+      - vitoreaseis
+      - vitoreasen
+      cjid: pisb2
+    - cjfs:
+      - vitoreare
+      - vitoreares
+      - vitoreare
+      - "vitore\xE1remos"
+      - vitoreareis
+      - vitorearen
+      cjid: fsub
+    - cjfs:
+      - he vitoreado
+      - has vitoreado
+      - ha vitoreado
+      - hemos vitoreado
+      - "hab\xE9is vitoreado"
+      - han vitoreado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vitoreado"
+      - "hab\xEDas vitoreado"
+      - "hab\xEDa vitoreado"
+      - "hab\xEDamos vitoreado"
+      - "hab\xEDais vitoreado"
+      - "hab\xEDan vitoreado"
+      cjid: ppsi
+    - cjfs:
+      - hube vitoreado
+      - hubiste vitoreado
+      - hubo vitoreado
+      - hubimos vitoreado
+      - hubisteis vitoreado
+      - hubieron vitoreado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vitoreado"
+      - "habr\xE1s vitoreado"
+      - "habr\xE1 vitoreado"
+      - habremos vitoreado
+      - "habr\xE9is vitoreado"
+      - "habr\xE1n vitoreado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vitoreado"
+      - "habr\xEDas vitoreado"
+      - "habr\xEDa vitoreado"
+      - "habr\xEDamos vitoreado"
+      - "habr\xEDais vitoreado"
+      - "habr\xEDan vitoreado"
+      cjid: cpef
+    - cjfs:
+      - haya vitoreado
+      - hayas vitoreado
+      - haya vitoreado
+      - hayamos vitoreado
+      - "hay\xE1is vitoreado"
+      - hayan vitoreado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vitoreado
+      - hubieras vitoreado
+      - hubiera vitoreado
+      - "hubi\xE9ramos vitoreado"
+      - hubierais vitoreado
+      - hubieran vitoreado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vitoreado
+      - hubieses vitoreado
+      - hubiese vitoreado
+      - "hubi\xE9semos vitoreado"
+      - hubieseis vitoreado
+      - hubiesen vitoreado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vitoreado
+      - hubieres vitoreado
+      - hubiere vitoreado
+      - "hubi\xE9remos vitoreado"
+      - hubiereis vitoreado
+      - hubieren vitoreado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vitorea
+      - vitoree
+      - vitoreemos
+      - vitoread
+      - vitoreen
+      cjid: impf

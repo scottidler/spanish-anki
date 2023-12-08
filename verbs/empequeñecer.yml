@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|diminish}, to become smaller'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|minimize}, to make smaller'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: "empeque\xF1ecer"
+  meta:
+    id: empequenecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608343000'
+    src: spanish
+    stems:
+    - "empeque\xF1ecer"
+    uuid: aafbd283-2374-4f1c-973f-5bc916951882
+  shortdef:
+  - to diminish, to become smaller
+  - to minimize, to make smaller
+  suppl:
+    cjts:
+    - cjfs:
+      - "empeque\xF1eciendo"
+      - "empeque\xF1ecido"
+      cjid: gppt
+    - cjfs:
+      - "empeque\xF1ezco"
+      - "empeque\xF1eces"
+      - "empeque\xF1ece"
+      - "empeque\xF1ecemos"
+      - "empeque\xF1ec\xE9is"
+      - "empeque\xF1ecen"
+      cjid: pind
+    - cjfs:
+      - "empeque\xF1ec\xEDa"
+      - "empeque\xF1ec\xEDas"
+      - "empeque\xF1ec\xEDa"
+      - "empeque\xF1ec\xEDamos"
+      - "empeque\xF1ec\xEDais"
+      - "empeque\xF1ec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "empeque\xF1ec\xED"
+      - "empeque\xF1eciste"
+      - "empeque\xF1eci\xF3"
+      - "empeque\xF1ecimos"
+      - "empeque\xF1ecisteis"
+      - "empeque\xF1ecieron"
+      cjid: pprf
+    - cjfs:
+      - "empeque\xF1ecer\xE9"
+      - "empeque\xF1ecer\xE1s"
+      - "empeque\xF1ecer\xE1"
+      - "empeque\xF1eceremos"
+      - "empeque\xF1ecer\xE9is"
+      - "empeque\xF1ecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "empeque\xF1ecer\xEDa"
+      - "empeque\xF1ecer\xEDas"
+      - "empeque\xF1ecer\xEDa"
+      - "empeque\xF1ecer\xEDamos"
+      - "empeque\xF1ecer\xEDais"
+      - "empeque\xF1ecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - "empeque\xF1ezca"
+      - "empeque\xF1ezcas"
+      - "empeque\xF1ezca"
+      - "empeque\xF1ezcamos"
+      - "empeque\xF1ezc\xE1is"
+      - "empeque\xF1ezcan"
+      cjid: psub
+    - cjfs:
+      - "empeque\xF1eciera"
+      - "empeque\xF1ecieras"
+      - "empeque\xF1eciera"
+      - "empeque\xF1eci\xE9ramos"
+      - "empeque\xF1ecierais"
+      - "empeque\xF1ecieran"
+      cjid: pisb1
+    - cjfs:
+      - "empeque\xF1eciese"
+      - "empeque\xF1ecieses"
+      - "empeque\xF1eciese"
+      - "empeque\xF1eci\xE9semos"
+      - "empeque\xF1ecieseis"
+      - "empeque\xF1eciesen"
+      cjid: pisb2
+    - cjfs:
+      - "empeque\xF1eciere"
+      - "empeque\xF1ecieres"
+      - "empeque\xF1eciere"
+      - "empeque\xF1eci\xE9remos"
+      - "empeque\xF1eciereis"
+      - "empeque\xF1ecieren"
+      cjid: fsub
+    - cjfs:
+      - "he empeque\xF1ecido"
+      - "has empeque\xF1ecido"
+      - "ha empeque\xF1ecido"
+      - "hemos empeque\xF1ecido"
+      - "hab\xE9is empeque\xF1ecido"
+      - "han empeque\xF1ecido"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa empeque\xF1ecido"
+      - "hab\xEDas empeque\xF1ecido"
+      - "hab\xEDa empeque\xF1ecido"
+      - "hab\xEDamos empeque\xF1ecido"
+      - "hab\xEDais empeque\xF1ecido"
+      - "hab\xEDan empeque\xF1ecido"
+      cjid: ppsi
+    - cjfs:
+      - "hube empeque\xF1ecido"
+      - "hubiste empeque\xF1ecido"
+      - "hubo empeque\xF1ecido"
+      - "hubimos empeque\xF1ecido"
+      - "hubisteis empeque\xF1ecido"
+      - "hubieron empeque\xF1ecido"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 empeque\xF1ecido"
+      - "habr\xE1s empeque\xF1ecido"
+      - "habr\xE1 empeque\xF1ecido"
+      - "habremos empeque\xF1ecido"
+      - "habr\xE9is empeque\xF1ecido"
+      - "habr\xE1n empeque\xF1ecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa empeque\xF1ecido"
+      - "habr\xEDas empeque\xF1ecido"
+      - "habr\xEDa empeque\xF1ecido"
+      - "habr\xEDamos empeque\xF1ecido"
+      - "habr\xEDais empeque\xF1ecido"
+      - "habr\xEDan empeque\xF1ecido"
+      cjid: cpef
+    - cjfs:
+      - "haya empeque\xF1ecido"
+      - "hayas empeque\xF1ecido"
+      - "haya empeque\xF1ecido"
+      - "hayamos empeque\xF1ecido"
+      - "hay\xE1is empeque\xF1ecido"
+      - "hayan empeque\xF1ecido"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera empeque\xF1ecido"
+      - "hubieras empeque\xF1ecido"
+      - "hubiera empeque\xF1ecido"
+      - "hubi\xE9ramos empeque\xF1ecido"
+      - "hubierais empeque\xF1ecido"
+      - "hubieran empeque\xF1ecido"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese empeque\xF1ecido"
+      - "hubieses empeque\xF1ecido"
+      - "hubiese empeque\xF1ecido"
+      - "hubi\xE9semos empeque\xF1ecido"
+      - "hubieseis empeque\xF1ecido"
+      - "hubiesen empeque\xF1ecido"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere empeque\xF1ecido"
+      - "hubieres empeque\xF1ecido"
+      - "hubiere empeque\xF1ecido"
+      - "hubi\xE9remos empeque\xF1ecido"
+      - "hubiereis empeque\xF1ecido"
+      - "hubieren empeque\xF1ecido"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "empeque\xF1ece"
+      - "empeque\xF1ezca"
+      - "empeque\xF1ezcamos"
+      - "empeque\xF1eced"
+      - "empeque\xF1ezcan"
+      cjid: impf

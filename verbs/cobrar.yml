@@ -1,0 +1,232 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|charge}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|collect}, to {a_link|draw}, to {a_link|earn}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|acquire}, to {a_link|gain}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recover}, to {a_link|retrieve}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cash} (a check)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|claim}, to {a_link|take} (a life)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot} (game), to {a_link|bag}'
+          sn: '7'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be paid'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to call collect'
+          sls:
+          - Mexico
+          sn: '2'
+          vrs:
+          - va: llamar por cobrar
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: cobrar
+    prs:
+    - sound:
+        audio: cobra02sp
+  meta:
+    id: cobrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604935000'
+    src: spanish
+    stems:
+    - cobrar
+    - llamar por cobrar
+    uuid: 87b838b6-41cd-4e71-8c16-a115ce04ea57
+  shortdef:
+  - to charge
+  - to collect, to draw, to earn
+  - to acquire, to gain
+  suppl:
+    cjts:
+    - cjfs:
+      - cobrando
+      - cobrado
+      cjid: gppt
+    - cjfs:
+      - cobro
+      - cobras
+      - cobra
+      - cobramos
+      - "cobr\xE1is"
+      - cobran
+      cjid: pind
+    - cjfs:
+      - cobraba
+      - cobrabas
+      - cobraba
+      - "cobr\xE1bamos"
+      - cobrabais
+      - cobraban
+      cjid: pret
+    - cjfs:
+      - "cobr\xE9"
+      - cobraste
+      - "cobr\xF3"
+      - cobramos
+      - cobrasteis
+      - cobraron
+      cjid: pprf
+    - cjfs:
+      - "cobrar\xE9"
+      - "cobrar\xE1s"
+      - "cobrar\xE1"
+      - cobraremos
+      - "cobrar\xE9is"
+      - "cobrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cobrar\xEDa"
+      - "cobrar\xEDas"
+      - "cobrar\xEDa"
+      - "cobrar\xEDamos"
+      - "cobrar\xEDais"
+      - "cobrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cobre
+      - cobres
+      - cobre
+      - cobremos
+      - "cobr\xE9is"
+      - cobren
+      cjid: psub
+    - cjfs:
+      - cobrara
+      - cobraras
+      - cobrara
+      - "cobr\xE1ramos"
+      - cobrarais
+      - cobraran
+      cjid: pisb1
+    - cjfs:
+      - cobrase
+      - cobrases
+      - cobrase
+      - "cobr\xE1semos"
+      - cobraseis
+      - cobrasen
+      cjid: pisb2
+    - cjfs:
+      - cobrare
+      - cobrares
+      - cobrare
+      - "cobr\xE1remos"
+      - cobrareis
+      - cobraren
+      cjid: fsub
+    - cjfs:
+      - he cobrado
+      - has cobrado
+      - ha cobrado
+      - hemos cobrado
+      - "hab\xE9is cobrado"
+      - han cobrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cobrado"
+      - "hab\xEDas cobrado"
+      - "hab\xEDa cobrado"
+      - "hab\xEDamos cobrado"
+      - "hab\xEDais cobrado"
+      - "hab\xEDan cobrado"
+      cjid: ppsi
+    - cjfs:
+      - hube cobrado
+      - hubiste cobrado
+      - hubo cobrado
+      - hubimos cobrado
+      - hubisteis cobrado
+      - hubieron cobrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cobrado"
+      - "habr\xE1s cobrado"
+      - "habr\xE1 cobrado"
+      - habremos cobrado
+      - "habr\xE9is cobrado"
+      - "habr\xE1n cobrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cobrado"
+      - "habr\xEDas cobrado"
+      - "habr\xEDa cobrado"
+      - "habr\xEDamos cobrado"
+      - "habr\xEDais cobrado"
+      - "habr\xEDan cobrado"
+      cjid: cpef
+    - cjfs:
+      - haya cobrado
+      - hayas cobrado
+      - haya cobrado
+      - hayamos cobrado
+      - "hay\xE1is cobrado"
+      - hayan cobrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cobrado
+      - hubieras cobrado
+      - hubiera cobrado
+      - "hubi\xE9ramos cobrado"
+      - hubierais cobrado
+      - hubieran cobrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cobrado
+      - hubieses cobrado
+      - hubiese cobrado
+      - "hubi\xE9semos cobrado"
+      - hubieseis cobrado
+      - hubiesen cobrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cobrado
+      - hubieres cobrado
+      - hubiere cobrado
+      - "hubi\xE9remos cobrado"
+      - hubiereis cobrado
+      - hubieren cobrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cobra
+      - cobre
+      - cobremos
+      - cobrad
+      - cobren
+      cjid: impf

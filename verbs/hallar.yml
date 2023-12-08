@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|encontrar||} {bc}to {a_link|find}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|descubrir||} {bc}to {a_link|discover}, to {a_link|find out}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be situated, to {a_link|find oneself}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|feel} '
+            - - vis
+              - - t: no se halla bien
+                  tr: he doesn't feel comfortable, he feels out of place
+            sn: '2'
+    drp: hallarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: hallar
+    prs:
+    - sound:
+        audio: halla01sp
+  meta:
+    id: hallar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611271000'
+    src: spanish
+    stems:
+    - hallar
+    - hallarse
+    uuid: 36a806c2-047f-4243-8da8-9a4f89812832
+  shortdef:
+  - 'encontrar : to find'
+  - 'descubrir : to discover, to find out'
+  suppl:
+    cjts:
+    - cjfs:
+      - hallando
+      - hallado
+      cjid: gppt
+    - cjfs:
+      - hallo
+      - hallas
+      - halla
+      - hallamos
+      - "hall\xE1is"
+      - hallan
+      cjid: pind
+    - cjfs:
+      - hallaba
+      - hallabas
+      - hallaba
+      - "hall\xE1bamos"
+      - hallabais
+      - hallaban
+      cjid: pret
+    - cjfs:
+      - "hall\xE9"
+      - hallaste
+      - "hall\xF3"
+      - hallamos
+      - hallasteis
+      - hallaron
+      cjid: pprf
+    - cjfs:
+      - "hallar\xE9"
+      - "hallar\xE1s"
+      - "hallar\xE1"
+      - hallaremos
+      - "hallar\xE9is"
+      - "hallar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "hallar\xEDa"
+      - "hallar\xEDas"
+      - "hallar\xEDa"
+      - "hallar\xEDamos"
+      - "hallar\xEDais"
+      - "hallar\xEDan"
+      cjid: cond
+    - cjfs:
+      - halle
+      - halles
+      - halle
+      - hallemos
+      - "hall\xE9is"
+      - hallen
+      cjid: psub
+    - cjfs:
+      - hallara
+      - hallaras
+      - hallara
+      - "hall\xE1ramos"
+      - hallarais
+      - hallaran
+      cjid: pisb1
+    - cjfs:
+      - hallase
+      - hallases
+      - hallase
+      - "hall\xE1semos"
+      - hallaseis
+      - hallasen
+      cjid: pisb2
+    - cjfs:
+      - hallare
+      - hallares
+      - hallare
+      - "hall\xE1remos"
+      - hallareis
+      - hallaren
+      cjid: fsub
+    - cjfs:
+      - he hallado
+      - has hallado
+      - ha hallado
+      - hemos hallado
+      - "hab\xE9is hallado"
+      - han hallado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa hallado"
+      - "hab\xEDas hallado"
+      - "hab\xEDa hallado"
+      - "hab\xEDamos hallado"
+      - "hab\xEDais hallado"
+      - "hab\xEDan hallado"
+      cjid: ppsi
+    - cjfs:
+      - hube hallado
+      - hubiste hallado
+      - hubo hallado
+      - hubimos hallado
+      - hubisteis hallado
+      - hubieron hallado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 hallado"
+      - "habr\xE1s hallado"
+      - "habr\xE1 hallado"
+      - habremos hallado
+      - "habr\xE9is hallado"
+      - "habr\xE1n hallado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa hallado"
+      - "habr\xEDas hallado"
+      - "habr\xEDa hallado"
+      - "habr\xEDamos hallado"
+      - "habr\xEDais hallado"
+      - "habr\xEDan hallado"
+      cjid: cpef
+    - cjfs:
+      - haya hallado
+      - hayas hallado
+      - haya hallado
+      - hayamos hallado
+      - "hay\xE1is hallado"
+      - hayan hallado
+      cjid: ppfs
+    - cjfs:
+      - hubiera hallado
+      - hubieras hallado
+      - hubiera hallado
+      - "hubi\xE9ramos hallado"
+      - hubierais hallado
+      - hubieran hallado
+      cjid: ppss1
+    - cjfs:
+      - hubiese hallado
+      - hubieses hallado
+      - hubiese hallado
+      - "hubi\xE9semos hallado"
+      - hubieseis hallado
+      - hubiesen hallado
+      cjid: ppss2
+    - cjfs:
+      - hubiere hallado
+      - hubieres hallado
+      - hubiere hallado
+      - "hubi\xE9remos hallado"
+      - hubiereis hallado
+      - hubieren hallado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - halla
+      - halle
+      - hallemos
+      - hallad
+      - hallen
+      cjid: impf

@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put in charge of'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recommend}, to {a_link|advise}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|order}, to {a_link|request}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take charge of'
+            vrs:
+            - va: encargarse de
+              vac: ~ de
+    drp: encargarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: encargar
+    prs:
+    - sound:
+        audio: encar07sp
+  meta:
+    id: encargar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608438000'
+    src: spanish
+    stems:
+    - encargar
+    - encargarse
+    - encargarse de
+    uuid: 026a8882-47ff-4d87-976a-c7ee8fe81a8a
+  shortdef:
+  - to put in charge of
+  - to recommend, to advise
+  - to order, to request
+  suppl:
+    cjts:
+    - cjfs:
+      - encargando
+      - encargado
+      cjid: gppt
+    - cjfs:
+      - encargo
+      - encargas
+      - encarga
+      - encargamos
+      - "encarg\xE1is"
+      - encargan
+      cjid: pind
+    - cjfs:
+      - encargaba
+      - encargabas
+      - encargaba
+      - "encarg\xE1bamos"
+      - encargabais
+      - encargaban
+      cjid: pret
+    - cjfs:
+      - "encargu\xE9"
+      - encargaste
+      - "encarg\xF3"
+      - encargamos
+      - encargasteis
+      - encargaron
+      cjid: pprf
+    - cjfs:
+      - "encargar\xE9"
+      - "encargar\xE1s"
+      - "encargar\xE1"
+      - encargaremos
+      - "encargar\xE9is"
+      - "encargar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encargar\xEDa"
+      - "encargar\xEDas"
+      - "encargar\xEDa"
+      - "encargar\xEDamos"
+      - "encargar\xEDais"
+      - "encargar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encargue
+      - encargues
+      - encargue
+      - encarguemos
+      - "encargu\xE9is"
+      - encarguen
+      cjid: psub
+    - cjfs:
+      - encargara
+      - encargaras
+      - encargara
+      - "encarg\xE1ramos"
+      - encargarais
+      - encargaran
+      cjid: pisb1
+    - cjfs:
+      - encargase
+      - encargases
+      - encargase
+      - "encarg\xE1semos"
+      - encargaseis
+      - encargasen
+      cjid: pisb2
+    - cjfs:
+      - encargare
+      - encargares
+      - encargare
+      - "encarg\xE1remos"
+      - encargareis
+      - encargaren
+      cjid: fsub
+    - cjfs:
+      - he encargado
+      - has encargado
+      - ha encargado
+      - hemos encargado
+      - "hab\xE9is encargado"
+      - han encargado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encargado"
+      - "hab\xEDas encargado"
+      - "hab\xEDa encargado"
+      - "hab\xEDamos encargado"
+      - "hab\xEDais encargado"
+      - "hab\xEDan encargado"
+      cjid: ppsi
+    - cjfs:
+      - hube encargado
+      - hubiste encargado
+      - hubo encargado
+      - hubimos encargado
+      - hubisteis encargado
+      - hubieron encargado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encargado"
+      - "habr\xE1s encargado"
+      - "habr\xE1 encargado"
+      - habremos encargado
+      - "habr\xE9is encargado"
+      - "habr\xE1n encargado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encargado"
+      - "habr\xEDas encargado"
+      - "habr\xEDa encargado"
+      - "habr\xEDamos encargado"
+      - "habr\xEDais encargado"
+      - "habr\xEDan encargado"
+      cjid: cpef
+    - cjfs:
+      - haya encargado
+      - hayas encargado
+      - haya encargado
+      - hayamos encargado
+      - "hay\xE1is encargado"
+      - hayan encargado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encargado
+      - hubieras encargado
+      - hubiera encargado
+      - "hubi\xE9ramos encargado"
+      - hubierais encargado
+      - hubieran encargado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encargado
+      - hubieses encargado
+      - hubiese encargado
+      - "hubi\xE9semos encargado"
+      - hubieseis encargado
+      - hubiesen encargado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encargado
+      - hubieres encargado
+      - hubiere encargado
+      - "hubi\xE9remos encargado"
+      - hubiereis encargado
+      - hubieren encargado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encarga
+      - encargue
+      - encarguemos
+      - encargad
+      - encarguen
+      cjid: impf

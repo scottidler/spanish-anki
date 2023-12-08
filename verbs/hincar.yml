@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|clavar||} {bc}to {a_link|stick}, to {a_link|plunge}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to kneel down, to fall to one''s knees'
+            vrs:
+            - va: hincarse de rodillas
+    drp: hincarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: hincar
+    prs:
+    - sound:
+        audio: hinca02sp
+  meta:
+    id: hincar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611480000'
+    src: spanish
+    stems:
+    - hincar
+    - hincarse
+    - hincarse de rodillas
+    uuid: 1fc91cbe-5dad-4a71-8d71-a23c80fa93cb
+  shortdef:
+  - 'clavar : to stick, to plunge'
+  suppl:
+    cjts:
+    - cjfs:
+      - hincando
+      - hincado
+      cjid: gppt
+    - cjfs:
+      - hinco
+      - hincas
+      - hinca
+      - hincamos
+      - "hinc\xE1is"
+      - hincan
+      cjid: pind
+    - cjfs:
+      - hincaba
+      - hincabas
+      - hincaba
+      - "hinc\xE1bamos"
+      - hincabais
+      - hincaban
+      cjid: pret
+    - cjfs:
+      - "hinqu\xE9"
+      - hincaste
+      - "hinc\xF3"
+      - hincamos
+      - hincasteis
+      - hincaron
+      cjid: pprf
+    - cjfs:
+      - "hincar\xE9"
+      - "hincar\xE1s"
+      - "hincar\xE1"
+      - hincaremos
+      - "hincar\xE9is"
+      - "hincar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "hincar\xEDa"
+      - "hincar\xEDas"
+      - "hincar\xEDa"
+      - "hincar\xEDamos"
+      - "hincar\xEDais"
+      - "hincar\xEDan"
+      cjid: cond
+    - cjfs:
+      - hinque
+      - hinques
+      - hinque
+      - hinquemos
+      - "hinqu\xE9is"
+      - hinquen
+      cjid: psub
+    - cjfs:
+      - hincara
+      - hincaras
+      - hincara
+      - "hinc\xE1ramos"
+      - hincarais
+      - hincaran
+      cjid: pisb1
+    - cjfs:
+      - hincase
+      - hincases
+      - hincase
+      - "hinc\xE1semos"
+      - hincaseis
+      - hincasen
+      cjid: pisb2
+    - cjfs:
+      - hincare
+      - hincares
+      - hincare
+      - "hinc\xE1remos"
+      - hincareis
+      - hincaren
+      cjid: fsub
+    - cjfs:
+      - he hincado
+      - has hincado
+      - ha hincado
+      - hemos hincado
+      - "hab\xE9is hincado"
+      - han hincado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa hincado"
+      - "hab\xEDas hincado"
+      - "hab\xEDa hincado"
+      - "hab\xEDamos hincado"
+      - "hab\xEDais hincado"
+      - "hab\xEDan hincado"
+      cjid: ppsi
+    - cjfs:
+      - hube hincado
+      - hubiste hincado
+      - hubo hincado
+      - hubimos hincado
+      - hubisteis hincado
+      - hubieron hincado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 hincado"
+      - "habr\xE1s hincado"
+      - "habr\xE1 hincado"
+      - habremos hincado
+      - "habr\xE9is hincado"
+      - "habr\xE1n hincado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa hincado"
+      - "habr\xEDas hincado"
+      - "habr\xEDa hincado"
+      - "habr\xEDamos hincado"
+      - "habr\xEDais hincado"
+      - "habr\xEDan hincado"
+      cjid: cpef
+    - cjfs:
+      - haya hincado
+      - hayas hincado
+      - haya hincado
+      - hayamos hincado
+      - "hay\xE1is hincado"
+      - hayan hincado
+      cjid: ppfs
+    - cjfs:
+      - hubiera hincado
+      - hubieras hincado
+      - hubiera hincado
+      - "hubi\xE9ramos hincado"
+      - hubierais hincado
+      - hubieran hincado
+      cjid: ppss1
+    - cjfs:
+      - hubiese hincado
+      - hubieses hincado
+      - hubiese hincado
+      - "hubi\xE9semos hincado"
+      - hubieseis hincado
+      - hubiesen hincado
+      cjid: ppss2
+    - cjfs:
+      - hubiere hincado
+      - hubieres hincado
+      - hubiere hincado
+      - "hubi\xE9remos hincado"
+      - hubiereis hincado
+      - hubieren hincado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - hinca
+      - hinque
+      - hinquemos
+      - hincad
+      - hinquen
+      cjid: impf

@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prepare} '
+          - - vis
+            - - t: "prepar\xE9 el almuerzo"
+                tr: I made lunch, I got lunch ready
+              - t: preparar un examen
+                tr: to prepare for an exam
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|teach}, to {a_link|train}, to {a_link|coach}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get ready, to {a_link|prepare} '
+            - - vis
+              - - t: prepararse para algo
+                  tr: to get ready for something
+                - t: se prepara para salir
+                  tr: she's getting ready to leave
+    drp: prepararse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: preparar
+    prs:
+    - sound:
+        audio: prepa03sp
+  meta:
+    id: preparar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618006000'
+    src: spanish
+    stems:
+    - preparar
+    - prepararse
+    uuid: ee578efc-21d8-4e12-ac69-da97983ff344
+  shortdef:
+  - to prepare
+  - to teach, to train, to coach
+  suppl:
+    cjts:
+    - cjfs:
+      - preparando
+      - preparado
+      cjid: gppt
+    - cjfs:
+      - preparo
+      - preparas
+      - prepara
+      - preparamos
+      - "prepar\xE1is"
+      - preparan
+      cjid: pind
+    - cjfs:
+      - preparaba
+      - preparabas
+      - preparaba
+      - "prepar\xE1bamos"
+      - preparabais
+      - preparaban
+      cjid: pret
+    - cjfs:
+      - "prepar\xE9"
+      - preparaste
+      - "prepar\xF3"
+      - preparamos
+      - preparasteis
+      - prepararon
+      cjid: pprf
+    - cjfs:
+      - "preparar\xE9"
+      - "preparar\xE1s"
+      - "preparar\xE1"
+      - prepararemos
+      - "preparar\xE9is"
+      - "preparar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "preparar\xEDa"
+      - "preparar\xEDas"
+      - "preparar\xEDa"
+      - "preparar\xEDamos"
+      - "preparar\xEDais"
+      - "preparar\xEDan"
+      cjid: cond
+    - cjfs:
+      - prepare
+      - prepares
+      - prepare
+      - preparemos
+      - "prepar\xE9is"
+      - preparen
+      cjid: psub
+    - cjfs:
+      - preparara
+      - prepararas
+      - preparara
+      - "prepar\xE1ramos"
+      - prepararais
+      - prepararan
+      cjid: pisb1
+    - cjfs:
+      - preparase
+      - preparases
+      - preparase
+      - "prepar\xE1semos"
+      - preparaseis
+      - preparasen
+      cjid: pisb2
+    - cjfs:
+      - preparare
+      - preparares
+      - preparare
+      - "prepar\xE1remos"
+      - preparareis
+      - prepararen
+      cjid: fsub
+    - cjfs:
+      - he preparado
+      - has preparado
+      - ha preparado
+      - hemos preparado
+      - "hab\xE9is preparado"
+      - han preparado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa preparado"
+      - "hab\xEDas preparado"
+      - "hab\xEDa preparado"
+      - "hab\xEDamos preparado"
+      - "hab\xEDais preparado"
+      - "hab\xEDan preparado"
+      cjid: ppsi
+    - cjfs:
+      - hube preparado
+      - hubiste preparado
+      - hubo preparado
+      - hubimos preparado
+      - hubisteis preparado
+      - hubieron preparado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 preparado"
+      - "habr\xE1s preparado"
+      - "habr\xE1 preparado"
+      - habremos preparado
+      - "habr\xE9is preparado"
+      - "habr\xE1n preparado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa preparado"
+      - "habr\xEDas preparado"
+      - "habr\xEDa preparado"
+      - "habr\xEDamos preparado"
+      - "habr\xEDais preparado"
+      - "habr\xEDan preparado"
+      cjid: cpef
+    - cjfs:
+      - haya preparado
+      - hayas preparado
+      - haya preparado
+      - hayamos preparado
+      - "hay\xE1is preparado"
+      - hayan preparado
+      cjid: ppfs
+    - cjfs:
+      - hubiera preparado
+      - hubieras preparado
+      - hubiera preparado
+      - "hubi\xE9ramos preparado"
+      - hubierais preparado
+      - hubieran preparado
+      cjid: ppss1
+    - cjfs:
+      - hubiese preparado
+      - hubieses preparado
+      - hubiese preparado
+      - "hubi\xE9semos preparado"
+      - hubieseis preparado
+      - hubiesen preparado
+      cjid: ppss2
+    - cjfs:
+      - hubiere preparado
+      - hubieres preparado
+      - hubiere preparado
+      - "hubi\xE9remos preparado"
+      - hubiereis preparado
+      - hubieren preparado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prepara
+      - prepare
+      - preparemos
+      - preparad
+      - preparen
+      cjid: impf

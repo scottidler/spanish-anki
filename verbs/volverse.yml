@@ -1,0 +1,316 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|return}, to come/go back '
+          - - vis
+            - - t: volver a casa
+                tr: to return home
+              - t: volver de vacaciones
+                tr: to get back from vacation
+              - t: "no vuelvas por aqu\xED"
+                tr: don't come back here
+              - t: "volver atr\xE1s"
+                tr: to turn back
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to return to '
+          - - vis
+            - - t: volver al tema
+                tr: to get back to the subject
+              - t: volver a la normalidad
+                tr: to get back to normal
+          sn: '2'
+          vrs:
+          - va: volver a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to do again '
+          - - vis
+            - - t: volvieron a llamar
+                tr: they called again
+              - t: volver a pasar/ocurrir/suceder
+                tr: to happen again
+          sn: '3'
+          vrs:
+          - va: volver a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come to}, to regain consciousness'
+          sn: '4'
+          vrs:
+          - va: "volver en s\xED"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn}, to {a_link|turn over}, to turn inside out'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|return}, to {a_link|repay}, to {a_link|restore}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cause}, to {a_link|make} '
+          - - vis
+            - - t: "la volv\xEDa loca"
+                tr: it was driving her crazy
+          sn: '3'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|become} '
+            - - vis
+              - - t: "se volvi\xF3 deprimido"
+                  tr: he became depressed
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|turn around}'
+            sn: '2'
+    drp: volverse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: volver
+    prs:
+    - sound:
+        audio: volve01sp
+  meta:
+    id: volver
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623212000'
+    src: spanish
+    stems:
+    - volver
+    - volver a
+    - "volver en s\xED"
+    - volverse
+    uuid: 31ea1984-ebef-4d3a-a85d-acadc1d1987a
+  shortdef:
+  - to return, to come/go back
+  - to return to
+  - to do again
+  suppl:
+    cjts:
+    - cjfs:
+      - volviendo
+      - vuelto
+      cjid: gppt
+    - cjfs:
+      - vuelvo
+      - vuelves
+      - vuelve
+      - volvemos
+      - "volv\xE9is"
+      - vuelven
+      cjid: pind
+    - cjfs:
+      - "volv\xEDa"
+      - "volv\xEDas"
+      - "volv\xEDa"
+      - "volv\xEDamos"
+      - "volv\xEDais"
+      - "volv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "volv\xED"
+      - volviste
+      - "volvi\xF3"
+      - volvimos
+      - volvisteis
+      - volvieron
+      cjid: pprf
+    - cjfs:
+      - "volver\xE9"
+      - "volver\xE1s"
+      - "volver\xE1"
+      - volveremos
+      - "volver\xE9is"
+      - "volver\xE1n"
+      cjid: futr
+    - cjfs:
+      - "volver\xEDa"
+      - "volver\xEDas"
+      - "volver\xEDa"
+      - "volver\xEDamos"
+      - "volver\xEDais"
+      - "volver\xEDan"
+      cjid: cond
+    - cjfs:
+      - vuelva
+      - vuelvas
+      - vuelva
+      - volvamos
+      - "volv\xE1is"
+      - vuelvan
+      cjid: psub
+    - cjfs:
+      - volviera
+      - volvieras
+      - volviera
+      - "volvi\xE9ramos"
+      - volvierais
+      - volvieran
+      cjid: pisb1
+    - cjfs:
+      - volviese
+      - volvieses
+      - volviese
+      - "volvi\xE9semos"
+      - volvieseis
+      - volviesen
+      cjid: pisb2
+    - cjfs:
+      - volviere
+      - volvieres
+      - volviere
+      - "volvi\xE9remos"
+      - volviereis
+      - volvieren
+      cjid: fsub
+    - cjfs:
+      - he vuelto
+      - has vuelto
+      - ha vuelto
+      - hemos vuelto
+      - "hab\xE9is vuelto"
+      - han vuelto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vuelto"
+      - "hab\xEDas vuelto"
+      - "hab\xEDa vuelto"
+      - "hab\xEDamos vuelto"
+      - "hab\xEDais vuelto"
+      - "hab\xEDan vuelto"
+      cjid: ppsi
+    - cjfs:
+      - hube vuelto
+      - hubiste vuelto
+      - hubo vuelto
+      - hubimos vuelto
+      - hubisteis vuelto
+      - hubieron vuelto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vuelto"
+      - "habr\xE1s vuelto"
+      - "habr\xE1 vuelto"
+      - habremos vuelto
+      - "habr\xE9is vuelto"
+      - "habr\xE1n vuelto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vuelto"
+      - "habr\xEDas vuelto"
+      - "habr\xEDa vuelto"
+      - "habr\xEDamos vuelto"
+      - "habr\xEDais vuelto"
+      - "habr\xEDan vuelto"
+      cjid: cpef
+    - cjfs:
+      - haya vuelto
+      - hayas vuelto
+      - haya vuelto
+      - hayamos vuelto
+      - "hay\xE1is vuelto"
+      - hayan vuelto
+      cjid: ppfs
+    - cjfs:
+      - hubiera vuelto
+      - hubieras vuelto
+      - hubiera vuelto
+      - "hubi\xE9ramos vuelto"
+      - hubierais vuelto
+      - hubieran vuelto
+      cjid: ppss1
+    - cjfs:
+      - hubiese vuelto
+      - hubieses vuelto
+      - hubiese vuelto
+      - "hubi\xE9semos vuelto"
+      - hubieseis vuelto
+      - hubiesen vuelto
+      cjid: ppss2
+    - cjfs:
+      - hubiere vuelto
+      - hubieres vuelto
+      - hubiere vuelto
+      - "hubi\xE9remos vuelto"
+      - hubiereis vuelto
+      - hubieren vuelto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vuelve
+      - vuelva
+      - volvamos
+      - volved
+      - vuelvan
+      cjid: impf
+- ahws:
+  - hw: loca
+    hwc: -ca
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|demente||} {bc}{a_link|crazy}, {a_link|insane}, {a_link|mad}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|wildly}, {a_link|recklessly}'
+          sn: '2'
+          vrs:
+          - va: a lo loco
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go mad'
+          sn: '3'
+          vrs:
+          - va: volverse loco
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: loco
+    prs:
+    - sound:
+        audio: loco001sp
+  meta:
+    id: loco:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613974000'
+    src: spanish
+    stems:
+    - loco
+    - loca
+    - a lo loco
+    - volverse loco
+    uuid: c9e46538-7885-4ad7-88ae-062e93fd9528
+  shortdef:
+  - 'demente : crazy, insane, mad'
+  - wildly, recklessly
+  - to go mad

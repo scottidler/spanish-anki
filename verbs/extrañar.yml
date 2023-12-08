@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|miss} (someone)'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be surprised'
+    drp: "extra\xF1arse"
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: "extra\xF1ar"
+    prs:
+    - sound:
+        audio: extra05sp
+  meta:
+    id: extranar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609786000'
+    src: spanish
+    stems:
+    - "extra\xF1ar"
+    - "extra\xF1arse"
+    uuid: 8a8ac64e-a205-4d94-827a-139310589fc0
+  shortdef:
+  - to miss (someone)
+  suppl:
+    cjts:
+    - cjfs:
+      - "extra\xF1ando"
+      - "extra\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "extra\xF1o"
+      - "extra\xF1as"
+      - "extra\xF1a"
+      - "extra\xF1amos"
+      - "extra\xF1\xE1is"
+      - "extra\xF1an"
+      cjid: pind
+    - cjfs:
+      - "extra\xF1aba"
+      - "extra\xF1abas"
+      - "extra\xF1aba"
+      - "extra\xF1\xE1bamos"
+      - "extra\xF1abais"
+      - "extra\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "extra\xF1\xE9"
+      - "extra\xF1aste"
+      - "extra\xF1\xF3"
+      - "extra\xF1amos"
+      - "extra\xF1asteis"
+      - "extra\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "extra\xF1ar\xE9"
+      - "extra\xF1ar\xE1s"
+      - "extra\xF1ar\xE1"
+      - "extra\xF1aremos"
+      - "extra\xF1ar\xE9is"
+      - "extra\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "extra\xF1ar\xEDa"
+      - "extra\xF1ar\xEDas"
+      - "extra\xF1ar\xEDa"
+      - "extra\xF1ar\xEDamos"
+      - "extra\xF1ar\xEDais"
+      - "extra\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "extra\xF1e"
+      - "extra\xF1es"
+      - "extra\xF1e"
+      - "extra\xF1emos"
+      - "extra\xF1\xE9is"
+      - "extra\xF1en"
+      cjid: psub
+    - cjfs:
+      - "extra\xF1ara"
+      - "extra\xF1aras"
+      - "extra\xF1ara"
+      - "extra\xF1\xE1ramos"
+      - "extra\xF1arais"
+      - "extra\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "extra\xF1ase"
+      - "extra\xF1ases"
+      - "extra\xF1ase"
+      - "extra\xF1\xE1semos"
+      - "extra\xF1aseis"
+      - "extra\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "extra\xF1are"
+      - "extra\xF1ares"
+      - "extra\xF1are"
+      - "extra\xF1\xE1remos"
+      - "extra\xF1areis"
+      - "extra\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he extra\xF1ado"
+      - "has extra\xF1ado"
+      - "ha extra\xF1ado"
+      - "hemos extra\xF1ado"
+      - "hab\xE9is extra\xF1ado"
+      - "han extra\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa extra\xF1ado"
+      - "hab\xEDas extra\xF1ado"
+      - "hab\xEDa extra\xF1ado"
+      - "hab\xEDamos extra\xF1ado"
+      - "hab\xEDais extra\xF1ado"
+      - "hab\xEDan extra\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube extra\xF1ado"
+      - "hubiste extra\xF1ado"
+      - "hubo extra\xF1ado"
+      - "hubimos extra\xF1ado"
+      - "hubisteis extra\xF1ado"
+      - "hubieron extra\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 extra\xF1ado"
+      - "habr\xE1s extra\xF1ado"
+      - "habr\xE1 extra\xF1ado"
+      - "habremos extra\xF1ado"
+      - "habr\xE9is extra\xF1ado"
+      - "habr\xE1n extra\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa extra\xF1ado"
+      - "habr\xEDas extra\xF1ado"
+      - "habr\xEDa extra\xF1ado"
+      - "habr\xEDamos extra\xF1ado"
+      - "habr\xEDais extra\xF1ado"
+      - "habr\xEDan extra\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya extra\xF1ado"
+      - "hayas extra\xF1ado"
+      - "haya extra\xF1ado"
+      - "hayamos extra\xF1ado"
+      - "hay\xE1is extra\xF1ado"
+      - "hayan extra\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera extra\xF1ado"
+      - "hubieras extra\xF1ado"
+      - "hubiera extra\xF1ado"
+      - "hubi\xE9ramos extra\xF1ado"
+      - "hubierais extra\xF1ado"
+      - "hubieran extra\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese extra\xF1ado"
+      - "hubieses extra\xF1ado"
+      - "hubiese extra\xF1ado"
+      - "hubi\xE9semos extra\xF1ado"
+      - "hubieseis extra\xF1ado"
+      - "hubiesen extra\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere extra\xF1ado"
+      - "hubieres extra\xF1ado"
+      - "hubiere extra\xF1ado"
+      - "hubi\xE9remos extra\xF1ado"
+      - "hubiereis extra\xF1ado"
+      - "hubieren extra\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "extra\xF1a"
+      - "extra\xF1e"
+      - "extra\xF1emos"
+      - "extra\xF1ad"
+      - "extra\xF1en"
+      cjid: impf

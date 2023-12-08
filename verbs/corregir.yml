@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|correct}, to {a_link|edit} (text), to {a_link|grade}
+              (exams)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reprimand}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|proofread}'
+          sn: '3'
+          vrs:
+          - va: corregir pruebas
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|reform}, to mend one''s ways'
+    drp: corregirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: corregir
+    prs:
+    - sound:
+        audio: corre06sp
+  meta:
+    id: corregir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605942000'
+    src: spanish
+    stems:
+    - corregir
+    - corregir pruebas
+    - corregirse
+    uuid: 8c98a03d-d7cd-4462-9c3b-289184540a8c
+  shortdef:
+  - to correct, to edit (text), to grade (exams)
+  - to reprimand
+  - to proofread
+  suppl:
+    cjts:
+    - cjfs:
+      - corrigiendo
+      - corregido
+      cjid: gppt
+    - cjfs:
+      - corrijo
+      - corriges
+      - corrige
+      - corregimos
+      - "correg\xEDs"
+      - corrigen
+      cjid: pind
+    - cjfs:
+      - "correg\xEDa"
+      - "correg\xEDas"
+      - "correg\xEDa"
+      - "correg\xEDamos"
+      - "correg\xEDais"
+      - "correg\xEDan"
+      cjid: pret
+    - cjfs:
+      - "correg\xED"
+      - corregiste
+      - "corrigi\xF3"
+      - corregimos
+      - corregisteis
+      - corrigieron
+      cjid: pprf
+    - cjfs:
+      - "corregir\xE9"
+      - "corregir\xE1s"
+      - "corregir\xE1"
+      - corregiremos
+      - "corregir\xE9is"
+      - "corregir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "corregir\xEDa"
+      - "corregir\xEDas"
+      - "corregir\xEDa"
+      - "corregir\xEDamos"
+      - "corregir\xEDais"
+      - "corregir\xEDan"
+      cjid: cond
+    - cjfs:
+      - corrija
+      - corrijas
+      - corrija
+      - corrijamos
+      - "corrij\xE1is"
+      - corrijan
+      cjid: psub
+    - cjfs:
+      - corrigiera
+      - corrigieras
+      - corrigiera
+      - "corrigi\xE9ramos"
+      - corrigierais
+      - corrigieran
+      cjid: pisb1
+    - cjfs:
+      - corrigiese
+      - corrigieses
+      - corrigiese
+      - "corrigi\xE9semos"
+      - corrigieseis
+      - corrigiesen
+      cjid: pisb2
+    - cjfs:
+      - corrigiere
+      - corrigieres
+      - corrigiere
+      - "corrigi\xE9remos"
+      - corrigiereis
+      - corrigieren
+      cjid: fsub
+    - cjfs:
+      - he corregido
+      - has corregido
+      - ha corregido
+      - hemos corregido
+      - "hab\xE9is corregido"
+      - han corregido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa corregido"
+      - "hab\xEDas corregido"
+      - "hab\xEDa corregido"
+      - "hab\xEDamos corregido"
+      - "hab\xEDais corregido"
+      - "hab\xEDan corregido"
+      cjid: ppsi
+    - cjfs:
+      - hube corregido
+      - hubiste corregido
+      - hubo corregido
+      - hubimos corregido
+      - hubisteis corregido
+      - hubieron corregido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 corregido"
+      - "habr\xE1s corregido"
+      - "habr\xE1 corregido"
+      - habremos corregido
+      - "habr\xE9is corregido"
+      - "habr\xE1n corregido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa corregido"
+      - "habr\xEDas corregido"
+      - "habr\xEDa corregido"
+      - "habr\xEDamos corregido"
+      - "habr\xEDais corregido"
+      - "habr\xEDan corregido"
+      cjid: cpef
+    - cjfs:
+      - haya corregido
+      - hayas corregido
+      - haya corregido
+      - hayamos corregido
+      - "hay\xE1is corregido"
+      - hayan corregido
+      cjid: ppfs
+    - cjfs:
+      - hubiera corregido
+      - hubieras corregido
+      - hubiera corregido
+      - "hubi\xE9ramos corregido"
+      - hubierais corregido
+      - hubieran corregido
+      cjid: ppss1
+    - cjfs:
+      - hubiese corregido
+      - hubieses corregido
+      - hubiese corregido
+      - "hubi\xE9semos corregido"
+      - hubieseis corregido
+      - hubiesen corregido
+      cjid: ppss2
+    - cjfs:
+      - hubiere corregido
+      - hubieres corregido
+      - hubiere corregido
+      - "hubi\xE9remos corregido"
+      - hubiereis corregido
+      - hubieren corregido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - corrige
+      - corrija
+      - corrijamos
+      - corregid
+      - corrijan
+      cjid: impf

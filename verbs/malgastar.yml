@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|squander} (resources), to {a_link|waste} (time, effort)'
+  fl: transitive verb
+  hwi:
+    hw: malgastar
+    prs:
+    - sound:
+        audio: malga01sp
+  meta:
+    id: malgastar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614230000'
+    src: spanish
+    stems:
+    - malgastar
+    uuid: b64210b9-244e-42a0-be27-a07672f41b03
+  shortdef:
+  - to squander (resources), to waste (time, effort)
+  suppl:
+    cjts:
+    - cjfs:
+      - malgastando
+      - malgastado
+      cjid: gppt
+    - cjfs:
+      - malgasto
+      - malgastas
+      - malgasta
+      - malgastamos
+      - "malgast\xE1is"
+      - malgastan
+      cjid: pind
+    - cjfs:
+      - malgastaba
+      - malgastabas
+      - malgastaba
+      - "malgast\xE1bamos"
+      - malgastabais
+      - malgastaban
+      cjid: pret
+    - cjfs:
+      - "malgast\xE9"
+      - malgastaste
+      - "malgast\xF3"
+      - malgastamos
+      - malgastasteis
+      - malgastaron
+      cjid: pprf
+    - cjfs:
+      - "malgastar\xE9"
+      - "malgastar\xE1s"
+      - "malgastar\xE1"
+      - malgastaremos
+      - "malgastar\xE9is"
+      - "malgastar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "malgastar\xEDa"
+      - "malgastar\xEDas"
+      - "malgastar\xEDa"
+      - "malgastar\xEDamos"
+      - "malgastar\xEDais"
+      - "malgastar\xEDan"
+      cjid: cond
+    - cjfs:
+      - malgaste
+      - malgastes
+      - malgaste
+      - malgastemos
+      - "malgast\xE9is"
+      - malgasten
+      cjid: psub
+    - cjfs:
+      - malgastara
+      - malgastaras
+      - malgastara
+      - "malgast\xE1ramos"
+      - malgastarais
+      - malgastaran
+      cjid: pisb1
+    - cjfs:
+      - malgastase
+      - malgastases
+      - malgastase
+      - "malgast\xE1semos"
+      - malgastaseis
+      - malgastasen
+      cjid: pisb2
+    - cjfs:
+      - malgastare
+      - malgastares
+      - malgastare
+      - "malgast\xE1remos"
+      - malgastareis
+      - malgastaren
+      cjid: fsub
+    - cjfs:
+      - he malgastado
+      - has malgastado
+      - ha malgastado
+      - hemos malgastado
+      - "hab\xE9is malgastado"
+      - han malgastado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa malgastado"
+      - "hab\xEDas malgastado"
+      - "hab\xEDa malgastado"
+      - "hab\xEDamos malgastado"
+      - "hab\xEDais malgastado"
+      - "hab\xEDan malgastado"
+      cjid: ppsi
+    - cjfs:
+      - hube malgastado
+      - hubiste malgastado
+      - hubo malgastado
+      - hubimos malgastado
+      - hubisteis malgastado
+      - hubieron malgastado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 malgastado"
+      - "habr\xE1s malgastado"
+      - "habr\xE1 malgastado"
+      - habremos malgastado
+      - "habr\xE9is malgastado"
+      - "habr\xE1n malgastado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa malgastado"
+      - "habr\xEDas malgastado"
+      - "habr\xEDa malgastado"
+      - "habr\xEDamos malgastado"
+      - "habr\xEDais malgastado"
+      - "habr\xEDan malgastado"
+      cjid: cpef
+    - cjfs:
+      - haya malgastado
+      - hayas malgastado
+      - haya malgastado
+      - hayamos malgastado
+      - "hay\xE1is malgastado"
+      - hayan malgastado
+      cjid: ppfs
+    - cjfs:
+      - hubiera malgastado
+      - hubieras malgastado
+      - hubiera malgastado
+      - "hubi\xE9ramos malgastado"
+      - hubierais malgastado
+      - hubieran malgastado
+      cjid: ppss1
+    - cjfs:
+      - hubiese malgastado
+      - hubieses malgastado
+      - hubiese malgastado
+      - "hubi\xE9semos malgastado"
+      - hubieseis malgastado
+      - hubiesen malgastado
+      cjid: ppss2
+    - cjfs:
+      - hubiere malgastado
+      - hubieres malgastado
+      - hubiere malgastado
+      - "hubi\xE9remos malgastado"
+      - hubiereis malgastado
+      - hubieren malgastado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - malgasta
+      - malgaste
+      - malgastemos
+      - malgastad
+      - malgasten
+      cjid: impf

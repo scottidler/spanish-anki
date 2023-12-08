@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|explain}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|understand}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to explain oneself'
+            sn: '2'
+    drp: explicarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: explicar
+    prs:
+    - sound:
+        audio: expli02sp
+  meta:
+    id: explicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609689000'
+    src: spanish
+    stems:
+    - explicar
+    - explicarse
+    uuid: a77585be-a89a-478c-8d73-e05804707ee9
+  shortdef:
+  - to explain
+  suppl:
+    cjts:
+    - cjfs:
+      - explicando
+      - explicado
+      cjid: gppt
+    - cjfs:
+      - explico
+      - explicas
+      - explica
+      - explicamos
+      - "explic\xE1is"
+      - explican
+      cjid: pind
+    - cjfs:
+      - explicaba
+      - explicabas
+      - explicaba
+      - "explic\xE1bamos"
+      - explicabais
+      - explicaban
+      cjid: pret
+    - cjfs:
+      - "expliqu\xE9"
+      - explicaste
+      - "explic\xF3"
+      - explicamos
+      - explicasteis
+      - explicaron
+      cjid: pprf
+    - cjfs:
+      - "explicar\xE9"
+      - "explicar\xE1s"
+      - "explicar\xE1"
+      - explicaremos
+      - "explicar\xE9is"
+      - "explicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "explicar\xEDa"
+      - "explicar\xEDas"
+      - "explicar\xEDa"
+      - "explicar\xEDamos"
+      - "explicar\xEDais"
+      - "explicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - explique
+      - expliques
+      - explique
+      - expliquemos
+      - "expliqu\xE9is"
+      - expliquen
+      cjid: psub
+    - cjfs:
+      - explicara
+      - explicaras
+      - explicara
+      - "explic\xE1ramos"
+      - explicarais
+      - explicaran
+      cjid: pisb1
+    - cjfs:
+      - explicase
+      - explicases
+      - explicase
+      - "explic\xE1semos"
+      - explicaseis
+      - explicasen
+      cjid: pisb2
+    - cjfs:
+      - explicare
+      - explicares
+      - explicare
+      - "explic\xE1remos"
+      - explicareis
+      - explicaren
+      cjid: fsub
+    - cjfs:
+      - he explicado
+      - has explicado
+      - ha explicado
+      - hemos explicado
+      - "hab\xE9is explicado"
+      - han explicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa explicado"
+      - "hab\xEDas explicado"
+      - "hab\xEDa explicado"
+      - "hab\xEDamos explicado"
+      - "hab\xEDais explicado"
+      - "hab\xEDan explicado"
+      cjid: ppsi
+    - cjfs:
+      - hube explicado
+      - hubiste explicado
+      - hubo explicado
+      - hubimos explicado
+      - hubisteis explicado
+      - hubieron explicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 explicado"
+      - "habr\xE1s explicado"
+      - "habr\xE1 explicado"
+      - habremos explicado
+      - "habr\xE9is explicado"
+      - "habr\xE1n explicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa explicado"
+      - "habr\xEDas explicado"
+      - "habr\xEDa explicado"
+      - "habr\xEDamos explicado"
+      - "habr\xEDais explicado"
+      - "habr\xEDan explicado"
+      cjid: cpef
+    - cjfs:
+      - haya explicado
+      - hayas explicado
+      - haya explicado
+      - hayamos explicado
+      - "hay\xE1is explicado"
+      - hayan explicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera explicado
+      - hubieras explicado
+      - hubiera explicado
+      - "hubi\xE9ramos explicado"
+      - hubierais explicado
+      - hubieran explicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese explicado
+      - hubieses explicado
+      - hubiese explicado
+      - "hubi\xE9semos explicado"
+      - hubieseis explicado
+      - hubiesen explicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere explicado
+      - hubieres explicado
+      - hubiere explicado
+      - "hubi\xE9remos explicado"
+      - hubiereis explicado
+      - hubieren explicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - explica
+      - explique
+      - expliquemos
+      - explicad
+      - expliquen
+      cjid: impf

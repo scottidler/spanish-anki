@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|authorize}, to {a_link|empower}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|seize}, to {a_link|take over}'
+            vrs:
+            - va: apoderarse de
+              vac: ~ de
+    drp: apoderarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apoderar
+    prs:
+    - sound:
+        audio: apode02sp
+  meta:
+    id: apoderar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601741000'
+    src: spanish
+    stems:
+    - apoderar
+    - apoderarse
+    - apoderarse de
+    uuid: e000aa67-e858-429a-8d1e-a582e819b07e
+  shortdef:
+  - to authorize, to empower
+  suppl:
+    cjts:
+    - cjfs:
+      - apoderando
+      - apoderado
+      cjid: gppt
+    - cjfs:
+      - apodero
+      - apoderas
+      - apodera
+      - apoderamos
+      - "apoder\xE1is"
+      - apoderan
+      cjid: pind
+    - cjfs:
+      - apoderaba
+      - apoderabas
+      - apoderaba
+      - "apoder\xE1bamos"
+      - apoderabais
+      - apoderaban
+      cjid: pret
+    - cjfs:
+      - "apoder\xE9"
+      - apoderaste
+      - "apoder\xF3"
+      - apoderamos
+      - apoderasteis
+      - apoderaron
+      cjid: pprf
+    - cjfs:
+      - "apoderar\xE9"
+      - "apoderar\xE1s"
+      - "apoderar\xE1"
+      - apoderaremos
+      - "apoderar\xE9is"
+      - "apoderar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apoderar\xEDa"
+      - "apoderar\xEDas"
+      - "apoderar\xEDa"
+      - "apoderar\xEDamos"
+      - "apoderar\xEDais"
+      - "apoderar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apodere
+      - apoderes
+      - apodere
+      - apoderemos
+      - "apoder\xE9is"
+      - apoderen
+      cjid: psub
+    - cjfs:
+      - apoderara
+      - apoderaras
+      - apoderara
+      - "apoder\xE1ramos"
+      - apoderarais
+      - apoderaran
+      cjid: pisb1
+    - cjfs:
+      - apoderase
+      - apoderases
+      - apoderase
+      - "apoder\xE1semos"
+      - apoderaseis
+      - apoderasen
+      cjid: pisb2
+    - cjfs:
+      - apoderare
+      - apoderares
+      - apoderare
+      - "apoder\xE1remos"
+      - apoderareis
+      - apoderaren
+      cjid: fsub
+    - cjfs:
+      - he apoderado
+      - has apoderado
+      - ha apoderado
+      - hemos apoderado
+      - "hab\xE9is apoderado"
+      - han apoderado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apoderado"
+      - "hab\xEDas apoderado"
+      - "hab\xEDa apoderado"
+      - "hab\xEDamos apoderado"
+      - "hab\xEDais apoderado"
+      - "hab\xEDan apoderado"
+      cjid: ppsi
+    - cjfs:
+      - hube apoderado
+      - hubiste apoderado
+      - hubo apoderado
+      - hubimos apoderado
+      - hubisteis apoderado
+      - hubieron apoderado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apoderado"
+      - "habr\xE1s apoderado"
+      - "habr\xE1 apoderado"
+      - habremos apoderado
+      - "habr\xE9is apoderado"
+      - "habr\xE1n apoderado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apoderado"
+      - "habr\xEDas apoderado"
+      - "habr\xEDa apoderado"
+      - "habr\xEDamos apoderado"
+      - "habr\xEDais apoderado"
+      - "habr\xEDan apoderado"
+      cjid: cpef
+    - cjfs:
+      - haya apoderado
+      - hayas apoderado
+      - haya apoderado
+      - hayamos apoderado
+      - "hay\xE1is apoderado"
+      - hayan apoderado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apoderado
+      - hubieras apoderado
+      - hubiera apoderado
+      - "hubi\xE9ramos apoderado"
+      - hubierais apoderado
+      - hubieran apoderado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apoderado
+      - hubieses apoderado
+      - hubiese apoderado
+      - "hubi\xE9semos apoderado"
+      - hubieseis apoderado
+      - hubiesen apoderado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apoderado
+      - hubieres apoderado
+      - hubiere apoderado
+      - "hubi\xE9remos apoderado"
+      - hubiereis apoderado
+      - hubieren apoderado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apodera
+      - apodere
+      - apoderemos
+      - apoderad
+      - apoderen
+      cjid: impf

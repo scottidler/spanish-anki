@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clear}, to {a_link|clear up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get light, to {a_link|dawn}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go gray, to turn white'
+    vd: intransitive verb
+  fl: impersonal verb
+  hwi:
+    hw: clarear
+  meta:
+    id: clarear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604829000'
+    src: spanish
+    stems:
+    - clarear
+    uuid: 7509d8c6-6b68-49af-9d20-d065729a6219
+  shortdef:
+  - to clear, to clear up
+  - to get light, to dawn
+  - to go gray, to turn white
+  suppl:
+    cjts:
+    - cjfs:
+      - clareando
+      - clareado
+      cjid: gppt
+    - cjfs:
+      - clareo
+      - clareas
+      - clarea
+      - clareamos
+      - "clare\xE1is"
+      - clarean
+      cjid: pind
+    - cjfs:
+      - clareaba
+      - clareabas
+      - clareaba
+      - "clare\xE1bamos"
+      - clareabais
+      - clareaban
+      cjid: pret
+    - cjfs:
+      - "clare\xE9"
+      - clareaste
+      - "clare\xF3"
+      - clareamos
+      - clareasteis
+      - clarearon
+      cjid: pprf
+    - cjfs:
+      - "clarear\xE9"
+      - "clarear\xE1s"
+      - "clarear\xE1"
+      - clarearemos
+      - "clarear\xE9is"
+      - "clarear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "clarear\xEDa"
+      - "clarear\xEDas"
+      - "clarear\xEDa"
+      - "clarear\xEDamos"
+      - "clarear\xEDais"
+      - "clarear\xEDan"
+      cjid: cond
+    - cjfs:
+      - claree
+      - clarees
+      - claree
+      - clareemos
+      - "clare\xE9is"
+      - clareen
+      cjid: psub
+    - cjfs:
+      - clareara
+      - clarearas
+      - clareara
+      - "clare\xE1ramos"
+      - clarearais
+      - clarearan
+      cjid: pisb1
+    - cjfs:
+      - clarease
+      - clareases
+      - clarease
+      - "clare\xE1semos"
+      - clareaseis
+      - clareasen
+      cjid: pisb2
+    - cjfs:
+      - clareare
+      - clareares
+      - clareare
+      - "clare\xE1remos"
+      - clareareis
+      - clarearen
+      cjid: fsub
+    - cjfs:
+      - he clareado
+      - has clareado
+      - ha clareado
+      - hemos clareado
+      - "hab\xE9is clareado"
+      - han clareado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa clareado"
+      - "hab\xEDas clareado"
+      - "hab\xEDa clareado"
+      - "hab\xEDamos clareado"
+      - "hab\xEDais clareado"
+      - "hab\xEDan clareado"
+      cjid: ppsi
+    - cjfs:
+      - hube clareado
+      - hubiste clareado
+      - hubo clareado
+      - hubimos clareado
+      - hubisteis clareado
+      - hubieron clareado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 clareado"
+      - "habr\xE1s clareado"
+      - "habr\xE1 clareado"
+      - habremos clareado
+      - "habr\xE9is clareado"
+      - "habr\xE1n clareado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa clareado"
+      - "habr\xEDas clareado"
+      - "habr\xEDa clareado"
+      - "habr\xEDamos clareado"
+      - "habr\xEDais clareado"
+      - "habr\xEDan clareado"
+      cjid: cpef
+    - cjfs:
+      - haya clareado
+      - hayas clareado
+      - haya clareado
+      - hayamos clareado
+      - "hay\xE1is clareado"
+      - hayan clareado
+      cjid: ppfs
+    - cjfs:
+      - hubiera clareado
+      - hubieras clareado
+      - hubiera clareado
+      - "hubi\xE9ramos clareado"
+      - hubierais clareado
+      - hubieran clareado
+      cjid: ppss1
+    - cjfs:
+      - hubiese clareado
+      - hubieses clareado
+      - hubiese clareado
+      - "hubi\xE9semos clareado"
+      - hubieseis clareado
+      - hubiesen clareado
+      cjid: ppss2
+    - cjfs:
+      - hubiere clareado
+      - hubieres clareado
+      - hubiere clareado
+      - "hubi\xE9remos clareado"
+      - hubiereis clareado
+      - hubieren clareado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - clarea
+      - claree
+      - clareemos
+      - claread
+      - clareen
+      cjid: impf

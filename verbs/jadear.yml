@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pant}, to {a_link|gasp}, to {a_link|puff}'
+  fl: intransitive verb
+  hwi:
+    hw: jadear
+  meta:
+    id: jadear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613147000'
+    src: spanish
+    stems:
+    - jadear
+    - jadeante
+    uuid: b956365b-f441-4abc-904e-f46b6c3db1d3
+  shortdef:
+  - to pant, to gasp, to puff
+  suppl:
+    cjts:
+    - cjfs:
+      - jadeando
+      - jadeado
+      cjid: gppt
+    - cjfs:
+      - jadeo
+      - jadeas
+      - jadea
+      - jadeamos
+      - "jade\xE1is"
+      - jadean
+      cjid: pind
+    - cjfs:
+      - jadeaba
+      - jadeabas
+      - jadeaba
+      - "jade\xE1bamos"
+      - jadeabais
+      - jadeaban
+      cjid: pret
+    - cjfs:
+      - "jade\xE9"
+      - jadeaste
+      - "jade\xF3"
+      - jadeamos
+      - jadeasteis
+      - jadearon
+      cjid: pprf
+    - cjfs:
+      - "jadear\xE9"
+      - "jadear\xE1s"
+      - "jadear\xE1"
+      - jadearemos
+      - "jadear\xE9is"
+      - "jadear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "jadear\xEDa"
+      - "jadear\xEDas"
+      - "jadear\xEDa"
+      - "jadear\xEDamos"
+      - "jadear\xEDais"
+      - "jadear\xEDan"
+      cjid: cond
+    - cjfs:
+      - jadee
+      - jadees
+      - jadee
+      - jadeemos
+      - "jade\xE9is"
+      - jadeen
+      cjid: psub
+    - cjfs:
+      - jadeara
+      - jadearas
+      - jadeara
+      - "jade\xE1ramos"
+      - jadearais
+      - jadearan
+      cjid: pisb1
+    - cjfs:
+      - jadease
+      - jadeases
+      - jadease
+      - "jade\xE1semos"
+      - jadeaseis
+      - jadeasen
+      cjid: pisb2
+    - cjfs:
+      - jadeare
+      - jadeares
+      - jadeare
+      - "jade\xE1remos"
+      - jadeareis
+      - jadearen
+      cjid: fsub
+    - cjfs:
+      - he jadeado
+      - has jadeado
+      - ha jadeado
+      - hemos jadeado
+      - "hab\xE9is jadeado"
+      - han jadeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa jadeado"
+      - "hab\xEDas jadeado"
+      - "hab\xEDa jadeado"
+      - "hab\xEDamos jadeado"
+      - "hab\xEDais jadeado"
+      - "hab\xEDan jadeado"
+      cjid: ppsi
+    - cjfs:
+      - hube jadeado
+      - hubiste jadeado
+      - hubo jadeado
+      - hubimos jadeado
+      - hubisteis jadeado
+      - hubieron jadeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 jadeado"
+      - "habr\xE1s jadeado"
+      - "habr\xE1 jadeado"
+      - habremos jadeado
+      - "habr\xE9is jadeado"
+      - "habr\xE1n jadeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa jadeado"
+      - "habr\xEDas jadeado"
+      - "habr\xEDa jadeado"
+      - "habr\xEDamos jadeado"
+      - "habr\xEDais jadeado"
+      - "habr\xEDan jadeado"
+      cjid: cpef
+    - cjfs:
+      - haya jadeado
+      - hayas jadeado
+      - haya jadeado
+      - hayamos jadeado
+      - "hay\xE1is jadeado"
+      - hayan jadeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera jadeado
+      - hubieras jadeado
+      - hubiera jadeado
+      - "hubi\xE9ramos jadeado"
+      - hubierais jadeado
+      - hubieran jadeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese jadeado
+      - hubieses jadeado
+      - hubiese jadeado
+      - "hubi\xE9semos jadeado"
+      - hubieseis jadeado
+      - hubiesen jadeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere jadeado
+      - hubieres jadeado
+      - hubiere jadeado
+      - "hubi\xE9remos jadeado"
+      - hubiereis jadeado
+      - hubieren jadeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - jadea
+      - jadee
+      - jadeemos
+      - jadead
+      - jadeen
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: jadeante

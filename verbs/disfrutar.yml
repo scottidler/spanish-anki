@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enjoy}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enjoy oneself}, to have a good time'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: disfrutar
+    prs:
+    - sound:
+        audio: disfr03sp
+  meta:
+    id: disfrutar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607700000'
+    src: spanish
+    stems:
+    - disfrutar
+    uuid: e1922d80-beb6-4ee3-8cef-b90a0cc540d1
+  shortdef:
+  - to enjoy
+  - to enjoy oneself, to have a good time
+  suppl:
+    cjts:
+    - cjfs:
+      - disfrutando
+      - disfrutado
+      cjid: gppt
+    - cjfs:
+      - disfruto
+      - disfrutas
+      - disfruta
+      - disfrutamos
+      - "disfrut\xE1is"
+      - disfrutan
+      cjid: pind
+    - cjfs:
+      - disfrutaba
+      - disfrutabas
+      - disfrutaba
+      - "disfrut\xE1bamos"
+      - disfrutabais
+      - disfrutaban
+      cjid: pret
+    - cjfs:
+      - "disfrut\xE9"
+      - disfrutaste
+      - "disfrut\xF3"
+      - disfrutamos
+      - disfrutasteis
+      - disfrutaron
+      cjid: pprf
+    - cjfs:
+      - "disfrutar\xE9"
+      - "disfrutar\xE1s"
+      - "disfrutar\xE1"
+      - disfrutaremos
+      - "disfrutar\xE9is"
+      - "disfrutar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disfrutar\xEDa"
+      - "disfrutar\xEDas"
+      - "disfrutar\xEDa"
+      - "disfrutar\xEDamos"
+      - "disfrutar\xEDais"
+      - "disfrutar\xEDan"
+      cjid: cond
+    - cjfs:
+      - disfrute
+      - disfrutes
+      - disfrute
+      - disfrutemos
+      - "disfrut\xE9is"
+      - disfruten
+      cjid: psub
+    - cjfs:
+      - disfrutara
+      - disfrutaras
+      - disfrutara
+      - "disfrut\xE1ramos"
+      - disfrutarais
+      - disfrutaran
+      cjid: pisb1
+    - cjfs:
+      - disfrutase
+      - disfrutases
+      - disfrutase
+      - "disfrut\xE1semos"
+      - disfrutaseis
+      - disfrutasen
+      cjid: pisb2
+    - cjfs:
+      - disfrutare
+      - disfrutares
+      - disfrutare
+      - "disfrut\xE1remos"
+      - disfrutareis
+      - disfrutaren
+      cjid: fsub
+    - cjfs:
+      - he disfrutado
+      - has disfrutado
+      - ha disfrutado
+      - hemos disfrutado
+      - "hab\xE9is disfrutado"
+      - han disfrutado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disfrutado"
+      - "hab\xEDas disfrutado"
+      - "hab\xEDa disfrutado"
+      - "hab\xEDamos disfrutado"
+      - "hab\xEDais disfrutado"
+      - "hab\xEDan disfrutado"
+      cjid: ppsi
+    - cjfs:
+      - hube disfrutado
+      - hubiste disfrutado
+      - hubo disfrutado
+      - hubimos disfrutado
+      - hubisteis disfrutado
+      - hubieron disfrutado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disfrutado"
+      - "habr\xE1s disfrutado"
+      - "habr\xE1 disfrutado"
+      - habremos disfrutado
+      - "habr\xE9is disfrutado"
+      - "habr\xE1n disfrutado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disfrutado"
+      - "habr\xEDas disfrutado"
+      - "habr\xEDa disfrutado"
+      - "habr\xEDamos disfrutado"
+      - "habr\xEDais disfrutado"
+      - "habr\xEDan disfrutado"
+      cjid: cpef
+    - cjfs:
+      - haya disfrutado
+      - hayas disfrutado
+      - haya disfrutado
+      - hayamos disfrutado
+      - "hay\xE1is disfrutado"
+      - hayan disfrutado
+      cjid: ppfs
+    - cjfs:
+      - hubiera disfrutado
+      - hubieras disfrutado
+      - hubiera disfrutado
+      - "hubi\xE9ramos disfrutado"
+      - hubierais disfrutado
+      - hubieran disfrutado
+      cjid: ppss1
+    - cjfs:
+      - hubiese disfrutado
+      - hubieses disfrutado
+      - hubiese disfrutado
+      - "hubi\xE9semos disfrutado"
+      - hubieseis disfrutado
+      - hubiesen disfrutado
+      cjid: ppss2
+    - cjfs:
+      - hubiere disfrutado
+      - hubieres disfrutado
+      - hubiere disfrutado
+      - "hubi\xE9remos disfrutado"
+      - hubiereis disfrutado
+      - hubieren disfrutado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disfruta
+      - disfrute
+      - disfrutemos
+      - disfrutad
+      - disfruten
+      cjid: impf

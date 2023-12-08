@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|watch}, to spy on'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stalk}, to lie in wait for'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: acechar
+    prs:
+    - sound:
+        audio: acech01sp
+  meta:
+    id: acechar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600223000'
+    src: spanish
+    stems:
+    - acechar
+    uuid: 4996f32e-1f62-438a-9f49-00ed69cd9e33
+  shortdef:
+  - to watch, to spy on
+  - to stalk, to lie in wait for
+  suppl:
+    cjts:
+    - cjfs:
+      - acechando
+      - acechado
+      cjid: gppt
+    - cjfs:
+      - acecho
+      - acechas
+      - acecha
+      - acechamos
+      - "acech\xE1is"
+      - acechan
+      cjid: pind
+    - cjfs:
+      - acechaba
+      - acechabas
+      - acechaba
+      - "acech\xE1bamos"
+      - acechabais
+      - acechaban
+      cjid: pret
+    - cjfs:
+      - "acech\xE9"
+      - acechaste
+      - "acech\xF3"
+      - acechamos
+      - acechasteis
+      - acecharon
+      cjid: pprf
+    - cjfs:
+      - "acechar\xE9"
+      - "acechar\xE1s"
+      - "acechar\xE1"
+      - acecharemos
+      - "acechar\xE9is"
+      - "acechar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acechar\xEDa"
+      - "acechar\xEDas"
+      - "acechar\xEDa"
+      - "acechar\xEDamos"
+      - "acechar\xEDais"
+      - "acechar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aceche
+      - aceches
+      - aceche
+      - acechemos
+      - "acech\xE9is"
+      - acechen
+      cjid: psub
+    - cjfs:
+      - acechara
+      - acecharas
+      - acechara
+      - "acech\xE1ramos"
+      - acecharais
+      - acecharan
+      cjid: pisb1
+    - cjfs:
+      - acechase
+      - acechases
+      - acechase
+      - "acech\xE1semos"
+      - acechaseis
+      - acechasen
+      cjid: pisb2
+    - cjfs:
+      - acechare
+      - acechares
+      - acechare
+      - "acech\xE1remos"
+      - acechareis
+      - acecharen
+      cjid: fsub
+    - cjfs:
+      - he acechado
+      - has acechado
+      - ha acechado
+      - hemos acechado
+      - "hab\xE9is acechado"
+      - han acechado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acechado"
+      - "hab\xEDas acechado"
+      - "hab\xEDa acechado"
+      - "hab\xEDamos acechado"
+      - "hab\xEDais acechado"
+      - "hab\xEDan acechado"
+      cjid: ppsi
+    - cjfs:
+      - hube acechado
+      - hubiste acechado
+      - hubo acechado
+      - hubimos acechado
+      - hubisteis acechado
+      - hubieron acechado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acechado"
+      - "habr\xE1s acechado"
+      - "habr\xE1 acechado"
+      - habremos acechado
+      - "habr\xE9is acechado"
+      - "habr\xE1n acechado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acechado"
+      - "habr\xEDas acechado"
+      - "habr\xEDa acechado"
+      - "habr\xEDamos acechado"
+      - "habr\xEDais acechado"
+      - "habr\xEDan acechado"
+      cjid: cpef
+    - cjfs:
+      - haya acechado
+      - hayas acechado
+      - haya acechado
+      - hayamos acechado
+      - "hay\xE1is acechado"
+      - hayan acechado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acechado
+      - hubieras acechado
+      - hubiera acechado
+      - "hubi\xE9ramos acechado"
+      - hubierais acechado
+      - hubieran acechado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acechado
+      - hubieses acechado
+      - hubiese acechado
+      - "hubi\xE9semos acechado"
+      - hubieseis acechado
+      - hubiesen acechado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acechado
+      - hubieres acechado
+      - hubiere acechado
+      - "hubi\xE9remos acechado"
+      - hubiereis acechado
+      - hubieren acechado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acecha
+      - aceche
+      - acechemos
+      - acechad
+      - acechen
+      cjid: impf

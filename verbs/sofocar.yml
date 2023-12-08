@@ -1,0 +1,214 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ahogar||} {bc}to {a_link|suffocate}, to {a_link|smother}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|extinguir||} {bc}to {a_link|extinguish}, to {a_link|put out} (a
+              fire)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aplastar||} {bc}to {a_link|crush}, to {a_link|put down} '
+          - - vis
+            - - t: "sofocar una rebeli\xF3n"
+                tr: to crush a rebellion
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|suffocate}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get upset, to get mad'
+            sls:
+            - familiar
+            sn: '2'
+    drp: sofocarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sofocar
+  meta:
+    id: sofocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620834000'
+    src: spanish
+    stems:
+    - sofocar
+    - sofocarse
+    uuid: 3a33b891-5e8b-4014-887b-be22d876dd3c
+  shortdef:
+  - 'ahogar : to suffocate, to smother'
+  - 'extinguir : to extinguish, to put out (a fire)'
+  - 'aplastar : to crush, to put down'
+  suppl:
+    cjts:
+    - cjfs:
+      - sofocando
+      - sofocado
+      cjid: gppt
+    - cjfs:
+      - sofoco
+      - sofocas
+      - sofoca
+      - sofocamos
+      - "sofoc\xE1is"
+      - sofocan
+      cjid: pind
+    - cjfs:
+      - sofocaba
+      - sofocabas
+      - sofocaba
+      - "sofoc\xE1bamos"
+      - sofocabais
+      - sofocaban
+      cjid: pret
+    - cjfs:
+      - "sofoqu\xE9"
+      - sofocaste
+      - "sofoc\xF3"
+      - sofocamos
+      - sofocasteis
+      - sofocaron
+      cjid: pprf
+    - cjfs:
+      - "sofocar\xE9"
+      - "sofocar\xE1s"
+      - "sofocar\xE1"
+      - sofocaremos
+      - "sofocar\xE9is"
+      - "sofocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sofocar\xEDa"
+      - "sofocar\xEDas"
+      - "sofocar\xEDa"
+      - "sofocar\xEDamos"
+      - "sofocar\xEDais"
+      - "sofocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sofoque
+      - sofoques
+      - sofoque
+      - sofoquemos
+      - "sofoqu\xE9is"
+      - sofoquen
+      cjid: psub
+    - cjfs:
+      - sofocara
+      - sofocaras
+      - sofocara
+      - "sofoc\xE1ramos"
+      - sofocarais
+      - sofocaran
+      cjid: pisb1
+    - cjfs:
+      - sofocase
+      - sofocases
+      - sofocase
+      - "sofoc\xE1semos"
+      - sofocaseis
+      - sofocasen
+      cjid: pisb2
+    - cjfs:
+      - sofocare
+      - sofocares
+      - sofocare
+      - "sofoc\xE1remos"
+      - sofocareis
+      - sofocaren
+      cjid: fsub
+    - cjfs:
+      - he sofocado
+      - has sofocado
+      - ha sofocado
+      - hemos sofocado
+      - "hab\xE9is sofocado"
+      - han sofocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sofocado"
+      - "hab\xEDas sofocado"
+      - "hab\xEDa sofocado"
+      - "hab\xEDamos sofocado"
+      - "hab\xEDais sofocado"
+      - "hab\xEDan sofocado"
+      cjid: ppsi
+    - cjfs:
+      - hube sofocado
+      - hubiste sofocado
+      - hubo sofocado
+      - hubimos sofocado
+      - hubisteis sofocado
+      - hubieron sofocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sofocado"
+      - "habr\xE1s sofocado"
+      - "habr\xE1 sofocado"
+      - habremos sofocado
+      - "habr\xE9is sofocado"
+      - "habr\xE1n sofocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sofocado"
+      - "habr\xEDas sofocado"
+      - "habr\xEDa sofocado"
+      - "habr\xEDamos sofocado"
+      - "habr\xEDais sofocado"
+      - "habr\xEDan sofocado"
+      cjid: cpef
+    - cjfs:
+      - haya sofocado
+      - hayas sofocado
+      - haya sofocado
+      - hayamos sofocado
+      - "hay\xE1is sofocado"
+      - hayan sofocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sofocado
+      - hubieras sofocado
+      - hubiera sofocado
+      - "hubi\xE9ramos sofocado"
+      - hubierais sofocado
+      - hubieran sofocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sofocado
+      - hubieses sofocado
+      - hubiese sofocado
+      - "hubi\xE9semos sofocado"
+      - hubieseis sofocado
+      - hubiesen sofocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sofocado
+      - hubieres sofocado
+      - hubiere sofocado
+      - "hubi\xE9remos sofocado"
+      - hubiereis sofocado
+      - hubieren sofocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sofoca
+      - sofoque
+      - sofoquemos
+      - sofocad
+      - sofoquen
+      cjid: impf

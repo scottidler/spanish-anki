@@ -1,0 +1,235 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acercar||}, {sx|aproximar||} {bc}to bring closer, to {a_link|draw
+              near}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|acercarse||}, {sx|aproximarse||} {bc}to {a_link|approach}, to
+                get close'
+    drp: arrimarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arrimar
+    prs:
+    - sound:
+        audio: arrim02sp
+  meta:
+    id: arrimar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602023000'
+    src: spanish
+    stems:
+    - arrimar
+    - arrimarse
+    uuid: 4258d38b-8967-4cb4-97a1-c762e06e5b68
+  shortdef:
+  - 'acercar, aproximar : to bring closer, to draw near'
+  suppl:
+    cjts:
+    - cjfs:
+      - arrimando
+      - arrimado
+      cjid: gppt
+    - cjfs:
+      - arrimo
+      - arrimas
+      - arrima
+      - arrimamos
+      - "arrim\xE1is"
+      - arriman
+      cjid: pind
+    - cjfs:
+      - arrimaba
+      - arrimabas
+      - arrimaba
+      - "arrim\xE1bamos"
+      - arrimabais
+      - arrimaban
+      cjid: pret
+    - cjfs:
+      - "arrim\xE9"
+      - arrimaste
+      - "arrim\xF3"
+      - arrimamos
+      - arrimasteis
+      - arrimaron
+      cjid: pprf
+    - cjfs:
+      - "arrimar\xE9"
+      - "arrimar\xE1s"
+      - "arrimar\xE1"
+      - arrimaremos
+      - "arrimar\xE9is"
+      - "arrimar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrimar\xEDa"
+      - "arrimar\xEDas"
+      - "arrimar\xEDa"
+      - "arrimar\xEDamos"
+      - "arrimar\xEDais"
+      - "arrimar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arrime
+      - arrimes
+      - arrime
+      - arrimemos
+      - "arrim\xE9is"
+      - arrimen
+      cjid: psub
+    - cjfs:
+      - arrimara
+      - arrimaras
+      - arrimara
+      - "arrim\xE1ramos"
+      - arrimarais
+      - arrimaran
+      cjid: pisb1
+    - cjfs:
+      - arrimase
+      - arrimases
+      - arrimase
+      - "arrim\xE1semos"
+      - arrimaseis
+      - arrimasen
+      cjid: pisb2
+    - cjfs:
+      - arrimare
+      - arrimares
+      - arrimare
+      - "arrim\xE1remos"
+      - arrimareis
+      - arrimaren
+      cjid: fsub
+    - cjfs:
+      - he arrimado
+      - has arrimado
+      - ha arrimado
+      - hemos arrimado
+      - "hab\xE9is arrimado"
+      - han arrimado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrimado"
+      - "hab\xEDas arrimado"
+      - "hab\xEDa arrimado"
+      - "hab\xEDamos arrimado"
+      - "hab\xEDais arrimado"
+      - "hab\xEDan arrimado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrimado
+      - hubiste arrimado
+      - hubo arrimado
+      - hubimos arrimado
+      - hubisteis arrimado
+      - hubieron arrimado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrimado"
+      - "habr\xE1s arrimado"
+      - "habr\xE1 arrimado"
+      - habremos arrimado
+      - "habr\xE9is arrimado"
+      - "habr\xE1n arrimado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrimado"
+      - "habr\xEDas arrimado"
+      - "habr\xEDa arrimado"
+      - "habr\xEDamos arrimado"
+      - "habr\xEDais arrimado"
+      - "habr\xEDan arrimado"
+      cjid: cpef
+    - cjfs:
+      - haya arrimado
+      - hayas arrimado
+      - haya arrimado
+      - hayamos arrimado
+      - "hay\xE1is arrimado"
+      - hayan arrimado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrimado
+      - hubieras arrimado
+      - hubiera arrimado
+      - "hubi\xE9ramos arrimado"
+      - hubierais arrimado
+      - hubieran arrimado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrimado
+      - hubieses arrimado
+      - hubiese arrimado
+      - "hubi\xE9semos arrimado"
+      - hubieseis arrimado
+      - hubiesen arrimado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrimado
+      - hubieres arrimado
+      - hubiere arrimado
+      - "hubi\xE9remos arrimado"
+      - hubiereis arrimado
+      - hubieren arrimado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arrima
+      - arrime
+      - arrimemos
+      - arrimad
+      - arrimen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|shoulder} '
+          - - vis
+            - - t: encogerse de hombros
+                tr: to shrug one's shoulders
+              - t: hombro con hombro
+                tr: shoulder to shoulder
+              - t: "llev\xE9 mi hija en hombros"
+                tr: I carried my daughter on my shoulders
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lend a hand, to {a_link|pull one''s weight}'
+          sn: '2'
+          vrs:
+          - va: arrimar el hombro
+  fl: masculine noun
+  hwi:
+    hw: hombro
+    prs:
+    - sound:
+        audio: hombr02sp
+  meta:
+    id: hombro
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611594000'
+    src: spanish
+    stems:
+    - hombro
+    - arrimar el hombro
+    uuid: bc003f6e-1e16-4f02-a992-fd3ebd0b5481
+  shortdef:
+  - shoulder
+  - to lend a hand, to pull one's weight

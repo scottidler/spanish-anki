@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|feel}, to {a_link|grope}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|size up}, to {a_link|weigh}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to keep score'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to feel one''s way'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: tantear
+  meta:
+    id: tantear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621458000'
+    src: spanish
+    stems:
+    - tantear
+    uuid: 225b5e78-6485-4986-9ed6-54335f2b6a1d
+  shortdef:
+  - to feel, to grope
+  - to size up, to weigh
+  - to keep score
+  suppl:
+    cjts:
+    - cjfs:
+      - tanteando
+      - tanteado
+      cjid: gppt
+    - cjfs:
+      - tanteo
+      - tanteas
+      - tantea
+      - tanteamos
+      - "tante\xE1is"
+      - tantean
+      cjid: pind
+    - cjfs:
+      - tanteaba
+      - tanteabas
+      - tanteaba
+      - "tante\xE1bamos"
+      - tanteabais
+      - tanteaban
+      cjid: pret
+    - cjfs:
+      - "tante\xE9"
+      - tanteaste
+      - "tante\xF3"
+      - tanteamos
+      - tanteasteis
+      - tantearon
+      cjid: pprf
+    - cjfs:
+      - "tantear\xE9"
+      - "tantear\xE1s"
+      - "tantear\xE1"
+      - tantearemos
+      - "tantear\xE9is"
+      - "tantear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tantear\xEDa"
+      - "tantear\xEDas"
+      - "tantear\xEDa"
+      - "tantear\xEDamos"
+      - "tantear\xEDais"
+      - "tantear\xEDan"
+      cjid: cond
+    - cjfs:
+      - tantee
+      - tantees
+      - tantee
+      - tanteemos
+      - "tante\xE9is"
+      - tanteen
+      cjid: psub
+    - cjfs:
+      - tanteara
+      - tantearas
+      - tanteara
+      - "tante\xE1ramos"
+      - tantearais
+      - tantearan
+      cjid: pisb1
+    - cjfs:
+      - tantease
+      - tanteases
+      - tantease
+      - "tante\xE1semos"
+      - tanteaseis
+      - tanteasen
+      cjid: pisb2
+    - cjfs:
+      - tanteare
+      - tanteares
+      - tanteare
+      - "tante\xE1remos"
+      - tanteareis
+      - tantearen
+      cjid: fsub
+    - cjfs:
+      - he tanteado
+      - has tanteado
+      - ha tanteado
+      - hemos tanteado
+      - "hab\xE9is tanteado"
+      - han tanteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tanteado"
+      - "hab\xEDas tanteado"
+      - "hab\xEDa tanteado"
+      - "hab\xEDamos tanteado"
+      - "hab\xEDais tanteado"
+      - "hab\xEDan tanteado"
+      cjid: ppsi
+    - cjfs:
+      - hube tanteado
+      - hubiste tanteado
+      - hubo tanteado
+      - hubimos tanteado
+      - hubisteis tanteado
+      - hubieron tanteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tanteado"
+      - "habr\xE1s tanteado"
+      - "habr\xE1 tanteado"
+      - habremos tanteado
+      - "habr\xE9is tanteado"
+      - "habr\xE1n tanteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tanteado"
+      - "habr\xEDas tanteado"
+      - "habr\xEDa tanteado"
+      - "habr\xEDamos tanteado"
+      - "habr\xEDais tanteado"
+      - "habr\xEDan tanteado"
+      cjid: cpef
+    - cjfs:
+      - haya tanteado
+      - hayas tanteado
+      - haya tanteado
+      - hayamos tanteado
+      - "hay\xE1is tanteado"
+      - hayan tanteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tanteado
+      - hubieras tanteado
+      - hubiera tanteado
+      - "hubi\xE9ramos tanteado"
+      - hubierais tanteado
+      - hubieran tanteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tanteado
+      - hubieses tanteado
+      - hubiese tanteado
+      - "hubi\xE9semos tanteado"
+      - hubieseis tanteado
+      - hubiesen tanteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tanteado
+      - hubieres tanteado
+      - hubiere tanteado
+      - "hubi\xE9remos tanteado"
+      - hubiereis tanteado
+      - hubieren tanteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tantea
+      - tantee
+      - tanteemos
+      - tantead
+      - tanteen
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rise}, to {a_link|arise}, to {a_link|emerge}'
+  fl: intransitive verb
+  hwi:
+    hw: surgir
+    prs:
+    - sound:
+        audio: surgi02sp
+  meta:
+    id: surgir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621293000'
+    src: spanish
+    stems:
+    - surgir
+    uuid: 01bc343f-b4d5-41aa-86c1-5811a249059b
+  shortdef:
+  - to rise, to arise, to emerge
+  suppl:
+    cjts:
+    - cjfs:
+      - surgiendo
+      - surgido
+      cjid: gppt
+    - cjfs:
+      - surjo
+      - surges
+      - surge
+      - surgimos
+      - "surg\xEDs"
+      - surgen
+      cjid: pind
+    - cjfs:
+      - "surg\xEDa"
+      - "surg\xEDas"
+      - "surg\xEDa"
+      - "surg\xEDamos"
+      - "surg\xEDais"
+      - "surg\xEDan"
+      cjid: pret
+    - cjfs:
+      - "surg\xED"
+      - surgiste
+      - "surgi\xF3"
+      - surgimos
+      - surgisteis
+      - surgieron
+      cjid: pprf
+    - cjfs:
+      - "surgir\xE9"
+      - "surgir\xE1s"
+      - "surgir\xE1"
+      - surgiremos
+      - "surgir\xE9is"
+      - "surgir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "surgir\xEDa"
+      - "surgir\xEDas"
+      - "surgir\xEDa"
+      - "surgir\xEDamos"
+      - "surgir\xEDais"
+      - "surgir\xEDan"
+      cjid: cond
+    - cjfs:
+      - surja
+      - surjas
+      - surja
+      - surjamos
+      - "surj\xE1is"
+      - surjan
+      cjid: psub
+    - cjfs:
+      - surgiera
+      - surgieras
+      - surgiera
+      - "surgi\xE9ramos"
+      - surgierais
+      - surgieran
+      cjid: pisb1
+    - cjfs:
+      - surgiese
+      - surgieses
+      - surgiese
+      - "surgi\xE9semos"
+      - surgieseis
+      - surgiesen
+      cjid: pisb2
+    - cjfs:
+      - surgiere
+      - surgieres
+      - surgiere
+      - "surgi\xE9remos"
+      - surgiereis
+      - surgieren
+      cjid: fsub
+    - cjfs:
+      - he surgido
+      - has surgido
+      - ha surgido
+      - hemos surgido
+      - "hab\xE9is surgido"
+      - han surgido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa surgido"
+      - "hab\xEDas surgido"
+      - "hab\xEDa surgido"
+      - "hab\xEDamos surgido"
+      - "hab\xEDais surgido"
+      - "hab\xEDan surgido"
+      cjid: ppsi
+    - cjfs:
+      - hube surgido
+      - hubiste surgido
+      - hubo surgido
+      - hubimos surgido
+      - hubisteis surgido
+      - hubieron surgido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 surgido"
+      - "habr\xE1s surgido"
+      - "habr\xE1 surgido"
+      - habremos surgido
+      - "habr\xE9is surgido"
+      - "habr\xE1n surgido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa surgido"
+      - "habr\xEDas surgido"
+      - "habr\xEDa surgido"
+      - "habr\xEDamos surgido"
+      - "habr\xEDais surgido"
+      - "habr\xEDan surgido"
+      cjid: cpef
+    - cjfs:
+      - haya surgido
+      - hayas surgido
+      - haya surgido
+      - hayamos surgido
+      - "hay\xE1is surgido"
+      - hayan surgido
+      cjid: ppfs
+    - cjfs:
+      - hubiera surgido
+      - hubieras surgido
+      - hubiera surgido
+      - "hubi\xE9ramos surgido"
+      - hubierais surgido
+      - hubieran surgido
+      cjid: ppss1
+    - cjfs:
+      - hubiese surgido
+      - hubieses surgido
+      - hubiese surgido
+      - "hubi\xE9semos surgido"
+      - hubieseis surgido
+      - hubiesen surgido
+      cjid: ppss2
+    - cjfs:
+      - hubiere surgido
+      - hubieres surgido
+      - hubiere surgido
+      - "hubi\xE9remos surgido"
+      - hubiereis surgido
+      - hubieren surgido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - surge
+      - surja
+      - surjamos
+      - surgid
+      - surjan
+      cjid: impf

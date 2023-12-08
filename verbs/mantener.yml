@@ -1,0 +1,230 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|sustentar||} {bc}to {a_link|support}, to {a_link|feed} '
+          - - vis
+            - - t: mantener uno su familia
+                tr: to support one's family
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conservar||} {bc}to {a_link|keep}, to {a_link|preserve} '
+          - - vis
+            - - t: mantener la calma
+                tr: to keep one's calm
+              - t: mantener la paz
+                tr: to keep the peace
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|continuar||} {bc}to {a_link|keep up}, to {a_link|sustain} '
+          - - vis
+            - - t: mantener una correspondencia
+                tr: to keep up a correspondence
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|afirmar||} {bc}to {a_link|maintain}, to {a_link|affirm}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to support oneself, to {a_link|subsist}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to hold one''s ground'
+            sn: '2'
+            vrs:
+            - va: mantenerse firme
+    drp: mantenerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: mantener
+    prs:
+    - sound:
+        audio: mante05sp
+  meta:
+    id: mantener
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614399000'
+    src: spanish
+    stems:
+    - mantener
+    - mantenerse
+    - mantenerse firme
+    uuid: 4510cb89-df7b-48a9-98b8-4e1a6a0bd01a
+  shortdef:
+  - 'sustentar : to support, to feed'
+  - 'conservar : to keep, to preserve'
+  - 'continuar : to keep up, to sustain'
+  suppl:
+    cjts:
+    - cjfs:
+      - manteniendo
+      - mantenido
+      cjid: gppt
+    - cjfs:
+      - mantengo
+      - mantienes
+      - mantiene
+      - mantenemos
+      - "manten\xE9is"
+      - mantienen
+      cjid: pind
+    - cjfs:
+      - "manten\xEDa"
+      - "manten\xEDas"
+      - "manten\xEDa"
+      - "manten\xEDamos"
+      - "manten\xEDais"
+      - "manten\xEDan"
+      cjid: pret
+    - cjfs:
+      - mantuve
+      - mantuviste
+      - mantuvo
+      - mantuvimos
+      - mantuvisteis
+      - mantuvieron
+      cjid: pprf
+    - cjfs:
+      - "mantendr\xE9"
+      - "mantendr\xE1s"
+      - "mantendr\xE1"
+      - mantendremos
+      - "mantendr\xE9is"
+      - "mantendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mantendr\xEDa"
+      - "mantendr\xEDas"
+      - "mantendr\xEDa"
+      - "mantendr\xEDamos"
+      - "mantendr\xEDais"
+      - "mantendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - mantenga
+      - mantengas
+      - mantenga
+      - mantengamos
+      - "manteng\xE1is"
+      - mantengan
+      cjid: psub
+    - cjfs:
+      - mantuviera
+      - mantuvieras
+      - mantuviera
+      - "mantuvi\xE9ramos"
+      - mantuvierais
+      - mantuvieran
+      cjid: pisb1
+    - cjfs:
+      - mantuviese
+      - mantuvieses
+      - mantuviese
+      - "mantuvi\xE9semos"
+      - mantuvieseis
+      - mantuviesen
+      cjid: pisb2
+    - cjfs:
+      - mantuviere
+      - mantuvieres
+      - mantuviere
+      - "mantuvi\xE9remos"
+      - mantuviereis
+      - mantuvieren
+      cjid: fsub
+    - cjfs:
+      - he mantenido
+      - has mantenido
+      - ha mantenido
+      - hemos mantenido
+      - "hab\xE9is mantenido"
+      - han mantenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mantenido"
+      - "hab\xEDas mantenido"
+      - "hab\xEDa mantenido"
+      - "hab\xEDamos mantenido"
+      - "hab\xEDais mantenido"
+      - "hab\xEDan mantenido"
+      cjid: ppsi
+    - cjfs:
+      - hube mantenido
+      - hubiste mantenido
+      - hubo mantenido
+      - hubimos mantenido
+      - hubisteis mantenido
+      - hubieron mantenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mantenido"
+      - "habr\xE1s mantenido"
+      - "habr\xE1 mantenido"
+      - habremos mantenido
+      - "habr\xE9is mantenido"
+      - "habr\xE1n mantenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mantenido"
+      - "habr\xEDas mantenido"
+      - "habr\xEDa mantenido"
+      - "habr\xEDamos mantenido"
+      - "habr\xEDais mantenido"
+      - "habr\xEDan mantenido"
+      cjid: cpef
+    - cjfs:
+      - haya mantenido
+      - hayas mantenido
+      - haya mantenido
+      - hayamos mantenido
+      - "hay\xE1is mantenido"
+      - hayan mantenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera mantenido
+      - hubieras mantenido
+      - hubiera mantenido
+      - "hubi\xE9ramos mantenido"
+      - hubierais mantenido
+      - hubieran mantenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese mantenido
+      - hubieses mantenido
+      - hubiese mantenido
+      - "hubi\xE9semos mantenido"
+      - hubieseis mantenido
+      - hubiesen mantenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere mantenido
+      - hubieres mantenido
+      - hubiere mantenido
+      - "hubi\xE9remos mantenido"
+      - hubiereis mantenido
+      - hubieren mantenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "mant\xE9n"
+      - mantenga
+      - mantengamos
+      - mantened
+      - mantengan
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flank}'
+  fl: transitive verb
+  hwi:
+    hw: flanquear
+  meta:
+    id: flanquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610191000'
+    src: spanish
+    stems:
+    - flanquear
+    uuid: 86cc2fc9-ec34-4c80-b4fc-0b28d5a2e089
+  shortdef:
+  - to flank
+  suppl:
+    cjts:
+    - cjfs:
+      - flanqueando
+      - flanqueado
+      cjid: gppt
+    - cjfs:
+      - flanqueo
+      - flanqueas
+      - flanquea
+      - flanqueamos
+      - "flanque\xE1is"
+      - flanquean
+      cjid: pind
+    - cjfs:
+      - flanqueaba
+      - flanqueabas
+      - flanqueaba
+      - "flanque\xE1bamos"
+      - flanqueabais
+      - flanqueaban
+      cjid: pret
+    - cjfs:
+      - "flanque\xE9"
+      - flanqueaste
+      - "flanque\xF3"
+      - flanqueamos
+      - flanqueasteis
+      - flanquearon
+      cjid: pprf
+    - cjfs:
+      - "flanquear\xE9"
+      - "flanquear\xE1s"
+      - "flanquear\xE1"
+      - flanquearemos
+      - "flanquear\xE9is"
+      - "flanquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "flanquear\xEDa"
+      - "flanquear\xEDas"
+      - "flanquear\xEDa"
+      - "flanquear\xEDamos"
+      - "flanquear\xEDais"
+      - "flanquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - flanquee
+      - flanquees
+      - flanquee
+      - flanqueemos
+      - "flanque\xE9is"
+      - flanqueen
+      cjid: psub
+    - cjfs:
+      - flanqueara
+      - flanquearas
+      - flanqueara
+      - "flanque\xE1ramos"
+      - flanquearais
+      - flanquearan
+      cjid: pisb1
+    - cjfs:
+      - flanquease
+      - flanqueases
+      - flanquease
+      - "flanque\xE1semos"
+      - flanqueaseis
+      - flanqueasen
+      cjid: pisb2
+    - cjfs:
+      - flanqueare
+      - flanqueares
+      - flanqueare
+      - "flanque\xE1remos"
+      - flanqueareis
+      - flanquearen
+      cjid: fsub
+    - cjfs:
+      - he flanqueado
+      - has flanqueado
+      - ha flanqueado
+      - hemos flanqueado
+      - "hab\xE9is flanqueado"
+      - han flanqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa flanqueado"
+      - "hab\xEDas flanqueado"
+      - "hab\xEDa flanqueado"
+      - "hab\xEDamos flanqueado"
+      - "hab\xEDais flanqueado"
+      - "hab\xEDan flanqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube flanqueado
+      - hubiste flanqueado
+      - hubo flanqueado
+      - hubimos flanqueado
+      - hubisteis flanqueado
+      - hubieron flanqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 flanqueado"
+      - "habr\xE1s flanqueado"
+      - "habr\xE1 flanqueado"
+      - habremos flanqueado
+      - "habr\xE9is flanqueado"
+      - "habr\xE1n flanqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa flanqueado"
+      - "habr\xEDas flanqueado"
+      - "habr\xEDa flanqueado"
+      - "habr\xEDamos flanqueado"
+      - "habr\xEDais flanqueado"
+      - "habr\xEDan flanqueado"
+      cjid: cpef
+    - cjfs:
+      - haya flanqueado
+      - hayas flanqueado
+      - haya flanqueado
+      - hayamos flanqueado
+      - "hay\xE1is flanqueado"
+      - hayan flanqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera flanqueado
+      - hubieras flanqueado
+      - hubiera flanqueado
+      - "hubi\xE9ramos flanqueado"
+      - hubierais flanqueado
+      - hubieran flanqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese flanqueado
+      - hubieses flanqueado
+      - hubiese flanqueado
+      - "hubi\xE9semos flanqueado"
+      - hubieseis flanqueado
+      - hubiesen flanqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere flanqueado
+      - hubieres flanqueado
+      - hubiere flanqueado
+      - "hubi\xE9remos flanqueado"
+      - hubiereis flanqueado
+      - hubieren flanqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - flanquea
+      - flanquee
+      - flanqueemos
+      - flanquead
+      - flanqueen
+      cjid: impf

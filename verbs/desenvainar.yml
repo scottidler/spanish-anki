@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw}, to {a_link|unsheathe} (a sword)'
+  fl: transitive verb
+  hwi:
+    hw: desenvainar
+  meta:
+    id: desenvainar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607051000'
+    src: spanish
+    stems:
+    - desenvainar
+    uuid: 1bc567f7-e33b-4adc-a716-957379e197b4
+  shortdef:
+  - to draw, to unsheathe (a sword)
+  suppl:
+    cjts:
+    - cjfs:
+      - desenvainando
+      - desenvainado
+      cjid: gppt
+    - cjfs:
+      - desenvaino
+      - desenvainas
+      - desenvaina
+      - desenvainamos
+      - "desenvain\xE1is"
+      - desenvainan
+      cjid: pind
+    - cjfs:
+      - desenvainaba
+      - desenvainabas
+      - desenvainaba
+      - "desenvain\xE1bamos"
+      - desenvainabais
+      - desenvainaban
+      cjid: pret
+    - cjfs:
+      - "desenvain\xE9"
+      - desenvainaste
+      - "desenvain\xF3"
+      - desenvainamos
+      - desenvainasteis
+      - desenvainaron
+      cjid: pprf
+    - cjfs:
+      - "desenvainar\xE9"
+      - "desenvainar\xE1s"
+      - "desenvainar\xE1"
+      - desenvainaremos
+      - "desenvainar\xE9is"
+      - "desenvainar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desenvainar\xEDa"
+      - "desenvainar\xEDas"
+      - "desenvainar\xEDa"
+      - "desenvainar\xEDamos"
+      - "desenvainar\xEDais"
+      - "desenvainar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desenvaine
+      - desenvaines
+      - desenvaine
+      - desenvainemos
+      - "desenvain\xE9is"
+      - desenvainen
+      cjid: psub
+    - cjfs:
+      - desenvainara
+      - desenvainaras
+      - desenvainara
+      - "desenvain\xE1ramos"
+      - desenvainarais
+      - desenvainaran
+      cjid: pisb1
+    - cjfs:
+      - desenvainase
+      - desenvainases
+      - desenvainase
+      - "desenvain\xE1semos"
+      - desenvainaseis
+      - desenvainasen
+      cjid: pisb2
+    - cjfs:
+      - desenvainare
+      - desenvainares
+      - desenvainare
+      - "desenvain\xE1remos"
+      - desenvainareis
+      - desenvainaren
+      cjid: fsub
+    - cjfs:
+      - he desenvainado
+      - has desenvainado
+      - ha desenvainado
+      - hemos desenvainado
+      - "hab\xE9is desenvainado"
+      - han desenvainado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desenvainado"
+      - "hab\xEDas desenvainado"
+      - "hab\xEDa desenvainado"
+      - "hab\xEDamos desenvainado"
+      - "hab\xEDais desenvainado"
+      - "hab\xEDan desenvainado"
+      cjid: ppsi
+    - cjfs:
+      - hube desenvainado
+      - hubiste desenvainado
+      - hubo desenvainado
+      - hubimos desenvainado
+      - hubisteis desenvainado
+      - hubieron desenvainado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desenvainado"
+      - "habr\xE1s desenvainado"
+      - "habr\xE1 desenvainado"
+      - habremos desenvainado
+      - "habr\xE9is desenvainado"
+      - "habr\xE1n desenvainado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desenvainado"
+      - "habr\xEDas desenvainado"
+      - "habr\xEDa desenvainado"
+      - "habr\xEDamos desenvainado"
+      - "habr\xEDais desenvainado"
+      - "habr\xEDan desenvainado"
+      cjid: cpef
+    - cjfs:
+      - haya desenvainado
+      - hayas desenvainado
+      - haya desenvainado
+      - hayamos desenvainado
+      - "hay\xE1is desenvainado"
+      - hayan desenvainado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desenvainado
+      - hubieras desenvainado
+      - hubiera desenvainado
+      - "hubi\xE9ramos desenvainado"
+      - hubierais desenvainado
+      - hubieran desenvainado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desenvainado
+      - hubieses desenvainado
+      - hubiese desenvainado
+      - "hubi\xE9semos desenvainado"
+      - hubieseis desenvainado
+      - hubiesen desenvainado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desenvainado
+      - hubieres desenvainado
+      - hubiere desenvainado
+      - "hubi\xE9remos desenvainado"
+      - hubiereis desenvainado
+      - hubieren desenvainado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desenvaina
+      - desenvaine
+      - desenvainemos
+      - desenvainad
+      - desenvainen
+      cjid: impf

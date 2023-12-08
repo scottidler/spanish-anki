@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mitigar||} {bc}to {a_link|relieve}, to {a_link|alleviate}, to {a_link|soothe}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|recover}, to get better'
+    drp: aliviarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aliviar
+    prs:
+    - sound:
+        audio: alivi01sp
+  meta:
+    id: aliviar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601043000'
+    src: spanish
+    stems:
+    - aliviar
+    - aliviarse
+    uuid: 0f4cf5de-9a2f-4feb-997b-ee1c72709413
+  shortdef:
+  - 'mitigar : to relieve, to alleviate, to soothe'
+  suppl:
+    cjts:
+    - cjfs:
+      - aliviando
+      - aliviado
+      cjid: gppt
+    - cjfs:
+      - alivio
+      - alivias
+      - alivia
+      - aliviamos
+      - "alivi\xE1is"
+      - alivian
+      cjid: pind
+    - cjfs:
+      - aliviaba
+      - aliviabas
+      - aliviaba
+      - "alivi\xE1bamos"
+      - aliviabais
+      - aliviaban
+      cjid: pret
+    - cjfs:
+      - "alivi\xE9"
+      - aliviaste
+      - "alivi\xF3"
+      - aliviamos
+      - aliviasteis
+      - aliviaron
+      cjid: pprf
+    - cjfs:
+      - "aliviar\xE9"
+      - "aliviar\xE1s"
+      - "aliviar\xE1"
+      - aliviaremos
+      - "aliviar\xE9is"
+      - "aliviar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aliviar\xEDa"
+      - "aliviar\xEDas"
+      - "aliviar\xEDa"
+      - "aliviar\xEDamos"
+      - "aliviar\xEDais"
+      - "aliviar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alivie
+      - alivies
+      - alivie
+      - aliviemos
+      - "alivi\xE9is"
+      - alivien
+      cjid: psub
+    - cjfs:
+      - aliviara
+      - aliviaras
+      - aliviara
+      - "alivi\xE1ramos"
+      - aliviarais
+      - aliviaran
+      cjid: pisb1
+    - cjfs:
+      - aliviase
+      - aliviases
+      - aliviase
+      - "alivi\xE1semos"
+      - aliviaseis
+      - aliviasen
+      cjid: pisb2
+    - cjfs:
+      - aliviare
+      - aliviares
+      - aliviare
+      - "alivi\xE1remos"
+      - aliviareis
+      - aliviaren
+      cjid: fsub
+    - cjfs:
+      - he aliviado
+      - has aliviado
+      - ha aliviado
+      - hemos aliviado
+      - "hab\xE9is aliviado"
+      - han aliviado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aliviado"
+      - "hab\xEDas aliviado"
+      - "hab\xEDa aliviado"
+      - "hab\xEDamos aliviado"
+      - "hab\xEDais aliviado"
+      - "hab\xEDan aliviado"
+      cjid: ppsi
+    - cjfs:
+      - hube aliviado
+      - hubiste aliviado
+      - hubo aliviado
+      - hubimos aliviado
+      - hubisteis aliviado
+      - hubieron aliviado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aliviado"
+      - "habr\xE1s aliviado"
+      - "habr\xE1 aliviado"
+      - habremos aliviado
+      - "habr\xE9is aliviado"
+      - "habr\xE1n aliviado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aliviado"
+      - "habr\xEDas aliviado"
+      - "habr\xEDa aliviado"
+      - "habr\xEDamos aliviado"
+      - "habr\xEDais aliviado"
+      - "habr\xEDan aliviado"
+      cjid: cpef
+    - cjfs:
+      - haya aliviado
+      - hayas aliviado
+      - haya aliviado
+      - hayamos aliviado
+      - "hay\xE1is aliviado"
+      - hayan aliviado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aliviado
+      - hubieras aliviado
+      - hubiera aliviado
+      - "hubi\xE9ramos aliviado"
+      - hubierais aliviado
+      - hubieran aliviado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aliviado
+      - hubieses aliviado
+      - hubiese aliviado
+      - "hubi\xE9semos aliviado"
+      - hubieseis aliviado
+      - hubiesen aliviado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aliviado
+      - hubieres aliviado
+      - hubiere aliviado
+      - "hubi\xE9remos aliviado"
+      - hubiereis aliviado
+      - hubieren aliviado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alivia
+      - alivie
+      - aliviemos
+      - aliviad
+      - alivien
+      cjid: impf

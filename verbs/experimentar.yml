@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|experiment}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to experiment with, to test out'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|experience}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: experimentar
+    prs:
+    - sound:
+        audio: exper02sp
+  meta:
+    id: experimentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609678000'
+    src: spanish
+    stems:
+    - experimentar
+    uuid: ebb420eb-fb24-4d90-8ea6-9ca2f52f9589
+  shortdef:
+  - to experiment
+  - to experiment with, to test out
+  - to experience
+  suppl:
+    cjts:
+    - cjfs:
+      - experimentando
+      - experimentado
+      cjid: gppt
+    - cjfs:
+      - experimento
+      - experimentas
+      - experimenta
+      - experimentamos
+      - "experiment\xE1is"
+      - experimentan
+      cjid: pind
+    - cjfs:
+      - experimentaba
+      - experimentabas
+      - experimentaba
+      - "experiment\xE1bamos"
+      - experimentabais
+      - experimentaban
+      cjid: pret
+    - cjfs:
+      - "experiment\xE9"
+      - experimentaste
+      - "experiment\xF3"
+      - experimentamos
+      - experimentasteis
+      - experimentaron
+      cjid: pprf
+    - cjfs:
+      - "experimentar\xE9"
+      - "experimentar\xE1s"
+      - "experimentar\xE1"
+      - experimentaremos
+      - "experimentar\xE9is"
+      - "experimentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "experimentar\xEDa"
+      - "experimentar\xEDas"
+      - "experimentar\xEDa"
+      - "experimentar\xEDamos"
+      - "experimentar\xEDais"
+      - "experimentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - experimente
+      - experimentes
+      - experimente
+      - experimentemos
+      - "experiment\xE9is"
+      - experimenten
+      cjid: psub
+    - cjfs:
+      - experimentara
+      - experimentaras
+      - experimentara
+      - "experiment\xE1ramos"
+      - experimentarais
+      - experimentaran
+      cjid: pisb1
+    - cjfs:
+      - experimentase
+      - experimentases
+      - experimentase
+      - "experiment\xE1semos"
+      - experimentaseis
+      - experimentasen
+      cjid: pisb2
+    - cjfs:
+      - experimentare
+      - experimentares
+      - experimentare
+      - "experiment\xE1remos"
+      - experimentareis
+      - experimentaren
+      cjid: fsub
+    - cjfs:
+      - he experimentado
+      - has experimentado
+      - ha experimentado
+      - hemos experimentado
+      - "hab\xE9is experimentado"
+      - han experimentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa experimentado"
+      - "hab\xEDas experimentado"
+      - "hab\xEDa experimentado"
+      - "hab\xEDamos experimentado"
+      - "hab\xEDais experimentado"
+      - "hab\xEDan experimentado"
+      cjid: ppsi
+    - cjfs:
+      - hube experimentado
+      - hubiste experimentado
+      - hubo experimentado
+      - hubimos experimentado
+      - hubisteis experimentado
+      - hubieron experimentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 experimentado"
+      - "habr\xE1s experimentado"
+      - "habr\xE1 experimentado"
+      - habremos experimentado
+      - "habr\xE9is experimentado"
+      - "habr\xE1n experimentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa experimentado"
+      - "habr\xEDas experimentado"
+      - "habr\xEDa experimentado"
+      - "habr\xEDamos experimentado"
+      - "habr\xEDais experimentado"
+      - "habr\xEDan experimentado"
+      cjid: cpef
+    - cjfs:
+      - haya experimentado
+      - hayas experimentado
+      - haya experimentado
+      - hayamos experimentado
+      - "hay\xE1is experimentado"
+      - hayan experimentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera experimentado
+      - hubieras experimentado
+      - hubiera experimentado
+      - "hubi\xE9ramos experimentado"
+      - hubierais experimentado
+      - hubieran experimentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese experimentado
+      - hubieses experimentado
+      - hubiese experimentado
+      - "hubi\xE9semos experimentado"
+      - hubieseis experimentado
+      - hubiesen experimentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere experimentado
+      - hubieres experimentado
+      - hubiere experimentado
+      - "hubi\xE9remos experimentado"
+      - hubiereis experimentado
+      - hubieren experimentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - experimenta
+      - experimente
+      - experimentemos
+      - experimentad
+      - experimenten
+      cjid: impf

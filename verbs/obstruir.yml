@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|bloquear||} {bc}to {a_link|obstruct}, to {a_link|block}, to {a_link|clog}'
+  fl: transitive verb
+  hwi:
+    hw: obstruir
+    prs:
+    - sound:
+        audio: obstr01sp
+  meta:
+    id: obstruir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616037000'
+    src: spanish
+    stems:
+    - obstruir
+    - obstruirse
+    uuid: c310315c-74dc-4b61-9e69-69826bfee045
+  shortdef:
+  - 'bloquear : to obstruct, to block, to clog'
+  suppl:
+    cjts:
+    - cjfs:
+      - obstruyendo
+      - obstruido
+      cjid: gppt
+    - cjfs:
+      - obstruyo
+      - obstruyes
+      - obstruye
+      - obstruimos
+      - "obstru\xEDs"
+      - obstruyen
+      cjid: pind
+    - cjfs:
+      - "obstru\xEDa"
+      - "obstru\xEDas"
+      - "obstru\xEDa"
+      - "obstru\xEDamos"
+      - "obstru\xEDais"
+      - "obstru\xEDan"
+      cjid: pret
+    - cjfs:
+      - "obstru\xED"
+      - obstruiste
+      - "obstruy\xF3"
+      - obstruimos
+      - obstruisteis
+      - obstruyeron
+      cjid: pprf
+    - cjfs:
+      - "obstruir\xE9"
+      - "obstruir\xE1s"
+      - "obstruir\xE1"
+      - obstruiremos
+      - "obstruir\xE9is"
+      - "obstruir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "obstruir\xEDa"
+      - "obstruir\xEDas"
+      - "obstruir\xEDa"
+      - "obstruir\xEDamos"
+      - "obstruir\xEDais"
+      - "obstruir\xEDan"
+      cjid: cond
+    - cjfs:
+      - obstruya
+      - obstruyas
+      - obstruya
+      - obstruyamos
+      - "obstruy\xE1is"
+      - obstruyan
+      cjid: psub
+    - cjfs:
+      - obstruyera
+      - obstruyeras
+      - obstruyera
+      - "obstruy\xE9ramos"
+      - obstruyerais
+      - obstruyeran
+      cjid: pisb1
+    - cjfs:
+      - obstruyese
+      - obstruyeses
+      - obstruyese
+      - "obstruy\xE9semos"
+      - obstruyeseis
+      - obstruyesen
+      cjid: pisb2
+    - cjfs:
+      - obstruyere
+      - obstruyeres
+      - obstruyere
+      - "obstruy\xE9remos"
+      - obstruyereis
+      - obstruyeren
+      cjid: fsub
+    - cjfs:
+      - he obstruido
+      - has obstruido
+      - ha obstruido
+      - hemos obstruido
+      - "hab\xE9is obstruido"
+      - han obstruido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa obstruido"
+      - "hab\xEDas obstruido"
+      - "hab\xEDa obstruido"
+      - "hab\xEDamos obstruido"
+      - "hab\xEDais obstruido"
+      - "hab\xEDan obstruido"
+      cjid: ppsi
+    - cjfs:
+      - hube obstruido
+      - hubiste obstruido
+      - hubo obstruido
+      - hubimos obstruido
+      - hubisteis obstruido
+      - hubieron obstruido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 obstruido"
+      - "habr\xE1s obstruido"
+      - "habr\xE1 obstruido"
+      - habremos obstruido
+      - "habr\xE9is obstruido"
+      - "habr\xE1n obstruido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa obstruido"
+      - "habr\xEDas obstruido"
+      - "habr\xEDa obstruido"
+      - "habr\xEDamos obstruido"
+      - "habr\xEDais obstruido"
+      - "habr\xEDan obstruido"
+      cjid: cpef
+    - cjfs:
+      - haya obstruido
+      - hayas obstruido
+      - haya obstruido
+      - hayamos obstruido
+      - "hay\xE1is obstruido"
+      - hayan obstruido
+      cjid: ppfs
+    - cjfs:
+      - hubiera obstruido
+      - hubieras obstruido
+      - hubiera obstruido
+      - "hubi\xE9ramos obstruido"
+      - hubierais obstruido
+      - hubieran obstruido
+      cjid: ppss1
+    - cjfs:
+      - hubiese obstruido
+      - hubieses obstruido
+      - hubiese obstruido
+      - "hubi\xE9semos obstruido"
+      - hubieseis obstruido
+      - hubiesen obstruido
+      cjid: ppss2
+    - cjfs:
+      - hubiere obstruido
+      - hubieres obstruido
+      - hubiere obstruido
+      - "hubi\xE9remos obstruido"
+      - hubiereis obstruido
+      - hubieren obstruido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - obstruye
+      - obstruya
+      - obstruyamos
+      - obstruid
+      - obstruyan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: obstruirse

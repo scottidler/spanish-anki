@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|risk}, to {a_link|venture}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take a chance'
+    drp: arriesgarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arriesgar
+    prs:
+    - sound:
+        audio: arrie04sp
+  meta:
+    id: arriesgar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602021000'
+    src: spanish
+    stems:
+    - arriesgar
+    - arriesgarse
+    uuid: 90ac964e-849e-44e0-bb2b-ecc815d02d60
+  shortdef:
+  - to risk, to venture
+  suppl:
+    cjts:
+    - cjfs:
+      - arriesgando
+      - arriesgado
+      cjid: gppt
+    - cjfs:
+      - arriesgo
+      - arriesgas
+      - arriesga
+      - arriesgamos
+      - "arriesg\xE1is"
+      - arriesgan
+      cjid: pind
+    - cjfs:
+      - arriesgaba
+      - arriesgabas
+      - arriesgaba
+      - "arriesg\xE1bamos"
+      - arriesgabais
+      - arriesgaban
+      cjid: pret
+    - cjfs:
+      - "arriesgu\xE9"
+      - arriesgaste
+      - "arriesg\xF3"
+      - arriesgamos
+      - arriesgasteis
+      - arriesgaron
+      cjid: pprf
+    - cjfs:
+      - "arriesgar\xE9"
+      - "arriesgar\xE1s"
+      - "arriesgar\xE1"
+      - arriesgaremos
+      - "arriesgar\xE9is"
+      - "arriesgar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arriesgar\xEDa"
+      - "arriesgar\xEDas"
+      - "arriesgar\xEDa"
+      - "arriesgar\xEDamos"
+      - "arriesgar\xEDais"
+      - "arriesgar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arriesgue
+      - arriesgues
+      - arriesgue
+      - arriesguemos
+      - "arriesgu\xE9is"
+      - arriesguen
+      cjid: psub
+    - cjfs:
+      - arriesgara
+      - arriesgaras
+      - arriesgara
+      - "arriesg\xE1ramos"
+      - arriesgarais
+      - arriesgaran
+      cjid: pisb1
+    - cjfs:
+      - arriesgase
+      - arriesgases
+      - arriesgase
+      - "arriesg\xE1semos"
+      - arriesgaseis
+      - arriesgasen
+      cjid: pisb2
+    - cjfs:
+      - arriesgare
+      - arriesgares
+      - arriesgare
+      - "arriesg\xE1remos"
+      - arriesgareis
+      - arriesgaren
+      cjid: fsub
+    - cjfs:
+      - he arriesgado
+      - has arriesgado
+      - ha arriesgado
+      - hemos arriesgado
+      - "hab\xE9is arriesgado"
+      - han arriesgado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arriesgado"
+      - "hab\xEDas arriesgado"
+      - "hab\xEDa arriesgado"
+      - "hab\xEDamos arriesgado"
+      - "hab\xEDais arriesgado"
+      - "hab\xEDan arriesgado"
+      cjid: ppsi
+    - cjfs:
+      - hube arriesgado
+      - hubiste arriesgado
+      - hubo arriesgado
+      - hubimos arriesgado
+      - hubisteis arriesgado
+      - hubieron arriesgado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arriesgado"
+      - "habr\xE1s arriesgado"
+      - "habr\xE1 arriesgado"
+      - habremos arriesgado
+      - "habr\xE9is arriesgado"
+      - "habr\xE1n arriesgado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arriesgado"
+      - "habr\xEDas arriesgado"
+      - "habr\xEDa arriesgado"
+      - "habr\xEDamos arriesgado"
+      - "habr\xEDais arriesgado"
+      - "habr\xEDan arriesgado"
+      cjid: cpef
+    - cjfs:
+      - haya arriesgado
+      - hayas arriesgado
+      - haya arriesgado
+      - hayamos arriesgado
+      - "hay\xE1is arriesgado"
+      - hayan arriesgado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arriesgado
+      - hubieras arriesgado
+      - hubiera arriesgado
+      - "hubi\xE9ramos arriesgado"
+      - hubierais arriesgado
+      - hubieran arriesgado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arriesgado
+      - hubieses arriesgado
+      - hubiese arriesgado
+      - "hubi\xE9semos arriesgado"
+      - hubieseis arriesgado
+      - hubiesen arriesgado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arriesgado
+      - hubieres arriesgado
+      - hubiere arriesgado
+      - "hubi\xE9remos arriesgado"
+      - hubiereis arriesgado
+      - hubieren arriesgado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arriesga
+      - arriesgue
+      - arriesguemos
+      - arriesgad
+      - arriesguen
+      cjid: impf

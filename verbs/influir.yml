@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|influence}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have an influence on, to {a_link|affect}'
+          vrs:
+          - va: influir en
+            vac: ~ en
+          - va: influir sobre
+            vac: ~ sobre
+            vl: or
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: influir
+    prs:
+    - sound:
+        audio: influ04sp
+  meta:
+    id: influir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612462000'
+    src: spanish
+    stems:
+    - influir
+    - influir en
+    - influir sobre
+    uuid: 44b18670-96f9-4129-b342-5c28d749224d
+  shortdef:
+  - to influence
+  - to have an influence on, to affect
+  suppl:
+    cjts:
+    - cjfs:
+      - influyendo
+      - influido
+      cjid: gppt
+    - cjfs:
+      - influyo
+      - influyes
+      - influye
+      - influimos
+      - "influ\xEDs"
+      - influyen
+      cjid: pind
+    - cjfs:
+      - "influ\xEDa"
+      - "influ\xEDas"
+      - "influ\xEDa"
+      - "influ\xEDamos"
+      - "influ\xEDais"
+      - "influ\xEDan"
+      cjid: pret
+    - cjfs:
+      - "influ\xED"
+      - influiste
+      - "influy\xF3"
+      - influimos
+      - influisteis
+      - influyeron
+      cjid: pprf
+    - cjfs:
+      - "influir\xE9"
+      - "influir\xE1s"
+      - "influir\xE1"
+      - influiremos
+      - "influir\xE9is"
+      - "influir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "influir\xEDa"
+      - "influir\xEDas"
+      - "influir\xEDa"
+      - "influir\xEDamos"
+      - "influir\xEDais"
+      - "influir\xEDan"
+      cjid: cond
+    - cjfs:
+      - influya
+      - influyas
+      - influya
+      - influyamos
+      - "influy\xE1is"
+      - influyan
+      cjid: psub
+    - cjfs:
+      - influyera
+      - influyeras
+      - influyera
+      - "influy\xE9ramos"
+      - influyerais
+      - influyeran
+      cjid: pisb1
+    - cjfs:
+      - influyese
+      - influyeses
+      - influyese
+      - "influy\xE9semos"
+      - influyeseis
+      - influyesen
+      cjid: pisb2
+    - cjfs:
+      - influyere
+      - influyeres
+      - influyere
+      - "influy\xE9remos"
+      - influyereis
+      - influyeren
+      cjid: fsub
+    - cjfs:
+      - he influido
+      - has influido
+      - ha influido
+      - hemos influido
+      - "hab\xE9is influido"
+      - han influido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa influido"
+      - "hab\xEDas influido"
+      - "hab\xEDa influido"
+      - "hab\xEDamos influido"
+      - "hab\xEDais influido"
+      - "hab\xEDan influido"
+      cjid: ppsi
+    - cjfs:
+      - hube influido
+      - hubiste influido
+      - hubo influido
+      - hubimos influido
+      - hubisteis influido
+      - hubieron influido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 influido"
+      - "habr\xE1s influido"
+      - "habr\xE1 influido"
+      - habremos influido
+      - "habr\xE9is influido"
+      - "habr\xE1n influido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa influido"
+      - "habr\xEDas influido"
+      - "habr\xEDa influido"
+      - "habr\xEDamos influido"
+      - "habr\xEDais influido"
+      - "habr\xEDan influido"
+      cjid: cpef
+    - cjfs:
+      - haya influido
+      - hayas influido
+      - haya influido
+      - hayamos influido
+      - "hay\xE1is influido"
+      - hayan influido
+      cjid: ppfs
+    - cjfs:
+      - hubiera influido
+      - hubieras influido
+      - hubiera influido
+      - "hubi\xE9ramos influido"
+      - hubierais influido
+      - hubieran influido
+      cjid: ppss1
+    - cjfs:
+      - hubiese influido
+      - hubieses influido
+      - hubiese influido
+      - "hubi\xE9semos influido"
+      - hubieseis influido
+      - hubiesen influido
+      cjid: ppss2
+    - cjfs:
+      - hubiere influido
+      - hubieres influido
+      - hubiere influido
+      - "hubi\xE9remos influido"
+      - hubiereis influido
+      - hubieren influido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - influye
+      - influya
+      - influyamos
+      - influid
+      - influyan
+      cjid: impf

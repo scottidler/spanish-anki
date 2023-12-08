@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|converge}, to {a_link|join}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gather}, to {a_link|assemble}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: confluir
+  meta:
+    id: confluir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605477000'
+    src: spanish
+    stems:
+    - confluir
+    uuid: 6690a290-ef05-4b88-a015-744ace0cd536
+  shortdef:
+  - to converge, to join
+  - to gather, to assemble
+  suppl:
+    cjts:
+    - cjfs:
+      - confluyendo
+      - confluido
+      cjid: gppt
+    - cjfs:
+      - confluyo
+      - confluyes
+      - confluye
+      - confluimos
+      - "conflu\xEDs"
+      - confluyen
+      cjid: pind
+    - cjfs:
+      - "conflu\xEDa"
+      - "conflu\xEDas"
+      - "conflu\xEDa"
+      - "conflu\xEDamos"
+      - "conflu\xEDais"
+      - "conflu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "conflu\xED"
+      - confluiste
+      - "confluy\xF3"
+      - confluimos
+      - confluisteis
+      - confluyeron
+      cjid: pprf
+    - cjfs:
+      - "confluir\xE9"
+      - "confluir\xE1s"
+      - "confluir\xE1"
+      - confluiremos
+      - "confluir\xE9is"
+      - "confluir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "confluir\xEDa"
+      - "confluir\xEDas"
+      - "confluir\xEDa"
+      - "confluir\xEDamos"
+      - "confluir\xEDais"
+      - "confluir\xEDan"
+      cjid: cond
+    - cjfs:
+      - confluya
+      - confluyas
+      - confluya
+      - confluyamos
+      - "confluy\xE1is"
+      - confluyan
+      cjid: psub
+    - cjfs:
+      - confluyera
+      - confluyeras
+      - confluyera
+      - "confluy\xE9ramos"
+      - confluyerais
+      - confluyeran
+      cjid: pisb1
+    - cjfs:
+      - confluyese
+      - confluyeses
+      - confluyese
+      - "confluy\xE9semos"
+      - confluyeseis
+      - confluyesen
+      cjid: pisb2
+    - cjfs:
+      - confluyere
+      - confluyeres
+      - confluyere
+      - "confluy\xE9remos"
+      - confluyereis
+      - confluyeren
+      cjid: fsub
+    - cjfs:
+      - he confluido
+      - has confluido
+      - ha confluido
+      - hemos confluido
+      - "hab\xE9is confluido"
+      - han confluido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa confluido"
+      - "hab\xEDas confluido"
+      - "hab\xEDa confluido"
+      - "hab\xEDamos confluido"
+      - "hab\xEDais confluido"
+      - "hab\xEDan confluido"
+      cjid: ppsi
+    - cjfs:
+      - hube confluido
+      - hubiste confluido
+      - hubo confluido
+      - hubimos confluido
+      - hubisteis confluido
+      - hubieron confluido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 confluido"
+      - "habr\xE1s confluido"
+      - "habr\xE1 confluido"
+      - habremos confluido
+      - "habr\xE9is confluido"
+      - "habr\xE1n confluido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa confluido"
+      - "habr\xEDas confluido"
+      - "habr\xEDa confluido"
+      - "habr\xEDamos confluido"
+      - "habr\xEDais confluido"
+      - "habr\xEDan confluido"
+      cjid: cpef
+    - cjfs:
+      - haya confluido
+      - hayas confluido
+      - haya confluido
+      - hayamos confluido
+      - "hay\xE1is confluido"
+      - hayan confluido
+      cjid: ppfs
+    - cjfs:
+      - hubiera confluido
+      - hubieras confluido
+      - hubiera confluido
+      - "hubi\xE9ramos confluido"
+      - hubierais confluido
+      - hubieran confluido
+      cjid: ppss1
+    - cjfs:
+      - hubiese confluido
+      - hubieses confluido
+      - hubiese confluido
+      - "hubi\xE9semos confluido"
+      - hubieseis confluido
+      - hubiesen confluido
+      cjid: ppss2
+    - cjfs:
+      - hubiere confluido
+      - hubieres confluido
+      - hubiere confluido
+      - "hubi\xE9remos confluido"
+      - hubiereis confluido
+      - hubieren confluido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - confluye
+      - confluya
+      - confluyamos
+      - confluid
+      - confluyan
+      cjid: impf

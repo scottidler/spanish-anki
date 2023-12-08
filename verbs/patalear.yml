@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|kick}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to stamp one''s feet'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: patalear
+  meta:
+    id: patalear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616812000'
+    src: spanish
+    stems:
+    - patalear
+    uuid: f528271d-e4ed-4e60-9e8f-96004dc1cee3
+  shortdef:
+  - to kick
+  - to stamp one's feet
+  suppl:
+    cjts:
+    - cjfs:
+      - pataleando
+      - pataleado
+      cjid: gppt
+    - cjfs:
+      - pataleo
+      - pataleas
+      - patalea
+      - pataleamos
+      - "patale\xE1is"
+      - patalean
+      cjid: pind
+    - cjfs:
+      - pataleaba
+      - pataleabas
+      - pataleaba
+      - "patale\xE1bamos"
+      - pataleabais
+      - pataleaban
+      cjid: pret
+    - cjfs:
+      - "patale\xE9"
+      - pataleaste
+      - "patale\xF3"
+      - pataleamos
+      - pataleasteis
+      - patalearon
+      cjid: pprf
+    - cjfs:
+      - "patalear\xE9"
+      - "patalear\xE1s"
+      - "patalear\xE1"
+      - patalearemos
+      - "patalear\xE9is"
+      - "patalear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "patalear\xEDa"
+      - "patalear\xEDas"
+      - "patalear\xEDa"
+      - "patalear\xEDamos"
+      - "patalear\xEDais"
+      - "patalear\xEDan"
+      cjid: cond
+    - cjfs:
+      - patalee
+      - patalees
+      - patalee
+      - pataleemos
+      - "patale\xE9is"
+      - pataleen
+      cjid: psub
+    - cjfs:
+      - pataleara
+      - patalearas
+      - pataleara
+      - "patale\xE1ramos"
+      - patalearais
+      - patalearan
+      cjid: pisb1
+    - cjfs:
+      - patalease
+      - pataleases
+      - patalease
+      - "patale\xE1semos"
+      - pataleaseis
+      - pataleasen
+      cjid: pisb2
+    - cjfs:
+      - pataleare
+      - pataleares
+      - pataleare
+      - "patale\xE1remos"
+      - pataleareis
+      - patalearen
+      cjid: fsub
+    - cjfs:
+      - he pataleado
+      - has pataleado
+      - ha pataleado
+      - hemos pataleado
+      - "hab\xE9is pataleado"
+      - han pataleado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pataleado"
+      - "hab\xEDas pataleado"
+      - "hab\xEDa pataleado"
+      - "hab\xEDamos pataleado"
+      - "hab\xEDais pataleado"
+      - "hab\xEDan pataleado"
+      cjid: ppsi
+    - cjfs:
+      - hube pataleado
+      - hubiste pataleado
+      - hubo pataleado
+      - hubimos pataleado
+      - hubisteis pataleado
+      - hubieron pataleado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pataleado"
+      - "habr\xE1s pataleado"
+      - "habr\xE1 pataleado"
+      - habremos pataleado
+      - "habr\xE9is pataleado"
+      - "habr\xE1n pataleado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pataleado"
+      - "habr\xEDas pataleado"
+      - "habr\xEDa pataleado"
+      - "habr\xEDamos pataleado"
+      - "habr\xEDais pataleado"
+      - "habr\xEDan pataleado"
+      cjid: cpef
+    - cjfs:
+      - haya pataleado
+      - hayas pataleado
+      - haya pataleado
+      - hayamos pataleado
+      - "hay\xE1is pataleado"
+      - hayan pataleado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pataleado
+      - hubieras pataleado
+      - hubiera pataleado
+      - "hubi\xE9ramos pataleado"
+      - hubierais pataleado
+      - hubieran pataleado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pataleado
+      - hubieses pataleado
+      - hubiese pataleado
+      - "hubi\xE9semos pataleado"
+      - hubieseis pataleado
+      - hubiesen pataleado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pataleado
+      - hubieres pataleado
+      - hubiere pataleado
+      - "hubi\xE9remos pataleado"
+      - hubiereis pataleado
+      - hubieren pataleado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - patalea
+      - patalee
+      - pataleemos
+      - patalead
+      - pataleen
+      cjid: impf

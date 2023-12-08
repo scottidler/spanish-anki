@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|despreciar||} {bc}to {a_link|disdain}, to {a_link|scorn}, to {a_link|despise}'
+  fl: transitive verb
+  hwi:
+    hw: "desde\xF1ar"
+  meta:
+    id: desdenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606994000'
+    src: spanish
+    stems:
+    - "desde\xF1ar"
+    uuid: 591b5127-31db-4e23-bfec-32c899aa4478
+  shortdef:
+  - 'despreciar : to disdain, to scorn, to despise'
+  suppl:
+    cjts:
+    - cjfs:
+      - "desde\xF1ando"
+      - "desde\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "desde\xF1o"
+      - "desde\xF1as"
+      - "desde\xF1a"
+      - "desde\xF1amos"
+      - "desde\xF1\xE1is"
+      - "desde\xF1an"
+      cjid: pind
+    - cjfs:
+      - "desde\xF1aba"
+      - "desde\xF1abas"
+      - "desde\xF1aba"
+      - "desde\xF1\xE1bamos"
+      - "desde\xF1abais"
+      - "desde\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "desde\xF1\xE9"
+      - "desde\xF1aste"
+      - "desde\xF1\xF3"
+      - "desde\xF1amos"
+      - "desde\xF1asteis"
+      - "desde\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "desde\xF1ar\xE9"
+      - "desde\xF1ar\xE1s"
+      - "desde\xF1ar\xE1"
+      - "desde\xF1aremos"
+      - "desde\xF1ar\xE9is"
+      - "desde\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desde\xF1ar\xEDa"
+      - "desde\xF1ar\xEDas"
+      - "desde\xF1ar\xEDa"
+      - "desde\xF1ar\xEDamos"
+      - "desde\xF1ar\xEDais"
+      - "desde\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "desde\xF1e"
+      - "desde\xF1es"
+      - "desde\xF1e"
+      - "desde\xF1emos"
+      - "desde\xF1\xE9is"
+      - "desde\xF1en"
+      cjid: psub
+    - cjfs:
+      - "desde\xF1ara"
+      - "desde\xF1aras"
+      - "desde\xF1ara"
+      - "desde\xF1\xE1ramos"
+      - "desde\xF1arais"
+      - "desde\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "desde\xF1ase"
+      - "desde\xF1ases"
+      - "desde\xF1ase"
+      - "desde\xF1\xE1semos"
+      - "desde\xF1aseis"
+      - "desde\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "desde\xF1are"
+      - "desde\xF1ares"
+      - "desde\xF1are"
+      - "desde\xF1\xE1remos"
+      - "desde\xF1areis"
+      - "desde\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he desde\xF1ado"
+      - "has desde\xF1ado"
+      - "ha desde\xF1ado"
+      - "hemos desde\xF1ado"
+      - "hab\xE9is desde\xF1ado"
+      - "han desde\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desde\xF1ado"
+      - "hab\xEDas desde\xF1ado"
+      - "hab\xEDa desde\xF1ado"
+      - "hab\xEDamos desde\xF1ado"
+      - "hab\xEDais desde\xF1ado"
+      - "hab\xEDan desde\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube desde\xF1ado"
+      - "hubiste desde\xF1ado"
+      - "hubo desde\xF1ado"
+      - "hubimos desde\xF1ado"
+      - "hubisteis desde\xF1ado"
+      - "hubieron desde\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desde\xF1ado"
+      - "habr\xE1s desde\xF1ado"
+      - "habr\xE1 desde\xF1ado"
+      - "habremos desde\xF1ado"
+      - "habr\xE9is desde\xF1ado"
+      - "habr\xE1n desde\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desde\xF1ado"
+      - "habr\xEDas desde\xF1ado"
+      - "habr\xEDa desde\xF1ado"
+      - "habr\xEDamos desde\xF1ado"
+      - "habr\xEDais desde\xF1ado"
+      - "habr\xEDan desde\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya desde\xF1ado"
+      - "hayas desde\xF1ado"
+      - "haya desde\xF1ado"
+      - "hayamos desde\xF1ado"
+      - "hay\xE1is desde\xF1ado"
+      - "hayan desde\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera desde\xF1ado"
+      - "hubieras desde\xF1ado"
+      - "hubiera desde\xF1ado"
+      - "hubi\xE9ramos desde\xF1ado"
+      - "hubierais desde\xF1ado"
+      - "hubieran desde\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese desde\xF1ado"
+      - "hubieses desde\xF1ado"
+      - "hubiese desde\xF1ado"
+      - "hubi\xE9semos desde\xF1ado"
+      - "hubieseis desde\xF1ado"
+      - "hubiesen desde\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere desde\xF1ado"
+      - "hubieres desde\xF1ado"
+      - "hubiere desde\xF1ado"
+      - "hubi\xE9remos desde\xF1ado"
+      - "hubiereis desde\xF1ado"
+      - "hubieren desde\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "desde\xF1a"
+      - "desde\xF1e"
+      - "desde\xF1emos"
+      - "desde\xF1ad"
+      - "desde\xF1en"
+      cjid: impf

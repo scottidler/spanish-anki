@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flow}'
+  fl: intransitive verb
+  hwi:
+    hw: fluir
+    prs:
+    - sound:
+        audio: fluir01sp
+  meta:
+    id: fluir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610250000'
+    src: spanish
+    stems:
+    - fluir
+    uuid: 1897608a-01a9-48df-82ab-396c47046a75
+  shortdef:
+  - to flow
+  suppl:
+    cjts:
+    - cjfs:
+      - fluyendo
+      - fluido
+      cjid: gppt
+    - cjfs:
+      - fluyo
+      - fluyes
+      - fluye
+      - fluimos
+      - "flu\xEDs"
+      - fluyen
+      cjid: pind
+    - cjfs:
+      - "flu\xEDa"
+      - "flu\xEDas"
+      - "flu\xEDa"
+      - "flu\xEDamos"
+      - "flu\xEDais"
+      - "flu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "flu\xED"
+      - fluiste
+      - "fluy\xF3"
+      - fluimos
+      - fluisteis
+      - fluyeron
+      cjid: pprf
+    - cjfs:
+      - "fluir\xE9"
+      - "fluir\xE1s"
+      - "fluir\xE1"
+      - fluiremos
+      - "fluir\xE9is"
+      - "fluir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fluir\xEDa"
+      - "fluir\xEDas"
+      - "fluir\xEDa"
+      - "fluir\xEDamos"
+      - "fluir\xEDais"
+      - "fluir\xEDan"
+      cjid: cond
+    - cjfs:
+      - fluya
+      - fluyas
+      - fluya
+      - fluyamos
+      - "fluy\xE1is"
+      - fluyan
+      cjid: psub
+    - cjfs:
+      - fluyera
+      - fluyeras
+      - fluyera
+      - "fluy\xE9ramos"
+      - fluyerais
+      - fluyeran
+      cjid: pisb1
+    - cjfs:
+      - fluyese
+      - fluyeses
+      - fluyese
+      - "fluy\xE9semos"
+      - fluyeseis
+      - fluyesen
+      cjid: pisb2
+    - cjfs:
+      - fluyere
+      - fluyeres
+      - fluyere
+      - "fluy\xE9remos"
+      - fluyereis
+      - fluyeren
+      cjid: fsub
+    - cjfs:
+      - he fluido
+      - has fluido
+      - ha fluido
+      - hemos fluido
+      - "hab\xE9is fluido"
+      - han fluido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fluido"
+      - "hab\xEDas fluido"
+      - "hab\xEDa fluido"
+      - "hab\xEDamos fluido"
+      - "hab\xEDais fluido"
+      - "hab\xEDan fluido"
+      cjid: ppsi
+    - cjfs:
+      - hube fluido
+      - hubiste fluido
+      - hubo fluido
+      - hubimos fluido
+      - hubisteis fluido
+      - hubieron fluido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fluido"
+      - "habr\xE1s fluido"
+      - "habr\xE1 fluido"
+      - habremos fluido
+      - "habr\xE9is fluido"
+      - "habr\xE1n fluido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fluido"
+      - "habr\xEDas fluido"
+      - "habr\xEDa fluido"
+      - "habr\xEDamos fluido"
+      - "habr\xEDais fluido"
+      - "habr\xEDan fluido"
+      cjid: cpef
+    - cjfs:
+      - haya fluido
+      - hayas fluido
+      - haya fluido
+      - hayamos fluido
+      - "hay\xE1is fluido"
+      - hayan fluido
+      cjid: ppfs
+    - cjfs:
+      - hubiera fluido
+      - hubieras fluido
+      - hubiera fluido
+      - "hubi\xE9ramos fluido"
+      - hubierais fluido
+      - hubieran fluido
+      cjid: ppss1
+    - cjfs:
+      - hubiese fluido
+      - hubieses fluido
+      - hubiese fluido
+      - "hubi\xE9semos fluido"
+      - hubieseis fluido
+      - hubiesen fluido
+      cjid: ppss2
+    - cjfs:
+      - hubiere fluido
+      - hubieres fluido
+      - hubiere fluido
+      - "hubi\xE9remos fluido"
+      - hubiereis fluido
+      - hubieren fluido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fluye
+      - fluya
+      - fluyamos
+      - fluid
+      - fluyan
+      cjid: impf

@@ -1,0 +1,217 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|send}, to {a_link|remit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|refer to}, to direct to '
+          - - vis
+            - - t: "nos remiti\xF3 al diccionario"
+                tr: he referred us to the dictionary
+          sn: '2'
+          vrs:
+          - va: remitir a
+            vac: ~ a
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|subside}, to {a_link|let up}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|refer to}'
+            vrs:
+            - va: remitirse a
+              vac: ~ a
+    drp: remitirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: remitir
+    prs:
+    - sound:
+        audio: remit03sp
+  meta:
+    id: remitir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619353000'
+    src: spanish
+    stems:
+    - remitir
+    - remitir a
+    - remitirse
+    - remitirse a
+    uuid: 6cc608fa-efee-44fa-b9ea-3914d74f6c22
+  shortdef:
+  - to send, to remit
+  - to refer to, to direct to
+  - to subside, to let up
+  suppl:
+    cjts:
+    - cjfs:
+      - remitiendo
+      - remitido
+      cjid: gppt
+    - cjfs:
+      - remito
+      - remites
+      - remite
+      - remitimos
+      - "remit\xEDs"
+      - remiten
+      cjid: pind
+    - cjfs:
+      - "remit\xEDa"
+      - "remit\xEDas"
+      - "remit\xEDa"
+      - "remit\xEDamos"
+      - "remit\xEDais"
+      - "remit\xEDan"
+      cjid: pret
+    - cjfs:
+      - "remit\xED"
+      - remitiste
+      - "remiti\xF3"
+      - remitimos
+      - remitisteis
+      - remitieron
+      cjid: pprf
+    - cjfs:
+      - "remitir\xE9"
+      - "remitir\xE1s"
+      - "remitir\xE1"
+      - remitiremos
+      - "remitir\xE9is"
+      - "remitir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "remitir\xEDa"
+      - "remitir\xEDas"
+      - "remitir\xEDa"
+      - "remitir\xEDamos"
+      - "remitir\xEDais"
+      - "remitir\xEDan"
+      cjid: cond
+    - cjfs:
+      - remita
+      - remitas
+      - remita
+      - remitamos
+      - "remit\xE1is"
+      - remitan
+      cjid: psub
+    - cjfs:
+      - remitiera
+      - remitieras
+      - remitiera
+      - "remiti\xE9ramos"
+      - remitierais
+      - remitieran
+      cjid: pisb1
+    - cjfs:
+      - remitiese
+      - remitieses
+      - remitiese
+      - "remiti\xE9semos"
+      - remitieseis
+      - remitiesen
+      cjid: pisb2
+    - cjfs:
+      - remitiere
+      - remitieres
+      - remitiere
+      - "remiti\xE9remos"
+      - remitiereis
+      - remitieren
+      cjid: fsub
+    - cjfs:
+      - he remitido
+      - has remitido
+      - ha remitido
+      - hemos remitido
+      - "hab\xE9is remitido"
+      - han remitido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa remitido"
+      - "hab\xEDas remitido"
+      - "hab\xEDa remitido"
+      - "hab\xEDamos remitido"
+      - "hab\xEDais remitido"
+      - "hab\xEDan remitido"
+      cjid: ppsi
+    - cjfs:
+      - hube remitido
+      - hubiste remitido
+      - hubo remitido
+      - hubimos remitido
+      - hubisteis remitido
+      - hubieron remitido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 remitido"
+      - "habr\xE1s remitido"
+      - "habr\xE1 remitido"
+      - habremos remitido
+      - "habr\xE9is remitido"
+      - "habr\xE1n remitido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa remitido"
+      - "habr\xEDas remitido"
+      - "habr\xEDa remitido"
+      - "habr\xEDamos remitido"
+      - "habr\xEDais remitido"
+      - "habr\xEDan remitido"
+      cjid: cpef
+    - cjfs:
+      - haya remitido
+      - hayas remitido
+      - haya remitido
+      - hayamos remitido
+      - "hay\xE1is remitido"
+      - hayan remitido
+      cjid: ppfs
+    - cjfs:
+      - hubiera remitido
+      - hubieras remitido
+      - hubiera remitido
+      - "hubi\xE9ramos remitido"
+      - hubierais remitido
+      - hubieran remitido
+      cjid: ppss1
+    - cjfs:
+      - hubiese remitido
+      - hubieses remitido
+      - hubiese remitido
+      - "hubi\xE9semos remitido"
+      - hubieseis remitido
+      - hubiesen remitido
+      cjid: ppss2
+    - cjfs:
+      - hubiere remitido
+      - hubieres remitido
+      - hubiere remitido
+      - "hubi\xE9remos remitido"
+      - hubiereis remitido
+      - hubieren remitido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - remite
+      - remita
+      - remitamos
+      - remitid
+      - remitan
+      cjid: impf

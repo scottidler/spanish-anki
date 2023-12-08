@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|oppress}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|press}, to {a_link|squeeze} '
+          - - vis
+            - - t: "oprima el bot\xF3n"
+                tr: push the button
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: oprimir
+    prs:
+    - sound:
+        audio: oprim01sp
+  meta:
+    id: oprimir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616242000'
+    src: spanish
+    stems:
+    - oprimir
+    uuid: c9710540-c771-4262-896f-4ff8c5e65f54
+  shortdef:
+  - to oppress
+  - to press, to squeeze
+  suppl:
+    cjts:
+    - cjfs:
+      - oprimiendo
+      - oprimido
+      cjid: gppt
+    - cjfs:
+      - oprimo
+      - oprimes
+      - oprime
+      - oprimimos
+      - "oprim\xEDs"
+      - oprimen
+      cjid: pind
+    - cjfs:
+      - "oprim\xEDa"
+      - "oprim\xEDas"
+      - "oprim\xEDa"
+      - "oprim\xEDamos"
+      - "oprim\xEDais"
+      - "oprim\xEDan"
+      cjid: pret
+    - cjfs:
+      - "oprim\xED"
+      - oprimiste
+      - "oprimi\xF3"
+      - oprimimos
+      - oprimisteis
+      - oprimieron
+      cjid: pprf
+    - cjfs:
+      - "oprimir\xE9"
+      - "oprimir\xE1s"
+      - "oprimir\xE1"
+      - oprimiremos
+      - "oprimir\xE9is"
+      - "oprimir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "oprimir\xEDa"
+      - "oprimir\xEDas"
+      - "oprimir\xEDa"
+      - "oprimir\xEDamos"
+      - "oprimir\xEDais"
+      - "oprimir\xEDan"
+      cjid: cond
+    - cjfs:
+      - oprima
+      - oprimas
+      - oprima
+      - oprimamos
+      - "oprim\xE1is"
+      - opriman
+      cjid: psub
+    - cjfs:
+      - oprimiera
+      - oprimieras
+      - oprimiera
+      - "oprimi\xE9ramos"
+      - oprimierais
+      - oprimieran
+      cjid: pisb1
+    - cjfs:
+      - oprimiese
+      - oprimieses
+      - oprimiese
+      - "oprimi\xE9semos"
+      - oprimieseis
+      - oprimiesen
+      cjid: pisb2
+    - cjfs:
+      - oprimiere
+      - oprimieres
+      - oprimiere
+      - "oprimi\xE9remos"
+      - oprimiereis
+      - oprimieren
+      cjid: fsub
+    - cjfs:
+      - he oprimido
+      - has oprimido
+      - ha oprimido
+      - hemos oprimido
+      - "hab\xE9is oprimido"
+      - han oprimido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa oprimido"
+      - "hab\xEDas oprimido"
+      - "hab\xEDa oprimido"
+      - "hab\xEDamos oprimido"
+      - "hab\xEDais oprimido"
+      - "hab\xEDan oprimido"
+      cjid: ppsi
+    - cjfs:
+      - hube oprimido
+      - hubiste oprimido
+      - hubo oprimido
+      - hubimos oprimido
+      - hubisteis oprimido
+      - hubieron oprimido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 oprimido"
+      - "habr\xE1s oprimido"
+      - "habr\xE1 oprimido"
+      - habremos oprimido
+      - "habr\xE9is oprimido"
+      - "habr\xE1n oprimido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa oprimido"
+      - "habr\xEDas oprimido"
+      - "habr\xEDa oprimido"
+      - "habr\xEDamos oprimido"
+      - "habr\xEDais oprimido"
+      - "habr\xEDan oprimido"
+      cjid: cpef
+    - cjfs:
+      - haya oprimido
+      - hayas oprimido
+      - haya oprimido
+      - hayamos oprimido
+      - "hay\xE1is oprimido"
+      - hayan oprimido
+      cjid: ppfs
+    - cjfs:
+      - hubiera oprimido
+      - hubieras oprimido
+      - hubiera oprimido
+      - "hubi\xE9ramos oprimido"
+      - hubierais oprimido
+      - hubieran oprimido
+      cjid: ppss1
+    - cjfs:
+      - hubiese oprimido
+      - hubieses oprimido
+      - hubiese oprimido
+      - "hubi\xE9semos oprimido"
+      - hubieseis oprimido
+      - hubiesen oprimido
+      cjid: ppss2
+    - cjfs:
+      - hubiere oprimido
+      - hubieres oprimido
+      - hubiere oprimido
+      - "hubi\xE9remos oprimido"
+      - hubiereis oprimido
+      - hubieren oprimido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - oprime
+      - oprima
+      - oprimamos
+      - oprimid
+      - opriman
+      cjid: impf

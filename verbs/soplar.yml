@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blow}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to blow on, to {a_link|blow out}, to {a_link|blow off}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: soplar
+    prs:
+    - sound:
+        audio: sopla01sp
+  meta:
+    id: soplar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620957000'
+    src: spanish
+    stems:
+    - soplar
+    uuid: ab738f2b-6f97-4df0-ac3f-a66a526e0b1f
+  shortdef:
+  - to blow
+  - to blow on, to blow out, to blow off
+  suppl:
+    cjts:
+    - cjfs:
+      - soplando
+      - soplado
+      cjid: gppt
+    - cjfs:
+      - soplo
+      - soplas
+      - sopla
+      - soplamos
+      - "sopl\xE1is"
+      - soplan
+      cjid: pind
+    - cjfs:
+      - soplaba
+      - soplabas
+      - soplaba
+      - "sopl\xE1bamos"
+      - soplabais
+      - soplaban
+      cjid: pret
+    - cjfs:
+      - "sopl\xE9"
+      - soplaste
+      - "sopl\xF3"
+      - soplamos
+      - soplasteis
+      - soplaron
+      cjid: pprf
+    - cjfs:
+      - "soplar\xE9"
+      - "soplar\xE1s"
+      - "soplar\xE1"
+      - soplaremos
+      - "soplar\xE9is"
+      - "soplar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "soplar\xEDa"
+      - "soplar\xEDas"
+      - "soplar\xEDa"
+      - "soplar\xEDamos"
+      - "soplar\xEDais"
+      - "soplar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sople
+      - soples
+      - sople
+      - soplemos
+      - "sopl\xE9is"
+      - soplen
+      cjid: psub
+    - cjfs:
+      - soplara
+      - soplaras
+      - soplara
+      - "sopl\xE1ramos"
+      - soplarais
+      - soplaran
+      cjid: pisb1
+    - cjfs:
+      - soplase
+      - soplases
+      - soplase
+      - "sopl\xE1semos"
+      - soplaseis
+      - soplasen
+      cjid: pisb2
+    - cjfs:
+      - soplare
+      - soplares
+      - soplare
+      - "sopl\xE1remos"
+      - soplareis
+      - soplaren
+      cjid: fsub
+    - cjfs:
+      - he soplado
+      - has soplado
+      - ha soplado
+      - hemos soplado
+      - "hab\xE9is soplado"
+      - han soplado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa soplado"
+      - "hab\xEDas soplado"
+      - "hab\xEDa soplado"
+      - "hab\xEDamos soplado"
+      - "hab\xEDais soplado"
+      - "hab\xEDan soplado"
+      cjid: ppsi
+    - cjfs:
+      - hube soplado
+      - hubiste soplado
+      - hubo soplado
+      - hubimos soplado
+      - hubisteis soplado
+      - hubieron soplado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 soplado"
+      - "habr\xE1s soplado"
+      - "habr\xE1 soplado"
+      - habremos soplado
+      - "habr\xE9is soplado"
+      - "habr\xE1n soplado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa soplado"
+      - "habr\xEDas soplado"
+      - "habr\xEDa soplado"
+      - "habr\xEDamos soplado"
+      - "habr\xEDais soplado"
+      - "habr\xEDan soplado"
+      cjid: cpef
+    - cjfs:
+      - haya soplado
+      - hayas soplado
+      - haya soplado
+      - hayamos soplado
+      - "hay\xE1is soplado"
+      - hayan soplado
+      cjid: ppfs
+    - cjfs:
+      - hubiera soplado
+      - hubieras soplado
+      - hubiera soplado
+      - "hubi\xE9ramos soplado"
+      - hubierais soplado
+      - hubieran soplado
+      cjid: ppss1
+    - cjfs:
+      - hubiese soplado
+      - hubieses soplado
+      - hubiese soplado
+      - "hubi\xE9semos soplado"
+      - hubieseis soplado
+      - hubiesen soplado
+      cjid: ppss2
+    - cjfs:
+      - hubiere soplado
+      - hubieres soplado
+      - hubiere soplado
+      - "hubi\xE9remos soplado"
+      - hubiereis soplado
+      - hubieren soplado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sopla
+      - sople
+      - soplemos
+      - soplad
+      - soplen
+      cjid: impf

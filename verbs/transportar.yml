@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|transport}, to {a_link|carry}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|transmit}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|transpose} (music)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get carried away'
+    drp: transportarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: transportar
+    prs:
+    - sound:
+        audio: trans21sp
+  meta:
+    id: transportar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622181000'
+    src: spanish
+    stems:
+    - transportar
+    - transportarse
+    uuid: 17284455-f34e-4bb6-a878-4b770cc2a11a
+  shortdef:
+  - to transport, to carry
+  - to transmit
+  - to transpose (music)
+  suppl:
+    cjts:
+    - cjfs:
+      - transportando
+      - transportado
+      cjid: gppt
+    - cjfs:
+      - transporto
+      - transportas
+      - transporta
+      - transportamos
+      - "transport\xE1is"
+      - transportan
+      cjid: pind
+    - cjfs:
+      - transportaba
+      - transportabas
+      - transportaba
+      - "transport\xE1bamos"
+      - transportabais
+      - transportaban
+      cjid: pret
+    - cjfs:
+      - "transport\xE9"
+      - transportaste
+      - "transport\xF3"
+      - transportamos
+      - transportasteis
+      - transportaron
+      cjid: pprf
+    - cjfs:
+      - "transportar\xE9"
+      - "transportar\xE1s"
+      - "transportar\xE1"
+      - transportaremos
+      - "transportar\xE9is"
+      - "transportar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "transportar\xEDa"
+      - "transportar\xEDas"
+      - "transportar\xEDa"
+      - "transportar\xEDamos"
+      - "transportar\xEDais"
+      - "transportar\xEDan"
+      cjid: cond
+    - cjfs:
+      - transporte
+      - transportes
+      - transporte
+      - transportemos
+      - "transport\xE9is"
+      - transporten
+      cjid: psub
+    - cjfs:
+      - transportara
+      - transportaras
+      - transportara
+      - "transport\xE1ramos"
+      - transportarais
+      - transportaran
+      cjid: pisb1
+    - cjfs:
+      - transportase
+      - transportases
+      - transportase
+      - "transport\xE1semos"
+      - transportaseis
+      - transportasen
+      cjid: pisb2
+    - cjfs:
+      - transportare
+      - transportares
+      - transportare
+      - "transport\xE1remos"
+      - transportareis
+      - transportaren
+      cjid: fsub
+    - cjfs:
+      - he transportado
+      - has transportado
+      - ha transportado
+      - hemos transportado
+      - "hab\xE9is transportado"
+      - han transportado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa transportado"
+      - "hab\xEDas transportado"
+      - "hab\xEDa transportado"
+      - "hab\xEDamos transportado"
+      - "hab\xEDais transportado"
+      - "hab\xEDan transportado"
+      cjid: ppsi
+    - cjfs:
+      - hube transportado
+      - hubiste transportado
+      - hubo transportado
+      - hubimos transportado
+      - hubisteis transportado
+      - hubieron transportado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 transportado"
+      - "habr\xE1s transportado"
+      - "habr\xE1 transportado"
+      - habremos transportado
+      - "habr\xE9is transportado"
+      - "habr\xE1n transportado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa transportado"
+      - "habr\xEDas transportado"
+      - "habr\xEDa transportado"
+      - "habr\xEDamos transportado"
+      - "habr\xEDais transportado"
+      - "habr\xEDan transportado"
+      cjid: cpef
+    - cjfs:
+      - haya transportado
+      - hayas transportado
+      - haya transportado
+      - hayamos transportado
+      - "hay\xE1is transportado"
+      - hayan transportado
+      cjid: ppfs
+    - cjfs:
+      - hubiera transportado
+      - hubieras transportado
+      - hubiera transportado
+      - "hubi\xE9ramos transportado"
+      - hubierais transportado
+      - hubieran transportado
+      cjid: ppss1
+    - cjfs:
+      - hubiese transportado
+      - hubieses transportado
+      - hubiese transportado
+      - "hubi\xE9semos transportado"
+      - hubieseis transportado
+      - hubiesen transportado
+      cjid: ppss2
+    - cjfs:
+      - hubiere transportado
+      - hubieres transportado
+      - hubiere transportado
+      - "hubi\xE9remos transportado"
+      - hubiereis transportado
+      - hubieren transportado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - transporta
+      - transporte
+      - transportemos
+      - transportad
+      - transporten
+      cjid: impf

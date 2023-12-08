@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trot}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|jog}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to rush about'
+          sls:
+          - familiar
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: trotar
+    prs:
+    - sound:
+        audio: trota01sp
+  meta:
+    id: trotar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622395000'
+    src: spanish
+    stems:
+    - trotar
+    uuid: 376d8a52-91f7-42c8-a891-c933bf222c0c
+  shortdef:
+  - to trot
+  - to jog
+  - to rush about
+  suppl:
+    cjts:
+    - cjfs:
+      - trotando
+      - trotado
+      cjid: gppt
+    - cjfs:
+      - troto
+      - trotas
+      - trota
+      - trotamos
+      - "trot\xE1is"
+      - trotan
+      cjid: pind
+    - cjfs:
+      - trotaba
+      - trotabas
+      - trotaba
+      - "trot\xE1bamos"
+      - trotabais
+      - trotaban
+      cjid: pret
+    - cjfs:
+      - "trot\xE9"
+      - trotaste
+      - "trot\xF3"
+      - trotamos
+      - trotasteis
+      - trotaron
+      cjid: pprf
+    - cjfs:
+      - "trotar\xE9"
+      - "trotar\xE1s"
+      - "trotar\xE1"
+      - trotaremos
+      - "trotar\xE9is"
+      - "trotar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "trotar\xEDa"
+      - "trotar\xEDas"
+      - "trotar\xEDa"
+      - "trotar\xEDamos"
+      - "trotar\xEDais"
+      - "trotar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trote
+      - trotes
+      - trote
+      - trotemos
+      - "trot\xE9is"
+      - troten
+      cjid: psub
+    - cjfs:
+      - trotara
+      - trotaras
+      - trotara
+      - "trot\xE1ramos"
+      - trotarais
+      - trotaran
+      cjid: pisb1
+    - cjfs:
+      - trotase
+      - trotases
+      - trotase
+      - "trot\xE1semos"
+      - trotaseis
+      - trotasen
+      cjid: pisb2
+    - cjfs:
+      - trotare
+      - trotares
+      - trotare
+      - "trot\xE1remos"
+      - trotareis
+      - trotaren
+      cjid: fsub
+    - cjfs:
+      - he trotado
+      - has trotado
+      - ha trotado
+      - hemos trotado
+      - "hab\xE9is trotado"
+      - han trotado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa trotado"
+      - "hab\xEDas trotado"
+      - "hab\xEDa trotado"
+      - "hab\xEDamos trotado"
+      - "hab\xEDais trotado"
+      - "hab\xEDan trotado"
+      cjid: ppsi
+    - cjfs:
+      - hube trotado
+      - hubiste trotado
+      - hubo trotado
+      - hubimos trotado
+      - hubisteis trotado
+      - hubieron trotado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 trotado"
+      - "habr\xE1s trotado"
+      - "habr\xE1 trotado"
+      - habremos trotado
+      - "habr\xE9is trotado"
+      - "habr\xE1n trotado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa trotado"
+      - "habr\xEDas trotado"
+      - "habr\xEDa trotado"
+      - "habr\xEDamos trotado"
+      - "habr\xEDais trotado"
+      - "habr\xEDan trotado"
+      cjid: cpef
+    - cjfs:
+      - haya trotado
+      - hayas trotado
+      - haya trotado
+      - hayamos trotado
+      - "hay\xE1is trotado"
+      - hayan trotado
+      cjid: ppfs
+    - cjfs:
+      - hubiera trotado
+      - hubieras trotado
+      - hubiera trotado
+      - "hubi\xE9ramos trotado"
+      - hubierais trotado
+      - hubieran trotado
+      cjid: ppss1
+    - cjfs:
+      - hubiese trotado
+      - hubieses trotado
+      - hubiese trotado
+      - "hubi\xE9semos trotado"
+      - hubieseis trotado
+      - hubiesen trotado
+      cjid: ppss2
+    - cjfs:
+      - hubiere trotado
+      - hubieres trotado
+      - hubiere trotado
+      - "hubi\xE9remos trotado"
+      - hubiereis trotado
+      - hubieren trotado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - trota
+      - trote
+      - trotemos
+      - trotad
+      - troten
+      cjid: impf

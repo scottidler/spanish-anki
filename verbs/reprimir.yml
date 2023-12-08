@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|repress}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suppress}, to {a_link|stifle}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: reprimir
+    prs:
+    - sound:
+        audio: repri01sp
+  meta:
+    id: reprimir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619488000'
+    src: spanish
+    stems:
+    - reprimir
+    uuid: 4eef1dd6-56c4-48d1-b6c6-5962a8b67efe
+  shortdef:
+  - to repress
+  - to suppress, to stifle
+  suppl:
+    cjts:
+    - cjfs:
+      - reprimiendo
+      - reprimido
+      cjid: gppt
+    - cjfs:
+      - reprimo
+      - reprimes
+      - reprime
+      - reprimimos
+      - "reprim\xEDs"
+      - reprimen
+      cjid: pind
+    - cjfs:
+      - "reprim\xEDa"
+      - "reprim\xEDas"
+      - "reprim\xEDa"
+      - "reprim\xEDamos"
+      - "reprim\xEDais"
+      - "reprim\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reprim\xED"
+      - reprimiste
+      - "reprimi\xF3"
+      - reprimimos
+      - reprimisteis
+      - reprimieron
+      cjid: pprf
+    - cjfs:
+      - "reprimir\xE9"
+      - "reprimir\xE1s"
+      - "reprimir\xE1"
+      - reprimiremos
+      - "reprimir\xE9is"
+      - "reprimir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reprimir\xEDa"
+      - "reprimir\xEDas"
+      - "reprimir\xEDa"
+      - "reprimir\xEDamos"
+      - "reprimir\xEDais"
+      - "reprimir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reprima
+      - reprimas
+      - reprima
+      - reprimamos
+      - "reprim\xE1is"
+      - repriman
+      cjid: psub
+    - cjfs:
+      - reprimiera
+      - reprimieras
+      - reprimiera
+      - "reprimi\xE9ramos"
+      - reprimierais
+      - reprimieran
+      cjid: pisb1
+    - cjfs:
+      - reprimiese
+      - reprimieses
+      - reprimiese
+      - "reprimi\xE9semos"
+      - reprimieseis
+      - reprimiesen
+      cjid: pisb2
+    - cjfs:
+      - reprimiere
+      - reprimieres
+      - reprimiere
+      - "reprimi\xE9remos"
+      - reprimiereis
+      - reprimieren
+      cjid: fsub
+    - cjfs:
+      - he reprimido
+      - has reprimido
+      - ha reprimido
+      - hemos reprimido
+      - "hab\xE9is reprimido"
+      - han reprimido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reprimido"
+      - "hab\xEDas reprimido"
+      - "hab\xEDa reprimido"
+      - "hab\xEDamos reprimido"
+      - "hab\xEDais reprimido"
+      - "hab\xEDan reprimido"
+      cjid: ppsi
+    - cjfs:
+      - hube reprimido
+      - hubiste reprimido
+      - hubo reprimido
+      - hubimos reprimido
+      - hubisteis reprimido
+      - hubieron reprimido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reprimido"
+      - "habr\xE1s reprimido"
+      - "habr\xE1 reprimido"
+      - habremos reprimido
+      - "habr\xE9is reprimido"
+      - "habr\xE1n reprimido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reprimido"
+      - "habr\xEDas reprimido"
+      - "habr\xEDa reprimido"
+      - "habr\xEDamos reprimido"
+      - "habr\xEDais reprimido"
+      - "habr\xEDan reprimido"
+      cjid: cpef
+    - cjfs:
+      - haya reprimido
+      - hayas reprimido
+      - haya reprimido
+      - hayamos reprimido
+      - "hay\xE1is reprimido"
+      - hayan reprimido
+      cjid: ppfs
+    - cjfs:
+      - hubiera reprimido
+      - hubieras reprimido
+      - hubiera reprimido
+      - "hubi\xE9ramos reprimido"
+      - hubierais reprimido
+      - hubieran reprimido
+      cjid: ppss1
+    - cjfs:
+      - hubiese reprimido
+      - hubieses reprimido
+      - hubiese reprimido
+      - "hubi\xE9semos reprimido"
+      - hubieseis reprimido
+      - hubiesen reprimido
+      cjid: ppss2
+    - cjfs:
+      - hubiere reprimido
+      - hubieres reprimido
+      - hubiere reprimido
+      - "hubi\xE9remos reprimido"
+      - hubiereis reprimido
+      - hubieren reprimido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reprime
+      - reprima
+      - reprimamos
+      - reprimid
+      - repriman
+      cjid: impf

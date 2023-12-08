@@ -1,0 +1,185 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lie} '
+          - - vis
+            - - t: en esta tumba yacen sus abuelos
+                tr: his grandparents lie in this grave
+  fl: intransitive verb
+  hwi:
+    hw: yacer
+    prs:
+    - sound:
+        audio: yacer01sp
+  meta:
+    id: yacer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623271000'
+    src: spanish
+    stems:
+    - yacer
+    uuid: 55c441ea-92e4-4ebd-a55b-4e89fe515f94
+  shortdef:
+  - to lie
+  suppl:
+    cjts:
+    - cjfs:
+      - yaciendo
+      - yacido
+      cjid: gppt
+    - cjfs:
+      - yazgo
+      - yaces
+      - yace
+      - yacemos
+      - "yac\xE9is"
+      - yacen
+      cjid: pind
+    - cjfs:
+      - "yac\xEDa"
+      - "yac\xEDas"
+      - "yac\xEDa"
+      - "yac\xEDamos"
+      - "yac\xEDais"
+      - "yac\xEDan"
+      cjid: pret
+    - cjfs:
+      - "yac\xED"
+      - yaciste
+      - "yaci\xF3"
+      - yacimos
+      - yacisteis
+      - yacieron
+      cjid: pprf
+    - cjfs:
+      - "yacer\xE9"
+      - "yacer\xE1s"
+      - "yacer\xE1"
+      - yaceremos
+      - "yacer\xE9is"
+      - "yacer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "yacer\xEDa"
+      - "yacer\xEDas"
+      - "yacer\xEDa"
+      - "yacer\xEDamos"
+      - "yacer\xEDais"
+      - "yacer\xEDan"
+      cjid: cond
+    - cjfs:
+      - yazga
+      - yazgas
+      - yazga
+      - yazgamos
+      - "yazg\xE1is"
+      - yazgan
+      cjid: psub
+    - cjfs:
+      - yaciera
+      - yacieras
+      - yaciera
+      - "yaci\xE9ramos"
+      - yacierais
+      - yacieran
+      cjid: pisb1
+    - cjfs:
+      - yaciese
+      - yacieses
+      - yaciese
+      - "yaci\xE9semos"
+      - yacieseis
+      - yaciesen
+      cjid: pisb2
+    - cjfs:
+      - yaciere
+      - yacieres
+      - yaciere
+      - "yaci\xE9remos"
+      - yaciereis
+      - yacieren
+      cjid: fsub
+    - cjfs:
+      - he yacido
+      - has yacido
+      - ha yacido
+      - hemos yacido
+      - "hab\xE9is yacido"
+      - han yacido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa yacido"
+      - "hab\xEDas yacido"
+      - "hab\xEDa yacido"
+      - "hab\xEDamos yacido"
+      - "hab\xEDais yacido"
+      - "hab\xEDan yacido"
+      cjid: ppsi
+    - cjfs:
+      - hube yacido
+      - hubiste yacido
+      - hubo yacido
+      - hubimos yacido
+      - hubisteis yacido
+      - hubieron yacido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 yacido"
+      - "habr\xE1s yacido"
+      - "habr\xE1 yacido"
+      - habremos yacido
+      - "habr\xE9is yacido"
+      - "habr\xE1n yacido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa yacido"
+      - "habr\xEDas yacido"
+      - "habr\xEDa yacido"
+      - "habr\xEDamos yacido"
+      - "habr\xEDais yacido"
+      - "habr\xEDan yacido"
+      cjid: cpef
+    - cjfs:
+      - haya yacido
+      - hayas yacido
+      - haya yacido
+      - hayamos yacido
+      - "hay\xE1is yacido"
+      - hayan yacido
+      cjid: ppfs
+    - cjfs:
+      - hubiera yacido
+      - hubieras yacido
+      - hubiera yacido
+      - "hubi\xE9ramos yacido"
+      - hubierais yacido
+      - hubieran yacido
+      cjid: ppss1
+    - cjfs:
+      - hubiese yacido
+      - hubieses yacido
+      - hubiese yacido
+      - "hubi\xE9semos yacido"
+      - hubieseis yacido
+      - hubiesen yacido
+      cjid: ppss2
+    - cjfs:
+      - hubiere yacido
+      - hubieres yacido
+      - hubiere yacido
+      - "hubi\xE9remos yacido"
+      - hubiereis yacido
+      - hubieren yacido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - yaz
+      - yazga
+      - yazgamos
+      - yaced
+      - yazgan
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|alert}'
+  fl: transitive verb
+  hwi:
+    hw: alertar
+  meta:
+    id: alertar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600960000'
+    src: spanish
+    stems:
+    - alertar
+    uuid: 14468d1b-50c1-4ad7-b7d0-f73a8fb82c04
+  shortdef:
+  - to alert
+  suppl:
+    cjts:
+    - cjfs:
+      - alertando
+      - alertado
+      cjid: gppt
+    - cjfs:
+      - alerto
+      - alertas
+      - alerta
+      - alertamos
+      - "alert\xE1is"
+      - alertan
+      cjid: pind
+    - cjfs:
+      - alertaba
+      - alertabas
+      - alertaba
+      - "alert\xE1bamos"
+      - alertabais
+      - alertaban
+      cjid: pret
+    - cjfs:
+      - "alert\xE9"
+      - alertaste
+      - "alert\xF3"
+      - alertamos
+      - alertasteis
+      - alertaron
+      cjid: pprf
+    - cjfs:
+      - "alertar\xE9"
+      - "alertar\xE1s"
+      - "alertar\xE1"
+      - alertaremos
+      - "alertar\xE9is"
+      - "alertar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alertar\xEDa"
+      - "alertar\xEDas"
+      - "alertar\xEDa"
+      - "alertar\xEDamos"
+      - "alertar\xEDais"
+      - "alertar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alerte
+      - alertes
+      - alerte
+      - alertemos
+      - "alert\xE9is"
+      - alerten
+      cjid: psub
+    - cjfs:
+      - alertara
+      - alertaras
+      - alertara
+      - "alert\xE1ramos"
+      - alertarais
+      - alertaran
+      cjid: pisb1
+    - cjfs:
+      - alertase
+      - alertases
+      - alertase
+      - "alert\xE1semos"
+      - alertaseis
+      - alertasen
+      cjid: pisb2
+    - cjfs:
+      - alertare
+      - alertares
+      - alertare
+      - "alert\xE1remos"
+      - alertareis
+      - alertaren
+      cjid: fsub
+    - cjfs:
+      - he alertado
+      - has alertado
+      - ha alertado
+      - hemos alertado
+      - "hab\xE9is alertado"
+      - han alertado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alertado"
+      - "hab\xEDas alertado"
+      - "hab\xEDa alertado"
+      - "hab\xEDamos alertado"
+      - "hab\xEDais alertado"
+      - "hab\xEDan alertado"
+      cjid: ppsi
+    - cjfs:
+      - hube alertado
+      - hubiste alertado
+      - hubo alertado
+      - hubimos alertado
+      - hubisteis alertado
+      - hubieron alertado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alertado"
+      - "habr\xE1s alertado"
+      - "habr\xE1 alertado"
+      - habremos alertado
+      - "habr\xE9is alertado"
+      - "habr\xE1n alertado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alertado"
+      - "habr\xEDas alertado"
+      - "habr\xEDa alertado"
+      - "habr\xEDamos alertado"
+      - "habr\xEDais alertado"
+      - "habr\xEDan alertado"
+      cjid: cpef
+    - cjfs:
+      - haya alertado
+      - hayas alertado
+      - haya alertado
+      - hayamos alertado
+      - "hay\xE1is alertado"
+      - hayan alertado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alertado
+      - hubieras alertado
+      - hubiera alertado
+      - "hubi\xE9ramos alertado"
+      - hubierais alertado
+      - hubieran alertado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alertado
+      - hubieses alertado
+      - hubiese alertado
+      - "hubi\xE9semos alertado"
+      - hubieseis alertado
+      - hubiesen alertado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alertado
+      - hubieres alertado
+      - hubiere alertado
+      - "hubi\xE9remos alertado"
+      - hubiereis alertado
+      - hubieren alertado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alerta
+      - alerte
+      - alertemos
+      - alertad
+      - alerten
+      cjid: impf

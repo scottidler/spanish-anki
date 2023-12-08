@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|morir||} {bc}to pass away, to {a_link|die}'
+  fl: intransitive verb
+  hwi:
+    hw: fallecer
+    prs:
+    - sound:
+        audio: falle01sp
+  meta:
+    id: fallecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609866000'
+    src: spanish
+    stems:
+    - fallecer
+    uuid: ee8955f3-b3e2-4118-bf38-7b3935d563c4
+  shortdef:
+  - 'morir : to pass away, to die'
+  suppl:
+    cjts:
+    - cjfs:
+      - falleciendo
+      - fallecido
+      cjid: gppt
+    - cjfs:
+      - fallezco
+      - falleces
+      - fallece
+      - fallecemos
+      - "fallec\xE9is"
+      - fallecen
+      cjid: pind
+    - cjfs:
+      - "fallec\xEDa"
+      - "fallec\xEDas"
+      - "fallec\xEDa"
+      - "fallec\xEDamos"
+      - "fallec\xEDais"
+      - "fallec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "fallec\xED"
+      - falleciste
+      - "falleci\xF3"
+      - fallecimos
+      - fallecisteis
+      - fallecieron
+      cjid: pprf
+    - cjfs:
+      - "fallecer\xE9"
+      - "fallecer\xE1s"
+      - "fallecer\xE1"
+      - falleceremos
+      - "fallecer\xE9is"
+      - "fallecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fallecer\xEDa"
+      - "fallecer\xEDas"
+      - "fallecer\xEDa"
+      - "fallecer\xEDamos"
+      - "fallecer\xEDais"
+      - "fallecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - fallezca
+      - fallezcas
+      - fallezca
+      - fallezcamos
+      - "fallezc\xE1is"
+      - fallezcan
+      cjid: psub
+    - cjfs:
+      - falleciera
+      - fallecieras
+      - falleciera
+      - "falleci\xE9ramos"
+      - fallecierais
+      - fallecieran
+      cjid: pisb1
+    - cjfs:
+      - falleciese
+      - fallecieses
+      - falleciese
+      - "falleci\xE9semos"
+      - fallecieseis
+      - falleciesen
+      cjid: pisb2
+    - cjfs:
+      - falleciere
+      - fallecieres
+      - falleciere
+      - "falleci\xE9remos"
+      - falleciereis
+      - fallecieren
+      cjid: fsub
+    - cjfs:
+      - he fallecido
+      - has fallecido
+      - ha fallecido
+      - hemos fallecido
+      - "hab\xE9is fallecido"
+      - han fallecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fallecido"
+      - "hab\xEDas fallecido"
+      - "hab\xEDa fallecido"
+      - "hab\xEDamos fallecido"
+      - "hab\xEDais fallecido"
+      - "hab\xEDan fallecido"
+      cjid: ppsi
+    - cjfs:
+      - hube fallecido
+      - hubiste fallecido
+      - hubo fallecido
+      - hubimos fallecido
+      - hubisteis fallecido
+      - hubieron fallecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fallecido"
+      - "habr\xE1s fallecido"
+      - "habr\xE1 fallecido"
+      - habremos fallecido
+      - "habr\xE9is fallecido"
+      - "habr\xE1n fallecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fallecido"
+      - "habr\xEDas fallecido"
+      - "habr\xEDa fallecido"
+      - "habr\xEDamos fallecido"
+      - "habr\xEDais fallecido"
+      - "habr\xEDan fallecido"
+      cjid: cpef
+    - cjfs:
+      - haya fallecido
+      - hayas fallecido
+      - haya fallecido
+      - hayamos fallecido
+      - "hay\xE1is fallecido"
+      - hayan fallecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera fallecido
+      - hubieras fallecido
+      - hubiera fallecido
+      - "hubi\xE9ramos fallecido"
+      - hubierais fallecido
+      - hubieran fallecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese fallecido
+      - hubieses fallecido
+      - hubiese fallecido
+      - "hubi\xE9semos fallecido"
+      - hubieseis fallecido
+      - hubiesen fallecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere fallecido
+      - hubieres fallecido
+      - hubiere fallecido
+      - "hubi\xE9remos fallecido"
+      - hubiereis fallecido
+      - hubieren fallecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fallece
+      - fallezca
+      - fallezcamos
+      - falleced
+      - fallezcan
+      cjid: impf

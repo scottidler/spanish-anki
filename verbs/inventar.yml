@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|invent}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fabricate}, to {a_link|make up}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fabricate}, to {a_link|make up}'
+    drp: inventarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: inventar
+    prs:
+    - sound:
+        audio: inven02sp
+  meta:
+    id: inventar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612980000'
+    src: spanish
+    stems:
+    - inventar
+    - inventarse
+    uuid: 87edfca9-a82b-463c-b26c-452b6028c7e2
+  shortdef:
+  - to invent
+  - to fabricate, to make up
+  suppl:
+    cjts:
+    - cjfs:
+      - inventando
+      - inventado
+      cjid: gppt
+    - cjfs:
+      - invento
+      - inventas
+      - inventa
+      - inventamos
+      - "invent\xE1is"
+      - inventan
+      cjid: pind
+    - cjfs:
+      - inventaba
+      - inventabas
+      - inventaba
+      - "invent\xE1bamos"
+      - inventabais
+      - inventaban
+      cjid: pret
+    - cjfs:
+      - "invent\xE9"
+      - inventaste
+      - "invent\xF3"
+      - inventamos
+      - inventasteis
+      - inventaron
+      cjid: pprf
+    - cjfs:
+      - "inventar\xE9"
+      - "inventar\xE1s"
+      - "inventar\xE1"
+      - inventaremos
+      - "inventar\xE9is"
+      - "inventar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inventar\xEDa"
+      - "inventar\xEDas"
+      - "inventar\xEDa"
+      - "inventar\xEDamos"
+      - "inventar\xEDais"
+      - "inventar\xEDan"
+      cjid: cond
+    - cjfs:
+      - invente
+      - inventes
+      - invente
+      - inventemos
+      - "invent\xE9is"
+      - inventen
+      cjid: psub
+    - cjfs:
+      - inventara
+      - inventaras
+      - inventara
+      - "invent\xE1ramos"
+      - inventarais
+      - inventaran
+      cjid: pisb1
+    - cjfs:
+      - inventase
+      - inventases
+      - inventase
+      - "invent\xE1semos"
+      - inventaseis
+      - inventasen
+      cjid: pisb2
+    - cjfs:
+      - inventare
+      - inventares
+      - inventare
+      - "invent\xE1remos"
+      - inventareis
+      - inventaren
+      cjid: fsub
+    - cjfs:
+      - he inventado
+      - has inventado
+      - ha inventado
+      - hemos inventado
+      - "hab\xE9is inventado"
+      - han inventado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inventado"
+      - "hab\xEDas inventado"
+      - "hab\xEDa inventado"
+      - "hab\xEDamos inventado"
+      - "hab\xEDais inventado"
+      - "hab\xEDan inventado"
+      cjid: ppsi
+    - cjfs:
+      - hube inventado
+      - hubiste inventado
+      - hubo inventado
+      - hubimos inventado
+      - hubisteis inventado
+      - hubieron inventado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inventado"
+      - "habr\xE1s inventado"
+      - "habr\xE1 inventado"
+      - habremos inventado
+      - "habr\xE9is inventado"
+      - "habr\xE1n inventado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inventado"
+      - "habr\xEDas inventado"
+      - "habr\xEDa inventado"
+      - "habr\xEDamos inventado"
+      - "habr\xEDais inventado"
+      - "habr\xEDan inventado"
+      cjid: cpef
+    - cjfs:
+      - haya inventado
+      - hayas inventado
+      - haya inventado
+      - hayamos inventado
+      - "hay\xE1is inventado"
+      - hayan inventado
+      cjid: ppfs
+    - cjfs:
+      - hubiera inventado
+      - hubieras inventado
+      - hubiera inventado
+      - "hubi\xE9ramos inventado"
+      - hubierais inventado
+      - hubieran inventado
+      cjid: ppss1
+    - cjfs:
+      - hubiese inventado
+      - hubieses inventado
+      - hubiese inventado
+      - "hubi\xE9semos inventado"
+      - hubieseis inventado
+      - hubiesen inventado
+      cjid: ppss2
+    - cjfs:
+      - hubiere inventado
+      - hubieres inventado
+      - hubiere inventado
+      - "hubi\xE9remos inventado"
+      - hubiereis inventado
+      - hubieren inventado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inventa
+      - invente
+      - inventemos
+      - inventad
+      - inventen
+      cjid: impf

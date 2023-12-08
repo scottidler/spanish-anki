@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plan}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|glide} (in the air)'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: planear
+    prs:
+    - sound:
+        audio: plane02sp
+  meta:
+    id: planear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617500000'
+    src: spanish
+    stems:
+    - planear
+    uuid: 81bc3a72-b804-4fef-b4c8-00900a8889df
+  shortdef:
+  - to plan
+  - to glide (in the air)
+  suppl:
+    cjts:
+    - cjfs:
+      - planeando
+      - planeado
+      cjid: gppt
+    - cjfs:
+      - planeo
+      - planeas
+      - planea
+      - planeamos
+      - "plane\xE1is"
+      - planean
+      cjid: pind
+    - cjfs:
+      - planeaba
+      - planeabas
+      - planeaba
+      - "plane\xE1bamos"
+      - planeabais
+      - planeaban
+      cjid: pret
+    - cjfs:
+      - "plane\xE9"
+      - planeaste
+      - "plane\xF3"
+      - planeamos
+      - planeasteis
+      - planearon
+      cjid: pprf
+    - cjfs:
+      - "planear\xE9"
+      - "planear\xE1s"
+      - "planear\xE1"
+      - planearemos
+      - "planear\xE9is"
+      - "planear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "planear\xEDa"
+      - "planear\xEDas"
+      - "planear\xEDa"
+      - "planear\xEDamos"
+      - "planear\xEDais"
+      - "planear\xEDan"
+      cjid: cond
+    - cjfs:
+      - planee
+      - planees
+      - planee
+      - planeemos
+      - "plane\xE9is"
+      - planeen
+      cjid: psub
+    - cjfs:
+      - planeara
+      - planearas
+      - planeara
+      - "plane\xE1ramos"
+      - planearais
+      - planearan
+      cjid: pisb1
+    - cjfs:
+      - planease
+      - planeases
+      - planease
+      - "plane\xE1semos"
+      - planeaseis
+      - planeasen
+      cjid: pisb2
+    - cjfs:
+      - planeare
+      - planeares
+      - planeare
+      - "plane\xE1remos"
+      - planeareis
+      - planearen
+      cjid: fsub
+    - cjfs:
+      - he planeado
+      - has planeado
+      - ha planeado
+      - hemos planeado
+      - "hab\xE9is planeado"
+      - han planeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa planeado"
+      - "hab\xEDas planeado"
+      - "hab\xEDa planeado"
+      - "hab\xEDamos planeado"
+      - "hab\xEDais planeado"
+      - "hab\xEDan planeado"
+      cjid: ppsi
+    - cjfs:
+      - hube planeado
+      - hubiste planeado
+      - hubo planeado
+      - hubimos planeado
+      - hubisteis planeado
+      - hubieron planeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 planeado"
+      - "habr\xE1s planeado"
+      - "habr\xE1 planeado"
+      - habremos planeado
+      - "habr\xE9is planeado"
+      - "habr\xE1n planeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa planeado"
+      - "habr\xEDas planeado"
+      - "habr\xEDa planeado"
+      - "habr\xEDamos planeado"
+      - "habr\xEDais planeado"
+      - "habr\xEDan planeado"
+      cjid: cpef
+    - cjfs:
+      - haya planeado
+      - hayas planeado
+      - haya planeado
+      - hayamos planeado
+      - "hay\xE1is planeado"
+      - hayan planeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera planeado
+      - hubieras planeado
+      - hubiera planeado
+      - "hubi\xE9ramos planeado"
+      - hubierais planeado
+      - hubieran planeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese planeado
+      - hubieses planeado
+      - hubiese planeado
+      - "hubi\xE9semos planeado"
+      - hubieseis planeado
+      - hubiesen planeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere planeado
+      - hubieres planeado
+      - hubiere planeado
+      - "hubi\xE9remos planeado"
+      - hubiereis planeado
+      - hubieren planeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - planea
+      - planee
+      - planeemos
+      - planead
+      - planeen
+      cjid: impf

@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make uncomfortable'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inconvenience}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to put oneself out, to take the trouble'
+    drp: incomodarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: incomodar
+  meta:
+    id: incomodar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612163000'
+    src: spanish
+    stems:
+    - incomodar
+    - incomodarse
+    uuid: 9e2be927-6fb3-4d70-85ba-b550b7a8c856
+  shortdef:
+  - to make uncomfortable
+  - to inconvenience
+  suppl:
+    cjts:
+    - cjfs:
+      - incomodando
+      - incomodado
+      cjid: gppt
+    - cjfs:
+      - incomodo
+      - incomodas
+      - incomoda
+      - incomodamos
+      - "incomod\xE1is"
+      - incomodan
+      cjid: pind
+    - cjfs:
+      - incomodaba
+      - incomodabas
+      - incomodaba
+      - "incomod\xE1bamos"
+      - incomodabais
+      - incomodaban
+      cjid: pret
+    - cjfs:
+      - "incomod\xE9"
+      - incomodaste
+      - "incomod\xF3"
+      - incomodamos
+      - incomodasteis
+      - incomodaron
+      cjid: pprf
+    - cjfs:
+      - "incomodar\xE9"
+      - "incomodar\xE1s"
+      - "incomodar\xE1"
+      - incomodaremos
+      - "incomodar\xE9is"
+      - "incomodar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "incomodar\xEDa"
+      - "incomodar\xEDas"
+      - "incomodar\xEDa"
+      - "incomodar\xEDamos"
+      - "incomodar\xEDais"
+      - "incomodar\xEDan"
+      cjid: cond
+    - cjfs:
+      - incomode
+      - incomodes
+      - incomode
+      - incomodemos
+      - "incomod\xE9is"
+      - incomoden
+      cjid: psub
+    - cjfs:
+      - incomodara
+      - incomodaras
+      - incomodara
+      - "incomod\xE1ramos"
+      - incomodarais
+      - incomodaran
+      cjid: pisb1
+    - cjfs:
+      - incomodase
+      - incomodases
+      - incomodase
+      - "incomod\xE1semos"
+      - incomodaseis
+      - incomodasen
+      cjid: pisb2
+    - cjfs:
+      - incomodare
+      - incomodares
+      - incomodare
+      - "incomod\xE1remos"
+      - incomodareis
+      - incomodaren
+      cjid: fsub
+    - cjfs:
+      - he incomodado
+      - has incomodado
+      - ha incomodado
+      - hemos incomodado
+      - "hab\xE9is incomodado"
+      - han incomodado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa incomodado"
+      - "hab\xEDas incomodado"
+      - "hab\xEDa incomodado"
+      - "hab\xEDamos incomodado"
+      - "hab\xEDais incomodado"
+      - "hab\xEDan incomodado"
+      cjid: ppsi
+    - cjfs:
+      - hube incomodado
+      - hubiste incomodado
+      - hubo incomodado
+      - hubimos incomodado
+      - hubisteis incomodado
+      - hubieron incomodado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 incomodado"
+      - "habr\xE1s incomodado"
+      - "habr\xE1 incomodado"
+      - habremos incomodado
+      - "habr\xE9is incomodado"
+      - "habr\xE1n incomodado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa incomodado"
+      - "habr\xEDas incomodado"
+      - "habr\xEDa incomodado"
+      - "habr\xEDamos incomodado"
+      - "habr\xEDais incomodado"
+      - "habr\xEDan incomodado"
+      cjid: cpef
+    - cjfs:
+      - haya incomodado
+      - hayas incomodado
+      - haya incomodado
+      - hayamos incomodado
+      - "hay\xE1is incomodado"
+      - hayan incomodado
+      cjid: ppfs
+    - cjfs:
+      - hubiera incomodado
+      - hubieras incomodado
+      - hubiera incomodado
+      - "hubi\xE9ramos incomodado"
+      - hubierais incomodado
+      - hubieran incomodado
+      cjid: ppss1
+    - cjfs:
+      - hubiese incomodado
+      - hubieses incomodado
+      - hubiese incomodado
+      - "hubi\xE9semos incomodado"
+      - hubieseis incomodado
+      - hubiesen incomodado
+      cjid: ppss2
+    - cjfs:
+      - hubiere incomodado
+      - hubieres incomodado
+      - hubiere incomodado
+      - "hubi\xE9remos incomodado"
+      - hubiereis incomodado
+      - hubieren incomodado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - incomoda
+      - incomode
+      - incomodemos
+      - incomodad
+      - incomoden
+      cjid: impf

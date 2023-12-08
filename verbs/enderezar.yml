@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|straighten} (out)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stand on end}, to put upright'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|straighten up}, to sit/stand (up) {a_link|straight}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|arreglarse||} {bc}to {a_link|straighten out}, to {a_link|improve}'
+            sn: '2'
+    drp: enderezarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enderezar
+    prs:
+    - sound:
+        audio: ender01sp
+  meta:
+    id: enderezar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608516000'
+    src: spanish
+    stems:
+    - enderezar
+    - enderezarse
+    uuid: 0f279f13-2c58-4cc2-9c6a-e36b57e96b7e
+  shortdef:
+  - to straighten (out)
+  - to stand on end, to put upright
+  suppl:
+    cjts:
+    - cjfs:
+      - enderezando
+      - enderezado
+      cjid: gppt
+    - cjfs:
+      - enderezo
+      - enderezas
+      - endereza
+      - enderezamos
+      - "enderez\xE1is"
+      - enderezan
+      cjid: pind
+    - cjfs:
+      - enderezaba
+      - enderezabas
+      - enderezaba
+      - "enderez\xE1bamos"
+      - enderezabais
+      - enderezaban
+      cjid: pret
+    - cjfs:
+      - "enderec\xE9"
+      - enderezaste
+      - "enderez\xF3"
+      - enderezamos
+      - enderezasteis
+      - enderezaron
+      cjid: pprf
+    - cjfs:
+      - "enderezar\xE9"
+      - "enderezar\xE1s"
+      - "enderezar\xE1"
+      - enderezaremos
+      - "enderezar\xE9is"
+      - "enderezar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enderezar\xEDa"
+      - "enderezar\xEDas"
+      - "enderezar\xEDa"
+      - "enderezar\xEDamos"
+      - "enderezar\xEDais"
+      - "enderezar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enderece
+      - endereces
+      - enderece
+      - enderecemos
+      - "enderec\xE9is"
+      - enderecen
+      cjid: psub
+    - cjfs:
+      - enderezara
+      - enderezaras
+      - enderezara
+      - "enderez\xE1ramos"
+      - enderezarais
+      - enderezaran
+      cjid: pisb1
+    - cjfs:
+      - enderezase
+      - enderezases
+      - enderezase
+      - "enderez\xE1semos"
+      - enderezaseis
+      - enderezasen
+      cjid: pisb2
+    - cjfs:
+      - enderezare
+      - enderezares
+      - enderezare
+      - "enderez\xE1remos"
+      - enderezareis
+      - enderezaren
+      cjid: fsub
+    - cjfs:
+      - he enderezado
+      - has enderezado
+      - ha enderezado
+      - hemos enderezado
+      - "hab\xE9is enderezado"
+      - han enderezado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enderezado"
+      - "hab\xEDas enderezado"
+      - "hab\xEDa enderezado"
+      - "hab\xEDamos enderezado"
+      - "hab\xEDais enderezado"
+      - "hab\xEDan enderezado"
+      cjid: ppsi
+    - cjfs:
+      - hube enderezado
+      - hubiste enderezado
+      - hubo enderezado
+      - hubimos enderezado
+      - hubisteis enderezado
+      - hubieron enderezado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enderezado"
+      - "habr\xE1s enderezado"
+      - "habr\xE1 enderezado"
+      - habremos enderezado
+      - "habr\xE9is enderezado"
+      - "habr\xE1n enderezado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enderezado"
+      - "habr\xEDas enderezado"
+      - "habr\xEDa enderezado"
+      - "habr\xEDamos enderezado"
+      - "habr\xEDais enderezado"
+      - "habr\xEDan enderezado"
+      cjid: cpef
+    - cjfs:
+      - haya enderezado
+      - hayas enderezado
+      - haya enderezado
+      - hayamos enderezado
+      - "hay\xE1is enderezado"
+      - hayan enderezado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enderezado
+      - hubieras enderezado
+      - hubiera enderezado
+      - "hubi\xE9ramos enderezado"
+      - hubierais enderezado
+      - hubieran enderezado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enderezado
+      - hubieses enderezado
+      - hubiese enderezado
+      - "hubi\xE9semos enderezado"
+      - hubieseis enderezado
+      - hubiesen enderezado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enderezado
+      - hubieres enderezado
+      - hubiere enderezado
+      - "hubi\xE9remos enderezado"
+      - hubiereis enderezado
+      - hubieren enderezado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - endereza
+      - enderece
+      - enderecemos
+      - enderezad
+      - enderecen
+      cjid: impf

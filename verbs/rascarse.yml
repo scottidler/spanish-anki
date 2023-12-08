@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scratch}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scrape}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to scratch an itch'
+    drp: rascarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: rascar
+    prs:
+    - sound:
+        audio: rasca02sp
+  meta:
+    id: rascar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618801000'
+    src: spanish
+    stems:
+    - rascar
+    - rascarse
+    uuid: b9649843-a70f-40d9-b423-fa443c1abbc9
+  shortdef:
+  - to scratch
+  - to scrape
+  suppl:
+    cjts:
+    - cjfs:
+      - rascando
+      - rascado
+      cjid: gppt
+    - cjfs:
+      - rasco
+      - rascas
+      - rasca
+      - rascamos
+      - "rasc\xE1is"
+      - rascan
+      cjid: pind
+    - cjfs:
+      - rascaba
+      - rascabas
+      - rascaba
+      - "rasc\xE1bamos"
+      - rascabais
+      - rascaban
+      cjid: pret
+    - cjfs:
+      - "rasqu\xE9"
+      - rascaste
+      - "rasc\xF3"
+      - rascamos
+      - rascasteis
+      - rascaron
+      cjid: pprf
+    - cjfs:
+      - "rascar\xE9"
+      - "rascar\xE1s"
+      - "rascar\xE1"
+      - rascaremos
+      - "rascar\xE9is"
+      - "rascar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rascar\xEDa"
+      - "rascar\xEDas"
+      - "rascar\xEDa"
+      - "rascar\xEDamos"
+      - "rascar\xEDais"
+      - "rascar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rasque
+      - rasques
+      - rasque
+      - rasquemos
+      - "rasqu\xE9is"
+      - rasquen
+      cjid: psub
+    - cjfs:
+      - rascara
+      - rascaras
+      - rascara
+      - "rasc\xE1ramos"
+      - rascarais
+      - rascaran
+      cjid: pisb1
+    - cjfs:
+      - rascase
+      - rascases
+      - rascase
+      - "rasc\xE1semos"
+      - rascaseis
+      - rascasen
+      cjid: pisb2
+    - cjfs:
+      - rascare
+      - rascares
+      - rascare
+      - "rasc\xE1remos"
+      - rascareis
+      - rascaren
+      cjid: fsub
+    - cjfs:
+      - he rascado
+      - has rascado
+      - ha rascado
+      - hemos rascado
+      - "hab\xE9is rascado"
+      - han rascado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rascado"
+      - "hab\xEDas rascado"
+      - "hab\xEDa rascado"
+      - "hab\xEDamos rascado"
+      - "hab\xEDais rascado"
+      - "hab\xEDan rascado"
+      cjid: ppsi
+    - cjfs:
+      - hube rascado
+      - hubiste rascado
+      - hubo rascado
+      - hubimos rascado
+      - hubisteis rascado
+      - hubieron rascado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rascado"
+      - "habr\xE1s rascado"
+      - "habr\xE1 rascado"
+      - habremos rascado
+      - "habr\xE9is rascado"
+      - "habr\xE1n rascado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rascado"
+      - "habr\xEDas rascado"
+      - "habr\xEDa rascado"
+      - "habr\xEDamos rascado"
+      - "habr\xEDais rascado"
+      - "habr\xEDan rascado"
+      cjid: cpef
+    - cjfs:
+      - haya rascado
+      - hayas rascado
+      - haya rascado
+      - hayamos rascado
+      - "hay\xE1is rascado"
+      - hayan rascado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rascado
+      - hubieras rascado
+      - hubiera rascado
+      - "hubi\xE9ramos rascado"
+      - hubierais rascado
+      - hubieran rascado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rascado
+      - hubieses rascado
+      - hubiese rascado
+      - "hubi\xE9semos rascado"
+      - hubieseis rascado
+      - hubiesen rascado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rascado
+      - hubieres rascado
+      - hubiere rascado
+      - "hubi\xE9remos rascado"
+      - hubiereis rascado
+      - hubieren rascado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rasca
+      - rasque
+      - rasquemos
+      - rascad
+      - rasquen
+      cjid: impf

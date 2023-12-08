@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stone}, to throw stones at'
+  fl: transitive verb
+  hwi:
+    hw: apedrear
+  meta:
+    id: apedrear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601675000'
+    src: spanish
+    stems:
+    - apedrear
+    uuid: 1530dddb-477c-4e1f-a6dc-fe57ce5be81c
+  shortdef:
+  - to stone, to throw stones at
+  suppl:
+    cjts:
+    - cjfs:
+      - apedreando
+      - apedreado
+      cjid: gppt
+    - cjfs:
+      - apedreo
+      - apedreas
+      - apedrea
+      - apedreamos
+      - "apedre\xE1is"
+      - apedrean
+      cjid: pind
+    - cjfs:
+      - apedreaba
+      - apedreabas
+      - apedreaba
+      - "apedre\xE1bamos"
+      - apedreabais
+      - apedreaban
+      cjid: pret
+    - cjfs:
+      - "apedre\xE9"
+      - apedreaste
+      - "apedre\xF3"
+      - apedreamos
+      - apedreasteis
+      - apedrearon
+      cjid: pprf
+    - cjfs:
+      - "apedrear\xE9"
+      - "apedrear\xE1s"
+      - "apedrear\xE1"
+      - apedrearemos
+      - "apedrear\xE9is"
+      - "apedrear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apedrear\xEDa"
+      - "apedrear\xEDas"
+      - "apedrear\xEDa"
+      - "apedrear\xEDamos"
+      - "apedrear\xEDais"
+      - "apedrear\xEDan"
+      cjid: cond
+    - cjfs:
+      - apedree
+      - apedrees
+      - apedree
+      - apedreemos
+      - "apedre\xE9is"
+      - apedreen
+      cjid: psub
+    - cjfs:
+      - apedreara
+      - apedrearas
+      - apedreara
+      - "apedre\xE1ramos"
+      - apedrearais
+      - apedrearan
+      cjid: pisb1
+    - cjfs:
+      - apedrease
+      - apedreases
+      - apedrease
+      - "apedre\xE1semos"
+      - apedreaseis
+      - apedreasen
+      cjid: pisb2
+    - cjfs:
+      - apedreare
+      - apedreares
+      - apedreare
+      - "apedre\xE1remos"
+      - apedreareis
+      - apedrearen
+      cjid: fsub
+    - cjfs:
+      - he apedreado
+      - has apedreado
+      - ha apedreado
+      - hemos apedreado
+      - "hab\xE9is apedreado"
+      - han apedreado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apedreado"
+      - "hab\xEDas apedreado"
+      - "hab\xEDa apedreado"
+      - "hab\xEDamos apedreado"
+      - "hab\xEDais apedreado"
+      - "hab\xEDan apedreado"
+      cjid: ppsi
+    - cjfs:
+      - hube apedreado
+      - hubiste apedreado
+      - hubo apedreado
+      - hubimos apedreado
+      - hubisteis apedreado
+      - hubieron apedreado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apedreado"
+      - "habr\xE1s apedreado"
+      - "habr\xE1 apedreado"
+      - habremos apedreado
+      - "habr\xE9is apedreado"
+      - "habr\xE1n apedreado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apedreado"
+      - "habr\xEDas apedreado"
+      - "habr\xEDa apedreado"
+      - "habr\xEDamos apedreado"
+      - "habr\xEDais apedreado"
+      - "habr\xEDan apedreado"
+      cjid: cpef
+    - cjfs:
+      - haya apedreado
+      - hayas apedreado
+      - haya apedreado
+      - hayamos apedreado
+      - "hay\xE1is apedreado"
+      - hayan apedreado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apedreado
+      - hubieras apedreado
+      - hubiera apedreado
+      - "hubi\xE9ramos apedreado"
+      - hubierais apedreado
+      - hubieran apedreado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apedreado
+      - hubieses apedreado
+      - hubiese apedreado
+      - "hubi\xE9semos apedreado"
+      - hubieseis apedreado
+      - hubiesen apedreado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apedreado
+      - hubieres apedreado
+      - hubiere apedreado
+      - "hubi\xE9remos apedreado"
+      - hubiereis apedreado
+      - hubieren apedreado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apedrea
+      - apedree
+      - apedreemos
+      - apedread
+      - apedreen
+      cjid: impf

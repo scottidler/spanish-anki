@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bend}, to {a_link|twist}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sprain}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn} (a corner)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wring}, to {a_link|wring out}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|distort}'
+          sn: '5'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: torcer
+    prs:
+    - sound:
+        audio: torce01sp
+  meta:
+    id: torcer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621981000'
+    src: spanish
+    stems:
+    - torcer
+    - torcerse
+    uuid: e1b50c27-07da-49b2-94a6-f06a3c0ae88d
+  shortdef:
+  - to bend, to twist
+  - to sprain
+  - to turn (a corner)
+  suppl:
+    cjts:
+    - cjfs:
+      - torciendo
+      - torcido
+      cjid: gppt
+    - cjfs:
+      - tuerzo
+      - tuerces
+      - tuerce
+      - torcemos
+      - "torc\xE9is"
+      - tuercen
+      cjid: pind
+    - cjfs:
+      - "torc\xEDa"
+      - "torc\xEDas"
+      - "torc\xEDa"
+      - "torc\xEDamos"
+      - "torc\xEDais"
+      - "torc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "torc\xED"
+      - torciste
+      - "torci\xF3"
+      - torcimos
+      - torcisteis
+      - torcieron
+      cjid: pprf
+    - cjfs:
+      - "torcer\xE9"
+      - "torcer\xE1s"
+      - "torcer\xE1"
+      - torceremos
+      - "torcer\xE9is"
+      - "torcer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "torcer\xEDa"
+      - "torcer\xEDas"
+      - "torcer\xEDa"
+      - "torcer\xEDamos"
+      - "torcer\xEDais"
+      - "torcer\xEDan"
+      cjid: cond
+    - cjfs:
+      - tuerza
+      - tuerzas
+      - tuerza
+      - torzamos
+      - "torz\xE1is"
+      - tuerzan
+      cjid: psub
+    - cjfs:
+      - torciera
+      - torcieras
+      - torciera
+      - "torci\xE9ramos"
+      - torcierais
+      - torcieran
+      cjid: pisb1
+    - cjfs:
+      - torciese
+      - torcieses
+      - torciese
+      - "torci\xE9semos"
+      - torcieseis
+      - torciesen
+      cjid: pisb2
+    - cjfs:
+      - torciere
+      - torcieres
+      - torciere
+      - "torci\xE9remos"
+      - torciereis
+      - torcieren
+      cjid: fsub
+    - cjfs:
+      - he torcido
+      - has torcido
+      - ha torcido
+      - hemos torcido
+      - "hab\xE9is torcido"
+      - han torcido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa torcido"
+      - "hab\xEDas torcido"
+      - "hab\xEDa torcido"
+      - "hab\xEDamos torcido"
+      - "hab\xEDais torcido"
+      - "hab\xEDan torcido"
+      cjid: ppsi
+    - cjfs:
+      - hube torcido
+      - hubiste torcido
+      - hubo torcido
+      - hubimos torcido
+      - hubisteis torcido
+      - hubieron torcido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 torcido"
+      - "habr\xE1s torcido"
+      - "habr\xE1 torcido"
+      - habremos torcido
+      - "habr\xE9is torcido"
+      - "habr\xE1n torcido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa torcido"
+      - "habr\xEDas torcido"
+      - "habr\xEDa torcido"
+      - "habr\xEDamos torcido"
+      - "habr\xEDais torcido"
+      - "habr\xEDan torcido"
+      cjid: cpef
+    - cjfs:
+      - haya torcido
+      - hayas torcido
+      - haya torcido
+      - hayamos torcido
+      - "hay\xE1is torcido"
+      - hayan torcido
+      cjid: ppfs
+    - cjfs:
+      - hubiera torcido
+      - hubieras torcido
+      - hubiera torcido
+      - "hubi\xE9ramos torcido"
+      - hubierais torcido
+      - hubieran torcido
+      cjid: ppss1
+    - cjfs:
+      - hubiese torcido
+      - hubieses torcido
+      - hubiese torcido
+      - "hubi\xE9semos torcido"
+      - hubieseis torcido
+      - hubiesen torcido
+      cjid: ppss2
+    - cjfs:
+      - hubiere torcido
+      - hubieres torcido
+      - hubiere torcido
+      - "hubi\xE9remos torcido"
+      - hubiereis torcido
+      - hubieren torcido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tuerce
+      - tuerza
+      - torzamos
+      - torced
+      - tuerzan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: torcerse

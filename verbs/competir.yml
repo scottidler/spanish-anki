@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|compete}'
+  fl: intransitive verb
+  hwi:
+    hw: competir
+    prs:
+    - sound:
+        audio: compe05sp
+  meta:
+    id: competir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605251000'
+    src: spanish
+    stems:
+    - competir
+    uuid: 1ab58e43-5a54-4c89-93e3-507f9486e8b7
+  shortdef:
+  - to compete
+  suppl:
+    cjts:
+    - cjfs:
+      - compitiendo
+      - competido
+      cjid: gppt
+    - cjfs:
+      - compito
+      - compites
+      - compite
+      - competimos
+      - "compet\xEDs"
+      - compiten
+      cjid: pind
+    - cjfs:
+      - "compet\xEDa"
+      - "compet\xEDas"
+      - "compet\xEDa"
+      - "compet\xEDamos"
+      - "compet\xEDais"
+      - "compet\xEDan"
+      cjid: pret
+    - cjfs:
+      - "compet\xED"
+      - competiste
+      - "compiti\xF3"
+      - competimos
+      - competisteis
+      - compitieron
+      cjid: pprf
+    - cjfs:
+      - "competir\xE9"
+      - "competir\xE1s"
+      - "competir\xE1"
+      - competiremos
+      - "competir\xE9is"
+      - "competir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "competir\xEDa"
+      - "competir\xEDas"
+      - "competir\xEDa"
+      - "competir\xEDamos"
+      - "competir\xEDais"
+      - "competir\xEDan"
+      cjid: cond
+    - cjfs:
+      - compita
+      - compitas
+      - compita
+      - compitamos
+      - "compit\xE1is"
+      - compitan
+      cjid: psub
+    - cjfs:
+      - compitiera
+      - compitieras
+      - compitiera
+      - "compiti\xE9ramos"
+      - compitierais
+      - compitieran
+      cjid: pisb1
+    - cjfs:
+      - compitiese
+      - compitieses
+      - compitiese
+      - "compiti\xE9semos"
+      - compitieseis
+      - compitiesen
+      cjid: pisb2
+    - cjfs:
+      - compitiere
+      - compitieres
+      - compitiere
+      - "compiti\xE9remos"
+      - compitiereis
+      - compitieren
+      cjid: fsub
+    - cjfs:
+      - he competido
+      - has competido
+      - ha competido
+      - hemos competido
+      - "hab\xE9is competido"
+      - han competido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa competido"
+      - "hab\xEDas competido"
+      - "hab\xEDa competido"
+      - "hab\xEDamos competido"
+      - "hab\xEDais competido"
+      - "hab\xEDan competido"
+      cjid: ppsi
+    - cjfs:
+      - hube competido
+      - hubiste competido
+      - hubo competido
+      - hubimos competido
+      - hubisteis competido
+      - hubieron competido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 competido"
+      - "habr\xE1s competido"
+      - "habr\xE1 competido"
+      - habremos competido
+      - "habr\xE9is competido"
+      - "habr\xE1n competido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa competido"
+      - "habr\xEDas competido"
+      - "habr\xEDa competido"
+      - "habr\xEDamos competido"
+      - "habr\xEDais competido"
+      - "habr\xEDan competido"
+      cjid: cpef
+    - cjfs:
+      - haya competido
+      - hayas competido
+      - haya competido
+      - hayamos competido
+      - "hay\xE1is competido"
+      - hayan competido
+      cjid: ppfs
+    - cjfs:
+      - hubiera competido
+      - hubieras competido
+      - hubiera competido
+      - "hubi\xE9ramos competido"
+      - hubierais competido
+      - hubieran competido
+      cjid: ppss1
+    - cjfs:
+      - hubiese competido
+      - hubieses competido
+      - hubiese competido
+      - "hubi\xE9semos competido"
+      - hubieseis competido
+      - hubiesen competido
+      cjid: ppss2
+    - cjfs:
+      - hubiere competido
+      - hubieres competido
+      - hubiere competido
+      - "hubi\xE9remos competido"
+      - hubiereis competido
+      - hubieren competido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - compite
+      - compita
+      - compitamos
+      - competid
+      - compitan
+      cjid: impf

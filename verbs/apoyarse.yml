@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|support}, to {a_link|back}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lean}, to {a_link|rest}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to lean on'
+            sn: '1'
+            vrs:
+            - va: apoyarse en
+              vac: ~ en
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be based on, to {a_link|rest on}'
+            sn: '2'
+            vrs:
+            - va: apoyarse en
+              vac: ~ en
+    drp: apoyarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apoyar
+    prs:
+    - sound:
+        audio: apoya01sp
+  meta:
+    id: apoyar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601770000'
+    src: spanish
+    stems:
+    - apoyar
+    - apoyarse
+    - apoyarse en
+    uuid: 55d04758-57c5-4614-b29d-e5eb692dbb89
+  shortdef:
+  - to support, to back
+  - to lean, to rest
+  suppl:
+    cjts:
+    - cjfs:
+      - apoyando
+      - apoyado
+      cjid: gppt
+    - cjfs:
+      - apoyo
+      - apoyas
+      - apoya
+      - apoyamos
+      - "apoy\xE1is"
+      - apoyan
+      cjid: pind
+    - cjfs:
+      - apoyaba
+      - apoyabas
+      - apoyaba
+      - "apoy\xE1bamos"
+      - apoyabais
+      - apoyaban
+      cjid: pret
+    - cjfs:
+      - "apoy\xE9"
+      - apoyaste
+      - "apoy\xF3"
+      - apoyamos
+      - apoyasteis
+      - apoyaron
+      cjid: pprf
+    - cjfs:
+      - "apoyar\xE9"
+      - "apoyar\xE1s"
+      - "apoyar\xE1"
+      - apoyaremos
+      - "apoyar\xE9is"
+      - "apoyar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apoyar\xEDa"
+      - "apoyar\xEDas"
+      - "apoyar\xEDa"
+      - "apoyar\xEDamos"
+      - "apoyar\xEDais"
+      - "apoyar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apoye
+      - apoyes
+      - apoye
+      - apoyemos
+      - "apoy\xE9is"
+      - apoyen
+      cjid: psub
+    - cjfs:
+      - apoyara
+      - apoyaras
+      - apoyara
+      - "apoy\xE1ramos"
+      - apoyarais
+      - apoyaran
+      cjid: pisb1
+    - cjfs:
+      - apoyase
+      - apoyases
+      - apoyase
+      - "apoy\xE1semos"
+      - apoyaseis
+      - apoyasen
+      cjid: pisb2
+    - cjfs:
+      - apoyare
+      - apoyares
+      - apoyare
+      - "apoy\xE1remos"
+      - apoyareis
+      - apoyaren
+      cjid: fsub
+    - cjfs:
+      - he apoyado
+      - has apoyado
+      - ha apoyado
+      - hemos apoyado
+      - "hab\xE9is apoyado"
+      - han apoyado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apoyado"
+      - "hab\xEDas apoyado"
+      - "hab\xEDa apoyado"
+      - "hab\xEDamos apoyado"
+      - "hab\xEDais apoyado"
+      - "hab\xEDan apoyado"
+      cjid: ppsi
+    - cjfs:
+      - hube apoyado
+      - hubiste apoyado
+      - hubo apoyado
+      - hubimos apoyado
+      - hubisteis apoyado
+      - hubieron apoyado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apoyado"
+      - "habr\xE1s apoyado"
+      - "habr\xE1 apoyado"
+      - habremos apoyado
+      - "habr\xE9is apoyado"
+      - "habr\xE1n apoyado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apoyado"
+      - "habr\xEDas apoyado"
+      - "habr\xEDa apoyado"
+      - "habr\xEDamos apoyado"
+      - "habr\xEDais apoyado"
+      - "habr\xEDan apoyado"
+      cjid: cpef
+    - cjfs:
+      - haya apoyado
+      - hayas apoyado
+      - haya apoyado
+      - hayamos apoyado
+      - "hay\xE1is apoyado"
+      - hayan apoyado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apoyado
+      - hubieras apoyado
+      - hubiera apoyado
+      - "hubi\xE9ramos apoyado"
+      - hubierais apoyado
+      - hubieran apoyado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apoyado
+      - hubieses apoyado
+      - hubiese apoyado
+      - "hubi\xE9semos apoyado"
+      - hubieseis apoyado
+      - hubiesen apoyado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apoyado
+      - hubieres apoyado
+      - hubiere apoyado
+      - "hubi\xE9remos apoyado"
+      - hubiereis apoyado
+      - hubieren apoyado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apoya
+      - apoye
+      - apoyemos
+      - apoyad
+      - apoyen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|debilitate}, to {a_link|weaken}'
+  fl: transitive verb
+  hwi:
+    hw: debilitar
+    prs:
+    - sound:
+        audio: debil03sp
+  meta:
+    id: debilitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606463000'
+    src: spanish
+    stems:
+    - debilitar
+    - debilitarse
+    uuid: acf4bbb1-5020-4b74-a2a8-020b2e7a071d
+  shortdef:
+  - to debilitate, to weaken
+  suppl:
+    cjts:
+    - cjfs:
+      - debilitando
+      - debilitado
+      cjid: gppt
+    - cjfs:
+      - debilito
+      - debilitas
+      - debilita
+      - debilitamos
+      - "debilit\xE1is"
+      - debilitan
+      cjid: pind
+    - cjfs:
+      - debilitaba
+      - debilitabas
+      - debilitaba
+      - "debilit\xE1bamos"
+      - debilitabais
+      - debilitaban
+      cjid: pret
+    - cjfs:
+      - "debilit\xE9"
+      - debilitaste
+      - "debilit\xF3"
+      - debilitamos
+      - debilitasteis
+      - debilitaron
+      cjid: pprf
+    - cjfs:
+      - "debilitar\xE9"
+      - "debilitar\xE1s"
+      - "debilitar\xE1"
+      - debilitaremos
+      - "debilitar\xE9is"
+      - "debilitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "debilitar\xEDa"
+      - "debilitar\xEDas"
+      - "debilitar\xEDa"
+      - "debilitar\xEDamos"
+      - "debilitar\xEDais"
+      - "debilitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - debilite
+      - debilites
+      - debilite
+      - debilitemos
+      - "debilit\xE9is"
+      - debiliten
+      cjid: psub
+    - cjfs:
+      - debilitara
+      - debilitaras
+      - debilitara
+      - "debilit\xE1ramos"
+      - debilitarais
+      - debilitaran
+      cjid: pisb1
+    - cjfs:
+      - debilitase
+      - debilitases
+      - debilitase
+      - "debilit\xE1semos"
+      - debilitaseis
+      - debilitasen
+      cjid: pisb2
+    - cjfs:
+      - debilitare
+      - debilitares
+      - debilitare
+      - "debilit\xE1remos"
+      - debilitareis
+      - debilitaren
+      cjid: fsub
+    - cjfs:
+      - he debilitado
+      - has debilitado
+      - ha debilitado
+      - hemos debilitado
+      - "hab\xE9is debilitado"
+      - han debilitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa debilitado"
+      - "hab\xEDas debilitado"
+      - "hab\xEDa debilitado"
+      - "hab\xEDamos debilitado"
+      - "hab\xEDais debilitado"
+      - "hab\xEDan debilitado"
+      cjid: ppsi
+    - cjfs:
+      - hube debilitado
+      - hubiste debilitado
+      - hubo debilitado
+      - hubimos debilitado
+      - hubisteis debilitado
+      - hubieron debilitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 debilitado"
+      - "habr\xE1s debilitado"
+      - "habr\xE1 debilitado"
+      - habremos debilitado
+      - "habr\xE9is debilitado"
+      - "habr\xE1n debilitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa debilitado"
+      - "habr\xEDas debilitado"
+      - "habr\xEDa debilitado"
+      - "habr\xEDamos debilitado"
+      - "habr\xEDais debilitado"
+      - "habr\xEDan debilitado"
+      cjid: cpef
+    - cjfs:
+      - haya debilitado
+      - hayas debilitado
+      - haya debilitado
+      - hayamos debilitado
+      - "hay\xE1is debilitado"
+      - hayan debilitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera debilitado
+      - hubieras debilitado
+      - hubiera debilitado
+      - "hubi\xE9ramos debilitado"
+      - hubierais debilitado
+      - hubieran debilitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese debilitado
+      - hubieses debilitado
+      - hubiese debilitado
+      - "hubi\xE9semos debilitado"
+      - hubieseis debilitado
+      - hubiesen debilitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere debilitado
+      - hubieres debilitado
+      - hubiere debilitado
+      - "hubi\xE9remos debilitado"
+      - hubiereis debilitado
+      - hubieren debilitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - debilita
+      - debilite
+      - debilitemos
+      - debilitad
+      - debiliten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: debilitarse

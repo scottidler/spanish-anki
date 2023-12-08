@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|describe}'
+  fl: transitive verb
+  hwi:
+    hw: describir
+    prs:
+    - sound:
+        audio: descr01sp
+  meta:
+    id: describir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606976000'
+    src: spanish
+    stems:
+    - describir
+    uuid: 31e9c81f-6db4-4612-8d71-02ea529487a6
+  shortdef:
+  - to describe
+  suppl:
+    cjts:
+    - cjfs:
+      - describiendo
+      - descrito
+      cjid: gppt
+    - cjfs:
+      - describo
+      - describes
+      - describe
+      - describimos
+      - "describ\xEDs"
+      - describen
+      cjid: pind
+    - cjfs:
+      - "describ\xEDa"
+      - "describ\xEDas"
+      - "describ\xEDa"
+      - "describ\xEDamos"
+      - "describ\xEDais"
+      - "describ\xEDan"
+      cjid: pret
+    - cjfs:
+      - "describ\xED"
+      - describiste
+      - "describi\xF3"
+      - describimos
+      - describisteis
+      - describieron
+      cjid: pprf
+    - cjfs:
+      - "describir\xE9"
+      - "describir\xE1s"
+      - "describir\xE1"
+      - describiremos
+      - "describir\xE9is"
+      - "describir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "describir\xEDa"
+      - "describir\xEDas"
+      - "describir\xEDa"
+      - "describir\xEDamos"
+      - "describir\xEDais"
+      - "describir\xEDan"
+      cjid: cond
+    - cjfs:
+      - describa
+      - describas
+      - describa
+      - describamos
+      - "describ\xE1is"
+      - describan
+      cjid: psub
+    - cjfs:
+      - describiera
+      - describieras
+      - describiera
+      - "describi\xE9ramos"
+      - describierais
+      - describieran
+      cjid: pisb1
+    - cjfs:
+      - describiese
+      - describieses
+      - describiese
+      - "describi\xE9semos"
+      - describieseis
+      - describiesen
+      cjid: pisb2
+    - cjfs:
+      - describiere
+      - describieres
+      - describiere
+      - "describi\xE9remos"
+      - describiereis
+      - describieren
+      cjid: fsub
+    - cjfs:
+      - he descrito
+      - has descrito
+      - ha descrito
+      - hemos descrito
+      - "hab\xE9is descrito"
+      - han descrito
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa descrito"
+      - "hab\xEDas descrito"
+      - "hab\xEDa descrito"
+      - "hab\xEDamos descrito"
+      - "hab\xEDais descrito"
+      - "hab\xEDan descrito"
+      cjid: ppsi
+    - cjfs:
+      - hube descrito
+      - hubiste descrito
+      - hubo descrito
+      - hubimos descrito
+      - hubisteis descrito
+      - hubieron descrito
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 descrito"
+      - "habr\xE1s descrito"
+      - "habr\xE1 descrito"
+      - habremos descrito
+      - "habr\xE9is descrito"
+      - "habr\xE1n descrito"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa descrito"
+      - "habr\xEDas descrito"
+      - "habr\xEDa descrito"
+      - "habr\xEDamos descrito"
+      - "habr\xEDais descrito"
+      - "habr\xEDan descrito"
+      cjid: cpef
+    - cjfs:
+      - haya descrito
+      - hayas descrito
+      - haya descrito
+      - hayamos descrito
+      - "hay\xE1is descrito"
+      - hayan descrito
+      cjid: ppfs
+    - cjfs:
+      - hubiera descrito
+      - hubieras descrito
+      - hubiera descrito
+      - "hubi\xE9ramos descrito"
+      - hubierais descrito
+      - hubieran descrito
+      cjid: ppss1
+    - cjfs:
+      - hubiese descrito
+      - hubieses descrito
+      - hubiese descrito
+      - "hubi\xE9semos descrito"
+      - hubieseis descrito
+      - hubiesen descrito
+      cjid: ppss2
+    - cjfs:
+      - hubiere descrito
+      - hubieres descrito
+      - hubiere descrito
+      - "hubi\xE9remos descrito"
+      - hubiereis descrito
+      - hubieren descrito
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - describe
+      - describa
+      - describamos
+      - describid
+      - describan
+      cjid: impf

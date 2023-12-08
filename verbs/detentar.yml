@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold}, to {a_link|retain}'
+  fl: transitive verb
+  hwi:
+    hw: detentar
+  meta:
+    id: detentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607422000'
+    src: spanish
+    stems:
+    - detentar
+    uuid: 5cd7635f-842d-4db4-8a8c-be9d0a28995d
+  shortdef:
+  - to hold, to retain
+  suppl:
+    cjts:
+    - cjfs:
+      - detentando
+      - detentado
+      cjid: gppt
+    - cjfs:
+      - detento
+      - detentas
+      - detenta
+      - detentamos
+      - "detent\xE1is"
+      - detentan
+      cjid: pind
+    - cjfs:
+      - detentaba
+      - detentabas
+      - detentaba
+      - "detent\xE1bamos"
+      - detentabais
+      - detentaban
+      cjid: pret
+    - cjfs:
+      - "detent\xE9"
+      - detentaste
+      - "detent\xF3"
+      - detentamos
+      - detentasteis
+      - detentaron
+      cjid: pprf
+    - cjfs:
+      - "detentar\xE9"
+      - "detentar\xE1s"
+      - "detentar\xE1"
+      - detentaremos
+      - "detentar\xE9is"
+      - "detentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "detentar\xEDa"
+      - "detentar\xEDas"
+      - "detentar\xEDa"
+      - "detentar\xEDamos"
+      - "detentar\xEDais"
+      - "detentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - detente
+      - detentes
+      - detente
+      - detentemos
+      - "detent\xE9is"
+      - detenten
+      cjid: psub
+    - cjfs:
+      - detentara
+      - detentaras
+      - detentara
+      - "detent\xE1ramos"
+      - detentarais
+      - detentaran
+      cjid: pisb1
+    - cjfs:
+      - detentase
+      - detentases
+      - detentase
+      - "detent\xE1semos"
+      - detentaseis
+      - detentasen
+      cjid: pisb2
+    - cjfs:
+      - detentare
+      - detentares
+      - detentare
+      - "detent\xE1remos"
+      - detentareis
+      - detentaren
+      cjid: fsub
+    - cjfs:
+      - he detentado
+      - has detentado
+      - ha detentado
+      - hemos detentado
+      - "hab\xE9is detentado"
+      - han detentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa detentado"
+      - "hab\xEDas detentado"
+      - "hab\xEDa detentado"
+      - "hab\xEDamos detentado"
+      - "hab\xEDais detentado"
+      - "hab\xEDan detentado"
+      cjid: ppsi
+    - cjfs:
+      - hube detentado
+      - hubiste detentado
+      - hubo detentado
+      - hubimos detentado
+      - hubisteis detentado
+      - hubieron detentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 detentado"
+      - "habr\xE1s detentado"
+      - "habr\xE1 detentado"
+      - habremos detentado
+      - "habr\xE9is detentado"
+      - "habr\xE1n detentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa detentado"
+      - "habr\xEDas detentado"
+      - "habr\xEDa detentado"
+      - "habr\xEDamos detentado"
+      - "habr\xEDais detentado"
+      - "habr\xEDan detentado"
+      cjid: cpef
+    - cjfs:
+      - haya detentado
+      - hayas detentado
+      - haya detentado
+      - hayamos detentado
+      - "hay\xE1is detentado"
+      - hayan detentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera detentado
+      - hubieras detentado
+      - hubiera detentado
+      - "hubi\xE9ramos detentado"
+      - hubierais detentado
+      - hubieran detentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese detentado
+      - hubieses detentado
+      - hubiese detentado
+      - "hubi\xE9semos detentado"
+      - hubieseis detentado
+      - hubiesen detentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere detentado
+      - hubieres detentado
+      - hubiere detentado
+      - "hubi\xE9remos detentado"
+      - hubiereis detentado
+      - hubieren detentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - detenta
+      - detente
+      - detentemos
+      - detentad
+      - detenten
+      cjid: impf

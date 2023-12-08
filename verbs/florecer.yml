@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bloom}, to {a_link|blossom}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flourish}, to {a_link|thrive}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: florecer
+    prs:
+    - sound:
+        audio: flore01sp
+  meta:
+    id: florecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610226000'
+    src: spanish
+    stems:
+    - florecer
+    uuid: 6e5040bf-588c-4748-8336-b5b4a71f4bb8
+  shortdef:
+  - to bloom, to blossom
+  - to flourish, to thrive
+  suppl:
+    cjts:
+    - cjfs:
+      - floreciendo
+      - florecido
+      cjid: gppt
+    - cjfs:
+      - florezco
+      - floreces
+      - florece
+      - florecemos
+      - "florec\xE9is"
+      - florecen
+      cjid: pind
+    - cjfs:
+      - "florec\xEDa"
+      - "florec\xEDas"
+      - "florec\xEDa"
+      - "florec\xEDamos"
+      - "florec\xEDais"
+      - "florec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "florec\xED"
+      - floreciste
+      - "floreci\xF3"
+      - florecimos
+      - florecisteis
+      - florecieron
+      cjid: pprf
+    - cjfs:
+      - "florecer\xE9"
+      - "florecer\xE1s"
+      - "florecer\xE1"
+      - floreceremos
+      - "florecer\xE9is"
+      - "florecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "florecer\xEDa"
+      - "florecer\xEDas"
+      - "florecer\xEDa"
+      - "florecer\xEDamos"
+      - "florecer\xEDais"
+      - "florecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - florezca
+      - florezcas
+      - florezca
+      - florezcamos
+      - "florezc\xE1is"
+      - florezcan
+      cjid: psub
+    - cjfs:
+      - floreciera
+      - florecieras
+      - floreciera
+      - "floreci\xE9ramos"
+      - florecierais
+      - florecieran
+      cjid: pisb1
+    - cjfs:
+      - floreciese
+      - florecieses
+      - floreciese
+      - "floreci\xE9semos"
+      - florecieseis
+      - floreciesen
+      cjid: pisb2
+    - cjfs:
+      - floreciere
+      - florecieres
+      - floreciere
+      - "floreci\xE9remos"
+      - floreciereis
+      - florecieren
+      cjid: fsub
+    - cjfs:
+      - he florecido
+      - has florecido
+      - ha florecido
+      - hemos florecido
+      - "hab\xE9is florecido"
+      - han florecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa florecido"
+      - "hab\xEDas florecido"
+      - "hab\xEDa florecido"
+      - "hab\xEDamos florecido"
+      - "hab\xEDais florecido"
+      - "hab\xEDan florecido"
+      cjid: ppsi
+    - cjfs:
+      - hube florecido
+      - hubiste florecido
+      - hubo florecido
+      - hubimos florecido
+      - hubisteis florecido
+      - hubieron florecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 florecido"
+      - "habr\xE1s florecido"
+      - "habr\xE1 florecido"
+      - habremos florecido
+      - "habr\xE9is florecido"
+      - "habr\xE1n florecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa florecido"
+      - "habr\xEDas florecido"
+      - "habr\xEDa florecido"
+      - "habr\xEDamos florecido"
+      - "habr\xEDais florecido"
+      - "habr\xEDan florecido"
+      cjid: cpef
+    - cjfs:
+      - haya florecido
+      - hayas florecido
+      - haya florecido
+      - hayamos florecido
+      - "hay\xE1is florecido"
+      - hayan florecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera florecido
+      - hubieras florecido
+      - hubiera florecido
+      - "hubi\xE9ramos florecido"
+      - hubierais florecido
+      - hubieran florecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese florecido
+      - hubieses florecido
+      - hubiese florecido
+      - "hubi\xE9semos florecido"
+      - hubieseis florecido
+      - hubiesen florecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere florecido
+      - hubieres florecido
+      - hubiere florecido
+      - "hubi\xE9remos florecido"
+      - hubiereis florecido
+      - hubieren florecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - florece
+      - florezca
+      - florezcamos
+      - floreced
+      - florezcan
+      cjid: impf

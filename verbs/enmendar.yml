@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|amend}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|corregir||} {bc}to {a_link|emend}, to {a_link|correct}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|compensar||} {bc}to {a_link|compensate for}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to mend one''s ways'
+    drp: enmendarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enmendar
+    prs:
+    - sound:
+        audio: enmen01sp
+  meta:
+    id: enmendar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608633000'
+    src: spanish
+    stems:
+    - enmendar
+    - enmendarse
+    uuid: b012ed1d-7cdc-4801-b9c3-5e4804893b7a
+  shortdef:
+  - to amend
+  - 'corregir : to emend, to correct'
+  - 'compensar : to compensate for'
+  suppl:
+    cjts:
+    - cjfs:
+      - enmendando
+      - enmendado
+      cjid: gppt
+    - cjfs:
+      - enmiendo
+      - enmiendas
+      - enmienda
+      - enmendamos
+      - "enmend\xE1is"
+      - enmiendan
+      cjid: pind
+    - cjfs:
+      - enmendaba
+      - enmendabas
+      - enmendaba
+      - "enmend\xE1bamos"
+      - enmendabais
+      - enmendaban
+      cjid: pret
+    - cjfs:
+      - "enmend\xE9"
+      - enmendaste
+      - "enmend\xF3"
+      - enmendamos
+      - enmendasteis
+      - enmendaron
+      cjid: pprf
+    - cjfs:
+      - "enmendar\xE9"
+      - "enmendar\xE1s"
+      - "enmendar\xE1"
+      - enmendaremos
+      - "enmendar\xE9is"
+      - "enmendar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enmendar\xEDa"
+      - "enmendar\xEDas"
+      - "enmendar\xEDa"
+      - "enmendar\xEDamos"
+      - "enmendar\xEDais"
+      - "enmendar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enmiende
+      - enmiendes
+      - enmiende
+      - enmendemos
+      - "enmend\xE9is"
+      - enmienden
+      cjid: psub
+    - cjfs:
+      - enmendara
+      - enmendaras
+      - enmendara
+      - "enmend\xE1ramos"
+      - enmendarais
+      - enmendaran
+      cjid: pisb1
+    - cjfs:
+      - enmendase
+      - enmendases
+      - enmendase
+      - "enmend\xE1semos"
+      - enmendaseis
+      - enmendasen
+      cjid: pisb2
+    - cjfs:
+      - enmendare
+      - enmendares
+      - enmendare
+      - "enmend\xE1remos"
+      - enmendareis
+      - enmendaren
+      cjid: fsub
+    - cjfs:
+      - he enmendado
+      - has enmendado
+      - ha enmendado
+      - hemos enmendado
+      - "hab\xE9is enmendado"
+      - han enmendado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enmendado"
+      - "hab\xEDas enmendado"
+      - "hab\xEDa enmendado"
+      - "hab\xEDamos enmendado"
+      - "hab\xEDais enmendado"
+      - "hab\xEDan enmendado"
+      cjid: ppsi
+    - cjfs:
+      - hube enmendado
+      - hubiste enmendado
+      - hubo enmendado
+      - hubimos enmendado
+      - hubisteis enmendado
+      - hubieron enmendado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enmendado"
+      - "habr\xE1s enmendado"
+      - "habr\xE1 enmendado"
+      - habremos enmendado
+      - "habr\xE9is enmendado"
+      - "habr\xE1n enmendado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enmendado"
+      - "habr\xEDas enmendado"
+      - "habr\xEDa enmendado"
+      - "habr\xEDamos enmendado"
+      - "habr\xEDais enmendado"
+      - "habr\xEDan enmendado"
+      cjid: cpef
+    - cjfs:
+      - haya enmendado
+      - hayas enmendado
+      - haya enmendado
+      - hayamos enmendado
+      - "hay\xE1is enmendado"
+      - hayan enmendado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enmendado
+      - hubieras enmendado
+      - hubiera enmendado
+      - "hubi\xE9ramos enmendado"
+      - hubierais enmendado
+      - hubieran enmendado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enmendado
+      - hubieses enmendado
+      - hubiese enmendado
+      - "hubi\xE9semos enmendado"
+      - hubieseis enmendado
+      - hubiesen enmendado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enmendado
+      - hubieres enmendado
+      - hubiere enmendado
+      - "hubi\xE9remos enmendado"
+      - hubiereis enmendado
+      - hubieren enmendado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enmienda
+      - enmiende
+      - enmendemos
+      - enmendad
+      - enmienden
+      cjid: impf

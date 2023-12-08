@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|avoid}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|prevenir||} {bc}to {a_link|prevent}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|eludir||} {bc}to {a_link|escape}, to {a_link|elude}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: evitar
+    prs:
+    - sound:
+        audio: evita01sp
+  meta:
+    id: evitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609553000'
+    src: spanish
+    stems:
+    - evitar
+    uuid: 05804143-6ef0-4f17-8f3e-6affebb569a7
+  shortdef:
+  - to avoid
+  - 'prevenir : to prevent'
+  - 'eludir : to escape, to elude'
+  suppl:
+    cjts:
+    - cjfs:
+      - evitando
+      - evitado
+      cjid: gppt
+    - cjfs:
+      - evito
+      - evitas
+      - evita
+      - evitamos
+      - "evit\xE1is"
+      - evitan
+      cjid: pind
+    - cjfs:
+      - evitaba
+      - evitabas
+      - evitaba
+      - "evit\xE1bamos"
+      - evitabais
+      - evitaban
+      cjid: pret
+    - cjfs:
+      - "evit\xE9"
+      - evitaste
+      - "evit\xF3"
+      - evitamos
+      - evitasteis
+      - evitaron
+      cjid: pprf
+    - cjfs:
+      - "evitar\xE9"
+      - "evitar\xE1s"
+      - "evitar\xE1"
+      - evitaremos
+      - "evitar\xE9is"
+      - "evitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "evitar\xEDa"
+      - "evitar\xEDas"
+      - "evitar\xEDa"
+      - "evitar\xEDamos"
+      - "evitar\xEDais"
+      - "evitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - evite
+      - evites
+      - evite
+      - evitemos
+      - "evit\xE9is"
+      - eviten
+      cjid: psub
+    - cjfs:
+      - evitara
+      - evitaras
+      - evitara
+      - "evit\xE1ramos"
+      - evitarais
+      - evitaran
+      cjid: pisb1
+    - cjfs:
+      - evitase
+      - evitases
+      - evitase
+      - "evit\xE1semos"
+      - evitaseis
+      - evitasen
+      cjid: pisb2
+    - cjfs:
+      - evitare
+      - evitares
+      - evitare
+      - "evit\xE1remos"
+      - evitareis
+      - evitaren
+      cjid: fsub
+    - cjfs:
+      - he evitado
+      - has evitado
+      - ha evitado
+      - hemos evitado
+      - "hab\xE9is evitado"
+      - han evitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa evitado"
+      - "hab\xEDas evitado"
+      - "hab\xEDa evitado"
+      - "hab\xEDamos evitado"
+      - "hab\xEDais evitado"
+      - "hab\xEDan evitado"
+      cjid: ppsi
+    - cjfs:
+      - hube evitado
+      - hubiste evitado
+      - hubo evitado
+      - hubimos evitado
+      - hubisteis evitado
+      - hubieron evitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 evitado"
+      - "habr\xE1s evitado"
+      - "habr\xE1 evitado"
+      - habremos evitado
+      - "habr\xE9is evitado"
+      - "habr\xE1n evitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa evitado"
+      - "habr\xEDas evitado"
+      - "habr\xEDa evitado"
+      - "habr\xEDamos evitado"
+      - "habr\xEDais evitado"
+      - "habr\xEDan evitado"
+      cjid: cpef
+    - cjfs:
+      - haya evitado
+      - hayas evitado
+      - haya evitado
+      - hayamos evitado
+      - "hay\xE1is evitado"
+      - hayan evitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera evitado
+      - hubieras evitado
+      - hubiera evitado
+      - "hubi\xE9ramos evitado"
+      - hubierais evitado
+      - hubieran evitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese evitado
+      - hubieses evitado
+      - hubiese evitado
+      - "hubi\xE9semos evitado"
+      - hubieseis evitado
+      - hubiesen evitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere evitado
+      - hubieres evitado
+      - hubiere evitado
+      - "hubi\xE9remos evitado"
+      - hubiereis evitado
+      - hubieren evitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - evita
+      - evite
+      - evitemos
+      - evitad
+      - eviten
+      cjid: impf

@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|desist}, to {a_link|stop}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give up}, to {a_link|relinquish}'
+          sn: '2'
+          vrs:
+          - va: desistir de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: desistir
+    prs:
+    - sound:
+        audio: desis01sp
+  meta:
+    id: desistir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607155000'
+    src: spanish
+    stems:
+    - desistir
+    - desistir de
+    uuid: cb53f743-c156-4e70-a565-6abdbfdb86f5
+  shortdef:
+  - to desist, to stop
+  - to give up, to relinquish
+  suppl:
+    cjts:
+    - cjfs:
+      - desistiendo
+      - desistido
+      cjid: gppt
+    - cjfs:
+      - desisto
+      - desistes
+      - desiste
+      - desistimos
+      - "desist\xEDs"
+      - desisten
+      cjid: pind
+    - cjfs:
+      - "desist\xEDa"
+      - "desist\xEDas"
+      - "desist\xEDa"
+      - "desist\xEDamos"
+      - "desist\xEDais"
+      - "desist\xEDan"
+      cjid: pret
+    - cjfs:
+      - "desist\xED"
+      - desististe
+      - "desisti\xF3"
+      - desistimos
+      - desististeis
+      - desistieron
+      cjid: pprf
+    - cjfs:
+      - "desistir\xE9"
+      - "desistir\xE1s"
+      - "desistir\xE1"
+      - desistiremos
+      - "desistir\xE9is"
+      - "desistir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desistir\xEDa"
+      - "desistir\xEDas"
+      - "desistir\xEDa"
+      - "desistir\xEDamos"
+      - "desistir\xEDais"
+      - "desistir\xEDan"
+      cjid: cond
+    - cjfs:
+      - desista
+      - desistas
+      - desista
+      - desistamos
+      - "desist\xE1is"
+      - desistan
+      cjid: psub
+    - cjfs:
+      - desistiera
+      - desistieras
+      - desistiera
+      - "desisti\xE9ramos"
+      - desistierais
+      - desistieran
+      cjid: pisb1
+    - cjfs:
+      - desistiese
+      - desistieses
+      - desistiese
+      - "desisti\xE9semos"
+      - desistieseis
+      - desistiesen
+      cjid: pisb2
+    - cjfs:
+      - desistiere
+      - desistieres
+      - desistiere
+      - "desisti\xE9remos"
+      - desistiereis
+      - desistieren
+      cjid: fsub
+    - cjfs:
+      - he desistido
+      - has desistido
+      - ha desistido
+      - hemos desistido
+      - "hab\xE9is desistido"
+      - han desistido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desistido"
+      - "hab\xEDas desistido"
+      - "hab\xEDa desistido"
+      - "hab\xEDamos desistido"
+      - "hab\xEDais desistido"
+      - "hab\xEDan desistido"
+      cjid: ppsi
+    - cjfs:
+      - hube desistido
+      - hubiste desistido
+      - hubo desistido
+      - hubimos desistido
+      - hubisteis desistido
+      - hubieron desistido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desistido"
+      - "habr\xE1s desistido"
+      - "habr\xE1 desistido"
+      - habremos desistido
+      - "habr\xE9is desistido"
+      - "habr\xE1n desistido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desistido"
+      - "habr\xEDas desistido"
+      - "habr\xEDa desistido"
+      - "habr\xEDamos desistido"
+      - "habr\xEDais desistido"
+      - "habr\xEDan desistido"
+      cjid: cpef
+    - cjfs:
+      - haya desistido
+      - hayas desistido
+      - haya desistido
+      - hayamos desistido
+      - "hay\xE1is desistido"
+      - hayan desistido
+      cjid: ppfs
+    - cjfs:
+      - hubiera desistido
+      - hubieras desistido
+      - hubiera desistido
+      - "hubi\xE9ramos desistido"
+      - hubierais desistido
+      - hubieran desistido
+      cjid: ppss1
+    - cjfs:
+      - hubiese desistido
+      - hubieses desistido
+      - hubiese desistido
+      - "hubi\xE9semos desistido"
+      - hubieseis desistido
+      - hubiesen desistido
+      cjid: ppss2
+    - cjfs:
+      - hubiere desistido
+      - hubieres desistido
+      - hubiere desistido
+      - "hubi\xE9remos desistido"
+      - hubiereis desistido
+      - hubieren desistido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desiste
+      - desista
+      - desistamos
+      - desistid
+      - desistan
+      cjid: impf

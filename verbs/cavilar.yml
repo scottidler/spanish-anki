@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ponder}, to {a_link|deliberate}'
+  fl: intransitive verb
+  hwi:
+    hw: cavilar
+    prs:
+    - sound:
+        audio: cavil01sp
+  meta:
+    id: cavilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604224000'
+    src: spanish
+    stems:
+    - cavilar
+    uuid: 4ea74800-6031-4830-8021-57a14e61df28
+  shortdef:
+  - to ponder, to deliberate
+  suppl:
+    cjts:
+    - cjfs:
+      - cavilando
+      - cavilado
+      cjid: gppt
+    - cjfs:
+      - cavilo
+      - cavilas
+      - cavila
+      - cavilamos
+      - "cavil\xE1is"
+      - cavilan
+      cjid: pind
+    - cjfs:
+      - cavilaba
+      - cavilabas
+      - cavilaba
+      - "cavil\xE1bamos"
+      - cavilabais
+      - cavilaban
+      cjid: pret
+    - cjfs:
+      - "cavil\xE9"
+      - cavilaste
+      - "cavil\xF3"
+      - cavilamos
+      - cavilasteis
+      - cavilaron
+      cjid: pprf
+    - cjfs:
+      - "cavilar\xE9"
+      - "cavilar\xE1s"
+      - "cavilar\xE1"
+      - cavilaremos
+      - "cavilar\xE9is"
+      - "cavilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cavilar\xEDa"
+      - "cavilar\xEDas"
+      - "cavilar\xEDa"
+      - "cavilar\xEDamos"
+      - "cavilar\xEDais"
+      - "cavilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cavile
+      - caviles
+      - cavile
+      - cavilemos
+      - "cavil\xE9is"
+      - cavilen
+      cjid: psub
+    - cjfs:
+      - cavilara
+      - cavilaras
+      - cavilara
+      - "cavil\xE1ramos"
+      - cavilarais
+      - cavilaran
+      cjid: pisb1
+    - cjfs:
+      - cavilase
+      - cavilases
+      - cavilase
+      - "cavil\xE1semos"
+      - cavilaseis
+      - cavilasen
+      cjid: pisb2
+    - cjfs:
+      - cavilare
+      - cavilares
+      - cavilare
+      - "cavil\xE1remos"
+      - cavilareis
+      - cavilaren
+      cjid: fsub
+    - cjfs:
+      - he cavilado
+      - has cavilado
+      - ha cavilado
+      - hemos cavilado
+      - "hab\xE9is cavilado"
+      - han cavilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cavilado"
+      - "hab\xEDas cavilado"
+      - "hab\xEDa cavilado"
+      - "hab\xEDamos cavilado"
+      - "hab\xEDais cavilado"
+      - "hab\xEDan cavilado"
+      cjid: ppsi
+    - cjfs:
+      - hube cavilado
+      - hubiste cavilado
+      - hubo cavilado
+      - hubimos cavilado
+      - hubisteis cavilado
+      - hubieron cavilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cavilado"
+      - "habr\xE1s cavilado"
+      - "habr\xE1 cavilado"
+      - habremos cavilado
+      - "habr\xE9is cavilado"
+      - "habr\xE1n cavilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cavilado"
+      - "habr\xEDas cavilado"
+      - "habr\xEDa cavilado"
+      - "habr\xEDamos cavilado"
+      - "habr\xEDais cavilado"
+      - "habr\xEDan cavilado"
+      cjid: cpef
+    - cjfs:
+      - haya cavilado
+      - hayas cavilado
+      - haya cavilado
+      - hayamos cavilado
+      - "hay\xE1is cavilado"
+      - hayan cavilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cavilado
+      - hubieras cavilado
+      - hubiera cavilado
+      - "hubi\xE9ramos cavilado"
+      - hubierais cavilado
+      - hubieran cavilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cavilado
+      - hubieses cavilado
+      - hubiese cavilado
+      - "hubi\xE9semos cavilado"
+      - hubieseis cavilado
+      - hubiesen cavilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cavilado
+      - hubieres cavilado
+      - hubiere cavilado
+      - "hubi\xE9remos cavilado"
+      - hubiereis cavilado
+      - hubieren cavilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cavila
+      - cavile
+      - cavilemos
+      - cavilad
+      - cavilen
+      cjid: impf

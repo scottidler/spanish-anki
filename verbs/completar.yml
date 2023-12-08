@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|terminar||} {bc}to {a_link|complete}, to {a_link|finish}'
+  fl: transitive verb
+  hwi:
+    hw: completar
+    prs:
+    - sound:
+        audio: compl09sp
+  meta:
+    id: completar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605266000'
+    src: spanish
+    stems:
+    - completar
+    uuid: 54e05d91-bb44-403e-8733-51b9a5008b44
+  shortdef:
+  - 'terminar : to complete, to finish'
+  suppl:
+    cjts:
+    - cjfs:
+      - completando
+      - completado
+      cjid: gppt
+    - cjfs:
+      - completo
+      - completas
+      - completa
+      - completamos
+      - "complet\xE1is"
+      - completan
+      cjid: pind
+    - cjfs:
+      - completaba
+      - completabas
+      - completaba
+      - "complet\xE1bamos"
+      - completabais
+      - completaban
+      cjid: pret
+    - cjfs:
+      - "complet\xE9"
+      - completaste
+      - "complet\xF3"
+      - completamos
+      - completasteis
+      - completaron
+      cjid: pprf
+    - cjfs:
+      - "completar\xE9"
+      - "completar\xE1s"
+      - "completar\xE1"
+      - completaremos
+      - "completar\xE9is"
+      - "completar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "completar\xEDa"
+      - "completar\xEDas"
+      - "completar\xEDa"
+      - "completar\xEDamos"
+      - "completar\xEDais"
+      - "completar\xEDan"
+      cjid: cond
+    - cjfs:
+      - complete
+      - completes
+      - complete
+      - completemos
+      - "complet\xE9is"
+      - completen
+      cjid: psub
+    - cjfs:
+      - completara
+      - completaras
+      - completara
+      - "complet\xE1ramos"
+      - completarais
+      - completaran
+      cjid: pisb1
+    - cjfs:
+      - completase
+      - completases
+      - completase
+      - "complet\xE1semos"
+      - completaseis
+      - completasen
+      cjid: pisb2
+    - cjfs:
+      - completare
+      - completares
+      - completare
+      - "complet\xE1remos"
+      - completareis
+      - completaren
+      cjid: fsub
+    - cjfs:
+      - he completado
+      - has completado
+      - ha completado
+      - hemos completado
+      - "hab\xE9is completado"
+      - han completado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa completado"
+      - "hab\xEDas completado"
+      - "hab\xEDa completado"
+      - "hab\xEDamos completado"
+      - "hab\xEDais completado"
+      - "hab\xEDan completado"
+      cjid: ppsi
+    - cjfs:
+      - hube completado
+      - hubiste completado
+      - hubo completado
+      - hubimos completado
+      - hubisteis completado
+      - hubieron completado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 completado"
+      - "habr\xE1s completado"
+      - "habr\xE1 completado"
+      - habremos completado
+      - "habr\xE9is completado"
+      - "habr\xE1n completado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa completado"
+      - "habr\xEDas completado"
+      - "habr\xEDa completado"
+      - "habr\xEDamos completado"
+      - "habr\xEDais completado"
+      - "habr\xEDan completado"
+      cjid: cpef
+    - cjfs:
+      - haya completado
+      - hayas completado
+      - haya completado
+      - hayamos completado
+      - "hay\xE1is completado"
+      - hayan completado
+      cjid: ppfs
+    - cjfs:
+      - hubiera completado
+      - hubieras completado
+      - hubiera completado
+      - "hubi\xE9ramos completado"
+      - hubierais completado
+      - hubieran completado
+      cjid: ppss1
+    - cjfs:
+      - hubiese completado
+      - hubieses completado
+      - hubiese completado
+      - "hubi\xE9semos completado"
+      - hubieseis completado
+      - hubiesen completado
+      cjid: ppss2
+    - cjfs:
+      - hubiere completado
+      - hubieres completado
+      - hubiere completado
+      - "hubi\xE9remos completado"
+      - hubiereis completado
+      - hubieren completado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - completa
+      - complete
+      - completemos
+      - completad
+      - completen
+      cjid: impf

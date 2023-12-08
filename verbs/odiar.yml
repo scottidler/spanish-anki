@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|abominar||}, {sx|aborrecer||} {bc}to {a_link|hate}'
+  fl: transitive verb
+  hwi:
+    hw: odiar
+    prs:
+    - sound:
+        audio: odiar01sp
+  meta:
+    id: odiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616093000'
+    src: spanish
+    stems:
+    - odiar
+    uuid: f8ee4aaa-06d4-49d1-ac68-d946a751d10a
+  shortdef:
+  - 'abominar, aborrecer : to hate'
+  suppl:
+    cjts:
+    - cjfs:
+      - odiando
+      - odiado
+      cjid: gppt
+    - cjfs:
+      - odio
+      - odias
+      - odia
+      - odiamos
+      - "odi\xE1is"
+      - odian
+      cjid: pind
+    - cjfs:
+      - odiaba
+      - odiabas
+      - odiaba
+      - "odi\xE1bamos"
+      - odiabais
+      - odiaban
+      cjid: pret
+    - cjfs:
+      - "odi\xE9"
+      - odiaste
+      - "odi\xF3"
+      - odiamos
+      - odiasteis
+      - odiaron
+      cjid: pprf
+    - cjfs:
+      - "odiar\xE9"
+      - "odiar\xE1s"
+      - "odiar\xE1"
+      - odiaremos
+      - "odiar\xE9is"
+      - "odiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "odiar\xEDa"
+      - "odiar\xEDas"
+      - "odiar\xEDa"
+      - "odiar\xEDamos"
+      - "odiar\xEDais"
+      - "odiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - odie
+      - odies
+      - odie
+      - odiemos
+      - "odi\xE9is"
+      - odien
+      cjid: psub
+    - cjfs:
+      - odiara
+      - odiaras
+      - odiara
+      - "odi\xE1ramos"
+      - odiarais
+      - odiaran
+      cjid: pisb1
+    - cjfs:
+      - odiase
+      - odiases
+      - odiase
+      - "odi\xE1semos"
+      - odiaseis
+      - odiasen
+      cjid: pisb2
+    - cjfs:
+      - odiare
+      - odiares
+      - odiare
+      - "odi\xE1remos"
+      - odiareis
+      - odiaren
+      cjid: fsub
+    - cjfs:
+      - he odiado
+      - has odiado
+      - ha odiado
+      - hemos odiado
+      - "hab\xE9is odiado"
+      - han odiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa odiado"
+      - "hab\xEDas odiado"
+      - "hab\xEDa odiado"
+      - "hab\xEDamos odiado"
+      - "hab\xEDais odiado"
+      - "hab\xEDan odiado"
+      cjid: ppsi
+    - cjfs:
+      - hube odiado
+      - hubiste odiado
+      - hubo odiado
+      - hubimos odiado
+      - hubisteis odiado
+      - hubieron odiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 odiado"
+      - "habr\xE1s odiado"
+      - "habr\xE1 odiado"
+      - habremos odiado
+      - "habr\xE9is odiado"
+      - "habr\xE1n odiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa odiado"
+      - "habr\xEDas odiado"
+      - "habr\xEDa odiado"
+      - "habr\xEDamos odiado"
+      - "habr\xEDais odiado"
+      - "habr\xEDan odiado"
+      cjid: cpef
+    - cjfs:
+      - haya odiado
+      - hayas odiado
+      - haya odiado
+      - hayamos odiado
+      - "hay\xE1is odiado"
+      - hayan odiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera odiado
+      - hubieras odiado
+      - hubiera odiado
+      - "hubi\xE9ramos odiado"
+      - hubierais odiado
+      - hubieran odiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese odiado
+      - hubieses odiado
+      - hubiese odiado
+      - "hubi\xE9semos odiado"
+      - hubieseis odiado
+      - hubiesen odiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere odiado
+      - hubieres odiado
+      - hubiere odiado
+      - "hubi\xE9remos odiado"
+      - hubiereis odiado
+      - hubieren odiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - odia
+      - odie
+      - odiemos
+      - odiad
+      - odien
+      cjid: impf

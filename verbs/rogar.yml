@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|beg}, to {a_link|request}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|beg}, to {a_link|plead}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pray}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: rogar
+    prs:
+    - sound:
+        audio: rogar01sp
+  meta:
+    id: rogar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619894000'
+    src: spanish
+    stems:
+    - rogar
+    uuid: 073ac72a-ab6a-4bbd-a430-e938b7ea5227
+  shortdef:
+  - to beg, to request
+  - to beg, to plead
+  - to pray
+  suppl:
+    cjts:
+    - cjfs:
+      - rogando
+      - rogado
+      cjid: gppt
+    - cjfs:
+      - ruego
+      - ruegas
+      - ruega
+      - rogamos
+      - "rog\xE1is"
+      - ruegan
+      cjid: pind
+    - cjfs:
+      - rogaba
+      - rogabas
+      - rogaba
+      - "rog\xE1bamos"
+      - rogabais
+      - rogaban
+      cjid: pret
+    - cjfs:
+      - "rogu\xE9"
+      - rogaste
+      - "rog\xF3"
+      - rogamos
+      - rogasteis
+      - rogaron
+      cjid: pprf
+    - cjfs:
+      - "rogar\xE9"
+      - "rogar\xE1s"
+      - "rogar\xE1"
+      - rogaremos
+      - "rogar\xE9is"
+      - "rogar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rogar\xEDa"
+      - "rogar\xEDas"
+      - "rogar\xEDa"
+      - "rogar\xEDamos"
+      - "rogar\xEDais"
+      - "rogar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ruegue
+      - ruegues
+      - ruegue
+      - roguemos
+      - "rogu\xE9is"
+      - rueguen
+      cjid: psub
+    - cjfs:
+      - rogara
+      - rogaras
+      - rogara
+      - "rog\xE1ramos"
+      - rogarais
+      - rogaran
+      cjid: pisb1
+    - cjfs:
+      - rogase
+      - rogases
+      - rogase
+      - "rog\xE1semos"
+      - rogaseis
+      - rogasen
+      cjid: pisb2
+    - cjfs:
+      - rogare
+      - rogares
+      - rogare
+      - "rog\xE1remos"
+      - rogareis
+      - rogaren
+      cjid: fsub
+    - cjfs:
+      - he rogado
+      - has rogado
+      - ha rogado
+      - hemos rogado
+      - "hab\xE9is rogado"
+      - han rogado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rogado"
+      - "hab\xEDas rogado"
+      - "hab\xEDa rogado"
+      - "hab\xEDamos rogado"
+      - "hab\xEDais rogado"
+      - "hab\xEDan rogado"
+      cjid: ppsi
+    - cjfs:
+      - hube rogado
+      - hubiste rogado
+      - hubo rogado
+      - hubimos rogado
+      - hubisteis rogado
+      - hubieron rogado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rogado"
+      - "habr\xE1s rogado"
+      - "habr\xE1 rogado"
+      - habremos rogado
+      - "habr\xE9is rogado"
+      - "habr\xE1n rogado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rogado"
+      - "habr\xEDas rogado"
+      - "habr\xEDa rogado"
+      - "habr\xEDamos rogado"
+      - "habr\xEDais rogado"
+      - "habr\xEDan rogado"
+      cjid: cpef
+    - cjfs:
+      - haya rogado
+      - hayas rogado
+      - haya rogado
+      - hayamos rogado
+      - "hay\xE1is rogado"
+      - hayan rogado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rogado
+      - hubieras rogado
+      - hubiera rogado
+      - "hubi\xE9ramos rogado"
+      - hubierais rogado
+      - hubieran rogado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rogado
+      - hubieses rogado
+      - hubiese rogado
+      - "hubi\xE9semos rogado"
+      - hubieseis rogado
+      - hubiesen rogado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rogado
+      - hubieres rogado
+      - hubiere rogado
+      - "hubi\xE9remos rogado"
+      - hubiereis rogado
+      - hubieren rogado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ruega
+      - ruegue
+      - roguemos
+      - rogad
+      - rueguen
+      cjid: impf

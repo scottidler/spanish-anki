@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|balancearse||} {bc}to {a_link|swing}, to {a_link|sway}, to {a_link|oscillate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fluctuar||} {bc}to {a_link|fluctuate}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vacillate}, to {a_link|waver}'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: oscilar
+    prs:
+    - sound:
+        audio: oscil01sp
+  meta:
+    id: oscilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616371000'
+    src: spanish
+    stems:
+    - oscilar
+    uuid: 310d1520-7421-4f11-adbb-c18bbfec85c9
+  shortdef:
+  - 'balancearse : to swing, to sway, to oscillate'
+  - 'fluctuar : to fluctuate'
+  - to vacillate, to waver
+  suppl:
+    cjts:
+    - cjfs:
+      - oscilando
+      - oscilado
+      cjid: gppt
+    - cjfs:
+      - oscilo
+      - oscilas
+      - oscila
+      - oscilamos
+      - "oscil\xE1is"
+      - oscilan
+      cjid: pind
+    - cjfs:
+      - oscilaba
+      - oscilabas
+      - oscilaba
+      - "oscil\xE1bamos"
+      - oscilabais
+      - oscilaban
+      cjid: pret
+    - cjfs:
+      - "oscil\xE9"
+      - oscilaste
+      - "oscil\xF3"
+      - oscilamos
+      - oscilasteis
+      - oscilaron
+      cjid: pprf
+    - cjfs:
+      - "oscilar\xE9"
+      - "oscilar\xE1s"
+      - "oscilar\xE1"
+      - oscilaremos
+      - "oscilar\xE9is"
+      - "oscilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "oscilar\xEDa"
+      - "oscilar\xEDas"
+      - "oscilar\xEDa"
+      - "oscilar\xEDamos"
+      - "oscilar\xEDais"
+      - "oscilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - oscile
+      - osciles
+      - oscile
+      - oscilemos
+      - "oscil\xE9is"
+      - oscilen
+      cjid: psub
+    - cjfs:
+      - oscilara
+      - oscilaras
+      - oscilara
+      - "oscil\xE1ramos"
+      - oscilarais
+      - oscilaran
+      cjid: pisb1
+    - cjfs:
+      - oscilase
+      - oscilases
+      - oscilase
+      - "oscil\xE1semos"
+      - oscilaseis
+      - oscilasen
+      cjid: pisb2
+    - cjfs:
+      - oscilare
+      - oscilares
+      - oscilare
+      - "oscil\xE1remos"
+      - oscilareis
+      - oscilaren
+      cjid: fsub
+    - cjfs:
+      - he oscilado
+      - has oscilado
+      - ha oscilado
+      - hemos oscilado
+      - "hab\xE9is oscilado"
+      - han oscilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa oscilado"
+      - "hab\xEDas oscilado"
+      - "hab\xEDa oscilado"
+      - "hab\xEDamos oscilado"
+      - "hab\xEDais oscilado"
+      - "hab\xEDan oscilado"
+      cjid: ppsi
+    - cjfs:
+      - hube oscilado
+      - hubiste oscilado
+      - hubo oscilado
+      - hubimos oscilado
+      - hubisteis oscilado
+      - hubieron oscilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 oscilado"
+      - "habr\xE1s oscilado"
+      - "habr\xE1 oscilado"
+      - habremos oscilado
+      - "habr\xE9is oscilado"
+      - "habr\xE1n oscilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa oscilado"
+      - "habr\xEDas oscilado"
+      - "habr\xEDa oscilado"
+      - "habr\xEDamos oscilado"
+      - "habr\xEDais oscilado"
+      - "habr\xEDan oscilado"
+      cjid: cpef
+    - cjfs:
+      - haya oscilado
+      - hayas oscilado
+      - haya oscilado
+      - hayamos oscilado
+      - "hay\xE1is oscilado"
+      - hayan oscilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera oscilado
+      - hubieras oscilado
+      - hubiera oscilado
+      - "hubi\xE9ramos oscilado"
+      - hubierais oscilado
+      - hubieran oscilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese oscilado
+      - hubieses oscilado
+      - hubiese oscilado
+      - "hubi\xE9semos oscilado"
+      - hubieseis oscilado
+      - hubiesen oscilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere oscilado
+      - hubieres oscilado
+      - hubiere oscilado
+      - "hubi\xE9remos oscilado"
+      - hubiereis oscilado
+      - hubieren oscilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - oscila
+      - oscile
+      - oscilemos
+      - oscilad
+      - oscilen
+      cjid: impf

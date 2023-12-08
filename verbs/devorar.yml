@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|devour}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|consume}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: devorar
+    prs:
+    - sound:
+        audio: devor01sp
+  meta:
+    id: devorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607457000'
+    src: spanish
+    stems:
+    - devorar
+    uuid: 024c467b-5f5e-441b-81df-9a1919a24faa
+  shortdef:
+  - to devour
+  - to consume
+  suppl:
+    cjts:
+    - cjfs:
+      - devorando
+      - devorado
+      cjid: gppt
+    - cjfs:
+      - devoro
+      - devoras
+      - devora
+      - devoramos
+      - "devor\xE1is"
+      - devoran
+      cjid: pind
+    - cjfs:
+      - devoraba
+      - devorabas
+      - devoraba
+      - "devor\xE1bamos"
+      - devorabais
+      - devoraban
+      cjid: pret
+    - cjfs:
+      - "devor\xE9"
+      - devoraste
+      - "devor\xF3"
+      - devoramos
+      - devorasteis
+      - devoraron
+      cjid: pprf
+    - cjfs:
+      - "devorar\xE9"
+      - "devorar\xE1s"
+      - "devorar\xE1"
+      - devoraremos
+      - "devorar\xE9is"
+      - "devorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "devorar\xEDa"
+      - "devorar\xEDas"
+      - "devorar\xEDa"
+      - "devorar\xEDamos"
+      - "devorar\xEDais"
+      - "devorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - devore
+      - devores
+      - devore
+      - devoremos
+      - "devor\xE9is"
+      - devoren
+      cjid: psub
+    - cjfs:
+      - devorara
+      - devoraras
+      - devorara
+      - "devor\xE1ramos"
+      - devorarais
+      - devoraran
+      cjid: pisb1
+    - cjfs:
+      - devorase
+      - devorases
+      - devorase
+      - "devor\xE1semos"
+      - devoraseis
+      - devorasen
+      cjid: pisb2
+    - cjfs:
+      - devorare
+      - devorares
+      - devorare
+      - "devor\xE1remos"
+      - devorareis
+      - devoraren
+      cjid: fsub
+    - cjfs:
+      - he devorado
+      - has devorado
+      - ha devorado
+      - hemos devorado
+      - "hab\xE9is devorado"
+      - han devorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa devorado"
+      - "hab\xEDas devorado"
+      - "hab\xEDa devorado"
+      - "hab\xEDamos devorado"
+      - "hab\xEDais devorado"
+      - "hab\xEDan devorado"
+      cjid: ppsi
+    - cjfs:
+      - hube devorado
+      - hubiste devorado
+      - hubo devorado
+      - hubimos devorado
+      - hubisteis devorado
+      - hubieron devorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 devorado"
+      - "habr\xE1s devorado"
+      - "habr\xE1 devorado"
+      - habremos devorado
+      - "habr\xE9is devorado"
+      - "habr\xE1n devorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa devorado"
+      - "habr\xEDas devorado"
+      - "habr\xEDa devorado"
+      - "habr\xEDamos devorado"
+      - "habr\xEDais devorado"
+      - "habr\xEDan devorado"
+      cjid: cpef
+    - cjfs:
+      - haya devorado
+      - hayas devorado
+      - haya devorado
+      - hayamos devorado
+      - "hay\xE1is devorado"
+      - hayan devorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera devorado
+      - hubieras devorado
+      - hubiera devorado
+      - "hubi\xE9ramos devorado"
+      - hubierais devorado
+      - hubieran devorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese devorado
+      - hubieses devorado
+      - hubiese devorado
+      - "hubi\xE9semos devorado"
+      - hubieseis devorado
+      - hubiesen devorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere devorado
+      - hubieres devorado
+      - hubiere devorado
+      - "hubi\xE9remos devorado"
+      - hubiereis devorado
+      - hubieren devorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - devora
+      - devore
+      - devoremos
+      - devorad
+      - devoren
+      cjid: impf

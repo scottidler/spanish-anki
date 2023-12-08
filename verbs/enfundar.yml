@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sheathe}, to {a_link|encase}'
+  fl: transitive verb
+  hwi:
+    hw: enfundar
+  meta:
+    id: enfundar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608568000'
+    src: spanish
+    stems:
+    - enfundar
+    uuid: 8ce0b4d6-4cea-41f0-9e1a-4211afa98670
+  shortdef:
+  - to sheathe, to encase
+  suppl:
+    cjts:
+    - cjfs:
+      - enfundando
+      - enfundado
+      cjid: gppt
+    - cjfs:
+      - enfundo
+      - enfundas
+      - enfunda
+      - enfundamos
+      - "enfund\xE1is"
+      - enfundan
+      cjid: pind
+    - cjfs:
+      - enfundaba
+      - enfundabas
+      - enfundaba
+      - "enfund\xE1bamos"
+      - enfundabais
+      - enfundaban
+      cjid: pret
+    - cjfs:
+      - "enfund\xE9"
+      - enfundaste
+      - "enfund\xF3"
+      - enfundamos
+      - enfundasteis
+      - enfundaron
+      cjid: pprf
+    - cjfs:
+      - "enfundar\xE9"
+      - "enfundar\xE1s"
+      - "enfundar\xE1"
+      - enfundaremos
+      - "enfundar\xE9is"
+      - "enfundar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enfundar\xEDa"
+      - "enfundar\xEDas"
+      - "enfundar\xEDa"
+      - "enfundar\xEDamos"
+      - "enfundar\xEDais"
+      - "enfundar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enfunde
+      - enfundes
+      - enfunde
+      - enfundemos
+      - "enfund\xE9is"
+      - enfunden
+      cjid: psub
+    - cjfs:
+      - enfundara
+      - enfundaras
+      - enfundara
+      - "enfund\xE1ramos"
+      - enfundarais
+      - enfundaran
+      cjid: pisb1
+    - cjfs:
+      - enfundase
+      - enfundases
+      - enfundase
+      - "enfund\xE1semos"
+      - enfundaseis
+      - enfundasen
+      cjid: pisb2
+    - cjfs:
+      - enfundare
+      - enfundares
+      - enfundare
+      - "enfund\xE1remos"
+      - enfundareis
+      - enfundaren
+      cjid: fsub
+    - cjfs:
+      - he enfundado
+      - has enfundado
+      - ha enfundado
+      - hemos enfundado
+      - "hab\xE9is enfundado"
+      - han enfundado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enfundado"
+      - "hab\xEDas enfundado"
+      - "hab\xEDa enfundado"
+      - "hab\xEDamos enfundado"
+      - "hab\xEDais enfundado"
+      - "hab\xEDan enfundado"
+      cjid: ppsi
+    - cjfs:
+      - hube enfundado
+      - hubiste enfundado
+      - hubo enfundado
+      - hubimos enfundado
+      - hubisteis enfundado
+      - hubieron enfundado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enfundado"
+      - "habr\xE1s enfundado"
+      - "habr\xE1 enfundado"
+      - habremos enfundado
+      - "habr\xE9is enfundado"
+      - "habr\xE1n enfundado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enfundado"
+      - "habr\xEDas enfundado"
+      - "habr\xEDa enfundado"
+      - "habr\xEDamos enfundado"
+      - "habr\xEDais enfundado"
+      - "habr\xEDan enfundado"
+      cjid: cpef
+    - cjfs:
+      - haya enfundado
+      - hayas enfundado
+      - haya enfundado
+      - hayamos enfundado
+      - "hay\xE1is enfundado"
+      - hayan enfundado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enfundado
+      - hubieras enfundado
+      - hubiera enfundado
+      - "hubi\xE9ramos enfundado"
+      - hubierais enfundado
+      - hubieran enfundado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enfundado
+      - hubieses enfundado
+      - hubiese enfundado
+      - "hubi\xE9semos enfundado"
+      - hubieseis enfundado
+      - hubiesen enfundado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enfundado
+      - hubieres enfundado
+      - hubiere enfundado
+      - "hubi\xE9remos enfundado"
+      - hubiereis enfundado
+      - hubieren enfundado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enfunda
+      - enfunde
+      - enfundemos
+      - enfundad
+      - enfunden
+      cjid: impf

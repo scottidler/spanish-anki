@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|remove}, to {a_link|move away}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|estrange}, to {a_link|alienate}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|move away}, to {a_link|stray}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to drift apart'
+            sn: '2'
+    drp: alejarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: alejar
+    prs:
+    - sound:
+        audio: aleja02sp
+  meta:
+    id: alejar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600945000'
+    src: spanish
+    stems:
+    - alejar
+    - alejarse
+    uuid: 1c28cc13-f5c1-442a-9381-3ed61cd3bf16
+  shortdef:
+  - to remove, to move away
+  - to estrange, to alienate
+  suppl:
+    cjts:
+    - cjfs:
+      - alejando
+      - alejado
+      cjid: gppt
+    - cjfs:
+      - alejo
+      - alejas
+      - aleja
+      - alejamos
+      - "alej\xE1is"
+      - alejan
+      cjid: pind
+    - cjfs:
+      - alejaba
+      - alejabas
+      - alejaba
+      - "alej\xE1bamos"
+      - alejabais
+      - alejaban
+      cjid: pret
+    - cjfs:
+      - "alej\xE9"
+      - alejaste
+      - "alej\xF3"
+      - alejamos
+      - alejasteis
+      - alejaron
+      cjid: pprf
+    - cjfs:
+      - "alejar\xE9"
+      - "alejar\xE1s"
+      - "alejar\xE1"
+      - alejaremos
+      - "alejar\xE9is"
+      - "alejar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alejar\xEDa"
+      - "alejar\xEDas"
+      - "alejar\xEDa"
+      - "alejar\xEDamos"
+      - "alejar\xEDais"
+      - "alejar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aleje
+      - alejes
+      - aleje
+      - alejemos
+      - "alej\xE9is"
+      - alejen
+      cjid: psub
+    - cjfs:
+      - alejara
+      - alejaras
+      - alejara
+      - "alej\xE1ramos"
+      - alejarais
+      - alejaran
+      cjid: pisb1
+    - cjfs:
+      - alejase
+      - alejases
+      - alejase
+      - "alej\xE1semos"
+      - alejaseis
+      - alejasen
+      cjid: pisb2
+    - cjfs:
+      - alejare
+      - alejares
+      - alejare
+      - "alej\xE1remos"
+      - alejareis
+      - alejaren
+      cjid: fsub
+    - cjfs:
+      - he alejado
+      - has alejado
+      - ha alejado
+      - hemos alejado
+      - "hab\xE9is alejado"
+      - han alejado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alejado"
+      - "hab\xEDas alejado"
+      - "hab\xEDa alejado"
+      - "hab\xEDamos alejado"
+      - "hab\xEDais alejado"
+      - "hab\xEDan alejado"
+      cjid: ppsi
+    - cjfs:
+      - hube alejado
+      - hubiste alejado
+      - hubo alejado
+      - hubimos alejado
+      - hubisteis alejado
+      - hubieron alejado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alejado"
+      - "habr\xE1s alejado"
+      - "habr\xE1 alejado"
+      - habremos alejado
+      - "habr\xE9is alejado"
+      - "habr\xE1n alejado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alejado"
+      - "habr\xEDas alejado"
+      - "habr\xEDa alejado"
+      - "habr\xEDamos alejado"
+      - "habr\xEDais alejado"
+      - "habr\xEDan alejado"
+      cjid: cpef
+    - cjfs:
+      - haya alejado
+      - hayas alejado
+      - haya alejado
+      - hayamos alejado
+      - "hay\xE1is alejado"
+      - hayan alejado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alejado
+      - hubieras alejado
+      - hubiera alejado
+      - "hubi\xE9ramos alejado"
+      - hubierais alejado
+      - hubieran alejado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alejado
+      - hubieses alejado
+      - hubiese alejado
+      - "hubi\xE9semos alejado"
+      - hubieseis alejado
+      - hubiesen alejado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alejado
+      - hubieres alejado
+      - hubiere alejado
+      - "hubi\xE9remos alejado"
+      - hubiereis alejado
+      - hubieren alejado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aleja
+      - aleje
+      - alejemos
+      - alejad
+      - alejen
+      cjid: impf

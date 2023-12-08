@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to keep quiet, to be silent'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|silence}, to {a_link|hush} '
+          - - vis
+            - - t: "\xA1calla a los ni\xF1os!"
+                tr: keep the children quiet!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to keep secret'
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to remain silent '
+            - - vis
+              - - t: "\xA1c\xE1llate!"
+                  tr: be quiet!, shut up!
+    drp: callarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: callar
+    prs:
+    - sound:
+        audio: calla02sp
+  meta:
+    id: callar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603675000'
+    src: spanish
+    stems:
+    - callar
+    - callarse
+    uuid: 97720746-e347-4216-b387-31229fa1c5f0
+  shortdef:
+  - to keep quiet, to be silent
+  - to silence, to hush
+  - to keep secret
+  suppl:
+    cjts:
+    - cjfs:
+      - callando
+      - callado
+      cjid: gppt
+    - cjfs:
+      - callo
+      - callas
+      - calla
+      - callamos
+      - "call\xE1is"
+      - callan
+      cjid: pind
+    - cjfs:
+      - callaba
+      - callabas
+      - callaba
+      - "call\xE1bamos"
+      - callabais
+      - callaban
+      cjid: pret
+    - cjfs:
+      - "call\xE9"
+      - callaste
+      - "call\xF3"
+      - callamos
+      - callasteis
+      - callaron
+      cjid: pprf
+    - cjfs:
+      - "callar\xE9"
+      - "callar\xE1s"
+      - "callar\xE1"
+      - callaremos
+      - "callar\xE9is"
+      - "callar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "callar\xEDa"
+      - "callar\xEDas"
+      - "callar\xEDa"
+      - "callar\xEDamos"
+      - "callar\xEDais"
+      - "callar\xEDan"
+      cjid: cond
+    - cjfs:
+      - calle
+      - calles
+      - calle
+      - callemos
+      - "call\xE9is"
+      - callen
+      cjid: psub
+    - cjfs:
+      - callara
+      - callaras
+      - callara
+      - "call\xE1ramos"
+      - callarais
+      - callaran
+      cjid: pisb1
+    - cjfs:
+      - callase
+      - callases
+      - callase
+      - "call\xE1semos"
+      - callaseis
+      - callasen
+      cjid: pisb2
+    - cjfs:
+      - callare
+      - callares
+      - callare
+      - "call\xE1remos"
+      - callareis
+      - callaren
+      cjid: fsub
+    - cjfs:
+      - he callado
+      - has callado
+      - ha callado
+      - hemos callado
+      - "hab\xE9is callado"
+      - han callado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa callado"
+      - "hab\xEDas callado"
+      - "hab\xEDa callado"
+      - "hab\xEDamos callado"
+      - "hab\xEDais callado"
+      - "hab\xEDan callado"
+      cjid: ppsi
+    - cjfs:
+      - hube callado
+      - hubiste callado
+      - hubo callado
+      - hubimos callado
+      - hubisteis callado
+      - hubieron callado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 callado"
+      - "habr\xE1s callado"
+      - "habr\xE1 callado"
+      - habremos callado
+      - "habr\xE9is callado"
+      - "habr\xE1n callado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa callado"
+      - "habr\xEDas callado"
+      - "habr\xEDa callado"
+      - "habr\xEDamos callado"
+      - "habr\xEDais callado"
+      - "habr\xEDan callado"
+      cjid: cpef
+    - cjfs:
+      - haya callado
+      - hayas callado
+      - haya callado
+      - hayamos callado
+      - "hay\xE1is callado"
+      - hayan callado
+      cjid: ppfs
+    - cjfs:
+      - hubiera callado
+      - hubieras callado
+      - hubiera callado
+      - "hubi\xE9ramos callado"
+      - hubierais callado
+      - hubieran callado
+      cjid: ppss1
+    - cjfs:
+      - hubiese callado
+      - hubieses callado
+      - hubiese callado
+      - "hubi\xE9semos callado"
+      - hubieseis callado
+      - hubiesen callado
+      cjid: ppss2
+    - cjfs:
+      - hubiere callado
+      - hubieres callado
+      - hubiere callado
+      - "hubi\xE9remos callado"
+      - hubiereis callado
+      - hubieren callado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - calla
+      - calle
+      - callemos
+      - callad
+      - callen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|row}, to {a_link|paddle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|struggle}, to {a_link|toil}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: remar
+    prs:
+    - sound:
+        audio: remar01sp
+  meta:
+    id: remar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619327000'
+    src: spanish
+    stems:
+    - remar
+    uuid: 33d83750-1a63-4292-928b-8c8dd96eeb0d
+  shortdef:
+  - to row, to paddle
+  - to struggle, to toil
+  suppl:
+    cjts:
+    - cjfs:
+      - remando
+      - remado
+      cjid: gppt
+    - cjfs:
+      - remo
+      - remas
+      - rema
+      - remamos
+      - "rem\xE1is"
+      - reman
+      cjid: pind
+    - cjfs:
+      - remaba
+      - remabas
+      - remaba
+      - "rem\xE1bamos"
+      - remabais
+      - remaban
+      cjid: pret
+    - cjfs:
+      - "rem\xE9"
+      - remaste
+      - "rem\xF3"
+      - remamos
+      - remasteis
+      - remaron
+      cjid: pprf
+    - cjfs:
+      - "remar\xE9"
+      - "remar\xE1s"
+      - "remar\xE1"
+      - remaremos
+      - "remar\xE9is"
+      - "remar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "remar\xEDa"
+      - "remar\xEDas"
+      - "remar\xEDa"
+      - "remar\xEDamos"
+      - "remar\xEDais"
+      - "remar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reme
+      - remes
+      - reme
+      - rememos
+      - "rem\xE9is"
+      - remen
+      cjid: psub
+    - cjfs:
+      - remara
+      - remaras
+      - remara
+      - "rem\xE1ramos"
+      - remarais
+      - remaran
+      cjid: pisb1
+    - cjfs:
+      - remase
+      - remases
+      - remase
+      - "rem\xE1semos"
+      - remaseis
+      - remasen
+      cjid: pisb2
+    - cjfs:
+      - remare
+      - remares
+      - remare
+      - "rem\xE1remos"
+      - remareis
+      - remaren
+      cjid: fsub
+    - cjfs:
+      - he remado
+      - has remado
+      - ha remado
+      - hemos remado
+      - "hab\xE9is remado"
+      - han remado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa remado"
+      - "hab\xEDas remado"
+      - "hab\xEDa remado"
+      - "hab\xEDamos remado"
+      - "hab\xEDais remado"
+      - "hab\xEDan remado"
+      cjid: ppsi
+    - cjfs:
+      - hube remado
+      - hubiste remado
+      - hubo remado
+      - hubimos remado
+      - hubisteis remado
+      - hubieron remado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 remado"
+      - "habr\xE1s remado"
+      - "habr\xE1 remado"
+      - habremos remado
+      - "habr\xE9is remado"
+      - "habr\xE1n remado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa remado"
+      - "habr\xEDas remado"
+      - "habr\xEDa remado"
+      - "habr\xEDamos remado"
+      - "habr\xEDais remado"
+      - "habr\xEDan remado"
+      cjid: cpef
+    - cjfs:
+      - haya remado
+      - hayas remado
+      - haya remado
+      - hayamos remado
+      - "hay\xE1is remado"
+      - hayan remado
+      cjid: ppfs
+    - cjfs:
+      - hubiera remado
+      - hubieras remado
+      - hubiera remado
+      - "hubi\xE9ramos remado"
+      - hubierais remado
+      - hubieran remado
+      cjid: ppss1
+    - cjfs:
+      - hubiese remado
+      - hubieses remado
+      - hubiese remado
+      - "hubi\xE9semos remado"
+      - hubieseis remado
+      - hubiesen remado
+      cjid: ppss2
+    - cjfs:
+      - hubiere remado
+      - hubieres remado
+      - hubiere remado
+      - "hubi\xE9remos remado"
+      - hubiereis remado
+      - hubieren remado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rema
+      - reme
+      - rememos
+      - remad
+      - remen
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snow}'
+  fl: impersonal verb
+  hwi:
+    hw: nevar
+    prs:
+    - sound:
+        audio: nevar01sp
+  meta:
+    id: nevar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615744000'
+    src: spanish
+    stems:
+    - nevar
+    uuid: dee37288-7faf-42f5-92df-44199d7a188f
+  shortdef:
+  - to snow
+  suppl:
+    cjts:
+    - cjfs:
+      - nevando
+      - nevado
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - nieva
+      - '-'
+      - '-'
+      - '-'
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - nevaba
+      - '-'
+      - '-'
+      - '-'
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "nev\xF3"
+      - '-'
+      - '-'
+      - '-'
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "nevar\xE1"
+      - '-'
+      - '-'
+      - '-'
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "nevar\xEDa"
+      - '-'
+      - '-'
+      - '-'
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - nieve
+      - '-'
+      - '-'
+      - '-'
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - nevara
+      - '-'
+      - '-'
+      - '-'
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - nevase
+      - '-'
+      - '-'
+      - '-'
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - nevare
+      - '-'
+      - '-'
+      - '-'
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha nevado
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa nevado"
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo nevado
+      - '-'
+      - '-'
+      - '-'
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 nevado"
+      - '-'
+      - '-'
+      - '-'
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa nevado"
+      - '-'
+      - '-'
+      - '-'
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya nevado
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera nevado
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese nevado
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere nevado
+      - '-'
+      - '-'
+      - '-'
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

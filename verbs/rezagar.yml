@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave behind}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|postpone}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fall behind}, to {a_link|lag}'
+    drp: rezagarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: rezagar
+  meta:
+    id: rezagar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619788000'
+    src: spanish
+    stems:
+    - rezagar
+    - rezagarse
+    uuid: fec52eb1-f9c5-4a53-a5d0-c3c526f7e6bf
+  shortdef:
+  - to leave behind
+  - to postpone
+  suppl:
+    cjts:
+    - cjfs:
+      - rezagando
+      - rezagado
+      cjid: gppt
+    - cjfs:
+      - rezago
+      - rezagas
+      - rezaga
+      - rezagamos
+      - "rezag\xE1is"
+      - rezagan
+      cjid: pind
+    - cjfs:
+      - rezagaba
+      - rezagabas
+      - rezagaba
+      - "rezag\xE1bamos"
+      - rezagabais
+      - rezagaban
+      cjid: pret
+    - cjfs:
+      - "rezagu\xE9"
+      - rezagaste
+      - "rezag\xF3"
+      - rezagamos
+      - rezagasteis
+      - rezagaron
+      cjid: pprf
+    - cjfs:
+      - "rezagar\xE9"
+      - "rezagar\xE1s"
+      - "rezagar\xE1"
+      - rezagaremos
+      - "rezagar\xE9is"
+      - "rezagar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rezagar\xEDa"
+      - "rezagar\xEDas"
+      - "rezagar\xEDa"
+      - "rezagar\xEDamos"
+      - "rezagar\xEDais"
+      - "rezagar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rezague
+      - rezagues
+      - rezague
+      - rezaguemos
+      - "rezagu\xE9is"
+      - rezaguen
+      cjid: psub
+    - cjfs:
+      - rezagara
+      - rezagaras
+      - rezagara
+      - "rezag\xE1ramos"
+      - rezagarais
+      - rezagaran
+      cjid: pisb1
+    - cjfs:
+      - rezagase
+      - rezagases
+      - rezagase
+      - "rezag\xE1semos"
+      - rezagaseis
+      - rezagasen
+      cjid: pisb2
+    - cjfs:
+      - rezagare
+      - rezagares
+      - rezagare
+      - "rezag\xE1remos"
+      - rezagareis
+      - rezagaren
+      cjid: fsub
+    - cjfs:
+      - he rezagado
+      - has rezagado
+      - ha rezagado
+      - hemos rezagado
+      - "hab\xE9is rezagado"
+      - han rezagado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rezagado"
+      - "hab\xEDas rezagado"
+      - "hab\xEDa rezagado"
+      - "hab\xEDamos rezagado"
+      - "hab\xEDais rezagado"
+      - "hab\xEDan rezagado"
+      cjid: ppsi
+    - cjfs:
+      - hube rezagado
+      - hubiste rezagado
+      - hubo rezagado
+      - hubimos rezagado
+      - hubisteis rezagado
+      - hubieron rezagado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rezagado"
+      - "habr\xE1s rezagado"
+      - "habr\xE1 rezagado"
+      - habremos rezagado
+      - "habr\xE9is rezagado"
+      - "habr\xE1n rezagado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rezagado"
+      - "habr\xEDas rezagado"
+      - "habr\xEDa rezagado"
+      - "habr\xEDamos rezagado"
+      - "habr\xEDais rezagado"
+      - "habr\xEDan rezagado"
+      cjid: cpef
+    - cjfs:
+      - haya rezagado
+      - hayas rezagado
+      - haya rezagado
+      - hayamos rezagado
+      - "hay\xE1is rezagado"
+      - hayan rezagado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rezagado
+      - hubieras rezagado
+      - hubiera rezagado
+      - "hubi\xE9ramos rezagado"
+      - hubierais rezagado
+      - hubieran rezagado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rezagado
+      - hubieses rezagado
+      - hubiese rezagado
+      - "hubi\xE9semos rezagado"
+      - hubieseis rezagado
+      - hubiesen rezagado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rezagado
+      - hubieres rezagado
+      - hubiere rezagado
+      - "hubi\xE9remos rezagado"
+      - hubiereis rezagado
+      - hubieren rezagado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rezaga
+      - rezague
+      - rezaguemos
+      - rezagad
+      - rezaguen
+      cjid: impf

@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inhale}'
+  fl: transitive verb
+  hwi:
+    hw: inhalar
+  meta:
+    id: inhalar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612534000'
+    src: spanish
+    stems:
+    - inhalar
+    - "inhalaci\xF3n"
+    uuid: bcb99a01-9908-42e5-8703-1e411d65f1ec
+  shortdef:
+  - to inhale
+  suppl:
+    cjts:
+    - cjfs:
+      - inhalando
+      - inhalado
+      cjid: gppt
+    - cjfs:
+      - inhalo
+      - inhalas
+      - inhala
+      - inhalamos
+      - "inhal\xE1is"
+      - inhalan
+      cjid: pind
+    - cjfs:
+      - inhalaba
+      - inhalabas
+      - inhalaba
+      - "inhal\xE1bamos"
+      - inhalabais
+      - inhalaban
+      cjid: pret
+    - cjfs:
+      - "inhal\xE9"
+      - inhalaste
+      - "inhal\xF3"
+      - inhalamos
+      - inhalasteis
+      - inhalaron
+      cjid: pprf
+    - cjfs:
+      - "inhalar\xE9"
+      - "inhalar\xE1s"
+      - "inhalar\xE1"
+      - inhalaremos
+      - "inhalar\xE9is"
+      - "inhalar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inhalar\xEDa"
+      - "inhalar\xEDas"
+      - "inhalar\xEDa"
+      - "inhalar\xEDamos"
+      - "inhalar\xEDais"
+      - "inhalar\xEDan"
+      cjid: cond
+    - cjfs:
+      - inhale
+      - inhales
+      - inhale
+      - inhalemos
+      - "inhal\xE9is"
+      - inhalen
+      cjid: psub
+    - cjfs:
+      - inhalara
+      - inhalaras
+      - inhalara
+      - "inhal\xE1ramos"
+      - inhalarais
+      - inhalaran
+      cjid: pisb1
+    - cjfs:
+      - inhalase
+      - inhalases
+      - inhalase
+      - "inhal\xE1semos"
+      - inhalaseis
+      - inhalasen
+      cjid: pisb2
+    - cjfs:
+      - inhalare
+      - inhalares
+      - inhalare
+      - "inhal\xE1remos"
+      - inhalareis
+      - inhalaren
+      cjid: fsub
+    - cjfs:
+      - he inhalado
+      - has inhalado
+      - ha inhalado
+      - hemos inhalado
+      - "hab\xE9is inhalado"
+      - han inhalado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inhalado"
+      - "hab\xEDas inhalado"
+      - "hab\xEDa inhalado"
+      - "hab\xEDamos inhalado"
+      - "hab\xEDais inhalado"
+      - "hab\xEDan inhalado"
+      cjid: ppsi
+    - cjfs:
+      - hube inhalado
+      - hubiste inhalado
+      - hubo inhalado
+      - hubimos inhalado
+      - hubisteis inhalado
+      - hubieron inhalado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inhalado"
+      - "habr\xE1s inhalado"
+      - "habr\xE1 inhalado"
+      - habremos inhalado
+      - "habr\xE9is inhalado"
+      - "habr\xE1n inhalado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inhalado"
+      - "habr\xEDas inhalado"
+      - "habr\xEDa inhalado"
+      - "habr\xEDamos inhalado"
+      - "habr\xEDais inhalado"
+      - "habr\xEDan inhalado"
+      cjid: cpef
+    - cjfs:
+      - haya inhalado
+      - hayas inhalado
+      - haya inhalado
+      - hayamos inhalado
+      - "hay\xE1is inhalado"
+      - hayan inhalado
+      cjid: ppfs
+    - cjfs:
+      - hubiera inhalado
+      - hubieras inhalado
+      - hubiera inhalado
+      - "hubi\xE9ramos inhalado"
+      - hubierais inhalado
+      - hubieran inhalado
+      cjid: ppss1
+    - cjfs:
+      - hubiese inhalado
+      - hubieses inhalado
+      - hubiese inhalado
+      - "hubi\xE9semos inhalado"
+      - hubieseis inhalado
+      - hubiesen inhalado
+      cjid: ppss2
+    - cjfs:
+      - hubiere inhalado
+      - hubieres inhalado
+      - hubiere inhalado
+      - "hubi\xE9remos inhalado"
+      - hubiereis inhalado
+      - hubieren inhalado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inhala
+      - inhale
+      - inhalemos
+      - inhalad
+      - inhalen
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "inhalaci\xF3n"

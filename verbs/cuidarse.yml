@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take care of}, to {a_link|look after}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pay attention to'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look after}'
+          sn: '1'
+          vrs:
+          - va: cuidar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make sure that'
+          sn: '2'
+          vrs:
+          - va: cuidar de que
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take care of oneself'
+    drp: cuidarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: cuidar
+    prs:
+    - sound:
+        audio: cuida03sp
+  meta:
+    id: cuidar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606325000'
+    src: spanish
+    stems:
+    - cuidar
+    - cuidar de
+    - cuidar de que
+    - cuidarse
+    uuid: 246f078d-7509-402c-a335-a9b4b2bb314a
+  shortdef:
+  - to take care of, to look after
+  - to pay attention to
+  - to look after
+  suppl:
+    cjts:
+    - cjfs:
+      - cuidando
+      - cuidado
+      cjid: gppt
+    - cjfs:
+      - cuido
+      - cuidas
+      - cuida
+      - cuidamos
+      - "cuid\xE1is"
+      - cuidan
+      cjid: pind
+    - cjfs:
+      - cuidaba
+      - cuidabas
+      - cuidaba
+      - "cuid\xE1bamos"
+      - cuidabais
+      - cuidaban
+      cjid: pret
+    - cjfs:
+      - "cuid\xE9"
+      - cuidaste
+      - "cuid\xF3"
+      - cuidamos
+      - cuidasteis
+      - cuidaron
+      cjid: pprf
+    - cjfs:
+      - "cuidar\xE9"
+      - "cuidar\xE1s"
+      - "cuidar\xE1"
+      - cuidaremos
+      - "cuidar\xE9is"
+      - "cuidar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cuidar\xEDa"
+      - "cuidar\xEDas"
+      - "cuidar\xEDa"
+      - "cuidar\xEDamos"
+      - "cuidar\xEDais"
+      - "cuidar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cuide
+      - cuides
+      - cuide
+      - cuidemos
+      - "cuid\xE9is"
+      - cuiden
+      cjid: psub
+    - cjfs:
+      - cuidara
+      - cuidaras
+      - cuidara
+      - "cuid\xE1ramos"
+      - cuidarais
+      - cuidaran
+      cjid: pisb1
+    - cjfs:
+      - cuidase
+      - cuidases
+      - cuidase
+      - "cuid\xE1semos"
+      - cuidaseis
+      - cuidasen
+      cjid: pisb2
+    - cjfs:
+      - cuidare
+      - cuidares
+      - cuidare
+      - "cuid\xE1remos"
+      - cuidareis
+      - cuidaren
+      cjid: fsub
+    - cjfs:
+      - he cuidado
+      - has cuidado
+      - ha cuidado
+      - hemos cuidado
+      - "hab\xE9is cuidado"
+      - han cuidado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cuidado"
+      - "hab\xEDas cuidado"
+      - "hab\xEDa cuidado"
+      - "hab\xEDamos cuidado"
+      - "hab\xEDais cuidado"
+      - "hab\xEDan cuidado"
+      cjid: ppsi
+    - cjfs:
+      - hube cuidado
+      - hubiste cuidado
+      - hubo cuidado
+      - hubimos cuidado
+      - hubisteis cuidado
+      - hubieron cuidado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cuidado"
+      - "habr\xE1s cuidado"
+      - "habr\xE1 cuidado"
+      - habremos cuidado
+      - "habr\xE9is cuidado"
+      - "habr\xE1n cuidado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cuidado"
+      - "habr\xEDas cuidado"
+      - "habr\xEDa cuidado"
+      - "habr\xEDamos cuidado"
+      - "habr\xEDais cuidado"
+      - "habr\xEDan cuidado"
+      cjid: cpef
+    - cjfs:
+      - haya cuidado
+      - hayas cuidado
+      - haya cuidado
+      - hayamos cuidado
+      - "hay\xE1is cuidado"
+      - hayan cuidado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cuidado
+      - hubieras cuidado
+      - hubiera cuidado
+      - "hubi\xE9ramos cuidado"
+      - hubierais cuidado
+      - hubieran cuidado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cuidado
+      - hubieses cuidado
+      - hubiese cuidado
+      - "hubi\xE9semos cuidado"
+      - hubieseis cuidado
+      - hubiesen cuidado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cuidado
+      - hubieres cuidado
+      - hubiere cuidado
+      - "hubi\xE9remos cuidado"
+      - hubiereis cuidado
+      - hubieren cuidado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cuida
+      - cuide
+      - cuidemos
+      - cuidad
+      - cuiden
+      cjid: impf

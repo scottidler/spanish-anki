@@ -1,0 +1,963 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|lanzar||} {bc}to {a_link|throw}, to {a_link|toss} (a coin), to
+              {a_link|cast} (an anchor, a net) '
+          - - vis
+            - - t: "lo ech\xF3 a la basura"
+                tr: she threw it away
+              - t: "echar la cabeza hacia atr\xE1s"
+                tr: to throw one's head back
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|throw out} (of a place), to {a_link|expel} (from school) '
+          - - vis
+            - - t: me echaron de la casa
+                tr: they threw me out of the house
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|despedir||} {bc}to {a_link|fire}, to {a_link|dismiss}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|emitir||} {bc}to {a_link|emit}, to {a_link|give off}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|brotar||} {bc}to {a_link|sprout}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put in}, to {a_link|add}'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|have} (a look)'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mail}'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pour}'
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a blessing, etc.), to {a_link|put} (a curse)
+              {a_link|on}'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn} (a key), to {a_link|slide} (a bolt) '
+          - - vis
+            - - t: echarle (la) llave (a la puerta)
+                tr: to lock the door
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demolish}'
+          sn: '12'
+          vrs:
+          - va: echar abajo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spoil}, to {a_link|ruin}'
+          sn: '13'
+          vrs:
+          - va: echar a perder
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|miss} '
+          - - vis
+            - - t: echan de menos a su madre
+                tr: they miss their mother
+          sn: '14'
+          vrs:
+          - va: echar de menos
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to start off'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to begin to '
+          - - vis
+            - - t: "se ech\xF3 a llorar"
+                tr: he began to cry
+          sn: '2'
+          vrs:
+          - va: echar a
+            vac: ~ a
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to throw oneself '
+            - - vis
+              - - t: "se ech\xF3 en sus brazos"
+                  tr: she threw herself into his arms
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|lie down}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|put on}'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to begin to'
+            sn: '4'
+            vrs:
+            - va: echarse a
+              vac: ~ a
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go bad}, to {a_link|spoil}'
+            sn: '5'
+            vrs:
+            - va: echarse a perder
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|pose as}'
+            sn: '6'
+            vrs:
+            - va: "ech\xE1rselas de"
+    drp: echarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: echar
+    prs:
+    - sound:
+        audio: echar01sp
+  meta:
+    id: echar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608019000'
+    src: spanish
+    stems:
+    - echar
+    - echar abajo
+    - echar a perder
+    - echar de menos
+    - echar a
+    - echarse
+    - echarse a
+    - echarse a perder
+    - "ech\xE1rselas de"
+    uuid: ec062529-4c05-4fb3-9b21-159ee0a452da
+  shortdef:
+  - 'lanzar : to throw, to toss (a coin), to cast (an anchor, a net)'
+  - to throw out (of a place), to expel (from school)
+  - 'despedir : to fire, to dismiss'
+  suppl:
+    cjts:
+    - cjfs:
+      - echando
+      - echado
+      cjid: gppt
+    - cjfs:
+      - echo
+      - echas
+      - echa
+      - echamos
+      - "ech\xE1is"
+      - echan
+      cjid: pind
+    - cjfs:
+      - echaba
+      - echabas
+      - echaba
+      - "ech\xE1bamos"
+      - echabais
+      - echaban
+      cjid: pret
+    - cjfs:
+      - "ech\xE9"
+      - echaste
+      - "ech\xF3"
+      - echamos
+      - echasteis
+      - echaron
+      cjid: pprf
+    - cjfs:
+      - "echar\xE9"
+      - "echar\xE1s"
+      - "echar\xE1"
+      - echaremos
+      - "echar\xE9is"
+      - "echar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "echar\xEDa"
+      - "echar\xEDas"
+      - "echar\xEDa"
+      - "echar\xEDamos"
+      - "echar\xEDais"
+      - "echar\xEDan"
+      cjid: cond
+    - cjfs:
+      - eche
+      - eches
+      - eche
+      - echemos
+      - "ech\xE9is"
+      - echen
+      cjid: psub
+    - cjfs:
+      - echara
+      - echaras
+      - echara
+      - "ech\xE1ramos"
+      - echarais
+      - echaran
+      cjid: pisb1
+    - cjfs:
+      - echase
+      - echases
+      - echase
+      - "ech\xE1semos"
+      - echaseis
+      - echasen
+      cjid: pisb2
+    - cjfs:
+      - echare
+      - echares
+      - echare
+      - "ech\xE1remos"
+      - echareis
+      - echaren
+      cjid: fsub
+    - cjfs:
+      - he echado
+      - has echado
+      - ha echado
+      - hemos echado
+      - "hab\xE9is echado"
+      - han echado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa echado"
+      - "hab\xEDas echado"
+      - "hab\xEDa echado"
+      - "hab\xEDamos echado"
+      - "hab\xEDais echado"
+      - "hab\xEDan echado"
+      cjid: ppsi
+    - cjfs:
+      - hube echado
+      - hubiste echado
+      - hubo echado
+      - hubimos echado
+      - hubisteis echado
+      - hubieron echado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 echado"
+      - "habr\xE1s echado"
+      - "habr\xE1 echado"
+      - habremos echado
+      - "habr\xE9is echado"
+      - "habr\xE1n echado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa echado"
+      - "habr\xEDas echado"
+      - "habr\xEDa echado"
+      - "habr\xEDamos echado"
+      - "habr\xEDais echado"
+      - "habr\xEDan echado"
+      cjid: cpef
+    - cjfs:
+      - haya echado
+      - hayas echado
+      - haya echado
+      - hayamos echado
+      - "hay\xE1is echado"
+      - hayan echado
+      cjid: ppfs
+    - cjfs:
+      - hubiera echado
+      - hubieras echado
+      - hubiera echado
+      - "hubi\xE9ramos echado"
+      - hubierais echado
+      - hubieran echado
+      cjid: ppss1
+    - cjfs:
+      - hubiese echado
+      - hubieses echado
+      - hubiese echado
+      - "hubi\xE9semos echado"
+      - hubieseis echado
+      - hubiesen echado
+      cjid: ppss2
+    - cjfs:
+      - hubiere echado
+      - hubieres echado
+      - hubiere echado
+      - "hubi\xE9remos echado"
+      - hubiereis echado
+      - hubieren echado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - echa
+      - eche
+      - echemos
+      - echad
+      - echen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|water}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}holy water'
+          sn: '2'
+          vrs:
+          - va: agua bendita
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}running water'
+          sn: '3'
+          vrs:
+          - va: agua corriente
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}fresh/salt water'
+          sn: '4'
+          vrs:
+          - va: agua dulce/salada
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}mineral water'
+          sn: '5'
+          vrs:
+          - va: agua mineral
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hydrogen peroxide}'
+          sn: '6'
+          vrs:
+          - va: agua oxigenada
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|drinking water}'
+          sn: '7'
+          vrs:
+          - va: agua potable
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}waters '
+          - - vis
+            - - t: en aguas internacionales
+                tr: in international waters
+          ins:
+          - if: aguas
+            spl: noun feminine plural
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sewage}'
+          sn: '9'
+          vrs:
+          - va: aguas negras/residuales
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|furious}'
+          sls:
+          - Mexico familiar
+          sn: '10'
+          vrs:
+          - va: como agua para chocolate
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to keep an eye out, to be on the lookout'
+          sls:
+          - Mexico familiar
+          sn: '11'
+          vrs:
+          - va: echar aguas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}look out!'
+          sls:
+          - Mexico familiar
+          sn: '12'
+          vrs:
+          - va: "\xA1aguas!"
+  fl: feminine noun
+  hwi:
+    hw: agua
+    prs:
+    - sound:
+        audio: agua001sp
+  meta:
+    id: agua
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600749000'
+    src: spanish
+    stems:
+    - agua
+    - agua bendita
+    - agua corriente
+    - agua dulce/salada
+    - agua dulce
+    - agua salada
+    - agua mineral
+    - agua oxigenada
+    - agua potable
+    - aguas
+    - aguas negras/residuales
+    - aguas negras
+    - aguas residuales
+    - como agua para chocolate
+    - echar aguas
+    - "\xA1aguas!"
+    uuid: 9540cbf6-8d96-4a28-bb59-7d305a8187a0
+  shortdef:
+  - water
+  - holy water
+  - running water
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}gray hair '
+          - - vis
+            - - t: le salen canas
+                tr: he's going gray
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to let one''s hair down'
+          sn: '2'
+          vrs:
+          - va: echar una cana al aire
+  fl: feminine noun
+  hwi:
+    hw: cana
+    prs:
+    - sound:
+        audio: cana002sp
+  meta:
+    id: cana
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603779000'
+    src: spanish
+    stems:
+    - cana
+    - echar una cana al aire
+    uuid: ad43b9df-f806-4926-a21e-8c6c15846f97
+  shortdef:
+  - gray hair
+  - to let one's hair down
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|house} '
+          - - vis
+            - - t: una casa de dos pisos
+                tr: a two-story house
+              - t: la casa blanca
+                tr: the White House
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|hogar||} {bc}{a_link|home} '
+          - - vis
+            - - t: en casa
+                tr: at home
+              - t: ir a casa
+                tr: to go home
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|home} (in sports) '
+          - - vis
+            - - t: equipo de casa
+                tr: home team
+              - t: partido en casa
+                tr: home game
+              - t: partido fuera de casa
+                tr: away game
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|household}, {a_link|family}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|company}, {a_link|firm}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}currency exchange'
+          sn: '6'
+          vrs:
+          - va: casa de cambio
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pawnshop}'
+          sn: '7'
+          vrs:
+          - va: "casa de empe\xF1os"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}institute of (higher) {a_link|learning}, {a_link|college}, {a_link|university}'
+          sn: '8'
+          vrs:
+          - va: casa de (altos) estudios
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|clinic}'
+          sn: '9'
+          vrs:
+          - va: casa de salud
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|headquarters}'
+          sn: '10'
+          vrs:
+          - va: casa matriz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to spare no expense'
+          sn: '11'
+          vrs:
+          - va: echar/tirar/botar la casa por la ventana
+  fl: feminine noun
+  hwi:
+    hw: casa
+    prs:
+    - sound:
+        audio: casa001sp
+  meta:
+    id: casa
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604100000'
+    src: spanish
+    stems:
+    - casa
+    - casa de cambio
+    - "casa de empe\xF1os"
+    - casa de (altos) estudios
+    - casa de salud
+    - casa matriz
+    - echar/tirar/botar la casa por la ventana
+    - botar la casa por la ventana
+    - echar la casa por la ventana
+    - tirar la casa por la ventana
+    uuid: f20678e0-daae-40bf-9051-0d2661156926
+  shortdef:
+  - house
+  - 'hogar : home'
+  - home (in sports)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|spark}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be furious'
+          sn: '2'
+          vrs:
+          - va: echar chispas
+  fl: feminine noun
+  hom: 2
+  hwi:
+    hw: chispa
+    prs:
+    - sound:
+        audio: chisp02sp
+  meta:
+    id: chispa:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604614000'
+    src: spanish
+    stems:
+    - chispa
+    - echar chispas
+    uuid: d6a33f2a-f7f8-4d9b-9a07-935e8924b228
+  shortdef:
+  - spark
+  - to be furious
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hint}, {a_link|innuendo}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to drop a hint, to {a_link|insinuate}'
+          sn: '2'
+          vrs:
+          - va: echar indirectas
+          - va: lanzar indirectas
+            vl: or
+  fl: feminine noun
+  hwi:
+    hw: indirecta
+  meta:
+    id: indirecta
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612313000'
+    src: spanish
+    stems:
+    - indirecta
+    - echar indirectas
+    - lanzar indirectas
+    uuid: c9f83d96-7cd1-484a-8f40-433cb536110e
+  shortdef:
+  - hint, innuendo
+  - to drop a hint, to insinuate
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hand} '
+          - - vis
+            - - t: "l\xE1vate las manos"
+                tr: wash your hands
+              - t: "ag\xE1rralo con las dos manos"
+                tr: hold it with both hands
+              - t: "ten\xEDa algo en la mano"
+                tr: she had something in her hand
+              - t: con mis propias manos
+                tr: with my own two hands
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|coat} (of paint or varnish)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hand} (in games)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}by hand'
+          sn: '4'
+          vrs:
+          - va: a mano
+            vac: a ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|handy}, {a_link|at hand}, {a_link|nearby} '
+          - - vis
+            - - t: "ten\xEDa los libros a (la) mano"
+                tr: I kept the books handy
+          sn: '5'
+          vrs:
+          - va: a mano
+            vac: a ~
+          - va: a la mano
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|secretly}, on the sly'
+          sn: '6'
+          vrs:
+          - va: bajo mano
+            vac: bajo ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall into the hands of}'
+          sn: '7'
+          vrs:
+          - va: caer en manos de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|red-handed}'
+          sn: '8'
+          vrs:
+          - va: con las manos en la masa
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to shake someone''s hand'
+          sn: '9'
+          vrs:
+          - va: darle la mano a alguien
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to shake hands'
+          sn: '10'
+          vrs:
+          - va: darse la mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}by the hand, hand in hand '
+          - - vis
+            - - t: "me tom\xF3 de la mano"
+                tr: he took me by the hand
+              - t: "la pol\xEDtica y la econom\xEDa van de la mano"
+                tr: politics and economics go hand in hand
+          sn: '11'
+          vrs:
+          - va: de la mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}from one person to the next '
+          - - vis
+            - - t: pasar de mano en mano
+                tr: to be passed along/around
+          sn: '12'
+          vrs:
+          - va: de mano en mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|firsthand}, at firsthand '
+          - - vis
+            - - t: conocer de primera mano
+                tr: to experience firsthand
+          sn: '13'
+          vrs:
+          - va: de primera mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|secondhand}, {a_link|used} '
+          - - vis
+            - - t: ropa de segunda mano
+                tr: secondhand clothing
+          sn: '14'
+          vrs:
+          - va: de segunda mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lend a hand'
+          sn: '15'
+          vrs:
+          - va: echar una mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|one-on-one}'
+          sn: '16'
+          vrs:
+          - va: mano a mano
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|labor}, {a_link|manpower}'
+          sn: '17'
+          vrs:
+          - va: mano de obra
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pestle}'
+          sn: '18'
+          vrs:
+          - va: mano de mortero
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}shady dealings {it}plural{/it}'
+          sls:
+          - Mexico familiar
+          sn: '19'
+          vrs:
+          - va: mano negra
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}stick ''em up!, (put your) hands up!'
+          sn: '20'
+          vrs:
+          - va: "\xA1manos arriba!"
+          - va: "\xA1arriba las manos!"
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be good at'
+          sn: '21'
+          vrs:
+          - va: tener (buena) mano para
+  fl: feminine noun
+  hom: 1
+  hwi:
+    hw: mano
+    prs:
+    - sound:
+        audio: mano001sp
+  meta:
+    id: mano:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614379000'
+    src: spanish
+    stems:
+    - mano
+    - a mano
+    - a la mano
+    - bajo mano
+    - caer en manos de
+    - con las manos en la masa
+    - darle la mano a alguien
+    - darse la mano
+    - de la mano
+    - de mano en mano
+    - de primera mano
+    - de segunda mano
+    - echar una mano
+    - mano a mano
+    - mano de obra
+    - mano de mortero
+    - mano negra
+    - "\xA1manos arriba!"
+    - "\xA1arriba las manos!"
+    - tener (buena) mano para
+    uuid: 136e93c2-fc79-4df5-a05e-7538f7664b5e
+  shortdef:
+  - hand
+  - coat (of paint or varnish)
+  - hand (in games)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|root}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|origin}, {a_link|source}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|following}, as a result of'
+          sn: '3'
+          vrs:
+          - va: "a ra\xEDz de"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take root}'
+          sn: '4'
+          vrs:
+          - va: "echar ra\xEDces"
+  fl: feminine noun
+  hwi:
+    hw: "ra\xEDz"
+    prs:
+    - sound:
+        audio: raiz001sp
+  ins:
+  - if: "ra\xEDces"
+    il: plural
+  meta:
+    id: raiz
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618740000'
+    src: spanish
+    stems:
+    - "ra\xEDz"
+    - "ra\xEDces"
+    - "a ra\xEDz de"
+    - "echar ra\xEDces"
+    uuid: 71365269-bb81-41a6-bec8-d5ba85d424ce
+  shortdef:
+  - root
+  - origin, source
+  - following, as a result of

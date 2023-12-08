@@ -1,0 +1,268 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look at} '
+          - - vis
+            - - t: "mir\xF3 el reloj"
+                tr: she looked at her watch
+              - t: mirar fijamente
+                tr: to stare at
+              - t: mirar algo (muy) por encima
+                tr: to glance something over
+              - t: "la mir\xE9 en los ojos"
+                tr: I looked her straight in the eye
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|observar||} {bc}to {a_link|watch} '
+          - - vis
+            - - t: "mirar televisi\xF3n"
+                tr: to watch television
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reflexionar||} {bc}to {a_link|consider}, to {a_link|think over} '
+          - - vis
+            - - t: "m\xEDralo desde su punto de vista"
+                tr: look at it from her point of view
+          sn: '3'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "\xA1mira que eres lista!"
+                tr: you're so clever!
+              - t: "mire que no soy experto, pero \u2026"
+                tr: "I'm no expert, but \u2026"
+              - t: "\xA1mira qu\xE9 gracia!"
+                tr: how funny!
+          sls:
+          - (used for emphasis)
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look} '
+          - - vis
+            - - t: miraba por la ventana
+                tr: I was looking out the window
+              - t: "mira bien y lo ver\xE1s"
+                tr: look carefully and you'll see it
+              - t: "\xA1mira! ah\xED est\xE1"
+                tr: look! there he is
+              - t: "mira, a m\xED no me importa"
+                tr: look, it doesn't matter to me
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|face}, to {a_link|overlook}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look after}, to {a_link|look out for}'
+          sn: '3'
+          vrs:
+          - va: mirar por
+            vac: ~ por
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to look at oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to look at each other'
+            sn: '2'
+    drp: mirarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: mirar
+    prs:
+    - sound:
+        audio: mirar01sp
+  meta:
+    id: mirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615110000'
+    src: spanish
+    stems:
+    - mirar
+    - mirar por
+    - mirarse
+    uuid: a91deb34-aa26-451b-8c7e-d921e465d533
+  shortdef:
+  - to look at
+  - 'observar : to watch'
+  - 'reflexionar : to consider, to think over'
+  suppl:
+    cjts:
+    - cjfs:
+      - mirando
+      - mirado
+      cjid: gppt
+    - cjfs:
+      - miro
+      - miras
+      - mira
+      - miramos
+      - "mir\xE1is"
+      - miran
+      cjid: pind
+    - cjfs:
+      - miraba
+      - mirabas
+      - miraba
+      - "mir\xE1bamos"
+      - mirabais
+      - miraban
+      cjid: pret
+    - cjfs:
+      - "mir\xE9"
+      - miraste
+      - "mir\xF3"
+      - miramos
+      - mirasteis
+      - miraron
+      cjid: pprf
+    - cjfs:
+      - "mirar\xE9"
+      - "mirar\xE1s"
+      - "mirar\xE1"
+      - miraremos
+      - "mirar\xE9is"
+      - "mirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mirar\xEDa"
+      - "mirar\xEDas"
+      - "mirar\xEDa"
+      - "mirar\xEDamos"
+      - "mirar\xEDais"
+      - "mirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - mire
+      - mires
+      - mire
+      - miremos
+      - "mir\xE9is"
+      - miren
+      cjid: psub
+    - cjfs:
+      - mirara
+      - miraras
+      - mirara
+      - "mir\xE1ramos"
+      - mirarais
+      - miraran
+      cjid: pisb1
+    - cjfs:
+      - mirase
+      - mirases
+      - mirase
+      - "mir\xE1semos"
+      - miraseis
+      - mirasen
+      cjid: pisb2
+    - cjfs:
+      - mirare
+      - mirares
+      - mirare
+      - "mir\xE1remos"
+      - mirareis
+      - miraren
+      cjid: fsub
+    - cjfs:
+      - he mirado
+      - has mirado
+      - ha mirado
+      - hemos mirado
+      - "hab\xE9is mirado"
+      - han mirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mirado"
+      - "hab\xEDas mirado"
+      - "hab\xEDa mirado"
+      - "hab\xEDamos mirado"
+      - "hab\xEDais mirado"
+      - "hab\xEDan mirado"
+      cjid: ppsi
+    - cjfs:
+      - hube mirado
+      - hubiste mirado
+      - hubo mirado
+      - hubimos mirado
+      - hubisteis mirado
+      - hubieron mirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mirado"
+      - "habr\xE1s mirado"
+      - "habr\xE1 mirado"
+      - habremos mirado
+      - "habr\xE9is mirado"
+      - "habr\xE1n mirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mirado"
+      - "habr\xEDas mirado"
+      - "habr\xEDa mirado"
+      - "habr\xEDamos mirado"
+      - "habr\xEDais mirado"
+      - "habr\xEDan mirado"
+      cjid: cpef
+    - cjfs:
+      - haya mirado
+      - hayas mirado
+      - haya mirado
+      - hayamos mirado
+      - "hay\xE1is mirado"
+      - hayan mirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera mirado
+      - hubieras mirado
+      - hubiera mirado
+      - "hubi\xE9ramos mirado"
+      - hubierais mirado
+      - hubieran mirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese mirado
+      - hubieses mirado
+      - hubiese mirado
+      - "hubi\xE9semos mirado"
+      - hubieseis mirado
+      - hubiesen mirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere mirado
+      - hubieres mirado
+      - hubiere mirado
+      - "hubi\xE9remos mirado"
+      - hubiereis mirado
+      - hubieren mirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mira
+      - mire
+      - miremos
+      - mirad
+      - miren
+      cjid: impf

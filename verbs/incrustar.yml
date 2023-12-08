@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|embed}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inlay}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become embedded'
+    drp: incrustarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: incrustar
+  meta:
+    id: incrustar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612231000'
+    src: spanish
+    stems:
+    - incrustar
+    - incrustarse
+    uuid: 21c64242-b7b9-4a46-ba67-e7480c497f66
+  shortdef:
+  - to embed
+  - to inlay
+  suppl:
+    cjts:
+    - cjfs:
+      - incrustando
+      - incrustado
+      cjid: gppt
+    - cjfs:
+      - incrusto
+      - incrustas
+      - incrusta
+      - incrustamos
+      - "incrust\xE1is"
+      - incrustan
+      cjid: pind
+    - cjfs:
+      - incrustaba
+      - incrustabas
+      - incrustaba
+      - "incrust\xE1bamos"
+      - incrustabais
+      - incrustaban
+      cjid: pret
+    - cjfs:
+      - "incrust\xE9"
+      - incrustaste
+      - "incrust\xF3"
+      - incrustamos
+      - incrustasteis
+      - incrustaron
+      cjid: pprf
+    - cjfs:
+      - "incrustar\xE9"
+      - "incrustar\xE1s"
+      - "incrustar\xE1"
+      - incrustaremos
+      - "incrustar\xE9is"
+      - "incrustar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "incrustar\xEDa"
+      - "incrustar\xEDas"
+      - "incrustar\xEDa"
+      - "incrustar\xEDamos"
+      - "incrustar\xEDais"
+      - "incrustar\xEDan"
+      cjid: cond
+    - cjfs:
+      - incruste
+      - incrustes
+      - incruste
+      - incrustemos
+      - "incrust\xE9is"
+      - incrusten
+      cjid: psub
+    - cjfs:
+      - incrustara
+      - incrustaras
+      - incrustara
+      - "incrust\xE1ramos"
+      - incrustarais
+      - incrustaran
+      cjid: pisb1
+    - cjfs:
+      - incrustase
+      - incrustases
+      - incrustase
+      - "incrust\xE1semos"
+      - incrustaseis
+      - incrustasen
+      cjid: pisb2
+    - cjfs:
+      - incrustare
+      - incrustares
+      - incrustare
+      - "incrust\xE1remos"
+      - incrustareis
+      - incrustaren
+      cjid: fsub
+    - cjfs:
+      - he incrustado
+      - has incrustado
+      - ha incrustado
+      - hemos incrustado
+      - "hab\xE9is incrustado"
+      - han incrustado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa incrustado"
+      - "hab\xEDas incrustado"
+      - "hab\xEDa incrustado"
+      - "hab\xEDamos incrustado"
+      - "hab\xEDais incrustado"
+      - "hab\xEDan incrustado"
+      cjid: ppsi
+    - cjfs:
+      - hube incrustado
+      - hubiste incrustado
+      - hubo incrustado
+      - hubimos incrustado
+      - hubisteis incrustado
+      - hubieron incrustado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 incrustado"
+      - "habr\xE1s incrustado"
+      - "habr\xE1 incrustado"
+      - habremos incrustado
+      - "habr\xE9is incrustado"
+      - "habr\xE1n incrustado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa incrustado"
+      - "habr\xEDas incrustado"
+      - "habr\xEDa incrustado"
+      - "habr\xEDamos incrustado"
+      - "habr\xEDais incrustado"
+      - "habr\xEDan incrustado"
+      cjid: cpef
+    - cjfs:
+      - haya incrustado
+      - hayas incrustado
+      - haya incrustado
+      - hayamos incrustado
+      - "hay\xE1is incrustado"
+      - hayan incrustado
+      cjid: ppfs
+    - cjfs:
+      - hubiera incrustado
+      - hubieras incrustado
+      - hubiera incrustado
+      - "hubi\xE9ramos incrustado"
+      - hubierais incrustado
+      - hubieran incrustado
+      cjid: ppss1
+    - cjfs:
+      - hubiese incrustado
+      - hubieses incrustado
+      - hubiese incrustado
+      - "hubi\xE9semos incrustado"
+      - hubieseis incrustado
+      - hubiesen incrustado
+      cjid: ppss2
+    - cjfs:
+      - hubiere incrustado
+      - hubieres incrustado
+      - hubiere incrustado
+      - "hubi\xE9remos incrustado"
+      - hubiereis incrustado
+      - hubieren incrustado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - incrusta
+      - incruste
+      - incrustemos
+      - incrustad
+      - incrusten
+      cjid: impf

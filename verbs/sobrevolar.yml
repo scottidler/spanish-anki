@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fly over, to {a_link|overfly}'
+  fl: transitive verb
+  hwi:
+    hw: sobrevolar
+  meta:
+    id: sobrevolar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620803000'
+    src: spanish
+    stems:
+    - sobrevolar
+    uuid: 1217f598-fdeb-42ee-88af-a48f4165db08
+  shortdef:
+  - to fly over, to overfly
+  suppl:
+    cjts:
+    - cjfs:
+      - sobrevolando
+      - sobrevolado
+      cjid: gppt
+    - cjfs:
+      - sobrevuelo
+      - sobrevuelas
+      - sobrevuela
+      - sobrevolamos
+      - "sobrevol\xE1is"
+      - sobrevuelan
+      cjid: pind
+    - cjfs:
+      - sobrevolaba
+      - sobrevolabas
+      - sobrevolaba
+      - "sobrevol\xE1bamos"
+      - sobrevolabais
+      - sobrevolaban
+      cjid: pret
+    - cjfs:
+      - "sobrevol\xE9"
+      - sobrevolaste
+      - "sobrevol\xF3"
+      - sobrevolamos
+      - sobrevolasteis
+      - sobrevolaron
+      cjid: pprf
+    - cjfs:
+      - "sobrevolar\xE9"
+      - "sobrevolar\xE1s"
+      - "sobrevolar\xE1"
+      - sobrevolaremos
+      - "sobrevolar\xE9is"
+      - "sobrevolar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sobrevolar\xEDa"
+      - "sobrevolar\xEDas"
+      - "sobrevolar\xEDa"
+      - "sobrevolar\xEDamos"
+      - "sobrevolar\xEDais"
+      - "sobrevolar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sobrevuele
+      - sobrevueles
+      - sobrevuele
+      - sobrevolemos
+      - "sobrevol\xE9is"
+      - sobrevuelen
+      cjid: psub
+    - cjfs:
+      - sobrevolara
+      - sobrevolaras
+      - sobrevolara
+      - "sobrevol\xE1ramos"
+      - sobrevolarais
+      - sobrevolaran
+      cjid: pisb1
+    - cjfs:
+      - sobrevolase
+      - sobrevolases
+      - sobrevolase
+      - "sobrevol\xE1semos"
+      - sobrevolaseis
+      - sobrevolasen
+      cjid: pisb2
+    - cjfs:
+      - sobrevolare
+      - sobrevolares
+      - sobrevolare
+      - "sobrevol\xE1remos"
+      - sobrevolareis
+      - sobrevolaren
+      cjid: fsub
+    - cjfs:
+      - he sobrevolado
+      - has sobrevolado
+      - ha sobrevolado
+      - hemos sobrevolado
+      - "hab\xE9is sobrevolado"
+      - han sobrevolado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sobrevolado"
+      - "hab\xEDas sobrevolado"
+      - "hab\xEDa sobrevolado"
+      - "hab\xEDamos sobrevolado"
+      - "hab\xEDais sobrevolado"
+      - "hab\xEDan sobrevolado"
+      cjid: ppsi
+    - cjfs:
+      - hube sobrevolado
+      - hubiste sobrevolado
+      - hubo sobrevolado
+      - hubimos sobrevolado
+      - hubisteis sobrevolado
+      - hubieron sobrevolado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sobrevolado"
+      - "habr\xE1s sobrevolado"
+      - "habr\xE1 sobrevolado"
+      - habremos sobrevolado
+      - "habr\xE9is sobrevolado"
+      - "habr\xE1n sobrevolado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sobrevolado"
+      - "habr\xEDas sobrevolado"
+      - "habr\xEDa sobrevolado"
+      - "habr\xEDamos sobrevolado"
+      - "habr\xEDais sobrevolado"
+      - "habr\xEDan sobrevolado"
+      cjid: cpef
+    - cjfs:
+      - haya sobrevolado
+      - hayas sobrevolado
+      - haya sobrevolado
+      - hayamos sobrevolado
+      - "hay\xE1is sobrevolado"
+      - hayan sobrevolado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sobrevolado
+      - hubieras sobrevolado
+      - hubiera sobrevolado
+      - "hubi\xE9ramos sobrevolado"
+      - hubierais sobrevolado
+      - hubieran sobrevolado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sobrevolado
+      - hubieses sobrevolado
+      - hubiese sobrevolado
+      - "hubi\xE9semos sobrevolado"
+      - hubieseis sobrevolado
+      - hubiesen sobrevolado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sobrevolado
+      - hubieres sobrevolado
+      - hubiere sobrevolado
+      - "hubi\xE9remos sobrevolado"
+      - hubiereis sobrevolado
+      - hubieren sobrevolado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sobrevuela
+      - sobrevuele
+      - sobrevolemos
+      - sobrevolad
+      - sobrevuelen
+      cjid: impf

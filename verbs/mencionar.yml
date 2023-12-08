@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mention}, to {a_link|refer to}'
+  fl: transitive verb
+  hwi:
+    hw: mencionar
+    prs:
+    - sound:
+        audio: menci01sp
+  meta:
+    id: mencionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614793000'
+    src: spanish
+    stems:
+    - mencionar
+    uuid: 132bb947-c069-44e1-8f83-a9c4c7023a31
+  shortdef:
+  - to mention, to refer to
+  suppl:
+    cjts:
+    - cjfs:
+      - mencionando
+      - mencionado
+      cjid: gppt
+    - cjfs:
+      - menciono
+      - mencionas
+      - menciona
+      - mencionamos
+      - "mencion\xE1is"
+      - mencionan
+      cjid: pind
+    - cjfs:
+      - mencionaba
+      - mencionabas
+      - mencionaba
+      - "mencion\xE1bamos"
+      - mencionabais
+      - mencionaban
+      cjid: pret
+    - cjfs:
+      - "mencion\xE9"
+      - mencionaste
+      - "mencion\xF3"
+      - mencionamos
+      - mencionasteis
+      - mencionaron
+      cjid: pprf
+    - cjfs:
+      - "mencionar\xE9"
+      - "mencionar\xE1s"
+      - "mencionar\xE1"
+      - mencionaremos
+      - "mencionar\xE9is"
+      - "mencionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mencionar\xEDa"
+      - "mencionar\xEDas"
+      - "mencionar\xEDa"
+      - "mencionar\xEDamos"
+      - "mencionar\xEDais"
+      - "mencionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - mencione
+      - menciones
+      - mencione
+      - mencionemos
+      - "mencion\xE9is"
+      - mencionen
+      cjid: psub
+    - cjfs:
+      - mencionara
+      - mencionaras
+      - mencionara
+      - "mencion\xE1ramos"
+      - mencionarais
+      - mencionaran
+      cjid: pisb1
+    - cjfs:
+      - mencionase
+      - mencionases
+      - mencionase
+      - "mencion\xE1semos"
+      - mencionaseis
+      - mencionasen
+      cjid: pisb2
+    - cjfs:
+      - mencionare
+      - mencionares
+      - mencionare
+      - "mencion\xE1remos"
+      - mencionareis
+      - mencionaren
+      cjid: fsub
+    - cjfs:
+      - he mencionado
+      - has mencionado
+      - ha mencionado
+      - hemos mencionado
+      - "hab\xE9is mencionado"
+      - han mencionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mencionado"
+      - "hab\xEDas mencionado"
+      - "hab\xEDa mencionado"
+      - "hab\xEDamos mencionado"
+      - "hab\xEDais mencionado"
+      - "hab\xEDan mencionado"
+      cjid: ppsi
+    - cjfs:
+      - hube mencionado
+      - hubiste mencionado
+      - hubo mencionado
+      - hubimos mencionado
+      - hubisteis mencionado
+      - hubieron mencionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mencionado"
+      - "habr\xE1s mencionado"
+      - "habr\xE1 mencionado"
+      - habremos mencionado
+      - "habr\xE9is mencionado"
+      - "habr\xE1n mencionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mencionado"
+      - "habr\xEDas mencionado"
+      - "habr\xEDa mencionado"
+      - "habr\xEDamos mencionado"
+      - "habr\xEDais mencionado"
+      - "habr\xEDan mencionado"
+      cjid: cpef
+    - cjfs:
+      - haya mencionado
+      - hayas mencionado
+      - haya mencionado
+      - hayamos mencionado
+      - "hay\xE1is mencionado"
+      - hayan mencionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera mencionado
+      - hubieras mencionado
+      - hubiera mencionado
+      - "hubi\xE9ramos mencionado"
+      - hubierais mencionado
+      - hubieran mencionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese mencionado
+      - hubieses mencionado
+      - hubiese mencionado
+      - "hubi\xE9semos mencionado"
+      - hubieseis mencionado
+      - hubiesen mencionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere mencionado
+      - hubieres mencionado
+      - hubiere mencionado
+      - "hubi\xE9remos mencionado"
+      - hubiereis mencionado
+      - hubieren mencionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - menciona
+      - mencione
+      - mencionemos
+      - mencionad
+      - mencionen
+      cjid: impf

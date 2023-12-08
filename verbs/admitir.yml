@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|admit}, to let in'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|acknowledge}, to {a_link|concede}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|allow}, to make room for '
+          - - vis
+            - - t: la ley no admite cambios
+                tr: the law doesn't allow for changes
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: admitir
+    prs:
+    - sound:
+        audio: admit01sp
+  meta:
+    id: admitir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600497000'
+    src: spanish
+    stems:
+    - admitir
+    uuid: e3187123-767b-402a-9380-3664e6dcba96
+  shortdef:
+  - to admit, to let in
+  - to acknowledge, to concede
+  - to allow, to make room for
+  suppl:
+    cjts:
+    - cjfs:
+      - admitiendo
+      - admitido
+      cjid: gppt
+    - cjfs:
+      - admito
+      - admites
+      - admite
+      - admitimos
+      - "admit\xEDs"
+      - admiten
+      cjid: pind
+    - cjfs:
+      - "admit\xEDa"
+      - "admit\xEDas"
+      - "admit\xEDa"
+      - "admit\xEDamos"
+      - "admit\xEDais"
+      - "admit\xEDan"
+      cjid: pret
+    - cjfs:
+      - "admit\xED"
+      - admitiste
+      - "admiti\xF3"
+      - admitimos
+      - admitisteis
+      - admitieron
+      cjid: pprf
+    - cjfs:
+      - "admitir\xE9"
+      - "admitir\xE1s"
+      - "admitir\xE1"
+      - admitiremos
+      - "admitir\xE9is"
+      - "admitir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "admitir\xEDa"
+      - "admitir\xEDas"
+      - "admitir\xEDa"
+      - "admitir\xEDamos"
+      - "admitir\xEDais"
+      - "admitir\xEDan"
+      cjid: cond
+    - cjfs:
+      - admita
+      - admitas
+      - admita
+      - admitamos
+      - "admit\xE1is"
+      - admitan
+      cjid: psub
+    - cjfs:
+      - admitiera
+      - admitieras
+      - admitiera
+      - "admiti\xE9ramos"
+      - admitierais
+      - admitieran
+      cjid: pisb1
+    - cjfs:
+      - admitiese
+      - admitieses
+      - admitiese
+      - "admiti\xE9semos"
+      - admitieseis
+      - admitiesen
+      cjid: pisb2
+    - cjfs:
+      - admitiere
+      - admitieres
+      - admitiere
+      - "admiti\xE9remos"
+      - admitiereis
+      - admitieren
+      cjid: fsub
+    - cjfs:
+      - he admitido
+      - has admitido
+      - ha admitido
+      - hemos admitido
+      - "hab\xE9is admitido"
+      - han admitido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa admitido"
+      - "hab\xEDas admitido"
+      - "hab\xEDa admitido"
+      - "hab\xEDamos admitido"
+      - "hab\xEDais admitido"
+      - "hab\xEDan admitido"
+      cjid: ppsi
+    - cjfs:
+      - hube admitido
+      - hubiste admitido
+      - hubo admitido
+      - hubimos admitido
+      - hubisteis admitido
+      - hubieron admitido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 admitido"
+      - "habr\xE1s admitido"
+      - "habr\xE1 admitido"
+      - habremos admitido
+      - "habr\xE9is admitido"
+      - "habr\xE1n admitido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa admitido"
+      - "habr\xEDas admitido"
+      - "habr\xEDa admitido"
+      - "habr\xEDamos admitido"
+      - "habr\xEDais admitido"
+      - "habr\xEDan admitido"
+      cjid: cpef
+    - cjfs:
+      - haya admitido
+      - hayas admitido
+      - haya admitido
+      - hayamos admitido
+      - "hay\xE1is admitido"
+      - hayan admitido
+      cjid: ppfs
+    - cjfs:
+      - hubiera admitido
+      - hubieras admitido
+      - hubiera admitido
+      - "hubi\xE9ramos admitido"
+      - hubierais admitido
+      - hubieran admitido
+      cjid: ppss1
+    - cjfs:
+      - hubiese admitido
+      - hubieses admitido
+      - hubiese admitido
+      - "hubi\xE9semos admitido"
+      - hubieseis admitido
+      - hubiesen admitido
+      cjid: ppss2
+    - cjfs:
+      - hubiere admitido
+      - hubieres admitido
+      - hubiere admitido
+      - "hubi\xE9remos admitido"
+      - hubiereis admitido
+      - hubieren admitido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - admite
+      - admita
+      - admitamos
+      - admitid
+      - admitan
+      cjid: impf

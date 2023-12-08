@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go too far, to do something to excess'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|abuse} (as drugs)'
+          sn: '2'
+          vrs:
+          - va: abusar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take unfair advantage of'
+          sn: '3'
+          vrs:
+          - va: abusar de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: abusar
+    prs:
+    - sound:
+        audio: abusa03sp
+  meta:
+    id: abusar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600165000'
+    src: spanish
+    stems:
+    - abusar
+    - abusar de
+    uuid: 6e8e4413-dd45-479c-bf7f-2212568a5a26
+  shortdef:
+  - to go too far, to do something to excess
+  - to abuse (as drugs)
+  - to take unfair advantage of
+  suppl:
+    cjts:
+    - cjfs:
+      - abusando
+      - abusado
+      cjid: gppt
+    - cjfs:
+      - abuso
+      - abusas
+      - abusa
+      - abusamos
+      - "abus\xE1is"
+      - abusan
+      cjid: pind
+    - cjfs:
+      - abusaba
+      - abusabas
+      - abusaba
+      - "abus\xE1bamos"
+      - abusabais
+      - abusaban
+      cjid: pret
+    - cjfs:
+      - "abus\xE9"
+      - abusaste
+      - "abus\xF3"
+      - abusamos
+      - abusasteis
+      - abusaron
+      cjid: pprf
+    - cjfs:
+      - "abusar\xE9"
+      - "abusar\xE1s"
+      - "abusar\xE1"
+      - abusaremos
+      - "abusar\xE9is"
+      - "abusar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abusar\xEDa"
+      - "abusar\xEDas"
+      - "abusar\xEDa"
+      - "abusar\xEDamos"
+      - "abusar\xEDais"
+      - "abusar\xEDan"
+      cjid: cond
+    - cjfs:
+      - abuse
+      - abuses
+      - abuse
+      - abusemos
+      - "abus\xE9is"
+      - abusen
+      cjid: psub
+    - cjfs:
+      - abusara
+      - abusaras
+      - abusara
+      - "abus\xE1ramos"
+      - abusarais
+      - abusaran
+      cjid: pisb1
+    - cjfs:
+      - abusase
+      - abusases
+      - abusase
+      - "abus\xE1semos"
+      - abusaseis
+      - abusasen
+      cjid: pisb2
+    - cjfs:
+      - abusare
+      - abusares
+      - abusare
+      - "abus\xE1remos"
+      - abusareis
+      - abusaren
+      cjid: fsub
+    - cjfs:
+      - he abusado
+      - has abusado
+      - ha abusado
+      - hemos abusado
+      - "hab\xE9is abusado"
+      - han abusado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abusado"
+      - "hab\xEDas abusado"
+      - "hab\xEDa abusado"
+      - "hab\xEDamos abusado"
+      - "hab\xEDais abusado"
+      - "hab\xEDan abusado"
+      cjid: ppsi
+    - cjfs:
+      - hube abusado
+      - hubiste abusado
+      - hubo abusado
+      - hubimos abusado
+      - hubisteis abusado
+      - hubieron abusado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abusado"
+      - "habr\xE1s abusado"
+      - "habr\xE1 abusado"
+      - habremos abusado
+      - "habr\xE9is abusado"
+      - "habr\xE1n abusado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abusado"
+      - "habr\xEDas abusado"
+      - "habr\xEDa abusado"
+      - "habr\xEDamos abusado"
+      - "habr\xEDais abusado"
+      - "habr\xEDan abusado"
+      cjid: cpef
+    - cjfs:
+      - haya abusado
+      - hayas abusado
+      - haya abusado
+      - hayamos abusado
+      - "hay\xE1is abusado"
+      - hayan abusado
+      cjid: ppfs
+    - cjfs:
+      - hubiera abusado
+      - hubieras abusado
+      - hubiera abusado
+      - "hubi\xE9ramos abusado"
+      - hubierais abusado
+      - hubieran abusado
+      cjid: ppss1
+    - cjfs:
+      - hubiese abusado
+      - hubieses abusado
+      - hubiese abusado
+      - "hubi\xE9semos abusado"
+      - hubieseis abusado
+      - hubiesen abusado
+      cjid: ppss2
+    - cjfs:
+      - hubiere abusado
+      - hubieres abusado
+      - hubiere abusado
+      - "hubi\xE9remos abusado"
+      - hubiereis abusado
+      - hubieren abusado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abusa
+      - abuse
+      - abusemos
+      - abusad
+      - abusen
+      cjid: impf

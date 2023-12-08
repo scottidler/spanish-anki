@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rifar||} {bc}to {a_link|raffle}, to draw lots for'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dodge}, to {a_link|avoid}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: sortear
+    prs:
+    - sound:
+        audio: sorte01sp
+  meta:
+    id: sortear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620986000'
+    src: spanish
+    stems:
+    - sortear
+    uuid: 843dfbe1-4ac8-4225-9bda-5c993b95e1c9
+  shortdef:
+  - 'rifar : to raffle, to draw lots for'
+  - to dodge, to avoid
+  suppl:
+    cjts:
+    - cjfs:
+      - sorteando
+      - sorteado
+      cjid: gppt
+    - cjfs:
+      - sorteo
+      - sorteas
+      - sortea
+      - sorteamos
+      - "sorte\xE1is"
+      - sortean
+      cjid: pind
+    - cjfs:
+      - sorteaba
+      - sorteabas
+      - sorteaba
+      - "sorte\xE1bamos"
+      - sorteabais
+      - sorteaban
+      cjid: pret
+    - cjfs:
+      - "sorte\xE9"
+      - sorteaste
+      - "sorte\xF3"
+      - sorteamos
+      - sorteasteis
+      - sortearon
+      cjid: pprf
+    - cjfs:
+      - "sortear\xE9"
+      - "sortear\xE1s"
+      - "sortear\xE1"
+      - sortearemos
+      - "sortear\xE9is"
+      - "sortear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sortear\xEDa"
+      - "sortear\xEDas"
+      - "sortear\xEDa"
+      - "sortear\xEDamos"
+      - "sortear\xEDais"
+      - "sortear\xEDan"
+      cjid: cond
+    - cjfs:
+      - sortee
+      - sortees
+      - sortee
+      - sorteemos
+      - "sorte\xE9is"
+      - sorteen
+      cjid: psub
+    - cjfs:
+      - sorteara
+      - sortearas
+      - sorteara
+      - "sorte\xE1ramos"
+      - sortearais
+      - sortearan
+      cjid: pisb1
+    - cjfs:
+      - sortease
+      - sorteases
+      - sortease
+      - "sorte\xE1semos"
+      - sorteaseis
+      - sorteasen
+      cjid: pisb2
+    - cjfs:
+      - sorteare
+      - sorteares
+      - sorteare
+      - "sorte\xE1remos"
+      - sorteareis
+      - sortearen
+      cjid: fsub
+    - cjfs:
+      - he sorteado
+      - has sorteado
+      - ha sorteado
+      - hemos sorteado
+      - "hab\xE9is sorteado"
+      - han sorteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sorteado"
+      - "hab\xEDas sorteado"
+      - "hab\xEDa sorteado"
+      - "hab\xEDamos sorteado"
+      - "hab\xEDais sorteado"
+      - "hab\xEDan sorteado"
+      cjid: ppsi
+    - cjfs:
+      - hube sorteado
+      - hubiste sorteado
+      - hubo sorteado
+      - hubimos sorteado
+      - hubisteis sorteado
+      - hubieron sorteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sorteado"
+      - "habr\xE1s sorteado"
+      - "habr\xE1 sorteado"
+      - habremos sorteado
+      - "habr\xE9is sorteado"
+      - "habr\xE1n sorteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sorteado"
+      - "habr\xEDas sorteado"
+      - "habr\xEDa sorteado"
+      - "habr\xEDamos sorteado"
+      - "habr\xEDais sorteado"
+      - "habr\xEDan sorteado"
+      cjid: cpef
+    - cjfs:
+      - haya sorteado
+      - hayas sorteado
+      - haya sorteado
+      - hayamos sorteado
+      - "hay\xE1is sorteado"
+      - hayan sorteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sorteado
+      - hubieras sorteado
+      - hubiera sorteado
+      - "hubi\xE9ramos sorteado"
+      - hubierais sorteado
+      - hubieran sorteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sorteado
+      - hubieses sorteado
+      - hubiese sorteado
+      - "hubi\xE9semos sorteado"
+      - hubieseis sorteado
+      - hubiesen sorteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sorteado
+      - hubieres sorteado
+      - hubiere sorteado
+      - "hubi\xE9remos sorteado"
+      - hubiereis sorteado
+      - hubieren sorteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sortea
+      - sortee
+      - sorteemos
+      - sortead
+      - sorteen
+      cjid: impf

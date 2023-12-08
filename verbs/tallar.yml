@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sculpt}, to {a_link|carve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|measure} (someone''s height)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deal} (cards)'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: tallar
+    prs:
+    - sound:
+        audio: talla02sp
+  meta:
+    id: tallar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621421000'
+    src: spanish
+    stems:
+    - tallar
+    uuid: e117c403-05be-4778-b549-ccdfef8cb9e3
+  shortdef:
+  - to sculpt, to carve
+  - to measure (someone's height)
+  - to deal (cards)
+  suppl:
+    cjts:
+    - cjfs:
+      - tallando
+      - tallado
+      cjid: gppt
+    - cjfs:
+      - tallo
+      - tallas
+      - talla
+      - tallamos
+      - "tall\xE1is"
+      - tallan
+      cjid: pind
+    - cjfs:
+      - tallaba
+      - tallabas
+      - tallaba
+      - "tall\xE1bamos"
+      - tallabais
+      - tallaban
+      cjid: pret
+    - cjfs:
+      - "tall\xE9"
+      - tallaste
+      - "tall\xF3"
+      - tallamos
+      - tallasteis
+      - tallaron
+      cjid: pprf
+    - cjfs:
+      - "tallar\xE9"
+      - "tallar\xE1s"
+      - "tallar\xE1"
+      - tallaremos
+      - "tallar\xE9is"
+      - "tallar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tallar\xEDa"
+      - "tallar\xEDas"
+      - "tallar\xEDa"
+      - "tallar\xEDamos"
+      - "tallar\xEDais"
+      - "tallar\xEDan"
+      cjid: cond
+    - cjfs:
+      - talle
+      - talles
+      - talle
+      - tallemos
+      - "tall\xE9is"
+      - tallen
+      cjid: psub
+    - cjfs:
+      - tallara
+      - tallaras
+      - tallara
+      - "tall\xE1ramos"
+      - tallarais
+      - tallaran
+      cjid: pisb1
+    - cjfs:
+      - tallase
+      - tallases
+      - tallase
+      - "tall\xE1semos"
+      - tallaseis
+      - tallasen
+      cjid: pisb2
+    - cjfs:
+      - tallare
+      - tallares
+      - tallare
+      - "tall\xE1remos"
+      - tallareis
+      - tallaren
+      cjid: fsub
+    - cjfs:
+      - he tallado
+      - has tallado
+      - ha tallado
+      - hemos tallado
+      - "hab\xE9is tallado"
+      - han tallado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tallado"
+      - "hab\xEDas tallado"
+      - "hab\xEDa tallado"
+      - "hab\xEDamos tallado"
+      - "hab\xEDais tallado"
+      - "hab\xEDan tallado"
+      cjid: ppsi
+    - cjfs:
+      - hube tallado
+      - hubiste tallado
+      - hubo tallado
+      - hubimos tallado
+      - hubisteis tallado
+      - hubieron tallado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tallado"
+      - "habr\xE1s tallado"
+      - "habr\xE1 tallado"
+      - habremos tallado
+      - "habr\xE9is tallado"
+      - "habr\xE1n tallado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tallado"
+      - "habr\xEDas tallado"
+      - "habr\xEDa tallado"
+      - "habr\xEDamos tallado"
+      - "habr\xEDais tallado"
+      - "habr\xEDan tallado"
+      cjid: cpef
+    - cjfs:
+      - haya tallado
+      - hayas tallado
+      - haya tallado
+      - hayamos tallado
+      - "hay\xE1is tallado"
+      - hayan tallado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tallado
+      - hubieras tallado
+      - hubiera tallado
+      - "hubi\xE9ramos tallado"
+      - hubierais tallado
+      - hubieran tallado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tallado
+      - hubieses tallado
+      - hubiese tallado
+      - "hubi\xE9semos tallado"
+      - hubieseis tallado
+      - hubiesen tallado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tallado
+      - hubieres tallado
+      - hubiere tallado
+      - "hubi\xE9remos tallado"
+      - hubiereis tallado
+      - hubieren tallado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - talla
+      - talle
+      - tallemos
+      - tallad
+      - tallen
+      cjid: impf

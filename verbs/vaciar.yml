@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|empty}, to {a_link|empty out}, to {a_link|drain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ahuecar||} {bc}to {a_link|hollow out}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cast} (in a mold)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to flow into, to {a_link|empty into}'
+          vrs:
+          - va: vaciar en
+            vac: ~ en
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: vaciar
+    prs:
+    - sound:
+        audio: vacia01sp
+  meta:
+    id: vaciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622625000'
+    src: spanish
+    stems:
+    - vaciar
+    - vaciar en
+    uuid: 65fb8a17-daa4-4cb5-a005-ce0301d51d66
+  shortdef:
+  - to empty, to empty out, to drain
+  - 'ahuecar : to hollow out'
+  - to cast (in a mold)
+  suppl:
+    cjts:
+    - cjfs:
+      - vaciando
+      - vaciado
+      cjid: gppt
+    - cjfs:
+      - "vac\xEDo"
+      - "vac\xEDas"
+      - "vac\xEDa"
+      - vaciamos
+      - "vaci\xE1is"
+      - "vac\xEDan"
+      cjid: pind
+    - cjfs:
+      - vaciaba
+      - vaciabas
+      - vaciaba
+      - "vaci\xE1bamos"
+      - vaciabais
+      - vaciaban
+      cjid: pret
+    - cjfs:
+      - "vaci\xE9"
+      - vaciaste
+      - "vaci\xF3"
+      - vaciamos
+      - vaciasteis
+      - vaciaron
+      cjid: pprf
+    - cjfs:
+      - "vaciar\xE9"
+      - "vaciar\xE1s"
+      - "vaciar\xE1"
+      - vaciaremos
+      - "vaciar\xE9is"
+      - "vaciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vaciar\xEDa"
+      - "vaciar\xEDas"
+      - "vaciar\xEDa"
+      - "vaciar\xEDamos"
+      - "vaciar\xEDais"
+      - "vaciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "vac\xEDe"
+      - "vac\xEDes"
+      - "vac\xEDe"
+      - vaciemos
+      - "vaci\xE9is"
+      - "vac\xEDen"
+      cjid: psub
+    - cjfs:
+      - vaciara
+      - vaciaras
+      - vaciara
+      - "vaci\xE1ramos"
+      - vaciarais
+      - vaciaran
+      cjid: pisb1
+    - cjfs:
+      - vaciase
+      - vaciases
+      - vaciase
+      - "vaci\xE1semos"
+      - vaciaseis
+      - vaciasen
+      cjid: pisb2
+    - cjfs:
+      - vaciare
+      - vaciares
+      - vaciare
+      - "vaci\xE1remos"
+      - vaciareis
+      - vaciaren
+      cjid: fsub
+    - cjfs:
+      - he vaciado
+      - has vaciado
+      - ha vaciado
+      - hemos vaciado
+      - "hab\xE9is vaciado"
+      - han vaciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vaciado"
+      - "hab\xEDas vaciado"
+      - "hab\xEDa vaciado"
+      - "hab\xEDamos vaciado"
+      - "hab\xEDais vaciado"
+      - "hab\xEDan vaciado"
+      cjid: ppsi
+    - cjfs:
+      - hube vaciado
+      - hubiste vaciado
+      - hubo vaciado
+      - hubimos vaciado
+      - hubisteis vaciado
+      - hubieron vaciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vaciado"
+      - "habr\xE1s vaciado"
+      - "habr\xE1 vaciado"
+      - habremos vaciado
+      - "habr\xE9is vaciado"
+      - "habr\xE1n vaciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vaciado"
+      - "habr\xEDas vaciado"
+      - "habr\xEDa vaciado"
+      - "habr\xEDamos vaciado"
+      - "habr\xEDais vaciado"
+      - "habr\xEDan vaciado"
+      cjid: cpef
+    - cjfs:
+      - haya vaciado
+      - hayas vaciado
+      - haya vaciado
+      - hayamos vaciado
+      - "hay\xE1is vaciado"
+      - hayan vaciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vaciado
+      - hubieras vaciado
+      - hubiera vaciado
+      - "hubi\xE9ramos vaciado"
+      - hubierais vaciado
+      - hubieran vaciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vaciado
+      - hubieses vaciado
+      - hubiese vaciado
+      - "hubi\xE9semos vaciado"
+      - hubieseis vaciado
+      - hubiesen vaciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vaciado
+      - hubieres vaciado
+      - hubiere vaciado
+      - "hubi\xE9remos vaciado"
+      - hubiereis vaciado
+      - hubieren vaciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "vac\xEDa"
+      - "vac\xEDe"
+      - vaciemos
+      - vaciad
+      - "vac\xEDen"
+      cjid: impf

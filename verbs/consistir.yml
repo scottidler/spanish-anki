@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to consist of'
+          sn: '1'
+          vrs:
+          - va: consistir en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lie in, to consist in'
+          sn: '2'
+          vrs:
+          - va: consistir en
+            vac: ~ en
+  fl: intransitive verb
+  hwi:
+    hw: consistir
+    prs:
+    - sound:
+        audio: consi11sp
+  meta:
+    id: consistir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605597000'
+    src: spanish
+    stems:
+    - consistir
+    - consistir en
+    uuid: 3042f462-04d4-4af4-a83d-3c678d8fc7a4
+  shortdef:
+  - to consist of
+  - to lie in, to consist in
+  suppl:
+    cjts:
+    - cjfs:
+      - consistiendo
+      - consistido
+      cjid: gppt
+    - cjfs:
+      - consisto
+      - consistes
+      - consiste
+      - consistimos
+      - "consist\xEDs"
+      - consisten
+      cjid: pind
+    - cjfs:
+      - "consist\xEDa"
+      - "consist\xEDas"
+      - "consist\xEDa"
+      - "consist\xEDamos"
+      - "consist\xEDais"
+      - "consist\xEDan"
+      cjid: pret
+    - cjfs:
+      - "consist\xED"
+      - consististe
+      - "consisti\xF3"
+      - consistimos
+      - consististeis
+      - consistieron
+      cjid: pprf
+    - cjfs:
+      - "consistir\xE9"
+      - "consistir\xE1s"
+      - "consistir\xE1"
+      - consistiremos
+      - "consistir\xE9is"
+      - "consistir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "consistir\xEDa"
+      - "consistir\xEDas"
+      - "consistir\xEDa"
+      - "consistir\xEDamos"
+      - "consistir\xEDais"
+      - "consistir\xEDan"
+      cjid: cond
+    - cjfs:
+      - consista
+      - consistas
+      - consista
+      - consistamos
+      - "consist\xE1is"
+      - consistan
+      cjid: psub
+    - cjfs:
+      - consistiera
+      - consistieras
+      - consistiera
+      - "consisti\xE9ramos"
+      - consistierais
+      - consistieran
+      cjid: pisb1
+    - cjfs:
+      - consistiese
+      - consistieses
+      - consistiese
+      - "consisti\xE9semos"
+      - consistieseis
+      - consistiesen
+      cjid: pisb2
+    - cjfs:
+      - consistiere
+      - consistieres
+      - consistiere
+      - "consisti\xE9remos"
+      - consistiereis
+      - consistieren
+      cjid: fsub
+    - cjfs:
+      - he consistido
+      - has consistido
+      - ha consistido
+      - hemos consistido
+      - "hab\xE9is consistido"
+      - han consistido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa consistido"
+      - "hab\xEDas consistido"
+      - "hab\xEDa consistido"
+      - "hab\xEDamos consistido"
+      - "hab\xEDais consistido"
+      - "hab\xEDan consistido"
+      cjid: ppsi
+    - cjfs:
+      - hube consistido
+      - hubiste consistido
+      - hubo consistido
+      - hubimos consistido
+      - hubisteis consistido
+      - hubieron consistido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 consistido"
+      - "habr\xE1s consistido"
+      - "habr\xE1 consistido"
+      - habremos consistido
+      - "habr\xE9is consistido"
+      - "habr\xE1n consistido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa consistido"
+      - "habr\xEDas consistido"
+      - "habr\xEDa consistido"
+      - "habr\xEDamos consistido"
+      - "habr\xEDais consistido"
+      - "habr\xEDan consistido"
+      cjid: cpef
+    - cjfs:
+      - haya consistido
+      - hayas consistido
+      - haya consistido
+      - hayamos consistido
+      - "hay\xE1is consistido"
+      - hayan consistido
+      cjid: ppfs
+    - cjfs:
+      - hubiera consistido
+      - hubieras consistido
+      - hubiera consistido
+      - "hubi\xE9ramos consistido"
+      - hubierais consistido
+      - hubieran consistido
+      cjid: ppss1
+    - cjfs:
+      - hubiese consistido
+      - hubieses consistido
+      - hubiese consistido
+      - "hubi\xE9semos consistido"
+      - hubieseis consistido
+      - hubiesen consistido
+      cjid: ppss2
+    - cjfs:
+      - hubiere consistido
+      - hubieres consistido
+      - hubiere consistido
+      - "hubi\xE9remos consistido"
+      - hubiereis consistido
+      - hubieren consistido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - consiste
+      - consista
+      - consistamos
+      - consistid
+      - consistan
+      cjid: impf

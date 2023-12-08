@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|eclipse}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|outshine}, to {a_link|surpass}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: eclipsar
+  meta:
+    id: eclipsar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608023000'
+    src: spanish
+    stems:
+    - eclipsar
+    uuid: 62c3af3f-708b-4d65-b893-a55564af20c8
+  shortdef:
+  - to eclipse
+  - to outshine, to surpass
+  suppl:
+    cjts:
+    - cjfs:
+      - eclipsando
+      - eclipsado
+      cjid: gppt
+    - cjfs:
+      - eclipso
+      - eclipsas
+      - eclipsa
+      - eclipsamos
+      - "eclips\xE1is"
+      - eclipsan
+      cjid: pind
+    - cjfs:
+      - eclipsaba
+      - eclipsabas
+      - eclipsaba
+      - "eclips\xE1bamos"
+      - eclipsabais
+      - eclipsaban
+      cjid: pret
+    - cjfs:
+      - "eclips\xE9"
+      - eclipsaste
+      - "eclips\xF3"
+      - eclipsamos
+      - eclipsasteis
+      - eclipsaron
+      cjid: pprf
+    - cjfs:
+      - "eclipsar\xE9"
+      - "eclipsar\xE1s"
+      - "eclipsar\xE1"
+      - eclipsaremos
+      - "eclipsar\xE9is"
+      - "eclipsar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "eclipsar\xEDa"
+      - "eclipsar\xEDas"
+      - "eclipsar\xEDa"
+      - "eclipsar\xEDamos"
+      - "eclipsar\xEDais"
+      - "eclipsar\xEDan"
+      cjid: cond
+    - cjfs:
+      - eclipse
+      - eclipses
+      - eclipse
+      - eclipsemos
+      - "eclips\xE9is"
+      - eclipsen
+      cjid: psub
+    - cjfs:
+      - eclipsara
+      - eclipsaras
+      - eclipsara
+      - "eclips\xE1ramos"
+      - eclipsarais
+      - eclipsaran
+      cjid: pisb1
+    - cjfs:
+      - eclipsase
+      - eclipsases
+      - eclipsase
+      - "eclips\xE1semos"
+      - eclipsaseis
+      - eclipsasen
+      cjid: pisb2
+    - cjfs:
+      - eclipsare
+      - eclipsares
+      - eclipsare
+      - "eclips\xE1remos"
+      - eclipsareis
+      - eclipsaren
+      cjid: fsub
+    - cjfs:
+      - he eclipsado
+      - has eclipsado
+      - ha eclipsado
+      - hemos eclipsado
+      - "hab\xE9is eclipsado"
+      - han eclipsado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa eclipsado"
+      - "hab\xEDas eclipsado"
+      - "hab\xEDa eclipsado"
+      - "hab\xEDamos eclipsado"
+      - "hab\xEDais eclipsado"
+      - "hab\xEDan eclipsado"
+      cjid: ppsi
+    - cjfs:
+      - hube eclipsado
+      - hubiste eclipsado
+      - hubo eclipsado
+      - hubimos eclipsado
+      - hubisteis eclipsado
+      - hubieron eclipsado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 eclipsado"
+      - "habr\xE1s eclipsado"
+      - "habr\xE1 eclipsado"
+      - habremos eclipsado
+      - "habr\xE9is eclipsado"
+      - "habr\xE1n eclipsado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa eclipsado"
+      - "habr\xEDas eclipsado"
+      - "habr\xEDa eclipsado"
+      - "habr\xEDamos eclipsado"
+      - "habr\xEDais eclipsado"
+      - "habr\xEDan eclipsado"
+      cjid: cpef
+    - cjfs:
+      - haya eclipsado
+      - hayas eclipsado
+      - haya eclipsado
+      - hayamos eclipsado
+      - "hay\xE1is eclipsado"
+      - hayan eclipsado
+      cjid: ppfs
+    - cjfs:
+      - hubiera eclipsado
+      - hubieras eclipsado
+      - hubiera eclipsado
+      - "hubi\xE9ramos eclipsado"
+      - hubierais eclipsado
+      - hubieran eclipsado
+      cjid: ppss1
+    - cjfs:
+      - hubiese eclipsado
+      - hubieses eclipsado
+      - hubiese eclipsado
+      - "hubi\xE9semos eclipsado"
+      - hubieseis eclipsado
+      - hubiesen eclipsado
+      cjid: ppss2
+    - cjfs:
+      - hubiere eclipsado
+      - hubieres eclipsado
+      - hubiere eclipsado
+      - "hubi\xE9remos eclipsado"
+      - hubiereis eclipsado
+      - hubieren eclipsado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - eclipsa
+      - eclipse
+      - eclipsemos
+      - eclipsad
+      - eclipsen
+      cjid: impf

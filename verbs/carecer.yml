@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lack} '
+          - - vis
+            - - t: "el cheque carec\xEDa de fondos"
+                tr: the check had insufficient funds
+          vrs:
+          - va: carecer de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: carecer
+    prs:
+    - sound:
+        audio: carec01sp
+  meta:
+    id: carecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603999000'
+    src: spanish
+    stems:
+    - carecer
+    - carecer de
+    uuid: a1603df4-a664-4d2f-ab14-508a1207861f
+  shortdef:
+  - to lack
+  suppl:
+    cjts:
+    - cjfs:
+      - careciendo
+      - carecido
+      cjid: gppt
+    - cjfs:
+      - carezco
+      - careces
+      - carece
+      - carecemos
+      - "carec\xE9is"
+      - carecen
+      cjid: pind
+    - cjfs:
+      - "carec\xEDa"
+      - "carec\xEDas"
+      - "carec\xEDa"
+      - "carec\xEDamos"
+      - "carec\xEDais"
+      - "carec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "carec\xED"
+      - careciste
+      - "careci\xF3"
+      - carecimos
+      - carecisteis
+      - carecieron
+      cjid: pprf
+    - cjfs:
+      - "carecer\xE9"
+      - "carecer\xE1s"
+      - "carecer\xE1"
+      - careceremos
+      - "carecer\xE9is"
+      - "carecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "carecer\xEDa"
+      - "carecer\xEDas"
+      - "carecer\xEDa"
+      - "carecer\xEDamos"
+      - "carecer\xEDais"
+      - "carecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - carezca
+      - carezcas
+      - carezca
+      - carezcamos
+      - "carezc\xE1is"
+      - carezcan
+      cjid: psub
+    - cjfs:
+      - careciera
+      - carecieras
+      - careciera
+      - "careci\xE9ramos"
+      - carecierais
+      - carecieran
+      cjid: pisb1
+    - cjfs:
+      - careciese
+      - carecieses
+      - careciese
+      - "careci\xE9semos"
+      - carecieseis
+      - careciesen
+      cjid: pisb2
+    - cjfs:
+      - careciere
+      - carecieres
+      - careciere
+      - "careci\xE9remos"
+      - careciereis
+      - carecieren
+      cjid: fsub
+    - cjfs:
+      - he carecido
+      - has carecido
+      - ha carecido
+      - hemos carecido
+      - "hab\xE9is carecido"
+      - han carecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa carecido"
+      - "hab\xEDas carecido"
+      - "hab\xEDa carecido"
+      - "hab\xEDamos carecido"
+      - "hab\xEDais carecido"
+      - "hab\xEDan carecido"
+      cjid: ppsi
+    - cjfs:
+      - hube carecido
+      - hubiste carecido
+      - hubo carecido
+      - hubimos carecido
+      - hubisteis carecido
+      - hubieron carecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 carecido"
+      - "habr\xE1s carecido"
+      - "habr\xE1 carecido"
+      - habremos carecido
+      - "habr\xE9is carecido"
+      - "habr\xE1n carecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa carecido"
+      - "habr\xEDas carecido"
+      - "habr\xEDa carecido"
+      - "habr\xEDamos carecido"
+      - "habr\xEDais carecido"
+      - "habr\xEDan carecido"
+      cjid: cpef
+    - cjfs:
+      - haya carecido
+      - hayas carecido
+      - haya carecido
+      - hayamos carecido
+      - "hay\xE1is carecido"
+      - hayan carecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera carecido
+      - hubieras carecido
+      - hubiera carecido
+      - "hubi\xE9ramos carecido"
+      - hubierais carecido
+      - hubieran carecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese carecido
+      - hubieses carecido
+      - hubiese carecido
+      - "hubi\xE9semos carecido"
+      - hubieseis carecido
+      - hubiesen carecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere carecido
+      - hubieres carecido
+      - hubiere carecido
+      - "hubi\xE9remos carecido"
+      - hubiereis carecido
+      - hubieren carecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - carece
+      - carezca
+      - carezcamos
+      - careced
+      - carezcan
+      cjid: impf

@@ -1,0 +1,238 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cut}, to {a_link|split}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break}, to {a_link|crack}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|share} (out), to {a_link|divide}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave}, to {a_link|depart}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to start from'
+          sn: '2'
+          vrs:
+          - va: partir de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|as of}, {a_link|from} '
+          - - vis
+            - - t: a partir de hoy
+                tr: as of today
+          sn: '3'
+          vrs:
+          - va: a partir de
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|smash}, to split open'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become chapped'
+            sn: '2'
+    drp: partirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: partir
+    prs:
+    - sound:
+        audio: parti10sp
+  meta:
+    id: partir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616752000'
+    src: spanish
+    stems:
+    - partir
+    - partir de
+    - a partir de
+    - partirse
+    uuid: f517d475-8d86-4e97-b982-a73d9991c452
+  shortdef:
+  - to cut, to split
+  - to break, to crack
+  - to share (out), to divide
+  suppl:
+    cjts:
+    - cjfs:
+      - partiendo
+      - partido
+      cjid: gppt
+    - cjfs:
+      - parto
+      - partes
+      - parte
+      - partimos
+      - "part\xEDs"
+      - parten
+      cjid: pind
+    - cjfs:
+      - "part\xEDa"
+      - "part\xEDas"
+      - "part\xEDa"
+      - "part\xEDamos"
+      - "part\xEDais"
+      - "part\xEDan"
+      cjid: pret
+    - cjfs:
+      - "part\xED"
+      - partiste
+      - "parti\xF3"
+      - partimos
+      - partisteis
+      - partieron
+      cjid: pprf
+    - cjfs:
+      - "partir\xE9"
+      - "partir\xE1s"
+      - "partir\xE1"
+      - partiremos
+      - "partir\xE9is"
+      - "partir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "partir\xEDa"
+      - "partir\xEDas"
+      - "partir\xEDa"
+      - "partir\xEDamos"
+      - "partir\xEDais"
+      - "partir\xEDan"
+      cjid: cond
+    - cjfs:
+      - parta
+      - partas
+      - parta
+      - partamos
+      - "part\xE1is"
+      - partan
+      cjid: psub
+    - cjfs:
+      - partiera
+      - partieras
+      - partiera
+      - "parti\xE9ramos"
+      - partierais
+      - partieran
+      cjid: pisb1
+    - cjfs:
+      - partiese
+      - partieses
+      - partiese
+      - "parti\xE9semos"
+      - partieseis
+      - partiesen
+      cjid: pisb2
+    - cjfs:
+      - partiere
+      - partieres
+      - partiere
+      - "parti\xE9remos"
+      - partiereis
+      - partieren
+      cjid: fsub
+    - cjfs:
+      - he partido
+      - has partido
+      - ha partido
+      - hemos partido
+      - "hab\xE9is partido"
+      - han partido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa partido"
+      - "hab\xEDas partido"
+      - "hab\xEDa partido"
+      - "hab\xEDamos partido"
+      - "hab\xEDais partido"
+      - "hab\xEDan partido"
+      cjid: ppsi
+    - cjfs:
+      - hube partido
+      - hubiste partido
+      - hubo partido
+      - hubimos partido
+      - hubisteis partido
+      - hubieron partido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 partido"
+      - "habr\xE1s partido"
+      - "habr\xE1 partido"
+      - habremos partido
+      - "habr\xE9is partido"
+      - "habr\xE1n partido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa partido"
+      - "habr\xEDas partido"
+      - "habr\xEDa partido"
+      - "habr\xEDamos partido"
+      - "habr\xEDais partido"
+      - "habr\xEDan partido"
+      cjid: cpef
+    - cjfs:
+      - haya partido
+      - hayas partido
+      - haya partido
+      - hayamos partido
+      - "hay\xE1is partido"
+      - hayan partido
+      cjid: ppfs
+    - cjfs:
+      - hubiera partido
+      - hubieras partido
+      - hubiera partido
+      - "hubi\xE9ramos partido"
+      - hubierais partido
+      - hubieran partido
+      cjid: ppss1
+    - cjfs:
+      - hubiese partido
+      - hubieses partido
+      - hubiese partido
+      - "hubi\xE9semos partido"
+      - hubieseis partido
+      - hubiesen partido
+      cjid: ppss2
+    - cjfs:
+      - hubiere partido
+      - hubieres partido
+      - hubiere partido
+      - "hubi\xE9remos partido"
+      - hubiereis partido
+      - hubieren partido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - parte
+      - parta
+      - partamos
+      - partid
+      - partan
+      cjid: impf

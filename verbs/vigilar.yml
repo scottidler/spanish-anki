@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cuidar||} {bc}to {a_link|look after}, to keep an eye on'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|guardar||} {bc}to {a_link|watch over}, to {a_link|guard}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be watchful'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to keep watch'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: vigilar
+    prs:
+    - sound:
+        audio: vigil02sp
+  meta:
+    id: vigilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623021000'
+    src: spanish
+    stems:
+    - vigilar
+    uuid: 2491401d-ffa1-472b-92e3-b5586c050f09
+  shortdef:
+  - 'cuidar : to look after, to keep an eye on'
+  - 'guardar : to watch over, to guard'
+  - to be watchful
+  suppl:
+    cjts:
+    - cjfs:
+      - vigilando
+      - vigilado
+      cjid: gppt
+    - cjfs:
+      - vigilo
+      - vigilas
+      - vigila
+      - vigilamos
+      - "vigil\xE1is"
+      - vigilan
+      cjid: pind
+    - cjfs:
+      - vigilaba
+      - vigilabas
+      - vigilaba
+      - "vigil\xE1bamos"
+      - vigilabais
+      - vigilaban
+      cjid: pret
+    - cjfs:
+      - "vigil\xE9"
+      - vigilaste
+      - "vigil\xF3"
+      - vigilamos
+      - vigilasteis
+      - vigilaron
+      cjid: pprf
+    - cjfs:
+      - "vigilar\xE9"
+      - "vigilar\xE1s"
+      - "vigilar\xE1"
+      - vigilaremos
+      - "vigilar\xE9is"
+      - "vigilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vigilar\xEDa"
+      - "vigilar\xEDas"
+      - "vigilar\xEDa"
+      - "vigilar\xEDamos"
+      - "vigilar\xEDais"
+      - "vigilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vigile
+      - vigiles
+      - vigile
+      - vigilemos
+      - "vigil\xE9is"
+      - vigilen
+      cjid: psub
+    - cjfs:
+      - vigilara
+      - vigilaras
+      - vigilara
+      - "vigil\xE1ramos"
+      - vigilarais
+      - vigilaran
+      cjid: pisb1
+    - cjfs:
+      - vigilase
+      - vigilases
+      - vigilase
+      - "vigil\xE1semos"
+      - vigilaseis
+      - vigilasen
+      cjid: pisb2
+    - cjfs:
+      - vigilare
+      - vigilares
+      - vigilare
+      - "vigil\xE1remos"
+      - vigilareis
+      - vigilaren
+      cjid: fsub
+    - cjfs:
+      - he vigilado
+      - has vigilado
+      - ha vigilado
+      - hemos vigilado
+      - "hab\xE9is vigilado"
+      - han vigilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vigilado"
+      - "hab\xEDas vigilado"
+      - "hab\xEDa vigilado"
+      - "hab\xEDamos vigilado"
+      - "hab\xEDais vigilado"
+      - "hab\xEDan vigilado"
+      cjid: ppsi
+    - cjfs:
+      - hube vigilado
+      - hubiste vigilado
+      - hubo vigilado
+      - hubimos vigilado
+      - hubisteis vigilado
+      - hubieron vigilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vigilado"
+      - "habr\xE1s vigilado"
+      - "habr\xE1 vigilado"
+      - habremos vigilado
+      - "habr\xE9is vigilado"
+      - "habr\xE1n vigilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vigilado"
+      - "habr\xEDas vigilado"
+      - "habr\xEDa vigilado"
+      - "habr\xEDamos vigilado"
+      - "habr\xEDais vigilado"
+      - "habr\xEDan vigilado"
+      cjid: cpef
+    - cjfs:
+      - haya vigilado
+      - hayas vigilado
+      - haya vigilado
+      - hayamos vigilado
+      - "hay\xE1is vigilado"
+      - hayan vigilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vigilado
+      - hubieras vigilado
+      - hubiera vigilado
+      - "hubi\xE9ramos vigilado"
+      - hubierais vigilado
+      - hubieran vigilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vigilado
+      - hubieses vigilado
+      - hubiese vigilado
+      - "hubi\xE9semos vigilado"
+      - hubieseis vigilado
+      - hubiesen vigilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vigilado
+      - hubieres vigilado
+      - hubiere vigilado
+      - "hubi\xE9remos vigilado"
+      - hubiereis vigilado
+      - hubieren vigilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vigila
+      - vigile
+      - vigilemos
+      - vigilad
+      - vigilen
+      cjid: impf

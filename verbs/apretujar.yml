@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|squash}, to {a_link|squeeze}'
+  fl: transitive verb
+  hwi:
+    hw: apretujar
+  meta:
+    id: apretujar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601799000'
+    src: spanish
+    stems:
+    - apretujar
+    - apretujarse
+    uuid: 1b351664-cfda-461e-8f95-1a689849a632
+  shortdef:
+  - to squash, to squeeze
+  suppl:
+    cjts:
+    - cjfs:
+      - apretujando
+      - apretujado
+      cjid: gppt
+    - cjfs:
+      - apretujo
+      - apretujas
+      - apretuja
+      - apretujamos
+      - "apretuj\xE1is"
+      - apretujan
+      cjid: pind
+    - cjfs:
+      - apretujaba
+      - apretujabas
+      - apretujaba
+      - "apretuj\xE1bamos"
+      - apretujabais
+      - apretujaban
+      cjid: pret
+    - cjfs:
+      - "apretuj\xE9"
+      - apretujaste
+      - "apretuj\xF3"
+      - apretujamos
+      - apretujasteis
+      - apretujaron
+      cjid: pprf
+    - cjfs:
+      - "apretujar\xE9"
+      - "apretujar\xE1s"
+      - "apretujar\xE1"
+      - apretujaremos
+      - "apretujar\xE9is"
+      - "apretujar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apretujar\xEDa"
+      - "apretujar\xEDas"
+      - "apretujar\xEDa"
+      - "apretujar\xEDamos"
+      - "apretujar\xEDais"
+      - "apretujar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apretuje
+      - apretujes
+      - apretuje
+      - apretujemos
+      - "apretuj\xE9is"
+      - apretujen
+      cjid: psub
+    - cjfs:
+      - apretujara
+      - apretujaras
+      - apretujara
+      - "apretuj\xE1ramos"
+      - apretujarais
+      - apretujaran
+      cjid: pisb1
+    - cjfs:
+      - apretujase
+      - apretujases
+      - apretujase
+      - "apretuj\xE1semos"
+      - apretujaseis
+      - apretujasen
+      cjid: pisb2
+    - cjfs:
+      - apretujare
+      - apretujares
+      - apretujare
+      - "apretuj\xE1remos"
+      - apretujareis
+      - apretujaren
+      cjid: fsub
+    - cjfs:
+      - he apretujado
+      - has apretujado
+      - ha apretujado
+      - hemos apretujado
+      - "hab\xE9is apretujado"
+      - han apretujado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apretujado"
+      - "hab\xEDas apretujado"
+      - "hab\xEDa apretujado"
+      - "hab\xEDamos apretujado"
+      - "hab\xEDais apretujado"
+      - "hab\xEDan apretujado"
+      cjid: ppsi
+    - cjfs:
+      - hube apretujado
+      - hubiste apretujado
+      - hubo apretujado
+      - hubimos apretujado
+      - hubisteis apretujado
+      - hubieron apretujado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apretujado"
+      - "habr\xE1s apretujado"
+      - "habr\xE1 apretujado"
+      - habremos apretujado
+      - "habr\xE9is apretujado"
+      - "habr\xE1n apretujado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apretujado"
+      - "habr\xEDas apretujado"
+      - "habr\xEDa apretujado"
+      - "habr\xEDamos apretujado"
+      - "habr\xEDais apretujado"
+      - "habr\xEDan apretujado"
+      cjid: cpef
+    - cjfs:
+      - haya apretujado
+      - hayas apretujado
+      - haya apretujado
+      - hayamos apretujado
+      - "hay\xE1is apretujado"
+      - hayan apretujado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apretujado
+      - hubieras apretujado
+      - hubiera apretujado
+      - "hubi\xE9ramos apretujado"
+      - hubierais apretujado
+      - hubieran apretujado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apretujado
+      - hubieses apretujado
+      - hubiese apretujado
+      - "hubi\xE9semos apretujado"
+      - hubieseis apretujado
+      - hubiesen apretujado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apretujado
+      - hubieres apretujado
+      - hubiere apretujado
+      - "hubi\xE9remos apretujado"
+      - hubiereis apretujado
+      - hubieren apretujado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apretuja
+      - apretuje
+      - apretujemos
+      - apretujad
+      - apretujen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: apretujarse

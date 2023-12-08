@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|distort}, to {a_link|twist}'
+  fl: transitive verb
+  hwi:
+    hw: tergiversar
+    prs:
+    - sound:
+        audio: tergi01sp
+  meta:
+    id: tergiversar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621709000'
+    src: spanish
+    stems:
+    - tergiversar
+    uuid: c226a79a-fad9-4fd1-ab39-f1e8b5fb740e
+  shortdef:
+  - to distort, to twist
+  suppl:
+    cjts:
+    - cjfs:
+      - tergiversando
+      - tergiversado
+      cjid: gppt
+    - cjfs:
+      - tergiverso
+      - tergiversas
+      - tergiversa
+      - tergiversamos
+      - "tergivers\xE1is"
+      - tergiversan
+      cjid: pind
+    - cjfs:
+      - tergiversaba
+      - tergiversabas
+      - tergiversaba
+      - "tergivers\xE1bamos"
+      - tergiversabais
+      - tergiversaban
+      cjid: pret
+    - cjfs:
+      - "tergivers\xE9"
+      - tergiversaste
+      - "tergivers\xF3"
+      - tergiversamos
+      - tergiversasteis
+      - tergiversaron
+      cjid: pprf
+    - cjfs:
+      - "tergiversar\xE9"
+      - "tergiversar\xE1s"
+      - "tergiversar\xE1"
+      - tergiversaremos
+      - "tergiversar\xE9is"
+      - "tergiversar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tergiversar\xEDa"
+      - "tergiversar\xEDas"
+      - "tergiversar\xEDa"
+      - "tergiversar\xEDamos"
+      - "tergiversar\xEDais"
+      - "tergiversar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tergiverse
+      - tergiverses
+      - tergiverse
+      - tergiversemos
+      - "tergivers\xE9is"
+      - tergiversen
+      cjid: psub
+    - cjfs:
+      - tergiversara
+      - tergiversaras
+      - tergiversara
+      - "tergivers\xE1ramos"
+      - tergiversarais
+      - tergiversaran
+      cjid: pisb1
+    - cjfs:
+      - tergiversase
+      - tergiversases
+      - tergiversase
+      - "tergivers\xE1semos"
+      - tergiversaseis
+      - tergiversasen
+      cjid: pisb2
+    - cjfs:
+      - tergiversare
+      - tergiversares
+      - tergiversare
+      - "tergivers\xE1remos"
+      - tergiversareis
+      - tergiversaren
+      cjid: fsub
+    - cjfs:
+      - he tergiversado
+      - has tergiversado
+      - ha tergiversado
+      - hemos tergiversado
+      - "hab\xE9is tergiversado"
+      - han tergiversado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tergiversado"
+      - "hab\xEDas tergiversado"
+      - "hab\xEDa tergiversado"
+      - "hab\xEDamos tergiversado"
+      - "hab\xEDais tergiversado"
+      - "hab\xEDan tergiversado"
+      cjid: ppsi
+    - cjfs:
+      - hube tergiversado
+      - hubiste tergiversado
+      - hubo tergiversado
+      - hubimos tergiversado
+      - hubisteis tergiversado
+      - hubieron tergiversado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tergiversado"
+      - "habr\xE1s tergiversado"
+      - "habr\xE1 tergiversado"
+      - habremos tergiversado
+      - "habr\xE9is tergiversado"
+      - "habr\xE1n tergiversado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tergiversado"
+      - "habr\xEDas tergiversado"
+      - "habr\xEDa tergiversado"
+      - "habr\xEDamos tergiversado"
+      - "habr\xEDais tergiversado"
+      - "habr\xEDan tergiversado"
+      cjid: cpef
+    - cjfs:
+      - haya tergiversado
+      - hayas tergiversado
+      - haya tergiversado
+      - hayamos tergiversado
+      - "hay\xE1is tergiversado"
+      - hayan tergiversado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tergiversado
+      - hubieras tergiversado
+      - hubiera tergiversado
+      - "hubi\xE9ramos tergiversado"
+      - hubierais tergiversado
+      - hubieran tergiversado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tergiversado
+      - hubieses tergiversado
+      - hubiese tergiversado
+      - "hubi\xE9semos tergiversado"
+      - hubieseis tergiversado
+      - hubiesen tergiversado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tergiversado
+      - hubieres tergiversado
+      - hubiere tergiversado
+      - "hubi\xE9remos tergiversado"
+      - hubiereis tergiversado
+      - hubieren tergiversado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tergiversa
+      - tergiverse
+      - tergiversemos
+      - tergiversad
+      - tergiversen
+      cjid: impf

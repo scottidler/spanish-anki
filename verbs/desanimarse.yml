@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desalentar||} {bc}to {a_link|discourage}, to {a_link|dishearten}'
+  fl: transitive verb
+  hwi:
+    hw: desanimar
+    prs:
+    - sound:
+        audio: desan01sp
+  meta:
+    id: desanimar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606843000'
+    src: spanish
+    stems:
+    - desanimar
+    - desanimarse
+    uuid: cc33b751-383c-4c50-97e7-8fe974c1f16f
+  shortdef:
+  - 'desalentar : to discourage, to dishearten'
+  suppl:
+    cjts:
+    - cjfs:
+      - desanimando
+      - desanimado
+      cjid: gppt
+    - cjfs:
+      - desanimo
+      - desanimas
+      - desanima
+      - desanimamos
+      - "desanim\xE1is"
+      - desaniman
+      cjid: pind
+    - cjfs:
+      - desanimaba
+      - desanimabas
+      - desanimaba
+      - "desanim\xE1bamos"
+      - desanimabais
+      - desanimaban
+      cjid: pret
+    - cjfs:
+      - "desanim\xE9"
+      - desanimaste
+      - "desanim\xF3"
+      - desanimamos
+      - desanimasteis
+      - desanimaron
+      cjid: pprf
+    - cjfs:
+      - "desanimar\xE9"
+      - "desanimar\xE1s"
+      - "desanimar\xE1"
+      - desanimaremos
+      - "desanimar\xE9is"
+      - "desanimar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desanimar\xEDa"
+      - "desanimar\xEDas"
+      - "desanimar\xEDa"
+      - "desanimar\xEDamos"
+      - "desanimar\xEDais"
+      - "desanimar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desanime
+      - desanimes
+      - desanime
+      - desanimemos
+      - "desanim\xE9is"
+      - desanimen
+      cjid: psub
+    - cjfs:
+      - desanimara
+      - desanimaras
+      - desanimara
+      - "desanim\xE1ramos"
+      - desanimarais
+      - desanimaran
+      cjid: pisb1
+    - cjfs:
+      - desanimase
+      - desanimases
+      - desanimase
+      - "desanim\xE1semos"
+      - desanimaseis
+      - desanimasen
+      cjid: pisb2
+    - cjfs:
+      - desanimare
+      - desanimares
+      - desanimare
+      - "desanim\xE1remos"
+      - desanimareis
+      - desanimaren
+      cjid: fsub
+    - cjfs:
+      - he desanimado
+      - has desanimado
+      - ha desanimado
+      - hemos desanimado
+      - "hab\xE9is desanimado"
+      - han desanimado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desanimado"
+      - "hab\xEDas desanimado"
+      - "hab\xEDa desanimado"
+      - "hab\xEDamos desanimado"
+      - "hab\xEDais desanimado"
+      - "hab\xEDan desanimado"
+      cjid: ppsi
+    - cjfs:
+      - hube desanimado
+      - hubiste desanimado
+      - hubo desanimado
+      - hubimos desanimado
+      - hubisteis desanimado
+      - hubieron desanimado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desanimado"
+      - "habr\xE1s desanimado"
+      - "habr\xE1 desanimado"
+      - habremos desanimado
+      - "habr\xE9is desanimado"
+      - "habr\xE1n desanimado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desanimado"
+      - "habr\xEDas desanimado"
+      - "habr\xEDa desanimado"
+      - "habr\xEDamos desanimado"
+      - "habr\xEDais desanimado"
+      - "habr\xEDan desanimado"
+      cjid: cpef
+    - cjfs:
+      - haya desanimado
+      - hayas desanimado
+      - haya desanimado
+      - hayamos desanimado
+      - "hay\xE1is desanimado"
+      - hayan desanimado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desanimado
+      - hubieras desanimado
+      - hubiera desanimado
+      - "hubi\xE9ramos desanimado"
+      - hubierais desanimado
+      - hubieran desanimado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desanimado
+      - hubieses desanimado
+      - hubiese desanimado
+      - "hubi\xE9semos desanimado"
+      - hubieseis desanimado
+      - hubiesen desanimado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desanimado
+      - hubieres desanimado
+      - hubiere desanimado
+      - "hubi\xE9remos desanimado"
+      - hubiereis desanimado
+      - hubieren desanimado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desanima
+      - desanime
+      - desanimemos
+      - desanimad
+      - desanimen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: desanimarse

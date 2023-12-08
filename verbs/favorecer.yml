@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|favor}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to look well on, to {a_link|suit}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: favorecer
+    prs:
+    - sound:
+        audio: favor01sp
+  meta:
+    id: favorecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609961000'
+    src: spanish
+    stems:
+    - favorecer
+    uuid: 2fcec139-cf98-49a3-950e-5403396f71b9
+  shortdef:
+  - to favor
+  - to look well on, to suit
+  suppl:
+    cjts:
+    - cjfs:
+      - favoreciendo
+      - favorecido
+      cjid: gppt
+    - cjfs:
+      - favorezco
+      - favoreces
+      - favorece
+      - favorecemos
+      - "favorec\xE9is"
+      - favorecen
+      cjid: pind
+    - cjfs:
+      - "favorec\xEDa"
+      - "favorec\xEDas"
+      - "favorec\xEDa"
+      - "favorec\xEDamos"
+      - "favorec\xEDais"
+      - "favorec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "favorec\xED"
+      - favoreciste
+      - "favoreci\xF3"
+      - favorecimos
+      - favorecisteis
+      - favorecieron
+      cjid: pprf
+    - cjfs:
+      - "favorecer\xE9"
+      - "favorecer\xE1s"
+      - "favorecer\xE1"
+      - favoreceremos
+      - "favorecer\xE9is"
+      - "favorecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "favorecer\xEDa"
+      - "favorecer\xEDas"
+      - "favorecer\xEDa"
+      - "favorecer\xEDamos"
+      - "favorecer\xEDais"
+      - "favorecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - favorezca
+      - favorezcas
+      - favorezca
+      - favorezcamos
+      - "favorezc\xE1is"
+      - favorezcan
+      cjid: psub
+    - cjfs:
+      - favoreciera
+      - favorecieras
+      - favoreciera
+      - "favoreci\xE9ramos"
+      - favorecierais
+      - favorecieran
+      cjid: pisb1
+    - cjfs:
+      - favoreciese
+      - favorecieses
+      - favoreciese
+      - "favoreci\xE9semos"
+      - favorecieseis
+      - favoreciesen
+      cjid: pisb2
+    - cjfs:
+      - favoreciere
+      - favorecieres
+      - favoreciere
+      - "favoreci\xE9remos"
+      - favoreciereis
+      - favorecieren
+      cjid: fsub
+    - cjfs:
+      - he favorecido
+      - has favorecido
+      - ha favorecido
+      - hemos favorecido
+      - "hab\xE9is favorecido"
+      - han favorecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa favorecido"
+      - "hab\xEDas favorecido"
+      - "hab\xEDa favorecido"
+      - "hab\xEDamos favorecido"
+      - "hab\xEDais favorecido"
+      - "hab\xEDan favorecido"
+      cjid: ppsi
+    - cjfs:
+      - hube favorecido
+      - hubiste favorecido
+      - hubo favorecido
+      - hubimos favorecido
+      - hubisteis favorecido
+      - hubieron favorecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 favorecido"
+      - "habr\xE1s favorecido"
+      - "habr\xE1 favorecido"
+      - habremos favorecido
+      - "habr\xE9is favorecido"
+      - "habr\xE1n favorecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa favorecido"
+      - "habr\xEDas favorecido"
+      - "habr\xEDa favorecido"
+      - "habr\xEDamos favorecido"
+      - "habr\xEDais favorecido"
+      - "habr\xEDan favorecido"
+      cjid: cpef
+    - cjfs:
+      - haya favorecido
+      - hayas favorecido
+      - haya favorecido
+      - hayamos favorecido
+      - "hay\xE1is favorecido"
+      - hayan favorecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera favorecido
+      - hubieras favorecido
+      - hubiera favorecido
+      - "hubi\xE9ramos favorecido"
+      - hubierais favorecido
+      - hubieran favorecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese favorecido
+      - hubieses favorecido
+      - hubiese favorecido
+      - "hubi\xE9semos favorecido"
+      - hubieseis favorecido
+      - hubiesen favorecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere favorecido
+      - hubieres favorecido
+      - hubiere favorecido
+      - "hubi\xE9remos favorecido"
+      - hubiereis favorecido
+      - hubieren favorecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - favorece
+      - favorezca
+      - favorezcamos
+      - favoreced
+      - favorezcan
+      cjid: impf

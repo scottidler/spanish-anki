@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|satisfy}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fulfill}, to {a_link|meet}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay}, to {a_link|settle}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be satisfied'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take revenge'
+            sn: '2'
+    drp: satisfacerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: satisfacer
+    prs:
+    - sound:
+        audio: satis02sp
+  meta:
+    id: satisfacer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620259000'
+    src: spanish
+    stems:
+    - satisfacer
+    - satisfacerse
+    uuid: ccc61673-8b2d-49fc-a8f5-9c9df11c2b32
+  shortdef:
+  - to satisfy
+  - to fulfill, to meet
+  - to pay, to settle
+  suppl:
+    cjts:
+    - cjfs:
+      - satisfaciendo
+      - satisfecho
+      cjid: gppt
+    - cjfs:
+      - satisfago
+      - satisfaces
+      - satisface
+      - satisfacemos
+      - "satisfac\xE9is"
+      - satisfacen
+      cjid: pind
+    - cjfs:
+      - "satisfac\xEDa"
+      - "satisfac\xEDas"
+      - "satisfac\xEDa"
+      - "satisfac\xEDamos"
+      - "satisfac\xEDais"
+      - "satisfac\xEDan"
+      cjid: pret
+    - cjfs:
+      - satisfice
+      - satisficiste
+      - satisfizo
+      - satisficimos
+      - satisficisteis
+      - satisficieron
+      cjid: pprf
+    - cjfs:
+      - "satisfar\xE9"
+      - "satisfar\xE1s"
+      - "satisfar\xE1"
+      - satisfaremos
+      - "satisfar\xE9is"
+      - "satisfar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "satisfar\xEDa"
+      - "satisfar\xEDas"
+      - "satisfar\xEDa"
+      - "satisfar\xEDamos"
+      - "satisfar\xEDais"
+      - "satisfar\xEDan"
+      cjid: cond
+    - cjfs:
+      - satisfaga
+      - satisfagas
+      - satisfaga
+      - satisfagamos
+      - "satisfag\xE1is"
+      - satisfagan
+      cjid: psub
+    - cjfs:
+      - satisficiera
+      - satisficieras
+      - satisficiera
+      - "satisfici\xE9ramos"
+      - satisficierais
+      - satisficieran
+      cjid: pisb1
+    - cjfs:
+      - satisficiese
+      - satisficieses
+      - satisficiese
+      - "satisfici\xE9semos"
+      - satisficieseis
+      - satisficiesen
+      cjid: pisb2
+    - cjfs:
+      - satisficiere
+      - satisficieres
+      - satisficiere
+      - "satisfici\xE9remos"
+      - satisficiereis
+      - satisficieren
+      cjid: fsub
+    - cjfs:
+      - he satisfecho
+      - has satisfecho
+      - ha satisfecho
+      - hemos satisfecho
+      - "hab\xE9is satisfecho"
+      - han satisfecho
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa satisfecho"
+      - "hab\xEDas satisfecho"
+      - "hab\xEDa satisfecho"
+      - "hab\xEDamos satisfecho"
+      - "hab\xEDais satisfecho"
+      - "hab\xEDan satisfecho"
+      cjid: ppsi
+    - cjfs:
+      - hube satisfecho
+      - hubiste satisfecho
+      - hubo satisfecho
+      - hubimos satisfecho
+      - hubisteis satisfecho
+      - hubieron satisfecho
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 satisfecho"
+      - "habr\xE1s satisfecho"
+      - "habr\xE1 satisfecho"
+      - habremos satisfecho
+      - "habr\xE9is satisfecho"
+      - "habr\xE1n satisfecho"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa satisfecho"
+      - "habr\xEDas satisfecho"
+      - "habr\xEDa satisfecho"
+      - "habr\xEDamos satisfecho"
+      - "habr\xEDais satisfecho"
+      - "habr\xEDan satisfecho"
+      cjid: cpef
+    - cjfs:
+      - haya satisfecho
+      - hayas satisfecho
+      - haya satisfecho
+      - hayamos satisfecho
+      - "hay\xE1is satisfecho"
+      - hayan satisfecho
+      cjid: ppfs
+    - cjfs:
+      - hubiera satisfecho
+      - hubieras satisfecho
+      - hubiera satisfecho
+      - "hubi\xE9ramos satisfecho"
+      - hubierais satisfecho
+      - hubieran satisfecho
+      cjid: ppss1
+    - cjfs:
+      - hubiese satisfecho
+      - hubieses satisfecho
+      - hubiese satisfecho
+      - "hubi\xE9semos satisfecho"
+      - hubieseis satisfecho
+      - hubiesen satisfecho
+      cjid: ppss2
+    - cjfs:
+      - hubiere satisfecho
+      - hubieres satisfecho
+      - hubiere satisfecho
+      - "hubi\xE9remos satisfecho"
+      - hubiereis satisfecho
+      - hubieren satisfecho
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - satisfaz
+      - satisfaga
+      - satisfagamos
+      - satisfaced
+      - satisfagan
+      cjid: impf

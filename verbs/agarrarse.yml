@@ -1,0 +1,225 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grab}, to {a_link|grasp}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|catch}, to {a_link|take}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|do} (something) {a_link|abruptly} '
+          - - vis
+            - - t: "el d\xEDa siguiente agarr\xF3 y se fue"
+                tr: the next day he up and left
+          sls:
+          - familiar
+          vrs:
+          - va: agarrar y
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|hold on}, to {a_link|cling}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get into a fight '
+            - - vis
+              - - t: se agarraron a golpes
+                  tr: they came to blows
+            sls:
+            - familiar
+            sn: '2'
+    drp: agarrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: agarrar
+    prs:
+    - sound:
+        audio: agarr02sp
+  meta:
+    id: agarrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600669000'
+    src: spanish
+    stems:
+    - agarrar
+    - agarrar y
+    - agarrarse
+    uuid: a982cce6-5f30-45af-83a8-e750ce4aa66a
+  shortdef:
+  - to grab, to grasp
+  - to catch, to take
+  - to do (something) abruptly
+  suppl:
+    cjts:
+    - cjfs:
+      - agarrando
+      - agarrado
+      cjid: gppt
+    - cjfs:
+      - agarro
+      - agarras
+      - agarra
+      - agarramos
+      - "agarr\xE1is"
+      - agarran
+      cjid: pind
+    - cjfs:
+      - agarraba
+      - agarrabas
+      - agarraba
+      - "agarr\xE1bamos"
+      - agarrabais
+      - agarraban
+      cjid: pret
+    - cjfs:
+      - "agarr\xE9"
+      - agarraste
+      - "agarr\xF3"
+      - agarramos
+      - agarrasteis
+      - agarraron
+      cjid: pprf
+    - cjfs:
+      - "agarrar\xE9"
+      - "agarrar\xE1s"
+      - "agarrar\xE1"
+      - agarraremos
+      - "agarrar\xE9is"
+      - "agarrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agarrar\xEDa"
+      - "agarrar\xEDas"
+      - "agarrar\xEDa"
+      - "agarrar\xEDamos"
+      - "agarrar\xEDais"
+      - "agarrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agarre
+      - agarres
+      - agarre
+      - agarremos
+      - "agarr\xE9is"
+      - agarren
+      cjid: psub
+    - cjfs:
+      - agarrara
+      - agarraras
+      - agarrara
+      - "agarr\xE1ramos"
+      - agarrarais
+      - agarraran
+      cjid: pisb1
+    - cjfs:
+      - agarrase
+      - agarrases
+      - agarrase
+      - "agarr\xE1semos"
+      - agarraseis
+      - agarrasen
+      cjid: pisb2
+    - cjfs:
+      - agarrare
+      - agarrares
+      - agarrare
+      - "agarr\xE1remos"
+      - agarrareis
+      - agarraren
+      cjid: fsub
+    - cjfs:
+      - he agarrado
+      - has agarrado
+      - ha agarrado
+      - hemos agarrado
+      - "hab\xE9is agarrado"
+      - han agarrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agarrado"
+      - "hab\xEDas agarrado"
+      - "hab\xEDa agarrado"
+      - "hab\xEDamos agarrado"
+      - "hab\xEDais agarrado"
+      - "hab\xEDan agarrado"
+      cjid: ppsi
+    - cjfs:
+      - hube agarrado
+      - hubiste agarrado
+      - hubo agarrado
+      - hubimos agarrado
+      - hubisteis agarrado
+      - hubieron agarrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agarrado"
+      - "habr\xE1s agarrado"
+      - "habr\xE1 agarrado"
+      - habremos agarrado
+      - "habr\xE9is agarrado"
+      - "habr\xE1n agarrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agarrado"
+      - "habr\xEDas agarrado"
+      - "habr\xEDa agarrado"
+      - "habr\xEDamos agarrado"
+      - "habr\xEDais agarrado"
+      - "habr\xEDan agarrado"
+      cjid: cpef
+    - cjfs:
+      - haya agarrado
+      - hayas agarrado
+      - haya agarrado
+      - hayamos agarrado
+      - "hay\xE1is agarrado"
+      - hayan agarrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agarrado
+      - hubieras agarrado
+      - hubiera agarrado
+      - "hubi\xE9ramos agarrado"
+      - hubierais agarrado
+      - hubieran agarrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agarrado
+      - hubieses agarrado
+      - hubiese agarrado
+      - "hubi\xE9semos agarrado"
+      - hubieseis agarrado
+      - hubiesen agarrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agarrado
+      - hubieres agarrado
+      - hubiere agarrado
+      - "hubi\xE9remos agarrado"
+      - hubiereis agarrado
+      - hubieren agarrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agarra
+      - agarre
+      - agarremos
+      - agarrad
+      - agarren
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assign}, to {a_link|allocate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|appoint}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: asignar
+    prs:
+    - sound:
+        audio: asign02sp
+  meta:
+    id: asignar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602168000'
+    src: spanish
+    stems:
+    - asignar
+    uuid: ca7c46f5-b816-45dc-8811-8f4860872e63
+  shortdef:
+  - to assign, to allocate
+  - to appoint
+  suppl:
+    cjts:
+    - cjfs:
+      - asignando
+      - asignado
+      cjid: gppt
+    - cjfs:
+      - asigno
+      - asignas
+      - asigna
+      - asignamos
+      - "asign\xE1is"
+      - asignan
+      cjid: pind
+    - cjfs:
+      - asignaba
+      - asignabas
+      - asignaba
+      - "asign\xE1bamos"
+      - asignabais
+      - asignaban
+      cjid: pret
+    - cjfs:
+      - "asign\xE9"
+      - asignaste
+      - "asign\xF3"
+      - asignamos
+      - asignasteis
+      - asignaron
+      cjid: pprf
+    - cjfs:
+      - "asignar\xE9"
+      - "asignar\xE1s"
+      - "asignar\xE1"
+      - asignaremos
+      - "asignar\xE9is"
+      - "asignar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asignar\xEDa"
+      - "asignar\xEDas"
+      - "asignar\xEDa"
+      - "asignar\xEDamos"
+      - "asignar\xEDais"
+      - "asignar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asigne
+      - asignes
+      - asigne
+      - asignemos
+      - "asign\xE9is"
+      - asignen
+      cjid: psub
+    - cjfs:
+      - asignara
+      - asignaras
+      - asignara
+      - "asign\xE1ramos"
+      - asignarais
+      - asignaran
+      cjid: pisb1
+    - cjfs:
+      - asignase
+      - asignases
+      - asignase
+      - "asign\xE1semos"
+      - asignaseis
+      - asignasen
+      cjid: pisb2
+    - cjfs:
+      - asignare
+      - asignares
+      - asignare
+      - "asign\xE1remos"
+      - asignareis
+      - asignaren
+      cjid: fsub
+    - cjfs:
+      - he asignado
+      - has asignado
+      - ha asignado
+      - hemos asignado
+      - "hab\xE9is asignado"
+      - han asignado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asignado"
+      - "hab\xEDas asignado"
+      - "hab\xEDa asignado"
+      - "hab\xEDamos asignado"
+      - "hab\xEDais asignado"
+      - "hab\xEDan asignado"
+      cjid: ppsi
+    - cjfs:
+      - hube asignado
+      - hubiste asignado
+      - hubo asignado
+      - hubimos asignado
+      - hubisteis asignado
+      - hubieron asignado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asignado"
+      - "habr\xE1s asignado"
+      - "habr\xE1 asignado"
+      - habremos asignado
+      - "habr\xE9is asignado"
+      - "habr\xE1n asignado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asignado"
+      - "habr\xEDas asignado"
+      - "habr\xEDa asignado"
+      - "habr\xEDamos asignado"
+      - "habr\xEDais asignado"
+      - "habr\xEDan asignado"
+      cjid: cpef
+    - cjfs:
+      - haya asignado
+      - hayas asignado
+      - haya asignado
+      - hayamos asignado
+      - "hay\xE1is asignado"
+      - hayan asignado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asignado
+      - hubieras asignado
+      - hubiera asignado
+      - "hubi\xE9ramos asignado"
+      - hubierais asignado
+      - hubieran asignado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asignado
+      - hubieses asignado
+      - hubiese asignado
+      - "hubi\xE9semos asignado"
+      - hubieseis asignado
+      - hubiesen asignado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asignado
+      - hubieres asignado
+      - hubiere asignado
+      - "hubi\xE9remos asignado"
+      - hubiereis asignado
+      - hubieren asignado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asigna
+      - asigne
+      - asignemos
+      - asignad
+      - asignen
+      cjid: impf

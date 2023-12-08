@@ -1,0 +1,259 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|answer}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|answer}, to {a_link|reply}, to {a_link|respond}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to respond to '
+          - - vis
+            - - t: responder al tratamiento
+                tr: to respond to treatment
+          sn: '2'
+          vrs:
+          - va: responder a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to answer for, to {a_link|vouch for} (something)'
+          sn: '3'
+          vrs:
+          - va: responder de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vouch for} (someone)'
+          sn: '4'
+          vrs:
+          - va: responder por
+            vac: ~ por
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: responder
+    prs:
+    - sound:
+        audio: respo01sp
+  meta:
+    id: responder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619602000'
+    src: spanish
+    stems:
+    - responder
+    - responder a
+    - responder de
+    - responder por
+    uuid: ea8681ba-fa4f-4f56-830f-2e6edcd057ff
+  shortdef:
+  - to answer
+  - to answer, to reply, to respond
+  - to respond to
+  suppl:
+    cjts:
+    - cjfs:
+      - respondiendo
+      - respondido
+      cjid: gppt
+    - cjfs:
+      - respondo
+      - respondes
+      - responde
+      - respondemos
+      - "respond\xE9is"
+      - responden
+      cjid: pind
+    - cjfs:
+      - "respond\xEDa"
+      - "respond\xEDas"
+      - "respond\xEDa"
+      - "respond\xEDamos"
+      - "respond\xEDais"
+      - "respond\xEDan"
+      cjid: pret
+    - cjfs:
+      - "respond\xED"
+      - respondiste
+      - "respondi\xF3"
+      - respondimos
+      - respondisteis
+      - respondieron
+      cjid: pprf
+    - cjfs:
+      - "responder\xE9"
+      - "responder\xE1s"
+      - "responder\xE1"
+      - responderemos
+      - "responder\xE9is"
+      - "responder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "responder\xEDa"
+      - "responder\xEDas"
+      - "responder\xEDa"
+      - "responder\xEDamos"
+      - "responder\xEDais"
+      - "responder\xEDan"
+      cjid: cond
+    - cjfs:
+      - responda
+      - respondas
+      - responda
+      - respondamos
+      - "respond\xE1is"
+      - respondan
+      cjid: psub
+    - cjfs:
+      - respondiera
+      - respondieras
+      - respondiera
+      - "respondi\xE9ramos"
+      - respondierais
+      - respondieran
+      cjid: pisb1
+    - cjfs:
+      - respondiese
+      - respondieses
+      - respondiese
+      - "respondi\xE9semos"
+      - respondieseis
+      - respondiesen
+      cjid: pisb2
+    - cjfs:
+      - respondiere
+      - respondieres
+      - respondiere
+      - "respondi\xE9remos"
+      - respondiereis
+      - respondieren
+      cjid: fsub
+    - cjfs:
+      - he respondido
+      - has respondido
+      - ha respondido
+      - hemos respondido
+      - "hab\xE9is respondido"
+      - han respondido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa respondido"
+      - "hab\xEDas respondido"
+      - "hab\xEDa respondido"
+      - "hab\xEDamos respondido"
+      - "hab\xEDais respondido"
+      - "hab\xEDan respondido"
+      cjid: ppsi
+    - cjfs:
+      - hube respondido
+      - hubiste respondido
+      - hubo respondido
+      - hubimos respondido
+      - hubisteis respondido
+      - hubieron respondido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 respondido"
+      - "habr\xE1s respondido"
+      - "habr\xE1 respondido"
+      - habremos respondido
+      - "habr\xE9is respondido"
+      - "habr\xE1n respondido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa respondido"
+      - "habr\xEDas respondido"
+      - "habr\xEDa respondido"
+      - "habr\xEDamos respondido"
+      - "habr\xEDais respondido"
+      - "habr\xEDan respondido"
+      cjid: cpef
+    - cjfs:
+      - haya respondido
+      - hayas respondido
+      - haya respondido
+      - hayamos respondido
+      - "hay\xE1is respondido"
+      - hayan respondido
+      cjid: ppfs
+    - cjfs:
+      - hubiera respondido
+      - hubieras respondido
+      - hubiera respondido
+      - "hubi\xE9ramos respondido"
+      - hubierais respondido
+      - hubieran respondido
+      cjid: ppss1
+    - cjfs:
+      - hubiese respondido
+      - hubieses respondido
+      - hubiese respondido
+      - "hubi\xE9semos respondido"
+      - hubieseis respondido
+      - hubiesen respondido
+      cjid: ppss2
+    - cjfs:
+      - hubiere respondido
+      - hubieres respondido
+      - hubiere respondido
+      - "hubi\xE9remos respondido"
+      - hubiereis respondido
+      - hubieren respondido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - responde
+      - responda
+      - respondamos
+      - responded
+      - respondan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|answer||} {bc}{a_link|contestar}, {a_link|responder}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|react||} {bc}{a_link|responder}, {a_link|reaccionar} '
+          - - vis
+            - - t: to respond to treatment
+                tr: responder al tratamiento
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: respond
+    prs:
+    - mw: "r\u026A\u02C8sp\u0251nd"
+  meta:
+    id: respond
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2620235000'
+    src: spanish
+    stems:
+    - respond
+    - responded
+    - responding
+    - responds
+    - responder
+    - responders
+    uuid: 5739bb4f-4337-4b16-912f-955d5c2c1c46
+  shortdef:
+  - 'answer : contestar, responder'
+  - 'react : responder, reaccionar'

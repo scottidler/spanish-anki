@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|raise}, to lift up'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|perch}'
+    drp: encaramarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: encaramar
+  meta:
+    id: encaramar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608428000'
+    src: spanish
+    stems:
+    - encaramar
+    - encaramarse
+    uuid: 3dba2aef-289f-4203-95a6-10dc733ff7fe
+  shortdef:
+  - to raise, to lift up
+  suppl:
+    cjts:
+    - cjfs:
+      - encaramando
+      - encaramado
+      cjid: gppt
+    - cjfs:
+      - encaramo
+      - encaramas
+      - encarama
+      - encaramamos
+      - "encaram\xE1is"
+      - encaraman
+      cjid: pind
+    - cjfs:
+      - encaramaba
+      - encaramabas
+      - encaramaba
+      - "encaram\xE1bamos"
+      - encaramabais
+      - encaramaban
+      cjid: pret
+    - cjfs:
+      - "encaram\xE9"
+      - encaramaste
+      - "encaram\xF3"
+      - encaramamos
+      - encaramasteis
+      - encaramaron
+      cjid: pprf
+    - cjfs:
+      - "encaramar\xE9"
+      - "encaramar\xE1s"
+      - "encaramar\xE1"
+      - encaramaremos
+      - "encaramar\xE9is"
+      - "encaramar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encaramar\xEDa"
+      - "encaramar\xEDas"
+      - "encaramar\xEDa"
+      - "encaramar\xEDamos"
+      - "encaramar\xEDais"
+      - "encaramar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encarame
+      - encarames
+      - encarame
+      - encaramemos
+      - "encaram\xE9is"
+      - encaramen
+      cjid: psub
+    - cjfs:
+      - encaramara
+      - encaramaras
+      - encaramara
+      - "encaram\xE1ramos"
+      - encaramarais
+      - encaramaran
+      cjid: pisb1
+    - cjfs:
+      - encaramase
+      - encaramases
+      - encaramase
+      - "encaram\xE1semos"
+      - encaramaseis
+      - encaramasen
+      cjid: pisb2
+    - cjfs:
+      - encaramare
+      - encaramares
+      - encaramare
+      - "encaram\xE1remos"
+      - encaramareis
+      - encaramaren
+      cjid: fsub
+    - cjfs:
+      - he encaramado
+      - has encaramado
+      - ha encaramado
+      - hemos encaramado
+      - "hab\xE9is encaramado"
+      - han encaramado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encaramado"
+      - "hab\xEDas encaramado"
+      - "hab\xEDa encaramado"
+      - "hab\xEDamos encaramado"
+      - "hab\xEDais encaramado"
+      - "hab\xEDan encaramado"
+      cjid: ppsi
+    - cjfs:
+      - hube encaramado
+      - hubiste encaramado
+      - hubo encaramado
+      - hubimos encaramado
+      - hubisteis encaramado
+      - hubieron encaramado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encaramado"
+      - "habr\xE1s encaramado"
+      - "habr\xE1 encaramado"
+      - habremos encaramado
+      - "habr\xE9is encaramado"
+      - "habr\xE1n encaramado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encaramado"
+      - "habr\xEDas encaramado"
+      - "habr\xEDa encaramado"
+      - "habr\xEDamos encaramado"
+      - "habr\xEDais encaramado"
+      - "habr\xEDan encaramado"
+      cjid: cpef
+    - cjfs:
+      - haya encaramado
+      - hayas encaramado
+      - haya encaramado
+      - hayamos encaramado
+      - "hay\xE1is encaramado"
+      - hayan encaramado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encaramado
+      - hubieras encaramado
+      - hubiera encaramado
+      - "hubi\xE9ramos encaramado"
+      - hubierais encaramado
+      - hubieran encaramado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encaramado
+      - hubieses encaramado
+      - hubiese encaramado
+      - "hubi\xE9semos encaramado"
+      - hubieseis encaramado
+      - hubiesen encaramado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encaramado
+      - hubieres encaramado
+      - hubiere encaramado
+      - "hubi\xE9remos encaramado"
+      - hubiereis encaramado
+      - hubieren encaramado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encarama
+      - encarame
+      - encaramemos
+      - encaramad
+      - encaramen
+      cjid: impf

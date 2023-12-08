@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bleed}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|indent} (a paragraph, etc.)'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: sangrar
+  meta:
+    id: sangrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620201000'
+    src: spanish
+    stems:
+    - sangrar
+    uuid: cb78b679-46c0-4f0c-ab10-20a387f740f2
+  shortdef:
+  - to bleed
+  - to indent (a paragraph, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - sangrando
+      - sangrado
+      cjid: gppt
+    - cjfs:
+      - sangro
+      - sangras
+      - sangra
+      - sangramos
+      - "sangr\xE1is"
+      - sangran
+      cjid: pind
+    - cjfs:
+      - sangraba
+      - sangrabas
+      - sangraba
+      - "sangr\xE1bamos"
+      - sangrabais
+      - sangraban
+      cjid: pret
+    - cjfs:
+      - "sangr\xE9"
+      - sangraste
+      - "sangr\xF3"
+      - sangramos
+      - sangrasteis
+      - sangraron
+      cjid: pprf
+    - cjfs:
+      - "sangrar\xE9"
+      - "sangrar\xE1s"
+      - "sangrar\xE1"
+      - sangraremos
+      - "sangrar\xE9is"
+      - "sangrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sangrar\xEDa"
+      - "sangrar\xEDas"
+      - "sangrar\xEDa"
+      - "sangrar\xEDamos"
+      - "sangrar\xEDais"
+      - "sangrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sangre
+      - sangres
+      - sangre
+      - sangremos
+      - "sangr\xE9is"
+      - sangren
+      cjid: psub
+    - cjfs:
+      - sangrara
+      - sangraras
+      - sangrara
+      - "sangr\xE1ramos"
+      - sangrarais
+      - sangraran
+      cjid: pisb1
+    - cjfs:
+      - sangrase
+      - sangrases
+      - sangrase
+      - "sangr\xE1semos"
+      - sangraseis
+      - sangrasen
+      cjid: pisb2
+    - cjfs:
+      - sangrare
+      - sangrares
+      - sangrare
+      - "sangr\xE1remos"
+      - sangrareis
+      - sangraren
+      cjid: fsub
+    - cjfs:
+      - he sangrado
+      - has sangrado
+      - ha sangrado
+      - hemos sangrado
+      - "hab\xE9is sangrado"
+      - han sangrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sangrado"
+      - "hab\xEDas sangrado"
+      - "hab\xEDa sangrado"
+      - "hab\xEDamos sangrado"
+      - "hab\xEDais sangrado"
+      - "hab\xEDan sangrado"
+      cjid: ppsi
+    - cjfs:
+      - hube sangrado
+      - hubiste sangrado
+      - hubo sangrado
+      - hubimos sangrado
+      - hubisteis sangrado
+      - hubieron sangrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sangrado"
+      - "habr\xE1s sangrado"
+      - "habr\xE1 sangrado"
+      - habremos sangrado
+      - "habr\xE9is sangrado"
+      - "habr\xE1n sangrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sangrado"
+      - "habr\xEDas sangrado"
+      - "habr\xEDa sangrado"
+      - "habr\xEDamos sangrado"
+      - "habr\xEDais sangrado"
+      - "habr\xEDan sangrado"
+      cjid: cpef
+    - cjfs:
+      - haya sangrado
+      - hayas sangrado
+      - haya sangrado
+      - hayamos sangrado
+      - "hay\xE1is sangrado"
+      - hayan sangrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sangrado
+      - hubieras sangrado
+      - hubiera sangrado
+      - "hubi\xE9ramos sangrado"
+      - hubierais sangrado
+      - hubieran sangrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sangrado
+      - hubieses sangrado
+      - hubiese sangrado
+      - "hubi\xE9semos sangrado"
+      - hubieseis sangrado
+      - hubiesen sangrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sangrado
+      - hubieres sangrado
+      - hubiere sangrado
+      - "hubi\xE9remos sangrado"
+      - hubiereis sangrado
+      - hubieren sangrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sangra
+      - sangre
+      - sangremos
+      - sangrad
+      - sangren
+      cjid: impf

@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deny}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rehusar||} {bc}to {a_link|refuse}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disown}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|refuse}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|deny oneself}'
+            sn: '2'
+    drp: negarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: negar
+    prs:
+    - sound:
+        audio: negar01sp
+  meta:
+    id: negar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615683000'
+    src: spanish
+    stems:
+    - negar
+    - negarse
+    uuid: c71d5f7d-8a1a-41b0-8493-d189c4829e94
+  shortdef:
+  - to deny
+  - 'rehusar : to refuse'
+  - to disown
+  suppl:
+    cjts:
+    - cjfs:
+      - negando
+      - negado
+      cjid: gppt
+    - cjfs:
+      - niego
+      - niegas
+      - niega
+      - negamos
+      - "neg\xE1is"
+      - niegan
+      cjid: pind
+    - cjfs:
+      - negaba
+      - negabas
+      - negaba
+      - "neg\xE1bamos"
+      - negabais
+      - negaban
+      cjid: pret
+    - cjfs:
+      - "negu\xE9"
+      - negaste
+      - "neg\xF3"
+      - negamos
+      - negasteis
+      - negaron
+      cjid: pprf
+    - cjfs:
+      - "negar\xE9"
+      - "negar\xE1s"
+      - "negar\xE1"
+      - negaremos
+      - "negar\xE9is"
+      - "negar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "negar\xEDa"
+      - "negar\xEDas"
+      - "negar\xEDa"
+      - "negar\xEDamos"
+      - "negar\xEDais"
+      - "negar\xEDan"
+      cjid: cond
+    - cjfs:
+      - niegue
+      - niegues
+      - niegue
+      - neguemos
+      - "negu\xE9is"
+      - nieguen
+      cjid: psub
+    - cjfs:
+      - negara
+      - negaras
+      - negara
+      - "neg\xE1ramos"
+      - negarais
+      - negaran
+      cjid: pisb1
+    - cjfs:
+      - negase
+      - negases
+      - negase
+      - "neg\xE1semos"
+      - negaseis
+      - negasen
+      cjid: pisb2
+    - cjfs:
+      - negare
+      - negares
+      - negare
+      - "neg\xE1remos"
+      - negareis
+      - negaren
+      cjid: fsub
+    - cjfs:
+      - he negado
+      - has negado
+      - ha negado
+      - hemos negado
+      - "hab\xE9is negado"
+      - han negado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa negado"
+      - "hab\xEDas negado"
+      - "hab\xEDa negado"
+      - "hab\xEDamos negado"
+      - "hab\xEDais negado"
+      - "hab\xEDan negado"
+      cjid: ppsi
+    - cjfs:
+      - hube negado
+      - hubiste negado
+      - hubo negado
+      - hubimos negado
+      - hubisteis negado
+      - hubieron negado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 negado"
+      - "habr\xE1s negado"
+      - "habr\xE1 negado"
+      - habremos negado
+      - "habr\xE9is negado"
+      - "habr\xE1n negado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa negado"
+      - "habr\xEDas negado"
+      - "habr\xEDa negado"
+      - "habr\xEDamos negado"
+      - "habr\xEDais negado"
+      - "habr\xEDan negado"
+      cjid: cpef
+    - cjfs:
+      - haya negado
+      - hayas negado
+      - haya negado
+      - hayamos negado
+      - "hay\xE1is negado"
+      - hayan negado
+      cjid: ppfs
+    - cjfs:
+      - hubiera negado
+      - hubieras negado
+      - hubiera negado
+      - "hubi\xE9ramos negado"
+      - hubierais negado
+      - hubieran negado
+      cjid: ppss1
+    - cjfs:
+      - hubiese negado
+      - hubieses negado
+      - hubiese negado
+      - "hubi\xE9semos negado"
+      - hubieseis negado
+      - hubiesen negado
+      cjid: ppss2
+    - cjfs:
+      - hubiere negado
+      - hubieres negado
+      - hubiere negado
+      - "hubi\xE9remos negado"
+      - hubiereis negado
+      - hubieren negado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - niega
+      - niegue
+      - neguemos
+      - negad
+      - nieguen
+      cjid: impf

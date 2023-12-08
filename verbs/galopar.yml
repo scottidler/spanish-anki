@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gallop}'
+  fl: intransitive verb
+  hwi:
+    hw: galopar
+  meta:
+    id: galopar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610630000'
+    src: spanish
+    stems:
+    - galopar
+    uuid: 7071753c-749a-4837-a1ff-f35643ea61b1
+  shortdef:
+  - to gallop
+  suppl:
+    cjts:
+    - cjfs:
+      - galopando
+      - galopado
+      cjid: gppt
+    - cjfs:
+      - galopo
+      - galopas
+      - galopa
+      - galopamos
+      - "galop\xE1is"
+      - galopan
+      cjid: pind
+    - cjfs:
+      - galopaba
+      - galopabas
+      - galopaba
+      - "galop\xE1bamos"
+      - galopabais
+      - galopaban
+      cjid: pret
+    - cjfs:
+      - "galop\xE9"
+      - galopaste
+      - "galop\xF3"
+      - galopamos
+      - galopasteis
+      - galoparon
+      cjid: pprf
+    - cjfs:
+      - "galopar\xE9"
+      - "galopar\xE1s"
+      - "galopar\xE1"
+      - galoparemos
+      - "galopar\xE9is"
+      - "galopar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "galopar\xEDa"
+      - "galopar\xEDas"
+      - "galopar\xEDa"
+      - "galopar\xEDamos"
+      - "galopar\xEDais"
+      - "galopar\xEDan"
+      cjid: cond
+    - cjfs:
+      - galope
+      - galopes
+      - galope
+      - galopemos
+      - "galop\xE9is"
+      - galopen
+      cjid: psub
+    - cjfs:
+      - galopara
+      - galoparas
+      - galopara
+      - "galop\xE1ramos"
+      - galoparais
+      - galoparan
+      cjid: pisb1
+    - cjfs:
+      - galopase
+      - galopases
+      - galopase
+      - "galop\xE1semos"
+      - galopaseis
+      - galopasen
+      cjid: pisb2
+    - cjfs:
+      - galopare
+      - galopares
+      - galopare
+      - "galop\xE1remos"
+      - galopareis
+      - galoparen
+      cjid: fsub
+    - cjfs:
+      - he galopado
+      - has galopado
+      - ha galopado
+      - hemos galopado
+      - "hab\xE9is galopado"
+      - han galopado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa galopado"
+      - "hab\xEDas galopado"
+      - "hab\xEDa galopado"
+      - "hab\xEDamos galopado"
+      - "hab\xEDais galopado"
+      - "hab\xEDan galopado"
+      cjid: ppsi
+    - cjfs:
+      - hube galopado
+      - hubiste galopado
+      - hubo galopado
+      - hubimos galopado
+      - hubisteis galopado
+      - hubieron galopado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 galopado"
+      - "habr\xE1s galopado"
+      - "habr\xE1 galopado"
+      - habremos galopado
+      - "habr\xE9is galopado"
+      - "habr\xE1n galopado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa galopado"
+      - "habr\xEDas galopado"
+      - "habr\xEDa galopado"
+      - "habr\xEDamos galopado"
+      - "habr\xEDais galopado"
+      - "habr\xEDan galopado"
+      cjid: cpef
+    - cjfs:
+      - haya galopado
+      - hayas galopado
+      - haya galopado
+      - hayamos galopado
+      - "hay\xE1is galopado"
+      - hayan galopado
+      cjid: ppfs
+    - cjfs:
+      - hubiera galopado
+      - hubieras galopado
+      - hubiera galopado
+      - "hubi\xE9ramos galopado"
+      - hubierais galopado
+      - hubieran galopado
+      cjid: ppss1
+    - cjfs:
+      - hubiese galopado
+      - hubieses galopado
+      - hubiese galopado
+      - "hubi\xE9semos galopado"
+      - hubieseis galopado
+      - hubiesen galopado
+      cjid: ppss2
+    - cjfs:
+      - hubiere galopado
+      - hubieres galopado
+      - hubiere galopado
+      - "hubi\xE9remos galopado"
+      - hubiereis galopado
+      - hubieren galopado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - galopa
+      - galope
+      - galopemos
+      - galopad
+      - galopen
+      cjid: impf

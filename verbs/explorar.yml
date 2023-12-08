@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|explore}'
+  fl: transitive verb
+  hwi:
+    hw: explorar
+    prs:
+    - sound:
+        audio: explo02sp
+  meta:
+    id: explorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609695000'
+    src: spanish
+    stems:
+    - explorar
+    - exploratorio
+    - exploratoria
+    uuid: bfb1b16b-34e3-4cd4-863b-d051ed4984f3
+  shortdef:
+  - to explore
+  suppl:
+    cjts:
+    - cjfs:
+      - explorando
+      - explorado
+      cjid: gppt
+    - cjfs:
+      - exploro
+      - exploras
+      - explora
+      - exploramos
+      - "explor\xE1is"
+      - exploran
+      cjid: pind
+    - cjfs:
+      - exploraba
+      - explorabas
+      - exploraba
+      - "explor\xE1bamos"
+      - explorabais
+      - exploraban
+      cjid: pret
+    - cjfs:
+      - "explor\xE9"
+      - exploraste
+      - "explor\xF3"
+      - exploramos
+      - explorasteis
+      - exploraron
+      cjid: pprf
+    - cjfs:
+      - "explorar\xE9"
+      - "explorar\xE1s"
+      - "explorar\xE1"
+      - exploraremos
+      - "explorar\xE9is"
+      - "explorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "explorar\xEDa"
+      - "explorar\xEDas"
+      - "explorar\xEDa"
+      - "explorar\xEDamos"
+      - "explorar\xEDais"
+      - "explorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - explore
+      - explores
+      - explore
+      - exploremos
+      - "explor\xE9is"
+      - exploren
+      cjid: psub
+    - cjfs:
+      - explorara
+      - exploraras
+      - explorara
+      - "explor\xE1ramos"
+      - explorarais
+      - exploraran
+      cjid: pisb1
+    - cjfs:
+      - explorase
+      - explorases
+      - explorase
+      - "explor\xE1semos"
+      - exploraseis
+      - explorasen
+      cjid: pisb2
+    - cjfs:
+      - explorare
+      - explorares
+      - explorare
+      - "explor\xE1remos"
+      - explorareis
+      - exploraren
+      cjid: fsub
+    - cjfs:
+      - he explorado
+      - has explorado
+      - ha explorado
+      - hemos explorado
+      - "hab\xE9is explorado"
+      - han explorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa explorado"
+      - "hab\xEDas explorado"
+      - "hab\xEDa explorado"
+      - "hab\xEDamos explorado"
+      - "hab\xEDais explorado"
+      - "hab\xEDan explorado"
+      cjid: ppsi
+    - cjfs:
+      - hube explorado
+      - hubiste explorado
+      - hubo explorado
+      - hubimos explorado
+      - hubisteis explorado
+      - hubieron explorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 explorado"
+      - "habr\xE1s explorado"
+      - "habr\xE1 explorado"
+      - habremos explorado
+      - "habr\xE9is explorado"
+      - "habr\xE1n explorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa explorado"
+      - "habr\xEDas explorado"
+      - "habr\xEDa explorado"
+      - "habr\xEDamos explorado"
+      - "habr\xEDais explorado"
+      - "habr\xEDan explorado"
+      cjid: cpef
+    - cjfs:
+      - haya explorado
+      - hayas explorado
+      - haya explorado
+      - hayamos explorado
+      - "hay\xE1is explorado"
+      - hayan explorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera explorado
+      - hubieras explorado
+      - hubiera explorado
+      - "hubi\xE9ramos explorado"
+      - hubierais explorado
+      - hubieran explorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese explorado
+      - hubieses explorado
+      - hubiese explorado
+      - "hubi\xE9semos explorado"
+      - hubieseis explorado
+      - hubiesen explorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere explorado
+      - hubieres explorado
+      - hubiere explorado
+      - "hubi\xE9remos explorado"
+      - hubiereis explorado
+      - hubieren explorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - explora
+      - explore
+      - exploremos
+      - explorad
+      - exploren
+      cjid: impf
+  uros:
+  - aure:
+      ure: exploratoria
+      urec: -ria
+    fl: adjective
+    ure: exploratorio

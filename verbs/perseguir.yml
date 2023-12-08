@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pursue}, to {a_link|chase}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|persecute}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pester}, to {a_link|annoy}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: perseguir
+    prs:
+    - sound:
+        audio: perse02sp
+  meta:
+    id: perseguir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617190000'
+    src: spanish
+    stems:
+    - perseguir
+    uuid: 490ff985-fb21-4708-b1b1-5bd57ecbc9bd
+  shortdef:
+  - to pursue, to chase
+  - to persecute
+  - to pester, to annoy
+  suppl:
+    cjts:
+    - cjfs:
+      - persiguiendo
+      - perseguido
+      cjid: gppt
+    - cjfs:
+      - persigo
+      - persigues
+      - persigue
+      - perseguimos
+      - "persegu\xEDs"
+      - persiguen
+      cjid: pind
+    - cjfs:
+      - "persegu\xEDa"
+      - "persegu\xEDas"
+      - "persegu\xEDa"
+      - "persegu\xEDamos"
+      - "persegu\xEDais"
+      - "persegu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "persegu\xED"
+      - perseguiste
+      - "persigui\xF3"
+      - perseguimos
+      - perseguisteis
+      - persiguieron
+      cjid: pprf
+    - cjfs:
+      - "perseguir\xE9"
+      - "perseguir\xE1s"
+      - "perseguir\xE1"
+      - perseguiremos
+      - "perseguir\xE9is"
+      - "perseguir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perseguir\xEDa"
+      - "perseguir\xEDas"
+      - "perseguir\xEDa"
+      - "perseguir\xEDamos"
+      - "perseguir\xEDais"
+      - "perseguir\xEDan"
+      cjid: cond
+    - cjfs:
+      - persiga
+      - persigas
+      - persiga
+      - persigamos
+      - "persig\xE1is"
+      - persigan
+      cjid: psub
+    - cjfs:
+      - persiguiera
+      - persiguieras
+      - persiguiera
+      - "persigui\xE9ramos"
+      - persiguierais
+      - persiguieran
+      cjid: pisb1
+    - cjfs:
+      - persiguiese
+      - persiguieses
+      - persiguiese
+      - "persigui\xE9semos"
+      - persiguieseis
+      - persiguiesen
+      cjid: pisb2
+    - cjfs:
+      - persiguiere
+      - persiguieres
+      - persiguiere
+      - "persigui\xE9remos"
+      - persiguiereis
+      - persiguieren
+      cjid: fsub
+    - cjfs:
+      - he perseguido
+      - has perseguido
+      - ha perseguido
+      - hemos perseguido
+      - "hab\xE9is perseguido"
+      - han perseguido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perseguido"
+      - "hab\xEDas perseguido"
+      - "hab\xEDa perseguido"
+      - "hab\xEDamos perseguido"
+      - "hab\xEDais perseguido"
+      - "hab\xEDan perseguido"
+      cjid: ppsi
+    - cjfs:
+      - hube perseguido
+      - hubiste perseguido
+      - hubo perseguido
+      - hubimos perseguido
+      - hubisteis perseguido
+      - hubieron perseguido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perseguido"
+      - "habr\xE1s perseguido"
+      - "habr\xE1 perseguido"
+      - habremos perseguido
+      - "habr\xE9is perseguido"
+      - "habr\xE1n perseguido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perseguido"
+      - "habr\xEDas perseguido"
+      - "habr\xEDa perseguido"
+      - "habr\xEDamos perseguido"
+      - "habr\xEDais perseguido"
+      - "habr\xEDan perseguido"
+      cjid: cpef
+    - cjfs:
+      - haya perseguido
+      - hayas perseguido
+      - haya perseguido
+      - hayamos perseguido
+      - "hay\xE1is perseguido"
+      - hayan perseguido
+      cjid: ppfs
+    - cjfs:
+      - hubiera perseguido
+      - hubieras perseguido
+      - hubiera perseguido
+      - "hubi\xE9ramos perseguido"
+      - hubierais perseguido
+      - hubieran perseguido
+      cjid: ppss1
+    - cjfs:
+      - hubiese perseguido
+      - hubieses perseguido
+      - hubiese perseguido
+      - "hubi\xE9semos perseguido"
+      - hubieseis perseguido
+      - hubiesen perseguido
+      cjid: ppss2
+    - cjfs:
+      - hubiere perseguido
+      - hubieres perseguido
+      - hubiere perseguido
+      - "hubi\xE9remos perseguido"
+      - hubiereis perseguido
+      - hubieren perseguido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - persigue
+      - persiga
+      - persigamos
+      - perseguid
+      - persigan
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a talk, to {a_link|converse}'
+  fl: intransitive verb
+  hwi:
+    hw: dialogar
+    prs:
+    - sound:
+        audio: dialo01sp
+  meta:
+    id: dialogar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607482000'
+    src: spanish
+    stems:
+    - dialogar
+    uuid: eed900d5-fa77-410e-9cbc-28ae0baf3f93
+  shortdef:
+  - to have a talk, to converse
+  suppl:
+    cjts:
+    - cjfs:
+      - dialogando
+      - dialogado
+      cjid: gppt
+    - cjfs:
+      - dialogo
+      - dialogas
+      - dialoga
+      - dialogamos
+      - "dialog\xE1is"
+      - dialogan
+      cjid: pind
+    - cjfs:
+      - dialogaba
+      - dialogabas
+      - dialogaba
+      - "dialog\xE1bamos"
+      - dialogabais
+      - dialogaban
+      cjid: pret
+    - cjfs:
+      - "dialogu\xE9"
+      - dialogaste
+      - "dialog\xF3"
+      - dialogamos
+      - dialogasteis
+      - dialogaron
+      cjid: pprf
+    - cjfs:
+      - "dialogar\xE9"
+      - "dialogar\xE1s"
+      - "dialogar\xE1"
+      - dialogaremos
+      - "dialogar\xE9is"
+      - "dialogar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dialogar\xEDa"
+      - "dialogar\xEDas"
+      - "dialogar\xEDa"
+      - "dialogar\xEDamos"
+      - "dialogar\xEDais"
+      - "dialogar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dialogue
+      - dialogues
+      - dialogue
+      - dialoguemos
+      - "dialogu\xE9is"
+      - dialoguen
+      cjid: psub
+    - cjfs:
+      - dialogara
+      - dialogaras
+      - dialogara
+      - "dialog\xE1ramos"
+      - dialogarais
+      - dialogaran
+      cjid: pisb1
+    - cjfs:
+      - dialogase
+      - dialogases
+      - dialogase
+      - "dialog\xE1semos"
+      - dialogaseis
+      - dialogasen
+      cjid: pisb2
+    - cjfs:
+      - dialogare
+      - dialogares
+      - dialogare
+      - "dialog\xE1remos"
+      - dialogareis
+      - dialogaren
+      cjid: fsub
+    - cjfs:
+      - he dialogado
+      - has dialogado
+      - ha dialogado
+      - hemos dialogado
+      - "hab\xE9is dialogado"
+      - han dialogado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dialogado"
+      - "hab\xEDas dialogado"
+      - "hab\xEDa dialogado"
+      - "hab\xEDamos dialogado"
+      - "hab\xEDais dialogado"
+      - "hab\xEDan dialogado"
+      cjid: ppsi
+    - cjfs:
+      - hube dialogado
+      - hubiste dialogado
+      - hubo dialogado
+      - hubimos dialogado
+      - hubisteis dialogado
+      - hubieron dialogado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dialogado"
+      - "habr\xE1s dialogado"
+      - "habr\xE1 dialogado"
+      - habremos dialogado
+      - "habr\xE9is dialogado"
+      - "habr\xE1n dialogado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dialogado"
+      - "habr\xEDas dialogado"
+      - "habr\xEDa dialogado"
+      - "habr\xEDamos dialogado"
+      - "habr\xEDais dialogado"
+      - "habr\xEDan dialogado"
+      cjid: cpef
+    - cjfs:
+      - haya dialogado
+      - hayas dialogado
+      - haya dialogado
+      - hayamos dialogado
+      - "hay\xE1is dialogado"
+      - hayan dialogado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dialogado
+      - hubieras dialogado
+      - hubiera dialogado
+      - "hubi\xE9ramos dialogado"
+      - hubierais dialogado
+      - hubieran dialogado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dialogado
+      - hubieses dialogado
+      - hubiese dialogado
+      - "hubi\xE9semos dialogado"
+      - hubieseis dialogado
+      - hubiesen dialogado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dialogado
+      - hubieres dialogado
+      - hubiere dialogado
+      - "hubi\xE9remos dialogado"
+      - hubiereis dialogado
+      - hubieren dialogado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dialoga
+      - dialogue
+      - dialoguemos
+      - dialogad
+      - dialoguen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cut off}, to {a_link|amputate}, to {a_link|sever}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|diminish}, to {a_link|curtail}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: cercenar
+    prs:
+    - sound:
+        audio: cerce01sp
+  meta:
+    id: cercenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604361000'
+    src: spanish
+    stems:
+    - cercenar
+    uuid: 6312ed9a-84a6-45e8-b9dd-e284f42350e1
+  shortdef:
+  - to cut off, to amputate, to sever
+  - to diminish, to curtail
+  suppl:
+    cjts:
+    - cjfs:
+      - cercenando
+      - cercenado
+      cjid: gppt
+    - cjfs:
+      - cerceno
+      - cercenas
+      - cercena
+      - cercenamos
+      - "cercen\xE1is"
+      - cercenan
+      cjid: pind
+    - cjfs:
+      - cercenaba
+      - cercenabas
+      - cercenaba
+      - "cercen\xE1bamos"
+      - cercenabais
+      - cercenaban
+      cjid: pret
+    - cjfs:
+      - "cercen\xE9"
+      - cercenaste
+      - "cercen\xF3"
+      - cercenamos
+      - cercenasteis
+      - cercenaron
+      cjid: pprf
+    - cjfs:
+      - "cercenar\xE9"
+      - "cercenar\xE1s"
+      - "cercenar\xE1"
+      - cercenaremos
+      - "cercenar\xE9is"
+      - "cercenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cercenar\xEDa"
+      - "cercenar\xEDas"
+      - "cercenar\xEDa"
+      - "cercenar\xEDamos"
+      - "cercenar\xEDais"
+      - "cercenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cercene
+      - cercenes
+      - cercene
+      - cercenemos
+      - "cercen\xE9is"
+      - cercenen
+      cjid: psub
+    - cjfs:
+      - cercenara
+      - cercenaras
+      - cercenara
+      - "cercen\xE1ramos"
+      - cercenarais
+      - cercenaran
+      cjid: pisb1
+    - cjfs:
+      - cercenase
+      - cercenases
+      - cercenase
+      - "cercen\xE1semos"
+      - cercenaseis
+      - cercenasen
+      cjid: pisb2
+    - cjfs:
+      - cercenare
+      - cercenares
+      - cercenare
+      - "cercen\xE1remos"
+      - cercenareis
+      - cercenaren
+      cjid: fsub
+    - cjfs:
+      - he cercenado
+      - has cercenado
+      - ha cercenado
+      - hemos cercenado
+      - "hab\xE9is cercenado"
+      - han cercenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cercenado"
+      - "hab\xEDas cercenado"
+      - "hab\xEDa cercenado"
+      - "hab\xEDamos cercenado"
+      - "hab\xEDais cercenado"
+      - "hab\xEDan cercenado"
+      cjid: ppsi
+    - cjfs:
+      - hube cercenado
+      - hubiste cercenado
+      - hubo cercenado
+      - hubimos cercenado
+      - hubisteis cercenado
+      - hubieron cercenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cercenado"
+      - "habr\xE1s cercenado"
+      - "habr\xE1 cercenado"
+      - habremos cercenado
+      - "habr\xE9is cercenado"
+      - "habr\xE1n cercenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cercenado"
+      - "habr\xEDas cercenado"
+      - "habr\xEDa cercenado"
+      - "habr\xEDamos cercenado"
+      - "habr\xEDais cercenado"
+      - "habr\xEDan cercenado"
+      cjid: cpef
+    - cjfs:
+      - haya cercenado
+      - hayas cercenado
+      - haya cercenado
+      - hayamos cercenado
+      - "hay\xE1is cercenado"
+      - hayan cercenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cercenado
+      - hubieras cercenado
+      - hubiera cercenado
+      - "hubi\xE9ramos cercenado"
+      - hubierais cercenado
+      - hubieran cercenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cercenado
+      - hubieses cercenado
+      - hubiese cercenado
+      - "hubi\xE9semos cercenado"
+      - hubieseis cercenado
+      - hubiesen cercenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cercenado
+      - hubieres cercenado
+      - hubiere cercenado
+      - "hubi\xE9remos cercenado"
+      - hubiereis cercenado
+      - hubieren cercenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cercena
+      - cercene
+      - cercenemos
+      - cercenad
+      - cercenen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|require}, to {a_link|call for}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|summon}, to {a_link|send for}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: requerir
+    prs:
+    - sound:
+        audio: reque01sp
+  meta:
+    id: requerir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619519000'
+    src: spanish
+    stems:
+    - requerir
+    uuid: be94408a-0b59-4586-86cc-1aedea69c07a
+  shortdef:
+  - to require, to call for
+  - to summon, to send for
+  suppl:
+    cjts:
+    - cjfs:
+      - requiriendo
+      - requerido
+      cjid: gppt
+    - cjfs:
+      - requiero
+      - requieres
+      - requiere
+      - requerimos
+      - "requer\xEDs"
+      - requieren
+      cjid: pind
+    - cjfs:
+      - "requer\xEDa"
+      - "requer\xEDas"
+      - "requer\xEDa"
+      - "requer\xEDamos"
+      - "requer\xEDais"
+      - "requer\xEDan"
+      cjid: pret
+    - cjfs:
+      - "requer\xED"
+      - requeriste
+      - "requiri\xF3"
+      - requerimos
+      - requeristeis
+      - requirieron
+      cjid: pprf
+    - cjfs:
+      - "requerir\xE9"
+      - "requerir\xE1s"
+      - "requerir\xE1"
+      - requeriremos
+      - "requerir\xE9is"
+      - "requerir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "requerir\xEDa"
+      - "requerir\xEDas"
+      - "requerir\xEDa"
+      - "requerir\xEDamos"
+      - "requerir\xEDais"
+      - "requerir\xEDan"
+      cjid: cond
+    - cjfs:
+      - requiera
+      - requieras
+      - requiera
+      - requiramos
+      - "requir\xE1is"
+      - requieran
+      cjid: psub
+    - cjfs:
+      - requiriera
+      - requirieras
+      - requiriera
+      - "requiri\xE9ramos"
+      - requirierais
+      - requirieran
+      cjid: pisb1
+    - cjfs:
+      - requiriese
+      - requirieses
+      - requiriese
+      - "requiri\xE9semos"
+      - requirieseis
+      - requiriesen
+      cjid: pisb2
+    - cjfs:
+      - requiriere
+      - requirieres
+      - requiriere
+      - "requiri\xE9remos"
+      - requiriereis
+      - requirieren
+      cjid: fsub
+    - cjfs:
+      - he requerido
+      - has requerido
+      - ha requerido
+      - hemos requerido
+      - "hab\xE9is requerido"
+      - han requerido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa requerido"
+      - "hab\xEDas requerido"
+      - "hab\xEDa requerido"
+      - "hab\xEDamos requerido"
+      - "hab\xEDais requerido"
+      - "hab\xEDan requerido"
+      cjid: ppsi
+    - cjfs:
+      - hube requerido
+      - hubiste requerido
+      - hubo requerido
+      - hubimos requerido
+      - hubisteis requerido
+      - hubieron requerido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 requerido"
+      - "habr\xE1s requerido"
+      - "habr\xE1 requerido"
+      - habremos requerido
+      - "habr\xE9is requerido"
+      - "habr\xE1n requerido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa requerido"
+      - "habr\xEDas requerido"
+      - "habr\xEDa requerido"
+      - "habr\xEDamos requerido"
+      - "habr\xEDais requerido"
+      - "habr\xEDan requerido"
+      cjid: cpef
+    - cjfs:
+      - haya requerido
+      - hayas requerido
+      - haya requerido
+      - hayamos requerido
+      - "hay\xE1is requerido"
+      - hayan requerido
+      cjid: ppfs
+    - cjfs:
+      - hubiera requerido
+      - hubieras requerido
+      - hubiera requerido
+      - "hubi\xE9ramos requerido"
+      - hubierais requerido
+      - hubieran requerido
+      cjid: ppss1
+    - cjfs:
+      - hubiese requerido
+      - hubieses requerido
+      - hubiese requerido
+      - "hubi\xE9semos requerido"
+      - hubieseis requerido
+      - hubiesen requerido
+      cjid: ppss2
+    - cjfs:
+      - hubiere requerido
+      - hubieres requerido
+      - hubiere requerido
+      - "hubi\xE9remos requerido"
+      - hubiereis requerido
+      - hubieren requerido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - requiere
+      - requiera
+      - requiramos
+      - requerid
+      - requieran
+      cjid: impf

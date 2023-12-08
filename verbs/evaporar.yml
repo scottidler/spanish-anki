@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|evaporate}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|esfumarse||} {bc}to {a_link|disappear}, to {a_link|vanish}'
+    drp: evaporarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: evaporar
+  meta:
+    id: evaporar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609541000'
+    src: spanish
+    stems:
+    - evaporar
+    - evaporarse
+    uuid: e756d8eb-a595-4f8f-a474-e2aa4fbd750c
+  shortdef:
+  - to evaporate
+  suppl:
+    cjts:
+    - cjfs:
+      - evaporando
+      - evaporado
+      cjid: gppt
+    - cjfs:
+      - evaporo
+      - evaporas
+      - evapora
+      - evaporamos
+      - "evapor\xE1is"
+      - evaporan
+      cjid: pind
+    - cjfs:
+      - evaporaba
+      - evaporabas
+      - evaporaba
+      - "evapor\xE1bamos"
+      - evaporabais
+      - evaporaban
+      cjid: pret
+    - cjfs:
+      - "evapor\xE9"
+      - evaporaste
+      - "evapor\xF3"
+      - evaporamos
+      - evaporasteis
+      - evaporaron
+      cjid: pprf
+    - cjfs:
+      - "evaporar\xE9"
+      - "evaporar\xE1s"
+      - "evaporar\xE1"
+      - evaporaremos
+      - "evaporar\xE9is"
+      - "evaporar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "evaporar\xEDa"
+      - "evaporar\xEDas"
+      - "evaporar\xEDa"
+      - "evaporar\xEDamos"
+      - "evaporar\xEDais"
+      - "evaporar\xEDan"
+      cjid: cond
+    - cjfs:
+      - evapore
+      - evapores
+      - evapore
+      - evaporemos
+      - "evapor\xE9is"
+      - evaporen
+      cjid: psub
+    - cjfs:
+      - evaporara
+      - evaporaras
+      - evaporara
+      - "evapor\xE1ramos"
+      - evaporarais
+      - evaporaran
+      cjid: pisb1
+    - cjfs:
+      - evaporase
+      - evaporases
+      - evaporase
+      - "evapor\xE1semos"
+      - evaporaseis
+      - evaporasen
+      cjid: pisb2
+    - cjfs:
+      - evaporare
+      - evaporares
+      - evaporare
+      - "evapor\xE1remos"
+      - evaporareis
+      - evaporaren
+      cjid: fsub
+    - cjfs:
+      - he evaporado
+      - has evaporado
+      - ha evaporado
+      - hemos evaporado
+      - "hab\xE9is evaporado"
+      - han evaporado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa evaporado"
+      - "hab\xEDas evaporado"
+      - "hab\xEDa evaporado"
+      - "hab\xEDamos evaporado"
+      - "hab\xEDais evaporado"
+      - "hab\xEDan evaporado"
+      cjid: ppsi
+    - cjfs:
+      - hube evaporado
+      - hubiste evaporado
+      - hubo evaporado
+      - hubimos evaporado
+      - hubisteis evaporado
+      - hubieron evaporado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 evaporado"
+      - "habr\xE1s evaporado"
+      - "habr\xE1 evaporado"
+      - habremos evaporado
+      - "habr\xE9is evaporado"
+      - "habr\xE1n evaporado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa evaporado"
+      - "habr\xEDas evaporado"
+      - "habr\xEDa evaporado"
+      - "habr\xEDamos evaporado"
+      - "habr\xEDais evaporado"
+      - "habr\xEDan evaporado"
+      cjid: cpef
+    - cjfs:
+      - haya evaporado
+      - hayas evaporado
+      - haya evaporado
+      - hayamos evaporado
+      - "hay\xE1is evaporado"
+      - hayan evaporado
+      cjid: ppfs
+    - cjfs:
+      - hubiera evaporado
+      - hubieras evaporado
+      - hubiera evaporado
+      - "hubi\xE9ramos evaporado"
+      - hubierais evaporado
+      - hubieran evaporado
+      cjid: ppss1
+    - cjfs:
+      - hubiese evaporado
+      - hubieses evaporado
+      - hubiese evaporado
+      - "hubi\xE9semos evaporado"
+      - hubieseis evaporado
+      - hubiesen evaporado
+      cjid: ppss2
+    - cjfs:
+      - hubiere evaporado
+      - hubieres evaporado
+      - hubiere evaporado
+      - "hubi\xE9remos evaporado"
+      - hubiereis evaporado
+      - hubieren evaporado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - evapora
+      - evapore
+      - evaporemos
+      - evaporad
+      - evaporen
+      cjid: impf

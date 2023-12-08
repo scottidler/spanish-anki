@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take time}, to {a_link|delay} '
+          - - vis
+            - - t: tardaron en responder
+                tr: they took a while to respond
+              - t: no tardes
+                tr: don't take too long
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|at the latest}'
+          sn: '2'
+          vrs:
+          - va: "a m\xE1s tardar"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|demorar||} {bc}to {a_link|take} (time) '
+          - - vis
+            - - t: tarda una hora
+                tr: it takes an hour
+              - t: tardar mucho
+                tr: to take a long time
+              - t: tardar el doble
+                tr: to take twice as long
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: tardar
+    prs:
+    - sound:
+        audio: tarda02sp
+  meta:
+    id: tardar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621493000'
+    src: spanish
+    stems:
+    - tardar
+    - "a m\xE1s tardar"
+    - tardarse
+    uuid: 93167d30-3456-49c1-8c9b-a832ff7d9eac
+  shortdef:
+  - to take time, to delay
+  - at the latest
+  - 'demorar : to take (time)'
+  suppl:
+    cjts:
+    - cjfs:
+      - tardando
+      - tardado
+      cjid: gppt
+    - cjfs:
+      - tardo
+      - tardas
+      - tarda
+      - tardamos
+      - "tard\xE1is"
+      - tardan
+      cjid: pind
+    - cjfs:
+      - tardaba
+      - tardabas
+      - tardaba
+      - "tard\xE1bamos"
+      - tardabais
+      - tardaban
+      cjid: pret
+    - cjfs:
+      - "tard\xE9"
+      - tardaste
+      - "tard\xF3"
+      - tardamos
+      - tardasteis
+      - tardaron
+      cjid: pprf
+    - cjfs:
+      - "tardar\xE9"
+      - "tardar\xE1s"
+      - "tardar\xE1"
+      - tardaremos
+      - "tardar\xE9is"
+      - "tardar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tardar\xEDa"
+      - "tardar\xEDas"
+      - "tardar\xEDa"
+      - "tardar\xEDamos"
+      - "tardar\xEDais"
+      - "tardar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tarde
+      - tardes
+      - tarde
+      - tardemos
+      - "tard\xE9is"
+      - tarden
+      cjid: psub
+    - cjfs:
+      - tardara
+      - tardaras
+      - tardara
+      - "tard\xE1ramos"
+      - tardarais
+      - tardaran
+      cjid: pisb1
+    - cjfs:
+      - tardase
+      - tardases
+      - tardase
+      - "tard\xE1semos"
+      - tardaseis
+      - tardasen
+      cjid: pisb2
+    - cjfs:
+      - tardare
+      - tardares
+      - tardare
+      - "tard\xE1remos"
+      - tardareis
+      - tardaren
+      cjid: fsub
+    - cjfs:
+      - he tardado
+      - has tardado
+      - ha tardado
+      - hemos tardado
+      - "hab\xE9is tardado"
+      - han tardado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tardado"
+      - "hab\xEDas tardado"
+      - "hab\xEDa tardado"
+      - "hab\xEDamos tardado"
+      - "hab\xEDais tardado"
+      - "hab\xEDan tardado"
+      cjid: ppsi
+    - cjfs:
+      - hube tardado
+      - hubiste tardado
+      - hubo tardado
+      - hubimos tardado
+      - hubisteis tardado
+      - hubieron tardado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tardado"
+      - "habr\xE1s tardado"
+      - "habr\xE1 tardado"
+      - habremos tardado
+      - "habr\xE9is tardado"
+      - "habr\xE1n tardado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tardado"
+      - "habr\xEDas tardado"
+      - "habr\xEDa tardado"
+      - "habr\xEDamos tardado"
+      - "habr\xEDais tardado"
+      - "habr\xEDan tardado"
+      cjid: cpef
+    - cjfs:
+      - haya tardado
+      - hayas tardado
+      - haya tardado
+      - hayamos tardado
+      - "hay\xE1is tardado"
+      - hayan tardado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tardado
+      - hubieras tardado
+      - hubiera tardado
+      - "hubi\xE9ramos tardado"
+      - hubierais tardado
+      - hubieran tardado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tardado
+      - hubieses tardado
+      - hubiese tardado
+      - "hubi\xE9semos tardado"
+      - hubieseis tardado
+      - hubiesen tardado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tardado
+      - hubieres tardado
+      - hubiere tardado
+      - "hubi\xE9remos tardado"
+      - hubiereis tardado
+      - hubieren tardado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tarda
+      - tarde
+      - tardemos
+      - tardad
+      - tarden
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: tardarse

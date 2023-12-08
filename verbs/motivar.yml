@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|causar||} {bc}to {a_link|cause}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|impulsar||} {bc}to {a_link|motivate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: motivar
+    prs:
+    - sound:
+        audio: motiv02sp
+  meta:
+    id: motivar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615397000'
+    src: spanish
+    stems:
+    - motivar
+    uuid: 95ee9135-0a0d-4e80-9bf2-cc01c0754262
+  shortdef:
+  - 'causar : to cause'
+  - 'impulsar : to motivate'
+  suppl:
+    cjts:
+    - cjfs:
+      - motivando
+      - motivado
+      cjid: gppt
+    - cjfs:
+      - motivo
+      - motivas
+      - motiva
+      - motivamos
+      - "motiv\xE1is"
+      - motivan
+      cjid: pind
+    - cjfs:
+      - motivaba
+      - motivabas
+      - motivaba
+      - "motiv\xE1bamos"
+      - motivabais
+      - motivaban
+      cjid: pret
+    - cjfs:
+      - "motiv\xE9"
+      - motivaste
+      - "motiv\xF3"
+      - motivamos
+      - motivasteis
+      - motivaron
+      cjid: pprf
+    - cjfs:
+      - "motivar\xE9"
+      - "motivar\xE1s"
+      - "motivar\xE1"
+      - motivaremos
+      - "motivar\xE9is"
+      - "motivar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "motivar\xEDa"
+      - "motivar\xEDas"
+      - "motivar\xEDa"
+      - "motivar\xEDamos"
+      - "motivar\xEDais"
+      - "motivar\xEDan"
+      cjid: cond
+    - cjfs:
+      - motive
+      - motives
+      - motive
+      - motivemos
+      - "motiv\xE9is"
+      - motiven
+      cjid: psub
+    - cjfs:
+      - motivara
+      - motivaras
+      - motivara
+      - "motiv\xE1ramos"
+      - motivarais
+      - motivaran
+      cjid: pisb1
+    - cjfs:
+      - motivase
+      - motivases
+      - motivase
+      - "motiv\xE1semos"
+      - motivaseis
+      - motivasen
+      cjid: pisb2
+    - cjfs:
+      - motivare
+      - motivares
+      - motivare
+      - "motiv\xE1remos"
+      - motivareis
+      - motivaren
+      cjid: fsub
+    - cjfs:
+      - he motivado
+      - has motivado
+      - ha motivado
+      - hemos motivado
+      - "hab\xE9is motivado"
+      - han motivado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa motivado"
+      - "hab\xEDas motivado"
+      - "hab\xEDa motivado"
+      - "hab\xEDamos motivado"
+      - "hab\xEDais motivado"
+      - "hab\xEDan motivado"
+      cjid: ppsi
+    - cjfs:
+      - hube motivado
+      - hubiste motivado
+      - hubo motivado
+      - hubimos motivado
+      - hubisteis motivado
+      - hubieron motivado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 motivado"
+      - "habr\xE1s motivado"
+      - "habr\xE1 motivado"
+      - habremos motivado
+      - "habr\xE9is motivado"
+      - "habr\xE1n motivado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa motivado"
+      - "habr\xEDas motivado"
+      - "habr\xEDa motivado"
+      - "habr\xEDamos motivado"
+      - "habr\xEDais motivado"
+      - "habr\xEDan motivado"
+      cjid: cpef
+    - cjfs:
+      - haya motivado
+      - hayas motivado
+      - haya motivado
+      - hayamos motivado
+      - "hay\xE1is motivado"
+      - hayan motivado
+      cjid: ppfs
+    - cjfs:
+      - hubiera motivado
+      - hubieras motivado
+      - hubiera motivado
+      - "hubi\xE9ramos motivado"
+      - hubierais motivado
+      - hubieran motivado
+      cjid: ppss1
+    - cjfs:
+      - hubiese motivado
+      - hubieses motivado
+      - hubiese motivado
+      - "hubi\xE9semos motivado"
+      - hubieseis motivado
+      - hubiesen motivado
+      cjid: ppss2
+    - cjfs:
+      - hubiere motivado
+      - hubieres motivado
+      - hubiere motivado
+      - "hubi\xE9remos motivado"
+      - hubiereis motivado
+      - hubieren motivado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - motiva
+      - motive
+      - motivemos
+      - motivad
+      - motiven
+      cjid: impf

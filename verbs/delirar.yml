@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desvariar||} {bc}to be delirious'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rave}, to talk nonsense'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: delirar
+    prs:
+    - sound:
+        audio: delir01sp
+  meta:
+    id: delirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606637000'
+    src: spanish
+    stems:
+    - delirar
+    uuid: 65dd0c4d-8a66-455f-a166-41b7019b63db
+  shortdef:
+  - 'desvariar : to be delirious'
+  - to rave, to talk nonsense
+  suppl:
+    cjts:
+    - cjfs:
+      - delirando
+      - delirado
+      cjid: gppt
+    - cjfs:
+      - deliro
+      - deliras
+      - delira
+      - deliramos
+      - "delir\xE1is"
+      - deliran
+      cjid: pind
+    - cjfs:
+      - deliraba
+      - delirabas
+      - deliraba
+      - "delir\xE1bamos"
+      - delirabais
+      - deliraban
+      cjid: pret
+    - cjfs:
+      - "delir\xE9"
+      - deliraste
+      - "delir\xF3"
+      - deliramos
+      - delirasteis
+      - deliraron
+      cjid: pprf
+    - cjfs:
+      - "delirar\xE9"
+      - "delirar\xE1s"
+      - "delirar\xE1"
+      - deliraremos
+      - "delirar\xE9is"
+      - "delirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "delirar\xEDa"
+      - "delirar\xEDas"
+      - "delirar\xEDa"
+      - "delirar\xEDamos"
+      - "delirar\xEDais"
+      - "delirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - delire
+      - delires
+      - delire
+      - deliremos
+      - "delir\xE9is"
+      - deliren
+      cjid: psub
+    - cjfs:
+      - delirara
+      - deliraras
+      - delirara
+      - "delir\xE1ramos"
+      - delirarais
+      - deliraran
+      cjid: pisb1
+    - cjfs:
+      - delirase
+      - delirases
+      - delirase
+      - "delir\xE1semos"
+      - deliraseis
+      - delirasen
+      cjid: pisb2
+    - cjfs:
+      - delirare
+      - delirares
+      - delirare
+      - "delir\xE1remos"
+      - delirareis
+      - deliraren
+      cjid: fsub
+    - cjfs:
+      - he delirado
+      - has delirado
+      - ha delirado
+      - hemos delirado
+      - "hab\xE9is delirado"
+      - han delirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa delirado"
+      - "hab\xEDas delirado"
+      - "hab\xEDa delirado"
+      - "hab\xEDamos delirado"
+      - "hab\xEDais delirado"
+      - "hab\xEDan delirado"
+      cjid: ppsi
+    - cjfs:
+      - hube delirado
+      - hubiste delirado
+      - hubo delirado
+      - hubimos delirado
+      - hubisteis delirado
+      - hubieron delirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 delirado"
+      - "habr\xE1s delirado"
+      - "habr\xE1 delirado"
+      - habremos delirado
+      - "habr\xE9is delirado"
+      - "habr\xE1n delirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa delirado"
+      - "habr\xEDas delirado"
+      - "habr\xEDa delirado"
+      - "habr\xEDamos delirado"
+      - "habr\xEDais delirado"
+      - "habr\xEDan delirado"
+      cjid: cpef
+    - cjfs:
+      - haya delirado
+      - hayas delirado
+      - haya delirado
+      - hayamos delirado
+      - "hay\xE1is delirado"
+      - hayan delirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera delirado
+      - hubieras delirado
+      - hubiera delirado
+      - "hubi\xE9ramos delirado"
+      - hubierais delirado
+      - hubieran delirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese delirado
+      - hubieses delirado
+      - hubiese delirado
+      - "hubi\xE9semos delirado"
+      - hubieseis delirado
+      - hubiesen delirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere delirado
+      - hubieres delirado
+      - hubiere delirado
+      - "hubi\xE9remos delirado"
+      - hubiereis delirado
+      - hubieren delirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - delira
+      - delire
+      - deliremos
+      - delirad
+      - deliren
+      cjid: impf

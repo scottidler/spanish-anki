@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|divide}, to {a_link|split}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|distribute}, to share out'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: dividir
+    prs:
+    - sound:
+        audio: divid01sp
+  meta:
+    id: dividir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607811000'
+    src: spanish
+    stems:
+    - dividir
+    - dividirse
+    uuid: c5e104fd-ea4c-46ab-bfeb-2dd84ed3f57b
+  shortdef:
+  - to divide, to split
+  - to distribute, to share out
+  suppl:
+    cjts:
+    - cjfs:
+      - dividiendo
+      - dividido
+      cjid: gppt
+    - cjfs:
+      - divido
+      - divides
+      - divide
+      - dividimos
+      - "divid\xEDs"
+      - dividen
+      cjid: pind
+    - cjfs:
+      - "divid\xEDa"
+      - "divid\xEDas"
+      - "divid\xEDa"
+      - "divid\xEDamos"
+      - "divid\xEDais"
+      - "divid\xEDan"
+      cjid: pret
+    - cjfs:
+      - "divid\xED"
+      - dividiste
+      - "dividi\xF3"
+      - dividimos
+      - dividisteis
+      - dividieron
+      cjid: pprf
+    - cjfs:
+      - "dividir\xE9"
+      - "dividir\xE1s"
+      - "dividir\xE1"
+      - dividiremos
+      - "dividir\xE9is"
+      - "dividir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dividir\xEDa"
+      - "dividir\xEDas"
+      - "dividir\xEDa"
+      - "dividir\xEDamos"
+      - "dividir\xEDais"
+      - "dividir\xEDan"
+      cjid: cond
+    - cjfs:
+      - divida
+      - dividas
+      - divida
+      - dividamos
+      - "divid\xE1is"
+      - dividan
+      cjid: psub
+    - cjfs:
+      - dividiera
+      - dividieras
+      - dividiera
+      - "dividi\xE9ramos"
+      - dividierais
+      - dividieran
+      cjid: pisb1
+    - cjfs:
+      - dividiese
+      - dividieses
+      - dividiese
+      - "dividi\xE9semos"
+      - dividieseis
+      - dividiesen
+      cjid: pisb2
+    - cjfs:
+      - dividiere
+      - dividieres
+      - dividiere
+      - "dividi\xE9remos"
+      - dividiereis
+      - dividieren
+      cjid: fsub
+    - cjfs:
+      - he dividido
+      - has dividido
+      - ha dividido
+      - hemos dividido
+      - "hab\xE9is dividido"
+      - han dividido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dividido"
+      - "hab\xEDas dividido"
+      - "hab\xEDa dividido"
+      - "hab\xEDamos dividido"
+      - "hab\xEDais dividido"
+      - "hab\xEDan dividido"
+      cjid: ppsi
+    - cjfs:
+      - hube dividido
+      - hubiste dividido
+      - hubo dividido
+      - hubimos dividido
+      - hubisteis dividido
+      - hubieron dividido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dividido"
+      - "habr\xE1s dividido"
+      - "habr\xE1 dividido"
+      - habremos dividido
+      - "habr\xE9is dividido"
+      - "habr\xE1n dividido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dividido"
+      - "habr\xEDas dividido"
+      - "habr\xEDa dividido"
+      - "habr\xEDamos dividido"
+      - "habr\xEDais dividido"
+      - "habr\xEDan dividido"
+      cjid: cpef
+    - cjfs:
+      - haya dividido
+      - hayas dividido
+      - haya dividido
+      - hayamos dividido
+      - "hay\xE1is dividido"
+      - hayan dividido
+      cjid: ppfs
+    - cjfs:
+      - hubiera dividido
+      - hubieras dividido
+      - hubiera dividido
+      - "hubi\xE9ramos dividido"
+      - hubierais dividido
+      - hubieran dividido
+      cjid: ppss1
+    - cjfs:
+      - hubiese dividido
+      - hubieses dividido
+      - hubiese dividido
+      - "hubi\xE9semos dividido"
+      - hubieseis dividido
+      - hubiesen dividido
+      cjid: ppss2
+    - cjfs:
+      - hubiere dividido
+      - hubieres dividido
+      - hubiere dividido
+      - "hubi\xE9remos dividido"
+      - hubiereis dividido
+      - hubieren dividido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - divide
+      - divida
+      - dividamos
+      - dividid
+      - dividan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: dividirse

@@ -1,0 +1,213 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|avanzar||} {bc}to {a_link|proceed}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|act}, to {a_link|behave}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be appropriate, to be fitting'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to proceed to'
+          sn: '4'
+          vrs:
+          - va: proceder a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to originate from, to {a_link|come from}'
+          sn: '5'
+          vrs:
+          - va: proceder de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: proceder
+    prs:
+    - sound:
+        audio: proce03sp
+  meta:
+    id: proceder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618172000'
+    src: spanish
+    stems:
+    - proceder
+    - proceder a
+    - proceder de
+    uuid: c90277f0-204e-4662-98bc-1291fbbdc42e
+  shortdef:
+  - 'avanzar : to proceed'
+  - to act, to behave
+  - to be appropriate, to be fitting
+  suppl:
+    cjts:
+    - cjfs:
+      - procediendo
+      - procedido
+      cjid: gppt
+    - cjfs:
+      - procedo
+      - procedes
+      - procede
+      - procedemos
+      - "proced\xE9is"
+      - proceden
+      cjid: pind
+    - cjfs:
+      - "proced\xEDa"
+      - "proced\xEDas"
+      - "proced\xEDa"
+      - "proced\xEDamos"
+      - "proced\xEDais"
+      - "proced\xEDan"
+      cjid: pret
+    - cjfs:
+      - "proced\xED"
+      - procediste
+      - "procedi\xF3"
+      - procedimos
+      - procedisteis
+      - procedieron
+      cjid: pprf
+    - cjfs:
+      - "proceder\xE9"
+      - "proceder\xE1s"
+      - "proceder\xE1"
+      - procederemos
+      - "proceder\xE9is"
+      - "proceder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "proceder\xEDa"
+      - "proceder\xEDas"
+      - "proceder\xEDa"
+      - "proceder\xEDamos"
+      - "proceder\xEDais"
+      - "proceder\xEDan"
+      cjid: cond
+    - cjfs:
+      - proceda
+      - procedas
+      - proceda
+      - procedamos
+      - "proced\xE1is"
+      - procedan
+      cjid: psub
+    - cjfs:
+      - procediera
+      - procedieras
+      - procediera
+      - "procedi\xE9ramos"
+      - procedierais
+      - procedieran
+      cjid: pisb1
+    - cjfs:
+      - procediese
+      - procedieses
+      - procediese
+      - "procedi\xE9semos"
+      - procedieseis
+      - procediesen
+      cjid: pisb2
+    - cjfs:
+      - procediere
+      - procedieres
+      - procediere
+      - "procedi\xE9remos"
+      - procediereis
+      - procedieren
+      cjid: fsub
+    - cjfs:
+      - he procedido
+      - has procedido
+      - ha procedido
+      - hemos procedido
+      - "hab\xE9is procedido"
+      - han procedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa procedido"
+      - "hab\xEDas procedido"
+      - "hab\xEDa procedido"
+      - "hab\xEDamos procedido"
+      - "hab\xEDais procedido"
+      - "hab\xEDan procedido"
+      cjid: ppsi
+    - cjfs:
+      - hube procedido
+      - hubiste procedido
+      - hubo procedido
+      - hubimos procedido
+      - hubisteis procedido
+      - hubieron procedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 procedido"
+      - "habr\xE1s procedido"
+      - "habr\xE1 procedido"
+      - habremos procedido
+      - "habr\xE9is procedido"
+      - "habr\xE1n procedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa procedido"
+      - "habr\xEDas procedido"
+      - "habr\xEDa procedido"
+      - "habr\xEDamos procedido"
+      - "habr\xEDais procedido"
+      - "habr\xEDan procedido"
+      cjid: cpef
+    - cjfs:
+      - haya procedido
+      - hayas procedido
+      - haya procedido
+      - hayamos procedido
+      - "hay\xE1is procedido"
+      - hayan procedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera procedido
+      - hubieras procedido
+      - hubiera procedido
+      - "hubi\xE9ramos procedido"
+      - hubierais procedido
+      - hubieran procedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese procedido
+      - hubieses procedido
+      - hubiese procedido
+      - "hubi\xE9semos procedido"
+      - hubieseis procedido
+      - hubiesen procedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere procedido
+      - hubieres procedido
+      - hubiere procedido
+      - "hubi\xE9remos procedido"
+      - hubiereis procedido
+      - hubieren procedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - procede
+      - proceda
+      - procedamos
+      - proceded
+      - procedan
+      cjid: impf

@@ -1,0 +1,201 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dance}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dance}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spin}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be loose, to be too big'
+          sn: '3'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: bailar
+    prs:
+    - sound:
+        audio: baila01sp
+  meta:
+    id: bailar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602652000'
+    src: spanish
+    stems:
+    - bailar
+    uuid: ed770c4b-a89e-4ed9-84ad-203313e71a3e
+  shortdef:
+  - to dance
+  - to dance
+  - to spin
+  suppl:
+    cjts:
+    - cjfs:
+      - bailando
+      - bailado
+      cjid: gppt
+    - cjfs:
+      - bailo
+      - bailas
+      - baila
+      - bailamos
+      - "bail\xE1is"
+      - bailan
+      cjid: pind
+    - cjfs:
+      - bailaba
+      - bailabas
+      - bailaba
+      - "bail\xE1bamos"
+      - bailabais
+      - bailaban
+      cjid: pret
+    - cjfs:
+      - "bail\xE9"
+      - bailaste
+      - "bail\xF3"
+      - bailamos
+      - bailasteis
+      - bailaron
+      cjid: pprf
+    - cjfs:
+      - "bailar\xE9"
+      - "bailar\xE1s"
+      - "bailar\xE1"
+      - bailaremos
+      - "bailar\xE9is"
+      - "bailar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bailar\xEDa"
+      - "bailar\xEDas"
+      - "bailar\xEDa"
+      - "bailar\xEDamos"
+      - "bailar\xEDais"
+      - "bailar\xEDan"
+      cjid: cond
+    - cjfs:
+      - baile
+      - bailes
+      - baile
+      - bailemos
+      - "bail\xE9is"
+      - bailen
+      cjid: psub
+    - cjfs:
+      - bailara
+      - bailaras
+      - bailara
+      - "bail\xE1ramos"
+      - bailarais
+      - bailaran
+      cjid: pisb1
+    - cjfs:
+      - bailase
+      - bailases
+      - bailase
+      - "bail\xE1semos"
+      - bailaseis
+      - bailasen
+      cjid: pisb2
+    - cjfs:
+      - bailare
+      - bailares
+      - bailare
+      - "bail\xE1remos"
+      - bailareis
+      - bailaren
+      cjid: fsub
+    - cjfs:
+      - he bailado
+      - has bailado
+      - ha bailado
+      - hemos bailado
+      - "hab\xE9is bailado"
+      - han bailado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bailado"
+      - "hab\xEDas bailado"
+      - "hab\xEDa bailado"
+      - "hab\xEDamos bailado"
+      - "hab\xEDais bailado"
+      - "hab\xEDan bailado"
+      cjid: ppsi
+    - cjfs:
+      - hube bailado
+      - hubiste bailado
+      - hubo bailado
+      - hubimos bailado
+      - hubisteis bailado
+      - hubieron bailado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bailado"
+      - "habr\xE1s bailado"
+      - "habr\xE1 bailado"
+      - habremos bailado
+      - "habr\xE9is bailado"
+      - "habr\xE1n bailado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bailado"
+      - "habr\xEDas bailado"
+      - "habr\xEDa bailado"
+      - "habr\xEDamos bailado"
+      - "habr\xEDais bailado"
+      - "habr\xEDan bailado"
+      cjid: cpef
+    - cjfs:
+      - haya bailado
+      - hayas bailado
+      - haya bailado
+      - hayamos bailado
+      - "hay\xE1is bailado"
+      - hayan bailado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bailado
+      - hubieras bailado
+      - hubiera bailado
+      - "hubi\xE9ramos bailado"
+      - hubierais bailado
+      - hubieran bailado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bailado
+      - hubieses bailado
+      - hubiese bailado
+      - "hubi\xE9semos bailado"
+      - hubieseis bailado
+      - hubiesen bailado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bailado
+      - hubieres bailado
+      - hubiere bailado
+      - "hubi\xE9remos bailado"
+      - hubiereis bailado
+      - hubieren bailado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - baila
+      - baile
+      - bailemos
+      - bailad
+      - bailen
+      cjid: impf

@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|congelar||} {bc}to {a_link|freeze}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to produce frost '
+          - - vis
+            - - t: "anoche hel\xF3"
+                tr: there was frost last night
+    vd: impersonal verb
+  fl: verb
+  hwi:
+    hw: helar
+  meta:
+    id: helar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611348000'
+    src: spanish
+    stems:
+    - helar
+    - helarse
+    uuid: 83857842-09cf-4b78-9bf6-c924303f9d8e
+  shortdef:
+  - 'congelar : to freeze'
+  - to produce frost
+  suppl:
+    cjts:
+    - cjfs:
+      - helando
+      - helado
+      cjid: gppt
+    - cjfs:
+      - hielo
+      - hielas
+      - hiela
+      - helamos
+      - "hel\xE1is"
+      - hielan
+      cjid: pind
+    - cjfs:
+      - helaba
+      - helabas
+      - helaba
+      - "hel\xE1bamos"
+      - helabais
+      - helaban
+      cjid: pret
+    - cjfs:
+      - "hel\xE9"
+      - helaste
+      - "hel\xF3"
+      - helamos
+      - helasteis
+      - helaron
+      cjid: pprf
+    - cjfs:
+      - "helar\xE9"
+      - "helar\xE1s"
+      - "helar\xE1"
+      - helaremos
+      - "helar\xE9is"
+      - "helar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "helar\xEDa"
+      - "helar\xEDas"
+      - "helar\xEDa"
+      - "helar\xEDamos"
+      - "helar\xEDais"
+      - "helar\xEDan"
+      cjid: cond
+    - cjfs:
+      - hiele
+      - hieles
+      - hiele
+      - helemos
+      - "hel\xE9is"
+      - hielen
+      cjid: psub
+    - cjfs:
+      - helara
+      - helaras
+      - helara
+      - "hel\xE1ramos"
+      - helarais
+      - helaran
+      cjid: pisb1
+    - cjfs:
+      - helase
+      - helases
+      - helase
+      - "hel\xE1semos"
+      - helaseis
+      - helasen
+      cjid: pisb2
+    - cjfs:
+      - helare
+      - helares
+      - helare
+      - "hel\xE1remos"
+      - helareis
+      - helaren
+      cjid: fsub
+    - cjfs:
+      - he helado
+      - has helado
+      - ha helado
+      - hemos helado
+      - "hab\xE9is helado"
+      - han helado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa helado"
+      - "hab\xEDas helado"
+      - "hab\xEDa helado"
+      - "hab\xEDamos helado"
+      - "hab\xEDais helado"
+      - "hab\xEDan helado"
+      cjid: ppsi
+    - cjfs:
+      - hube helado
+      - hubiste helado
+      - hubo helado
+      - hubimos helado
+      - hubisteis helado
+      - hubieron helado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 helado"
+      - "habr\xE1s helado"
+      - "habr\xE1 helado"
+      - habremos helado
+      - "habr\xE9is helado"
+      - "habr\xE1n helado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa helado"
+      - "habr\xEDas helado"
+      - "habr\xEDa helado"
+      - "habr\xEDamos helado"
+      - "habr\xEDais helado"
+      - "habr\xEDan helado"
+      cjid: cpef
+    - cjfs:
+      - haya helado
+      - hayas helado
+      - haya helado
+      - hayamos helado
+      - "hay\xE1is helado"
+      - hayan helado
+      cjid: ppfs
+    - cjfs:
+      - hubiera helado
+      - hubieras helado
+      - hubiera helado
+      - "hubi\xE9ramos helado"
+      - hubierais helado
+      - hubieran helado
+      cjid: ppss1
+    - cjfs:
+      - hubiese helado
+      - hubieses helado
+      - hubiese helado
+      - "hubi\xE9semos helado"
+      - hubieseis helado
+      - hubiesen helado
+      cjid: ppss2
+    - cjfs:
+      - hubiere helado
+      - hubieres helado
+      - hubiere helado
+      - "hubi\xE9remos helado"
+      - hubiereis helado
+      - hubieren helado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - hiela
+      - hiele
+      - helemos
+      - helad
+      - hielen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: helarse

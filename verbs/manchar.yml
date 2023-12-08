@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ensuciar||} {bc}to {a_link|stain}, to {a_link|soil}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|deshonrar||} {bc}to {a_link|sully}, to {a_link|tarnish}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get dirty'
+    drp: mancharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: manchar
+    prs:
+    - sound:
+        audio: manch03sp
+  meta:
+    id: manchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614308000'
+    src: spanish
+    stems:
+    - manchar
+    - mancharse
+    uuid: 91c79607-a2df-4610-8b23-10a5d626e087
+  shortdef:
+  - 'ensuciar : to stain, to soil'
+  - 'deshonrar : to sully, to tarnish'
+  suppl:
+    cjts:
+    - cjfs:
+      - manchando
+      - manchado
+      cjid: gppt
+    - cjfs:
+      - mancho
+      - manchas
+      - mancha
+      - manchamos
+      - "manch\xE1is"
+      - manchan
+      cjid: pind
+    - cjfs:
+      - manchaba
+      - manchabas
+      - manchaba
+      - "manch\xE1bamos"
+      - manchabais
+      - manchaban
+      cjid: pret
+    - cjfs:
+      - "manch\xE9"
+      - manchaste
+      - "manch\xF3"
+      - manchamos
+      - manchasteis
+      - mancharon
+      cjid: pprf
+    - cjfs:
+      - "manchar\xE9"
+      - "manchar\xE1s"
+      - "manchar\xE1"
+      - mancharemos
+      - "manchar\xE9is"
+      - "manchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "manchar\xEDa"
+      - "manchar\xEDas"
+      - "manchar\xEDa"
+      - "manchar\xEDamos"
+      - "manchar\xEDais"
+      - "manchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - manche
+      - manches
+      - manche
+      - manchemos
+      - "manch\xE9is"
+      - manchen
+      cjid: psub
+    - cjfs:
+      - manchara
+      - mancharas
+      - manchara
+      - "manch\xE1ramos"
+      - mancharais
+      - mancharan
+      cjid: pisb1
+    - cjfs:
+      - manchase
+      - manchases
+      - manchase
+      - "manch\xE1semos"
+      - manchaseis
+      - manchasen
+      cjid: pisb2
+    - cjfs:
+      - manchare
+      - manchares
+      - manchare
+      - "manch\xE1remos"
+      - manchareis
+      - mancharen
+      cjid: fsub
+    - cjfs:
+      - he manchado
+      - has manchado
+      - ha manchado
+      - hemos manchado
+      - "hab\xE9is manchado"
+      - han manchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa manchado"
+      - "hab\xEDas manchado"
+      - "hab\xEDa manchado"
+      - "hab\xEDamos manchado"
+      - "hab\xEDais manchado"
+      - "hab\xEDan manchado"
+      cjid: ppsi
+    - cjfs:
+      - hube manchado
+      - hubiste manchado
+      - hubo manchado
+      - hubimos manchado
+      - hubisteis manchado
+      - hubieron manchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 manchado"
+      - "habr\xE1s manchado"
+      - "habr\xE1 manchado"
+      - habremos manchado
+      - "habr\xE9is manchado"
+      - "habr\xE1n manchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa manchado"
+      - "habr\xEDas manchado"
+      - "habr\xEDa manchado"
+      - "habr\xEDamos manchado"
+      - "habr\xEDais manchado"
+      - "habr\xEDan manchado"
+      cjid: cpef
+    - cjfs:
+      - haya manchado
+      - hayas manchado
+      - haya manchado
+      - hayamos manchado
+      - "hay\xE1is manchado"
+      - hayan manchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera manchado
+      - hubieras manchado
+      - hubiera manchado
+      - "hubi\xE9ramos manchado"
+      - hubierais manchado
+      - hubieran manchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese manchado
+      - hubieses manchado
+      - hubiese manchado
+      - "hubi\xE9semos manchado"
+      - hubieseis manchado
+      - hubiesen manchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere manchado
+      - hubieres manchado
+      - hubiere manchado
+      - "hubi\xE9remos manchado"
+      - hubiereis manchado
+      - hubieren manchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mancha
+      - manche
+      - manchemos
+      - manchad
+      - manchen
+      cjid: impf

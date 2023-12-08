@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inflict}'
+  fl: transitive verb
+  hwi:
+    hw: infligir
+  meta:
+    id: infligir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612457000'
+    src: spanish
+    stems:
+    - infligir
+    uuid: e1a7b911-8f44-4860-b64f-711819bb510c
+  shortdef:
+  - to inflict
+  suppl:
+    cjts:
+    - cjfs:
+      - infligiendo
+      - infligido
+      cjid: gppt
+    - cjfs:
+      - inflijo
+      - infliges
+      - inflige
+      - infligimos
+      - "inflig\xEDs"
+      - infligen
+      cjid: pind
+    - cjfs:
+      - "inflig\xEDa"
+      - "inflig\xEDas"
+      - "inflig\xEDa"
+      - "inflig\xEDamos"
+      - "inflig\xEDais"
+      - "inflig\xEDan"
+      cjid: pret
+    - cjfs:
+      - "inflig\xED"
+      - infligiste
+      - "infligi\xF3"
+      - infligimos
+      - infligisteis
+      - infligieron
+      cjid: pprf
+    - cjfs:
+      - "infligir\xE9"
+      - "infligir\xE1s"
+      - "infligir\xE1"
+      - infligiremos
+      - "infligir\xE9is"
+      - "infligir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "infligir\xEDa"
+      - "infligir\xEDas"
+      - "infligir\xEDa"
+      - "infligir\xEDamos"
+      - "infligir\xEDais"
+      - "infligir\xEDan"
+      cjid: cond
+    - cjfs:
+      - inflija
+      - inflijas
+      - inflija
+      - inflijamos
+      - "inflij\xE1is"
+      - inflijan
+      cjid: psub
+    - cjfs:
+      - infligiera
+      - infligieras
+      - infligiera
+      - "infligi\xE9ramos"
+      - infligierais
+      - infligieran
+      cjid: pisb1
+    - cjfs:
+      - infligiese
+      - infligieses
+      - infligiese
+      - "infligi\xE9semos"
+      - infligieseis
+      - infligiesen
+      cjid: pisb2
+    - cjfs:
+      - infligiere
+      - infligieres
+      - infligiere
+      - "infligi\xE9remos"
+      - infligiereis
+      - infligieren
+      cjid: fsub
+    - cjfs:
+      - he infligido
+      - has infligido
+      - ha infligido
+      - hemos infligido
+      - "hab\xE9is infligido"
+      - han infligido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa infligido"
+      - "hab\xEDas infligido"
+      - "hab\xEDa infligido"
+      - "hab\xEDamos infligido"
+      - "hab\xEDais infligido"
+      - "hab\xEDan infligido"
+      cjid: ppsi
+    - cjfs:
+      - hube infligido
+      - hubiste infligido
+      - hubo infligido
+      - hubimos infligido
+      - hubisteis infligido
+      - hubieron infligido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 infligido"
+      - "habr\xE1s infligido"
+      - "habr\xE1 infligido"
+      - habremos infligido
+      - "habr\xE9is infligido"
+      - "habr\xE1n infligido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa infligido"
+      - "habr\xEDas infligido"
+      - "habr\xEDa infligido"
+      - "habr\xEDamos infligido"
+      - "habr\xEDais infligido"
+      - "habr\xEDan infligido"
+      cjid: cpef
+    - cjfs:
+      - haya infligido
+      - hayas infligido
+      - haya infligido
+      - hayamos infligido
+      - "hay\xE1is infligido"
+      - hayan infligido
+      cjid: ppfs
+    - cjfs:
+      - hubiera infligido
+      - hubieras infligido
+      - hubiera infligido
+      - "hubi\xE9ramos infligido"
+      - hubierais infligido
+      - hubieran infligido
+      cjid: ppss1
+    - cjfs:
+      - hubiese infligido
+      - hubieses infligido
+      - hubiese infligido
+      - "hubi\xE9semos infligido"
+      - hubieseis infligido
+      - hubiesen infligido
+      cjid: ppss2
+    - cjfs:
+      - hubiere infligido
+      - hubieres infligido
+      - hubiere infligido
+      - "hubi\xE9remos infligido"
+      - hubiereis infligido
+      - hubieren infligido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inflige
+      - inflija
+      - inflijamos
+      - infligid
+      - inflijan
+      cjid: impf

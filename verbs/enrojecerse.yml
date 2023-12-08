@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make red, to {a_link|redden}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|blush}'
+    drp: enrojecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enrojecer
+  meta:
+    id: enrojecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608661000'
+    src: spanish
+    stems:
+    - enrojecer
+    - enrojecerse
+    uuid: 9470bcc5-154b-4f61-966c-427038d842ee
+  shortdef:
+  - to make red, to redden
+  suppl:
+    cjts:
+    - cjfs:
+      - enrojeciendo
+      - enrojecido
+      cjid: gppt
+    - cjfs:
+      - enrojezco
+      - enrojeces
+      - enrojece
+      - enrojecemos
+      - "enrojec\xE9is"
+      - enrojecen
+      cjid: pind
+    - cjfs:
+      - "enrojec\xEDa"
+      - "enrojec\xEDas"
+      - "enrojec\xEDa"
+      - "enrojec\xEDamos"
+      - "enrojec\xEDais"
+      - "enrojec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "enrojec\xED"
+      - enrojeciste
+      - "enrojeci\xF3"
+      - enrojecimos
+      - enrojecisteis
+      - enrojecieron
+      cjid: pprf
+    - cjfs:
+      - "enrojecer\xE9"
+      - "enrojecer\xE1s"
+      - "enrojecer\xE1"
+      - enrojeceremos
+      - "enrojecer\xE9is"
+      - "enrojecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enrojecer\xEDa"
+      - "enrojecer\xEDas"
+      - "enrojecer\xEDa"
+      - "enrojecer\xEDamos"
+      - "enrojecer\xEDais"
+      - "enrojecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - enrojezca
+      - enrojezcas
+      - enrojezca
+      - enrojezcamos
+      - "enrojezc\xE1is"
+      - enrojezcan
+      cjid: psub
+    - cjfs:
+      - enrojeciera
+      - enrojecieras
+      - enrojeciera
+      - "enrojeci\xE9ramos"
+      - enrojecierais
+      - enrojecieran
+      cjid: pisb1
+    - cjfs:
+      - enrojeciese
+      - enrojecieses
+      - enrojeciese
+      - "enrojeci\xE9semos"
+      - enrojecieseis
+      - enrojeciesen
+      cjid: pisb2
+    - cjfs:
+      - enrojeciere
+      - enrojecieres
+      - enrojeciere
+      - "enrojeci\xE9remos"
+      - enrojeciereis
+      - enrojecieren
+      cjid: fsub
+    - cjfs:
+      - he enrojecido
+      - has enrojecido
+      - ha enrojecido
+      - hemos enrojecido
+      - "hab\xE9is enrojecido"
+      - han enrojecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enrojecido"
+      - "hab\xEDas enrojecido"
+      - "hab\xEDa enrojecido"
+      - "hab\xEDamos enrojecido"
+      - "hab\xEDais enrojecido"
+      - "hab\xEDan enrojecido"
+      cjid: ppsi
+    - cjfs:
+      - hube enrojecido
+      - hubiste enrojecido
+      - hubo enrojecido
+      - hubimos enrojecido
+      - hubisteis enrojecido
+      - hubieron enrojecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enrojecido"
+      - "habr\xE1s enrojecido"
+      - "habr\xE1 enrojecido"
+      - habremos enrojecido
+      - "habr\xE9is enrojecido"
+      - "habr\xE1n enrojecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enrojecido"
+      - "habr\xEDas enrojecido"
+      - "habr\xEDa enrojecido"
+      - "habr\xEDamos enrojecido"
+      - "habr\xEDais enrojecido"
+      - "habr\xEDan enrojecido"
+      cjid: cpef
+    - cjfs:
+      - haya enrojecido
+      - hayas enrojecido
+      - haya enrojecido
+      - hayamos enrojecido
+      - "hay\xE1is enrojecido"
+      - hayan enrojecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera enrojecido
+      - hubieras enrojecido
+      - hubiera enrojecido
+      - "hubi\xE9ramos enrojecido"
+      - hubierais enrojecido
+      - hubieran enrojecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese enrojecido
+      - hubieses enrojecido
+      - hubiese enrojecido
+      - "hubi\xE9semos enrojecido"
+      - hubieseis enrojecido
+      - hubiesen enrojecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere enrojecido
+      - hubieres enrojecido
+      - hubiere enrojecido
+      - "hubi\xE9remos enrojecido"
+      - hubiereis enrojecido
+      - hubieren enrojecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enrojece
+      - enrojezca
+      - enrojezcamos
+      - enrojeced
+      - enrojezcan
+      cjid: impf

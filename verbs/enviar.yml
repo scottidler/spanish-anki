@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|send}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ship}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: enviar
+    prs:
+    - sound:
+        audio: envia02sp
+  meta:
+    id: enviar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608816000'
+    src: spanish
+    stems:
+    - enviar
+    uuid: 558a5045-7d71-4abb-aa71-82f6b7283d34
+  shortdef:
+  - to send
+  - to ship
+  suppl:
+    cjts:
+    - cjfs:
+      - enviando
+      - enviado
+      cjid: gppt
+    - cjfs:
+      - "env\xEDo"
+      - "env\xEDas"
+      - "env\xEDa"
+      - enviamos
+      - "envi\xE1is"
+      - "env\xEDan"
+      cjid: pind
+    - cjfs:
+      - enviaba
+      - enviabas
+      - enviaba
+      - "envi\xE1bamos"
+      - enviabais
+      - enviaban
+      cjid: pret
+    - cjfs:
+      - "envi\xE9"
+      - enviaste
+      - "envi\xF3"
+      - enviamos
+      - enviasteis
+      - enviaron
+      cjid: pprf
+    - cjfs:
+      - "enviar\xE9"
+      - "enviar\xE1s"
+      - "enviar\xE1"
+      - enviaremos
+      - "enviar\xE9is"
+      - "enviar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enviar\xEDa"
+      - "enviar\xEDas"
+      - "enviar\xEDa"
+      - "enviar\xEDamos"
+      - "enviar\xEDais"
+      - "enviar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "env\xEDe"
+      - "env\xEDes"
+      - "env\xEDe"
+      - enviemos
+      - "envi\xE9is"
+      - "env\xEDen"
+      cjid: psub
+    - cjfs:
+      - enviara
+      - enviaras
+      - enviara
+      - "envi\xE1ramos"
+      - enviarais
+      - enviaran
+      cjid: pisb1
+    - cjfs:
+      - enviase
+      - enviases
+      - enviase
+      - "envi\xE1semos"
+      - enviaseis
+      - enviasen
+      cjid: pisb2
+    - cjfs:
+      - enviare
+      - enviares
+      - enviare
+      - "envi\xE1remos"
+      - enviareis
+      - enviaren
+      cjid: fsub
+    - cjfs:
+      - he enviado
+      - has enviado
+      - ha enviado
+      - hemos enviado
+      - "hab\xE9is enviado"
+      - han enviado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enviado"
+      - "hab\xEDas enviado"
+      - "hab\xEDa enviado"
+      - "hab\xEDamos enviado"
+      - "hab\xEDais enviado"
+      - "hab\xEDan enviado"
+      cjid: ppsi
+    - cjfs:
+      - hube enviado
+      - hubiste enviado
+      - hubo enviado
+      - hubimos enviado
+      - hubisteis enviado
+      - hubieron enviado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enviado"
+      - "habr\xE1s enviado"
+      - "habr\xE1 enviado"
+      - habremos enviado
+      - "habr\xE9is enviado"
+      - "habr\xE1n enviado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enviado"
+      - "habr\xEDas enviado"
+      - "habr\xEDa enviado"
+      - "habr\xEDamos enviado"
+      - "habr\xEDais enviado"
+      - "habr\xEDan enviado"
+      cjid: cpef
+    - cjfs:
+      - haya enviado
+      - hayas enviado
+      - haya enviado
+      - hayamos enviado
+      - "hay\xE1is enviado"
+      - hayan enviado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enviado
+      - hubieras enviado
+      - hubiera enviado
+      - "hubi\xE9ramos enviado"
+      - hubierais enviado
+      - hubieran enviado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enviado
+      - hubieses enviado
+      - hubiese enviado
+      - "hubi\xE9semos enviado"
+      - hubieseis enviado
+      - hubiesen enviado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enviado
+      - hubieres enviado
+      - hubiere enviado
+      - "hubi\xE9remos enviado"
+      - hubiereis enviado
+      - hubieren enviado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "env\xEDa"
+      - "env\xEDe"
+      - enviemos
+      - enviad
+      - "env\xEDen"
+      cjid: impf

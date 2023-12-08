@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be reborn}, to {a_link|revive}'
+  fl: intransitive verb
+  hwi:
+    hw: renacer
+    prs:
+    - sound:
+        audio: renac01sp
+  meta:
+    id: renacer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619378000'
+    src: spanish
+    stems:
+    - renacer
+    uuid: 257b3c72-ada6-404e-84b2-3f90978e8488
+  shortdef:
+  - to be reborn, to revive
+  suppl:
+    cjts:
+    - cjfs:
+      - renaciendo
+      - renacido
+      cjid: gppt
+    - cjfs:
+      - renazco
+      - renaces
+      - renace
+      - renacemos
+      - "renac\xE9is"
+      - renacen
+      cjid: pind
+    - cjfs:
+      - "renac\xEDa"
+      - "renac\xEDas"
+      - "renac\xEDa"
+      - "renac\xEDamos"
+      - "renac\xEDais"
+      - "renac\xEDan"
+      cjid: pret
+    - cjfs:
+      - "renac\xED"
+      - renaciste
+      - "renaci\xF3"
+      - renacimos
+      - renacisteis
+      - renacieron
+      cjid: pprf
+    - cjfs:
+      - "renacer\xE9"
+      - "renacer\xE1s"
+      - "renacer\xE1"
+      - renaceremos
+      - "renacer\xE9is"
+      - "renacer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "renacer\xEDa"
+      - "renacer\xEDas"
+      - "renacer\xEDa"
+      - "renacer\xEDamos"
+      - "renacer\xEDais"
+      - "renacer\xEDan"
+      cjid: cond
+    - cjfs:
+      - renazca
+      - renazcas
+      - renazca
+      - renazcamos
+      - "renazc\xE1is"
+      - renazcan
+      cjid: psub
+    - cjfs:
+      - renaciera
+      - renacieras
+      - renaciera
+      - "renaci\xE9ramos"
+      - renacierais
+      - renacieran
+      cjid: pisb1
+    - cjfs:
+      - renaciese
+      - renacieses
+      - renaciese
+      - "renaci\xE9semos"
+      - renacieseis
+      - renaciesen
+      cjid: pisb2
+    - cjfs:
+      - renaciere
+      - renacieres
+      - renaciere
+      - "renaci\xE9remos"
+      - renaciereis
+      - renacieren
+      cjid: fsub
+    - cjfs:
+      - he renacido
+      - has renacido
+      - ha renacido
+      - hemos renacido
+      - "hab\xE9is renacido"
+      - han renacido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa renacido"
+      - "hab\xEDas renacido"
+      - "hab\xEDa renacido"
+      - "hab\xEDamos renacido"
+      - "hab\xEDais renacido"
+      - "hab\xEDan renacido"
+      cjid: ppsi
+    - cjfs:
+      - hube renacido
+      - hubiste renacido
+      - hubo renacido
+      - hubimos renacido
+      - hubisteis renacido
+      - hubieron renacido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 renacido"
+      - "habr\xE1s renacido"
+      - "habr\xE1 renacido"
+      - habremos renacido
+      - "habr\xE9is renacido"
+      - "habr\xE1n renacido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa renacido"
+      - "habr\xEDas renacido"
+      - "habr\xEDa renacido"
+      - "habr\xEDamos renacido"
+      - "habr\xEDais renacido"
+      - "habr\xEDan renacido"
+      cjid: cpef
+    - cjfs:
+      - haya renacido
+      - hayas renacido
+      - haya renacido
+      - hayamos renacido
+      - "hay\xE1is renacido"
+      - hayan renacido
+      cjid: ppfs
+    - cjfs:
+      - hubiera renacido
+      - hubieras renacido
+      - hubiera renacido
+      - "hubi\xE9ramos renacido"
+      - hubierais renacido
+      - hubieran renacido
+      cjid: ppss1
+    - cjfs:
+      - hubiese renacido
+      - hubieses renacido
+      - hubiese renacido
+      - "hubi\xE9semos renacido"
+      - hubieseis renacido
+      - hubiesen renacido
+      cjid: ppss2
+    - cjfs:
+      - hubiere renacido
+      - hubieres renacido
+      - hubiere renacido
+      - "hubi\xE9remos renacido"
+      - hubiereis renacido
+      - hubieren renacido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - renace
+      - renazca
+      - renazcamos
+      - renaced
+      - renazcan
+      cjid: impf

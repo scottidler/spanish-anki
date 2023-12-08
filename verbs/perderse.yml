@@ -1,0 +1,239 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lose} '
+          - - vis
+            - - t: "perdi\xF3 las llaves"
+                tr: he lost his keys
+              - t: perder dinero/peso
+                tr: to lose money/weight
+              - t: perder la paciencia/confianza
+                tr: to lose patience/confidence
+              - t: perder la vida
+                tr: to lose one's life
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lose} (a game, contest, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|miss} (a train, an event, etc.) '
+          - - vis
+            - - t: perdimos la oportunidad
+                tr: we missed the opportunity
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|waste} (time)'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lose}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|extraviarse||} {bc}to {a_link|get lost}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|miss}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|desaparecer||} {bc}to {a_link|disappear}'
+            sn: '3'
+    drp: perderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: perder
+    prs:
+    - sound:
+        audio: perde03sp
+  meta:
+    id: perder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617078000'
+    src: spanish
+    stems:
+    - perder
+    - perderse
+    uuid: f16a3ab7-ce11-4813-a90a-ea531ec412dc
+  shortdef:
+  - to lose
+  - to lose (a game, contest, etc.)
+  - to miss (a train, an event, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - perdiendo
+      - perdido
+      cjid: gppt
+    - cjfs:
+      - pierdo
+      - pierdes
+      - pierde
+      - perdemos
+      - "perd\xE9is"
+      - pierden
+      cjid: pind
+    - cjfs:
+      - "perd\xEDa"
+      - "perd\xEDas"
+      - "perd\xEDa"
+      - "perd\xEDamos"
+      - "perd\xEDais"
+      - "perd\xEDan"
+      cjid: pret
+    - cjfs:
+      - "perd\xED"
+      - perdiste
+      - "perdi\xF3"
+      - perdimos
+      - perdisteis
+      - perdieron
+      cjid: pprf
+    - cjfs:
+      - "perder\xE9"
+      - "perder\xE1s"
+      - "perder\xE1"
+      - perderemos
+      - "perder\xE9is"
+      - "perder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perder\xEDa"
+      - "perder\xEDas"
+      - "perder\xEDa"
+      - "perder\xEDamos"
+      - "perder\xEDais"
+      - "perder\xEDan"
+      cjid: cond
+    - cjfs:
+      - pierda
+      - pierdas
+      - pierda
+      - perdamos
+      - "perd\xE1is"
+      - pierdan
+      cjid: psub
+    - cjfs:
+      - perdiera
+      - perdieras
+      - perdiera
+      - "perdi\xE9ramos"
+      - perdierais
+      - perdieran
+      cjid: pisb1
+    - cjfs:
+      - perdiese
+      - perdieses
+      - perdiese
+      - "perdi\xE9semos"
+      - perdieseis
+      - perdiesen
+      cjid: pisb2
+    - cjfs:
+      - perdiere
+      - perdieres
+      - perdiere
+      - "perdi\xE9remos"
+      - perdiereis
+      - perdieren
+      cjid: fsub
+    - cjfs:
+      - he perdido
+      - has perdido
+      - ha perdido
+      - hemos perdido
+      - "hab\xE9is perdido"
+      - han perdido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perdido"
+      - "hab\xEDas perdido"
+      - "hab\xEDa perdido"
+      - "hab\xEDamos perdido"
+      - "hab\xEDais perdido"
+      - "hab\xEDan perdido"
+      cjid: ppsi
+    - cjfs:
+      - hube perdido
+      - hubiste perdido
+      - hubo perdido
+      - hubimos perdido
+      - hubisteis perdido
+      - hubieron perdido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perdido"
+      - "habr\xE1s perdido"
+      - "habr\xE1 perdido"
+      - habremos perdido
+      - "habr\xE9is perdido"
+      - "habr\xE1n perdido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perdido"
+      - "habr\xEDas perdido"
+      - "habr\xEDa perdido"
+      - "habr\xEDamos perdido"
+      - "habr\xEDais perdido"
+      - "habr\xEDan perdido"
+      cjid: cpef
+    - cjfs:
+      - haya perdido
+      - hayas perdido
+      - haya perdido
+      - hayamos perdido
+      - "hay\xE1is perdido"
+      - hayan perdido
+      cjid: ppfs
+    - cjfs:
+      - hubiera perdido
+      - hubieras perdido
+      - hubiera perdido
+      - "hubi\xE9ramos perdido"
+      - hubierais perdido
+      - hubieran perdido
+      cjid: ppss1
+    - cjfs:
+      - hubiese perdido
+      - hubieses perdido
+      - hubiese perdido
+      - "hubi\xE9semos perdido"
+      - hubieseis perdido
+      - hubiesen perdido
+      cjid: ppss2
+    - cjfs:
+      - hubiere perdido
+      - hubieres perdido
+      - hubiere perdido
+      - "hubi\xE9remos perdido"
+      - hubiereis perdido
+      - hubieren perdido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pierde
+      - pierda
+      - perdamos
+      - perded
+      - pierdan
+      cjid: impf

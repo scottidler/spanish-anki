@@ -1,0 +1,89 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|test||} {bc}{a_link|probar}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|demonstrate||} {bc}{a_link|probar}, {a_link|demostrar} '
+          - - vis
+            - - t: this proves her guilt, this proves that she is guilty
+                tr: esto prueba/demuestra que es culpable
+              - t: you've already proven your point
+                tr: "ya s\xE9 que tienes raz\xF3n"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: can you prove him wrong?
+                tr: "\xBFpuedes demostrar que est\xE1 equivocado?"
+              - t: evidence that proves her guilty
+                tr: pruebas que demuestran que es culpable
+              - t: it has been proven effective
+                tr: se ha demostrado ser eficaz
+          sls:
+          - (show someone/something to be)
+          sn: '3'
+    vd: transitive verb
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|resultar} '
+          - - vis
+            - - t: it proved effective
+                tr: "result\xF3 eficaz"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}demostrar sus cualidades'
+          sn: '2'
+          vrs:
+          - va: to prove oneself
+    vd: intransitive verb
+  fl: verb
+  hwi:
+    hw: prove
+    prs:
+    - mw: "\u02C8pru\u02D0v"
+      sound:
+        audio: prove001
+  ins:
+  - if: proved
+  - if: proved
+  - if: proven
+    il: or
+    prs:
+    - mw: "\u02C8pru\u02D0v{it}\u0259{/it}n"
+      sound:
+        audio: prove002
+  - if: proving
+  meta:
+    id: prove
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2619056000'
+    src: spanish
+    stems:
+    - prove
+    - proved
+    - proven
+    - proving
+    - proves
+    - provable
+    - provableness
+    - provablenesses
+    - provably
+    - prover
+    - provers
+    - to prove oneself
+    uuid: a2bf30fd-8981-498d-97b7-7583e5e93f92
+  shortdef:
+  - 'test : probar'
+  - 'demonstrate : probar, demostrar'
+  - resultar

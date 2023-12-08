@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|divertir||} {bc}to {a_link|entertain}, to {a_link|amuse}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|distraer||} {bc}to {a_link|distract}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|demorar||} {bc}to {a_link|delay}, to {a_link|hold up}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to amuse oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|dally}'
+            sn: '2'
+    drp: entretenerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: entretener
+    prs:
+    - sound:
+        audio: entre10sp
+  meta:
+    id: entretener
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608775000'
+    src: spanish
+    stems:
+    - entretener
+    - entretenerse
+    uuid: 1ee17bf7-a69c-4f36-a0bc-1fb3a2ad6d3a
+  shortdef:
+  - 'divertir : to entertain, to amuse'
+  - 'distraer : to distract'
+  - 'demorar : to delay, to hold up'
+  suppl:
+    cjts:
+    - cjfs:
+      - entreteniendo
+      - entretenido
+      cjid: gppt
+    - cjfs:
+      - entretengo
+      - entretienes
+      - entretiene
+      - entretenemos
+      - "entreten\xE9is"
+      - entretienen
+      cjid: pind
+    - cjfs:
+      - "entreten\xEDa"
+      - "entreten\xEDas"
+      - "entreten\xEDa"
+      - "entreten\xEDamos"
+      - "entreten\xEDais"
+      - "entreten\xEDan"
+      cjid: pret
+    - cjfs:
+      - entretuve
+      - entretuviste
+      - entretuvo
+      - entretuvimos
+      - entretuvisteis
+      - entretuvieron
+      cjid: pprf
+    - cjfs:
+      - "entretendr\xE9"
+      - "entretendr\xE1s"
+      - "entretendr\xE1"
+      - entretendremos
+      - "entretendr\xE9is"
+      - "entretendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entretendr\xEDa"
+      - "entretendr\xEDas"
+      - "entretendr\xEDa"
+      - "entretendr\xEDamos"
+      - "entretendr\xEDais"
+      - "entretendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - entretenga
+      - entretengas
+      - entretenga
+      - entretengamos
+      - "entreteng\xE1is"
+      - entretengan
+      cjid: psub
+    - cjfs:
+      - entretuviera
+      - entretuvieras
+      - entretuviera
+      - "entretuvi\xE9ramos"
+      - entretuvierais
+      - entretuvieran
+      cjid: pisb1
+    - cjfs:
+      - entretuviese
+      - entretuvieses
+      - entretuviese
+      - "entretuvi\xE9semos"
+      - entretuvieseis
+      - entretuviesen
+      cjid: pisb2
+    - cjfs:
+      - entretuviere
+      - entretuvieres
+      - entretuviere
+      - "entretuvi\xE9remos"
+      - entretuviereis
+      - entretuvieren
+      cjid: fsub
+    - cjfs:
+      - he entretenido
+      - has entretenido
+      - ha entretenido
+      - hemos entretenido
+      - "hab\xE9is entretenido"
+      - han entretenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entretenido"
+      - "hab\xEDas entretenido"
+      - "hab\xEDa entretenido"
+      - "hab\xEDamos entretenido"
+      - "hab\xEDais entretenido"
+      - "hab\xEDan entretenido"
+      cjid: ppsi
+    - cjfs:
+      - hube entretenido
+      - hubiste entretenido
+      - hubo entretenido
+      - hubimos entretenido
+      - hubisteis entretenido
+      - hubieron entretenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entretenido"
+      - "habr\xE1s entretenido"
+      - "habr\xE1 entretenido"
+      - habremos entretenido
+      - "habr\xE9is entretenido"
+      - "habr\xE1n entretenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entretenido"
+      - "habr\xEDas entretenido"
+      - "habr\xEDa entretenido"
+      - "habr\xEDamos entretenido"
+      - "habr\xEDais entretenido"
+      - "habr\xEDan entretenido"
+      cjid: cpef
+    - cjfs:
+      - haya entretenido
+      - hayas entretenido
+      - haya entretenido
+      - hayamos entretenido
+      - "hay\xE1is entretenido"
+      - hayan entretenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera entretenido
+      - hubieras entretenido
+      - hubiera entretenido
+      - "hubi\xE9ramos entretenido"
+      - hubierais entretenido
+      - hubieran entretenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese entretenido
+      - hubieses entretenido
+      - hubiese entretenido
+      - "hubi\xE9semos entretenido"
+      - hubieseis entretenido
+      - hubiesen entretenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere entretenido
+      - hubieres entretenido
+      - hubiere entretenido
+      - "hubi\xE9remos entretenido"
+      - hubiereis entretenido
+      - hubieren entretenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "entret\xE9n"
+      - entretenga
+      - entretengamos
+      - entretened
+      - entretengan
+      cjid: impf

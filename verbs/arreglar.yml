@@ -1,0 +1,502 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|componer||} {bc}to {a_link|repair}, to {a_link|fix}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tidy}, to {a_link|straighten} '
+          - - vis
+            - - t: arregla tu cuarto
+                tr: pick up your room
+              - t: deja que te arregle
+                tr: let me fix your clothes/hair
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arrange} (flowers, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|solve} (a problem), to {a_link|work out} (plans) '
+          - - vis
+            - - t: quiero arreglar este asunto
+                tr: I want to settle this matter
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get ready, to get dressed (up)'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fix}, to {a_link|do} '
+            - - vis
+              - - t: arreglarse el pelo
+                  tr: to fix/do one's hair
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to have/get done '
+            - - vis
+              - - t: arreglarse el pelo
+                  tr: to have/get one's hair done
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get by}, to {a_link|manage}'
+            sls:
+            - familiar
+            sn: '4'
+            vrs:
+            - va: "arregl\xE1rselas"
+    drp: arreglarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arreglar
+    prs:
+    - sound:
+        audio: arreg02sp
+  meta:
+    id: arreglar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601994000'
+    src: spanish
+    stems:
+    - arreglar
+    - arreglarse
+    - "arregl\xE1rselas"
+    uuid: 5c2294be-6475-4f4f-8f1e-d6c80ceb1bbb
+  shortdef:
+  - 'componer : to repair, to fix'
+  - to tidy, to straighten
+  - to arrange (flowers, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - arreglando
+      - arreglado
+      cjid: gppt
+    - cjfs:
+      - arreglo
+      - arreglas
+      - arregla
+      - arreglamos
+      - "arregl\xE1is"
+      - arreglan
+      cjid: pind
+    - cjfs:
+      - arreglaba
+      - arreglabas
+      - arreglaba
+      - "arregl\xE1bamos"
+      - arreglabais
+      - arreglaban
+      cjid: pret
+    - cjfs:
+      - "arregl\xE9"
+      - arreglaste
+      - "arregl\xF3"
+      - arreglamos
+      - arreglasteis
+      - arreglaron
+      cjid: pprf
+    - cjfs:
+      - "arreglar\xE9"
+      - "arreglar\xE1s"
+      - "arreglar\xE1"
+      - arreglaremos
+      - "arreglar\xE9is"
+      - "arreglar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arreglar\xEDa"
+      - "arreglar\xEDas"
+      - "arreglar\xEDa"
+      - "arreglar\xEDamos"
+      - "arreglar\xEDais"
+      - "arreglar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arregle
+      - arregles
+      - arregle
+      - arreglemos
+      - "arregl\xE9is"
+      - arreglen
+      cjid: psub
+    - cjfs:
+      - arreglara
+      - arreglaras
+      - arreglara
+      - "arregl\xE1ramos"
+      - arreglarais
+      - arreglaran
+      cjid: pisb1
+    - cjfs:
+      - arreglase
+      - arreglases
+      - arreglase
+      - "arregl\xE1semos"
+      - arreglaseis
+      - arreglasen
+      cjid: pisb2
+    - cjfs:
+      - arreglare
+      - arreglares
+      - arreglare
+      - "arregl\xE1remos"
+      - arreglareis
+      - arreglaren
+      cjid: fsub
+    - cjfs:
+      - he arreglado
+      - has arreglado
+      - ha arreglado
+      - hemos arreglado
+      - "hab\xE9is arreglado"
+      - han arreglado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arreglado"
+      - "hab\xEDas arreglado"
+      - "hab\xEDa arreglado"
+      - "hab\xEDamos arreglado"
+      - "hab\xEDais arreglado"
+      - "hab\xEDan arreglado"
+      cjid: ppsi
+    - cjfs:
+      - hube arreglado
+      - hubiste arreglado
+      - hubo arreglado
+      - hubimos arreglado
+      - hubisteis arreglado
+      - hubieron arreglado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arreglado"
+      - "habr\xE1s arreglado"
+      - "habr\xE1 arreglado"
+      - habremos arreglado
+      - "habr\xE9is arreglado"
+      - "habr\xE1n arreglado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arreglado"
+      - "habr\xEDas arreglado"
+      - "habr\xEDa arreglado"
+      - "habr\xEDamos arreglado"
+      - "habr\xEDais arreglado"
+      - "habr\xEDan arreglado"
+      cjid: cpef
+    - cjfs:
+      - haya arreglado
+      - hayas arreglado
+      - haya arreglado
+      - hayamos arreglado
+      - "hay\xE1is arreglado"
+      - hayan arreglado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arreglado
+      - hubieras arreglado
+      - hubiera arreglado
+      - "hubi\xE9ramos arreglado"
+      - hubierais arreglado
+      - hubieran arreglado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arreglado
+      - hubieses arreglado
+      - hubiese arreglado
+      - "hubi\xE9semos arreglado"
+      - hubieseis arreglado
+      - hubiesen arreglado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arreglado
+      - hubieres arreglado
+      - hubiere arreglado
+      - "hubi\xE9remos arreglado"
+      - hubiereis arreglado
+      - hubieren arreglado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arregla
+      - arregle
+      - arreglemos
+      - arreglad
+      - arreglen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ordenar||} {bc}to {a_link|command}, to {a_link|order} '
+          - - vis
+            - - t: "los mand\xF3 (a) callar, los mand\xF3 (a) que callaran"
+                tr: she ordered them to be quiet
+              - t: "mand\xF3 (a) construir un monumento"
+                tr: he had a monument built
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|enviar||} {bc}to {a_link|send} '
+          - - vis
+            - - t: te manda saludos
+                tr: he sends you his regards
+              - t: la mandaron a Buenos Aires
+                tr: they sent her to Buenos Aires
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|echar||} {bc}to {a_link|hurl}, to {a_link|throw}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}yes?, pardon?'
+          sls:
+          - Mexico
+          sn: '4'
+          vrs:
+          - va: "\xBFmande?"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have something fixed'
+          sn: '5'
+          vrs:
+          - va: mandar algo a arreglar
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to send word, to send a message'
+          sn: '6'
+          vrs:
+          - va: mandar (a) decir
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|send for}, to {a_link|summon}'
+          sn: '7'
+          vrs:
+          - va: mandar (a) llamar
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be the boss, to be in charge'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take liberties, to take advantage'
+            sls:
+            - Mexico
+    drp: mandarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: mandar
+    prs:
+    - sound:
+        audio: manda04sp
+  meta:
+    id: mandar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614319000'
+    src: spanish
+    stems:
+    - mandar
+    - "\xBFmande?"
+    - mandar algo a arreglar
+    - mandar (a) decir
+    - mandar (a) llamar
+    - mandarse
+    uuid: 63c9f652-6e6a-488f-9c66-729c7d4b4d76
+  shortdef:
+  - 'ordenar : to command, to order'
+  - 'enviar : to send'
+  - 'echar : to hurl, to throw'
+  suppl:
+    cjts:
+    - cjfs:
+      - mandando
+      - mandado
+      cjid: gppt
+    - cjfs:
+      - mando
+      - mandas
+      - manda
+      - mandamos
+      - "mand\xE1is"
+      - mandan
+      cjid: pind
+    - cjfs:
+      - mandaba
+      - mandabas
+      - mandaba
+      - "mand\xE1bamos"
+      - mandabais
+      - mandaban
+      cjid: pret
+    - cjfs:
+      - "mand\xE9"
+      - mandaste
+      - "mand\xF3"
+      - mandamos
+      - mandasteis
+      - mandaron
+      cjid: pprf
+    - cjfs:
+      - "mandar\xE9"
+      - "mandar\xE1s"
+      - "mandar\xE1"
+      - mandaremos
+      - "mandar\xE9is"
+      - "mandar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mandar\xEDa"
+      - "mandar\xEDas"
+      - "mandar\xEDa"
+      - "mandar\xEDamos"
+      - "mandar\xEDais"
+      - "mandar\xEDan"
+      cjid: cond
+    - cjfs:
+      - mande
+      - mandes
+      - mande
+      - mandemos
+      - "mand\xE9is"
+      - manden
+      cjid: psub
+    - cjfs:
+      - mandara
+      - mandaras
+      - mandara
+      - "mand\xE1ramos"
+      - mandarais
+      - mandaran
+      cjid: pisb1
+    - cjfs:
+      - mandase
+      - mandases
+      - mandase
+      - "mand\xE1semos"
+      - mandaseis
+      - mandasen
+      cjid: pisb2
+    - cjfs:
+      - mandare
+      - mandares
+      - mandare
+      - "mand\xE1remos"
+      - mandareis
+      - mandaren
+      cjid: fsub
+    - cjfs:
+      - he mandado
+      - has mandado
+      - ha mandado
+      - hemos mandado
+      - "hab\xE9is mandado"
+      - han mandado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mandado"
+      - "hab\xEDas mandado"
+      - "hab\xEDa mandado"
+      - "hab\xEDamos mandado"
+      - "hab\xEDais mandado"
+      - "hab\xEDan mandado"
+      cjid: ppsi
+    - cjfs:
+      - hube mandado
+      - hubiste mandado
+      - hubo mandado
+      - hubimos mandado
+      - hubisteis mandado
+      - hubieron mandado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mandado"
+      - "habr\xE1s mandado"
+      - "habr\xE1 mandado"
+      - habremos mandado
+      - "habr\xE9is mandado"
+      - "habr\xE1n mandado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mandado"
+      - "habr\xEDas mandado"
+      - "habr\xEDa mandado"
+      - "habr\xEDamos mandado"
+      - "habr\xEDais mandado"
+      - "habr\xEDan mandado"
+      cjid: cpef
+    - cjfs:
+      - haya mandado
+      - hayas mandado
+      - haya mandado
+      - hayamos mandado
+      - "hay\xE1is mandado"
+      - hayan mandado
+      cjid: ppfs
+    - cjfs:
+      - hubiera mandado
+      - hubieras mandado
+      - hubiera mandado
+      - "hubi\xE9ramos mandado"
+      - hubierais mandado
+      - hubieran mandado
+      cjid: ppss1
+    - cjfs:
+      - hubiese mandado
+      - hubieses mandado
+      - hubiese mandado
+      - "hubi\xE9semos mandado"
+      - hubieseis mandado
+      - hubiesen mandado
+      cjid: ppss2
+    - cjfs:
+      - hubiere mandado
+      - hubieres mandado
+      - hubiere mandado
+      - "hubi\xE9remos mandado"
+      - hubiereis mandado
+      - hubieren mandado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - manda
+      - mande
+      - mandemos
+      - mandad
+      - manden
+      cjid: impf

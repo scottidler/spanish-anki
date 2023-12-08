@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to group together'
+  fl: transitive verb
+  hwi:
+    hw: agrupar
+    prs:
+    - sound:
+        audio: agrup02sp
+  meta:
+    id: agrupar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600748000'
+    src: spanish
+    stems:
+    - agrupar
+    uuid: afba816b-fedd-469f-90d2-449a834192d7
+  shortdef:
+  - to group together
+  suppl:
+    cjts:
+    - cjfs:
+      - agrupando
+      - agrupado
+      cjid: gppt
+    - cjfs:
+      - agrupo
+      - agrupas
+      - agrupa
+      - agrupamos
+      - "agrup\xE1is"
+      - agrupan
+      cjid: pind
+    - cjfs:
+      - agrupaba
+      - agrupabas
+      - agrupaba
+      - "agrup\xE1bamos"
+      - agrupabais
+      - agrupaban
+      cjid: pret
+    - cjfs:
+      - "agrup\xE9"
+      - agrupaste
+      - "agrup\xF3"
+      - agrupamos
+      - agrupasteis
+      - agruparon
+      cjid: pprf
+    - cjfs:
+      - "agrupar\xE9"
+      - "agrupar\xE1s"
+      - "agrupar\xE1"
+      - agruparemos
+      - "agrupar\xE9is"
+      - "agrupar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agrupar\xEDa"
+      - "agrupar\xEDas"
+      - "agrupar\xEDa"
+      - "agrupar\xEDamos"
+      - "agrupar\xEDais"
+      - "agrupar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agrupe
+      - agrupes
+      - agrupe
+      - agrupemos
+      - "agrup\xE9is"
+      - agrupen
+      cjid: psub
+    - cjfs:
+      - agrupara
+      - agruparas
+      - agrupara
+      - "agrup\xE1ramos"
+      - agruparais
+      - agruparan
+      cjid: pisb1
+    - cjfs:
+      - agrupase
+      - agrupases
+      - agrupase
+      - "agrup\xE1semos"
+      - agrupaseis
+      - agrupasen
+      cjid: pisb2
+    - cjfs:
+      - agrupare
+      - agrupares
+      - agrupare
+      - "agrup\xE1remos"
+      - agrupareis
+      - agruparen
+      cjid: fsub
+    - cjfs:
+      - he agrupado
+      - has agrupado
+      - ha agrupado
+      - hemos agrupado
+      - "hab\xE9is agrupado"
+      - han agrupado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agrupado"
+      - "hab\xEDas agrupado"
+      - "hab\xEDa agrupado"
+      - "hab\xEDamos agrupado"
+      - "hab\xEDais agrupado"
+      - "hab\xEDan agrupado"
+      cjid: ppsi
+    - cjfs:
+      - hube agrupado
+      - hubiste agrupado
+      - hubo agrupado
+      - hubimos agrupado
+      - hubisteis agrupado
+      - hubieron agrupado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agrupado"
+      - "habr\xE1s agrupado"
+      - "habr\xE1 agrupado"
+      - habremos agrupado
+      - "habr\xE9is agrupado"
+      - "habr\xE1n agrupado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agrupado"
+      - "habr\xEDas agrupado"
+      - "habr\xEDa agrupado"
+      - "habr\xEDamos agrupado"
+      - "habr\xEDais agrupado"
+      - "habr\xEDan agrupado"
+      cjid: cpef
+    - cjfs:
+      - haya agrupado
+      - hayas agrupado
+      - haya agrupado
+      - hayamos agrupado
+      - "hay\xE1is agrupado"
+      - hayan agrupado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agrupado
+      - hubieras agrupado
+      - hubiera agrupado
+      - "hubi\xE9ramos agrupado"
+      - hubierais agrupado
+      - hubieran agrupado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agrupado
+      - hubieses agrupado
+      - hubiese agrupado
+      - "hubi\xE9semos agrupado"
+      - hubieseis agrupado
+      - hubiesen agrupado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agrupado
+      - hubieres agrupado
+      - hubiere agrupado
+      - "hubi\xE9remos agrupado"
+      - hubiereis agrupado
+      - hubieren agrupado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agrupa
+      - agrupe
+      - agrupemos
+      - agrupad
+      - agrupen
+      cjid: impf

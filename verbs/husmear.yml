@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to follow the scent of, to {a_link|track}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sniff out}, to pry into'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pry}, to {a_link|snoop}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sniff around (of an animal)'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: husmear
+  meta:
+    id: husmear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611777000'
+    src: spanish
+    stems:
+    - husmear
+    uuid: b525ea78-f287-4494-be82-d98a6be8de6e
+  shortdef:
+  - to follow the scent of, to track
+  - to sniff out, to pry into
+  - to pry, to snoop
+  suppl:
+    cjts:
+    - cjfs:
+      - husmeando
+      - husmeado
+      cjid: gppt
+    - cjfs:
+      - husmeo
+      - husmeas
+      - husmea
+      - husmeamos
+      - "husme\xE1is"
+      - husmean
+      cjid: pind
+    - cjfs:
+      - husmeaba
+      - husmeabas
+      - husmeaba
+      - "husme\xE1bamos"
+      - husmeabais
+      - husmeaban
+      cjid: pret
+    - cjfs:
+      - "husme\xE9"
+      - husmeaste
+      - "husme\xF3"
+      - husmeamos
+      - husmeasteis
+      - husmearon
+      cjid: pprf
+    - cjfs:
+      - "husmear\xE9"
+      - "husmear\xE1s"
+      - "husmear\xE1"
+      - husmearemos
+      - "husmear\xE9is"
+      - "husmear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "husmear\xEDa"
+      - "husmear\xEDas"
+      - "husmear\xEDa"
+      - "husmear\xEDamos"
+      - "husmear\xEDais"
+      - "husmear\xEDan"
+      cjid: cond
+    - cjfs:
+      - husmee
+      - husmees
+      - husmee
+      - husmeemos
+      - "husme\xE9is"
+      - husmeen
+      cjid: psub
+    - cjfs:
+      - husmeara
+      - husmearas
+      - husmeara
+      - "husme\xE1ramos"
+      - husmearais
+      - husmearan
+      cjid: pisb1
+    - cjfs:
+      - husmease
+      - husmeases
+      - husmease
+      - "husme\xE1semos"
+      - husmeaseis
+      - husmeasen
+      cjid: pisb2
+    - cjfs:
+      - husmeare
+      - husmeares
+      - husmeare
+      - "husme\xE1remos"
+      - husmeareis
+      - husmearen
+      cjid: fsub
+    - cjfs:
+      - he husmeado
+      - has husmeado
+      - ha husmeado
+      - hemos husmeado
+      - "hab\xE9is husmeado"
+      - han husmeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa husmeado"
+      - "hab\xEDas husmeado"
+      - "hab\xEDa husmeado"
+      - "hab\xEDamos husmeado"
+      - "hab\xEDais husmeado"
+      - "hab\xEDan husmeado"
+      cjid: ppsi
+    - cjfs:
+      - hube husmeado
+      - hubiste husmeado
+      - hubo husmeado
+      - hubimos husmeado
+      - hubisteis husmeado
+      - hubieron husmeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 husmeado"
+      - "habr\xE1s husmeado"
+      - "habr\xE1 husmeado"
+      - habremos husmeado
+      - "habr\xE9is husmeado"
+      - "habr\xE1n husmeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa husmeado"
+      - "habr\xEDas husmeado"
+      - "habr\xEDa husmeado"
+      - "habr\xEDamos husmeado"
+      - "habr\xEDais husmeado"
+      - "habr\xEDan husmeado"
+      cjid: cpef
+    - cjfs:
+      - haya husmeado
+      - hayas husmeado
+      - haya husmeado
+      - hayamos husmeado
+      - "hay\xE1is husmeado"
+      - hayan husmeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera husmeado
+      - hubieras husmeado
+      - hubiera husmeado
+      - "hubi\xE9ramos husmeado"
+      - hubierais husmeado
+      - hubieran husmeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese husmeado
+      - hubieses husmeado
+      - hubiese husmeado
+      - "hubi\xE9semos husmeado"
+      - hubieseis husmeado
+      - hubiesen husmeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere husmeado
+      - hubieres husmeado
+      - hubiere husmeado
+      - "hubi\xE9remos husmeado"
+      - hubiereis husmeado
+      - hubieren husmeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - husmea
+      - husmee
+      - husmeemos
+      - husmead
+      - husmeen
+      cjid: impf

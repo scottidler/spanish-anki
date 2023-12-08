@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|propose}, to {a_link|suggest}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|nominate}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|intend}, to {a_link|plan}, to {a_link|set out} '
+            - - vis
+              - - t: lo que se propone lo cumple
+                  tr: he does what he sets out to do
+    drp: proponerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: proponer
+    prs:
+    - sound:
+        audio: propo01sp
+  meta:
+    id: proponer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618297000'
+    src: spanish
+    stems:
+    - proponer
+    - proponerse
+    uuid: 92a4fa46-b4d4-4229-9f8c-c943e4bb9df9
+  shortdef:
+  - to propose, to suggest
+  - to nominate
+  suppl:
+    cjts:
+    - cjfs:
+      - proponiendo
+      - propuesto
+      cjid: gppt
+    - cjfs:
+      - propongo
+      - propones
+      - propone
+      - proponemos
+      - "propon\xE9is"
+      - proponen
+      cjid: pind
+    - cjfs:
+      - "propon\xEDa"
+      - "propon\xEDas"
+      - "propon\xEDa"
+      - "propon\xEDamos"
+      - "propon\xEDais"
+      - "propon\xEDan"
+      cjid: pret
+    - cjfs:
+      - propuse
+      - propusiste
+      - propuso
+      - propusimos
+      - propusisteis
+      - propusieron
+      cjid: pprf
+    - cjfs:
+      - "propondr\xE9"
+      - "propondr\xE1s"
+      - "propondr\xE1"
+      - propondremos
+      - "propondr\xE9is"
+      - "propondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "propondr\xEDa"
+      - "propondr\xEDas"
+      - "propondr\xEDa"
+      - "propondr\xEDamos"
+      - "propondr\xEDais"
+      - "propondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - proponga
+      - propongas
+      - proponga
+      - propongamos
+      - "propong\xE1is"
+      - propongan
+      cjid: psub
+    - cjfs:
+      - propusiera
+      - propusieras
+      - propusiera
+      - "propusi\xE9ramos"
+      - propusierais
+      - propusieran
+      cjid: pisb1
+    - cjfs:
+      - propusiese
+      - propusieses
+      - propusiese
+      - "propusi\xE9semos"
+      - propusieseis
+      - propusiesen
+      cjid: pisb2
+    - cjfs:
+      - propusiere
+      - propusieres
+      - propusiere
+      - "propusi\xE9remos"
+      - propusiereis
+      - propusieren
+      cjid: fsub
+    - cjfs:
+      - he propuesto
+      - has propuesto
+      - ha propuesto
+      - hemos propuesto
+      - "hab\xE9is propuesto"
+      - han propuesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa propuesto"
+      - "hab\xEDas propuesto"
+      - "hab\xEDa propuesto"
+      - "hab\xEDamos propuesto"
+      - "hab\xEDais propuesto"
+      - "hab\xEDan propuesto"
+      cjid: ppsi
+    - cjfs:
+      - hube propuesto
+      - hubiste propuesto
+      - hubo propuesto
+      - hubimos propuesto
+      - hubisteis propuesto
+      - hubieron propuesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 propuesto"
+      - "habr\xE1s propuesto"
+      - "habr\xE1 propuesto"
+      - habremos propuesto
+      - "habr\xE9is propuesto"
+      - "habr\xE1n propuesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa propuesto"
+      - "habr\xEDas propuesto"
+      - "habr\xEDa propuesto"
+      - "habr\xEDamos propuesto"
+      - "habr\xEDais propuesto"
+      - "habr\xEDan propuesto"
+      cjid: cpef
+    - cjfs:
+      - haya propuesto
+      - hayas propuesto
+      - haya propuesto
+      - hayamos propuesto
+      - "hay\xE1is propuesto"
+      - hayan propuesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera propuesto
+      - hubieras propuesto
+      - hubiera propuesto
+      - "hubi\xE9ramos propuesto"
+      - hubierais propuesto
+      - hubieran propuesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese propuesto
+      - hubieses propuesto
+      - hubiese propuesto
+      - "hubi\xE9semos propuesto"
+      - hubieseis propuesto
+      - hubiesen propuesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere propuesto
+      - hubieres propuesto
+      - hubiere propuesto
+      - "hubi\xE9remos propuesto"
+      - hubiereis propuesto
+      - hubieren propuesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "prop\xF3n"
+      - proponga
+      - propongamos
+      - proponed
+      - propongan
+      cjid: impf

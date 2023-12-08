@@ -1,0 +1,185 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|belong} '
+          - - vis
+            - - t: pertenecer a
+                tr: to belong to
+  fl: intransitive verb
+  hwi:
+    hw: pertenecer
+    prs:
+    - sound:
+        audio: perte01sp
+  meta:
+    id: pertenecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617211000'
+    src: spanish
+    stems:
+    - pertenecer
+    uuid: b0ac8322-6386-4084-a82b-654864090298
+  shortdef:
+  - to belong
+  suppl:
+    cjts:
+    - cjfs:
+      - perteneciendo
+      - pertenecido
+      cjid: gppt
+    - cjfs:
+      - pertenezco
+      - perteneces
+      - pertenece
+      - pertenecemos
+      - "pertenec\xE9is"
+      - pertenecen
+      cjid: pind
+    - cjfs:
+      - "pertenec\xEDa"
+      - "pertenec\xEDas"
+      - "pertenec\xEDa"
+      - "pertenec\xEDamos"
+      - "pertenec\xEDais"
+      - "pertenec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "pertenec\xED"
+      - perteneciste
+      - "perteneci\xF3"
+      - pertenecimos
+      - pertenecisteis
+      - pertenecieron
+      cjid: pprf
+    - cjfs:
+      - "pertenecer\xE9"
+      - "pertenecer\xE1s"
+      - "pertenecer\xE1"
+      - perteneceremos
+      - "pertenecer\xE9is"
+      - "pertenecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pertenecer\xEDa"
+      - "pertenecer\xEDas"
+      - "pertenecer\xEDa"
+      - "pertenecer\xEDamos"
+      - "pertenecer\xEDais"
+      - "pertenecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - pertenezca
+      - pertenezcas
+      - pertenezca
+      - pertenezcamos
+      - "pertenezc\xE1is"
+      - pertenezcan
+      cjid: psub
+    - cjfs:
+      - perteneciera
+      - pertenecieras
+      - perteneciera
+      - "perteneci\xE9ramos"
+      - pertenecierais
+      - pertenecieran
+      cjid: pisb1
+    - cjfs:
+      - perteneciese
+      - pertenecieses
+      - perteneciese
+      - "perteneci\xE9semos"
+      - pertenecieseis
+      - perteneciesen
+      cjid: pisb2
+    - cjfs:
+      - perteneciere
+      - pertenecieres
+      - perteneciere
+      - "perteneci\xE9remos"
+      - perteneciereis
+      - pertenecieren
+      cjid: fsub
+    - cjfs:
+      - he pertenecido
+      - has pertenecido
+      - ha pertenecido
+      - hemos pertenecido
+      - "hab\xE9is pertenecido"
+      - han pertenecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pertenecido"
+      - "hab\xEDas pertenecido"
+      - "hab\xEDa pertenecido"
+      - "hab\xEDamos pertenecido"
+      - "hab\xEDais pertenecido"
+      - "hab\xEDan pertenecido"
+      cjid: ppsi
+    - cjfs:
+      - hube pertenecido
+      - hubiste pertenecido
+      - hubo pertenecido
+      - hubimos pertenecido
+      - hubisteis pertenecido
+      - hubieron pertenecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pertenecido"
+      - "habr\xE1s pertenecido"
+      - "habr\xE1 pertenecido"
+      - habremos pertenecido
+      - "habr\xE9is pertenecido"
+      - "habr\xE1n pertenecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pertenecido"
+      - "habr\xEDas pertenecido"
+      - "habr\xEDa pertenecido"
+      - "habr\xEDamos pertenecido"
+      - "habr\xEDais pertenecido"
+      - "habr\xEDan pertenecido"
+      cjid: cpef
+    - cjfs:
+      - haya pertenecido
+      - hayas pertenecido
+      - haya pertenecido
+      - hayamos pertenecido
+      - "hay\xE1is pertenecido"
+      - hayan pertenecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera pertenecido
+      - hubieras pertenecido
+      - hubiera pertenecido
+      - "hubi\xE9ramos pertenecido"
+      - hubierais pertenecido
+      - hubieran pertenecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese pertenecido
+      - hubieses pertenecido
+      - hubiese pertenecido
+      - "hubi\xE9semos pertenecido"
+      - hubieseis pertenecido
+      - hubiesen pertenecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere pertenecido
+      - hubieres pertenecido
+      - hubiere pertenecido
+      - "hubi\xE9remos pertenecido"
+      - hubiereis pertenecido
+      - hubieren pertenecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pertenece
+      - pertenezca
+      - pertenezcamos
+      - perteneced
+      - pertenezcan
+      cjid: impf

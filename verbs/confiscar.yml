@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|decomisar||} {bc}to {a_link|confiscate}, to {a_link|seize}'
+  fl: transitive verb
+  hwi:
+    hw: confiscar
+  meta:
+    id: confiscar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605467000'
+    src: spanish
+    stems:
+    - confiscar
+    uuid: b440fd04-efcd-4176-b1b4-4c84ffbd5993
+  shortdef:
+  - 'decomisar : to confiscate, to seize'
+  suppl:
+    cjts:
+    - cjfs:
+      - confiscando
+      - confiscado
+      cjid: gppt
+    - cjfs:
+      - confisco
+      - confiscas
+      - confisca
+      - confiscamos
+      - "confisc\xE1is"
+      - confiscan
+      cjid: pind
+    - cjfs:
+      - confiscaba
+      - confiscabas
+      - confiscaba
+      - "confisc\xE1bamos"
+      - confiscabais
+      - confiscaban
+      cjid: pret
+    - cjfs:
+      - "confisqu\xE9"
+      - confiscaste
+      - "confisc\xF3"
+      - confiscamos
+      - confiscasteis
+      - confiscaron
+      cjid: pprf
+    - cjfs:
+      - "confiscar\xE9"
+      - "confiscar\xE1s"
+      - "confiscar\xE1"
+      - confiscaremos
+      - "confiscar\xE9is"
+      - "confiscar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "confiscar\xEDa"
+      - "confiscar\xEDas"
+      - "confiscar\xEDa"
+      - "confiscar\xEDamos"
+      - "confiscar\xEDais"
+      - "confiscar\xEDan"
+      cjid: cond
+    - cjfs:
+      - confisque
+      - confisques
+      - confisque
+      - confisquemos
+      - "confisqu\xE9is"
+      - confisquen
+      cjid: psub
+    - cjfs:
+      - confiscara
+      - confiscaras
+      - confiscara
+      - "confisc\xE1ramos"
+      - confiscarais
+      - confiscaran
+      cjid: pisb1
+    - cjfs:
+      - confiscase
+      - confiscases
+      - confiscase
+      - "confisc\xE1semos"
+      - confiscaseis
+      - confiscasen
+      cjid: pisb2
+    - cjfs:
+      - confiscare
+      - confiscares
+      - confiscare
+      - "confisc\xE1remos"
+      - confiscareis
+      - confiscaren
+      cjid: fsub
+    - cjfs:
+      - he confiscado
+      - has confiscado
+      - ha confiscado
+      - hemos confiscado
+      - "hab\xE9is confiscado"
+      - han confiscado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa confiscado"
+      - "hab\xEDas confiscado"
+      - "hab\xEDa confiscado"
+      - "hab\xEDamos confiscado"
+      - "hab\xEDais confiscado"
+      - "hab\xEDan confiscado"
+      cjid: ppsi
+    - cjfs:
+      - hube confiscado
+      - hubiste confiscado
+      - hubo confiscado
+      - hubimos confiscado
+      - hubisteis confiscado
+      - hubieron confiscado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 confiscado"
+      - "habr\xE1s confiscado"
+      - "habr\xE1 confiscado"
+      - habremos confiscado
+      - "habr\xE9is confiscado"
+      - "habr\xE1n confiscado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa confiscado"
+      - "habr\xEDas confiscado"
+      - "habr\xEDa confiscado"
+      - "habr\xEDamos confiscado"
+      - "habr\xEDais confiscado"
+      - "habr\xEDan confiscado"
+      cjid: cpef
+    - cjfs:
+      - haya confiscado
+      - hayas confiscado
+      - haya confiscado
+      - hayamos confiscado
+      - "hay\xE1is confiscado"
+      - hayan confiscado
+      cjid: ppfs
+    - cjfs:
+      - hubiera confiscado
+      - hubieras confiscado
+      - hubiera confiscado
+      - "hubi\xE9ramos confiscado"
+      - hubierais confiscado
+      - hubieran confiscado
+      cjid: ppss1
+    - cjfs:
+      - hubiese confiscado
+      - hubieses confiscado
+      - hubiese confiscado
+      - "hubi\xE9semos confiscado"
+      - hubieseis confiscado
+      - hubiesen confiscado
+      cjid: ppss2
+    - cjfs:
+      - hubiere confiscado
+      - hubieres confiscado
+      - hubiere confiscado
+      - "hubi\xE9remos confiscado"
+      - hubiereis confiscado
+      - hubieren confiscado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - confisca
+      - confisque
+      - confisquemos
+      - confiscad
+      - confisquen
+      cjid: impf

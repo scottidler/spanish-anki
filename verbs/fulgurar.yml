@@ -1,0 +1,178 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to shine brightly, to {a_link|gleam}, to {a_link|glow}'
+  fl: intransitive verb
+  hwi:
+    hw: fulgurar
+  meta:
+    id: fulgurar
+    lang: es
+    offensive: false
+    section: alpha
+    src: spanish
+    stems:
+    - fulgurar
+    uuid: a3d57c51-febd-4f89-b4de-281676328504
+  shortdef:
+  - to shine brightly, to gleam, to glow
+  suppl:
+    cjts:
+    - cjfs:
+      - fulgurando
+      - fulgurado
+      cjid: gppt
+    - cjfs:
+      - fulguro
+      - fulguras
+      - fulgura
+      - fulguramos
+      - "fulgur\xE1is"
+      - fulguran
+      cjid: pind
+    - cjfs:
+      - fulguraba
+      - fulgurabas
+      - fulguraba
+      - "fulgur\xE1bamos"
+      - fulgurabais
+      - fulguraban
+      cjid: pret
+    - cjfs:
+      - "fulgur\xE9"
+      - fulguraste
+      - "fulgur\xF3"
+      - fulguramos
+      - fulgurasteis
+      - fulguraron
+      cjid: pprf
+    - cjfs:
+      - "fulgurar\xE9"
+      - "fulgurar\xE1s"
+      - "fulgurar\xE1"
+      - fulguraremos
+      - "fulgurar\xE9is"
+      - "fulgurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fulgurar\xEDa"
+      - "fulgurar\xEDas"
+      - "fulgurar\xEDa"
+      - "fulgurar\xEDamos"
+      - "fulgurar\xEDais"
+      - "fulgurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - fulgure
+      - fulgures
+      - fulgure
+      - fulguremos
+      - "fulgur\xE9is"
+      - fulguren
+      cjid: psub
+    - cjfs:
+      - fulgurara
+      - fulguraras
+      - fulgurara
+      - "fulgur\xE1ramos"
+      - fulgurarais
+      - fulguraran
+      cjid: pisb1
+    - cjfs:
+      - fulgurase
+      - fulgurases
+      - fulgurase
+      - "fulgur\xE1semos"
+      - fulguraseis
+      - fulgurasen
+      cjid: pisb2
+    - cjfs:
+      - fulgurare
+      - fulgurares
+      - fulgurare
+      - "fulgur\xE1remos"
+      - fulgurareis
+      - fulguraren
+      cjid: fsub
+    - cjfs:
+      - he fulgurado
+      - has fulgurado
+      - ha fulgurado
+      - hemos fulgurado
+      - "hab\xE9is fulgurado"
+      - han fulgurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fulgurado"
+      - "hab\xEDas fulgurado"
+      - "hab\xEDa fulgurado"
+      - "hab\xEDamos fulgurado"
+      - "hab\xEDais fulgurado"
+      - "hab\xEDan fulgurado"
+      cjid: ppsi
+    - cjfs:
+      - hube fulgurado
+      - hubiste fulgurado
+      - hubo fulgurado
+      - hubimos fulgurado
+      - hubisteis fulgurado
+      - hubieron fulgurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fulgurado"
+      - "habr\xE1s fulgurado"
+      - "habr\xE1 fulgurado"
+      - habremos fulgurado
+      - "habr\xE9is fulgurado"
+      - "habr\xE1n fulgurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fulgurado"
+      - "habr\xEDas fulgurado"
+      - "habr\xEDa fulgurado"
+      - "habr\xEDamos fulgurado"
+      - "habr\xEDais fulgurado"
+      - "habr\xEDan fulgurado"
+      cjid: cpef
+    - cjfs:
+      - haya fulgurado
+      - hayas fulgurado
+      - haya fulgurado
+      - hayamos fulgurado
+      - "hay\xE1is fulgurado"
+      - hayan fulgurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fulgurado
+      - hubieras fulgurado
+      - hubiera fulgurado
+      - "hubi\xE9ramos fulgurado"
+      - hubierais fulgurado
+      - hubieran fulgurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fulgurado
+      - hubieses fulgurado
+      - hubiese fulgurado
+      - "hubi\xE9semos fulgurado"
+      - hubieseis fulgurado
+      - hubiesen fulgurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fulgurado
+      - hubieres fulgurado
+      - hubiere fulgurado
+      - "hubi\xE9remos fulgurado"
+      - hubiereis fulgurado
+      - hubieren fulgurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fulgura
+      - fulgure
+      - fulguremos
+      - fulgurad
+      - fulguren
+      cjid: impf

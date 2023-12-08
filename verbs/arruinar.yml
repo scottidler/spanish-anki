@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ruin}, to {a_link|wreck}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be ruined'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to fall into ruin, to go bankrupt'
+            sn: '2'
+    drp: arruinarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arruinar
+    prs:
+    - sound:
+        audio: arrui01sp
+  meta:
+    id: arruinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602047000'
+    src: spanish
+    stems:
+    - arruinar
+    - arruinarse
+    uuid: 31a83042-24f7-4a47-bb55-07a0ca298dc8
+  shortdef:
+  - to ruin, to wreck
+  suppl:
+    cjts:
+    - cjfs:
+      - arruinando
+      - arruinado
+      cjid: gppt
+    - cjfs:
+      - arruino
+      - arruinas
+      - arruina
+      - arruinamos
+      - "arruin\xE1is"
+      - arruinan
+      cjid: pind
+    - cjfs:
+      - arruinaba
+      - arruinabas
+      - arruinaba
+      - "arruin\xE1bamos"
+      - arruinabais
+      - arruinaban
+      cjid: pret
+    - cjfs:
+      - "arruin\xE9"
+      - arruinaste
+      - "arruin\xF3"
+      - arruinamos
+      - arruinasteis
+      - arruinaron
+      cjid: pprf
+    - cjfs:
+      - "arruinar\xE9"
+      - "arruinar\xE1s"
+      - "arruinar\xE1"
+      - arruinaremos
+      - "arruinar\xE9is"
+      - "arruinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arruinar\xEDa"
+      - "arruinar\xEDas"
+      - "arruinar\xEDa"
+      - "arruinar\xEDamos"
+      - "arruinar\xEDais"
+      - "arruinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arruine
+      - arruines
+      - arruine
+      - arruinemos
+      - "arruin\xE9is"
+      - arruinen
+      cjid: psub
+    - cjfs:
+      - arruinara
+      - arruinaras
+      - arruinara
+      - "arruin\xE1ramos"
+      - arruinarais
+      - arruinaran
+      cjid: pisb1
+    - cjfs:
+      - arruinase
+      - arruinases
+      - arruinase
+      - "arruin\xE1semos"
+      - arruinaseis
+      - arruinasen
+      cjid: pisb2
+    - cjfs:
+      - arruinare
+      - arruinares
+      - arruinare
+      - "arruin\xE1remos"
+      - arruinareis
+      - arruinaren
+      cjid: fsub
+    - cjfs:
+      - he arruinado
+      - has arruinado
+      - ha arruinado
+      - hemos arruinado
+      - "hab\xE9is arruinado"
+      - han arruinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arruinado"
+      - "hab\xEDas arruinado"
+      - "hab\xEDa arruinado"
+      - "hab\xEDamos arruinado"
+      - "hab\xEDais arruinado"
+      - "hab\xEDan arruinado"
+      cjid: ppsi
+    - cjfs:
+      - hube arruinado
+      - hubiste arruinado
+      - hubo arruinado
+      - hubimos arruinado
+      - hubisteis arruinado
+      - hubieron arruinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arruinado"
+      - "habr\xE1s arruinado"
+      - "habr\xE1 arruinado"
+      - habremos arruinado
+      - "habr\xE9is arruinado"
+      - "habr\xE1n arruinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arruinado"
+      - "habr\xEDas arruinado"
+      - "habr\xEDa arruinado"
+      - "habr\xEDamos arruinado"
+      - "habr\xEDais arruinado"
+      - "habr\xEDan arruinado"
+      cjid: cpef
+    - cjfs:
+      - haya arruinado
+      - hayas arruinado
+      - haya arruinado
+      - hayamos arruinado
+      - "hay\xE1is arruinado"
+      - hayan arruinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arruinado
+      - hubieras arruinado
+      - hubiera arruinado
+      - "hubi\xE9ramos arruinado"
+      - hubierais arruinado
+      - hubieran arruinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arruinado
+      - hubieses arruinado
+      - hubiese arruinado
+      - "hubi\xE9semos arruinado"
+      - hubieseis arruinado
+      - hubiesen arruinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arruinado
+      - hubieres arruinado
+      - hubiere arruinado
+      - "hubi\xE9remos arruinado"
+      - hubiereis arruinado
+      - hubieren arruinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arruina
+      - arruine
+      - arruinemos
+      - arruinad
+      - arruinen
+      cjid: impf

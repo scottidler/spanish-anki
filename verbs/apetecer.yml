@@ -1,0 +1,204 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crave}, to {a_link|long for} '
+          - - vis
+            - - t: "apeteci\xF3 la fama"
+                tr: he longed for fame
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|appeal to} '
+          - - vis
+            - - t: me apetece un bistec
+                tr: I feel like having a steak
+              - t: "\xBFcu\xE1ndo te apetece ir?"
+                tr: when do you want to go?
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be appealing'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: apetecer
+    prs:
+    - sound:
+        audio: apete01sp
+  meta:
+    id: apetecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601700000'
+    src: spanish
+    stems:
+    - apetecer
+    uuid: d4f34c23-c6f0-486d-9caf-de671b516d78
+  shortdef:
+  - to crave, to long for
+  - to appeal to
+  - to be appealing
+  suppl:
+    cjts:
+    - cjfs:
+      - apeteciendo
+      - apetecido
+      cjid: gppt
+    - cjfs:
+      - apetezco
+      - apeteces
+      - apetece
+      - apetecemos
+      - "apetec\xE9is"
+      - apetecen
+      cjid: pind
+    - cjfs:
+      - "apetec\xEDa"
+      - "apetec\xEDas"
+      - "apetec\xEDa"
+      - "apetec\xEDamos"
+      - "apetec\xEDais"
+      - "apetec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "apetec\xED"
+      - apeteciste
+      - "apeteci\xF3"
+      - apetecimos
+      - apetecisteis
+      - apetecieron
+      cjid: pprf
+    - cjfs:
+      - "apetecer\xE9"
+      - "apetecer\xE1s"
+      - "apetecer\xE1"
+      - apeteceremos
+      - "apetecer\xE9is"
+      - "apetecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apetecer\xEDa"
+      - "apetecer\xEDas"
+      - "apetecer\xEDa"
+      - "apetecer\xEDamos"
+      - "apetecer\xEDais"
+      - "apetecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - apetezca
+      - apetezcas
+      - apetezca
+      - apetezcamos
+      - "apetezc\xE1is"
+      - apetezcan
+      cjid: psub
+    - cjfs:
+      - apeteciera
+      - apetecieras
+      - apeteciera
+      - "apeteci\xE9ramos"
+      - apetecierais
+      - apetecieran
+      cjid: pisb1
+    - cjfs:
+      - apeteciese
+      - apetecieses
+      - apeteciese
+      - "apeteci\xE9semos"
+      - apetecieseis
+      - apeteciesen
+      cjid: pisb2
+    - cjfs:
+      - apeteciere
+      - apetecieres
+      - apeteciere
+      - "apeteci\xE9remos"
+      - apeteciereis
+      - apetecieren
+      cjid: fsub
+    - cjfs:
+      - he apetecido
+      - has apetecido
+      - ha apetecido
+      - hemos apetecido
+      - "hab\xE9is apetecido"
+      - han apetecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apetecido"
+      - "hab\xEDas apetecido"
+      - "hab\xEDa apetecido"
+      - "hab\xEDamos apetecido"
+      - "hab\xEDais apetecido"
+      - "hab\xEDan apetecido"
+      cjid: ppsi
+    - cjfs:
+      - hube apetecido
+      - hubiste apetecido
+      - hubo apetecido
+      - hubimos apetecido
+      - hubisteis apetecido
+      - hubieron apetecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apetecido"
+      - "habr\xE1s apetecido"
+      - "habr\xE1 apetecido"
+      - habremos apetecido
+      - "habr\xE9is apetecido"
+      - "habr\xE1n apetecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apetecido"
+      - "habr\xEDas apetecido"
+      - "habr\xEDa apetecido"
+      - "habr\xEDamos apetecido"
+      - "habr\xEDais apetecido"
+      - "habr\xEDan apetecido"
+      cjid: cpef
+    - cjfs:
+      - haya apetecido
+      - hayas apetecido
+      - haya apetecido
+      - hayamos apetecido
+      - "hay\xE1is apetecido"
+      - hayan apetecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera apetecido
+      - hubieras apetecido
+      - hubiera apetecido
+      - "hubi\xE9ramos apetecido"
+      - hubierais apetecido
+      - hubieran apetecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese apetecido
+      - hubieses apetecido
+      - hubiese apetecido
+      - "hubi\xE9semos apetecido"
+      - hubieseis apetecido
+      - hubiesen apetecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere apetecido
+      - hubieres apetecido
+      - hubiere apetecido
+      - "hubi\xE9remos apetecido"
+      - hubiereis apetecido
+      - hubieren apetecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apetece
+      - apetezca
+      - apetezcamos
+      - apeteced
+      - apetezcan
+      cjid: impf

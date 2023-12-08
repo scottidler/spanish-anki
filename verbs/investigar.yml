@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|indagar||} {bc}to {a_link|investigate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|research}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to do research into'
+          vrs:
+          - va: investigar sobre
+            vac: ~ sobre
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: investigar
+    prs:
+    - sound:
+        audio: inves02sp
+  meta:
+    id: investigar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613004000'
+    src: spanish
+    stems:
+    - investigar
+    - investigar sobre
+    uuid: caf9b434-6801-4465-af62-72a90d0ad8d4
+  shortdef:
+  - 'indagar : to investigate'
+  - to research
+  - to do research into
+  suppl:
+    cjts:
+    - cjfs:
+      - investigando
+      - investigado
+      cjid: gppt
+    - cjfs:
+      - investigo
+      - investigas
+      - investiga
+      - investigamos
+      - "investig\xE1is"
+      - investigan
+      cjid: pind
+    - cjfs:
+      - investigaba
+      - investigabas
+      - investigaba
+      - "investig\xE1bamos"
+      - investigabais
+      - investigaban
+      cjid: pret
+    - cjfs:
+      - "investigu\xE9"
+      - investigaste
+      - "investig\xF3"
+      - investigamos
+      - investigasteis
+      - investigaron
+      cjid: pprf
+    - cjfs:
+      - "investigar\xE9"
+      - "investigar\xE1s"
+      - "investigar\xE1"
+      - investigaremos
+      - "investigar\xE9is"
+      - "investigar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "investigar\xEDa"
+      - "investigar\xEDas"
+      - "investigar\xEDa"
+      - "investigar\xEDamos"
+      - "investigar\xEDais"
+      - "investigar\xEDan"
+      cjid: cond
+    - cjfs:
+      - investigue
+      - investigues
+      - investigue
+      - investiguemos
+      - "investigu\xE9is"
+      - investiguen
+      cjid: psub
+    - cjfs:
+      - investigara
+      - investigaras
+      - investigara
+      - "investig\xE1ramos"
+      - investigarais
+      - investigaran
+      cjid: pisb1
+    - cjfs:
+      - investigase
+      - investigases
+      - investigase
+      - "investig\xE1semos"
+      - investigaseis
+      - investigasen
+      cjid: pisb2
+    - cjfs:
+      - investigare
+      - investigares
+      - investigare
+      - "investig\xE1remos"
+      - investigareis
+      - investigaren
+      cjid: fsub
+    - cjfs:
+      - he investigado
+      - has investigado
+      - ha investigado
+      - hemos investigado
+      - "hab\xE9is investigado"
+      - han investigado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa investigado"
+      - "hab\xEDas investigado"
+      - "hab\xEDa investigado"
+      - "hab\xEDamos investigado"
+      - "hab\xEDais investigado"
+      - "hab\xEDan investigado"
+      cjid: ppsi
+    - cjfs:
+      - hube investigado
+      - hubiste investigado
+      - hubo investigado
+      - hubimos investigado
+      - hubisteis investigado
+      - hubieron investigado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 investigado"
+      - "habr\xE1s investigado"
+      - "habr\xE1 investigado"
+      - habremos investigado
+      - "habr\xE9is investigado"
+      - "habr\xE1n investigado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa investigado"
+      - "habr\xEDas investigado"
+      - "habr\xEDa investigado"
+      - "habr\xEDamos investigado"
+      - "habr\xEDais investigado"
+      - "habr\xEDan investigado"
+      cjid: cpef
+    - cjfs:
+      - haya investigado
+      - hayas investigado
+      - haya investigado
+      - hayamos investigado
+      - "hay\xE1is investigado"
+      - hayan investigado
+      cjid: ppfs
+    - cjfs:
+      - hubiera investigado
+      - hubieras investigado
+      - hubiera investigado
+      - "hubi\xE9ramos investigado"
+      - hubierais investigado
+      - hubieran investigado
+      cjid: ppss1
+    - cjfs:
+      - hubiese investigado
+      - hubieses investigado
+      - hubiese investigado
+      - "hubi\xE9semos investigado"
+      - hubieseis investigado
+      - hubiesen investigado
+      cjid: ppss2
+    - cjfs:
+      - hubiere investigado
+      - hubieres investigado
+      - hubiere investigado
+      - "hubi\xE9remos investigado"
+      - hubiereis investigado
+      - hubieren investigado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - investiga
+      - investigue
+      - investiguemos
+      - investigad
+      - investiguen
+      cjid: impf

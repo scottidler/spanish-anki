@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|state}, to {a_link|affirm}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reforzar||} {bc}to make firm, to {a_link|strengthen}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: afirmar
+    prs:
+    - sound:
+        audio: afirm01sp
+  meta:
+    id: afirmar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600638000'
+    src: spanish
+    stems:
+    - afirmar
+    uuid: 96d7ac7c-29c1-49a3-85f3-c6bdce4ba3d9
+  shortdef:
+  - to state, to affirm
+  - 'reforzar : to make firm, to strengthen'
+  suppl:
+    cjts:
+    - cjfs:
+      - afirmando
+      - afirmado
+      cjid: gppt
+    - cjfs:
+      - afirmo
+      - afirmas
+      - afirma
+      - afirmamos
+      - "afirm\xE1is"
+      - afirman
+      cjid: pind
+    - cjfs:
+      - afirmaba
+      - afirmabas
+      - afirmaba
+      - "afirm\xE1bamos"
+      - afirmabais
+      - afirmaban
+      cjid: pret
+    - cjfs:
+      - "afirm\xE9"
+      - afirmaste
+      - "afirm\xF3"
+      - afirmamos
+      - afirmasteis
+      - afirmaron
+      cjid: pprf
+    - cjfs:
+      - "afirmar\xE9"
+      - "afirmar\xE1s"
+      - "afirmar\xE1"
+      - afirmaremos
+      - "afirmar\xE9is"
+      - "afirmar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "afirmar\xEDa"
+      - "afirmar\xEDas"
+      - "afirmar\xEDa"
+      - "afirmar\xEDamos"
+      - "afirmar\xEDais"
+      - "afirmar\xEDan"
+      cjid: cond
+    - cjfs:
+      - afirme
+      - afirmes
+      - afirme
+      - afirmemos
+      - "afirm\xE9is"
+      - afirmen
+      cjid: psub
+    - cjfs:
+      - afirmara
+      - afirmaras
+      - afirmara
+      - "afirm\xE1ramos"
+      - afirmarais
+      - afirmaran
+      cjid: pisb1
+    - cjfs:
+      - afirmase
+      - afirmases
+      - afirmase
+      - "afirm\xE1semos"
+      - afirmaseis
+      - afirmasen
+      cjid: pisb2
+    - cjfs:
+      - afirmare
+      - afirmares
+      - afirmare
+      - "afirm\xE1remos"
+      - afirmareis
+      - afirmaren
+      cjid: fsub
+    - cjfs:
+      - he afirmado
+      - has afirmado
+      - ha afirmado
+      - hemos afirmado
+      - "hab\xE9is afirmado"
+      - han afirmado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa afirmado"
+      - "hab\xEDas afirmado"
+      - "hab\xEDa afirmado"
+      - "hab\xEDamos afirmado"
+      - "hab\xEDais afirmado"
+      - "hab\xEDan afirmado"
+      cjid: ppsi
+    - cjfs:
+      - hube afirmado
+      - hubiste afirmado
+      - hubo afirmado
+      - hubimos afirmado
+      - hubisteis afirmado
+      - hubieron afirmado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 afirmado"
+      - "habr\xE1s afirmado"
+      - "habr\xE1 afirmado"
+      - habremos afirmado
+      - "habr\xE9is afirmado"
+      - "habr\xE1n afirmado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa afirmado"
+      - "habr\xEDas afirmado"
+      - "habr\xEDa afirmado"
+      - "habr\xEDamos afirmado"
+      - "habr\xEDais afirmado"
+      - "habr\xEDan afirmado"
+      cjid: cpef
+    - cjfs:
+      - haya afirmado
+      - hayas afirmado
+      - haya afirmado
+      - hayamos afirmado
+      - "hay\xE1is afirmado"
+      - hayan afirmado
+      cjid: ppfs
+    - cjfs:
+      - hubiera afirmado
+      - hubieras afirmado
+      - hubiera afirmado
+      - "hubi\xE9ramos afirmado"
+      - hubierais afirmado
+      - hubieran afirmado
+      cjid: ppss1
+    - cjfs:
+      - hubiese afirmado
+      - hubieses afirmado
+      - hubiese afirmado
+      - "hubi\xE9semos afirmado"
+      - hubieseis afirmado
+      - hubiesen afirmado
+      cjid: ppss2
+    - cjfs:
+      - hubiere afirmado
+      - hubieres afirmado
+      - hubiere afirmado
+      - "hubi\xE9remos afirmado"
+      - hubiereis afirmado
+      - hubieren afirmado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - afirma
+      - afirme
+      - afirmemos
+      - afirmad
+      - afirmen
+      cjid: impf

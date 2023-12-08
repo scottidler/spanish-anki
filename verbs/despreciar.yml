@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|desde\xF1ar||}, {sx|menospreciar||} {bc}to {a_link|despise}, to\
+              \ {a_link|scorn}, to {a_link|disdain}"
+  fl: transitive verb
+  hwi:
+    hw: despreciar
+    prs:
+    - sound:
+        audio: despr02sp
+  meta:
+    id: despreciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607304000'
+    src: spanish
+    stems:
+    - despreciar
+    uuid: 5024968d-091c-47ca-be56-9ab147543a1d
+  shortdef:
+  - "desde\xF1ar, menospreciar : to despise, to scorn, to disdain"
+  suppl:
+    cjts:
+    - cjfs:
+      - despreciando
+      - despreciado
+      cjid: gppt
+    - cjfs:
+      - desprecio
+      - desprecias
+      - desprecia
+      - despreciamos
+      - "despreci\xE1is"
+      - desprecian
+      cjid: pind
+    - cjfs:
+      - despreciaba
+      - despreciabas
+      - despreciaba
+      - "despreci\xE1bamos"
+      - despreciabais
+      - despreciaban
+      cjid: pret
+    - cjfs:
+      - "despreci\xE9"
+      - despreciaste
+      - "despreci\xF3"
+      - despreciamos
+      - despreciasteis
+      - despreciaron
+      cjid: pprf
+    - cjfs:
+      - "despreciar\xE9"
+      - "despreciar\xE1s"
+      - "despreciar\xE1"
+      - despreciaremos
+      - "despreciar\xE9is"
+      - "despreciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "despreciar\xEDa"
+      - "despreciar\xEDas"
+      - "despreciar\xEDa"
+      - "despreciar\xEDamos"
+      - "despreciar\xEDais"
+      - "despreciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desprecie
+      - desprecies
+      - desprecie
+      - despreciemos
+      - "despreci\xE9is"
+      - desprecien
+      cjid: psub
+    - cjfs:
+      - despreciara
+      - despreciaras
+      - despreciara
+      - "despreci\xE1ramos"
+      - despreciarais
+      - despreciaran
+      cjid: pisb1
+    - cjfs:
+      - despreciase
+      - despreciases
+      - despreciase
+      - "despreci\xE1semos"
+      - despreciaseis
+      - despreciasen
+      cjid: pisb2
+    - cjfs:
+      - despreciare
+      - despreciares
+      - despreciare
+      - "despreci\xE1remos"
+      - despreciareis
+      - despreciaren
+      cjid: fsub
+    - cjfs:
+      - he despreciado
+      - has despreciado
+      - ha despreciado
+      - hemos despreciado
+      - "hab\xE9is despreciado"
+      - han despreciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa despreciado"
+      - "hab\xEDas despreciado"
+      - "hab\xEDa despreciado"
+      - "hab\xEDamos despreciado"
+      - "hab\xEDais despreciado"
+      - "hab\xEDan despreciado"
+      cjid: ppsi
+    - cjfs:
+      - hube despreciado
+      - hubiste despreciado
+      - hubo despreciado
+      - hubimos despreciado
+      - hubisteis despreciado
+      - hubieron despreciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 despreciado"
+      - "habr\xE1s despreciado"
+      - "habr\xE1 despreciado"
+      - habremos despreciado
+      - "habr\xE9is despreciado"
+      - "habr\xE1n despreciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa despreciado"
+      - "habr\xEDas despreciado"
+      - "habr\xEDa despreciado"
+      - "habr\xEDamos despreciado"
+      - "habr\xEDais despreciado"
+      - "habr\xEDan despreciado"
+      cjid: cpef
+    - cjfs:
+      - haya despreciado
+      - hayas despreciado
+      - haya despreciado
+      - hayamos despreciado
+      - "hay\xE1is despreciado"
+      - hayan despreciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera despreciado
+      - hubieras despreciado
+      - hubiera despreciado
+      - "hubi\xE9ramos despreciado"
+      - hubierais despreciado
+      - hubieran despreciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese despreciado
+      - hubieses despreciado
+      - hubiese despreciado
+      - "hubi\xE9semos despreciado"
+      - hubieseis despreciado
+      - hubiesen despreciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere despreciado
+      - hubieres despreciado
+      - hubiere despreciado
+      - "hubi\xE9remos despreciado"
+      - hubiereis despreciado
+      - hubieren despreciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desprecia
+      - desprecie
+      - despreciemos
+      - despreciad
+      - desprecien
+      cjid: impf

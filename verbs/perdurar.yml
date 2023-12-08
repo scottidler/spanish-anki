@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|last}, to {a_link|endure}, to {a_link|survive}'
+  fl: intransitive verb
+  hwi:
+    hw: perdurar
+    prs:
+    - sound:
+        audio: perdu02sp
+  meta:
+    id: perdurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617090000'
+    src: spanish
+    stems:
+    - perdurar
+    uuid: 37c5328a-91d5-41d4-b0ab-c9044480c87d
+  shortdef:
+  - to last, to endure, to survive
+  suppl:
+    cjts:
+    - cjfs:
+      - perdurando
+      - perdurado
+      cjid: gppt
+    - cjfs:
+      - perduro
+      - perduras
+      - perdura
+      - perduramos
+      - "perdur\xE1is"
+      - perduran
+      cjid: pind
+    - cjfs:
+      - perduraba
+      - perdurabas
+      - perduraba
+      - "perdur\xE1bamos"
+      - perdurabais
+      - perduraban
+      cjid: pret
+    - cjfs:
+      - "perdur\xE9"
+      - perduraste
+      - "perdur\xF3"
+      - perduramos
+      - perdurasteis
+      - perduraron
+      cjid: pprf
+    - cjfs:
+      - "perdurar\xE9"
+      - "perdurar\xE1s"
+      - "perdurar\xE1"
+      - perduraremos
+      - "perdurar\xE9is"
+      - "perdurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perdurar\xEDa"
+      - "perdurar\xEDas"
+      - "perdurar\xEDa"
+      - "perdurar\xEDamos"
+      - "perdurar\xEDais"
+      - "perdurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - perdure
+      - perdures
+      - perdure
+      - perduremos
+      - "perdur\xE9is"
+      - perduren
+      cjid: psub
+    - cjfs:
+      - perdurara
+      - perduraras
+      - perdurara
+      - "perdur\xE1ramos"
+      - perdurarais
+      - perduraran
+      cjid: pisb1
+    - cjfs:
+      - perdurase
+      - perdurases
+      - perdurase
+      - "perdur\xE1semos"
+      - perduraseis
+      - perdurasen
+      cjid: pisb2
+    - cjfs:
+      - perdurare
+      - perdurares
+      - perdurare
+      - "perdur\xE1remos"
+      - perdurareis
+      - perduraren
+      cjid: fsub
+    - cjfs:
+      - he perdurado
+      - has perdurado
+      - ha perdurado
+      - hemos perdurado
+      - "hab\xE9is perdurado"
+      - han perdurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perdurado"
+      - "hab\xEDas perdurado"
+      - "hab\xEDa perdurado"
+      - "hab\xEDamos perdurado"
+      - "hab\xEDais perdurado"
+      - "hab\xEDan perdurado"
+      cjid: ppsi
+    - cjfs:
+      - hube perdurado
+      - hubiste perdurado
+      - hubo perdurado
+      - hubimos perdurado
+      - hubisteis perdurado
+      - hubieron perdurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perdurado"
+      - "habr\xE1s perdurado"
+      - "habr\xE1 perdurado"
+      - habremos perdurado
+      - "habr\xE9is perdurado"
+      - "habr\xE1n perdurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perdurado"
+      - "habr\xEDas perdurado"
+      - "habr\xEDa perdurado"
+      - "habr\xEDamos perdurado"
+      - "habr\xEDais perdurado"
+      - "habr\xEDan perdurado"
+      cjid: cpef
+    - cjfs:
+      - haya perdurado
+      - hayas perdurado
+      - haya perdurado
+      - hayamos perdurado
+      - "hay\xE1is perdurado"
+      - hayan perdurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera perdurado
+      - hubieras perdurado
+      - hubiera perdurado
+      - "hubi\xE9ramos perdurado"
+      - hubierais perdurado
+      - hubieran perdurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese perdurado
+      - hubieses perdurado
+      - hubiese perdurado
+      - "hubi\xE9semos perdurado"
+      - hubieseis perdurado
+      - hubiesen perdurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere perdurado
+      - hubieres perdurado
+      - hubiere perdurado
+      - "hubi\xE9remos perdurado"
+      - hubiereis perdurado
+      - hubieren perdurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - perdura
+      - perdure
+      - perduremos
+      - perdurad
+      - perduren
+      cjid: impf

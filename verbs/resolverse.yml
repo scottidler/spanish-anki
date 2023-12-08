@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resolve}, to {a_link|settle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|decide}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|make up one''s mind}'
+    drp: resolverse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: resolver
+    prs:
+    - sound:
+        audio: resol02sp
+  meta:
+    id: resolver
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619573000'
+    src: spanish
+    stems:
+    - resolver
+    - resolverse
+    uuid: cfa30f6e-609c-4939-9297-3de8ea9a5a2e
+  shortdef:
+  - to resolve, to settle
+  - to decide
+  suppl:
+    cjts:
+    - cjfs:
+      - resolviendo
+      - resuelto
+      cjid: gppt
+    - cjfs:
+      - resuelvo
+      - resuelves
+      - resuelve
+      - resolvemos
+      - "resolv\xE9is"
+      - resuelven
+      cjid: pind
+    - cjfs:
+      - "resolv\xEDa"
+      - "resolv\xEDas"
+      - "resolv\xEDa"
+      - "resolv\xEDamos"
+      - "resolv\xEDais"
+      - "resolv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "resolv\xED"
+      - resolviste
+      - "resolvi\xF3"
+      - resolvimos
+      - resolvisteis
+      - resolvieron
+      cjid: pprf
+    - cjfs:
+      - "resolver\xE9"
+      - "resolver\xE1s"
+      - "resolver\xE1"
+      - resolveremos
+      - "resolver\xE9is"
+      - "resolver\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resolver\xEDa"
+      - "resolver\xEDas"
+      - "resolver\xEDa"
+      - "resolver\xEDamos"
+      - "resolver\xEDais"
+      - "resolver\xEDan"
+      cjid: cond
+    - cjfs:
+      - resuelva
+      - resuelvas
+      - resuelva
+      - resolvamos
+      - "resolv\xE1is"
+      - resuelvan
+      cjid: psub
+    - cjfs:
+      - resolviera
+      - resolvieras
+      - resolviera
+      - "resolvi\xE9ramos"
+      - resolvierais
+      - resolvieran
+      cjid: pisb1
+    - cjfs:
+      - resolviese
+      - resolvieses
+      - resolviese
+      - "resolvi\xE9semos"
+      - resolvieseis
+      - resolviesen
+      cjid: pisb2
+    - cjfs:
+      - resolviere
+      - resolvieres
+      - resolviere
+      - "resolvi\xE9remos"
+      - resolviereis
+      - resolvieren
+      cjid: fsub
+    - cjfs:
+      - he resuelto
+      - has resuelto
+      - ha resuelto
+      - hemos resuelto
+      - "hab\xE9is resuelto"
+      - han resuelto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resuelto"
+      - "hab\xEDas resuelto"
+      - "hab\xEDa resuelto"
+      - "hab\xEDamos resuelto"
+      - "hab\xEDais resuelto"
+      - "hab\xEDan resuelto"
+      cjid: ppsi
+    - cjfs:
+      - hube resuelto
+      - hubiste resuelto
+      - hubo resuelto
+      - hubimos resuelto
+      - hubisteis resuelto
+      - hubieron resuelto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resuelto"
+      - "habr\xE1s resuelto"
+      - "habr\xE1 resuelto"
+      - habremos resuelto
+      - "habr\xE9is resuelto"
+      - "habr\xE1n resuelto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resuelto"
+      - "habr\xEDas resuelto"
+      - "habr\xEDa resuelto"
+      - "habr\xEDamos resuelto"
+      - "habr\xEDais resuelto"
+      - "habr\xEDan resuelto"
+      cjid: cpef
+    - cjfs:
+      - haya resuelto
+      - hayas resuelto
+      - haya resuelto
+      - hayamos resuelto
+      - "hay\xE1is resuelto"
+      - hayan resuelto
+      cjid: ppfs
+    - cjfs:
+      - hubiera resuelto
+      - hubieras resuelto
+      - hubiera resuelto
+      - "hubi\xE9ramos resuelto"
+      - hubierais resuelto
+      - hubieran resuelto
+      cjid: ppss1
+    - cjfs:
+      - hubiese resuelto
+      - hubieses resuelto
+      - hubiese resuelto
+      - "hubi\xE9semos resuelto"
+      - hubieseis resuelto
+      - hubiesen resuelto
+      cjid: ppss2
+    - cjfs:
+      - hubiere resuelto
+      - hubieres resuelto
+      - hubiere resuelto
+      - "hubi\xE9remos resuelto"
+      - hubiereis resuelto
+      - hubieren resuelto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resuelve
+      - resuelva
+      - resolvamos
+      - resolved
+      - resuelvan
+      cjid: impf

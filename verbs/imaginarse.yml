@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|imagine}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|suppose}, to {a_link|imagine}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|picture}'
+            sn: '2'
+    drp: imaginarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: imaginar
+    prs:
+    - sound:
+        audio: imagi01sp
+  meta:
+    id: imaginar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611885000'
+    src: spanish
+    stems:
+    - imaginar
+    - imaginarse
+    uuid: 0f517336-2ab4-44c0-8a12-cf97cb3eff3b
+  shortdef:
+  - to imagine
+  suppl:
+    cjts:
+    - cjfs:
+      - imaginando
+      - imaginado
+      cjid: gppt
+    - cjfs:
+      - imagino
+      - imaginas
+      - imagina
+      - imaginamos
+      - "imagin\xE1is"
+      - imaginan
+      cjid: pind
+    - cjfs:
+      - imaginaba
+      - imaginabas
+      - imaginaba
+      - "imagin\xE1bamos"
+      - imaginabais
+      - imaginaban
+      cjid: pret
+    - cjfs:
+      - "imagin\xE9"
+      - imaginaste
+      - "imagin\xF3"
+      - imaginamos
+      - imaginasteis
+      - imaginaron
+      cjid: pprf
+    - cjfs:
+      - "imaginar\xE9"
+      - "imaginar\xE1s"
+      - "imaginar\xE1"
+      - imaginaremos
+      - "imaginar\xE9is"
+      - "imaginar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "imaginar\xEDa"
+      - "imaginar\xEDas"
+      - "imaginar\xEDa"
+      - "imaginar\xEDamos"
+      - "imaginar\xEDais"
+      - "imaginar\xEDan"
+      cjid: cond
+    - cjfs:
+      - imagine
+      - imagines
+      - imagine
+      - imaginemos
+      - "imagin\xE9is"
+      - imaginen
+      cjid: psub
+    - cjfs:
+      - imaginara
+      - imaginaras
+      - imaginara
+      - "imagin\xE1ramos"
+      - imaginarais
+      - imaginaran
+      cjid: pisb1
+    - cjfs:
+      - imaginase
+      - imaginases
+      - imaginase
+      - "imagin\xE1semos"
+      - imaginaseis
+      - imaginasen
+      cjid: pisb2
+    - cjfs:
+      - imaginare
+      - imaginares
+      - imaginare
+      - "imagin\xE1remos"
+      - imaginareis
+      - imaginaren
+      cjid: fsub
+    - cjfs:
+      - he imaginado
+      - has imaginado
+      - ha imaginado
+      - hemos imaginado
+      - "hab\xE9is imaginado"
+      - han imaginado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa imaginado"
+      - "hab\xEDas imaginado"
+      - "hab\xEDa imaginado"
+      - "hab\xEDamos imaginado"
+      - "hab\xEDais imaginado"
+      - "hab\xEDan imaginado"
+      cjid: ppsi
+    - cjfs:
+      - hube imaginado
+      - hubiste imaginado
+      - hubo imaginado
+      - hubimos imaginado
+      - hubisteis imaginado
+      - hubieron imaginado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 imaginado"
+      - "habr\xE1s imaginado"
+      - "habr\xE1 imaginado"
+      - habremos imaginado
+      - "habr\xE9is imaginado"
+      - "habr\xE1n imaginado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa imaginado"
+      - "habr\xEDas imaginado"
+      - "habr\xEDa imaginado"
+      - "habr\xEDamos imaginado"
+      - "habr\xEDais imaginado"
+      - "habr\xEDan imaginado"
+      cjid: cpef
+    - cjfs:
+      - haya imaginado
+      - hayas imaginado
+      - haya imaginado
+      - hayamos imaginado
+      - "hay\xE1is imaginado"
+      - hayan imaginado
+      cjid: ppfs
+    - cjfs:
+      - hubiera imaginado
+      - hubieras imaginado
+      - hubiera imaginado
+      - "hubi\xE9ramos imaginado"
+      - hubierais imaginado
+      - hubieran imaginado
+      cjid: ppss1
+    - cjfs:
+      - hubiese imaginado
+      - hubieses imaginado
+      - hubiese imaginado
+      - "hubi\xE9semos imaginado"
+      - hubieseis imaginado
+      - hubiesen imaginado
+      cjid: ppss2
+    - cjfs:
+      - hubiere imaginado
+      - hubieres imaginado
+      - hubiere imaginado
+      - "hubi\xE9remos imaginado"
+      - hubiereis imaginado
+      - hubieren imaginado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - imagina
+      - imagine
+      - imaginemos
+      - imaginad
+      - imaginen
+      cjid: impf

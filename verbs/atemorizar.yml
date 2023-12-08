@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|frighten}, to {a_link|intimidate}'
+  fl: transitive verb
+  hwi:
+    hw: atemorizar
+  meta:
+    id: atemorizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602272000'
+    src: spanish
+    stems:
+    - atemorizar
+    - atemorizarse
+    uuid: 26ad4fe7-2c63-4131-bce2-d12a4b712a39
+  shortdef:
+  - to frighten, to intimidate
+  suppl:
+    cjts:
+    - cjfs:
+      - atemorizando
+      - atemorizado
+      cjid: gppt
+    - cjfs:
+      - atemorizo
+      - atemorizas
+      - atemoriza
+      - atemorizamos
+      - "atemoriz\xE1is"
+      - atemorizan
+      cjid: pind
+    - cjfs:
+      - atemorizaba
+      - atemorizabas
+      - atemorizaba
+      - "atemoriz\xE1bamos"
+      - atemorizabais
+      - atemorizaban
+      cjid: pret
+    - cjfs:
+      - "atemoric\xE9"
+      - atemorizaste
+      - "atemoriz\xF3"
+      - atemorizamos
+      - atemorizasteis
+      - atemorizaron
+      cjid: pprf
+    - cjfs:
+      - "atemorizar\xE9"
+      - "atemorizar\xE1s"
+      - "atemorizar\xE1"
+      - atemorizaremos
+      - "atemorizar\xE9is"
+      - "atemorizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atemorizar\xEDa"
+      - "atemorizar\xEDas"
+      - "atemorizar\xEDa"
+      - "atemorizar\xEDamos"
+      - "atemorizar\xEDais"
+      - "atemorizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - atemorice
+      - atemorices
+      - atemorice
+      - atemoricemos
+      - "atemoric\xE9is"
+      - atemoricen
+      cjid: psub
+    - cjfs:
+      - atemorizara
+      - atemorizaras
+      - atemorizara
+      - "atemoriz\xE1ramos"
+      - atemorizarais
+      - atemorizaran
+      cjid: pisb1
+    - cjfs:
+      - atemorizase
+      - atemorizases
+      - atemorizase
+      - "atemoriz\xE1semos"
+      - atemorizaseis
+      - atemorizasen
+      cjid: pisb2
+    - cjfs:
+      - atemorizare
+      - atemorizares
+      - atemorizare
+      - "atemoriz\xE1remos"
+      - atemorizareis
+      - atemorizaren
+      cjid: fsub
+    - cjfs:
+      - he atemorizado
+      - has atemorizado
+      - ha atemorizado
+      - hemos atemorizado
+      - "hab\xE9is atemorizado"
+      - han atemorizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atemorizado"
+      - "hab\xEDas atemorizado"
+      - "hab\xEDa atemorizado"
+      - "hab\xEDamos atemorizado"
+      - "hab\xEDais atemorizado"
+      - "hab\xEDan atemorizado"
+      cjid: ppsi
+    - cjfs:
+      - hube atemorizado
+      - hubiste atemorizado
+      - hubo atemorizado
+      - hubimos atemorizado
+      - hubisteis atemorizado
+      - hubieron atemorizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atemorizado"
+      - "habr\xE1s atemorizado"
+      - "habr\xE1 atemorizado"
+      - habremos atemorizado
+      - "habr\xE9is atemorizado"
+      - "habr\xE1n atemorizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atemorizado"
+      - "habr\xEDas atemorizado"
+      - "habr\xEDa atemorizado"
+      - "habr\xEDamos atemorizado"
+      - "habr\xEDais atemorizado"
+      - "habr\xEDan atemorizado"
+      cjid: cpef
+    - cjfs:
+      - haya atemorizado
+      - hayas atemorizado
+      - haya atemorizado
+      - hayamos atemorizado
+      - "hay\xE1is atemorizado"
+      - hayan atemorizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atemorizado
+      - hubieras atemorizado
+      - hubiera atemorizado
+      - "hubi\xE9ramos atemorizado"
+      - hubierais atemorizado
+      - hubieran atemorizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atemorizado
+      - hubieses atemorizado
+      - hubiese atemorizado
+      - "hubi\xE9semos atemorizado"
+      - hubieseis atemorizado
+      - hubiesen atemorizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atemorizado
+      - hubieres atemorizado
+      - hubiere atemorizado
+      - "hubi\xE9remos atemorizado"
+      - hubiereis atemorizado
+      - hubieren atemorizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atemoriza
+      - atemorice
+      - atemoricemos
+      - atemorizad
+      - atemoricen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: atemorizarse

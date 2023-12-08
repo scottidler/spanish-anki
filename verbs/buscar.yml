@@ -1,0 +1,235 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look for} (a person, an object, etc.), to {a_link|seek}
+              (revenge, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fetch}, to {a_link|get} '
+          - - vis
+            - - t: ve a buscar ayuda
+                tr: go (and) get help
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look for} (trouble, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look up} (in a book, etc.), to {a_link|search} (on the
+              Web)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|recoger||} {bc}to {a_link|pick up} (at a place)'
+          sn: '5'
+          vrs:
+          - va: ir a buscar
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look}, to {a_link|search} '
+          - - vis
+            - - t: "busc\xF3 en los bolsillos"
+                tr: he searched through his pockets
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to ask for, to {a_link|look for} '
+            - - vis
+              - - t: "te la est\xE1s buscando"
+                  tr: you're asking for it/trouble
+    drp: buscarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: buscar
+    prs:
+    - sound:
+        audio: busca02sp
+  meta:
+    id: buscar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603464000'
+    src: spanish
+    stems:
+    - buscar
+    - ir a buscar
+    - buscarse
+    uuid: af6a5636-b349-4f0e-a180-17b70379e3ec
+  shortdef:
+  - to look for (a person, an object, etc.), to seek (revenge, etc.)
+  - to fetch, to get
+  - to look for (trouble, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - buscando
+      - buscado
+      cjid: gppt
+    - cjfs:
+      - busco
+      - buscas
+      - busca
+      - buscamos
+      - "busc\xE1is"
+      - buscan
+      cjid: pind
+    - cjfs:
+      - buscaba
+      - buscabas
+      - buscaba
+      - "busc\xE1bamos"
+      - buscabais
+      - buscaban
+      cjid: pret
+    - cjfs:
+      - "busqu\xE9"
+      - buscaste
+      - "busc\xF3"
+      - buscamos
+      - buscasteis
+      - buscaron
+      cjid: pprf
+    - cjfs:
+      - "buscar\xE9"
+      - "buscar\xE1s"
+      - "buscar\xE1"
+      - buscaremos
+      - "buscar\xE9is"
+      - "buscar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "buscar\xEDa"
+      - "buscar\xEDas"
+      - "buscar\xEDa"
+      - "buscar\xEDamos"
+      - "buscar\xEDais"
+      - "buscar\xEDan"
+      cjid: cond
+    - cjfs:
+      - busque
+      - busques
+      - busque
+      - busquemos
+      - "busqu\xE9is"
+      - busquen
+      cjid: psub
+    - cjfs:
+      - buscara
+      - buscaras
+      - buscara
+      - "busc\xE1ramos"
+      - buscarais
+      - buscaran
+      cjid: pisb1
+    - cjfs:
+      - buscase
+      - buscases
+      - buscase
+      - "busc\xE1semos"
+      - buscaseis
+      - buscasen
+      cjid: pisb2
+    - cjfs:
+      - buscare
+      - buscares
+      - buscare
+      - "busc\xE1remos"
+      - buscareis
+      - buscaren
+      cjid: fsub
+    - cjfs:
+      - he buscado
+      - has buscado
+      - ha buscado
+      - hemos buscado
+      - "hab\xE9is buscado"
+      - han buscado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa buscado"
+      - "hab\xEDas buscado"
+      - "hab\xEDa buscado"
+      - "hab\xEDamos buscado"
+      - "hab\xEDais buscado"
+      - "hab\xEDan buscado"
+      cjid: ppsi
+    - cjfs:
+      - hube buscado
+      - hubiste buscado
+      - hubo buscado
+      - hubimos buscado
+      - hubisteis buscado
+      - hubieron buscado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 buscado"
+      - "habr\xE1s buscado"
+      - "habr\xE1 buscado"
+      - habremos buscado
+      - "habr\xE9is buscado"
+      - "habr\xE1n buscado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa buscado"
+      - "habr\xEDas buscado"
+      - "habr\xEDa buscado"
+      - "habr\xEDamos buscado"
+      - "habr\xEDais buscado"
+      - "habr\xEDan buscado"
+      cjid: cpef
+    - cjfs:
+      - haya buscado
+      - hayas buscado
+      - haya buscado
+      - hayamos buscado
+      - "hay\xE1is buscado"
+      - hayan buscado
+      cjid: ppfs
+    - cjfs:
+      - hubiera buscado
+      - hubieras buscado
+      - hubiera buscado
+      - "hubi\xE9ramos buscado"
+      - hubierais buscado
+      - hubieran buscado
+      cjid: ppss1
+    - cjfs:
+      - hubiese buscado
+      - hubieses buscado
+      - hubiese buscado
+      - "hubi\xE9semos buscado"
+      - hubieseis buscado
+      - hubiesen buscado
+      cjid: ppss2
+    - cjfs:
+      - hubiere buscado
+      - hubieres buscado
+      - hubiere buscado
+      - "hubi\xE9remos buscado"
+      - hubiereis buscado
+      - hubieren buscado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - busca
+      - busque
+      - busquemos
+      - buscad
+      - busquen
+      cjid: impf

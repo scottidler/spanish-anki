@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|perseguir||} {bc}to {a_link|pursue}, to {a_link|hound}, to {a_link|harass}'
+  fl: transitive verb
+  hwi:
+    hw: acosar
+    prs:
+    - sound:
+        audio: acosa01sp
+  meta:
+    id: acosar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600341000'
+    src: spanish
+    stems:
+    - acosar
+    uuid: 7f3cd03b-1052-4e19-8ead-5b2a843f347d
+  shortdef:
+  - 'perseguir : to pursue, to hound, to harass'
+  suppl:
+    cjts:
+    - cjfs:
+      - acosando
+      - acosado
+      cjid: gppt
+    - cjfs:
+      - acoso
+      - acosas
+      - acosa
+      - acosamos
+      - "acos\xE1is"
+      - acosan
+      cjid: pind
+    - cjfs:
+      - acosaba
+      - acosabas
+      - acosaba
+      - "acos\xE1bamos"
+      - acosabais
+      - acosaban
+      cjid: pret
+    - cjfs:
+      - "acos\xE9"
+      - acosaste
+      - "acos\xF3"
+      - acosamos
+      - acosasteis
+      - acosaron
+      cjid: pprf
+    - cjfs:
+      - "acosar\xE9"
+      - "acosar\xE1s"
+      - "acosar\xE1"
+      - acosaremos
+      - "acosar\xE9is"
+      - "acosar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acosar\xEDa"
+      - "acosar\xEDas"
+      - "acosar\xEDa"
+      - "acosar\xEDamos"
+      - "acosar\xEDais"
+      - "acosar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acose
+      - acoses
+      - acose
+      - acosemos
+      - "acos\xE9is"
+      - acosen
+      cjid: psub
+    - cjfs:
+      - acosara
+      - acosaras
+      - acosara
+      - "acos\xE1ramos"
+      - acosarais
+      - acosaran
+      cjid: pisb1
+    - cjfs:
+      - acosase
+      - acosases
+      - acosase
+      - "acos\xE1semos"
+      - acosaseis
+      - acosasen
+      cjid: pisb2
+    - cjfs:
+      - acosare
+      - acosares
+      - acosare
+      - "acos\xE1remos"
+      - acosareis
+      - acosaren
+      cjid: fsub
+    - cjfs:
+      - he acosado
+      - has acosado
+      - ha acosado
+      - hemos acosado
+      - "hab\xE9is acosado"
+      - han acosado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acosado"
+      - "hab\xEDas acosado"
+      - "hab\xEDa acosado"
+      - "hab\xEDamos acosado"
+      - "hab\xEDais acosado"
+      - "hab\xEDan acosado"
+      cjid: ppsi
+    - cjfs:
+      - hube acosado
+      - hubiste acosado
+      - hubo acosado
+      - hubimos acosado
+      - hubisteis acosado
+      - hubieron acosado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acosado"
+      - "habr\xE1s acosado"
+      - "habr\xE1 acosado"
+      - habremos acosado
+      - "habr\xE9is acosado"
+      - "habr\xE1n acosado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acosado"
+      - "habr\xEDas acosado"
+      - "habr\xEDa acosado"
+      - "habr\xEDamos acosado"
+      - "habr\xEDais acosado"
+      - "habr\xEDan acosado"
+      cjid: cpef
+    - cjfs:
+      - haya acosado
+      - hayas acosado
+      - haya acosado
+      - hayamos acosado
+      - "hay\xE1is acosado"
+      - hayan acosado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acosado
+      - hubieras acosado
+      - hubiera acosado
+      - "hubi\xE9ramos acosado"
+      - hubierais acosado
+      - hubieran acosado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acosado
+      - hubieses acosado
+      - hubiese acosado
+      - "hubi\xE9semos acosado"
+      - hubieseis acosado
+      - hubiesen acosado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acosado
+      - hubieres acosado
+      - hubiere acosado
+      - "hubi\xE9remos acosado"
+      - hubiereis acosado
+      - hubieren acosado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acosa
+      - acose
+      - acosemos
+      - acosad
+      - acosen
+      cjid: impf

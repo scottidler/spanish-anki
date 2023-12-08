@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|presumir||} {bc}to {a_link|boast}, to {a_link|brag}'
+  fl: intransitive verb
+  hwi:
+    hw: alardear
+    prs:
+    - sound:
+        audio: alard02sp
+  meta:
+    id: alardear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600854000'
+    src: spanish
+    stems:
+    - alardear
+    uuid: 45aebd9f-3134-4ec1-9eeb-7f53889346c1
+  shortdef:
+  - 'presumir : to boast, to brag'
+  suppl:
+    cjts:
+    - cjfs:
+      - alardeando
+      - alardeado
+      cjid: gppt
+    - cjfs:
+      - alardeo
+      - alardeas
+      - alardea
+      - alardeamos
+      - "alarde\xE1is"
+      - alardean
+      cjid: pind
+    - cjfs:
+      - alardeaba
+      - alardeabas
+      - alardeaba
+      - "alarde\xE1bamos"
+      - alardeabais
+      - alardeaban
+      cjid: pret
+    - cjfs:
+      - "alarde\xE9"
+      - alardeaste
+      - "alarde\xF3"
+      - alardeamos
+      - alardeasteis
+      - alardearon
+      cjid: pprf
+    - cjfs:
+      - "alardear\xE9"
+      - "alardear\xE1s"
+      - "alardear\xE1"
+      - alardearemos
+      - "alardear\xE9is"
+      - "alardear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alardear\xEDa"
+      - "alardear\xEDas"
+      - "alardear\xEDa"
+      - "alardear\xEDamos"
+      - "alardear\xEDais"
+      - "alardear\xEDan"
+      cjid: cond
+    - cjfs:
+      - alardee
+      - alardees
+      - alardee
+      - alardeemos
+      - "alarde\xE9is"
+      - alardeen
+      cjid: psub
+    - cjfs:
+      - alardeara
+      - alardearas
+      - alardeara
+      - "alarde\xE1ramos"
+      - alardearais
+      - alardearan
+      cjid: pisb1
+    - cjfs:
+      - alardease
+      - alardeases
+      - alardease
+      - "alarde\xE1semos"
+      - alardeaseis
+      - alardeasen
+      cjid: pisb2
+    - cjfs:
+      - alardeare
+      - alardeares
+      - alardeare
+      - "alarde\xE1remos"
+      - alardeareis
+      - alardearen
+      cjid: fsub
+    - cjfs:
+      - he alardeado
+      - has alardeado
+      - ha alardeado
+      - hemos alardeado
+      - "hab\xE9is alardeado"
+      - han alardeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alardeado"
+      - "hab\xEDas alardeado"
+      - "hab\xEDa alardeado"
+      - "hab\xEDamos alardeado"
+      - "hab\xEDais alardeado"
+      - "hab\xEDan alardeado"
+      cjid: ppsi
+    - cjfs:
+      - hube alardeado
+      - hubiste alardeado
+      - hubo alardeado
+      - hubimos alardeado
+      - hubisteis alardeado
+      - hubieron alardeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alardeado"
+      - "habr\xE1s alardeado"
+      - "habr\xE1 alardeado"
+      - habremos alardeado
+      - "habr\xE9is alardeado"
+      - "habr\xE1n alardeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alardeado"
+      - "habr\xEDas alardeado"
+      - "habr\xEDa alardeado"
+      - "habr\xEDamos alardeado"
+      - "habr\xEDais alardeado"
+      - "habr\xEDan alardeado"
+      cjid: cpef
+    - cjfs:
+      - haya alardeado
+      - hayas alardeado
+      - haya alardeado
+      - hayamos alardeado
+      - "hay\xE1is alardeado"
+      - hayan alardeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alardeado
+      - hubieras alardeado
+      - hubiera alardeado
+      - "hubi\xE9ramos alardeado"
+      - hubierais alardeado
+      - hubieran alardeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alardeado
+      - hubieses alardeado
+      - hubiese alardeado
+      - "hubi\xE9semos alardeado"
+      - hubieseis alardeado
+      - hubiesen alardeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alardeado
+      - hubieres alardeado
+      - hubiere alardeado
+      - "hubi\xE9remos alardeado"
+      - hubiereis alardeado
+      - hubieren alardeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alardea
+      - alardee
+      - alardeemos
+      - alardead
+      - alardeen
+      cjid: impf

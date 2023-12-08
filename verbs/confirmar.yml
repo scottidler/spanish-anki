@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confirm}, to {a_link|substantiate}'
+  fl: transitive verb
+  hwi:
+    hw: confirmar
+    prs:
+    - sound:
+        audio: confi10sp
+  meta:
+    id: confirmar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605465000'
+    src: spanish
+    stems:
+    - confirmar
+    uuid: ae7bd34b-a3ce-4b65-a203-a7e3394e890c
+  shortdef:
+  - to confirm, to substantiate
+  suppl:
+    cjts:
+    - cjfs:
+      - confirmando
+      - confirmado
+      cjid: gppt
+    - cjfs:
+      - confirmo
+      - confirmas
+      - confirma
+      - confirmamos
+      - "confirm\xE1is"
+      - confirman
+      cjid: pind
+    - cjfs:
+      - confirmaba
+      - confirmabas
+      - confirmaba
+      - "confirm\xE1bamos"
+      - confirmabais
+      - confirmaban
+      cjid: pret
+    - cjfs:
+      - "confirm\xE9"
+      - confirmaste
+      - "confirm\xF3"
+      - confirmamos
+      - confirmasteis
+      - confirmaron
+      cjid: pprf
+    - cjfs:
+      - "confirmar\xE9"
+      - "confirmar\xE1s"
+      - "confirmar\xE1"
+      - confirmaremos
+      - "confirmar\xE9is"
+      - "confirmar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "confirmar\xEDa"
+      - "confirmar\xEDas"
+      - "confirmar\xEDa"
+      - "confirmar\xEDamos"
+      - "confirmar\xEDais"
+      - "confirmar\xEDan"
+      cjid: cond
+    - cjfs:
+      - confirme
+      - confirmes
+      - confirme
+      - confirmemos
+      - "confirm\xE9is"
+      - confirmen
+      cjid: psub
+    - cjfs:
+      - confirmara
+      - confirmaras
+      - confirmara
+      - "confirm\xE1ramos"
+      - confirmarais
+      - confirmaran
+      cjid: pisb1
+    - cjfs:
+      - confirmase
+      - confirmases
+      - confirmase
+      - "confirm\xE1semos"
+      - confirmaseis
+      - confirmasen
+      cjid: pisb2
+    - cjfs:
+      - confirmare
+      - confirmares
+      - confirmare
+      - "confirm\xE1remos"
+      - confirmareis
+      - confirmaren
+      cjid: fsub
+    - cjfs:
+      - he confirmado
+      - has confirmado
+      - ha confirmado
+      - hemos confirmado
+      - "hab\xE9is confirmado"
+      - han confirmado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa confirmado"
+      - "hab\xEDas confirmado"
+      - "hab\xEDa confirmado"
+      - "hab\xEDamos confirmado"
+      - "hab\xEDais confirmado"
+      - "hab\xEDan confirmado"
+      cjid: ppsi
+    - cjfs:
+      - hube confirmado
+      - hubiste confirmado
+      - hubo confirmado
+      - hubimos confirmado
+      - hubisteis confirmado
+      - hubieron confirmado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 confirmado"
+      - "habr\xE1s confirmado"
+      - "habr\xE1 confirmado"
+      - habremos confirmado
+      - "habr\xE9is confirmado"
+      - "habr\xE1n confirmado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa confirmado"
+      - "habr\xEDas confirmado"
+      - "habr\xEDa confirmado"
+      - "habr\xEDamos confirmado"
+      - "habr\xEDais confirmado"
+      - "habr\xEDan confirmado"
+      cjid: cpef
+    - cjfs:
+      - haya confirmado
+      - hayas confirmado
+      - haya confirmado
+      - hayamos confirmado
+      - "hay\xE1is confirmado"
+      - hayan confirmado
+      cjid: ppfs
+    - cjfs:
+      - hubiera confirmado
+      - hubieras confirmado
+      - hubiera confirmado
+      - "hubi\xE9ramos confirmado"
+      - hubierais confirmado
+      - hubieran confirmado
+      cjid: ppss1
+    - cjfs:
+      - hubiese confirmado
+      - hubieses confirmado
+      - hubiese confirmado
+      - "hubi\xE9semos confirmado"
+      - hubieseis confirmado
+      - hubiesen confirmado
+      cjid: ppss2
+    - cjfs:
+      - hubiere confirmado
+      - hubieres confirmado
+      - hubiere confirmado
+      - "hubi\xE9remos confirmado"
+      - hubiereis confirmado
+      - hubieren confirmado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - confirma
+      - confirme
+      - confirmemos
+      - confirmad
+      - confirmen
+      cjid: impf

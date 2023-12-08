@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|implicate}, to {a_link|involve}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get involved'
+    drp: involucrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: involucrar
+    prs:
+    - sound:
+        audio: invol01sp
+  meta:
+    id: involucrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613023000'
+    src: spanish
+    stems:
+    - involucrar
+    - involucrarse
+    uuid: 819cecbc-3ea6-4e9c-84e7-6d0d6a67e7d6
+  shortdef:
+  - to implicate, to involve
+  suppl:
+    cjts:
+    - cjfs:
+      - involucrando
+      - involucrado
+      cjid: gppt
+    - cjfs:
+      - involucro
+      - involucras
+      - involucra
+      - involucramos
+      - "involucr\xE1is"
+      - involucran
+      cjid: pind
+    - cjfs:
+      - involucraba
+      - involucrabas
+      - involucraba
+      - "involucr\xE1bamos"
+      - involucrabais
+      - involucraban
+      cjid: pret
+    - cjfs:
+      - "involucr\xE9"
+      - involucraste
+      - "involucr\xF3"
+      - involucramos
+      - involucrasteis
+      - involucraron
+      cjid: pprf
+    - cjfs:
+      - "involucrar\xE9"
+      - "involucrar\xE1s"
+      - "involucrar\xE1"
+      - involucraremos
+      - "involucrar\xE9is"
+      - "involucrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "involucrar\xEDa"
+      - "involucrar\xEDas"
+      - "involucrar\xEDa"
+      - "involucrar\xEDamos"
+      - "involucrar\xEDais"
+      - "involucrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - involucre
+      - involucres
+      - involucre
+      - involucremos
+      - "involucr\xE9is"
+      - involucren
+      cjid: psub
+    - cjfs:
+      - involucrara
+      - involucraras
+      - involucrara
+      - "involucr\xE1ramos"
+      - involucrarais
+      - involucraran
+      cjid: pisb1
+    - cjfs:
+      - involucrase
+      - involucrases
+      - involucrase
+      - "involucr\xE1semos"
+      - involucraseis
+      - involucrasen
+      cjid: pisb2
+    - cjfs:
+      - involucrare
+      - involucrares
+      - involucrare
+      - "involucr\xE1remos"
+      - involucrareis
+      - involucraren
+      cjid: fsub
+    - cjfs:
+      - he involucrado
+      - has involucrado
+      - ha involucrado
+      - hemos involucrado
+      - "hab\xE9is involucrado"
+      - han involucrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa involucrado"
+      - "hab\xEDas involucrado"
+      - "hab\xEDa involucrado"
+      - "hab\xEDamos involucrado"
+      - "hab\xEDais involucrado"
+      - "hab\xEDan involucrado"
+      cjid: ppsi
+    - cjfs:
+      - hube involucrado
+      - hubiste involucrado
+      - hubo involucrado
+      - hubimos involucrado
+      - hubisteis involucrado
+      - hubieron involucrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 involucrado"
+      - "habr\xE1s involucrado"
+      - "habr\xE1 involucrado"
+      - habremos involucrado
+      - "habr\xE9is involucrado"
+      - "habr\xE1n involucrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa involucrado"
+      - "habr\xEDas involucrado"
+      - "habr\xEDa involucrado"
+      - "habr\xEDamos involucrado"
+      - "habr\xEDais involucrado"
+      - "habr\xEDan involucrado"
+      cjid: cpef
+    - cjfs:
+      - haya involucrado
+      - hayas involucrado
+      - haya involucrado
+      - hayamos involucrado
+      - "hay\xE1is involucrado"
+      - hayan involucrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera involucrado
+      - hubieras involucrado
+      - hubiera involucrado
+      - "hubi\xE9ramos involucrado"
+      - hubierais involucrado
+      - hubieran involucrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese involucrado
+      - hubieses involucrado
+      - hubiese involucrado
+      - "hubi\xE9semos involucrado"
+      - hubieseis involucrado
+      - hubiesen involucrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere involucrado
+      - hubieres involucrado
+      - hubiere involucrado
+      - "hubi\xE9remos involucrado"
+      - hubiereis involucrado
+      - hubieren involucrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - involucra
+      - involucre
+      - involucremos
+      - involucrad
+      - involucren
+      cjid: impf

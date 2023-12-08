@@ -1,0 +1,248 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|think} '
+          - - vis
+            - - t: pensar bien/mal de alguien
+                tr: to think well/poorly of someone
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to think about '
+          - - vis
+            - - t: pensaba en otra cosa
+                tr: I was thinking about something else
+          sn: '2'
+          vrs:
+          - va: pensar en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to provide food for thought'
+          sn: '3'
+          vrs:
+          - va: dar que pensar
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|think} '
+          - - vis
+            - - t: pienso que es necesario
+                tr: I think it's necessary
+              - t: "\xBFqu\xE9 piensas de su nueva canci\xF3n?"
+                tr: what do you think about her new song?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to think about '
+          - - vis
+            - - t: "est\xE1 pensando comprar una casa"
+                tr: she's thinking about buying a house
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|intend}, to plan on '
+          - - vis
+            - - t: "\xBFqu\xE9 piensas hacer?"
+                tr: what do you plan to do?
+              - t: no pienso casarme
+                tr: I don't intend to get married
+          sn: '3'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|think over}'
+    drp: pensarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: pensar
+    prs:
+    - sound:
+        audio: pensa04sp
+  meta:
+    id: pensar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617028000'
+    src: spanish
+    stems:
+    - pensar
+    - pensar en
+    - dar que pensar
+    - pensarse
+    uuid: 637d100d-f9ab-47ab-91ba-7254310ca676
+  shortdef:
+  - to think
+  - to think about
+  - to provide food for thought
+  suppl:
+    cjts:
+    - cjfs:
+      - pensando
+      - pensado
+      cjid: gppt
+    - cjfs:
+      - pienso
+      - piensas
+      - piensa
+      - pensamos
+      - "pens\xE1is"
+      - piensan
+      cjid: pind
+    - cjfs:
+      - pensaba
+      - pensabas
+      - pensaba
+      - "pens\xE1bamos"
+      - pensabais
+      - pensaban
+      cjid: pret
+    - cjfs:
+      - "pens\xE9"
+      - pensaste
+      - "pens\xF3"
+      - pensamos
+      - pensasteis
+      - pensaron
+      cjid: pprf
+    - cjfs:
+      - "pensar\xE9"
+      - "pensar\xE1s"
+      - "pensar\xE1"
+      - pensaremos
+      - "pensar\xE9is"
+      - "pensar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pensar\xEDa"
+      - "pensar\xEDas"
+      - "pensar\xEDa"
+      - "pensar\xEDamos"
+      - "pensar\xEDais"
+      - "pensar\xEDan"
+      cjid: cond
+    - cjfs:
+      - piense
+      - pienses
+      - piense
+      - pensemos
+      - "pens\xE9is"
+      - piensen
+      cjid: psub
+    - cjfs:
+      - pensara
+      - pensaras
+      - pensara
+      - "pens\xE1ramos"
+      - pensarais
+      - pensaran
+      cjid: pisb1
+    - cjfs:
+      - pensase
+      - pensases
+      - pensase
+      - "pens\xE1semos"
+      - pensaseis
+      - pensasen
+      cjid: pisb2
+    - cjfs:
+      - pensare
+      - pensares
+      - pensare
+      - "pens\xE1remos"
+      - pensareis
+      - pensaren
+      cjid: fsub
+    - cjfs:
+      - he pensado
+      - has pensado
+      - ha pensado
+      - hemos pensado
+      - "hab\xE9is pensado"
+      - han pensado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pensado"
+      - "hab\xEDas pensado"
+      - "hab\xEDa pensado"
+      - "hab\xEDamos pensado"
+      - "hab\xEDais pensado"
+      - "hab\xEDan pensado"
+      cjid: ppsi
+    - cjfs:
+      - hube pensado
+      - hubiste pensado
+      - hubo pensado
+      - hubimos pensado
+      - hubisteis pensado
+      - hubieron pensado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pensado"
+      - "habr\xE1s pensado"
+      - "habr\xE1 pensado"
+      - habremos pensado
+      - "habr\xE9is pensado"
+      - "habr\xE1n pensado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pensado"
+      - "habr\xEDas pensado"
+      - "habr\xEDa pensado"
+      - "habr\xEDamos pensado"
+      - "habr\xEDais pensado"
+      - "habr\xEDan pensado"
+      cjid: cpef
+    - cjfs:
+      - haya pensado
+      - hayas pensado
+      - haya pensado
+      - hayamos pensado
+      - "hay\xE1is pensado"
+      - hayan pensado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pensado
+      - hubieras pensado
+      - hubiera pensado
+      - "hubi\xE9ramos pensado"
+      - hubierais pensado
+      - hubieran pensado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pensado
+      - hubieses pensado
+      - hubiese pensado
+      - "hubi\xE9semos pensado"
+      - hubieseis pensado
+      - hubiesen pensado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pensado
+      - hubieres pensado
+      - hubiere pensado
+      - "hubi\xE9remos pensado"
+      - hubiereis pensado
+      - hubieren pensado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - piensa
+      - piense
+      - pensemos
+      - pensad
+      - piensen
+      cjid: impf

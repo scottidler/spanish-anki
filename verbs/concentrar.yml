@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|concentrate}'
+  fl: transitive verb
+  hwi:
+    hw: concentrar
+    prs:
+    - sound:
+        audio: conce05sp
+  meta:
+    id: concentrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605346000'
+    src: spanish
+    stems:
+    - concentrar
+    - concentrarse
+    uuid: 52be993b-0e2f-4feb-b284-3a4091723e47
+  shortdef:
+  - to concentrate
+  suppl:
+    cjts:
+    - cjfs:
+      - concentrando
+      - concentrado
+      cjid: gppt
+    - cjfs:
+      - concentro
+      - concentras
+      - concentra
+      - concentramos
+      - "concentr\xE1is"
+      - concentran
+      cjid: pind
+    - cjfs:
+      - concentraba
+      - concentrabas
+      - concentraba
+      - "concentr\xE1bamos"
+      - concentrabais
+      - concentraban
+      cjid: pret
+    - cjfs:
+      - "concentr\xE9"
+      - concentraste
+      - "concentr\xF3"
+      - concentramos
+      - concentrasteis
+      - concentraron
+      cjid: pprf
+    - cjfs:
+      - "concentrar\xE9"
+      - "concentrar\xE1s"
+      - "concentrar\xE1"
+      - concentraremos
+      - "concentrar\xE9is"
+      - "concentrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "concentrar\xEDa"
+      - "concentrar\xEDas"
+      - "concentrar\xEDa"
+      - "concentrar\xEDamos"
+      - "concentrar\xEDais"
+      - "concentrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - concentre
+      - concentres
+      - concentre
+      - concentremos
+      - "concentr\xE9is"
+      - concentren
+      cjid: psub
+    - cjfs:
+      - concentrara
+      - concentraras
+      - concentrara
+      - "concentr\xE1ramos"
+      - concentrarais
+      - concentraran
+      cjid: pisb1
+    - cjfs:
+      - concentrase
+      - concentrases
+      - concentrase
+      - "concentr\xE1semos"
+      - concentraseis
+      - concentrasen
+      cjid: pisb2
+    - cjfs:
+      - concentrare
+      - concentrares
+      - concentrare
+      - "concentr\xE1remos"
+      - concentrareis
+      - concentraren
+      cjid: fsub
+    - cjfs:
+      - he concentrado
+      - has concentrado
+      - ha concentrado
+      - hemos concentrado
+      - "hab\xE9is concentrado"
+      - han concentrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa concentrado"
+      - "hab\xEDas concentrado"
+      - "hab\xEDa concentrado"
+      - "hab\xEDamos concentrado"
+      - "hab\xEDais concentrado"
+      - "hab\xEDan concentrado"
+      cjid: ppsi
+    - cjfs:
+      - hube concentrado
+      - hubiste concentrado
+      - hubo concentrado
+      - hubimos concentrado
+      - hubisteis concentrado
+      - hubieron concentrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 concentrado"
+      - "habr\xE1s concentrado"
+      - "habr\xE1 concentrado"
+      - habremos concentrado
+      - "habr\xE9is concentrado"
+      - "habr\xE1n concentrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa concentrado"
+      - "habr\xEDas concentrado"
+      - "habr\xEDa concentrado"
+      - "habr\xEDamos concentrado"
+      - "habr\xEDais concentrado"
+      - "habr\xEDan concentrado"
+      cjid: cpef
+    - cjfs:
+      - haya concentrado
+      - hayas concentrado
+      - haya concentrado
+      - hayamos concentrado
+      - "hay\xE1is concentrado"
+      - hayan concentrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera concentrado
+      - hubieras concentrado
+      - hubiera concentrado
+      - "hubi\xE9ramos concentrado"
+      - hubierais concentrado
+      - hubieran concentrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese concentrado
+      - hubieses concentrado
+      - hubiese concentrado
+      - "hubi\xE9semos concentrado"
+      - hubieseis concentrado
+      - hubiesen concentrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere concentrado
+      - hubieres concentrado
+      - hubiere concentrado
+      - "hubi\xE9remos concentrado"
+      - hubiereis concentrado
+      - hubieren concentrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - concentra
+      - concentre
+      - concentremos
+      - concentrad
+      - concentren
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: concentrarse

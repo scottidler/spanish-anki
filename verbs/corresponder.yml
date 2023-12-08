@@ -1,0 +1,227 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|correspond} '
+          - - vis
+            - - t: corresponder a/con
+                tr: to correspond to/with, to match, to fit
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|belong} '
+          - - vis
+            - - t: "el t\xEDtulo que le corresponde"
+                tr: the title that is rightfully hers
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be the responsibility of '
+          - - vis
+            - - t: no le corresponde intervenir
+                tr: it's not his place to intervene
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be appropriate, to be fitting '
+          - - vis
+            - - t: como corresponde
+                tr: as is appropriate
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reciprocate}'
+          sn: '5'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to write to each other'
+    drp: corresponderse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: corresponder
+    prs:
+    - sound:
+        audio: corre11sp
+  meta:
+    id: corresponder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605948000'
+    src: spanish
+    stems:
+    - corresponder
+    - corresponderse
+    uuid: 7fe091bb-72a0-46e6-bbb0-f16b59560ab6
+  shortdef:
+  - to correspond
+  - to belong
+  - to be the responsibility of
+  suppl:
+    cjts:
+    - cjfs:
+      - correspondiendo
+      - correspondido
+      cjid: gppt
+    - cjfs:
+      - correspondo
+      - correspondes
+      - corresponde
+      - correspondemos
+      - "correspond\xE9is"
+      - corresponden
+      cjid: pind
+    - cjfs:
+      - "correspond\xEDa"
+      - "correspond\xEDas"
+      - "correspond\xEDa"
+      - "correspond\xEDamos"
+      - "correspond\xEDais"
+      - "correspond\xEDan"
+      cjid: pret
+    - cjfs:
+      - "correspond\xED"
+      - correspondiste
+      - "correspondi\xF3"
+      - correspondimos
+      - correspondisteis
+      - correspondieron
+      cjid: pprf
+    - cjfs:
+      - "corresponder\xE9"
+      - "corresponder\xE1s"
+      - "corresponder\xE1"
+      - corresponderemos
+      - "corresponder\xE9is"
+      - "corresponder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "corresponder\xEDa"
+      - "corresponder\xEDas"
+      - "corresponder\xEDa"
+      - "corresponder\xEDamos"
+      - "corresponder\xEDais"
+      - "corresponder\xEDan"
+      cjid: cond
+    - cjfs:
+      - corresponda
+      - correspondas
+      - corresponda
+      - correspondamos
+      - "correspond\xE1is"
+      - correspondan
+      cjid: psub
+    - cjfs:
+      - correspondiera
+      - correspondieras
+      - correspondiera
+      - "correspondi\xE9ramos"
+      - correspondierais
+      - correspondieran
+      cjid: pisb1
+    - cjfs:
+      - correspondiese
+      - correspondieses
+      - correspondiese
+      - "correspondi\xE9semos"
+      - correspondieseis
+      - correspondiesen
+      cjid: pisb2
+    - cjfs:
+      - correspondiere
+      - correspondieres
+      - correspondiere
+      - "correspondi\xE9remos"
+      - correspondiereis
+      - correspondieren
+      cjid: fsub
+    - cjfs:
+      - he correspondido
+      - has correspondido
+      - ha correspondido
+      - hemos correspondido
+      - "hab\xE9is correspondido"
+      - han correspondido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa correspondido"
+      - "hab\xEDas correspondido"
+      - "hab\xEDa correspondido"
+      - "hab\xEDamos correspondido"
+      - "hab\xEDais correspondido"
+      - "hab\xEDan correspondido"
+      cjid: ppsi
+    - cjfs:
+      - hube correspondido
+      - hubiste correspondido
+      - hubo correspondido
+      - hubimos correspondido
+      - hubisteis correspondido
+      - hubieron correspondido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 correspondido"
+      - "habr\xE1s correspondido"
+      - "habr\xE1 correspondido"
+      - habremos correspondido
+      - "habr\xE9is correspondido"
+      - "habr\xE1n correspondido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa correspondido"
+      - "habr\xEDas correspondido"
+      - "habr\xEDa correspondido"
+      - "habr\xEDamos correspondido"
+      - "habr\xEDais correspondido"
+      - "habr\xEDan correspondido"
+      cjid: cpef
+    - cjfs:
+      - haya correspondido
+      - hayas correspondido
+      - haya correspondido
+      - hayamos correspondido
+      - "hay\xE1is correspondido"
+      - hayan correspondido
+      cjid: ppfs
+    - cjfs:
+      - hubiera correspondido
+      - hubieras correspondido
+      - hubiera correspondido
+      - "hubi\xE9ramos correspondido"
+      - hubierais correspondido
+      - hubieran correspondido
+      cjid: ppss1
+    - cjfs:
+      - hubiese correspondido
+      - hubieses correspondido
+      - hubiese correspondido
+      - "hubi\xE9semos correspondido"
+      - hubieseis correspondido
+      - hubiesen correspondido
+      cjid: ppss2
+    - cjfs:
+      - hubiere correspondido
+      - hubieres correspondido
+      - hubiere correspondido
+      - "hubi\xE9remos correspondido"
+      - hubiereis correspondido
+      - hubieren correspondido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - corresponde
+      - corresponda
+      - correspondamos
+      - corresponded
+      - correspondan
+      cjid: impf

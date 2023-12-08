@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|kick} (of an animal)'
+  fl: intransitive verb
+  hwi:
+    hw: cocear
+    prs:
+    - sound:
+        audio: cocea01sp
+  meta:
+    id: cocear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604944000'
+    src: spanish
+    stems:
+    - cocear
+    uuid: 5a346126-9976-4a67-b8d0-ba21b052e840
+  shortdef:
+  - to kick (of an animal)
+  suppl:
+    cjts:
+    - cjfs:
+      - coceando
+      - coceado
+      cjid: gppt
+    - cjfs:
+      - coceo
+      - coceas
+      - cocea
+      - coceamos
+      - "coce\xE1is"
+      - cocean
+      cjid: pind
+    - cjfs:
+      - coceaba
+      - coceabas
+      - coceaba
+      - "coce\xE1bamos"
+      - coceabais
+      - coceaban
+      cjid: pret
+    - cjfs:
+      - "coce\xE9"
+      - coceaste
+      - "coce\xF3"
+      - coceamos
+      - coceasteis
+      - cocearon
+      cjid: pprf
+    - cjfs:
+      - "cocear\xE9"
+      - "cocear\xE1s"
+      - "cocear\xE1"
+      - cocearemos
+      - "cocear\xE9is"
+      - "cocear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cocear\xEDa"
+      - "cocear\xEDas"
+      - "cocear\xEDa"
+      - "cocear\xEDamos"
+      - "cocear\xEDais"
+      - "cocear\xEDan"
+      cjid: cond
+    - cjfs:
+      - cocee
+      - cocees
+      - cocee
+      - coceemos
+      - "coce\xE9is"
+      - coceen
+      cjid: psub
+    - cjfs:
+      - coceara
+      - cocearas
+      - coceara
+      - "coce\xE1ramos"
+      - cocearais
+      - cocearan
+      cjid: pisb1
+    - cjfs:
+      - cocease
+      - coceases
+      - cocease
+      - "coce\xE1semos"
+      - coceaseis
+      - coceasen
+      cjid: pisb2
+    - cjfs:
+      - coceare
+      - coceares
+      - coceare
+      - "coce\xE1remos"
+      - coceareis
+      - cocearen
+      cjid: fsub
+    - cjfs:
+      - he coceado
+      - has coceado
+      - ha coceado
+      - hemos coceado
+      - "hab\xE9is coceado"
+      - han coceado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa coceado"
+      - "hab\xEDas coceado"
+      - "hab\xEDa coceado"
+      - "hab\xEDamos coceado"
+      - "hab\xEDais coceado"
+      - "hab\xEDan coceado"
+      cjid: ppsi
+    - cjfs:
+      - hube coceado
+      - hubiste coceado
+      - hubo coceado
+      - hubimos coceado
+      - hubisteis coceado
+      - hubieron coceado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 coceado"
+      - "habr\xE1s coceado"
+      - "habr\xE1 coceado"
+      - habremos coceado
+      - "habr\xE9is coceado"
+      - "habr\xE1n coceado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa coceado"
+      - "habr\xEDas coceado"
+      - "habr\xEDa coceado"
+      - "habr\xEDamos coceado"
+      - "habr\xEDais coceado"
+      - "habr\xEDan coceado"
+      cjid: cpef
+    - cjfs:
+      - haya coceado
+      - hayas coceado
+      - haya coceado
+      - hayamos coceado
+      - "hay\xE1is coceado"
+      - hayan coceado
+      cjid: ppfs
+    - cjfs:
+      - hubiera coceado
+      - hubieras coceado
+      - hubiera coceado
+      - "hubi\xE9ramos coceado"
+      - hubierais coceado
+      - hubieran coceado
+      cjid: ppss1
+    - cjfs:
+      - hubiese coceado
+      - hubieses coceado
+      - hubiese coceado
+      - "hubi\xE9semos coceado"
+      - hubieseis coceado
+      - hubiesen coceado
+      cjid: ppss2
+    - cjfs:
+      - hubiere coceado
+      - hubieres coceado
+      - hubiere coceado
+      - "hubi\xE9remos coceado"
+      - hubiereis coceado
+      - hubieren coceado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cocea
+      - cocee
+      - coceemos
+      - cocead
+      - coceen
+      cjid: impf

@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|participate}, to take part '
+          - - vis
+            - - t: participar en algo
+                tr: to participate in something
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a share in'
+          sn: '2'
+          vrs:
+          - va: participar en
+            vac: ~ en
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|announce}, to {a_link|notify}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: participar
+    prs:
+    - sound:
+        audio: parti04sp
+  meta:
+    id: participar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616740000'
+    src: spanish
+    stems:
+    - participar
+    - participar en
+    uuid: a2fbb78e-29d6-472b-87ed-b1b4d7339b07
+  shortdef:
+  - to participate, to take part
+  - to have a share in
+  - to announce, to notify
+  suppl:
+    cjts:
+    - cjfs:
+      - participando
+      - participado
+      cjid: gppt
+    - cjfs:
+      - participo
+      - participas
+      - participa
+      - participamos
+      - "particip\xE1is"
+      - participan
+      cjid: pind
+    - cjfs:
+      - participaba
+      - participabas
+      - participaba
+      - "particip\xE1bamos"
+      - participabais
+      - participaban
+      cjid: pret
+    - cjfs:
+      - "particip\xE9"
+      - participaste
+      - "particip\xF3"
+      - participamos
+      - participasteis
+      - participaron
+      cjid: pprf
+    - cjfs:
+      - "participar\xE9"
+      - "participar\xE1s"
+      - "participar\xE1"
+      - participaremos
+      - "participar\xE9is"
+      - "participar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "participar\xEDa"
+      - "participar\xEDas"
+      - "participar\xEDa"
+      - "participar\xEDamos"
+      - "participar\xEDais"
+      - "participar\xEDan"
+      cjid: cond
+    - cjfs:
+      - participe
+      - participes
+      - participe
+      - participemos
+      - "particip\xE9is"
+      - participen
+      cjid: psub
+    - cjfs:
+      - participara
+      - participaras
+      - participara
+      - "particip\xE1ramos"
+      - participarais
+      - participaran
+      cjid: pisb1
+    - cjfs:
+      - participase
+      - participases
+      - participase
+      - "particip\xE1semos"
+      - participaseis
+      - participasen
+      cjid: pisb2
+    - cjfs:
+      - participare
+      - participares
+      - participare
+      - "particip\xE1remos"
+      - participareis
+      - participaren
+      cjid: fsub
+    - cjfs:
+      - he participado
+      - has participado
+      - ha participado
+      - hemos participado
+      - "hab\xE9is participado"
+      - han participado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa participado"
+      - "hab\xEDas participado"
+      - "hab\xEDa participado"
+      - "hab\xEDamos participado"
+      - "hab\xEDais participado"
+      - "hab\xEDan participado"
+      cjid: ppsi
+    - cjfs:
+      - hube participado
+      - hubiste participado
+      - hubo participado
+      - hubimos participado
+      - hubisteis participado
+      - hubieron participado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 participado"
+      - "habr\xE1s participado"
+      - "habr\xE1 participado"
+      - habremos participado
+      - "habr\xE9is participado"
+      - "habr\xE1n participado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa participado"
+      - "habr\xEDas participado"
+      - "habr\xEDa participado"
+      - "habr\xEDamos participado"
+      - "habr\xEDais participado"
+      - "habr\xEDan participado"
+      cjid: cpef
+    - cjfs:
+      - haya participado
+      - hayas participado
+      - haya participado
+      - hayamos participado
+      - "hay\xE1is participado"
+      - hayan participado
+      cjid: ppfs
+    - cjfs:
+      - hubiera participado
+      - hubieras participado
+      - hubiera participado
+      - "hubi\xE9ramos participado"
+      - hubierais participado
+      - hubieran participado
+      cjid: ppss1
+    - cjfs:
+      - hubiese participado
+      - hubieses participado
+      - hubiese participado
+      - "hubi\xE9semos participado"
+      - hubieseis participado
+      - hubiesen participado
+      cjid: ppss2
+    - cjfs:
+      - hubiere participado
+      - hubieres participado
+      - hubiere participado
+      - "hubi\xE9remos participado"
+      - hubiereis participado
+      - hubieren participado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - participa
+      - participe
+      - participemos
+      - participad
+      - participen
+      cjid: impf

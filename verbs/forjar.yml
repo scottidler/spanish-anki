@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|forge}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shape}, to {a_link|create} '
+          - - vis
+            - - t: forjar un compromiso
+                tr: to hammer out a compromise
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|invent}, to {a_link|concoct}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: forjar
+    prs:
+    - sound:
+        audio: forja01sp
+  meta:
+    id: forjar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610303000'
+    src: spanish
+    stems:
+    - forjar
+    uuid: 73f04898-3a25-4d35-bfe2-3f79dd7a44e6
+  shortdef:
+  - to forge
+  - to shape, to create
+  - to invent, to concoct
+  suppl:
+    cjts:
+    - cjfs:
+      - forjando
+      - forjado
+      cjid: gppt
+    - cjfs:
+      - forjo
+      - forjas
+      - forja
+      - forjamos
+      - "forj\xE1is"
+      - forjan
+      cjid: pind
+    - cjfs:
+      - forjaba
+      - forjabas
+      - forjaba
+      - "forj\xE1bamos"
+      - forjabais
+      - forjaban
+      cjid: pret
+    - cjfs:
+      - "forj\xE9"
+      - forjaste
+      - "forj\xF3"
+      - forjamos
+      - forjasteis
+      - forjaron
+      cjid: pprf
+    - cjfs:
+      - "forjar\xE9"
+      - "forjar\xE1s"
+      - "forjar\xE1"
+      - forjaremos
+      - "forjar\xE9is"
+      - "forjar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "forjar\xEDa"
+      - "forjar\xEDas"
+      - "forjar\xEDa"
+      - "forjar\xEDamos"
+      - "forjar\xEDais"
+      - "forjar\xEDan"
+      cjid: cond
+    - cjfs:
+      - forje
+      - forjes
+      - forje
+      - forjemos
+      - "forj\xE9is"
+      - forjen
+      cjid: psub
+    - cjfs:
+      - forjara
+      - forjaras
+      - forjara
+      - "forj\xE1ramos"
+      - forjarais
+      - forjaran
+      cjid: pisb1
+    - cjfs:
+      - forjase
+      - forjases
+      - forjase
+      - "forj\xE1semos"
+      - forjaseis
+      - forjasen
+      cjid: pisb2
+    - cjfs:
+      - forjare
+      - forjares
+      - forjare
+      - "forj\xE1remos"
+      - forjareis
+      - forjaren
+      cjid: fsub
+    - cjfs:
+      - he forjado
+      - has forjado
+      - ha forjado
+      - hemos forjado
+      - "hab\xE9is forjado"
+      - han forjado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa forjado"
+      - "hab\xEDas forjado"
+      - "hab\xEDa forjado"
+      - "hab\xEDamos forjado"
+      - "hab\xEDais forjado"
+      - "hab\xEDan forjado"
+      cjid: ppsi
+    - cjfs:
+      - hube forjado
+      - hubiste forjado
+      - hubo forjado
+      - hubimos forjado
+      - hubisteis forjado
+      - hubieron forjado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 forjado"
+      - "habr\xE1s forjado"
+      - "habr\xE1 forjado"
+      - habremos forjado
+      - "habr\xE9is forjado"
+      - "habr\xE1n forjado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa forjado"
+      - "habr\xEDas forjado"
+      - "habr\xEDa forjado"
+      - "habr\xEDamos forjado"
+      - "habr\xEDais forjado"
+      - "habr\xEDan forjado"
+      cjid: cpef
+    - cjfs:
+      - haya forjado
+      - hayas forjado
+      - haya forjado
+      - hayamos forjado
+      - "hay\xE1is forjado"
+      - hayan forjado
+      cjid: ppfs
+    - cjfs:
+      - hubiera forjado
+      - hubieras forjado
+      - hubiera forjado
+      - "hubi\xE9ramos forjado"
+      - hubierais forjado
+      - hubieran forjado
+      cjid: ppss1
+    - cjfs:
+      - hubiese forjado
+      - hubieses forjado
+      - hubiese forjado
+      - "hubi\xE9semos forjado"
+      - hubieseis forjado
+      - hubiesen forjado
+      cjid: ppss2
+    - cjfs:
+      - hubiere forjado
+      - hubieres forjado
+      - hubiere forjado
+      - "hubi\xE9remos forjado"
+      - hubiereis forjado
+      - hubieren forjado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - forja
+      - forje
+      - forjemos
+      - forjad
+      - forjen
+      cjid: impf

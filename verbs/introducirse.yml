@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|introduce}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring in}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|insert}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|input}, to {a_link|enter}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|penetrate}, to {a_link|get into}'
+    drp: introducirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: introducir
+    prs:
+    - sound:
+        audio: intro02sp
+  meta:
+    id: introducir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612944000'
+    src: spanish
+    stems:
+    - introducir
+    - introducirse
+    uuid: 0a804612-f3f4-423d-be49-e90689bc014c
+  shortdef:
+  - to introduce
+  - to bring in
+  - to insert
+  suppl:
+    cjts:
+    - cjfs:
+      - introduciendo
+      - introducido
+      cjid: gppt
+    - cjfs:
+      - introduzco
+      - introduces
+      - introduce
+      - introducimos
+      - "introduc\xEDs"
+      - introducen
+      cjid: pind
+    - cjfs:
+      - "introduc\xEDa"
+      - "introduc\xEDas"
+      - "introduc\xEDa"
+      - "introduc\xEDamos"
+      - "introduc\xEDais"
+      - "introduc\xEDan"
+      cjid: pret
+    - cjfs:
+      - introduje
+      - introdujiste
+      - introdujo
+      - introdujimos
+      - introdujisteis
+      - introdujeron
+      cjid: pprf
+    - cjfs:
+      - "introducir\xE9"
+      - "introducir\xE1s"
+      - "introducir\xE1"
+      - introduciremos
+      - "introducir\xE9is"
+      - "introducir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "introducir\xEDa"
+      - "introducir\xEDas"
+      - "introducir\xEDa"
+      - "introducir\xEDamos"
+      - "introducir\xEDais"
+      - "introducir\xEDan"
+      cjid: cond
+    - cjfs:
+      - introduzca
+      - introduzcas
+      - introduzca
+      - introduzcamos
+      - "introduzc\xE1is"
+      - introduzcan
+      cjid: psub
+    - cjfs:
+      - introdujera
+      - introdujeras
+      - introdujera
+      - "introduj\xE9ramos"
+      - introdujerais
+      - introdujeran
+      cjid: pisb1
+    - cjfs:
+      - introdujese
+      - introdujeses
+      - introdujese
+      - "introduj\xE9semos"
+      - introdujeseis
+      - introdujesen
+      cjid: pisb2
+    - cjfs:
+      - introdujere
+      - introdujeres
+      - introdujere
+      - "introduj\xE9remos"
+      - introdujereis
+      - introdujeren
+      cjid: fsub
+    - cjfs:
+      - he introducido
+      - has introducido
+      - ha introducido
+      - hemos introducido
+      - "hab\xE9is introducido"
+      - han introducido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa introducido"
+      - "hab\xEDas introducido"
+      - "hab\xEDa introducido"
+      - "hab\xEDamos introducido"
+      - "hab\xEDais introducido"
+      - "hab\xEDan introducido"
+      cjid: ppsi
+    - cjfs:
+      - hube introducido
+      - hubiste introducido
+      - hubo introducido
+      - hubimos introducido
+      - hubisteis introducido
+      - hubieron introducido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 introducido"
+      - "habr\xE1s introducido"
+      - "habr\xE1 introducido"
+      - habremos introducido
+      - "habr\xE9is introducido"
+      - "habr\xE1n introducido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa introducido"
+      - "habr\xEDas introducido"
+      - "habr\xEDa introducido"
+      - "habr\xEDamos introducido"
+      - "habr\xEDais introducido"
+      - "habr\xEDan introducido"
+      cjid: cpef
+    - cjfs:
+      - haya introducido
+      - hayas introducido
+      - haya introducido
+      - hayamos introducido
+      - "hay\xE1is introducido"
+      - hayan introducido
+      cjid: ppfs
+    - cjfs:
+      - hubiera introducido
+      - hubieras introducido
+      - hubiera introducido
+      - "hubi\xE9ramos introducido"
+      - hubierais introducido
+      - hubieran introducido
+      cjid: ppss1
+    - cjfs:
+      - hubiese introducido
+      - hubieses introducido
+      - hubiese introducido
+      - "hubi\xE9semos introducido"
+      - hubieseis introducido
+      - hubiesen introducido
+      cjid: ppss2
+    - cjfs:
+      - hubiere introducido
+      - hubieres introducido
+      - hubiere introducido
+      - "hubi\xE9remos introducido"
+      - hubiereis introducido
+      - hubieren introducido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - introduce
+      - introduzca
+      - introduzcamos
+      - introducid
+      - introduzcan
+      cjid: impf

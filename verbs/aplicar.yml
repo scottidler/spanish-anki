@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|apply}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|apply oneself}'
+    drp: aplicarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aplicar
+    prs:
+    - sound:
+        audio: aplic03sp
+  meta:
+    id: aplicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601729000'
+    src: spanish
+    stems:
+    - aplicar
+    - aplicarse
+    uuid: 68189296-d529-45af-867c-8796f8f84572
+  shortdef:
+  - to apply
+  suppl:
+    cjts:
+    - cjfs:
+      - aplicando
+      - aplicado
+      cjid: gppt
+    - cjfs:
+      - aplico
+      - aplicas
+      - aplica
+      - aplicamos
+      - "aplic\xE1is"
+      - aplican
+      cjid: pind
+    - cjfs:
+      - aplicaba
+      - aplicabas
+      - aplicaba
+      - "aplic\xE1bamos"
+      - aplicabais
+      - aplicaban
+      cjid: pret
+    - cjfs:
+      - "apliqu\xE9"
+      - aplicaste
+      - "aplic\xF3"
+      - aplicamos
+      - aplicasteis
+      - aplicaron
+      cjid: pprf
+    - cjfs:
+      - "aplicar\xE9"
+      - "aplicar\xE1s"
+      - "aplicar\xE1"
+      - aplicaremos
+      - "aplicar\xE9is"
+      - "aplicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aplicar\xEDa"
+      - "aplicar\xEDas"
+      - "aplicar\xEDa"
+      - "aplicar\xEDamos"
+      - "aplicar\xEDais"
+      - "aplicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aplique
+      - apliques
+      - aplique
+      - apliquemos
+      - "apliqu\xE9is"
+      - apliquen
+      cjid: psub
+    - cjfs:
+      - aplicara
+      - aplicaras
+      - aplicara
+      - "aplic\xE1ramos"
+      - aplicarais
+      - aplicaran
+      cjid: pisb1
+    - cjfs:
+      - aplicase
+      - aplicases
+      - aplicase
+      - "aplic\xE1semos"
+      - aplicaseis
+      - aplicasen
+      cjid: pisb2
+    - cjfs:
+      - aplicare
+      - aplicares
+      - aplicare
+      - "aplic\xE1remos"
+      - aplicareis
+      - aplicaren
+      cjid: fsub
+    - cjfs:
+      - he aplicado
+      - has aplicado
+      - ha aplicado
+      - hemos aplicado
+      - "hab\xE9is aplicado"
+      - han aplicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aplicado"
+      - "hab\xEDas aplicado"
+      - "hab\xEDa aplicado"
+      - "hab\xEDamos aplicado"
+      - "hab\xEDais aplicado"
+      - "hab\xEDan aplicado"
+      cjid: ppsi
+    - cjfs:
+      - hube aplicado
+      - hubiste aplicado
+      - hubo aplicado
+      - hubimos aplicado
+      - hubisteis aplicado
+      - hubieron aplicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aplicado"
+      - "habr\xE1s aplicado"
+      - "habr\xE1 aplicado"
+      - habremos aplicado
+      - "habr\xE9is aplicado"
+      - "habr\xE1n aplicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aplicado"
+      - "habr\xEDas aplicado"
+      - "habr\xEDa aplicado"
+      - "habr\xEDamos aplicado"
+      - "habr\xEDais aplicado"
+      - "habr\xEDan aplicado"
+      cjid: cpef
+    - cjfs:
+      - haya aplicado
+      - hayas aplicado
+      - haya aplicado
+      - hayamos aplicado
+      - "hay\xE1is aplicado"
+      - hayan aplicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aplicado
+      - hubieras aplicado
+      - hubiera aplicado
+      - "hubi\xE9ramos aplicado"
+      - hubierais aplicado
+      - hubieran aplicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aplicado
+      - hubieses aplicado
+      - hubiese aplicado
+      - "hubi\xE9semos aplicado"
+      - hubieseis aplicado
+      - hubiesen aplicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aplicado
+      - hubieres aplicado
+      - hubiere aplicado
+      - "hubi\xE9remos aplicado"
+      - hubiereis aplicado
+      - hubieren aplicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aplica
+      - aplique
+      - apliquemos
+      - aplicad
+      - apliquen
+      cjid: impf

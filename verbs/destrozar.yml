@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|smash}, to {a_link|shatter}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|destroy}, to {a_link|wreck}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: destrozar
+  meta:
+    id: destrozar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607369000'
+    src: spanish
+    stems:
+    - destrozar
+    - destrozarse
+    uuid: 07ab27f2-79a9-4a99-893e-243e04a2e1ee
+  shortdef:
+  - to smash, to shatter
+  - to destroy, to wreck
+  suppl:
+    cjts:
+    - cjfs:
+      - destrozando
+      - destrozado
+      cjid: gppt
+    - cjfs:
+      - destrozo
+      - destrozas
+      - destroza
+      - destrozamos
+      - "destroz\xE1is"
+      - destrozan
+      cjid: pind
+    - cjfs:
+      - destrozaba
+      - destrozabas
+      - destrozaba
+      - "destroz\xE1bamos"
+      - destrozabais
+      - destrozaban
+      cjid: pret
+    - cjfs:
+      - "destroc\xE9"
+      - destrozaste
+      - "destroz\xF3"
+      - destrozamos
+      - destrozasteis
+      - destrozaron
+      cjid: pprf
+    - cjfs:
+      - "destrozar\xE9"
+      - "destrozar\xE1s"
+      - "destrozar\xE1"
+      - destrozaremos
+      - "destrozar\xE9is"
+      - "destrozar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "destrozar\xEDa"
+      - "destrozar\xEDas"
+      - "destrozar\xEDa"
+      - "destrozar\xEDamos"
+      - "destrozar\xEDais"
+      - "destrozar\xEDan"
+      cjid: cond
+    - cjfs:
+      - destroce
+      - destroces
+      - destroce
+      - destrocemos
+      - "destroc\xE9is"
+      - destrocen
+      cjid: psub
+    - cjfs:
+      - destrozara
+      - destrozaras
+      - destrozara
+      - "destroz\xE1ramos"
+      - destrozarais
+      - destrozaran
+      cjid: pisb1
+    - cjfs:
+      - destrozase
+      - destrozases
+      - destrozase
+      - "destroz\xE1semos"
+      - destrozaseis
+      - destrozasen
+      cjid: pisb2
+    - cjfs:
+      - destrozare
+      - destrozares
+      - destrozare
+      - "destroz\xE1remos"
+      - destrozareis
+      - destrozaren
+      cjid: fsub
+    - cjfs:
+      - he destrozado
+      - has destrozado
+      - ha destrozado
+      - hemos destrozado
+      - "hab\xE9is destrozado"
+      - han destrozado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa destrozado"
+      - "hab\xEDas destrozado"
+      - "hab\xEDa destrozado"
+      - "hab\xEDamos destrozado"
+      - "hab\xEDais destrozado"
+      - "hab\xEDan destrozado"
+      cjid: ppsi
+    - cjfs:
+      - hube destrozado
+      - hubiste destrozado
+      - hubo destrozado
+      - hubimos destrozado
+      - hubisteis destrozado
+      - hubieron destrozado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 destrozado"
+      - "habr\xE1s destrozado"
+      - "habr\xE1 destrozado"
+      - habremos destrozado
+      - "habr\xE9is destrozado"
+      - "habr\xE1n destrozado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa destrozado"
+      - "habr\xEDas destrozado"
+      - "habr\xEDa destrozado"
+      - "habr\xEDamos destrozado"
+      - "habr\xEDais destrozado"
+      - "habr\xEDan destrozado"
+      cjid: cpef
+    - cjfs:
+      - haya destrozado
+      - hayas destrozado
+      - haya destrozado
+      - hayamos destrozado
+      - "hay\xE1is destrozado"
+      - hayan destrozado
+      cjid: ppfs
+    - cjfs:
+      - hubiera destrozado
+      - hubieras destrozado
+      - hubiera destrozado
+      - "hubi\xE9ramos destrozado"
+      - hubierais destrozado
+      - hubieran destrozado
+      cjid: ppss1
+    - cjfs:
+      - hubiese destrozado
+      - hubieses destrozado
+      - hubiese destrozado
+      - "hubi\xE9semos destrozado"
+      - hubieseis destrozado
+      - hubiesen destrozado
+      cjid: ppss2
+    - cjfs:
+      - hubiere destrozado
+      - hubieres destrozado
+      - hubiere destrozado
+      - "hubi\xE9remos destrozado"
+      - hubiereis destrozado
+      - hubieren destrozado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - destroza
+      - destroce
+      - destrocemos
+      - destrozad
+      - destrocen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: destrozarse

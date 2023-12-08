@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snap}, to {a_link|break off}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cut off} (relations)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: tronchar
+  meta:
+    id: tronchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622382000'
+    src: spanish
+    stems:
+    - tronchar
+    uuid: e062e6ef-2f4a-4e18-8d74-b8e48275c050
+  shortdef:
+  - to snap, to break off
+  - to cut off (relations)
+  suppl:
+    cjts:
+    - cjfs:
+      - tronchando
+      - tronchado
+      cjid: gppt
+    - cjfs:
+      - troncho
+      - tronchas
+      - troncha
+      - tronchamos
+      - "tronch\xE1is"
+      - tronchan
+      cjid: pind
+    - cjfs:
+      - tronchaba
+      - tronchabas
+      - tronchaba
+      - "tronch\xE1bamos"
+      - tronchabais
+      - tronchaban
+      cjid: pret
+    - cjfs:
+      - "tronch\xE9"
+      - tronchaste
+      - "tronch\xF3"
+      - tronchamos
+      - tronchasteis
+      - troncharon
+      cjid: pprf
+    - cjfs:
+      - "tronchar\xE9"
+      - "tronchar\xE1s"
+      - "tronchar\xE1"
+      - troncharemos
+      - "tronchar\xE9is"
+      - "tronchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tronchar\xEDa"
+      - "tronchar\xEDas"
+      - "tronchar\xEDa"
+      - "tronchar\xEDamos"
+      - "tronchar\xEDais"
+      - "tronchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tronche
+      - tronches
+      - tronche
+      - tronchemos
+      - "tronch\xE9is"
+      - tronchen
+      cjid: psub
+    - cjfs:
+      - tronchara
+      - troncharas
+      - tronchara
+      - "tronch\xE1ramos"
+      - troncharais
+      - troncharan
+      cjid: pisb1
+    - cjfs:
+      - tronchase
+      - tronchases
+      - tronchase
+      - "tronch\xE1semos"
+      - tronchaseis
+      - tronchasen
+      cjid: pisb2
+    - cjfs:
+      - tronchare
+      - tronchares
+      - tronchare
+      - "tronch\xE1remos"
+      - tronchareis
+      - troncharen
+      cjid: fsub
+    - cjfs:
+      - he tronchado
+      - has tronchado
+      - ha tronchado
+      - hemos tronchado
+      - "hab\xE9is tronchado"
+      - han tronchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tronchado"
+      - "hab\xEDas tronchado"
+      - "hab\xEDa tronchado"
+      - "hab\xEDamos tronchado"
+      - "hab\xEDais tronchado"
+      - "hab\xEDan tronchado"
+      cjid: ppsi
+    - cjfs:
+      - hube tronchado
+      - hubiste tronchado
+      - hubo tronchado
+      - hubimos tronchado
+      - hubisteis tronchado
+      - hubieron tronchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tronchado"
+      - "habr\xE1s tronchado"
+      - "habr\xE1 tronchado"
+      - habremos tronchado
+      - "habr\xE9is tronchado"
+      - "habr\xE1n tronchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tronchado"
+      - "habr\xEDas tronchado"
+      - "habr\xEDa tronchado"
+      - "habr\xEDamos tronchado"
+      - "habr\xEDais tronchado"
+      - "habr\xEDan tronchado"
+      cjid: cpef
+    - cjfs:
+      - haya tronchado
+      - hayas tronchado
+      - haya tronchado
+      - hayamos tronchado
+      - "hay\xE1is tronchado"
+      - hayan tronchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tronchado
+      - hubieras tronchado
+      - hubiera tronchado
+      - "hubi\xE9ramos tronchado"
+      - hubierais tronchado
+      - hubieran tronchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tronchado
+      - hubieses tronchado
+      - hubiese tronchado
+      - "hubi\xE9semos tronchado"
+      - hubieseis tronchado
+      - hubiesen tronchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tronchado
+      - hubieres tronchado
+      - hubiere tronchado
+      - "hubi\xE9remos tronchado"
+      - hubiereis tronchado
+      - hubieren tronchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - troncha
+      - tronche
+      - tronchemos
+      - tronchad
+      - tronchen
+      cjid: impf

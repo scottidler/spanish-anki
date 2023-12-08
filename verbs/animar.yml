@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|alentar||} {bc}to {a_link|encourage}, to {a_link|inspire}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|animate}, to {a_link|enliven}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|brighten up}, to cheer up'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: animar
+    prs:
+    - sound:
+        audio: anima03sp
+  meta:
+    id: animar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601427000'
+    src: spanish
+    stems:
+    - animar
+    - animarse
+    uuid: def45eb8-47f3-46d8-85a7-caabf523daf6
+  shortdef:
+  - 'alentar : to encourage, to inspire'
+  - to animate, to enliven
+  - to brighten up, to cheer up
+  suppl:
+    cjts:
+    - cjfs:
+      - animando
+      - animado
+      cjid: gppt
+    - cjfs:
+      - animo
+      - animas
+      - anima
+      - animamos
+      - "anim\xE1is"
+      - animan
+      cjid: pind
+    - cjfs:
+      - animaba
+      - animabas
+      - animaba
+      - "anim\xE1bamos"
+      - animabais
+      - animaban
+      cjid: pret
+    - cjfs:
+      - "anim\xE9"
+      - animaste
+      - "anim\xF3"
+      - animamos
+      - animasteis
+      - animaron
+      cjid: pprf
+    - cjfs:
+      - "animar\xE9"
+      - "animar\xE1s"
+      - "animar\xE1"
+      - animaremos
+      - "animar\xE9is"
+      - "animar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "animar\xEDa"
+      - "animar\xEDas"
+      - "animar\xEDa"
+      - "animar\xEDamos"
+      - "animar\xEDais"
+      - "animar\xEDan"
+      cjid: cond
+    - cjfs:
+      - anime
+      - animes
+      - anime
+      - animemos
+      - "anim\xE9is"
+      - animen
+      cjid: psub
+    - cjfs:
+      - animara
+      - animaras
+      - animara
+      - "anim\xE1ramos"
+      - animarais
+      - animaran
+      cjid: pisb1
+    - cjfs:
+      - animase
+      - animases
+      - animase
+      - "anim\xE1semos"
+      - animaseis
+      - animasen
+      cjid: pisb2
+    - cjfs:
+      - animare
+      - animares
+      - animare
+      - "anim\xE1remos"
+      - animareis
+      - animaren
+      cjid: fsub
+    - cjfs:
+      - he animado
+      - has animado
+      - ha animado
+      - hemos animado
+      - "hab\xE9is animado"
+      - han animado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa animado"
+      - "hab\xEDas animado"
+      - "hab\xEDa animado"
+      - "hab\xEDamos animado"
+      - "hab\xEDais animado"
+      - "hab\xEDan animado"
+      cjid: ppsi
+    - cjfs:
+      - hube animado
+      - hubiste animado
+      - hubo animado
+      - hubimos animado
+      - hubisteis animado
+      - hubieron animado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 animado"
+      - "habr\xE1s animado"
+      - "habr\xE1 animado"
+      - habremos animado
+      - "habr\xE9is animado"
+      - "habr\xE1n animado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa animado"
+      - "habr\xEDas animado"
+      - "habr\xEDa animado"
+      - "habr\xEDamos animado"
+      - "habr\xEDais animado"
+      - "habr\xEDan animado"
+      cjid: cpef
+    - cjfs:
+      - haya animado
+      - hayas animado
+      - haya animado
+      - hayamos animado
+      - "hay\xE1is animado"
+      - hayan animado
+      cjid: ppfs
+    - cjfs:
+      - hubiera animado
+      - hubieras animado
+      - hubiera animado
+      - "hubi\xE9ramos animado"
+      - hubierais animado
+      - hubieran animado
+      cjid: ppss1
+    - cjfs:
+      - hubiese animado
+      - hubieses animado
+      - hubiese animado
+      - "hubi\xE9semos animado"
+      - hubieseis animado
+      - hubiesen animado
+      cjid: ppss2
+    - cjfs:
+      - hubiere animado
+      - hubieres animado
+      - hubiere animado
+      - "hubi\xE9remos animado"
+      - hubiereis animado
+      - hubieren animado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - anima
+      - anime
+      - animemos
+      - animad
+      - animen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: animarse

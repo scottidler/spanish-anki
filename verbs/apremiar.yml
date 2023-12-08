@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|instar||} {bc}to {a_link|pressure}, to {a_link|urge}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|urgir||} {bc}to {a_link|be urgent} '
+          - - vis
+            - - t: el tiempo apremia
+                tr: time is of the essence
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: apremiar
+  meta:
+    id: apremiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601781000'
+    src: spanish
+    stems:
+    - apremiar
+    uuid: c387c09f-66bb-4117-98c0-cf5a5d6e6f13
+  shortdef:
+  - 'instar : to pressure, to urge'
+  - 'urgir : to be urgent'
+  suppl:
+    cjts:
+    - cjfs:
+      - apremiando
+      - apremiado
+      cjid: gppt
+    - cjfs:
+      - apremio
+      - apremias
+      - apremia
+      - apremiamos
+      - "apremi\xE1is"
+      - apremian
+      cjid: pind
+    - cjfs:
+      - apremiaba
+      - apremiabas
+      - apremiaba
+      - "apremi\xE1bamos"
+      - apremiabais
+      - apremiaban
+      cjid: pret
+    - cjfs:
+      - "apremi\xE9"
+      - apremiaste
+      - "apremi\xF3"
+      - apremiamos
+      - apremiasteis
+      - apremiaron
+      cjid: pprf
+    - cjfs:
+      - "apremiar\xE9"
+      - "apremiar\xE1s"
+      - "apremiar\xE1"
+      - apremiaremos
+      - "apremiar\xE9is"
+      - "apremiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apremiar\xEDa"
+      - "apremiar\xEDas"
+      - "apremiar\xEDa"
+      - "apremiar\xEDamos"
+      - "apremiar\xEDais"
+      - "apremiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apremie
+      - apremies
+      - apremie
+      - apremiemos
+      - "apremi\xE9is"
+      - apremien
+      cjid: psub
+    - cjfs:
+      - apremiara
+      - apremiaras
+      - apremiara
+      - "apremi\xE1ramos"
+      - apremiarais
+      - apremiaran
+      cjid: pisb1
+    - cjfs:
+      - apremiase
+      - apremiases
+      - apremiase
+      - "apremi\xE1semos"
+      - apremiaseis
+      - apremiasen
+      cjid: pisb2
+    - cjfs:
+      - apremiare
+      - apremiares
+      - apremiare
+      - "apremi\xE1remos"
+      - apremiareis
+      - apremiaren
+      cjid: fsub
+    - cjfs:
+      - he apremiado
+      - has apremiado
+      - ha apremiado
+      - hemos apremiado
+      - "hab\xE9is apremiado"
+      - han apremiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apremiado"
+      - "hab\xEDas apremiado"
+      - "hab\xEDa apremiado"
+      - "hab\xEDamos apremiado"
+      - "hab\xEDais apremiado"
+      - "hab\xEDan apremiado"
+      cjid: ppsi
+    - cjfs:
+      - hube apremiado
+      - hubiste apremiado
+      - hubo apremiado
+      - hubimos apremiado
+      - hubisteis apremiado
+      - hubieron apremiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apremiado"
+      - "habr\xE1s apremiado"
+      - "habr\xE1 apremiado"
+      - habremos apremiado
+      - "habr\xE9is apremiado"
+      - "habr\xE1n apremiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apremiado"
+      - "habr\xEDas apremiado"
+      - "habr\xEDa apremiado"
+      - "habr\xEDamos apremiado"
+      - "habr\xEDais apremiado"
+      - "habr\xEDan apremiado"
+      cjid: cpef
+    - cjfs:
+      - haya apremiado
+      - hayas apremiado
+      - haya apremiado
+      - hayamos apremiado
+      - "hay\xE1is apremiado"
+      - hayan apremiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apremiado
+      - hubieras apremiado
+      - hubiera apremiado
+      - "hubi\xE9ramos apremiado"
+      - hubierais apremiado
+      - hubieran apremiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apremiado
+      - hubieses apremiado
+      - hubiese apremiado
+      - "hubi\xE9semos apremiado"
+      - hubieseis apremiado
+      - hubiesen apremiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apremiado
+      - hubieres apremiado
+      - hubiere apremiado
+      - "hubi\xE9remos apremiado"
+      - hubiereis apremiado
+      - hubieren apremiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apremia
+      - apremie
+      - apremiemos
+      - apremiad
+      - apremien
+      cjid: impf

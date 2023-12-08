@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sadden}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be saddened'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become embarrassed'
+            sn: '2'
+    drp: apenarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apenar
+    prs:
+    - sound:
+        audio: apena01sp
+  meta:
+    id: apenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601685000'
+    src: spanish
+    stems:
+    - apenar
+    - apenarse
+    uuid: a2cd3475-33b3-4922-8a85-456d645921d4
+  shortdef:
+  - to sadden
+  suppl:
+    cjts:
+    - cjfs:
+      - apenando
+      - apenado
+      cjid: gppt
+    - cjfs:
+      - apeno
+      - apenas
+      - apena
+      - apenamos
+      - "apen\xE1is"
+      - apenan
+      cjid: pind
+    - cjfs:
+      - apenaba
+      - apenabas
+      - apenaba
+      - "apen\xE1bamos"
+      - apenabais
+      - apenaban
+      cjid: pret
+    - cjfs:
+      - "apen\xE9"
+      - apenaste
+      - "apen\xF3"
+      - apenamos
+      - apenasteis
+      - apenaron
+      cjid: pprf
+    - cjfs:
+      - "apenar\xE9"
+      - "apenar\xE1s"
+      - "apenar\xE1"
+      - apenaremos
+      - "apenar\xE9is"
+      - "apenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apenar\xEDa"
+      - "apenar\xEDas"
+      - "apenar\xEDa"
+      - "apenar\xEDamos"
+      - "apenar\xEDais"
+      - "apenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apene
+      - apenes
+      - apene
+      - apenemos
+      - "apen\xE9is"
+      - apenen
+      cjid: psub
+    - cjfs:
+      - apenara
+      - apenaras
+      - apenara
+      - "apen\xE1ramos"
+      - apenarais
+      - apenaran
+      cjid: pisb1
+    - cjfs:
+      - apenase
+      - apenases
+      - apenase
+      - "apen\xE1semos"
+      - apenaseis
+      - apenasen
+      cjid: pisb2
+    - cjfs:
+      - apenare
+      - apenares
+      - apenare
+      - "apen\xE1remos"
+      - apenareis
+      - apenaren
+      cjid: fsub
+    - cjfs:
+      - he apenado
+      - has apenado
+      - ha apenado
+      - hemos apenado
+      - "hab\xE9is apenado"
+      - han apenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apenado"
+      - "hab\xEDas apenado"
+      - "hab\xEDa apenado"
+      - "hab\xEDamos apenado"
+      - "hab\xEDais apenado"
+      - "hab\xEDan apenado"
+      cjid: ppsi
+    - cjfs:
+      - hube apenado
+      - hubiste apenado
+      - hubo apenado
+      - hubimos apenado
+      - hubisteis apenado
+      - hubieron apenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apenado"
+      - "habr\xE1s apenado"
+      - "habr\xE1 apenado"
+      - habremos apenado
+      - "habr\xE9is apenado"
+      - "habr\xE1n apenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apenado"
+      - "habr\xEDas apenado"
+      - "habr\xEDa apenado"
+      - "habr\xEDamos apenado"
+      - "habr\xEDais apenado"
+      - "habr\xEDan apenado"
+      cjid: cpef
+    - cjfs:
+      - haya apenado
+      - hayas apenado
+      - haya apenado
+      - hayamos apenado
+      - "hay\xE1is apenado"
+      - hayan apenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apenado
+      - hubieras apenado
+      - hubiera apenado
+      - "hubi\xE9ramos apenado"
+      - hubierais apenado
+      - hubieran apenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apenado
+      - hubieses apenado
+      - hubiese apenado
+      - "hubi\xE9semos apenado"
+      - hubieseis apenado
+      - hubiesen apenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apenado
+      - hubieres apenado
+      - hubiere apenado
+      - "hubi\xE9remos apenado"
+      - hubiereis apenado
+      - hubieren apenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apena
+      - apene
+      - apenemos
+      - apenad
+      - apenen
+      cjid: impf

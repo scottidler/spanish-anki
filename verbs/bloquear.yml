@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|obstruir||} {bc}to {a_link|block} (a road, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blockade} (a port)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|jam} (a mechanism)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|freeze} (an account)'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|jam}, to {a_link|stick}, to {a_link|lock}'
+    drp: bloquearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: bloquear
+    prs:
+    - sound:
+        audio: bloqu02sp
+  meta:
+    id: bloquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603108000'
+    src: spanish
+    stems:
+    - bloquear
+    - bloquearse
+    uuid: 9529ffac-55de-4cf2-9c57-c43b46cd6152
+  shortdef:
+  - 'obstruir : to block (a road, etc.)'
+  - to blockade (a port)
+  - to jam (a mechanism)
+  suppl:
+    cjts:
+    - cjfs:
+      - bloqueando
+      - bloqueado
+      cjid: gppt
+    - cjfs:
+      - bloqueo
+      - bloqueas
+      - bloquea
+      - bloqueamos
+      - "bloque\xE1is"
+      - bloquean
+      cjid: pind
+    - cjfs:
+      - bloqueaba
+      - bloqueabas
+      - bloqueaba
+      - "bloque\xE1bamos"
+      - bloqueabais
+      - bloqueaban
+      cjid: pret
+    - cjfs:
+      - "bloque\xE9"
+      - bloqueaste
+      - "bloque\xF3"
+      - bloqueamos
+      - bloqueasteis
+      - bloquearon
+      cjid: pprf
+    - cjfs:
+      - "bloquear\xE9"
+      - "bloquear\xE1s"
+      - "bloquear\xE1"
+      - bloquearemos
+      - "bloquear\xE9is"
+      - "bloquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bloquear\xEDa"
+      - "bloquear\xEDas"
+      - "bloquear\xEDa"
+      - "bloquear\xEDamos"
+      - "bloquear\xEDais"
+      - "bloquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - bloquee
+      - bloquees
+      - bloquee
+      - bloqueemos
+      - "bloque\xE9is"
+      - bloqueen
+      cjid: psub
+    - cjfs:
+      - bloqueara
+      - bloquearas
+      - bloqueara
+      - "bloque\xE1ramos"
+      - bloquearais
+      - bloquearan
+      cjid: pisb1
+    - cjfs:
+      - bloquease
+      - bloqueases
+      - bloquease
+      - "bloque\xE1semos"
+      - bloqueaseis
+      - bloqueasen
+      cjid: pisb2
+    - cjfs:
+      - bloqueare
+      - bloqueares
+      - bloqueare
+      - "bloque\xE1remos"
+      - bloqueareis
+      - bloquearen
+      cjid: fsub
+    - cjfs:
+      - he bloqueado
+      - has bloqueado
+      - ha bloqueado
+      - hemos bloqueado
+      - "hab\xE9is bloqueado"
+      - han bloqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bloqueado"
+      - "hab\xEDas bloqueado"
+      - "hab\xEDa bloqueado"
+      - "hab\xEDamos bloqueado"
+      - "hab\xEDais bloqueado"
+      - "hab\xEDan bloqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube bloqueado
+      - hubiste bloqueado
+      - hubo bloqueado
+      - hubimos bloqueado
+      - hubisteis bloqueado
+      - hubieron bloqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bloqueado"
+      - "habr\xE1s bloqueado"
+      - "habr\xE1 bloqueado"
+      - habremos bloqueado
+      - "habr\xE9is bloqueado"
+      - "habr\xE1n bloqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bloqueado"
+      - "habr\xEDas bloqueado"
+      - "habr\xEDa bloqueado"
+      - "habr\xEDamos bloqueado"
+      - "habr\xEDais bloqueado"
+      - "habr\xEDan bloqueado"
+      cjid: cpef
+    - cjfs:
+      - haya bloqueado
+      - hayas bloqueado
+      - haya bloqueado
+      - hayamos bloqueado
+      - "hay\xE1is bloqueado"
+      - hayan bloqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bloqueado
+      - hubieras bloqueado
+      - hubiera bloqueado
+      - "hubi\xE9ramos bloqueado"
+      - hubierais bloqueado
+      - hubieran bloqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bloqueado
+      - hubieses bloqueado
+      - hubiese bloqueado
+      - "hubi\xE9semos bloqueado"
+      - hubieseis bloqueado
+      - hubiesen bloqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bloqueado
+      - hubieres bloqueado
+      - hubiere bloqueado
+      - "hubi\xE9remos bloqueado"
+      - hubiereis bloqueado
+      - hubieren bloqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bloquea
+      - bloquee
+      - bloqueemos
+      - bloquead
+      - bloqueen
+      cjid: impf

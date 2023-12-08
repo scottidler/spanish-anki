@@ -1,0 +1,943 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: "\xE9l es mi hermano"
+                tr: he is my brother
+              - t: "\xBFqui\xE9n es?"
+                tr: who is it?
+              - t: soy yo
+                tr: it's me
+          sls:
+          - (expressing identity)
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: Camila es linda
+                tr: Camila is pretty
+              - t: no seas tonto
+                tr: don't be silly
+              - t: "\xE9ste es el mejor"
+                tr: this one is the best
+              - t: "es m\xEDo"
+                tr: it's mine
+              - t: es para ti
+                tr: it's for you
+              - t: es para abrir latas
+                tr: it's for opening cans
+              - t: son de Juan
+                tr: they're Juan's
+              - t: somos de Managua
+                tr: we're from Managua
+              - t: no creo que sea necesario
+                tr: I don't think it's necessary
+              - t: quiero que seas feliz
+                tr: I want you to be happy
+          sls:
+          - (expressing a quality)
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: soy abogada
+                tr: I'm a lawyer
+              - t: "es un mam\xEDfero"
+                tr: it's a mammal
+          sls:
+          - (indicating group, category, etc.)
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be}, to {a_link|exist}, to {a_link|live} '
+          - - vis
+            - - t: ser, o no ser
+                tr: to be or not to be
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be}, to {a_link|take place}, to {a_link|occur} '
+          - - vis
+            - - t: el concierto es el domingo
+                tr: the concert is on Sunday
+              - t: "la reuni\xF3n fue en la escuela"
+                tr: the meeting was at the school
+          sn: '5'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: son las diez
+                tr: it's ten o'clock
+              - t: hoy es el 9
+                tr: today's the 9th
+          sls:
+          - (expressing time, date, season)
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} (a price), to {a_link|cost}, to {a_link|come to} '
+          - - vis
+            - - t: "\xBFcu\xE1nto es?"
+                tr: how much is it?
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be}, to {a_link|equal} '
+          - - vis
+            - - t: "dos m\xE1s dos son cuatro"
+                tr: two plus two is four
+          sn: '8'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "\xBFser\xE1 posible?"
+                tr: can it be possible?
+              - t: "ser\xE1n las ocho"
+                tr: it must be eight o'clock
+          sls:
+          - (with the future tense)
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|unless}'
+          sn: '10'
+          vrs:
+          - va: a no ser que
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}one way or another, {a_link|somehow} '
+          - - vis
+            - - t: hay que terminarlo como sea; hay que terminarlo, sea como sea
+                tr: one way or another, we have to finish it
+          sn: '11'
+          vrs:
+          - va: como sea
+          - va: sea como sea
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|anytime}, {a_link|whenever}'
+          sn: '12'
+          vrs:
+          - va: cuando sea
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|anywhere}, {a_link|wherever}'
+          sn: '13'
+          vrs:
+          - va: donde sea
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}the thing is that '
+          - - vis
+            - - t: es que no lo conozco
+                tr: it's just that I don't know him
+          sn: '14'
+          vrs:
+          - va: es que
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}in other words'
+          sn: '15'
+          vrs:
+          - va: o sea
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}agreed!, all right!'
+          sn: '16'
+          vrs:
+          - va: "\xA1sea!"
+    - - - sense
+        - dt:
+          - - vis
+            - - t: sean cuales sean las circunstancias
+                tr: whatever the circumstances might be
+              - t: sea quien sea, no lo van a permitir
+                tr: no matter who he is, they're not going to allow it
+          sn: '17'
+          vrs:
+          - va: sea cual/quien (etc.) sea
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}either \u2026 or"
+          sn: '18'
+          vrs:
+          - va: "sea \u2026 sea"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: la cuenta ha sido pagada
+                tr: the bill has been paid
+              - t: "\xE9l fue asesinado"
+                tr: he was murdered
+          sls:
+          - (used in passive constructions)
+    vd: auxiliary verb
+  fl: intransitive verb
+  hom: 1
+  hwi:
+    hw: ser
+    prs:
+    - sound:
+        audio: ser0001sp
+  meta:
+    id: ser:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620487000'
+    src: spanish
+    stems:
+    - ser
+    - a no ser que
+    - como sea
+    - sea como sea
+    - cuando sea
+    - donde sea
+    - es que
+    - o sea
+    - "\xA1sea!"
+    - sea cual/quien (etc.) sea
+    - sea cual (etc.) sea
+    - sea quien (etc.) sea
+    - "sea \u2026 sea"
+    uuid: abb97ae6-7dad-42a8-bbe4-1b6ac8dd4469
+  shortdef:
+  - to be
+  - to be
+  - to be
+  suppl:
+    cjts:
+    - cjfs:
+      - siendo
+      - sido
+      cjid: gppt
+    - cjfs:
+      - soy
+      - eres
+      - es
+      - somos
+      - sois
+      - son
+      cjid: pind
+    - cjfs:
+      - era
+      - eras
+      - era
+      - "\xE9ramos"
+      - erais
+      - eran
+      cjid: pret
+    - cjfs:
+      - fui
+      - fuiste
+      - fue
+      - fuimos
+      - fuisteis
+      - fueron
+      cjid: pprf
+    - cjfs:
+      - "ser\xE9"
+      - "ser\xE1s"
+      - "ser\xE1"
+      - seremos
+      - "ser\xE9is"
+      - "ser\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ser\xEDa"
+      - "ser\xEDas"
+      - "ser\xEDa"
+      - "ser\xEDamos"
+      - "ser\xEDais"
+      - "ser\xEDan"
+      cjid: cond
+    - cjfs:
+      - sea
+      - seas
+      - sea
+      - seamos
+      - "se\xE1is"
+      - sean
+      cjid: psub
+    - cjfs:
+      - fuera
+      - fueras
+      - fuera
+      - "fu\xE9ramos"
+      - fuerais
+      - fueran
+      cjid: pisb1
+    - cjfs:
+      - fuese
+      - fueses
+      - fuese
+      - "fu\xE9semos"
+      - fueseis
+      - fuesen
+      cjid: pisb2
+    - cjfs:
+      - fuere
+      - fueres
+      - fuere
+      - "fu\xE9remos"
+      - fuereis
+      - fueren
+      cjid: fsub
+    - cjfs:
+      - he sido
+      - has sido
+      - ha sido
+      - hemos sido
+      - "hab\xE9is sido"
+      - han sido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sido"
+      - "hab\xEDas sido"
+      - "hab\xEDa sido"
+      - "hab\xEDamos sido"
+      - "hab\xEDais sido"
+      - "hab\xEDan sido"
+      cjid: ppsi
+    - cjfs:
+      - hube sido
+      - hubiste sido
+      - hubo sido
+      - hubimos sido
+      - hubisteis sido
+      - hubieron sido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sido"
+      - "habr\xE1s sido"
+      - "habr\xE1 sido"
+      - habremos sido
+      - "habr\xE9is sido"
+      - "habr\xE1n sido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sido"
+      - "habr\xEDas sido"
+      - "habr\xEDa sido"
+      - "habr\xEDamos sido"
+      - "habr\xEDais sido"
+      - "habr\xEDan sido"
+      cjid: cpef
+    - cjfs:
+      - haya sido
+      - hayas sido
+      - haya sido
+      - hayamos sido
+      - "hay\xE1is sido"
+      - hayan sido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sido
+      - hubieras sido
+      - hubiera sido
+      - "hubi\xE9ramos sido"
+      - hubierais sido
+      - hubieran sido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sido
+      - hubieses sido
+      - hubiese sido
+      - "hubi\xE9semos sido"
+      - hubieseis sido
+      - hubiesen sido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sido
+      - hubieres sido
+      - hubiere sido
+      - "hubi\xE9remos sido"
+      - hubiereis sido
+      - hubieren sido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "s\xE9"
+      - sea
+      - seamos
+      - sed
+      - sean
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|being} '
+          - - vis
+            - - t: ser humano
+                tr: human being
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: ser
+    prs:
+    - sound:
+        audio: ser0002sp
+  meta:
+    id: ser:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620488000'
+    src: spanish
+    stems:
+    - ser
+    uuid: 6675fb0c-1350-42aa-bbfe-42f46d2dc17f
+  shortdef:
+  - being
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|grato||}, {sx|placentero||} {bc}{a_link|pleasant}, {a_link|agreeable}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be easy on the eye(s)'
+          sn: '2'
+          vrs:
+          - va: ser agradable a la vista
+  fl: adjective
+  hwi:
+    hw: agradable
+    prs:
+    - sound:
+        audio: agrad01sp
+  meta:
+    id: agradable
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600711000'
+    src: spanish
+    stems:
+    - agradable
+    - ser agradable a la vista
+    - agradablemente
+    uuid: 208f837e-9f32-4773-a0cf-63be59071b4a
+  shortdef:
+  - 'grato, placentero : pleasant, agreeable'
+  - to be easy on the eye(s)
+  uros:
+  - fl: adverb
+    ure: agradablemente
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sack}'
+          sn: '1'
+    - - - sen
+        - sn: '2'
+          vrs:
+          - va: ser harina de otro costal
+          xrs:
+          - - xref: harina
+              xrt: harina
+  fl: masculine noun
+  hwi:
+    hw: costal
+  meta:
+    id: costal
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606018000'
+    src: spanish
+    stems:
+    - costal
+    - ser harina de otro costal
+    uuid: 25998870-f37c-4d5d-ac7d-8dde7b0806cf
+  shortdef:
+  - sack
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|people}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}relatives {it}plural{/it}, folks {it}plural{/it}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}children, kids {it}plural{/it}'
+          sls:
+          - familiar
+          sn: '3'
+          vrs:
+          - va: gente menuda
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be nice, to be kind'
+          sn: '4'
+          vrs:
+          - va: ser buena gente
+  fl: feminine noun
+  hwi:
+    hw: gente
+    prs:
+    - sound:
+        audio: gente01sp
+  meta:
+    id: gente
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610785000'
+    src: spanish
+    stems:
+    - gente
+    - gente menuda
+    - ser buena gente
+    uuid: 69f81831-2222-41b5-8f2d-c709172939a0
+  shortdef:
+  - people
+  - relatives plural, folks plural
+  - children, kids plural
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|shout}, {a_link|scream}, {a_link|cry} '
+          - - vis
+            - - t: a grito pelado
+                tr: at the top of one's voice
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be the latest fashion'
+          sn: '2'
+          vrs:
+          - va: "ser el \xFAltimo grito"
+  fl: masculine noun
+  hwi:
+    hw: grito
+    prs:
+    - sound:
+        audio: grito01sp
+  meta:
+    id: grito
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611078000'
+    src: spanish
+    stems:
+    - grito
+    - "ser el \xFAltimo grito"
+    uuid: 11224ec7-23ed-400c-be8b-5a40a2e55ef3
+  shortdef:
+  - shout, scream, cry
+  - to be the latest fashion
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|flour}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cornmeal}'
+          sn: '2'
+          vrs:
+          - va: "harina de ma\xEDz"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be a horse of a different color'
+          sn: '3'
+          vrs:
+          - va: ser harina de otro costal
+  fl: feminine noun
+  hwi:
+    hw: harina
+    prs:
+    - sound:
+        audio: harin01sp
+  meta:
+    id: harina
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611296000'
+    src: spanish
+    stems:
+    - harina
+    - "harina de ma\xEDz"
+    - ser harina de otro costal
+    uuid: 42435927-716b-4668-8a2f-a79bba38ce0c
+  shortdef:
+  - flour
+  - cornmeal
+  - to be a horse of a different color
+- ahws:
+  - hw: "hogare\xF1a"
+    hwc: "-\xF1a"
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|domestic}, {a_link|homey}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be a homebody'
+          sn: '2'
+          vrs:
+          - va: "ser muy hogare\xF1o"
+  fl: adjective
+  hwi:
+    hw: "hogare\xF1o"
+    prs:
+    - sound:
+        audio: hogar02sp
+  meta:
+    id: hogareno
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611563000'
+    src: spanish
+    stems:
+    - "hogare\xF1o"
+    - "hogare\xF1a"
+    - "ser muy hogare\xF1o"
+    uuid: e0d88555-c3bf-4a5d-b249-0db9be2b4f3a
+  shortdef:
+  - domestic, homey
+  - to be a homebody
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|indifferent}, {a_link|unconcerned}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be of no concern '
+          - - vis
+            - - t: me es indiferente
+                tr: it doesn't matter to me
+          sn: '2'
+          vrs:
+          - va: ser indiferente
+  fl: adjective
+  hwi:
+    hw: indiferente
+    prs:
+    - sound:
+        audio: indif01sp
+  meta:
+    id: indiferente
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612295000'
+    src: spanish
+    stems:
+    - indiferente
+    - ser indiferente
+    uuid: 4ff567d7-2ebe-467c-b212-94a1d4a34442
+  shortdef:
+  - indifferent, unconcerned
+  - to be of no concern
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arrive} '
+          - - vis
+            - - t: llegar temprano/tarde
+                tr: to arrive early/late
+              - t: "llegu\xE9 a Lisboa"
+                tr: I arrived in Lisbon
+              - t: "llegu\xE9 al hotel"
+                tr: I arrived at the hotel
+              - t: "lleg\xF3 hasta la frontera"
+                tr: he got as far as the border
+              - t: cuando llegue el momento
+                tr: when the time comes
+              - t: va a llegar lejos
+                tr: she's going to go far
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be enough '
+          - - vis
+            - - t: no nos llega el sueldo para todo
+                tr: we can't afford it all on our salary
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reach} '
+          - - vis
+            - - t: llega hasta el techo
+                tr: it goes (all the way) up to the ceiling
+              - t: "llegu\xE9 hasta la p\xE1gina 85"
+                tr: I got up to page 85, I got as far as page 85
+              - t: "podr\xEDa llegar a los 35 grados"
+                tr: it could get up to 35 degrees
+          sn: '3'
+          vrs:
+          - va: llegar a/hasta
+            vac: ~ a/hasta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reach} (an agreement, etc.)'
+          sn: '4'
+          vrs:
+          - va: llegar a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to manage to '
+          - - vis
+            - - t: "lleg\xF3 a terminar la novela"
+                tr: she managed to finish the novel
+          sn: '5'
+          vrs:
+          - va: llegar a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|become} '
+          - - vis
+            - - t: "lleg\xF3 a ser presidente"
+                tr: he became President
+          sn: '6'
+          vrs:
+          - va: llegar a ser
+  fl: intransitive verb
+  hwi:
+    hw: llegar
+    prs:
+    - sound:
+        audio: llega02sp
+  meta:
+    id: llegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613931000'
+    src: spanish
+    stems:
+    - llegar
+    - llegar a/hasta
+    - llegar a
+    - llegar hasta
+    - llegar a ser
+    uuid: 3618d261-4c57-45dc-bcf5-9f8251f58d27
+  shortdef:
+  - to arrive
+  - to be enough
+  - to reach
+  suppl:
+    cjts:
+    - cjfs:
+      - llegando
+      - llegado
+      cjid: gppt
+    - cjfs:
+      - llego
+      - llegas
+      - llega
+      - llegamos
+      - "lleg\xE1is"
+      - llegan
+      cjid: pind
+    - cjfs:
+      - llegaba
+      - llegabas
+      - llegaba
+      - "lleg\xE1bamos"
+      - llegabais
+      - llegaban
+      cjid: pret
+    - cjfs:
+      - "llegu\xE9"
+      - llegaste
+      - "lleg\xF3"
+      - llegamos
+      - llegasteis
+      - llegaron
+      cjid: pprf
+    - cjfs:
+      - "llegar\xE9"
+      - "llegar\xE1s"
+      - "llegar\xE1"
+      - llegaremos
+      - "llegar\xE9is"
+      - "llegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "llegar\xEDa"
+      - "llegar\xEDas"
+      - "llegar\xEDa"
+      - "llegar\xEDamos"
+      - "llegar\xEDais"
+      - "llegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - llegue
+      - llegues
+      - llegue
+      - lleguemos
+      - "llegu\xE9is"
+      - lleguen
+      cjid: psub
+    - cjfs:
+      - llegara
+      - llegaras
+      - llegara
+      - "lleg\xE1ramos"
+      - llegarais
+      - llegaran
+      cjid: pisb1
+    - cjfs:
+      - llegase
+      - llegases
+      - llegase
+      - "lleg\xE1semos"
+      - llegaseis
+      - llegasen
+      cjid: pisb2
+    - cjfs:
+      - llegare
+      - llegares
+      - llegare
+      - "lleg\xE1remos"
+      - llegareis
+      - llegaren
+      cjid: fsub
+    - cjfs:
+      - he llegado
+      - has llegado
+      - ha llegado
+      - hemos llegado
+      - "hab\xE9is llegado"
+      - han llegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa llegado"
+      - "hab\xEDas llegado"
+      - "hab\xEDa llegado"
+      - "hab\xEDamos llegado"
+      - "hab\xEDais llegado"
+      - "hab\xEDan llegado"
+      cjid: ppsi
+    - cjfs:
+      - hube llegado
+      - hubiste llegado
+      - hubo llegado
+      - hubimos llegado
+      - hubisteis llegado
+      - hubieron llegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 llegado"
+      - "habr\xE1s llegado"
+      - "habr\xE1 llegado"
+      - habremos llegado
+      - "habr\xE9is llegado"
+      - "habr\xE1n llegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa llegado"
+      - "habr\xEDas llegado"
+      - "habr\xEDa llegado"
+      - "habr\xEDamos llegado"
+      - "habr\xEDais llegado"
+      - "habr\xEDan llegado"
+      cjid: cpef
+    - cjfs:
+      - haya llegado
+      - hayas llegado
+      - haya llegado
+      - hayamos llegado
+      - "hay\xE1is llegado"
+      - hayan llegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera llegado
+      - hubieras llegado
+      - hubiera llegado
+      - "hubi\xE9ramos llegado"
+      - hubierais llegado
+      - hubieran llegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese llegado
+      - hubieses llegado
+      - hubiese llegado
+      - "hubi\xE9semos llegado"
+      - hubieseis llegado
+      - hubiesen llegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere llegado
+      - hubieres llegado
+      - hubiere llegado
+      - "hubi\xE9remos llegado"
+      - hubiereis llegado
+      - hubieren llegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - llega
+      - llegue
+      - lleguemos
+      - llegad
+      - lleguen
+      cjid: impf

@@ -1,0 +1,204 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|melt}, to {a_link|thaw}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|melt}, to {a_link|thaw}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|be crazy about}'
+            sls:
+            - familiar
+            sn: '2'
+            vrs:
+            - va: derretirse por
+              vac: ~ por
+    drp: derretirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: derretir
+    prs:
+    - sound:
+        audio: derre01sp
+  meta:
+    id: derretir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606762000'
+    src: spanish
+    stems:
+    - derretir
+    - derretirse
+    - derretirse por
+    uuid: 65e7cb69-fc74-435d-b085-10329f39052e
+  shortdef:
+  - to melt, to thaw
+  suppl:
+    cjts:
+    - cjfs:
+      - derritiendo
+      - derretido
+      cjid: gppt
+    - cjfs:
+      - derrito
+      - derrites
+      - derrite
+      - derretimos
+      - "derret\xEDs"
+      - derriten
+      cjid: pind
+    - cjfs:
+      - "derret\xEDa"
+      - "derret\xEDas"
+      - "derret\xEDa"
+      - "derret\xEDamos"
+      - "derret\xEDais"
+      - "derret\xEDan"
+      cjid: pret
+    - cjfs:
+      - "derret\xED"
+      - derretiste
+      - "derriti\xF3"
+      - derretimos
+      - derretisteis
+      - derritieron
+      cjid: pprf
+    - cjfs:
+      - "derretir\xE9"
+      - "derretir\xE1s"
+      - "derretir\xE1"
+      - derretiremos
+      - "derretir\xE9is"
+      - "derretir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "derretir\xEDa"
+      - "derretir\xEDas"
+      - "derretir\xEDa"
+      - "derretir\xEDamos"
+      - "derretir\xEDais"
+      - "derretir\xEDan"
+      cjid: cond
+    - cjfs:
+      - derrita
+      - derritas
+      - derrita
+      - derritamos
+      - "derrit\xE1is"
+      - derritan
+      cjid: psub
+    - cjfs:
+      - derritiera
+      - derritieras
+      - derritiera
+      - "derriti\xE9ramos"
+      - derritierais
+      - derritieran
+      cjid: pisb1
+    - cjfs:
+      - derritiese
+      - derritieses
+      - derritiese
+      - "derriti\xE9semos"
+      - derritieseis
+      - derritiesen
+      cjid: pisb2
+    - cjfs:
+      - derritiere
+      - derritieres
+      - derritiere
+      - "derriti\xE9remos"
+      - derritiereis
+      - derritieren
+      cjid: fsub
+    - cjfs:
+      - he derretido
+      - has derretido
+      - ha derretido
+      - hemos derretido
+      - "hab\xE9is derretido"
+      - han derretido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa derretido"
+      - "hab\xEDas derretido"
+      - "hab\xEDa derretido"
+      - "hab\xEDamos derretido"
+      - "hab\xEDais derretido"
+      - "hab\xEDan derretido"
+      cjid: ppsi
+    - cjfs:
+      - hube derretido
+      - hubiste derretido
+      - hubo derretido
+      - hubimos derretido
+      - hubisteis derretido
+      - hubieron derretido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 derretido"
+      - "habr\xE1s derretido"
+      - "habr\xE1 derretido"
+      - habremos derretido
+      - "habr\xE9is derretido"
+      - "habr\xE1n derretido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa derretido"
+      - "habr\xEDas derretido"
+      - "habr\xEDa derretido"
+      - "habr\xEDamos derretido"
+      - "habr\xEDais derretido"
+      - "habr\xEDan derretido"
+      cjid: cpef
+    - cjfs:
+      - haya derretido
+      - hayas derretido
+      - haya derretido
+      - hayamos derretido
+      - "hay\xE1is derretido"
+      - hayan derretido
+      cjid: ppfs
+    - cjfs:
+      - hubiera derretido
+      - hubieras derretido
+      - hubiera derretido
+      - "hubi\xE9ramos derretido"
+      - hubierais derretido
+      - hubieran derretido
+      cjid: ppss1
+    - cjfs:
+      - hubiese derretido
+      - hubieses derretido
+      - hubiese derretido
+      - "hubi\xE9semos derretido"
+      - hubieseis derretido
+      - hubiesen derretido
+      cjid: ppss2
+    - cjfs:
+      - hubiere derretido
+      - hubieres derretido
+      - hubiere derretido
+      - "hubi\xE9remos derretido"
+      - hubiereis derretido
+      - hubieren derretido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - derrite
+      - derrita
+      - derritamos
+      - derretid
+      - derritan
+      cjid: impf

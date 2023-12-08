@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|train}, to {a_link|drill}, to {a_link|practice}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|train}, to {a_link|spar} (in boxing)'
+    drp: entrenarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: entrenar
+    prs:
+    - sound:
+        audio: entre07sp
+  meta:
+    id: entrenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608766000'
+    src: spanish
+    stems:
+    - entrenar
+    - entrenarse
+    uuid: c5f57518-a836-4387-9af9-913d90ad4b9a
+  shortdef:
+  - to train, to drill, to practice
+  suppl:
+    cjts:
+    - cjfs:
+      - entrenando
+      - entrenado
+      cjid: gppt
+    - cjfs:
+      - entreno
+      - entrenas
+      - entrena
+      - entrenamos
+      - "entren\xE1is"
+      - entrenan
+      cjid: pind
+    - cjfs:
+      - entrenaba
+      - entrenabas
+      - entrenaba
+      - "entren\xE1bamos"
+      - entrenabais
+      - entrenaban
+      cjid: pret
+    - cjfs:
+      - "entren\xE9"
+      - entrenaste
+      - "entren\xF3"
+      - entrenamos
+      - entrenasteis
+      - entrenaron
+      cjid: pprf
+    - cjfs:
+      - "entrenar\xE9"
+      - "entrenar\xE1s"
+      - "entrenar\xE1"
+      - entrenaremos
+      - "entrenar\xE9is"
+      - "entrenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entrenar\xEDa"
+      - "entrenar\xEDas"
+      - "entrenar\xEDa"
+      - "entrenar\xEDamos"
+      - "entrenar\xEDais"
+      - "entrenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - entrene
+      - entrenes
+      - entrene
+      - entrenemos
+      - "entren\xE9is"
+      - entrenen
+      cjid: psub
+    - cjfs:
+      - entrenara
+      - entrenaras
+      - entrenara
+      - "entren\xE1ramos"
+      - entrenarais
+      - entrenaran
+      cjid: pisb1
+    - cjfs:
+      - entrenase
+      - entrenases
+      - entrenase
+      - "entren\xE1semos"
+      - entrenaseis
+      - entrenasen
+      cjid: pisb2
+    - cjfs:
+      - entrenare
+      - entrenares
+      - entrenare
+      - "entren\xE1remos"
+      - entrenareis
+      - entrenaren
+      cjid: fsub
+    - cjfs:
+      - he entrenado
+      - has entrenado
+      - ha entrenado
+      - hemos entrenado
+      - "hab\xE9is entrenado"
+      - han entrenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entrenado"
+      - "hab\xEDas entrenado"
+      - "hab\xEDa entrenado"
+      - "hab\xEDamos entrenado"
+      - "hab\xEDais entrenado"
+      - "hab\xEDan entrenado"
+      cjid: ppsi
+    - cjfs:
+      - hube entrenado
+      - hubiste entrenado
+      - hubo entrenado
+      - hubimos entrenado
+      - hubisteis entrenado
+      - hubieron entrenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entrenado"
+      - "habr\xE1s entrenado"
+      - "habr\xE1 entrenado"
+      - habremos entrenado
+      - "habr\xE9is entrenado"
+      - "habr\xE1n entrenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entrenado"
+      - "habr\xEDas entrenado"
+      - "habr\xEDa entrenado"
+      - "habr\xEDamos entrenado"
+      - "habr\xEDais entrenado"
+      - "habr\xEDan entrenado"
+      cjid: cpef
+    - cjfs:
+      - haya entrenado
+      - hayas entrenado
+      - haya entrenado
+      - hayamos entrenado
+      - "hay\xE1is entrenado"
+      - hayan entrenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera entrenado
+      - hubieras entrenado
+      - hubiera entrenado
+      - "hubi\xE9ramos entrenado"
+      - hubierais entrenado
+      - hubieran entrenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese entrenado
+      - hubieses entrenado
+      - hubiese entrenado
+      - "hubi\xE9semos entrenado"
+      - hubieseis entrenado
+      - hubiesen entrenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere entrenado
+      - hubieres entrenado
+      - hubiere entrenado
+      - "hubi\xE9remos entrenado"
+      - hubiereis entrenado
+      - hubieren entrenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entrena
+      - entrene
+      - entrenemos
+      - entrenad
+      - entrenen
+      cjid: impf

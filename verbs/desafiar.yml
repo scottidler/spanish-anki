@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|retar||} {bc}to {a_link|defy}, to {a_link|challenge}'
+  fl: transitive verb
+  hwi:
+    hw: desafiar
+    prs:
+    - sound:
+        audio: desaf01sp
+  meta:
+    id: desafiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606799000'
+    src: spanish
+    stems:
+    - desafiar
+    uuid: 3bc99e66-1388-49d2-b37f-53c1ce5b3950
+  shortdef:
+  - 'retar : to defy, to challenge'
+  suppl:
+    cjts:
+    - cjfs:
+      - desafiando
+      - desafiado
+      cjid: gppt
+    - cjfs:
+      - "desaf\xEDo"
+      - "desaf\xEDas"
+      - "desaf\xEDa"
+      - desafiamos
+      - "desafi\xE1is"
+      - "desaf\xEDan"
+      cjid: pind
+    - cjfs:
+      - desafiaba
+      - desafiabas
+      - desafiaba
+      - "desafi\xE1bamos"
+      - desafiabais
+      - desafiaban
+      cjid: pret
+    - cjfs:
+      - "desafi\xE9"
+      - desafiaste
+      - "desafi\xF3"
+      - desafiamos
+      - desafiasteis
+      - desafiaron
+      cjid: pprf
+    - cjfs:
+      - "desafiar\xE9"
+      - "desafiar\xE1s"
+      - "desafiar\xE1"
+      - desafiaremos
+      - "desafiar\xE9is"
+      - "desafiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desafiar\xEDa"
+      - "desafiar\xEDas"
+      - "desafiar\xEDa"
+      - "desafiar\xEDamos"
+      - "desafiar\xEDais"
+      - "desafiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "desaf\xEDe"
+      - "desaf\xEDes"
+      - "desaf\xEDe"
+      - desafiemos
+      - "desafi\xE9is"
+      - "desaf\xEDen"
+      cjid: psub
+    - cjfs:
+      - desafiara
+      - desafiaras
+      - desafiara
+      - "desafi\xE1ramos"
+      - desafiarais
+      - desafiaran
+      cjid: pisb1
+    - cjfs:
+      - desafiase
+      - desafiases
+      - desafiase
+      - "desafi\xE1semos"
+      - desafiaseis
+      - desafiasen
+      cjid: pisb2
+    - cjfs:
+      - desafiare
+      - desafiares
+      - desafiare
+      - "desafi\xE1remos"
+      - desafiareis
+      - desafiaren
+      cjid: fsub
+    - cjfs:
+      - he desafiado
+      - has desafiado
+      - ha desafiado
+      - hemos desafiado
+      - "hab\xE9is desafiado"
+      - han desafiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desafiado"
+      - "hab\xEDas desafiado"
+      - "hab\xEDa desafiado"
+      - "hab\xEDamos desafiado"
+      - "hab\xEDais desafiado"
+      - "hab\xEDan desafiado"
+      cjid: ppsi
+    - cjfs:
+      - hube desafiado
+      - hubiste desafiado
+      - hubo desafiado
+      - hubimos desafiado
+      - hubisteis desafiado
+      - hubieron desafiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desafiado"
+      - "habr\xE1s desafiado"
+      - "habr\xE1 desafiado"
+      - habremos desafiado
+      - "habr\xE9is desafiado"
+      - "habr\xE1n desafiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desafiado"
+      - "habr\xEDas desafiado"
+      - "habr\xEDa desafiado"
+      - "habr\xEDamos desafiado"
+      - "habr\xEDais desafiado"
+      - "habr\xEDan desafiado"
+      cjid: cpef
+    - cjfs:
+      - haya desafiado
+      - hayas desafiado
+      - haya desafiado
+      - hayamos desafiado
+      - "hay\xE1is desafiado"
+      - hayan desafiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desafiado
+      - hubieras desafiado
+      - hubiera desafiado
+      - "hubi\xE9ramos desafiado"
+      - hubierais desafiado
+      - hubieran desafiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desafiado
+      - hubieses desafiado
+      - hubiese desafiado
+      - "hubi\xE9semos desafiado"
+      - hubieseis desafiado
+      - hubiesen desafiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desafiado
+      - hubieres desafiado
+      - hubiere desafiado
+      - "hubi\xE9remos desafiado"
+      - hubiereis desafiado
+      - hubieren desafiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "desaf\xEDa"
+      - "desaf\xEDe"
+      - desafiemos
+      - desafiad
+      - "desaf\xEDen"
+      cjid: impf

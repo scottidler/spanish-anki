@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|exigir||} {bc}to {a_link|demand}, to {a_link|require}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|claim}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|complain}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: reclamar
+    prs:
+    - sound:
+        audio: recla01sp
+  meta:
+    id: reclamar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618993000'
+    src: spanish
+    stems:
+    - reclamar
+    uuid: 666286c4-c46e-4abe-a21d-d8b3013482cb
+  shortdef:
+  - 'exigir : to demand, to require'
+  - to claim
+  - to complain
+  suppl:
+    cjts:
+    - cjfs:
+      - reclamando
+      - reclamado
+      cjid: gppt
+    - cjfs:
+      - reclamo
+      - reclamas
+      - reclama
+      - reclamamos
+      - "reclam\xE1is"
+      - reclaman
+      cjid: pind
+    - cjfs:
+      - reclamaba
+      - reclamabas
+      - reclamaba
+      - "reclam\xE1bamos"
+      - reclamabais
+      - reclamaban
+      cjid: pret
+    - cjfs:
+      - "reclam\xE9"
+      - reclamaste
+      - "reclam\xF3"
+      - reclamamos
+      - reclamasteis
+      - reclamaron
+      cjid: pprf
+    - cjfs:
+      - "reclamar\xE9"
+      - "reclamar\xE1s"
+      - "reclamar\xE1"
+      - reclamaremos
+      - "reclamar\xE9is"
+      - "reclamar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reclamar\xEDa"
+      - "reclamar\xEDas"
+      - "reclamar\xEDa"
+      - "reclamar\xEDamos"
+      - "reclamar\xEDais"
+      - "reclamar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reclame
+      - reclames
+      - reclame
+      - reclamemos
+      - "reclam\xE9is"
+      - reclamen
+      cjid: psub
+    - cjfs:
+      - reclamara
+      - reclamaras
+      - reclamara
+      - "reclam\xE1ramos"
+      - reclamarais
+      - reclamaran
+      cjid: pisb1
+    - cjfs:
+      - reclamase
+      - reclamases
+      - reclamase
+      - "reclam\xE1semos"
+      - reclamaseis
+      - reclamasen
+      cjid: pisb2
+    - cjfs:
+      - reclamare
+      - reclamares
+      - reclamare
+      - "reclam\xE1remos"
+      - reclamareis
+      - reclamaren
+      cjid: fsub
+    - cjfs:
+      - he reclamado
+      - has reclamado
+      - ha reclamado
+      - hemos reclamado
+      - "hab\xE9is reclamado"
+      - han reclamado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reclamado"
+      - "hab\xEDas reclamado"
+      - "hab\xEDa reclamado"
+      - "hab\xEDamos reclamado"
+      - "hab\xEDais reclamado"
+      - "hab\xEDan reclamado"
+      cjid: ppsi
+    - cjfs:
+      - hube reclamado
+      - hubiste reclamado
+      - hubo reclamado
+      - hubimos reclamado
+      - hubisteis reclamado
+      - hubieron reclamado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reclamado"
+      - "habr\xE1s reclamado"
+      - "habr\xE1 reclamado"
+      - habremos reclamado
+      - "habr\xE9is reclamado"
+      - "habr\xE1n reclamado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reclamado"
+      - "habr\xEDas reclamado"
+      - "habr\xEDa reclamado"
+      - "habr\xEDamos reclamado"
+      - "habr\xEDais reclamado"
+      - "habr\xEDan reclamado"
+      cjid: cpef
+    - cjfs:
+      - haya reclamado
+      - hayas reclamado
+      - haya reclamado
+      - hayamos reclamado
+      - "hay\xE1is reclamado"
+      - hayan reclamado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reclamado
+      - hubieras reclamado
+      - hubiera reclamado
+      - "hubi\xE9ramos reclamado"
+      - hubierais reclamado
+      - hubieran reclamado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reclamado
+      - hubieses reclamado
+      - hubiese reclamado
+      - "hubi\xE9semos reclamado"
+      - hubieseis reclamado
+      - hubiesen reclamado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reclamado
+      - hubieres reclamado
+      - hubiere reclamado
+      - "hubi\xE9remos reclamado"
+      - hubiereis reclamado
+      - hubieren reclamado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reclama
+      - reclame
+      - reclamemos
+      - reclamad
+      - reclamen
+      cjid: impf

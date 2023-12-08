@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|perforar||} {bc}to {a_link|pierce}, to {a_link|go through}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go beyond} '
+          - - vis
+            - - t: "traspasar los l\xEDmites"
+                tr: to overstep the limits
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|atravesar||} {bc}to {a_link|cross}, to go across'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sell}, to {a_link|transfer}'
+          sn: '4'
+  fl: transitive verb
+  hwi:
+    hw: traspasar
+    prs:
+    - sound:
+        audio: trasp01sp
+  meta:
+    id: traspasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622224000'
+    src: spanish
+    stems:
+    - traspasar
+    uuid: 5b8f6e92-d520-4466-bfb5-aedaef3365fd
+  shortdef:
+  - 'perforar : to pierce, to go through'
+  - to go beyond
+  - 'atravesar : to cross, to go across'
+  suppl:
+    cjts:
+    - cjfs:
+      - traspasando
+      - traspasado
+      cjid: gppt
+    - cjfs:
+      - traspaso
+      - traspasas
+      - traspasa
+      - traspasamos
+      - "traspas\xE1is"
+      - traspasan
+      cjid: pind
+    - cjfs:
+      - traspasaba
+      - traspasabas
+      - traspasaba
+      - "traspas\xE1bamos"
+      - traspasabais
+      - traspasaban
+      cjid: pret
+    - cjfs:
+      - "traspas\xE9"
+      - traspasaste
+      - "traspas\xF3"
+      - traspasamos
+      - traspasasteis
+      - traspasaron
+      cjid: pprf
+    - cjfs:
+      - "traspasar\xE9"
+      - "traspasar\xE1s"
+      - "traspasar\xE1"
+      - traspasaremos
+      - "traspasar\xE9is"
+      - "traspasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "traspasar\xEDa"
+      - "traspasar\xEDas"
+      - "traspasar\xEDa"
+      - "traspasar\xEDamos"
+      - "traspasar\xEDais"
+      - "traspasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - traspase
+      - traspases
+      - traspase
+      - traspasemos
+      - "traspas\xE9is"
+      - traspasen
+      cjid: psub
+    - cjfs:
+      - traspasara
+      - traspasaras
+      - traspasara
+      - "traspas\xE1ramos"
+      - traspasarais
+      - traspasaran
+      cjid: pisb1
+    - cjfs:
+      - traspasase
+      - traspasases
+      - traspasase
+      - "traspas\xE1semos"
+      - traspasaseis
+      - traspasasen
+      cjid: pisb2
+    - cjfs:
+      - traspasare
+      - traspasares
+      - traspasare
+      - "traspas\xE1remos"
+      - traspasareis
+      - traspasaren
+      cjid: fsub
+    - cjfs:
+      - he traspasado
+      - has traspasado
+      - ha traspasado
+      - hemos traspasado
+      - "hab\xE9is traspasado"
+      - han traspasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa traspasado"
+      - "hab\xEDas traspasado"
+      - "hab\xEDa traspasado"
+      - "hab\xEDamos traspasado"
+      - "hab\xEDais traspasado"
+      - "hab\xEDan traspasado"
+      cjid: ppsi
+    - cjfs:
+      - hube traspasado
+      - hubiste traspasado
+      - hubo traspasado
+      - hubimos traspasado
+      - hubisteis traspasado
+      - hubieron traspasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 traspasado"
+      - "habr\xE1s traspasado"
+      - "habr\xE1 traspasado"
+      - habremos traspasado
+      - "habr\xE9is traspasado"
+      - "habr\xE1n traspasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa traspasado"
+      - "habr\xEDas traspasado"
+      - "habr\xEDa traspasado"
+      - "habr\xEDamos traspasado"
+      - "habr\xEDais traspasado"
+      - "habr\xEDan traspasado"
+      cjid: cpef
+    - cjfs:
+      - haya traspasado
+      - hayas traspasado
+      - haya traspasado
+      - hayamos traspasado
+      - "hay\xE1is traspasado"
+      - hayan traspasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera traspasado
+      - hubieras traspasado
+      - hubiera traspasado
+      - "hubi\xE9ramos traspasado"
+      - hubierais traspasado
+      - hubieran traspasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese traspasado
+      - hubieses traspasado
+      - hubiese traspasado
+      - "hubi\xE9semos traspasado"
+      - hubieseis traspasado
+      - hubiesen traspasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere traspasado
+      - hubieres traspasado
+      - hubiere traspasado
+      - "hubi\xE9remos traspasado"
+      - hubiereis traspasado
+      - hubieren traspasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - traspasa
+      - traspase
+      - traspasemos
+      - traspasad
+      - traspasen
+      cjid: impf

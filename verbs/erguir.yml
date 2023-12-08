@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|raise}, to lift up'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|straighten up}'
+    drp: erguirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: erguir
+  meta:
+    id: erguir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608888000'
+    src: spanish
+    stems:
+    - erguir
+    - erguirse
+    uuid: 8c223c9b-ff06-4977-896d-40cc8faf10cc
+  shortdef:
+  - to raise, to lift up
+  suppl:
+    cjts:
+    - cjfs:
+      - irguiendo
+      - erguido
+      cjid: gppt
+    - cjfs:
+      - irgo
+      - irgues
+      - irgue
+      - erguimos
+      - "ergu\xEDs"
+      - irguen
+      cjid: pind
+    - cjfs:
+      - "ergu\xEDa"
+      - "ergu\xEDas"
+      - "ergu\xEDa"
+      - "ergu\xEDamos"
+      - "ergu\xEDais"
+      - "ergu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ergu\xED"
+      - erguiste
+      - "irgui\xF3"
+      - erguimos
+      - erguisteis
+      - irguieron
+      cjid: pprf
+    - cjfs:
+      - "erguir\xE9"
+      - "erguir\xE1s"
+      - "erguir\xE1"
+      - erguiremos
+      - "erguir\xE9is"
+      - "erguir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "erguir\xEDa"
+      - "erguir\xEDas"
+      - "erguir\xEDa"
+      - "erguir\xEDamos"
+      - "erguir\xEDais"
+      - "erguir\xEDan"
+      cjid: cond
+    - cjfs:
+      - irga
+      - irgas
+      - irga
+      - irgamos
+      - "irg\xE1is"
+      - irgan
+      cjid: psub
+    - cjfs:
+      - irguiera
+      - irguieras
+      - irguiera
+      - "irgui\xE9ramos"
+      - irguierais
+      - irguieran
+      cjid: pisb1
+    - cjfs:
+      - irguiese
+      - irguieses
+      - irguiese
+      - "irgui\xE9semos"
+      - irguieseis
+      - irguiesen
+      cjid: pisb2
+    - cjfs:
+      - irguiere
+      - irguieres
+      - irguiere
+      - "irgui\xE9remos"
+      - irguiereis
+      - irguieren
+      cjid: fsub
+    - cjfs:
+      - he erguido
+      - has erguido
+      - ha erguido
+      - hemos erguido
+      - "hab\xE9is erguido"
+      - han erguido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa erguido"
+      - "hab\xEDas erguido"
+      - "hab\xEDa erguido"
+      - "hab\xEDamos erguido"
+      - "hab\xEDais erguido"
+      - "hab\xEDan erguido"
+      cjid: ppsi
+    - cjfs:
+      - hube erguido
+      - hubiste erguido
+      - hubo erguido
+      - hubimos erguido
+      - hubisteis erguido
+      - hubieron erguido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 erguido"
+      - "habr\xE1s erguido"
+      - "habr\xE1 erguido"
+      - habremos erguido
+      - "habr\xE9is erguido"
+      - "habr\xE1n erguido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa erguido"
+      - "habr\xEDas erguido"
+      - "habr\xEDa erguido"
+      - "habr\xEDamos erguido"
+      - "habr\xEDais erguido"
+      - "habr\xEDan erguido"
+      cjid: cpef
+    - cjfs:
+      - haya erguido
+      - hayas erguido
+      - haya erguido
+      - hayamos erguido
+      - "hay\xE1is erguido"
+      - hayan erguido
+      cjid: ppfs
+    - cjfs:
+      - hubiera erguido
+      - hubieras erguido
+      - hubiera erguido
+      - "hubi\xE9ramos erguido"
+      - hubierais erguido
+      - hubieran erguido
+      cjid: ppss1
+    - cjfs:
+      - hubiese erguido
+      - hubieses erguido
+      - hubiese erguido
+      - "hubi\xE9semos erguido"
+      - hubieseis erguido
+      - hubiesen erguido
+      cjid: ppss2
+    - cjfs:
+      - hubiere erguido
+      - hubieres erguido
+      - hubiere erguido
+      - "hubi\xE9remos erguido"
+      - hubiereis erguido
+      - hubieren erguido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - irgue
+      - irga
+      - irgamos
+      - erguid
+      - irgan
+      cjid: impf

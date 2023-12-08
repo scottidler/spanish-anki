@@ -1,0 +1,185 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have in store for, to {a_link|provide with} '
+          - - vis
+            - - t: no sabemos lo que nos depara el destino
+                tr: we don't know what fate has in store for us
+  fl: transitive verb
+  hwi:
+    hw: deparar
+    prs:
+    - sound:
+        audio: depar01sp
+  meta:
+    id: deparar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606701000'
+    src: spanish
+    stems:
+    - deparar
+    uuid: eb886553-fe4c-47fc-b42d-38a017faee61
+  shortdef:
+  - to have in store for, to provide with
+  suppl:
+    cjts:
+    - cjfs:
+      - deparando
+      - deparado
+      cjid: gppt
+    - cjfs:
+      - deparo
+      - deparas
+      - depara
+      - deparamos
+      - "depar\xE1is"
+      - deparan
+      cjid: pind
+    - cjfs:
+      - deparaba
+      - deparabas
+      - deparaba
+      - "depar\xE1bamos"
+      - deparabais
+      - deparaban
+      cjid: pret
+    - cjfs:
+      - "depar\xE9"
+      - deparaste
+      - "depar\xF3"
+      - deparamos
+      - deparasteis
+      - depararon
+      cjid: pprf
+    - cjfs:
+      - "deparar\xE9"
+      - "deparar\xE1s"
+      - "deparar\xE1"
+      - depararemos
+      - "deparar\xE9is"
+      - "deparar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deparar\xEDa"
+      - "deparar\xEDas"
+      - "deparar\xEDa"
+      - "deparar\xEDamos"
+      - "deparar\xEDais"
+      - "deparar\xEDan"
+      cjid: cond
+    - cjfs:
+      - depare
+      - depares
+      - depare
+      - deparemos
+      - "depar\xE9is"
+      - deparen
+      cjid: psub
+    - cjfs:
+      - deparara
+      - depararas
+      - deparara
+      - "depar\xE1ramos"
+      - depararais
+      - depararan
+      cjid: pisb1
+    - cjfs:
+      - deparase
+      - deparases
+      - deparase
+      - "depar\xE1semos"
+      - deparaseis
+      - deparasen
+      cjid: pisb2
+    - cjfs:
+      - deparare
+      - deparares
+      - deparare
+      - "depar\xE1remos"
+      - deparareis
+      - depararen
+      cjid: fsub
+    - cjfs:
+      - he deparado
+      - has deparado
+      - ha deparado
+      - hemos deparado
+      - "hab\xE9is deparado"
+      - han deparado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deparado"
+      - "hab\xEDas deparado"
+      - "hab\xEDa deparado"
+      - "hab\xEDamos deparado"
+      - "hab\xEDais deparado"
+      - "hab\xEDan deparado"
+      cjid: ppsi
+    - cjfs:
+      - hube deparado
+      - hubiste deparado
+      - hubo deparado
+      - hubimos deparado
+      - hubisteis deparado
+      - hubieron deparado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deparado"
+      - "habr\xE1s deparado"
+      - "habr\xE1 deparado"
+      - habremos deparado
+      - "habr\xE9is deparado"
+      - "habr\xE1n deparado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deparado"
+      - "habr\xEDas deparado"
+      - "habr\xEDa deparado"
+      - "habr\xEDamos deparado"
+      - "habr\xEDais deparado"
+      - "habr\xEDan deparado"
+      cjid: cpef
+    - cjfs:
+      - haya deparado
+      - hayas deparado
+      - haya deparado
+      - hayamos deparado
+      - "hay\xE1is deparado"
+      - hayan deparado
+      cjid: ppfs
+    - cjfs:
+      - hubiera deparado
+      - hubieras deparado
+      - hubiera deparado
+      - "hubi\xE9ramos deparado"
+      - hubierais deparado
+      - hubieran deparado
+      cjid: ppss1
+    - cjfs:
+      - hubiese deparado
+      - hubieses deparado
+      - hubiese deparado
+      - "hubi\xE9semos deparado"
+      - hubieseis deparado
+      - hubiesen deparado
+      cjid: ppss2
+    - cjfs:
+      - hubiere deparado
+      - hubieres deparado
+      - hubiere deparado
+      - "hubi\xE9remos deparado"
+      - hubiereis deparado
+      - hubieren deparado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - depara
+      - depare
+      - deparemos
+      - deparad
+      - deparen
+      cjid: impf

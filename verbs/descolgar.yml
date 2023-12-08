@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take down}, to {a_link|let down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pick up}, to {a_link|answer} (the telephone)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: descolgar
+  meta:
+    id: descolgar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606934000'
+    src: spanish
+    stems:
+    - descolgar
+    uuid: fb60af7f-a295-4f57-8bce-9d5d6d05be5a
+  shortdef:
+  - to take down, to let down
+  - to pick up, to answer (the telephone)
+  suppl:
+    cjts:
+    - cjfs:
+      - descolgando
+      - descolgado
+      cjid: gppt
+    - cjfs:
+      - descuelgo
+      - descuelgas
+      - descuelga
+      - descolgamos
+      - "descolg\xE1is"
+      - descuelgan
+      cjid: pind
+    - cjfs:
+      - descolgaba
+      - descolgabas
+      - descolgaba
+      - "descolg\xE1bamos"
+      - descolgabais
+      - descolgaban
+      cjid: pret
+    - cjfs:
+      - "descolgu\xE9"
+      - descolgaste
+      - "descolg\xF3"
+      - descolgamos
+      - descolgasteis
+      - descolgaron
+      cjid: pprf
+    - cjfs:
+      - "descolgar\xE9"
+      - "descolgar\xE1s"
+      - "descolgar\xE1"
+      - descolgaremos
+      - "descolgar\xE9is"
+      - "descolgar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "descolgar\xEDa"
+      - "descolgar\xEDas"
+      - "descolgar\xEDa"
+      - "descolgar\xEDamos"
+      - "descolgar\xEDais"
+      - "descolgar\xEDan"
+      cjid: cond
+    - cjfs:
+      - descuelgue
+      - descuelgues
+      - descuelgue
+      - descolguemos
+      - "descolgu\xE9is"
+      - descuelguen
+      cjid: psub
+    - cjfs:
+      - descolgara
+      - descolgaras
+      - descolgara
+      - "descolg\xE1ramos"
+      - descolgarais
+      - descolgaran
+      cjid: pisb1
+    - cjfs:
+      - descolgase
+      - descolgases
+      - descolgase
+      - "descolg\xE1semos"
+      - descolgaseis
+      - descolgasen
+      cjid: pisb2
+    - cjfs:
+      - descolgare
+      - descolgares
+      - descolgare
+      - "descolg\xE1remos"
+      - descolgareis
+      - descolgaren
+      cjid: fsub
+    - cjfs:
+      - he descolgado
+      - has descolgado
+      - ha descolgado
+      - hemos descolgado
+      - "hab\xE9is descolgado"
+      - han descolgado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa descolgado"
+      - "hab\xEDas descolgado"
+      - "hab\xEDa descolgado"
+      - "hab\xEDamos descolgado"
+      - "hab\xEDais descolgado"
+      - "hab\xEDan descolgado"
+      cjid: ppsi
+    - cjfs:
+      - hube descolgado
+      - hubiste descolgado
+      - hubo descolgado
+      - hubimos descolgado
+      - hubisteis descolgado
+      - hubieron descolgado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 descolgado"
+      - "habr\xE1s descolgado"
+      - "habr\xE1 descolgado"
+      - habremos descolgado
+      - "habr\xE9is descolgado"
+      - "habr\xE1n descolgado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa descolgado"
+      - "habr\xEDas descolgado"
+      - "habr\xEDa descolgado"
+      - "habr\xEDamos descolgado"
+      - "habr\xEDais descolgado"
+      - "habr\xEDan descolgado"
+      cjid: cpef
+    - cjfs:
+      - haya descolgado
+      - hayas descolgado
+      - haya descolgado
+      - hayamos descolgado
+      - "hay\xE1is descolgado"
+      - hayan descolgado
+      cjid: ppfs
+    - cjfs:
+      - hubiera descolgado
+      - hubieras descolgado
+      - hubiera descolgado
+      - "hubi\xE9ramos descolgado"
+      - hubierais descolgado
+      - hubieran descolgado
+      cjid: ppss1
+    - cjfs:
+      - hubiese descolgado
+      - hubieses descolgado
+      - hubiese descolgado
+      - "hubi\xE9semos descolgado"
+      - hubieseis descolgado
+      - hubiesen descolgado
+      cjid: ppss2
+    - cjfs:
+      - hubiere descolgado
+      - hubieres descolgado
+      - hubiere descolgado
+      - "hubi\xE9remos descolgado"
+      - hubiereis descolgado
+      - hubieren descolgado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - descuelga
+      - descuelgue
+      - descolguemos
+      - descolgad
+      - descuelguen
+      cjid: impf

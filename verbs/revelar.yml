@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reveal}, to {a_link|disclose}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|develop} (film)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: revelar
+    prs:
+    - sound:
+        audio: revel02sp
+  meta:
+    id: revelar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619738000'
+    src: spanish
+    stems:
+    - revelar
+    uuid: 8fdbc0ba-8a5f-4bac-9b9a-af81e6c1cde8
+  shortdef:
+  - to reveal, to disclose
+  - to develop (film)
+  suppl:
+    cjts:
+    - cjfs:
+      - revelando
+      - revelado
+      cjid: gppt
+    - cjfs:
+      - revelo
+      - revelas
+      - revela
+      - revelamos
+      - "revel\xE1is"
+      - revelan
+      cjid: pind
+    - cjfs:
+      - revelaba
+      - revelabas
+      - revelaba
+      - "revel\xE1bamos"
+      - revelabais
+      - revelaban
+      cjid: pret
+    - cjfs:
+      - "revel\xE9"
+      - revelaste
+      - "revel\xF3"
+      - revelamos
+      - revelasteis
+      - revelaron
+      cjid: pprf
+    - cjfs:
+      - "revelar\xE9"
+      - "revelar\xE1s"
+      - "revelar\xE1"
+      - revelaremos
+      - "revelar\xE9is"
+      - "revelar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "revelar\xEDa"
+      - "revelar\xEDas"
+      - "revelar\xEDa"
+      - "revelar\xEDamos"
+      - "revelar\xEDais"
+      - "revelar\xEDan"
+      cjid: cond
+    - cjfs:
+      - revele
+      - reveles
+      - revele
+      - revelemos
+      - "revel\xE9is"
+      - revelen
+      cjid: psub
+    - cjfs:
+      - revelara
+      - revelaras
+      - revelara
+      - "revel\xE1ramos"
+      - revelarais
+      - revelaran
+      cjid: pisb1
+    - cjfs:
+      - revelase
+      - revelases
+      - revelase
+      - "revel\xE1semos"
+      - revelaseis
+      - revelasen
+      cjid: pisb2
+    - cjfs:
+      - revelare
+      - revelares
+      - revelare
+      - "revel\xE1remos"
+      - revelareis
+      - revelaren
+      cjid: fsub
+    - cjfs:
+      - he revelado
+      - has revelado
+      - ha revelado
+      - hemos revelado
+      - "hab\xE9is revelado"
+      - han revelado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa revelado"
+      - "hab\xEDas revelado"
+      - "hab\xEDa revelado"
+      - "hab\xEDamos revelado"
+      - "hab\xEDais revelado"
+      - "hab\xEDan revelado"
+      cjid: ppsi
+    - cjfs:
+      - hube revelado
+      - hubiste revelado
+      - hubo revelado
+      - hubimos revelado
+      - hubisteis revelado
+      - hubieron revelado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 revelado"
+      - "habr\xE1s revelado"
+      - "habr\xE1 revelado"
+      - habremos revelado
+      - "habr\xE9is revelado"
+      - "habr\xE1n revelado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa revelado"
+      - "habr\xEDas revelado"
+      - "habr\xEDa revelado"
+      - "habr\xEDamos revelado"
+      - "habr\xEDais revelado"
+      - "habr\xEDan revelado"
+      cjid: cpef
+    - cjfs:
+      - haya revelado
+      - hayas revelado
+      - haya revelado
+      - hayamos revelado
+      - "hay\xE1is revelado"
+      - hayan revelado
+      cjid: ppfs
+    - cjfs:
+      - hubiera revelado
+      - hubieras revelado
+      - hubiera revelado
+      - "hubi\xE9ramos revelado"
+      - hubierais revelado
+      - hubieran revelado
+      cjid: ppss1
+    - cjfs:
+      - hubiese revelado
+      - hubieses revelado
+      - hubiese revelado
+      - "hubi\xE9semos revelado"
+      - hubieseis revelado
+      - hubiesen revelado
+      cjid: ppss2
+    - cjfs:
+      - hubiere revelado
+      - hubieres revelado
+      - hubiere revelado
+      - "hubi\xE9remos revelado"
+      - hubiereis revelado
+      - hubieren revelado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - revela
+      - revele
+      - revelemos
+      - revelad
+      - revelen
+      cjid: impf

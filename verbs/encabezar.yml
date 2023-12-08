@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|head}, to {a_link|lead}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put a heading on'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: encabezar
+  meta:
+    id: encabezar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608402000'
+    src: spanish
+    stems:
+    - encabezar
+    uuid: d9594a15-ce38-4120-a1a2-ebf277159300
+  shortdef:
+  - to head, to lead
+  - to put a heading on
+  suppl:
+    cjts:
+    - cjfs:
+      - encabezando
+      - encabezado
+      cjid: gppt
+    - cjfs:
+      - encabezo
+      - encabezas
+      - encabeza
+      - encabezamos
+      - "encabez\xE1is"
+      - encabezan
+      cjid: pind
+    - cjfs:
+      - encabezaba
+      - encabezabas
+      - encabezaba
+      - "encabez\xE1bamos"
+      - encabezabais
+      - encabezaban
+      cjid: pret
+    - cjfs:
+      - "encabec\xE9"
+      - encabezaste
+      - "encabez\xF3"
+      - encabezamos
+      - encabezasteis
+      - encabezaron
+      cjid: pprf
+    - cjfs:
+      - "encabezar\xE9"
+      - "encabezar\xE1s"
+      - "encabezar\xE1"
+      - encabezaremos
+      - "encabezar\xE9is"
+      - "encabezar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encabezar\xEDa"
+      - "encabezar\xEDas"
+      - "encabezar\xEDa"
+      - "encabezar\xEDamos"
+      - "encabezar\xEDais"
+      - "encabezar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encabece
+      - encabeces
+      - encabece
+      - encabecemos
+      - "encabec\xE9is"
+      - encabecen
+      cjid: psub
+    - cjfs:
+      - encabezara
+      - encabezaras
+      - encabezara
+      - "encabez\xE1ramos"
+      - encabezarais
+      - encabezaran
+      cjid: pisb1
+    - cjfs:
+      - encabezase
+      - encabezases
+      - encabezase
+      - "encabez\xE1semos"
+      - encabezaseis
+      - encabezasen
+      cjid: pisb2
+    - cjfs:
+      - encabezare
+      - encabezares
+      - encabezare
+      - "encabez\xE1remos"
+      - encabezareis
+      - encabezaren
+      cjid: fsub
+    - cjfs:
+      - he encabezado
+      - has encabezado
+      - ha encabezado
+      - hemos encabezado
+      - "hab\xE9is encabezado"
+      - han encabezado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encabezado"
+      - "hab\xEDas encabezado"
+      - "hab\xEDa encabezado"
+      - "hab\xEDamos encabezado"
+      - "hab\xEDais encabezado"
+      - "hab\xEDan encabezado"
+      cjid: ppsi
+    - cjfs:
+      - hube encabezado
+      - hubiste encabezado
+      - hubo encabezado
+      - hubimos encabezado
+      - hubisteis encabezado
+      - hubieron encabezado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encabezado"
+      - "habr\xE1s encabezado"
+      - "habr\xE1 encabezado"
+      - habremos encabezado
+      - "habr\xE9is encabezado"
+      - "habr\xE1n encabezado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encabezado"
+      - "habr\xEDas encabezado"
+      - "habr\xEDa encabezado"
+      - "habr\xEDamos encabezado"
+      - "habr\xEDais encabezado"
+      - "habr\xEDan encabezado"
+      cjid: cpef
+    - cjfs:
+      - haya encabezado
+      - hayas encabezado
+      - haya encabezado
+      - hayamos encabezado
+      - "hay\xE1is encabezado"
+      - hayan encabezado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encabezado
+      - hubieras encabezado
+      - hubiera encabezado
+      - "hubi\xE9ramos encabezado"
+      - hubierais encabezado
+      - hubieran encabezado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encabezado
+      - hubieses encabezado
+      - hubiese encabezado
+      - "hubi\xE9semos encabezado"
+      - hubieseis encabezado
+      - hubiesen encabezado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encabezado
+      - hubieres encabezado
+      - hubiere encabezado
+      - "hubi\xE9remos encabezado"
+      - hubiereis encabezado
+      - hubieren encabezado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encabeza
+      - encabece
+      - encabecemos
+      - encabezad
+      - encabecen
+      cjid: impf

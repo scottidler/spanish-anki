@@ -1,0 +1,254 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arrive} '
+          - - vis
+            - - t: llegar temprano/tarde
+                tr: to arrive early/late
+              - t: "llegu\xE9 a Lisboa"
+                tr: I arrived in Lisbon
+              - t: "llegu\xE9 al hotel"
+                tr: I arrived at the hotel
+              - t: "lleg\xF3 hasta la frontera"
+                tr: he got as far as the border
+              - t: cuando llegue el momento
+                tr: when the time comes
+              - t: va a llegar lejos
+                tr: she's going to go far
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be enough '
+          - - vis
+            - - t: no nos llega el sueldo para todo
+                tr: we can't afford it all on our salary
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reach} '
+          - - vis
+            - - t: llega hasta el techo
+                tr: it goes (all the way) up to the ceiling
+              - t: "llegu\xE9 hasta la p\xE1gina 85"
+                tr: I got up to page 85, I got as far as page 85
+              - t: "podr\xEDa llegar a los 35 grados"
+                tr: it could get up to 35 degrees
+          sn: '3'
+          vrs:
+          - va: llegar a/hasta
+            vac: ~ a/hasta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reach} (an agreement, etc.)'
+          sn: '4'
+          vrs:
+          - va: llegar a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to manage to '
+          - - vis
+            - - t: "lleg\xF3 a terminar la novela"
+                tr: she managed to finish the novel
+          sn: '5'
+          vrs:
+          - va: llegar a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|become} '
+          - - vis
+            - - t: "lleg\xF3 a ser presidente"
+                tr: he became President
+          sn: '6'
+          vrs:
+          - va: llegar a ser
+  fl: intransitive verb
+  hwi:
+    hw: llegar
+    prs:
+    - sound:
+        audio: llega02sp
+  meta:
+    id: llegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613931000'
+    src: spanish
+    stems:
+    - llegar
+    - llegar a/hasta
+    - llegar a
+    - llegar hasta
+    - llegar a ser
+    uuid: 3618d261-4c57-45dc-bcf5-9f8251f58d27
+  shortdef:
+  - to arrive
+  - to be enough
+  - to reach
+  suppl:
+    cjts:
+    - cjfs:
+      - llegando
+      - llegado
+      cjid: gppt
+    - cjfs:
+      - llego
+      - llegas
+      - llega
+      - llegamos
+      - "lleg\xE1is"
+      - llegan
+      cjid: pind
+    - cjfs:
+      - llegaba
+      - llegabas
+      - llegaba
+      - "lleg\xE1bamos"
+      - llegabais
+      - llegaban
+      cjid: pret
+    - cjfs:
+      - "llegu\xE9"
+      - llegaste
+      - "lleg\xF3"
+      - llegamos
+      - llegasteis
+      - llegaron
+      cjid: pprf
+    - cjfs:
+      - "llegar\xE9"
+      - "llegar\xE1s"
+      - "llegar\xE1"
+      - llegaremos
+      - "llegar\xE9is"
+      - "llegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "llegar\xEDa"
+      - "llegar\xEDas"
+      - "llegar\xEDa"
+      - "llegar\xEDamos"
+      - "llegar\xEDais"
+      - "llegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - llegue
+      - llegues
+      - llegue
+      - lleguemos
+      - "llegu\xE9is"
+      - lleguen
+      cjid: psub
+    - cjfs:
+      - llegara
+      - llegaras
+      - llegara
+      - "lleg\xE1ramos"
+      - llegarais
+      - llegaran
+      cjid: pisb1
+    - cjfs:
+      - llegase
+      - llegases
+      - llegase
+      - "lleg\xE1semos"
+      - llegaseis
+      - llegasen
+      cjid: pisb2
+    - cjfs:
+      - llegare
+      - llegares
+      - llegare
+      - "lleg\xE1remos"
+      - llegareis
+      - llegaren
+      cjid: fsub
+    - cjfs:
+      - he llegado
+      - has llegado
+      - ha llegado
+      - hemos llegado
+      - "hab\xE9is llegado"
+      - han llegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa llegado"
+      - "hab\xEDas llegado"
+      - "hab\xEDa llegado"
+      - "hab\xEDamos llegado"
+      - "hab\xEDais llegado"
+      - "hab\xEDan llegado"
+      cjid: ppsi
+    - cjfs:
+      - hube llegado
+      - hubiste llegado
+      - hubo llegado
+      - hubimos llegado
+      - hubisteis llegado
+      - hubieron llegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 llegado"
+      - "habr\xE1s llegado"
+      - "habr\xE1 llegado"
+      - habremos llegado
+      - "habr\xE9is llegado"
+      - "habr\xE1n llegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa llegado"
+      - "habr\xEDas llegado"
+      - "habr\xEDa llegado"
+      - "habr\xEDamos llegado"
+      - "habr\xEDais llegado"
+      - "habr\xEDan llegado"
+      cjid: cpef
+    - cjfs:
+      - haya llegado
+      - hayas llegado
+      - haya llegado
+      - hayamos llegado
+      - "hay\xE1is llegado"
+      - hayan llegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera llegado
+      - hubieras llegado
+      - hubiera llegado
+      - "hubi\xE9ramos llegado"
+      - hubierais llegado
+      - hubieran llegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese llegado
+      - hubieses llegado
+      - hubiese llegado
+      - "hubi\xE9semos llegado"
+      - hubieseis llegado
+      - hubiesen llegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere llegado
+      - hubieres llegado
+      - hubiere llegado
+      - "hubi\xE9remos llegado"
+      - hubiereis llegado
+      - hubieren llegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - llega
+      - llegue
+      - lleguemos
+      - llegad
+      - lleguen
+      cjid: impf

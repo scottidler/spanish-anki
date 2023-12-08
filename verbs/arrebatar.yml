@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snatch}, to {a_link|seize}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cautivar||} {bc}to {a_link|captivate}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get carried away (with anger, etc.)'
+    drp: arrebatarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arrebatar
+    prs:
+    - sound:
+        audio: arreb01sp
+  meta:
+    id: arrebatar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601989000'
+    src: spanish
+    stems:
+    - arrebatar
+    - arrebatarse
+    uuid: 01fb69d2-a48d-46e5-90d3-87a813db301c
+  shortdef:
+  - to snatch, to seize
+  - 'cautivar : to captivate'
+  suppl:
+    cjts:
+    - cjfs:
+      - arrebatando
+      - arrebatado
+      cjid: gppt
+    - cjfs:
+      - arrebato
+      - arrebatas
+      - arrebata
+      - arrebatamos
+      - "arrebat\xE1is"
+      - arrebatan
+      cjid: pind
+    - cjfs:
+      - arrebataba
+      - arrebatabas
+      - arrebataba
+      - "arrebat\xE1bamos"
+      - arrebatabais
+      - arrebataban
+      cjid: pret
+    - cjfs:
+      - "arrebat\xE9"
+      - arrebataste
+      - "arrebat\xF3"
+      - arrebatamos
+      - arrebatasteis
+      - arrebataron
+      cjid: pprf
+    - cjfs:
+      - "arrebatar\xE9"
+      - "arrebatar\xE1s"
+      - "arrebatar\xE1"
+      - arrebataremos
+      - "arrebatar\xE9is"
+      - "arrebatar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrebatar\xEDa"
+      - "arrebatar\xEDas"
+      - "arrebatar\xEDa"
+      - "arrebatar\xEDamos"
+      - "arrebatar\xEDais"
+      - "arrebatar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arrebate
+      - arrebates
+      - arrebate
+      - arrebatemos
+      - "arrebat\xE9is"
+      - arrebaten
+      cjid: psub
+    - cjfs:
+      - arrebatara
+      - arrebataras
+      - arrebatara
+      - "arrebat\xE1ramos"
+      - arrebatarais
+      - arrebataran
+      cjid: pisb1
+    - cjfs:
+      - arrebatase
+      - arrebatases
+      - arrebatase
+      - "arrebat\xE1semos"
+      - arrebataseis
+      - arrebatasen
+      cjid: pisb2
+    - cjfs:
+      - arrebatare
+      - arrebatares
+      - arrebatare
+      - "arrebat\xE1remos"
+      - arrebatareis
+      - arrebataren
+      cjid: fsub
+    - cjfs:
+      - he arrebatado
+      - has arrebatado
+      - ha arrebatado
+      - hemos arrebatado
+      - "hab\xE9is arrebatado"
+      - han arrebatado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrebatado"
+      - "hab\xEDas arrebatado"
+      - "hab\xEDa arrebatado"
+      - "hab\xEDamos arrebatado"
+      - "hab\xEDais arrebatado"
+      - "hab\xEDan arrebatado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrebatado
+      - hubiste arrebatado
+      - hubo arrebatado
+      - hubimos arrebatado
+      - hubisteis arrebatado
+      - hubieron arrebatado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrebatado"
+      - "habr\xE1s arrebatado"
+      - "habr\xE1 arrebatado"
+      - habremos arrebatado
+      - "habr\xE9is arrebatado"
+      - "habr\xE1n arrebatado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrebatado"
+      - "habr\xEDas arrebatado"
+      - "habr\xEDa arrebatado"
+      - "habr\xEDamos arrebatado"
+      - "habr\xEDais arrebatado"
+      - "habr\xEDan arrebatado"
+      cjid: cpef
+    - cjfs:
+      - haya arrebatado
+      - hayas arrebatado
+      - haya arrebatado
+      - hayamos arrebatado
+      - "hay\xE1is arrebatado"
+      - hayan arrebatado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrebatado
+      - hubieras arrebatado
+      - hubiera arrebatado
+      - "hubi\xE9ramos arrebatado"
+      - hubierais arrebatado
+      - hubieran arrebatado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrebatado
+      - hubieses arrebatado
+      - hubiese arrebatado
+      - "hubi\xE9semos arrebatado"
+      - hubieseis arrebatado
+      - hubiesen arrebatado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrebatado
+      - hubieres arrebatado
+      - hubiere arrebatado
+      - "hubi\xE9remos arrebatado"
+      - hubiereis arrebatado
+      - hubieren arrebatado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arrebata
+      - arrebate
+      - arrebatemos
+      - arrebatad
+      - arrebaten
+      cjid: impf

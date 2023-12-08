@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deport}'
+  fl: transitive verb
+  hwi:
+    hw: deportar
+  meta:
+    id: deportar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606714000'
+    src: spanish
+    stems:
+    - deportar
+    uuid: 57e52f2a-820f-4ee5-9700-4e85e3e35f71
+  shortdef:
+  - to deport
+  suppl:
+    cjts:
+    - cjfs:
+      - deportando
+      - deportado
+      cjid: gppt
+    - cjfs:
+      - deporto
+      - deportas
+      - deporta
+      - deportamos
+      - "deport\xE1is"
+      - deportan
+      cjid: pind
+    - cjfs:
+      - deportaba
+      - deportabas
+      - deportaba
+      - "deport\xE1bamos"
+      - deportabais
+      - deportaban
+      cjid: pret
+    - cjfs:
+      - "deport\xE9"
+      - deportaste
+      - "deport\xF3"
+      - deportamos
+      - deportasteis
+      - deportaron
+      cjid: pprf
+    - cjfs:
+      - "deportar\xE9"
+      - "deportar\xE1s"
+      - "deportar\xE1"
+      - deportaremos
+      - "deportar\xE9is"
+      - "deportar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deportar\xEDa"
+      - "deportar\xEDas"
+      - "deportar\xEDa"
+      - "deportar\xEDamos"
+      - "deportar\xEDais"
+      - "deportar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deporte
+      - deportes
+      - deporte
+      - deportemos
+      - "deport\xE9is"
+      - deporten
+      cjid: psub
+    - cjfs:
+      - deportara
+      - deportaras
+      - deportara
+      - "deport\xE1ramos"
+      - deportarais
+      - deportaran
+      cjid: pisb1
+    - cjfs:
+      - deportase
+      - deportases
+      - deportase
+      - "deport\xE1semos"
+      - deportaseis
+      - deportasen
+      cjid: pisb2
+    - cjfs:
+      - deportare
+      - deportares
+      - deportare
+      - "deport\xE1remos"
+      - deportareis
+      - deportaren
+      cjid: fsub
+    - cjfs:
+      - he deportado
+      - has deportado
+      - ha deportado
+      - hemos deportado
+      - "hab\xE9is deportado"
+      - han deportado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deportado"
+      - "hab\xEDas deportado"
+      - "hab\xEDa deportado"
+      - "hab\xEDamos deportado"
+      - "hab\xEDais deportado"
+      - "hab\xEDan deportado"
+      cjid: ppsi
+    - cjfs:
+      - hube deportado
+      - hubiste deportado
+      - hubo deportado
+      - hubimos deportado
+      - hubisteis deportado
+      - hubieron deportado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deportado"
+      - "habr\xE1s deportado"
+      - "habr\xE1 deportado"
+      - habremos deportado
+      - "habr\xE9is deportado"
+      - "habr\xE1n deportado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deportado"
+      - "habr\xEDas deportado"
+      - "habr\xEDa deportado"
+      - "habr\xEDamos deportado"
+      - "habr\xEDais deportado"
+      - "habr\xEDan deportado"
+      cjid: cpef
+    - cjfs:
+      - haya deportado
+      - hayas deportado
+      - haya deportado
+      - hayamos deportado
+      - "hay\xE1is deportado"
+      - hayan deportado
+      cjid: ppfs
+    - cjfs:
+      - hubiera deportado
+      - hubieras deportado
+      - hubiera deportado
+      - "hubi\xE9ramos deportado"
+      - hubierais deportado
+      - hubieran deportado
+      cjid: ppss1
+    - cjfs:
+      - hubiese deportado
+      - hubieses deportado
+      - hubiese deportado
+      - "hubi\xE9semos deportado"
+      - hubieseis deportado
+      - hubiesen deportado
+      cjid: ppss2
+    - cjfs:
+      - hubiere deportado
+      - hubieres deportado
+      - hubiere deportado
+      - "hubi\xE9remos deportado"
+      - hubiereis deportado
+      - hubieren deportado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - deporta
+      - deporte
+      - deportemos
+      - deportad
+      - deporten
+      cjid: impf

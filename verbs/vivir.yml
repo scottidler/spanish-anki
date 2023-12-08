@@ -1,0 +1,263 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|live}, to be alive '
+          - - vis
+            - - t: "\xA1viva la democracia!"
+                tr: long live democracy!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|subsistir||} {bc}to {a_link|subsist}, to {a_link|make a living}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|residir||} {bc}to {a_link|reside}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to spend one''s life '
+          - - vis
+            - - t: vive para trabajar
+                tr: she lives to work
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|live on}'
+          sn: '5'
+          vrs:
+          - va: vivir de
+            vac: ~ de
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|live} '
+          - - vis
+            - - t: vivir su vida
+                tr: to live one's life
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|experimentar||} {bc}to {a_link|go through}, to {a_link|experience}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hom: 1
+  hwi:
+    hw: vivir
+    prs:
+    - sound:
+        audio: vivir01sp
+  meta:
+    id: vivir:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623156000'
+    src: spanish
+    stems:
+    - vivir
+    - vivir de
+    uuid: 26ef5b55-9b95-448a-ab7e-a55a2890267c
+  shortdef:
+  - to live, to be alive
+  - 'subsistir : to subsist, to make a living'
+  - 'residir : to reside'
+  suppl:
+    cjts:
+    - cjfs:
+      - viviendo
+      - vivido
+      cjid: gppt
+    - cjfs:
+      - vivo
+      - vives
+      - vive
+      - vivimos
+      - "viv\xEDs"
+      - viven
+      cjid: pind
+    - cjfs:
+      - "viv\xEDa"
+      - "viv\xEDas"
+      - "viv\xEDa"
+      - "viv\xEDamos"
+      - "viv\xEDais"
+      - "viv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "viv\xED"
+      - viviste
+      - "vivi\xF3"
+      - vivimos
+      - vivisteis
+      - vivieron
+      cjid: pprf
+    - cjfs:
+      - "vivir\xE9"
+      - "vivir\xE1s"
+      - "vivir\xE1"
+      - viviremos
+      - "vivir\xE9is"
+      - "vivir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vivir\xEDa"
+      - "vivir\xEDas"
+      - "vivir\xEDa"
+      - "vivir\xEDamos"
+      - "vivir\xEDais"
+      - "vivir\xEDan"
+      cjid: cond
+    - cjfs:
+      - viva
+      - vivas
+      - viva
+      - vivamos
+      - "viv\xE1is"
+      - vivan
+      cjid: psub
+    - cjfs:
+      - viviera
+      - vivieras
+      - viviera
+      - "vivi\xE9ramos"
+      - vivierais
+      - vivieran
+      cjid: pisb1
+    - cjfs:
+      - viviese
+      - vivieses
+      - viviese
+      - "vivi\xE9semos"
+      - vivieseis
+      - viviesen
+      cjid: pisb2
+    - cjfs:
+      - viviere
+      - vivieres
+      - viviere
+      - "vivi\xE9remos"
+      - viviereis
+      - vivieren
+      cjid: fsub
+    - cjfs:
+      - he vivido
+      - has vivido
+      - ha vivido
+      - hemos vivido
+      - "hab\xE9is vivido"
+      - han vivido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vivido"
+      - "hab\xEDas vivido"
+      - "hab\xEDa vivido"
+      - "hab\xEDamos vivido"
+      - "hab\xEDais vivido"
+      - "hab\xEDan vivido"
+      cjid: ppsi
+    - cjfs:
+      - hube vivido
+      - hubiste vivido
+      - hubo vivido
+      - hubimos vivido
+      - hubisteis vivido
+      - hubieron vivido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vivido"
+      - "habr\xE1s vivido"
+      - "habr\xE1 vivido"
+      - habremos vivido
+      - "habr\xE9is vivido"
+      - "habr\xE1n vivido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vivido"
+      - "habr\xEDas vivido"
+      - "habr\xEDa vivido"
+      - "habr\xEDamos vivido"
+      - "habr\xEDais vivido"
+      - "habr\xEDan vivido"
+      cjid: cpef
+    - cjfs:
+      - haya vivido
+      - hayas vivido
+      - haya vivido
+      - hayamos vivido
+      - "hay\xE1is vivido"
+      - hayan vivido
+      cjid: ppfs
+    - cjfs:
+      - hubiera vivido
+      - hubieras vivido
+      - hubiera vivido
+      - "hubi\xE9ramos vivido"
+      - hubierais vivido
+      - hubieran vivido
+      cjid: ppss1
+    - cjfs:
+      - hubiese vivido
+      - hubieses vivido
+      - hubiese vivido
+      - "hubi\xE9semos vivido"
+      - hubieseis vivido
+      - hubiesen vivido
+      cjid: ppss2
+    - cjfs:
+      - hubiere vivido
+      - hubieres vivido
+      - hubiere vivido
+      - "hubi\xE9remos vivido"
+      - hubiereis vivido
+      - hubieren vivido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vive
+      - viva
+      - vivamos
+      - vivid
+      - vivan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|life}, {a_link|lifestyle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|disreputable}'
+          sn: '2'
+          vrs:
+          - va: de mal vivir
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: vivir
+  meta:
+    id: vivir:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623157000'
+    src: spanish
+    stems:
+    - vivir
+    - de mal vivir
+    uuid: af4c4017-662e-4c81-aac7-806e46d2c307
+  shortdef:
+  - life, lifestyle
+  - disreputable

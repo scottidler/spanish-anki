@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|gritar||} {bc}to {a_link|shout}, to {a_link|yell}'
+  fl: intransitive verb
+  hwi:
+    hw: vociferar
+  meta:
+    id: vociferar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623173000'
+    src: spanish
+    stems:
+    - vociferar
+    uuid: 2bd7203d-78db-49b2-ae77-e79e5b3f5dc1
+  shortdef:
+  - 'gritar : to shout, to yell'
+  suppl:
+    cjts:
+    - cjfs:
+      - vociferando
+      - vociferado
+      cjid: gppt
+    - cjfs:
+      - vocifero
+      - vociferas
+      - vocifera
+      - vociferamos
+      - "vocifer\xE1is"
+      - vociferan
+      cjid: pind
+    - cjfs:
+      - vociferaba
+      - vociferabas
+      - vociferaba
+      - "vocifer\xE1bamos"
+      - vociferabais
+      - vociferaban
+      cjid: pret
+    - cjfs:
+      - "vocifer\xE9"
+      - vociferaste
+      - "vocifer\xF3"
+      - vociferamos
+      - vociferasteis
+      - vociferaron
+      cjid: pprf
+    - cjfs:
+      - "vociferar\xE9"
+      - "vociferar\xE1s"
+      - "vociferar\xE1"
+      - vociferaremos
+      - "vociferar\xE9is"
+      - "vociferar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vociferar\xEDa"
+      - "vociferar\xEDas"
+      - "vociferar\xEDa"
+      - "vociferar\xEDamos"
+      - "vociferar\xEDais"
+      - "vociferar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vocifere
+      - vociferes
+      - vocifere
+      - vociferemos
+      - "vocifer\xE9is"
+      - vociferen
+      cjid: psub
+    - cjfs:
+      - vociferara
+      - vociferaras
+      - vociferara
+      - "vocifer\xE1ramos"
+      - vociferarais
+      - vociferaran
+      cjid: pisb1
+    - cjfs:
+      - vociferase
+      - vociferases
+      - vociferase
+      - "vocifer\xE1semos"
+      - vociferaseis
+      - vociferasen
+      cjid: pisb2
+    - cjfs:
+      - vociferare
+      - vociferares
+      - vociferare
+      - "vocifer\xE1remos"
+      - vociferareis
+      - vociferaren
+      cjid: fsub
+    - cjfs:
+      - he vociferado
+      - has vociferado
+      - ha vociferado
+      - hemos vociferado
+      - "hab\xE9is vociferado"
+      - han vociferado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vociferado"
+      - "hab\xEDas vociferado"
+      - "hab\xEDa vociferado"
+      - "hab\xEDamos vociferado"
+      - "hab\xEDais vociferado"
+      - "hab\xEDan vociferado"
+      cjid: ppsi
+    - cjfs:
+      - hube vociferado
+      - hubiste vociferado
+      - hubo vociferado
+      - hubimos vociferado
+      - hubisteis vociferado
+      - hubieron vociferado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vociferado"
+      - "habr\xE1s vociferado"
+      - "habr\xE1 vociferado"
+      - habremos vociferado
+      - "habr\xE9is vociferado"
+      - "habr\xE1n vociferado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vociferado"
+      - "habr\xEDas vociferado"
+      - "habr\xEDa vociferado"
+      - "habr\xEDamos vociferado"
+      - "habr\xEDais vociferado"
+      - "habr\xEDan vociferado"
+      cjid: cpef
+    - cjfs:
+      - haya vociferado
+      - hayas vociferado
+      - haya vociferado
+      - hayamos vociferado
+      - "hay\xE1is vociferado"
+      - hayan vociferado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vociferado
+      - hubieras vociferado
+      - hubiera vociferado
+      - "hubi\xE9ramos vociferado"
+      - hubierais vociferado
+      - hubieran vociferado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vociferado
+      - hubieses vociferado
+      - hubiese vociferado
+      - "hubi\xE9semos vociferado"
+      - hubieseis vociferado
+      - hubiesen vociferado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vociferado
+      - hubieres vociferado
+      - hubiere vociferado
+      - "hubi\xE9remos vociferado"
+      - hubiereis vociferado
+      - hubieren vociferado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vocifera
+      - vocifere
+      - vociferemos
+      - vociferad
+      - vociferen
+      cjid: impf

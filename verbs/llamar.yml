@@ -1,0 +1,580 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|call}, to {a_link|name} '
+          - - vis
+            - - t: la llamamos Paulita
+                tr: we call her Paulita
+              - t: lo llamaban loco
+                tr: they called him crazy
+              - t: "as\xED lo llamamos en Cuba"
+                tr: that's what we call it in Cuba
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|call}, to {a_link|summon} '
+          - - vis
+            - - t: llamar un taxi
+                tr: to call a taxi
+              - t: "me llam\xF3 desde abajo"
+                tr: she called up to me (from downstairs)
+              - t: fue llamado a declarar
+                tr: he was called to testify
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|call} (up), to {a_link|phone} '
+          - - vis
+            - - t: "me llama todos los d\xEDas"
+                tr: she calls me every day
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knock} (on a door), to ring a doorbell '
+          - - vis
+            - - t: llaman a la puerta
+                tr: there's someone at the door
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be called, to be named '
+            - - vis
+              - - t: "\xBFc\xF3mo te llamas?"
+                  tr: what's your name?
+                - t: me llamo Ana
+                  tr: my name is Ana
+    drp: llamarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: llamar
+    prs:
+    - sound:
+        audio: llama03sp
+  meta:
+    id: llamar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613914000'
+    src: spanish
+    stems:
+    - llamar
+    - llamarse
+    uuid: ced246b5-1fc8-4028-80f6-f5b8e7fd325d
+  shortdef:
+  - to call, to name
+  - to call, to summon
+  - to call (up), to phone
+  suppl:
+    cjts:
+    - cjfs:
+      - llamando
+      - llamado
+      cjid: gppt
+    - cjfs:
+      - llamo
+      - llamas
+      - llama
+      - llamamos
+      - "llam\xE1is"
+      - llaman
+      cjid: pind
+    - cjfs:
+      - llamaba
+      - llamabas
+      - llamaba
+      - "llam\xE1bamos"
+      - llamabais
+      - llamaban
+      cjid: pret
+    - cjfs:
+      - "llam\xE9"
+      - llamaste
+      - "llam\xF3"
+      - llamamos
+      - llamasteis
+      - llamaron
+      cjid: pprf
+    - cjfs:
+      - "llamar\xE9"
+      - "llamar\xE1s"
+      - "llamar\xE1"
+      - llamaremos
+      - "llamar\xE9is"
+      - "llamar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "llamar\xEDa"
+      - "llamar\xEDas"
+      - "llamar\xEDa"
+      - "llamar\xEDamos"
+      - "llamar\xEDais"
+      - "llamar\xEDan"
+      cjid: cond
+    - cjfs:
+      - llame
+      - llames
+      - llame
+      - llamemos
+      - "llam\xE9is"
+      - llamen
+      cjid: psub
+    - cjfs:
+      - llamara
+      - llamaras
+      - llamara
+      - "llam\xE1ramos"
+      - llamarais
+      - llamaran
+      cjid: pisb1
+    - cjfs:
+      - llamase
+      - llamases
+      - llamase
+      - "llam\xE1semos"
+      - llamaseis
+      - llamasen
+      cjid: pisb2
+    - cjfs:
+      - llamare
+      - llamares
+      - llamare
+      - "llam\xE1remos"
+      - llamareis
+      - llamaren
+      cjid: fsub
+    - cjfs:
+      - he llamado
+      - has llamado
+      - ha llamado
+      - hemos llamado
+      - "hab\xE9is llamado"
+      - han llamado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa llamado"
+      - "hab\xEDas llamado"
+      - "hab\xEDa llamado"
+      - "hab\xEDamos llamado"
+      - "hab\xEDais llamado"
+      - "hab\xEDan llamado"
+      cjid: ppsi
+    - cjfs:
+      - hube llamado
+      - hubiste llamado
+      - hubo llamado
+      - hubimos llamado
+      - hubisteis llamado
+      - hubieron llamado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 llamado"
+      - "habr\xE1s llamado"
+      - "habr\xE1 llamado"
+      - habremos llamado
+      - "habr\xE9is llamado"
+      - "habr\xE1n llamado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa llamado"
+      - "habr\xEDas llamado"
+      - "habr\xEDa llamado"
+      - "habr\xEDamos llamado"
+      - "habr\xEDais llamado"
+      - "habr\xEDan llamado"
+      cjid: cpef
+    - cjfs:
+      - haya llamado
+      - hayas llamado
+      - haya llamado
+      - hayamos llamado
+      - "hay\xE1is llamado"
+      - hayan llamado
+      cjid: ppfs
+    - cjfs:
+      - hubiera llamado
+      - hubieras llamado
+      - hubiera llamado
+      - "hubi\xE9ramos llamado"
+      - hubierais llamado
+      - hubieran llamado
+      cjid: ppss1
+    - cjfs:
+      - hubiese llamado
+      - hubieses llamado
+      - hubiese llamado
+      - "hubi\xE9semos llamado"
+      - hubieseis llamado
+      - hubiesen llamado
+      cjid: ppss2
+    - cjfs:
+      - hubiere llamado
+      - hubieres llamado
+      - hubiere llamado
+      - "hubi\xE9remos llamado"
+      - hubiereis llamado
+      - hubieren llamado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - llama
+      - llame
+      - llamemos
+      - llamad
+      - llamen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|attention}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay attention}'
+          sn: '2'
+          vrs:
+          - va: "poner atenci\xF3n"
+          - va: "prestar atenci\xF3n"
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attract attention}'
+          sn: '3'
+          vrs:
+          - va: "llamar la atenci\xF3n"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in view of}'
+          sn: '4'
+          vrs:
+          - va: "en atenci\xF3n a"
+  fl: feminine noun
+  hom: 1
+  hwi:
+    hw: "atenci\xF3n"
+    prs:
+    - sound:
+        audio: atenc01sp
+  ins:
+  - if: atenciones
+    ifc: -ciones
+    il: plural
+  meta:
+    id: atencion:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602274000'
+    src: spanish
+    stems:
+    - "atenci\xF3n"
+    - atenciones
+    - "poner atenci\xF3n"
+    - "prestar atenci\xF3n"
+    - "llamar la atenci\xF3n"
+    - "en atenci\xF3n a"
+    uuid: 92c80876-e0b9-4022-a6fe-8524c3b73129
+  shortdef:
+  - attention
+  - to pay attention
+  - to attract attention
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|charge}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|collect}, to {a_link|draw}, to {a_link|earn}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|acquire}, to {a_link|gain}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recover}, to {a_link|retrieve}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cash} (a check)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|claim}, to {a_link|take} (a life)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot} (game), to {a_link|bag}'
+          sn: '7'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be paid'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to call collect'
+          sls:
+          - Mexico
+          sn: '2'
+          vrs:
+          - va: llamar por cobrar
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: cobrar
+    prs:
+    - sound:
+        audio: cobra02sp
+  meta:
+    id: cobrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604935000'
+    src: spanish
+    stems:
+    - cobrar
+    - llamar por cobrar
+    uuid: 87b838b6-41cd-4e71-8c16-a115ce04ea57
+  shortdef:
+  - to charge
+  - to collect, to draw, to earn
+  - to acquire, to gain
+  suppl:
+    cjts:
+    - cjfs:
+      - cobrando
+      - cobrado
+      cjid: gppt
+    - cjfs:
+      - cobro
+      - cobras
+      - cobra
+      - cobramos
+      - "cobr\xE1is"
+      - cobran
+      cjid: pind
+    - cjfs:
+      - cobraba
+      - cobrabas
+      - cobraba
+      - "cobr\xE1bamos"
+      - cobrabais
+      - cobraban
+      cjid: pret
+    - cjfs:
+      - "cobr\xE9"
+      - cobraste
+      - "cobr\xF3"
+      - cobramos
+      - cobrasteis
+      - cobraron
+      cjid: pprf
+    - cjfs:
+      - "cobrar\xE9"
+      - "cobrar\xE1s"
+      - "cobrar\xE1"
+      - cobraremos
+      - "cobrar\xE9is"
+      - "cobrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cobrar\xEDa"
+      - "cobrar\xEDas"
+      - "cobrar\xEDa"
+      - "cobrar\xEDamos"
+      - "cobrar\xEDais"
+      - "cobrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cobre
+      - cobres
+      - cobre
+      - cobremos
+      - "cobr\xE9is"
+      - cobren
+      cjid: psub
+    - cjfs:
+      - cobrara
+      - cobraras
+      - cobrara
+      - "cobr\xE1ramos"
+      - cobrarais
+      - cobraran
+      cjid: pisb1
+    - cjfs:
+      - cobrase
+      - cobrases
+      - cobrase
+      - "cobr\xE1semos"
+      - cobraseis
+      - cobrasen
+      cjid: pisb2
+    - cjfs:
+      - cobrare
+      - cobrares
+      - cobrare
+      - "cobr\xE1remos"
+      - cobrareis
+      - cobraren
+      cjid: fsub
+    - cjfs:
+      - he cobrado
+      - has cobrado
+      - ha cobrado
+      - hemos cobrado
+      - "hab\xE9is cobrado"
+      - han cobrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cobrado"
+      - "hab\xEDas cobrado"
+      - "hab\xEDa cobrado"
+      - "hab\xEDamos cobrado"
+      - "hab\xEDais cobrado"
+      - "hab\xEDan cobrado"
+      cjid: ppsi
+    - cjfs:
+      - hube cobrado
+      - hubiste cobrado
+      - hubo cobrado
+      - hubimos cobrado
+      - hubisteis cobrado
+      - hubieron cobrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cobrado"
+      - "habr\xE1s cobrado"
+      - "habr\xE1 cobrado"
+      - habremos cobrado
+      - "habr\xE9is cobrado"
+      - "habr\xE1n cobrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cobrado"
+      - "habr\xEDas cobrado"
+      - "habr\xEDa cobrado"
+      - "habr\xEDamos cobrado"
+      - "habr\xEDais cobrado"
+      - "habr\xEDan cobrado"
+      cjid: cpef
+    - cjfs:
+      - haya cobrado
+      - hayas cobrado
+      - haya cobrado
+      - hayamos cobrado
+      - "hay\xE1is cobrado"
+      - hayan cobrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cobrado
+      - hubieras cobrado
+      - hubiera cobrado
+      - "hubi\xE9ramos cobrado"
+      - hubierais cobrado
+      - hubieran cobrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cobrado
+      - hubieses cobrado
+      - hubiese cobrado
+      - "hubi\xE9semos cobrado"
+      - hubieseis cobrado
+      - hubiesen cobrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cobrado
+      - hubieres cobrado
+      - hubiere cobrado
+      - "hubi\xE9remos cobrado"
+      - hubiereis cobrado
+      - hubieren cobrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cobra
+      - cobre
+      - cobremos
+      - cobrad
+      - cobren
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|telephone} '
+          - - vis
+            - - t: "contestar el tel\xE9fono"
+                tr: to answer the phone
+              - t: "n\xFAmero de tel\xE9fono"
+                tr: phone number
+              - t: "tel\xE9fono celular"
+                tr: cell phone, mobile phone
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|telephone}, to make a phone call'
+          sn: '2'
+          vrs:
+          - va: "llamar por tel\xE9fono"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}smartphone'
+          sn: '3'
+          vrs:
+          - va: "tel\xE9fono inteligente"
+  fl: masculine noun
+  hwi:
+    hw: "tel\xE9fono"
+    prs:
+    - sound:
+        audio: telef02sp
+  meta:
+    id: telefono
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621581000'
+    src: spanish
+    stems:
+    - "tel\xE9fono"
+    - "tel\xE9fonos"
+    - "llamar por tel\xE9fono"
+    - "tel\xE9fono inteligente"
+    - "tel\xE9fonos inteligentes"
+    uuid: da6a9e89-b3fe-4467-82c5-93a586ff45dd
+  shortdef:
+  - telephone
+  - to telephone, to make a phone call
+  - smartphone

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|maravillar||} {bc}to {a_link|amaze}, to {a_link|astonish}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|marvel}, to be amazed'
+    drp: asombrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: asombrar
+    prs:
+    - sound:
+        audio: asomb01sp
+  meta:
+    id: asombrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602194000'
+    src: spanish
+    stems:
+    - asombrar
+    - asombrarse
+    uuid: e32e7dd3-4ee2-4f28-8bf0-72fb68d1ab24
+  shortdef:
+  - 'maravillar : to amaze, to astonish'
+  suppl:
+    cjts:
+    - cjfs:
+      - asombrando
+      - asombrado
+      cjid: gppt
+    - cjfs:
+      - asombro
+      - asombras
+      - asombra
+      - asombramos
+      - "asombr\xE1is"
+      - asombran
+      cjid: pind
+    - cjfs:
+      - asombraba
+      - asombrabas
+      - asombraba
+      - "asombr\xE1bamos"
+      - asombrabais
+      - asombraban
+      cjid: pret
+    - cjfs:
+      - "asombr\xE9"
+      - asombraste
+      - "asombr\xF3"
+      - asombramos
+      - asombrasteis
+      - asombraron
+      cjid: pprf
+    - cjfs:
+      - "asombrar\xE9"
+      - "asombrar\xE1s"
+      - "asombrar\xE1"
+      - asombraremos
+      - "asombrar\xE9is"
+      - "asombrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asombrar\xEDa"
+      - "asombrar\xEDas"
+      - "asombrar\xEDa"
+      - "asombrar\xEDamos"
+      - "asombrar\xEDais"
+      - "asombrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asombre
+      - asombres
+      - asombre
+      - asombremos
+      - "asombr\xE9is"
+      - asombren
+      cjid: psub
+    - cjfs:
+      - asombrara
+      - asombraras
+      - asombrara
+      - "asombr\xE1ramos"
+      - asombrarais
+      - asombraran
+      cjid: pisb1
+    - cjfs:
+      - asombrase
+      - asombrases
+      - asombrase
+      - "asombr\xE1semos"
+      - asombraseis
+      - asombrasen
+      cjid: pisb2
+    - cjfs:
+      - asombrare
+      - asombrares
+      - asombrare
+      - "asombr\xE1remos"
+      - asombrareis
+      - asombraren
+      cjid: fsub
+    - cjfs:
+      - he asombrado
+      - has asombrado
+      - ha asombrado
+      - hemos asombrado
+      - "hab\xE9is asombrado"
+      - han asombrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asombrado"
+      - "hab\xEDas asombrado"
+      - "hab\xEDa asombrado"
+      - "hab\xEDamos asombrado"
+      - "hab\xEDais asombrado"
+      - "hab\xEDan asombrado"
+      cjid: ppsi
+    - cjfs:
+      - hube asombrado
+      - hubiste asombrado
+      - hubo asombrado
+      - hubimos asombrado
+      - hubisteis asombrado
+      - hubieron asombrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asombrado"
+      - "habr\xE1s asombrado"
+      - "habr\xE1 asombrado"
+      - habremos asombrado
+      - "habr\xE9is asombrado"
+      - "habr\xE1n asombrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asombrado"
+      - "habr\xEDas asombrado"
+      - "habr\xEDa asombrado"
+      - "habr\xEDamos asombrado"
+      - "habr\xEDais asombrado"
+      - "habr\xEDan asombrado"
+      cjid: cpef
+    - cjfs:
+      - haya asombrado
+      - hayas asombrado
+      - haya asombrado
+      - hayamos asombrado
+      - "hay\xE1is asombrado"
+      - hayan asombrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asombrado
+      - hubieras asombrado
+      - hubiera asombrado
+      - "hubi\xE9ramos asombrado"
+      - hubierais asombrado
+      - hubieran asombrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asombrado
+      - hubieses asombrado
+      - hubiese asombrado
+      - "hubi\xE9semos asombrado"
+      - hubieseis asombrado
+      - hubiesen asombrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asombrado
+      - hubieres asombrado
+      - hubiere asombrado
+      - "hubi\xE9remos asombrado"
+      - hubiereis asombrado
+      - hubieren asombrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asombra
+      - asombre
+      - asombremos
+      - asombrad
+      - asombren
+      cjid: impf

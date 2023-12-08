@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|howl}, to {a_link|wail}'
+  fl: transitive verb
+  hwi:
+    hw: aullar
+    prs:
+    - sound:
+        audio: aulla01sp
+  meta:
+    id: aullar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602402000'
+    src: spanish
+    stems:
+    - aullar
+    uuid: d7920df1-299f-4a4a-9b0f-98c9ba9b3fcc
+  shortdef:
+  - to howl, to wail
+  suppl:
+    cjts:
+    - cjfs:
+      - aullando
+      - aullado
+      cjid: gppt
+    - cjfs:
+      - "a\xFAllo"
+      - "a\xFAllas"
+      - "a\xFAlla"
+      - aullamos
+      - "aull\xE1is"
+      - "a\xFAllan"
+      cjid: pind
+    - cjfs:
+      - aullaba
+      - aullabas
+      - aullaba
+      - "aull\xE1bamos"
+      - aullabais
+      - aullaban
+      cjid: pret
+    - cjfs:
+      - "aull\xE9"
+      - aullaste
+      - "aull\xF3"
+      - aullamos
+      - aullasteis
+      - aullaron
+      cjid: pprf
+    - cjfs:
+      - "aullar\xE9"
+      - "aullar\xE1s"
+      - "aullar\xE1"
+      - aullaremos
+      - "aullar\xE9is"
+      - "aullar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aullar\xEDa"
+      - "aullar\xEDas"
+      - "aullar\xEDa"
+      - "aullar\xEDamos"
+      - "aullar\xEDais"
+      - "aullar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "a\xFAlle"
+      - "a\xFAlles"
+      - "a\xFAlle"
+      - aullemos
+      - "aull\xE9is"
+      - "a\xFAllen"
+      cjid: psub
+    - cjfs:
+      - aullara
+      - aullaras
+      - aullara
+      - "aull\xE1ramos"
+      - aullarais
+      - aullaran
+      cjid: pisb1
+    - cjfs:
+      - aullase
+      - aullases
+      - aullase
+      - "aull\xE1semos"
+      - aullaseis
+      - aullasen
+      cjid: pisb2
+    - cjfs:
+      - aullare
+      - aullares
+      - aullare
+      - "aull\xE1remos"
+      - aullareis
+      - aullaren
+      cjid: fsub
+    - cjfs:
+      - he aullado
+      - has aullado
+      - ha aullado
+      - hemos aullado
+      - "hab\xE9is aullado"
+      - han aullado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aullado"
+      - "hab\xEDas aullado"
+      - "hab\xEDa aullado"
+      - "hab\xEDamos aullado"
+      - "hab\xEDais aullado"
+      - "hab\xEDan aullado"
+      cjid: ppsi
+    - cjfs:
+      - hube aullado
+      - hubiste aullado
+      - hubo aullado
+      - hubimos aullado
+      - hubisteis aullado
+      - hubieron aullado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aullado"
+      - "habr\xE1s aullado"
+      - "habr\xE1 aullado"
+      - habremos aullado
+      - "habr\xE9is aullado"
+      - "habr\xE1n aullado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aullado"
+      - "habr\xEDas aullado"
+      - "habr\xEDa aullado"
+      - "habr\xEDamos aullado"
+      - "habr\xEDais aullado"
+      - "habr\xEDan aullado"
+      cjid: cpef
+    - cjfs:
+      - haya aullado
+      - hayas aullado
+      - haya aullado
+      - hayamos aullado
+      - "hay\xE1is aullado"
+      - hayan aullado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aullado
+      - hubieras aullado
+      - hubiera aullado
+      - "hubi\xE9ramos aullado"
+      - hubierais aullado
+      - hubieran aullado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aullado
+      - hubieses aullado
+      - hubiese aullado
+      - "hubi\xE9semos aullado"
+      - hubieseis aullado
+      - hubiesen aullado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aullado
+      - hubieres aullado
+      - hubiere aullado
+      - "hubi\xE9remos aullado"
+      - hubiereis aullado
+      - hubieren aullado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "a\xFAlla"
+      - "a\xFAlle"
+      - aullemos
+      - aullad
+      - "a\xFAllen"
+      cjid: impf

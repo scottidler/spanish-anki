@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot}, to {a_link|fire}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay}'
+          sls:
+          - Mexico familiar
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to treat to, to {a_link|buy}'
+          sls:
+          - Mexico familiar
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|shoot up}, to {a_link|skyrocket}'
+    drp: dispararse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: disparar
+    prs:
+    - sound:
+        audio: dispa02sp
+  meta:
+    id: disparar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607728000'
+    src: spanish
+    stems:
+    - disparar
+    - dispararse
+    uuid: e4708a80-df06-4005-bb75-5a9621047472
+  shortdef:
+  - to shoot, to fire
+  - to pay
+  - to shoot
+  suppl:
+    cjts:
+    - cjfs:
+      - disparando
+      - disparado
+      cjid: gppt
+    - cjfs:
+      - disparo
+      - disparas
+      - dispara
+      - disparamos
+      - "dispar\xE1is"
+      - disparan
+      cjid: pind
+    - cjfs:
+      - disparaba
+      - disparabas
+      - disparaba
+      - "dispar\xE1bamos"
+      - disparabais
+      - disparaban
+      cjid: pret
+    - cjfs:
+      - "dispar\xE9"
+      - disparaste
+      - "dispar\xF3"
+      - disparamos
+      - disparasteis
+      - dispararon
+      cjid: pprf
+    - cjfs:
+      - "disparar\xE9"
+      - "disparar\xE1s"
+      - "disparar\xE1"
+      - dispararemos
+      - "disparar\xE9is"
+      - "disparar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disparar\xEDa"
+      - "disparar\xEDas"
+      - "disparar\xEDa"
+      - "disparar\xEDamos"
+      - "disparar\xEDais"
+      - "disparar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dispare
+      - dispares
+      - dispare
+      - disparemos
+      - "dispar\xE9is"
+      - disparen
+      cjid: psub
+    - cjfs:
+      - disparara
+      - dispararas
+      - disparara
+      - "dispar\xE1ramos"
+      - dispararais
+      - dispararan
+      cjid: pisb1
+    - cjfs:
+      - disparase
+      - disparases
+      - disparase
+      - "dispar\xE1semos"
+      - disparaseis
+      - disparasen
+      cjid: pisb2
+    - cjfs:
+      - disparare
+      - disparares
+      - disparare
+      - "dispar\xE1remos"
+      - disparareis
+      - dispararen
+      cjid: fsub
+    - cjfs:
+      - he disparado
+      - has disparado
+      - ha disparado
+      - hemos disparado
+      - "hab\xE9is disparado"
+      - han disparado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disparado"
+      - "hab\xEDas disparado"
+      - "hab\xEDa disparado"
+      - "hab\xEDamos disparado"
+      - "hab\xEDais disparado"
+      - "hab\xEDan disparado"
+      cjid: ppsi
+    - cjfs:
+      - hube disparado
+      - hubiste disparado
+      - hubo disparado
+      - hubimos disparado
+      - hubisteis disparado
+      - hubieron disparado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disparado"
+      - "habr\xE1s disparado"
+      - "habr\xE1 disparado"
+      - habremos disparado
+      - "habr\xE9is disparado"
+      - "habr\xE1n disparado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disparado"
+      - "habr\xEDas disparado"
+      - "habr\xEDa disparado"
+      - "habr\xEDamos disparado"
+      - "habr\xEDais disparado"
+      - "habr\xEDan disparado"
+      cjid: cpef
+    - cjfs:
+      - haya disparado
+      - hayas disparado
+      - haya disparado
+      - hayamos disparado
+      - "hay\xE1is disparado"
+      - hayan disparado
+      cjid: ppfs
+    - cjfs:
+      - hubiera disparado
+      - hubieras disparado
+      - hubiera disparado
+      - "hubi\xE9ramos disparado"
+      - hubierais disparado
+      - hubieran disparado
+      cjid: ppss1
+    - cjfs:
+      - hubiese disparado
+      - hubieses disparado
+      - hubiese disparado
+      - "hubi\xE9semos disparado"
+      - hubieseis disparado
+      - hubiesen disparado
+      cjid: ppss2
+    - cjfs:
+      - hubiere disparado
+      - hubieres disparado
+      - hubiere disparado
+      - "hubi\xE9remos disparado"
+      - hubiereis disparado
+      - hubieren disparado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dispara
+      - dispare
+      - disparemos
+      - disparad
+      - disparen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|swallow}'
+  fl: verb
+  hwi:
+    hw: tragar
+    prs:
+    - sound:
+        audio: traga02sp
+  meta:
+    id: tragar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622084000'
+    src: spanish
+    stems:
+    - tragar
+    - tragarse
+    uuid: d098578f-ae42-4895-9c06-862bf1e5c930
+  shortdef:
+  - to swallow
+  suppl:
+    cjts:
+    - cjfs:
+      - tragando
+      - tragado
+      cjid: gppt
+    - cjfs:
+      - trago
+      - tragas
+      - traga
+      - tragamos
+      - "trag\xE1is"
+      - tragan
+      cjid: pind
+    - cjfs:
+      - tragaba
+      - tragabas
+      - tragaba
+      - "trag\xE1bamos"
+      - tragabais
+      - tragaban
+      cjid: pret
+    - cjfs:
+      - "tragu\xE9"
+      - tragaste
+      - "trag\xF3"
+      - tragamos
+      - tragasteis
+      - tragaron
+      cjid: pprf
+    - cjfs:
+      - "tragar\xE9"
+      - "tragar\xE1s"
+      - "tragar\xE1"
+      - tragaremos
+      - "tragar\xE9is"
+      - "tragar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tragar\xEDa"
+      - "tragar\xEDas"
+      - "tragar\xEDa"
+      - "tragar\xEDamos"
+      - "tragar\xEDais"
+      - "tragar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trague
+      - tragues
+      - trague
+      - traguemos
+      - "tragu\xE9is"
+      - traguen
+      cjid: psub
+    - cjfs:
+      - tragara
+      - tragaras
+      - tragara
+      - "trag\xE1ramos"
+      - tragarais
+      - tragaran
+      cjid: pisb1
+    - cjfs:
+      - tragase
+      - tragases
+      - tragase
+      - "trag\xE1semos"
+      - tragaseis
+      - tragasen
+      cjid: pisb2
+    - cjfs:
+      - tragare
+      - tragares
+      - tragare
+      - "trag\xE1remos"
+      - tragareis
+      - tragaren
+      cjid: fsub
+    - cjfs:
+      - he tragado
+      - has tragado
+      - ha tragado
+      - hemos tragado
+      - "hab\xE9is tragado"
+      - han tragado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tragado"
+      - "hab\xEDas tragado"
+      - "hab\xEDa tragado"
+      - "hab\xEDamos tragado"
+      - "hab\xEDais tragado"
+      - "hab\xEDan tragado"
+      cjid: ppsi
+    - cjfs:
+      - hube tragado
+      - hubiste tragado
+      - hubo tragado
+      - hubimos tragado
+      - hubisteis tragado
+      - hubieron tragado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tragado"
+      - "habr\xE1s tragado"
+      - "habr\xE1 tragado"
+      - habremos tragado
+      - "habr\xE9is tragado"
+      - "habr\xE1n tragado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tragado"
+      - "habr\xEDas tragado"
+      - "habr\xEDa tragado"
+      - "habr\xEDamos tragado"
+      - "habr\xEDais tragado"
+      - "habr\xEDan tragado"
+      cjid: cpef
+    - cjfs:
+      - haya tragado
+      - hayas tragado
+      - haya tragado
+      - hayamos tragado
+      - "hay\xE1is tragado"
+      - hayan tragado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tragado
+      - hubieras tragado
+      - hubiera tragado
+      - "hubi\xE9ramos tragado"
+      - hubierais tragado
+      - hubieran tragado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tragado
+      - hubieses tragado
+      - hubiese tragado
+      - "hubi\xE9semos tragado"
+      - hubieseis tragado
+      - hubiesen tragado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tragado
+      - hubieres tragado
+      - hubiere tragado
+      - "hubi\xE9remos tragado"
+      - hubiereis tragado
+      - hubieren tragado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - traga
+      - trague
+      - traguemos
+      - tragad
+      - traguen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: tragarse

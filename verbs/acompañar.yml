@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|accompany}, to {a_link|go with}'
+  fl: transitive verb
+  hwi:
+    hw: "acompa\xF1ar"
+    prs:
+    - sound:
+        audio: acomp03sp
+  meta:
+    id: acompanar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600312000'
+    src: spanish
+    stems:
+    - "acompa\xF1ar"
+    uuid: c884f445-d5eb-4485-a561-d52077c4acf0
+  shortdef:
+  - to accompany, to go with
+  suppl:
+    cjts:
+    - cjfs:
+      - "acompa\xF1ando"
+      - "acompa\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "acompa\xF1o"
+      - "acompa\xF1as"
+      - "acompa\xF1a"
+      - "acompa\xF1amos"
+      - "acompa\xF1\xE1is"
+      - "acompa\xF1an"
+      cjid: pind
+    - cjfs:
+      - "acompa\xF1aba"
+      - "acompa\xF1abas"
+      - "acompa\xF1aba"
+      - "acompa\xF1\xE1bamos"
+      - "acompa\xF1abais"
+      - "acompa\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "acompa\xF1\xE9"
+      - "acompa\xF1aste"
+      - "acompa\xF1\xF3"
+      - "acompa\xF1amos"
+      - "acompa\xF1asteis"
+      - "acompa\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "acompa\xF1ar\xE9"
+      - "acompa\xF1ar\xE1s"
+      - "acompa\xF1ar\xE1"
+      - "acompa\xF1aremos"
+      - "acompa\xF1ar\xE9is"
+      - "acompa\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acompa\xF1ar\xEDa"
+      - "acompa\xF1ar\xEDas"
+      - "acompa\xF1ar\xEDa"
+      - "acompa\xF1ar\xEDamos"
+      - "acompa\xF1ar\xEDais"
+      - "acompa\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "acompa\xF1e"
+      - "acompa\xF1es"
+      - "acompa\xF1e"
+      - "acompa\xF1emos"
+      - "acompa\xF1\xE9is"
+      - "acompa\xF1en"
+      cjid: psub
+    - cjfs:
+      - "acompa\xF1ara"
+      - "acompa\xF1aras"
+      - "acompa\xF1ara"
+      - "acompa\xF1\xE1ramos"
+      - "acompa\xF1arais"
+      - "acompa\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "acompa\xF1ase"
+      - "acompa\xF1ases"
+      - "acompa\xF1ase"
+      - "acompa\xF1\xE1semos"
+      - "acompa\xF1aseis"
+      - "acompa\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "acompa\xF1are"
+      - "acompa\xF1ares"
+      - "acompa\xF1are"
+      - "acompa\xF1\xE1remos"
+      - "acompa\xF1areis"
+      - "acompa\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he acompa\xF1ado"
+      - "has acompa\xF1ado"
+      - "ha acompa\xF1ado"
+      - "hemos acompa\xF1ado"
+      - "hab\xE9is acompa\xF1ado"
+      - "han acompa\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acompa\xF1ado"
+      - "hab\xEDas acompa\xF1ado"
+      - "hab\xEDa acompa\xF1ado"
+      - "hab\xEDamos acompa\xF1ado"
+      - "hab\xEDais acompa\xF1ado"
+      - "hab\xEDan acompa\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube acompa\xF1ado"
+      - "hubiste acompa\xF1ado"
+      - "hubo acompa\xF1ado"
+      - "hubimos acompa\xF1ado"
+      - "hubisteis acompa\xF1ado"
+      - "hubieron acompa\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acompa\xF1ado"
+      - "habr\xE1s acompa\xF1ado"
+      - "habr\xE1 acompa\xF1ado"
+      - "habremos acompa\xF1ado"
+      - "habr\xE9is acompa\xF1ado"
+      - "habr\xE1n acompa\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acompa\xF1ado"
+      - "habr\xEDas acompa\xF1ado"
+      - "habr\xEDa acompa\xF1ado"
+      - "habr\xEDamos acompa\xF1ado"
+      - "habr\xEDais acompa\xF1ado"
+      - "habr\xEDan acompa\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya acompa\xF1ado"
+      - "hayas acompa\xF1ado"
+      - "haya acompa\xF1ado"
+      - "hayamos acompa\xF1ado"
+      - "hay\xE1is acompa\xF1ado"
+      - "hayan acompa\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera acompa\xF1ado"
+      - "hubieras acompa\xF1ado"
+      - "hubiera acompa\xF1ado"
+      - "hubi\xE9ramos acompa\xF1ado"
+      - "hubierais acompa\xF1ado"
+      - "hubieran acompa\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese acompa\xF1ado"
+      - "hubieses acompa\xF1ado"
+      - "hubiese acompa\xF1ado"
+      - "hubi\xE9semos acompa\xF1ado"
+      - "hubieseis acompa\xF1ado"
+      - "hubiesen acompa\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere acompa\xF1ado"
+      - "hubieres acompa\xF1ado"
+      - "hubiere acompa\xF1ado"
+      - "hubi\xE9remos acompa\xF1ado"
+      - "hubiereis acompa\xF1ado"
+      - "hubieren acompa\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "acompa\xF1a"
+      - "acompa\xF1e"
+      - "acompa\xF1emos"
+      - "acompa\xF1ad"
+      - "acompa\xF1en"
+      cjid: impf

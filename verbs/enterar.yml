@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|informar||} {bc}to {a_link|inform}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|informarse||} {bc}to {a_link|find out}, to {a_link|learn}'
+    drp: enterarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enterar
+    prs:
+    - sound:
+        audio: enter02sp
+  meta:
+    id: enterar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608712000'
+    src: spanish
+    stems:
+    - enterar
+    - enterarse
+    uuid: 10cd9fcb-e68c-4ce1-ad8d-dafcf5a71ee4
+  shortdef:
+  - 'informar : to inform'
+  suppl:
+    cjts:
+    - cjfs:
+      - enterando
+      - enterado
+      cjid: gppt
+    - cjfs:
+      - entero
+      - enteras
+      - entera
+      - enteramos
+      - "enter\xE1is"
+      - enteran
+      cjid: pind
+    - cjfs:
+      - enteraba
+      - enterabas
+      - enteraba
+      - "enter\xE1bamos"
+      - enterabais
+      - enteraban
+      cjid: pret
+    - cjfs:
+      - "enter\xE9"
+      - enteraste
+      - "enter\xF3"
+      - enteramos
+      - enterasteis
+      - enteraron
+      cjid: pprf
+    - cjfs:
+      - "enterar\xE9"
+      - "enterar\xE1s"
+      - "enterar\xE1"
+      - enteraremos
+      - "enterar\xE9is"
+      - "enterar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enterar\xEDa"
+      - "enterar\xEDas"
+      - "enterar\xEDa"
+      - "enterar\xEDamos"
+      - "enterar\xEDais"
+      - "enterar\xEDan"
+      cjid: cond
+    - cjfs:
+      - entere
+      - enteres
+      - entere
+      - enteremos
+      - "enter\xE9is"
+      - enteren
+      cjid: psub
+    - cjfs:
+      - enterara
+      - enteraras
+      - enterara
+      - "enter\xE1ramos"
+      - enterarais
+      - enteraran
+      cjid: pisb1
+    - cjfs:
+      - enterase
+      - enterases
+      - enterase
+      - "enter\xE1semos"
+      - enteraseis
+      - enterasen
+      cjid: pisb2
+    - cjfs:
+      - enterare
+      - enterares
+      - enterare
+      - "enter\xE1remos"
+      - enterareis
+      - enteraren
+      cjid: fsub
+    - cjfs:
+      - he enterado
+      - has enterado
+      - ha enterado
+      - hemos enterado
+      - "hab\xE9is enterado"
+      - han enterado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enterado"
+      - "hab\xEDas enterado"
+      - "hab\xEDa enterado"
+      - "hab\xEDamos enterado"
+      - "hab\xEDais enterado"
+      - "hab\xEDan enterado"
+      cjid: ppsi
+    - cjfs:
+      - hube enterado
+      - hubiste enterado
+      - hubo enterado
+      - hubimos enterado
+      - hubisteis enterado
+      - hubieron enterado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enterado"
+      - "habr\xE1s enterado"
+      - "habr\xE1 enterado"
+      - habremos enterado
+      - "habr\xE9is enterado"
+      - "habr\xE1n enterado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enterado"
+      - "habr\xEDas enterado"
+      - "habr\xEDa enterado"
+      - "habr\xEDamos enterado"
+      - "habr\xEDais enterado"
+      - "habr\xEDan enterado"
+      cjid: cpef
+    - cjfs:
+      - haya enterado
+      - hayas enterado
+      - haya enterado
+      - hayamos enterado
+      - "hay\xE1is enterado"
+      - hayan enterado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enterado
+      - hubieras enterado
+      - hubiera enterado
+      - "hubi\xE9ramos enterado"
+      - hubierais enterado
+      - hubieran enterado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enterado
+      - hubieses enterado
+      - hubiese enterado
+      - "hubi\xE9semos enterado"
+      - hubieseis enterado
+      - hubiesen enterado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enterado
+      - hubieres enterado
+      - hubiere enterado
+      - "hubi\xE9remos enterado"
+      - hubiereis enterado
+      - hubieren enterado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entera
+      - entere
+      - enteremos
+      - enterad
+      - enteren
+      cjid: impf

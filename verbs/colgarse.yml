@@ -1,0 +1,223 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hang} (up), to {a_link|put up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ahorcar||} {bc}to {a_link|hang} (someone)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hang up} (a telephone)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fail} (an exam)'
+          sls:
+          - familiar
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|hang}, to be suspended'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|ahorcarse||} {bc}to hang oneself'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to hang up a telephone'
+            sn: '3'
+    drp: colgarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: colgar
+    prs:
+    - sound:
+        audio: colga02sp
+  meta:
+    id: colgar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605063000'
+    src: spanish
+    stems:
+    - colgar
+    - colgarse
+    uuid: 4854f2f1-5d39-444a-8da4-43ec378b9ec9
+  shortdef:
+  - to hang (up), to put up
+  - 'ahorcar : to hang (someone)'
+  - to hang up (a telephone)
+  suppl:
+    cjts:
+    - cjfs:
+      - colgando
+      - colgado
+      cjid: gppt
+    - cjfs:
+      - cuelgo
+      - cuelgas
+      - cuelga
+      - colgamos
+      - "colg\xE1is"
+      - cuelgan
+      cjid: pind
+    - cjfs:
+      - colgaba
+      - colgabas
+      - colgaba
+      - "colg\xE1bamos"
+      - colgabais
+      - colgaban
+      cjid: pret
+    - cjfs:
+      - "colgu\xE9"
+      - colgaste
+      - "colg\xF3"
+      - colgamos
+      - colgasteis
+      - colgaron
+      cjid: pprf
+    - cjfs:
+      - "colgar\xE9"
+      - "colgar\xE1s"
+      - "colgar\xE1"
+      - colgaremos
+      - "colgar\xE9is"
+      - "colgar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "colgar\xEDa"
+      - "colgar\xEDas"
+      - "colgar\xEDa"
+      - "colgar\xEDamos"
+      - "colgar\xEDais"
+      - "colgar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cuelgue
+      - cuelgues
+      - cuelgue
+      - colguemos
+      - "colgu\xE9is"
+      - cuelguen
+      cjid: psub
+    - cjfs:
+      - colgara
+      - colgaras
+      - colgara
+      - "colg\xE1ramos"
+      - colgarais
+      - colgaran
+      cjid: pisb1
+    - cjfs:
+      - colgase
+      - colgases
+      - colgase
+      - "colg\xE1semos"
+      - colgaseis
+      - colgasen
+      cjid: pisb2
+    - cjfs:
+      - colgare
+      - colgares
+      - colgare
+      - "colg\xE1remos"
+      - colgareis
+      - colgaren
+      cjid: fsub
+    - cjfs:
+      - he colgado
+      - has colgado
+      - ha colgado
+      - hemos colgado
+      - "hab\xE9is colgado"
+      - han colgado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa colgado"
+      - "hab\xEDas colgado"
+      - "hab\xEDa colgado"
+      - "hab\xEDamos colgado"
+      - "hab\xEDais colgado"
+      - "hab\xEDan colgado"
+      cjid: ppsi
+    - cjfs:
+      - hube colgado
+      - hubiste colgado
+      - hubo colgado
+      - hubimos colgado
+      - hubisteis colgado
+      - hubieron colgado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 colgado"
+      - "habr\xE1s colgado"
+      - "habr\xE1 colgado"
+      - habremos colgado
+      - "habr\xE9is colgado"
+      - "habr\xE1n colgado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa colgado"
+      - "habr\xEDas colgado"
+      - "habr\xEDa colgado"
+      - "habr\xEDamos colgado"
+      - "habr\xEDais colgado"
+      - "habr\xEDan colgado"
+      cjid: cpef
+    - cjfs:
+      - haya colgado
+      - hayas colgado
+      - haya colgado
+      - hayamos colgado
+      - "hay\xE1is colgado"
+      - hayan colgado
+      cjid: ppfs
+    - cjfs:
+      - hubiera colgado
+      - hubieras colgado
+      - hubiera colgado
+      - "hubi\xE9ramos colgado"
+      - hubierais colgado
+      - hubieran colgado
+      cjid: ppss1
+    - cjfs:
+      - hubiese colgado
+      - hubieses colgado
+      - hubiese colgado
+      - "hubi\xE9semos colgado"
+      - hubieseis colgado
+      - hubiesen colgado
+      cjid: ppss2
+    - cjfs:
+      - hubiere colgado
+      - hubieres colgado
+      - hubiere colgado
+      - "hubi\xE9remos colgado"
+      - hubiereis colgado
+      - hubieren colgado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cuelga
+      - cuelgue
+      - colguemos
+      - colgad
+      - cuelguen
+      cjid: impf

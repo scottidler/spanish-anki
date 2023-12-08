@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|insist}'
+  fl: verb
+  hwi:
+    hw: insistir
+    prs:
+    - sound:
+        audio: insis01sp
+  meta:
+    id: insistir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612700000'
+    src: spanish
+    stems:
+    - insistir
+    uuid: 586e62d7-8a5d-45fa-8f17-d4a533f66bc6
+  shortdef:
+  - to insist
+  suppl:
+    cjts:
+    - cjfs:
+      - insistiendo
+      - insistido
+      cjid: gppt
+    - cjfs:
+      - insisto
+      - insistes
+      - insiste
+      - insistimos
+      - "insist\xEDs"
+      - insisten
+      cjid: pind
+    - cjfs:
+      - "insist\xEDa"
+      - "insist\xEDas"
+      - "insist\xEDa"
+      - "insist\xEDamos"
+      - "insist\xEDais"
+      - "insist\xEDan"
+      cjid: pret
+    - cjfs:
+      - "insist\xED"
+      - insististe
+      - "insisti\xF3"
+      - insistimos
+      - insististeis
+      - insistieron
+      cjid: pprf
+    - cjfs:
+      - "insistir\xE9"
+      - "insistir\xE1s"
+      - "insistir\xE1"
+      - insistiremos
+      - "insistir\xE9is"
+      - "insistir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "insistir\xEDa"
+      - "insistir\xEDas"
+      - "insistir\xEDa"
+      - "insistir\xEDamos"
+      - "insistir\xEDais"
+      - "insistir\xEDan"
+      cjid: cond
+    - cjfs:
+      - insista
+      - insistas
+      - insista
+      - insistamos
+      - "insist\xE1is"
+      - insistan
+      cjid: psub
+    - cjfs:
+      - insistiera
+      - insistieras
+      - insistiera
+      - "insisti\xE9ramos"
+      - insistierais
+      - insistieran
+      cjid: pisb1
+    - cjfs:
+      - insistiese
+      - insistieses
+      - insistiese
+      - "insisti\xE9semos"
+      - insistieseis
+      - insistiesen
+      cjid: pisb2
+    - cjfs:
+      - insistiere
+      - insistieres
+      - insistiere
+      - "insisti\xE9remos"
+      - insistiereis
+      - insistieren
+      cjid: fsub
+    - cjfs:
+      - he insistido
+      - has insistido
+      - ha insistido
+      - hemos insistido
+      - "hab\xE9is insistido"
+      - han insistido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa insistido"
+      - "hab\xEDas insistido"
+      - "hab\xEDa insistido"
+      - "hab\xEDamos insistido"
+      - "hab\xEDais insistido"
+      - "hab\xEDan insistido"
+      cjid: ppsi
+    - cjfs:
+      - hube insistido
+      - hubiste insistido
+      - hubo insistido
+      - hubimos insistido
+      - hubisteis insistido
+      - hubieron insistido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 insistido"
+      - "habr\xE1s insistido"
+      - "habr\xE1 insistido"
+      - habremos insistido
+      - "habr\xE9is insistido"
+      - "habr\xE1n insistido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa insistido"
+      - "habr\xEDas insistido"
+      - "habr\xEDa insistido"
+      - "habr\xEDamos insistido"
+      - "habr\xEDais insistido"
+      - "habr\xEDan insistido"
+      cjid: cpef
+    - cjfs:
+      - haya insistido
+      - hayas insistido
+      - haya insistido
+      - hayamos insistido
+      - "hay\xE1is insistido"
+      - hayan insistido
+      cjid: ppfs
+    - cjfs:
+      - hubiera insistido
+      - hubieras insistido
+      - hubiera insistido
+      - "hubi\xE9ramos insistido"
+      - hubierais insistido
+      - hubieran insistido
+      cjid: ppss1
+    - cjfs:
+      - hubiese insistido
+      - hubieses insistido
+      - hubiese insistido
+      - "hubi\xE9semos insistido"
+      - hubieseis insistido
+      - hubiesen insistido
+      cjid: ppss2
+    - cjfs:
+      - hubiere insistido
+      - hubieres insistido
+      - hubiere insistido
+      - "hubi\xE9remos insistido"
+      - hubiereis insistido
+      - hubieren insistido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - insiste
+      - insista
+      - insistamos
+      - insistid
+      - insistan
+      cjid: impf

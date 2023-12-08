@@ -1,0 +1,268 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|speak}, to {a_link|talk} '
+          - - vis
+            - - t: hablar en broma
+                tr: to be joking
+              - t: "hablar m\xE1s alto"
+                tr: to speak up, to speak/talk louder
+              - t: "hablar m\xE1s bajo"
+                tr: to lower one's voice, to speak/talk more quietly
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to talk to, to speak to/with'
+          sn: '2'
+          vrs:
+          - va: hablar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mention}, to talk about '
+          - - vis
+            - - t: hablar bien/mal de
+                tr: to speak well/ill of
+          sn: '3'
+          vrs:
+          - va: hablar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make people talk '
+          - - vis
+            - - t: va a dar que hablar
+                tr: people will start talking/gossiping about him
+          sn: '4'
+          vrs:
+          - va: dar que hablar
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}no way!'
+          sn: '5'
+          vrs:
+          - va: "\xA1ni hablar!"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|speak} (a language)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to talk about, to {a_link|discuss} '
+          - - vis
+            - - t: "h\xE1blalo con tu jefe"
+                tr: discuss it with your boss
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to speak to each other, to be on speaking terms'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}{a_link|English} (etc.) {a_link|spoken}'
+            sn: '2'
+            vrs:
+            - va: "se habla ingl\xE9s (etc.)"
+    drp: hablarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: hablar
+    prs:
+    - sound:
+        audio: habla04sp
+  meta:
+    id: hablar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611241000'
+    src: spanish
+    stems:
+    - hablar
+    - hablar con
+    - hablar de
+    - dar que hablar
+    - "\xA1ni hablar!"
+    - hablarse
+    - se habla ingles (etc.)
+    - se habla ingles
+    - se habla ingles etc.
+    uuid: 0d3154e4-2d99-4405-a02e-5b34a3c2117d
+  shortdef:
+  - to speak, to talk
+  - to talk to, to speak to/with
+  - to mention, to talk about
+  suppl:
+    cjts:
+    - cjfs:
+      - hablando
+      - hablado
+      cjid: gppt
+    - cjfs:
+      - hablo
+      - hablas
+      - habla
+      - hablamos
+      - "habl\xE1is"
+      - hablan
+      cjid: pind
+    - cjfs:
+      - hablaba
+      - hablabas
+      - hablaba
+      - "habl\xE1bamos"
+      - hablabais
+      - hablaban
+      cjid: pret
+    - cjfs:
+      - "habl\xE9"
+      - hablaste
+      - "habl\xF3"
+      - hablamos
+      - hablasteis
+      - hablaron
+      cjid: pprf
+    - cjfs:
+      - "hablar\xE9"
+      - "hablar\xE1s"
+      - "hablar\xE1"
+      - hablaremos
+      - "hablar\xE9is"
+      - "hablar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "hablar\xEDa"
+      - "hablar\xEDas"
+      - "hablar\xEDa"
+      - "hablar\xEDamos"
+      - "hablar\xEDais"
+      - "hablar\xEDan"
+      cjid: cond
+    - cjfs:
+      - hable
+      - hables
+      - hable
+      - hablemos
+      - "habl\xE9is"
+      - hablen
+      cjid: psub
+    - cjfs:
+      - hablara
+      - hablaras
+      - hablara
+      - "habl\xE1ramos"
+      - hablarais
+      - hablaran
+      cjid: pisb1
+    - cjfs:
+      - hablase
+      - hablases
+      - hablase
+      - "habl\xE1semos"
+      - hablaseis
+      - hablasen
+      cjid: pisb2
+    - cjfs:
+      - hablare
+      - hablares
+      - hablare
+      - "habl\xE1remos"
+      - hablareis
+      - hablaren
+      cjid: fsub
+    - cjfs:
+      - he hablado
+      - has hablado
+      - ha hablado
+      - hemos hablado
+      - "hab\xE9is hablado"
+      - han hablado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa hablado"
+      - "hab\xEDas hablado"
+      - "hab\xEDa hablado"
+      - "hab\xEDamos hablado"
+      - "hab\xEDais hablado"
+      - "hab\xEDan hablado"
+      cjid: ppsi
+    - cjfs:
+      - hube hablado
+      - hubiste hablado
+      - hubo hablado
+      - hubimos hablado
+      - hubisteis hablado
+      - hubieron hablado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 hablado"
+      - "habr\xE1s hablado"
+      - "habr\xE1 hablado"
+      - habremos hablado
+      - "habr\xE9is hablado"
+      - "habr\xE1n hablado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa hablado"
+      - "habr\xEDas hablado"
+      - "habr\xEDa hablado"
+      - "habr\xEDamos hablado"
+      - "habr\xEDais hablado"
+      - "habr\xEDan hablado"
+      cjid: cpef
+    - cjfs:
+      - haya hablado
+      - hayas hablado
+      - haya hablado
+      - hayamos hablado
+      - "hay\xE1is hablado"
+      - hayan hablado
+      cjid: ppfs
+    - cjfs:
+      - hubiera hablado
+      - hubieras hablado
+      - hubiera hablado
+      - "hubi\xE9ramos hablado"
+      - hubierais hablado
+      - hubieran hablado
+      cjid: ppss1
+    - cjfs:
+      - hubiese hablado
+      - hubieses hablado
+      - hubiese hablado
+      - "hubi\xE9semos hablado"
+      - hubieseis hablado
+      - hubiesen hablado
+      cjid: ppss2
+    - cjfs:
+      - hubiere hablado
+      - hubieres hablado
+      - hubiere hablado
+      - "hubi\xE9remos hablado"
+      - hubiereis hablado
+      - hubieren hablado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - habla
+      - hable
+      - hablemos
+      - hablad
+      - hablen
+      cjid: impf

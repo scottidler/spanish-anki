@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deliver}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|dar||} {bc}to {a_link|give}, to {a_link|present}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hand in}, to {a_link|hand over}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|surrender}, to give in'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|devote oneself}'
+            sn: '2'
+    drp: entregarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: entregar
+    prs:
+    - sound:
+        audio: entre03sp
+  meta:
+    id: entregar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608757000'
+    src: spanish
+    stems:
+    - entregar
+    - entregarse
+    uuid: da7c2a2a-9f8d-44d2-b0a2-1c99e46e238b
+  shortdef:
+  - to deliver
+  - 'dar : to give, to present'
+  - to hand in, to hand over
+  suppl:
+    cjts:
+    - cjfs:
+      - entregando
+      - entregado
+      cjid: gppt
+    - cjfs:
+      - entrego
+      - entregas
+      - entrega
+      - entregamos
+      - "entreg\xE1is"
+      - entregan
+      cjid: pind
+    - cjfs:
+      - entregaba
+      - entregabas
+      - entregaba
+      - "entreg\xE1bamos"
+      - entregabais
+      - entregaban
+      cjid: pret
+    - cjfs:
+      - "entregu\xE9"
+      - entregaste
+      - "entreg\xF3"
+      - entregamos
+      - entregasteis
+      - entregaron
+      cjid: pprf
+    - cjfs:
+      - "entregar\xE9"
+      - "entregar\xE1s"
+      - "entregar\xE1"
+      - entregaremos
+      - "entregar\xE9is"
+      - "entregar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entregar\xEDa"
+      - "entregar\xEDas"
+      - "entregar\xEDa"
+      - "entregar\xEDamos"
+      - "entregar\xEDais"
+      - "entregar\xEDan"
+      cjid: cond
+    - cjfs:
+      - entregue
+      - entregues
+      - entregue
+      - entreguemos
+      - "entregu\xE9is"
+      - entreguen
+      cjid: psub
+    - cjfs:
+      - entregara
+      - entregaras
+      - entregara
+      - "entreg\xE1ramos"
+      - entregarais
+      - entregaran
+      cjid: pisb1
+    - cjfs:
+      - entregase
+      - entregases
+      - entregase
+      - "entreg\xE1semos"
+      - entregaseis
+      - entregasen
+      cjid: pisb2
+    - cjfs:
+      - entregare
+      - entregares
+      - entregare
+      - "entreg\xE1remos"
+      - entregareis
+      - entregaren
+      cjid: fsub
+    - cjfs:
+      - he entregado
+      - has entregado
+      - ha entregado
+      - hemos entregado
+      - "hab\xE9is entregado"
+      - han entregado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entregado"
+      - "hab\xEDas entregado"
+      - "hab\xEDa entregado"
+      - "hab\xEDamos entregado"
+      - "hab\xEDais entregado"
+      - "hab\xEDan entregado"
+      cjid: ppsi
+    - cjfs:
+      - hube entregado
+      - hubiste entregado
+      - hubo entregado
+      - hubimos entregado
+      - hubisteis entregado
+      - hubieron entregado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entregado"
+      - "habr\xE1s entregado"
+      - "habr\xE1 entregado"
+      - habremos entregado
+      - "habr\xE9is entregado"
+      - "habr\xE1n entregado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entregado"
+      - "habr\xEDas entregado"
+      - "habr\xEDa entregado"
+      - "habr\xEDamos entregado"
+      - "habr\xEDais entregado"
+      - "habr\xEDan entregado"
+      cjid: cpef
+    - cjfs:
+      - haya entregado
+      - hayas entregado
+      - haya entregado
+      - hayamos entregado
+      - "hay\xE1is entregado"
+      - hayan entregado
+      cjid: ppfs
+    - cjfs:
+      - hubiera entregado
+      - hubieras entregado
+      - hubiera entregado
+      - "hubi\xE9ramos entregado"
+      - hubierais entregado
+      - hubieran entregado
+      cjid: ppss1
+    - cjfs:
+      - hubiese entregado
+      - hubieses entregado
+      - hubiese entregado
+      - "hubi\xE9semos entregado"
+      - hubieseis entregado
+      - hubiesen entregado
+      cjid: ppss2
+    - cjfs:
+      - hubiere entregado
+      - hubieres entregado
+      - hubiere entregado
+      - "hubi\xE9remos entregado"
+      - hubiereis entregado
+      - hubieren entregado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entrega
+      - entregue
+      - entreguemos
+      - entregad
+      - entreguen
+      cjid: impf

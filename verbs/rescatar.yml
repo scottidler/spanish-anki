@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rescue}, to {a_link|save}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recover}, to {a_link|get back}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: rescatar
+    prs:
+    - sound:
+        audio: resca01sp
+  meta:
+    id: rescatar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619536000'
+    src: spanish
+    stems:
+    - rescatar
+    uuid: 39d999c2-8c34-4e8e-8c17-74707d7f0b51
+  shortdef:
+  - to rescue, to save
+  - to recover, to get back
+  suppl:
+    cjts:
+    - cjfs:
+      - rescatando
+      - rescatado
+      cjid: gppt
+    - cjfs:
+      - rescato
+      - rescatas
+      - rescata
+      - rescatamos
+      - "rescat\xE1is"
+      - rescatan
+      cjid: pind
+    - cjfs:
+      - rescataba
+      - rescatabas
+      - rescataba
+      - "rescat\xE1bamos"
+      - rescatabais
+      - rescataban
+      cjid: pret
+    - cjfs:
+      - "rescat\xE9"
+      - rescataste
+      - "rescat\xF3"
+      - rescatamos
+      - rescatasteis
+      - rescataron
+      cjid: pprf
+    - cjfs:
+      - "rescatar\xE9"
+      - "rescatar\xE1s"
+      - "rescatar\xE1"
+      - rescataremos
+      - "rescatar\xE9is"
+      - "rescatar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rescatar\xEDa"
+      - "rescatar\xEDas"
+      - "rescatar\xEDa"
+      - "rescatar\xEDamos"
+      - "rescatar\xEDais"
+      - "rescatar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rescate
+      - rescates
+      - rescate
+      - rescatemos
+      - "rescat\xE9is"
+      - rescaten
+      cjid: psub
+    - cjfs:
+      - rescatara
+      - rescataras
+      - rescatara
+      - "rescat\xE1ramos"
+      - rescatarais
+      - rescataran
+      cjid: pisb1
+    - cjfs:
+      - rescatase
+      - rescatases
+      - rescatase
+      - "rescat\xE1semos"
+      - rescataseis
+      - rescatasen
+      cjid: pisb2
+    - cjfs:
+      - rescatare
+      - rescatares
+      - rescatare
+      - "rescat\xE1remos"
+      - rescatareis
+      - rescataren
+      cjid: fsub
+    - cjfs:
+      - he rescatado
+      - has rescatado
+      - ha rescatado
+      - hemos rescatado
+      - "hab\xE9is rescatado"
+      - han rescatado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rescatado"
+      - "hab\xEDas rescatado"
+      - "hab\xEDa rescatado"
+      - "hab\xEDamos rescatado"
+      - "hab\xEDais rescatado"
+      - "hab\xEDan rescatado"
+      cjid: ppsi
+    - cjfs:
+      - hube rescatado
+      - hubiste rescatado
+      - hubo rescatado
+      - hubimos rescatado
+      - hubisteis rescatado
+      - hubieron rescatado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rescatado"
+      - "habr\xE1s rescatado"
+      - "habr\xE1 rescatado"
+      - habremos rescatado
+      - "habr\xE9is rescatado"
+      - "habr\xE1n rescatado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rescatado"
+      - "habr\xEDas rescatado"
+      - "habr\xEDa rescatado"
+      - "habr\xEDamos rescatado"
+      - "habr\xEDais rescatado"
+      - "habr\xEDan rescatado"
+      cjid: cpef
+    - cjfs:
+      - haya rescatado
+      - hayas rescatado
+      - haya rescatado
+      - hayamos rescatado
+      - "hay\xE1is rescatado"
+      - hayan rescatado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rescatado
+      - hubieras rescatado
+      - hubiera rescatado
+      - "hubi\xE9ramos rescatado"
+      - hubierais rescatado
+      - hubieran rescatado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rescatado
+      - hubieses rescatado
+      - hubiese rescatado
+      - "hubi\xE9semos rescatado"
+      - hubieseis rescatado
+      - hubiesen rescatado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rescatado
+      - hubieres rescatado
+      - hubiere rescatado
+      - "hubi\xE9remos rescatado"
+      - hubiereis rescatado
+      - hubieren rescatado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rescata
+      - rescate
+      - rescatemos
+      - rescatad
+      - rescaten
+      cjid: impf

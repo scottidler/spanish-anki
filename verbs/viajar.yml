@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|travel}, to {a_link|journey}'
+  fl: intransitive verb
+  hwi:
+    hw: viajar
+    prs:
+    - sound:
+        audio: viaja01sp
+  meta:
+    id: viajar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622955000'
+    src: spanish
+    stems:
+    - viajar
+    uuid: 672bfd6b-5db9-4545-8774-d0e88fe4454e
+  shortdef:
+  - to travel, to journey
+  suppl:
+    cjts:
+    - cjfs:
+      - viajando
+      - viajado
+      cjid: gppt
+    - cjfs:
+      - viajo
+      - viajas
+      - viaja
+      - viajamos
+      - "viaj\xE1is"
+      - viajan
+      cjid: pind
+    - cjfs:
+      - viajaba
+      - viajabas
+      - viajaba
+      - "viaj\xE1bamos"
+      - viajabais
+      - viajaban
+      cjid: pret
+    - cjfs:
+      - "viaj\xE9"
+      - viajaste
+      - "viaj\xF3"
+      - viajamos
+      - viajasteis
+      - viajaron
+      cjid: pprf
+    - cjfs:
+      - "viajar\xE9"
+      - "viajar\xE1s"
+      - "viajar\xE1"
+      - viajaremos
+      - "viajar\xE9is"
+      - "viajar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "viajar\xEDa"
+      - "viajar\xEDas"
+      - "viajar\xEDa"
+      - "viajar\xEDamos"
+      - "viajar\xEDais"
+      - "viajar\xEDan"
+      cjid: cond
+    - cjfs:
+      - viaje
+      - viajes
+      - viaje
+      - viajemos
+      - "viaj\xE9is"
+      - viajen
+      cjid: psub
+    - cjfs:
+      - viajara
+      - viajaras
+      - viajara
+      - "viaj\xE1ramos"
+      - viajarais
+      - viajaran
+      cjid: pisb1
+    - cjfs:
+      - viajase
+      - viajases
+      - viajase
+      - "viaj\xE1semos"
+      - viajaseis
+      - viajasen
+      cjid: pisb2
+    - cjfs:
+      - viajare
+      - viajares
+      - viajare
+      - "viaj\xE1remos"
+      - viajareis
+      - viajaren
+      cjid: fsub
+    - cjfs:
+      - he viajado
+      - has viajado
+      - ha viajado
+      - hemos viajado
+      - "hab\xE9is viajado"
+      - han viajado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa viajado"
+      - "hab\xEDas viajado"
+      - "hab\xEDa viajado"
+      - "hab\xEDamos viajado"
+      - "hab\xEDais viajado"
+      - "hab\xEDan viajado"
+      cjid: ppsi
+    - cjfs:
+      - hube viajado
+      - hubiste viajado
+      - hubo viajado
+      - hubimos viajado
+      - hubisteis viajado
+      - hubieron viajado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 viajado"
+      - "habr\xE1s viajado"
+      - "habr\xE1 viajado"
+      - habremos viajado
+      - "habr\xE9is viajado"
+      - "habr\xE1n viajado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa viajado"
+      - "habr\xEDas viajado"
+      - "habr\xEDa viajado"
+      - "habr\xEDamos viajado"
+      - "habr\xEDais viajado"
+      - "habr\xEDan viajado"
+      cjid: cpef
+    - cjfs:
+      - haya viajado
+      - hayas viajado
+      - haya viajado
+      - hayamos viajado
+      - "hay\xE1is viajado"
+      - hayan viajado
+      cjid: ppfs
+    - cjfs:
+      - hubiera viajado
+      - hubieras viajado
+      - hubiera viajado
+      - "hubi\xE9ramos viajado"
+      - hubierais viajado
+      - hubieran viajado
+      cjid: ppss1
+    - cjfs:
+      - hubiese viajado
+      - hubieses viajado
+      - hubiese viajado
+      - "hubi\xE9semos viajado"
+      - hubieseis viajado
+      - hubiesen viajado
+      cjid: ppss2
+    - cjfs:
+      - hubiere viajado
+      - hubieres viajado
+      - hubiere viajado
+      - "hubi\xE9remos viajado"
+      - hubiereis viajado
+      - hubieren viajado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - viaja
+      - viaje
+      - viajemos
+      - viajad
+      - viajen
+      cjid: impf

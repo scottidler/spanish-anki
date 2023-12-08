@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|laugh}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|laugh at}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: "re\xEDr"
+    prs:
+    - sound:
+        audio: reir001sp
+  meta:
+    id: reir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619267000'
+    src: spanish
+    stems:
+    - "re\xEDr"
+    - "re\xEDrse"
+    uuid: f22df691-53b9-4440-9c7c-91cf74bb4556
+  shortdef:
+  - to laugh
+  - to laugh at
+  suppl:
+    cjts:
+    - cjfs:
+      - riendo
+      - "re\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - "r\xEDo"
+      - "r\xEDes"
+      - "r\xEDe"
+      - "re\xEDmos"
+      - "re\xEDs"
+      - "r\xEDen"
+      cjid: pind
+    - cjfs:
+      - "re\xEDa"
+      - "re\xEDas"
+      - "re\xEDa"
+      - "re\xEDamos"
+      - "re\xEDais"
+      - "re\xEDan"
+      cjid: pret
+    - cjfs:
+      - "re\xED"
+      - "re\xEDste"
+      - "ri\xF3"
+      - "re\xEDmos"
+      - "re\xEDsteis"
+      - rieron
+      cjid: pprf
+    - cjfs:
+      - "reir\xE9"
+      - "reir\xE1s"
+      - "reir\xE1"
+      - reiremos
+      - "reir\xE9is"
+      - "reir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reir\xEDa"
+      - "reir\xEDas"
+      - "reir\xEDa"
+      - "reir\xEDamos"
+      - "reir\xEDais"
+      - "reir\xEDan"
+      cjid: cond
+    - cjfs:
+      - "r\xEDa"
+      - "r\xEDas"
+      - "r\xEDa"
+      - riamos
+      - "ri\xE1is"
+      - "r\xEDan"
+      cjid: psub
+    - cjfs:
+      - riera
+      - rieras
+      - riera
+      - "ri\xE9ramos"
+      - rierais
+      - rieran
+      cjid: pisb1
+    - cjfs:
+      - riese
+      - rieses
+      - riese
+      - "ri\xE9semos"
+      - rieseis
+      - riesen
+      cjid: pisb2
+    - cjfs:
+      - riere
+      - rieres
+      - riere
+      - "ri\xE9remos"
+      - riereis
+      - rieren
+      cjid: fsub
+    - cjfs:
+      - "he re\xEDdo"
+      - "has re\xEDdo"
+      - "ha re\xEDdo"
+      - "hemos re\xEDdo"
+      - "hab\xE9is re\xEDdo"
+      - "han re\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa re\xEDdo"
+      - "hab\xEDas re\xEDdo"
+      - "hab\xEDa re\xEDdo"
+      - "hab\xEDamos re\xEDdo"
+      - "hab\xEDais re\xEDdo"
+      - "hab\xEDan re\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube re\xEDdo"
+      - "hubiste re\xEDdo"
+      - "hubo re\xEDdo"
+      - "hubimos re\xEDdo"
+      - "hubisteis re\xEDdo"
+      - "hubieron re\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 re\xEDdo"
+      - "habr\xE1s re\xEDdo"
+      - "habr\xE1 re\xEDdo"
+      - "habremos re\xEDdo"
+      - "habr\xE9is re\xEDdo"
+      - "habr\xE1n re\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa re\xEDdo"
+      - "habr\xEDas re\xEDdo"
+      - "habr\xEDa re\xEDdo"
+      - "habr\xEDamos re\xEDdo"
+      - "habr\xEDais re\xEDdo"
+      - "habr\xEDan re\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya re\xEDdo"
+      - "hayas re\xEDdo"
+      - "haya re\xEDdo"
+      - "hayamos re\xEDdo"
+      - "hay\xE1is re\xEDdo"
+      - "hayan re\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera re\xEDdo"
+      - "hubieras re\xEDdo"
+      - "hubiera re\xEDdo"
+      - "hubi\xE9ramos re\xEDdo"
+      - "hubierais re\xEDdo"
+      - "hubieran re\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese re\xEDdo"
+      - "hubieses re\xEDdo"
+      - "hubiese re\xEDdo"
+      - "hubi\xE9semos re\xEDdo"
+      - "hubieseis re\xEDdo"
+      - "hubiesen re\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere re\xEDdo"
+      - "hubieres re\xEDdo"
+      - "hubiere re\xEDdo"
+      - "hubi\xE9remos re\xEDdo"
+      - "hubiereis re\xEDdo"
+      - "hubieren re\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "r\xEDe"
+      - "r\xEDa"
+      - riamos
+      - "re\xEDd"
+      - "r\xEDan"
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: "re\xEDrse"

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stammer}, to {a_link|stutter}'
+  fl: intransitive verb
+  hwi:
+    hw: tartamudear
+    prs:
+    - sound:
+        audio: tarta01sp
+  meta:
+    id: tartamudear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621507000'
+    src: spanish
+    stems:
+    - tartamudear
+    uuid: a10281e9-bb70-42a7-8aea-e71acb65b3c5
+  shortdef:
+  - to stammer, to stutter
+  suppl:
+    cjts:
+    - cjfs:
+      - tartamudeando
+      - tartamudeado
+      cjid: gppt
+    - cjfs:
+      - tartamudeo
+      - tartamudeas
+      - tartamudea
+      - tartamudeamos
+      - "tartamude\xE1is"
+      - tartamudean
+      cjid: pind
+    - cjfs:
+      - tartamudeaba
+      - tartamudeabas
+      - tartamudeaba
+      - "tartamude\xE1bamos"
+      - tartamudeabais
+      - tartamudeaban
+      cjid: pret
+    - cjfs:
+      - "tartamude\xE9"
+      - tartamudeaste
+      - "tartamude\xF3"
+      - tartamudeamos
+      - tartamudeasteis
+      - tartamudearon
+      cjid: pprf
+    - cjfs:
+      - "tartamudear\xE9"
+      - "tartamudear\xE1s"
+      - "tartamudear\xE1"
+      - tartamudearemos
+      - "tartamudear\xE9is"
+      - "tartamudear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tartamudear\xEDa"
+      - "tartamudear\xEDas"
+      - "tartamudear\xEDa"
+      - "tartamudear\xEDamos"
+      - "tartamudear\xEDais"
+      - "tartamudear\xEDan"
+      cjid: cond
+    - cjfs:
+      - tartamudee
+      - tartamudees
+      - tartamudee
+      - tartamudeemos
+      - "tartamude\xE9is"
+      - tartamudeen
+      cjid: psub
+    - cjfs:
+      - tartamudeara
+      - tartamudearas
+      - tartamudeara
+      - "tartamude\xE1ramos"
+      - tartamudearais
+      - tartamudearan
+      cjid: pisb1
+    - cjfs:
+      - tartamudease
+      - tartamudeases
+      - tartamudease
+      - "tartamude\xE1semos"
+      - tartamudeaseis
+      - tartamudeasen
+      cjid: pisb2
+    - cjfs:
+      - tartamudeare
+      - tartamudeares
+      - tartamudeare
+      - "tartamude\xE1remos"
+      - tartamudeareis
+      - tartamudearen
+      cjid: fsub
+    - cjfs:
+      - he tartamudeado
+      - has tartamudeado
+      - ha tartamudeado
+      - hemos tartamudeado
+      - "hab\xE9is tartamudeado"
+      - han tartamudeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tartamudeado"
+      - "hab\xEDas tartamudeado"
+      - "hab\xEDa tartamudeado"
+      - "hab\xEDamos tartamudeado"
+      - "hab\xEDais tartamudeado"
+      - "hab\xEDan tartamudeado"
+      cjid: ppsi
+    - cjfs:
+      - hube tartamudeado
+      - hubiste tartamudeado
+      - hubo tartamudeado
+      - hubimos tartamudeado
+      - hubisteis tartamudeado
+      - hubieron tartamudeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tartamudeado"
+      - "habr\xE1s tartamudeado"
+      - "habr\xE1 tartamudeado"
+      - habremos tartamudeado
+      - "habr\xE9is tartamudeado"
+      - "habr\xE1n tartamudeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tartamudeado"
+      - "habr\xEDas tartamudeado"
+      - "habr\xEDa tartamudeado"
+      - "habr\xEDamos tartamudeado"
+      - "habr\xEDais tartamudeado"
+      - "habr\xEDan tartamudeado"
+      cjid: cpef
+    - cjfs:
+      - haya tartamudeado
+      - hayas tartamudeado
+      - haya tartamudeado
+      - hayamos tartamudeado
+      - "hay\xE1is tartamudeado"
+      - hayan tartamudeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tartamudeado
+      - hubieras tartamudeado
+      - hubiera tartamudeado
+      - "hubi\xE9ramos tartamudeado"
+      - hubierais tartamudeado
+      - hubieran tartamudeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tartamudeado
+      - hubieses tartamudeado
+      - hubiese tartamudeado
+      - "hubi\xE9semos tartamudeado"
+      - hubieseis tartamudeado
+      - hubiesen tartamudeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tartamudeado
+      - hubieres tartamudeado
+      - hubiere tartamudeado
+      - "hubi\xE9remos tartamudeado"
+      - hubiereis tartamudeado
+      - hubieren tartamudeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tartamudea
+      - tartamudee
+      - tartamudeemos
+      - tartamudead
+      - tartamudeen
+      cjid: impf

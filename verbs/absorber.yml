@@ -1,0 +1,263 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|absorb}, to {a_link|soak up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|occupy}, to {a_link|take up}, to {a_link|engross}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: absorber
+    prs:
+    - sound:
+        audio: absor01sp
+  meta:
+    id: absorber
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600130000'
+    src: spanish
+    stems:
+    - absorber
+    uuid: 6a59c06a-f84c-4c23-9bcc-cd050fe97d8c
+  shortdef:
+  - to absorb, to soak up
+  - to occupy, to take up, to engross
+  suppl:
+    cjts:
+    - cjfs:
+      - absorbiendo
+      - absorbido
+      cjid: gppt
+    - cjfs:
+      - absorbo
+      - absorbes
+      - absorbe
+      - absorbemos
+      - "absorb\xE9is"
+      - absorben
+      cjid: pind
+    - cjfs:
+      - "absorb\xEDa"
+      - "absorb\xEDas"
+      - "absorb\xEDa"
+      - "absorb\xEDamos"
+      - "absorb\xEDais"
+      - "absorb\xEDan"
+      cjid: pret
+    - cjfs:
+      - "absorb\xED"
+      - absorbiste
+      - "absorbi\xF3"
+      - absorbimos
+      - absorbisteis
+      - absorbieron
+      cjid: pprf
+    - cjfs:
+      - "absorber\xE9"
+      - "absorber\xE1s"
+      - "absorber\xE1"
+      - absorberemos
+      - "absorber\xE9is"
+      - "absorber\xE1n"
+      cjid: futr
+    - cjfs:
+      - "absorber\xEDa"
+      - "absorber\xEDas"
+      - "absorber\xEDa"
+      - "absorber\xEDamos"
+      - "absorber\xEDais"
+      - "absorber\xEDan"
+      cjid: cond
+    - cjfs:
+      - absorba
+      - absorbas
+      - absorba
+      - absorbamos
+      - "absorb\xE1is"
+      - absorban
+      cjid: psub
+    - cjfs:
+      - absorbiera
+      - absorbieras
+      - absorbiera
+      - "absorbi\xE9ramos"
+      - absorbierais
+      - absorbieran
+      cjid: pisb1
+    - cjfs:
+      - absorbiese
+      - absorbieses
+      - absorbiese
+      - "absorbi\xE9semos"
+      - absorbieseis
+      - absorbiesen
+      cjid: pisb2
+    - cjfs:
+      - absorbiere
+      - absorbieres
+      - absorbiere
+      - "absorbi\xE9remos"
+      - absorbiereis
+      - absorbieren
+      cjid: fsub
+    - cjfs:
+      - he absorbido
+      - has absorbido
+      - ha absorbido
+      - hemos absorbido
+      - "hab\xE9is absorbido"
+      - han absorbido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa absorbido"
+      - "hab\xEDas absorbido"
+      - "hab\xEDa absorbido"
+      - "hab\xEDamos absorbido"
+      - "hab\xEDais absorbido"
+      - "hab\xEDan absorbido"
+      cjid: ppsi
+    - cjfs:
+      - hube absorbido
+      - hubiste absorbido
+      - hubo absorbido
+      - hubimos absorbido
+      - hubisteis absorbido
+      - hubieron absorbido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 absorbido"
+      - "habr\xE1s absorbido"
+      - "habr\xE1 absorbido"
+      - habremos absorbido
+      - "habr\xE9is absorbido"
+      - "habr\xE1n absorbido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa absorbido"
+      - "habr\xEDas absorbido"
+      - "habr\xEDa absorbido"
+      - "habr\xEDamos absorbido"
+      - "habr\xEDais absorbido"
+      - "habr\xEDan absorbido"
+      cjid: cpef
+    - cjfs:
+      - haya absorbido
+      - hayas absorbido
+      - haya absorbido
+      - hayamos absorbido
+      - "hay\xE1is absorbido"
+      - hayan absorbido
+      cjid: ppfs
+    - cjfs:
+      - hubiera absorbido
+      - hubieras absorbido
+      - hubiera absorbido
+      - "hubi\xE9ramos absorbido"
+      - hubierais absorbido
+      - hubieran absorbido
+      cjid: ppss1
+    - cjfs:
+      - hubiese absorbido
+      - hubieses absorbido
+      - hubiese absorbido
+      - "hubi\xE9semos absorbido"
+      - hubieseis absorbido
+      - hubiesen absorbido
+      cjid: ppss2
+    - cjfs:
+      - hubiere absorbido
+      - hubieres absorbido
+      - hubiere absorbido
+      - "hubi\xE9remos absorbido"
+      - hubiereis absorbido
+      - hubieren absorbido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - absorbe
+      - absorba
+      - absorbamos
+      - absorbed
+      - absorban
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}{a_link|absorber}, {a_link|embeber} (un l\xEDquido), {a_link|amortiguar}\
+              \ (un golpe, la luz)"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|engross||} {bc}{a_link|absorber}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|assimilate||} {bc}{a_link|asimilar}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: absorb
+    prs:
+    - mw: "\u0259b\u02C8z\u0254rb"
+      sound:
+        audio: absorb02
+    - mw: "\xE6b-"
+      sound:
+        audio: absorb01
+    - mw: "-\u02C8s\u0254rb"
+  meta:
+    id: absorb
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2600098000'
+    src: spanish
+    stems:
+    - absorb
+    - absorbed
+    - absorbing
+    - absorbs
+    - absorbability
+    - absorbabilities
+    - absorbable
+    - absorber
+    - absorbers
+    uuid: 8c9f7fda-64e3-4b01-8a66-f5e687cf03c4
+  shortdef:
+  - "absorber, embeber (un l\xEDquido), amortiguar (un golpe, la luz)"
+  - 'engross : absorber'
+  - 'assimilate : asimilar'
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|amortiguador} '
+          - - gl
+            - masculine
+  fl: noun
+  hwi:
+    hw: shock absorber
+  meta:
+    id: shock absorber
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2621688000'
+    src: spanish
+    stems:
+    - shock absorber
+    uuid: 8419c131-69ec-40f2-bcd6-3ac3b404306f
+  shortdef:
+  - amortiguador

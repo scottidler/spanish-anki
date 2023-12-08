@@ -1,0 +1,258 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|dirigir||}, {sx|guiar||} {bc}to {a_link|direct}, to {a_link|lead}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|manejar||} {bc}to {a_link|drive} (a vehicle)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to drive a vehicle'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lead to}'
+          sn: '2'
+          vrs:
+          - va: conducir a
+            vac: ~ a
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|portarse||} {bc}to {a_link|behave}, to {a_link|conduct oneself}'
+    drp: conducirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: conducir
+    prs:
+    - sound:
+        audio: condu02sp
+  meta:
+    id: conducir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605421000'
+    src: spanish
+    stems:
+    - conducir
+    - conducir a
+    - conducirse
+    uuid: 7988bb6c-36da-4ab7-97ad-e017f350ff86
+  shortdef:
+  - 'dirigir, guiar : to direct, to lead'
+  - 'manejar : to drive (a vehicle)'
+  - to drive a vehicle
+  suppl:
+    cjts:
+    - cjfs:
+      - conduciendo
+      - conducido
+      cjid: gppt
+    - cjfs:
+      - conduzco
+      - conduces
+      - conduce
+      - conducimos
+      - "conduc\xEDs"
+      - conducen
+      cjid: pind
+    - cjfs:
+      - "conduc\xEDa"
+      - "conduc\xEDas"
+      - "conduc\xEDa"
+      - "conduc\xEDamos"
+      - "conduc\xEDais"
+      - "conduc\xEDan"
+      cjid: pret
+    - cjfs:
+      - conduje
+      - condujiste
+      - condujo
+      - condujimos
+      - condujisteis
+      - condujeron
+      cjid: pprf
+    - cjfs:
+      - "conducir\xE9"
+      - "conducir\xE1s"
+      - "conducir\xE1"
+      - conduciremos
+      - "conducir\xE9is"
+      - "conducir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conducir\xEDa"
+      - "conducir\xEDas"
+      - "conducir\xEDa"
+      - "conducir\xEDamos"
+      - "conducir\xEDais"
+      - "conducir\xEDan"
+      cjid: cond
+    - cjfs:
+      - conduzca
+      - conduzcas
+      - conduzca
+      - conduzcamos
+      - "conduzc\xE1is"
+      - conduzcan
+      cjid: psub
+    - cjfs:
+      - condujera
+      - condujeras
+      - condujera
+      - "conduj\xE9ramos"
+      - condujerais
+      - condujeran
+      cjid: pisb1
+    - cjfs:
+      - condujese
+      - condujeses
+      - condujese
+      - "conduj\xE9semos"
+      - condujeseis
+      - condujesen
+      cjid: pisb2
+    - cjfs:
+      - condujere
+      - condujeres
+      - condujere
+      - "conduj\xE9remos"
+      - condujereis
+      - condujeren
+      cjid: fsub
+    - cjfs:
+      - he conducido
+      - has conducido
+      - ha conducido
+      - hemos conducido
+      - "hab\xE9is conducido"
+      - han conducido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conducido"
+      - "hab\xEDas conducido"
+      - "hab\xEDa conducido"
+      - "hab\xEDamos conducido"
+      - "hab\xEDais conducido"
+      - "hab\xEDan conducido"
+      cjid: ppsi
+    - cjfs:
+      - hube conducido
+      - hubiste conducido
+      - hubo conducido
+      - hubimos conducido
+      - hubisteis conducido
+      - hubieron conducido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conducido"
+      - "habr\xE1s conducido"
+      - "habr\xE1 conducido"
+      - habremos conducido
+      - "habr\xE9is conducido"
+      - "habr\xE1n conducido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conducido"
+      - "habr\xEDas conducido"
+      - "habr\xEDa conducido"
+      - "habr\xEDamos conducido"
+      - "habr\xEDais conducido"
+      - "habr\xEDan conducido"
+      cjid: cpef
+    - cjfs:
+      - haya conducido
+      - hayas conducido
+      - haya conducido
+      - hayamos conducido
+      - "hay\xE1is conducido"
+      - hayan conducido
+      cjid: ppfs
+    - cjfs:
+      - hubiera conducido
+      - hubieras conducido
+      - hubiera conducido
+      - "hubi\xE9ramos conducido"
+      - hubierais conducido
+      - hubieran conducido
+      cjid: ppss1
+    - cjfs:
+      - hubiese conducido
+      - hubieses conducido
+      - hubiese conducido
+      - "hubi\xE9semos conducido"
+      - hubieseis conducido
+      - hubiesen conducido
+      cjid: ppss2
+    - cjfs:
+      - hubiere conducido
+      - hubieres conducido
+      - hubiere conducido
+      - "hubi\xE9remos conducido"
+      - hubiereis conducido
+      - hubieren conducido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conduce
+      - conduzca
+      - conduzcamos
+      - conducid
+      - conduzcan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|identification card}, {a_link|ID}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}membership card'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}driver''s license'
+          sls:
+          - Spain
+          sn: '3'
+          vrs:
+          - va: carnet de conducir
+  fl: masculine noun
+  hwi:
+    hw: carnet
+    prs:
+    - sound:
+        audio: carne02sp
+  meta:
+    id: carnet
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604048000'
+    src: spanish
+    stems:
+    - carnet
+    - carnet de conducir
+    uuid: a717ba65-0035-4fc0-a518-41190d04cf16
+  shortdef:
+  - identification card, ID
+  - membership card
+  - driver's license

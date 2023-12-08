@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fracasar||} {bc}to {a_link|fail}, to go wrong'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rule} (in a court of law)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|errar||} {bc}to {a_link|miss} (a target)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pronounce judgment on'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: fallar
+    prs:
+    - sound:
+        audio: falla02sp
+  meta:
+    id: fallar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609865000'
+    src: spanish
+    stems:
+    - fallar
+    uuid: cb0160db-50a5-4ced-ad75-8f610a06a727
+  shortdef:
+  - 'fracasar : to fail, to go wrong'
+  - to rule (in a court of law)
+  - 'errar : to miss (a target)'
+  suppl:
+    cjts:
+    - cjfs:
+      - fallando
+      - fallado
+      cjid: gppt
+    - cjfs:
+      - fallo
+      - fallas
+      - falla
+      - fallamos
+      - "fall\xE1is"
+      - fallan
+      cjid: pind
+    - cjfs:
+      - fallaba
+      - fallabas
+      - fallaba
+      - "fall\xE1bamos"
+      - fallabais
+      - fallaban
+      cjid: pret
+    - cjfs:
+      - "fall\xE9"
+      - fallaste
+      - "fall\xF3"
+      - fallamos
+      - fallasteis
+      - fallaron
+      cjid: pprf
+    - cjfs:
+      - "fallar\xE9"
+      - "fallar\xE1s"
+      - "fallar\xE1"
+      - fallaremos
+      - "fallar\xE9is"
+      - "fallar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fallar\xEDa"
+      - "fallar\xEDas"
+      - "fallar\xEDa"
+      - "fallar\xEDamos"
+      - "fallar\xEDais"
+      - "fallar\xEDan"
+      cjid: cond
+    - cjfs:
+      - falle
+      - falles
+      - falle
+      - fallemos
+      - "fall\xE9is"
+      - fallen
+      cjid: psub
+    - cjfs:
+      - fallara
+      - fallaras
+      - fallara
+      - "fall\xE1ramos"
+      - fallarais
+      - fallaran
+      cjid: pisb1
+    - cjfs:
+      - fallase
+      - fallases
+      - fallase
+      - "fall\xE1semos"
+      - fallaseis
+      - fallasen
+      cjid: pisb2
+    - cjfs:
+      - fallare
+      - fallares
+      - fallare
+      - "fall\xE1remos"
+      - fallareis
+      - fallaren
+      cjid: fsub
+    - cjfs:
+      - he fallado
+      - has fallado
+      - ha fallado
+      - hemos fallado
+      - "hab\xE9is fallado"
+      - han fallado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fallado"
+      - "hab\xEDas fallado"
+      - "hab\xEDa fallado"
+      - "hab\xEDamos fallado"
+      - "hab\xEDais fallado"
+      - "hab\xEDan fallado"
+      cjid: ppsi
+    - cjfs:
+      - hube fallado
+      - hubiste fallado
+      - hubo fallado
+      - hubimos fallado
+      - hubisteis fallado
+      - hubieron fallado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fallado"
+      - "habr\xE1s fallado"
+      - "habr\xE1 fallado"
+      - habremos fallado
+      - "habr\xE9is fallado"
+      - "habr\xE1n fallado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fallado"
+      - "habr\xEDas fallado"
+      - "habr\xEDa fallado"
+      - "habr\xEDamos fallado"
+      - "habr\xEDais fallado"
+      - "habr\xEDan fallado"
+      cjid: cpef
+    - cjfs:
+      - haya fallado
+      - hayas fallado
+      - haya fallado
+      - hayamos fallado
+      - "hay\xE1is fallado"
+      - hayan fallado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fallado
+      - hubieras fallado
+      - hubiera fallado
+      - "hubi\xE9ramos fallado"
+      - hubierais fallado
+      - hubieran fallado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fallado
+      - hubieses fallado
+      - hubiese fallado
+      - "hubi\xE9semos fallado"
+      - hubieseis fallado
+      - hubiesen fallado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fallado
+      - hubieres fallado
+      - hubiere fallado
+      - "hubi\xE9remos fallado"
+      - hubiereis fallado
+      - hubieren fallado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - falla
+      - falle
+      - fallemos
+      - fallad
+      - fallen
+      cjid: impf

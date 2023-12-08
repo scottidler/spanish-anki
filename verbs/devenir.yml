@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come about}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|become}, to {a_link|turn into}'
+          sn: '2'
+          vrs:
+          - va: devenir en
+            vac: ~ en
+  fl: intransitive verb
+  hwi:
+    hw: devenir
+    prs:
+    - sound:
+        audio: deven01sp
+  meta:
+    id: devenir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607453000'
+    src: spanish
+    stems:
+    - devenir
+    - devenir en
+    uuid: ab42b156-fe6e-4637-bb7d-76e834c6d332
+  shortdef:
+  - to come about
+  - to become, to turn into
+  suppl:
+    cjts:
+    - cjfs:
+      - deviniendo
+      - devenido
+      cjid: gppt
+    - cjfs:
+      - devengo
+      - devienes
+      - deviene
+      - devenimos
+      - "deven\xEDs"
+      - devienen
+      cjid: pind
+    - cjfs:
+      - "deven\xEDa"
+      - "deven\xEDas"
+      - "deven\xEDa"
+      - "deven\xEDamos"
+      - "deven\xEDais"
+      - "deven\xEDan"
+      cjid: pret
+    - cjfs:
+      - devine
+      - deviniste
+      - devino
+      - devinimos
+      - devinisteis
+      - devinieron
+      cjid: pprf
+    - cjfs:
+      - "devendr\xE9"
+      - "devendr\xE1s"
+      - "devendr\xE1"
+      - devendremos
+      - "devendr\xE9is"
+      - "devendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "devendr\xEDa"
+      - "devendr\xEDas"
+      - "devendr\xEDa"
+      - "devendr\xEDamos"
+      - "devendr\xEDais"
+      - "devendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - devenga
+      - devengas
+      - devenga
+      - devengamos
+      - "deveng\xE1is"
+      - devengan
+      cjid: psub
+    - cjfs:
+      - deviniera
+      - devinieras
+      - deviniera
+      - "devini\xE9ramos"
+      - devinierais
+      - devinieran
+      cjid: pisb1
+    - cjfs:
+      - deviniese
+      - devinieses
+      - deviniese
+      - "devini\xE9semos"
+      - devinieseis
+      - deviniesen
+      cjid: pisb2
+    - cjfs:
+      - deviniere
+      - devinieres
+      - deviniere
+      - "devini\xE9remos"
+      - deviniereis
+      - devinieren
+      cjid: fsub
+    - cjfs:
+      - he devenido
+      - has devenido
+      - ha devenido
+      - hemos devenido
+      - "hab\xE9is devenido"
+      - han devenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa devenido"
+      - "hab\xEDas devenido"
+      - "hab\xEDa devenido"
+      - "hab\xEDamos devenido"
+      - "hab\xEDais devenido"
+      - "hab\xEDan devenido"
+      cjid: ppsi
+    - cjfs:
+      - hube devenido
+      - hubiste devenido
+      - hubo devenido
+      - hubimos devenido
+      - hubisteis devenido
+      - hubieron devenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 devenido"
+      - "habr\xE1s devenido"
+      - "habr\xE1 devenido"
+      - habremos devenido
+      - "habr\xE9is devenido"
+      - "habr\xE1n devenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa devenido"
+      - "habr\xEDas devenido"
+      - "habr\xEDa devenido"
+      - "habr\xEDamos devenido"
+      - "habr\xEDais devenido"
+      - "habr\xEDan devenido"
+      cjid: cpef
+    - cjfs:
+      - haya devenido
+      - hayas devenido
+      - haya devenido
+      - hayamos devenido
+      - "hay\xE1is devenido"
+      - hayan devenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera devenido
+      - hubieras devenido
+      - hubiera devenido
+      - "hubi\xE9ramos devenido"
+      - hubierais devenido
+      - hubieran devenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese devenido
+      - hubieses devenido
+      - hubiese devenido
+      - "hubi\xE9semos devenido"
+      - hubieseis devenido
+      - hubiesen devenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere devenido
+      - hubieres devenido
+      - hubiere devenido
+      - "hubi\xE9remos devenido"
+      - hubiereis devenido
+      - hubieren devenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "dev\xE9n"
+      - devenga
+      - devengamos
+      - devenid
+      - devengan
+      cjid: impf

@@ -1,0 +1,247 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pretendiente} '
+          - - gl
+            - masculine or feminine
+          - - text
+            - ' (al trono, etc.)'
+  fl: noun
+  hwi:
+    hw: pretender
+    prs:
+    - mw: "pri\u02C8t\u025Bnd\u0259r"
+      sound:
+        audio: preten02
+  meta:
+    id: pretender
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2618717000'
+    src: spanish
+    stems:
+    - pretender
+    - pretenders
+    uuid: 62e5a00e-0904-4a0b-a9c9-1280b42d3b78
+  shortdef:
+  - pretendiente (al trono, etc.)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|intentar||} {bc}to {a_link|attempt}, to {a_link|try} '
+          - - vis
+            - - t: pretendo estudiar
+                tr: I'm trying to study
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|afirmar||} {bc}to {a_link|claim} '
+          - - vis
+            - - t: pretende ser pobre
+                tr: he claims he's poor
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|seek}, to aspire to '
+          - - vis
+            - - t: "\xBFqu\xE9 pretendes t\xFA?"
+                tr: what are you after?
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cortejar||} {bc}to {a_link|court}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expect} '
+          - - vis
+            - - t: "\xBFpretendes que lo crea?"
+                tr: do you expect me to believe you?
+          sn: '5'
+          vrs:
+          - va: pretender que
+  fl: transitive verb
+  hwi:
+    hw: pretender
+  meta:
+    id: pretender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618075000'
+    src: spanish
+    stems:
+    - pretender
+    - pretender que
+    uuid: 6c86df9d-1e7c-4cb9-9ab9-5063f319e801
+  shortdef:
+  - 'intentar : to attempt, to try'
+  - 'afirmar : to claim'
+  - to seek, to aspire to
+  suppl:
+    cjts:
+    - cjfs:
+      - pretendiendo
+      - pretendido
+      cjid: gppt
+    - cjfs:
+      - pretiendo
+      - pretiendes
+      - pretiende
+      - pretendemos
+      - "pretend\xE9is"
+      - pretienden
+      cjid: pind
+    - cjfs:
+      - "pretend\xEDa"
+      - "pretend\xEDas"
+      - "pretend\xEDa"
+      - "pretend\xEDamos"
+      - "pretend\xEDais"
+      - "pretend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "pretend\xED"
+      - pretendiste
+      - "pretendi\xF3"
+      - pretendimos
+      - pretendisteis
+      - pretendieron
+      cjid: pprf
+    - cjfs:
+      - "pretender\xE9"
+      - "pretender\xE1s"
+      - "pretender\xE1"
+      - pretenderemos
+      - "pretender\xE9is"
+      - "pretender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pretender\xEDa"
+      - "pretender\xEDas"
+      - "pretender\xEDa"
+      - "pretender\xEDamos"
+      - "pretender\xEDais"
+      - "pretender\xEDan"
+      cjid: cond
+    - cjfs:
+      - pretienda
+      - pretiendas
+      - pretienda
+      - pretendamos
+      - "pretend\xE1is"
+      - pretiendan
+      cjid: psub
+    - cjfs:
+      - pretendiera
+      - pretendieras
+      - pretendiera
+      - "pretendi\xE9ramos"
+      - pretendierais
+      - pretendieran
+      cjid: pisb1
+    - cjfs:
+      - pretendiese
+      - pretendieses
+      - pretendiese
+      - "pretendi\xE9semos"
+      - pretendieseis
+      - pretendiesen
+      cjid: pisb2
+    - cjfs:
+      - pretendiere
+      - pretendieres
+      - pretendiere
+      - "pretendi\xE9remos"
+      - pretendiereis
+      - pretendieren
+      cjid: fsub
+    - cjfs:
+      - he pretendido
+      - has pretendido
+      - ha pretendido
+      - hemos pretendido
+      - "hab\xE9is pretendido"
+      - han pretendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pretendido"
+      - "hab\xEDas pretendido"
+      - "hab\xEDa pretendido"
+      - "hab\xEDamos pretendido"
+      - "hab\xEDais pretendido"
+      - "hab\xEDan pretendido"
+      cjid: ppsi
+    - cjfs:
+      - hube pretendido
+      - hubiste pretendido
+      - hubo pretendido
+      - hubimos pretendido
+      - hubisteis pretendido
+      - hubieron pretendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pretendido"
+      - "habr\xE1s pretendido"
+      - "habr\xE1 pretendido"
+      - habremos pretendido
+      - "habr\xE9is pretendido"
+      - "habr\xE1n pretendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pretendido"
+      - "habr\xEDas pretendido"
+      - "habr\xEDa pretendido"
+      - "habr\xEDamos pretendido"
+      - "habr\xEDais pretendido"
+      - "habr\xEDan pretendido"
+      cjid: cpef
+    - cjfs:
+      - haya pretendido
+      - hayas pretendido
+      - haya pretendido
+      - hayamos pretendido
+      - "hay\xE1is pretendido"
+      - hayan pretendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera pretendido
+      - hubieras pretendido
+      - hubiera pretendido
+      - "hubi\xE9ramos pretendido"
+      - hubierais pretendido
+      - hubieran pretendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese pretendido
+      - hubieses pretendido
+      - hubiese pretendido
+      - "hubi\xE9semos pretendido"
+      - hubieseis pretendido
+      - hubiesen pretendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere pretendido
+      - hubieres pretendido
+      - hubiere pretendido
+      - "hubi\xE9remos pretendido"
+      - hubiereis pretendido
+      - hubieren pretendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pretiende
+      - pretienda
+      - pretendamos
+      - pretended
+      - pretiendan
+      cjid: impf

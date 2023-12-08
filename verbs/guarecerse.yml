@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shelter}, to {a_link|protect}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take shelter'
+    drp: guarecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: guarecer
+  meta:
+    id: guarecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611145000'
+    src: spanish
+    stems:
+    - guarecer
+    - guarecerse
+    uuid: 5917cf10-be6d-4afb-a119-265d30f7c7f9
+  shortdef:
+  - to shelter, to protect
+  suppl:
+    cjts:
+    - cjfs:
+      - guareciendo
+      - guarecido
+      cjid: gppt
+    - cjfs:
+      - guarezco
+      - guareces
+      - guarece
+      - guarecemos
+      - "guarec\xE9is"
+      - guarecen
+      cjid: pind
+    - cjfs:
+      - "guarec\xEDa"
+      - "guarec\xEDas"
+      - "guarec\xEDa"
+      - "guarec\xEDamos"
+      - "guarec\xEDais"
+      - "guarec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "guarec\xED"
+      - guareciste
+      - "guareci\xF3"
+      - guarecimos
+      - guarecisteis
+      - guarecieron
+      cjid: pprf
+    - cjfs:
+      - "guarecer\xE9"
+      - "guarecer\xE1s"
+      - "guarecer\xE1"
+      - guareceremos
+      - "guarecer\xE9is"
+      - "guarecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "guarecer\xEDa"
+      - "guarecer\xEDas"
+      - "guarecer\xEDa"
+      - "guarecer\xEDamos"
+      - "guarecer\xEDais"
+      - "guarecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - guarezca
+      - guarezcas
+      - guarezca
+      - guarezcamos
+      - "guarezc\xE1is"
+      - guarezcan
+      cjid: psub
+    - cjfs:
+      - guareciera
+      - guarecieras
+      - guareciera
+      - "guareci\xE9ramos"
+      - guarecierais
+      - guarecieran
+      cjid: pisb1
+    - cjfs:
+      - guareciese
+      - guarecieses
+      - guareciese
+      - "guareci\xE9semos"
+      - guarecieseis
+      - guareciesen
+      cjid: pisb2
+    - cjfs:
+      - guareciere
+      - guarecieres
+      - guareciere
+      - "guareci\xE9remos"
+      - guareciereis
+      - guarecieren
+      cjid: fsub
+    - cjfs:
+      - he guarecido
+      - has guarecido
+      - ha guarecido
+      - hemos guarecido
+      - "hab\xE9is guarecido"
+      - han guarecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa guarecido"
+      - "hab\xEDas guarecido"
+      - "hab\xEDa guarecido"
+      - "hab\xEDamos guarecido"
+      - "hab\xEDais guarecido"
+      - "hab\xEDan guarecido"
+      cjid: ppsi
+    - cjfs:
+      - hube guarecido
+      - hubiste guarecido
+      - hubo guarecido
+      - hubimos guarecido
+      - hubisteis guarecido
+      - hubieron guarecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 guarecido"
+      - "habr\xE1s guarecido"
+      - "habr\xE1 guarecido"
+      - habremos guarecido
+      - "habr\xE9is guarecido"
+      - "habr\xE1n guarecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa guarecido"
+      - "habr\xEDas guarecido"
+      - "habr\xEDa guarecido"
+      - "habr\xEDamos guarecido"
+      - "habr\xEDais guarecido"
+      - "habr\xEDan guarecido"
+      cjid: cpef
+    - cjfs:
+      - haya guarecido
+      - hayas guarecido
+      - haya guarecido
+      - hayamos guarecido
+      - "hay\xE1is guarecido"
+      - hayan guarecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera guarecido
+      - hubieras guarecido
+      - hubiera guarecido
+      - "hubi\xE9ramos guarecido"
+      - hubierais guarecido
+      - hubieran guarecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese guarecido
+      - hubieses guarecido
+      - hubiese guarecido
+      - "hubi\xE9semos guarecido"
+      - hubieseis guarecido
+      - hubiesen guarecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere guarecido
+      - hubieres guarecido
+      - hubiere guarecido
+      - "hubi\xE9remos guarecido"
+      - hubiereis guarecido
+      - hubieren guarecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - guarece
+      - guarezca
+      - guarezcamos
+      - guareced
+      - guarezcan
+      cjid: impf

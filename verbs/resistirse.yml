@@ -1,0 +1,221 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|tolerar||} {bc}to {a_link|stand}, to {a_link|bear}, to {a_link|tolerate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|withstand}, to {a_link|resist}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resist} (temptation, etc.)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resist} '
+          - - vis
+            - - t: "resisti\xF3 hasta el \xFAltimo minuto"
+                tr: he held out until the last minute
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be resistant to, to be reluctant '
+            - - vis
+              - - t: se resiste a aceptarlo
+                  tr: she's reluctant to accept it
+            vrs:
+            - va: resistirse a
+              vac: ~ a
+    drp: resistirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: resistir
+    prs:
+    - sound:
+        audio: resis02sp
+  meta:
+    id: resistir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619569000'
+    src: spanish
+    stems:
+    - resistir
+    - resistirse
+    - resistirse a
+    uuid: 02f24392-5138-4c42-9eb1-593e02aef184
+  shortdef:
+  - 'tolerar : to stand, to bear, to tolerate'
+  - to withstand, to resist
+  - to resist (temptation, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - resistiendo
+      - resistido
+      cjid: gppt
+    - cjfs:
+      - resisto
+      - resistes
+      - resiste
+      - resistimos
+      - "resist\xEDs"
+      - resisten
+      cjid: pind
+    - cjfs:
+      - "resist\xEDa"
+      - "resist\xEDas"
+      - "resist\xEDa"
+      - "resist\xEDamos"
+      - "resist\xEDais"
+      - "resist\xEDan"
+      cjid: pret
+    - cjfs:
+      - "resist\xED"
+      - resististe
+      - "resisti\xF3"
+      - resistimos
+      - resististeis
+      - resistieron
+      cjid: pprf
+    - cjfs:
+      - "resistir\xE9"
+      - "resistir\xE1s"
+      - "resistir\xE1"
+      - resistiremos
+      - "resistir\xE9is"
+      - "resistir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resistir\xEDa"
+      - "resistir\xEDas"
+      - "resistir\xEDa"
+      - "resistir\xEDamos"
+      - "resistir\xEDais"
+      - "resistir\xEDan"
+      cjid: cond
+    - cjfs:
+      - resista
+      - resistas
+      - resista
+      - resistamos
+      - "resist\xE1is"
+      - resistan
+      cjid: psub
+    - cjfs:
+      - resistiera
+      - resistieras
+      - resistiera
+      - "resisti\xE9ramos"
+      - resistierais
+      - resistieran
+      cjid: pisb1
+    - cjfs:
+      - resistiese
+      - resistieses
+      - resistiese
+      - "resisti\xE9semos"
+      - resistieseis
+      - resistiesen
+      cjid: pisb2
+    - cjfs:
+      - resistiere
+      - resistieres
+      - resistiere
+      - "resisti\xE9remos"
+      - resistiereis
+      - resistieren
+      cjid: fsub
+    - cjfs:
+      - he resistido
+      - has resistido
+      - ha resistido
+      - hemos resistido
+      - "hab\xE9is resistido"
+      - han resistido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resistido"
+      - "hab\xEDas resistido"
+      - "hab\xEDa resistido"
+      - "hab\xEDamos resistido"
+      - "hab\xEDais resistido"
+      - "hab\xEDan resistido"
+      cjid: ppsi
+    - cjfs:
+      - hube resistido
+      - hubiste resistido
+      - hubo resistido
+      - hubimos resistido
+      - hubisteis resistido
+      - hubieron resistido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resistido"
+      - "habr\xE1s resistido"
+      - "habr\xE1 resistido"
+      - habremos resistido
+      - "habr\xE9is resistido"
+      - "habr\xE1n resistido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resistido"
+      - "habr\xEDas resistido"
+      - "habr\xEDa resistido"
+      - "habr\xEDamos resistido"
+      - "habr\xEDais resistido"
+      - "habr\xEDan resistido"
+      cjid: cpef
+    - cjfs:
+      - haya resistido
+      - hayas resistido
+      - haya resistido
+      - hayamos resistido
+      - "hay\xE1is resistido"
+      - hayan resistido
+      cjid: ppfs
+    - cjfs:
+      - hubiera resistido
+      - hubieras resistido
+      - hubiera resistido
+      - "hubi\xE9ramos resistido"
+      - hubierais resistido
+      - hubieran resistido
+      cjid: ppss1
+    - cjfs:
+      - hubiese resistido
+      - hubieses resistido
+      - hubiese resistido
+      - "hubi\xE9semos resistido"
+      - hubieseis resistido
+      - hubiesen resistido
+      cjid: ppss2
+    - cjfs:
+      - hubiere resistido
+      - hubieres resistido
+      - hubiere resistido
+      - "hubi\xE9remos resistido"
+      - hubiereis resistido
+      - hubieren resistido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resiste
+      - resista
+      - resistamos
+      - resistid
+      - resistan
+      cjid: impf

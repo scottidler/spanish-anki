@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sacrifice}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|euthanize}, to {a_link|put down}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|sacrifice oneself}, to make sacrifices'
+    drp: sacrificarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sacrificar
+    prs:
+    - sound:
+        audio: sacri01sp
+  meta:
+    id: sacrificar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620079000'
+    src: spanish
+    stems:
+    - sacrificar
+    - sacrificarse
+    uuid: 65f89e9c-c322-43ca-831a-af2dcc353c74
+  shortdef:
+  - to sacrifice
+  - to euthanize, to put down
+  suppl:
+    cjts:
+    - cjfs:
+      - sacrificando
+      - sacrificado
+      cjid: gppt
+    - cjfs:
+      - sacrifico
+      - sacrificas
+      - sacrifica
+      - sacrificamos
+      - "sacrific\xE1is"
+      - sacrifican
+      cjid: pind
+    - cjfs:
+      - sacrificaba
+      - sacrificabas
+      - sacrificaba
+      - "sacrific\xE1bamos"
+      - sacrificabais
+      - sacrificaban
+      cjid: pret
+    - cjfs:
+      - "sacrifiqu\xE9"
+      - sacrificaste
+      - "sacrific\xF3"
+      - sacrificamos
+      - sacrificasteis
+      - sacrificaron
+      cjid: pprf
+    - cjfs:
+      - "sacrificar\xE9"
+      - "sacrificar\xE1s"
+      - "sacrificar\xE1"
+      - sacrificaremos
+      - "sacrificar\xE9is"
+      - "sacrificar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sacrificar\xEDa"
+      - "sacrificar\xEDas"
+      - "sacrificar\xEDa"
+      - "sacrificar\xEDamos"
+      - "sacrificar\xEDais"
+      - "sacrificar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sacrifique
+      - sacrifiques
+      - sacrifique
+      - sacrifiquemos
+      - "sacrifiqu\xE9is"
+      - sacrifiquen
+      cjid: psub
+    - cjfs:
+      - sacrificara
+      - sacrificaras
+      - sacrificara
+      - "sacrific\xE1ramos"
+      - sacrificarais
+      - sacrificaran
+      cjid: pisb1
+    - cjfs:
+      - sacrificase
+      - sacrificases
+      - sacrificase
+      - "sacrific\xE1semos"
+      - sacrificaseis
+      - sacrificasen
+      cjid: pisb2
+    - cjfs:
+      - sacrificare
+      - sacrificares
+      - sacrificare
+      - "sacrific\xE1remos"
+      - sacrificareis
+      - sacrificaren
+      cjid: fsub
+    - cjfs:
+      - he sacrificado
+      - has sacrificado
+      - ha sacrificado
+      - hemos sacrificado
+      - "hab\xE9is sacrificado"
+      - han sacrificado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sacrificado"
+      - "hab\xEDas sacrificado"
+      - "hab\xEDa sacrificado"
+      - "hab\xEDamos sacrificado"
+      - "hab\xEDais sacrificado"
+      - "hab\xEDan sacrificado"
+      cjid: ppsi
+    - cjfs:
+      - hube sacrificado
+      - hubiste sacrificado
+      - hubo sacrificado
+      - hubimos sacrificado
+      - hubisteis sacrificado
+      - hubieron sacrificado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sacrificado"
+      - "habr\xE1s sacrificado"
+      - "habr\xE1 sacrificado"
+      - habremos sacrificado
+      - "habr\xE9is sacrificado"
+      - "habr\xE1n sacrificado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sacrificado"
+      - "habr\xEDas sacrificado"
+      - "habr\xEDa sacrificado"
+      - "habr\xEDamos sacrificado"
+      - "habr\xEDais sacrificado"
+      - "habr\xEDan sacrificado"
+      cjid: cpef
+    - cjfs:
+      - haya sacrificado
+      - hayas sacrificado
+      - haya sacrificado
+      - hayamos sacrificado
+      - "hay\xE1is sacrificado"
+      - hayan sacrificado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sacrificado
+      - hubieras sacrificado
+      - hubiera sacrificado
+      - "hubi\xE9ramos sacrificado"
+      - hubierais sacrificado
+      - hubieran sacrificado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sacrificado
+      - hubieses sacrificado
+      - hubiese sacrificado
+      - "hubi\xE9semos sacrificado"
+      - hubieseis sacrificado
+      - hubiesen sacrificado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sacrificado
+      - hubieres sacrificado
+      - hubiere sacrificado
+      - "hubi\xE9remos sacrificado"
+      - hubiereis sacrificado
+      - hubieren sacrificado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sacrifica
+      - sacrifique
+      - sacrifiquemos
+      - sacrificad
+      - sacrifiquen
+      cjid: impf

@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|corrupt}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rot}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: corromper
+  meta:
+    id: corromper
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605964000'
+    src: spanish
+    stems:
+    - corromper
+    - corromperse
+    uuid: ad87b5a4-c5ed-44e8-86ac-c5b516076ff3
+  shortdef:
+  - to corrupt
+  - to rot
+  suppl:
+    cjts:
+    - cjfs:
+      - corrompiendo
+      - corrompido
+      cjid: gppt
+    - cjfs:
+      - corrompo
+      - corrompes
+      - corrompe
+      - corrompemos
+      - "corromp\xE9is"
+      - corrompen
+      cjid: pind
+    - cjfs:
+      - "corromp\xEDa"
+      - "corromp\xEDas"
+      - "corromp\xEDa"
+      - "corromp\xEDamos"
+      - "corromp\xEDais"
+      - "corromp\xEDan"
+      cjid: pret
+    - cjfs:
+      - "corromp\xED"
+      - corrompiste
+      - "corrompi\xF3"
+      - corrompimos
+      - corrompisteis
+      - corrompieron
+      cjid: pprf
+    - cjfs:
+      - "corromper\xE9"
+      - "corromper\xE1s"
+      - "corromper\xE1"
+      - corromperemos
+      - "corromper\xE9is"
+      - "corromper\xE1n"
+      cjid: futr
+    - cjfs:
+      - "corromper\xEDa"
+      - "corromper\xEDas"
+      - "corromper\xEDa"
+      - "corromper\xEDamos"
+      - "corromper\xEDais"
+      - "corromper\xEDan"
+      cjid: cond
+    - cjfs:
+      - corrompa
+      - corrompas
+      - corrompa
+      - corrompamos
+      - "corromp\xE1is"
+      - corrompan
+      cjid: psub
+    - cjfs:
+      - corrompiera
+      - corrompieras
+      - corrompiera
+      - "corrompi\xE9ramos"
+      - corrompierais
+      - corrompieran
+      cjid: pisb1
+    - cjfs:
+      - corrompiese
+      - corrompieses
+      - corrompiese
+      - "corrompi\xE9semos"
+      - corrompieseis
+      - corrompiesen
+      cjid: pisb2
+    - cjfs:
+      - corrompiere
+      - corrompieres
+      - corrompiere
+      - "corrompi\xE9remos"
+      - corrompiereis
+      - corrompieren
+      cjid: fsub
+    - cjfs:
+      - he corrompido
+      - has corrompido
+      - ha corrompido
+      - hemos corrompido
+      - "hab\xE9is corrompido"
+      - han corrompido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa corrompido"
+      - "hab\xEDas corrompido"
+      - "hab\xEDa corrompido"
+      - "hab\xEDamos corrompido"
+      - "hab\xEDais corrompido"
+      - "hab\xEDan corrompido"
+      cjid: ppsi
+    - cjfs:
+      - hube corrompido
+      - hubiste corrompido
+      - hubo corrompido
+      - hubimos corrompido
+      - hubisteis corrompido
+      - hubieron corrompido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 corrompido"
+      - "habr\xE1s corrompido"
+      - "habr\xE1 corrompido"
+      - habremos corrompido
+      - "habr\xE9is corrompido"
+      - "habr\xE1n corrompido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa corrompido"
+      - "habr\xEDas corrompido"
+      - "habr\xEDa corrompido"
+      - "habr\xEDamos corrompido"
+      - "habr\xEDais corrompido"
+      - "habr\xEDan corrompido"
+      cjid: cpef
+    - cjfs:
+      - haya corrompido
+      - hayas corrompido
+      - haya corrompido
+      - hayamos corrompido
+      - "hay\xE1is corrompido"
+      - hayan corrompido
+      cjid: ppfs
+    - cjfs:
+      - hubiera corrompido
+      - hubieras corrompido
+      - hubiera corrompido
+      - "hubi\xE9ramos corrompido"
+      - hubierais corrompido
+      - hubieran corrompido
+      cjid: ppss1
+    - cjfs:
+      - hubiese corrompido
+      - hubieses corrompido
+      - hubiese corrompido
+      - "hubi\xE9semos corrompido"
+      - hubieseis corrompido
+      - hubiesen corrompido
+      cjid: ppss2
+    - cjfs:
+      - hubiere corrompido
+      - hubieres corrompido
+      - hubiere corrompido
+      - "hubi\xE9remos corrompido"
+      - hubiereis corrompido
+      - hubieren corrompido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - corrompe
+      - corrompa
+      - corrompamos
+      - corromped
+      - corrompan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: corromperse

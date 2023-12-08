@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to throw off the track, to {a_link|confuse}'
+  fl: transitive verb
+  hwi:
+    hw: despistar
+  meta:
+    id: despistar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607280000'
+    src: spanish
+    stems:
+    - despistar
+    - despistarse
+    uuid: c87807a3-34d2-4825-ae7d-2bdaa2c43c51
+  shortdef:
+  - to throw off the track, to confuse
+  suppl:
+    cjts:
+    - cjfs:
+      - despistando
+      - despistado
+      cjid: gppt
+    - cjfs:
+      - despisto
+      - despistas
+      - despista
+      - despistamos
+      - "despist\xE1is"
+      - despistan
+      cjid: pind
+    - cjfs:
+      - despistaba
+      - despistabas
+      - despistaba
+      - "despist\xE1bamos"
+      - despistabais
+      - despistaban
+      cjid: pret
+    - cjfs:
+      - "despist\xE9"
+      - despistaste
+      - "despist\xF3"
+      - despistamos
+      - despistasteis
+      - despistaron
+      cjid: pprf
+    - cjfs:
+      - "despistar\xE9"
+      - "despistar\xE1s"
+      - "despistar\xE1"
+      - despistaremos
+      - "despistar\xE9is"
+      - "despistar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "despistar\xEDa"
+      - "despistar\xEDas"
+      - "despistar\xEDa"
+      - "despistar\xEDamos"
+      - "despistar\xEDais"
+      - "despistar\xEDan"
+      cjid: cond
+    - cjfs:
+      - despiste
+      - despistes
+      - despiste
+      - despistemos
+      - "despist\xE9is"
+      - despisten
+      cjid: psub
+    - cjfs:
+      - despistara
+      - despistaras
+      - despistara
+      - "despist\xE1ramos"
+      - despistarais
+      - despistaran
+      cjid: pisb1
+    - cjfs:
+      - despistase
+      - despistases
+      - despistase
+      - "despist\xE1semos"
+      - despistaseis
+      - despistasen
+      cjid: pisb2
+    - cjfs:
+      - despistare
+      - despistares
+      - despistare
+      - "despist\xE1remos"
+      - despistareis
+      - despistaren
+      cjid: fsub
+    - cjfs:
+      - he despistado
+      - has despistado
+      - ha despistado
+      - hemos despistado
+      - "hab\xE9is despistado"
+      - han despistado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa despistado"
+      - "hab\xEDas despistado"
+      - "hab\xEDa despistado"
+      - "hab\xEDamos despistado"
+      - "hab\xEDais despistado"
+      - "hab\xEDan despistado"
+      cjid: ppsi
+    - cjfs:
+      - hube despistado
+      - hubiste despistado
+      - hubo despistado
+      - hubimos despistado
+      - hubisteis despistado
+      - hubieron despistado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 despistado"
+      - "habr\xE1s despistado"
+      - "habr\xE1 despistado"
+      - habremos despistado
+      - "habr\xE9is despistado"
+      - "habr\xE1n despistado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa despistado"
+      - "habr\xEDas despistado"
+      - "habr\xEDa despistado"
+      - "habr\xEDamos despistado"
+      - "habr\xEDais despistado"
+      - "habr\xEDan despistado"
+      cjid: cpef
+    - cjfs:
+      - haya despistado
+      - hayas despistado
+      - haya despistado
+      - hayamos despistado
+      - "hay\xE1is despistado"
+      - hayan despistado
+      cjid: ppfs
+    - cjfs:
+      - hubiera despistado
+      - hubieras despistado
+      - hubiera despistado
+      - "hubi\xE9ramos despistado"
+      - hubierais despistado
+      - hubieran despistado
+      cjid: ppss1
+    - cjfs:
+      - hubiese despistado
+      - hubieses despistado
+      - hubiese despistado
+      - "hubi\xE9semos despistado"
+      - hubieseis despistado
+      - hubiesen despistado
+      cjid: ppss2
+    - cjfs:
+      - hubiere despistado
+      - hubieres despistado
+      - hubiere despistado
+      - "hubi\xE9remos despistado"
+      - hubiereis despistado
+      - hubieren despistado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - despista
+      - despiste
+      - despistemos
+      - despistad
+      - despisten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: despistarse

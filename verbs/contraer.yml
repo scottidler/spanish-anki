@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|contract} (a disease)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to establish by contract '
+          - - vis
+            - - t: contraer matrimonio
+                tr: to get married
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tighten}, to {a_link|contract}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|contract}, to tighten up'
+    drp: contraerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: contraer
+    prs:
+    - sound:
+        audio: contr04sp
+  meta:
+    id: contraer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605730000'
+    src: spanish
+    stems:
+    - contraer
+    - contraerse
+    uuid: 81c805c4-33ef-4e1a-b39a-498fd0eee99d
+  shortdef:
+  - to contract (a disease)
+  - to establish by contract
+  - to tighten, to contract
+  suppl:
+    cjts:
+    - cjfs:
+      - contrayendo
+      - "contra\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - contraigo
+      - contraes
+      - contrae
+      - contraemos
+      - "contra\xE9is"
+      - contraen
+      cjid: pind
+    - cjfs:
+      - "contra\xEDa"
+      - "contra\xEDas"
+      - "contra\xEDa"
+      - "contra\xEDamos"
+      - "contra\xEDais"
+      - "contra\xEDan"
+      cjid: pret
+    - cjfs:
+      - contraje
+      - contrajiste
+      - contrajo
+      - contrajimos
+      - contrajisteis
+      - contrajeron
+      cjid: pprf
+    - cjfs:
+      - "contraer\xE9"
+      - "contraer\xE1s"
+      - "contraer\xE1"
+      - contraeremos
+      - "contraer\xE9is"
+      - "contraer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contraer\xEDa"
+      - "contraer\xEDas"
+      - "contraer\xEDa"
+      - "contraer\xEDamos"
+      - "contraer\xEDais"
+      - "contraer\xEDan"
+      cjid: cond
+    - cjfs:
+      - contraiga
+      - contraigas
+      - contraiga
+      - contraigamos
+      - "contraig\xE1is"
+      - contraigan
+      cjid: psub
+    - cjfs:
+      - contrajera
+      - contrajeras
+      - contrajera
+      - "contraj\xE9ramos"
+      - contrajerais
+      - contrajeran
+      cjid: pisb1
+    - cjfs:
+      - contrajese
+      - contrajeses
+      - contrajese
+      - "contraj\xE9semos"
+      - contrajeseis
+      - contrajesen
+      cjid: pisb2
+    - cjfs:
+      - contrajere
+      - contrajeres
+      - contrajere
+      - "contraj\xE9remos"
+      - contrajereis
+      - contrajeren
+      cjid: fsub
+    - cjfs:
+      - "he contra\xEDdo"
+      - "has contra\xEDdo"
+      - "ha contra\xEDdo"
+      - "hemos contra\xEDdo"
+      - "hab\xE9is contra\xEDdo"
+      - "han contra\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contra\xEDdo"
+      - "hab\xEDas contra\xEDdo"
+      - "hab\xEDa contra\xEDdo"
+      - "hab\xEDamos contra\xEDdo"
+      - "hab\xEDais contra\xEDdo"
+      - "hab\xEDan contra\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube contra\xEDdo"
+      - "hubiste contra\xEDdo"
+      - "hubo contra\xEDdo"
+      - "hubimos contra\xEDdo"
+      - "hubisteis contra\xEDdo"
+      - "hubieron contra\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contra\xEDdo"
+      - "habr\xE1s contra\xEDdo"
+      - "habr\xE1 contra\xEDdo"
+      - "habremos contra\xEDdo"
+      - "habr\xE9is contra\xEDdo"
+      - "habr\xE1n contra\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contra\xEDdo"
+      - "habr\xEDas contra\xEDdo"
+      - "habr\xEDa contra\xEDdo"
+      - "habr\xEDamos contra\xEDdo"
+      - "habr\xEDais contra\xEDdo"
+      - "habr\xEDan contra\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya contra\xEDdo"
+      - "hayas contra\xEDdo"
+      - "haya contra\xEDdo"
+      - "hayamos contra\xEDdo"
+      - "hay\xE1is contra\xEDdo"
+      - "hayan contra\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera contra\xEDdo"
+      - "hubieras contra\xEDdo"
+      - "hubiera contra\xEDdo"
+      - "hubi\xE9ramos contra\xEDdo"
+      - "hubierais contra\xEDdo"
+      - "hubieran contra\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese contra\xEDdo"
+      - "hubieses contra\xEDdo"
+      - "hubiese contra\xEDdo"
+      - "hubi\xE9semos contra\xEDdo"
+      - "hubieseis contra\xEDdo"
+      - "hubiesen contra\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere contra\xEDdo"
+      - "hubieres contra\xEDdo"
+      - "hubiere contra\xEDdo"
+      - "hubi\xE9remos contra\xEDdo"
+      - "hubiereis contra\xEDdo"
+      - "hubieren contra\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - contrae
+      - contraiga
+      - contraigamos
+      - contraed
+      - contraigan
+      cjid: impf

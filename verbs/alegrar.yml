@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make happy, to cheer up '
+          - - vis
+            - - t: "me alegra mucho que \u2026"
+                tr: "I'm very happy that \u2026"
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be glad, to be happy '
+            - - vis
+              - - t: "me alegro de (ver) que \u2026"
+                  tr: "I'm glad (to see) that \u2026"
+                - t: me alegro por ti
+                  tr: I'm happy for you
+    drp: alegrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: alegrar
+    prs:
+    - sound:
+        audio: alegr01sp
+  meta:
+    id: alegrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600939000'
+    src: spanish
+    stems:
+    - alegrar
+    - alegrarse
+    uuid: 933af08f-c3cf-4d46-a075-c9bba952ab66
+  shortdef:
+  - to make happy, to cheer up
+  suppl:
+    cjts:
+    - cjfs:
+      - alegrando
+      - alegrado
+      cjid: gppt
+    - cjfs:
+      - alegro
+      - alegras
+      - alegra
+      - alegramos
+      - "alegr\xE1is"
+      - alegran
+      cjid: pind
+    - cjfs:
+      - alegraba
+      - alegrabas
+      - alegraba
+      - "alegr\xE1bamos"
+      - alegrabais
+      - alegraban
+      cjid: pret
+    - cjfs:
+      - "alegr\xE9"
+      - alegraste
+      - "alegr\xF3"
+      - alegramos
+      - alegrasteis
+      - alegraron
+      cjid: pprf
+    - cjfs:
+      - "alegrar\xE9"
+      - "alegrar\xE1s"
+      - "alegrar\xE1"
+      - alegraremos
+      - "alegrar\xE9is"
+      - "alegrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alegrar\xEDa"
+      - "alegrar\xEDas"
+      - "alegrar\xEDa"
+      - "alegrar\xEDamos"
+      - "alegrar\xEDais"
+      - "alegrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alegre
+      - alegres
+      - alegre
+      - alegremos
+      - "alegr\xE9is"
+      - alegren
+      cjid: psub
+    - cjfs:
+      - alegrara
+      - alegraras
+      - alegrara
+      - "alegr\xE1ramos"
+      - alegrarais
+      - alegraran
+      cjid: pisb1
+    - cjfs:
+      - alegrase
+      - alegrases
+      - alegrase
+      - "alegr\xE1semos"
+      - alegraseis
+      - alegrasen
+      cjid: pisb2
+    - cjfs:
+      - alegrare
+      - alegrares
+      - alegrare
+      - "alegr\xE1remos"
+      - alegrareis
+      - alegraren
+      cjid: fsub
+    - cjfs:
+      - he alegrado
+      - has alegrado
+      - ha alegrado
+      - hemos alegrado
+      - "hab\xE9is alegrado"
+      - han alegrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alegrado"
+      - "hab\xEDas alegrado"
+      - "hab\xEDa alegrado"
+      - "hab\xEDamos alegrado"
+      - "hab\xEDais alegrado"
+      - "hab\xEDan alegrado"
+      cjid: ppsi
+    - cjfs:
+      - hube alegrado
+      - hubiste alegrado
+      - hubo alegrado
+      - hubimos alegrado
+      - hubisteis alegrado
+      - hubieron alegrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alegrado"
+      - "habr\xE1s alegrado"
+      - "habr\xE1 alegrado"
+      - habremos alegrado
+      - "habr\xE9is alegrado"
+      - "habr\xE1n alegrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alegrado"
+      - "habr\xEDas alegrado"
+      - "habr\xEDa alegrado"
+      - "habr\xEDamos alegrado"
+      - "habr\xEDais alegrado"
+      - "habr\xEDan alegrado"
+      cjid: cpef
+    - cjfs:
+      - haya alegrado
+      - hayas alegrado
+      - haya alegrado
+      - hayamos alegrado
+      - "hay\xE1is alegrado"
+      - hayan alegrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alegrado
+      - hubieras alegrado
+      - hubiera alegrado
+      - "hubi\xE9ramos alegrado"
+      - hubierais alegrado
+      - hubieran alegrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alegrado
+      - hubieses alegrado
+      - hubiese alegrado
+      - "hubi\xE9semos alegrado"
+      - hubieseis alegrado
+      - hubiesen alegrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alegrado
+      - hubieres alegrado
+      - hubiere alegrado
+      - "hubi\xE9remos alegrado"
+      - hubiereis alegrado
+      - hubieren alegrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alegra
+      - alegre
+      - alegremos
+      - alegrad
+      - alegren
+      cjid: impf

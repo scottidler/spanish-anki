@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|button}, to {a_link|fasten}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fasten}, to {a_link|hook up}'
+    drp: abrocharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: abrochar
+    prs:
+    - sound:
+        audio: abroc01sp
+  meta:
+    id: abrochar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600116000'
+    src: spanish
+    stems:
+    - abrochar
+    - abrocharse
+    uuid: 625d2383-5219-4f91-bf25-5f5360165569
+  shortdef:
+  - to button, to fasten
+  suppl:
+    cjts:
+    - cjfs:
+      - abrochando
+      - abrochado
+      cjid: gppt
+    - cjfs:
+      - abrocho
+      - abrochas
+      - abrocha
+      - abrochamos
+      - "abroch\xE1is"
+      - abrochan
+      cjid: pind
+    - cjfs:
+      - abrochaba
+      - abrochabas
+      - abrochaba
+      - "abroch\xE1bamos"
+      - abrochabais
+      - abrochaban
+      cjid: pret
+    - cjfs:
+      - "abroch\xE9"
+      - abrochaste
+      - "abroch\xF3"
+      - abrochamos
+      - abrochasteis
+      - abrocharon
+      cjid: pprf
+    - cjfs:
+      - "abrochar\xE9"
+      - "abrochar\xE1s"
+      - "abrochar\xE1"
+      - abrocharemos
+      - "abrochar\xE9is"
+      - "abrochar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abrochar\xEDa"
+      - "abrochar\xEDas"
+      - "abrochar\xEDa"
+      - "abrochar\xEDamos"
+      - "abrochar\xEDais"
+      - "abrochar\xEDan"
+      cjid: cond
+    - cjfs:
+      - abroche
+      - abroches
+      - abroche
+      - abrochemos
+      - "abroch\xE9is"
+      - abrochen
+      cjid: psub
+    - cjfs:
+      - abrochara
+      - abrocharas
+      - abrochara
+      - "abroch\xE1ramos"
+      - abrocharais
+      - abrocharan
+      cjid: pisb1
+    - cjfs:
+      - abrochase
+      - abrochases
+      - abrochase
+      - "abroch\xE1semos"
+      - abrochaseis
+      - abrochasen
+      cjid: pisb2
+    - cjfs:
+      - abrochare
+      - abrochares
+      - abrochare
+      - "abroch\xE1remos"
+      - abrochareis
+      - abrocharen
+      cjid: fsub
+    - cjfs:
+      - he abrochado
+      - has abrochado
+      - ha abrochado
+      - hemos abrochado
+      - "hab\xE9is abrochado"
+      - han abrochado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abrochado"
+      - "hab\xEDas abrochado"
+      - "hab\xEDa abrochado"
+      - "hab\xEDamos abrochado"
+      - "hab\xEDais abrochado"
+      - "hab\xEDan abrochado"
+      cjid: ppsi
+    - cjfs:
+      - hube abrochado
+      - hubiste abrochado
+      - hubo abrochado
+      - hubimos abrochado
+      - hubisteis abrochado
+      - hubieron abrochado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abrochado"
+      - "habr\xE1s abrochado"
+      - "habr\xE1 abrochado"
+      - habremos abrochado
+      - "habr\xE9is abrochado"
+      - "habr\xE1n abrochado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abrochado"
+      - "habr\xEDas abrochado"
+      - "habr\xEDa abrochado"
+      - "habr\xEDamos abrochado"
+      - "habr\xEDais abrochado"
+      - "habr\xEDan abrochado"
+      cjid: cpef
+    - cjfs:
+      - haya abrochado
+      - hayas abrochado
+      - haya abrochado
+      - hayamos abrochado
+      - "hay\xE1is abrochado"
+      - hayan abrochado
+      cjid: ppfs
+    - cjfs:
+      - hubiera abrochado
+      - hubieras abrochado
+      - hubiera abrochado
+      - "hubi\xE9ramos abrochado"
+      - hubierais abrochado
+      - hubieran abrochado
+      cjid: ppss1
+    - cjfs:
+      - hubiese abrochado
+      - hubieses abrochado
+      - hubiese abrochado
+      - "hubi\xE9semos abrochado"
+      - hubieseis abrochado
+      - hubiesen abrochado
+      cjid: ppss2
+    - cjfs:
+      - hubiere abrochado
+      - hubieres abrochado
+      - hubiere abrochado
+      - "hubi\xE9remos abrochado"
+      - hubiereis abrochado
+      - hubieren abrochado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abrocha
+      - abroche
+      - abrochemos
+      - abrochad
+      - abrochen
+      cjid: impf

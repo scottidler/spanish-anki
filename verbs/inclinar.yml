@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tilt}, to {a_link|lean}, to {a_link|incline} '
+          - - vis
+            - - t: inclinar la cabeza
+                tr: to bow one's head
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|lean}, to lean over'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|bow}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be inclined to'
+            sn: '3'
+            vrs:
+            - va: inclinarse a
+              vac: ~ a
+    drp: inclinarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: inclinar
+    prs:
+    - sound:
+        audio: incli02sp
+  meta:
+    id: inclinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612150000'
+    src: spanish
+    stems:
+    - inclinar
+    - inclinarse
+    - inclinarse a
+    uuid: 5e95d5ad-6f5d-4c13-859f-6efdc66e2c33
+  shortdef:
+  - to tilt, to lean, to incline
+  suppl:
+    cjts:
+    - cjfs:
+      - inclinando
+      - inclinado
+      cjid: gppt
+    - cjfs:
+      - inclino
+      - inclinas
+      - inclina
+      - inclinamos
+      - "inclin\xE1is"
+      - inclinan
+      cjid: pind
+    - cjfs:
+      - inclinaba
+      - inclinabas
+      - inclinaba
+      - "inclin\xE1bamos"
+      - inclinabais
+      - inclinaban
+      cjid: pret
+    - cjfs:
+      - "inclin\xE9"
+      - inclinaste
+      - "inclin\xF3"
+      - inclinamos
+      - inclinasteis
+      - inclinaron
+      cjid: pprf
+    - cjfs:
+      - "inclinar\xE9"
+      - "inclinar\xE1s"
+      - "inclinar\xE1"
+      - inclinaremos
+      - "inclinar\xE9is"
+      - "inclinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inclinar\xEDa"
+      - "inclinar\xEDas"
+      - "inclinar\xEDa"
+      - "inclinar\xEDamos"
+      - "inclinar\xEDais"
+      - "inclinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - incline
+      - inclines
+      - incline
+      - inclinemos
+      - "inclin\xE9is"
+      - inclinen
+      cjid: psub
+    - cjfs:
+      - inclinara
+      - inclinaras
+      - inclinara
+      - "inclin\xE1ramos"
+      - inclinarais
+      - inclinaran
+      cjid: pisb1
+    - cjfs:
+      - inclinase
+      - inclinases
+      - inclinase
+      - "inclin\xE1semos"
+      - inclinaseis
+      - inclinasen
+      cjid: pisb2
+    - cjfs:
+      - inclinare
+      - inclinares
+      - inclinare
+      - "inclin\xE1remos"
+      - inclinareis
+      - inclinaren
+      cjid: fsub
+    - cjfs:
+      - he inclinado
+      - has inclinado
+      - ha inclinado
+      - hemos inclinado
+      - "hab\xE9is inclinado"
+      - han inclinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inclinado"
+      - "hab\xEDas inclinado"
+      - "hab\xEDa inclinado"
+      - "hab\xEDamos inclinado"
+      - "hab\xEDais inclinado"
+      - "hab\xEDan inclinado"
+      cjid: ppsi
+    - cjfs:
+      - hube inclinado
+      - hubiste inclinado
+      - hubo inclinado
+      - hubimos inclinado
+      - hubisteis inclinado
+      - hubieron inclinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inclinado"
+      - "habr\xE1s inclinado"
+      - "habr\xE1 inclinado"
+      - habremos inclinado
+      - "habr\xE9is inclinado"
+      - "habr\xE1n inclinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inclinado"
+      - "habr\xEDas inclinado"
+      - "habr\xEDa inclinado"
+      - "habr\xEDamos inclinado"
+      - "habr\xEDais inclinado"
+      - "habr\xEDan inclinado"
+      cjid: cpef
+    - cjfs:
+      - haya inclinado
+      - hayas inclinado
+      - haya inclinado
+      - hayamos inclinado
+      - "hay\xE1is inclinado"
+      - hayan inclinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera inclinado
+      - hubieras inclinado
+      - hubiera inclinado
+      - "hubi\xE9ramos inclinado"
+      - hubierais inclinado
+      - hubieran inclinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese inclinado
+      - hubieses inclinado
+      - hubiese inclinado
+      - "hubi\xE9semos inclinado"
+      - hubieseis inclinado
+      - hubiesen inclinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere inclinado
+      - hubieres inclinado
+      - hubiere inclinado
+      - "hubi\xE9remos inclinado"
+      - hubiereis inclinado
+      - hubieren inclinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inclina
+      - incline
+      - inclinemos
+      - inclinad
+      - inclinen
+      cjid: impf

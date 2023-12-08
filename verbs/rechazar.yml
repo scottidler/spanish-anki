@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reject}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn down}, to {a_link|refuse}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: rechazar
+    prs:
+    - sound:
+        audio: recha01sp
+  meta:
+    id: rechazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618964000'
+    src: spanish
+    stems:
+    - rechazar
+    uuid: 312fa938-3705-45da-ac9d-fb0cdb651168
+  shortdef:
+  - to reject
+  - to turn down, to refuse
+  suppl:
+    cjts:
+    - cjfs:
+      - rechazando
+      - rechazado
+      cjid: gppt
+    - cjfs:
+      - rechazo
+      - rechazas
+      - rechaza
+      - rechazamos
+      - "rechaz\xE1is"
+      - rechazan
+      cjid: pind
+    - cjfs:
+      - rechazaba
+      - rechazabas
+      - rechazaba
+      - "rechaz\xE1bamos"
+      - rechazabais
+      - rechazaban
+      cjid: pret
+    - cjfs:
+      - "rechac\xE9"
+      - rechazaste
+      - "rechaz\xF3"
+      - rechazamos
+      - rechazasteis
+      - rechazaron
+      cjid: pprf
+    - cjfs:
+      - "rechazar\xE9"
+      - "rechazar\xE1s"
+      - "rechazar\xE1"
+      - rechazaremos
+      - "rechazar\xE9is"
+      - "rechazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rechazar\xEDa"
+      - "rechazar\xEDas"
+      - "rechazar\xEDa"
+      - "rechazar\xEDamos"
+      - "rechazar\xEDais"
+      - "rechazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rechace
+      - rechaces
+      - rechace
+      - rechacemos
+      - "rechac\xE9is"
+      - rechacen
+      cjid: psub
+    - cjfs:
+      - rechazara
+      - rechazaras
+      - rechazara
+      - "rechaz\xE1ramos"
+      - rechazarais
+      - rechazaran
+      cjid: pisb1
+    - cjfs:
+      - rechazase
+      - rechazases
+      - rechazase
+      - "rechaz\xE1semos"
+      - rechazaseis
+      - rechazasen
+      cjid: pisb2
+    - cjfs:
+      - rechazare
+      - rechazares
+      - rechazare
+      - "rechaz\xE1remos"
+      - rechazareis
+      - rechazaren
+      cjid: fsub
+    - cjfs:
+      - he rechazado
+      - has rechazado
+      - ha rechazado
+      - hemos rechazado
+      - "hab\xE9is rechazado"
+      - han rechazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rechazado"
+      - "hab\xEDas rechazado"
+      - "hab\xEDa rechazado"
+      - "hab\xEDamos rechazado"
+      - "hab\xEDais rechazado"
+      - "hab\xEDan rechazado"
+      cjid: ppsi
+    - cjfs:
+      - hube rechazado
+      - hubiste rechazado
+      - hubo rechazado
+      - hubimos rechazado
+      - hubisteis rechazado
+      - hubieron rechazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rechazado"
+      - "habr\xE1s rechazado"
+      - "habr\xE1 rechazado"
+      - habremos rechazado
+      - "habr\xE9is rechazado"
+      - "habr\xE1n rechazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rechazado"
+      - "habr\xEDas rechazado"
+      - "habr\xEDa rechazado"
+      - "habr\xEDamos rechazado"
+      - "habr\xEDais rechazado"
+      - "habr\xEDan rechazado"
+      cjid: cpef
+    - cjfs:
+      - haya rechazado
+      - hayas rechazado
+      - haya rechazado
+      - hayamos rechazado
+      - "hay\xE1is rechazado"
+      - hayan rechazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rechazado
+      - hubieras rechazado
+      - hubiera rechazado
+      - "hubi\xE9ramos rechazado"
+      - hubierais rechazado
+      - hubieran rechazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rechazado
+      - hubieses rechazado
+      - hubiese rechazado
+      - "hubi\xE9semos rechazado"
+      - hubieseis rechazado
+      - hubiesen rechazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rechazado
+      - hubieres rechazado
+      - hubiere rechazado
+      - "hubi\xE9remos rechazado"
+      - hubiereis rechazado
+      - hubieren rechazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rechaza
+      - rechace
+      - rechacemos
+      - rechazad
+      - rechacen
+      cjid: impf

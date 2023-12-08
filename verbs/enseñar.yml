@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|teach}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mostrar||} {bc}to {a_link|show}, to {a_link|display}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to learn to, to get used to'
+            vrs:
+            - va: "ense\xF1arse a"
+              vac: ~ a
+    drp: "ense\xF1arse"
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: "ense\xF1ar"
+    prs:
+    - sound:
+        audio: ensen04sp
+  meta:
+    id: ensenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608687000'
+    src: spanish
+    stems:
+    - "ense\xF1ar"
+    - "ense\xF1arse"
+    - "ense\xF1arse a"
+    uuid: c84e0f60-6ac3-4ebf-b52d-9b9158eefd60
+  shortdef:
+  - to teach
+  - 'mostrar : to show, to display'
+  suppl:
+    cjts:
+    - cjfs:
+      - "ense\xF1ando"
+      - "ense\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "ense\xF1o"
+      - "ense\xF1as"
+      - "ense\xF1a"
+      - "ense\xF1amos"
+      - "ense\xF1\xE1is"
+      - "ense\xF1an"
+      cjid: pind
+    - cjfs:
+      - "ense\xF1aba"
+      - "ense\xF1abas"
+      - "ense\xF1aba"
+      - "ense\xF1\xE1bamos"
+      - "ense\xF1abais"
+      - "ense\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "ense\xF1\xE9"
+      - "ense\xF1aste"
+      - "ense\xF1\xF3"
+      - "ense\xF1amos"
+      - "ense\xF1asteis"
+      - "ense\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "ense\xF1ar\xE9"
+      - "ense\xF1ar\xE1s"
+      - "ense\xF1ar\xE1"
+      - "ense\xF1aremos"
+      - "ense\xF1ar\xE9is"
+      - "ense\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ense\xF1ar\xEDa"
+      - "ense\xF1ar\xEDas"
+      - "ense\xF1ar\xEDa"
+      - "ense\xF1ar\xEDamos"
+      - "ense\xF1ar\xEDais"
+      - "ense\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ense\xF1e"
+      - "ense\xF1es"
+      - "ense\xF1e"
+      - "ense\xF1emos"
+      - "ense\xF1\xE9is"
+      - "ense\xF1en"
+      cjid: psub
+    - cjfs:
+      - "ense\xF1ara"
+      - "ense\xF1aras"
+      - "ense\xF1ara"
+      - "ense\xF1\xE1ramos"
+      - "ense\xF1arais"
+      - "ense\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "ense\xF1ase"
+      - "ense\xF1ases"
+      - "ense\xF1ase"
+      - "ense\xF1\xE1semos"
+      - "ense\xF1aseis"
+      - "ense\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "ense\xF1are"
+      - "ense\xF1ares"
+      - "ense\xF1are"
+      - "ense\xF1\xE1remos"
+      - "ense\xF1areis"
+      - "ense\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he ense\xF1ado"
+      - "has ense\xF1ado"
+      - "ha ense\xF1ado"
+      - "hemos ense\xF1ado"
+      - "hab\xE9is ense\xF1ado"
+      - "han ense\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ense\xF1ado"
+      - "hab\xEDas ense\xF1ado"
+      - "hab\xEDa ense\xF1ado"
+      - "hab\xEDamos ense\xF1ado"
+      - "hab\xEDais ense\xF1ado"
+      - "hab\xEDan ense\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube ense\xF1ado"
+      - "hubiste ense\xF1ado"
+      - "hubo ense\xF1ado"
+      - "hubimos ense\xF1ado"
+      - "hubisteis ense\xF1ado"
+      - "hubieron ense\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ense\xF1ado"
+      - "habr\xE1s ense\xF1ado"
+      - "habr\xE1 ense\xF1ado"
+      - "habremos ense\xF1ado"
+      - "habr\xE9is ense\xF1ado"
+      - "habr\xE1n ense\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ense\xF1ado"
+      - "habr\xEDas ense\xF1ado"
+      - "habr\xEDa ense\xF1ado"
+      - "habr\xEDamos ense\xF1ado"
+      - "habr\xEDais ense\xF1ado"
+      - "habr\xEDan ense\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya ense\xF1ado"
+      - "hayas ense\xF1ado"
+      - "haya ense\xF1ado"
+      - "hayamos ense\xF1ado"
+      - "hay\xE1is ense\xF1ado"
+      - "hayan ense\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera ense\xF1ado"
+      - "hubieras ense\xF1ado"
+      - "hubiera ense\xF1ado"
+      - "hubi\xE9ramos ense\xF1ado"
+      - "hubierais ense\xF1ado"
+      - "hubieran ense\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese ense\xF1ado"
+      - "hubieses ense\xF1ado"
+      - "hubiese ense\xF1ado"
+      - "hubi\xE9semos ense\xF1ado"
+      - "hubieseis ense\xF1ado"
+      - "hubiesen ense\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere ense\xF1ado"
+      - "hubieres ense\xF1ado"
+      - "hubiere ense\xF1ado"
+      - "hubi\xE9remos ense\xF1ado"
+      - "hubiereis ense\xF1ado"
+      - "hubieren ense\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ense\xF1a"
+      - "ense\xF1e"
+      - "ense\xF1emos"
+      - "ense\xF1ad"
+      - "ense\xF1en"
+      cjid: impf

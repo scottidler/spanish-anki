@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sadden}'
+  fl: transitive verb
+  hwi:
+    hw: entristecer
+    prs:
+    - sound:
+        audio: entri01sp
+  meta:
+    id: entristecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608785000'
+    src: spanish
+    stems:
+    - entristecer
+    uuid: 68067255-762d-4a88-8a77-1f6fa99c5cdb
+  shortdef:
+  - to sadden
+  suppl:
+    cjts:
+    - cjfs:
+      - entristeciendo
+      - entristecido
+      cjid: gppt
+    - cjfs:
+      - entristezco
+      - entristeces
+      - entristece
+      - entristecemos
+      - "entristec\xE9is"
+      - entristecen
+      cjid: pind
+    - cjfs:
+      - "entristec\xEDa"
+      - "entristec\xEDas"
+      - "entristec\xEDa"
+      - "entristec\xEDamos"
+      - "entristec\xEDais"
+      - "entristec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "entristec\xED"
+      - entristeciste
+      - "entristeci\xF3"
+      - entristecimos
+      - entristecisteis
+      - entristecieron
+      cjid: pprf
+    - cjfs:
+      - "entristecer\xE9"
+      - "entristecer\xE1s"
+      - "entristecer\xE1"
+      - entristeceremos
+      - "entristecer\xE9is"
+      - "entristecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entristecer\xEDa"
+      - "entristecer\xEDas"
+      - "entristecer\xEDa"
+      - "entristecer\xEDamos"
+      - "entristecer\xEDais"
+      - "entristecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - entristezca
+      - entristezcas
+      - entristezca
+      - entristezcamos
+      - "entristezc\xE1is"
+      - entristezcan
+      cjid: psub
+    - cjfs:
+      - entristeciera
+      - entristecieras
+      - entristeciera
+      - "entristeci\xE9ramos"
+      - entristecierais
+      - entristecieran
+      cjid: pisb1
+    - cjfs:
+      - entristeciese
+      - entristecieses
+      - entristeciese
+      - "entristeci\xE9semos"
+      - entristecieseis
+      - entristeciesen
+      cjid: pisb2
+    - cjfs:
+      - entristeciere
+      - entristecieres
+      - entristeciere
+      - "entristeci\xE9remos"
+      - entristeciereis
+      - entristecieren
+      cjid: fsub
+    - cjfs:
+      - he entristecido
+      - has entristecido
+      - ha entristecido
+      - hemos entristecido
+      - "hab\xE9is entristecido"
+      - han entristecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entristecido"
+      - "hab\xEDas entristecido"
+      - "hab\xEDa entristecido"
+      - "hab\xEDamos entristecido"
+      - "hab\xEDais entristecido"
+      - "hab\xEDan entristecido"
+      cjid: ppsi
+    - cjfs:
+      - hube entristecido
+      - hubiste entristecido
+      - hubo entristecido
+      - hubimos entristecido
+      - hubisteis entristecido
+      - hubieron entristecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entristecido"
+      - "habr\xE1s entristecido"
+      - "habr\xE1 entristecido"
+      - habremos entristecido
+      - "habr\xE9is entristecido"
+      - "habr\xE1n entristecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entristecido"
+      - "habr\xEDas entristecido"
+      - "habr\xEDa entristecido"
+      - "habr\xEDamos entristecido"
+      - "habr\xEDais entristecido"
+      - "habr\xEDan entristecido"
+      cjid: cpef
+    - cjfs:
+      - haya entristecido
+      - hayas entristecido
+      - haya entristecido
+      - hayamos entristecido
+      - "hay\xE1is entristecido"
+      - hayan entristecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera entristecido
+      - hubieras entristecido
+      - hubiera entristecido
+      - "hubi\xE9ramos entristecido"
+      - hubierais entristecido
+      - hubieran entristecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese entristecido
+      - hubieses entristecido
+      - hubiese entristecido
+      - "hubi\xE9semos entristecido"
+      - hubieseis entristecido
+      - hubiesen entristecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere entristecido
+      - hubieres entristecido
+      - hubiere entristecido
+      - "hubi\xE9remos entristecido"
+      - hubiereis entristecido
+      - hubieren entristecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entristece
+      - entristezca
+      - entristezcamos
+      - entristeced
+      - entristezcan
+      cjid: impf

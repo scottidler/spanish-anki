@@ -1,0 +1,715 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|detener||} {bc}to {a_link|stop}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stand}, to {a_link|prop} '
+          - - vis
+            - - t: parar la oreja
+                tr: to perk up one's ears
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stop}, to {a_link|block} (a blow, etc.)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cesar||} {bc}to {a_link|stop} '
+          - - vis
+            - - t: habla sin parar
+                tr: she talks nonstop
+              - t: no paraba de llorar
+                tr: he wouldn't stop crying
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stay}, to {a_link|put up}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go on strike'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to end up, to {a_link|wind up} '
+          - - vis
+            - - t: ir a parar a manos de alguien
+                tr: to fall into someone's hands
+              - t: va a parar al hospital
+                tr: he's going to end up in the hospital
+          sn: '4'
+          vrs:
+          - va: ir a parar
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stop} '
+            - - vis
+              - - t: pararse en seco
+                  tr: to stop dead
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|atascarse||} {bc}to {a_link|stall} (out)'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stand up}, to {a_link|get up}'
+            sn: '3'
+    drp: pararse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: parar
+    prs:
+    - sound:
+        audio: parar01sp
+  meta:
+    id: parar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616665000'
+    src: spanish
+    stems:
+    - parar
+    - ir a parar
+    - pararse
+    uuid: c314aa7a-1afc-49e2-98b3-0b07f5b98a48
+  shortdef:
+  - 'detener : to stop'
+  - to stand, to prop
+  - to stop, to block (a blow, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - parando
+      - parado
+      cjid: gppt
+    - cjfs:
+      - paro
+      - paras
+      - para
+      - paramos
+      - "par\xE1is"
+      - paran
+      cjid: pind
+    - cjfs:
+      - paraba
+      - parabas
+      - paraba
+      - "par\xE1bamos"
+      - parabais
+      - paraban
+      cjid: pret
+    - cjfs:
+      - "par\xE9"
+      - paraste
+      - "par\xF3"
+      - paramos
+      - parasteis
+      - pararon
+      cjid: pprf
+    - cjfs:
+      - "parar\xE9"
+      - "parar\xE1s"
+      - "parar\xE1"
+      - pararemos
+      - "parar\xE9is"
+      - "parar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "parar\xEDa"
+      - "parar\xEDas"
+      - "parar\xEDa"
+      - "parar\xEDamos"
+      - "parar\xEDais"
+      - "parar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pare
+      - pares
+      - pare
+      - paremos
+      - "par\xE9is"
+      - paren
+      cjid: psub
+    - cjfs:
+      - parara
+      - pararas
+      - parara
+      - "par\xE1ramos"
+      - pararais
+      - pararan
+      cjid: pisb1
+    - cjfs:
+      - parase
+      - parases
+      - parase
+      - "par\xE1semos"
+      - paraseis
+      - parasen
+      cjid: pisb2
+    - cjfs:
+      - parare
+      - parares
+      - parare
+      - "par\xE1remos"
+      - parareis
+      - pararen
+      cjid: fsub
+    - cjfs:
+      - he parado
+      - has parado
+      - ha parado
+      - hemos parado
+      - "hab\xE9is parado"
+      - han parado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa parado"
+      - "hab\xEDas parado"
+      - "hab\xEDa parado"
+      - "hab\xEDamos parado"
+      - "hab\xEDais parado"
+      - "hab\xEDan parado"
+      cjid: ppsi
+    - cjfs:
+      - hube parado
+      - hubiste parado
+      - hubo parado
+      - hubimos parado
+      - hubisteis parado
+      - hubieron parado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 parado"
+      - "habr\xE1s parado"
+      - "habr\xE1 parado"
+      - habremos parado
+      - "habr\xE9is parado"
+      - "habr\xE1n parado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa parado"
+      - "habr\xEDas parado"
+      - "habr\xEDa parado"
+      - "habr\xEDamos parado"
+      - "habr\xEDais parado"
+      - "habr\xEDan parado"
+      cjid: cpef
+    - cjfs:
+      - haya parado
+      - hayas parado
+      - haya parado
+      - hayamos parado
+      - "hay\xE1is parado"
+      - hayan parado
+      cjid: ppfs
+    - cjfs:
+      - hubiera parado
+      - hubieras parado
+      - hubiera parado
+      - "hubi\xE9ramos parado"
+      - hubierais parado
+      - hubieran parado
+      cjid: ppss1
+    - cjfs:
+      - hubiese parado
+      - hubieses parado
+      - hubiese parado
+      - "hubi\xE9semos parado"
+      - hubieseis parado
+      - hubiesen parado
+      cjid: ppss2
+    - cjfs:
+      - hubiere parado
+      - hubieres parado
+      - hubiere parado
+      - "hubi\xE9remos parado"
+      - hubiereis parado
+      - hubieren parado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - para
+      - pare
+      - paremos
+      - parad
+      - paren
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go} '
+          - - vis
+            - - t: ir a pie
+                tr: to go on foot, to walk
+              - t: ir a caballo
+                tr: to ride horseback
+              - t: ir a casa
+                tr: to go home
+              - t: ir por mar
+                tr: to go by sea
+              - t: iba para el aeropuerto
+                tr: he was headed for the airport
+              - t: "fui a ver una pel\xEDcula"
+                tr: I went to see a movie
+              - t: el ir y venir de la gente
+                tr: the comings and goings (of the people)
+              - t: vamos
+                tr: let's go
+              - t: "\xA1voy!"
+                tr: I'm coming!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lead}, to {a_link|extend}, to {a_link|stretch} '
+          - - vis
+            - - t: "el camino va de Cali a Bogot\xE1"
+                tr: "the road goes from Cali to Bogot\xE1"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|funcionar||} {bc}to {a_link|work}, to {a_link|function} '
+          - - vis
+            - - t: esta computadora ya no va
+                tr: this computer doesn't work anymore
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get on}, to {a_link|get along} '
+          - - vis
+            - - t: "\xBFc\xF3mo te va?"
+                tr: how are you?, how's it going?
+              - t: el negocio no va bien
+                tr: the business isn't doing well
+              - t: ir a mejor/peor
+                tr: to get better/worse
+              - t: ir de mal en peor
+                tr: to go from bad to worse
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suit} '
+          - - vis
+            - - t: ese vestido te va bien
+                tr: that dress really suits you
+              - t: "el cambio te ir\xE1 bien"
+                tr: the change will do you good
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|asistir||} {bc}to {a_link|go to}, to {a_link|attend}'
+          sn: '6'
+          vrs:
+          - va: ir a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wear} '
+          - - vis
+            - - t: voy a ir con/en falda
+                tr: I'm going to wear a skirt
+              - t: iba de azul
+                tr: she was wearing blue
+          sn: '7'
+          vrs:
+          - va: ir con/en/de
+            vac: ~ con/en/de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} '
+          - - vis
+            - - t: ir con prisa
+                tr: to be in a hurry
+              - t: ir con cuidado
+                tr: to be cautious
+          sls:
+          - (with a noun)
+          sn: '8'
+          vrs:
+          - va: ir con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go with}, to {a_link|complement}'
+          sn: '9'
+          vrs:
+          - va: ir con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be studying to be '
+          - - vis
+            - - t: "va para m\xE9dico"
+                tr: she's studying to be a doctor
+          sn: '10'
+          vrs:
+          - va: ir para
+            vac: ~ para
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be going on, to {a_link|be close to} (an age)'
+          sn: '11'
+          vrs:
+          - va: ir para
+            vac: ~ para
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be aimed at} '
+          - - vis
+            - - t: "tambi\xE9n va por ti"
+                tr: that goes for you, too
+          sn: '12'
+          vrs:
+          - va: ir por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|follow}, to {a_link|go along} '
+          - - vis
+            - - t: fueron por la costa
+                tr: they followed the shoreline
+          sn: '13'
+          vrs:
+          - va: ir por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be up to} (a point or stage) '
+          - - vis
+            - - t: "voy por la \xFAltima p\xE1gina"
+                tr: I'm on the last page
+          sn: '14'
+          vrs:
+          - va: ir por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go} (and) {a_link|get}, to {a_link|fetch}'
+          sn: '15'
+          vrs:
+          - va: ir por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|let oneself go}'
+          sn: '16'
+          vrs:
+          - va: dejarse ir
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to end up'
+          sn: '17'
+          vrs:
+          - va: ir a parar
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}hardly!'
+          sls:
+          - familiar
+          sn: '18'
+          vrs:
+          - va: "\xA1qu\xE9 va!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|come on!}'
+          sn: '19'
+          vrs:
+          - va: "\xA1vamos!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}let''s see'
+          sn: '20'
+          vrs:
+          - va: vamos a ver
+  - sseq:
+    - - - sense
+        - dt:
+          - - vis
+            - - t: ir caminando
+                tr: to walk, to go on foot
+              - t: "\xA1voy corriendo!"
+                tr: I'll be right there!
+          sls:
+          - (indicating manner)
+          sn: '1'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: va mejorando
+                tr: he's getting better
+              - t: lo iremos haciendo poco a poco
+                tr: we'll do it little by little
+          sls:
+          - (indicating a process)
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be going to} '
+          - - vis
+            - - t: voy a hacerlo
+                tr: I'm going to do it
+              - t: "el avi\xF3n va a despegar"
+                tr: the plane is about to take off
+          sn: '3'
+          vrs:
+          - va: ir a
+            vac: ~ a
+    vd: auxiliary verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|leave}, to {a_link|go} '
+            - - vis
+              - - t: "\xA1v\xE1monos!"
+                  tr: let's go!
+                - t: todo el mundo se fue
+                  tr: everyone left
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|escaparse||} {bc}to {a_link|leak}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|gastarse||} {bc}to be used up, to be gone'
+            sn: '3'
+    drp: irse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: ir
+    prs:
+    - sound:
+        audio: ir00001sp
+  meta:
+    id: ir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613033000'
+    src: spanish
+    stems:
+    - ir
+    - ir a
+    - ir con/en/de
+    - ir con
+    - ir de
+    - ir en
+    - ir para
+    - ir por
+    - dejarse ir
+    - ir a parar
+    - "\xA1que va!"
+    - "\xA1vamos!"
+    - vamos a ver
+    - irse
+    uuid: 3915a3ec-d2da-4de7-852c-b6cabe0d214b
+  shortdef:
+  - to go
+  - to lead, to extend, to stretch
+  - 'funcionar : to work, to function'
+  suppl:
+    cjts:
+    - cjfs:
+      - yendo
+      - ido
+      cjid: gppt
+    - cjfs:
+      - voy
+      - vas
+      - va
+      - vamos
+      - vais
+      - van
+      cjid: pind
+    - cjfs:
+      - iba
+      - ibas
+      - iba
+      - "\xEDbamos"
+      - ibais
+      - iban
+      cjid: pret
+    - cjfs:
+      - fui
+      - fuiste
+      - fue
+      - fuimos
+      - fuisteis
+      - fueron
+      cjid: pprf
+    - cjfs:
+      - "ir\xE9"
+      - "ir\xE1s"
+      - "ir\xE1"
+      - iremos
+      - "ir\xE9is"
+      - "ir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ir\xEDa"
+      - "ir\xEDas"
+      - "ir\xEDa"
+      - "ir\xEDamos"
+      - "ir\xEDais"
+      - "ir\xEDan"
+      cjid: cond
+    - cjfs:
+      - vaya
+      - vayas
+      - vaya
+      - vayamos
+      - "vay\xE1is"
+      - vayan
+      cjid: psub
+    - cjfs:
+      - fuera
+      - fueras
+      - fuera
+      - "fu\xE9ramos"
+      - fuerais
+      - fueran
+      cjid: pisb1
+    - cjfs:
+      - fuese
+      - fueses
+      - fuese
+      - "fu\xE9semos"
+      - fueseis
+      - fuesen
+      cjid: pisb2
+    - cjfs:
+      - fuere
+      - fueres
+      - fuere
+      - "fu\xE9remos"
+      - fuereis
+      - fueren
+      cjid: fsub
+    - cjfs:
+      - he ido
+      - has ido
+      - ha ido
+      - hemos ido
+      - "hab\xE9is ido"
+      - han ido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ido"
+      - "hab\xEDas ido"
+      - "hab\xEDa ido"
+      - "hab\xEDamos ido"
+      - "hab\xEDais ido"
+      - "hab\xEDan ido"
+      cjid: ppsi
+    - cjfs:
+      - hube ido
+      - hubiste ido
+      - hubo ido
+      - hubimos ido
+      - hubisteis ido
+      - hubieron ido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ido"
+      - "habr\xE1s ido"
+      - "habr\xE1 ido"
+      - habremos ido
+      - "habr\xE9is ido"
+      - "habr\xE1n ido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ido"
+      - "habr\xEDas ido"
+      - "habr\xEDa ido"
+      - "habr\xEDamos ido"
+      - "habr\xEDais ido"
+      - "habr\xEDan ido"
+      cjid: cpef
+    - cjfs:
+      - haya ido
+      - hayas ido
+      - haya ido
+      - hayamos ido
+      - "hay\xE1is ido"
+      - hayan ido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ido
+      - hubieras ido
+      - hubiera ido
+      - "hubi\xE9ramos ido"
+      - hubierais ido
+      - hubieran ido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ido
+      - hubieses ido
+      - hubiese ido
+      - "hubi\xE9semos ido"
+      - hubieseis ido
+      - hubiesen ido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ido
+      - hubieres ido
+      - hubiere ido
+      - "hubi\xE9remos ido"
+      - hubiereis ido
+      - hubieren ido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ve
+      - vaya
+      - vayamos
+      - id
+      - vayan
+      cjid: impf

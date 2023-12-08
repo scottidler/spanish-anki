@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|revive}, to come alive again'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|relive}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: revivir
+    prs:
+    - sound:
+        audio: reviv01sp
+  meta:
+    id: revivir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619766000'
+    src: spanish
+    stems:
+    - revivir
+    uuid: c95c5a2c-967c-4378-9fbb-6b4c7e5dfa50
+  shortdef:
+  - to revive, to come alive again
+  - to relive
+  suppl:
+    cjts:
+    - cjfs:
+      - reviviendo
+      - revivido
+      cjid: gppt
+    - cjfs:
+      - revivo
+      - revives
+      - revive
+      - revivimos
+      - "reviv\xEDs"
+      - reviven
+      cjid: pind
+    - cjfs:
+      - "reviv\xEDa"
+      - "reviv\xEDas"
+      - "reviv\xEDa"
+      - "reviv\xEDamos"
+      - "reviv\xEDais"
+      - "reviv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reviv\xED"
+      - reviviste
+      - "revivi\xF3"
+      - revivimos
+      - revivisteis
+      - revivieron
+      cjid: pprf
+    - cjfs:
+      - "revivir\xE9"
+      - "revivir\xE1s"
+      - "revivir\xE1"
+      - reviviremos
+      - "revivir\xE9is"
+      - "revivir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "revivir\xEDa"
+      - "revivir\xEDas"
+      - "revivir\xEDa"
+      - "revivir\xEDamos"
+      - "revivir\xEDais"
+      - "revivir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reviva
+      - revivas
+      - reviva
+      - revivamos
+      - "reviv\xE1is"
+      - revivan
+      cjid: psub
+    - cjfs:
+      - reviviera
+      - revivieras
+      - reviviera
+      - "revivi\xE9ramos"
+      - revivierais
+      - revivieran
+      cjid: pisb1
+    - cjfs:
+      - reviviese
+      - revivieses
+      - reviviese
+      - "revivi\xE9semos"
+      - revivieseis
+      - reviviesen
+      cjid: pisb2
+    - cjfs:
+      - reviviere
+      - revivieres
+      - reviviere
+      - "revivi\xE9remos"
+      - reviviereis
+      - revivieren
+      cjid: fsub
+    - cjfs:
+      - he revivido
+      - has revivido
+      - ha revivido
+      - hemos revivido
+      - "hab\xE9is revivido"
+      - han revivido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa revivido"
+      - "hab\xEDas revivido"
+      - "hab\xEDa revivido"
+      - "hab\xEDamos revivido"
+      - "hab\xEDais revivido"
+      - "hab\xEDan revivido"
+      cjid: ppsi
+    - cjfs:
+      - hube revivido
+      - hubiste revivido
+      - hubo revivido
+      - hubimos revivido
+      - hubisteis revivido
+      - hubieron revivido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 revivido"
+      - "habr\xE1s revivido"
+      - "habr\xE1 revivido"
+      - habremos revivido
+      - "habr\xE9is revivido"
+      - "habr\xE1n revivido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa revivido"
+      - "habr\xEDas revivido"
+      - "habr\xEDa revivido"
+      - "habr\xEDamos revivido"
+      - "habr\xEDais revivido"
+      - "habr\xEDan revivido"
+      cjid: cpef
+    - cjfs:
+      - haya revivido
+      - hayas revivido
+      - haya revivido
+      - hayamos revivido
+      - "hay\xE1is revivido"
+      - hayan revivido
+      cjid: ppfs
+    - cjfs:
+      - hubiera revivido
+      - hubieras revivido
+      - hubiera revivido
+      - "hubi\xE9ramos revivido"
+      - hubierais revivido
+      - hubieran revivido
+      cjid: ppss1
+    - cjfs:
+      - hubiese revivido
+      - hubieses revivido
+      - hubiese revivido
+      - "hubi\xE9semos revivido"
+      - hubieseis revivido
+      - hubiesen revivido
+      cjid: ppss2
+    - cjfs:
+      - hubiere revivido
+      - hubieres revivido
+      - hubiere revivido
+      - "hubi\xE9remos revivido"
+      - hubiereis revivido
+      - hubieren revivido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - revive
+      - reviva
+      - revivamos
+      - revivid
+      - revivan
+      cjid: impf

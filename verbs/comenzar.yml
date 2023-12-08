@@ -1,0 +1,187 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|empezar||} {bc}to {a_link|begin}, to {a_link|start} '
+          - - vis
+            - - t: "comenz\xF3 a trabajar"
+                tr: he started to work
+              - t: "comenz\xF3 diciendo que \u2026 , comenz\xF3 por decir que \u2026"
+                tr: "she started by saying that \u2026"
+  fl: verb
+  hwi:
+    hw: comenzar
+    prs:
+    - sound:
+        audio: comen04sp
+  meta:
+    id: comenzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605164000'
+    src: spanish
+    stems:
+    - comenzar
+    uuid: 36bc306c-6aff-49c8-8d9c-7e4196fdfa95
+  shortdef:
+  - 'empezar : to begin, to start'
+  suppl:
+    cjts:
+    - cjfs:
+      - comenzando
+      - comenzado
+      cjid: gppt
+    - cjfs:
+      - comienzo
+      - comienzas
+      - comienza
+      - comenzamos
+      - "comenz\xE1is"
+      - comienzan
+      cjid: pind
+    - cjfs:
+      - comenzaba
+      - comenzabas
+      - comenzaba
+      - "comenz\xE1bamos"
+      - comenzabais
+      - comenzaban
+      cjid: pret
+    - cjfs:
+      - "comenc\xE9"
+      - comenzaste
+      - "comenz\xF3"
+      - comenzamos
+      - comenzasteis
+      - comenzaron
+      cjid: pprf
+    - cjfs:
+      - "comenzar\xE9"
+      - "comenzar\xE1s"
+      - "comenzar\xE1"
+      - comenzaremos
+      - "comenzar\xE9is"
+      - "comenzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "comenzar\xEDa"
+      - "comenzar\xEDas"
+      - "comenzar\xEDa"
+      - "comenzar\xEDamos"
+      - "comenzar\xEDais"
+      - "comenzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - comience
+      - comiences
+      - comience
+      - comencemos
+      - "comenc\xE9is"
+      - comiencen
+      cjid: psub
+    - cjfs:
+      - comenzara
+      - comenzaras
+      - comenzara
+      - "comenz\xE1ramos"
+      - comenzarais
+      - comenzaran
+      cjid: pisb1
+    - cjfs:
+      - comenzase
+      - comenzases
+      - comenzase
+      - "comenz\xE1semos"
+      - comenzaseis
+      - comenzasen
+      cjid: pisb2
+    - cjfs:
+      - comenzare
+      - comenzares
+      - comenzare
+      - "comenz\xE1remos"
+      - comenzareis
+      - comenzaren
+      cjid: fsub
+    - cjfs:
+      - he comenzado
+      - has comenzado
+      - ha comenzado
+      - hemos comenzado
+      - "hab\xE9is comenzado"
+      - han comenzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa comenzado"
+      - "hab\xEDas comenzado"
+      - "hab\xEDa comenzado"
+      - "hab\xEDamos comenzado"
+      - "hab\xEDais comenzado"
+      - "hab\xEDan comenzado"
+      cjid: ppsi
+    - cjfs:
+      - hube comenzado
+      - hubiste comenzado
+      - hubo comenzado
+      - hubimos comenzado
+      - hubisteis comenzado
+      - hubieron comenzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 comenzado"
+      - "habr\xE1s comenzado"
+      - "habr\xE1 comenzado"
+      - habremos comenzado
+      - "habr\xE9is comenzado"
+      - "habr\xE1n comenzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa comenzado"
+      - "habr\xEDas comenzado"
+      - "habr\xEDa comenzado"
+      - "habr\xEDamos comenzado"
+      - "habr\xEDais comenzado"
+      - "habr\xEDan comenzado"
+      cjid: cpef
+    - cjfs:
+      - haya comenzado
+      - hayas comenzado
+      - haya comenzado
+      - hayamos comenzado
+      - "hay\xE1is comenzado"
+      - hayan comenzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera comenzado
+      - hubieras comenzado
+      - hubiera comenzado
+      - "hubi\xE9ramos comenzado"
+      - hubierais comenzado
+      - hubieran comenzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese comenzado
+      - hubieses comenzado
+      - hubiese comenzado
+      - "hubi\xE9semos comenzado"
+      - hubieseis comenzado
+      - hubiesen comenzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere comenzado
+      - hubieres comenzado
+      - hubiere comenzado
+      - "hubi\xE9remos comenzado"
+      - hubiereis comenzado
+      - hubieren comenzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - comienza
+      - comience
+      - comencemos
+      - comenzad
+      - comiencen
+      cjid: impf

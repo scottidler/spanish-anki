@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recognize}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|admit}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|examine}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: reconocer
+    prs:
+    - sound:
+        audio: recon04sp
+  meta:
+    id: reconocer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619022000'
+    src: spanish
+    stems:
+    - reconocer
+    uuid: 98bed19b-2e9d-4065-a3d2-dc4e2c1fcd4a
+  shortdef:
+  - to recognize
+  - to admit
+  - to examine
+  suppl:
+    cjts:
+    - cjfs:
+      - reconociendo
+      - reconocido
+      cjid: gppt
+    - cjfs:
+      - reconozco
+      - reconoces
+      - reconoce
+      - reconocemos
+      - "reconoc\xE9is"
+      - reconocen
+      cjid: pind
+    - cjfs:
+      - "reconoc\xEDa"
+      - "reconoc\xEDas"
+      - "reconoc\xEDa"
+      - "reconoc\xEDamos"
+      - "reconoc\xEDais"
+      - "reconoc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reconoc\xED"
+      - reconociste
+      - "reconoci\xF3"
+      - reconocimos
+      - reconocisteis
+      - reconocieron
+      cjid: pprf
+    - cjfs:
+      - "reconocer\xE9"
+      - "reconocer\xE1s"
+      - "reconocer\xE1"
+      - reconoceremos
+      - "reconocer\xE9is"
+      - "reconocer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reconocer\xEDa"
+      - "reconocer\xEDas"
+      - "reconocer\xEDa"
+      - "reconocer\xEDamos"
+      - "reconocer\xEDais"
+      - "reconocer\xEDan"
+      cjid: cond
+    - cjfs:
+      - reconozca
+      - reconozcas
+      - reconozca
+      - reconozcamos
+      - "reconozc\xE1is"
+      - reconozcan
+      cjid: psub
+    - cjfs:
+      - reconociera
+      - reconocieras
+      - reconociera
+      - "reconoci\xE9ramos"
+      - reconocierais
+      - reconocieran
+      cjid: pisb1
+    - cjfs:
+      - reconociese
+      - reconocieses
+      - reconociese
+      - "reconoci\xE9semos"
+      - reconocieseis
+      - reconociesen
+      cjid: pisb2
+    - cjfs:
+      - reconociere
+      - reconocieres
+      - reconociere
+      - "reconoci\xE9remos"
+      - reconociereis
+      - reconocieren
+      cjid: fsub
+    - cjfs:
+      - he reconocido
+      - has reconocido
+      - ha reconocido
+      - hemos reconocido
+      - "hab\xE9is reconocido"
+      - han reconocido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reconocido"
+      - "hab\xEDas reconocido"
+      - "hab\xEDa reconocido"
+      - "hab\xEDamos reconocido"
+      - "hab\xEDais reconocido"
+      - "hab\xEDan reconocido"
+      cjid: ppsi
+    - cjfs:
+      - hube reconocido
+      - hubiste reconocido
+      - hubo reconocido
+      - hubimos reconocido
+      - hubisteis reconocido
+      - hubieron reconocido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reconocido"
+      - "habr\xE1s reconocido"
+      - "habr\xE1 reconocido"
+      - habremos reconocido
+      - "habr\xE9is reconocido"
+      - "habr\xE1n reconocido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reconocido"
+      - "habr\xEDas reconocido"
+      - "habr\xEDa reconocido"
+      - "habr\xEDamos reconocido"
+      - "habr\xEDais reconocido"
+      - "habr\xEDan reconocido"
+      cjid: cpef
+    - cjfs:
+      - haya reconocido
+      - hayas reconocido
+      - haya reconocido
+      - hayamos reconocido
+      - "hay\xE1is reconocido"
+      - hayan reconocido
+      cjid: ppfs
+    - cjfs:
+      - hubiera reconocido
+      - hubieras reconocido
+      - hubiera reconocido
+      - "hubi\xE9ramos reconocido"
+      - hubierais reconocido
+      - hubieran reconocido
+      cjid: ppss1
+    - cjfs:
+      - hubiese reconocido
+      - hubieses reconocido
+      - hubiese reconocido
+      - "hubi\xE9semos reconocido"
+      - hubieseis reconocido
+      - hubiesen reconocido
+      cjid: ppss2
+    - cjfs:
+      - hubiere reconocido
+      - hubieres reconocido
+      - hubiere reconocido
+      - "hubi\xE9remos reconocido"
+      - hubiereis reconocido
+      - hubieren reconocido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reconoce
+      - reconozca
+      - reconozcamos
+      - reconoced
+      - reconozcan
+      cjid: impf

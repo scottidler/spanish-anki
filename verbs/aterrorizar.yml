@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|terrify}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|terrorize}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be terrified'
+    drp: aterrorizarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aterrorizar
+    prs:
+    - sound:
+        audio: aterr03sp
+  meta:
+    id: aterrorizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602294000'
+    src: spanish
+    stems:
+    - aterrorizar
+    - aterrorizarse
+    uuid: 754cad6a-d38f-4c61-a525-6e152e5e56f6
+  shortdef:
+  - to terrify
+  - to terrorize
+  suppl:
+    cjts:
+    - cjfs:
+      - aterrorizando
+      - aterrorizado
+      cjid: gppt
+    - cjfs:
+      - aterrorizo
+      - aterrorizas
+      - aterroriza
+      - aterrorizamos
+      - "aterroriz\xE1is"
+      - aterrorizan
+      cjid: pind
+    - cjfs:
+      - aterrorizaba
+      - aterrorizabas
+      - aterrorizaba
+      - "aterroriz\xE1bamos"
+      - aterrorizabais
+      - aterrorizaban
+      cjid: pret
+    - cjfs:
+      - "aterroric\xE9"
+      - aterrorizaste
+      - "aterroriz\xF3"
+      - aterrorizamos
+      - aterrorizasteis
+      - aterrorizaron
+      cjid: pprf
+    - cjfs:
+      - "aterrorizar\xE9"
+      - "aterrorizar\xE1s"
+      - "aterrorizar\xE1"
+      - aterrorizaremos
+      - "aterrorizar\xE9is"
+      - "aterrorizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aterrorizar\xEDa"
+      - "aterrorizar\xEDas"
+      - "aterrorizar\xEDa"
+      - "aterrorizar\xEDamos"
+      - "aterrorizar\xEDais"
+      - "aterrorizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aterrorice
+      - aterrorices
+      - aterrorice
+      - aterroricemos
+      - "aterroric\xE9is"
+      - aterroricen
+      cjid: psub
+    - cjfs:
+      - aterrorizara
+      - aterrorizaras
+      - aterrorizara
+      - "aterroriz\xE1ramos"
+      - aterrorizarais
+      - aterrorizaran
+      cjid: pisb1
+    - cjfs:
+      - aterrorizase
+      - aterrorizases
+      - aterrorizase
+      - "aterroriz\xE1semos"
+      - aterrorizaseis
+      - aterrorizasen
+      cjid: pisb2
+    - cjfs:
+      - aterrorizare
+      - aterrorizares
+      - aterrorizare
+      - "aterroriz\xE1remos"
+      - aterrorizareis
+      - aterrorizaren
+      cjid: fsub
+    - cjfs:
+      - he aterrorizado
+      - has aterrorizado
+      - ha aterrorizado
+      - hemos aterrorizado
+      - "hab\xE9is aterrorizado"
+      - han aterrorizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aterrorizado"
+      - "hab\xEDas aterrorizado"
+      - "hab\xEDa aterrorizado"
+      - "hab\xEDamos aterrorizado"
+      - "hab\xEDais aterrorizado"
+      - "hab\xEDan aterrorizado"
+      cjid: ppsi
+    - cjfs:
+      - hube aterrorizado
+      - hubiste aterrorizado
+      - hubo aterrorizado
+      - hubimos aterrorizado
+      - hubisteis aterrorizado
+      - hubieron aterrorizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aterrorizado"
+      - "habr\xE1s aterrorizado"
+      - "habr\xE1 aterrorizado"
+      - habremos aterrorizado
+      - "habr\xE9is aterrorizado"
+      - "habr\xE1n aterrorizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aterrorizado"
+      - "habr\xEDas aterrorizado"
+      - "habr\xEDa aterrorizado"
+      - "habr\xEDamos aterrorizado"
+      - "habr\xEDais aterrorizado"
+      - "habr\xEDan aterrorizado"
+      cjid: cpef
+    - cjfs:
+      - haya aterrorizado
+      - hayas aterrorizado
+      - haya aterrorizado
+      - hayamos aterrorizado
+      - "hay\xE1is aterrorizado"
+      - hayan aterrorizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aterrorizado
+      - hubieras aterrorizado
+      - hubiera aterrorizado
+      - "hubi\xE9ramos aterrorizado"
+      - hubierais aterrorizado
+      - hubieran aterrorizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aterrorizado
+      - hubieses aterrorizado
+      - hubiese aterrorizado
+      - "hubi\xE9semos aterrorizado"
+      - hubieseis aterrorizado
+      - hubiesen aterrorizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aterrorizado
+      - hubieres aterrorizado
+      - hubiere aterrorizado
+      - "hubi\xE9remos aterrorizado"
+      - hubiereis aterrorizado
+      - hubieren aterrorizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aterroriza
+      - aterrorice
+      - aterroricemos
+      - aterrorizad
+      - aterroricen
+      cjid: impf

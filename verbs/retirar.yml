@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|remove}, to {a_link|take away}, to {a_link|recall}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|withdraw}, to {a_link|take out}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|replegarse||} {bc}to {a_link|retreat}, to {a_link|withdraw}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|jubilarse||} {bc}to {a_link|retire}'
+            sn: '2'
+    drp: retirarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: retirar
+    prs:
+    - sound:
+        audio: retir02sp
+  meta:
+    id: retirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619670000'
+    src: spanish
+    stems:
+    - retirar
+    - retirarse
+    uuid: 060c970a-57d2-4d8e-9df5-ff62611ae7fc
+  shortdef:
+  - to remove, to take away, to recall
+  - to withdraw, to take out
+  suppl:
+    cjts:
+    - cjfs:
+      - retirando
+      - retirado
+      cjid: gppt
+    - cjfs:
+      - retiro
+      - retiras
+      - retira
+      - retiramos
+      - "retir\xE1is"
+      - retiran
+      cjid: pind
+    - cjfs:
+      - retiraba
+      - retirabas
+      - retiraba
+      - "retir\xE1bamos"
+      - retirabais
+      - retiraban
+      cjid: pret
+    - cjfs:
+      - "retir\xE9"
+      - retiraste
+      - "retir\xF3"
+      - retiramos
+      - retirasteis
+      - retiraron
+      cjid: pprf
+    - cjfs:
+      - "retirar\xE9"
+      - "retirar\xE1s"
+      - "retirar\xE1"
+      - retiraremos
+      - "retirar\xE9is"
+      - "retirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "retirar\xEDa"
+      - "retirar\xEDas"
+      - "retirar\xEDa"
+      - "retirar\xEDamos"
+      - "retirar\xEDais"
+      - "retirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - retire
+      - retires
+      - retire
+      - retiremos
+      - "retir\xE9is"
+      - retiren
+      cjid: psub
+    - cjfs:
+      - retirara
+      - retiraras
+      - retirara
+      - "retir\xE1ramos"
+      - retirarais
+      - retiraran
+      cjid: pisb1
+    - cjfs:
+      - retirase
+      - retirases
+      - retirase
+      - "retir\xE1semos"
+      - retiraseis
+      - retirasen
+      cjid: pisb2
+    - cjfs:
+      - retirare
+      - retirares
+      - retirare
+      - "retir\xE1remos"
+      - retirareis
+      - retiraren
+      cjid: fsub
+    - cjfs:
+      - he retirado
+      - has retirado
+      - ha retirado
+      - hemos retirado
+      - "hab\xE9is retirado"
+      - han retirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa retirado"
+      - "hab\xEDas retirado"
+      - "hab\xEDa retirado"
+      - "hab\xEDamos retirado"
+      - "hab\xEDais retirado"
+      - "hab\xEDan retirado"
+      cjid: ppsi
+    - cjfs:
+      - hube retirado
+      - hubiste retirado
+      - hubo retirado
+      - hubimos retirado
+      - hubisteis retirado
+      - hubieron retirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 retirado"
+      - "habr\xE1s retirado"
+      - "habr\xE1 retirado"
+      - habremos retirado
+      - "habr\xE9is retirado"
+      - "habr\xE1n retirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa retirado"
+      - "habr\xEDas retirado"
+      - "habr\xEDa retirado"
+      - "habr\xEDamos retirado"
+      - "habr\xEDais retirado"
+      - "habr\xEDan retirado"
+      cjid: cpef
+    - cjfs:
+      - haya retirado
+      - hayas retirado
+      - haya retirado
+      - hayamos retirado
+      - "hay\xE1is retirado"
+      - hayan retirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera retirado
+      - hubieras retirado
+      - hubiera retirado
+      - "hubi\xE9ramos retirado"
+      - hubierais retirado
+      - hubieran retirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese retirado
+      - hubieses retirado
+      - hubiese retirado
+      - "hubi\xE9semos retirado"
+      - hubieseis retirado
+      - hubiesen retirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere retirado
+      - hubieres retirado
+      - hubiere retirado
+      - "hubi\xE9remos retirado"
+      - hubiereis retirado
+      - hubieren retirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - retira
+      - retire
+      - retiremos
+      - retirad
+      - retiren
+      cjid: impf

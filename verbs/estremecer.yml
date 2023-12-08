@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cause to shake'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tremble}, to {a_link|shake}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|shudder}, to {a_link|shiver} (with emotion)'
+    drp: estremecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: estremecer
+    prs:
+    - sound:
+        audio: estre06sp
+  meta:
+    id: estremecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609444000'
+    src: spanish
+    stems:
+    - estremecer
+    - estremecerse
+    uuid: dde63653-8f98-4854-a9f9-8658c2d5af19
+  shortdef:
+  - to cause to shake
+  - to tremble, to shake
+  suppl:
+    cjts:
+    - cjfs:
+      - estremeciendo
+      - estremecido
+      cjid: gppt
+    - cjfs:
+      - estremezco
+      - estremeces
+      - estremece
+      - estremecemos
+      - "estremec\xE9is"
+      - estremecen
+      cjid: pind
+    - cjfs:
+      - "estremec\xEDa"
+      - "estremec\xEDas"
+      - "estremec\xEDa"
+      - "estremec\xEDamos"
+      - "estremec\xEDais"
+      - "estremec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "estremec\xED"
+      - estremeciste
+      - "estremeci\xF3"
+      - estremecimos
+      - estremecisteis
+      - estremecieron
+      cjid: pprf
+    - cjfs:
+      - "estremecer\xE9"
+      - "estremecer\xE1s"
+      - "estremecer\xE1"
+      - estremeceremos
+      - "estremecer\xE9is"
+      - "estremecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estremecer\xEDa"
+      - "estremecer\xEDas"
+      - "estremecer\xEDa"
+      - "estremecer\xEDamos"
+      - "estremecer\xEDais"
+      - "estremecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - estremezca
+      - estremezcas
+      - estremezca
+      - estremezcamos
+      - "estremezc\xE1is"
+      - estremezcan
+      cjid: psub
+    - cjfs:
+      - estremeciera
+      - estremecieras
+      - estremeciera
+      - "estremeci\xE9ramos"
+      - estremecierais
+      - estremecieran
+      cjid: pisb1
+    - cjfs:
+      - estremeciese
+      - estremecieses
+      - estremeciese
+      - "estremeci\xE9semos"
+      - estremecieseis
+      - estremeciesen
+      cjid: pisb2
+    - cjfs:
+      - estremeciere
+      - estremecieres
+      - estremeciere
+      - "estremeci\xE9remos"
+      - estremeciereis
+      - estremecieren
+      cjid: fsub
+    - cjfs:
+      - he estremecido
+      - has estremecido
+      - ha estremecido
+      - hemos estremecido
+      - "hab\xE9is estremecido"
+      - han estremecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estremecido"
+      - "hab\xEDas estremecido"
+      - "hab\xEDa estremecido"
+      - "hab\xEDamos estremecido"
+      - "hab\xEDais estremecido"
+      - "hab\xEDan estremecido"
+      cjid: ppsi
+    - cjfs:
+      - hube estremecido
+      - hubiste estremecido
+      - hubo estremecido
+      - hubimos estremecido
+      - hubisteis estremecido
+      - hubieron estremecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estremecido"
+      - "habr\xE1s estremecido"
+      - "habr\xE1 estremecido"
+      - habremos estremecido
+      - "habr\xE9is estremecido"
+      - "habr\xE1n estremecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estremecido"
+      - "habr\xEDas estremecido"
+      - "habr\xEDa estremecido"
+      - "habr\xEDamos estremecido"
+      - "habr\xEDais estremecido"
+      - "habr\xEDan estremecido"
+      cjid: cpef
+    - cjfs:
+      - haya estremecido
+      - hayas estremecido
+      - haya estremecido
+      - hayamos estremecido
+      - "hay\xE1is estremecido"
+      - hayan estremecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera estremecido
+      - hubieras estremecido
+      - hubiera estremecido
+      - "hubi\xE9ramos estremecido"
+      - hubierais estremecido
+      - hubieran estremecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese estremecido
+      - hubieses estremecido
+      - hubiese estremecido
+      - "hubi\xE9semos estremecido"
+      - hubieseis estremecido
+      - hubiesen estremecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere estremecido
+      - hubieres estremecido
+      - hubiere estremecido
+      - "hubi\xE9remos estremecido"
+      - hubiereis estremecido
+      - hubieren estremecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estremece
+      - estremezca
+      - estremezcamos
+      - estremeced
+      - estremezcan
+      cjid: impf

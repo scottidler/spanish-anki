@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|devise}, to {a_link|think up}'
+  fl: transitive verb
+  hwi:
+    hw: idear
+    prs:
+    - sound:
+        audio: idear01sp
+  meta:
+    id: idear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611803000'
+    src: spanish
+    stems:
+    - idear
+    uuid: 3913df83-6efb-4ef7-b793-7d59a56a647e
+  shortdef:
+  - to devise, to think up
+  suppl:
+    cjts:
+    - cjfs:
+      - ideando
+      - ideado
+      cjid: gppt
+    - cjfs:
+      - ideo
+      - ideas
+      - idea
+      - ideamos
+      - "ide\xE1is"
+      - idean
+      cjid: pind
+    - cjfs:
+      - ideaba
+      - ideabas
+      - ideaba
+      - "ide\xE1bamos"
+      - ideabais
+      - ideaban
+      cjid: pret
+    - cjfs:
+      - "ide\xE9"
+      - ideaste
+      - "ide\xF3"
+      - ideamos
+      - ideasteis
+      - idearon
+      cjid: pprf
+    - cjfs:
+      - "idear\xE9"
+      - "idear\xE1s"
+      - "idear\xE1"
+      - idearemos
+      - "idear\xE9is"
+      - "idear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "idear\xEDa"
+      - "idear\xEDas"
+      - "idear\xEDa"
+      - "idear\xEDamos"
+      - "idear\xEDais"
+      - "idear\xEDan"
+      cjid: cond
+    - cjfs:
+      - idee
+      - idees
+      - idee
+      - ideemos
+      - "ide\xE9is"
+      - ideen
+      cjid: psub
+    - cjfs:
+      - ideara
+      - idearas
+      - ideara
+      - "ide\xE1ramos"
+      - idearais
+      - idearan
+      cjid: pisb1
+    - cjfs:
+      - idease
+      - ideases
+      - idease
+      - "ide\xE1semos"
+      - ideaseis
+      - ideasen
+      cjid: pisb2
+    - cjfs:
+      - ideare
+      - ideares
+      - ideare
+      - "ide\xE1remos"
+      - ideareis
+      - idearen
+      cjid: fsub
+    - cjfs:
+      - he ideado
+      - has ideado
+      - ha ideado
+      - hemos ideado
+      - "hab\xE9is ideado"
+      - han ideado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ideado"
+      - "hab\xEDas ideado"
+      - "hab\xEDa ideado"
+      - "hab\xEDamos ideado"
+      - "hab\xEDais ideado"
+      - "hab\xEDan ideado"
+      cjid: ppsi
+    - cjfs:
+      - hube ideado
+      - hubiste ideado
+      - hubo ideado
+      - hubimos ideado
+      - hubisteis ideado
+      - hubieron ideado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ideado"
+      - "habr\xE1s ideado"
+      - "habr\xE1 ideado"
+      - habremos ideado
+      - "habr\xE9is ideado"
+      - "habr\xE1n ideado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ideado"
+      - "habr\xEDas ideado"
+      - "habr\xEDa ideado"
+      - "habr\xEDamos ideado"
+      - "habr\xEDais ideado"
+      - "habr\xEDan ideado"
+      cjid: cpef
+    - cjfs:
+      - haya ideado
+      - hayas ideado
+      - haya ideado
+      - hayamos ideado
+      - "hay\xE1is ideado"
+      - hayan ideado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ideado
+      - hubieras ideado
+      - hubiera ideado
+      - "hubi\xE9ramos ideado"
+      - hubierais ideado
+      - hubieran ideado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ideado
+      - hubieses ideado
+      - hubiese ideado
+      - "hubi\xE9semos ideado"
+      - hubieseis ideado
+      - hubiesen ideado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ideado
+      - hubieres ideado
+      - hubiere ideado
+      - "hubi\xE9remos ideado"
+      - hubiereis ideado
+      - hubieren ideado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - idea
+      - idee
+      - ideemos
+      - idead
+      - ideen
+      cjid: impf

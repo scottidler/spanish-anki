@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rub}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|strike} (a match)'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|rub} (together)'
+    drp: frotarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: frotar
+    prs:
+    - sound:
+        audio: frota01sp
+  meta:
+    id: frotar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610468000'
+    src: spanish
+    stems:
+    - frotar
+    - frotarse
+    uuid: 30d16ce8-1351-4928-abdf-832d9ceff53b
+  shortdef:
+  - to rub
+  - to strike (a match)
+  suppl:
+    cjts:
+    - cjfs:
+      - frotando
+      - frotado
+      cjid: gppt
+    - cjfs:
+      - froto
+      - frotas
+      - frota
+      - frotamos
+      - "frot\xE1is"
+      - frotan
+      cjid: pind
+    - cjfs:
+      - frotaba
+      - frotabas
+      - frotaba
+      - "frot\xE1bamos"
+      - frotabais
+      - frotaban
+      cjid: pret
+    - cjfs:
+      - "frot\xE9"
+      - frotaste
+      - "frot\xF3"
+      - frotamos
+      - frotasteis
+      - frotaron
+      cjid: pprf
+    - cjfs:
+      - "frotar\xE9"
+      - "frotar\xE1s"
+      - "frotar\xE1"
+      - frotaremos
+      - "frotar\xE9is"
+      - "frotar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "frotar\xEDa"
+      - "frotar\xEDas"
+      - "frotar\xEDa"
+      - "frotar\xEDamos"
+      - "frotar\xEDais"
+      - "frotar\xEDan"
+      cjid: cond
+    - cjfs:
+      - frote
+      - frotes
+      - frote
+      - frotemos
+      - "frot\xE9is"
+      - froten
+      cjid: psub
+    - cjfs:
+      - frotara
+      - frotaras
+      - frotara
+      - "frot\xE1ramos"
+      - frotarais
+      - frotaran
+      cjid: pisb1
+    - cjfs:
+      - frotase
+      - frotases
+      - frotase
+      - "frot\xE1semos"
+      - frotaseis
+      - frotasen
+      cjid: pisb2
+    - cjfs:
+      - frotare
+      - frotares
+      - frotare
+      - "frot\xE1remos"
+      - frotareis
+      - frotaren
+      cjid: fsub
+    - cjfs:
+      - he frotado
+      - has frotado
+      - ha frotado
+      - hemos frotado
+      - "hab\xE9is frotado"
+      - han frotado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa frotado"
+      - "hab\xEDas frotado"
+      - "hab\xEDa frotado"
+      - "hab\xEDamos frotado"
+      - "hab\xEDais frotado"
+      - "hab\xEDan frotado"
+      cjid: ppsi
+    - cjfs:
+      - hube frotado
+      - hubiste frotado
+      - hubo frotado
+      - hubimos frotado
+      - hubisteis frotado
+      - hubieron frotado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 frotado"
+      - "habr\xE1s frotado"
+      - "habr\xE1 frotado"
+      - habremos frotado
+      - "habr\xE9is frotado"
+      - "habr\xE1n frotado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa frotado"
+      - "habr\xEDas frotado"
+      - "habr\xEDa frotado"
+      - "habr\xEDamos frotado"
+      - "habr\xEDais frotado"
+      - "habr\xEDan frotado"
+      cjid: cpef
+    - cjfs:
+      - haya frotado
+      - hayas frotado
+      - haya frotado
+      - hayamos frotado
+      - "hay\xE1is frotado"
+      - hayan frotado
+      cjid: ppfs
+    - cjfs:
+      - hubiera frotado
+      - hubieras frotado
+      - hubiera frotado
+      - "hubi\xE9ramos frotado"
+      - hubierais frotado
+      - hubieran frotado
+      cjid: ppss1
+    - cjfs:
+      - hubiese frotado
+      - hubieses frotado
+      - hubiese frotado
+      - "hubi\xE9semos frotado"
+      - hubieseis frotado
+      - hubiesen frotado
+      cjid: ppss2
+    - cjfs:
+      - hubiere frotado
+      - hubieres frotado
+      - hubiere frotado
+      - "hubi\xE9remos frotado"
+      - hubiereis frotado
+      - hubieren frotado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - frota
+      - frote
+      - frotemos
+      - frotad
+      - froten
+      cjid: impf

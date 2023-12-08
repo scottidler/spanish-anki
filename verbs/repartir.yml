@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|allocate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|distribuir||} {bc}to {a_link|distribute}, to {a_link|hand out}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spread}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: repartir
+    prs:
+    - sound:
+        audio: repar05sp
+  meta:
+    id: repartir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619425000'
+    src: spanish
+    stems:
+    - repartir
+    uuid: 746b3149-bec8-4305-9a2b-5aff8ab5be41
+  shortdef:
+  - to allocate
+  - 'distribuir : to distribute, to hand out'
+  - to spread
+  suppl:
+    cjts:
+    - cjfs:
+      - repartiendo
+      - repartido
+      cjid: gppt
+    - cjfs:
+      - reparto
+      - repartes
+      - reparte
+      - repartimos
+      - "repart\xEDs"
+      - reparten
+      cjid: pind
+    - cjfs:
+      - "repart\xEDa"
+      - "repart\xEDas"
+      - "repart\xEDa"
+      - "repart\xEDamos"
+      - "repart\xEDais"
+      - "repart\xEDan"
+      cjid: pret
+    - cjfs:
+      - "repart\xED"
+      - repartiste
+      - "reparti\xF3"
+      - repartimos
+      - repartisteis
+      - repartieron
+      cjid: pprf
+    - cjfs:
+      - "repartir\xE9"
+      - "repartir\xE1s"
+      - "repartir\xE1"
+      - repartiremos
+      - "repartir\xE9is"
+      - "repartir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "repartir\xEDa"
+      - "repartir\xEDas"
+      - "repartir\xEDa"
+      - "repartir\xEDamos"
+      - "repartir\xEDais"
+      - "repartir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reparta
+      - repartas
+      - reparta
+      - repartamos
+      - "repart\xE1is"
+      - repartan
+      cjid: psub
+    - cjfs:
+      - repartiera
+      - repartieras
+      - repartiera
+      - "reparti\xE9ramos"
+      - repartierais
+      - repartieran
+      cjid: pisb1
+    - cjfs:
+      - repartiese
+      - repartieses
+      - repartiese
+      - "reparti\xE9semos"
+      - repartieseis
+      - repartiesen
+      cjid: pisb2
+    - cjfs:
+      - repartiere
+      - repartieres
+      - repartiere
+      - "reparti\xE9remos"
+      - repartiereis
+      - repartieren
+      cjid: fsub
+    - cjfs:
+      - he repartido
+      - has repartido
+      - ha repartido
+      - hemos repartido
+      - "hab\xE9is repartido"
+      - han repartido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa repartido"
+      - "hab\xEDas repartido"
+      - "hab\xEDa repartido"
+      - "hab\xEDamos repartido"
+      - "hab\xEDais repartido"
+      - "hab\xEDan repartido"
+      cjid: ppsi
+    - cjfs:
+      - hube repartido
+      - hubiste repartido
+      - hubo repartido
+      - hubimos repartido
+      - hubisteis repartido
+      - hubieron repartido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 repartido"
+      - "habr\xE1s repartido"
+      - "habr\xE1 repartido"
+      - habremos repartido
+      - "habr\xE9is repartido"
+      - "habr\xE1n repartido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa repartido"
+      - "habr\xEDas repartido"
+      - "habr\xEDa repartido"
+      - "habr\xEDamos repartido"
+      - "habr\xEDais repartido"
+      - "habr\xEDan repartido"
+      cjid: cpef
+    - cjfs:
+      - haya repartido
+      - hayas repartido
+      - haya repartido
+      - hayamos repartido
+      - "hay\xE1is repartido"
+      - hayan repartido
+      cjid: ppfs
+    - cjfs:
+      - hubiera repartido
+      - hubieras repartido
+      - hubiera repartido
+      - "hubi\xE9ramos repartido"
+      - hubierais repartido
+      - hubieran repartido
+      cjid: ppss1
+    - cjfs:
+      - hubiese repartido
+      - hubieses repartido
+      - hubiese repartido
+      - "hubi\xE9semos repartido"
+      - hubieseis repartido
+      - hubiesen repartido
+      cjid: ppss2
+    - cjfs:
+      - hubiere repartido
+      - hubieres repartido
+      - hubiere repartido
+      - "hubi\xE9remos repartido"
+      - hubiereis repartido
+      - hubieren repartido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reparte
+      - reparta
+      - repartamos
+      - repartid
+      - repartan
+      cjid: impf

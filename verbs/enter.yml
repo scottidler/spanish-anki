@@ -1,0 +1,97 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}entrar en/a'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|join||} {bc}entrar en/a, {a_link|incorporarse a}, ingresar a'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}entrar en/a (un debate, una profesi\xF3n, etc.)"
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|begin||} {bc}{a_link|entrar en} (una etapa, etc.)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|record||} {bc}{a_link|anotar}, {a_link|inscribir}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|input||} {bc}{a_link|introducir}, dar entrada a'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|presentar} (una queja, etc.) '
+          - - vis
+            - - t: she entered a guilty plea
+                tr: "se declar\xF3 culpable"
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|presentarse a} (un concurso, etc.), inscribirse en (una
+              carrera, etc.)'
+          sn: '8'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|entrar}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|entrar en}, {a_link|establecer} (un acuerdo), {a_link|entablar}
+              (negociaciones, etc.)'
+          sn: '2'
+          vrs:
+          - va: to enter into
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|affect||}, {sx|influence||} {bc}{a_link|incidir en}, {a_link|influir
+              en}'
+          sn: '3'
+          vrs:
+          - va: to enter into
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: enter
+    prs:
+    - mw: "\u02C8\u025Bnt\u0259r"
+      sound:
+        audio: enter001
+  meta:
+    id: enter
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2607988000'
+    src: spanish
+    stems:
+    - enter
+    - entered
+    - entering
+    - enters
+    - enterable
+    - enter into
+    - enter the lists
+    - to enter into
+    uuid: 20763c89-9b72-4781-a1f6-48f007bc3d0b
+  shortdef:
+  - entrar en/a
+  - 'join : entrar en/a, incorporarse a, ingresar a'
+  - "entrar en/a (un debate, una profesi\xF3n, etc.)"

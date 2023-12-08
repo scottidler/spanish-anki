@@ -1,0 +1,308 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|have}, {a_link|has} '
+          - - vis
+            - - t: "no ha llegado el env\xEDo"
+                tr: the shipment hasn't arrived
+              - t: de haberlo sabido
+                tr: if I had known
+              - t: "deber\xEDa haberlo pensado"
+                tr: I should have thought of it
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|must} '
+          - - vis
+            - - t: ha de ser tarde
+                tr: it must be late
+          sn: '2'
+          vrs:
+          - va: haber de
+            vac: ~ de
+  - sls:
+    - ({b}hay{/b} in the present indicative)
+    sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}there is, there are '
+          - - vis
+            - - t: hay dos mensajes
+                tr: there are two messages
+              - t: "\xBFhay postre?"
+                tr: do you have any dessert?
+              - t: hubo muchos errores
+                tr: there were a lot of errors
+              - t: ha habido varios casos
+                tr: there have been various cases
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}it is necessary '
+          - - vis
+            - - t: "hay que trabajar m\xE1s r\xE1pido"
+                tr: you/we (etc.) have to work faster
+              - t: "habr\xE1 que hacerlo"
+                tr: it will have to be done
+              - t: hubo que esperar
+                tr: we had to wait
+          sn: '2'
+          vrs:
+          - va: hay que
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}you''re welcome, don''t mention it'
+          sn: '3'
+          vrs:
+          - va: "no hay de qu\xE9"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|what''s up?}, how are things?'
+          sls:
+          - familiar
+          sn: '4'
+          vrs:
+          - va: "\xBFqu\xE9 hay?"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}what''s new?'
+          sls:
+          - familiar
+          sn: '5'
+          vrs:
+          - va: "\xBFqu\xE9 hay de nuevo?"
+    vd: impersonal verb
+  fl: auxiliary verb
+  hom: 1
+  hwi:
+    hw: haber
+    prs:
+    - sound:
+        audio: haber01sp
+  meta:
+    id: haber:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611217000'
+    src: spanish
+    stems:
+    - haber
+    - haber de
+    - hay que
+    - no hay de que
+    - "\xBFque hay?"
+    - "\xBFque hay de nuevo?"
+    uuid: 66fd99f9-9622-4761-b740-da550c21eb60
+  shortdef:
+  - have, has
+  - must
+  - there is, there are
+  suppl:
+    cjts:
+    - cjfs:
+      - habiendo
+      - habido
+      cjid: gppt
+    - cjfs:
+      - he
+      - has
+      - ha
+      - hemos
+      - "hab\xE9is"
+      - han
+      cjid: pind
+    - cjfs:
+      - "hab\xEDa"
+      - "hab\xEDas"
+      - "hab\xEDa"
+      - "hab\xEDamos"
+      - "hab\xEDais"
+      - "hab\xEDan"
+      cjid: pret
+    - cjfs:
+      - hube
+      - hubiste
+      - hubo
+      - hubimos
+      - hubisteis
+      - hubieron
+      cjid: pprf
+    - cjfs:
+      - "habr\xE9"
+      - "habr\xE1s"
+      - "habr\xE1"
+      - habremos
+      - "habr\xE9is"
+      - "habr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "habr\xEDa"
+      - "habr\xEDas"
+      - "habr\xEDa"
+      - "habr\xEDamos"
+      - "habr\xEDais"
+      - "habr\xEDan"
+      cjid: cond
+    - cjfs:
+      - haya
+      - hayas
+      - haya
+      - hayamos
+      - "hay\xE1is"
+      - hayan
+      cjid: psub
+    - cjfs:
+      - hubiera
+      - hubieras
+      - hubiera
+      - "hubi\xE9ramos"
+      - hubierais
+      - hubieran
+      cjid: pisb1
+    - cjfs:
+      - hubiese
+      - hubieses
+      - hubiese
+      - "hubi\xE9semos"
+      - hubieseis
+      - hubiesen
+      cjid: pisb2
+    - cjfs:
+      - hubiere
+      - hubieres
+      - hubiere
+      - "hubi\xE9remos"
+      - hubiereis
+      - hubieren
+      cjid: fsub
+    - cjfs:
+      - he habido
+      - has habido
+      - ha habido
+      - hemos habido
+      - "hab\xE9is habido"
+      - han habido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa habido"
+      - "hab\xEDas habido"
+      - "hab\xEDa habido"
+      - "hab\xEDamos habido"
+      - "hab\xEDais habido"
+      - "hab\xEDan habido"
+      cjid: ppsi
+    - cjfs:
+      - hube habido
+      - hubiste habido
+      - hubo habido
+      - hubimos habido
+      - hubisteis habido
+      - hubieron habido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 habido"
+      - "habr\xE1s habido"
+      - "habr\xE1 habido"
+      - habremos habido
+      - "habr\xE9is habido"
+      - "habr\xE1n habido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa habido"
+      - "habr\xEDas habido"
+      - "habr\xEDa habido"
+      - "habr\xEDamos habido"
+      - "habr\xEDais habido"
+      - "habr\xEDan habido"
+      cjid: cpef
+    - cjfs:
+      - haya habido
+      - hayas habido
+      - haya habido
+      - hayamos habido
+      - "hay\xE1is habido"
+      - hayan habido
+      cjid: ppfs
+    - cjfs:
+      - hubiera habido
+      - hubieras habido
+      - hubiera habido
+      - "hubi\xE9ramos habido"
+      - hubierais habido
+      - hubieran habido
+      cjid: ppss1
+    - cjfs:
+      - hubiese habido
+      - hubieses habido
+      - hubiese habido
+      - "hubi\xE9semos habido"
+      - hubieseis habido
+      - hubiesen habido
+      cjid: ppss2
+    - cjfs:
+      - hubiere habido
+      - hubieres habido
+      - hubiere habido
+      - "hubi\xE9remos habido"
+      - hubiereis habido
+      - hubieren habido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - he
+      - haya
+      - hayamos
+      - habed
+      - hayan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}assets {it}plural{/it}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|credit}, credit side'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|salary}, {a_link|income}, {a_link|remuneration}'
+          ins:
+          - if: haberes
+            spl: noun masculine plural
+          sn: '3'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: haber
+    prs:
+    - sound:
+        audio: haber02sp
+  meta:
+    id: haber:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611218000'
+    src: spanish
+    stems:
+    - haber
+    - haberes
+    uuid: 3ec5d9a8-3219-457c-935c-56ad3c662757
+  shortdef:
+  - assets plural
+  - credit, credit side
+  - salary, income, remuneration

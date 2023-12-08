@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mojar||} {bc}to {a_link|soak}, to {a_link|drench}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get soaking wet'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|absorb}, to be imbued with'
+            sn: '2'
+            vrs:
+            - va: empaparse de
+              vac: ~ de
+    drp: empaparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: empapar
+  meta:
+    id: empapar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608315000'
+    src: spanish
+    stems:
+    - empapar
+    - empaparse
+    - empaparse de
+    uuid: 5e90f8f6-5931-49c2-9b07-6dd50550461c
+  shortdef:
+  - 'mojar : to soak, to drench'
+  suppl:
+    cjts:
+    - cjfs:
+      - empapando
+      - empapado
+      cjid: gppt
+    - cjfs:
+      - empapo
+      - empapas
+      - empapa
+      - empapamos
+      - "empap\xE1is"
+      - empapan
+      cjid: pind
+    - cjfs:
+      - empapaba
+      - empapabas
+      - empapaba
+      - "empap\xE1bamos"
+      - empapabais
+      - empapaban
+      cjid: pret
+    - cjfs:
+      - "empap\xE9"
+      - empapaste
+      - "empap\xF3"
+      - empapamos
+      - empapasteis
+      - empaparon
+      cjid: pprf
+    - cjfs:
+      - "empapar\xE9"
+      - "empapar\xE1s"
+      - "empapar\xE1"
+      - empaparemos
+      - "empapar\xE9is"
+      - "empapar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "empapar\xEDa"
+      - "empapar\xEDas"
+      - "empapar\xEDa"
+      - "empapar\xEDamos"
+      - "empapar\xEDais"
+      - "empapar\xEDan"
+      cjid: cond
+    - cjfs:
+      - empape
+      - empapes
+      - empape
+      - empapemos
+      - "empap\xE9is"
+      - empapen
+      cjid: psub
+    - cjfs:
+      - empapara
+      - empaparas
+      - empapara
+      - "empap\xE1ramos"
+      - empaparais
+      - empaparan
+      cjid: pisb1
+    - cjfs:
+      - empapase
+      - empapases
+      - empapase
+      - "empap\xE1semos"
+      - empapaseis
+      - empapasen
+      cjid: pisb2
+    - cjfs:
+      - empapare
+      - empapares
+      - empapare
+      - "empap\xE1remos"
+      - empapareis
+      - empaparen
+      cjid: fsub
+    - cjfs:
+      - he empapado
+      - has empapado
+      - ha empapado
+      - hemos empapado
+      - "hab\xE9is empapado"
+      - han empapado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa empapado"
+      - "hab\xEDas empapado"
+      - "hab\xEDa empapado"
+      - "hab\xEDamos empapado"
+      - "hab\xEDais empapado"
+      - "hab\xEDan empapado"
+      cjid: ppsi
+    - cjfs:
+      - hube empapado
+      - hubiste empapado
+      - hubo empapado
+      - hubimos empapado
+      - hubisteis empapado
+      - hubieron empapado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 empapado"
+      - "habr\xE1s empapado"
+      - "habr\xE1 empapado"
+      - habremos empapado
+      - "habr\xE9is empapado"
+      - "habr\xE1n empapado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa empapado"
+      - "habr\xEDas empapado"
+      - "habr\xEDa empapado"
+      - "habr\xEDamos empapado"
+      - "habr\xEDais empapado"
+      - "habr\xEDan empapado"
+      cjid: cpef
+    - cjfs:
+      - haya empapado
+      - hayas empapado
+      - haya empapado
+      - hayamos empapado
+      - "hay\xE1is empapado"
+      - hayan empapado
+      cjid: ppfs
+    - cjfs:
+      - hubiera empapado
+      - hubieras empapado
+      - hubiera empapado
+      - "hubi\xE9ramos empapado"
+      - hubierais empapado
+      - hubieran empapado
+      cjid: ppss1
+    - cjfs:
+      - hubiese empapado
+      - hubieses empapado
+      - hubiese empapado
+      - "hubi\xE9semos empapado"
+      - hubieseis empapado
+      - hubiesen empapado
+      cjid: ppss2
+    - cjfs:
+      - hubiere empapado
+      - hubieres empapado
+      - hubiere empapado
+      - "hubi\xE9remos empapado"
+      - hubiereis empapado
+      - hubieren empapado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - empapa
+      - empape
+      - empapemos
+      - empapad
+      - empapen
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|arrinconar||} {bc}to {a_link|corner}, to {a_link|hem in}, to {a_link|corral}'
+  fl: transitive verb
+  hwi:
+    hw: acorralar
+  meta:
+    id: acorralar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600339000'
+    src: spanish
+    stems:
+    - acorralar
+    uuid: 6b6598b9-f827-48f0-b445-1b067fbd096d
+  shortdef:
+  - 'arrinconar : to corner, to hem in, to corral'
+  suppl:
+    cjts:
+    - cjfs:
+      - acorralando
+      - acorralado
+      cjid: gppt
+    - cjfs:
+      - acorralo
+      - acorralas
+      - acorrala
+      - acorralamos
+      - "acorral\xE1is"
+      - acorralan
+      cjid: pind
+    - cjfs:
+      - acorralaba
+      - acorralabas
+      - acorralaba
+      - "acorral\xE1bamos"
+      - acorralabais
+      - acorralaban
+      cjid: pret
+    - cjfs:
+      - "acorral\xE9"
+      - acorralaste
+      - "acorral\xF3"
+      - acorralamos
+      - acorralasteis
+      - acorralaron
+      cjid: pprf
+    - cjfs:
+      - "acorralar\xE9"
+      - "acorralar\xE1s"
+      - "acorralar\xE1"
+      - acorralaremos
+      - "acorralar\xE9is"
+      - "acorralar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acorralar\xEDa"
+      - "acorralar\xEDas"
+      - "acorralar\xEDa"
+      - "acorralar\xEDamos"
+      - "acorralar\xEDais"
+      - "acorralar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acorrale
+      - acorrales
+      - acorrale
+      - acorralemos
+      - "acorral\xE9is"
+      - acorralen
+      cjid: psub
+    - cjfs:
+      - acorralara
+      - acorralaras
+      - acorralara
+      - "acorral\xE1ramos"
+      - acorralarais
+      - acorralaran
+      cjid: pisb1
+    - cjfs:
+      - acorralase
+      - acorralases
+      - acorralase
+      - "acorral\xE1semos"
+      - acorralaseis
+      - acorralasen
+      cjid: pisb2
+    - cjfs:
+      - acorralare
+      - acorralares
+      - acorralare
+      - "acorral\xE1remos"
+      - acorralareis
+      - acorralaren
+      cjid: fsub
+    - cjfs:
+      - he acorralado
+      - has acorralado
+      - ha acorralado
+      - hemos acorralado
+      - "hab\xE9is acorralado"
+      - han acorralado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acorralado"
+      - "hab\xEDas acorralado"
+      - "hab\xEDa acorralado"
+      - "hab\xEDamos acorralado"
+      - "hab\xEDais acorralado"
+      - "hab\xEDan acorralado"
+      cjid: ppsi
+    - cjfs:
+      - hube acorralado
+      - hubiste acorralado
+      - hubo acorralado
+      - hubimos acorralado
+      - hubisteis acorralado
+      - hubieron acorralado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acorralado"
+      - "habr\xE1s acorralado"
+      - "habr\xE1 acorralado"
+      - habremos acorralado
+      - "habr\xE9is acorralado"
+      - "habr\xE1n acorralado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acorralado"
+      - "habr\xEDas acorralado"
+      - "habr\xEDa acorralado"
+      - "habr\xEDamos acorralado"
+      - "habr\xEDais acorralado"
+      - "habr\xEDan acorralado"
+      cjid: cpef
+    - cjfs:
+      - haya acorralado
+      - hayas acorralado
+      - haya acorralado
+      - hayamos acorralado
+      - "hay\xE1is acorralado"
+      - hayan acorralado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acorralado
+      - hubieras acorralado
+      - hubiera acorralado
+      - "hubi\xE9ramos acorralado"
+      - hubierais acorralado
+      - hubieran acorralado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acorralado
+      - hubieses acorralado
+      - hubiese acorralado
+      - "hubi\xE9semos acorralado"
+      - hubieseis acorralado
+      - hubiesen acorralado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acorralado
+      - hubieres acorralado
+      - hubiere acorralado
+      - "hubi\xE9remos acorralado"
+      - hubiereis acorralado
+      - hubieren acorralado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acorrala
+      - acorrale
+      - acorralemos
+      - acorralad
+      - acorralen
+      cjid: impf

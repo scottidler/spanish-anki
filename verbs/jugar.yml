@@ -1,0 +1,327 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play} '
+          - - vis
+            - - t: "jugar al f\xFAtbol"
+                tr: to play soccer
+              - t: "jugar a la loter\xEDa"
+                tr: to play the lottery
+              - t: "jugar a las mu\xF1ecas"
+                tr: to play with dolls
+              - t: jugar limpio/sucio
+                tr: to play fair/dirty
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apostar||} {bc}to {a_link|gamble}, to {a_link|bet} '
+          - - vis
+            - - t: jugar a la Bolsa
+                tr: to play the stock market
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|joke}, to {a_link|kid}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to toy with someone'
+          sn: '4'
+          vrs:
+          - va: jugar con alguien
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play} '
+          - - vis
+            - - t: jugar un papel
+                tr: to play a role
+              - t: jugar una carta
+                tr: to play a card
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bet} '
+          - - vis
+            - - t: jugarlo todo a
+                tr: to bet everything on
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|risk}, to gamble away '
+            - - vis
+              - - t: jugarse la vida
+                  tr: to risk one's life
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to risk everything'
+            sn: '2'
+            vrs:
+            - va: jugarse el todo por el todo
+    drp: jugarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: jugar
+    prs:
+    - sound:
+        audio: jugar01sp
+  meta:
+    id: jugar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613287000'
+    src: spanish
+    stems:
+    - jugar
+    - jugar con alguien
+    - jugarse
+    - jugarse el todo por el todo
+    uuid: e386a6cb-6bfb-4a88-b954-a1eb94da32db
+  shortdef:
+  - to play
+  - 'apostar : to gamble, to bet'
+  - to joke, to kid
+  suppl:
+    cjts:
+    - cjfs:
+      - jugando
+      - jugado
+      cjid: gppt
+    - cjfs:
+      - juego
+      - juegas
+      - juega
+      - jugamos
+      - "jug\xE1is"
+      - juegan
+      cjid: pind
+    - cjfs:
+      - jugaba
+      - jugabas
+      - jugaba
+      - "jug\xE1bamos"
+      - jugabais
+      - jugaban
+      cjid: pret
+    - cjfs:
+      - "jugu\xE9"
+      - jugaste
+      - "jug\xF3"
+      - jugamos
+      - jugasteis
+      - jugaron
+      cjid: pprf
+    - cjfs:
+      - "jugar\xE9"
+      - "jugar\xE1s"
+      - "jugar\xE1"
+      - jugaremos
+      - "jugar\xE9is"
+      - "jugar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "jugar\xEDa"
+      - "jugar\xEDas"
+      - "jugar\xEDa"
+      - "jugar\xEDamos"
+      - "jugar\xEDais"
+      - "jugar\xEDan"
+      cjid: cond
+    - cjfs:
+      - juegue
+      - juegues
+      - juegue
+      - juguemos
+      - "jugu\xE9is"
+      - jueguen
+      cjid: psub
+    - cjfs:
+      - jugara
+      - jugaras
+      - jugara
+      - "jug\xE1ramos"
+      - jugarais
+      - jugaran
+      cjid: pisb1
+    - cjfs:
+      - jugase
+      - jugases
+      - jugase
+      - "jug\xE1semos"
+      - jugaseis
+      - jugasen
+      cjid: pisb2
+    - cjfs:
+      - jugare
+      - jugares
+      - jugare
+      - "jug\xE1remos"
+      - jugareis
+      - jugaren
+      cjid: fsub
+    - cjfs:
+      - he jugado
+      - has jugado
+      - ha jugado
+      - hemos jugado
+      - "hab\xE9is jugado"
+      - han jugado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa jugado"
+      - "hab\xEDas jugado"
+      - "hab\xEDa jugado"
+      - "hab\xEDamos jugado"
+      - "hab\xEDais jugado"
+      - "hab\xEDan jugado"
+      cjid: ppsi
+    - cjfs:
+      - hube jugado
+      - hubiste jugado
+      - hubo jugado
+      - hubimos jugado
+      - hubisteis jugado
+      - hubieron jugado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 jugado"
+      - "habr\xE1s jugado"
+      - "habr\xE1 jugado"
+      - habremos jugado
+      - "habr\xE9is jugado"
+      - "habr\xE1n jugado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa jugado"
+      - "habr\xEDas jugado"
+      - "habr\xEDa jugado"
+      - "habr\xEDamos jugado"
+      - "habr\xEDais jugado"
+      - "habr\xEDan jugado"
+      cjid: cpef
+    - cjfs:
+      - haya jugado
+      - hayas jugado
+      - haya jugado
+      - hayamos jugado
+      - "hay\xE1is jugado"
+      - hayan jugado
+      cjid: ppfs
+    - cjfs:
+      - hubiera jugado
+      - hubieras jugado
+      - hubiera jugado
+      - "hubi\xE9ramos jugado"
+      - hubierais jugado
+      - hubieran jugado
+      cjid: ppss1
+    - cjfs:
+      - hubiese jugado
+      - hubieses jugado
+      - hubiese jugado
+      - "hubi\xE9semos jugado"
+      - hubieseis jugado
+      - hubiesen jugado
+      cjid: ppss2
+    - cjfs:
+      - hubiere jugado
+      - hubieres jugado
+      - hubiere jugado
+      - "hubi\xE9remos jugado"
+      - hubiereis jugado
+      - hubieren jugado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - juega
+      - juegue
+      - juguemos
+      - jugad
+      - jueguen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ball}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|head}'
+          sls:
+          - familiar
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|naked}'
+          sls:
+          - familiar
+          sn: '3'
+          vrs:
+          - va: en pelotas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play ball}'
+          sn: '4'
+          vrs:
+          - va: jugar a la pelota
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass the buck}'
+          sls:
+          - familiar
+          sn: '5'
+          vrs:
+          - va: pasar la pelota
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|jai alai}'
+          sn: '6'
+          vrs:
+          - va: pelota vasca
+  fl: feminine noun
+  hwi:
+    hw: pelota
+    prs:
+    - sound:
+        audio: pelot01sp
+  meta:
+    id: pelota
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616984000'
+    src: spanish
+    stems:
+    - pelota
+    - en pelotas
+    - jugar a la pelota
+    - pasar la pelota
+    - pelota vasca
+    uuid: dcfb32d5-cf54-4788-94b3-347d8c582d62
+  shortdef:
+  - ball
+  - head
+  - naked

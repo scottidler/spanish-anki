@@ -1,0 +1,254 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|alzar||} {bc}to {a_link|lift}, to {a_link|raise} '
+          - - vis
+            - - t: "levant\xE9 la tapa"
+                tr: I lifted the lid
+              - t: levantar pesas
+                tr: to lift weights
+              - t: levantar la mano
+                tr: to raise one's hand
+              - t: levantar la mirada/vista
+                tr: to look up
+              - t: levantar la voz
+                tr: to raise one's voice
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put up}, to {a_link|erect} (a building, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give a boost to '
+          - - vis
+            - - t: "me levant\xF3 el \xE1nimo"
+                tr: it lifted my spirits
+              - t: "un plan para levantar al pa\xEDs"
+                tr: a plan to get the country back on its feet
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lift} (an embargo, etc.), to {a_link|call off} (a strike,
+              etc.), to {a_link|adjourn} (a meeting, etc.)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give rise to}, to {a_link|arouse} '
+          - - vis
+            - - t: levantar sospechas
+                tr: to arouse suspicion
+              - t: "levantar una pol\xE9mica"
+                tr: to spark controversy
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get back on one''s feet, to {a_link|recover}'
+          sn: '6'
+          vrs:
+          - va: levantar cabeza
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|rise}, to {a_link|stand up}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get out of bed, to {a_link|get up} '
+            - - vis
+              - - t: se levanta a las seis
+                  tr: he gets up at six
+            sn: '2'
+    drp: levantarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: levantar
+    prs:
+    - sound:
+        audio: levan02sp
+  meta:
+    id: levantar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613694000'
+    src: spanish
+    stems:
+    - levantar
+    - levantar cabeza
+    - levantarse
+    uuid: 87ce4f50-316e-4110-813a-013080bcb4fd
+  shortdef:
+  - 'alzar : to lift, to raise'
+  - to put up, to erect (a building, etc.)
+  - to give a boost to
+  suppl:
+    cjts:
+    - cjfs:
+      - levantando
+      - levantado
+      cjid: gppt
+    - cjfs:
+      - levanto
+      - levantas
+      - levanta
+      - levantamos
+      - "levant\xE1is"
+      - levantan
+      cjid: pind
+    - cjfs:
+      - levantaba
+      - levantabas
+      - levantaba
+      - "levant\xE1bamos"
+      - levantabais
+      - levantaban
+      cjid: pret
+    - cjfs:
+      - "levant\xE9"
+      - levantaste
+      - "levant\xF3"
+      - levantamos
+      - levantasteis
+      - levantaron
+      cjid: pprf
+    - cjfs:
+      - "levantar\xE9"
+      - "levantar\xE1s"
+      - "levantar\xE1"
+      - levantaremos
+      - "levantar\xE9is"
+      - "levantar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "levantar\xEDa"
+      - "levantar\xEDas"
+      - "levantar\xEDa"
+      - "levantar\xEDamos"
+      - "levantar\xEDais"
+      - "levantar\xEDan"
+      cjid: cond
+    - cjfs:
+      - levante
+      - levantes
+      - levante
+      - levantemos
+      - "levant\xE9is"
+      - levanten
+      cjid: psub
+    - cjfs:
+      - levantara
+      - levantaras
+      - levantara
+      - "levant\xE1ramos"
+      - levantarais
+      - levantaran
+      cjid: pisb1
+    - cjfs:
+      - levantase
+      - levantases
+      - levantase
+      - "levant\xE1semos"
+      - levantaseis
+      - levantasen
+      cjid: pisb2
+    - cjfs:
+      - levantare
+      - levantares
+      - levantare
+      - "levant\xE1remos"
+      - levantareis
+      - levantaren
+      cjid: fsub
+    - cjfs:
+      - he levantado
+      - has levantado
+      - ha levantado
+      - hemos levantado
+      - "hab\xE9is levantado"
+      - han levantado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa levantado"
+      - "hab\xEDas levantado"
+      - "hab\xEDa levantado"
+      - "hab\xEDamos levantado"
+      - "hab\xEDais levantado"
+      - "hab\xEDan levantado"
+      cjid: ppsi
+    - cjfs:
+      - hube levantado
+      - hubiste levantado
+      - hubo levantado
+      - hubimos levantado
+      - hubisteis levantado
+      - hubieron levantado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 levantado"
+      - "habr\xE1s levantado"
+      - "habr\xE1 levantado"
+      - habremos levantado
+      - "habr\xE9is levantado"
+      - "habr\xE1n levantado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa levantado"
+      - "habr\xEDas levantado"
+      - "habr\xEDa levantado"
+      - "habr\xEDamos levantado"
+      - "habr\xEDais levantado"
+      - "habr\xEDan levantado"
+      cjid: cpef
+    - cjfs:
+      - haya levantado
+      - hayas levantado
+      - haya levantado
+      - hayamos levantado
+      - "hay\xE1is levantado"
+      - hayan levantado
+      cjid: ppfs
+    - cjfs:
+      - hubiera levantado
+      - hubieras levantado
+      - hubiera levantado
+      - "hubi\xE9ramos levantado"
+      - hubierais levantado
+      - hubieran levantado
+      cjid: ppss1
+    - cjfs:
+      - hubiese levantado
+      - hubieses levantado
+      - hubiese levantado
+      - "hubi\xE9semos levantado"
+      - hubieseis levantado
+      - hubiesen levantado
+      cjid: ppss2
+    - cjfs:
+      - hubiere levantado
+      - hubieres levantado
+      - hubiere levantado
+      - "hubi\xE9remos levantado"
+      - hubiereis levantado
+      - hubieren levantado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - levanta
+      - levante
+      - levantemos
+      - levantad
+      - levanten
+      cjid: impf

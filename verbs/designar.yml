@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|nombrar||} {bc}to {a_link|designate}, to {a_link|appoint}, to {a_link|name}'
+  fl: transitive verb
+  hwi:
+    hw: designar
+    prs:
+    - sound:
+        audio: desig01sp
+  meta:
+    id: designar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607138000'
+    src: spanish
+    stems:
+    - designar
+    uuid: b1443ab8-ad5d-41c9-a870-e65790ae9654
+  shortdef:
+  - 'nombrar : to designate, to appoint, to name'
+  suppl:
+    cjts:
+    - cjfs:
+      - designando
+      - designado
+      cjid: gppt
+    - cjfs:
+      - designo
+      - designas
+      - designa
+      - designamos
+      - "design\xE1is"
+      - designan
+      cjid: pind
+    - cjfs:
+      - designaba
+      - designabas
+      - designaba
+      - "design\xE1bamos"
+      - designabais
+      - designaban
+      cjid: pret
+    - cjfs:
+      - "design\xE9"
+      - designaste
+      - "design\xF3"
+      - designamos
+      - designasteis
+      - designaron
+      cjid: pprf
+    - cjfs:
+      - "designar\xE9"
+      - "designar\xE1s"
+      - "designar\xE1"
+      - designaremos
+      - "designar\xE9is"
+      - "designar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "designar\xEDa"
+      - "designar\xEDas"
+      - "designar\xEDa"
+      - "designar\xEDamos"
+      - "designar\xEDais"
+      - "designar\xEDan"
+      cjid: cond
+    - cjfs:
+      - designe
+      - designes
+      - designe
+      - designemos
+      - "design\xE9is"
+      - designen
+      cjid: psub
+    - cjfs:
+      - designara
+      - designaras
+      - designara
+      - "design\xE1ramos"
+      - designarais
+      - designaran
+      cjid: pisb1
+    - cjfs:
+      - designase
+      - designases
+      - designase
+      - "design\xE1semos"
+      - designaseis
+      - designasen
+      cjid: pisb2
+    - cjfs:
+      - designare
+      - designares
+      - designare
+      - "design\xE1remos"
+      - designareis
+      - designaren
+      cjid: fsub
+    - cjfs:
+      - he designado
+      - has designado
+      - ha designado
+      - hemos designado
+      - "hab\xE9is designado"
+      - han designado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa designado"
+      - "hab\xEDas designado"
+      - "hab\xEDa designado"
+      - "hab\xEDamos designado"
+      - "hab\xEDais designado"
+      - "hab\xEDan designado"
+      cjid: ppsi
+    - cjfs:
+      - hube designado
+      - hubiste designado
+      - hubo designado
+      - hubimos designado
+      - hubisteis designado
+      - hubieron designado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 designado"
+      - "habr\xE1s designado"
+      - "habr\xE1 designado"
+      - habremos designado
+      - "habr\xE9is designado"
+      - "habr\xE1n designado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa designado"
+      - "habr\xEDas designado"
+      - "habr\xEDa designado"
+      - "habr\xEDamos designado"
+      - "habr\xEDais designado"
+      - "habr\xEDan designado"
+      cjid: cpef
+    - cjfs:
+      - haya designado
+      - hayas designado
+      - haya designado
+      - hayamos designado
+      - "hay\xE1is designado"
+      - hayan designado
+      cjid: ppfs
+    - cjfs:
+      - hubiera designado
+      - hubieras designado
+      - hubiera designado
+      - "hubi\xE9ramos designado"
+      - hubierais designado
+      - hubieran designado
+      cjid: ppss1
+    - cjfs:
+      - hubiese designado
+      - hubieses designado
+      - hubiese designado
+      - "hubi\xE9semos designado"
+      - hubieseis designado
+      - hubiesen designado
+      cjid: ppss2
+    - cjfs:
+      - hubiere designado
+      - hubieres designado
+      - hubiere designado
+      - "hubi\xE9remos designado"
+      - hubiereis designado
+      - hubieren designado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - designa
+      - designe
+      - designemos
+      - designad
+      - designen
+      cjid: impf

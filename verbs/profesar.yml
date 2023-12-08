@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|profess}, to {a_link|declare}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|practice}, to {a_link|exercise}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: profesar
+  meta:
+    id: profesar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618208000'
+    src: spanish
+    stems:
+    - profesar
+    uuid: 598c992d-f2c2-4d08-8a23-afadbe9da6b6
+  shortdef:
+  - to profess, to declare
+  - to practice, to exercise
+  suppl:
+    cjts:
+    - cjfs:
+      - profesando
+      - profesado
+      cjid: gppt
+    - cjfs:
+      - profeso
+      - profesas
+      - profesa
+      - profesamos
+      - "profes\xE1is"
+      - profesan
+      cjid: pind
+    - cjfs:
+      - profesaba
+      - profesabas
+      - profesaba
+      - "profes\xE1bamos"
+      - profesabais
+      - profesaban
+      cjid: pret
+    - cjfs:
+      - "profes\xE9"
+      - profesaste
+      - "profes\xF3"
+      - profesamos
+      - profesasteis
+      - profesaron
+      cjid: pprf
+    - cjfs:
+      - "profesar\xE9"
+      - "profesar\xE1s"
+      - "profesar\xE1"
+      - profesaremos
+      - "profesar\xE9is"
+      - "profesar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "profesar\xEDa"
+      - "profesar\xEDas"
+      - "profesar\xEDa"
+      - "profesar\xEDamos"
+      - "profesar\xEDais"
+      - "profesar\xEDan"
+      cjid: cond
+    - cjfs:
+      - profese
+      - profeses
+      - profese
+      - profesemos
+      - "profes\xE9is"
+      - profesen
+      cjid: psub
+    - cjfs:
+      - profesara
+      - profesaras
+      - profesara
+      - "profes\xE1ramos"
+      - profesarais
+      - profesaran
+      cjid: pisb1
+    - cjfs:
+      - profesase
+      - profesases
+      - profesase
+      - "profes\xE1semos"
+      - profesaseis
+      - profesasen
+      cjid: pisb2
+    - cjfs:
+      - profesare
+      - profesares
+      - profesare
+      - "profes\xE1remos"
+      - profesareis
+      - profesaren
+      cjid: fsub
+    - cjfs:
+      - he profesado
+      - has profesado
+      - ha profesado
+      - hemos profesado
+      - "hab\xE9is profesado"
+      - han profesado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa profesado"
+      - "hab\xEDas profesado"
+      - "hab\xEDa profesado"
+      - "hab\xEDamos profesado"
+      - "hab\xEDais profesado"
+      - "hab\xEDan profesado"
+      cjid: ppsi
+    - cjfs:
+      - hube profesado
+      - hubiste profesado
+      - hubo profesado
+      - hubimos profesado
+      - hubisteis profesado
+      - hubieron profesado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 profesado"
+      - "habr\xE1s profesado"
+      - "habr\xE1 profesado"
+      - habremos profesado
+      - "habr\xE9is profesado"
+      - "habr\xE1n profesado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa profesado"
+      - "habr\xEDas profesado"
+      - "habr\xEDa profesado"
+      - "habr\xEDamos profesado"
+      - "habr\xEDais profesado"
+      - "habr\xEDan profesado"
+      cjid: cpef
+    - cjfs:
+      - haya profesado
+      - hayas profesado
+      - haya profesado
+      - hayamos profesado
+      - "hay\xE1is profesado"
+      - hayan profesado
+      cjid: ppfs
+    - cjfs:
+      - hubiera profesado
+      - hubieras profesado
+      - hubiera profesado
+      - "hubi\xE9ramos profesado"
+      - hubierais profesado
+      - hubieran profesado
+      cjid: ppss1
+    - cjfs:
+      - hubiese profesado
+      - hubieses profesado
+      - hubiese profesado
+      - "hubi\xE9semos profesado"
+      - hubieseis profesado
+      - hubiesen profesado
+      cjid: ppss2
+    - cjfs:
+      - hubiere profesado
+      - hubieres profesado
+      - hubiere profesado
+      - "hubi\xE9remos profesado"
+      - hubiereis profesado
+      - hubieren profesado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - profesa
+      - profese
+      - profesemos
+      - profesad
+      - profesen
+      cjid: impf

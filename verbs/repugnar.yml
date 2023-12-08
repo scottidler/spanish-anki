@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cause repugnance, to {a_link|disgust}'
+  fl: transitive verb
+  hwi:
+    hw: repugnar
+  meta:
+    id: repugnar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619511000'
+    src: spanish
+    stems:
+    - repugnar
+    - repugnarse
+    uuid: 42e04401-0eb8-4506-b291-02e79909f43d
+  shortdef:
+  - to cause repugnance, to disgust
+  suppl:
+    cjts:
+    - cjfs:
+      - repugnando
+      - repugnado
+      cjid: gppt
+    - cjfs:
+      - repugno
+      - repugnas
+      - repugna
+      - repugnamos
+      - "repugn\xE1is"
+      - repugnan
+      cjid: pind
+    - cjfs:
+      - repugnaba
+      - repugnabas
+      - repugnaba
+      - "repugn\xE1bamos"
+      - repugnabais
+      - repugnaban
+      cjid: pret
+    - cjfs:
+      - "repugn\xE9"
+      - repugnaste
+      - "repugn\xF3"
+      - repugnamos
+      - repugnasteis
+      - repugnaron
+      cjid: pprf
+    - cjfs:
+      - "repugnar\xE9"
+      - "repugnar\xE1s"
+      - "repugnar\xE1"
+      - repugnaremos
+      - "repugnar\xE9is"
+      - "repugnar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "repugnar\xEDa"
+      - "repugnar\xEDas"
+      - "repugnar\xEDa"
+      - "repugnar\xEDamos"
+      - "repugnar\xEDais"
+      - "repugnar\xEDan"
+      cjid: cond
+    - cjfs:
+      - repugne
+      - repugnes
+      - repugne
+      - repugnemos
+      - "repugn\xE9is"
+      - repugnen
+      cjid: psub
+    - cjfs:
+      - repugnara
+      - repugnaras
+      - repugnara
+      - "repugn\xE1ramos"
+      - repugnarais
+      - repugnaran
+      cjid: pisb1
+    - cjfs:
+      - repugnase
+      - repugnases
+      - repugnase
+      - "repugn\xE1semos"
+      - repugnaseis
+      - repugnasen
+      cjid: pisb2
+    - cjfs:
+      - repugnare
+      - repugnares
+      - repugnare
+      - "repugn\xE1remos"
+      - repugnareis
+      - repugnaren
+      cjid: fsub
+    - cjfs:
+      - he repugnado
+      - has repugnado
+      - ha repugnado
+      - hemos repugnado
+      - "hab\xE9is repugnado"
+      - han repugnado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa repugnado"
+      - "hab\xEDas repugnado"
+      - "hab\xEDa repugnado"
+      - "hab\xEDamos repugnado"
+      - "hab\xEDais repugnado"
+      - "hab\xEDan repugnado"
+      cjid: ppsi
+    - cjfs:
+      - hube repugnado
+      - hubiste repugnado
+      - hubo repugnado
+      - hubimos repugnado
+      - hubisteis repugnado
+      - hubieron repugnado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 repugnado"
+      - "habr\xE1s repugnado"
+      - "habr\xE1 repugnado"
+      - habremos repugnado
+      - "habr\xE9is repugnado"
+      - "habr\xE1n repugnado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa repugnado"
+      - "habr\xEDas repugnado"
+      - "habr\xEDa repugnado"
+      - "habr\xEDamos repugnado"
+      - "habr\xEDais repugnado"
+      - "habr\xEDan repugnado"
+      cjid: cpef
+    - cjfs:
+      - haya repugnado
+      - hayas repugnado
+      - haya repugnado
+      - hayamos repugnado
+      - "hay\xE1is repugnado"
+      - hayan repugnado
+      cjid: ppfs
+    - cjfs:
+      - hubiera repugnado
+      - hubieras repugnado
+      - hubiera repugnado
+      - "hubi\xE9ramos repugnado"
+      - hubierais repugnado
+      - hubieran repugnado
+      cjid: ppss1
+    - cjfs:
+      - hubiese repugnado
+      - hubieses repugnado
+      - hubiese repugnado
+      - "hubi\xE9semos repugnado"
+      - hubieseis repugnado
+      - hubiesen repugnado
+      cjid: ppss2
+    - cjfs:
+      - hubiere repugnado
+      - hubieres repugnado
+      - hubiere repugnado
+      - "hubi\xE9remos repugnado"
+      - hubiereis repugnado
+      - hubieren repugnado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - repugna
+      - repugne
+      - repugnemos
+      - repugnad
+      - repugnen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: repugnarse

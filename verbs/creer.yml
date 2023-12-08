@@ -1,0 +1,227 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|believe} '
+          - - vis
+            - - t: creer en
+                tr: to believe in
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|think}, to {a_link|suppose} '
+          - - vis
+            - - t: "creo que s\xED"
+                tr: I think so
+              - t: creo que no
+                tr: I don't think so
+              - t: no creo que sea necesario
+                tr: I don't think it's necessary
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}of course!, indeed!'
+          sn: '3'
+          vrs:
+          - va: "\xA1ya lo creo!"
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|believe}, to {a_link|think}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to regard oneself as '
+            - - vis
+              - - t: se cree muy guapo
+                  tr: he thinks he's so handsome
+            sn: '2'
+    drp: creerse
+    fl: reflexive verb
+  fl: verb
+  hwi:
+    hw: creer
+    prs:
+    - sound:
+        audio: creer01sp
+  meta:
+    id: creer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606081000'
+    src: spanish
+    stems:
+    - creer
+    - "\xA1ya lo creo!"
+    - creerse
+    uuid: 75cdfaf5-f316-4538-bfc0-0bf231fc29d2
+  shortdef:
+  - to believe
+  - to think, to suppose
+  - of course!, indeed!
+  suppl:
+    cjts:
+    - cjfs:
+      - creyendo
+      - "cre\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - creo
+      - crees
+      - cree
+      - creemos
+      - "cre\xE9is"
+      - creen
+      cjid: pind
+    - cjfs:
+      - "cre\xEDa"
+      - "cre\xEDas"
+      - "cre\xEDa"
+      - "cre\xEDamos"
+      - "cre\xEDais"
+      - "cre\xEDan"
+      cjid: pret
+    - cjfs:
+      - "cre\xED"
+      - "cre\xEDste"
+      - "crey\xF3"
+      - "cre\xEDmos"
+      - "cre\xEDsteis"
+      - creyeron
+      cjid: pprf
+    - cjfs:
+      - "creer\xE9"
+      - "creer\xE1s"
+      - "creer\xE1"
+      - creeremos
+      - "creer\xE9is"
+      - "creer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "creer\xEDa"
+      - "creer\xEDas"
+      - "creer\xEDa"
+      - "creer\xEDamos"
+      - "creer\xEDais"
+      - "creer\xEDan"
+      cjid: cond
+    - cjfs:
+      - crea
+      - creas
+      - crea
+      - creamos
+      - "cre\xE1is"
+      - crean
+      cjid: psub
+    - cjfs:
+      - creyera
+      - creyeras
+      - creyera
+      - "crey\xE9ramos"
+      - creyerais
+      - creyeran
+      cjid: pisb1
+    - cjfs:
+      - creyese
+      - creyeses
+      - creyese
+      - "crey\xE9semos"
+      - creyeseis
+      - creyesen
+      cjid: pisb2
+    - cjfs:
+      - creyere
+      - creyeres
+      - creyere
+      - "crey\xE9remos"
+      - creyereis
+      - creyeren
+      cjid: fsub
+    - cjfs:
+      - "he cre\xEDdo"
+      - "has cre\xEDdo"
+      - "ha cre\xEDdo"
+      - "hemos cre\xEDdo"
+      - "hab\xE9is cre\xEDdo"
+      - "han cre\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cre\xEDdo"
+      - "hab\xEDas cre\xEDdo"
+      - "hab\xEDa cre\xEDdo"
+      - "hab\xEDamos cre\xEDdo"
+      - "hab\xEDais cre\xEDdo"
+      - "hab\xEDan cre\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube cre\xEDdo"
+      - "hubiste cre\xEDdo"
+      - "hubo cre\xEDdo"
+      - "hubimos cre\xEDdo"
+      - "hubisteis cre\xEDdo"
+      - "hubieron cre\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cre\xEDdo"
+      - "habr\xE1s cre\xEDdo"
+      - "habr\xE1 cre\xEDdo"
+      - "habremos cre\xEDdo"
+      - "habr\xE9is cre\xEDdo"
+      - "habr\xE1n cre\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cre\xEDdo"
+      - "habr\xEDas cre\xEDdo"
+      - "habr\xEDa cre\xEDdo"
+      - "habr\xEDamos cre\xEDdo"
+      - "habr\xEDais cre\xEDdo"
+      - "habr\xEDan cre\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya cre\xEDdo"
+      - "hayas cre\xEDdo"
+      - "haya cre\xEDdo"
+      - "hayamos cre\xEDdo"
+      - "hay\xE1is cre\xEDdo"
+      - "hayan cre\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera cre\xEDdo"
+      - "hubieras cre\xEDdo"
+      - "hubiera cre\xEDdo"
+      - "hubi\xE9ramos cre\xEDdo"
+      - "hubierais cre\xEDdo"
+      - "hubieran cre\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese cre\xEDdo"
+      - "hubieses cre\xEDdo"
+      - "hubiese cre\xEDdo"
+      - "hubi\xE9semos cre\xEDdo"
+      - "hubieseis cre\xEDdo"
+      - "hubiesen cre\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere cre\xEDdo"
+      - "hubieres cre\xEDdo"
+      - "hubiere cre\xEDdo"
+      - "hubi\xE9remos cre\xEDdo"
+      - "hubiereis cre\xEDdo"
+      - "hubieren cre\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cree
+      - crea
+      - creamos
+      - creed
+      - crean
+      cjid: impf

@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|relate}, to {a_link|connect}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be connected to, to be linked with'
+            vrs:
+            - va: relacionarse con
+              vac: ~ con
+    drp: relacionarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: relacionar
+    prs:
+    - sound:
+        audio: relac02sp
+  meta:
+    id: relacionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619280000'
+    src: spanish
+    stems:
+    - relacionar
+    - relacionarse
+    - relacionarse con
+    uuid: c7ec0aff-cb62-4d89-8aac-aa80cb54c588
+  shortdef:
+  - to relate, to connect
+  suppl:
+    cjts:
+    - cjfs:
+      - relacionando
+      - relacionado
+      cjid: gppt
+    - cjfs:
+      - relaciono
+      - relacionas
+      - relaciona
+      - relacionamos
+      - "relacion\xE1is"
+      - relacionan
+      cjid: pind
+    - cjfs:
+      - relacionaba
+      - relacionabas
+      - relacionaba
+      - "relacion\xE1bamos"
+      - relacionabais
+      - relacionaban
+      cjid: pret
+    - cjfs:
+      - "relacion\xE9"
+      - relacionaste
+      - "relacion\xF3"
+      - relacionamos
+      - relacionasteis
+      - relacionaron
+      cjid: pprf
+    - cjfs:
+      - "relacionar\xE9"
+      - "relacionar\xE1s"
+      - "relacionar\xE1"
+      - relacionaremos
+      - "relacionar\xE9is"
+      - "relacionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "relacionar\xEDa"
+      - "relacionar\xEDas"
+      - "relacionar\xEDa"
+      - "relacionar\xEDamos"
+      - "relacionar\xEDais"
+      - "relacionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - relacione
+      - relaciones
+      - relacione
+      - relacionemos
+      - "relacion\xE9is"
+      - relacionen
+      cjid: psub
+    - cjfs:
+      - relacionara
+      - relacionaras
+      - relacionara
+      - "relacion\xE1ramos"
+      - relacionarais
+      - relacionaran
+      cjid: pisb1
+    - cjfs:
+      - relacionase
+      - relacionases
+      - relacionase
+      - "relacion\xE1semos"
+      - relacionaseis
+      - relacionasen
+      cjid: pisb2
+    - cjfs:
+      - relacionare
+      - relacionares
+      - relacionare
+      - "relacion\xE1remos"
+      - relacionareis
+      - relacionaren
+      cjid: fsub
+    - cjfs:
+      - he relacionado
+      - has relacionado
+      - ha relacionado
+      - hemos relacionado
+      - "hab\xE9is relacionado"
+      - han relacionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa relacionado"
+      - "hab\xEDas relacionado"
+      - "hab\xEDa relacionado"
+      - "hab\xEDamos relacionado"
+      - "hab\xEDais relacionado"
+      - "hab\xEDan relacionado"
+      cjid: ppsi
+    - cjfs:
+      - hube relacionado
+      - hubiste relacionado
+      - hubo relacionado
+      - hubimos relacionado
+      - hubisteis relacionado
+      - hubieron relacionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 relacionado"
+      - "habr\xE1s relacionado"
+      - "habr\xE1 relacionado"
+      - habremos relacionado
+      - "habr\xE9is relacionado"
+      - "habr\xE1n relacionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa relacionado"
+      - "habr\xEDas relacionado"
+      - "habr\xEDa relacionado"
+      - "habr\xEDamos relacionado"
+      - "habr\xEDais relacionado"
+      - "habr\xEDan relacionado"
+      cjid: cpef
+    - cjfs:
+      - haya relacionado
+      - hayas relacionado
+      - haya relacionado
+      - hayamos relacionado
+      - "hay\xE1is relacionado"
+      - hayan relacionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera relacionado
+      - hubieras relacionado
+      - hubiera relacionado
+      - "hubi\xE9ramos relacionado"
+      - hubierais relacionado
+      - hubieran relacionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese relacionado
+      - hubieses relacionado
+      - hubiese relacionado
+      - "hubi\xE9semos relacionado"
+      - hubieseis relacionado
+      - hubiesen relacionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere relacionado
+      - hubieres relacionado
+      - hubiere relacionado
+      - "hubi\xE9remos relacionado"
+      - hubiereis relacionado
+      - hubieren relacionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - relaciona
+      - relacione
+      - relacionemos
+      - relacionad
+      - relacionen
+      cjid: impf

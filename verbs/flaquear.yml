@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|decaer||} {bc}to {a_link|flag}, to {a_link|weaken}'
+  fl: intransitive verb
+  hwi:
+    hw: flaquear
+  meta:
+    id: flaquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610192000'
+    src: spanish
+    stems:
+    - flaquear
+    uuid: 9c7fe19e-1e16-407b-916a-eb6128b5ddb3
+  shortdef:
+  - 'decaer : to flag, to weaken'
+  suppl:
+    cjts:
+    - cjfs:
+      - flaqueando
+      - flaqueado
+      cjid: gppt
+    - cjfs:
+      - flaqueo
+      - flaqueas
+      - flaquea
+      - flaqueamos
+      - "flaque\xE1is"
+      - flaquean
+      cjid: pind
+    - cjfs:
+      - flaqueaba
+      - flaqueabas
+      - flaqueaba
+      - "flaque\xE1bamos"
+      - flaqueabais
+      - flaqueaban
+      cjid: pret
+    - cjfs:
+      - "flaque\xE9"
+      - flaqueaste
+      - "flaque\xF3"
+      - flaqueamos
+      - flaqueasteis
+      - flaquearon
+      cjid: pprf
+    - cjfs:
+      - "flaquear\xE9"
+      - "flaquear\xE1s"
+      - "flaquear\xE1"
+      - flaquearemos
+      - "flaquear\xE9is"
+      - "flaquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "flaquear\xEDa"
+      - "flaquear\xEDas"
+      - "flaquear\xEDa"
+      - "flaquear\xEDamos"
+      - "flaquear\xEDais"
+      - "flaquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - flaquee
+      - flaquees
+      - flaquee
+      - flaqueemos
+      - "flaque\xE9is"
+      - flaqueen
+      cjid: psub
+    - cjfs:
+      - flaqueara
+      - flaquearas
+      - flaqueara
+      - "flaque\xE1ramos"
+      - flaquearais
+      - flaquearan
+      cjid: pisb1
+    - cjfs:
+      - flaquease
+      - flaqueases
+      - flaquease
+      - "flaque\xE1semos"
+      - flaqueaseis
+      - flaqueasen
+      cjid: pisb2
+    - cjfs:
+      - flaqueare
+      - flaqueares
+      - flaqueare
+      - "flaque\xE1remos"
+      - flaqueareis
+      - flaquearen
+      cjid: fsub
+    - cjfs:
+      - he flaqueado
+      - has flaqueado
+      - ha flaqueado
+      - hemos flaqueado
+      - "hab\xE9is flaqueado"
+      - han flaqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa flaqueado"
+      - "hab\xEDas flaqueado"
+      - "hab\xEDa flaqueado"
+      - "hab\xEDamos flaqueado"
+      - "hab\xEDais flaqueado"
+      - "hab\xEDan flaqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube flaqueado
+      - hubiste flaqueado
+      - hubo flaqueado
+      - hubimos flaqueado
+      - hubisteis flaqueado
+      - hubieron flaqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 flaqueado"
+      - "habr\xE1s flaqueado"
+      - "habr\xE1 flaqueado"
+      - habremos flaqueado
+      - "habr\xE9is flaqueado"
+      - "habr\xE1n flaqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa flaqueado"
+      - "habr\xEDas flaqueado"
+      - "habr\xEDa flaqueado"
+      - "habr\xEDamos flaqueado"
+      - "habr\xEDais flaqueado"
+      - "habr\xEDan flaqueado"
+      cjid: cpef
+    - cjfs:
+      - haya flaqueado
+      - hayas flaqueado
+      - haya flaqueado
+      - hayamos flaqueado
+      - "hay\xE1is flaqueado"
+      - hayan flaqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera flaqueado
+      - hubieras flaqueado
+      - hubiera flaqueado
+      - "hubi\xE9ramos flaqueado"
+      - hubierais flaqueado
+      - hubieran flaqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese flaqueado
+      - hubieses flaqueado
+      - hubiese flaqueado
+      - "hubi\xE9semos flaqueado"
+      - hubieseis flaqueado
+      - hubiesen flaqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere flaqueado
+      - hubieres flaqueado
+      - hubiere flaqueado
+      - "hubi\xE9remos flaqueado"
+      - hubiereis flaqueado
+      - hubieren flaqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - flaquea
+      - flaquee
+      - flaqueemos
+      - flaquead
+      - flaqueen
+      cjid: impf

@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pose}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|place}, to {a_link|lay}'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|land}, to {a_link|light}, to {a_link|perch}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|settle}, to {a_link|rest}'
+            sn: '2'
+    drp: posarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: posar
+    prs:
+    - sound:
+        audio: posar01sp
+  meta:
+    id: posar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617797000'
+    src: spanish
+    stems:
+    - posar
+    - posarse
+    uuid: f265faff-6abe-4cda-b34b-52092d637163
+  shortdef:
+  - to pose
+  - to place, to lay
+  suppl:
+    cjts:
+    - cjfs:
+      - posando
+      - posado
+      cjid: gppt
+    - cjfs:
+      - poso
+      - posas
+      - posa
+      - posamos
+      - "pos\xE1is"
+      - posan
+      cjid: pind
+    - cjfs:
+      - posaba
+      - posabas
+      - posaba
+      - "pos\xE1bamos"
+      - posabais
+      - posaban
+      cjid: pret
+    - cjfs:
+      - "pos\xE9"
+      - posaste
+      - "pos\xF3"
+      - posamos
+      - posasteis
+      - posaron
+      cjid: pprf
+    - cjfs:
+      - "posar\xE9"
+      - "posar\xE1s"
+      - "posar\xE1"
+      - posaremos
+      - "posar\xE9is"
+      - "posar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "posar\xEDa"
+      - "posar\xEDas"
+      - "posar\xEDa"
+      - "posar\xEDamos"
+      - "posar\xEDais"
+      - "posar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pose
+      - poses
+      - pose
+      - posemos
+      - "pos\xE9is"
+      - posen
+      cjid: psub
+    - cjfs:
+      - posara
+      - posaras
+      - posara
+      - "pos\xE1ramos"
+      - posarais
+      - posaran
+      cjid: pisb1
+    - cjfs:
+      - posase
+      - posases
+      - posase
+      - "pos\xE1semos"
+      - posaseis
+      - posasen
+      cjid: pisb2
+    - cjfs:
+      - posare
+      - posares
+      - posare
+      - "pos\xE1remos"
+      - posareis
+      - posaren
+      cjid: fsub
+    - cjfs:
+      - he posado
+      - has posado
+      - ha posado
+      - hemos posado
+      - "hab\xE9is posado"
+      - han posado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa posado"
+      - "hab\xEDas posado"
+      - "hab\xEDa posado"
+      - "hab\xEDamos posado"
+      - "hab\xEDais posado"
+      - "hab\xEDan posado"
+      cjid: ppsi
+    - cjfs:
+      - hube posado
+      - hubiste posado
+      - hubo posado
+      - hubimos posado
+      - hubisteis posado
+      - hubieron posado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 posado"
+      - "habr\xE1s posado"
+      - "habr\xE1 posado"
+      - habremos posado
+      - "habr\xE9is posado"
+      - "habr\xE1n posado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa posado"
+      - "habr\xEDas posado"
+      - "habr\xEDa posado"
+      - "habr\xEDamos posado"
+      - "habr\xEDais posado"
+      - "habr\xEDan posado"
+      cjid: cpef
+    - cjfs:
+      - haya posado
+      - hayas posado
+      - haya posado
+      - hayamos posado
+      - "hay\xE1is posado"
+      - hayan posado
+      cjid: ppfs
+    - cjfs:
+      - hubiera posado
+      - hubieras posado
+      - hubiera posado
+      - "hubi\xE9ramos posado"
+      - hubierais posado
+      - hubieran posado
+      cjid: ppss1
+    - cjfs:
+      - hubiese posado
+      - hubieses posado
+      - hubiese posado
+      - "hubi\xE9semos posado"
+      - hubieseis posado
+      - hubiesen posado
+      cjid: ppss2
+    - cjfs:
+      - hubiere posado
+      - hubieres posado
+      - hubiere posado
+      - "hubi\xE9remos posado"
+      - hubiereis posado
+      - hubieren posado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - posa
+      - pose
+      - posemos
+      - posad
+      - posen
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to differentiate between, to {a_link|distinguish}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|differ}'
+    drp: diferenciarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: diferenciar
+    prs:
+    - sound:
+        audio: difer02sp
+  meta:
+    id: diferenciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607546000'
+    src: spanish
+    stems:
+    - diferenciar
+    - diferenciarse
+    uuid: 29f2acec-9a82-4be6-9756-b0b9374107b1
+  shortdef:
+  - to differentiate between, to distinguish
+  suppl:
+    cjts:
+    - cjfs:
+      - diferenciando
+      - diferenciado
+      cjid: gppt
+    - cjfs:
+      - diferencio
+      - diferencias
+      - diferencia
+      - diferenciamos
+      - "diferenci\xE1is"
+      - diferencian
+      cjid: pind
+    - cjfs:
+      - diferenciaba
+      - diferenciabas
+      - diferenciaba
+      - "diferenci\xE1bamos"
+      - diferenciabais
+      - diferenciaban
+      cjid: pret
+    - cjfs:
+      - "diferenci\xE9"
+      - diferenciaste
+      - "diferenci\xF3"
+      - diferenciamos
+      - diferenciasteis
+      - diferenciaron
+      cjid: pprf
+    - cjfs:
+      - "diferenciar\xE9"
+      - "diferenciar\xE1s"
+      - "diferenciar\xE1"
+      - diferenciaremos
+      - "diferenciar\xE9is"
+      - "diferenciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "diferenciar\xEDa"
+      - "diferenciar\xEDas"
+      - "diferenciar\xEDa"
+      - "diferenciar\xEDamos"
+      - "diferenciar\xEDais"
+      - "diferenciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - diferencie
+      - diferencies
+      - diferencie
+      - diferenciemos
+      - "diferenci\xE9is"
+      - diferencien
+      cjid: psub
+    - cjfs:
+      - diferenciara
+      - diferenciaras
+      - diferenciara
+      - "diferenci\xE1ramos"
+      - diferenciarais
+      - diferenciaran
+      cjid: pisb1
+    - cjfs:
+      - diferenciase
+      - diferenciases
+      - diferenciase
+      - "diferenci\xE1semos"
+      - diferenciaseis
+      - diferenciasen
+      cjid: pisb2
+    - cjfs:
+      - diferenciare
+      - diferenciares
+      - diferenciare
+      - "diferenci\xE1remos"
+      - diferenciareis
+      - diferenciaren
+      cjid: fsub
+    - cjfs:
+      - he diferenciado
+      - has diferenciado
+      - ha diferenciado
+      - hemos diferenciado
+      - "hab\xE9is diferenciado"
+      - han diferenciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa diferenciado"
+      - "hab\xEDas diferenciado"
+      - "hab\xEDa diferenciado"
+      - "hab\xEDamos diferenciado"
+      - "hab\xEDais diferenciado"
+      - "hab\xEDan diferenciado"
+      cjid: ppsi
+    - cjfs:
+      - hube diferenciado
+      - hubiste diferenciado
+      - hubo diferenciado
+      - hubimos diferenciado
+      - hubisteis diferenciado
+      - hubieron diferenciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 diferenciado"
+      - "habr\xE1s diferenciado"
+      - "habr\xE1 diferenciado"
+      - habremos diferenciado
+      - "habr\xE9is diferenciado"
+      - "habr\xE1n diferenciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa diferenciado"
+      - "habr\xEDas diferenciado"
+      - "habr\xEDa diferenciado"
+      - "habr\xEDamos diferenciado"
+      - "habr\xEDais diferenciado"
+      - "habr\xEDan diferenciado"
+      cjid: cpef
+    - cjfs:
+      - haya diferenciado
+      - hayas diferenciado
+      - haya diferenciado
+      - hayamos diferenciado
+      - "hay\xE1is diferenciado"
+      - hayan diferenciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera diferenciado
+      - hubieras diferenciado
+      - hubiera diferenciado
+      - "hubi\xE9ramos diferenciado"
+      - hubierais diferenciado
+      - hubieran diferenciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese diferenciado
+      - hubieses diferenciado
+      - hubiese diferenciado
+      - "hubi\xE9semos diferenciado"
+      - hubieseis diferenciado
+      - hubiesen diferenciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere diferenciado
+      - hubieres diferenciado
+      - hubiere diferenciado
+      - "hubi\xE9remos diferenciado"
+      - hubiereis diferenciado
+      - hubieren diferenciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - diferencia
+      - diferencie
+      - diferenciemos
+      - diferenciad
+      - diferencien
+      cjid: impf

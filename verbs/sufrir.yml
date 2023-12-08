@@ -1,0 +1,236 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suffer} '
+          - - vis
+            - - t: "sufrir una p\xE9rdida"
+                tr: to suffer a loss
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tolerate}, to {a_link|put up with} '
+          - - vis
+            - - t: ella no lo puede sufrir
+                tr: she can't stand him
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suffer}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: sufrir
+    prs:
+    - sound:
+        audio: sufri02sp
+  meta:
+    id: sufrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621174000'
+    src: spanish
+    stems:
+    - sufrir
+    uuid: e59d83d9-100a-4903-9e0c-e2d8d239bf89
+  shortdef:
+  - to suffer
+  - to tolerate, to put up with
+  - to suffer
+  suppl:
+    cjts:
+    - cjfs:
+      - sufriendo
+      - sufrido
+      cjid: gppt
+    - cjfs:
+      - sufro
+      - sufres
+      - sufre
+      - sufrimos
+      - "sufr\xEDs"
+      - sufren
+      cjid: pind
+    - cjfs:
+      - "sufr\xEDa"
+      - "sufr\xEDas"
+      - "sufr\xEDa"
+      - "sufr\xEDamos"
+      - "sufr\xEDais"
+      - "sufr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sufr\xED"
+      - sufriste
+      - "sufri\xF3"
+      - sufrimos
+      - sufristeis
+      - sufrieron
+      cjid: pprf
+    - cjfs:
+      - "sufrir\xE9"
+      - "sufrir\xE1s"
+      - "sufrir\xE1"
+      - sufriremos
+      - "sufrir\xE9is"
+      - "sufrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sufrir\xEDa"
+      - "sufrir\xEDas"
+      - "sufrir\xEDa"
+      - "sufrir\xEDamos"
+      - "sufrir\xEDais"
+      - "sufrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - sufra
+      - sufras
+      - sufra
+      - suframos
+      - "sufr\xE1is"
+      - sufran
+      cjid: psub
+    - cjfs:
+      - sufriera
+      - sufrieras
+      - sufriera
+      - "sufri\xE9ramos"
+      - sufrierais
+      - sufrieran
+      cjid: pisb1
+    - cjfs:
+      - sufriese
+      - sufrieses
+      - sufriese
+      - "sufri\xE9semos"
+      - sufrieseis
+      - sufriesen
+      cjid: pisb2
+    - cjfs:
+      - sufriere
+      - sufrieres
+      - sufriere
+      - "sufri\xE9remos"
+      - sufriereis
+      - sufrieren
+      cjid: fsub
+    - cjfs:
+      - he sufrido
+      - has sufrido
+      - ha sufrido
+      - hemos sufrido
+      - "hab\xE9is sufrido"
+      - han sufrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sufrido"
+      - "hab\xEDas sufrido"
+      - "hab\xEDa sufrido"
+      - "hab\xEDamos sufrido"
+      - "hab\xEDais sufrido"
+      - "hab\xEDan sufrido"
+      cjid: ppsi
+    - cjfs:
+      - hube sufrido
+      - hubiste sufrido
+      - hubo sufrido
+      - hubimos sufrido
+      - hubisteis sufrido
+      - hubieron sufrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sufrido"
+      - "habr\xE1s sufrido"
+      - "habr\xE1 sufrido"
+      - habremos sufrido
+      - "habr\xE9is sufrido"
+      - "habr\xE1n sufrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sufrido"
+      - "habr\xEDas sufrido"
+      - "habr\xEDa sufrido"
+      - "habr\xEDamos sufrido"
+      - "habr\xEDais sufrido"
+      - "habr\xEDan sufrido"
+      cjid: cpef
+    - cjfs:
+      - haya sufrido
+      - hayas sufrido
+      - haya sufrido
+      - hayamos sufrido
+      - "hay\xE1is sufrido"
+      - hayan sufrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sufrido
+      - hubieras sufrido
+      - hubiera sufrido
+      - "hubi\xE9ramos sufrido"
+      - hubierais sufrido
+      - hubieran sufrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sufrido
+      - hubieses sufrido
+      - hubiese sufrido
+      - "hubi\xE9semos sufrido"
+      - hubieseis sufrido
+      - hubiesen sufrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sufrido
+      - hubieres sufrido
+      - hubiere sufrido
+      - "hubi\xE9remos sufrido"
+      - hubiereis sufrido
+      - hubieren sufrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sufre
+      - sufra
+      - suframos
+      - sufrid
+      - sufran
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|faint}, fainting'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|faint}'
+          sn: '2'
+          vrs:
+          - va: sufrir un desmayo
+  fl: masculine noun
+  hwi:
+    hw: desmayo
+    prs:
+    - sound:
+        audio: desma05sp
+  meta:
+    id: desmayo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607182000'
+    src: spanish
+    stems:
+    - desmayo
+    - sufrir un desmayo
+    uuid: 41307f85-eee5-472a-8e09-2ed90e8dd520
+  shortdef:
+  - faint, fainting
+  - to faint

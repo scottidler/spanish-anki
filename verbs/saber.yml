@@ -1,0 +1,355 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sable} '
+          - - gl
+            - masculine
+  fl: noun
+  hwi:
+    hw: saber
+    prs:
+    - mw: "\u02C8se\u026Ab\u0259r"
+  meta:
+    id: saber
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2620775000'
+    src: spanish
+    stems:
+    - saber
+    - sabre
+    - sabers
+    - sabres
+    uuid: feda3738-33b3-46b8-ab2f-9b10365e17c2
+  shortdef:
+  - sable
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|know} '
+          - - vis
+            - - t: "no lo s\xE9"
+                tr: I don't know
+              - t: "no s\xE9 qu\xE9 decirte"
+                tr: I don't know what to tell you
+              - t: no sabes lo que te espera
+                tr: you don't know what you're in for
+              - t: saber la respuesta
+                tr: to know the answer
+              - t: "sabe mucho de pol\xEDtica"
+                tr: he knows a lot about politics
+              - t: "\xBFsabes d\xF3nde est\xE1?"
+                tr: do you know where it is?
+              - t: "creo que no, pero \xBFqu\xE9 s\xE9 yo?"
+                tr: I don't think so, but what do I know?
+              - t: "qui\xE9n sabe qu\xE9 va a pasar"
+                tr: who knows what will happen
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to know how to, to be able to '
+          - - vis
+            - - t: "sabe tocar el viol\xEDn"
+                tr: she can play the violin
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|learn}, to {a_link|find out} '
+          - - vis
+            - - t: lo supe ayer
+                tr: I found out yesterday
+              - t: "no s\xE9 nada de ellos"
+                tr: I haven't heard from them
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wit}, {a_link|namely}'
+          sn: '4'
+          vrs:
+          - va: a saber
+            vac: a ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}as far as I know'
+          sn: '5'
+          vrs:
+          - va: que yo sepa
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "diamantes, perlas, y qu\xE9 s\xE9 yo"
+                tr: diamonds, pearls, and whatnot
+              - t: "y qu\xE9 s\xE9 yo d\xF3nde"
+                tr: and who knows where (else)
+          sn: '6'
+          vrs:
+          - va: "qu\xE9 s\xE9 yo"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|know}, to {a_link|suppose} '
+          - - vis
+            - - t: "\xBFqui\xE9n sabe?"
+                tr: who knows?
+              - t: nunca se sabe
+                tr: you never know, one never knows
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be informed '
+          - - vis
+            - - t: supimos del desastre
+                tr: we heard about the disaster
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|taste} '
+          - - vis
+            - - t: esto no sabe bien
+                tr: this doesn't taste right
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to taste like '
+          - - vis
+            - - t: sabe a naranja
+                tr: it tastes like orange
+          sn: '4'
+          vrs:
+          - va: saber a
+            vac: ~ a
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|know} '
+            - - vis
+              - - t: "ese chiste no me lo s\xE9"
+                  tr: I don't know that joke
+    drp: saberse
+    fl: reflexive verb
+  fl: transitive verb
+  hom: 1
+  hwi:
+    hw: saber
+    prs:
+    - sound:
+        audio: saber01sp
+  meta:
+    id: saber:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620047000'
+    src: spanish
+    stems:
+    - saber
+    - a saber
+    - que yo sepa
+    - que se yo
+    - saber a
+    - saberse
+    uuid: 8b3a3605-7c53-4368-9aed-083234553224
+  shortdef:
+  - to know
+  - to know how to, to be able to
+  - to learn, to find out
+  suppl:
+    cjts:
+    - cjfs:
+      - sabiendo
+      - sabido
+      cjid: gppt
+    - cjfs:
+      - "s\xE9"
+      - sabes
+      - sabe
+      - sabemos
+      - "sab\xE9is"
+      - saben
+      cjid: pind
+    - cjfs:
+      - "sab\xEDa"
+      - "sab\xEDas"
+      - "sab\xEDa"
+      - "sab\xEDamos"
+      - "sab\xEDais"
+      - "sab\xEDan"
+      cjid: pret
+    - cjfs:
+      - supe
+      - supiste
+      - supo
+      - supimos
+      - supisteis
+      - supieron
+      cjid: pprf
+    - cjfs:
+      - "sabr\xE9"
+      - "sabr\xE1s"
+      - "sabr\xE1"
+      - sabremos
+      - "sabr\xE9is"
+      - "sabr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sabr\xEDa"
+      - "sabr\xEDas"
+      - "sabr\xEDa"
+      - "sabr\xEDamos"
+      - "sabr\xEDais"
+      - "sabr\xEDan"
+      cjid: cond
+    - cjfs:
+      - sepa
+      - sepas
+      - sepa
+      - sepamos
+      - "sep\xE1is"
+      - sepan
+      cjid: psub
+    - cjfs:
+      - supiera
+      - supieras
+      - supiera
+      - "supi\xE9ramos"
+      - supierais
+      - supieran
+      cjid: pisb1
+    - cjfs:
+      - supiese
+      - supieses
+      - supiese
+      - "supi\xE9semos"
+      - supieseis
+      - supiesen
+      cjid: pisb2
+    - cjfs:
+      - supiere
+      - supieres
+      - supiere
+      - "supi\xE9remos"
+      - supiereis
+      - supieren
+      cjid: fsub
+    - cjfs:
+      - he sabido
+      - has sabido
+      - ha sabido
+      - hemos sabido
+      - "hab\xE9is sabido"
+      - han sabido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sabido"
+      - "hab\xEDas sabido"
+      - "hab\xEDa sabido"
+      - "hab\xEDamos sabido"
+      - "hab\xEDais sabido"
+      - "hab\xEDan sabido"
+      cjid: ppsi
+    - cjfs:
+      - hube sabido
+      - hubiste sabido
+      - hubo sabido
+      - hubimos sabido
+      - hubisteis sabido
+      - hubieron sabido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sabido"
+      - "habr\xE1s sabido"
+      - "habr\xE1 sabido"
+      - habremos sabido
+      - "habr\xE9is sabido"
+      - "habr\xE1n sabido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sabido"
+      - "habr\xEDas sabido"
+      - "habr\xEDa sabido"
+      - "habr\xEDamos sabido"
+      - "habr\xEDais sabido"
+      - "habr\xEDan sabido"
+      cjid: cpef
+    - cjfs:
+      - haya sabido
+      - hayas sabido
+      - haya sabido
+      - hayamos sabido
+      - "hay\xE1is sabido"
+      - hayan sabido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sabido
+      - hubieras sabido
+      - hubiera sabido
+      - "hubi\xE9ramos sabido"
+      - hubierais sabido
+      - hubieran sabido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sabido
+      - hubieses sabido
+      - hubiese sabido
+      - "hubi\xE9semos sabido"
+      - hubieseis sabido
+      - hubiesen sabido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sabido
+      - hubieres sabido
+      - hubiere sabido
+      - "hubi\xE9remos sabido"
+      - hubiereis sabido
+      - hubieren sabido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sabe
+      - sepa
+      - sepamos
+      - sabed
+      - sepan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|knowledge}, {a_link|learning}'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: saber
+    prs:
+    - sound:
+        audio: saber02sp
+  meta:
+    id: saber:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620048000'
+    src: spanish
+    stems:
+    - saber
+    uuid: 833d2946-9e39-4ed6-847f-832d01f8895a
+  shortdef:
+  - knowledge, learning

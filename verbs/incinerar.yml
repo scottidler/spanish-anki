@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|incinerate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cremate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: incinerar
+  meta:
+    id: incinerar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612134000'
+    src: spanish
+    stems:
+    - incinerar
+    uuid: d663197d-ffe8-41d7-83bf-b08420ee21df
+  shortdef:
+  - to incinerate
+  - to cremate
+  suppl:
+    cjts:
+    - cjfs:
+      - incinerando
+      - incinerado
+      cjid: gppt
+    - cjfs:
+      - incinero
+      - incineras
+      - incinera
+      - incineramos
+      - "inciner\xE1is"
+      - incineran
+      cjid: pind
+    - cjfs:
+      - incineraba
+      - incinerabas
+      - incineraba
+      - "inciner\xE1bamos"
+      - incinerabais
+      - incineraban
+      cjid: pret
+    - cjfs:
+      - "inciner\xE9"
+      - incineraste
+      - "inciner\xF3"
+      - incineramos
+      - incinerasteis
+      - incineraron
+      cjid: pprf
+    - cjfs:
+      - "incinerar\xE9"
+      - "incinerar\xE1s"
+      - "incinerar\xE1"
+      - incineraremos
+      - "incinerar\xE9is"
+      - "incinerar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "incinerar\xEDa"
+      - "incinerar\xEDas"
+      - "incinerar\xEDa"
+      - "incinerar\xEDamos"
+      - "incinerar\xEDais"
+      - "incinerar\xEDan"
+      cjid: cond
+    - cjfs:
+      - incinere
+      - incineres
+      - incinere
+      - incineremos
+      - "inciner\xE9is"
+      - incineren
+      cjid: psub
+    - cjfs:
+      - incinerara
+      - incineraras
+      - incinerara
+      - "inciner\xE1ramos"
+      - incinerarais
+      - incineraran
+      cjid: pisb1
+    - cjfs:
+      - incinerase
+      - incinerases
+      - incinerase
+      - "inciner\xE1semos"
+      - incineraseis
+      - incinerasen
+      cjid: pisb2
+    - cjfs:
+      - incinerare
+      - incinerares
+      - incinerare
+      - "inciner\xE1remos"
+      - incinerareis
+      - incineraren
+      cjid: fsub
+    - cjfs:
+      - he incinerado
+      - has incinerado
+      - ha incinerado
+      - hemos incinerado
+      - "hab\xE9is incinerado"
+      - han incinerado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa incinerado"
+      - "hab\xEDas incinerado"
+      - "hab\xEDa incinerado"
+      - "hab\xEDamos incinerado"
+      - "hab\xEDais incinerado"
+      - "hab\xEDan incinerado"
+      cjid: ppsi
+    - cjfs:
+      - hube incinerado
+      - hubiste incinerado
+      - hubo incinerado
+      - hubimos incinerado
+      - hubisteis incinerado
+      - hubieron incinerado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 incinerado"
+      - "habr\xE1s incinerado"
+      - "habr\xE1 incinerado"
+      - habremos incinerado
+      - "habr\xE9is incinerado"
+      - "habr\xE1n incinerado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa incinerado"
+      - "habr\xEDas incinerado"
+      - "habr\xEDa incinerado"
+      - "habr\xEDamos incinerado"
+      - "habr\xEDais incinerado"
+      - "habr\xEDan incinerado"
+      cjid: cpef
+    - cjfs:
+      - haya incinerado
+      - hayas incinerado
+      - haya incinerado
+      - hayamos incinerado
+      - "hay\xE1is incinerado"
+      - hayan incinerado
+      cjid: ppfs
+    - cjfs:
+      - hubiera incinerado
+      - hubieras incinerado
+      - hubiera incinerado
+      - "hubi\xE9ramos incinerado"
+      - hubierais incinerado
+      - hubieran incinerado
+      cjid: ppss1
+    - cjfs:
+      - hubiese incinerado
+      - hubieses incinerado
+      - hubiese incinerado
+      - "hubi\xE9semos incinerado"
+      - hubieseis incinerado
+      - hubiesen incinerado
+      cjid: ppss2
+    - cjfs:
+      - hubiere incinerado
+      - hubieres incinerado
+      - hubiere incinerado
+      - "hubi\xE9remos incinerado"
+      - hubiereis incinerado
+      - hubieren incinerado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - incinera
+      - incinere
+      - incineremos
+      - incinerad
+      - incineren
+      cjid: impf

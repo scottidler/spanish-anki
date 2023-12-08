@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|undress}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|strip}, to lay bare'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|undress}, to strip off one''s clothing'
+    drp: desnudarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desnudar
+  meta:
+    id: desnudar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607210000'
+    src: spanish
+    stems:
+    - desnudar
+    - desnudarse
+    uuid: 1115b18a-8047-4f97-b628-601f0cb8af24
+  shortdef:
+  - to undress
+  - to strip, to lay bare
+  suppl:
+    cjts:
+    - cjfs:
+      - desnudando
+      - desnudado
+      cjid: gppt
+    - cjfs:
+      - desnudo
+      - desnudas
+      - desnuda
+      - desnudamos
+      - "desnud\xE1is"
+      - desnudan
+      cjid: pind
+    - cjfs:
+      - desnudaba
+      - desnudabas
+      - desnudaba
+      - "desnud\xE1bamos"
+      - desnudabais
+      - desnudaban
+      cjid: pret
+    - cjfs:
+      - "desnud\xE9"
+      - desnudaste
+      - "desnud\xF3"
+      - desnudamos
+      - desnudasteis
+      - desnudaron
+      cjid: pprf
+    - cjfs:
+      - "desnudar\xE9"
+      - "desnudar\xE1s"
+      - "desnudar\xE1"
+      - desnudaremos
+      - "desnudar\xE9is"
+      - "desnudar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desnudar\xEDa"
+      - "desnudar\xEDas"
+      - "desnudar\xEDa"
+      - "desnudar\xEDamos"
+      - "desnudar\xEDais"
+      - "desnudar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desnude
+      - desnudes
+      - desnude
+      - desnudemos
+      - "desnud\xE9is"
+      - desnuden
+      cjid: psub
+    - cjfs:
+      - desnudara
+      - desnudaras
+      - desnudara
+      - "desnud\xE1ramos"
+      - desnudarais
+      - desnudaran
+      cjid: pisb1
+    - cjfs:
+      - desnudase
+      - desnudases
+      - desnudase
+      - "desnud\xE1semos"
+      - desnudaseis
+      - desnudasen
+      cjid: pisb2
+    - cjfs:
+      - desnudare
+      - desnudares
+      - desnudare
+      - "desnud\xE1remos"
+      - desnudareis
+      - desnudaren
+      cjid: fsub
+    - cjfs:
+      - he desnudado
+      - has desnudado
+      - ha desnudado
+      - hemos desnudado
+      - "hab\xE9is desnudado"
+      - han desnudado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desnudado"
+      - "hab\xEDas desnudado"
+      - "hab\xEDa desnudado"
+      - "hab\xEDamos desnudado"
+      - "hab\xEDais desnudado"
+      - "hab\xEDan desnudado"
+      cjid: ppsi
+    - cjfs:
+      - hube desnudado
+      - hubiste desnudado
+      - hubo desnudado
+      - hubimos desnudado
+      - hubisteis desnudado
+      - hubieron desnudado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desnudado"
+      - "habr\xE1s desnudado"
+      - "habr\xE1 desnudado"
+      - habremos desnudado
+      - "habr\xE9is desnudado"
+      - "habr\xE1n desnudado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desnudado"
+      - "habr\xEDas desnudado"
+      - "habr\xEDa desnudado"
+      - "habr\xEDamos desnudado"
+      - "habr\xEDais desnudado"
+      - "habr\xEDan desnudado"
+      cjid: cpef
+    - cjfs:
+      - haya desnudado
+      - hayas desnudado
+      - haya desnudado
+      - hayamos desnudado
+      - "hay\xE1is desnudado"
+      - hayan desnudado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desnudado
+      - hubieras desnudado
+      - hubiera desnudado
+      - "hubi\xE9ramos desnudado"
+      - hubierais desnudado
+      - hubieran desnudado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desnudado
+      - hubieses desnudado
+      - hubiese desnudado
+      - "hubi\xE9semos desnudado"
+      - hubieseis desnudado
+      - hubiesen desnudado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desnudado
+      - hubieres desnudado
+      - hubiere desnudado
+      - "hubi\xE9remos desnudado"
+      - hubiereis desnudado
+      - hubieren desnudado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desnuda
+      - desnude
+      - desnudemos
+      - desnudad
+      - desnuden
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|puff}, to {a_link|pant}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snort}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: resoplar
+  meta:
+    id: resoplar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619577000'
+    src: spanish
+    stems:
+    - resoplar
+    uuid: 2540039c-e0a1-469b-a14b-a47c0df36f66
+  shortdef:
+  - to puff, to pant
+  - to snort
+  suppl:
+    cjts:
+    - cjfs:
+      - resoplando
+      - resoplado
+      cjid: gppt
+    - cjfs:
+      - resoplo
+      - resoplas
+      - resopla
+      - resoplamos
+      - "resopl\xE1is"
+      - resoplan
+      cjid: pind
+    - cjfs:
+      - resoplaba
+      - resoplabas
+      - resoplaba
+      - "resopl\xE1bamos"
+      - resoplabais
+      - resoplaban
+      cjid: pret
+    - cjfs:
+      - "resopl\xE9"
+      - resoplaste
+      - "resopl\xF3"
+      - resoplamos
+      - resoplasteis
+      - resoplaron
+      cjid: pprf
+    - cjfs:
+      - "resoplar\xE9"
+      - "resoplar\xE1s"
+      - "resoplar\xE1"
+      - resoplaremos
+      - "resoplar\xE9is"
+      - "resoplar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resoplar\xEDa"
+      - "resoplar\xEDas"
+      - "resoplar\xEDa"
+      - "resoplar\xEDamos"
+      - "resoplar\xEDais"
+      - "resoplar\xEDan"
+      cjid: cond
+    - cjfs:
+      - resople
+      - resoples
+      - resople
+      - resoplemos
+      - "resopl\xE9is"
+      - resoplen
+      cjid: psub
+    - cjfs:
+      - resoplara
+      - resoplaras
+      - resoplara
+      - "resopl\xE1ramos"
+      - resoplarais
+      - resoplaran
+      cjid: pisb1
+    - cjfs:
+      - resoplase
+      - resoplases
+      - resoplase
+      - "resopl\xE1semos"
+      - resoplaseis
+      - resoplasen
+      cjid: pisb2
+    - cjfs:
+      - resoplare
+      - resoplares
+      - resoplare
+      - "resopl\xE1remos"
+      - resoplareis
+      - resoplaren
+      cjid: fsub
+    - cjfs:
+      - he resoplado
+      - has resoplado
+      - ha resoplado
+      - hemos resoplado
+      - "hab\xE9is resoplado"
+      - han resoplado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resoplado"
+      - "hab\xEDas resoplado"
+      - "hab\xEDa resoplado"
+      - "hab\xEDamos resoplado"
+      - "hab\xEDais resoplado"
+      - "hab\xEDan resoplado"
+      cjid: ppsi
+    - cjfs:
+      - hube resoplado
+      - hubiste resoplado
+      - hubo resoplado
+      - hubimos resoplado
+      - hubisteis resoplado
+      - hubieron resoplado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resoplado"
+      - "habr\xE1s resoplado"
+      - "habr\xE1 resoplado"
+      - habremos resoplado
+      - "habr\xE9is resoplado"
+      - "habr\xE1n resoplado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resoplado"
+      - "habr\xEDas resoplado"
+      - "habr\xEDa resoplado"
+      - "habr\xEDamos resoplado"
+      - "habr\xEDais resoplado"
+      - "habr\xEDan resoplado"
+      cjid: cpef
+    - cjfs:
+      - haya resoplado
+      - hayas resoplado
+      - haya resoplado
+      - hayamos resoplado
+      - "hay\xE1is resoplado"
+      - hayan resoplado
+      cjid: ppfs
+    - cjfs:
+      - hubiera resoplado
+      - hubieras resoplado
+      - hubiera resoplado
+      - "hubi\xE9ramos resoplado"
+      - hubierais resoplado
+      - hubieran resoplado
+      cjid: ppss1
+    - cjfs:
+      - hubiese resoplado
+      - hubieses resoplado
+      - hubiese resoplado
+      - "hubi\xE9semos resoplado"
+      - hubieseis resoplado
+      - hubiesen resoplado
+      cjid: ppss2
+    - cjfs:
+      - hubiere resoplado
+      - hubieres resoplado
+      - hubiere resoplado
+      - "hubi\xE9remos resoplado"
+      - hubiereis resoplado
+      - hubieren resoplado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resopla
+      - resople
+      - resoplemos
+      - resoplad
+      - resoplen
+      cjid: impf

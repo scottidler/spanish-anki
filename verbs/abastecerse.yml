@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|supply}, to {a_link|stock}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stock up}'
+    drp: abastecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: abastecer
+    prs:
+    - sound:
+        audio: abast01sp
+  meta:
+    id: abastecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600027000'
+    src: spanish
+    stems:
+    - abastecer
+    - abastecerse
+    uuid: 46e0edca-9feb-43bc-a5c0-db031e252a9f
+  shortdef:
+  - to supply, to stock
+  suppl:
+    cjts:
+    - cjfs:
+      - abasteciendo
+      - abastecido
+      cjid: gppt
+    - cjfs:
+      - abastezco
+      - abasteces
+      - abastece
+      - abastecemos
+      - "abastec\xE9is"
+      - abastecen
+      cjid: pind
+    - cjfs:
+      - "abastec\xEDa"
+      - "abastec\xEDas"
+      - "abastec\xEDa"
+      - "abastec\xEDamos"
+      - "abastec\xEDais"
+      - "abastec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "abastec\xED"
+      - abasteciste
+      - "abasteci\xF3"
+      - abastecimos
+      - abastecisteis
+      - abastecieron
+      cjid: pprf
+    - cjfs:
+      - "abastecer\xE9"
+      - "abastecer\xE1s"
+      - "abastecer\xE1"
+      - abasteceremos
+      - "abastecer\xE9is"
+      - "abastecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abastecer\xEDa"
+      - "abastecer\xEDas"
+      - "abastecer\xEDa"
+      - "abastecer\xEDamos"
+      - "abastecer\xEDais"
+      - "abastecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - abastezca
+      - abastezcas
+      - abastezca
+      - abastezcamos
+      - "abastezc\xE1is"
+      - abastezcan
+      cjid: psub
+    - cjfs:
+      - abasteciera
+      - abastecieras
+      - abasteciera
+      - "abasteci\xE9ramos"
+      - abastecierais
+      - abastecieran
+      cjid: pisb1
+    - cjfs:
+      - abasteciese
+      - abastecieses
+      - abasteciese
+      - "abasteci\xE9semos"
+      - abastecieseis
+      - abasteciesen
+      cjid: pisb2
+    - cjfs:
+      - abasteciere
+      - abastecieres
+      - abasteciere
+      - "abasteci\xE9remos"
+      - abasteciereis
+      - abastecieren
+      cjid: fsub
+    - cjfs:
+      - he abastecido
+      - has abastecido
+      - ha abastecido
+      - hemos abastecido
+      - "hab\xE9is abastecido"
+      - han abastecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abastecido"
+      - "hab\xEDas abastecido"
+      - "hab\xEDa abastecido"
+      - "hab\xEDamos abastecido"
+      - "hab\xEDais abastecido"
+      - "hab\xEDan abastecido"
+      cjid: ppsi
+    - cjfs:
+      - hube abastecido
+      - hubiste abastecido
+      - hubo abastecido
+      - hubimos abastecido
+      - hubisteis abastecido
+      - hubieron abastecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abastecido"
+      - "habr\xE1s abastecido"
+      - "habr\xE1 abastecido"
+      - habremos abastecido
+      - "habr\xE9is abastecido"
+      - "habr\xE1n abastecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abastecido"
+      - "habr\xEDas abastecido"
+      - "habr\xEDa abastecido"
+      - "habr\xEDamos abastecido"
+      - "habr\xEDais abastecido"
+      - "habr\xEDan abastecido"
+      cjid: cpef
+    - cjfs:
+      - haya abastecido
+      - hayas abastecido
+      - haya abastecido
+      - hayamos abastecido
+      - "hay\xE1is abastecido"
+      - hayan abastecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera abastecido
+      - hubieras abastecido
+      - hubiera abastecido
+      - "hubi\xE9ramos abastecido"
+      - hubierais abastecido
+      - hubieran abastecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese abastecido
+      - hubieses abastecido
+      - hubiese abastecido
+      - "hubi\xE9semos abastecido"
+      - hubieseis abastecido
+      - hubiesen abastecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere abastecido
+      - hubieres abastecido
+      - hubiere abastecido
+      - "hubi\xE9remos abastecido"
+      - hubiereis abastecido
+      - hubieren abastecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abastece
+      - abastezca
+      - abastezcamos
+      - abasteced
+      - abastezcan
+      cjid: impf

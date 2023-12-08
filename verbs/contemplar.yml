@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|contemplate}, to {a_link|ponder}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to gaze at, to {a_link|look at}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: contemplar
+    prs:
+    - sound:
+        audio: conte01sp
+  meta:
+    id: contemplar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605677000'
+    src: spanish
+    stems:
+    - contemplar
+    uuid: 5d131c2d-5a4b-4439-9e10-63f6c122d536
+  shortdef:
+  - to contemplate, to ponder
+  - to gaze at, to look at
+  suppl:
+    cjts:
+    - cjfs:
+      - contemplando
+      - contemplado
+      cjid: gppt
+    - cjfs:
+      - contemplo
+      - contemplas
+      - contempla
+      - contemplamos
+      - "contempl\xE1is"
+      - contemplan
+      cjid: pind
+    - cjfs:
+      - contemplaba
+      - contemplabas
+      - contemplaba
+      - "contempl\xE1bamos"
+      - contemplabais
+      - contemplaban
+      cjid: pret
+    - cjfs:
+      - "contempl\xE9"
+      - contemplaste
+      - "contempl\xF3"
+      - contemplamos
+      - contemplasteis
+      - contemplaron
+      cjid: pprf
+    - cjfs:
+      - "contemplar\xE9"
+      - "contemplar\xE1s"
+      - "contemplar\xE1"
+      - contemplaremos
+      - "contemplar\xE9is"
+      - "contemplar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contemplar\xEDa"
+      - "contemplar\xEDas"
+      - "contemplar\xEDa"
+      - "contemplar\xEDamos"
+      - "contemplar\xEDais"
+      - "contemplar\xEDan"
+      cjid: cond
+    - cjfs:
+      - contemple
+      - contemples
+      - contemple
+      - contemplemos
+      - "contempl\xE9is"
+      - contemplen
+      cjid: psub
+    - cjfs:
+      - contemplara
+      - contemplaras
+      - contemplara
+      - "contempl\xE1ramos"
+      - contemplarais
+      - contemplaran
+      cjid: pisb1
+    - cjfs:
+      - contemplase
+      - contemplases
+      - contemplase
+      - "contempl\xE1semos"
+      - contemplaseis
+      - contemplasen
+      cjid: pisb2
+    - cjfs:
+      - contemplare
+      - contemplares
+      - contemplare
+      - "contempl\xE1remos"
+      - contemplareis
+      - contemplaren
+      cjid: fsub
+    - cjfs:
+      - he contemplado
+      - has contemplado
+      - ha contemplado
+      - hemos contemplado
+      - "hab\xE9is contemplado"
+      - han contemplado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contemplado"
+      - "hab\xEDas contemplado"
+      - "hab\xEDa contemplado"
+      - "hab\xEDamos contemplado"
+      - "hab\xEDais contemplado"
+      - "hab\xEDan contemplado"
+      cjid: ppsi
+    - cjfs:
+      - hube contemplado
+      - hubiste contemplado
+      - hubo contemplado
+      - hubimos contemplado
+      - hubisteis contemplado
+      - hubieron contemplado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contemplado"
+      - "habr\xE1s contemplado"
+      - "habr\xE1 contemplado"
+      - habremos contemplado
+      - "habr\xE9is contemplado"
+      - "habr\xE1n contemplado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contemplado"
+      - "habr\xEDas contemplado"
+      - "habr\xEDa contemplado"
+      - "habr\xEDamos contemplado"
+      - "habr\xEDais contemplado"
+      - "habr\xEDan contemplado"
+      cjid: cpef
+    - cjfs:
+      - haya contemplado
+      - hayas contemplado
+      - haya contemplado
+      - hayamos contemplado
+      - "hay\xE1is contemplado"
+      - hayan contemplado
+      cjid: ppfs
+    - cjfs:
+      - hubiera contemplado
+      - hubieras contemplado
+      - hubiera contemplado
+      - "hubi\xE9ramos contemplado"
+      - hubierais contemplado
+      - hubieran contemplado
+      cjid: ppss1
+    - cjfs:
+      - hubiese contemplado
+      - hubieses contemplado
+      - hubiese contemplado
+      - "hubi\xE9semos contemplado"
+      - hubieseis contemplado
+      - hubiesen contemplado
+      cjid: ppss2
+    - cjfs:
+      - hubiere contemplado
+      - hubieres contemplado
+      - hubiere contemplado
+      - "hubi\xE9remos contemplado"
+      - hubiereis contemplado
+      - hubieren contemplado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - contempla
+      - contemple
+      - contemplemos
+      - contemplad
+      - contemplen
+      cjid: impf

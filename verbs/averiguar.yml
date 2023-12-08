@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|find out}, to {a_link|ascertain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|investigate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: averiguar
+    prs:
+    - sound:
+        audio: averi02sp
+  meta:
+    id: averiguar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602546000'
+    src: spanish
+    stems:
+    - averiguar
+    uuid: 50c88c65-739a-479b-b771-a1dd991997d9
+  shortdef:
+  - to find out, to ascertain
+  - to investigate
+  suppl:
+    cjts:
+    - cjfs:
+      - averiguando
+      - averiguado
+      cjid: gppt
+    - cjfs:
+      - averiguo
+      - averiguas
+      - averigua
+      - averiguamos
+      - "averigu\xE1is"
+      - averiguan
+      cjid: pind
+    - cjfs:
+      - averiguaba
+      - averiguabas
+      - averiguaba
+      - "averigu\xE1bamos"
+      - averiguabais
+      - averiguaban
+      cjid: pret
+    - cjfs:
+      - "averig\xFC\xE9"
+      - averiguaste
+      - "averigu\xF3"
+      - averiguamos
+      - averiguasteis
+      - averiguaron
+      cjid: pprf
+    - cjfs:
+      - "averiguar\xE9"
+      - "averiguar\xE1s"
+      - "averiguar\xE1"
+      - averiguaremos
+      - "averiguar\xE9is"
+      - "averiguar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "averiguar\xEDa"
+      - "averiguar\xEDas"
+      - "averiguar\xEDa"
+      - "averiguar\xEDamos"
+      - "averiguar\xEDais"
+      - "averiguar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "averig\xFCe"
+      - "averig\xFCes"
+      - "averig\xFCe"
+      - "averig\xFCemos"
+      - "averig\xFC\xE9is"
+      - "averig\xFCen"
+      cjid: psub
+    - cjfs:
+      - averiguara
+      - averiguaras
+      - averiguara
+      - "averigu\xE1ramos"
+      - averiguarais
+      - averiguaran
+      cjid: pisb1
+    - cjfs:
+      - averiguase
+      - averiguases
+      - averiguase
+      - "averigu\xE1semos"
+      - averiguaseis
+      - averiguasen
+      cjid: pisb2
+    - cjfs:
+      - averiguare
+      - averiguares
+      - averiguare
+      - "averigu\xE1remos"
+      - averiguareis
+      - averiguaren
+      cjid: fsub
+    - cjfs:
+      - he averiguado
+      - has averiguado
+      - ha averiguado
+      - hemos averiguado
+      - "hab\xE9is averiguado"
+      - han averiguado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa averiguado"
+      - "hab\xEDas averiguado"
+      - "hab\xEDa averiguado"
+      - "hab\xEDamos averiguado"
+      - "hab\xEDais averiguado"
+      - "hab\xEDan averiguado"
+      cjid: ppsi
+    - cjfs:
+      - hube averiguado
+      - hubiste averiguado
+      - hubo averiguado
+      - hubimos averiguado
+      - hubisteis averiguado
+      - hubieron averiguado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 averiguado"
+      - "habr\xE1s averiguado"
+      - "habr\xE1 averiguado"
+      - habremos averiguado
+      - "habr\xE9is averiguado"
+      - "habr\xE1n averiguado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa averiguado"
+      - "habr\xEDas averiguado"
+      - "habr\xEDa averiguado"
+      - "habr\xEDamos averiguado"
+      - "habr\xEDais averiguado"
+      - "habr\xEDan averiguado"
+      cjid: cpef
+    - cjfs:
+      - haya averiguado
+      - hayas averiguado
+      - haya averiguado
+      - hayamos averiguado
+      - "hay\xE1is averiguado"
+      - hayan averiguado
+      cjid: ppfs
+    - cjfs:
+      - hubiera averiguado
+      - hubieras averiguado
+      - hubiera averiguado
+      - "hubi\xE9ramos averiguado"
+      - hubierais averiguado
+      - hubieran averiguado
+      cjid: ppss1
+    - cjfs:
+      - hubiese averiguado
+      - hubieses averiguado
+      - hubiese averiguado
+      - "hubi\xE9semos averiguado"
+      - hubieseis averiguado
+      - hubiesen averiguado
+      cjid: ppss2
+    - cjfs:
+      - hubiere averiguado
+      - hubieres averiguado
+      - hubiere averiguado
+      - "hubi\xE9remos averiguado"
+      - hubiereis averiguado
+      - hubieren averiguado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - averigua
+      - "averig\xFCe"
+      - "averig\xFCemos"
+      - averiguad
+      - "averig\xFCen"
+      cjid: impf

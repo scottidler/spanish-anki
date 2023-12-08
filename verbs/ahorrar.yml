@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|save} (money)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spare}, to {a_link|conserve}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to save up'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to spare oneself'
+    drp: ahorrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ahorrar
+    prs:
+    - sound:
+        audio: ahorr01sp
+  meta:
+    id: ahorrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600795000'
+    src: spanish
+    stems:
+    - ahorrar
+    - ahorrarse
+    uuid: 36e5bea2-5e89-4e9f-97ec-8711e6019467
+  shortdef:
+  - to save (money)
+  - to spare, to conserve
+  - to save up
+  suppl:
+    cjts:
+    - cjfs:
+      - ahorrando
+      - ahorrado
+      cjid: gppt
+    - cjfs:
+      - ahorro
+      - ahorras
+      - ahorra
+      - ahorramos
+      - "ahorr\xE1is"
+      - ahorran
+      cjid: pind
+    - cjfs:
+      - ahorraba
+      - ahorrabas
+      - ahorraba
+      - "ahorr\xE1bamos"
+      - ahorrabais
+      - ahorraban
+      cjid: pret
+    - cjfs:
+      - "ahorr\xE9"
+      - ahorraste
+      - "ahorr\xF3"
+      - ahorramos
+      - ahorrasteis
+      - ahorraron
+      cjid: pprf
+    - cjfs:
+      - "ahorrar\xE9"
+      - "ahorrar\xE1s"
+      - "ahorrar\xE1"
+      - ahorraremos
+      - "ahorrar\xE9is"
+      - "ahorrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ahorrar\xEDa"
+      - "ahorrar\xEDas"
+      - "ahorrar\xEDa"
+      - "ahorrar\xEDamos"
+      - "ahorrar\xEDais"
+      - "ahorrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ahorre
+      - ahorres
+      - ahorre
+      - ahorremos
+      - "ahorr\xE9is"
+      - ahorren
+      cjid: psub
+    - cjfs:
+      - ahorrara
+      - ahorraras
+      - ahorrara
+      - "ahorr\xE1ramos"
+      - ahorrarais
+      - ahorraran
+      cjid: pisb1
+    - cjfs:
+      - ahorrase
+      - ahorrases
+      - ahorrase
+      - "ahorr\xE1semos"
+      - ahorraseis
+      - ahorrasen
+      cjid: pisb2
+    - cjfs:
+      - ahorrare
+      - ahorrares
+      - ahorrare
+      - "ahorr\xE1remos"
+      - ahorrareis
+      - ahorraren
+      cjid: fsub
+    - cjfs:
+      - he ahorrado
+      - has ahorrado
+      - ha ahorrado
+      - hemos ahorrado
+      - "hab\xE9is ahorrado"
+      - han ahorrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ahorrado"
+      - "hab\xEDas ahorrado"
+      - "hab\xEDa ahorrado"
+      - "hab\xEDamos ahorrado"
+      - "hab\xEDais ahorrado"
+      - "hab\xEDan ahorrado"
+      cjid: ppsi
+    - cjfs:
+      - hube ahorrado
+      - hubiste ahorrado
+      - hubo ahorrado
+      - hubimos ahorrado
+      - hubisteis ahorrado
+      - hubieron ahorrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ahorrado"
+      - "habr\xE1s ahorrado"
+      - "habr\xE1 ahorrado"
+      - habremos ahorrado
+      - "habr\xE9is ahorrado"
+      - "habr\xE1n ahorrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ahorrado"
+      - "habr\xEDas ahorrado"
+      - "habr\xEDa ahorrado"
+      - "habr\xEDamos ahorrado"
+      - "habr\xEDais ahorrado"
+      - "habr\xEDan ahorrado"
+      cjid: cpef
+    - cjfs:
+      - haya ahorrado
+      - hayas ahorrado
+      - haya ahorrado
+      - hayamos ahorrado
+      - "hay\xE1is ahorrado"
+      - hayan ahorrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ahorrado
+      - hubieras ahorrado
+      - hubiera ahorrado
+      - "hubi\xE9ramos ahorrado"
+      - hubierais ahorrado
+      - hubieran ahorrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ahorrado
+      - hubieses ahorrado
+      - hubiese ahorrado
+      - "hubi\xE9semos ahorrado"
+      - hubieseis ahorrado
+      - hubiesen ahorrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ahorrado
+      - hubieres ahorrado
+      - hubiere ahorrado
+      - "hubi\xE9remos ahorrado"
+      - hubiereis ahorrado
+      - hubieren ahorrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ahorra
+      - ahorre
+      - ahorremos
+      - ahorrad
+      - ahorren
+      cjid: impf

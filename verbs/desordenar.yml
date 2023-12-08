@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mess up}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get messed up'
+    drp: desordenarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desordenar
+  meta:
+    id: desordenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607231000'
+    src: spanish
+    stems:
+    - desordenar
+    - desordenarse
+    uuid: bc92578d-36bd-47ea-aab4-f40558370214
+  shortdef:
+  - to mess up
+  suppl:
+    cjts:
+    - cjfs:
+      - desordenando
+      - desordenado
+      cjid: gppt
+    - cjfs:
+      - desordeno
+      - desordenas
+      - desordena
+      - desordenamos
+      - "desorden\xE1is"
+      - desordenan
+      cjid: pind
+    - cjfs:
+      - desordenaba
+      - desordenabas
+      - desordenaba
+      - "desorden\xE1bamos"
+      - desordenabais
+      - desordenaban
+      cjid: pret
+    - cjfs:
+      - "desorden\xE9"
+      - desordenaste
+      - "desorden\xF3"
+      - desordenamos
+      - desordenasteis
+      - desordenaron
+      cjid: pprf
+    - cjfs:
+      - "desordenar\xE9"
+      - "desordenar\xE1s"
+      - "desordenar\xE1"
+      - desordenaremos
+      - "desordenar\xE9is"
+      - "desordenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desordenar\xEDa"
+      - "desordenar\xEDas"
+      - "desordenar\xEDa"
+      - "desordenar\xEDamos"
+      - "desordenar\xEDais"
+      - "desordenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desordene
+      - desordenes
+      - desordene
+      - desordenemos
+      - "desorden\xE9is"
+      - desordenen
+      cjid: psub
+    - cjfs:
+      - desordenara
+      - desordenaras
+      - desordenara
+      - "desorden\xE1ramos"
+      - desordenarais
+      - desordenaran
+      cjid: pisb1
+    - cjfs:
+      - desordenase
+      - desordenases
+      - desordenase
+      - "desorden\xE1semos"
+      - desordenaseis
+      - desordenasen
+      cjid: pisb2
+    - cjfs:
+      - desordenare
+      - desordenares
+      - desordenare
+      - "desorden\xE1remos"
+      - desordenareis
+      - desordenaren
+      cjid: fsub
+    - cjfs:
+      - he desordenado
+      - has desordenado
+      - ha desordenado
+      - hemos desordenado
+      - "hab\xE9is desordenado"
+      - han desordenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desordenado"
+      - "hab\xEDas desordenado"
+      - "hab\xEDa desordenado"
+      - "hab\xEDamos desordenado"
+      - "hab\xEDais desordenado"
+      - "hab\xEDan desordenado"
+      cjid: ppsi
+    - cjfs:
+      - hube desordenado
+      - hubiste desordenado
+      - hubo desordenado
+      - hubimos desordenado
+      - hubisteis desordenado
+      - hubieron desordenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desordenado"
+      - "habr\xE1s desordenado"
+      - "habr\xE1 desordenado"
+      - habremos desordenado
+      - "habr\xE9is desordenado"
+      - "habr\xE1n desordenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desordenado"
+      - "habr\xEDas desordenado"
+      - "habr\xEDa desordenado"
+      - "habr\xEDamos desordenado"
+      - "habr\xEDais desordenado"
+      - "habr\xEDan desordenado"
+      cjid: cpef
+    - cjfs:
+      - haya desordenado
+      - hayas desordenado
+      - haya desordenado
+      - hayamos desordenado
+      - "hay\xE1is desordenado"
+      - hayan desordenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desordenado
+      - hubieras desordenado
+      - hubiera desordenado
+      - "hubi\xE9ramos desordenado"
+      - hubierais desordenado
+      - hubieran desordenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desordenado
+      - hubieses desordenado
+      - hubiese desordenado
+      - "hubi\xE9semos desordenado"
+      - hubieseis desordenado
+      - hubiesen desordenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desordenado
+      - hubieres desordenado
+      - hubiere desordenado
+      - "hubi\xE9remos desordenado"
+      - hubiereis desordenado
+      - hubieren desordenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desordena
+      - desordene
+      - desordenemos
+      - desordenad
+      - desordenen
+      cjid: impf

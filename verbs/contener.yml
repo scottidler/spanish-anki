@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|contain}, to {a_link|hold}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|atajar||} {bc}to {a_link|restrain}, to {a_link|hold back}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|restrain oneself}'
+    drp: contenerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: contener
+    prs:
+    - sound:
+        audio: conte05sp
+  meta:
+    id: contener
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605684000'
+    src: spanish
+    stems:
+    - contener
+    - contenerse
+    uuid: bb6cb92a-8535-45af-b7fa-77da4b0137f4
+  shortdef:
+  - to contain, to hold
+  - 'atajar : to restrain, to hold back'
+  suppl:
+    cjts:
+    - cjfs:
+      - conteniendo
+      - contenido
+      cjid: gppt
+    - cjfs:
+      - contengo
+      - contienes
+      - contiene
+      - contenemos
+      - "conten\xE9is"
+      - contienen
+      cjid: pind
+    - cjfs:
+      - "conten\xEDa"
+      - "conten\xEDas"
+      - "conten\xEDa"
+      - "conten\xEDamos"
+      - "conten\xEDais"
+      - "conten\xEDan"
+      cjid: pret
+    - cjfs:
+      - contuve
+      - contuviste
+      - contuvo
+      - contuvimos
+      - contuvisteis
+      - contuvieron
+      cjid: pprf
+    - cjfs:
+      - "contendr\xE9"
+      - "contendr\xE1s"
+      - "contendr\xE1"
+      - contendremos
+      - "contendr\xE9is"
+      - "contendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contendr\xEDa"
+      - "contendr\xEDas"
+      - "contendr\xEDa"
+      - "contendr\xEDamos"
+      - "contendr\xEDais"
+      - "contendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - contenga
+      - contengas
+      - contenga
+      - contengamos
+      - "conteng\xE1is"
+      - contengan
+      cjid: psub
+    - cjfs:
+      - contuviera
+      - contuvieras
+      - contuviera
+      - "contuvi\xE9ramos"
+      - contuvierais
+      - contuvieran
+      cjid: pisb1
+    - cjfs:
+      - contuviese
+      - contuvieses
+      - contuviese
+      - "contuvi\xE9semos"
+      - contuvieseis
+      - contuviesen
+      cjid: pisb2
+    - cjfs:
+      - contuviere
+      - contuvieres
+      - contuviere
+      - "contuvi\xE9remos"
+      - contuviereis
+      - contuvieren
+      cjid: fsub
+    - cjfs:
+      - he contenido
+      - has contenido
+      - ha contenido
+      - hemos contenido
+      - "hab\xE9is contenido"
+      - han contenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contenido"
+      - "hab\xEDas contenido"
+      - "hab\xEDa contenido"
+      - "hab\xEDamos contenido"
+      - "hab\xEDais contenido"
+      - "hab\xEDan contenido"
+      cjid: ppsi
+    - cjfs:
+      - hube contenido
+      - hubiste contenido
+      - hubo contenido
+      - hubimos contenido
+      - hubisteis contenido
+      - hubieron contenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contenido"
+      - "habr\xE1s contenido"
+      - "habr\xE1 contenido"
+      - habremos contenido
+      - "habr\xE9is contenido"
+      - "habr\xE1n contenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contenido"
+      - "habr\xEDas contenido"
+      - "habr\xEDa contenido"
+      - "habr\xEDamos contenido"
+      - "habr\xEDais contenido"
+      - "habr\xEDan contenido"
+      cjid: cpef
+    - cjfs:
+      - haya contenido
+      - hayas contenido
+      - haya contenido
+      - hayamos contenido
+      - "hay\xE1is contenido"
+      - hayan contenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera contenido
+      - hubieras contenido
+      - hubiera contenido
+      - "hubi\xE9ramos contenido"
+      - hubierais contenido
+      - hubieran contenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese contenido
+      - hubieses contenido
+      - hubiese contenido
+      - "hubi\xE9semos contenido"
+      - hubieseis contenido
+      - hubiesen contenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere contenido
+      - hubieres contenido
+      - hubiere contenido
+      - "hubi\xE9remos contenido"
+      - hubiereis contenido
+      - hubieren contenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "cont\xE9n"
+      - contenga
+      - contengamos
+      - contened
+      - contengan
+      cjid: impf

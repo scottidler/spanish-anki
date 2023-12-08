@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resign}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to resign oneself to'
+            vrs:
+            - va: resignarse a
+              vac: ~ a
+    drp: resignarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: resignar
+    prs:
+    - sound:
+        audio: resig02sp
+  meta:
+    id: resignar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619565000'
+    src: spanish
+    stems:
+    - resignar
+    - resignarse
+    - resignarse a
+    uuid: 9317430e-bb34-4348-b6f2-5a4bc4cf5531
+  shortdef:
+  - to resign
+  suppl:
+    cjts:
+    - cjfs:
+      - resignando
+      - resignado
+      cjid: gppt
+    - cjfs:
+      - resigno
+      - resignas
+      - resigna
+      - resignamos
+      - "resign\xE1is"
+      - resignan
+      cjid: pind
+    - cjfs:
+      - resignaba
+      - resignabas
+      - resignaba
+      - "resign\xE1bamos"
+      - resignabais
+      - resignaban
+      cjid: pret
+    - cjfs:
+      - "resign\xE9"
+      - resignaste
+      - "resign\xF3"
+      - resignamos
+      - resignasteis
+      - resignaron
+      cjid: pprf
+    - cjfs:
+      - "resignar\xE9"
+      - "resignar\xE1s"
+      - "resignar\xE1"
+      - resignaremos
+      - "resignar\xE9is"
+      - "resignar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resignar\xEDa"
+      - "resignar\xEDas"
+      - "resignar\xEDa"
+      - "resignar\xEDamos"
+      - "resignar\xEDais"
+      - "resignar\xEDan"
+      cjid: cond
+    - cjfs:
+      - resigne
+      - resignes
+      - resigne
+      - resignemos
+      - "resign\xE9is"
+      - resignen
+      cjid: psub
+    - cjfs:
+      - resignara
+      - resignaras
+      - resignara
+      - "resign\xE1ramos"
+      - resignarais
+      - resignaran
+      cjid: pisb1
+    - cjfs:
+      - resignase
+      - resignases
+      - resignase
+      - "resign\xE1semos"
+      - resignaseis
+      - resignasen
+      cjid: pisb2
+    - cjfs:
+      - resignare
+      - resignares
+      - resignare
+      - "resign\xE1remos"
+      - resignareis
+      - resignaren
+      cjid: fsub
+    - cjfs:
+      - he resignado
+      - has resignado
+      - ha resignado
+      - hemos resignado
+      - "hab\xE9is resignado"
+      - han resignado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resignado"
+      - "hab\xEDas resignado"
+      - "hab\xEDa resignado"
+      - "hab\xEDamos resignado"
+      - "hab\xEDais resignado"
+      - "hab\xEDan resignado"
+      cjid: ppsi
+    - cjfs:
+      - hube resignado
+      - hubiste resignado
+      - hubo resignado
+      - hubimos resignado
+      - hubisteis resignado
+      - hubieron resignado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resignado"
+      - "habr\xE1s resignado"
+      - "habr\xE1 resignado"
+      - habremos resignado
+      - "habr\xE9is resignado"
+      - "habr\xE1n resignado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resignado"
+      - "habr\xEDas resignado"
+      - "habr\xEDa resignado"
+      - "habr\xEDamos resignado"
+      - "habr\xEDais resignado"
+      - "habr\xEDan resignado"
+      cjid: cpef
+    - cjfs:
+      - haya resignado
+      - hayas resignado
+      - haya resignado
+      - hayamos resignado
+      - "hay\xE1is resignado"
+      - hayan resignado
+      cjid: ppfs
+    - cjfs:
+      - hubiera resignado
+      - hubieras resignado
+      - hubiera resignado
+      - "hubi\xE9ramos resignado"
+      - hubierais resignado
+      - hubieran resignado
+      cjid: ppss1
+    - cjfs:
+      - hubiese resignado
+      - hubieses resignado
+      - hubiese resignado
+      - "hubi\xE9semos resignado"
+      - hubieseis resignado
+      - hubiesen resignado
+      cjid: ppss2
+    - cjfs:
+      - hubiere resignado
+      - hubieres resignado
+      - hubiere resignado
+      - "hubi\xE9remos resignado"
+      - hubiereis resignado
+      - hubieren resignado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resigna
+      - resigne
+      - resignemos
+      - resignad
+      - resignen
+      cjid: impf

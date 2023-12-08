@@ -1,0 +1,235 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grant}, to {a_link|bestow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|concede}, to {a_link|admit}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: conceder
+    prs:
+    - sound:
+        audio: conce02sp
+  meta:
+    id: conceder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605341000'
+    src: spanish
+    stems:
+    - conceder
+    uuid: 43883fee-2a51-4f6d-b6b7-6fe6b59add15
+  shortdef:
+  - to grant, to bestow
+  - to concede, to admit
+  suppl:
+    cjts:
+    - cjfs:
+      - concediendo
+      - concedido
+      cjid: gppt
+    - cjfs:
+      - concedo
+      - concedes
+      - concede
+      - concedemos
+      - "conced\xE9is"
+      - conceden
+      cjid: pind
+    - cjfs:
+      - "conced\xEDa"
+      - "conced\xEDas"
+      - "conced\xEDa"
+      - "conced\xEDamos"
+      - "conced\xEDais"
+      - "conced\xEDan"
+      cjid: pret
+    - cjfs:
+      - "conced\xED"
+      - concediste
+      - "concedi\xF3"
+      - concedimos
+      - concedisteis
+      - concedieron
+      cjid: pprf
+    - cjfs:
+      - "conceder\xE9"
+      - "conceder\xE1s"
+      - "conceder\xE1"
+      - concederemos
+      - "conceder\xE9is"
+      - "conceder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conceder\xEDa"
+      - "conceder\xEDas"
+      - "conceder\xEDa"
+      - "conceder\xEDamos"
+      - "conceder\xEDais"
+      - "conceder\xEDan"
+      cjid: cond
+    - cjfs:
+      - conceda
+      - concedas
+      - conceda
+      - concedamos
+      - "conced\xE1is"
+      - concedan
+      cjid: psub
+    - cjfs:
+      - concediera
+      - concedieras
+      - concediera
+      - "concedi\xE9ramos"
+      - concedierais
+      - concedieran
+      cjid: pisb1
+    - cjfs:
+      - concediese
+      - concedieses
+      - concediese
+      - "concedi\xE9semos"
+      - concedieseis
+      - concediesen
+      cjid: pisb2
+    - cjfs:
+      - concediere
+      - concedieres
+      - concediere
+      - "concedi\xE9remos"
+      - concediereis
+      - concedieren
+      cjid: fsub
+    - cjfs:
+      - he concedido
+      - has concedido
+      - ha concedido
+      - hemos concedido
+      - "hab\xE9is concedido"
+      - han concedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa concedido"
+      - "hab\xEDas concedido"
+      - "hab\xEDa concedido"
+      - "hab\xEDamos concedido"
+      - "hab\xEDais concedido"
+      - "hab\xEDan concedido"
+      cjid: ppsi
+    - cjfs:
+      - hube concedido
+      - hubiste concedido
+      - hubo concedido
+      - hubimos concedido
+      - hubisteis concedido
+      - hubieron concedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 concedido"
+      - "habr\xE1s concedido"
+      - "habr\xE1 concedido"
+      - habremos concedido
+      - "habr\xE9is concedido"
+      - "habr\xE1n concedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa concedido"
+      - "habr\xEDas concedido"
+      - "habr\xEDa concedido"
+      - "habr\xEDamos concedido"
+      - "habr\xEDais concedido"
+      - "habr\xEDan concedido"
+      cjid: cpef
+    - cjfs:
+      - haya concedido
+      - hayas concedido
+      - haya concedido
+      - hayamos concedido
+      - "hay\xE1is concedido"
+      - hayan concedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera concedido
+      - hubieras concedido
+      - hubiera concedido
+      - "hubi\xE9ramos concedido"
+      - hubierais concedido
+      - hubieran concedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese concedido
+      - hubieses concedido
+      - hubiese concedido
+      - "hubi\xE9semos concedido"
+      - hubieseis concedido
+      - hubiesen concedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere concedido
+      - hubieres concedido
+      - hubiere concedido
+      - "hubi\xE9remos concedido"
+      - hubiereis concedido
+      - hubieren concedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - concede
+      - conceda
+      - concedamos
+      - conceded
+      - concedan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|allow||}, {sx|grant||} {bc}{a_link|conceder}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|admit||} {bc}{a_link|conceder}, {a_link|reconocer} '
+          - - vis
+            - - t: to concede defeat
+                tr: reconocer la derrota
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: concede
+    prs:
+    - mw: "k\u0259n\u02C8si\u02D0d"
+      sound:
+        audio: conced01
+  ins:
+  - if: conceded
+    ifc: -ceded
+  - if: conceding
+    ifc: -ceding
+  meta:
+    id: concede
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2604831000'
+    src: spanish
+    stems:
+    - concede
+    - conceded
+    - conceding
+    - concedes
+    - concededly
+    - conceder
+    - conceders
+    uuid: a853a455-304e-4f32-95e8-f86c3c39ae44
+  shortdef:
+  - 'allow, grant : conceder'
+  - 'admit : conceder, reconocer'

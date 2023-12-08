@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree on}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|otorgar||} {bc}to {a_link|award}, to {a_link|bestow}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|recordar||} {bc}to {a_link|remember}, to {a_link|recall}'
+    drp: acordarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: acordar
+    prs:
+    - sound:
+        audio: acord02sp
+  meta:
+    id: acordar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600334000'
+    src: spanish
+    stems:
+    - acordar
+    - acordarse
+    uuid: 7777b29e-9ef9-409d-8627-50bda59234b7
+  shortdef:
+  - to agree on
+  - 'otorgar : to award, to bestow'
+  suppl:
+    cjts:
+    - cjfs:
+      - acordando
+      - acordado
+      cjid: gppt
+    - cjfs:
+      - acuerdo
+      - acuerdas
+      - acuerda
+      - acordamos
+      - "acord\xE1is"
+      - acuerdan
+      cjid: pind
+    - cjfs:
+      - acordaba
+      - acordabas
+      - acordaba
+      - "acord\xE1bamos"
+      - acordabais
+      - acordaban
+      cjid: pret
+    - cjfs:
+      - "acord\xE9"
+      - acordaste
+      - "acord\xF3"
+      - acordamos
+      - acordasteis
+      - acordaron
+      cjid: pprf
+    - cjfs:
+      - "acordar\xE9"
+      - "acordar\xE1s"
+      - "acordar\xE1"
+      - acordaremos
+      - "acordar\xE9is"
+      - "acordar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acordar\xEDa"
+      - "acordar\xEDas"
+      - "acordar\xEDa"
+      - "acordar\xEDamos"
+      - "acordar\xEDais"
+      - "acordar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acuerde
+      - acuerdes
+      - acuerde
+      - acordemos
+      - "acord\xE9is"
+      - acuerden
+      cjid: psub
+    - cjfs:
+      - acordara
+      - acordaras
+      - acordara
+      - "acord\xE1ramos"
+      - acordarais
+      - acordaran
+      cjid: pisb1
+    - cjfs:
+      - acordase
+      - acordases
+      - acordase
+      - "acord\xE1semos"
+      - acordaseis
+      - acordasen
+      cjid: pisb2
+    - cjfs:
+      - acordare
+      - acordares
+      - acordare
+      - "acord\xE1remos"
+      - acordareis
+      - acordaren
+      cjid: fsub
+    - cjfs:
+      - he acordado
+      - has acordado
+      - ha acordado
+      - hemos acordado
+      - "hab\xE9is acordado"
+      - han acordado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acordado"
+      - "hab\xEDas acordado"
+      - "hab\xEDa acordado"
+      - "hab\xEDamos acordado"
+      - "hab\xEDais acordado"
+      - "hab\xEDan acordado"
+      cjid: ppsi
+    - cjfs:
+      - hube acordado
+      - hubiste acordado
+      - hubo acordado
+      - hubimos acordado
+      - hubisteis acordado
+      - hubieron acordado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acordado"
+      - "habr\xE1s acordado"
+      - "habr\xE1 acordado"
+      - habremos acordado
+      - "habr\xE9is acordado"
+      - "habr\xE1n acordado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acordado"
+      - "habr\xEDas acordado"
+      - "habr\xEDa acordado"
+      - "habr\xEDamos acordado"
+      - "habr\xEDais acordado"
+      - "habr\xEDan acordado"
+      cjid: cpef
+    - cjfs:
+      - haya acordado
+      - hayas acordado
+      - haya acordado
+      - hayamos acordado
+      - "hay\xE1is acordado"
+      - hayan acordado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acordado
+      - hubieras acordado
+      - hubiera acordado
+      - "hubi\xE9ramos acordado"
+      - hubierais acordado
+      - hubieran acordado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acordado
+      - hubieses acordado
+      - hubiese acordado
+      - "hubi\xE9semos acordado"
+      - hubieseis acordado
+      - hubiesen acordado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acordado
+      - hubieres acordado
+      - hubiere acordado
+      - "hubi\xE9remos acordado"
+      - hubiereis acordado
+      - hubieren acordado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acuerda
+      - acuerde
+      - acordemos
+      - acordad
+      - acuerden
+      cjid: impf

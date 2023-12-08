@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|need}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|necessitate}, to {a_link|require}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have need of'
+          vrs:
+          - va: necesitar de
+            vac: ~ de
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: necesitar
+    prs:
+    - sound:
+        audio: neces05sp
+  meta:
+    id: necesitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615669000'
+    src: spanish
+    stems:
+    - necesitar
+    - necesitar de
+    uuid: ece6648c-ff95-47b9-bbed-fd01338c0740
+  shortdef:
+  - to need
+  - to necessitate, to require
+  - to have need of
+  suppl:
+    cjts:
+    - cjfs:
+      - necesitando
+      - necesitado
+      cjid: gppt
+    - cjfs:
+      - necesito
+      - necesitas
+      - necesita
+      - necesitamos
+      - "necesit\xE1is"
+      - necesitan
+      cjid: pind
+    - cjfs:
+      - necesitaba
+      - necesitabas
+      - necesitaba
+      - "necesit\xE1bamos"
+      - necesitabais
+      - necesitaban
+      cjid: pret
+    - cjfs:
+      - "necesit\xE9"
+      - necesitaste
+      - "necesit\xF3"
+      - necesitamos
+      - necesitasteis
+      - necesitaron
+      cjid: pprf
+    - cjfs:
+      - "necesitar\xE9"
+      - "necesitar\xE1s"
+      - "necesitar\xE1"
+      - necesitaremos
+      - "necesitar\xE9is"
+      - "necesitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "necesitar\xEDa"
+      - "necesitar\xEDas"
+      - "necesitar\xEDa"
+      - "necesitar\xEDamos"
+      - "necesitar\xEDais"
+      - "necesitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - necesite
+      - necesites
+      - necesite
+      - necesitemos
+      - "necesit\xE9is"
+      - necesiten
+      cjid: psub
+    - cjfs:
+      - necesitara
+      - necesitaras
+      - necesitara
+      - "necesit\xE1ramos"
+      - necesitarais
+      - necesitaran
+      cjid: pisb1
+    - cjfs:
+      - necesitase
+      - necesitases
+      - necesitase
+      - "necesit\xE1semos"
+      - necesitaseis
+      - necesitasen
+      cjid: pisb2
+    - cjfs:
+      - necesitare
+      - necesitares
+      - necesitare
+      - "necesit\xE1remos"
+      - necesitareis
+      - necesitaren
+      cjid: fsub
+    - cjfs:
+      - he necesitado
+      - has necesitado
+      - ha necesitado
+      - hemos necesitado
+      - "hab\xE9is necesitado"
+      - han necesitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa necesitado"
+      - "hab\xEDas necesitado"
+      - "hab\xEDa necesitado"
+      - "hab\xEDamos necesitado"
+      - "hab\xEDais necesitado"
+      - "hab\xEDan necesitado"
+      cjid: ppsi
+    - cjfs:
+      - hube necesitado
+      - hubiste necesitado
+      - hubo necesitado
+      - hubimos necesitado
+      - hubisteis necesitado
+      - hubieron necesitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 necesitado"
+      - "habr\xE1s necesitado"
+      - "habr\xE1 necesitado"
+      - habremos necesitado
+      - "habr\xE9is necesitado"
+      - "habr\xE1n necesitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa necesitado"
+      - "habr\xEDas necesitado"
+      - "habr\xEDa necesitado"
+      - "habr\xEDamos necesitado"
+      - "habr\xEDais necesitado"
+      - "habr\xEDan necesitado"
+      cjid: cpef
+    - cjfs:
+      - haya necesitado
+      - hayas necesitado
+      - haya necesitado
+      - hayamos necesitado
+      - "hay\xE1is necesitado"
+      - hayan necesitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera necesitado
+      - hubieras necesitado
+      - hubiera necesitado
+      - "hubi\xE9ramos necesitado"
+      - hubierais necesitado
+      - hubieran necesitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese necesitado
+      - hubieses necesitado
+      - hubiese necesitado
+      - "hubi\xE9semos necesitado"
+      - hubieseis necesitado
+      - hubiesen necesitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere necesitado
+      - hubieres necesitado
+      - hubiere necesitado
+      - "hubi\xE9remos necesitado"
+      - hubiereis necesitado
+      - hubieren necesitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - necesita
+      - necesite
+      - necesitemos
+      - necesitad
+      - necesiten
+      cjid: impf

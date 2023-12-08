@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|distract}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|entretener||} {bc}to {a_link|entertain}, to {a_link|amuse}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get distracted'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to amuse oneself'
+            sn: '2'
+    drp: distraerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: distraer
+    prs:
+    - sound:
+        audio: distr01sp
+  meta:
+    id: distraer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607777000'
+    src: spanish
+    stems:
+    - distraer
+    - distraerse
+    uuid: 0cb9dc0a-afc7-4168-be50-edbf2b38094d
+  shortdef:
+  - to distract
+  - 'entretener : to entertain, to amuse'
+  suppl:
+    cjts:
+    - cjfs:
+      - distrayendo
+      - "distra\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - distraigo
+      - distraes
+      - distrae
+      - distraemos
+      - "distra\xE9is"
+      - distraen
+      cjid: pind
+    - cjfs:
+      - "distra\xEDa"
+      - "distra\xEDas"
+      - "distra\xEDa"
+      - "distra\xEDamos"
+      - "distra\xEDais"
+      - "distra\xEDan"
+      cjid: pret
+    - cjfs:
+      - distraje
+      - distrajiste
+      - distrajo
+      - distrajimos
+      - distrajisteis
+      - distrajeron
+      cjid: pprf
+    - cjfs:
+      - "distraer\xE9"
+      - "distraer\xE1s"
+      - "distraer\xE1"
+      - distraeremos
+      - "distraer\xE9is"
+      - "distraer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "distraer\xEDa"
+      - "distraer\xEDas"
+      - "distraer\xEDa"
+      - "distraer\xEDamos"
+      - "distraer\xEDais"
+      - "distraer\xEDan"
+      cjid: cond
+    - cjfs:
+      - distraiga
+      - distraigas
+      - distraiga
+      - distraigamos
+      - "distraig\xE1is"
+      - distraigan
+      cjid: psub
+    - cjfs:
+      - distrajera
+      - distrajeras
+      - distrajera
+      - "distraj\xE9ramos"
+      - distrajerais
+      - distrajeran
+      cjid: pisb1
+    - cjfs:
+      - distrajese
+      - distrajeses
+      - distrajese
+      - "distraj\xE9semos"
+      - distrajeseis
+      - distrajesen
+      cjid: pisb2
+    - cjfs:
+      - distrajere
+      - distrajeres
+      - distrajere
+      - "distraj\xE9remos"
+      - distrajereis
+      - distrajeren
+      cjid: fsub
+    - cjfs:
+      - "he distra\xEDdo"
+      - "has distra\xEDdo"
+      - "ha distra\xEDdo"
+      - "hemos distra\xEDdo"
+      - "hab\xE9is distra\xEDdo"
+      - "han distra\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa distra\xEDdo"
+      - "hab\xEDas distra\xEDdo"
+      - "hab\xEDa distra\xEDdo"
+      - "hab\xEDamos distra\xEDdo"
+      - "hab\xEDais distra\xEDdo"
+      - "hab\xEDan distra\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube distra\xEDdo"
+      - "hubiste distra\xEDdo"
+      - "hubo distra\xEDdo"
+      - "hubimos distra\xEDdo"
+      - "hubisteis distra\xEDdo"
+      - "hubieron distra\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 distra\xEDdo"
+      - "habr\xE1s distra\xEDdo"
+      - "habr\xE1 distra\xEDdo"
+      - "habremos distra\xEDdo"
+      - "habr\xE9is distra\xEDdo"
+      - "habr\xE1n distra\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa distra\xEDdo"
+      - "habr\xEDas distra\xEDdo"
+      - "habr\xEDa distra\xEDdo"
+      - "habr\xEDamos distra\xEDdo"
+      - "habr\xEDais distra\xEDdo"
+      - "habr\xEDan distra\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya distra\xEDdo"
+      - "hayas distra\xEDdo"
+      - "haya distra\xEDdo"
+      - "hayamos distra\xEDdo"
+      - "hay\xE1is distra\xEDdo"
+      - "hayan distra\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera distra\xEDdo"
+      - "hubieras distra\xEDdo"
+      - "hubiera distra\xEDdo"
+      - "hubi\xE9ramos distra\xEDdo"
+      - "hubierais distra\xEDdo"
+      - "hubieran distra\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese distra\xEDdo"
+      - "hubieses distra\xEDdo"
+      - "hubiese distra\xEDdo"
+      - "hubi\xE9semos distra\xEDdo"
+      - "hubieseis distra\xEDdo"
+      - "hubiesen distra\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere distra\xEDdo"
+      - "hubieres distra\xEDdo"
+      - "hubiere distra\xEDdo"
+      - "hubi\xE9remos distra\xEDdo"
+      - "hubiereis distra\xEDdo"
+      - "hubieren distra\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - distrae
+      - distraiga
+      - distraigamos
+      - distraed
+      - distraigan
+      cjid: impf

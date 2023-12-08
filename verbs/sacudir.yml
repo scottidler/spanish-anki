@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shake}, to {a_link|beat}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|jerk}, to {a_link|jolt}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to dust off'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conmover||} {bc}to {a_link|shake up}, to {a_link|shock}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|shake off}'
+    drp: sacudirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sacudir
+    prs:
+    - sound:
+        audio: sacud02sp
+  meta:
+    id: sacudir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620088000'
+    src: spanish
+    stems:
+    - sacudir
+    - sacudirse
+    uuid: e63a518f-ef2a-443b-8f38-bacbb459cf1a
+  shortdef:
+  - to shake, to beat
+  - to jerk, to jolt
+  - to dust off
+  suppl:
+    cjts:
+    - cjfs:
+      - sacudiendo
+      - sacudido
+      cjid: gppt
+    - cjfs:
+      - sacudo
+      - sacudes
+      - sacude
+      - sacudimos
+      - "sacud\xEDs"
+      - sacuden
+      cjid: pind
+    - cjfs:
+      - "sacud\xEDa"
+      - "sacud\xEDas"
+      - "sacud\xEDa"
+      - "sacud\xEDamos"
+      - "sacud\xEDais"
+      - "sacud\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sacud\xED"
+      - sacudiste
+      - "sacudi\xF3"
+      - sacudimos
+      - sacudisteis
+      - sacudieron
+      cjid: pprf
+    - cjfs:
+      - "sacudir\xE9"
+      - "sacudir\xE1s"
+      - "sacudir\xE1"
+      - sacudiremos
+      - "sacudir\xE9is"
+      - "sacudir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sacudir\xEDa"
+      - "sacudir\xEDas"
+      - "sacudir\xEDa"
+      - "sacudir\xEDamos"
+      - "sacudir\xEDais"
+      - "sacudir\xEDan"
+      cjid: cond
+    - cjfs:
+      - sacuda
+      - sacudas
+      - sacuda
+      - sacudamos
+      - "sacud\xE1is"
+      - sacudan
+      cjid: psub
+    - cjfs:
+      - sacudiera
+      - sacudieras
+      - sacudiera
+      - "sacudi\xE9ramos"
+      - sacudierais
+      - sacudieran
+      cjid: pisb1
+    - cjfs:
+      - sacudiese
+      - sacudieses
+      - sacudiese
+      - "sacudi\xE9semos"
+      - sacudieseis
+      - sacudiesen
+      cjid: pisb2
+    - cjfs:
+      - sacudiere
+      - sacudieres
+      - sacudiere
+      - "sacudi\xE9remos"
+      - sacudiereis
+      - sacudieren
+      cjid: fsub
+    - cjfs:
+      - he sacudido
+      - has sacudido
+      - ha sacudido
+      - hemos sacudido
+      - "hab\xE9is sacudido"
+      - han sacudido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sacudido"
+      - "hab\xEDas sacudido"
+      - "hab\xEDa sacudido"
+      - "hab\xEDamos sacudido"
+      - "hab\xEDais sacudido"
+      - "hab\xEDan sacudido"
+      cjid: ppsi
+    - cjfs:
+      - hube sacudido
+      - hubiste sacudido
+      - hubo sacudido
+      - hubimos sacudido
+      - hubisteis sacudido
+      - hubieron sacudido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sacudido"
+      - "habr\xE1s sacudido"
+      - "habr\xE1 sacudido"
+      - habremos sacudido
+      - "habr\xE9is sacudido"
+      - "habr\xE1n sacudido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sacudido"
+      - "habr\xEDas sacudido"
+      - "habr\xEDa sacudido"
+      - "habr\xEDamos sacudido"
+      - "habr\xEDais sacudido"
+      - "habr\xEDan sacudido"
+      cjid: cpef
+    - cjfs:
+      - haya sacudido
+      - hayas sacudido
+      - haya sacudido
+      - hayamos sacudido
+      - "hay\xE1is sacudido"
+      - hayan sacudido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sacudido
+      - hubieras sacudido
+      - hubiera sacudido
+      - "hubi\xE9ramos sacudido"
+      - hubierais sacudido
+      - hubieran sacudido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sacudido
+      - hubieses sacudido
+      - hubiese sacudido
+      - "hubi\xE9semos sacudido"
+      - hubieseis sacudido
+      - hubiesen sacudido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sacudido
+      - hubieres sacudido
+      - hubiere sacudido
+      - "hubi\xE9remos sacudido"
+      - hubiereis sacudido
+      - hubieren sacudido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sacude
+      - sacuda
+      - sacudamos
+      - sacudid
+      - sacudan
+      cjid: impf

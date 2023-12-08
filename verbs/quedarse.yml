@@ -1,0 +1,609 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|permanecer||} {bc}to {a_link|remain}, to {a_link|stay} '
+          - - vis
+            - - t: queda abierto hasta el 31
+                tr: it will remain open until the 31st
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be}, to end up being '
+          - - vis
+            - - t: quedamos contentos con las mejoras
+                tr: we were pleased with the improvements
+              - t: "el partido qued\xF3 empatado"
+                tr: the game ended in a tie
+              - t: "el pastel qued\xF3 muy rico"
+                tr: the cake came out really well, the cake was delicious
+              - t: "queda claro que \u2026"
+                tr: "it's clear that \u2026"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be situated '
+          - - vis
+            - - t: queda muy lejos
+                tr: it's very far, it's too far away
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be left} '
+          - - vis
+            - - t: "quedan s\xF3lo dos alternativas"
+                tr: there are only two options left
+              - t: no me queda mucho dinero
+                tr: I don't have much money left
+              - t: queda mucho por hacer
+                tr: there's still a lot left to do
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit}, to {a_link|suit} '
+          - - vis
+            - - t: estos zapatos no me quedan
+                tr: these shoes don't fit
+              - t: me queda grande
+                tr: it's big on me
+              - t: ese color te queda bien
+                tr: that color looks good on you
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to agree to meet '
+          - - vis
+            - - t: "\xBFa qu\xE9 hora quedamos?"
+                tr: what time are we meeting?
+              - t: "qued\xE9 con un amigo para cenar"
+                tr: I arranged to have dinner with a friend
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make a good/bad impression on someone'
+          sn: '7'
+          vrs:
+          - va: quedar bien/mal con alguien
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree}, to {a_link|arrange} '
+          - - vis
+            - - t: "\xBFen qu\xE9 quedamos?"
+                tr: what's the plan?, what are we doing?
+          sn: '8'
+          vrs:
+          - va: quedar en
+            vac: ~ en
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stay} '
+            - - vis
+              - - t: "se qued\xF3 en casa"
+                  tr: she stayed at home
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|keep on} '
+            - - vis
+              - - t: "se qued\xF3 esperando"
+                  tr: he kept on waiting
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to stay behind, to get left behind '
+            - - vis
+              - - t: "no quedarse atr\xE1s"
+                  tr: to be no slouch
+            sn: '3'
+            vrs:
+            - va: "quedarse atr\xE1s"
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|remain} '
+            - - vis
+              - - t: "me qued\xE9 con hambre despu\xE9s de comer"
+                  tr: I was still hungry after I ate
+            sn: '4'
+            vrs:
+            - va: quedarse con
+              vac: ~ con
+    drp: quedarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: quedar
+    prs:
+    - sound:
+        audio: queda02sp
+  meta:
+    id: quedar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618576000'
+    src: spanish
+    stems:
+    - quedar
+    - quedar bien/mal con alguien
+    - quedar bien con alguien
+    - quedar mal con alguien
+    - quedar en
+    - quedarse
+    - "quedarse atr\xE1s"
+    - quedarse con
+    uuid: 786a9a42-a1bd-4819-9999-6a48e9bcb28e
+  shortdef:
+  - 'permanecer : to remain, to stay'
+  - to be, to end up being
+  - to be situated
+  suppl:
+    cjts:
+    - cjfs:
+      - quedando
+      - quedado
+      cjid: gppt
+    - cjfs:
+      - quedo
+      - quedas
+      - queda
+      - quedamos
+      - "qued\xE1is"
+      - quedan
+      cjid: pind
+    - cjfs:
+      - quedaba
+      - quedabas
+      - quedaba
+      - "qued\xE1bamos"
+      - quedabais
+      - quedaban
+      cjid: pret
+    - cjfs:
+      - "qued\xE9"
+      - quedaste
+      - "qued\xF3"
+      - quedamos
+      - quedasteis
+      - quedaron
+      cjid: pprf
+    - cjfs:
+      - "quedar\xE9"
+      - "quedar\xE1s"
+      - "quedar\xE1"
+      - quedaremos
+      - "quedar\xE9is"
+      - "quedar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "quedar\xEDa"
+      - "quedar\xEDas"
+      - "quedar\xEDa"
+      - "quedar\xEDamos"
+      - "quedar\xEDais"
+      - "quedar\xEDan"
+      cjid: cond
+    - cjfs:
+      - quede
+      - quedes
+      - quede
+      - quedemos
+      - "qued\xE9is"
+      - queden
+      cjid: psub
+    - cjfs:
+      - quedara
+      - quedaras
+      - quedara
+      - "qued\xE1ramos"
+      - quedarais
+      - quedaran
+      cjid: pisb1
+    - cjfs:
+      - quedase
+      - quedases
+      - quedase
+      - "qued\xE1semos"
+      - quedaseis
+      - quedasen
+      cjid: pisb2
+    - cjfs:
+      - quedare
+      - quedares
+      - quedare
+      - "qued\xE1remos"
+      - quedareis
+      - quedaren
+      cjid: fsub
+    - cjfs:
+      - he quedado
+      - has quedado
+      - ha quedado
+      - hemos quedado
+      - "hab\xE9is quedado"
+      - han quedado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa quedado"
+      - "hab\xEDas quedado"
+      - "hab\xEDa quedado"
+      - "hab\xEDamos quedado"
+      - "hab\xEDais quedado"
+      - "hab\xEDan quedado"
+      cjid: ppsi
+    - cjfs:
+      - hube quedado
+      - hubiste quedado
+      - hubo quedado
+      - hubimos quedado
+      - hubisteis quedado
+      - hubieron quedado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 quedado"
+      - "habr\xE1s quedado"
+      - "habr\xE1 quedado"
+      - habremos quedado
+      - "habr\xE9is quedado"
+      - "habr\xE1n quedado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa quedado"
+      - "habr\xEDas quedado"
+      - "habr\xEDa quedado"
+      - "habr\xEDamos quedado"
+      - "habr\xEDais quedado"
+      - "habr\xEDan quedado"
+      cjid: cpef
+    - cjfs:
+      - haya quedado
+      - hayas quedado
+      - haya quedado
+      - hayamos quedado
+      - "hay\xE1is quedado"
+      - hayan quedado
+      cjid: ppfs
+    - cjfs:
+      - hubiera quedado
+      - hubieras quedado
+      - hubiera quedado
+      - "hubi\xE9ramos quedado"
+      - hubierais quedado
+      - hubieran quedado
+      cjid: ppss1
+    - cjfs:
+      - hubiese quedado
+      - hubieses quedado
+      - hubiese quedado
+      - "hubi\xE9semos quedado"
+      - hubieseis quedado
+      - hubiesen quedado
+      cjid: ppss2
+    - cjfs:
+      - hubiere quedado
+      - hubieres quedado
+      - hubiere quedado
+      - "hubi\xE9remos quedado"
+      - hubiereis quedado
+      - hubieren quedado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - queda
+      - quede
+      - quedemos
+      - quedad
+      - queden
+      cjid: impf
+- ahws:
+  - hw: "af\xF3nica"
+    hwc: -ca
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lose one''s voice, to get laryngitis'
+          vrs:
+          - va: "quedarse af\xF3nico"
+  fl: adjective
+  hwi:
+    hw: "af\xF3nico"
+  meta:
+    id: afonico
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600648000'
+    src: spanish
+    stems:
+    - "af\xF3nico"
+    - "af\xF3nica"
+    - "quedarse af\xF3nico"
+    uuid: 4b03cc01-498f-4fb9-afb5-ddaefd17eff5
+  shortdef:
+  - to lose one's voice, to get laryngitis
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|detr\xE1s||} {bc}{a_link|back}, {a_link|behind} "
+          - - vis
+            - - t: "la parte de atr\xE1s"
+                tr: the back/rear part
+              - t: "dar un paso atr\xE1s"
+                tr: to take a step back
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|antes||} {bc}{a_link|ago} '
+          - - vis
+            - - t: "mucho tiempo atr\xE1s"
+                tr: long ago
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in back of}, {a_link|behind}'
+          sn: '3'
+          vrs:
+          - va: "atr\xE1s de"
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}from behind, from the rear'
+          sn: '4'
+          vrs:
+          - va: "desde atr\xE1s "
+            vac: 'desde ~ '
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|backwards}, toward the rear'
+          sn: '5'
+          vrs:
+          - va: "hacia/para atr\xE1s"
+            vac: hacia/para ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave} (the past, etc.) {a_link|behind}'
+          sn: '6'
+          vrs:
+          - va: "dejar atr\xE1s"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall behind}, to get left behind'
+          sn: '7'
+          vrs:
+          - va: "quedarse atr\xE1s"
+  fl: adverb
+  hwi:
+    hw: "atr\xE1s"
+    prs:
+    - sound:
+        audio: atras01sp
+  meta:
+    id: atras
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602350000'
+    src: spanish
+    stems:
+    - "atr\xE1s"
+    - "atr\xE1s de"
+    - "desde atr\xE1s "
+    - "hacia/para atr\xE1s"
+    - "hacia atr\xE1s"
+    - "para atr\xE1s"
+    - "dejar atr\xE1s"
+    - "quedarse atr\xE1s"
+    uuid: 06fdf2c5-708a-4435-a1f5-9ed12b6b5335
+  shortdef:
+  - "detr\xE1s : back, behind"
+  - 'antes : ago'
+  - in back of, behind
+- ahws:
+  - hw: ciega
+    hwc: -ga
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|invidente||} {bc}{a_link|blind}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|blindly}'
+          sn: '2'
+          vrs:
+          - va: a ciegas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go blind'
+          sn: '3'
+          vrs:
+          - va: quedarse ciego
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: ciego
+    prs:
+    - sound:
+        audio: ciego01sp
+  meta:
+    id: ciego:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604700000'
+    src: spanish
+    stems:
+    - ciego
+    - ciega
+    - a ciegas
+    - quedarse ciego
+    - ciegamente
+    uuid: e41f6215-31ec-4425-af4f-b334fa30ccaf
+  shortdef:
+  - 'invidente : blind'
+  - blindly
+  - to go blind
+  uros:
+  - fl: adverb
+    ure: ciegamente
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|desire}, {a_link|inclination}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|enthusiastically}, {a_link|heartily} '
+          - - vis
+            - - t: trabajar con ganas
+                tr: to work enthusiastically
+              - t: llover con ganas
+                tr: to be pouring rain
+          sn: '2'
+          vrs:
+          - va: con ganas
+            vac: con ~s
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make someone feel like doing something'
+          sn: '3'
+          vrs:
+          - va: darle ganas a alguien de hacer algo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|willingly}, {a_link|readily}, {a_link|gladly}'
+          sn: '4'
+          vrs:
+          - va: de buena gana
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|reluctantly}, {a_link|halfheartedly}'
+          sn: '5'
+          vrs:
+          - va: de mala gana
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to feel like doing something '
+          - - vis
+            - - t: tengo ganas de bailar
+                tr: I feel like dancing
+          sn: '6'
+          vrs:
+          - va: tener ganas de hacer algo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be dying to do something'
+          sn: '7'
+          vrs:
+          - va: morirse de ganas de hacer algo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put effort into something'
+          sn: '8'
+          vrs:
+          - va: ponerle ganas a algo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to end up not doing something'
+          sn: '9'
+          vrs:
+          - va: quedarse con las ganas (de hacer algo)
+  fl: feminine noun
+  hwi:
+    hw: gana
+    prs:
+    - sound:
+        audio: gana001sp
+  meta:
+    id: gana
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610642000'
+    src: spanish
+    stems:
+    - gana
+    - con ganas
+    - darle ganas a alguien de hacer algo
+    - de buena gana
+    - de mala gana
+    - tener ganas de hacer algo
+    - morirse de ganas de hacer algo
+    - ponerle ganas a algo
+    - quedarse con las ganas (de hacer algo)
+    - quedarse con las ganas
+    - quedarse con las ganas de hacer algo
+    uuid: 08c3e4f0-022f-44b0-a39e-480da5f00c6e
+  shortdef:
+  - desire, inclination
+  - enthusiastically, heartily
+  - to make someone feel like doing something
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|inkwell}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to remain unsaid'
+          sn: '2'
+          vrs:
+          - va: quedarse en el tintero
+  fl: masculine noun
+  hwi:
+    hw: tintero
+  meta:
+    id: tintero
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621843000'
+    src: spanish
+    stems:
+    - tintero
+    - quedarse en el tintero
+    uuid: d9170005-5373-42ea-a558-c357ad6bf5c8
+  shortdef:
+  - inkwell
+  - to remain unsaid

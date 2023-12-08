@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|saltar||} {bc}to {a_link|jump} (up and down) '
+          - - vis
+            - - t: "brincar de alegr\xEDa"
+                tr: to jump for joy
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hop} (of a rabbit, etc.), to {a_link|gambol}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: brincar
+    prs:
+    - sound:
+        audio: brinc01sp
+  meta:
+    id: brincar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603333000'
+    src: spanish
+    stems:
+    - brincar
+    uuid: cc5dfb0e-840d-4ef5-a68d-8bd8b22b9c18
+  shortdef:
+  - 'saltar : to jump (up and down)'
+  - to hop (of a rabbit, etc.), to gambol
+  suppl:
+    cjts:
+    - cjfs:
+      - brincando
+      - brincado
+      cjid: gppt
+    - cjfs:
+      - brinco
+      - brincas
+      - brinca
+      - brincamos
+      - "brinc\xE1is"
+      - brincan
+      cjid: pind
+    - cjfs:
+      - brincaba
+      - brincabas
+      - brincaba
+      - "brinc\xE1bamos"
+      - brincabais
+      - brincaban
+      cjid: pret
+    - cjfs:
+      - "brinqu\xE9"
+      - brincaste
+      - "brinc\xF3"
+      - brincamos
+      - brincasteis
+      - brincaron
+      cjid: pprf
+    - cjfs:
+      - "brincar\xE9"
+      - "brincar\xE1s"
+      - "brincar\xE1"
+      - brincaremos
+      - "brincar\xE9is"
+      - "brincar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "brincar\xEDa"
+      - "brincar\xEDas"
+      - "brincar\xEDa"
+      - "brincar\xEDamos"
+      - "brincar\xEDais"
+      - "brincar\xEDan"
+      cjid: cond
+    - cjfs:
+      - brinque
+      - brinques
+      - brinque
+      - brinquemos
+      - "brinqu\xE9is"
+      - brinquen
+      cjid: psub
+    - cjfs:
+      - brincara
+      - brincaras
+      - brincara
+      - "brinc\xE1ramos"
+      - brincarais
+      - brincaran
+      cjid: pisb1
+    - cjfs:
+      - brincase
+      - brincases
+      - brincase
+      - "brinc\xE1semos"
+      - brincaseis
+      - brincasen
+      cjid: pisb2
+    - cjfs:
+      - brincare
+      - brincares
+      - brincare
+      - "brinc\xE1remos"
+      - brincareis
+      - brincaren
+      cjid: fsub
+    - cjfs:
+      - he brincado
+      - has brincado
+      - ha brincado
+      - hemos brincado
+      - "hab\xE9is brincado"
+      - han brincado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa brincado"
+      - "hab\xEDas brincado"
+      - "hab\xEDa brincado"
+      - "hab\xEDamos brincado"
+      - "hab\xEDais brincado"
+      - "hab\xEDan brincado"
+      cjid: ppsi
+    - cjfs:
+      - hube brincado
+      - hubiste brincado
+      - hubo brincado
+      - hubimos brincado
+      - hubisteis brincado
+      - hubieron brincado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 brincado"
+      - "habr\xE1s brincado"
+      - "habr\xE1 brincado"
+      - habremos brincado
+      - "habr\xE9is brincado"
+      - "habr\xE1n brincado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa brincado"
+      - "habr\xEDas brincado"
+      - "habr\xEDa brincado"
+      - "habr\xEDamos brincado"
+      - "habr\xEDais brincado"
+      - "habr\xEDan brincado"
+      cjid: cpef
+    - cjfs:
+      - haya brincado
+      - hayas brincado
+      - haya brincado
+      - hayamos brincado
+      - "hay\xE1is brincado"
+      - hayan brincado
+      cjid: ppfs
+    - cjfs:
+      - hubiera brincado
+      - hubieras brincado
+      - hubiera brincado
+      - "hubi\xE9ramos brincado"
+      - hubierais brincado
+      - hubieran brincado
+      cjid: ppss1
+    - cjfs:
+      - hubiese brincado
+      - hubieses brincado
+      - hubiese brincado
+      - "hubi\xE9semos brincado"
+      - hubieseis brincado
+      - hubiesen brincado
+      cjid: ppss2
+    - cjfs:
+      - hubiere brincado
+      - hubieres brincado
+      - hubiere brincado
+      - "hubi\xE9remos brincado"
+      - hubiereis brincado
+      - hubieren brincado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - brinca
+      - brinque
+      - brinquemos
+      - brincad
+      - brinquen
+      cjid: impf

@@ -1,0 +1,218 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|concluir||} {bc}to {a_link|end}, to {a_link|conclude}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acabar||} {bc}to {a_link|complete}, to {a_link|finish off}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|finish}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stop}, to {a_link|end}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|run out}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to come to an end'
+            sn: '2'
+    drp: terminarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: terminar
+    prs:
+    - sound:
+        audio: termi02sp
+  meta:
+    id: terminar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621718000'
+    src: spanish
+    stems:
+    - terminar
+    - terminarse
+    uuid: c3022804-92a8-4c5e-8e9a-bb7b2e9519d1
+  shortdef:
+  - 'concluir : to end, to conclude'
+  - 'acabar : to complete, to finish off'
+  - to finish
+  suppl:
+    cjts:
+    - cjfs:
+      - terminando
+      - terminado
+      cjid: gppt
+    - cjfs:
+      - termino
+      - terminas
+      - termina
+      - terminamos
+      - "termin\xE1is"
+      - terminan
+      cjid: pind
+    - cjfs:
+      - terminaba
+      - terminabas
+      - terminaba
+      - "termin\xE1bamos"
+      - terminabais
+      - terminaban
+      cjid: pret
+    - cjfs:
+      - "termin\xE9"
+      - terminaste
+      - "termin\xF3"
+      - terminamos
+      - terminasteis
+      - terminaron
+      cjid: pprf
+    - cjfs:
+      - "terminar\xE9"
+      - "terminar\xE1s"
+      - "terminar\xE1"
+      - terminaremos
+      - "terminar\xE9is"
+      - "terminar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "terminar\xEDa"
+      - "terminar\xEDas"
+      - "terminar\xEDa"
+      - "terminar\xEDamos"
+      - "terminar\xEDais"
+      - "terminar\xEDan"
+      cjid: cond
+    - cjfs:
+      - termine
+      - termines
+      - termine
+      - terminemos
+      - "termin\xE9is"
+      - terminen
+      cjid: psub
+    - cjfs:
+      - terminara
+      - terminaras
+      - terminara
+      - "termin\xE1ramos"
+      - terminarais
+      - terminaran
+      cjid: pisb1
+    - cjfs:
+      - terminase
+      - terminases
+      - terminase
+      - "termin\xE1semos"
+      - terminaseis
+      - terminasen
+      cjid: pisb2
+    - cjfs:
+      - terminare
+      - terminares
+      - terminare
+      - "termin\xE1remos"
+      - terminareis
+      - terminaren
+      cjid: fsub
+    - cjfs:
+      - he terminado
+      - has terminado
+      - ha terminado
+      - hemos terminado
+      - "hab\xE9is terminado"
+      - han terminado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa terminado"
+      - "hab\xEDas terminado"
+      - "hab\xEDa terminado"
+      - "hab\xEDamos terminado"
+      - "hab\xEDais terminado"
+      - "hab\xEDan terminado"
+      cjid: ppsi
+    - cjfs:
+      - hube terminado
+      - hubiste terminado
+      - hubo terminado
+      - hubimos terminado
+      - hubisteis terminado
+      - hubieron terminado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 terminado"
+      - "habr\xE1s terminado"
+      - "habr\xE1 terminado"
+      - habremos terminado
+      - "habr\xE9is terminado"
+      - "habr\xE1n terminado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa terminado"
+      - "habr\xEDas terminado"
+      - "habr\xEDa terminado"
+      - "habr\xEDamos terminado"
+      - "habr\xEDais terminado"
+      - "habr\xEDan terminado"
+      cjid: cpef
+    - cjfs:
+      - haya terminado
+      - hayas terminado
+      - haya terminado
+      - hayamos terminado
+      - "hay\xE1is terminado"
+      - hayan terminado
+      cjid: ppfs
+    - cjfs:
+      - hubiera terminado
+      - hubieras terminado
+      - hubiera terminado
+      - "hubi\xE9ramos terminado"
+      - hubierais terminado
+      - hubieran terminado
+      cjid: ppss1
+    - cjfs:
+      - hubiese terminado
+      - hubieses terminado
+      - hubiese terminado
+      - "hubi\xE9semos terminado"
+      - hubieseis terminado
+      - hubiesen terminado
+      cjid: ppss2
+    - cjfs:
+      - hubiere terminado
+      - hubieres terminado
+      - hubiere terminado
+      - "hubi\xE9remos terminado"
+      - hubiereis terminado
+      - hubieren terminado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - termina
+      - termine
+      - terminemos
+      - terminad
+      - terminen
+      cjid: impf

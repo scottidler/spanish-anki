@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|accustom}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be accustomed, to be in the habit'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: acostumbrar
+    prs:
+    - sound:
+        audio: acost03sp
+  meta:
+    id: acostumbrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600345000'
+    src: spanish
+    stems:
+    - acostumbrar
+    - acostumbrarse
+    uuid: a75dbc33-171d-4521-9291-e312254c52da
+  shortdef:
+  - to accustom
+  - to be accustomed, to be in the habit
+  suppl:
+    cjts:
+    - cjfs:
+      - acostumbrando
+      - acostumbrado
+      cjid: gppt
+    - cjfs:
+      - acostumbro
+      - acostumbras
+      - acostumbra
+      - acostumbramos
+      - "acostumbr\xE1is"
+      - acostumbran
+      cjid: pind
+    - cjfs:
+      - acostumbraba
+      - acostumbrabas
+      - acostumbraba
+      - "acostumbr\xE1bamos"
+      - acostumbrabais
+      - acostumbraban
+      cjid: pret
+    - cjfs:
+      - "acostumbr\xE9"
+      - acostumbraste
+      - "acostumbr\xF3"
+      - acostumbramos
+      - acostumbrasteis
+      - acostumbraron
+      cjid: pprf
+    - cjfs:
+      - "acostumbrar\xE9"
+      - "acostumbrar\xE1s"
+      - "acostumbrar\xE1"
+      - acostumbraremos
+      - "acostumbrar\xE9is"
+      - "acostumbrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acostumbrar\xEDa"
+      - "acostumbrar\xEDas"
+      - "acostumbrar\xEDa"
+      - "acostumbrar\xEDamos"
+      - "acostumbrar\xEDais"
+      - "acostumbrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acostumbre
+      - acostumbres
+      - acostumbre
+      - acostumbremos
+      - "acostumbr\xE9is"
+      - acostumbren
+      cjid: psub
+    - cjfs:
+      - acostumbrara
+      - acostumbraras
+      - acostumbrara
+      - "acostumbr\xE1ramos"
+      - acostumbrarais
+      - acostumbraran
+      cjid: pisb1
+    - cjfs:
+      - acostumbrase
+      - acostumbrases
+      - acostumbrase
+      - "acostumbr\xE1semos"
+      - acostumbraseis
+      - acostumbrasen
+      cjid: pisb2
+    - cjfs:
+      - acostumbrare
+      - acostumbrares
+      - acostumbrare
+      - "acostumbr\xE1remos"
+      - acostumbrareis
+      - acostumbraren
+      cjid: fsub
+    - cjfs:
+      - he acostumbrado
+      - has acostumbrado
+      - ha acostumbrado
+      - hemos acostumbrado
+      - "hab\xE9is acostumbrado"
+      - han acostumbrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acostumbrado"
+      - "hab\xEDas acostumbrado"
+      - "hab\xEDa acostumbrado"
+      - "hab\xEDamos acostumbrado"
+      - "hab\xEDais acostumbrado"
+      - "hab\xEDan acostumbrado"
+      cjid: ppsi
+    - cjfs:
+      - hube acostumbrado
+      - hubiste acostumbrado
+      - hubo acostumbrado
+      - hubimos acostumbrado
+      - hubisteis acostumbrado
+      - hubieron acostumbrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acostumbrado"
+      - "habr\xE1s acostumbrado"
+      - "habr\xE1 acostumbrado"
+      - habremos acostumbrado
+      - "habr\xE9is acostumbrado"
+      - "habr\xE1n acostumbrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acostumbrado"
+      - "habr\xEDas acostumbrado"
+      - "habr\xEDa acostumbrado"
+      - "habr\xEDamos acostumbrado"
+      - "habr\xEDais acostumbrado"
+      - "habr\xEDan acostumbrado"
+      cjid: cpef
+    - cjfs:
+      - haya acostumbrado
+      - hayas acostumbrado
+      - haya acostumbrado
+      - hayamos acostumbrado
+      - "hay\xE1is acostumbrado"
+      - hayan acostumbrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acostumbrado
+      - hubieras acostumbrado
+      - hubiera acostumbrado
+      - "hubi\xE9ramos acostumbrado"
+      - hubierais acostumbrado
+      - hubieran acostumbrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acostumbrado
+      - hubieses acostumbrado
+      - hubiese acostumbrado
+      - "hubi\xE9semos acostumbrado"
+      - hubieseis acostumbrado
+      - hubiesen acostumbrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acostumbrado
+      - hubieres acostumbrado
+      - hubiere acostumbrado
+      - "hubi\xE9remos acostumbrado"
+      - hubiereis acostumbrado
+      - hubieren acostumbrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acostumbra
+      - acostumbre
+      - acostumbremos
+      - acostumbrad
+      - acostumbren
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: acostumbrarse

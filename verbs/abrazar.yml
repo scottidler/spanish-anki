@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hug}, to {a_link|embrace}'
+  fl: transitive verb
+  hwi:
+    hw: abrazar
+    prs:
+    - sound:
+        audio: abraz01sp
+  meta:
+    id: abrazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600098000'
+    src: spanish
+    stems:
+    - abrazar
+    - abrazarse
+    uuid: c3d5f8e8-4128-4349-9c5a-c8925b88f451
+  shortdef:
+  - to hug, to embrace
+  suppl:
+    cjts:
+    - cjfs:
+      - abrazando
+      - abrazado
+      cjid: gppt
+    - cjfs:
+      - abrazo
+      - abrazas
+      - abraza
+      - abrazamos
+      - "abraz\xE1is"
+      - abrazan
+      cjid: pind
+    - cjfs:
+      - abrazaba
+      - abrazabas
+      - abrazaba
+      - "abraz\xE1bamos"
+      - abrazabais
+      - abrazaban
+      cjid: pret
+    - cjfs:
+      - "abrac\xE9"
+      - abrazaste
+      - "abraz\xF3"
+      - abrazamos
+      - abrazasteis
+      - abrazaron
+      cjid: pprf
+    - cjfs:
+      - "abrazar\xE9"
+      - "abrazar\xE1s"
+      - "abrazar\xE1"
+      - abrazaremos
+      - "abrazar\xE9is"
+      - "abrazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abrazar\xEDa"
+      - "abrazar\xEDas"
+      - "abrazar\xEDa"
+      - "abrazar\xEDamos"
+      - "abrazar\xEDais"
+      - "abrazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - abrace
+      - abraces
+      - abrace
+      - abracemos
+      - "abrac\xE9is"
+      - abracen
+      cjid: psub
+    - cjfs:
+      - abrazara
+      - abrazaras
+      - abrazara
+      - "abraz\xE1ramos"
+      - abrazarais
+      - abrazaran
+      cjid: pisb1
+    - cjfs:
+      - abrazase
+      - abrazases
+      - abrazase
+      - "abraz\xE1semos"
+      - abrazaseis
+      - abrazasen
+      cjid: pisb2
+    - cjfs:
+      - abrazare
+      - abrazares
+      - abrazare
+      - "abraz\xE1remos"
+      - abrazareis
+      - abrazaren
+      cjid: fsub
+    - cjfs:
+      - he abrazado
+      - has abrazado
+      - ha abrazado
+      - hemos abrazado
+      - "hab\xE9is abrazado"
+      - han abrazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abrazado"
+      - "hab\xEDas abrazado"
+      - "hab\xEDa abrazado"
+      - "hab\xEDamos abrazado"
+      - "hab\xEDais abrazado"
+      - "hab\xEDan abrazado"
+      cjid: ppsi
+    - cjfs:
+      - hube abrazado
+      - hubiste abrazado
+      - hubo abrazado
+      - hubimos abrazado
+      - hubisteis abrazado
+      - hubieron abrazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abrazado"
+      - "habr\xE1s abrazado"
+      - "habr\xE1 abrazado"
+      - habremos abrazado
+      - "habr\xE9is abrazado"
+      - "habr\xE1n abrazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abrazado"
+      - "habr\xEDas abrazado"
+      - "habr\xEDa abrazado"
+      - "habr\xEDamos abrazado"
+      - "habr\xEDais abrazado"
+      - "habr\xEDan abrazado"
+      cjid: cpef
+    - cjfs:
+      - haya abrazado
+      - hayas abrazado
+      - haya abrazado
+      - hayamos abrazado
+      - "hay\xE1is abrazado"
+      - hayan abrazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera abrazado
+      - hubieras abrazado
+      - hubiera abrazado
+      - "hubi\xE9ramos abrazado"
+      - hubierais abrazado
+      - hubieran abrazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese abrazado
+      - hubieses abrazado
+      - hubiese abrazado
+      - "hubi\xE9semos abrazado"
+      - hubieseis abrazado
+      - hubiesen abrazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere abrazado
+      - hubieres abrazado
+      - hubiere abrazado
+      - "hubi\xE9remos abrazado"
+      - hubiereis abrazado
+      - hubieren abrazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abraza
+      - abrace
+      - abracemos
+      - abrazad
+      - abracen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: abrazarse

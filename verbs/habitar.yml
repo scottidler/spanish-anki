@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inhabit}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reside}, to {a_link|dwell}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: habitar
+    prs:
+    - sound:
+        audio: habit03sp
+  meta:
+    id: habitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611230000'
+    src: spanish
+    stems:
+    - habitar
+    uuid: 643fa557-bf65-4482-81a8-859276ad6648
+  shortdef:
+  - to inhabit
+  - to reside, to dwell
+  suppl:
+    cjts:
+    - cjfs:
+      - habitando
+      - habitado
+      cjid: gppt
+    - cjfs:
+      - habito
+      - habitas
+      - habita
+      - habitamos
+      - "habit\xE1is"
+      - habitan
+      cjid: pind
+    - cjfs:
+      - habitaba
+      - habitabas
+      - habitaba
+      - "habit\xE1bamos"
+      - habitabais
+      - habitaban
+      cjid: pret
+    - cjfs:
+      - "habit\xE9"
+      - habitaste
+      - "habit\xF3"
+      - habitamos
+      - habitasteis
+      - habitaron
+      cjid: pprf
+    - cjfs:
+      - "habitar\xE9"
+      - "habitar\xE1s"
+      - "habitar\xE1"
+      - habitaremos
+      - "habitar\xE9is"
+      - "habitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "habitar\xEDa"
+      - "habitar\xEDas"
+      - "habitar\xEDa"
+      - "habitar\xEDamos"
+      - "habitar\xEDais"
+      - "habitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - habite
+      - habites
+      - habite
+      - habitemos
+      - "habit\xE9is"
+      - habiten
+      cjid: psub
+    - cjfs:
+      - habitara
+      - habitaras
+      - habitara
+      - "habit\xE1ramos"
+      - habitarais
+      - habitaran
+      cjid: pisb1
+    - cjfs:
+      - habitase
+      - habitases
+      - habitase
+      - "habit\xE1semos"
+      - habitaseis
+      - habitasen
+      cjid: pisb2
+    - cjfs:
+      - habitare
+      - habitares
+      - habitare
+      - "habit\xE1remos"
+      - habitareis
+      - habitaren
+      cjid: fsub
+    - cjfs:
+      - he habitado
+      - has habitado
+      - ha habitado
+      - hemos habitado
+      - "hab\xE9is habitado"
+      - han habitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa habitado"
+      - "hab\xEDas habitado"
+      - "hab\xEDa habitado"
+      - "hab\xEDamos habitado"
+      - "hab\xEDais habitado"
+      - "hab\xEDan habitado"
+      cjid: ppsi
+    - cjfs:
+      - hube habitado
+      - hubiste habitado
+      - hubo habitado
+      - hubimos habitado
+      - hubisteis habitado
+      - hubieron habitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 habitado"
+      - "habr\xE1s habitado"
+      - "habr\xE1 habitado"
+      - habremos habitado
+      - "habr\xE9is habitado"
+      - "habr\xE1n habitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa habitado"
+      - "habr\xEDas habitado"
+      - "habr\xEDa habitado"
+      - "habr\xEDamos habitado"
+      - "habr\xEDais habitado"
+      - "habr\xEDan habitado"
+      cjid: cpef
+    - cjfs:
+      - haya habitado
+      - hayas habitado
+      - haya habitado
+      - hayamos habitado
+      - "hay\xE1is habitado"
+      - hayan habitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera habitado
+      - hubieras habitado
+      - hubiera habitado
+      - "hubi\xE9ramos habitado"
+      - hubierais habitado
+      - hubieran habitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese habitado
+      - hubieses habitado
+      - hubiese habitado
+      - "hubi\xE9semos habitado"
+      - hubieseis habitado
+      - hubiesen habitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere habitado
+      - hubieres habitado
+      - hubiere habitado
+      - "hubi\xE9remos habitado"
+      - hubiereis habitado
+      - hubieren habitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - habita
+      - habite
+      - habitemos
+      - habitad
+      - habiten
+      cjid: impf

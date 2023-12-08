@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|replace}, to {a_link|displace}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|trasladar||} {bc}to {a_link|move}, to {a_link|shift}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scroll} (in computing)'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: desplazar
+    prs:
+    - sound:
+        audio: despl02sp
+  meta:
+    id: desplazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607285000'
+    src: spanish
+    stems:
+    - desplazar
+    - desplazarse
+    uuid: bb8dab95-efe4-468f-be03-247446555ecc
+  shortdef:
+  - to replace, to displace
+  - 'trasladar : to move, to shift'
+  - to scroll (in computing)
+  suppl:
+    cjts:
+    - cjfs:
+      - desplazando
+      - desplazado
+      cjid: gppt
+    - cjfs:
+      - desplazo
+      - desplazas
+      - desplaza
+      - desplazamos
+      - "desplaz\xE1is"
+      - desplazan
+      cjid: pind
+    - cjfs:
+      - desplazaba
+      - desplazabas
+      - desplazaba
+      - "desplaz\xE1bamos"
+      - desplazabais
+      - desplazaban
+      cjid: pret
+    - cjfs:
+      - "desplac\xE9"
+      - desplazaste
+      - "desplaz\xF3"
+      - desplazamos
+      - desplazasteis
+      - desplazaron
+      cjid: pprf
+    - cjfs:
+      - "desplazar\xE9"
+      - "desplazar\xE1s"
+      - "desplazar\xE1"
+      - desplazaremos
+      - "desplazar\xE9is"
+      - "desplazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desplazar\xEDa"
+      - "desplazar\xEDas"
+      - "desplazar\xEDa"
+      - "desplazar\xEDamos"
+      - "desplazar\xEDais"
+      - "desplazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desplace
+      - desplaces
+      - desplace
+      - desplacemos
+      - "desplac\xE9is"
+      - desplacen
+      cjid: psub
+    - cjfs:
+      - desplazara
+      - desplazaras
+      - desplazara
+      - "desplaz\xE1ramos"
+      - desplazarais
+      - desplazaran
+      cjid: pisb1
+    - cjfs:
+      - desplazase
+      - desplazases
+      - desplazase
+      - "desplaz\xE1semos"
+      - desplazaseis
+      - desplazasen
+      cjid: pisb2
+    - cjfs:
+      - desplazare
+      - desplazares
+      - desplazare
+      - "desplaz\xE1remos"
+      - desplazareis
+      - desplazaren
+      cjid: fsub
+    - cjfs:
+      - he desplazado
+      - has desplazado
+      - ha desplazado
+      - hemos desplazado
+      - "hab\xE9is desplazado"
+      - han desplazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desplazado"
+      - "hab\xEDas desplazado"
+      - "hab\xEDa desplazado"
+      - "hab\xEDamos desplazado"
+      - "hab\xEDais desplazado"
+      - "hab\xEDan desplazado"
+      cjid: ppsi
+    - cjfs:
+      - hube desplazado
+      - hubiste desplazado
+      - hubo desplazado
+      - hubimos desplazado
+      - hubisteis desplazado
+      - hubieron desplazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desplazado"
+      - "habr\xE1s desplazado"
+      - "habr\xE1 desplazado"
+      - habremos desplazado
+      - "habr\xE9is desplazado"
+      - "habr\xE1n desplazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desplazado"
+      - "habr\xEDas desplazado"
+      - "habr\xEDa desplazado"
+      - "habr\xEDamos desplazado"
+      - "habr\xEDais desplazado"
+      - "habr\xEDan desplazado"
+      cjid: cpef
+    - cjfs:
+      - haya desplazado
+      - hayas desplazado
+      - haya desplazado
+      - hayamos desplazado
+      - "hay\xE1is desplazado"
+      - hayan desplazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desplazado
+      - hubieras desplazado
+      - hubiera desplazado
+      - "hubi\xE9ramos desplazado"
+      - hubierais desplazado
+      - hubieran desplazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desplazado
+      - hubieses desplazado
+      - hubiese desplazado
+      - "hubi\xE9semos desplazado"
+      - hubieseis desplazado
+      - hubiesen desplazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desplazado
+      - hubieres desplazado
+      - hubiere desplazado
+      - "hubi\xE9remos desplazado"
+      - hubiereis desplazado
+      - hubieren desplazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desplaza
+      - desplace
+      - desplacemos
+      - desplazad
+      - desplacen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: desplazarse

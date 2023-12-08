@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sell on credit'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|guarantee}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to place trust in'
+            vrs:
+            - va: fiarse de
+              vac: ~ de
+    drp: fiarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: fiar
+    prs:
+    - sound:
+        audio: fiar001sp
+  meta:
+    id: fiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610052000'
+    src: spanish
+    stems:
+    - fiar
+    - fiarse
+    - fiarse de
+    uuid: 8805d1c0-b8cc-477d-a3fd-c7e5b44b3711
+  shortdef:
+  - to sell on credit
+  - to guarantee
+  suppl:
+    cjts:
+    - cjfs:
+      - fiando
+      - fiado
+      cjid: gppt
+    - cjfs:
+      - "f\xEDo"
+      - "f\xEDas"
+      - "f\xEDa"
+      - fiamos
+      - "fi\xE1is"
+      - "f\xEDan"
+      cjid: pind
+    - cjfs:
+      - fiaba
+      - fiabas
+      - fiaba
+      - "fi\xE1bamos"
+      - fiabais
+      - fiaban
+      cjid: pret
+    - cjfs:
+      - "fi\xE9"
+      - fiaste
+      - "fi\xF3"
+      - fiamos
+      - fiasteis
+      - fiaron
+      cjid: pprf
+    - cjfs:
+      - "fiar\xE9"
+      - "fiar\xE1s"
+      - "fiar\xE1"
+      - fiaremos
+      - "fiar\xE9is"
+      - "fiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fiar\xEDa"
+      - "fiar\xEDas"
+      - "fiar\xEDa"
+      - "fiar\xEDamos"
+      - "fiar\xEDais"
+      - "fiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "f\xEDe"
+      - "f\xEDes"
+      - "f\xEDe"
+      - fiemos
+      - "fi\xE9is"
+      - "f\xEDen"
+      cjid: psub
+    - cjfs:
+      - fiara
+      - fiaras
+      - fiara
+      - "fi\xE1ramos"
+      - fiarais
+      - fiaran
+      cjid: pisb1
+    - cjfs:
+      - fiase
+      - fiases
+      - fiase
+      - "fi\xE1semos"
+      - fiaseis
+      - fiasen
+      cjid: pisb2
+    - cjfs:
+      - fiare
+      - fiares
+      - fiare
+      - "fi\xE1remos"
+      - fiareis
+      - fiaren
+      cjid: fsub
+    - cjfs:
+      - he fiado
+      - has fiado
+      - ha fiado
+      - hemos fiado
+      - "hab\xE9is fiado"
+      - han fiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fiado"
+      - "hab\xEDas fiado"
+      - "hab\xEDa fiado"
+      - "hab\xEDamos fiado"
+      - "hab\xEDais fiado"
+      - "hab\xEDan fiado"
+      cjid: ppsi
+    - cjfs:
+      - hube fiado
+      - hubiste fiado
+      - hubo fiado
+      - hubimos fiado
+      - hubisteis fiado
+      - hubieron fiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fiado"
+      - "habr\xE1s fiado"
+      - "habr\xE1 fiado"
+      - habremos fiado
+      - "habr\xE9is fiado"
+      - "habr\xE1n fiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fiado"
+      - "habr\xEDas fiado"
+      - "habr\xEDa fiado"
+      - "habr\xEDamos fiado"
+      - "habr\xEDais fiado"
+      - "habr\xEDan fiado"
+      cjid: cpef
+    - cjfs:
+      - haya fiado
+      - hayas fiado
+      - haya fiado
+      - hayamos fiado
+      - "hay\xE1is fiado"
+      - hayan fiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fiado
+      - hubieras fiado
+      - hubiera fiado
+      - "hubi\xE9ramos fiado"
+      - hubierais fiado
+      - hubieran fiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fiado
+      - hubieses fiado
+      - hubiese fiado
+      - "hubi\xE9semos fiado"
+      - hubieseis fiado
+      - hubiesen fiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fiado
+      - hubieres fiado
+      - hubiere fiado
+      - "hubi\xE9remos fiado"
+      - hubiereis fiado
+      - hubieren fiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "f\xEDa"
+      - "f\xEDe"
+      - fiemos
+      - fiad
+      - "f\xEDen"
+      cjid: impf

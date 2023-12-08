@@ -1,0 +1,805 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go out}, to {a_link|come out}, to {a_link|get out} '
+          - - vis
+            - - t: "sali\xF3 del edificio"
+                tr: she came/went out of the building
+              - t: "sal\xED a la calle"
+                tr: I went outside
+              - t: salimos todas las noches
+                tr: we go out every night
+              - t: salimos a desayunar
+                tr: we went out for breakfast
+              - t: "me ayud\xF3 a salir del apuro"
+                tr: he helped me out of a jam
+              - t: salieron ilesos
+                tr: they escaped unharmed
+              - t: "por la tarde sali\xF3 el sol"
+                tr: in the afternoon the sun came out
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|partir||} {bc}to {a_link|leave}, to {a_link|depart} '
+          - - vis
+            - - t: "sal\xED de casa a las seis"
+                tr: I left home at six (o'clock)
+              - t: "sali\xF3 del hospital"
+                tr: she's out of the hospital
+              - t: "salieron para Bogot\xE1"
+                tr: "they left for Bogot\xE1"
+              - t: "sali\xF3 a buscarla"
+                tr: he went to go pick her up
+              - t: "\xBFa qu\xE9 hora sale el vuelo?"
+                tr: what time does the flight leave?
+              - t: "sali\xF3 corriendo"
+                tr: she took off running
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aparecer||} {bc}to {a_link|appear} '
+          - - vis
+            - - t: "sali\xF3 en todos los diarios"
+                tr: it came out in all the papers
+              - t: "le est\xE1n saliendo los dientes"
+                tr: she's teething
+              - t: me salen canas
+                tr: I'm going gray, I'm getting gray hairs
+              - t: le salen granos
+                tr: she breaks out, she gets pimples
+              - t: "le sali\xF3 un sarpullido"
+                tr: he broke out in a rash
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come out}, to become available '
+          - - vis
+            - - t: su libro acaba de salir
+                tr: her book just came out
+              - t: salir a la venta
+                tr: to be released (for sale)
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rise} (of the sun)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come up} (of a topic), to {a_link|come out} (of news) '
+          - - vis
+            - - t: salir a relucir
+                tr: to come out, to come to light
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|project}, to {a_link|stick out}'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cost}, to {a_link|come to} '
+          - - vis
+            - - t: sale muy caro
+                tr: it's very expensive
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|resultar||} {bc}to {a_link|turn out}, to {a_link|prove} '
+          - - vis
+            - - t: salir bien/mal
+                tr: to turn out well/badly
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come up}, to {a_link|occur} '
+          - - vis
+            - - t: salga lo que salga
+                tr: whatever happens
+              - t: "sali\xF3 una oportunidad"
+                tr: an opportunity came up
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take after}, to {a_link|look like}, to {a_link|resemble}'
+          sn: '11'
+          vrs:
+          - va: salir a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to overcome difficulties, to {a_link|advance} '
+          - - vis
+            - - t: salir adelante en la vida
+                tr: to get ahead in life
+              - t: "es dif\xEDcil, pero saldremos adelante"
+                tr: it's difficult, but we'll get through it
+              - t: "sin ello el pa\xEDs/proyecto no saldr\xE1 adelante"
+                tr: without it the country/project won't move forward
+          sn: '12'
+          vrs:
+          - va: salir adelante
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go out with}, to {a_link|date}'
+          sn: '13'
+          vrs:
+          - va: salir con
+            vac: ~ con
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|escape}, to {a_link|get out}, to leak out'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to come loose, to {a_link|come off}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get one''s own way'
+            sn: '3'
+            vrs:
+            - va: salirse con la suya
+    drp: salirse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: salir
+    prs:
+    - sound:
+        audio: salir01sp
+  meta:
+    id: salir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620127000'
+    src: spanish
+    stems:
+    - salir
+    - salir a
+    - salir adelante
+    - salir con
+    - salirse
+    - salirse con la suya
+    uuid: ee6efdb0-f104-41c6-9deb-f0fd4768bc03
+  shortdef:
+  - to go out, to come out, to get out
+  - 'partir : to leave, to depart'
+  - 'aparecer : to appear'
+  suppl:
+    cjts:
+    - cjfs:
+      - saliendo
+      - salido
+      cjid: gppt
+    - cjfs:
+      - salgo
+      - sales
+      - sale
+      - salimos
+      - "sal\xEDs"
+      - salen
+      cjid: pind
+    - cjfs:
+      - "sal\xEDa"
+      - "sal\xEDas"
+      - "sal\xEDa"
+      - "sal\xEDamos"
+      - "sal\xEDais"
+      - "sal\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sal\xED"
+      - saliste
+      - "sali\xF3"
+      - salimos
+      - salisteis
+      - salieron
+      cjid: pprf
+    - cjfs:
+      - "saldr\xE9"
+      - "saldr\xE1s"
+      - "saldr\xE1"
+      - saldremos
+      - "saldr\xE9is"
+      - "saldr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "saldr\xEDa"
+      - "saldr\xEDas"
+      - "saldr\xEDa"
+      - "saldr\xEDamos"
+      - "saldr\xEDais"
+      - "saldr\xEDan"
+      cjid: cond
+    - cjfs:
+      - salga
+      - salgas
+      - salga
+      - salgamos
+      - "salg\xE1is"
+      - salgan
+      cjid: psub
+    - cjfs:
+      - saliera
+      - salieras
+      - saliera
+      - "sali\xE9ramos"
+      - salierais
+      - salieran
+      cjid: pisb1
+    - cjfs:
+      - saliese
+      - salieses
+      - saliese
+      - "sali\xE9semos"
+      - salieseis
+      - saliesen
+      cjid: pisb2
+    - cjfs:
+      - saliere
+      - salieres
+      - saliere
+      - "sali\xE9remos"
+      - saliereis
+      - salieren
+      cjid: fsub
+    - cjfs:
+      - he salido
+      - has salido
+      - ha salido
+      - hemos salido
+      - "hab\xE9is salido"
+      - han salido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa salido"
+      - "hab\xEDas salido"
+      - "hab\xEDa salido"
+      - "hab\xEDamos salido"
+      - "hab\xEDais salido"
+      - "hab\xEDan salido"
+      cjid: ppsi
+    - cjfs:
+      - hube salido
+      - hubiste salido
+      - hubo salido
+      - hubimos salido
+      - hubisteis salido
+      - hubieron salido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 salido"
+      - "habr\xE1s salido"
+      - "habr\xE1 salido"
+      - habremos salido
+      - "habr\xE9is salido"
+      - "habr\xE1n salido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa salido"
+      - "habr\xEDas salido"
+      - "habr\xEDa salido"
+      - "habr\xEDamos salido"
+      - "habr\xEDais salido"
+      - "habr\xEDan salido"
+      cjid: cpef
+    - cjfs:
+      - haya salido
+      - hayas salido
+      - haya salido
+      - hayamos salido
+      - "hay\xE1is salido"
+      - hayan salido
+      cjid: ppfs
+    - cjfs:
+      - hubiera salido
+      - hubieras salido
+      - hubiera salido
+      - "hubi\xE9ramos salido"
+      - hubierais salido
+      - hubieran salido
+      cjid: ppss1
+    - cjfs:
+      - hubiese salido
+      - hubieses salido
+      - hubiese salido
+      - "hubi\xE9semos salido"
+      - hubieseis salido
+      - hubiesen salido
+      cjid: ppss2
+    - cjfs:
+      - hubiere salido
+      - hubieres salido
+      - hubiere salido
+      - "hubi\xE9remos salido"
+      - hubiereis salido
+      - hubieren salido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sal
+      - salga
+      - salgamos
+      - salid
+      - salgan
+      cjid: impf
+- ahws:
+  - hw: airosa
+    hwc: -sa
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|elegant}, {a_link|graceful}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come out winning'
+          sn: '2'
+          vrs:
+          - va: salir airoso
+  fl: adjective
+  hwi:
+    hw: airoso
+  meta:
+    id: airoso
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600809000'
+    src: spanish
+    stems:
+    - airoso
+    - airosa
+    - salir airoso
+    uuid: de940913-bbe1-424c-a76e-91ce1fb2e03b
+  shortdef:
+  - elegant, graceful
+  - to come out winning
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to boil rapidly'
+          sn: '1'
+          vrs:
+          - va: hervir a borbotones
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to gush out'
+          sn: '2'
+          vrs:
+          - va: salir a borbotones
+  fl: masculine noun
+  hwi:
+    hw: "borbot\xF3n"
+  ins:
+  - if: borbotones
+    ifc: -tones
+    il: plural
+  meta:
+    id: borboton
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603221000'
+    src: spanish
+    stems:
+    - "borbot\xF3n"
+    - borbotones
+    - hervir a borbotones
+    - salir a borbotones
+    uuid: f7c0dc76-b22c-44d3-83b7-e79fed1380d8
+  shortdef:
+  - to boil rapidly
+  - to gush out
+- ahws:
+  - hw: disparada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take off in a hurry, to rush away'
+          sls:
+          - familiar
+          vrs:
+          - va: salir disparado
+  fl: adjective
+  hwi:
+    hw: disparado
+    prs:
+    - sound:
+        audio: dispa01sp
+  meta:
+    id: disparado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607727000'
+    src: spanish
+    stems:
+    - disparado
+    - disparada
+    - salir disparado
+    uuid: 55f748ba-6947-4d01-b149-77ae64208402
+  shortdef:
+  - to take off in a hurry, to rush away
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|light} '
+          - - vis
+            - - t: luz del sol
+                tr: sunlight
+              - t: "luz el\xE9ctrica/artificial"
+                tr: electric/artificial light
+              - t: iluminado con una luz tenue
+                tr: dimly lit
+              - t: "a plena luz del d\xEDa"
+                tr: in full/broad daylight
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|power}, {a_link|electricity} '
+          - - vis
+            - - t: se fue la luz
+                tr: the power/electricity went out
+              - t: cortar la luz
+                tr: to cut off the power
+              - t: pagar la luz
+                tr: to pay the electricity bill
+          sls:
+          - familiar
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|light}, {a_link|lamp} '
+          - - vis
+            - - t: apagar la luz
+                tr: to turn off the light
+              - t: encender/prender la luz
+                tr: to turn on the light
+              - t: luz de bengala
+                tr: flare
+              - t: "luz ne\xF3n/LED"
+                tr: neon/LED light
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|span}, {a_link|spread} (between supports)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}in light of'
+          sn: '5'
+          vrs:
+          - va: a la luz de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}by any measure'
+          sn: '6'
+          vrs:
+          - va: a todas luces
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give birth'
+          sn: '7'
+          vrs:
+          - va: dar a luz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make known, to {a_link|bring to light}'
+          sn: '8'
+          vrs:
+          - va: sacar a la luz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to become known, to {a_link|come to light}'
+          sn: '9'
+          vrs:
+          - va: salir a la luz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}matador''s costume'
+          sn: '10'
+          vrs:
+          - va: traje de luces
+  fl: feminine noun
+  hwi:
+    hw: luz
+    prs:
+    - sound:
+        audio: luz0001sp
+  ins:
+  - if: luces
+    il: plural
+  meta:
+    id: luz
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614083000'
+    src: spanish
+    stems:
+    - luz
+    - luces
+    - a la luz de
+    - a todas luces
+    - dar a luz
+    - sacar a la luz
+    - salir a la luz
+    - traje de luces
+    uuid: 56a1e7a3-6843-4485-9b30-fa08a6995295
+  shortdef:
+  - light
+  - power, electricity
+  - light, lamp
+- ahws:
+  - hw: malparada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come out of (something) {a_link|badly}, to end up in a bad state'
+          vrs:
+          - va: salir malparado
+          - va: quedar malparado
+            vl: or
+  fl: adjective
+  hwi:
+    hw: malparado
+    prs:
+    - sound:
+        audio: malpa01sp
+  meta:
+    id: malparado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614256000'
+    src: spanish
+    stems:
+    - malparado
+    - malparada
+    - salir malparado
+    - quedar malparado
+    uuid: 1e9124fe-3770-4ca4-87f3-fc605ad0bae0
+  shortdef:
+  - to come out of (something) badly, to end up in a bad state
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|glitter}, to {a_link|shine}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come to the surface'
+          sn: '2'
+          vrs:
+          - va: salir a relucir
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring up}, to {a_link|mention}'
+          sn: '3'
+          vrs:
+          - va: sacar a relucir
+  fl: intransitive verb
+  hwi:
+    hw: relucir
+  meta:
+    id: relucir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619318000'
+    src: spanish
+    stems:
+    - relucir
+    - salir a relucir
+    - sacar a relucir
+    uuid: d75105f4-92ca-4cc8-9d1c-07f7ffc57684
+  shortdef:
+  - to glitter, to shine
+  - to come to the surface
+  - to bring up, to mention
+  suppl:
+    cjts:
+    - cjfs:
+      - reluciendo
+      - relucido
+      cjid: gppt
+    - cjfs:
+      - reluzco
+      - reluces
+      - reluce
+      - relucimos
+      - "reluc\xEDs"
+      - relucen
+      cjid: pind
+    - cjfs:
+      - "reluc\xEDa"
+      - "reluc\xEDas"
+      - "reluc\xEDa"
+      - "reluc\xEDamos"
+      - "reluc\xEDais"
+      - "reluc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reluc\xED"
+      - reluciste
+      - "reluci\xF3"
+      - relucimos
+      - relucisteis
+      - relucieron
+      cjid: pprf
+    - cjfs:
+      - "relucir\xE9"
+      - "relucir\xE1s"
+      - "relucir\xE1"
+      - reluciremos
+      - "relucir\xE9is"
+      - "relucir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "relucir\xEDa"
+      - "relucir\xEDas"
+      - "relucir\xEDa"
+      - "relucir\xEDamos"
+      - "relucir\xEDais"
+      - "relucir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reluzca
+      - reluzcas
+      - reluzca
+      - reluzcamos
+      - "reluzc\xE1is"
+      - reluzcan
+      cjid: psub
+    - cjfs:
+      - reluciera
+      - relucieras
+      - reluciera
+      - "reluci\xE9ramos"
+      - relucierais
+      - relucieran
+      cjid: pisb1
+    - cjfs:
+      - reluciese
+      - relucieses
+      - reluciese
+      - "reluci\xE9semos"
+      - relucieseis
+      - reluciesen
+      cjid: pisb2
+    - cjfs:
+      - reluciere
+      - relucieres
+      - reluciere
+      - "reluci\xE9remos"
+      - reluciereis
+      - relucieren
+      cjid: fsub
+    - cjfs:
+      - he relucido
+      - has relucido
+      - ha relucido
+      - hemos relucido
+      - "hab\xE9is relucido"
+      - han relucido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa relucido"
+      - "hab\xEDas relucido"
+      - "hab\xEDa relucido"
+      - "hab\xEDamos relucido"
+      - "hab\xEDais relucido"
+      - "hab\xEDan relucido"
+      cjid: ppsi
+    - cjfs:
+      - hube relucido
+      - hubiste relucido
+      - hubo relucido
+      - hubimos relucido
+      - hubisteis relucido
+      - hubieron relucido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 relucido"
+      - "habr\xE1s relucido"
+      - "habr\xE1 relucido"
+      - habremos relucido
+      - "habr\xE9is relucido"
+      - "habr\xE1n relucido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa relucido"
+      - "habr\xEDas relucido"
+      - "habr\xEDa relucido"
+      - "habr\xEDamos relucido"
+      - "habr\xEDais relucido"
+      - "habr\xEDan relucido"
+      cjid: cpef
+    - cjfs:
+      - haya relucido
+      - hayas relucido
+      - haya relucido
+      - hayamos relucido
+      - "hay\xE1is relucido"
+      - hayan relucido
+      cjid: ppfs
+    - cjfs:
+      - hubiera relucido
+      - hubieras relucido
+      - hubiera relucido
+      - "hubi\xE9ramos relucido"
+      - hubierais relucido
+      - hubieran relucido
+      cjid: ppss1
+    - cjfs:
+      - hubiese relucido
+      - hubieses relucido
+      - hubiese relucido
+      - "hubi\xE9semos relucido"
+      - hubieseis relucido
+      - hubiesen relucido
+      cjid: ppss2
+    - cjfs:
+      - hubiere relucido
+      - hubieres relucido
+      - hubiere relucido
+      - "hubi\xE9remos relucido"
+      - hubiereis relucido
+      - hubieren relucido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reluce
+      - reluzca
+      - reluzcamos
+      - relucid
+      - reluzcan
+      cjid: impf

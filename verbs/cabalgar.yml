@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ride} (on horseback)'
+  fl: intransitive verb
+  hwi:
+    hw: cabalgar
+    prs:
+    - sound:
+        audio: cabal02sp
+  meta:
+    id: cabalgar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603479000'
+    src: spanish
+    stems:
+    - cabalgar
+    uuid: ee237019-f1e5-44fd-bbde-0e06e088dd88
+  shortdef:
+  - to ride (on horseback)
+  suppl:
+    cjts:
+    - cjfs:
+      - cabalgando
+      - cabalgado
+      cjid: gppt
+    - cjfs:
+      - cabalgo
+      - cabalgas
+      - cabalga
+      - cabalgamos
+      - "cabalg\xE1is"
+      - cabalgan
+      cjid: pind
+    - cjfs:
+      - cabalgaba
+      - cabalgabas
+      - cabalgaba
+      - "cabalg\xE1bamos"
+      - cabalgabais
+      - cabalgaban
+      cjid: pret
+    - cjfs:
+      - "cabalgu\xE9"
+      - cabalgaste
+      - "cabalg\xF3"
+      - cabalgamos
+      - cabalgasteis
+      - cabalgaron
+      cjid: pprf
+    - cjfs:
+      - "cabalgar\xE9"
+      - "cabalgar\xE1s"
+      - "cabalgar\xE1"
+      - cabalgaremos
+      - "cabalgar\xE9is"
+      - "cabalgar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cabalgar\xEDa"
+      - "cabalgar\xEDas"
+      - "cabalgar\xEDa"
+      - "cabalgar\xEDamos"
+      - "cabalgar\xEDais"
+      - "cabalgar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cabalgue
+      - cabalgues
+      - cabalgue
+      - cabalguemos
+      - "cabalgu\xE9is"
+      - cabalguen
+      cjid: psub
+    - cjfs:
+      - cabalgara
+      - cabalgaras
+      - cabalgara
+      - "cabalg\xE1ramos"
+      - cabalgarais
+      - cabalgaran
+      cjid: pisb1
+    - cjfs:
+      - cabalgase
+      - cabalgases
+      - cabalgase
+      - "cabalg\xE1semos"
+      - cabalgaseis
+      - cabalgasen
+      cjid: pisb2
+    - cjfs:
+      - cabalgare
+      - cabalgares
+      - cabalgare
+      - "cabalg\xE1remos"
+      - cabalgareis
+      - cabalgaren
+      cjid: fsub
+    - cjfs:
+      - he cabalgado
+      - has cabalgado
+      - ha cabalgado
+      - hemos cabalgado
+      - "hab\xE9is cabalgado"
+      - han cabalgado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cabalgado"
+      - "hab\xEDas cabalgado"
+      - "hab\xEDa cabalgado"
+      - "hab\xEDamos cabalgado"
+      - "hab\xEDais cabalgado"
+      - "hab\xEDan cabalgado"
+      cjid: ppsi
+    - cjfs:
+      - hube cabalgado
+      - hubiste cabalgado
+      - hubo cabalgado
+      - hubimos cabalgado
+      - hubisteis cabalgado
+      - hubieron cabalgado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cabalgado"
+      - "habr\xE1s cabalgado"
+      - "habr\xE1 cabalgado"
+      - habremos cabalgado
+      - "habr\xE9is cabalgado"
+      - "habr\xE1n cabalgado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cabalgado"
+      - "habr\xEDas cabalgado"
+      - "habr\xEDa cabalgado"
+      - "habr\xEDamos cabalgado"
+      - "habr\xEDais cabalgado"
+      - "habr\xEDan cabalgado"
+      cjid: cpef
+    - cjfs:
+      - haya cabalgado
+      - hayas cabalgado
+      - haya cabalgado
+      - hayamos cabalgado
+      - "hay\xE1is cabalgado"
+      - hayan cabalgado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cabalgado
+      - hubieras cabalgado
+      - hubiera cabalgado
+      - "hubi\xE9ramos cabalgado"
+      - hubierais cabalgado
+      - hubieran cabalgado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cabalgado
+      - hubieses cabalgado
+      - hubiese cabalgado
+      - "hubi\xE9semos cabalgado"
+      - hubieseis cabalgado
+      - hubiesen cabalgado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cabalgado
+      - hubieres cabalgado
+      - hubiere cabalgado
+      - "hubi\xE9remos cabalgado"
+      - hubiereis cabalgado
+      - hubieren cabalgado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cabalga
+      - cabalgue
+      - cabalguemos
+      - cabalgad
+      - cabalguen
+      cjid: impf

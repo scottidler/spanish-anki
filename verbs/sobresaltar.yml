@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|startle}, to {a_link|frighten}'
+  fl: transitive verb
+  hwi:
+    hw: sobresaltar
+    prs:
+    - sound:
+        audio: sobre13sp
+  meta:
+    id: sobresaltar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620792000'
+    src: spanish
+    stems:
+    - sobresaltar
+    - sobresaltarse
+    uuid: 583fde0c-e6ca-4b0d-a147-f853751c840b
+  shortdef:
+  - to startle, to frighten
+  suppl:
+    cjts:
+    - cjfs:
+      - sobresaltando
+      - sobresaltado
+      cjid: gppt
+    - cjfs:
+      - sobresalto
+      - sobresaltas
+      - sobresalta
+      - sobresaltamos
+      - "sobresalt\xE1is"
+      - sobresaltan
+      cjid: pind
+    - cjfs:
+      - sobresaltaba
+      - sobresaltabas
+      - sobresaltaba
+      - "sobresalt\xE1bamos"
+      - sobresaltabais
+      - sobresaltaban
+      cjid: pret
+    - cjfs:
+      - "sobresalt\xE9"
+      - sobresaltaste
+      - "sobresalt\xF3"
+      - sobresaltamos
+      - sobresaltasteis
+      - sobresaltaron
+      cjid: pprf
+    - cjfs:
+      - "sobresaltar\xE9"
+      - "sobresaltar\xE1s"
+      - "sobresaltar\xE1"
+      - sobresaltaremos
+      - "sobresaltar\xE9is"
+      - "sobresaltar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sobresaltar\xEDa"
+      - "sobresaltar\xEDas"
+      - "sobresaltar\xEDa"
+      - "sobresaltar\xEDamos"
+      - "sobresaltar\xEDais"
+      - "sobresaltar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sobresalte
+      - sobresaltes
+      - sobresalte
+      - sobresaltemos
+      - "sobresalt\xE9is"
+      - sobresalten
+      cjid: psub
+    - cjfs:
+      - sobresaltara
+      - sobresaltaras
+      - sobresaltara
+      - "sobresalt\xE1ramos"
+      - sobresaltarais
+      - sobresaltaran
+      cjid: pisb1
+    - cjfs:
+      - sobresaltase
+      - sobresaltases
+      - sobresaltase
+      - "sobresalt\xE1semos"
+      - sobresaltaseis
+      - sobresaltasen
+      cjid: pisb2
+    - cjfs:
+      - sobresaltare
+      - sobresaltares
+      - sobresaltare
+      - "sobresalt\xE1remos"
+      - sobresaltareis
+      - sobresaltaren
+      cjid: fsub
+    - cjfs:
+      - he sobresaltado
+      - has sobresaltado
+      - ha sobresaltado
+      - hemos sobresaltado
+      - "hab\xE9is sobresaltado"
+      - han sobresaltado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sobresaltado"
+      - "hab\xEDas sobresaltado"
+      - "hab\xEDa sobresaltado"
+      - "hab\xEDamos sobresaltado"
+      - "hab\xEDais sobresaltado"
+      - "hab\xEDan sobresaltado"
+      cjid: ppsi
+    - cjfs:
+      - hube sobresaltado
+      - hubiste sobresaltado
+      - hubo sobresaltado
+      - hubimos sobresaltado
+      - hubisteis sobresaltado
+      - hubieron sobresaltado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sobresaltado"
+      - "habr\xE1s sobresaltado"
+      - "habr\xE1 sobresaltado"
+      - habremos sobresaltado
+      - "habr\xE9is sobresaltado"
+      - "habr\xE1n sobresaltado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sobresaltado"
+      - "habr\xEDas sobresaltado"
+      - "habr\xEDa sobresaltado"
+      - "habr\xEDamos sobresaltado"
+      - "habr\xEDais sobresaltado"
+      - "habr\xEDan sobresaltado"
+      cjid: cpef
+    - cjfs:
+      - haya sobresaltado
+      - hayas sobresaltado
+      - haya sobresaltado
+      - hayamos sobresaltado
+      - "hay\xE1is sobresaltado"
+      - hayan sobresaltado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sobresaltado
+      - hubieras sobresaltado
+      - hubiera sobresaltado
+      - "hubi\xE9ramos sobresaltado"
+      - hubierais sobresaltado
+      - hubieran sobresaltado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sobresaltado
+      - hubieses sobresaltado
+      - hubiese sobresaltado
+      - "hubi\xE9semos sobresaltado"
+      - hubieseis sobresaltado
+      - hubiesen sobresaltado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sobresaltado
+      - hubieres sobresaltado
+      - hubiere sobresaltado
+      - "hubi\xE9remos sobresaltado"
+      - hubiereis sobresaltado
+      - hubieren sobresaltado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sobresalta
+      - sobresalte
+      - sobresaltemos
+      - sobresaltad
+      - sobresalten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: sobresaltarse

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|join}, to {a_link|combine}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|unite}'
+    drp: aunarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aunar
+    prs:
+    - sound:
+        audio: aunar01sp
+  meta:
+    id: aunar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602408000'
+    src: spanish
+    stems:
+    - aunar
+    - aunarse
+    uuid: ffaff45b-02bf-4f07-b887-c4de8a3c23ce
+  shortdef:
+  - to join, to combine
+  suppl:
+    cjts:
+    - cjfs:
+      - aunando
+      - aunado
+      cjid: gppt
+    - cjfs:
+      - "a\xFAno"
+      - "a\xFAnas"
+      - "a\xFAna"
+      - aunamos
+      - "aun\xE1is"
+      - "a\xFAnan"
+      cjid: pind
+    - cjfs:
+      - aunaba
+      - aunabas
+      - aunaba
+      - "aun\xE1bamos"
+      - aunabais
+      - aunaban
+      cjid: pret
+    - cjfs:
+      - "aun\xE9"
+      - aunaste
+      - "aun\xF3"
+      - aunamos
+      - aunasteis
+      - aunaron
+      cjid: pprf
+    - cjfs:
+      - "aunar\xE9"
+      - "aunar\xE1s"
+      - "aunar\xE1"
+      - aunaremos
+      - "aunar\xE9is"
+      - "aunar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aunar\xEDa"
+      - "aunar\xEDas"
+      - "aunar\xEDa"
+      - "aunar\xEDamos"
+      - "aunar\xEDais"
+      - "aunar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "a\xFAne"
+      - "a\xFAnes"
+      - "a\xFAne"
+      - aunemos
+      - "aun\xE9is"
+      - "a\xFAnen"
+      cjid: psub
+    - cjfs:
+      - aunara
+      - aunaras
+      - aunara
+      - "aun\xE1ramos"
+      - aunarais
+      - aunaran
+      cjid: pisb1
+    - cjfs:
+      - aunase
+      - aunases
+      - aunase
+      - "aun\xE1semos"
+      - aunaseis
+      - aunasen
+      cjid: pisb2
+    - cjfs:
+      - aunare
+      - aunares
+      - aunare
+      - "aun\xE1remos"
+      - aunareis
+      - aunaren
+      cjid: fsub
+    - cjfs:
+      - he aunado
+      - has aunado
+      - ha aunado
+      - hemos aunado
+      - "hab\xE9is aunado"
+      - han aunado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aunado"
+      - "hab\xEDas aunado"
+      - "hab\xEDa aunado"
+      - "hab\xEDamos aunado"
+      - "hab\xEDais aunado"
+      - "hab\xEDan aunado"
+      cjid: ppsi
+    - cjfs:
+      - hube aunado
+      - hubiste aunado
+      - hubo aunado
+      - hubimos aunado
+      - hubisteis aunado
+      - hubieron aunado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aunado"
+      - "habr\xE1s aunado"
+      - "habr\xE1 aunado"
+      - habremos aunado
+      - "habr\xE9is aunado"
+      - "habr\xE1n aunado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aunado"
+      - "habr\xEDas aunado"
+      - "habr\xEDa aunado"
+      - "habr\xEDamos aunado"
+      - "habr\xEDais aunado"
+      - "habr\xEDan aunado"
+      cjid: cpef
+    - cjfs:
+      - haya aunado
+      - hayas aunado
+      - haya aunado
+      - hayamos aunado
+      - "hay\xE1is aunado"
+      - hayan aunado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aunado
+      - hubieras aunado
+      - hubiera aunado
+      - "hubi\xE9ramos aunado"
+      - hubierais aunado
+      - hubieran aunado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aunado
+      - hubieses aunado
+      - hubiese aunado
+      - "hubi\xE9semos aunado"
+      - hubieseis aunado
+      - hubiesen aunado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aunado
+      - hubieres aunado
+      - hubiere aunado
+      - "hubi\xE9remos aunado"
+      - hubiereis aunado
+      - hubieren aunado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "a\xFAna"
+      - "a\xFAne"
+      - aunemos
+      - aunad
+      - "a\xFAnen"
+      cjid: impf

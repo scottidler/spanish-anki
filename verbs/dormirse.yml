@@ -1,0 +1,253 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sleep}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put to sleep/bed'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put to sleep (from boredom, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|anestesiar||} {bc}to put to sleep, to {a_link|anesthetize}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a nap'
+          sn: '4'
+          vrs:
+          - va: dormir la siesta
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fall asleep}'
+    drp: dormirse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: dormir
+    prs:
+    - sound:
+        audio: dormi03sp
+  meta:
+    id: dormir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607917000'
+    src: spanish
+    stems:
+    - dormir
+    - dormir la siesta
+    - dormirse
+    uuid: 5ce5ebcf-d85b-4921-aa76-37d715ba94fa
+  shortdef:
+  - to sleep
+  - to put to sleep/bed
+  - to put to sleep (from boredom, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - durmiendo
+      - dormido
+      cjid: gppt
+    - cjfs:
+      - duermo
+      - duermes
+      - duerme
+      - dormimos
+      - "dorm\xEDs"
+      - duermen
+      cjid: pind
+    - cjfs:
+      - "dorm\xEDa"
+      - "dorm\xEDas"
+      - "dorm\xEDa"
+      - "dorm\xEDamos"
+      - "dorm\xEDais"
+      - "dorm\xEDan"
+      cjid: pret
+    - cjfs:
+      - "dorm\xED"
+      - dormiste
+      - "durmi\xF3"
+      - dormimos
+      - dormisteis
+      - durmieron
+      cjid: pprf
+    - cjfs:
+      - "dormir\xE9"
+      - "dormir\xE1s"
+      - "dormir\xE1"
+      - dormiremos
+      - "dormir\xE9is"
+      - "dormir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dormir\xEDa"
+      - "dormir\xEDas"
+      - "dormir\xEDa"
+      - "dormir\xEDamos"
+      - "dormir\xEDais"
+      - "dormir\xEDan"
+      cjid: cond
+    - cjfs:
+      - duerma
+      - duermas
+      - duerma
+      - durmamos
+      - "durm\xE1is"
+      - duerman
+      cjid: psub
+    - cjfs:
+      - durmiera
+      - durmieras
+      - durmiera
+      - "durmi\xE9ramos"
+      - durmierais
+      - durmieran
+      cjid: pisb1
+    - cjfs:
+      - durmiese
+      - durmieses
+      - durmiese
+      - "durmi\xE9semos"
+      - durmieseis
+      - durmiesen
+      cjid: pisb2
+    - cjfs:
+      - durmiere
+      - durmieres
+      - durmiere
+      - "durmi\xE9remos"
+      - durmiereis
+      - durmieren
+      cjid: fsub
+    - cjfs:
+      - he dormido
+      - has dormido
+      - ha dormido
+      - hemos dormido
+      - "hab\xE9is dormido"
+      - han dormido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dormido"
+      - "hab\xEDas dormido"
+      - "hab\xEDa dormido"
+      - "hab\xEDamos dormido"
+      - "hab\xEDais dormido"
+      - "hab\xEDan dormido"
+      cjid: ppsi
+    - cjfs:
+      - hube dormido
+      - hubiste dormido
+      - hubo dormido
+      - hubimos dormido
+      - hubisteis dormido
+      - hubieron dormido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dormido"
+      - "habr\xE1s dormido"
+      - "habr\xE1 dormido"
+      - habremos dormido
+      - "habr\xE9is dormido"
+      - "habr\xE1n dormido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dormido"
+      - "habr\xEDas dormido"
+      - "habr\xEDa dormido"
+      - "habr\xEDamos dormido"
+      - "habr\xEDais dormido"
+      - "habr\xEDan dormido"
+      cjid: cpef
+    - cjfs:
+      - haya dormido
+      - hayas dormido
+      - haya dormido
+      - hayamos dormido
+      - "hay\xE1is dormido"
+      - hayan dormido
+      cjid: ppfs
+    - cjfs:
+      - hubiera dormido
+      - hubieras dormido
+      - hubiera dormido
+      - "hubi\xE9ramos dormido"
+      - hubierais dormido
+      - hubieran dormido
+      cjid: ppss1
+    - cjfs:
+      - hubiese dormido
+      - hubieses dormido
+      - hubiese dormido
+      - "hubi\xE9semos dormido"
+      - hubieseis dormido
+      - hubiesen dormido
+      cjid: ppss2
+    - cjfs:
+      - hubiere dormido
+      - hubieres dormido
+      - hubiere dormido
+      - "hubi\xE9remos dormido"
+      - hubiereis dormido
+      - hubieren dormido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - duerme
+      - duerma
+      - durmamos
+      - dormid
+      - duerman
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}laurel, {a_link|bay} (in cooking) '
+          - - vis
+            - - t: hoja de laurel
+                tr: bay leaf
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to rest on one''s laurels'
+          sn: '2'
+          vrs:
+          - va: dormirse en sus laureles
+  fl: masculine noun
+  hwi:
+    hw: laurel
+  meta:
+    id: laurel
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613549000'
+    src: spanish
+    stems:
+    - laurel
+    - dormirse en sus laureles
+    uuid: 7410b542-f76b-4368-86e1-91eb2d97250a
+  shortdef:
+  - laurel, bay (in cooking)
+  - to rest on one's laurels

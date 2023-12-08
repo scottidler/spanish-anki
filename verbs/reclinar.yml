@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rest}, to {a_link|lean}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|recline}, to lean back'
+    drp: reclinarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reclinar
+  meta:
+    id: reclinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618996000'
+    src: spanish
+    stems:
+    - reclinar
+    - reclinarse
+    uuid: 686f3b7d-ff89-4b02-8b5b-ed64313099b5
+  shortdef:
+  - to rest, to lean
+  suppl:
+    cjts:
+    - cjfs:
+      - reclinando
+      - reclinado
+      cjid: gppt
+    - cjfs:
+      - reclino
+      - reclinas
+      - reclina
+      - reclinamos
+      - "reclin\xE1is"
+      - reclinan
+      cjid: pind
+    - cjfs:
+      - reclinaba
+      - reclinabas
+      - reclinaba
+      - "reclin\xE1bamos"
+      - reclinabais
+      - reclinaban
+      cjid: pret
+    - cjfs:
+      - "reclin\xE9"
+      - reclinaste
+      - "reclin\xF3"
+      - reclinamos
+      - reclinasteis
+      - reclinaron
+      cjid: pprf
+    - cjfs:
+      - "reclinar\xE9"
+      - "reclinar\xE1s"
+      - "reclinar\xE1"
+      - reclinaremos
+      - "reclinar\xE9is"
+      - "reclinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reclinar\xEDa"
+      - "reclinar\xEDas"
+      - "reclinar\xEDa"
+      - "reclinar\xEDamos"
+      - "reclinar\xEDais"
+      - "reclinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recline
+      - reclines
+      - recline
+      - reclinemos
+      - "reclin\xE9is"
+      - reclinen
+      cjid: psub
+    - cjfs:
+      - reclinara
+      - reclinaras
+      - reclinara
+      - "reclin\xE1ramos"
+      - reclinarais
+      - reclinaran
+      cjid: pisb1
+    - cjfs:
+      - reclinase
+      - reclinases
+      - reclinase
+      - "reclin\xE1semos"
+      - reclinaseis
+      - reclinasen
+      cjid: pisb2
+    - cjfs:
+      - reclinare
+      - reclinares
+      - reclinare
+      - "reclin\xE1remos"
+      - reclinareis
+      - reclinaren
+      cjid: fsub
+    - cjfs:
+      - he reclinado
+      - has reclinado
+      - ha reclinado
+      - hemos reclinado
+      - "hab\xE9is reclinado"
+      - han reclinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reclinado"
+      - "hab\xEDas reclinado"
+      - "hab\xEDa reclinado"
+      - "hab\xEDamos reclinado"
+      - "hab\xEDais reclinado"
+      - "hab\xEDan reclinado"
+      cjid: ppsi
+    - cjfs:
+      - hube reclinado
+      - hubiste reclinado
+      - hubo reclinado
+      - hubimos reclinado
+      - hubisteis reclinado
+      - hubieron reclinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reclinado"
+      - "habr\xE1s reclinado"
+      - "habr\xE1 reclinado"
+      - habremos reclinado
+      - "habr\xE9is reclinado"
+      - "habr\xE1n reclinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reclinado"
+      - "habr\xEDas reclinado"
+      - "habr\xEDa reclinado"
+      - "habr\xEDamos reclinado"
+      - "habr\xEDais reclinado"
+      - "habr\xEDan reclinado"
+      cjid: cpef
+    - cjfs:
+      - haya reclinado
+      - hayas reclinado
+      - haya reclinado
+      - hayamos reclinado
+      - "hay\xE1is reclinado"
+      - hayan reclinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reclinado
+      - hubieras reclinado
+      - hubiera reclinado
+      - "hubi\xE9ramos reclinado"
+      - hubierais reclinado
+      - hubieran reclinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reclinado
+      - hubieses reclinado
+      - hubiese reclinado
+      - "hubi\xE9semos reclinado"
+      - hubieseis reclinado
+      - hubiesen reclinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reclinado
+      - hubieres reclinado
+      - hubiere reclinado
+      - "hubi\xE9remos reclinado"
+      - hubiereis reclinado
+      - hubieren reclinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reclina
+      - recline
+      - reclinemos
+      - reclinad
+      - reclinen
+      cjid: impf

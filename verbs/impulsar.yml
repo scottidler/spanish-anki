@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|propel}, to {a_link|drive}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|boost}, to {a_link|promote}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: impulsar
+    prs:
+    - sound:
+        audio: impul01sp
+  meta:
+    id: impulsar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612046000'
+    src: spanish
+    stems:
+    - impulsar
+    uuid: 9a0b1be1-75ca-44ba-92d9-78484a907cc4
+  shortdef:
+  - to propel, to drive
+  - to boost, to promote
+  suppl:
+    cjts:
+    - cjfs:
+      - impulsando
+      - impulsado
+      cjid: gppt
+    - cjfs:
+      - impulso
+      - impulsas
+      - impulsa
+      - impulsamos
+      - "impuls\xE1is"
+      - impulsan
+      cjid: pind
+    - cjfs:
+      - impulsaba
+      - impulsabas
+      - impulsaba
+      - "impuls\xE1bamos"
+      - impulsabais
+      - impulsaban
+      cjid: pret
+    - cjfs:
+      - "impuls\xE9"
+      - impulsaste
+      - "impuls\xF3"
+      - impulsamos
+      - impulsasteis
+      - impulsaron
+      cjid: pprf
+    - cjfs:
+      - "impulsar\xE9"
+      - "impulsar\xE1s"
+      - "impulsar\xE1"
+      - impulsaremos
+      - "impulsar\xE9is"
+      - "impulsar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "impulsar\xEDa"
+      - "impulsar\xEDas"
+      - "impulsar\xEDa"
+      - "impulsar\xEDamos"
+      - "impulsar\xEDais"
+      - "impulsar\xEDan"
+      cjid: cond
+    - cjfs:
+      - impulse
+      - impulses
+      - impulse
+      - impulsemos
+      - "impuls\xE9is"
+      - impulsen
+      cjid: psub
+    - cjfs:
+      - impulsara
+      - impulsaras
+      - impulsara
+      - "impuls\xE1ramos"
+      - impulsarais
+      - impulsaran
+      cjid: pisb1
+    - cjfs:
+      - impulsase
+      - impulsases
+      - impulsase
+      - "impuls\xE1semos"
+      - impulsaseis
+      - impulsasen
+      cjid: pisb2
+    - cjfs:
+      - impulsare
+      - impulsares
+      - impulsare
+      - "impuls\xE1remos"
+      - impulsareis
+      - impulsaren
+      cjid: fsub
+    - cjfs:
+      - he impulsado
+      - has impulsado
+      - ha impulsado
+      - hemos impulsado
+      - "hab\xE9is impulsado"
+      - han impulsado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa impulsado"
+      - "hab\xEDas impulsado"
+      - "hab\xEDa impulsado"
+      - "hab\xEDamos impulsado"
+      - "hab\xEDais impulsado"
+      - "hab\xEDan impulsado"
+      cjid: ppsi
+    - cjfs:
+      - hube impulsado
+      - hubiste impulsado
+      - hubo impulsado
+      - hubimos impulsado
+      - hubisteis impulsado
+      - hubieron impulsado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 impulsado"
+      - "habr\xE1s impulsado"
+      - "habr\xE1 impulsado"
+      - habremos impulsado
+      - "habr\xE9is impulsado"
+      - "habr\xE1n impulsado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa impulsado"
+      - "habr\xEDas impulsado"
+      - "habr\xEDa impulsado"
+      - "habr\xEDamos impulsado"
+      - "habr\xEDais impulsado"
+      - "habr\xEDan impulsado"
+      cjid: cpef
+    - cjfs:
+      - haya impulsado
+      - hayas impulsado
+      - haya impulsado
+      - hayamos impulsado
+      - "hay\xE1is impulsado"
+      - hayan impulsado
+      cjid: ppfs
+    - cjfs:
+      - hubiera impulsado
+      - hubieras impulsado
+      - hubiera impulsado
+      - "hubi\xE9ramos impulsado"
+      - hubierais impulsado
+      - hubieran impulsado
+      cjid: ppss1
+    - cjfs:
+      - hubiese impulsado
+      - hubieses impulsado
+      - hubiese impulsado
+      - "hubi\xE9semos impulsado"
+      - hubieseis impulsado
+      - hubiesen impulsado
+      cjid: ppss2
+    - cjfs:
+      - hubiere impulsado
+      - hubieres impulsado
+      - hubiere impulsado
+      - "hubi\xE9remos impulsado"
+      - hubiereis impulsado
+      - hubieren impulsado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - impulsa
+      - impulse
+      - impulsemos
+      - impulsad
+      - impulsen
+      cjid: impf

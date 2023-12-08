@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rub}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scrub}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: restregar
+    prs:
+    - sound:
+        audio: restr01sp
+  meta:
+    id: restregar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619628000'
+    src: spanish
+    stems:
+    - restregar
+    - restregarse
+    uuid: d51122c3-2bef-4a11-91f9-6b06c8a17707
+  shortdef:
+  - to rub
+  - to scrub
+  suppl:
+    cjts:
+    - cjfs:
+      - restregando
+      - restregado
+      cjid: gppt
+    - cjfs:
+      - restriego
+      - restriegas
+      - restriega
+      - restregamos
+      - "restreg\xE1is"
+      - restriegan
+      cjid: pind
+    - cjfs:
+      - restregaba
+      - restregabas
+      - restregaba
+      - "restreg\xE1bamos"
+      - restregabais
+      - restregaban
+      cjid: pret
+    - cjfs:
+      - "restregu\xE9"
+      - restregaste
+      - "restreg\xF3"
+      - restregamos
+      - restregasteis
+      - restregaron
+      cjid: pprf
+    - cjfs:
+      - "restregar\xE9"
+      - "restregar\xE1s"
+      - "restregar\xE1"
+      - restregaremos
+      - "restregar\xE9is"
+      - "restregar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "restregar\xEDa"
+      - "restregar\xEDas"
+      - "restregar\xEDa"
+      - "restregar\xEDamos"
+      - "restregar\xEDais"
+      - "restregar\xEDan"
+      cjid: cond
+    - cjfs:
+      - restriegue
+      - restriegues
+      - restriegue
+      - restreguemos
+      - "restregu\xE9is"
+      - restrieguen
+      cjid: psub
+    - cjfs:
+      - restregara
+      - restregaras
+      - restregara
+      - "restreg\xE1ramos"
+      - restregarais
+      - restregaran
+      cjid: pisb1
+    - cjfs:
+      - restregase
+      - restregases
+      - restregase
+      - "restreg\xE1semos"
+      - restregaseis
+      - restregasen
+      cjid: pisb2
+    - cjfs:
+      - restregare
+      - restregares
+      - restregare
+      - "restreg\xE1remos"
+      - restregareis
+      - restregaren
+      cjid: fsub
+    - cjfs:
+      - he restregado
+      - has restregado
+      - ha restregado
+      - hemos restregado
+      - "hab\xE9is restregado"
+      - han restregado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa restregado"
+      - "hab\xEDas restregado"
+      - "hab\xEDa restregado"
+      - "hab\xEDamos restregado"
+      - "hab\xEDais restregado"
+      - "hab\xEDan restregado"
+      cjid: ppsi
+    - cjfs:
+      - hube restregado
+      - hubiste restregado
+      - hubo restregado
+      - hubimos restregado
+      - hubisteis restregado
+      - hubieron restregado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 restregado"
+      - "habr\xE1s restregado"
+      - "habr\xE1 restregado"
+      - habremos restregado
+      - "habr\xE9is restregado"
+      - "habr\xE1n restregado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa restregado"
+      - "habr\xEDas restregado"
+      - "habr\xEDa restregado"
+      - "habr\xEDamos restregado"
+      - "habr\xEDais restregado"
+      - "habr\xEDan restregado"
+      cjid: cpef
+    - cjfs:
+      - haya restregado
+      - hayas restregado
+      - haya restregado
+      - hayamos restregado
+      - "hay\xE1is restregado"
+      - hayan restregado
+      cjid: ppfs
+    - cjfs:
+      - hubiera restregado
+      - hubieras restregado
+      - hubiera restregado
+      - "hubi\xE9ramos restregado"
+      - hubierais restregado
+      - hubieran restregado
+      cjid: ppss1
+    - cjfs:
+      - hubiese restregado
+      - hubieses restregado
+      - hubiese restregado
+      - "hubi\xE9semos restregado"
+      - hubieseis restregado
+      - hubiesen restregado
+      cjid: ppss2
+    - cjfs:
+      - hubiere restregado
+      - hubieres restregado
+      - hubiere restregado
+      - "hubi\xE9remos restregado"
+      - hubiereis restregado
+      - hubieren restregado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - restriega
+      - restriegue
+      - restreguemos
+      - restregad
+      - restrieguen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: restregarse

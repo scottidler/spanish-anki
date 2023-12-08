@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|resolver||} {bc}to {a_link|solve}, to {a_link|resolve}'
+  fl: transitive verb
+  hwi:
+    hw: solucionar
+    prs:
+    - sound:
+        audio: soluc02sp
+  meta:
+    id: solucionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620899000'
+    src: spanish
+    stems:
+    - solucionar
+    - solucionarse
+    uuid: 3934264a-714a-4dbf-82cf-b96a35e67de8
+  shortdef:
+  - 'resolver : to solve, to resolve'
+  suppl:
+    cjts:
+    - cjfs:
+      - solucionando
+      - solucionado
+      cjid: gppt
+    - cjfs:
+      - soluciono
+      - solucionas
+      - soluciona
+      - solucionamos
+      - "solucion\xE1is"
+      - solucionan
+      cjid: pind
+    - cjfs:
+      - solucionaba
+      - solucionabas
+      - solucionaba
+      - "solucion\xE1bamos"
+      - solucionabais
+      - solucionaban
+      cjid: pret
+    - cjfs:
+      - "solucion\xE9"
+      - solucionaste
+      - "solucion\xF3"
+      - solucionamos
+      - solucionasteis
+      - solucionaron
+      cjid: pprf
+    - cjfs:
+      - "solucionar\xE9"
+      - "solucionar\xE1s"
+      - "solucionar\xE1"
+      - solucionaremos
+      - "solucionar\xE9is"
+      - "solucionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "solucionar\xEDa"
+      - "solucionar\xEDas"
+      - "solucionar\xEDa"
+      - "solucionar\xEDamos"
+      - "solucionar\xEDais"
+      - "solucionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - solucione
+      - soluciones
+      - solucione
+      - solucionemos
+      - "solucion\xE9is"
+      - solucionen
+      cjid: psub
+    - cjfs:
+      - solucionara
+      - solucionaras
+      - solucionara
+      - "solucion\xE1ramos"
+      - solucionarais
+      - solucionaran
+      cjid: pisb1
+    - cjfs:
+      - solucionase
+      - solucionases
+      - solucionase
+      - "solucion\xE1semos"
+      - solucionaseis
+      - solucionasen
+      cjid: pisb2
+    - cjfs:
+      - solucionare
+      - solucionares
+      - solucionare
+      - "solucion\xE1remos"
+      - solucionareis
+      - solucionaren
+      cjid: fsub
+    - cjfs:
+      - he solucionado
+      - has solucionado
+      - ha solucionado
+      - hemos solucionado
+      - "hab\xE9is solucionado"
+      - han solucionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa solucionado"
+      - "hab\xEDas solucionado"
+      - "hab\xEDa solucionado"
+      - "hab\xEDamos solucionado"
+      - "hab\xEDais solucionado"
+      - "hab\xEDan solucionado"
+      cjid: ppsi
+    - cjfs:
+      - hube solucionado
+      - hubiste solucionado
+      - hubo solucionado
+      - hubimos solucionado
+      - hubisteis solucionado
+      - hubieron solucionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 solucionado"
+      - "habr\xE1s solucionado"
+      - "habr\xE1 solucionado"
+      - habremos solucionado
+      - "habr\xE9is solucionado"
+      - "habr\xE1n solucionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa solucionado"
+      - "habr\xEDas solucionado"
+      - "habr\xEDa solucionado"
+      - "habr\xEDamos solucionado"
+      - "habr\xEDais solucionado"
+      - "habr\xEDan solucionado"
+      cjid: cpef
+    - cjfs:
+      - haya solucionado
+      - hayas solucionado
+      - haya solucionado
+      - hayamos solucionado
+      - "hay\xE1is solucionado"
+      - hayan solucionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera solucionado
+      - hubieras solucionado
+      - hubiera solucionado
+      - "hubi\xE9ramos solucionado"
+      - hubierais solucionado
+      - hubieran solucionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese solucionado
+      - hubieses solucionado
+      - hubiese solucionado
+      - "hubi\xE9semos solucionado"
+      - hubieseis solucionado
+      - hubiesen solucionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere solucionado
+      - hubieres solucionado
+      - hubiere solucionado
+      - "hubi\xE9remos solucionado"
+      - hubiereis solucionado
+      - hubieren solucionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - soluciona
+      - solucione
+      - solucionemos
+      - solucionad
+      - solucionen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: solucionarse

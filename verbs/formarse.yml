@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|form}, to {a_link|make}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|constituir||} {bc}to {a_link|make up}, to {a_link|constitute}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|train}, to {a_link|educate}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|desarrollarse||} {bc}to {a_link|develop}, to take shape'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|educarse||} {bc}to be educated'
+            sn: '2'
+    drp: formarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: formar
+    prs:
+    - sound:
+        audio: forma03sp
+  meta:
+    id: formar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610311000'
+    src: spanish
+    stems:
+    - formar
+    - formarse
+    uuid: d1bc56d6-ea2a-454c-8d50-0b908bf43c59
+  shortdef:
+  - to form, to make
+  - 'constituir : to make up, to constitute'
+  - to train, to educate
+  suppl:
+    cjts:
+    - cjfs:
+      - formando
+      - formado
+      cjid: gppt
+    - cjfs:
+      - formo
+      - formas
+      - forma
+      - formamos
+      - "form\xE1is"
+      - forman
+      cjid: pind
+    - cjfs:
+      - formaba
+      - formabas
+      - formaba
+      - "form\xE1bamos"
+      - formabais
+      - formaban
+      cjid: pret
+    - cjfs:
+      - "form\xE9"
+      - formaste
+      - "form\xF3"
+      - formamos
+      - formasteis
+      - formaron
+      cjid: pprf
+    - cjfs:
+      - "formar\xE9"
+      - "formar\xE1s"
+      - "formar\xE1"
+      - formaremos
+      - "formar\xE9is"
+      - "formar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "formar\xEDa"
+      - "formar\xEDas"
+      - "formar\xEDa"
+      - "formar\xEDamos"
+      - "formar\xEDais"
+      - "formar\xEDan"
+      cjid: cond
+    - cjfs:
+      - forme
+      - formes
+      - forme
+      - formemos
+      - "form\xE9is"
+      - formen
+      cjid: psub
+    - cjfs:
+      - formara
+      - formaras
+      - formara
+      - "form\xE1ramos"
+      - formarais
+      - formaran
+      cjid: pisb1
+    - cjfs:
+      - formase
+      - formases
+      - formase
+      - "form\xE1semos"
+      - formaseis
+      - formasen
+      cjid: pisb2
+    - cjfs:
+      - formare
+      - formares
+      - formare
+      - "form\xE1remos"
+      - formareis
+      - formaren
+      cjid: fsub
+    - cjfs:
+      - he formado
+      - has formado
+      - ha formado
+      - hemos formado
+      - "hab\xE9is formado"
+      - han formado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa formado"
+      - "hab\xEDas formado"
+      - "hab\xEDa formado"
+      - "hab\xEDamos formado"
+      - "hab\xEDais formado"
+      - "hab\xEDan formado"
+      cjid: ppsi
+    - cjfs:
+      - hube formado
+      - hubiste formado
+      - hubo formado
+      - hubimos formado
+      - hubisteis formado
+      - hubieron formado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 formado"
+      - "habr\xE1s formado"
+      - "habr\xE1 formado"
+      - habremos formado
+      - "habr\xE9is formado"
+      - "habr\xE1n formado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa formado"
+      - "habr\xEDas formado"
+      - "habr\xEDa formado"
+      - "habr\xEDamos formado"
+      - "habr\xEDais formado"
+      - "habr\xEDan formado"
+      cjid: cpef
+    - cjfs:
+      - haya formado
+      - hayas formado
+      - haya formado
+      - hayamos formado
+      - "hay\xE1is formado"
+      - hayan formado
+      cjid: ppfs
+    - cjfs:
+      - hubiera formado
+      - hubieras formado
+      - hubiera formado
+      - "hubi\xE9ramos formado"
+      - hubierais formado
+      - hubieran formado
+      cjid: ppss1
+    - cjfs:
+      - hubiese formado
+      - hubieses formado
+      - hubiese formado
+      - "hubi\xE9semos formado"
+      - hubieseis formado
+      - hubiesen formado
+      cjid: ppss2
+    - cjfs:
+      - hubiere formado
+      - hubieres formado
+      - hubiere formado
+      - "hubi\xE9remos formado"
+      - hubiereis formado
+      - hubieren formado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - forma
+      - forme
+      - formemos
+      - formad
+      - formen
+      cjid: impf

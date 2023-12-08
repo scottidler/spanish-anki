@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exist}'
+  fl: intransitive verb
+  hwi:
+    hw: existir
+    prs:
+    - sound:
+        audio: exist03sp
+  meta:
+    id: existir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609645000'
+    src: spanish
+    stems:
+    - existir
+    uuid: ba9b3dd7-4982-419c-807f-a02702ea1ff9
+  shortdef:
+  - to exist
+  suppl:
+    cjts:
+    - cjfs:
+      - existiendo
+      - existido
+      cjid: gppt
+    - cjfs:
+      - existo
+      - existes
+      - existe
+      - existimos
+      - "exist\xEDs"
+      - existen
+      cjid: pind
+    - cjfs:
+      - "exist\xEDa"
+      - "exist\xEDas"
+      - "exist\xEDa"
+      - "exist\xEDamos"
+      - "exist\xEDais"
+      - "exist\xEDan"
+      cjid: pret
+    - cjfs:
+      - "exist\xED"
+      - exististe
+      - "existi\xF3"
+      - existimos
+      - exististeis
+      - existieron
+      cjid: pprf
+    - cjfs:
+      - "existir\xE9"
+      - "existir\xE1s"
+      - "existir\xE1"
+      - existiremos
+      - "existir\xE9is"
+      - "existir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "existir\xEDa"
+      - "existir\xEDas"
+      - "existir\xEDa"
+      - "existir\xEDamos"
+      - "existir\xEDais"
+      - "existir\xEDan"
+      cjid: cond
+    - cjfs:
+      - exista
+      - existas
+      - exista
+      - existamos
+      - "exist\xE1is"
+      - existan
+      cjid: psub
+    - cjfs:
+      - existiera
+      - existieras
+      - existiera
+      - "existi\xE9ramos"
+      - existierais
+      - existieran
+      cjid: pisb1
+    - cjfs:
+      - existiese
+      - existieses
+      - existiese
+      - "existi\xE9semos"
+      - existieseis
+      - existiesen
+      cjid: pisb2
+    - cjfs:
+      - existiere
+      - existieres
+      - existiere
+      - "existi\xE9remos"
+      - existiereis
+      - existieren
+      cjid: fsub
+    - cjfs:
+      - he existido
+      - has existido
+      - ha existido
+      - hemos existido
+      - "hab\xE9is existido"
+      - han existido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa existido"
+      - "hab\xEDas existido"
+      - "hab\xEDa existido"
+      - "hab\xEDamos existido"
+      - "hab\xEDais existido"
+      - "hab\xEDan existido"
+      cjid: ppsi
+    - cjfs:
+      - hube existido
+      - hubiste existido
+      - hubo existido
+      - hubimos existido
+      - hubisteis existido
+      - hubieron existido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 existido"
+      - "habr\xE1s existido"
+      - "habr\xE1 existido"
+      - habremos existido
+      - "habr\xE9is existido"
+      - "habr\xE1n existido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa existido"
+      - "habr\xEDas existido"
+      - "habr\xEDa existido"
+      - "habr\xEDamos existido"
+      - "habr\xEDais existido"
+      - "habr\xEDan existido"
+      cjid: cpef
+    - cjfs:
+      - haya existido
+      - hayas existido
+      - haya existido
+      - hayamos existido
+      - "hay\xE1is existido"
+      - hayan existido
+      cjid: ppfs
+    - cjfs:
+      - hubiera existido
+      - hubieras existido
+      - hubiera existido
+      - "hubi\xE9ramos existido"
+      - hubierais existido
+      - hubieran existido
+      cjid: ppss1
+    - cjfs:
+      - hubiese existido
+      - hubieses existido
+      - hubiese existido
+      - "hubi\xE9semos existido"
+      - hubieseis existido
+      - hubiesen existido
+      cjid: ppss2
+    - cjfs:
+      - hubiere existido
+      - hubieres existido
+      - hubiere existido
+      - "hubi\xE9remos existido"
+      - hubiereis existido
+      - hubieren existido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - existe
+      - exista
+      - existamos
+      - existid
+      - existan
+      cjid: impf

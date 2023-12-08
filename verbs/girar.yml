@@ -1,0 +1,207 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn around}, to {a_link|revolve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to swing around, to {a_link|swivel}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn}, to {a_link|twist}, to {a_link|rotate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draft} (checks)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|transfer} (funds)'
+          sn: '3'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: girar
+    prs:
+    - sound:
+        audio: girar01sp
+  meta:
+    id: girar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610854000'
+    src: spanish
+    stems:
+    - girar
+    uuid: 370b967c-09ae-49d0-9c38-39fdf74a4051
+  shortdef:
+  - to turn around, to revolve
+  - to swing around, to swivel
+  - to turn, to twist, to rotate
+  suppl:
+    cjts:
+    - cjfs:
+      - girando
+      - girado
+      cjid: gppt
+    - cjfs:
+      - giro
+      - giras
+      - gira
+      - giramos
+      - "gir\xE1is"
+      - giran
+      cjid: pind
+    - cjfs:
+      - giraba
+      - girabas
+      - giraba
+      - "gir\xE1bamos"
+      - girabais
+      - giraban
+      cjid: pret
+    - cjfs:
+      - "gir\xE9"
+      - giraste
+      - "gir\xF3"
+      - giramos
+      - girasteis
+      - giraron
+      cjid: pprf
+    - cjfs:
+      - "girar\xE9"
+      - "girar\xE1s"
+      - "girar\xE1"
+      - giraremos
+      - "girar\xE9is"
+      - "girar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "girar\xEDa"
+      - "girar\xEDas"
+      - "girar\xEDa"
+      - "girar\xEDamos"
+      - "girar\xEDais"
+      - "girar\xEDan"
+      cjid: cond
+    - cjfs:
+      - gire
+      - gires
+      - gire
+      - giremos
+      - "gir\xE9is"
+      - giren
+      cjid: psub
+    - cjfs:
+      - girara
+      - giraras
+      - girara
+      - "gir\xE1ramos"
+      - girarais
+      - giraran
+      cjid: pisb1
+    - cjfs:
+      - girase
+      - girases
+      - girase
+      - "gir\xE1semos"
+      - giraseis
+      - girasen
+      cjid: pisb2
+    - cjfs:
+      - girare
+      - girares
+      - girare
+      - "gir\xE1remos"
+      - girareis
+      - giraren
+      cjid: fsub
+    - cjfs:
+      - he girado
+      - has girado
+      - ha girado
+      - hemos girado
+      - "hab\xE9is girado"
+      - han girado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa girado"
+      - "hab\xEDas girado"
+      - "hab\xEDa girado"
+      - "hab\xEDamos girado"
+      - "hab\xEDais girado"
+      - "hab\xEDan girado"
+      cjid: ppsi
+    - cjfs:
+      - hube girado
+      - hubiste girado
+      - hubo girado
+      - hubimos girado
+      - hubisteis girado
+      - hubieron girado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 girado"
+      - "habr\xE1s girado"
+      - "habr\xE1 girado"
+      - habremos girado
+      - "habr\xE9is girado"
+      - "habr\xE1n girado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa girado"
+      - "habr\xEDas girado"
+      - "habr\xEDa girado"
+      - "habr\xEDamos girado"
+      - "habr\xEDais girado"
+      - "habr\xEDan girado"
+      cjid: cpef
+    - cjfs:
+      - haya girado
+      - hayas girado
+      - haya girado
+      - hayamos girado
+      - "hay\xE1is girado"
+      - hayan girado
+      cjid: ppfs
+    - cjfs:
+      - hubiera girado
+      - hubieras girado
+      - hubiera girado
+      - "hubi\xE9ramos girado"
+      - hubierais girado
+      - hubieran girado
+      cjid: ppss1
+    - cjfs:
+      - hubiese girado
+      - hubieses girado
+      - hubiese girado
+      - "hubi\xE9semos girado"
+      - hubieseis girado
+      - hubiesen girado
+      cjid: ppss2
+    - cjfs:
+      - hubiere girado
+      - hubieres girado
+      - hubiere girado
+      - "hubi\xE9remos girado"
+      - hubiereis girado
+      - hubieren girado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gira
+      - gire
+      - giremos
+      - girad
+      - giren
+      cjid: impf

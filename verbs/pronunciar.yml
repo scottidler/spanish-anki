@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pronounce}, to {a_link|say}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give}, to {a_link|deliver} (a speech)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pronounce sentence}'
+          sn: '3'
+          vrs:
+          - va: pronunciar un fallo
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to declare oneself (for or against), to make a statement'
+    drp: pronunciarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: pronunciar
+    prs:
+    - sound:
+        audio: pronu03sp
+  meta:
+    id: pronunciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618279000'
+    src: spanish
+    stems:
+    - pronunciar
+    - pronunciar un fallo
+    - pronunciarse
+    uuid: 37fe64c3-097f-4a4c-a388-5bda4810e652
+  shortdef:
+  - to pronounce, to say
+  - to give, to deliver (a speech)
+  - to pronounce sentence
+  suppl:
+    cjts:
+    - cjfs:
+      - pronunciando
+      - pronunciado
+      cjid: gppt
+    - cjfs:
+      - pronuncio
+      - pronuncias
+      - pronuncia
+      - pronunciamos
+      - "pronunci\xE1is"
+      - pronuncian
+      cjid: pind
+    - cjfs:
+      - pronunciaba
+      - pronunciabas
+      - pronunciaba
+      - "pronunci\xE1bamos"
+      - pronunciabais
+      - pronunciaban
+      cjid: pret
+    - cjfs:
+      - "pronunci\xE9"
+      - pronunciaste
+      - "pronunci\xF3"
+      - pronunciamos
+      - pronunciasteis
+      - pronunciaron
+      cjid: pprf
+    - cjfs:
+      - "pronunciar\xE9"
+      - "pronunciar\xE1s"
+      - "pronunciar\xE1"
+      - pronunciaremos
+      - "pronunciar\xE9is"
+      - "pronunciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pronunciar\xEDa"
+      - "pronunciar\xEDas"
+      - "pronunciar\xEDa"
+      - "pronunciar\xEDamos"
+      - "pronunciar\xEDais"
+      - "pronunciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pronuncie
+      - pronuncies
+      - pronuncie
+      - pronunciemos
+      - "pronunci\xE9is"
+      - pronuncien
+      cjid: psub
+    - cjfs:
+      - pronunciara
+      - pronunciaras
+      - pronunciara
+      - "pronunci\xE1ramos"
+      - pronunciarais
+      - pronunciaran
+      cjid: pisb1
+    - cjfs:
+      - pronunciase
+      - pronunciases
+      - pronunciase
+      - "pronunci\xE1semos"
+      - pronunciaseis
+      - pronunciasen
+      cjid: pisb2
+    - cjfs:
+      - pronunciare
+      - pronunciares
+      - pronunciare
+      - "pronunci\xE1remos"
+      - pronunciareis
+      - pronunciaren
+      cjid: fsub
+    - cjfs:
+      - he pronunciado
+      - has pronunciado
+      - ha pronunciado
+      - hemos pronunciado
+      - "hab\xE9is pronunciado"
+      - han pronunciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pronunciado"
+      - "hab\xEDas pronunciado"
+      - "hab\xEDa pronunciado"
+      - "hab\xEDamos pronunciado"
+      - "hab\xEDais pronunciado"
+      - "hab\xEDan pronunciado"
+      cjid: ppsi
+    - cjfs:
+      - hube pronunciado
+      - hubiste pronunciado
+      - hubo pronunciado
+      - hubimos pronunciado
+      - hubisteis pronunciado
+      - hubieron pronunciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pronunciado"
+      - "habr\xE1s pronunciado"
+      - "habr\xE1 pronunciado"
+      - habremos pronunciado
+      - "habr\xE9is pronunciado"
+      - "habr\xE1n pronunciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pronunciado"
+      - "habr\xEDas pronunciado"
+      - "habr\xEDa pronunciado"
+      - "habr\xEDamos pronunciado"
+      - "habr\xEDais pronunciado"
+      - "habr\xEDan pronunciado"
+      cjid: cpef
+    - cjfs:
+      - haya pronunciado
+      - hayas pronunciado
+      - haya pronunciado
+      - hayamos pronunciado
+      - "hay\xE1is pronunciado"
+      - hayan pronunciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pronunciado
+      - hubieras pronunciado
+      - hubiera pronunciado
+      - "hubi\xE9ramos pronunciado"
+      - hubierais pronunciado
+      - hubieran pronunciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pronunciado
+      - hubieses pronunciado
+      - hubiese pronunciado
+      - "hubi\xE9semos pronunciado"
+      - hubieseis pronunciado
+      - hubiesen pronunciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pronunciado
+      - hubieres pronunciado
+      - hubiere pronunciado
+      - "hubi\xE9remos pronunciado"
+      - hubiereis pronunciado
+      - hubieren pronunciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pronuncia
+      - pronuncie
+      - pronunciemos
+      - pronunciad
+      - pronuncien
+      cjid: impf

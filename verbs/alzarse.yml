@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|elevar||}, {sx|levantar||} {bc}to {a_link|lift}, to {a_link|raise}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|erect}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|levantarse||} {bc}to {a_link|rise up} '
+            - - vis
+              - - t: alzarse en armas
+                  tr: to rise up in arms
+    drp: alzarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: alzar
+    prs:
+    - sound:
+        audio: alzar01sp
+  meta:
+    id: alzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601160000'
+    src: spanish
+    stems:
+    - alzar
+    - alzarse
+    uuid: 6897882a-982a-4bc8-9767-0b7c88d0eeb4
+  shortdef:
+  - 'elevar, levantar : to lift, to raise'
+  - to erect
+  suppl:
+    cjts:
+    - cjfs:
+      - alzando
+      - alzado
+      cjid: gppt
+    - cjfs:
+      - alzo
+      - alzas
+      - alza
+      - alzamos
+      - "alz\xE1is"
+      - alzan
+      cjid: pind
+    - cjfs:
+      - alzaba
+      - alzabas
+      - alzaba
+      - "alz\xE1bamos"
+      - alzabais
+      - alzaban
+      cjid: pret
+    - cjfs:
+      - "alc\xE9"
+      - alzaste
+      - "alz\xF3"
+      - alzamos
+      - alzasteis
+      - alzaron
+      cjid: pprf
+    - cjfs:
+      - "alzar\xE9"
+      - "alzar\xE1s"
+      - "alzar\xE1"
+      - alzaremos
+      - "alzar\xE9is"
+      - "alzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alzar\xEDa"
+      - "alzar\xEDas"
+      - "alzar\xEDa"
+      - "alzar\xEDamos"
+      - "alzar\xEDais"
+      - "alzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alce
+      - alces
+      - alce
+      - alcemos
+      - "alc\xE9is"
+      - alcen
+      cjid: psub
+    - cjfs:
+      - alzara
+      - alzaras
+      - alzara
+      - "alz\xE1ramos"
+      - alzarais
+      - alzaran
+      cjid: pisb1
+    - cjfs:
+      - alzase
+      - alzases
+      - alzase
+      - "alz\xE1semos"
+      - alzaseis
+      - alzasen
+      cjid: pisb2
+    - cjfs:
+      - alzare
+      - alzares
+      - alzare
+      - "alz\xE1remos"
+      - alzareis
+      - alzaren
+      cjid: fsub
+    - cjfs:
+      - he alzado
+      - has alzado
+      - ha alzado
+      - hemos alzado
+      - "hab\xE9is alzado"
+      - han alzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alzado"
+      - "hab\xEDas alzado"
+      - "hab\xEDa alzado"
+      - "hab\xEDamos alzado"
+      - "hab\xEDais alzado"
+      - "hab\xEDan alzado"
+      cjid: ppsi
+    - cjfs:
+      - hube alzado
+      - hubiste alzado
+      - hubo alzado
+      - hubimos alzado
+      - hubisteis alzado
+      - hubieron alzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alzado"
+      - "habr\xE1s alzado"
+      - "habr\xE1 alzado"
+      - habremos alzado
+      - "habr\xE9is alzado"
+      - "habr\xE1n alzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alzado"
+      - "habr\xEDas alzado"
+      - "habr\xEDa alzado"
+      - "habr\xEDamos alzado"
+      - "habr\xEDais alzado"
+      - "habr\xEDan alzado"
+      cjid: cpef
+    - cjfs:
+      - haya alzado
+      - hayas alzado
+      - haya alzado
+      - hayamos alzado
+      - "hay\xE1is alzado"
+      - hayan alzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alzado
+      - hubieras alzado
+      - hubiera alzado
+      - "hubi\xE9ramos alzado"
+      - hubierais alzado
+      - hubieran alzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alzado
+      - hubieses alzado
+      - hubiese alzado
+      - "hubi\xE9semos alzado"
+      - hubieseis alzado
+      - hubiesen alzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alzado
+      - hubieres alzado
+      - hubiere alzado
+      - "hubi\xE9remos alzado"
+      - hubiereis alzado
+      - hubieren alzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alza
+      - alce
+      - alcemos
+      - alzad
+      - alcen
+      cjid: impf

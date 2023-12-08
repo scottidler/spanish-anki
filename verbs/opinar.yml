@@ -1,0 +1,207 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|think}, to have an opinion'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to express an opinion'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to think highly of'
+          sn: '3'
+          vrs:
+          - va: opinar bien de
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|think} '
+          - - vis
+            - - t: opinamos lo mismo
+                tr: we're of the same opinion, we're in agreement
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: opinar
+    prs:
+    - sound:
+        audio: opina01sp
+  meta:
+    id: opinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616223000'
+    src: spanish
+    stems:
+    - opinar
+    - opinar bien de
+    uuid: 763d6148-3182-4770-ae17-718d1ed0bfc7
+  shortdef:
+  - to think, to have an opinion
+  - to express an opinion
+  - to think highly of
+  suppl:
+    cjts:
+    - cjfs:
+      - opinando
+      - opinado
+      cjid: gppt
+    - cjfs:
+      - opino
+      - opinas
+      - opina
+      - opinamos
+      - "opin\xE1is"
+      - opinan
+      cjid: pind
+    - cjfs:
+      - opinaba
+      - opinabas
+      - opinaba
+      - "opin\xE1bamos"
+      - opinabais
+      - opinaban
+      cjid: pret
+    - cjfs:
+      - "opin\xE9"
+      - opinaste
+      - "opin\xF3"
+      - opinamos
+      - opinasteis
+      - opinaron
+      cjid: pprf
+    - cjfs:
+      - "opinar\xE9"
+      - "opinar\xE1s"
+      - "opinar\xE1"
+      - opinaremos
+      - "opinar\xE9is"
+      - "opinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "opinar\xEDa"
+      - "opinar\xEDas"
+      - "opinar\xEDa"
+      - "opinar\xEDamos"
+      - "opinar\xEDais"
+      - "opinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - opine
+      - opines
+      - opine
+      - opinemos
+      - "opin\xE9is"
+      - opinen
+      cjid: psub
+    - cjfs:
+      - opinara
+      - opinaras
+      - opinara
+      - "opin\xE1ramos"
+      - opinarais
+      - opinaran
+      cjid: pisb1
+    - cjfs:
+      - opinase
+      - opinases
+      - opinase
+      - "opin\xE1semos"
+      - opinaseis
+      - opinasen
+      cjid: pisb2
+    - cjfs:
+      - opinare
+      - opinares
+      - opinare
+      - "opin\xE1remos"
+      - opinareis
+      - opinaren
+      cjid: fsub
+    - cjfs:
+      - he opinado
+      - has opinado
+      - ha opinado
+      - hemos opinado
+      - "hab\xE9is opinado"
+      - han opinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa opinado"
+      - "hab\xEDas opinado"
+      - "hab\xEDa opinado"
+      - "hab\xEDamos opinado"
+      - "hab\xEDais opinado"
+      - "hab\xEDan opinado"
+      cjid: ppsi
+    - cjfs:
+      - hube opinado
+      - hubiste opinado
+      - hubo opinado
+      - hubimos opinado
+      - hubisteis opinado
+      - hubieron opinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 opinado"
+      - "habr\xE1s opinado"
+      - "habr\xE1 opinado"
+      - habremos opinado
+      - "habr\xE9is opinado"
+      - "habr\xE1n opinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa opinado"
+      - "habr\xEDas opinado"
+      - "habr\xEDa opinado"
+      - "habr\xEDamos opinado"
+      - "habr\xEDais opinado"
+      - "habr\xEDan opinado"
+      cjid: cpef
+    - cjfs:
+      - haya opinado
+      - hayas opinado
+      - haya opinado
+      - hayamos opinado
+      - "hay\xE1is opinado"
+      - hayan opinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera opinado
+      - hubieras opinado
+      - hubiera opinado
+      - "hubi\xE9ramos opinado"
+      - hubierais opinado
+      - hubieran opinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese opinado
+      - hubieses opinado
+      - hubiese opinado
+      - "hubi\xE9semos opinado"
+      - hubieseis opinado
+      - hubiesen opinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere opinado
+      - hubieres opinado
+      - hubiere opinado
+      - "hubi\xE9remos opinado"
+      - hubiereis opinado
+      - hubieren opinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - opina
+      - opine
+      - opinemos
+      - opinad
+      - opinen
+      cjid: impf

@@ -1,0 +1,191 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crow}, to {a_link|cackle}, to {a_link|cluck}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to boast about, to crow about'
+          sls:
+          - familiar
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: cacarear
+    prs:
+    - sound:
+        audio: cacar01sp
+  meta:
+    id: cacarear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603538000'
+    src: spanish
+    stems:
+    - cacarear
+    uuid: ff532ba7-3471-4293-b9a9-a664afd3f8c3
+  shortdef:
+  - to crow, to cackle, to cluck
+  - to boast about, to crow about
+  suppl:
+    cjts:
+    - cjfs:
+      - cacareando
+      - cacareado
+      cjid: gppt
+    - cjfs:
+      - cacareo
+      - cacareas
+      - cacarea
+      - cacareamos
+      - "cacare\xE1is"
+      - cacarean
+      cjid: pind
+    - cjfs:
+      - cacareaba
+      - cacareabas
+      - cacareaba
+      - "cacare\xE1bamos"
+      - cacareabais
+      - cacareaban
+      cjid: pret
+    - cjfs:
+      - "cacare\xE9"
+      - cacareaste
+      - "cacare\xF3"
+      - cacareamos
+      - cacareasteis
+      - cacarearon
+      cjid: pprf
+    - cjfs:
+      - "cacarear\xE9"
+      - "cacarear\xE1s"
+      - "cacarear\xE1"
+      - cacarearemos
+      - "cacarear\xE9is"
+      - "cacarear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cacarear\xEDa"
+      - "cacarear\xEDas"
+      - "cacarear\xEDa"
+      - "cacarear\xEDamos"
+      - "cacarear\xEDais"
+      - "cacarear\xEDan"
+      cjid: cond
+    - cjfs:
+      - cacaree
+      - cacarees
+      - cacaree
+      - cacareemos
+      - "cacare\xE9is"
+      - cacareen
+      cjid: psub
+    - cjfs:
+      - cacareara
+      - cacarearas
+      - cacareara
+      - "cacare\xE1ramos"
+      - cacarearais
+      - cacarearan
+      cjid: pisb1
+    - cjfs:
+      - cacarease
+      - cacareases
+      - cacarease
+      - "cacare\xE1semos"
+      - cacareaseis
+      - cacareasen
+      cjid: pisb2
+    - cjfs:
+      - cacareare
+      - cacareares
+      - cacareare
+      - "cacare\xE1remos"
+      - cacareareis
+      - cacarearen
+      cjid: fsub
+    - cjfs:
+      - he cacareado
+      - has cacareado
+      - ha cacareado
+      - hemos cacareado
+      - "hab\xE9is cacareado"
+      - han cacareado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cacareado"
+      - "hab\xEDas cacareado"
+      - "hab\xEDa cacareado"
+      - "hab\xEDamos cacareado"
+      - "hab\xEDais cacareado"
+      - "hab\xEDan cacareado"
+      cjid: ppsi
+    - cjfs:
+      - hube cacareado
+      - hubiste cacareado
+      - hubo cacareado
+      - hubimos cacareado
+      - hubisteis cacareado
+      - hubieron cacareado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cacareado"
+      - "habr\xE1s cacareado"
+      - "habr\xE1 cacareado"
+      - habremos cacareado
+      - "habr\xE9is cacareado"
+      - "habr\xE1n cacareado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cacareado"
+      - "habr\xEDas cacareado"
+      - "habr\xEDa cacareado"
+      - "habr\xEDamos cacareado"
+      - "habr\xEDais cacareado"
+      - "habr\xEDan cacareado"
+      cjid: cpef
+    - cjfs:
+      - haya cacareado
+      - hayas cacareado
+      - haya cacareado
+      - hayamos cacareado
+      - "hay\xE1is cacareado"
+      - hayan cacareado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cacareado
+      - hubieras cacareado
+      - hubiera cacareado
+      - "hubi\xE9ramos cacareado"
+      - hubierais cacareado
+      - hubieran cacareado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cacareado
+      - hubieses cacareado
+      - hubiese cacareado
+      - "hubi\xE9semos cacareado"
+      - hubieseis cacareado
+      - hubiesen cacareado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cacareado
+      - hubieres cacareado
+      - hubiere cacareado
+      - "hubi\xE9remos cacareado"
+      - hubiereis cacareado
+      - hubieren cacareado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cacarea
+      - cacaree
+      - cacareemos
+      - cacaread
+      - cacareen
+      cjid: impf

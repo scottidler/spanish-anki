@@ -1,0 +1,278 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|owe}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|must}, {a_link|have to} '
+          - - vis
+            - - t: debo ir
+                tr: I must go
+              - t: no debes hacerlo
+                tr: you mustn't do it
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|should}, ought to '
+          - - vis
+            - - t: "deber\xEDas buscar trabajo"
+                tr: you should look for work
+              - t: "deber\xEDa darte verg\xFCenza"
+                tr: you ought to be ashamed of yourself
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|must} '
+          - - vis
+            - - t: debe ser muy tarde
+                tr: it must be very late
+          sls:
+          - (expressing probability)
+          sn: '3'
+    vd: auxiliary verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be due to'
+            sn: '1'
+            vrs:
+            - va: deberse a
+              vac: ~ a
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to have a responsibility towards'
+            sn: '2'
+            vrs:
+            - va: deberse a
+              vac: ~ a
+    drp: deberse
+    fl: reflexive verb
+  fl: transitive verb
+  hom: 1
+  hwi:
+    hw: deber
+    prs:
+    - sound:
+        audio: deber01sp
+  meta:
+    id: deber:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606456000'
+    src: spanish
+    stems:
+    - deber
+    - deberse
+    - deberse a
+    uuid: dcf19b6a-a4c3-4deb-8cb3-82ea3b008b2e
+  shortdef:
+  - to owe
+  - must, have to
+  - should, ought to
+  suppl:
+    cjts:
+    - cjfs:
+      - debiendo
+      - debido
+      cjid: gppt
+    - cjfs:
+      - debo
+      - debes
+      - debe
+      - debemos
+      - "deb\xE9is"
+      - deben
+      cjid: pind
+    - cjfs:
+      - "deb\xEDa"
+      - "deb\xEDas"
+      - "deb\xEDa"
+      - "deb\xEDamos"
+      - "deb\xEDais"
+      - "deb\xEDan"
+      cjid: pret
+    - cjfs:
+      - "deb\xED"
+      - debiste
+      - "debi\xF3"
+      - debimos
+      - debisteis
+      - debieron
+      cjid: pprf
+    - cjfs:
+      - "deber\xE9"
+      - "deber\xE1s"
+      - "deber\xE1"
+      - deberemos
+      - "deber\xE9is"
+      - "deber\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deber\xEDa"
+      - "deber\xEDas"
+      - "deber\xEDa"
+      - "deber\xEDamos"
+      - "deber\xEDais"
+      - "deber\xEDan"
+      cjid: cond
+    - cjfs:
+      - deba
+      - debas
+      - deba
+      - debamos
+      - "deb\xE1is"
+      - deban
+      cjid: psub
+    - cjfs:
+      - debiera
+      - debieras
+      - debiera
+      - "debi\xE9ramos"
+      - debierais
+      - debieran
+      cjid: pisb1
+    - cjfs:
+      - debiese
+      - debieses
+      - debiese
+      - "debi\xE9semos"
+      - debieseis
+      - debiesen
+      cjid: pisb2
+    - cjfs:
+      - debiere
+      - debieres
+      - debiere
+      - "debi\xE9remos"
+      - debiereis
+      - debieren
+      cjid: fsub
+    - cjfs:
+      - he debido
+      - has debido
+      - ha debido
+      - hemos debido
+      - "hab\xE9is debido"
+      - han debido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa debido"
+      - "hab\xEDas debido"
+      - "hab\xEDa debido"
+      - "hab\xEDamos debido"
+      - "hab\xEDais debido"
+      - "hab\xEDan debido"
+      cjid: ppsi
+    - cjfs:
+      - hube debido
+      - hubiste debido
+      - hubo debido
+      - hubimos debido
+      - hubisteis debido
+      - hubieron debido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 debido"
+      - "habr\xE1s debido"
+      - "habr\xE1 debido"
+      - habremos debido
+      - "habr\xE9is debido"
+      - "habr\xE1n debido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa debido"
+      - "habr\xEDas debido"
+      - "habr\xEDa debido"
+      - "habr\xEDamos debido"
+      - "habr\xEDais debido"
+      - "habr\xEDan debido"
+      cjid: cpef
+    - cjfs:
+      - haya debido
+      - hayas debido
+      - haya debido
+      - hayamos debido
+      - "hay\xE1is debido"
+      - hayan debido
+      cjid: ppfs
+    - cjfs:
+      - hubiera debido
+      - hubieras debido
+      - hubiera debido
+      - "hubi\xE9ramos debido"
+      - hubierais debido
+      - hubieran debido
+      cjid: ppss1
+    - cjfs:
+      - hubiese debido
+      - hubieses debido
+      - hubiese debido
+      - "hubi\xE9semos debido"
+      - hubieseis debido
+      - hubiesen debido
+      cjid: ppss2
+    - cjfs:
+      - hubiere debido
+      - hubieres debido
+      - hubiere debido
+      - "hubi\xE9remos debido"
+      - hubiereis debido
+      - hubieren debido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - debe
+      - deba
+      - debamos
+      - debed
+      - deban
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|obligaci\xF3n||} {bc}{a_link|duty}, {a_link|obligation}"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|homework}'
+          ins:
+          - if: deberes
+            spl: noun masculine plural
+          sls:
+          - Spain
+          sn: '2'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: deber
+    prs:
+    - sound:
+        audio: deber02sp
+  meta:
+    id: deber:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606457000'
+    src: spanish
+    stems:
+    - deber
+    - deberes
+    uuid: a6fd06a6-80fd-4785-b7f0-cafa4c56f543
+  shortdef:
+  - "obligaci\xF3n : duty, obligation"
+  - homework

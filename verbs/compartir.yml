@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|share}'
+  fl: transitive verb
+  hwi:
+    hw: compartir
+    prs:
+    - sound:
+        audio: compa12sp
+  meta:
+    id: compartir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605231000'
+    src: spanish
+    stems:
+    - compartir
+    uuid: a7dfe05b-f917-4090-8a79-e52ffae2dc8a
+  shortdef:
+  - to share
+  suppl:
+    cjts:
+    - cjfs:
+      - compartiendo
+      - compartido
+      cjid: gppt
+    - cjfs:
+      - comparto
+      - compartes
+      - comparte
+      - compartimos
+      - "compart\xEDs"
+      - comparten
+      cjid: pind
+    - cjfs:
+      - "compart\xEDa"
+      - "compart\xEDas"
+      - "compart\xEDa"
+      - "compart\xEDamos"
+      - "compart\xEDais"
+      - "compart\xEDan"
+      cjid: pret
+    - cjfs:
+      - "compart\xED"
+      - compartiste
+      - "comparti\xF3"
+      - compartimos
+      - compartisteis
+      - compartieron
+      cjid: pprf
+    - cjfs:
+      - "compartir\xE9"
+      - "compartir\xE1s"
+      - "compartir\xE1"
+      - compartiremos
+      - "compartir\xE9is"
+      - "compartir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "compartir\xEDa"
+      - "compartir\xEDas"
+      - "compartir\xEDa"
+      - "compartir\xEDamos"
+      - "compartir\xEDais"
+      - "compartir\xEDan"
+      cjid: cond
+    - cjfs:
+      - comparta
+      - compartas
+      - comparta
+      - compartamos
+      - "compart\xE1is"
+      - compartan
+      cjid: psub
+    - cjfs:
+      - compartiera
+      - compartieras
+      - compartiera
+      - "comparti\xE9ramos"
+      - compartierais
+      - compartieran
+      cjid: pisb1
+    - cjfs:
+      - compartiese
+      - compartieses
+      - compartiese
+      - "comparti\xE9semos"
+      - compartieseis
+      - compartiesen
+      cjid: pisb2
+    - cjfs:
+      - compartiere
+      - compartieres
+      - compartiere
+      - "comparti\xE9remos"
+      - compartiereis
+      - compartieren
+      cjid: fsub
+    - cjfs:
+      - he compartido
+      - has compartido
+      - ha compartido
+      - hemos compartido
+      - "hab\xE9is compartido"
+      - han compartido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa compartido"
+      - "hab\xEDas compartido"
+      - "hab\xEDa compartido"
+      - "hab\xEDamos compartido"
+      - "hab\xEDais compartido"
+      - "hab\xEDan compartido"
+      cjid: ppsi
+    - cjfs:
+      - hube compartido
+      - hubiste compartido
+      - hubo compartido
+      - hubimos compartido
+      - hubisteis compartido
+      - hubieron compartido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 compartido"
+      - "habr\xE1s compartido"
+      - "habr\xE1 compartido"
+      - habremos compartido
+      - "habr\xE9is compartido"
+      - "habr\xE1n compartido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa compartido"
+      - "habr\xEDas compartido"
+      - "habr\xEDa compartido"
+      - "habr\xEDamos compartido"
+      - "habr\xEDais compartido"
+      - "habr\xEDan compartido"
+      cjid: cpef
+    - cjfs:
+      - haya compartido
+      - hayas compartido
+      - haya compartido
+      - hayamos compartido
+      - "hay\xE1is compartido"
+      - hayan compartido
+      cjid: ppfs
+    - cjfs:
+      - hubiera compartido
+      - hubieras compartido
+      - hubiera compartido
+      - "hubi\xE9ramos compartido"
+      - hubierais compartido
+      - hubieran compartido
+      cjid: ppss1
+    - cjfs:
+      - hubiese compartido
+      - hubieses compartido
+      - hubiese compartido
+      - "hubi\xE9semos compartido"
+      - hubieseis compartido
+      - hubiesen compartido
+      cjid: ppss2
+    - cjfs:
+      - hubiere compartido
+      - hubieres compartido
+      - hubiere compartido
+      - "hubi\xE9remos compartido"
+      - hubiereis compartido
+      - hubieren compartido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - comparte
+      - comparta
+      - compartamos
+      - compartid
+      - compartan
+      cjid: impf

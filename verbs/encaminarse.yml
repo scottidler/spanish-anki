@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|direct}, to {a_link|channel}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to head in the right direction'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to head for, to aim at'
+            vrs:
+            - va: encaminarse a
+              vac: ~ a
+    drp: encaminarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: encaminar
+    prs:
+    - sound:
+        audio: encam01sp
+  meta:
+    id: encaminar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608413000'
+    src: spanish
+    stems:
+    - encaminar
+    - encaminarse
+    - encaminarse a
+    uuid: 120d36b9-e1f5-443f-b551-b45c2deb82bb
+  shortdef:
+  - to direct, to channel
+  - to head in the right direction
+  suppl:
+    cjts:
+    - cjfs:
+      - encaminando
+      - encaminado
+      cjid: gppt
+    - cjfs:
+      - encamino
+      - encaminas
+      - encamina
+      - encaminamos
+      - "encamin\xE1is"
+      - encaminan
+      cjid: pind
+    - cjfs:
+      - encaminaba
+      - encaminabas
+      - encaminaba
+      - "encamin\xE1bamos"
+      - encaminabais
+      - encaminaban
+      cjid: pret
+    - cjfs:
+      - "encamin\xE9"
+      - encaminaste
+      - "encamin\xF3"
+      - encaminamos
+      - encaminasteis
+      - encaminaron
+      cjid: pprf
+    - cjfs:
+      - "encaminar\xE9"
+      - "encaminar\xE1s"
+      - "encaminar\xE1"
+      - encaminaremos
+      - "encaminar\xE9is"
+      - "encaminar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encaminar\xEDa"
+      - "encaminar\xEDas"
+      - "encaminar\xEDa"
+      - "encaminar\xEDamos"
+      - "encaminar\xEDais"
+      - "encaminar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encamine
+      - encamines
+      - encamine
+      - encaminemos
+      - "encamin\xE9is"
+      - encaminen
+      cjid: psub
+    - cjfs:
+      - encaminara
+      - encaminaras
+      - encaminara
+      - "encamin\xE1ramos"
+      - encaminarais
+      - encaminaran
+      cjid: pisb1
+    - cjfs:
+      - encaminase
+      - encaminases
+      - encaminase
+      - "encamin\xE1semos"
+      - encaminaseis
+      - encaminasen
+      cjid: pisb2
+    - cjfs:
+      - encaminare
+      - encaminares
+      - encaminare
+      - "encamin\xE1remos"
+      - encaminareis
+      - encaminaren
+      cjid: fsub
+    - cjfs:
+      - he encaminado
+      - has encaminado
+      - ha encaminado
+      - hemos encaminado
+      - "hab\xE9is encaminado"
+      - han encaminado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encaminado"
+      - "hab\xEDas encaminado"
+      - "hab\xEDa encaminado"
+      - "hab\xEDamos encaminado"
+      - "hab\xEDais encaminado"
+      - "hab\xEDan encaminado"
+      cjid: ppsi
+    - cjfs:
+      - hube encaminado
+      - hubiste encaminado
+      - hubo encaminado
+      - hubimos encaminado
+      - hubisteis encaminado
+      - hubieron encaminado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encaminado"
+      - "habr\xE1s encaminado"
+      - "habr\xE1 encaminado"
+      - habremos encaminado
+      - "habr\xE9is encaminado"
+      - "habr\xE1n encaminado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encaminado"
+      - "habr\xEDas encaminado"
+      - "habr\xEDa encaminado"
+      - "habr\xEDamos encaminado"
+      - "habr\xEDais encaminado"
+      - "habr\xEDan encaminado"
+      cjid: cpef
+    - cjfs:
+      - haya encaminado
+      - hayas encaminado
+      - haya encaminado
+      - hayamos encaminado
+      - "hay\xE1is encaminado"
+      - hayan encaminado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encaminado
+      - hubieras encaminado
+      - hubiera encaminado
+      - "hubi\xE9ramos encaminado"
+      - hubierais encaminado
+      - hubieran encaminado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encaminado
+      - hubieses encaminado
+      - hubiese encaminado
+      - "hubi\xE9semos encaminado"
+      - hubieseis encaminado
+      - hubiesen encaminado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encaminado
+      - hubieres encaminado
+      - hubiere encaminado
+      - "hubi\xE9remos encaminado"
+      - hubiereis encaminado
+      - hubieren encaminado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encamina
+      - encamine
+      - encaminemos
+      - encaminad
+      - encaminen
+      cjid: impf

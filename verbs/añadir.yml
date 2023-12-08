@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|agregar||} {bc}to {a_link|add}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aumentar||} {bc}to {a_link|increase}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: "a\xF1adir"
+    prs:
+    - sound:
+        audio: anadi02sp
+  meta:
+    id: anadir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601608000'
+    src: spanish
+    stems:
+    - "a\xF1adir"
+    uuid: b71941dd-3b0d-46fd-92b1-fcc7e97d54b9
+  shortdef:
+  - 'agregar : to add'
+  - 'aumentar : to increase'
+  suppl:
+    cjts:
+    - cjfs:
+      - "a\xF1adiendo"
+      - "a\xF1adido"
+      cjid: gppt
+    - cjfs:
+      - "a\xF1ado"
+      - "a\xF1ades"
+      - "a\xF1ade"
+      - "a\xF1adimos"
+      - "a\xF1ad\xEDs"
+      - "a\xF1aden"
+      cjid: pind
+    - cjfs:
+      - "a\xF1ad\xEDa"
+      - "a\xF1ad\xEDas"
+      - "a\xF1ad\xEDa"
+      - "a\xF1ad\xEDamos"
+      - "a\xF1ad\xEDais"
+      - "a\xF1ad\xEDan"
+      cjid: pret
+    - cjfs:
+      - "a\xF1ad\xED"
+      - "a\xF1adiste"
+      - "a\xF1adi\xF3"
+      - "a\xF1adimos"
+      - "a\xF1adisteis"
+      - "a\xF1adieron"
+      cjid: pprf
+    - cjfs:
+      - "a\xF1adir\xE9"
+      - "a\xF1adir\xE1s"
+      - "a\xF1adir\xE1"
+      - "a\xF1adiremos"
+      - "a\xF1adir\xE9is"
+      - "a\xF1adir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "a\xF1adir\xEDa"
+      - "a\xF1adir\xEDas"
+      - "a\xF1adir\xEDa"
+      - "a\xF1adir\xEDamos"
+      - "a\xF1adir\xEDais"
+      - "a\xF1adir\xEDan"
+      cjid: cond
+    - cjfs:
+      - "a\xF1ada"
+      - "a\xF1adas"
+      - "a\xF1ada"
+      - "a\xF1adamos"
+      - "a\xF1ad\xE1is"
+      - "a\xF1adan"
+      cjid: psub
+    - cjfs:
+      - "a\xF1adiera"
+      - "a\xF1adieras"
+      - "a\xF1adiera"
+      - "a\xF1adi\xE9ramos"
+      - "a\xF1adierais"
+      - "a\xF1adieran"
+      cjid: pisb1
+    - cjfs:
+      - "a\xF1adiese"
+      - "a\xF1adieses"
+      - "a\xF1adiese"
+      - "a\xF1adi\xE9semos"
+      - "a\xF1adieseis"
+      - "a\xF1adiesen"
+      cjid: pisb2
+    - cjfs:
+      - "a\xF1adiere"
+      - "a\xF1adieres"
+      - "a\xF1adiere"
+      - "a\xF1adi\xE9remos"
+      - "a\xF1adiereis"
+      - "a\xF1adieren"
+      cjid: fsub
+    - cjfs:
+      - "he a\xF1adido"
+      - "has a\xF1adido"
+      - "ha a\xF1adido"
+      - "hemos a\xF1adido"
+      - "hab\xE9is a\xF1adido"
+      - "han a\xF1adido"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa a\xF1adido"
+      - "hab\xEDas a\xF1adido"
+      - "hab\xEDa a\xF1adido"
+      - "hab\xEDamos a\xF1adido"
+      - "hab\xEDais a\xF1adido"
+      - "hab\xEDan a\xF1adido"
+      cjid: ppsi
+    - cjfs:
+      - "hube a\xF1adido"
+      - "hubiste a\xF1adido"
+      - "hubo a\xF1adido"
+      - "hubimos a\xF1adido"
+      - "hubisteis a\xF1adido"
+      - "hubieron a\xF1adido"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 a\xF1adido"
+      - "habr\xE1s a\xF1adido"
+      - "habr\xE1 a\xF1adido"
+      - "habremos a\xF1adido"
+      - "habr\xE9is a\xF1adido"
+      - "habr\xE1n a\xF1adido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa a\xF1adido"
+      - "habr\xEDas a\xF1adido"
+      - "habr\xEDa a\xF1adido"
+      - "habr\xEDamos a\xF1adido"
+      - "habr\xEDais a\xF1adido"
+      - "habr\xEDan a\xF1adido"
+      cjid: cpef
+    - cjfs:
+      - "haya a\xF1adido"
+      - "hayas a\xF1adido"
+      - "haya a\xF1adido"
+      - "hayamos a\xF1adido"
+      - "hay\xE1is a\xF1adido"
+      - "hayan a\xF1adido"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera a\xF1adido"
+      - "hubieras a\xF1adido"
+      - "hubiera a\xF1adido"
+      - "hubi\xE9ramos a\xF1adido"
+      - "hubierais a\xF1adido"
+      - "hubieran a\xF1adido"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese a\xF1adido"
+      - "hubieses a\xF1adido"
+      - "hubiese a\xF1adido"
+      - "hubi\xE9semos a\xF1adido"
+      - "hubieseis a\xF1adido"
+      - "hubiesen a\xF1adido"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere a\xF1adido"
+      - "hubieres a\xF1adido"
+      - "hubiere a\xF1adido"
+      - "hubi\xE9remos a\xF1adido"
+      - "hubiereis a\xF1adido"
+      - "hubieren a\xF1adido"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "a\xF1ade"
+      - "a\xF1ada"
+      - "a\xF1adamos"
+      - "a\xF1adid"
+      - "a\xF1adan"
+      cjid: impf

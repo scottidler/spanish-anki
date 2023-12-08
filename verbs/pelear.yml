@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|luchar||} {bc}to {a_link|fight}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|disputar||} {bc}to {a_link|quarrel}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: pelear
+    prs:
+    - sound:
+        audio: pelea02sp
+  meta:
+    id: pelear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616962000'
+    src: spanish
+    stems:
+    - pelear
+    - pelearse
+    uuid: 732103f8-69fb-4296-8101-df46dfe10bb7
+  shortdef:
+  - 'luchar : to fight'
+  - 'disputar : to quarrel'
+  suppl:
+    cjts:
+    - cjfs:
+      - peleando
+      - peleado
+      cjid: gppt
+    - cjfs:
+      - peleo
+      - peleas
+      - pelea
+      - peleamos
+      - "pele\xE1is"
+      - pelean
+      cjid: pind
+    - cjfs:
+      - peleaba
+      - peleabas
+      - peleaba
+      - "pele\xE1bamos"
+      - peleabais
+      - peleaban
+      cjid: pret
+    - cjfs:
+      - "pele\xE9"
+      - peleaste
+      - "pele\xF3"
+      - peleamos
+      - peleasteis
+      - pelearon
+      cjid: pprf
+    - cjfs:
+      - "pelear\xE9"
+      - "pelear\xE1s"
+      - "pelear\xE1"
+      - pelearemos
+      - "pelear\xE9is"
+      - "pelear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pelear\xEDa"
+      - "pelear\xEDas"
+      - "pelear\xEDa"
+      - "pelear\xEDamos"
+      - "pelear\xEDais"
+      - "pelear\xEDan"
+      cjid: cond
+    - cjfs:
+      - pelee
+      - pelees
+      - pelee
+      - peleemos
+      - "pele\xE9is"
+      - peleen
+      cjid: psub
+    - cjfs:
+      - peleara
+      - pelearas
+      - peleara
+      - "pele\xE1ramos"
+      - pelearais
+      - pelearan
+      cjid: pisb1
+    - cjfs:
+      - pelease
+      - peleases
+      - pelease
+      - "pele\xE1semos"
+      - peleaseis
+      - peleasen
+      cjid: pisb2
+    - cjfs:
+      - peleare
+      - peleares
+      - peleare
+      - "pele\xE1remos"
+      - peleareis
+      - pelearen
+      cjid: fsub
+    - cjfs:
+      - he peleado
+      - has peleado
+      - ha peleado
+      - hemos peleado
+      - "hab\xE9is peleado"
+      - han peleado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa peleado"
+      - "hab\xEDas peleado"
+      - "hab\xEDa peleado"
+      - "hab\xEDamos peleado"
+      - "hab\xEDais peleado"
+      - "hab\xEDan peleado"
+      cjid: ppsi
+    - cjfs:
+      - hube peleado
+      - hubiste peleado
+      - hubo peleado
+      - hubimos peleado
+      - hubisteis peleado
+      - hubieron peleado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 peleado"
+      - "habr\xE1s peleado"
+      - "habr\xE1 peleado"
+      - habremos peleado
+      - "habr\xE9is peleado"
+      - "habr\xE1n peleado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa peleado"
+      - "habr\xEDas peleado"
+      - "habr\xEDa peleado"
+      - "habr\xEDamos peleado"
+      - "habr\xEDais peleado"
+      - "habr\xEDan peleado"
+      cjid: cpef
+    - cjfs:
+      - haya peleado
+      - hayas peleado
+      - haya peleado
+      - hayamos peleado
+      - "hay\xE1is peleado"
+      - hayan peleado
+      cjid: ppfs
+    - cjfs:
+      - hubiera peleado
+      - hubieras peleado
+      - hubiera peleado
+      - "hubi\xE9ramos peleado"
+      - hubierais peleado
+      - hubieran peleado
+      cjid: ppss1
+    - cjfs:
+      - hubiese peleado
+      - hubieses peleado
+      - hubiese peleado
+      - "hubi\xE9semos peleado"
+      - hubieseis peleado
+      - hubiesen peleado
+      cjid: ppss2
+    - cjfs:
+      - hubiere peleado
+      - hubieres peleado
+      - hubiere peleado
+      - "hubi\xE9remos peleado"
+      - hubiereis peleado
+      - hubieren peleado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pelea
+      - pelee
+      - peleemos
+      - pelead
+      - peleen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: pelearse

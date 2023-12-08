@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|bailar||} {bc}to {a_link|dance}'
+  fl: verb
+  hwi:
+    hw: danzar
+  meta:
+    id: danzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606435000'
+    src: spanish
+    stems:
+    - danzar
+    uuid: 3feb20dc-be8f-4df3-8034-a5609c97e317
+  shortdef:
+  - 'bailar : to dance'
+  suppl:
+    cjts:
+    - cjfs:
+      - danzando
+      - danzado
+      cjid: gppt
+    - cjfs:
+      - danzo
+      - danzas
+      - danza
+      - danzamos
+      - "danz\xE1is"
+      - danzan
+      cjid: pind
+    - cjfs:
+      - danzaba
+      - danzabas
+      - danzaba
+      - "danz\xE1bamos"
+      - danzabais
+      - danzaban
+      cjid: pret
+    - cjfs:
+      - "danc\xE9"
+      - danzaste
+      - "danz\xF3"
+      - danzamos
+      - danzasteis
+      - danzaron
+      cjid: pprf
+    - cjfs:
+      - "danzar\xE9"
+      - "danzar\xE1s"
+      - "danzar\xE1"
+      - danzaremos
+      - "danzar\xE9is"
+      - "danzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "danzar\xEDa"
+      - "danzar\xEDas"
+      - "danzar\xEDa"
+      - "danzar\xEDamos"
+      - "danzar\xEDais"
+      - "danzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dance
+      - dances
+      - dance
+      - dancemos
+      - "danc\xE9is"
+      - dancen
+      cjid: psub
+    - cjfs:
+      - danzara
+      - danzaras
+      - danzara
+      - "danz\xE1ramos"
+      - danzarais
+      - danzaran
+      cjid: pisb1
+    - cjfs:
+      - danzase
+      - danzases
+      - danzase
+      - "danz\xE1semos"
+      - danzaseis
+      - danzasen
+      cjid: pisb2
+    - cjfs:
+      - danzare
+      - danzares
+      - danzare
+      - "danz\xE1remos"
+      - danzareis
+      - danzaren
+      cjid: fsub
+    - cjfs:
+      - he danzado
+      - has danzado
+      - ha danzado
+      - hemos danzado
+      - "hab\xE9is danzado"
+      - han danzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa danzado"
+      - "hab\xEDas danzado"
+      - "hab\xEDa danzado"
+      - "hab\xEDamos danzado"
+      - "hab\xEDais danzado"
+      - "hab\xEDan danzado"
+      cjid: ppsi
+    - cjfs:
+      - hube danzado
+      - hubiste danzado
+      - hubo danzado
+      - hubimos danzado
+      - hubisteis danzado
+      - hubieron danzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 danzado"
+      - "habr\xE1s danzado"
+      - "habr\xE1 danzado"
+      - habremos danzado
+      - "habr\xE9is danzado"
+      - "habr\xE1n danzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa danzado"
+      - "habr\xEDas danzado"
+      - "habr\xEDa danzado"
+      - "habr\xEDamos danzado"
+      - "habr\xEDais danzado"
+      - "habr\xEDan danzado"
+      cjid: cpef
+    - cjfs:
+      - haya danzado
+      - hayas danzado
+      - haya danzado
+      - hayamos danzado
+      - "hay\xE1is danzado"
+      - hayan danzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera danzado
+      - hubieras danzado
+      - hubiera danzado
+      - "hubi\xE9ramos danzado"
+      - hubierais danzado
+      - hubieran danzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese danzado
+      - hubieses danzado
+      - hubiese danzado
+      - "hubi\xE9semos danzado"
+      - hubieseis danzado
+      - hubiesen danzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere danzado
+      - hubieres danzado
+      - hubiere danzado
+      - "hubi\xE9remos danzado"
+      - hubiereis danzado
+      - hubieren danzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - danza
+      - dance
+      - dancemos
+      - danzad
+      - dancen
+      cjid: impf

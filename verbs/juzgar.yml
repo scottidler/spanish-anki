@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|try}, to {a_link|judge} (a case in court)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pass judgment on'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|considerar||} {bc}to {a_link|consider}, to {a_link|deem} '
+          - - vis
+            - - t: a juzgar por los resultados
+                tr: judging by the results
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: juzgar
+    prs:
+    - sound:
+        audio: juzga02sp
+  meta:
+    id: juzgar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613338000'
+    src: spanish
+    stems:
+    - juzgar
+    uuid: 13a5782a-5906-4ad6-8b46-979454cfc549
+  shortdef:
+  - to try, to judge (a case in court)
+  - to pass judgment on
+  - 'considerar : to consider, to deem'
+  suppl:
+    cjts:
+    - cjfs:
+      - juzgando
+      - juzgado
+      cjid: gppt
+    - cjfs:
+      - juzgo
+      - juzgas
+      - juzga
+      - juzgamos
+      - "juzg\xE1is"
+      - juzgan
+      cjid: pind
+    - cjfs:
+      - juzgaba
+      - juzgabas
+      - juzgaba
+      - "juzg\xE1bamos"
+      - juzgabais
+      - juzgaban
+      cjid: pret
+    - cjfs:
+      - "juzgu\xE9"
+      - juzgaste
+      - "juzg\xF3"
+      - juzgamos
+      - juzgasteis
+      - juzgaron
+      cjid: pprf
+    - cjfs:
+      - "juzgar\xE9"
+      - "juzgar\xE1s"
+      - "juzgar\xE1"
+      - juzgaremos
+      - "juzgar\xE9is"
+      - "juzgar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "juzgar\xEDa"
+      - "juzgar\xEDas"
+      - "juzgar\xEDa"
+      - "juzgar\xEDamos"
+      - "juzgar\xEDais"
+      - "juzgar\xEDan"
+      cjid: cond
+    - cjfs:
+      - juzgue
+      - juzgues
+      - juzgue
+      - juzguemos
+      - "juzgu\xE9is"
+      - juzguen
+      cjid: psub
+    - cjfs:
+      - juzgara
+      - juzgaras
+      - juzgara
+      - "juzg\xE1ramos"
+      - juzgarais
+      - juzgaran
+      cjid: pisb1
+    - cjfs:
+      - juzgase
+      - juzgases
+      - juzgase
+      - "juzg\xE1semos"
+      - juzgaseis
+      - juzgasen
+      cjid: pisb2
+    - cjfs:
+      - juzgare
+      - juzgares
+      - juzgare
+      - "juzg\xE1remos"
+      - juzgareis
+      - juzgaren
+      cjid: fsub
+    - cjfs:
+      - he juzgado
+      - has juzgado
+      - ha juzgado
+      - hemos juzgado
+      - "hab\xE9is juzgado"
+      - han juzgado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa juzgado"
+      - "hab\xEDas juzgado"
+      - "hab\xEDa juzgado"
+      - "hab\xEDamos juzgado"
+      - "hab\xEDais juzgado"
+      - "hab\xEDan juzgado"
+      cjid: ppsi
+    - cjfs:
+      - hube juzgado
+      - hubiste juzgado
+      - hubo juzgado
+      - hubimos juzgado
+      - hubisteis juzgado
+      - hubieron juzgado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 juzgado"
+      - "habr\xE1s juzgado"
+      - "habr\xE1 juzgado"
+      - habremos juzgado
+      - "habr\xE9is juzgado"
+      - "habr\xE1n juzgado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa juzgado"
+      - "habr\xEDas juzgado"
+      - "habr\xEDa juzgado"
+      - "habr\xEDamos juzgado"
+      - "habr\xEDais juzgado"
+      - "habr\xEDan juzgado"
+      cjid: cpef
+    - cjfs:
+      - haya juzgado
+      - hayas juzgado
+      - haya juzgado
+      - hayamos juzgado
+      - "hay\xE1is juzgado"
+      - hayan juzgado
+      cjid: ppfs
+    - cjfs:
+      - hubiera juzgado
+      - hubieras juzgado
+      - hubiera juzgado
+      - "hubi\xE9ramos juzgado"
+      - hubierais juzgado
+      - hubieran juzgado
+      cjid: ppss1
+    - cjfs:
+      - hubiese juzgado
+      - hubieses juzgado
+      - hubiese juzgado
+      - "hubi\xE9semos juzgado"
+      - hubieseis juzgado
+      - hubiesen juzgado
+      cjid: ppss2
+    - cjfs:
+      - hubiere juzgado
+      - hubieres juzgado
+      - hubiere juzgado
+      - "hubi\xE9remos juzgado"
+      - hubiereis juzgado
+      - hubieren juzgado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - juzga
+      - juzgue
+      - juzguemos
+      - juzgad
+      - juzguen
+      cjid: impf

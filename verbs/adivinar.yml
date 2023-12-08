@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|guess}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|foretell}, to {a_link|predict}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: adivinar
+    prs:
+    - sound:
+        audio: adivi02sp
+  meta:
+    id: adivinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600476000'
+    src: spanish
+    stems:
+    - adivinar
+    uuid: a95709a7-e449-4397-8acc-8b610c632a72
+  shortdef:
+  - to guess
+  - to foretell, to predict
+  suppl:
+    cjts:
+    - cjfs:
+      - adivinando
+      - adivinado
+      cjid: gppt
+    - cjfs:
+      - adivino
+      - adivinas
+      - adivina
+      - adivinamos
+      - "adivin\xE1is"
+      - adivinan
+      cjid: pind
+    - cjfs:
+      - adivinaba
+      - adivinabas
+      - adivinaba
+      - "adivin\xE1bamos"
+      - adivinabais
+      - adivinaban
+      cjid: pret
+    - cjfs:
+      - "adivin\xE9"
+      - adivinaste
+      - "adivin\xF3"
+      - adivinamos
+      - adivinasteis
+      - adivinaron
+      cjid: pprf
+    - cjfs:
+      - "adivinar\xE9"
+      - "adivinar\xE1s"
+      - "adivinar\xE1"
+      - adivinaremos
+      - "adivinar\xE9is"
+      - "adivinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "adivinar\xEDa"
+      - "adivinar\xEDas"
+      - "adivinar\xEDa"
+      - "adivinar\xEDamos"
+      - "adivinar\xEDais"
+      - "adivinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - adivine
+      - adivines
+      - adivine
+      - adivinemos
+      - "adivin\xE9is"
+      - adivinen
+      cjid: psub
+    - cjfs:
+      - adivinara
+      - adivinaras
+      - adivinara
+      - "adivin\xE1ramos"
+      - adivinarais
+      - adivinaran
+      cjid: pisb1
+    - cjfs:
+      - adivinase
+      - adivinases
+      - adivinase
+      - "adivin\xE1semos"
+      - adivinaseis
+      - adivinasen
+      cjid: pisb2
+    - cjfs:
+      - adivinare
+      - adivinares
+      - adivinare
+      - "adivin\xE1remos"
+      - adivinareis
+      - adivinaren
+      cjid: fsub
+    - cjfs:
+      - he adivinado
+      - has adivinado
+      - ha adivinado
+      - hemos adivinado
+      - "hab\xE9is adivinado"
+      - han adivinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa adivinado"
+      - "hab\xEDas adivinado"
+      - "hab\xEDa adivinado"
+      - "hab\xEDamos adivinado"
+      - "hab\xEDais adivinado"
+      - "hab\xEDan adivinado"
+      cjid: ppsi
+    - cjfs:
+      - hube adivinado
+      - hubiste adivinado
+      - hubo adivinado
+      - hubimos adivinado
+      - hubisteis adivinado
+      - hubieron adivinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 adivinado"
+      - "habr\xE1s adivinado"
+      - "habr\xE1 adivinado"
+      - habremos adivinado
+      - "habr\xE9is adivinado"
+      - "habr\xE1n adivinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa adivinado"
+      - "habr\xEDas adivinado"
+      - "habr\xEDa adivinado"
+      - "habr\xEDamos adivinado"
+      - "habr\xEDais adivinado"
+      - "habr\xEDan adivinado"
+      cjid: cpef
+    - cjfs:
+      - haya adivinado
+      - hayas adivinado
+      - haya adivinado
+      - hayamos adivinado
+      - "hay\xE1is adivinado"
+      - hayan adivinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera adivinado
+      - hubieras adivinado
+      - hubiera adivinado
+      - "hubi\xE9ramos adivinado"
+      - hubierais adivinado
+      - hubieran adivinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese adivinado
+      - hubieses adivinado
+      - hubiese adivinado
+      - "hubi\xE9semos adivinado"
+      - hubieseis adivinado
+      - hubiesen adivinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere adivinado
+      - hubieres adivinado
+      - hubiere adivinado
+      - "hubi\xE9remos adivinado"
+      - hubiereis adivinado
+      - hubieren adivinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - adivina
+      - adivine
+      - adivinemos
+      - adivinad
+      - adivinen
+      cjid: impf

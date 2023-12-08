@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|entreabrir||} {bc}to leave ajar'
+  fl: transitive verb
+  hwi:
+    hw: entornar
+  meta:
+    id: entornar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608731000'
+    src: spanish
+    stems:
+    - entornar
+    uuid: c8d77c7a-467e-49e1-afec-47606311a5b0
+  shortdef:
+  - 'entreabrir : to leave ajar'
+  suppl:
+    cjts:
+    - cjfs:
+      - entornando
+      - entornado
+      cjid: gppt
+    - cjfs:
+      - entorno
+      - entornas
+      - entorna
+      - entornamos
+      - "entorn\xE1is"
+      - entornan
+      cjid: pind
+    - cjfs:
+      - entornaba
+      - entornabas
+      - entornaba
+      - "entorn\xE1bamos"
+      - entornabais
+      - entornaban
+      cjid: pret
+    - cjfs:
+      - "entorn\xE9"
+      - entornaste
+      - "entorn\xF3"
+      - entornamos
+      - entornasteis
+      - entornaron
+      cjid: pprf
+    - cjfs:
+      - "entornar\xE9"
+      - "entornar\xE1s"
+      - "entornar\xE1"
+      - entornaremos
+      - "entornar\xE9is"
+      - "entornar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entornar\xEDa"
+      - "entornar\xEDas"
+      - "entornar\xEDa"
+      - "entornar\xEDamos"
+      - "entornar\xEDais"
+      - "entornar\xEDan"
+      cjid: cond
+    - cjfs:
+      - entorne
+      - entornes
+      - entorne
+      - entornemos
+      - "entorn\xE9is"
+      - entornen
+      cjid: psub
+    - cjfs:
+      - entornara
+      - entornaras
+      - entornara
+      - "entorn\xE1ramos"
+      - entornarais
+      - entornaran
+      cjid: pisb1
+    - cjfs:
+      - entornase
+      - entornases
+      - entornase
+      - "entorn\xE1semos"
+      - entornaseis
+      - entornasen
+      cjid: pisb2
+    - cjfs:
+      - entornare
+      - entornares
+      - entornare
+      - "entorn\xE1remos"
+      - entornareis
+      - entornaren
+      cjid: fsub
+    - cjfs:
+      - he entornado
+      - has entornado
+      - ha entornado
+      - hemos entornado
+      - "hab\xE9is entornado"
+      - han entornado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entornado"
+      - "hab\xEDas entornado"
+      - "hab\xEDa entornado"
+      - "hab\xEDamos entornado"
+      - "hab\xEDais entornado"
+      - "hab\xEDan entornado"
+      cjid: ppsi
+    - cjfs:
+      - hube entornado
+      - hubiste entornado
+      - hubo entornado
+      - hubimos entornado
+      - hubisteis entornado
+      - hubieron entornado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entornado"
+      - "habr\xE1s entornado"
+      - "habr\xE1 entornado"
+      - habremos entornado
+      - "habr\xE9is entornado"
+      - "habr\xE1n entornado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entornado"
+      - "habr\xEDas entornado"
+      - "habr\xEDa entornado"
+      - "habr\xEDamos entornado"
+      - "habr\xEDais entornado"
+      - "habr\xEDan entornado"
+      cjid: cpef
+    - cjfs:
+      - haya entornado
+      - hayas entornado
+      - haya entornado
+      - hayamos entornado
+      - "hay\xE1is entornado"
+      - hayan entornado
+      cjid: ppfs
+    - cjfs:
+      - hubiera entornado
+      - hubieras entornado
+      - hubiera entornado
+      - "hubi\xE9ramos entornado"
+      - hubierais entornado
+      - hubieran entornado
+      cjid: ppss1
+    - cjfs:
+      - hubiese entornado
+      - hubieses entornado
+      - hubiese entornado
+      - "hubi\xE9semos entornado"
+      - hubieseis entornado
+      - hubiesen entornado
+      cjid: ppss2
+    - cjfs:
+      - hubiere entornado
+      - hubieres entornado
+      - hubiere entornado
+      - "hubi\xE9remos entornado"
+      - hubiereis entornado
+      - hubieren entornado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entorna
+      - entorne
+      - entornemos
+      - entornad
+      - entornen
+      cjid: impf

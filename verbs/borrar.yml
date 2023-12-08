@@ -1,0 +1,299 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|erase} (on paper), to {a_link|delete} (on a computer)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wipe}, to {a_link|erase} (a disk, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|erase}, to {a_link|wipe off} (a blackboard)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|erase}, to blot out (a memory)'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fade}, to fade away'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|resign}, to drop out'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|split}, to {a_link|leave} '
+            - - vis
+              - - t: me borro
+                  tr: I'm out of here
+            sls:
+            - Mexico familiar
+            sn: '3'
+    drp: borrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: borrar
+    prs:
+    - sound:
+        audio: borra06sp
+  meta:
+    id: borrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603240000'
+    src: spanish
+    stems:
+    - borrar
+    - borrarse
+    uuid: ab535f45-f37f-442c-bbea-81ed24d11fb2
+  shortdef:
+  - to erase (on paper), to delete (on a computer)
+  - to wipe, to erase (a disk, etc.)
+  - to erase, to wipe off (a blackboard)
+  suppl:
+    cjts:
+    - cjfs:
+      - borrando
+      - borrado
+      cjid: gppt
+    - cjfs:
+      - borro
+      - borras
+      - borra
+      - borramos
+      - "borr\xE1is"
+      - borran
+      cjid: pind
+    - cjfs:
+      - borraba
+      - borrabas
+      - borraba
+      - "borr\xE1bamos"
+      - borrabais
+      - borraban
+      cjid: pret
+    - cjfs:
+      - "borr\xE9"
+      - borraste
+      - "borr\xF3"
+      - borramos
+      - borrasteis
+      - borraron
+      cjid: pprf
+    - cjfs:
+      - "borrar\xE9"
+      - "borrar\xE1s"
+      - "borrar\xE1"
+      - borraremos
+      - "borrar\xE9is"
+      - "borrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "borrar\xEDa"
+      - "borrar\xEDas"
+      - "borrar\xEDa"
+      - "borrar\xEDamos"
+      - "borrar\xEDais"
+      - "borrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - borre
+      - borres
+      - borre
+      - borremos
+      - "borr\xE9is"
+      - borren
+      cjid: psub
+    - cjfs:
+      - borrara
+      - borraras
+      - borrara
+      - "borr\xE1ramos"
+      - borrarais
+      - borraran
+      cjid: pisb1
+    - cjfs:
+      - borrase
+      - borrases
+      - borrase
+      - "borr\xE1semos"
+      - borraseis
+      - borrasen
+      cjid: pisb2
+    - cjfs:
+      - borrare
+      - borrares
+      - borrare
+      - "borr\xE1remos"
+      - borrareis
+      - borraren
+      cjid: fsub
+    - cjfs:
+      - he borrado
+      - has borrado
+      - ha borrado
+      - hemos borrado
+      - "hab\xE9is borrado"
+      - han borrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa borrado"
+      - "hab\xEDas borrado"
+      - "hab\xEDa borrado"
+      - "hab\xEDamos borrado"
+      - "hab\xEDais borrado"
+      - "hab\xEDan borrado"
+      cjid: ppsi
+    - cjfs:
+      - hube borrado
+      - hubiste borrado
+      - hubo borrado
+      - hubimos borrado
+      - hubisteis borrado
+      - hubieron borrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 borrado"
+      - "habr\xE1s borrado"
+      - "habr\xE1 borrado"
+      - habremos borrado
+      - "habr\xE9is borrado"
+      - "habr\xE1n borrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa borrado"
+      - "habr\xEDas borrado"
+      - "habr\xEDa borrado"
+      - "habr\xEDamos borrado"
+      - "habr\xEDais borrado"
+      - "habr\xEDan borrado"
+      cjid: cpef
+    - cjfs:
+      - haya borrado
+      - hayas borrado
+      - haya borrado
+      - hayamos borrado
+      - "hay\xE1is borrado"
+      - hayan borrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera borrado
+      - hubieras borrado
+      - hubiera borrado
+      - "hubi\xE9ramos borrado"
+      - hubierais borrado
+      - hubieran borrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese borrado
+      - hubieses borrado
+      - hubiese borrado
+      - "hubi\xE9semos borrado"
+      - hubieseis borrado
+      - hubiesen borrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere borrado
+      - hubieres borrado
+      - hubiere borrado
+      - "hubi\xE9remos borrado"
+      - hubiereis borrado
+      - hubieren borrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - borra
+      - borre
+      - borremos
+      - borrad
+      - borren
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|gum} '
+          - - vis
+            - - t: goma de mascar
+                tr: chewing gum
+              - t: goma de pegar
+                tr: glue
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|caucho||} {bc}{a_link|rubber} '
+          - - vis
+            - - t: goma espuma
+                tr: foam rubber
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|pegamento||} {bc}{a_link|glue}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|rubber band}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tire}'
+          sls:
+          - Argentina
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|eraser}'
+          sn: '6'
+          vrs:
+          - va: goma de borrar
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hangover}'
+          sls:
+          - Central America familiar
+          sn: '6'
+  fl: feminine noun
+  hwi:
+    hw: goma
+    prs:
+    - sound:
+        audio: goma001sp
+  meta:
+    id: goma
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610920000'
+    src: spanish
+    stems:
+    - goma
+    - goma de borrar
+    uuid: 88571591-5eeb-433f-85a7-7dce53873ecb
+  shortdef:
+  - gum
+  - 'caucho : rubber'
+  - 'pegamento : glue'

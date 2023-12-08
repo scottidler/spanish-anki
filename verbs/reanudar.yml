@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resume}, to {a_link|renew}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|resume}, to {a_link|continue}'
+    drp: reanudarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reanudar
+    prs:
+    - sound:
+        audio: reanu01sp
+  meta:
+    id: reanudar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618886000'
+    src: spanish
+    stems:
+    - reanudar
+    - reanudarse
+    uuid: 07df3610-23e2-43d9-b267-d802837316af
+  shortdef:
+  - to resume, to renew
+  suppl:
+    cjts:
+    - cjfs:
+      - reanudando
+      - reanudado
+      cjid: gppt
+    - cjfs:
+      - reanudo
+      - reanudas
+      - reanuda
+      - reanudamos
+      - "reanud\xE1is"
+      - reanudan
+      cjid: pind
+    - cjfs:
+      - reanudaba
+      - reanudabas
+      - reanudaba
+      - "reanud\xE1bamos"
+      - reanudabais
+      - reanudaban
+      cjid: pret
+    - cjfs:
+      - "reanud\xE9"
+      - reanudaste
+      - "reanud\xF3"
+      - reanudamos
+      - reanudasteis
+      - reanudaron
+      cjid: pprf
+    - cjfs:
+      - "reanudar\xE9"
+      - "reanudar\xE1s"
+      - "reanudar\xE1"
+      - reanudaremos
+      - "reanudar\xE9is"
+      - "reanudar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reanudar\xEDa"
+      - "reanudar\xEDas"
+      - "reanudar\xEDa"
+      - "reanudar\xEDamos"
+      - "reanudar\xEDais"
+      - "reanudar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reanude
+      - reanudes
+      - reanude
+      - reanudemos
+      - "reanud\xE9is"
+      - reanuden
+      cjid: psub
+    - cjfs:
+      - reanudara
+      - reanudaras
+      - reanudara
+      - "reanud\xE1ramos"
+      - reanudarais
+      - reanudaran
+      cjid: pisb1
+    - cjfs:
+      - reanudase
+      - reanudases
+      - reanudase
+      - "reanud\xE1semos"
+      - reanudaseis
+      - reanudasen
+      cjid: pisb2
+    - cjfs:
+      - reanudare
+      - reanudares
+      - reanudare
+      - "reanud\xE1remos"
+      - reanudareis
+      - reanudaren
+      cjid: fsub
+    - cjfs:
+      - he reanudado
+      - has reanudado
+      - ha reanudado
+      - hemos reanudado
+      - "hab\xE9is reanudado"
+      - han reanudado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reanudado"
+      - "hab\xEDas reanudado"
+      - "hab\xEDa reanudado"
+      - "hab\xEDamos reanudado"
+      - "hab\xEDais reanudado"
+      - "hab\xEDan reanudado"
+      cjid: ppsi
+    - cjfs:
+      - hube reanudado
+      - hubiste reanudado
+      - hubo reanudado
+      - hubimos reanudado
+      - hubisteis reanudado
+      - hubieron reanudado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reanudado"
+      - "habr\xE1s reanudado"
+      - "habr\xE1 reanudado"
+      - habremos reanudado
+      - "habr\xE9is reanudado"
+      - "habr\xE1n reanudado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reanudado"
+      - "habr\xEDas reanudado"
+      - "habr\xEDa reanudado"
+      - "habr\xEDamos reanudado"
+      - "habr\xEDais reanudado"
+      - "habr\xEDan reanudado"
+      cjid: cpef
+    - cjfs:
+      - haya reanudado
+      - hayas reanudado
+      - haya reanudado
+      - hayamos reanudado
+      - "hay\xE1is reanudado"
+      - hayan reanudado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reanudado
+      - hubieras reanudado
+      - hubiera reanudado
+      - "hubi\xE9ramos reanudado"
+      - hubierais reanudado
+      - hubieran reanudado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reanudado
+      - hubieses reanudado
+      - hubiese reanudado
+      - "hubi\xE9semos reanudado"
+      - hubieseis reanudado
+      - hubiesen reanudado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reanudado
+      - hubieres reanudado
+      - hubiere reanudado
+      - "hubi\xE9remos reanudado"
+      - hubiereis reanudado
+      - hubieren reanudado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reanuda
+      - reanude
+      - reanudemos
+      - reanudad
+      - reanuden
+      cjid: impf

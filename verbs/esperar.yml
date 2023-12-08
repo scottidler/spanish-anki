@@ -1,0 +1,247 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aguardar||} {bc}to {a_link|wait for} '
+          - - vis
+            - - t: espero a un amigo
+                tr: I'm waiting for a friend
+              - t: "esper\xE9 una hora"
+                tr: I waited for an hour
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expect} '
+          - - vis
+            - - t: no esperaba visitas
+                tr: I wasn't expecting visitors
+              - t: como era de esperar
+                tr: as was to be expected
+              - t: cuando uno menos lo espera
+                tr: when you least expect it
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hope} '
+          - - vis
+            - - t: espero poder trabajar
+                tr: I hope to be able to work
+              - t: "espero que s\xED/no"
+                tr: I hope so/not
+              - t: espero que llame
+                tr: I hope he calls
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wait} '
+          - - vis
+            - - t: espere un momento, por favor
+                tr: just a moment, please
+              - t: hay que esperar a que llueva
+                tr: we have to wait for it to rain
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|expect}, to be hoped '
+            - - vis
+              - - t: "como podr\xEDa esperarse"
+                  tr: as would be expected
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|hold on}, to {a_link|hang on} '
+            - - vis
+              - - t: "esp\xE9rate un momento"
+                  tr: hold on a minute
+            sn: '2'
+    drp: esperarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: esperar
+    prs:
+    - sound:
+        audio: esper05sp
+  meta:
+    id: esperar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609180000'
+    src: spanish
+    stems:
+    - esperar
+    - esperarse
+    uuid: 2190ed05-213f-43a7-b304-e9c04f76de5f
+  shortdef:
+  - 'aguardar : to wait for'
+  - to expect
+  - to hope
+  suppl:
+    cjts:
+    - cjfs:
+      - esperando
+      - esperado
+      cjid: gppt
+    - cjfs:
+      - espero
+      - esperas
+      - espera
+      - esperamos
+      - "esper\xE1is"
+      - esperan
+      cjid: pind
+    - cjfs:
+      - esperaba
+      - esperabas
+      - esperaba
+      - "esper\xE1bamos"
+      - esperabais
+      - esperaban
+      cjid: pret
+    - cjfs:
+      - "esper\xE9"
+      - esperaste
+      - "esper\xF3"
+      - esperamos
+      - esperasteis
+      - esperaron
+      cjid: pprf
+    - cjfs:
+      - "esperar\xE9"
+      - "esperar\xE1s"
+      - "esperar\xE1"
+      - esperaremos
+      - "esperar\xE9is"
+      - "esperar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "esperar\xEDa"
+      - "esperar\xEDas"
+      - "esperar\xEDa"
+      - "esperar\xEDamos"
+      - "esperar\xEDais"
+      - "esperar\xEDan"
+      cjid: cond
+    - cjfs:
+      - espere
+      - esperes
+      - espere
+      - esperemos
+      - "esper\xE9is"
+      - esperen
+      cjid: psub
+    - cjfs:
+      - esperara
+      - esperaras
+      - esperara
+      - "esper\xE1ramos"
+      - esperarais
+      - esperaran
+      cjid: pisb1
+    - cjfs:
+      - esperase
+      - esperases
+      - esperase
+      - "esper\xE1semos"
+      - esperaseis
+      - esperasen
+      cjid: pisb2
+    - cjfs:
+      - esperare
+      - esperares
+      - esperare
+      - "esper\xE1remos"
+      - esperareis
+      - esperaren
+      cjid: fsub
+    - cjfs:
+      - he esperado
+      - has esperado
+      - ha esperado
+      - hemos esperado
+      - "hab\xE9is esperado"
+      - han esperado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa esperado"
+      - "hab\xEDas esperado"
+      - "hab\xEDa esperado"
+      - "hab\xEDamos esperado"
+      - "hab\xEDais esperado"
+      - "hab\xEDan esperado"
+      cjid: ppsi
+    - cjfs:
+      - hube esperado
+      - hubiste esperado
+      - hubo esperado
+      - hubimos esperado
+      - hubisteis esperado
+      - hubieron esperado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 esperado"
+      - "habr\xE1s esperado"
+      - "habr\xE1 esperado"
+      - habremos esperado
+      - "habr\xE9is esperado"
+      - "habr\xE1n esperado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa esperado"
+      - "habr\xEDas esperado"
+      - "habr\xEDa esperado"
+      - "habr\xEDamos esperado"
+      - "habr\xEDais esperado"
+      - "habr\xEDan esperado"
+      cjid: cpef
+    - cjfs:
+      - haya esperado
+      - hayas esperado
+      - haya esperado
+      - hayamos esperado
+      - "hay\xE1is esperado"
+      - hayan esperado
+      cjid: ppfs
+    - cjfs:
+      - hubiera esperado
+      - hubieras esperado
+      - hubiera esperado
+      - "hubi\xE9ramos esperado"
+      - hubierais esperado
+      - hubieran esperado
+      cjid: ppss1
+    - cjfs:
+      - hubiese esperado
+      - hubieses esperado
+      - hubiese esperado
+      - "hubi\xE9semos esperado"
+      - hubieseis esperado
+      - hubiesen esperado
+      cjid: ppss2
+    - cjfs:
+      - hubiere esperado
+      - hubieres esperado
+      - hubiere esperado
+      - "hubi\xE9remos esperado"
+      - hubiereis esperado
+      - hubieren esperado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - espera
+      - espere
+      - esperemos
+      - esperad
+      - esperen
+      cjid: impf

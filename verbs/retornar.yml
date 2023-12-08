@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|return}'
+  fl: verb
+  hwi:
+    hw: retornar
+    prs:
+    - sound:
+        audio: retor02sp
+  meta:
+    id: retornar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619683000'
+    src: spanish
+    stems:
+    - retornar
+    uuid: 1760e21e-4de2-484a-95ab-ecc9865ca0b7
+  shortdef:
+  - to return
+  suppl:
+    cjts:
+    - cjfs:
+      - retornando
+      - retornado
+      cjid: gppt
+    - cjfs:
+      - retorno
+      - retornas
+      - retorna
+      - retornamos
+      - "retorn\xE1is"
+      - retornan
+      cjid: pind
+    - cjfs:
+      - retornaba
+      - retornabas
+      - retornaba
+      - "retorn\xE1bamos"
+      - retornabais
+      - retornaban
+      cjid: pret
+    - cjfs:
+      - "retorn\xE9"
+      - retornaste
+      - "retorn\xF3"
+      - retornamos
+      - retornasteis
+      - retornaron
+      cjid: pprf
+    - cjfs:
+      - "retornar\xE9"
+      - "retornar\xE1s"
+      - "retornar\xE1"
+      - retornaremos
+      - "retornar\xE9is"
+      - "retornar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "retornar\xEDa"
+      - "retornar\xEDas"
+      - "retornar\xEDa"
+      - "retornar\xEDamos"
+      - "retornar\xEDais"
+      - "retornar\xEDan"
+      cjid: cond
+    - cjfs:
+      - retorne
+      - retornes
+      - retorne
+      - retornemos
+      - "retorn\xE9is"
+      - retornen
+      cjid: psub
+    - cjfs:
+      - retornara
+      - retornaras
+      - retornara
+      - "retorn\xE1ramos"
+      - retornarais
+      - retornaran
+      cjid: pisb1
+    - cjfs:
+      - retornase
+      - retornases
+      - retornase
+      - "retorn\xE1semos"
+      - retornaseis
+      - retornasen
+      cjid: pisb2
+    - cjfs:
+      - retornare
+      - retornares
+      - retornare
+      - "retorn\xE1remos"
+      - retornareis
+      - retornaren
+      cjid: fsub
+    - cjfs:
+      - he retornado
+      - has retornado
+      - ha retornado
+      - hemos retornado
+      - "hab\xE9is retornado"
+      - han retornado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa retornado"
+      - "hab\xEDas retornado"
+      - "hab\xEDa retornado"
+      - "hab\xEDamos retornado"
+      - "hab\xEDais retornado"
+      - "hab\xEDan retornado"
+      cjid: ppsi
+    - cjfs:
+      - hube retornado
+      - hubiste retornado
+      - hubo retornado
+      - hubimos retornado
+      - hubisteis retornado
+      - hubieron retornado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 retornado"
+      - "habr\xE1s retornado"
+      - "habr\xE1 retornado"
+      - habremos retornado
+      - "habr\xE9is retornado"
+      - "habr\xE1n retornado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa retornado"
+      - "habr\xEDas retornado"
+      - "habr\xEDa retornado"
+      - "habr\xEDamos retornado"
+      - "habr\xEDais retornado"
+      - "habr\xEDan retornado"
+      cjid: cpef
+    - cjfs:
+      - haya retornado
+      - hayas retornado
+      - haya retornado
+      - hayamos retornado
+      - "hay\xE1is retornado"
+      - hayan retornado
+      cjid: ppfs
+    - cjfs:
+      - hubiera retornado
+      - hubieras retornado
+      - hubiera retornado
+      - "hubi\xE9ramos retornado"
+      - hubierais retornado
+      - hubieran retornado
+      cjid: ppss1
+    - cjfs:
+      - hubiese retornado
+      - hubieses retornado
+      - hubiese retornado
+      - "hubi\xE9semos retornado"
+      - hubieseis retornado
+      - hubiesen retornado
+      cjid: ppss2
+    - cjfs:
+      - hubiere retornado
+      - hubieres retornado
+      - hubiere retornado
+      - "hubi\xE9remos retornado"
+      - hubiereis retornado
+      - hubieren retornado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - retorna
+      - retorne
+      - retornemos
+      - retornad
+      - retornen
+      cjid: impf

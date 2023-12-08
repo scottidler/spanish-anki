@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scrub}, to {a_link|scour}, to {a_link|wash} '
+          - - vis
+            - - t: fregar los trastes
+                tr: to do the dishes
+              - t: fregar el suelo
+                tr: to scrub the floor
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|annoy}'
+          sls:
+          - familiar
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to wash the dishes'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clean}, to {a_link|scrub}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be annoying'
+          sls:
+          - familiar
+          sn: '3'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: fregar
+    prs:
+    - sound:
+        audio: frega02sp
+  meta:
+    id: fregar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610421000'
+    src: spanish
+    stems:
+    - fregar
+    uuid: 4edd1cee-b937-42d6-bf18-da501e2bc4cc
+  shortdef:
+  - to scrub, to scour, to wash
+  - to annoy
+  - to wash the dishes
+  suppl:
+    cjts:
+    - cjfs:
+      - fregando
+      - fregado
+      cjid: gppt
+    - cjfs:
+      - friego
+      - friegas
+      - friega
+      - fregamos
+      - "freg\xE1is"
+      - friegan
+      cjid: pind
+    - cjfs:
+      - fregaba
+      - fregabas
+      - fregaba
+      - "freg\xE1bamos"
+      - fregabais
+      - fregaban
+      cjid: pret
+    - cjfs:
+      - "fregu\xE9"
+      - fregaste
+      - "freg\xF3"
+      - fregamos
+      - fregasteis
+      - fregaron
+      cjid: pprf
+    - cjfs:
+      - "fregar\xE9"
+      - "fregar\xE1s"
+      - "fregar\xE1"
+      - fregaremos
+      - "fregar\xE9is"
+      - "fregar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fregar\xEDa"
+      - "fregar\xEDas"
+      - "fregar\xEDa"
+      - "fregar\xEDamos"
+      - "fregar\xEDais"
+      - "fregar\xEDan"
+      cjid: cond
+    - cjfs:
+      - friegue
+      - friegues
+      - friegue
+      - freguemos
+      - "fregu\xE9is"
+      - frieguen
+      cjid: psub
+    - cjfs:
+      - fregara
+      - fregaras
+      - fregara
+      - "freg\xE1ramos"
+      - fregarais
+      - fregaran
+      cjid: pisb1
+    - cjfs:
+      - fregase
+      - fregases
+      - fregase
+      - "freg\xE1semos"
+      - fregaseis
+      - fregasen
+      cjid: pisb2
+    - cjfs:
+      - fregare
+      - fregares
+      - fregare
+      - "freg\xE1remos"
+      - fregareis
+      - fregaren
+      cjid: fsub
+    - cjfs:
+      - he fregado
+      - has fregado
+      - ha fregado
+      - hemos fregado
+      - "hab\xE9is fregado"
+      - han fregado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fregado"
+      - "hab\xEDas fregado"
+      - "hab\xEDa fregado"
+      - "hab\xEDamos fregado"
+      - "hab\xEDais fregado"
+      - "hab\xEDan fregado"
+      cjid: ppsi
+    - cjfs:
+      - hube fregado
+      - hubiste fregado
+      - hubo fregado
+      - hubimos fregado
+      - hubisteis fregado
+      - hubieron fregado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fregado"
+      - "habr\xE1s fregado"
+      - "habr\xE1 fregado"
+      - habremos fregado
+      - "habr\xE9is fregado"
+      - "habr\xE1n fregado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fregado"
+      - "habr\xEDas fregado"
+      - "habr\xEDa fregado"
+      - "habr\xEDamos fregado"
+      - "habr\xEDais fregado"
+      - "habr\xEDan fregado"
+      cjid: cpef
+    - cjfs:
+      - haya fregado
+      - hayas fregado
+      - haya fregado
+      - hayamos fregado
+      - "hay\xE1is fregado"
+      - hayan fregado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fregado
+      - hubieras fregado
+      - hubiera fregado
+      - "hubi\xE9ramos fregado"
+      - hubierais fregado
+      - hubieran fregado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fregado
+      - hubieses fregado
+      - hubiese fregado
+      - "hubi\xE9semos fregado"
+      - hubieseis fregado
+      - hubiesen fregado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fregado
+      - hubieres fregado
+      - hubiere fregado
+      - "hubi\xE9remos fregado"
+      - hubiereis fregado
+      - hubieren fregado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - friega
+      - friegue
+      - freguemos
+      - fregad
+      - frieguen
+      cjid: impf

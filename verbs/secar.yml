@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dry}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get dry'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|dry up}'
+            sn: '2'
+    drp: secarse
+    fl: reflexive verb
+  fl: verb
+  hwi:
+    hw: secar
+    prs:
+    - sound:
+        audio: secar01sp
+  meta:
+    id: secar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620288000'
+    src: spanish
+    stems:
+    - secar
+    - secarse
+    uuid: 90190bec-3dcd-442b-a843-96ebfdaf2489
+  shortdef:
+  - to dry
+  suppl:
+    cjts:
+    - cjfs:
+      - secando
+      - secado
+      cjid: gppt
+    - cjfs:
+      - seco
+      - secas
+      - seca
+      - secamos
+      - "sec\xE1is"
+      - secan
+      cjid: pind
+    - cjfs:
+      - secaba
+      - secabas
+      - secaba
+      - "sec\xE1bamos"
+      - secabais
+      - secaban
+      cjid: pret
+    - cjfs:
+      - "sequ\xE9"
+      - secaste
+      - "sec\xF3"
+      - secamos
+      - secasteis
+      - secaron
+      cjid: pprf
+    - cjfs:
+      - "secar\xE9"
+      - "secar\xE1s"
+      - "secar\xE1"
+      - secaremos
+      - "secar\xE9is"
+      - "secar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "secar\xEDa"
+      - "secar\xEDas"
+      - "secar\xEDa"
+      - "secar\xEDamos"
+      - "secar\xEDais"
+      - "secar\xEDan"
+      cjid: cond
+    - cjfs:
+      - seque
+      - seques
+      - seque
+      - sequemos
+      - "sequ\xE9is"
+      - sequen
+      cjid: psub
+    - cjfs:
+      - secara
+      - secaras
+      - secara
+      - "sec\xE1ramos"
+      - secarais
+      - secaran
+      cjid: pisb1
+    - cjfs:
+      - secase
+      - secases
+      - secase
+      - "sec\xE1semos"
+      - secaseis
+      - secasen
+      cjid: pisb2
+    - cjfs:
+      - secare
+      - secares
+      - secare
+      - "sec\xE1remos"
+      - secareis
+      - secaren
+      cjid: fsub
+    - cjfs:
+      - he secado
+      - has secado
+      - ha secado
+      - hemos secado
+      - "hab\xE9is secado"
+      - han secado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa secado"
+      - "hab\xEDas secado"
+      - "hab\xEDa secado"
+      - "hab\xEDamos secado"
+      - "hab\xEDais secado"
+      - "hab\xEDan secado"
+      cjid: ppsi
+    - cjfs:
+      - hube secado
+      - hubiste secado
+      - hubo secado
+      - hubimos secado
+      - hubisteis secado
+      - hubieron secado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 secado"
+      - "habr\xE1s secado"
+      - "habr\xE1 secado"
+      - habremos secado
+      - "habr\xE9is secado"
+      - "habr\xE1n secado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa secado"
+      - "habr\xEDas secado"
+      - "habr\xEDa secado"
+      - "habr\xEDamos secado"
+      - "habr\xEDais secado"
+      - "habr\xEDan secado"
+      cjid: cpef
+    - cjfs:
+      - haya secado
+      - hayas secado
+      - haya secado
+      - hayamos secado
+      - "hay\xE1is secado"
+      - hayan secado
+      cjid: ppfs
+    - cjfs:
+      - hubiera secado
+      - hubieras secado
+      - hubiera secado
+      - "hubi\xE9ramos secado"
+      - hubierais secado
+      - hubieran secado
+      cjid: ppss1
+    - cjfs:
+      - hubiese secado
+      - hubieses secado
+      - hubiese secado
+      - "hubi\xE9semos secado"
+      - hubieseis secado
+      - hubiesen secado
+      cjid: ppss2
+    - cjfs:
+      - hubiere secado
+      - hubieres secado
+      - hubiere secado
+      - "hubi\xE9remos secado"
+      - hubiereis secado
+      - hubieren secado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - seca
+      - seque
+      - sequemos
+      - secad
+      - sequen
+      cjid: impf

@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|argue}, to {a_link|contend}, to {a_link|vie}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dispute}, to {a_link|question}'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to compete for'
+    drp: disputarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: disputar
+    prs:
+    - sound:
+        audio: dispu05sp
+  meta:
+    id: disputar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607755000'
+    src: spanish
+    stems:
+    - disputar
+    - disputarse
+    uuid: b44cae3d-cd00-45a0-aa3e-caa0ca259b84
+  shortdef:
+  - to argue, to contend, to vie
+  - to dispute, to question
+  suppl:
+    cjts:
+    - cjfs:
+      - disputando
+      - disputado
+      cjid: gppt
+    - cjfs:
+      - disputo
+      - disputas
+      - disputa
+      - disputamos
+      - "disput\xE1is"
+      - disputan
+      cjid: pind
+    - cjfs:
+      - disputaba
+      - disputabas
+      - disputaba
+      - "disput\xE1bamos"
+      - disputabais
+      - disputaban
+      cjid: pret
+    - cjfs:
+      - "disput\xE9"
+      - disputaste
+      - "disput\xF3"
+      - disputamos
+      - disputasteis
+      - disputaron
+      cjid: pprf
+    - cjfs:
+      - "disputar\xE9"
+      - "disputar\xE1s"
+      - "disputar\xE1"
+      - disputaremos
+      - "disputar\xE9is"
+      - "disputar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disputar\xEDa"
+      - "disputar\xEDas"
+      - "disputar\xEDa"
+      - "disputar\xEDamos"
+      - "disputar\xEDais"
+      - "disputar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dispute
+      - disputes
+      - dispute
+      - disputemos
+      - "disput\xE9is"
+      - disputen
+      cjid: psub
+    - cjfs:
+      - disputara
+      - disputaras
+      - disputara
+      - "disput\xE1ramos"
+      - disputarais
+      - disputaran
+      cjid: pisb1
+    - cjfs:
+      - disputase
+      - disputases
+      - disputase
+      - "disput\xE1semos"
+      - disputaseis
+      - disputasen
+      cjid: pisb2
+    - cjfs:
+      - disputare
+      - disputares
+      - disputare
+      - "disput\xE1remos"
+      - disputareis
+      - disputaren
+      cjid: fsub
+    - cjfs:
+      - he disputado
+      - has disputado
+      - ha disputado
+      - hemos disputado
+      - "hab\xE9is disputado"
+      - han disputado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disputado"
+      - "hab\xEDas disputado"
+      - "hab\xEDa disputado"
+      - "hab\xEDamos disputado"
+      - "hab\xEDais disputado"
+      - "hab\xEDan disputado"
+      cjid: ppsi
+    - cjfs:
+      - hube disputado
+      - hubiste disputado
+      - hubo disputado
+      - hubimos disputado
+      - hubisteis disputado
+      - hubieron disputado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disputado"
+      - "habr\xE1s disputado"
+      - "habr\xE1 disputado"
+      - habremos disputado
+      - "habr\xE9is disputado"
+      - "habr\xE1n disputado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disputado"
+      - "habr\xEDas disputado"
+      - "habr\xEDa disputado"
+      - "habr\xEDamos disputado"
+      - "habr\xEDais disputado"
+      - "habr\xEDan disputado"
+      cjid: cpef
+    - cjfs:
+      - haya disputado
+      - hayas disputado
+      - haya disputado
+      - hayamos disputado
+      - "hay\xE1is disputado"
+      - hayan disputado
+      cjid: ppfs
+    - cjfs:
+      - hubiera disputado
+      - hubieras disputado
+      - hubiera disputado
+      - "hubi\xE9ramos disputado"
+      - hubierais disputado
+      - hubieran disputado
+      cjid: ppss1
+    - cjfs:
+      - hubiese disputado
+      - hubieses disputado
+      - hubiese disputado
+      - "hubi\xE9semos disputado"
+      - hubieseis disputado
+      - hubiesen disputado
+      cjid: ppss2
+    - cjfs:
+      - hubiere disputado
+      - hubieres disputado
+      - hubiere disputado
+      - "hubi\xE9remos disputado"
+      - hubiereis disputado
+      - hubieren disputado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disputa
+      - dispute
+      - disputemos
+      - disputad
+      - disputen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reappear}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make a comeback'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: reaparecer
+  meta:
+    id: reaparecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618887000'
+    src: spanish
+    stems:
+    - reaparecer
+    uuid: 0f24fbf8-a3e5-47f3-ab55-ef4159548245
+  shortdef:
+  - to reappear
+  - to make a comeback
+  suppl:
+    cjts:
+    - cjfs:
+      - reapareciendo
+      - reaparecido
+      cjid: gppt
+    - cjfs:
+      - reaparezco
+      - reapareces
+      - reaparece
+      - reaparecemos
+      - "reaparec\xE9is"
+      - reaparecen
+      cjid: pind
+    - cjfs:
+      - "reaparec\xEDa"
+      - "reaparec\xEDas"
+      - "reaparec\xEDa"
+      - "reaparec\xEDamos"
+      - "reaparec\xEDais"
+      - "reaparec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reaparec\xED"
+      - reapareciste
+      - "reapareci\xF3"
+      - reaparecimos
+      - reaparecisteis
+      - reaparecieron
+      cjid: pprf
+    - cjfs:
+      - "reaparecer\xE9"
+      - "reaparecer\xE1s"
+      - "reaparecer\xE1"
+      - reapareceremos
+      - "reaparecer\xE9is"
+      - "reaparecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reaparecer\xEDa"
+      - "reaparecer\xEDas"
+      - "reaparecer\xEDa"
+      - "reaparecer\xEDamos"
+      - "reaparecer\xEDais"
+      - "reaparecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - reaparezca
+      - reaparezcas
+      - reaparezca
+      - reaparezcamos
+      - "reaparezc\xE1is"
+      - reaparezcan
+      cjid: psub
+    - cjfs:
+      - reapareciera
+      - reaparecieras
+      - reapareciera
+      - "reapareci\xE9ramos"
+      - reaparecierais
+      - reaparecieran
+      cjid: pisb1
+    - cjfs:
+      - reapareciese
+      - reaparecieses
+      - reapareciese
+      - "reapareci\xE9semos"
+      - reaparecieseis
+      - reapareciesen
+      cjid: pisb2
+    - cjfs:
+      - reapareciere
+      - reaparecieres
+      - reapareciere
+      - "reapareci\xE9remos"
+      - reapareciereis
+      - reaparecieren
+      cjid: fsub
+    - cjfs:
+      - he reaparecido
+      - has reaparecido
+      - ha reaparecido
+      - hemos reaparecido
+      - "hab\xE9is reaparecido"
+      - han reaparecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reaparecido"
+      - "hab\xEDas reaparecido"
+      - "hab\xEDa reaparecido"
+      - "hab\xEDamos reaparecido"
+      - "hab\xEDais reaparecido"
+      - "hab\xEDan reaparecido"
+      cjid: ppsi
+    - cjfs:
+      - hube reaparecido
+      - hubiste reaparecido
+      - hubo reaparecido
+      - hubimos reaparecido
+      - hubisteis reaparecido
+      - hubieron reaparecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reaparecido"
+      - "habr\xE1s reaparecido"
+      - "habr\xE1 reaparecido"
+      - habremos reaparecido
+      - "habr\xE9is reaparecido"
+      - "habr\xE1n reaparecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reaparecido"
+      - "habr\xEDas reaparecido"
+      - "habr\xEDa reaparecido"
+      - "habr\xEDamos reaparecido"
+      - "habr\xEDais reaparecido"
+      - "habr\xEDan reaparecido"
+      cjid: cpef
+    - cjfs:
+      - haya reaparecido
+      - hayas reaparecido
+      - haya reaparecido
+      - hayamos reaparecido
+      - "hay\xE1is reaparecido"
+      - hayan reaparecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera reaparecido
+      - hubieras reaparecido
+      - hubiera reaparecido
+      - "hubi\xE9ramos reaparecido"
+      - hubierais reaparecido
+      - hubieran reaparecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese reaparecido
+      - hubieses reaparecido
+      - hubiese reaparecido
+      - "hubi\xE9semos reaparecido"
+      - hubieseis reaparecido
+      - hubiesen reaparecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere reaparecido
+      - hubieres reaparecido
+      - hubiere reaparecido
+      - "hubi\xE9remos reaparecido"
+      - hubiereis reaparecido
+      - hubieren reaparecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reaparece
+      - reaparezca
+      - reaparezcamos
+      - reapareced
+      - reaparezcan
+      cjid: impf

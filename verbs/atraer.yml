@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attract}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|attract} (each other)'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|ganarse||} {bc}to {a_link|gain}, to {a_link|win}'
+            sn: '2'
+    drp: atraerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: atraer
+    prs:
+    - sound:
+        audio: atrae01sp
+  meta:
+    id: atraer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602345000'
+    src: spanish
+    stems:
+    - atraer
+    - atraerse
+    uuid: 1c3cf933-bbc0-4c96-bf29-230d23858b76
+  shortdef:
+  - to attract
+  suppl:
+    cjts:
+    - cjfs:
+      - atrayendo
+      - "atra\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - atraigo
+      - atraes
+      - atrae
+      - atraemos
+      - "atra\xE9is"
+      - atraen
+      cjid: pind
+    - cjfs:
+      - "atra\xEDa"
+      - "atra\xEDas"
+      - "atra\xEDa"
+      - "atra\xEDamos"
+      - "atra\xEDais"
+      - "atra\xEDan"
+      cjid: pret
+    - cjfs:
+      - atraje
+      - atrajiste
+      - atrajo
+      - atrajimos
+      - atrajisteis
+      - atrajeron
+      cjid: pprf
+    - cjfs:
+      - "atraer\xE9"
+      - "atraer\xE1s"
+      - "atraer\xE1"
+      - atraeremos
+      - "atraer\xE9is"
+      - "atraer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atraer\xEDa"
+      - "atraer\xEDas"
+      - "atraer\xEDa"
+      - "atraer\xEDamos"
+      - "atraer\xEDais"
+      - "atraer\xEDan"
+      cjid: cond
+    - cjfs:
+      - atraiga
+      - atraigas
+      - atraiga
+      - atraigamos
+      - "atraig\xE1is"
+      - atraigan
+      cjid: psub
+    - cjfs:
+      - atrajera
+      - atrajeras
+      - atrajera
+      - "atraj\xE9ramos"
+      - atrajerais
+      - atrajeran
+      cjid: pisb1
+    - cjfs:
+      - atrajese
+      - atrajeses
+      - atrajese
+      - "atraj\xE9semos"
+      - atrajeseis
+      - atrajesen
+      cjid: pisb2
+    - cjfs:
+      - atrajere
+      - atrajeres
+      - atrajere
+      - "atraj\xE9remos"
+      - atrajereis
+      - atrajeren
+      cjid: fsub
+    - cjfs:
+      - "he atra\xEDdo"
+      - "has atra\xEDdo"
+      - "ha atra\xEDdo"
+      - "hemos atra\xEDdo"
+      - "hab\xE9is atra\xEDdo"
+      - "han atra\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atra\xEDdo"
+      - "hab\xEDas atra\xEDdo"
+      - "hab\xEDa atra\xEDdo"
+      - "hab\xEDamos atra\xEDdo"
+      - "hab\xEDais atra\xEDdo"
+      - "hab\xEDan atra\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube atra\xEDdo"
+      - "hubiste atra\xEDdo"
+      - "hubo atra\xEDdo"
+      - "hubimos atra\xEDdo"
+      - "hubisteis atra\xEDdo"
+      - "hubieron atra\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atra\xEDdo"
+      - "habr\xE1s atra\xEDdo"
+      - "habr\xE1 atra\xEDdo"
+      - "habremos atra\xEDdo"
+      - "habr\xE9is atra\xEDdo"
+      - "habr\xE1n atra\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atra\xEDdo"
+      - "habr\xEDas atra\xEDdo"
+      - "habr\xEDa atra\xEDdo"
+      - "habr\xEDamos atra\xEDdo"
+      - "habr\xEDais atra\xEDdo"
+      - "habr\xEDan atra\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya atra\xEDdo"
+      - "hayas atra\xEDdo"
+      - "haya atra\xEDdo"
+      - "hayamos atra\xEDdo"
+      - "hay\xE1is atra\xEDdo"
+      - "hayan atra\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera atra\xEDdo"
+      - "hubieras atra\xEDdo"
+      - "hubiera atra\xEDdo"
+      - "hubi\xE9ramos atra\xEDdo"
+      - "hubierais atra\xEDdo"
+      - "hubieran atra\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese atra\xEDdo"
+      - "hubieses atra\xEDdo"
+      - "hubiese atra\xEDdo"
+      - "hubi\xE9semos atra\xEDdo"
+      - "hubieseis atra\xEDdo"
+      - "hubiesen atra\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere atra\xEDdo"
+      - "hubieres atra\xEDdo"
+      - "hubiere atra\xEDdo"
+      - "hubi\xE9remos atra\xEDdo"
+      - "hubiereis atra\xEDdo"
+      - "hubieren atra\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atrae
+      - atraiga
+      - atraigamos
+      - atraed
+      - atraigan
+      cjid: impf

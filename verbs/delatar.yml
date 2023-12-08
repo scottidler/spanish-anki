@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|betray}, to {a_link|reveal}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|denounce}, to inform against'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: delatar
+    prs:
+    - sound:
+        audio: delat01sp
+  meta:
+    id: delatar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606607000'
+    src: spanish
+    stems:
+    - delatar
+    uuid: 0eb2d807-265a-4b10-a09a-a6042aeccc24
+  shortdef:
+  - to betray, to reveal
+  - to denounce, to inform against
+  suppl:
+    cjts:
+    - cjfs:
+      - delatando
+      - delatado
+      cjid: gppt
+    - cjfs:
+      - delato
+      - delatas
+      - delata
+      - delatamos
+      - "delat\xE1is"
+      - delatan
+      cjid: pind
+    - cjfs:
+      - delataba
+      - delatabas
+      - delataba
+      - "delat\xE1bamos"
+      - delatabais
+      - delataban
+      cjid: pret
+    - cjfs:
+      - "delat\xE9"
+      - delataste
+      - "delat\xF3"
+      - delatamos
+      - delatasteis
+      - delataron
+      cjid: pprf
+    - cjfs:
+      - "delatar\xE9"
+      - "delatar\xE1s"
+      - "delatar\xE1"
+      - delataremos
+      - "delatar\xE9is"
+      - "delatar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "delatar\xEDa"
+      - "delatar\xEDas"
+      - "delatar\xEDa"
+      - "delatar\xEDamos"
+      - "delatar\xEDais"
+      - "delatar\xEDan"
+      cjid: cond
+    - cjfs:
+      - delate
+      - delates
+      - delate
+      - delatemos
+      - "delat\xE9is"
+      - delaten
+      cjid: psub
+    - cjfs:
+      - delatara
+      - delataras
+      - delatara
+      - "delat\xE1ramos"
+      - delatarais
+      - delataran
+      cjid: pisb1
+    - cjfs:
+      - delatase
+      - delatases
+      - delatase
+      - "delat\xE1semos"
+      - delataseis
+      - delatasen
+      cjid: pisb2
+    - cjfs:
+      - delatare
+      - delatares
+      - delatare
+      - "delat\xE1remos"
+      - delatareis
+      - delataren
+      cjid: fsub
+    - cjfs:
+      - he delatado
+      - has delatado
+      - ha delatado
+      - hemos delatado
+      - "hab\xE9is delatado"
+      - han delatado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa delatado"
+      - "hab\xEDas delatado"
+      - "hab\xEDa delatado"
+      - "hab\xEDamos delatado"
+      - "hab\xEDais delatado"
+      - "hab\xEDan delatado"
+      cjid: ppsi
+    - cjfs:
+      - hube delatado
+      - hubiste delatado
+      - hubo delatado
+      - hubimos delatado
+      - hubisteis delatado
+      - hubieron delatado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 delatado"
+      - "habr\xE1s delatado"
+      - "habr\xE1 delatado"
+      - habremos delatado
+      - "habr\xE9is delatado"
+      - "habr\xE1n delatado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa delatado"
+      - "habr\xEDas delatado"
+      - "habr\xEDa delatado"
+      - "habr\xEDamos delatado"
+      - "habr\xEDais delatado"
+      - "habr\xEDan delatado"
+      cjid: cpef
+    - cjfs:
+      - haya delatado
+      - hayas delatado
+      - haya delatado
+      - hayamos delatado
+      - "hay\xE1is delatado"
+      - hayan delatado
+      cjid: ppfs
+    - cjfs:
+      - hubiera delatado
+      - hubieras delatado
+      - hubiera delatado
+      - "hubi\xE9ramos delatado"
+      - hubierais delatado
+      - hubieran delatado
+      cjid: ppss1
+    - cjfs:
+      - hubiese delatado
+      - hubieses delatado
+      - hubiese delatado
+      - "hubi\xE9semos delatado"
+      - hubieseis delatado
+      - hubiesen delatado
+      cjid: ppss2
+    - cjfs:
+      - hubiere delatado
+      - hubieres delatado
+      - hubiere delatado
+      - "hubi\xE9remos delatado"
+      - hubiereis delatado
+      - hubieren delatado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - delata
+      - delate
+      - delatemos
+      - delatad
+      - delaten
+      cjid: impf

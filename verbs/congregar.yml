@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to bring together'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|congregate}, to {a_link|assemble}'
+    drp: congregarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: congregar
+  meta:
+    id: congregar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605511000'
+    src: spanish
+    stems:
+    - congregar
+    - congregarse
+    uuid: d7e1ac15-c6ec-4cf2-a79d-7c526d0b6ad8
+  shortdef:
+  - to bring together
+  suppl:
+    cjts:
+    - cjfs:
+      - congregando
+      - congregado
+      cjid: gppt
+    - cjfs:
+      - congrego
+      - congregas
+      - congrega
+      - congregamos
+      - "congreg\xE1is"
+      - congregan
+      cjid: pind
+    - cjfs:
+      - congregaba
+      - congregabas
+      - congregaba
+      - "congreg\xE1bamos"
+      - congregabais
+      - congregaban
+      cjid: pret
+    - cjfs:
+      - "congregu\xE9"
+      - congregaste
+      - "congreg\xF3"
+      - congregamos
+      - congregasteis
+      - congregaron
+      cjid: pprf
+    - cjfs:
+      - "congregar\xE9"
+      - "congregar\xE1s"
+      - "congregar\xE1"
+      - congregaremos
+      - "congregar\xE9is"
+      - "congregar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "congregar\xEDa"
+      - "congregar\xEDas"
+      - "congregar\xEDa"
+      - "congregar\xEDamos"
+      - "congregar\xEDais"
+      - "congregar\xEDan"
+      cjid: cond
+    - cjfs:
+      - congregue
+      - congregues
+      - congregue
+      - congreguemos
+      - "congregu\xE9is"
+      - congreguen
+      cjid: psub
+    - cjfs:
+      - congregara
+      - congregaras
+      - congregara
+      - "congreg\xE1ramos"
+      - congregarais
+      - congregaran
+      cjid: pisb1
+    - cjfs:
+      - congregase
+      - congregases
+      - congregase
+      - "congreg\xE1semos"
+      - congregaseis
+      - congregasen
+      cjid: pisb2
+    - cjfs:
+      - congregare
+      - congregares
+      - congregare
+      - "congreg\xE1remos"
+      - congregareis
+      - congregaren
+      cjid: fsub
+    - cjfs:
+      - he congregado
+      - has congregado
+      - ha congregado
+      - hemos congregado
+      - "hab\xE9is congregado"
+      - han congregado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa congregado"
+      - "hab\xEDas congregado"
+      - "hab\xEDa congregado"
+      - "hab\xEDamos congregado"
+      - "hab\xEDais congregado"
+      - "hab\xEDan congregado"
+      cjid: ppsi
+    - cjfs:
+      - hube congregado
+      - hubiste congregado
+      - hubo congregado
+      - hubimos congregado
+      - hubisteis congregado
+      - hubieron congregado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 congregado"
+      - "habr\xE1s congregado"
+      - "habr\xE1 congregado"
+      - habremos congregado
+      - "habr\xE9is congregado"
+      - "habr\xE1n congregado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa congregado"
+      - "habr\xEDas congregado"
+      - "habr\xEDa congregado"
+      - "habr\xEDamos congregado"
+      - "habr\xEDais congregado"
+      - "habr\xEDan congregado"
+      cjid: cpef
+    - cjfs:
+      - haya congregado
+      - hayas congregado
+      - haya congregado
+      - hayamos congregado
+      - "hay\xE1is congregado"
+      - hayan congregado
+      cjid: ppfs
+    - cjfs:
+      - hubiera congregado
+      - hubieras congregado
+      - hubiera congregado
+      - "hubi\xE9ramos congregado"
+      - hubierais congregado
+      - hubieran congregado
+      cjid: ppss1
+    - cjfs:
+      - hubiese congregado
+      - hubieses congregado
+      - hubiese congregado
+      - "hubi\xE9semos congregado"
+      - hubieseis congregado
+      - hubiesen congregado
+      cjid: ppss2
+    - cjfs:
+      - hubiere congregado
+      - hubieres congregado
+      - hubiere congregado
+      - "hubi\xE9remos congregado"
+      - hubiereis congregado
+      - hubieren congregado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - congrega
+      - congregue
+      - congreguemos
+      - congregad
+      - congreguen
+      cjid: impf

@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn to}, to {a_link|appeal to}'
+          sn: '1'
+          vrs:
+          - va: recurrir a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resort to}'
+          sn: '2'
+          vrs:
+          - va: recurrir a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|appeal} (in law)'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: recurrir
+    prs:
+    - sound:
+        audio: recur02sp
+  meta:
+    id: recurrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619075000'
+    src: spanish
+    stems:
+    - recurrir
+    - recurrir a
+    uuid: 071c3977-8e09-4a38-a24e-d48c89bd0813
+  shortdef:
+  - to turn to, to appeal to
+  - to resort to
+  - to appeal (in law)
+  suppl:
+    cjts:
+    - cjfs:
+      - recurriendo
+      - recurrido
+      cjid: gppt
+    - cjfs:
+      - recurro
+      - recurres
+      - recurre
+      - recurrimos
+      - "recurr\xEDs"
+      - recurren
+      cjid: pind
+    - cjfs:
+      - "recurr\xEDa"
+      - "recurr\xEDas"
+      - "recurr\xEDa"
+      - "recurr\xEDamos"
+      - "recurr\xEDais"
+      - "recurr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "recurr\xED"
+      - recurriste
+      - "recurri\xF3"
+      - recurrimos
+      - recurristeis
+      - recurrieron
+      cjid: pprf
+    - cjfs:
+      - "recurrir\xE9"
+      - "recurrir\xE1s"
+      - "recurrir\xE1"
+      - recurriremos
+      - "recurrir\xE9is"
+      - "recurrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recurrir\xEDa"
+      - "recurrir\xEDas"
+      - "recurrir\xEDa"
+      - "recurrir\xEDamos"
+      - "recurrir\xEDais"
+      - "recurrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - recurra
+      - recurras
+      - recurra
+      - recurramos
+      - "recurr\xE1is"
+      - recurran
+      cjid: psub
+    - cjfs:
+      - recurriera
+      - recurrieras
+      - recurriera
+      - "recurri\xE9ramos"
+      - recurrierais
+      - recurrieran
+      cjid: pisb1
+    - cjfs:
+      - recurriese
+      - recurrieses
+      - recurriese
+      - "recurri\xE9semos"
+      - recurrieseis
+      - recurriesen
+      cjid: pisb2
+    - cjfs:
+      - recurriere
+      - recurrieres
+      - recurriere
+      - "recurri\xE9remos"
+      - recurriereis
+      - recurrieren
+      cjid: fsub
+    - cjfs:
+      - he recurrido
+      - has recurrido
+      - ha recurrido
+      - hemos recurrido
+      - "hab\xE9is recurrido"
+      - han recurrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recurrido"
+      - "hab\xEDas recurrido"
+      - "hab\xEDa recurrido"
+      - "hab\xEDamos recurrido"
+      - "hab\xEDais recurrido"
+      - "hab\xEDan recurrido"
+      cjid: ppsi
+    - cjfs:
+      - hube recurrido
+      - hubiste recurrido
+      - hubo recurrido
+      - hubimos recurrido
+      - hubisteis recurrido
+      - hubieron recurrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recurrido"
+      - "habr\xE1s recurrido"
+      - "habr\xE1 recurrido"
+      - habremos recurrido
+      - "habr\xE9is recurrido"
+      - "habr\xE1n recurrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recurrido"
+      - "habr\xEDas recurrido"
+      - "habr\xEDa recurrido"
+      - "habr\xEDamos recurrido"
+      - "habr\xEDais recurrido"
+      - "habr\xEDan recurrido"
+      cjid: cpef
+    - cjfs:
+      - haya recurrido
+      - hayas recurrido
+      - haya recurrido
+      - hayamos recurrido
+      - "hay\xE1is recurrido"
+      - hayan recurrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera recurrido
+      - hubieras recurrido
+      - hubiera recurrido
+      - "hubi\xE9ramos recurrido"
+      - hubierais recurrido
+      - hubieran recurrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese recurrido
+      - hubieses recurrido
+      - hubiese recurrido
+      - "hubi\xE9semos recurrido"
+      - hubieseis recurrido
+      - hubiesen recurrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere recurrido
+      - hubieres recurrido
+      - hubiere recurrido
+      - "hubi\xE9remos recurrido"
+      - hubiereis recurrido
+      - hubieren recurrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recurre
+      - recurra
+      - recurramos
+      - recurrid
+      - recurran
+      cjid: impf

@@ -1,0 +1,213 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|arruinar||} {bc}to {a_link|ruin}, to {a_link|spoil}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break}, to {a_link|damage}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|spoil}, to {a_link|go bad}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|break down}'
+            sn: '2'
+    drp: estropearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: estropear
+    prs:
+    - sound:
+        audio: estro02sp
+  meta:
+    id: estropear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609467000'
+    src: spanish
+    stems:
+    - estropear
+    - estropearse
+    - estropeado
+    - estropeada
+    uuid: e29dc3a7-0969-4802-adc5-2109b1062a4a
+  shortdef:
+  - 'arruinar : to ruin, to spoil'
+  - to break, to damage
+  suppl:
+    cjts:
+    - cjfs:
+      - estropeando
+      - estropeado
+      cjid: gppt
+    - cjfs:
+      - estropeo
+      - estropeas
+      - estropea
+      - estropeamos
+      - "estrope\xE1is"
+      - estropean
+      cjid: pind
+    - cjfs:
+      - estropeaba
+      - estropeabas
+      - estropeaba
+      - "estrope\xE1bamos"
+      - estropeabais
+      - estropeaban
+      cjid: pret
+    - cjfs:
+      - "estrope\xE9"
+      - estropeaste
+      - "estrope\xF3"
+      - estropeamos
+      - estropeasteis
+      - estropearon
+      cjid: pprf
+    - cjfs:
+      - "estropear\xE9"
+      - "estropear\xE1s"
+      - "estropear\xE1"
+      - estropearemos
+      - "estropear\xE9is"
+      - "estropear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estropear\xEDa"
+      - "estropear\xEDas"
+      - "estropear\xEDa"
+      - "estropear\xEDamos"
+      - "estropear\xEDais"
+      - "estropear\xEDan"
+      cjid: cond
+    - cjfs:
+      - estropee
+      - estropees
+      - estropee
+      - estropeemos
+      - "estrope\xE9is"
+      - estropeen
+      cjid: psub
+    - cjfs:
+      - estropeara
+      - estropearas
+      - estropeara
+      - "estrope\xE1ramos"
+      - estropearais
+      - estropearan
+      cjid: pisb1
+    - cjfs:
+      - estropease
+      - estropeases
+      - estropease
+      - "estrope\xE1semos"
+      - estropeaseis
+      - estropeasen
+      cjid: pisb2
+    - cjfs:
+      - estropeare
+      - estropeares
+      - estropeare
+      - "estrope\xE1remos"
+      - estropeareis
+      - estropearen
+      cjid: fsub
+    - cjfs:
+      - he estropeado
+      - has estropeado
+      - ha estropeado
+      - hemos estropeado
+      - "hab\xE9is estropeado"
+      - han estropeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estropeado"
+      - "hab\xEDas estropeado"
+      - "hab\xEDa estropeado"
+      - "hab\xEDamos estropeado"
+      - "hab\xEDais estropeado"
+      - "hab\xEDan estropeado"
+      cjid: ppsi
+    - cjfs:
+      - hube estropeado
+      - hubiste estropeado
+      - hubo estropeado
+      - hubimos estropeado
+      - hubisteis estropeado
+      - hubieron estropeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estropeado"
+      - "habr\xE1s estropeado"
+      - "habr\xE1 estropeado"
+      - habremos estropeado
+      - "habr\xE9is estropeado"
+      - "habr\xE1n estropeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estropeado"
+      - "habr\xEDas estropeado"
+      - "habr\xEDa estropeado"
+      - "habr\xEDamos estropeado"
+      - "habr\xEDais estropeado"
+      - "habr\xEDan estropeado"
+      cjid: cpef
+    - cjfs:
+      - haya estropeado
+      - hayas estropeado
+      - haya estropeado
+      - hayamos estropeado
+      - "hay\xE1is estropeado"
+      - hayan estropeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estropeado
+      - hubieras estropeado
+      - hubiera estropeado
+      - "hubi\xE9ramos estropeado"
+      - hubierais estropeado
+      - hubieran estropeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estropeado
+      - hubieses estropeado
+      - hubiese estropeado
+      - "hubi\xE9semos estropeado"
+      - hubieseis estropeado
+      - hubiesen estropeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estropeado
+      - hubieres estropeado
+      - hubiere estropeado
+      - "hubi\xE9remos estropeado"
+      - hubiereis estropeado
+      - hubieren estropeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estropea
+      - estropee
+      - estropeemos
+      - estropead
+      - estropeen
+      cjid: impf
+  uros:
+  - aure:
+      ure: estropeada
+      urec: -da
+    fl: adjective
+    ure: estropeado

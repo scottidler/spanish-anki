@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|formulate}, to {a_link|draw up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make}, to {a_link|lodge} (a protest or complaint)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: formular
+    prs:
+    - sound:
+        audio: formu02sp
+  meta:
+    id: formular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610319000'
+    src: spanish
+    stems:
+    - formular
+    uuid: d4e9d282-d42c-4e24-91c8-096f9cafcbfd
+  shortdef:
+  - to formulate, to draw up
+  - to make, to lodge (a protest or complaint)
+  suppl:
+    cjts:
+    - cjfs:
+      - formulando
+      - formulado
+      cjid: gppt
+    - cjfs:
+      - formulo
+      - formulas
+      - formula
+      - formulamos
+      - "formul\xE1is"
+      - formulan
+      cjid: pind
+    - cjfs:
+      - formulaba
+      - formulabas
+      - formulaba
+      - "formul\xE1bamos"
+      - formulabais
+      - formulaban
+      cjid: pret
+    - cjfs:
+      - "formul\xE9"
+      - formulaste
+      - "formul\xF3"
+      - formulamos
+      - formulasteis
+      - formularon
+      cjid: pprf
+    - cjfs:
+      - "formular\xE9"
+      - "formular\xE1s"
+      - "formular\xE1"
+      - formularemos
+      - "formular\xE9is"
+      - "formular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "formular\xEDa"
+      - "formular\xEDas"
+      - "formular\xEDa"
+      - "formular\xEDamos"
+      - "formular\xEDais"
+      - "formular\xEDan"
+      cjid: cond
+    - cjfs:
+      - formule
+      - formules
+      - formule
+      - formulemos
+      - "formul\xE9is"
+      - formulen
+      cjid: psub
+    - cjfs:
+      - formulara
+      - formularas
+      - formulara
+      - "formul\xE1ramos"
+      - formularais
+      - formularan
+      cjid: pisb1
+    - cjfs:
+      - formulase
+      - formulases
+      - formulase
+      - "formul\xE1semos"
+      - formulaseis
+      - formulasen
+      cjid: pisb2
+    - cjfs:
+      - formulare
+      - formulares
+      - formulare
+      - "formul\xE1remos"
+      - formulareis
+      - formularen
+      cjid: fsub
+    - cjfs:
+      - he formulado
+      - has formulado
+      - ha formulado
+      - hemos formulado
+      - "hab\xE9is formulado"
+      - han formulado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa formulado"
+      - "hab\xEDas formulado"
+      - "hab\xEDa formulado"
+      - "hab\xEDamos formulado"
+      - "hab\xEDais formulado"
+      - "hab\xEDan formulado"
+      cjid: ppsi
+    - cjfs:
+      - hube formulado
+      - hubiste formulado
+      - hubo formulado
+      - hubimos formulado
+      - hubisteis formulado
+      - hubieron formulado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 formulado"
+      - "habr\xE1s formulado"
+      - "habr\xE1 formulado"
+      - habremos formulado
+      - "habr\xE9is formulado"
+      - "habr\xE1n formulado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa formulado"
+      - "habr\xEDas formulado"
+      - "habr\xEDa formulado"
+      - "habr\xEDamos formulado"
+      - "habr\xEDais formulado"
+      - "habr\xEDan formulado"
+      cjid: cpef
+    - cjfs:
+      - haya formulado
+      - hayas formulado
+      - haya formulado
+      - hayamos formulado
+      - "hay\xE1is formulado"
+      - hayan formulado
+      cjid: ppfs
+    - cjfs:
+      - hubiera formulado
+      - hubieras formulado
+      - hubiera formulado
+      - "hubi\xE9ramos formulado"
+      - hubierais formulado
+      - hubieran formulado
+      cjid: ppss1
+    - cjfs:
+      - hubiese formulado
+      - hubieses formulado
+      - hubiese formulado
+      - "hubi\xE9semos formulado"
+      - hubieseis formulado
+      - hubiesen formulado
+      cjid: ppss2
+    - cjfs:
+      - hubiere formulado
+      - hubieres formulado
+      - hubiere formulado
+      - "hubi\xE9remos formulado"
+      - hubiereis formulado
+      - hubieren formulado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - formula
+      - formule
+      - formulemos
+      - formulad
+      - formulen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fallecer||}, {sx|morir||} {bc}to pass away, to {a_link|die}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expire}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: expirar
+  meta:
+    id: expirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609684000'
+    src: spanish
+    stems:
+    - expirar
+    uuid: f1d742df-0980-4b27-a6e8-bb898d3b0664
+  shortdef:
+  - 'fallecer, morir : to pass away, to die'
+  - to expire
+  suppl:
+    cjts:
+    - cjfs:
+      - expirando
+      - expirado
+      cjid: gppt
+    - cjfs:
+      - expiro
+      - expiras
+      - expira
+      - expiramos
+      - "expir\xE1is"
+      - expiran
+      cjid: pind
+    - cjfs:
+      - expiraba
+      - expirabas
+      - expiraba
+      - "expir\xE1bamos"
+      - expirabais
+      - expiraban
+      cjid: pret
+    - cjfs:
+      - "expir\xE9"
+      - expiraste
+      - "expir\xF3"
+      - expiramos
+      - expirasteis
+      - expiraron
+      cjid: pprf
+    - cjfs:
+      - "expirar\xE9"
+      - "expirar\xE1s"
+      - "expirar\xE1"
+      - expiraremos
+      - "expirar\xE9is"
+      - "expirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "expirar\xEDa"
+      - "expirar\xEDas"
+      - "expirar\xEDa"
+      - "expirar\xEDamos"
+      - "expirar\xEDais"
+      - "expirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - expire
+      - expires
+      - expire
+      - expiremos
+      - "expir\xE9is"
+      - expiren
+      cjid: psub
+    - cjfs:
+      - expirara
+      - expiraras
+      - expirara
+      - "expir\xE1ramos"
+      - expirarais
+      - expiraran
+      cjid: pisb1
+    - cjfs:
+      - expirase
+      - expirases
+      - expirase
+      - "expir\xE1semos"
+      - expiraseis
+      - expirasen
+      cjid: pisb2
+    - cjfs:
+      - expirare
+      - expirares
+      - expirare
+      - "expir\xE1remos"
+      - expirareis
+      - expiraren
+      cjid: fsub
+    - cjfs:
+      - he expirado
+      - has expirado
+      - ha expirado
+      - hemos expirado
+      - "hab\xE9is expirado"
+      - han expirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa expirado"
+      - "hab\xEDas expirado"
+      - "hab\xEDa expirado"
+      - "hab\xEDamos expirado"
+      - "hab\xEDais expirado"
+      - "hab\xEDan expirado"
+      cjid: ppsi
+    - cjfs:
+      - hube expirado
+      - hubiste expirado
+      - hubo expirado
+      - hubimos expirado
+      - hubisteis expirado
+      - hubieron expirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 expirado"
+      - "habr\xE1s expirado"
+      - "habr\xE1 expirado"
+      - habremos expirado
+      - "habr\xE9is expirado"
+      - "habr\xE1n expirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa expirado"
+      - "habr\xEDas expirado"
+      - "habr\xEDa expirado"
+      - "habr\xEDamos expirado"
+      - "habr\xEDais expirado"
+      - "habr\xEDan expirado"
+      cjid: cpef
+    - cjfs:
+      - haya expirado
+      - hayas expirado
+      - haya expirado
+      - hayamos expirado
+      - "hay\xE1is expirado"
+      - hayan expirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera expirado
+      - hubieras expirado
+      - hubiera expirado
+      - "hubi\xE9ramos expirado"
+      - hubierais expirado
+      - hubieran expirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese expirado
+      - hubieses expirado
+      - hubiese expirado
+      - "hubi\xE9semos expirado"
+      - hubieseis expirado
+      - hubiesen expirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere expirado
+      - hubieres expirado
+      - hubiere expirado
+      - "hubi\xE9remos expirado"
+      - hubiereis expirado
+      - hubieren expirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - expira
+      - expire
+      - expiremos
+      - expirad
+      - expiren
+      cjid: impf

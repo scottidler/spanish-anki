@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|brandish}, to {a_link|wield}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|use}, to {a_link|resort to}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fence}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: esgrimir
+    prs:
+    - sound:
+        audio: esgri02sp
+  meta:
+    id: esgrimir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609094000'
+    src: spanish
+    stems:
+    - esgrimir
+    uuid: 535eb261-80e3-4e69-94f8-539a44ad619c
+  shortdef:
+  - to brandish, to wield
+  - to use, to resort to
+  - to fence
+  suppl:
+    cjts:
+    - cjfs:
+      - esgrimiendo
+      - esgrimido
+      cjid: gppt
+    - cjfs:
+      - esgrimo
+      - esgrimes
+      - esgrime
+      - esgrimimos
+      - "esgrim\xEDs"
+      - esgrimen
+      cjid: pind
+    - cjfs:
+      - "esgrim\xEDa"
+      - "esgrim\xEDas"
+      - "esgrim\xEDa"
+      - "esgrim\xEDamos"
+      - "esgrim\xEDais"
+      - "esgrim\xEDan"
+      cjid: pret
+    - cjfs:
+      - "esgrim\xED"
+      - esgrimiste
+      - "esgrimi\xF3"
+      - esgrimimos
+      - esgrimisteis
+      - esgrimieron
+      cjid: pprf
+    - cjfs:
+      - "esgrimir\xE9"
+      - "esgrimir\xE1s"
+      - "esgrimir\xE1"
+      - esgrimiremos
+      - "esgrimir\xE9is"
+      - "esgrimir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "esgrimir\xEDa"
+      - "esgrimir\xEDas"
+      - "esgrimir\xEDa"
+      - "esgrimir\xEDamos"
+      - "esgrimir\xEDais"
+      - "esgrimir\xEDan"
+      cjid: cond
+    - cjfs:
+      - esgrima
+      - esgrimas
+      - esgrima
+      - esgrimamos
+      - "esgrim\xE1is"
+      - esgriman
+      cjid: psub
+    - cjfs:
+      - esgrimiera
+      - esgrimieras
+      - esgrimiera
+      - "esgrimi\xE9ramos"
+      - esgrimierais
+      - esgrimieran
+      cjid: pisb1
+    - cjfs:
+      - esgrimiese
+      - esgrimieses
+      - esgrimiese
+      - "esgrimi\xE9semos"
+      - esgrimieseis
+      - esgrimiesen
+      cjid: pisb2
+    - cjfs:
+      - esgrimiere
+      - esgrimieres
+      - esgrimiere
+      - "esgrimi\xE9remos"
+      - esgrimiereis
+      - esgrimieren
+      cjid: fsub
+    - cjfs:
+      - he esgrimido
+      - has esgrimido
+      - ha esgrimido
+      - hemos esgrimido
+      - "hab\xE9is esgrimido"
+      - han esgrimido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa esgrimido"
+      - "hab\xEDas esgrimido"
+      - "hab\xEDa esgrimido"
+      - "hab\xEDamos esgrimido"
+      - "hab\xEDais esgrimido"
+      - "hab\xEDan esgrimido"
+      cjid: ppsi
+    - cjfs:
+      - hube esgrimido
+      - hubiste esgrimido
+      - hubo esgrimido
+      - hubimos esgrimido
+      - hubisteis esgrimido
+      - hubieron esgrimido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 esgrimido"
+      - "habr\xE1s esgrimido"
+      - "habr\xE1 esgrimido"
+      - habremos esgrimido
+      - "habr\xE9is esgrimido"
+      - "habr\xE1n esgrimido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa esgrimido"
+      - "habr\xEDas esgrimido"
+      - "habr\xEDa esgrimido"
+      - "habr\xEDamos esgrimido"
+      - "habr\xEDais esgrimido"
+      - "habr\xEDan esgrimido"
+      cjid: cpef
+    - cjfs:
+      - haya esgrimido
+      - hayas esgrimido
+      - haya esgrimido
+      - hayamos esgrimido
+      - "hay\xE1is esgrimido"
+      - hayan esgrimido
+      cjid: ppfs
+    - cjfs:
+      - hubiera esgrimido
+      - hubieras esgrimido
+      - hubiera esgrimido
+      - "hubi\xE9ramos esgrimido"
+      - hubierais esgrimido
+      - hubieran esgrimido
+      cjid: ppss1
+    - cjfs:
+      - hubiese esgrimido
+      - hubieses esgrimido
+      - hubiese esgrimido
+      - "hubi\xE9semos esgrimido"
+      - hubieseis esgrimido
+      - hubiesen esgrimido
+      cjid: ppss2
+    - cjfs:
+      - hubiere esgrimido
+      - hubieres esgrimido
+      - hubiere esgrimido
+      - "hubi\xE9remos esgrimido"
+      - hubiereis esgrimido
+      - hubieren esgrimido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - esgrime
+      - esgrima
+      - esgrimamos
+      - esgrimid
+      - esgriman
+      cjid: impf

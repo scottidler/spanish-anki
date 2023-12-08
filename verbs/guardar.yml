@@ -1,0 +1,266 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|guard}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|maintain}, to {a_link|preserve}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conservar||} {bc}to {a_link|put away}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reservar||} {bc}to {a_link|save}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|keep} (a secret or promise)'
+          sn: '5'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|refrain from}'
+            sn: '1'
+            vrs:
+            - va: guardarse de
+              vac: ~ de
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|guard against}, to be careful not to'
+            sn: '2'
+            vrs:
+            - va: guardarse de
+              vac: ~ de
+    drp: guardarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: guardar
+    prs:
+    - sound:
+        audio: guard04sp
+  meta:
+    id: guardar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611137000'
+    src: spanish
+    stems:
+    - guardar
+    - guardarse
+    - guardarse de
+    uuid: 2425fa1c-fdbf-4da6-8526-adc3e6b40ec9
+  shortdef:
+  - to guard
+  - to maintain, to preserve
+  - 'conservar : to put away'
+  suppl:
+    cjts:
+    - cjfs:
+      - guardando
+      - guardado
+      cjid: gppt
+    - cjfs:
+      - guardo
+      - guardas
+      - guarda
+      - guardamos
+      - "guard\xE1is"
+      - guardan
+      cjid: pind
+    - cjfs:
+      - guardaba
+      - guardabas
+      - guardaba
+      - "guard\xE1bamos"
+      - guardabais
+      - guardaban
+      cjid: pret
+    - cjfs:
+      - "guard\xE9"
+      - guardaste
+      - "guard\xF3"
+      - guardamos
+      - guardasteis
+      - guardaron
+      cjid: pprf
+    - cjfs:
+      - "guardar\xE9"
+      - "guardar\xE1s"
+      - "guardar\xE1"
+      - guardaremos
+      - "guardar\xE9is"
+      - "guardar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "guardar\xEDa"
+      - "guardar\xEDas"
+      - "guardar\xEDa"
+      - "guardar\xEDamos"
+      - "guardar\xEDais"
+      - "guardar\xEDan"
+      cjid: cond
+    - cjfs:
+      - guarde
+      - guardes
+      - guarde
+      - guardemos
+      - "guard\xE9is"
+      - guarden
+      cjid: psub
+    - cjfs:
+      - guardara
+      - guardaras
+      - guardara
+      - "guard\xE1ramos"
+      - guardarais
+      - guardaran
+      cjid: pisb1
+    - cjfs:
+      - guardase
+      - guardases
+      - guardase
+      - "guard\xE1semos"
+      - guardaseis
+      - guardasen
+      cjid: pisb2
+    - cjfs:
+      - guardare
+      - guardares
+      - guardare
+      - "guard\xE1remos"
+      - guardareis
+      - guardaren
+      cjid: fsub
+    - cjfs:
+      - he guardado
+      - has guardado
+      - ha guardado
+      - hemos guardado
+      - "hab\xE9is guardado"
+      - han guardado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa guardado"
+      - "hab\xEDas guardado"
+      - "hab\xEDa guardado"
+      - "hab\xEDamos guardado"
+      - "hab\xEDais guardado"
+      - "hab\xEDan guardado"
+      cjid: ppsi
+    - cjfs:
+      - hube guardado
+      - hubiste guardado
+      - hubo guardado
+      - hubimos guardado
+      - hubisteis guardado
+      - hubieron guardado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 guardado"
+      - "habr\xE1s guardado"
+      - "habr\xE1 guardado"
+      - habremos guardado
+      - "habr\xE9is guardado"
+      - "habr\xE1n guardado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa guardado"
+      - "habr\xEDas guardado"
+      - "habr\xEDa guardado"
+      - "habr\xEDamos guardado"
+      - "habr\xEDais guardado"
+      - "habr\xEDan guardado"
+      cjid: cpef
+    - cjfs:
+      - haya guardado
+      - hayas guardado
+      - haya guardado
+      - hayamos guardado
+      - "hay\xE1is guardado"
+      - hayan guardado
+      cjid: ppfs
+    - cjfs:
+      - hubiera guardado
+      - hubieras guardado
+      - hubiera guardado
+      - "hubi\xE9ramos guardado"
+      - hubierais guardado
+      - hubieran guardado
+      cjid: ppss1
+    - cjfs:
+      - hubiese guardado
+      - hubieses guardado
+      - hubiese guardado
+      - "hubi\xE9semos guardado"
+      - hubieseis guardado
+      - hubiesen guardado
+      cjid: ppss2
+    - cjfs:
+      - hubiere guardado
+      - hubieres guardado
+      - hubiere guardado
+      - "hubi\xE9remos guardado"
+      - hubiereis guardado
+      - hubieren guardado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - guarda
+      - guarde
+      - guardemos
+      - guardad
+      - guarden
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|rancor}, {a_link|enmity}, {a_link|hostility}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to hold a grudge '
+          - - vis
+            - - t: guardarle rencor a alguien por algo
+                tr: to resent someone for something, to hold a grudge against someone
+                  for something
+          sn: '2'
+          vrs:
+          - va: guardar rencor
+  fl: masculine noun
+  hwi:
+    hw: rencor
+    prs:
+    - sound:
+        audio: renco01sp
+  meta:
+    id: rencor
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619384000'
+    src: spanish
+    stems:
+    - rencor
+    - guardar rencor
+    uuid: df48b02f-9b27-48a7-997d-ff2d9c4bcb52
+  shortdef:
+  - rancor, enmity, hostility
+  - to hold a grudge

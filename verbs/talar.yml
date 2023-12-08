@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cut down}, to {a_link|fell}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|devastar||} {bc}to {a_link|devastate}, to {a_link|destroy}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: talar
+    prs:
+    - sound:
+        audio: talar01sp
+  meta:
+    id: talar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621414000'
+    src: spanish
+    stems:
+    - talar
+    uuid: 89aa31e2-0f64-4207-9774-cd458c2964e6
+  shortdef:
+  - to cut down, to fell
+  - 'devastar : to devastate, to destroy'
+  suppl:
+    cjts:
+    - cjfs:
+      - talando
+      - talado
+      cjid: gppt
+    - cjfs:
+      - talo
+      - talas
+      - tala
+      - talamos
+      - "tal\xE1is"
+      - talan
+      cjid: pind
+    - cjfs:
+      - talaba
+      - talabas
+      - talaba
+      - "tal\xE1bamos"
+      - talabais
+      - talaban
+      cjid: pret
+    - cjfs:
+      - "tal\xE9"
+      - talaste
+      - "tal\xF3"
+      - talamos
+      - talasteis
+      - talaron
+      cjid: pprf
+    - cjfs:
+      - "talar\xE9"
+      - "talar\xE1s"
+      - "talar\xE1"
+      - talaremos
+      - "talar\xE9is"
+      - "talar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "talar\xEDa"
+      - "talar\xEDas"
+      - "talar\xEDa"
+      - "talar\xEDamos"
+      - "talar\xEDais"
+      - "talar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tale
+      - tales
+      - tale
+      - talemos
+      - "tal\xE9is"
+      - talen
+      cjid: psub
+    - cjfs:
+      - talara
+      - talaras
+      - talara
+      - "tal\xE1ramos"
+      - talarais
+      - talaran
+      cjid: pisb1
+    - cjfs:
+      - talase
+      - talases
+      - talase
+      - "tal\xE1semos"
+      - talaseis
+      - talasen
+      cjid: pisb2
+    - cjfs:
+      - talare
+      - talares
+      - talare
+      - "tal\xE1remos"
+      - talareis
+      - talaren
+      cjid: fsub
+    - cjfs:
+      - he talado
+      - has talado
+      - ha talado
+      - hemos talado
+      - "hab\xE9is talado"
+      - han talado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa talado"
+      - "hab\xEDas talado"
+      - "hab\xEDa talado"
+      - "hab\xEDamos talado"
+      - "hab\xEDais talado"
+      - "hab\xEDan talado"
+      cjid: ppsi
+    - cjfs:
+      - hube talado
+      - hubiste talado
+      - hubo talado
+      - hubimos talado
+      - hubisteis talado
+      - hubieron talado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 talado"
+      - "habr\xE1s talado"
+      - "habr\xE1 talado"
+      - habremos talado
+      - "habr\xE9is talado"
+      - "habr\xE1n talado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa talado"
+      - "habr\xEDas talado"
+      - "habr\xEDa talado"
+      - "habr\xEDamos talado"
+      - "habr\xEDais talado"
+      - "habr\xEDan talado"
+      cjid: cpef
+    - cjfs:
+      - haya talado
+      - hayas talado
+      - haya talado
+      - hayamos talado
+      - "hay\xE1is talado"
+      - hayan talado
+      cjid: ppfs
+    - cjfs:
+      - hubiera talado
+      - hubieras talado
+      - hubiera talado
+      - "hubi\xE9ramos talado"
+      - hubierais talado
+      - hubieran talado
+      cjid: ppss1
+    - cjfs:
+      - hubiese talado
+      - hubieses talado
+      - hubiese talado
+      - "hubi\xE9semos talado"
+      - hubieseis talado
+      - hubiesen talado
+      cjid: ppss2
+    - cjfs:
+      - hubiere talado
+      - hubieres talado
+      - hubiere talado
+      - "hubi\xE9remos talado"
+      - hubiereis talado
+      - hubieren talado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tala
+      - tale
+      - talemos
+      - talad
+      - talen
+      cjid: impf

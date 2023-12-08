@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|aim}, to {a_link|point} (a weapon)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deliver}, to {a_link|deal} (a blow)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: asestar
+  meta:
+    id: asestar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602145000'
+    src: spanish
+    stems:
+    - asestar
+    uuid: 7322921b-aca0-4017-8f8b-afbd3786492d
+  shortdef:
+  - to aim, to point (a weapon)
+  - to deliver, to deal (a blow)
+  suppl:
+    cjts:
+    - cjfs:
+      - asestando
+      - asestado
+      cjid: gppt
+    - cjfs:
+      - asesto
+      - asestas
+      - asesta
+      - asestamos
+      - "asest\xE1is"
+      - asestan
+      cjid: pind
+    - cjfs:
+      - asestaba
+      - asestabas
+      - asestaba
+      - "asest\xE1bamos"
+      - asestabais
+      - asestaban
+      cjid: pret
+    - cjfs:
+      - "asest\xE9"
+      - asestaste
+      - "asest\xF3"
+      - asestamos
+      - asestasteis
+      - asestaron
+      cjid: pprf
+    - cjfs:
+      - "asestar\xE9"
+      - "asestar\xE1s"
+      - "asestar\xE1"
+      - asestaremos
+      - "asestar\xE9is"
+      - "asestar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asestar\xEDa"
+      - "asestar\xEDas"
+      - "asestar\xEDa"
+      - "asestar\xEDamos"
+      - "asestar\xEDais"
+      - "asestar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aseste
+      - asestes
+      - aseste
+      - asestemos
+      - "asest\xE9is"
+      - asesten
+      cjid: psub
+    - cjfs:
+      - asestara
+      - asestaras
+      - asestara
+      - "asest\xE1ramos"
+      - asestarais
+      - asestaran
+      cjid: pisb1
+    - cjfs:
+      - asestase
+      - asestases
+      - asestase
+      - "asest\xE1semos"
+      - asestaseis
+      - asestasen
+      cjid: pisb2
+    - cjfs:
+      - asestare
+      - asestares
+      - asestare
+      - "asest\xE1remos"
+      - asestareis
+      - asestaren
+      cjid: fsub
+    - cjfs:
+      - he asestado
+      - has asestado
+      - ha asestado
+      - hemos asestado
+      - "hab\xE9is asestado"
+      - han asestado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asestado"
+      - "hab\xEDas asestado"
+      - "hab\xEDa asestado"
+      - "hab\xEDamos asestado"
+      - "hab\xEDais asestado"
+      - "hab\xEDan asestado"
+      cjid: ppsi
+    - cjfs:
+      - hube asestado
+      - hubiste asestado
+      - hubo asestado
+      - hubimos asestado
+      - hubisteis asestado
+      - hubieron asestado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asestado"
+      - "habr\xE1s asestado"
+      - "habr\xE1 asestado"
+      - habremos asestado
+      - "habr\xE9is asestado"
+      - "habr\xE1n asestado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asestado"
+      - "habr\xEDas asestado"
+      - "habr\xEDa asestado"
+      - "habr\xEDamos asestado"
+      - "habr\xEDais asestado"
+      - "habr\xEDan asestado"
+      cjid: cpef
+    - cjfs:
+      - haya asestado
+      - hayas asestado
+      - haya asestado
+      - hayamos asestado
+      - "hay\xE1is asestado"
+      - hayan asestado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asestado
+      - hubieras asestado
+      - hubiera asestado
+      - "hubi\xE9ramos asestado"
+      - hubierais asestado
+      - hubieran asestado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asestado
+      - hubieses asestado
+      - hubiese asestado
+      - "hubi\xE9semos asestado"
+      - hubieseis asestado
+      - hubiesen asestado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asestado
+      - hubieres asestado
+      - hubiere asestado
+      - "hubi\xE9remos asestado"
+      - hubiereis asestado
+      - hubieren asestado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asesta
+      - aseste
+      - asestemos
+      - asestad
+      - asesten
+      cjid: impf

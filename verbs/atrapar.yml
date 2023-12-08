@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trap}, to {a_link|capture}'
+  fl: transitive verb
+  hwi:
+    hw: atrapar
+    prs:
+    - sound:
+        audio: atrap02sp
+  meta:
+    id: atrapar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602349000'
+    src: spanish
+    stems:
+    - atrapar
+    uuid: cf9e90bd-f52c-4deb-ae25-1b66465e9d5c
+  shortdef:
+  - to trap, to capture
+  suppl:
+    cjts:
+    - cjfs:
+      - atrapando
+      - atrapado
+      cjid: gppt
+    - cjfs:
+      - atrapo
+      - atrapas
+      - atrapa
+      - atrapamos
+      - "atrap\xE1is"
+      - atrapan
+      cjid: pind
+    - cjfs:
+      - atrapaba
+      - atrapabas
+      - atrapaba
+      - "atrap\xE1bamos"
+      - atrapabais
+      - atrapaban
+      cjid: pret
+    - cjfs:
+      - "atrap\xE9"
+      - atrapaste
+      - "atrap\xF3"
+      - atrapamos
+      - atrapasteis
+      - atraparon
+      cjid: pprf
+    - cjfs:
+      - "atrapar\xE9"
+      - "atrapar\xE1s"
+      - "atrapar\xE1"
+      - atraparemos
+      - "atrapar\xE9is"
+      - "atrapar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atrapar\xEDa"
+      - "atrapar\xEDas"
+      - "atrapar\xEDa"
+      - "atrapar\xEDamos"
+      - "atrapar\xEDais"
+      - "atrapar\xEDan"
+      cjid: cond
+    - cjfs:
+      - atrape
+      - atrapes
+      - atrape
+      - atrapemos
+      - "atrap\xE9is"
+      - atrapen
+      cjid: psub
+    - cjfs:
+      - atrapara
+      - atraparas
+      - atrapara
+      - "atrap\xE1ramos"
+      - atraparais
+      - atraparan
+      cjid: pisb1
+    - cjfs:
+      - atrapase
+      - atrapases
+      - atrapase
+      - "atrap\xE1semos"
+      - atrapaseis
+      - atrapasen
+      cjid: pisb2
+    - cjfs:
+      - atrapare
+      - atrapares
+      - atrapare
+      - "atrap\xE1remos"
+      - atrapareis
+      - atraparen
+      cjid: fsub
+    - cjfs:
+      - he atrapado
+      - has atrapado
+      - ha atrapado
+      - hemos atrapado
+      - "hab\xE9is atrapado"
+      - han atrapado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atrapado"
+      - "hab\xEDas atrapado"
+      - "hab\xEDa atrapado"
+      - "hab\xEDamos atrapado"
+      - "hab\xEDais atrapado"
+      - "hab\xEDan atrapado"
+      cjid: ppsi
+    - cjfs:
+      - hube atrapado
+      - hubiste atrapado
+      - hubo atrapado
+      - hubimos atrapado
+      - hubisteis atrapado
+      - hubieron atrapado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atrapado"
+      - "habr\xE1s atrapado"
+      - "habr\xE1 atrapado"
+      - habremos atrapado
+      - "habr\xE9is atrapado"
+      - "habr\xE1n atrapado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atrapado"
+      - "habr\xEDas atrapado"
+      - "habr\xEDa atrapado"
+      - "habr\xEDamos atrapado"
+      - "habr\xEDais atrapado"
+      - "habr\xEDan atrapado"
+      cjid: cpef
+    - cjfs:
+      - haya atrapado
+      - hayas atrapado
+      - haya atrapado
+      - hayamos atrapado
+      - "hay\xE1is atrapado"
+      - hayan atrapado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atrapado
+      - hubieras atrapado
+      - hubiera atrapado
+      - "hubi\xE9ramos atrapado"
+      - hubierais atrapado
+      - hubieran atrapado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atrapado
+      - hubieses atrapado
+      - hubiese atrapado
+      - "hubi\xE9semos atrapado"
+      - hubieseis atrapado
+      - hubiesen atrapado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atrapado
+      - hubieres atrapado
+      - hubiere atrapado
+      - "hubi\xE9remos atrapado"
+      - hubiereis atrapado
+      - hubieren atrapado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atrapa
+      - atrape
+      - atrapemos
+      - atrapad
+      - atrapen
+      cjid: impf

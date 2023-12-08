@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|define}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|determine}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: definir
+    prs:
+    - sound:
+        audio: defin03sp
+  meta:
+    id: definir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606570000'
+    src: spanish
+    stems:
+    - definir
+    uuid: 5e7e1bc5-b810-4fbd-95d8-e2809cc08426
+  shortdef:
+  - to define
+  - to determine
+  suppl:
+    cjts:
+    - cjfs:
+      - definiendo
+      - definido
+      cjid: gppt
+    - cjfs:
+      - defino
+      - defines
+      - define
+      - definimos
+      - "defin\xEDs"
+      - definen
+      cjid: pind
+    - cjfs:
+      - "defin\xEDa"
+      - "defin\xEDas"
+      - "defin\xEDa"
+      - "defin\xEDamos"
+      - "defin\xEDais"
+      - "defin\xEDan"
+      cjid: pret
+    - cjfs:
+      - "defin\xED"
+      - definiste
+      - "defini\xF3"
+      - definimos
+      - definisteis
+      - definieron
+      cjid: pprf
+    - cjfs:
+      - "definir\xE9"
+      - "definir\xE1s"
+      - "definir\xE1"
+      - definiremos
+      - "definir\xE9is"
+      - "definir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "definir\xEDa"
+      - "definir\xEDas"
+      - "definir\xEDa"
+      - "definir\xEDamos"
+      - "definir\xEDais"
+      - "definir\xEDan"
+      cjid: cond
+    - cjfs:
+      - defina
+      - definas
+      - defina
+      - definamos
+      - "defin\xE1is"
+      - definan
+      cjid: psub
+    - cjfs:
+      - definiera
+      - definieras
+      - definiera
+      - "defini\xE9ramos"
+      - definierais
+      - definieran
+      cjid: pisb1
+    - cjfs:
+      - definiese
+      - definieses
+      - definiese
+      - "defini\xE9semos"
+      - definieseis
+      - definiesen
+      cjid: pisb2
+    - cjfs:
+      - definiere
+      - definieres
+      - definiere
+      - "defini\xE9remos"
+      - definiereis
+      - definieren
+      cjid: fsub
+    - cjfs:
+      - he definido
+      - has definido
+      - ha definido
+      - hemos definido
+      - "hab\xE9is definido"
+      - han definido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa definido"
+      - "hab\xEDas definido"
+      - "hab\xEDa definido"
+      - "hab\xEDamos definido"
+      - "hab\xEDais definido"
+      - "hab\xEDan definido"
+      cjid: ppsi
+    - cjfs:
+      - hube definido
+      - hubiste definido
+      - hubo definido
+      - hubimos definido
+      - hubisteis definido
+      - hubieron definido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 definido"
+      - "habr\xE1s definido"
+      - "habr\xE1 definido"
+      - habremos definido
+      - "habr\xE9is definido"
+      - "habr\xE1n definido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa definido"
+      - "habr\xEDas definido"
+      - "habr\xEDa definido"
+      - "habr\xEDamos definido"
+      - "habr\xEDais definido"
+      - "habr\xEDan definido"
+      cjid: cpef
+    - cjfs:
+      - haya definido
+      - hayas definido
+      - haya definido
+      - hayamos definido
+      - "hay\xE1is definido"
+      - hayan definido
+      cjid: ppfs
+    - cjfs:
+      - hubiera definido
+      - hubieras definido
+      - hubiera definido
+      - "hubi\xE9ramos definido"
+      - hubierais definido
+      - hubieran definido
+      cjid: ppss1
+    - cjfs:
+      - hubiese definido
+      - hubieses definido
+      - hubiese definido
+      - "hubi\xE9semos definido"
+      - hubieseis definido
+      - hubiesen definido
+      cjid: ppss2
+    - cjfs:
+      - hubiere definido
+      - hubieres definido
+      - hubiere definido
+      - "hubi\xE9remos definido"
+      - hubiereis definido
+      - hubieren definido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - define
+      - defina
+      - definamos
+      - definid
+      - definan
+      cjid: impf

@@ -1,0 +1,224 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|repair}, to {a_link|fix}, to {a_link|mend}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make amends for'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|correct}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|restore}, to {a_link|refresh}'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|observe}, to take notice of'
+          sn: '1'
+          vrs:
+          - va: reparar en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|consider}, to think about '
+          - - vis
+            - - t: sin reparar en las consecuencias
+                tr: without thinking about the consequences
+              - t: no repararon en gastos
+                tr: they spared no expense, money was no object
+          sn: '2'
+          vrs:
+          - va: reparar en
+            vac: ~ en
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: reparar
+    prs:
+    - sound:
+        audio: repar02sp
+  meta:
+    id: reparar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619419000'
+    src: spanish
+    stems:
+    - reparar
+    - reparar en
+    uuid: ab9632a7-6e60-4f62-ab2a-b1b997ca3869
+  shortdef:
+  - to repair, to fix, to mend
+  - to make amends for
+  - to correct
+  suppl:
+    cjts:
+    - cjfs:
+      - reparando
+      - reparado
+      cjid: gppt
+    - cjfs:
+      - reparo
+      - reparas
+      - repara
+      - reparamos
+      - "repar\xE1is"
+      - reparan
+      cjid: pind
+    - cjfs:
+      - reparaba
+      - reparabas
+      - reparaba
+      - "repar\xE1bamos"
+      - reparabais
+      - reparaban
+      cjid: pret
+    - cjfs:
+      - "repar\xE9"
+      - reparaste
+      - "repar\xF3"
+      - reparamos
+      - reparasteis
+      - repararon
+      cjid: pprf
+    - cjfs:
+      - "reparar\xE9"
+      - "reparar\xE1s"
+      - "reparar\xE1"
+      - repararemos
+      - "reparar\xE9is"
+      - "reparar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reparar\xEDa"
+      - "reparar\xEDas"
+      - "reparar\xEDa"
+      - "reparar\xEDamos"
+      - "reparar\xEDais"
+      - "reparar\xEDan"
+      cjid: cond
+    - cjfs:
+      - repare
+      - repares
+      - repare
+      - reparemos
+      - "repar\xE9is"
+      - reparen
+      cjid: psub
+    - cjfs:
+      - reparara
+      - repararas
+      - reparara
+      - "repar\xE1ramos"
+      - repararais
+      - repararan
+      cjid: pisb1
+    - cjfs:
+      - reparase
+      - reparases
+      - reparase
+      - "repar\xE1semos"
+      - reparaseis
+      - reparasen
+      cjid: pisb2
+    - cjfs:
+      - reparare
+      - reparares
+      - reparare
+      - "repar\xE1remos"
+      - reparareis
+      - repararen
+      cjid: fsub
+    - cjfs:
+      - he reparado
+      - has reparado
+      - ha reparado
+      - hemos reparado
+      - "hab\xE9is reparado"
+      - han reparado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reparado"
+      - "hab\xEDas reparado"
+      - "hab\xEDa reparado"
+      - "hab\xEDamos reparado"
+      - "hab\xEDais reparado"
+      - "hab\xEDan reparado"
+      cjid: ppsi
+    - cjfs:
+      - hube reparado
+      - hubiste reparado
+      - hubo reparado
+      - hubimos reparado
+      - hubisteis reparado
+      - hubieron reparado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reparado"
+      - "habr\xE1s reparado"
+      - "habr\xE1 reparado"
+      - habremos reparado
+      - "habr\xE9is reparado"
+      - "habr\xE1n reparado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reparado"
+      - "habr\xEDas reparado"
+      - "habr\xEDa reparado"
+      - "habr\xEDamos reparado"
+      - "habr\xEDais reparado"
+      - "habr\xEDan reparado"
+      cjid: cpef
+    - cjfs:
+      - haya reparado
+      - hayas reparado
+      - haya reparado
+      - hayamos reparado
+      - "hay\xE1is reparado"
+      - hayan reparado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reparado
+      - hubieras reparado
+      - hubiera reparado
+      - "hubi\xE9ramos reparado"
+      - hubierais reparado
+      - hubieran reparado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reparado
+      - hubieses reparado
+      - hubiese reparado
+      - "hubi\xE9semos reparado"
+      - hubieseis reparado
+      - hubiesen reparado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reparado
+      - hubieres reparado
+      - hubiere reparado
+      - "hubi\xE9remos reparado"
+      - hubiereis reparado
+      - hubieren reparado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - repara
+      - repare
+      - reparemos
+      - reparad
+      - reparen
+      cjid: impf

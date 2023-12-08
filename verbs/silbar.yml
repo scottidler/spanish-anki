@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|whistle}'
+  fl: verb
+  hwi:
+    hw: silbar
+    prs:
+    - sound:
+        audio: silba01sp
+  meta:
+    id: silbar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620615000'
+    src: spanish
+    stems:
+    - silbar
+    uuid: 24e66649-9f50-4ad3-88e7-8eb3d5f647ed
+  shortdef:
+  - to whistle
+  suppl:
+    cjts:
+    - cjfs:
+      - silbando
+      - silbado
+      cjid: gppt
+    - cjfs:
+      - silbo
+      - silbas
+      - silba
+      - silbamos
+      - "silb\xE1is"
+      - silban
+      cjid: pind
+    - cjfs:
+      - silbaba
+      - silbabas
+      - silbaba
+      - "silb\xE1bamos"
+      - silbabais
+      - silbaban
+      cjid: pret
+    - cjfs:
+      - "silb\xE9"
+      - silbaste
+      - "silb\xF3"
+      - silbamos
+      - silbasteis
+      - silbaron
+      cjid: pprf
+    - cjfs:
+      - "silbar\xE9"
+      - "silbar\xE1s"
+      - "silbar\xE1"
+      - silbaremos
+      - "silbar\xE9is"
+      - "silbar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "silbar\xEDa"
+      - "silbar\xEDas"
+      - "silbar\xEDa"
+      - "silbar\xEDamos"
+      - "silbar\xEDais"
+      - "silbar\xEDan"
+      cjid: cond
+    - cjfs:
+      - silbe
+      - silbes
+      - silbe
+      - silbemos
+      - "silb\xE9is"
+      - silben
+      cjid: psub
+    - cjfs:
+      - silbara
+      - silbaras
+      - silbara
+      - "silb\xE1ramos"
+      - silbarais
+      - silbaran
+      cjid: pisb1
+    - cjfs:
+      - silbase
+      - silbases
+      - silbase
+      - "silb\xE1semos"
+      - silbaseis
+      - silbasen
+      cjid: pisb2
+    - cjfs:
+      - silbare
+      - silbares
+      - silbare
+      - "silb\xE1remos"
+      - silbareis
+      - silbaren
+      cjid: fsub
+    - cjfs:
+      - he silbado
+      - has silbado
+      - ha silbado
+      - hemos silbado
+      - "hab\xE9is silbado"
+      - han silbado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa silbado"
+      - "hab\xEDas silbado"
+      - "hab\xEDa silbado"
+      - "hab\xEDamos silbado"
+      - "hab\xEDais silbado"
+      - "hab\xEDan silbado"
+      cjid: ppsi
+    - cjfs:
+      - hube silbado
+      - hubiste silbado
+      - hubo silbado
+      - hubimos silbado
+      - hubisteis silbado
+      - hubieron silbado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 silbado"
+      - "habr\xE1s silbado"
+      - "habr\xE1 silbado"
+      - habremos silbado
+      - "habr\xE9is silbado"
+      - "habr\xE1n silbado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa silbado"
+      - "habr\xEDas silbado"
+      - "habr\xEDa silbado"
+      - "habr\xEDamos silbado"
+      - "habr\xEDais silbado"
+      - "habr\xEDan silbado"
+      cjid: cpef
+    - cjfs:
+      - haya silbado
+      - hayas silbado
+      - haya silbado
+      - hayamos silbado
+      - "hay\xE1is silbado"
+      - hayan silbado
+      cjid: ppfs
+    - cjfs:
+      - hubiera silbado
+      - hubieras silbado
+      - hubiera silbado
+      - "hubi\xE9ramos silbado"
+      - hubierais silbado
+      - hubieran silbado
+      cjid: ppss1
+    - cjfs:
+      - hubiese silbado
+      - hubieses silbado
+      - hubiese silbado
+      - "hubi\xE9semos silbado"
+      - hubieseis silbado
+      - hubiesen silbado
+      cjid: ppss2
+    - cjfs:
+      - hubiere silbado
+      - hubieres silbado
+      - hubiere silbado
+      - "hubi\xE9remos silbado"
+      - hubiereis silbado
+      - hubieren silbado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - silba
+      - silbe
+      - silbemos
+      - silbad
+      - silben
+      cjid: impf

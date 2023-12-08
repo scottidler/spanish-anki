@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to set fire to, to {a_link|burn} (down)'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to catch fire, to {a_link|burn down}'
+    drp: incendiarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: incendiar
+  meta:
+    id: incendiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612115000'
+    src: spanish
+    stems:
+    - incendiar
+    - incendiarse
+    uuid: e16f5ed7-0231-4779-ad1e-39557b6a315c
+  shortdef:
+  - to set fire to, to burn (down)
+  suppl:
+    cjts:
+    - cjfs:
+      - incendiando
+      - incendiado
+      cjid: gppt
+    - cjfs:
+      - incendio
+      - incendias
+      - incendia
+      - incendiamos
+      - "incendi\xE1is"
+      - incendian
+      cjid: pind
+    - cjfs:
+      - incendiaba
+      - incendiabas
+      - incendiaba
+      - "incendi\xE1bamos"
+      - incendiabais
+      - incendiaban
+      cjid: pret
+    - cjfs:
+      - "incendi\xE9"
+      - incendiaste
+      - "incendi\xF3"
+      - incendiamos
+      - incendiasteis
+      - incendiaron
+      cjid: pprf
+    - cjfs:
+      - "incendiar\xE9"
+      - "incendiar\xE1s"
+      - "incendiar\xE1"
+      - incendiaremos
+      - "incendiar\xE9is"
+      - "incendiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "incendiar\xEDa"
+      - "incendiar\xEDas"
+      - "incendiar\xEDa"
+      - "incendiar\xEDamos"
+      - "incendiar\xEDais"
+      - "incendiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - incendie
+      - incendies
+      - incendie
+      - incendiemos
+      - "incendi\xE9is"
+      - incendien
+      cjid: psub
+    - cjfs:
+      - incendiara
+      - incendiaras
+      - incendiara
+      - "incendi\xE1ramos"
+      - incendiarais
+      - incendiaran
+      cjid: pisb1
+    - cjfs:
+      - incendiase
+      - incendiases
+      - incendiase
+      - "incendi\xE1semos"
+      - incendiaseis
+      - incendiasen
+      cjid: pisb2
+    - cjfs:
+      - incendiare
+      - incendiares
+      - incendiare
+      - "incendi\xE1remos"
+      - incendiareis
+      - incendiaren
+      cjid: fsub
+    - cjfs:
+      - he incendiado
+      - has incendiado
+      - ha incendiado
+      - hemos incendiado
+      - "hab\xE9is incendiado"
+      - han incendiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa incendiado"
+      - "hab\xEDas incendiado"
+      - "hab\xEDa incendiado"
+      - "hab\xEDamos incendiado"
+      - "hab\xEDais incendiado"
+      - "hab\xEDan incendiado"
+      cjid: ppsi
+    - cjfs:
+      - hube incendiado
+      - hubiste incendiado
+      - hubo incendiado
+      - hubimos incendiado
+      - hubisteis incendiado
+      - hubieron incendiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 incendiado"
+      - "habr\xE1s incendiado"
+      - "habr\xE1 incendiado"
+      - habremos incendiado
+      - "habr\xE9is incendiado"
+      - "habr\xE1n incendiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa incendiado"
+      - "habr\xEDas incendiado"
+      - "habr\xEDa incendiado"
+      - "habr\xEDamos incendiado"
+      - "habr\xEDais incendiado"
+      - "habr\xEDan incendiado"
+      cjid: cpef
+    - cjfs:
+      - haya incendiado
+      - hayas incendiado
+      - haya incendiado
+      - hayamos incendiado
+      - "hay\xE1is incendiado"
+      - hayan incendiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera incendiado
+      - hubieras incendiado
+      - hubiera incendiado
+      - "hubi\xE9ramos incendiado"
+      - hubierais incendiado
+      - hubieran incendiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese incendiado
+      - hubieses incendiado
+      - hubiese incendiado
+      - "hubi\xE9semos incendiado"
+      - hubieseis incendiado
+      - hubiesen incendiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere incendiado
+      - hubieres incendiado
+      - hubiere incendiado
+      - "hubi\xE9remos incendiado"
+      - hubiereis incendiado
+      - hubieren incendiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - incendia
+      - incendie
+      - incendiemos
+      - incendiad
+      - incendien
+      cjid: impf

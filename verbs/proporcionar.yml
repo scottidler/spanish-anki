@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|provide}, to {a_link|give} '
+          - - vis
+            - - t: "les proporcion\xF3 la informaci\xF3n"
+                tr: she provided them with the information
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|proportion}, to {a_link|adapt}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: proporcionar
+    prs:
+    - sound:
+        audio: propo02sp
+  meta:
+    id: proporcionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618301000'
+    src: spanish
+    stems:
+    - proporcionar
+    uuid: ba18f330-af45-4252-8b5a-eb65b2addfbd
+  shortdef:
+  - to provide, to give
+  - to proportion, to adapt
+  suppl:
+    cjts:
+    - cjfs:
+      - proporcionando
+      - proporcionado
+      cjid: gppt
+    - cjfs:
+      - proporciono
+      - proporcionas
+      - proporciona
+      - proporcionamos
+      - "proporcion\xE1is"
+      - proporcionan
+      cjid: pind
+    - cjfs:
+      - proporcionaba
+      - proporcionabas
+      - proporcionaba
+      - "proporcion\xE1bamos"
+      - proporcionabais
+      - proporcionaban
+      cjid: pret
+    - cjfs:
+      - "proporcion\xE9"
+      - proporcionaste
+      - "proporcion\xF3"
+      - proporcionamos
+      - proporcionasteis
+      - proporcionaron
+      cjid: pprf
+    - cjfs:
+      - "proporcionar\xE9"
+      - "proporcionar\xE1s"
+      - "proporcionar\xE1"
+      - proporcionaremos
+      - "proporcionar\xE9is"
+      - "proporcionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "proporcionar\xEDa"
+      - "proporcionar\xEDas"
+      - "proporcionar\xEDa"
+      - "proporcionar\xEDamos"
+      - "proporcionar\xEDais"
+      - "proporcionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - proporcione
+      - proporciones
+      - proporcione
+      - proporcionemos
+      - "proporcion\xE9is"
+      - proporcionen
+      cjid: psub
+    - cjfs:
+      - proporcionara
+      - proporcionaras
+      - proporcionara
+      - "proporcion\xE1ramos"
+      - proporcionarais
+      - proporcionaran
+      cjid: pisb1
+    - cjfs:
+      - proporcionase
+      - proporcionases
+      - proporcionase
+      - "proporcion\xE1semos"
+      - proporcionaseis
+      - proporcionasen
+      cjid: pisb2
+    - cjfs:
+      - proporcionare
+      - proporcionares
+      - proporcionare
+      - "proporcion\xE1remos"
+      - proporcionareis
+      - proporcionaren
+      cjid: fsub
+    - cjfs:
+      - he proporcionado
+      - has proporcionado
+      - ha proporcionado
+      - hemos proporcionado
+      - "hab\xE9is proporcionado"
+      - han proporcionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa proporcionado"
+      - "hab\xEDas proporcionado"
+      - "hab\xEDa proporcionado"
+      - "hab\xEDamos proporcionado"
+      - "hab\xEDais proporcionado"
+      - "hab\xEDan proporcionado"
+      cjid: ppsi
+    - cjfs:
+      - hube proporcionado
+      - hubiste proporcionado
+      - hubo proporcionado
+      - hubimos proporcionado
+      - hubisteis proporcionado
+      - hubieron proporcionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 proporcionado"
+      - "habr\xE1s proporcionado"
+      - "habr\xE1 proporcionado"
+      - habremos proporcionado
+      - "habr\xE9is proporcionado"
+      - "habr\xE1n proporcionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa proporcionado"
+      - "habr\xEDas proporcionado"
+      - "habr\xEDa proporcionado"
+      - "habr\xEDamos proporcionado"
+      - "habr\xEDais proporcionado"
+      - "habr\xEDan proporcionado"
+      cjid: cpef
+    - cjfs:
+      - haya proporcionado
+      - hayas proporcionado
+      - haya proporcionado
+      - hayamos proporcionado
+      - "hay\xE1is proporcionado"
+      - hayan proporcionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera proporcionado
+      - hubieras proporcionado
+      - hubiera proporcionado
+      - "hubi\xE9ramos proporcionado"
+      - hubierais proporcionado
+      - hubieran proporcionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese proporcionado
+      - hubieses proporcionado
+      - hubiese proporcionado
+      - "hubi\xE9semos proporcionado"
+      - hubieseis proporcionado
+      - hubiesen proporcionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere proporcionado
+      - hubieres proporcionado
+      - hubiere proporcionado
+      - "hubi\xE9remos proporcionado"
+      - hubiereis proporcionado
+      - hubieren proporcionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - proporciona
+      - proporcione
+      - proporcionemos
+      - proporcionad
+      - proporcionen
+      cjid: impf

@@ -1,0 +1,207 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|permit}, to {a_link|allow} '
+          - - vis
+            - - t: "no me permiti\xF3 pasar"
+                tr: he wouldn't let me through
+              - t: "\xBFme permite?"
+                tr: may I?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|posibilitar||} {bc}to {a_link|enable}, to {a_link|allow}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to allow oneself '
+            - - vis
+              - - t: permitirse el lujo de
+                  tr: to allow oneself the luxury of
+    drp: permitirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: permitir
+    prs:
+    - sound:
+        audio: permi02sp
+  meta:
+    id: permitir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617156000'
+    src: spanish
+    stems:
+    - permitir
+    - permitirse
+    uuid: fb7d7d38-0319-4165-a97a-03c5eaa4ea51
+  shortdef:
+  - to permit, to allow
+  - 'posibilitar : to enable, to allow'
+  suppl:
+    cjts:
+    - cjfs:
+      - permitiendo
+      - permitido
+      cjid: gppt
+    - cjfs:
+      - permito
+      - permites
+      - permite
+      - permitimos
+      - "permit\xEDs"
+      - permiten
+      cjid: pind
+    - cjfs:
+      - "permit\xEDa"
+      - "permit\xEDas"
+      - "permit\xEDa"
+      - "permit\xEDamos"
+      - "permit\xEDais"
+      - "permit\xEDan"
+      cjid: pret
+    - cjfs:
+      - "permit\xED"
+      - permitiste
+      - "permiti\xF3"
+      - permitimos
+      - permitisteis
+      - permitieron
+      cjid: pprf
+    - cjfs:
+      - "permitir\xE9"
+      - "permitir\xE1s"
+      - "permitir\xE1"
+      - permitiremos
+      - "permitir\xE9is"
+      - "permitir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "permitir\xEDa"
+      - "permitir\xEDas"
+      - "permitir\xEDa"
+      - "permitir\xEDamos"
+      - "permitir\xEDais"
+      - "permitir\xEDan"
+      cjid: cond
+    - cjfs:
+      - permita
+      - permitas
+      - permita
+      - permitamos
+      - "permit\xE1is"
+      - permitan
+      cjid: psub
+    - cjfs:
+      - permitiera
+      - permitieras
+      - permitiera
+      - "permiti\xE9ramos"
+      - permitierais
+      - permitieran
+      cjid: pisb1
+    - cjfs:
+      - permitiese
+      - permitieses
+      - permitiese
+      - "permiti\xE9semos"
+      - permitieseis
+      - permitiesen
+      cjid: pisb2
+    - cjfs:
+      - permitiere
+      - permitieres
+      - permitiere
+      - "permiti\xE9remos"
+      - permitiereis
+      - permitieren
+      cjid: fsub
+    - cjfs:
+      - he permitido
+      - has permitido
+      - ha permitido
+      - hemos permitido
+      - "hab\xE9is permitido"
+      - han permitido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa permitido"
+      - "hab\xEDas permitido"
+      - "hab\xEDa permitido"
+      - "hab\xEDamos permitido"
+      - "hab\xEDais permitido"
+      - "hab\xEDan permitido"
+      cjid: ppsi
+    - cjfs:
+      - hube permitido
+      - hubiste permitido
+      - hubo permitido
+      - hubimos permitido
+      - hubisteis permitido
+      - hubieron permitido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 permitido"
+      - "habr\xE1s permitido"
+      - "habr\xE1 permitido"
+      - habremos permitido
+      - "habr\xE9is permitido"
+      - "habr\xE1n permitido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa permitido"
+      - "habr\xEDas permitido"
+      - "habr\xEDa permitido"
+      - "habr\xEDamos permitido"
+      - "habr\xEDais permitido"
+      - "habr\xEDan permitido"
+      cjid: cpef
+    - cjfs:
+      - haya permitido
+      - hayas permitido
+      - haya permitido
+      - hayamos permitido
+      - "hay\xE1is permitido"
+      - hayan permitido
+      cjid: ppfs
+    - cjfs:
+      - hubiera permitido
+      - hubieras permitido
+      - hubiera permitido
+      - "hubi\xE9ramos permitido"
+      - hubierais permitido
+      - hubieran permitido
+      cjid: ppss1
+    - cjfs:
+      - hubiese permitido
+      - hubieses permitido
+      - hubiese permitido
+      - "hubi\xE9semos permitido"
+      - hubieseis permitido
+      - hubiesen permitido
+      cjid: ppss2
+    - cjfs:
+      - hubiere permitido
+      - hubieres permitido
+      - hubiere permitido
+      - "hubi\xE9remos permitido"
+      - hubiereis permitido
+      - hubieren permitido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - permite
+      - permita
+      - permitamos
+      - permitid
+      - permitan
+      cjid: impf

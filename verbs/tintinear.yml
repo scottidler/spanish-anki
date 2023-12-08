@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|jingle}, to {a_link|clink}, to {a_link|tinkle}'
+  fl: transitive verb
+  hwi:
+    hw: tintinear
+  meta:
+    id: tintinear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621844000'
+    src: spanish
+    stems:
+    - tintinear
+    uuid: 2d7b91df-edcb-4fa6-ac06-1dac022ead19
+  shortdef:
+  - to jingle, to clink, to tinkle
+  suppl:
+    cjts:
+    - cjfs:
+      - tintineando
+      - tintineado
+      cjid: gppt
+    - cjfs:
+      - tintineo
+      - tintineas
+      - tintinea
+      - tintineamos
+      - "tintine\xE1is"
+      - tintinean
+      cjid: pind
+    - cjfs:
+      - tintineaba
+      - tintineabas
+      - tintineaba
+      - "tintine\xE1bamos"
+      - tintineabais
+      - tintineaban
+      cjid: pret
+    - cjfs:
+      - "tintine\xE9"
+      - tintineaste
+      - "tintine\xF3"
+      - tintineamos
+      - tintineasteis
+      - tintinearon
+      cjid: pprf
+    - cjfs:
+      - "tintinear\xE9"
+      - "tintinear\xE1s"
+      - "tintinear\xE1"
+      - tintinearemos
+      - "tintinear\xE9is"
+      - "tintinear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tintinear\xEDa"
+      - "tintinear\xEDas"
+      - "tintinear\xEDa"
+      - "tintinear\xEDamos"
+      - "tintinear\xEDais"
+      - "tintinear\xEDan"
+      cjid: cond
+    - cjfs:
+      - tintinee
+      - tintinees
+      - tintinee
+      - tintineemos
+      - "tintine\xE9is"
+      - tintineen
+      cjid: psub
+    - cjfs:
+      - tintineara
+      - tintinearas
+      - tintineara
+      - "tintine\xE1ramos"
+      - tintinearais
+      - tintinearan
+      cjid: pisb1
+    - cjfs:
+      - tintinease
+      - tintineases
+      - tintinease
+      - "tintine\xE1semos"
+      - tintineaseis
+      - tintineasen
+      cjid: pisb2
+    - cjfs:
+      - tintineare
+      - tintineares
+      - tintineare
+      - "tintine\xE1remos"
+      - tintineareis
+      - tintinearen
+      cjid: fsub
+    - cjfs:
+      - he tintineado
+      - has tintineado
+      - ha tintineado
+      - hemos tintineado
+      - "hab\xE9is tintineado"
+      - han tintineado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tintineado"
+      - "hab\xEDas tintineado"
+      - "hab\xEDa tintineado"
+      - "hab\xEDamos tintineado"
+      - "hab\xEDais tintineado"
+      - "hab\xEDan tintineado"
+      cjid: ppsi
+    - cjfs:
+      - hube tintineado
+      - hubiste tintineado
+      - hubo tintineado
+      - hubimos tintineado
+      - hubisteis tintineado
+      - hubieron tintineado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tintineado"
+      - "habr\xE1s tintineado"
+      - "habr\xE1 tintineado"
+      - habremos tintineado
+      - "habr\xE9is tintineado"
+      - "habr\xE1n tintineado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tintineado"
+      - "habr\xEDas tintineado"
+      - "habr\xEDa tintineado"
+      - "habr\xEDamos tintineado"
+      - "habr\xEDais tintineado"
+      - "habr\xEDan tintineado"
+      cjid: cpef
+    - cjfs:
+      - haya tintineado
+      - hayas tintineado
+      - haya tintineado
+      - hayamos tintineado
+      - "hay\xE1is tintineado"
+      - hayan tintineado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tintineado
+      - hubieras tintineado
+      - hubiera tintineado
+      - "hubi\xE9ramos tintineado"
+      - hubierais tintineado
+      - hubieran tintineado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tintineado
+      - hubieses tintineado
+      - hubiese tintineado
+      - "hubi\xE9semos tintineado"
+      - hubieseis tintineado
+      - hubiesen tintineado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tintineado
+      - hubieres tintineado
+      - hubiere tintineado
+      - "hubi\xE9remos tintineado"
+      - hubiereis tintineado
+      - hubieren tintineado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tintinea
+      - tintinee
+      - tintineemos
+      - tintinead
+      - tintineen
+      cjid: impf

@@ -1,0 +1,227 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|taste}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|like} '
+          - - vis
+            - - t: "\xBFgustan pasar?"
+                tr: would you like to come in?
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be pleasing '
+          - - vis
+            - - t: me gustan los dulces
+                tr: I like sweets
+              - t: "a Mar\xEDa le gusta Carlos"
+                tr: Maria is attracted to Carlos
+              - t: no me gusta que me griten
+                tr: I don't like to be yelled at
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|like}, to {a_link|enjoy} '
+          - - vis
+            - - t: no gusta de chismes
+                tr: she doesn't like gossip
+          sn: '2'
+          vrs:
+          - va: gustar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}as you wish, as you like'
+          sn: '3'
+          vrs:
+          - va: como guste
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: gustar
+    prs:
+    - sound:
+        audio: gusta01sp
+  meta:
+    id: gustar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611205000'
+    src: spanish
+    stems:
+    - gustar
+    - gustar de
+    - como guste
+    uuid: a7655be0-ac5d-4263-a57e-d6668ab534ee
+  shortdef:
+  - to taste
+  - to like
+  - to be pleasing
+  suppl:
+    cjts:
+    - cjfs:
+      - gustando
+      - gustado
+      cjid: gppt
+    - cjfs:
+      - gusto
+      - gustas
+      - gusta
+      - gustamos
+      - "gust\xE1is"
+      - gustan
+      cjid: pind
+    - cjfs:
+      - gustaba
+      - gustabas
+      - gustaba
+      - "gust\xE1bamos"
+      - gustabais
+      - gustaban
+      cjid: pret
+    - cjfs:
+      - "gust\xE9"
+      - gustaste
+      - "gust\xF3"
+      - gustamos
+      - gustasteis
+      - gustaron
+      cjid: pprf
+    - cjfs:
+      - "gustar\xE9"
+      - "gustar\xE1s"
+      - "gustar\xE1"
+      - gustaremos
+      - "gustar\xE9is"
+      - "gustar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gustar\xEDa"
+      - "gustar\xEDas"
+      - "gustar\xEDa"
+      - "gustar\xEDamos"
+      - "gustar\xEDais"
+      - "gustar\xEDan"
+      cjid: cond
+    - cjfs:
+      - guste
+      - gustes
+      - guste
+      - gustemos
+      - "gust\xE9is"
+      - gusten
+      cjid: psub
+    - cjfs:
+      - gustara
+      - gustaras
+      - gustara
+      - "gust\xE1ramos"
+      - gustarais
+      - gustaran
+      cjid: pisb1
+    - cjfs:
+      - gustase
+      - gustases
+      - gustase
+      - "gust\xE1semos"
+      - gustaseis
+      - gustasen
+      cjid: pisb2
+    - cjfs:
+      - gustare
+      - gustares
+      - gustare
+      - "gust\xE1remos"
+      - gustareis
+      - gustaren
+      cjid: fsub
+    - cjfs:
+      - he gustado
+      - has gustado
+      - ha gustado
+      - hemos gustado
+      - "hab\xE9is gustado"
+      - han gustado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gustado"
+      - "hab\xEDas gustado"
+      - "hab\xEDa gustado"
+      - "hab\xEDamos gustado"
+      - "hab\xEDais gustado"
+      - "hab\xEDan gustado"
+      cjid: ppsi
+    - cjfs:
+      - hube gustado
+      - hubiste gustado
+      - hubo gustado
+      - hubimos gustado
+      - hubisteis gustado
+      - hubieron gustado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gustado"
+      - "habr\xE1s gustado"
+      - "habr\xE1 gustado"
+      - habremos gustado
+      - "habr\xE9is gustado"
+      - "habr\xE1n gustado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gustado"
+      - "habr\xEDas gustado"
+      - "habr\xEDa gustado"
+      - "habr\xEDamos gustado"
+      - "habr\xEDais gustado"
+      - "habr\xEDan gustado"
+      cjid: cpef
+    - cjfs:
+      - haya gustado
+      - hayas gustado
+      - haya gustado
+      - hayamos gustado
+      - "hay\xE1is gustado"
+      - hayan gustado
+      cjid: ppfs
+    - cjfs:
+      - hubiera gustado
+      - hubieras gustado
+      - hubiera gustado
+      - "hubi\xE9ramos gustado"
+      - hubierais gustado
+      - hubieran gustado
+      cjid: ppss1
+    - cjfs:
+      - hubiese gustado
+      - hubieses gustado
+      - hubiese gustado
+      - "hubi\xE9semos gustado"
+      - hubieseis gustado
+      - hubiesen gustado
+      cjid: ppss2
+    - cjfs:
+      - hubiere gustado
+      - hubieres gustado
+      - hubiere gustado
+      - "hubi\xE9remos gustado"
+      - hubiereis gustado
+      - hubieren gustado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gusta
+      - guste
+      - gustemos
+      - gustad
+      - gusten
+      cjid: impf

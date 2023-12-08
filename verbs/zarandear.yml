@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sift}, to {a_link|sieve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shake}, to {a_link|jostle}, to {a_link|jiggle}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: zarandear
+  meta:
+    id: zarandear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623357000'
+    src: spanish
+    stems:
+    - zarandear
+    uuid: bbfee146-24d9-48b2-b4f1-ba6235892dd4
+  shortdef:
+  - to sift, to sieve
+  - to shake, to jostle, to jiggle
+  suppl:
+    cjts:
+    - cjfs:
+      - zarandeando
+      - zarandeado
+      cjid: gppt
+    - cjfs:
+      - zarandeo
+      - zarandeas
+      - zarandea
+      - zarandeamos
+      - "zarande\xE1is"
+      - zarandean
+      cjid: pind
+    - cjfs:
+      - zarandeaba
+      - zarandeabas
+      - zarandeaba
+      - "zarande\xE1bamos"
+      - zarandeabais
+      - zarandeaban
+      cjid: pret
+    - cjfs:
+      - "zarande\xE9"
+      - zarandeaste
+      - "zarande\xF3"
+      - zarandeamos
+      - zarandeasteis
+      - zarandearon
+      cjid: pprf
+    - cjfs:
+      - "zarandear\xE9"
+      - "zarandear\xE1s"
+      - "zarandear\xE1"
+      - zarandearemos
+      - "zarandear\xE9is"
+      - "zarandear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "zarandear\xEDa"
+      - "zarandear\xEDas"
+      - "zarandear\xEDa"
+      - "zarandear\xEDamos"
+      - "zarandear\xEDais"
+      - "zarandear\xEDan"
+      cjid: cond
+    - cjfs:
+      - zarandee
+      - zarandees
+      - zarandee
+      - zarandeemos
+      - "zarande\xE9is"
+      - zarandeen
+      cjid: psub
+    - cjfs:
+      - zarandeara
+      - zarandearas
+      - zarandeara
+      - "zarande\xE1ramos"
+      - zarandearais
+      - zarandearan
+      cjid: pisb1
+    - cjfs:
+      - zarandease
+      - zarandeases
+      - zarandease
+      - "zarande\xE1semos"
+      - zarandeaseis
+      - zarandeasen
+      cjid: pisb2
+    - cjfs:
+      - zarandeare
+      - zarandeares
+      - zarandeare
+      - "zarande\xE1remos"
+      - zarandeareis
+      - zarandearen
+      cjid: fsub
+    - cjfs:
+      - he zarandeado
+      - has zarandeado
+      - ha zarandeado
+      - hemos zarandeado
+      - "hab\xE9is zarandeado"
+      - han zarandeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa zarandeado"
+      - "hab\xEDas zarandeado"
+      - "hab\xEDa zarandeado"
+      - "hab\xEDamos zarandeado"
+      - "hab\xEDais zarandeado"
+      - "hab\xEDan zarandeado"
+      cjid: ppsi
+    - cjfs:
+      - hube zarandeado
+      - hubiste zarandeado
+      - hubo zarandeado
+      - hubimos zarandeado
+      - hubisteis zarandeado
+      - hubieron zarandeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 zarandeado"
+      - "habr\xE1s zarandeado"
+      - "habr\xE1 zarandeado"
+      - habremos zarandeado
+      - "habr\xE9is zarandeado"
+      - "habr\xE1n zarandeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa zarandeado"
+      - "habr\xEDas zarandeado"
+      - "habr\xEDa zarandeado"
+      - "habr\xEDamos zarandeado"
+      - "habr\xEDais zarandeado"
+      - "habr\xEDan zarandeado"
+      cjid: cpef
+    - cjfs:
+      - haya zarandeado
+      - hayas zarandeado
+      - haya zarandeado
+      - hayamos zarandeado
+      - "hay\xE1is zarandeado"
+      - hayan zarandeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera zarandeado
+      - hubieras zarandeado
+      - hubiera zarandeado
+      - "hubi\xE9ramos zarandeado"
+      - hubierais zarandeado
+      - hubieran zarandeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese zarandeado
+      - hubieses zarandeado
+      - hubiese zarandeado
+      - "hubi\xE9semos zarandeado"
+      - hubieseis zarandeado
+      - hubiesen zarandeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere zarandeado
+      - hubieres zarandeado
+      - hubiere zarandeado
+      - "hubi\xE9remos zarandeado"
+      - hubiereis zarandeado
+      - hubieren zarandeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - zarandea
+      - zarandee
+      - zarandeemos
+      - zarandead
+      - zarandeen
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|quemar||} {bc}to {a_link|burn}, to {a_link|sear}, to {a_link|scorch}'
+  fl: transitive verb
+  hwi:
+    hw: abrasar
+  meta:
+    id: abrasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600094000'
+    src: spanish
+    stems:
+    - abrasar
+    uuid: 3eeeb4fa-a929-4d50-a572-cb7d5d36e216
+  shortdef:
+  - 'quemar : to burn, to sear, to scorch'
+  suppl:
+    cjts:
+    - cjfs:
+      - abrasando
+      - abrasado
+      cjid: gppt
+    - cjfs:
+      - abraso
+      - abrasas
+      - abrasa
+      - abrasamos
+      - "abras\xE1is"
+      - abrasan
+      cjid: pind
+    - cjfs:
+      - abrasaba
+      - abrasabas
+      - abrasaba
+      - "abras\xE1bamos"
+      - abrasabais
+      - abrasaban
+      cjid: pret
+    - cjfs:
+      - "abras\xE9"
+      - abrasaste
+      - "abras\xF3"
+      - abrasamos
+      - abrasasteis
+      - abrasaron
+      cjid: pprf
+    - cjfs:
+      - "abrasar\xE9"
+      - "abrasar\xE1s"
+      - "abrasar\xE1"
+      - abrasaremos
+      - "abrasar\xE9is"
+      - "abrasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abrasar\xEDa"
+      - "abrasar\xEDas"
+      - "abrasar\xEDa"
+      - "abrasar\xEDamos"
+      - "abrasar\xEDais"
+      - "abrasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - abrase
+      - abrases
+      - abrase
+      - abrasemos
+      - "abras\xE9is"
+      - abrasen
+      cjid: psub
+    - cjfs:
+      - abrasara
+      - abrasaras
+      - abrasara
+      - "abras\xE1ramos"
+      - abrasarais
+      - abrasaran
+      cjid: pisb1
+    - cjfs:
+      - abrasase
+      - abrasases
+      - abrasase
+      - "abras\xE1semos"
+      - abrasaseis
+      - abrasasen
+      cjid: pisb2
+    - cjfs:
+      - abrasare
+      - abrasares
+      - abrasare
+      - "abras\xE1remos"
+      - abrasareis
+      - abrasaren
+      cjid: fsub
+    - cjfs:
+      - he abrasado
+      - has abrasado
+      - ha abrasado
+      - hemos abrasado
+      - "hab\xE9is abrasado"
+      - han abrasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abrasado"
+      - "hab\xEDas abrasado"
+      - "hab\xEDa abrasado"
+      - "hab\xEDamos abrasado"
+      - "hab\xEDais abrasado"
+      - "hab\xEDan abrasado"
+      cjid: ppsi
+    - cjfs:
+      - hube abrasado
+      - hubiste abrasado
+      - hubo abrasado
+      - hubimos abrasado
+      - hubisteis abrasado
+      - hubieron abrasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abrasado"
+      - "habr\xE1s abrasado"
+      - "habr\xE1 abrasado"
+      - habremos abrasado
+      - "habr\xE9is abrasado"
+      - "habr\xE1n abrasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abrasado"
+      - "habr\xEDas abrasado"
+      - "habr\xEDa abrasado"
+      - "habr\xEDamos abrasado"
+      - "habr\xEDais abrasado"
+      - "habr\xEDan abrasado"
+      cjid: cpef
+    - cjfs:
+      - haya abrasado
+      - hayas abrasado
+      - haya abrasado
+      - hayamos abrasado
+      - "hay\xE1is abrasado"
+      - hayan abrasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera abrasado
+      - hubieras abrasado
+      - hubiera abrasado
+      - "hubi\xE9ramos abrasado"
+      - hubierais abrasado
+      - hubieran abrasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese abrasado
+      - hubieses abrasado
+      - hubiese abrasado
+      - "hubi\xE9semos abrasado"
+      - hubieseis abrasado
+      - hubiesen abrasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere abrasado
+      - hubieres abrasado
+      - hubiere abrasado
+      - "hubi\xE9remos abrasado"
+      - hubiereis abrasado
+      - hubieren abrasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abrasa
+      - abrase
+      - abrasemos
+      - abrasad
+      - abrasen
+      cjid: impf

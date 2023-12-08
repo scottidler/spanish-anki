@@ -1,0 +1,226 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|libertar||} {bc}to {a_link|free} (from punishment, etc.), to {a_link|save}
+              (from death, etc.) '
+          - - vis
+            - - t: "l\xEDbranos del mal"
+                tr: deliver us from evil
+              - t: librar de culpas
+                tr: to absolve of guilt
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wage} '
+          - - vis
+            - - t: librar batalla
+                tr: to do battle
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|issue} '
+          - - vis
+            - - t: librar una orden
+                tr: to issue an order
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to free oneself from, to {a_link|get out of} '
+            - - vis
+              - - t: "se libr\xF3 de pagar una multa"
+                  tr: he got out of paying a fine
+                - t: librarse de morir
+                  tr: to escape death
+            vrs:
+            - va: librarse de
+              vac: ~ de
+    drp: librarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: librar
+    prs:
+    - sound:
+        audio: libra02sp
+  meta:
+    id: librar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613739000'
+    src: spanish
+    stems:
+    - librar
+    - librarse
+    - librarse de
+    uuid: c8a3663b-4741-4cf4-b5fb-c9e68464e058
+  shortdef:
+  - 'libertar : to free (from punishment, etc.), to save (from death, etc.)'
+  - to wage
+  - to issue
+  suppl:
+    cjts:
+    - cjfs:
+      - librando
+      - librado
+      cjid: gppt
+    - cjfs:
+      - libro
+      - libras
+      - libra
+      - libramos
+      - "libr\xE1is"
+      - libran
+      cjid: pind
+    - cjfs:
+      - libraba
+      - librabas
+      - libraba
+      - "libr\xE1bamos"
+      - librabais
+      - libraban
+      cjid: pret
+    - cjfs:
+      - "libr\xE9"
+      - libraste
+      - "libr\xF3"
+      - libramos
+      - librasteis
+      - libraron
+      cjid: pprf
+    - cjfs:
+      - "librar\xE9"
+      - "librar\xE1s"
+      - "librar\xE1"
+      - libraremos
+      - "librar\xE9is"
+      - "librar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "librar\xEDa"
+      - "librar\xEDas"
+      - "librar\xEDa"
+      - "librar\xEDamos"
+      - "librar\xEDais"
+      - "librar\xEDan"
+      cjid: cond
+    - cjfs:
+      - libre
+      - libres
+      - libre
+      - libremos
+      - "libr\xE9is"
+      - libren
+      cjid: psub
+    - cjfs:
+      - librara
+      - libraras
+      - librara
+      - "libr\xE1ramos"
+      - librarais
+      - libraran
+      cjid: pisb1
+    - cjfs:
+      - librase
+      - librases
+      - librase
+      - "libr\xE1semos"
+      - libraseis
+      - librasen
+      cjid: pisb2
+    - cjfs:
+      - librare
+      - librares
+      - librare
+      - "libr\xE1remos"
+      - librareis
+      - libraren
+      cjid: fsub
+    - cjfs:
+      - he librado
+      - has librado
+      - ha librado
+      - hemos librado
+      - "hab\xE9is librado"
+      - han librado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa librado"
+      - "hab\xEDas librado"
+      - "hab\xEDa librado"
+      - "hab\xEDamos librado"
+      - "hab\xEDais librado"
+      - "hab\xEDan librado"
+      cjid: ppsi
+    - cjfs:
+      - hube librado
+      - hubiste librado
+      - hubo librado
+      - hubimos librado
+      - hubisteis librado
+      - hubieron librado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 librado"
+      - "habr\xE1s librado"
+      - "habr\xE1 librado"
+      - habremos librado
+      - "habr\xE9is librado"
+      - "habr\xE1n librado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa librado"
+      - "habr\xEDas librado"
+      - "habr\xEDa librado"
+      - "habr\xEDamos librado"
+      - "habr\xEDais librado"
+      - "habr\xEDan librado"
+      cjid: cpef
+    - cjfs:
+      - haya librado
+      - hayas librado
+      - haya librado
+      - hayamos librado
+      - "hay\xE1is librado"
+      - hayan librado
+      cjid: ppfs
+    - cjfs:
+      - hubiera librado
+      - hubieras librado
+      - hubiera librado
+      - "hubi\xE9ramos librado"
+      - hubierais librado
+      - hubieran librado
+      cjid: ppss1
+    - cjfs:
+      - hubiese librado
+      - hubieses librado
+      - hubiese librado
+      - "hubi\xE9semos librado"
+      - hubieseis librado
+      - hubiesen librado
+      cjid: ppss2
+    - cjfs:
+      - hubiere librado
+      - hubieres librado
+      - hubiere librado
+      - "hubi\xE9remos librado"
+      - hubiereis librado
+      - hubieren librado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - libra
+      - libre
+      - libremos
+      - librad
+      - libren
+      cjid: impf

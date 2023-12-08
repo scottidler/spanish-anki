@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have dinner, to have supper'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have for dinner or supper '
+          - - vis
+            - - t: cenamos tamales
+                tr: we had tamales for supper
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: cenar
+    prs:
+    - sound:
+        audio: cenar01sp
+  meta:
+    id: cenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604297000'
+    src: spanish
+    stems:
+    - cenar
+    uuid: dd273bdd-332c-4e78-9db7-5ca3ac148f57
+  shortdef:
+  - to have dinner, to have supper
+  - to have for dinner or supper
+  suppl:
+    cjts:
+    - cjfs:
+      - cenando
+      - cenado
+      cjid: gppt
+    - cjfs:
+      - ceno
+      - cenas
+      - cena
+      - cenamos
+      - "cen\xE1is"
+      - cenan
+      cjid: pind
+    - cjfs:
+      - cenaba
+      - cenabas
+      - cenaba
+      - "cen\xE1bamos"
+      - cenabais
+      - cenaban
+      cjid: pret
+    - cjfs:
+      - "cen\xE9"
+      - cenaste
+      - "cen\xF3"
+      - cenamos
+      - cenasteis
+      - cenaron
+      cjid: pprf
+    - cjfs:
+      - "cenar\xE9"
+      - "cenar\xE1s"
+      - "cenar\xE1"
+      - cenaremos
+      - "cenar\xE9is"
+      - "cenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cenar\xEDa"
+      - "cenar\xEDas"
+      - "cenar\xEDa"
+      - "cenar\xEDamos"
+      - "cenar\xEDais"
+      - "cenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cene
+      - cenes
+      - cene
+      - cenemos
+      - "cen\xE9is"
+      - cenen
+      cjid: psub
+    - cjfs:
+      - cenara
+      - cenaras
+      - cenara
+      - "cen\xE1ramos"
+      - cenarais
+      - cenaran
+      cjid: pisb1
+    - cjfs:
+      - cenase
+      - cenases
+      - cenase
+      - "cen\xE1semos"
+      - cenaseis
+      - cenasen
+      cjid: pisb2
+    - cjfs:
+      - cenare
+      - cenares
+      - cenare
+      - "cen\xE1remos"
+      - cenareis
+      - cenaren
+      cjid: fsub
+    - cjfs:
+      - he cenado
+      - has cenado
+      - ha cenado
+      - hemos cenado
+      - "hab\xE9is cenado"
+      - han cenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cenado"
+      - "hab\xEDas cenado"
+      - "hab\xEDa cenado"
+      - "hab\xEDamos cenado"
+      - "hab\xEDais cenado"
+      - "hab\xEDan cenado"
+      cjid: ppsi
+    - cjfs:
+      - hube cenado
+      - hubiste cenado
+      - hubo cenado
+      - hubimos cenado
+      - hubisteis cenado
+      - hubieron cenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cenado"
+      - "habr\xE1s cenado"
+      - "habr\xE1 cenado"
+      - habremos cenado
+      - "habr\xE9is cenado"
+      - "habr\xE1n cenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cenado"
+      - "habr\xEDas cenado"
+      - "habr\xEDa cenado"
+      - "habr\xEDamos cenado"
+      - "habr\xEDais cenado"
+      - "habr\xEDan cenado"
+      cjid: cpef
+    - cjfs:
+      - haya cenado
+      - hayas cenado
+      - haya cenado
+      - hayamos cenado
+      - "hay\xE1is cenado"
+      - hayan cenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cenado
+      - hubieras cenado
+      - hubiera cenado
+      - "hubi\xE9ramos cenado"
+      - hubierais cenado
+      - hubieran cenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cenado
+      - hubieses cenado
+      - hubiese cenado
+      - "hubi\xE9semos cenado"
+      - hubieseis cenado
+      - hubiesen cenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cenado
+      - hubieres cenado
+      - hubiere cenado
+      - "hubi\xE9remos cenado"
+      - hubiereis cenado
+      - hubieren cenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cena
+      - cene
+      - cenemos
+      - cenad
+      - cenen
+      cjid: impf

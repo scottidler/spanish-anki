@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|float}'
+  fl: intransitive verb
+  hwi:
+    hw: flotar
+    prs:
+    - sound:
+        audio: flota02sp
+  meta:
+    id: flotar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610243000'
+    src: spanish
+    stems:
+    - flotar
+    uuid: dd20a259-b9a2-45b6-82c5-993dd9a92f5f
+  shortdef:
+  - to float
+  suppl:
+    cjts:
+    - cjfs:
+      - flotando
+      - flotado
+      cjid: gppt
+    - cjfs:
+      - floto
+      - flotas
+      - flota
+      - flotamos
+      - "flot\xE1is"
+      - flotan
+      cjid: pind
+    - cjfs:
+      - flotaba
+      - flotabas
+      - flotaba
+      - "flot\xE1bamos"
+      - flotabais
+      - flotaban
+      cjid: pret
+    - cjfs:
+      - "flot\xE9"
+      - flotaste
+      - "flot\xF3"
+      - flotamos
+      - flotasteis
+      - flotaron
+      cjid: pprf
+    - cjfs:
+      - "flotar\xE9"
+      - "flotar\xE1s"
+      - "flotar\xE1"
+      - flotaremos
+      - "flotar\xE9is"
+      - "flotar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "flotar\xEDa"
+      - "flotar\xEDas"
+      - "flotar\xEDa"
+      - "flotar\xEDamos"
+      - "flotar\xEDais"
+      - "flotar\xEDan"
+      cjid: cond
+    - cjfs:
+      - flote
+      - flotes
+      - flote
+      - flotemos
+      - "flot\xE9is"
+      - floten
+      cjid: psub
+    - cjfs:
+      - flotara
+      - flotaras
+      - flotara
+      - "flot\xE1ramos"
+      - flotarais
+      - flotaran
+      cjid: pisb1
+    - cjfs:
+      - flotase
+      - flotases
+      - flotase
+      - "flot\xE1semos"
+      - flotaseis
+      - flotasen
+      cjid: pisb2
+    - cjfs:
+      - flotare
+      - flotares
+      - flotare
+      - "flot\xE1remos"
+      - flotareis
+      - flotaren
+      cjid: fsub
+    - cjfs:
+      - he flotado
+      - has flotado
+      - ha flotado
+      - hemos flotado
+      - "hab\xE9is flotado"
+      - han flotado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa flotado"
+      - "hab\xEDas flotado"
+      - "hab\xEDa flotado"
+      - "hab\xEDamos flotado"
+      - "hab\xEDais flotado"
+      - "hab\xEDan flotado"
+      cjid: ppsi
+    - cjfs:
+      - hube flotado
+      - hubiste flotado
+      - hubo flotado
+      - hubimos flotado
+      - hubisteis flotado
+      - hubieron flotado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 flotado"
+      - "habr\xE1s flotado"
+      - "habr\xE1 flotado"
+      - habremos flotado
+      - "habr\xE9is flotado"
+      - "habr\xE1n flotado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa flotado"
+      - "habr\xEDas flotado"
+      - "habr\xEDa flotado"
+      - "habr\xEDamos flotado"
+      - "habr\xEDais flotado"
+      - "habr\xEDan flotado"
+      cjid: cpef
+    - cjfs:
+      - haya flotado
+      - hayas flotado
+      - haya flotado
+      - hayamos flotado
+      - "hay\xE1is flotado"
+      - hayan flotado
+      cjid: ppfs
+    - cjfs:
+      - hubiera flotado
+      - hubieras flotado
+      - hubiera flotado
+      - "hubi\xE9ramos flotado"
+      - hubierais flotado
+      - hubieran flotado
+      cjid: ppss1
+    - cjfs:
+      - hubiese flotado
+      - hubieses flotado
+      - hubiese flotado
+      - "hubi\xE9semos flotado"
+      - hubieseis flotado
+      - hubiesen flotado
+      cjid: ppss2
+    - cjfs:
+      - hubiere flotado
+      - hubieres flotado
+      - hubiere flotado
+      - "hubi\xE9remos flotado"
+      - hubiereis flotado
+      - hubieren flotado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - flota
+      - flote
+      - flotemos
+      - flotad
+      - floten
+      cjid: impf

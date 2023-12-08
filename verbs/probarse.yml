@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demonstrate}, to {a_link|prove}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|test}, to {a_link|try out}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|try on} (clothing)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|taste}, to {a_link|sample}'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|try} '
+          - - vis
+            - - t: probar a hacer algo
+                tr: to try doing something
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|try on} (clothing)'
+    drp: probarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: probar
+    prs:
+    - sound:
+        audio: proba04sp
+  meta:
+    id: probar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618162000'
+    src: spanish
+    stems:
+    - probar
+    - probarse
+    uuid: c520ceae-08ee-4ba3-9cb2-6ad44d4c3cfc
+  shortdef:
+  - to demonstrate, to prove
+  - to test, to try out
+  - to try on (clothing)
+  suppl:
+    cjts:
+    - cjfs:
+      - probando
+      - probado
+      cjid: gppt
+    - cjfs:
+      - pruebo
+      - pruebas
+      - prueba
+      - probamos
+      - "prob\xE1is"
+      - prueban
+      cjid: pind
+    - cjfs:
+      - probaba
+      - probabas
+      - probaba
+      - "prob\xE1bamos"
+      - probabais
+      - probaban
+      cjid: pret
+    - cjfs:
+      - "prob\xE9"
+      - probaste
+      - "prob\xF3"
+      - probamos
+      - probasteis
+      - probaron
+      cjid: pprf
+    - cjfs:
+      - "probar\xE9"
+      - "probar\xE1s"
+      - "probar\xE1"
+      - probaremos
+      - "probar\xE9is"
+      - "probar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "probar\xEDa"
+      - "probar\xEDas"
+      - "probar\xEDa"
+      - "probar\xEDamos"
+      - "probar\xEDais"
+      - "probar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pruebe
+      - pruebes
+      - pruebe
+      - probemos
+      - "prob\xE9is"
+      - prueben
+      cjid: psub
+    - cjfs:
+      - probara
+      - probaras
+      - probara
+      - "prob\xE1ramos"
+      - probarais
+      - probaran
+      cjid: pisb1
+    - cjfs:
+      - probase
+      - probases
+      - probase
+      - "prob\xE1semos"
+      - probaseis
+      - probasen
+      cjid: pisb2
+    - cjfs:
+      - probare
+      - probares
+      - probare
+      - "prob\xE1remos"
+      - probareis
+      - probaren
+      cjid: fsub
+    - cjfs:
+      - he probado
+      - has probado
+      - ha probado
+      - hemos probado
+      - "hab\xE9is probado"
+      - han probado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa probado"
+      - "hab\xEDas probado"
+      - "hab\xEDa probado"
+      - "hab\xEDamos probado"
+      - "hab\xEDais probado"
+      - "hab\xEDan probado"
+      cjid: ppsi
+    - cjfs:
+      - hube probado
+      - hubiste probado
+      - hubo probado
+      - hubimos probado
+      - hubisteis probado
+      - hubieron probado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 probado"
+      - "habr\xE1s probado"
+      - "habr\xE1 probado"
+      - habremos probado
+      - "habr\xE9is probado"
+      - "habr\xE1n probado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa probado"
+      - "habr\xEDas probado"
+      - "habr\xEDa probado"
+      - "habr\xEDamos probado"
+      - "habr\xEDais probado"
+      - "habr\xEDan probado"
+      cjid: cpef
+    - cjfs:
+      - haya probado
+      - hayas probado
+      - haya probado
+      - hayamos probado
+      - "hay\xE1is probado"
+      - hayan probado
+      cjid: ppfs
+    - cjfs:
+      - hubiera probado
+      - hubieras probado
+      - hubiera probado
+      - "hubi\xE9ramos probado"
+      - hubierais probado
+      - hubieran probado
+      cjid: ppss1
+    - cjfs:
+      - hubiese probado
+      - hubieses probado
+      - hubiese probado
+      - "hubi\xE9semos probado"
+      - hubieseis probado
+      - hubiesen probado
+      cjid: ppss2
+    - cjfs:
+      - hubiere probado
+      - hubieres probado
+      - hubiere probado
+      - "hubi\xE9remos probado"
+      - hubiereis probado
+      - hubieren probado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prueba
+      - pruebe
+      - probemos
+      - probad
+      - prueben
+      cjid: impf

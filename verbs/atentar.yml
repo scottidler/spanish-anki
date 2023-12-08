@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make an attempt on, to {a_link|threaten} '
+          - - vis
+            - - t: atentaron contra su vida
+                tr: they made an attempt on his life
+          vrs:
+          - va: atentar contra
+            vac: ~ contra
+  fl: intransitive verb
+  hwi:
+    hw: atentar
+    prs:
+    - sound:
+        audio: atent03sp
+  meta:
+    id: atentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602280000'
+    src: spanish
+    stems:
+    - atentar
+    - atentar contra
+    uuid: 3adf0781-d58c-4126-bdb9-8d4570d3e35e
+  shortdef:
+  - to make an attempt on, to threaten
+  suppl:
+    cjts:
+    - cjfs:
+      - atentando
+      - atentado
+      cjid: gppt
+    - cjfs:
+      - atento
+      - atentas
+      - atenta
+      - atentamos
+      - "atent\xE1is"
+      - atentan
+      cjid: pind
+    - cjfs:
+      - atentaba
+      - atentabas
+      - atentaba
+      - "atent\xE1bamos"
+      - atentabais
+      - atentaban
+      cjid: pret
+    - cjfs:
+      - "atent\xE9"
+      - atentaste
+      - "atent\xF3"
+      - atentamos
+      - atentasteis
+      - atentaron
+      cjid: pprf
+    - cjfs:
+      - "atentar\xE9"
+      - "atentar\xE1s"
+      - "atentar\xE1"
+      - atentaremos
+      - "atentar\xE9is"
+      - "atentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atentar\xEDa"
+      - "atentar\xEDas"
+      - "atentar\xEDa"
+      - "atentar\xEDamos"
+      - "atentar\xEDais"
+      - "atentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - atente
+      - atentes
+      - atente
+      - atentemos
+      - "atent\xE9is"
+      - atenten
+      cjid: psub
+    - cjfs:
+      - atentara
+      - atentaras
+      - atentara
+      - "atent\xE1ramos"
+      - atentarais
+      - atentaran
+      cjid: pisb1
+    - cjfs:
+      - atentase
+      - atentases
+      - atentase
+      - "atent\xE1semos"
+      - atentaseis
+      - atentasen
+      cjid: pisb2
+    - cjfs:
+      - atentare
+      - atentares
+      - atentare
+      - "atent\xE1remos"
+      - atentareis
+      - atentaren
+      cjid: fsub
+    - cjfs:
+      - he atentado
+      - has atentado
+      - ha atentado
+      - hemos atentado
+      - "hab\xE9is atentado"
+      - han atentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atentado"
+      - "hab\xEDas atentado"
+      - "hab\xEDa atentado"
+      - "hab\xEDamos atentado"
+      - "hab\xEDais atentado"
+      - "hab\xEDan atentado"
+      cjid: ppsi
+    - cjfs:
+      - hube atentado
+      - hubiste atentado
+      - hubo atentado
+      - hubimos atentado
+      - hubisteis atentado
+      - hubieron atentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atentado"
+      - "habr\xE1s atentado"
+      - "habr\xE1 atentado"
+      - habremos atentado
+      - "habr\xE9is atentado"
+      - "habr\xE1n atentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atentado"
+      - "habr\xEDas atentado"
+      - "habr\xEDa atentado"
+      - "habr\xEDamos atentado"
+      - "habr\xEDais atentado"
+      - "habr\xEDan atentado"
+      cjid: cpef
+    - cjfs:
+      - haya atentado
+      - hayas atentado
+      - haya atentado
+      - hayamos atentado
+      - "hay\xE1is atentado"
+      - hayan atentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atentado
+      - hubieras atentado
+      - hubiera atentado
+      - "hubi\xE9ramos atentado"
+      - hubierais atentado
+      - hubieran atentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atentado
+      - hubieses atentado
+      - hubiese atentado
+      - "hubi\xE9semos atentado"
+      - hubieseis atentado
+      - hubiesen atentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atentado
+      - hubieres atentado
+      - hubiere atentado
+      - "hubi\xE9remos atentado"
+      - hubiereis atentado
+      - hubieren atentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atenta
+      - atente
+      - atentemos
+      - atentad
+      - atenten
+      cjid: impf

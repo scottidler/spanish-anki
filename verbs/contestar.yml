@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|responder||} {bc}to {a_link|answer}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|responder||} {bc}to {a_link|answer}, to {a_link|reply}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|talk back}, to be disrespectful'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: contestar
+    prs:
+    - sound:
+        audio: conte10sp
+  meta:
+    id: contestar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605694000'
+    src: spanish
+    stems:
+    - contestar
+    uuid: 23e77432-c905-4f21-b5a9-1a16750d035c
+  shortdef:
+  - 'responder : to answer'
+  - 'responder : to answer, to reply'
+  - to talk back, to be disrespectful
+  suppl:
+    cjts:
+    - cjfs:
+      - contestando
+      - contestado
+      cjid: gppt
+    - cjfs:
+      - contesto
+      - contestas
+      - contesta
+      - contestamos
+      - "contest\xE1is"
+      - contestan
+      cjid: pind
+    - cjfs:
+      - contestaba
+      - contestabas
+      - contestaba
+      - "contest\xE1bamos"
+      - contestabais
+      - contestaban
+      cjid: pret
+    - cjfs:
+      - "contest\xE9"
+      - contestaste
+      - "contest\xF3"
+      - contestamos
+      - contestasteis
+      - contestaron
+      cjid: pprf
+    - cjfs:
+      - "contestar\xE9"
+      - "contestar\xE1s"
+      - "contestar\xE1"
+      - contestaremos
+      - "contestar\xE9is"
+      - "contestar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contestar\xEDa"
+      - "contestar\xEDas"
+      - "contestar\xEDa"
+      - "contestar\xEDamos"
+      - "contestar\xEDais"
+      - "contestar\xEDan"
+      cjid: cond
+    - cjfs:
+      - conteste
+      - contestes
+      - conteste
+      - contestemos
+      - "contest\xE9is"
+      - contesten
+      cjid: psub
+    - cjfs:
+      - contestara
+      - contestaras
+      - contestara
+      - "contest\xE1ramos"
+      - contestarais
+      - contestaran
+      cjid: pisb1
+    - cjfs:
+      - contestase
+      - contestases
+      - contestase
+      - "contest\xE1semos"
+      - contestaseis
+      - contestasen
+      cjid: pisb2
+    - cjfs:
+      - contestare
+      - contestares
+      - contestare
+      - "contest\xE1remos"
+      - contestareis
+      - contestaren
+      cjid: fsub
+    - cjfs:
+      - he contestado
+      - has contestado
+      - ha contestado
+      - hemos contestado
+      - "hab\xE9is contestado"
+      - han contestado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contestado"
+      - "hab\xEDas contestado"
+      - "hab\xEDa contestado"
+      - "hab\xEDamos contestado"
+      - "hab\xEDais contestado"
+      - "hab\xEDan contestado"
+      cjid: ppsi
+    - cjfs:
+      - hube contestado
+      - hubiste contestado
+      - hubo contestado
+      - hubimos contestado
+      - hubisteis contestado
+      - hubieron contestado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contestado"
+      - "habr\xE1s contestado"
+      - "habr\xE1 contestado"
+      - habremos contestado
+      - "habr\xE9is contestado"
+      - "habr\xE1n contestado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contestado"
+      - "habr\xEDas contestado"
+      - "habr\xEDa contestado"
+      - "habr\xEDamos contestado"
+      - "habr\xEDais contestado"
+      - "habr\xEDan contestado"
+      cjid: cpef
+    - cjfs:
+      - haya contestado
+      - hayas contestado
+      - haya contestado
+      - hayamos contestado
+      - "hay\xE1is contestado"
+      - hayan contestado
+      cjid: ppfs
+    - cjfs:
+      - hubiera contestado
+      - hubieras contestado
+      - hubiera contestado
+      - "hubi\xE9ramos contestado"
+      - hubierais contestado
+      - hubieran contestado
+      cjid: ppss1
+    - cjfs:
+      - hubiese contestado
+      - hubieses contestado
+      - hubiese contestado
+      - "hubi\xE9semos contestado"
+      - hubieseis contestado
+      - hubiesen contestado
+      cjid: ppss2
+    - cjfs:
+      - hubiere contestado
+      - hubieres contestado
+      - hubiere contestado
+      - "hubi\xE9remos contestado"
+      - hubiereis contestado
+      - hubieren contestado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - contesta
+      - conteste
+      - contestemos
+      - contestad
+      - contesten
+      cjid: impf

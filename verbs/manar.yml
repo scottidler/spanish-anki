@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|abound}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: manar
+  meta:
+    id: manar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614302000'
+    src: spanish
+    stems:
+    - manar
+    uuid: e9fcf339-5601-4d57-ac50-be9a7edd0034
+  shortdef:
+  - to flow
+  - to abound
+  suppl:
+    cjts:
+    - cjfs:
+      - manando
+      - manado
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - mana
+      - '-'
+      - '-'
+      - manan
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - manaba
+      - '-'
+      - '-'
+      - manaban
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "man\xF3"
+      - '-'
+      - '-'
+      - manaron
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "manar\xE1"
+      - '-'
+      - '-'
+      - "manar\xE1n"
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "manar\xEDa"
+      - '-'
+      - '-'
+      - "manar\xEDan"
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - mane
+      - '-'
+      - '-'
+      - manen
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - manara
+      - '-'
+      - '-'
+      - manaran
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - manase
+      - '-'
+      - '-'
+      - manasen
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - manare
+      - '-'
+      - '-'
+      - manaren
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha manado
+      - '-'
+      - '-'
+      - han manado
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa manado"
+      - '-'
+      - '-'
+      - "hab\xEDan manado"
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo manado
+      - '-'
+      - '-'
+      - hubieron manado
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 manado"
+      - '-'
+      - '-'
+      - "habr\xE1n manado"
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa manado"
+      - '-'
+      - '-'
+      - "habr\xEDan manado"
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya manado
+      - '-'
+      - '-'
+      - hayan manado
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera manado
+      - '-'
+      - '-'
+      - hubieran manado
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese manado
+      - '-'
+      - '-'
+      - hubiesen manado
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere manado
+      - '-'
+      - '-'
+      - hubieren manado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|obtain}, to {a_link|secure}, to {a_link|get}'
+  fl: transitive verb
+  hwi:
+    hw: obtener
+    prs:
+    - sound:
+        audio: obten02sp
+  meta:
+    id: obtener
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616039000'
+    src: spanish
+    stems:
+    - obtener
+    - obtenible
+    uuid: 82793ce2-d18f-41ab-a582-afacf72cee1e
+  shortdef:
+  - to obtain, to secure, to get
+  suppl:
+    cjts:
+    - cjfs:
+      - obteniendo
+      - obtenido
+      cjid: gppt
+    - cjfs:
+      - obtengo
+      - obtienes
+      - obtiene
+      - obtenemos
+      - "obten\xE9is"
+      - obtienen
+      cjid: pind
+    - cjfs:
+      - "obten\xEDa"
+      - "obten\xEDas"
+      - "obten\xEDa"
+      - "obten\xEDamos"
+      - "obten\xEDais"
+      - "obten\xEDan"
+      cjid: pret
+    - cjfs:
+      - obtuve
+      - obtuviste
+      - obtuvo
+      - obtuvimos
+      - obtuvisteis
+      - obtuvieron
+      cjid: pprf
+    - cjfs:
+      - "obtendr\xE9"
+      - "obtendr\xE1s"
+      - "obtendr\xE1"
+      - obtendremos
+      - "obtendr\xE9is"
+      - "obtendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "obtendr\xEDa"
+      - "obtendr\xEDas"
+      - "obtendr\xEDa"
+      - "obtendr\xEDamos"
+      - "obtendr\xEDais"
+      - "obtendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - obtenga
+      - obtengas
+      - obtenga
+      - obtengamos
+      - "obteng\xE1is"
+      - obtengan
+      cjid: psub
+    - cjfs:
+      - obtuviera
+      - obtuvieras
+      - obtuviera
+      - "obtuvi\xE9ramos"
+      - obtuvierais
+      - obtuvieran
+      cjid: pisb1
+    - cjfs:
+      - obtuviese
+      - obtuvieses
+      - obtuviese
+      - "obtuvi\xE9semos"
+      - obtuvieseis
+      - obtuviesen
+      cjid: pisb2
+    - cjfs:
+      - obtuviere
+      - obtuvieres
+      - obtuviere
+      - "obtuvi\xE9remos"
+      - obtuviereis
+      - obtuvieren
+      cjid: fsub
+    - cjfs:
+      - he obtenido
+      - has obtenido
+      - ha obtenido
+      - hemos obtenido
+      - "hab\xE9is obtenido"
+      - han obtenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa obtenido"
+      - "hab\xEDas obtenido"
+      - "hab\xEDa obtenido"
+      - "hab\xEDamos obtenido"
+      - "hab\xEDais obtenido"
+      - "hab\xEDan obtenido"
+      cjid: ppsi
+    - cjfs:
+      - hube obtenido
+      - hubiste obtenido
+      - hubo obtenido
+      - hubimos obtenido
+      - hubisteis obtenido
+      - hubieron obtenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 obtenido"
+      - "habr\xE1s obtenido"
+      - "habr\xE1 obtenido"
+      - habremos obtenido
+      - "habr\xE9is obtenido"
+      - "habr\xE1n obtenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa obtenido"
+      - "habr\xEDas obtenido"
+      - "habr\xEDa obtenido"
+      - "habr\xEDamos obtenido"
+      - "habr\xEDais obtenido"
+      - "habr\xEDan obtenido"
+      cjid: cpef
+    - cjfs:
+      - haya obtenido
+      - hayas obtenido
+      - haya obtenido
+      - hayamos obtenido
+      - "hay\xE1is obtenido"
+      - hayan obtenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera obtenido
+      - hubieras obtenido
+      - hubiera obtenido
+      - "hubi\xE9ramos obtenido"
+      - hubierais obtenido
+      - hubieran obtenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese obtenido
+      - hubieses obtenido
+      - hubiese obtenido
+      - "hubi\xE9semos obtenido"
+      - hubieseis obtenido
+      - hubiesen obtenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere obtenido
+      - hubieres obtenido
+      - hubiere obtenido
+      - "hubi\xE9remos obtenido"
+      - hubiereis obtenido
+      - hubieren obtenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "obt\xE9n"
+      - obtenga
+      - obtengamos
+      - obtened
+      - obtengan
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: obtenible

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cry}, to {a_link|weep}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mourn}, to {a_link|bewail}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: llorar
+    prs:
+    - sound:
+        audio: llora01sp
+  meta:
+    id: llorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613939000'
+    src: spanish
+    stems:
+    - llorar
+    uuid: 25e6532a-2e81-4f75-827f-401308dd5d10
+  shortdef:
+  - to cry, to weep
+  - to mourn, to bewail
+  suppl:
+    cjts:
+    - cjfs:
+      - llorando
+      - llorado
+      cjid: gppt
+    - cjfs:
+      - lloro
+      - lloras
+      - llora
+      - lloramos
+      - "llor\xE1is"
+      - lloran
+      cjid: pind
+    - cjfs:
+      - lloraba
+      - llorabas
+      - lloraba
+      - "llor\xE1bamos"
+      - llorabais
+      - lloraban
+      cjid: pret
+    - cjfs:
+      - "llor\xE9"
+      - lloraste
+      - "llor\xF3"
+      - lloramos
+      - llorasteis
+      - lloraron
+      cjid: pprf
+    - cjfs:
+      - "llorar\xE9"
+      - "llorar\xE1s"
+      - "llorar\xE1"
+      - lloraremos
+      - "llorar\xE9is"
+      - "llorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "llorar\xEDa"
+      - "llorar\xEDas"
+      - "llorar\xEDa"
+      - "llorar\xEDamos"
+      - "llorar\xEDais"
+      - "llorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - llore
+      - llores
+      - llore
+      - lloremos
+      - "llor\xE9is"
+      - lloren
+      cjid: psub
+    - cjfs:
+      - llorara
+      - lloraras
+      - llorara
+      - "llor\xE1ramos"
+      - llorarais
+      - lloraran
+      cjid: pisb1
+    - cjfs:
+      - llorase
+      - llorases
+      - llorase
+      - "llor\xE1semos"
+      - lloraseis
+      - llorasen
+      cjid: pisb2
+    - cjfs:
+      - llorare
+      - llorares
+      - llorare
+      - "llor\xE1remos"
+      - llorareis
+      - lloraren
+      cjid: fsub
+    - cjfs:
+      - he llorado
+      - has llorado
+      - ha llorado
+      - hemos llorado
+      - "hab\xE9is llorado"
+      - han llorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa llorado"
+      - "hab\xEDas llorado"
+      - "hab\xEDa llorado"
+      - "hab\xEDamos llorado"
+      - "hab\xEDais llorado"
+      - "hab\xEDan llorado"
+      cjid: ppsi
+    - cjfs:
+      - hube llorado
+      - hubiste llorado
+      - hubo llorado
+      - hubimos llorado
+      - hubisteis llorado
+      - hubieron llorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 llorado"
+      - "habr\xE1s llorado"
+      - "habr\xE1 llorado"
+      - habremos llorado
+      - "habr\xE9is llorado"
+      - "habr\xE1n llorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa llorado"
+      - "habr\xEDas llorado"
+      - "habr\xEDa llorado"
+      - "habr\xEDamos llorado"
+      - "habr\xEDais llorado"
+      - "habr\xEDan llorado"
+      cjid: cpef
+    - cjfs:
+      - haya llorado
+      - hayas llorado
+      - haya llorado
+      - hayamos llorado
+      - "hay\xE1is llorado"
+      - hayan llorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera llorado
+      - hubieras llorado
+      - hubiera llorado
+      - "hubi\xE9ramos llorado"
+      - hubierais llorado
+      - hubieran llorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese llorado
+      - hubieses llorado
+      - hubiese llorado
+      - "hubi\xE9semos llorado"
+      - hubieseis llorado
+      - hubiesen llorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere llorado
+      - hubieres llorado
+      - hubiere llorado
+      - "hubi\xE9remos llorado"
+      - hubiereis llorado
+      - hubieren llorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - llora
+      - llore
+      - lloremos
+      - llorad
+      - lloren
+      cjid: impf

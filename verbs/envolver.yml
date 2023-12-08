@@ -1,0 +1,348 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wrap}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|envelop}, to {a_link|surround}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|entangle}, to {a_link|involve}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become involved'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to wrap oneself (up)'
+            sn: '2'
+    drp: envolverse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: envolver
+    prs:
+    - sound:
+        audio: envol02sp
+  meta:
+    id: envolver
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608825000'
+    src: spanish
+    stems:
+    - envolver
+    - envolverse
+    uuid: 64005161-fb58-4358-8123-1f3070db4670
+  shortdef:
+  - to wrap
+  - to envelop, to surround
+  - to entangle, to involve
+  suppl:
+    cjts:
+    - cjfs:
+      - envolviendo
+      - envuelto
+      cjid: gppt
+    - cjfs:
+      - envuelvo
+      - envuelves
+      - envuelve
+      - envolvemos
+      - "envolv\xE9is"
+      - envuelven
+      cjid: pind
+    - cjfs:
+      - "envolv\xEDa"
+      - "envolv\xEDas"
+      - "envolv\xEDa"
+      - "envolv\xEDamos"
+      - "envolv\xEDais"
+      - "envolv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "envolv\xED"
+      - envolviste
+      - "envolvi\xF3"
+      - envolvimos
+      - envolvisteis
+      - envolvieron
+      cjid: pprf
+    - cjfs:
+      - "envolver\xE9"
+      - "envolver\xE1s"
+      - "envolver\xE1"
+      - envolveremos
+      - "envolver\xE9is"
+      - "envolver\xE1n"
+      cjid: futr
+    - cjfs:
+      - "envolver\xEDa"
+      - "envolver\xEDas"
+      - "envolver\xEDa"
+      - "envolver\xEDamos"
+      - "envolver\xEDais"
+      - "envolver\xEDan"
+      cjid: cond
+    - cjfs:
+      - envuelva
+      - envuelvas
+      - envuelva
+      - envolvamos
+      - "envolv\xE1is"
+      - envuelvan
+      cjid: psub
+    - cjfs:
+      - envolviera
+      - envolvieras
+      - envolviera
+      - "envolvi\xE9ramos"
+      - envolvierais
+      - envolvieran
+      cjid: pisb1
+    - cjfs:
+      - envolviese
+      - envolvieses
+      - envolviese
+      - "envolvi\xE9semos"
+      - envolvieseis
+      - envolviesen
+      cjid: pisb2
+    - cjfs:
+      - envolviere
+      - envolvieres
+      - envolviere
+      - "envolvi\xE9remos"
+      - envolviereis
+      - envolvieren
+      cjid: fsub
+    - cjfs:
+      - he envuelto
+      - has envuelto
+      - ha envuelto
+      - hemos envuelto
+      - "hab\xE9is envuelto"
+      - han envuelto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa envuelto"
+      - "hab\xEDas envuelto"
+      - "hab\xEDa envuelto"
+      - "hab\xEDamos envuelto"
+      - "hab\xEDais envuelto"
+      - "hab\xEDan envuelto"
+      cjid: ppsi
+    - cjfs:
+      - hube envuelto
+      - hubiste envuelto
+      - hubo envuelto
+      - hubimos envuelto
+      - hubisteis envuelto
+      - hubieron envuelto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 envuelto"
+      - "habr\xE1s envuelto"
+      - "habr\xE1 envuelto"
+      - habremos envuelto
+      - "habr\xE9is envuelto"
+      - "habr\xE1n envuelto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa envuelto"
+      - "habr\xEDas envuelto"
+      - "habr\xEDa envuelto"
+      - "habr\xEDamos envuelto"
+      - "habr\xEDais envuelto"
+      - "habr\xEDan envuelto"
+      cjid: cpef
+    - cjfs:
+      - haya envuelto
+      - hayas envuelto
+      - haya envuelto
+      - hayamos envuelto
+      - "hay\xE1is envuelto"
+      - hayan envuelto
+      cjid: ppfs
+    - cjfs:
+      - hubiera envuelto
+      - hubieras envuelto
+      - hubiera envuelto
+      - "hubi\xE9ramos envuelto"
+      - hubierais envuelto
+      - hubieran envuelto
+      cjid: ppss1
+    - cjfs:
+      - hubiese envuelto
+      - hubieses envuelto
+      - hubiese envuelto
+      - "hubi\xE9semos envuelto"
+      - hubieseis envuelto
+      - hubiesen envuelto
+      cjid: ppss2
+    - cjfs:
+      - hubiere envuelto
+      - hubieres envuelto
+      - hubiere envuelto
+      - "hubi\xE9remos envuelto"
+      - hubiereis envuelto
+      - hubieren envuelto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - envuelve
+      - envuelva
+      - envolvamos
+      - envolved
+      - envuelvan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|paper}, piece of paper'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|role}, {a_link|part} '
+          - - vis
+            - - t: hizo el papel de Romeo
+                tr: he played the part of Romeo
+              - t: jugar un papel importante en algo
+                tr: to play an important role in something
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tinfoil}, aluminum foil'
+          sn: '3'
+          vrs:
+          - va: papel (de) aluminio
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|writing paper}'
+          sn: '4'
+          vrs:
+          - va: papel de carta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|wallpaper}'
+          sn: '5'
+          vrs:
+          - va: papel de empapelar
+          - va: papel pintado
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}wrapping paper'
+          sn: '6'
+          vrs:
+          - va: papel de envolver
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}cigarette paper'
+          sn: '7'
+          vrs:
+          - va: papel de fumar
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sandpaper}'
+          sn: '8'
+          vrs:
+          - va: papel de lija
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|newspaper}, {a_link|newsprint}'
+          sn: '9'
+          vrs:
+          - va: "papel de peri\xF3dico"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tissue paper}'
+          sn: '10'
+          vrs:
+          - va: papel de seda
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|plastic wrap}'
+          sn: '11'
+          vrs:
+          - va: papel film
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|toilet paper}, bathroom tissue'
+          sn: '12'
+          vrs:
+          - va: "papel higi\xE9nico"
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}{a_link|papier-m\xE2ch\xE9}"
+          sn: '13'
+          vrs:
+          - va: "papel mach\xE9"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}paper money'
+          sn: '14'
+          vrs:
+          - va: papel moneda
+  fl: masculine noun
+  hwi:
+    hw: papel
+    prs:
+    - sound:
+        audio: papel01sp
+  meta:
+    id: papel
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616605000'
+    src: spanish
+    stems:
+    - papel
+    - papel aluminio
+    - papel de aluminio
+    - papel de carta
+    - papel de empapelar
+    - papel pintado
+    - papel de envolver
+    - papel de fumar
+    - papel de lija
+    - "papel de peri\xF3dico"
+    - papel de seda
+    - papel film
+    - "papel higi\xE9nico"
+    - papel mache
+    - papel moneda
+    uuid: 34051304-e41e-4fdb-a1e1-73b32d4c5472
+  shortdef:
+  - paper, piece of paper
+  - role, part
+  - tinfoil, aluminum foil

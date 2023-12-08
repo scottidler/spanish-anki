@@ -1,0 +1,187 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|continue} '
+          - - vis
+            - - t: "continu\xF3 trabajando"
+                tr: she continued working, she continued to work
+              - t: continuar (con) algo
+                tr: to continue (with) something
+  fl: verb
+  hwi:
+    hw: continuar
+    prs:
+    - sound:
+        audio: conti07sp
+  meta:
+    id: continuar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605703000'
+    src: spanish
+    stems:
+    - continuar
+    uuid: de4f123e-0031-42f1-b7c2-2e7f3dda81a7
+  shortdef:
+  - to continue
+  suppl:
+    cjts:
+    - cjfs:
+      - continuando
+      - continuado
+      cjid: gppt
+    - cjfs:
+      - "contin\xFAo"
+      - "contin\xFAas"
+      - "contin\xFAa"
+      - continuamos
+      - "continu\xE1is"
+      - "contin\xFAan"
+      cjid: pind
+    - cjfs:
+      - continuaba
+      - continuabas
+      - continuaba
+      - "continu\xE1bamos"
+      - continuabais
+      - continuaban
+      cjid: pret
+    - cjfs:
+      - "continu\xE9"
+      - continuaste
+      - "continu\xF3"
+      - continuamos
+      - continuasteis
+      - continuaron
+      cjid: pprf
+    - cjfs:
+      - "continuar\xE9"
+      - "continuar\xE1s"
+      - "continuar\xE1"
+      - continuaremos
+      - "continuar\xE9is"
+      - "continuar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "continuar\xEDa"
+      - "continuar\xEDas"
+      - "continuar\xEDa"
+      - "continuar\xEDamos"
+      - "continuar\xEDais"
+      - "continuar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "contin\xFAe"
+      - "contin\xFAes"
+      - "contin\xFAe"
+      - continuemos
+      - "continu\xE9is"
+      - "contin\xFAen"
+      cjid: psub
+    - cjfs:
+      - continuara
+      - continuaras
+      - continuara
+      - "continu\xE1ramos"
+      - continuarais
+      - continuaran
+      cjid: pisb1
+    - cjfs:
+      - continuase
+      - continuases
+      - continuase
+      - "continu\xE1semos"
+      - continuaseis
+      - continuasen
+      cjid: pisb2
+    - cjfs:
+      - continuare
+      - continuares
+      - continuare
+      - "continu\xE1remos"
+      - continuareis
+      - continuaren
+      cjid: fsub
+    - cjfs:
+      - he continuado
+      - has continuado
+      - ha continuado
+      - hemos continuado
+      - "hab\xE9is continuado"
+      - han continuado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa continuado"
+      - "hab\xEDas continuado"
+      - "hab\xEDa continuado"
+      - "hab\xEDamos continuado"
+      - "hab\xEDais continuado"
+      - "hab\xEDan continuado"
+      cjid: ppsi
+    - cjfs:
+      - hube continuado
+      - hubiste continuado
+      - hubo continuado
+      - hubimos continuado
+      - hubisteis continuado
+      - hubieron continuado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 continuado"
+      - "habr\xE1s continuado"
+      - "habr\xE1 continuado"
+      - habremos continuado
+      - "habr\xE9is continuado"
+      - "habr\xE1n continuado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa continuado"
+      - "habr\xEDas continuado"
+      - "habr\xEDa continuado"
+      - "habr\xEDamos continuado"
+      - "habr\xEDais continuado"
+      - "habr\xEDan continuado"
+      cjid: cpef
+    - cjfs:
+      - haya continuado
+      - hayas continuado
+      - haya continuado
+      - hayamos continuado
+      - "hay\xE1is continuado"
+      - hayan continuado
+      cjid: ppfs
+    - cjfs:
+      - hubiera continuado
+      - hubieras continuado
+      - hubiera continuado
+      - "hubi\xE9ramos continuado"
+      - hubierais continuado
+      - hubieran continuado
+      cjid: ppss1
+    - cjfs:
+      - hubiese continuado
+      - hubieses continuado
+      - hubiese continuado
+      - "hubi\xE9semos continuado"
+      - hubieseis continuado
+      - hubiesen continuado
+      cjid: ppss2
+    - cjfs:
+      - hubiere continuado
+      - hubieres continuado
+      - hubiere continuado
+      - "hubi\xE9remos continuado"
+      - hubiereis continuado
+      - hubieren continuado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "contin\xFAa"
+      - "contin\xFAe"
+      - continuemos
+      - continuad
+      - "contin\xFAen"
+      cjid: impf

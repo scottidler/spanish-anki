@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disobey}'
+  fl: verb
+  hwi:
+    hw: desobedecer
+    prs:
+    - sound:
+        audio: desob01sp
+  meta:
+    id: desobedecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607216000'
+    src: spanish
+    stems:
+    - desobedecer
+    uuid: 83ee6419-6a7f-4c63-a15e-e62673511169
+  shortdef:
+  - to disobey
+  suppl:
+    cjts:
+    - cjfs:
+      - desobedeciendo
+      - desobedecido
+      cjid: gppt
+    - cjfs:
+      - desobedezco
+      - desobedeces
+      - desobedece
+      - desobedecemos
+      - "desobedec\xE9is"
+      - desobedecen
+      cjid: pind
+    - cjfs:
+      - "desobedec\xEDa"
+      - "desobedec\xEDas"
+      - "desobedec\xEDa"
+      - "desobedec\xEDamos"
+      - "desobedec\xEDais"
+      - "desobedec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "desobedec\xED"
+      - desobedeciste
+      - "desobedeci\xF3"
+      - desobedecimos
+      - desobedecisteis
+      - desobedecieron
+      cjid: pprf
+    - cjfs:
+      - "desobedecer\xE9"
+      - "desobedecer\xE1s"
+      - "desobedecer\xE1"
+      - desobedeceremos
+      - "desobedecer\xE9is"
+      - "desobedecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desobedecer\xEDa"
+      - "desobedecer\xEDas"
+      - "desobedecer\xEDa"
+      - "desobedecer\xEDamos"
+      - "desobedecer\xEDais"
+      - "desobedecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - desobedezca
+      - desobedezcas
+      - desobedezca
+      - desobedezcamos
+      - "desobedezc\xE1is"
+      - desobedezcan
+      cjid: psub
+    - cjfs:
+      - desobedeciera
+      - desobedecieras
+      - desobedeciera
+      - "desobedeci\xE9ramos"
+      - desobedecierais
+      - desobedecieran
+      cjid: pisb1
+    - cjfs:
+      - desobedeciese
+      - desobedecieses
+      - desobedeciese
+      - "desobedeci\xE9semos"
+      - desobedecieseis
+      - desobedeciesen
+      cjid: pisb2
+    - cjfs:
+      - desobedeciere
+      - desobedecieres
+      - desobedeciere
+      - "desobedeci\xE9remos"
+      - desobedeciereis
+      - desobedecieren
+      cjid: fsub
+    - cjfs:
+      - he desobedecido
+      - has desobedecido
+      - ha desobedecido
+      - hemos desobedecido
+      - "hab\xE9is desobedecido"
+      - han desobedecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desobedecido"
+      - "hab\xEDas desobedecido"
+      - "hab\xEDa desobedecido"
+      - "hab\xEDamos desobedecido"
+      - "hab\xEDais desobedecido"
+      - "hab\xEDan desobedecido"
+      cjid: ppsi
+    - cjfs:
+      - hube desobedecido
+      - hubiste desobedecido
+      - hubo desobedecido
+      - hubimos desobedecido
+      - hubisteis desobedecido
+      - hubieron desobedecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desobedecido"
+      - "habr\xE1s desobedecido"
+      - "habr\xE1 desobedecido"
+      - habremos desobedecido
+      - "habr\xE9is desobedecido"
+      - "habr\xE1n desobedecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desobedecido"
+      - "habr\xEDas desobedecido"
+      - "habr\xEDa desobedecido"
+      - "habr\xEDamos desobedecido"
+      - "habr\xEDais desobedecido"
+      - "habr\xEDan desobedecido"
+      cjid: cpef
+    - cjfs:
+      - haya desobedecido
+      - hayas desobedecido
+      - haya desobedecido
+      - hayamos desobedecido
+      - "hay\xE1is desobedecido"
+      - hayan desobedecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera desobedecido
+      - hubieras desobedecido
+      - hubiera desobedecido
+      - "hubi\xE9ramos desobedecido"
+      - hubierais desobedecido
+      - hubieran desobedecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese desobedecido
+      - hubieses desobedecido
+      - hubiese desobedecido
+      - "hubi\xE9semos desobedecido"
+      - hubieseis desobedecido
+      - hubiesen desobedecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere desobedecido
+      - hubieres desobedecido
+      - hubiere desobedecido
+      - "hubi\xE9remos desobedecido"
+      - hubiereis desobedecido
+      - hubieren desobedecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desobedece
+      - desobedezca
+      - desobedezcamos
+      - desobedeced
+      - desobedezcan
+      cjid: impf

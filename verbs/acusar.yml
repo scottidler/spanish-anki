@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|accuse}, to {a_link|charge}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reveal}, to {a_link|betray} '
+          - - vis
+            - - t: sus ojos acusaban la desconfianza
+                tr: his eyes revealed distrust
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|confess}'
+    drp: acusarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: acusar
+    prs:
+    - sound:
+        audio: acusa02sp
+  meta:
+    id: acusar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600416000'
+    src: spanish
+    stems:
+    - acusar
+    - acusarse
+    uuid: 6a880d04-ef6e-4541-8afa-6429d9b9efc8
+  shortdef:
+  - to accuse, to charge
+  - to reveal, to betray
+  suppl:
+    cjts:
+    - cjfs:
+      - acusando
+      - acusado
+      cjid: gppt
+    - cjfs:
+      - acuso
+      - acusas
+      - acusa
+      - acusamos
+      - "acus\xE1is"
+      - acusan
+      cjid: pind
+    - cjfs:
+      - acusaba
+      - acusabas
+      - acusaba
+      - "acus\xE1bamos"
+      - acusabais
+      - acusaban
+      cjid: pret
+    - cjfs:
+      - "acus\xE9"
+      - acusaste
+      - "acus\xF3"
+      - acusamos
+      - acusasteis
+      - acusaron
+      cjid: pprf
+    - cjfs:
+      - "acusar\xE9"
+      - "acusar\xE1s"
+      - "acusar\xE1"
+      - acusaremos
+      - "acusar\xE9is"
+      - "acusar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acusar\xEDa"
+      - "acusar\xEDas"
+      - "acusar\xEDa"
+      - "acusar\xEDamos"
+      - "acusar\xEDais"
+      - "acusar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acuse
+      - acuses
+      - acuse
+      - acusemos
+      - "acus\xE9is"
+      - acusen
+      cjid: psub
+    - cjfs:
+      - acusara
+      - acusaras
+      - acusara
+      - "acus\xE1ramos"
+      - acusarais
+      - acusaran
+      cjid: pisb1
+    - cjfs:
+      - acusase
+      - acusases
+      - acusase
+      - "acus\xE1semos"
+      - acusaseis
+      - acusasen
+      cjid: pisb2
+    - cjfs:
+      - acusare
+      - acusares
+      - acusare
+      - "acus\xE1remos"
+      - acusareis
+      - acusaren
+      cjid: fsub
+    - cjfs:
+      - he acusado
+      - has acusado
+      - ha acusado
+      - hemos acusado
+      - "hab\xE9is acusado"
+      - han acusado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acusado"
+      - "hab\xEDas acusado"
+      - "hab\xEDa acusado"
+      - "hab\xEDamos acusado"
+      - "hab\xEDais acusado"
+      - "hab\xEDan acusado"
+      cjid: ppsi
+    - cjfs:
+      - hube acusado
+      - hubiste acusado
+      - hubo acusado
+      - hubimos acusado
+      - hubisteis acusado
+      - hubieron acusado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acusado"
+      - "habr\xE1s acusado"
+      - "habr\xE1 acusado"
+      - habremos acusado
+      - "habr\xE9is acusado"
+      - "habr\xE1n acusado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acusado"
+      - "habr\xEDas acusado"
+      - "habr\xEDa acusado"
+      - "habr\xEDamos acusado"
+      - "habr\xEDais acusado"
+      - "habr\xEDan acusado"
+      cjid: cpef
+    - cjfs:
+      - haya acusado
+      - hayas acusado
+      - haya acusado
+      - hayamos acusado
+      - "hay\xE1is acusado"
+      - hayan acusado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acusado
+      - hubieras acusado
+      - hubiera acusado
+      - "hubi\xE9ramos acusado"
+      - hubierais acusado
+      - hubieran acusado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acusado
+      - hubieses acusado
+      - hubiese acusado
+      - "hubi\xE9semos acusado"
+      - hubieseis acusado
+      - hubiesen acusado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acusado
+      - hubieres acusado
+      - hubiere acusado
+      - "hubi\xE9remos acusado"
+      - hubiereis acusado
+      - hubieren acusado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acusa
+      - acuse
+      - acusemos
+      - acusad
+      - acusen
+      cjid: impf

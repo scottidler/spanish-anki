@@ -1,0 +1,233 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rain} '
+          - - vis
+            - - t: "est\xE1 lloviendo"
+                tr: it's raining
+              - t: "llover a c\xE1ntaros"
+                tr: to rain cats and dogs
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rain down}, to {a_link|shower} '
+          - - vis
+            - - t: le llovieron regalos
+                tr: he was showered with gifts
+    vd: intransitive verb
+  fl: impersonal verb
+  hwi:
+    hw: llover
+    prs:
+    - sound:
+        audio: llove01sp
+  meta:
+    id: llover
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613946000'
+    src: spanish
+    stems:
+    - llover
+    uuid: c47bb2d8-be93-449a-92fd-18ede123cd8b
+  shortdef:
+  - to rain
+  - to rain down, to shower
+  suppl:
+    cjts:
+    - cjfs:
+      - lloviendo
+      - llovido
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - llueve
+      - '-'
+      - '-'
+      - '-'
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - "llov\xEDa"
+      - '-'
+      - '-'
+      - '-'
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "llovi\xF3"
+      - '-'
+      - '-'
+      - '-'
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "llover\xE1"
+      - '-'
+      - '-'
+      - '-'
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "llover\xEDa"
+      - '-'
+      - '-'
+      - '-'
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - llueva
+      - '-'
+      - '-'
+      - '-'
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - lloviera
+      - '-'
+      - '-'
+      - '-'
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - lloviese
+      - '-'
+      - '-'
+      - '-'
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - lloviere
+      - '-'
+      - '-'
+      - '-'
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha llovido
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa llovido"
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo llovido
+      - '-'
+      - '-'
+      - '-'
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 llovido"
+      - '-'
+      - '-'
+      - '-'
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa llovido"
+      - '-'
+      - '-'
+      - '-'
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya llovido
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera llovido
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese llovido
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere llovido
+      - '-'
+      - '-'
+      - '-'
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pitcher}, {a_link|jug}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to rain cats and dogs'
+          sls:
+          - familiar
+          sn: '2'
+          vrs:
+          - va: "llover a c\xE1ntaros"
+  fl: masculine noun
+  hwi:
+    hw: "c\xE1ntaro"
+    prs:
+    - sound:
+        audio: canta03sp
+  meta:
+    id: cantaro
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603859000'
+    src: spanish
+    stems:
+    - "c\xE1ntaro"
+    - "llover a c\xE1ntaros"
+    uuid: e7c6cee5-66c3-471d-afc3-5d554a294693
+  shortdef:
+  - pitcher, jug
+  - to rain cats and dogs

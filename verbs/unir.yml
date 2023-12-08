@@ -1,0 +1,220 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|juntar||} {bc}to {a_link|unite}, to {a_link|join}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conectar||} {bc}to {a_link|link}, to {a_link|connect}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|combinar||} {bc}to {a_link|combine}, to {a_link|blend}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to join together'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|combine}, to mix together'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|join} (a group, etc.)'
+            sn: '3'
+            vrs:
+            - va: unirse a
+              vac: ~ a
+    drp: unirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: unir
+    prs:
+    - sound:
+        audio: unir001sp
+  meta:
+    id: unir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622550000'
+    src: spanish
+    stems:
+    - unir
+    - unirse
+    - unirse a
+    uuid: 69b866f8-0f8a-445c-b30f-1e6c435f6969
+  shortdef:
+  - 'juntar : to unite, to join'
+  - 'conectar : to link, to connect'
+  - 'combinar : to combine, to blend'
+  suppl:
+    cjts:
+    - cjfs:
+      - uniendo
+      - unido
+      cjid: gppt
+    - cjfs:
+      - uno
+      - unes
+      - une
+      - unimos
+      - "un\xEDs"
+      - unen
+      cjid: pind
+    - cjfs:
+      - "un\xEDa"
+      - "un\xEDas"
+      - "un\xEDa"
+      - "un\xEDamos"
+      - "un\xEDais"
+      - "un\xEDan"
+      cjid: pret
+    - cjfs:
+      - "un\xED"
+      - uniste
+      - "uni\xF3"
+      - unimos
+      - unisteis
+      - unieron
+      cjid: pprf
+    - cjfs:
+      - "unir\xE9"
+      - "unir\xE1s"
+      - "unir\xE1"
+      - uniremos
+      - "unir\xE9is"
+      - "unir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "unir\xEDa"
+      - "unir\xEDas"
+      - "unir\xEDa"
+      - "unir\xEDamos"
+      - "unir\xEDais"
+      - "unir\xEDan"
+      cjid: cond
+    - cjfs:
+      - una
+      - unas
+      - una
+      - unamos
+      - "un\xE1is"
+      - unan
+      cjid: psub
+    - cjfs:
+      - uniera
+      - unieras
+      - uniera
+      - "uni\xE9ramos"
+      - unierais
+      - unieran
+      cjid: pisb1
+    - cjfs:
+      - uniese
+      - unieses
+      - uniese
+      - "uni\xE9semos"
+      - unieseis
+      - uniesen
+      cjid: pisb2
+    - cjfs:
+      - uniere
+      - unieres
+      - uniere
+      - "uni\xE9remos"
+      - uniereis
+      - unieren
+      cjid: fsub
+    - cjfs:
+      - he unido
+      - has unido
+      - ha unido
+      - hemos unido
+      - "hab\xE9is unido"
+      - han unido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa unido"
+      - "hab\xEDas unido"
+      - "hab\xEDa unido"
+      - "hab\xEDamos unido"
+      - "hab\xEDais unido"
+      - "hab\xEDan unido"
+      cjid: ppsi
+    - cjfs:
+      - hube unido
+      - hubiste unido
+      - hubo unido
+      - hubimos unido
+      - hubisteis unido
+      - hubieron unido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 unido"
+      - "habr\xE1s unido"
+      - "habr\xE1 unido"
+      - habremos unido
+      - "habr\xE9is unido"
+      - "habr\xE1n unido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa unido"
+      - "habr\xEDas unido"
+      - "habr\xEDa unido"
+      - "habr\xEDamos unido"
+      - "habr\xEDais unido"
+      - "habr\xEDan unido"
+      cjid: cpef
+    - cjfs:
+      - haya unido
+      - hayas unido
+      - haya unido
+      - hayamos unido
+      - "hay\xE1is unido"
+      - hayan unido
+      cjid: ppfs
+    - cjfs:
+      - hubiera unido
+      - hubieras unido
+      - hubiera unido
+      - "hubi\xE9ramos unido"
+      - hubierais unido
+      - hubieran unido
+      cjid: ppss1
+    - cjfs:
+      - hubiese unido
+      - hubieses unido
+      - hubiese unido
+      - "hubi\xE9semos unido"
+      - hubieseis unido
+      - hubiesen unido
+      cjid: ppss2
+    - cjfs:
+      - hubiere unido
+      - hubieres unido
+      - hubiere unido
+      - "hubi\xE9remos unido"
+      - hubiereis unido
+      - hubieren unido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - une
+      - una
+      - unamos
+      - unid
+      - unan
+      cjid: impf

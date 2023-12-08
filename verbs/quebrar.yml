@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|romper||} {bc}to {a_link|break}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|doblar||} {bc}to {a_link|bend}, to {a_link|twist}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go bankrupt'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall out}, to {a_link|break up}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: quebrar
+    prs:
+    - sound:
+        audio: quebr04sp
+  meta:
+    id: quebrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618574000'
+    src: spanish
+    stems:
+    - quebrar
+    - quebrarse
+    uuid: 49448920-13ba-4eaf-94fc-6f9245f420e3
+  shortdef:
+  - 'romper : to break'
+  - 'doblar : to bend, to twist'
+  - to go bankrupt
+  suppl:
+    cjts:
+    - cjfs:
+      - quebrando
+      - quebrado
+      cjid: gppt
+    - cjfs:
+      - quiebro
+      - quiebras
+      - quiebra
+      - quebramos
+      - "quebr\xE1is"
+      - quiebran
+      cjid: pind
+    - cjfs:
+      - quebraba
+      - quebrabas
+      - quebraba
+      - "quebr\xE1bamos"
+      - quebrabais
+      - quebraban
+      cjid: pret
+    - cjfs:
+      - "quebr\xE9"
+      - quebraste
+      - "quebr\xF3"
+      - quebramos
+      - quebrasteis
+      - quebraron
+      cjid: pprf
+    - cjfs:
+      - "quebrar\xE9"
+      - "quebrar\xE1s"
+      - "quebrar\xE1"
+      - quebraremos
+      - "quebrar\xE9is"
+      - "quebrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "quebrar\xEDa"
+      - "quebrar\xEDas"
+      - "quebrar\xEDa"
+      - "quebrar\xEDamos"
+      - "quebrar\xEDais"
+      - "quebrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - quiebre
+      - quiebres
+      - quiebre
+      - quebremos
+      - "quebr\xE9is"
+      - quiebren
+      cjid: psub
+    - cjfs:
+      - quebrara
+      - quebraras
+      - quebrara
+      - "quebr\xE1ramos"
+      - quebrarais
+      - quebraran
+      cjid: pisb1
+    - cjfs:
+      - quebrase
+      - quebrases
+      - quebrase
+      - "quebr\xE1semos"
+      - quebraseis
+      - quebrasen
+      cjid: pisb2
+    - cjfs:
+      - quebrare
+      - quebrares
+      - quebrare
+      - "quebr\xE1remos"
+      - quebrareis
+      - quebraren
+      cjid: fsub
+    - cjfs:
+      - he quebrado
+      - has quebrado
+      - ha quebrado
+      - hemos quebrado
+      - "hab\xE9is quebrado"
+      - han quebrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa quebrado"
+      - "hab\xEDas quebrado"
+      - "hab\xEDa quebrado"
+      - "hab\xEDamos quebrado"
+      - "hab\xEDais quebrado"
+      - "hab\xEDan quebrado"
+      cjid: ppsi
+    - cjfs:
+      - hube quebrado
+      - hubiste quebrado
+      - hubo quebrado
+      - hubimos quebrado
+      - hubisteis quebrado
+      - hubieron quebrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 quebrado"
+      - "habr\xE1s quebrado"
+      - "habr\xE1 quebrado"
+      - habremos quebrado
+      - "habr\xE9is quebrado"
+      - "habr\xE1n quebrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa quebrado"
+      - "habr\xEDas quebrado"
+      - "habr\xEDa quebrado"
+      - "habr\xEDamos quebrado"
+      - "habr\xEDais quebrado"
+      - "habr\xEDan quebrado"
+      cjid: cpef
+    - cjfs:
+      - haya quebrado
+      - hayas quebrado
+      - haya quebrado
+      - hayamos quebrado
+      - "hay\xE1is quebrado"
+      - hayan quebrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera quebrado
+      - hubieras quebrado
+      - hubiera quebrado
+      - "hubi\xE9ramos quebrado"
+      - hubierais quebrado
+      - hubieran quebrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese quebrado
+      - hubieses quebrado
+      - hubiese quebrado
+      - "hubi\xE9semos quebrado"
+      - hubieseis quebrado
+      - hubiesen quebrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere quebrado
+      - hubieres quebrado
+      - hubiere quebrado
+      - "hubi\xE9remos quebrado"
+      - hubiereis quebrado
+      - hubieren quebrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - quiebra
+      - quiebre
+      - quebremos
+      - quebrad
+      - quiebren
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: quebrarse

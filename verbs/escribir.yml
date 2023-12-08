@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|write} '
+          - - vis
+            - - t: escribir una novela/palabra
+                tr: to write a novel/word
+              - t: "escribir a l\xE1piz"
+                tr: to write in pencil
+              - t: escribir a mano
+                tr: to write by hand
+              - t: "escribir a m\xE1quina"
+                tr: to type
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spell} '
+          - - vis
+            - - t: "\xBFc\xF3mo se escribe?"
+                tr: how do you spell it?
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|cartearse||} {bc}to write to one another, to {a_link|correspond}'
+    drp: escribirse
+    fl: reflexive verb
+  fl: verb
+  hwi:
+    hw: escribir
+    prs:
+    - sound:
+        audio: escri03sp
+  meta:
+    id: escribir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609042000'
+    src: spanish
+    stems:
+    - escribir
+    - escribirse
+    uuid: aae50ff0-65ac-4c2b-81bd-41ca0674adee
+  shortdef:
+  - to write
+  - to spell
+  suppl:
+    cjts:
+    - cjfs:
+      - escribiendo
+      - escrito
+      cjid: gppt
+    - cjfs:
+      - escribo
+      - escribes
+      - escribe
+      - escribimos
+      - "escrib\xEDs"
+      - escriben
+      cjid: pind
+    - cjfs:
+      - "escrib\xEDa"
+      - "escrib\xEDas"
+      - "escrib\xEDa"
+      - "escrib\xEDamos"
+      - "escrib\xEDais"
+      - "escrib\xEDan"
+      cjid: pret
+    - cjfs:
+      - "escrib\xED"
+      - escribiste
+      - "escribi\xF3"
+      - escribimos
+      - escribisteis
+      - escribieron
+      cjid: pprf
+    - cjfs:
+      - "escribir\xE9"
+      - "escribir\xE1s"
+      - "escribir\xE1"
+      - escribiremos
+      - "escribir\xE9is"
+      - "escribir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escribir\xEDa"
+      - "escribir\xEDas"
+      - "escribir\xEDa"
+      - "escribir\xEDamos"
+      - "escribir\xEDais"
+      - "escribir\xEDan"
+      cjid: cond
+    - cjfs:
+      - escriba
+      - escribas
+      - escriba
+      - escribamos
+      - "escrib\xE1is"
+      - escriban
+      cjid: psub
+    - cjfs:
+      - escribiera
+      - escribieras
+      - escribiera
+      - "escribi\xE9ramos"
+      - escribierais
+      - escribieran
+      cjid: pisb1
+    - cjfs:
+      - escribiese
+      - escribieses
+      - escribiese
+      - "escribi\xE9semos"
+      - escribieseis
+      - escribiesen
+      cjid: pisb2
+    - cjfs:
+      - escribiere
+      - escribieres
+      - escribiere
+      - "escribi\xE9remos"
+      - escribiereis
+      - escribieren
+      cjid: fsub
+    - cjfs:
+      - he escrito
+      - has escrito
+      - ha escrito
+      - hemos escrito
+      - "hab\xE9is escrito"
+      - han escrito
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escrito"
+      - "hab\xEDas escrito"
+      - "hab\xEDa escrito"
+      - "hab\xEDamos escrito"
+      - "hab\xEDais escrito"
+      - "hab\xEDan escrito"
+      cjid: ppsi
+    - cjfs:
+      - hube escrito
+      - hubiste escrito
+      - hubo escrito
+      - hubimos escrito
+      - hubisteis escrito
+      - hubieron escrito
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escrito"
+      - "habr\xE1s escrito"
+      - "habr\xE1 escrito"
+      - habremos escrito
+      - "habr\xE9is escrito"
+      - "habr\xE1n escrito"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escrito"
+      - "habr\xEDas escrito"
+      - "habr\xEDa escrito"
+      - "habr\xEDamos escrito"
+      - "habr\xEDais escrito"
+      - "habr\xEDan escrito"
+      cjid: cpef
+    - cjfs:
+      - haya escrito
+      - hayas escrito
+      - haya escrito
+      - hayamos escrito
+      - "hay\xE1is escrito"
+      - hayan escrito
+      cjid: ppfs
+    - cjfs:
+      - hubiera escrito
+      - hubieras escrito
+      - hubiera escrito
+      - "hubi\xE9ramos escrito"
+      - hubierais escrito
+      - hubieran escrito
+      cjid: ppss1
+    - cjfs:
+      - hubiese escrito
+      - hubieses escrito
+      - hubiese escrito
+      - "hubi\xE9semos escrito"
+      - hubieseis escrito
+      - hubiesen escrito
+      cjid: ppss2
+    - cjfs:
+      - hubiere escrito
+      - hubieres escrito
+      - hubiere escrito
+      - "hubi\xE9remos escrito"
+      - hubiereis escrito
+      - hubieren escrito
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escribe
+      - escriba
+      - escribamos
+      - escribid
+      - escriban
+      cjid: impf

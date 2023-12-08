@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sink}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|destroy}, to {a_link|ruin}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to sink down'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|cave in}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|break down}, to go to pieces'
+            sn: '3'
+    drp: hundirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: hundir
+    prs:
+    - sound:
+        audio: hundi01sp
+  meta:
+    id: hundir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611764000'
+    src: spanish
+    stems:
+    - hundir
+    - hundirse
+    uuid: 8fd877e9-b9ed-4e0b-ae4b-9a71c672277d
+  shortdef:
+  - to sink
+  - to destroy, to ruin
+  suppl:
+    cjts:
+    - cjfs:
+      - hundiendo
+      - hundido
+      cjid: gppt
+    - cjfs:
+      - hundo
+      - hundes
+      - hunde
+      - hundimos
+      - "hund\xEDs"
+      - hunden
+      cjid: pind
+    - cjfs:
+      - "hund\xEDa"
+      - "hund\xEDas"
+      - "hund\xEDa"
+      - "hund\xEDamos"
+      - "hund\xEDais"
+      - "hund\xEDan"
+      cjid: pret
+    - cjfs:
+      - "hund\xED"
+      - hundiste
+      - "hundi\xF3"
+      - hundimos
+      - hundisteis
+      - hundieron
+      cjid: pprf
+    - cjfs:
+      - "hundir\xE9"
+      - "hundir\xE1s"
+      - "hundir\xE1"
+      - hundiremos
+      - "hundir\xE9is"
+      - "hundir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "hundir\xEDa"
+      - "hundir\xEDas"
+      - "hundir\xEDa"
+      - "hundir\xEDamos"
+      - "hundir\xEDais"
+      - "hundir\xEDan"
+      cjid: cond
+    - cjfs:
+      - hunda
+      - hundas
+      - hunda
+      - hundamos
+      - "hund\xE1is"
+      - hundan
+      cjid: psub
+    - cjfs:
+      - hundiera
+      - hundieras
+      - hundiera
+      - "hundi\xE9ramos"
+      - hundierais
+      - hundieran
+      cjid: pisb1
+    - cjfs:
+      - hundiese
+      - hundieses
+      - hundiese
+      - "hundi\xE9semos"
+      - hundieseis
+      - hundiesen
+      cjid: pisb2
+    - cjfs:
+      - hundiere
+      - hundieres
+      - hundiere
+      - "hundi\xE9remos"
+      - hundiereis
+      - hundieren
+      cjid: fsub
+    - cjfs:
+      - he hundido
+      - has hundido
+      - ha hundido
+      - hemos hundido
+      - "hab\xE9is hundido"
+      - han hundido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa hundido"
+      - "hab\xEDas hundido"
+      - "hab\xEDa hundido"
+      - "hab\xEDamos hundido"
+      - "hab\xEDais hundido"
+      - "hab\xEDan hundido"
+      cjid: ppsi
+    - cjfs:
+      - hube hundido
+      - hubiste hundido
+      - hubo hundido
+      - hubimos hundido
+      - hubisteis hundido
+      - hubieron hundido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 hundido"
+      - "habr\xE1s hundido"
+      - "habr\xE1 hundido"
+      - habremos hundido
+      - "habr\xE9is hundido"
+      - "habr\xE1n hundido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa hundido"
+      - "habr\xEDas hundido"
+      - "habr\xEDa hundido"
+      - "habr\xEDamos hundido"
+      - "habr\xEDais hundido"
+      - "habr\xEDan hundido"
+      cjid: cpef
+    - cjfs:
+      - haya hundido
+      - hayas hundido
+      - haya hundido
+      - hayamos hundido
+      - "hay\xE1is hundido"
+      - hayan hundido
+      cjid: ppfs
+    - cjfs:
+      - hubiera hundido
+      - hubieras hundido
+      - hubiera hundido
+      - "hubi\xE9ramos hundido"
+      - hubierais hundido
+      - hubieran hundido
+      cjid: ppss1
+    - cjfs:
+      - hubiese hundido
+      - hubieses hundido
+      - hubiese hundido
+      - "hubi\xE9semos hundido"
+      - hubieseis hundido
+      - hubiesen hundido
+      cjid: ppss2
+    - cjfs:
+      - hubiere hundido
+      - hubieres hundido
+      - hubiere hundido
+      - "hubi\xE9remos hundido"
+      - hubiereis hundido
+      - hubieren hundido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - hunde
+      - hunda
+      - hundamos
+      - hundid
+      - hundan
+      cjid: impf

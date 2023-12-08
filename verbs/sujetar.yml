@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold on to}, to {a_link|steady}, to {a_link|hold down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fijar||} {bc}to {a_link|fasten}, to {a_link|attach}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|dominar||} {bc}to {a_link|subdue}, to {a_link|conquer}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|hold on}, to {a_link|hang on}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|abide by}'
+            sn: '2'
+            vrs:
+            - va: sujetarse a
+              vac: ~ a
+    drp: sujetarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sujetar
+    prs:
+    - sound:
+        audio: sujet01sp
+  meta:
+    id: sujetar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621192000'
+    src: spanish
+    stems:
+    - sujetar
+    - sujetarse
+    - sujetarse a
+    uuid: 820db87e-9b3c-493e-a875-070824905c54
+  shortdef:
+  - to hold on to, to steady, to hold down
+  - 'fijar : to fasten, to attach'
+  - 'dominar : to subdue, to conquer'
+  suppl:
+    cjts:
+    - cjfs:
+      - sujetando
+      - sujetado
+      cjid: gppt
+    - cjfs:
+      - sujeto
+      - sujetas
+      - sujeta
+      - sujetamos
+      - "sujet\xE1is"
+      - sujetan
+      cjid: pind
+    - cjfs:
+      - sujetaba
+      - sujetabas
+      - sujetaba
+      - "sujet\xE1bamos"
+      - sujetabais
+      - sujetaban
+      cjid: pret
+    - cjfs:
+      - "sujet\xE9"
+      - sujetaste
+      - "sujet\xF3"
+      - sujetamos
+      - sujetasteis
+      - sujetaron
+      cjid: pprf
+    - cjfs:
+      - "sujetar\xE9"
+      - "sujetar\xE1s"
+      - "sujetar\xE1"
+      - sujetaremos
+      - "sujetar\xE9is"
+      - "sujetar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sujetar\xEDa"
+      - "sujetar\xEDas"
+      - "sujetar\xEDa"
+      - "sujetar\xEDamos"
+      - "sujetar\xEDais"
+      - "sujetar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sujete
+      - sujetes
+      - sujete
+      - sujetemos
+      - "sujet\xE9is"
+      - sujeten
+      cjid: psub
+    - cjfs:
+      - sujetara
+      - sujetaras
+      - sujetara
+      - "sujet\xE1ramos"
+      - sujetarais
+      - sujetaran
+      cjid: pisb1
+    - cjfs:
+      - sujetase
+      - sujetases
+      - sujetase
+      - "sujet\xE1semos"
+      - sujetaseis
+      - sujetasen
+      cjid: pisb2
+    - cjfs:
+      - sujetare
+      - sujetares
+      - sujetare
+      - "sujet\xE1remos"
+      - sujetareis
+      - sujetaren
+      cjid: fsub
+    - cjfs:
+      - he sujetado
+      - has sujetado
+      - ha sujetado
+      - hemos sujetado
+      - "hab\xE9is sujetado"
+      - han sujetado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sujetado"
+      - "hab\xEDas sujetado"
+      - "hab\xEDa sujetado"
+      - "hab\xEDamos sujetado"
+      - "hab\xEDais sujetado"
+      - "hab\xEDan sujetado"
+      cjid: ppsi
+    - cjfs:
+      - hube sujetado
+      - hubiste sujetado
+      - hubo sujetado
+      - hubimos sujetado
+      - hubisteis sujetado
+      - hubieron sujetado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sujetado"
+      - "habr\xE1s sujetado"
+      - "habr\xE1 sujetado"
+      - habremos sujetado
+      - "habr\xE9is sujetado"
+      - "habr\xE1n sujetado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sujetado"
+      - "habr\xEDas sujetado"
+      - "habr\xEDa sujetado"
+      - "habr\xEDamos sujetado"
+      - "habr\xEDais sujetado"
+      - "habr\xEDan sujetado"
+      cjid: cpef
+    - cjfs:
+      - haya sujetado
+      - hayas sujetado
+      - haya sujetado
+      - hayamos sujetado
+      - "hay\xE1is sujetado"
+      - hayan sujetado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sujetado
+      - hubieras sujetado
+      - hubiera sujetado
+      - "hubi\xE9ramos sujetado"
+      - hubierais sujetado
+      - hubieran sujetado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sujetado
+      - hubieses sujetado
+      - hubiese sujetado
+      - "hubi\xE9semos sujetado"
+      - hubieseis sujetado
+      - hubiesen sujetado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sujetado
+      - hubieres sujetado
+      - hubiere sujetado
+      - "hubi\xE9remos sujetado"
+      - hubiereis sujetado
+      - hubieren sujetado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sujeta
+      - sujete
+      - sujetemos
+      - sujetad
+      - sujeten
+      cjid: impf

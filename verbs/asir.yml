@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|seize}, to {a_link|grasp}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to cling to'
+            vrs:
+            - va: asirse a
+              vac: ~ a
+    drp: asirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: asir
+  meta:
+    id: asir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602177000'
+    src: spanish
+    stems:
+    - asir
+    - asirse
+    - asirse a
+    uuid: fd9b042f-a137-495f-989f-71756bbe88c7
+  shortdef:
+  - to seize, to grasp
+  suppl:
+    cjts:
+    - cjfs:
+      - asiendo
+      - asido
+      cjid: gppt
+    - cjfs:
+      - asgo
+      - ases
+      - ase
+      - asimos
+      - "as\xEDs"
+      - asen
+      cjid: pind
+    - cjfs:
+      - "as\xEDa"
+      - "as\xEDas"
+      - "as\xEDa"
+      - "as\xEDamos"
+      - "as\xEDais"
+      - "as\xEDan"
+      cjid: pret
+    - cjfs:
+      - "as\xED"
+      - asiste
+      - "asi\xF3"
+      - asimos
+      - asisteis
+      - asieron
+      cjid: pprf
+    - cjfs:
+      - "asir\xE9"
+      - "asir\xE1s"
+      - "asir\xE1"
+      - asiremos
+      - "asir\xE9is"
+      - "asir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asir\xEDa"
+      - "asir\xEDas"
+      - "asir\xEDa"
+      - "asir\xEDamos"
+      - "asir\xEDais"
+      - "asir\xEDan"
+      cjid: cond
+    - cjfs:
+      - asga
+      - asgas
+      - asga
+      - asgamos
+      - "asg\xE1is"
+      - asgan
+      cjid: psub
+    - cjfs:
+      - asiera
+      - asieras
+      - asiera
+      - "asi\xE9ramos"
+      - asierais
+      - asieran
+      cjid: pisb1
+    - cjfs:
+      - asiese
+      - asieses
+      - asiese
+      - "asi\xE9semos"
+      - asieseis
+      - asiesen
+      cjid: pisb2
+    - cjfs:
+      - asiere
+      - asieres
+      - asiere
+      - "asi\xE9remos"
+      - asiereis
+      - asieren
+      cjid: fsub
+    - cjfs:
+      - he asido
+      - has asido
+      - ha asido
+      - hemos asido
+      - "hab\xE9is asido"
+      - han asido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asido"
+      - "hab\xEDas asido"
+      - "hab\xEDa asido"
+      - "hab\xEDamos asido"
+      - "hab\xEDais asido"
+      - "hab\xEDan asido"
+      cjid: ppsi
+    - cjfs:
+      - hube asido
+      - hubiste asido
+      - hubo asido
+      - hubimos asido
+      - hubisteis asido
+      - hubieron asido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asido"
+      - "habr\xE1s asido"
+      - "habr\xE1 asido"
+      - habremos asido
+      - "habr\xE9is asido"
+      - "habr\xE1n asido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asido"
+      - "habr\xEDas asido"
+      - "habr\xEDa asido"
+      - "habr\xEDamos asido"
+      - "habr\xEDais asido"
+      - "habr\xEDan asido"
+      cjid: cpef
+    - cjfs:
+      - haya asido
+      - hayas asido
+      - haya asido
+      - hayamos asido
+      - "hay\xE1is asido"
+      - hayan asido
+      cjid: ppfs
+    - cjfs:
+      - hubiera asido
+      - hubieras asido
+      - hubiera asido
+      - "hubi\xE9ramos asido"
+      - hubierais asido
+      - hubieran asido
+      cjid: ppss1
+    - cjfs:
+      - hubiese asido
+      - hubieses asido
+      - hubiese asido
+      - "hubi\xE9semos asido"
+      - hubieseis asido
+      - hubiesen asido
+      cjid: ppss2
+    - cjfs:
+      - hubiere asido
+      - hubieres asido
+      - hubiere asido
+      - "hubi\xE9remos asido"
+      - hubiereis asido
+      - hubieren asido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ase
+      - asga
+      - asgamos
+      - asid
+      - asgan
+      cjid: impf

@@ -1,0 +1,204 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|andar||} {bc}to {a_link|walk} '
+          - - vis
+            - - t: prefiero ir caminando
+                tr: I prefer to walk
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|move}, to {a_link|progress}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|funcionar||} {bc}to {a_link|work}, to {a_link|run}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|walk}, to {a_link|cover} (a distance)'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: caminar
+    prs:
+    - sound:
+        audio: camin02sp
+  meta:
+    id: caminar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603738000'
+    src: spanish
+    stems:
+    - caminar
+    uuid: 079d0e66-4683-4506-a9a8-236dadf68f27
+  shortdef:
+  - 'andar : to walk'
+  - to move, to progress
+  - 'funcionar : to work, to run'
+  suppl:
+    cjts:
+    - cjfs:
+      - caminando
+      - caminado
+      cjid: gppt
+    - cjfs:
+      - camino
+      - caminas
+      - camina
+      - caminamos
+      - "camin\xE1is"
+      - caminan
+      cjid: pind
+    - cjfs:
+      - caminaba
+      - caminabas
+      - caminaba
+      - "camin\xE1bamos"
+      - caminabais
+      - caminaban
+      cjid: pret
+    - cjfs:
+      - "camin\xE9"
+      - caminaste
+      - "camin\xF3"
+      - caminamos
+      - caminasteis
+      - caminaron
+      cjid: pprf
+    - cjfs:
+      - "caminar\xE9"
+      - "caminar\xE1s"
+      - "caminar\xE1"
+      - caminaremos
+      - "caminar\xE9is"
+      - "caminar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "caminar\xEDa"
+      - "caminar\xEDas"
+      - "caminar\xEDa"
+      - "caminar\xEDamos"
+      - "caminar\xEDais"
+      - "caminar\xEDan"
+      cjid: cond
+    - cjfs:
+      - camine
+      - camines
+      - camine
+      - caminemos
+      - "camin\xE9is"
+      - caminen
+      cjid: psub
+    - cjfs:
+      - caminara
+      - caminaras
+      - caminara
+      - "camin\xE1ramos"
+      - caminarais
+      - caminaran
+      cjid: pisb1
+    - cjfs:
+      - caminase
+      - caminases
+      - caminase
+      - "camin\xE1semos"
+      - caminaseis
+      - caminasen
+      cjid: pisb2
+    - cjfs:
+      - caminare
+      - caminares
+      - caminare
+      - "camin\xE1remos"
+      - caminareis
+      - caminaren
+      cjid: fsub
+    - cjfs:
+      - he caminado
+      - has caminado
+      - ha caminado
+      - hemos caminado
+      - "hab\xE9is caminado"
+      - han caminado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa caminado"
+      - "hab\xEDas caminado"
+      - "hab\xEDa caminado"
+      - "hab\xEDamos caminado"
+      - "hab\xEDais caminado"
+      - "hab\xEDan caminado"
+      cjid: ppsi
+    - cjfs:
+      - hube caminado
+      - hubiste caminado
+      - hubo caminado
+      - hubimos caminado
+      - hubisteis caminado
+      - hubieron caminado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 caminado"
+      - "habr\xE1s caminado"
+      - "habr\xE1 caminado"
+      - habremos caminado
+      - "habr\xE9is caminado"
+      - "habr\xE1n caminado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa caminado"
+      - "habr\xEDas caminado"
+      - "habr\xEDa caminado"
+      - "habr\xEDamos caminado"
+      - "habr\xEDais caminado"
+      - "habr\xEDan caminado"
+      cjid: cpef
+    - cjfs:
+      - haya caminado
+      - hayas caminado
+      - haya caminado
+      - hayamos caminado
+      - "hay\xE1is caminado"
+      - hayan caminado
+      cjid: ppfs
+    - cjfs:
+      - hubiera caminado
+      - hubieras caminado
+      - hubiera caminado
+      - "hubi\xE9ramos caminado"
+      - hubierais caminado
+      - hubieran caminado
+      cjid: ppss1
+    - cjfs:
+      - hubiese caminado
+      - hubieses caminado
+      - hubiese caminado
+      - "hubi\xE9semos caminado"
+      - hubieseis caminado
+      - hubiesen caminado
+      cjid: ppss2
+    - cjfs:
+      - hubiere caminado
+      - hubieres caminado
+      - hubiere caminado
+      - "hubi\xE9remos caminado"
+      - hubiereis caminado
+      - hubieren caminado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - camina
+      - camine
+      - caminemos
+      - caminad
+      - caminen
+      cjid: impf

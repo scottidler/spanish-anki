@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|appear}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|presentarse||} {bc}to {a_link|show up}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn up}, to be found'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|appear}'
+    drp: aparecerse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: aparecer
+    prs:
+    - sound:
+        audio: apare02sp
+  meta:
+    id: aparecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601652000'
+    src: spanish
+    stems:
+    - aparecer
+    - aparecerse
+    uuid: c5379d40-4b59-403b-b334-beb1ea8aafe6
+  shortdef:
+  - to appear
+  - 'presentarse : to show up'
+  - to turn up, to be found
+  suppl:
+    cjts:
+    - cjfs:
+      - apareciendo
+      - aparecido
+      cjid: gppt
+    - cjfs:
+      - aparezco
+      - apareces
+      - aparece
+      - aparecemos
+      - "aparec\xE9is"
+      - aparecen
+      cjid: pind
+    - cjfs:
+      - "aparec\xEDa"
+      - "aparec\xEDas"
+      - "aparec\xEDa"
+      - "aparec\xEDamos"
+      - "aparec\xEDais"
+      - "aparec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "aparec\xED"
+      - apareciste
+      - "apareci\xF3"
+      - aparecimos
+      - aparecisteis
+      - aparecieron
+      cjid: pprf
+    - cjfs:
+      - "aparecer\xE9"
+      - "aparecer\xE1s"
+      - "aparecer\xE1"
+      - apareceremos
+      - "aparecer\xE9is"
+      - "aparecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aparecer\xEDa"
+      - "aparecer\xEDas"
+      - "aparecer\xEDa"
+      - "aparecer\xEDamos"
+      - "aparecer\xEDais"
+      - "aparecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - aparezca
+      - aparezcas
+      - aparezca
+      - aparezcamos
+      - "aparezc\xE1is"
+      - aparezcan
+      cjid: psub
+    - cjfs:
+      - apareciera
+      - aparecieras
+      - apareciera
+      - "apareci\xE9ramos"
+      - aparecierais
+      - aparecieran
+      cjid: pisb1
+    - cjfs:
+      - apareciese
+      - aparecieses
+      - apareciese
+      - "apareci\xE9semos"
+      - aparecieseis
+      - apareciesen
+      cjid: pisb2
+    - cjfs:
+      - apareciere
+      - aparecieres
+      - apareciere
+      - "apareci\xE9remos"
+      - apareciereis
+      - aparecieren
+      cjid: fsub
+    - cjfs:
+      - he aparecido
+      - has aparecido
+      - ha aparecido
+      - hemos aparecido
+      - "hab\xE9is aparecido"
+      - han aparecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aparecido"
+      - "hab\xEDas aparecido"
+      - "hab\xEDa aparecido"
+      - "hab\xEDamos aparecido"
+      - "hab\xEDais aparecido"
+      - "hab\xEDan aparecido"
+      cjid: ppsi
+    - cjfs:
+      - hube aparecido
+      - hubiste aparecido
+      - hubo aparecido
+      - hubimos aparecido
+      - hubisteis aparecido
+      - hubieron aparecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aparecido"
+      - "habr\xE1s aparecido"
+      - "habr\xE1 aparecido"
+      - habremos aparecido
+      - "habr\xE9is aparecido"
+      - "habr\xE1n aparecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aparecido"
+      - "habr\xEDas aparecido"
+      - "habr\xEDa aparecido"
+      - "habr\xEDamos aparecido"
+      - "habr\xEDais aparecido"
+      - "habr\xEDan aparecido"
+      cjid: cpef
+    - cjfs:
+      - haya aparecido
+      - hayas aparecido
+      - haya aparecido
+      - hayamos aparecido
+      - "hay\xE1is aparecido"
+      - hayan aparecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera aparecido
+      - hubieras aparecido
+      - hubiera aparecido
+      - "hubi\xE9ramos aparecido"
+      - hubierais aparecido
+      - hubieran aparecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese aparecido
+      - hubieses aparecido
+      - hubiese aparecido
+      - "hubi\xE9semos aparecido"
+      - hubieseis aparecido
+      - hubiesen aparecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere aparecido
+      - hubieres aparecido
+      - hubiere aparecido
+      - "hubi\xE9remos aparecido"
+      - hubiereis aparecido
+      - hubieren aparecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aparece
+      - aparezca
+      - aparezcamos
+      - apareced
+      - aparezcan
+      cjid: impf

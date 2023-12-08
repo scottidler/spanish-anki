@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confer}, to {a_link|bestow}'
+  fl: transitive verb
+  hwi:
+    hw: conferir
+    prs:
+    - sound:
+        audio: confe05sp
+  meta:
+    id: conferir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605444000'
+    src: spanish
+    stems:
+    - conferir
+    uuid: 14337a22-5543-4f33-ae62-5636f4580a85
+  shortdef:
+  - to confer, to bestow
+  suppl:
+    cjts:
+    - cjfs:
+      - confiriendo
+      - conferido
+      cjid: gppt
+    - cjfs:
+      - confiero
+      - confieres
+      - confiere
+      - conferimos
+      - "confer\xEDs"
+      - confieren
+      cjid: pind
+    - cjfs:
+      - "confer\xEDa"
+      - "confer\xEDas"
+      - "confer\xEDa"
+      - "confer\xEDamos"
+      - "confer\xEDais"
+      - "confer\xEDan"
+      cjid: pret
+    - cjfs:
+      - "confer\xED"
+      - conferiste
+      - "confiri\xF3"
+      - conferimos
+      - conferisteis
+      - confirieron
+      cjid: pprf
+    - cjfs:
+      - "conferir\xE9"
+      - "conferir\xE1s"
+      - "conferir\xE1"
+      - conferiremos
+      - "conferir\xE9is"
+      - "conferir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conferir\xEDa"
+      - "conferir\xEDas"
+      - "conferir\xEDa"
+      - "conferir\xEDamos"
+      - "conferir\xEDais"
+      - "conferir\xEDan"
+      cjid: cond
+    - cjfs:
+      - confiera
+      - confieras
+      - confiera
+      - confiramos
+      - "confir\xE1is"
+      - confieran
+      cjid: psub
+    - cjfs:
+      - confiriera
+      - confirieras
+      - confiriera
+      - "confiri\xE9ramos"
+      - confirierais
+      - confirieran
+      cjid: pisb1
+    - cjfs:
+      - confiriese
+      - confirieses
+      - confiriese
+      - "confiri\xE9semos"
+      - confirieseis
+      - confiriesen
+      cjid: pisb2
+    - cjfs:
+      - confiriere
+      - confirieres
+      - confiriere
+      - "confiri\xE9remos"
+      - confiriereis
+      - confirieren
+      cjid: fsub
+    - cjfs:
+      - he conferido
+      - has conferido
+      - ha conferido
+      - hemos conferido
+      - "hab\xE9is conferido"
+      - han conferido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conferido"
+      - "hab\xEDas conferido"
+      - "hab\xEDa conferido"
+      - "hab\xEDamos conferido"
+      - "hab\xEDais conferido"
+      - "hab\xEDan conferido"
+      cjid: ppsi
+    - cjfs:
+      - hube conferido
+      - hubiste conferido
+      - hubo conferido
+      - hubimos conferido
+      - hubisteis conferido
+      - hubieron conferido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conferido"
+      - "habr\xE1s conferido"
+      - "habr\xE1 conferido"
+      - habremos conferido
+      - "habr\xE9is conferido"
+      - "habr\xE1n conferido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conferido"
+      - "habr\xEDas conferido"
+      - "habr\xEDa conferido"
+      - "habr\xEDamos conferido"
+      - "habr\xEDais conferido"
+      - "habr\xEDan conferido"
+      cjid: cpef
+    - cjfs:
+      - haya conferido
+      - hayas conferido
+      - haya conferido
+      - hayamos conferido
+      - "hay\xE1is conferido"
+      - hayan conferido
+      cjid: ppfs
+    - cjfs:
+      - hubiera conferido
+      - hubieras conferido
+      - hubiera conferido
+      - "hubi\xE9ramos conferido"
+      - hubierais conferido
+      - hubieran conferido
+      cjid: ppss1
+    - cjfs:
+      - hubiese conferido
+      - hubieses conferido
+      - hubiese conferido
+      - "hubi\xE9semos conferido"
+      - hubieseis conferido
+      - hubiesen conferido
+      cjid: ppss2
+    - cjfs:
+      - hubiere conferido
+      - hubieres conferido
+      - hubiere conferido
+      - "hubi\xE9remos conferido"
+      - hubiereis conferido
+      - hubieren conferido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - confiere
+      - confiera
+      - confiramos
+      - conferid
+      - confieran
+      cjid: impf

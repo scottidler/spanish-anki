@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|espantar||} {bc}to {a_link|scare}, to {a_link|frighten}'
+  fl: transitive verb
+  hwi:
+    hw: asustar
+    prs:
+    - sound:
+        audio: asust02sp
+  meta:
+    id: asustar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602247000'
+    src: spanish
+    stems:
+    - asustar
+    - asustarse
+    uuid: 13157a9d-d870-4d92-a395-53dc92b94481
+  shortdef:
+  - 'espantar : to scare, to frighten'
+  suppl:
+    cjts:
+    - cjfs:
+      - asustando
+      - asustado
+      cjid: gppt
+    - cjfs:
+      - asusto
+      - asustas
+      - asusta
+      - asustamos
+      - "asust\xE1is"
+      - asustan
+      cjid: pind
+    - cjfs:
+      - asustaba
+      - asustabas
+      - asustaba
+      - "asust\xE1bamos"
+      - asustabais
+      - asustaban
+      cjid: pret
+    - cjfs:
+      - "asust\xE9"
+      - asustaste
+      - "asust\xF3"
+      - asustamos
+      - asustasteis
+      - asustaron
+      cjid: pprf
+    - cjfs:
+      - "asustar\xE9"
+      - "asustar\xE1s"
+      - "asustar\xE1"
+      - asustaremos
+      - "asustar\xE9is"
+      - "asustar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asustar\xEDa"
+      - "asustar\xEDas"
+      - "asustar\xEDa"
+      - "asustar\xEDamos"
+      - "asustar\xEDais"
+      - "asustar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asuste
+      - asustes
+      - asuste
+      - asustemos
+      - "asust\xE9is"
+      - asusten
+      cjid: psub
+    - cjfs:
+      - asustara
+      - asustaras
+      - asustara
+      - "asust\xE1ramos"
+      - asustarais
+      - asustaran
+      cjid: pisb1
+    - cjfs:
+      - asustase
+      - asustases
+      - asustase
+      - "asust\xE1semos"
+      - asustaseis
+      - asustasen
+      cjid: pisb2
+    - cjfs:
+      - asustare
+      - asustares
+      - asustare
+      - "asust\xE1remos"
+      - asustareis
+      - asustaren
+      cjid: fsub
+    - cjfs:
+      - he asustado
+      - has asustado
+      - ha asustado
+      - hemos asustado
+      - "hab\xE9is asustado"
+      - han asustado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asustado"
+      - "hab\xEDas asustado"
+      - "hab\xEDa asustado"
+      - "hab\xEDamos asustado"
+      - "hab\xEDais asustado"
+      - "hab\xEDan asustado"
+      cjid: ppsi
+    - cjfs:
+      - hube asustado
+      - hubiste asustado
+      - hubo asustado
+      - hubimos asustado
+      - hubisteis asustado
+      - hubieron asustado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asustado"
+      - "habr\xE1s asustado"
+      - "habr\xE1 asustado"
+      - habremos asustado
+      - "habr\xE9is asustado"
+      - "habr\xE1n asustado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asustado"
+      - "habr\xEDas asustado"
+      - "habr\xEDa asustado"
+      - "habr\xEDamos asustado"
+      - "habr\xEDais asustado"
+      - "habr\xEDan asustado"
+      cjid: cpef
+    - cjfs:
+      - haya asustado
+      - hayas asustado
+      - haya asustado
+      - hayamos asustado
+      - "hay\xE1is asustado"
+      - hayan asustado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asustado
+      - hubieras asustado
+      - hubiera asustado
+      - "hubi\xE9ramos asustado"
+      - hubierais asustado
+      - hubieran asustado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asustado
+      - hubieses asustado
+      - hubiese asustado
+      - "hubi\xE9semos asustado"
+      - hubieseis asustado
+      - hubiesen asustado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asustado
+      - hubieres asustado
+      - hubiere asustado
+      - "hubi\xE9remos asustado"
+      - hubiereis asustado
+      - hubieren asustado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asusta
+      - asuste
+      - asustemos
+      - asustad
+      - asusten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: asustarse

@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|govern}, to {a_link|rule}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|steer}, to {a_link|sail} (a ship)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|govern}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|steer}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: gobernar
+    prs:
+    - sound:
+        audio: gober04sp
+  meta:
+    id: gobernar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610896000'
+    src: spanish
+    stems:
+    - gobernar
+    uuid: e4731cda-31f4-4270-8377-30aeb46e30e8
+  shortdef:
+  - to govern, to rule
+  - to steer, to sail (a ship)
+  - to govern
+  suppl:
+    cjts:
+    - cjfs:
+      - gobernando
+      - gobernado
+      cjid: gppt
+    - cjfs:
+      - gobierno
+      - gobiernas
+      - gobierna
+      - gobernamos
+      - "gobern\xE1is"
+      - gobiernan
+      cjid: pind
+    - cjfs:
+      - gobernaba
+      - gobernabas
+      - gobernaba
+      - "gobern\xE1bamos"
+      - gobernabais
+      - gobernaban
+      cjid: pret
+    - cjfs:
+      - "gobern\xE9"
+      - gobernaste
+      - "gobern\xF3"
+      - gobernamos
+      - gobernasteis
+      - gobernaron
+      cjid: pprf
+    - cjfs:
+      - "gobernar\xE9"
+      - "gobernar\xE1s"
+      - "gobernar\xE1"
+      - gobernaremos
+      - "gobernar\xE9is"
+      - "gobernar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gobernar\xEDa"
+      - "gobernar\xEDas"
+      - "gobernar\xEDa"
+      - "gobernar\xEDamos"
+      - "gobernar\xEDais"
+      - "gobernar\xEDan"
+      cjid: cond
+    - cjfs:
+      - gobierne
+      - gobiernes
+      - gobierne
+      - gobernemos
+      - "gobern\xE9is"
+      - gobiernen
+      cjid: psub
+    - cjfs:
+      - gobernara
+      - gobernaras
+      - gobernara
+      - "gobern\xE1ramos"
+      - gobernarais
+      - gobernaran
+      cjid: pisb1
+    - cjfs:
+      - gobernase
+      - gobernases
+      - gobernase
+      - "gobern\xE1semos"
+      - gobernaseis
+      - gobernasen
+      cjid: pisb2
+    - cjfs:
+      - gobernare
+      - gobernares
+      - gobernare
+      - "gobern\xE1remos"
+      - gobernareis
+      - gobernaren
+      cjid: fsub
+    - cjfs:
+      - he gobernado
+      - has gobernado
+      - ha gobernado
+      - hemos gobernado
+      - "hab\xE9is gobernado"
+      - han gobernado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gobernado"
+      - "hab\xEDas gobernado"
+      - "hab\xEDa gobernado"
+      - "hab\xEDamos gobernado"
+      - "hab\xEDais gobernado"
+      - "hab\xEDan gobernado"
+      cjid: ppsi
+    - cjfs:
+      - hube gobernado
+      - hubiste gobernado
+      - hubo gobernado
+      - hubimos gobernado
+      - hubisteis gobernado
+      - hubieron gobernado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gobernado"
+      - "habr\xE1s gobernado"
+      - "habr\xE1 gobernado"
+      - habremos gobernado
+      - "habr\xE9is gobernado"
+      - "habr\xE1n gobernado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gobernado"
+      - "habr\xEDas gobernado"
+      - "habr\xEDa gobernado"
+      - "habr\xEDamos gobernado"
+      - "habr\xEDais gobernado"
+      - "habr\xEDan gobernado"
+      cjid: cpef
+    - cjfs:
+      - haya gobernado
+      - hayas gobernado
+      - haya gobernado
+      - hayamos gobernado
+      - "hay\xE1is gobernado"
+      - hayan gobernado
+      cjid: ppfs
+    - cjfs:
+      - hubiera gobernado
+      - hubieras gobernado
+      - hubiera gobernado
+      - "hubi\xE9ramos gobernado"
+      - hubierais gobernado
+      - hubieran gobernado
+      cjid: ppss1
+    - cjfs:
+      - hubiese gobernado
+      - hubieses gobernado
+      - hubiese gobernado
+      - "hubi\xE9semos gobernado"
+      - hubieseis gobernado
+      - hubiesen gobernado
+      cjid: ppss2
+    - cjfs:
+      - hubiere gobernado
+      - hubieres gobernado
+      - hubiere gobernado
+      - "hubi\xE9remos gobernado"
+      - hubiereis gobernado
+      - hubieren gobernado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gobierna
+      - gobierne
+      - gobernemos
+      - gobernad
+      - gobiernen
+      cjid: impf

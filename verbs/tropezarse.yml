@@ -1,0 +1,221 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trip}, to {a_link|stumble}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|slip up}, to {a_link|blunder}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run into}, to {a_link|bump into}'
+          sn: '3'
+          vrs:
+          - va: tropezar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come up against} (a problem)'
+          sn: '4'
+          vrs:
+          - va: tropezar con
+            vac: ~ con
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|run into}, to {a_link|bump into}'
+            vrs:
+            - va: tropezarse con
+              vac: ~ con
+    drp: tropezarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: tropezar
+    prs:
+    - sound:
+        audio: trope01sp
+  meta:
+    id: tropezar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622387000'
+    src: spanish
+    stems:
+    - tropezar
+    - tropezar con
+    - tropezarse
+    - tropezarse con
+    uuid: 72fd0841-254a-4155-90d8-a80eefef1b48
+  shortdef:
+  - to trip, to stumble
+  - to slip up, to blunder
+  - to run into, to bump into
+  suppl:
+    cjts:
+    - cjfs:
+      - tropezando
+      - tropezado
+      cjid: gppt
+    - cjfs:
+      - tropiezo
+      - tropiezas
+      - tropieza
+      - tropezamos
+      - "tropez\xE1is"
+      - tropiezan
+      cjid: pind
+    - cjfs:
+      - tropezaba
+      - tropezabas
+      - tropezaba
+      - "tropez\xE1bamos"
+      - tropezabais
+      - tropezaban
+      cjid: pret
+    - cjfs:
+      - "tropec\xE9"
+      - tropezaste
+      - "tropez\xF3"
+      - tropezamos
+      - tropezasteis
+      - tropezaron
+      cjid: pprf
+    - cjfs:
+      - "tropezar\xE9"
+      - "tropezar\xE1s"
+      - "tropezar\xE1"
+      - tropezaremos
+      - "tropezar\xE9is"
+      - "tropezar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tropezar\xEDa"
+      - "tropezar\xEDas"
+      - "tropezar\xEDa"
+      - "tropezar\xEDamos"
+      - "tropezar\xEDais"
+      - "tropezar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tropiece
+      - tropieces
+      - tropiece
+      - tropecemos
+      - "tropec\xE9is"
+      - tropiecen
+      cjid: psub
+    - cjfs:
+      - tropezara
+      - tropezaras
+      - tropezara
+      - "tropez\xE1ramos"
+      - tropezarais
+      - tropezaran
+      cjid: pisb1
+    - cjfs:
+      - tropezase
+      - tropezases
+      - tropezase
+      - "tropez\xE1semos"
+      - tropezaseis
+      - tropezasen
+      cjid: pisb2
+    - cjfs:
+      - tropezare
+      - tropezares
+      - tropezare
+      - "tropez\xE1remos"
+      - tropezareis
+      - tropezaren
+      cjid: fsub
+    - cjfs:
+      - he tropezado
+      - has tropezado
+      - ha tropezado
+      - hemos tropezado
+      - "hab\xE9is tropezado"
+      - han tropezado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tropezado"
+      - "hab\xEDas tropezado"
+      - "hab\xEDa tropezado"
+      - "hab\xEDamos tropezado"
+      - "hab\xEDais tropezado"
+      - "hab\xEDan tropezado"
+      cjid: ppsi
+    - cjfs:
+      - hube tropezado
+      - hubiste tropezado
+      - hubo tropezado
+      - hubimos tropezado
+      - hubisteis tropezado
+      - hubieron tropezado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tropezado"
+      - "habr\xE1s tropezado"
+      - "habr\xE1 tropezado"
+      - habremos tropezado
+      - "habr\xE9is tropezado"
+      - "habr\xE1n tropezado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tropezado"
+      - "habr\xEDas tropezado"
+      - "habr\xEDa tropezado"
+      - "habr\xEDamos tropezado"
+      - "habr\xEDais tropezado"
+      - "habr\xEDan tropezado"
+      cjid: cpef
+    - cjfs:
+      - haya tropezado
+      - hayas tropezado
+      - haya tropezado
+      - hayamos tropezado
+      - "hay\xE1is tropezado"
+      - hayan tropezado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tropezado
+      - hubieras tropezado
+      - hubiera tropezado
+      - "hubi\xE9ramos tropezado"
+      - hubierais tropezado
+      - hubieran tropezado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tropezado
+      - hubieses tropezado
+      - hubiese tropezado
+      - "hubi\xE9semos tropezado"
+      - hubieseis tropezado
+      - hubiesen tropezado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tropezado
+      - hubieres tropezado
+      - hubiere tropezado
+      - "hubi\xE9remos tropezado"
+      - hubiereis tropezado
+      - hubieren tropezado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tropieza
+      - tropiece
+      - tropecemos
+      - tropezad
+      - tropiecen
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|open}, to take the top off'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|descubrir||} {bc}to {a_link|reveal}, to {a_link|uncover}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|unblock}, to {a_link|unclog}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: destapar
+  meta:
+    id: destapar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607339000'
+    src: spanish
+    stems:
+    - destapar
+    uuid: 3bdb4f71-6b7f-4ee2-a35e-c5831655c4b1
+  shortdef:
+  - to open, to take the top off
+  - 'descubrir : to reveal, to uncover'
+  - to unblock, to unclog
+  suppl:
+    cjts:
+    - cjfs:
+      - destapando
+      - destapado
+      cjid: gppt
+    - cjfs:
+      - destapo
+      - destapas
+      - destapa
+      - destapamos
+      - "destap\xE1is"
+      - destapan
+      cjid: pind
+    - cjfs:
+      - destapaba
+      - destapabas
+      - destapaba
+      - "destap\xE1bamos"
+      - destapabais
+      - destapaban
+      cjid: pret
+    - cjfs:
+      - "destap\xE9"
+      - destapaste
+      - "destap\xF3"
+      - destapamos
+      - destapasteis
+      - destaparon
+      cjid: pprf
+    - cjfs:
+      - "destapar\xE9"
+      - "destapar\xE1s"
+      - "destapar\xE1"
+      - destaparemos
+      - "destapar\xE9is"
+      - "destapar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "destapar\xEDa"
+      - "destapar\xEDas"
+      - "destapar\xEDa"
+      - "destapar\xEDamos"
+      - "destapar\xEDais"
+      - "destapar\xEDan"
+      cjid: cond
+    - cjfs:
+      - destape
+      - destapes
+      - destape
+      - destapemos
+      - "destap\xE9is"
+      - destapen
+      cjid: psub
+    - cjfs:
+      - destapara
+      - destaparas
+      - destapara
+      - "destap\xE1ramos"
+      - destaparais
+      - destaparan
+      cjid: pisb1
+    - cjfs:
+      - destapase
+      - destapases
+      - destapase
+      - "destap\xE1semos"
+      - destapaseis
+      - destapasen
+      cjid: pisb2
+    - cjfs:
+      - destapare
+      - destapares
+      - destapare
+      - "destap\xE1remos"
+      - destapareis
+      - destaparen
+      cjid: fsub
+    - cjfs:
+      - he destapado
+      - has destapado
+      - ha destapado
+      - hemos destapado
+      - "hab\xE9is destapado"
+      - han destapado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa destapado"
+      - "hab\xEDas destapado"
+      - "hab\xEDa destapado"
+      - "hab\xEDamos destapado"
+      - "hab\xEDais destapado"
+      - "hab\xEDan destapado"
+      cjid: ppsi
+    - cjfs:
+      - hube destapado
+      - hubiste destapado
+      - hubo destapado
+      - hubimos destapado
+      - hubisteis destapado
+      - hubieron destapado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 destapado"
+      - "habr\xE1s destapado"
+      - "habr\xE1 destapado"
+      - habremos destapado
+      - "habr\xE9is destapado"
+      - "habr\xE1n destapado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa destapado"
+      - "habr\xEDas destapado"
+      - "habr\xEDa destapado"
+      - "habr\xEDamos destapado"
+      - "habr\xEDais destapado"
+      - "habr\xEDan destapado"
+      cjid: cpef
+    - cjfs:
+      - haya destapado
+      - hayas destapado
+      - haya destapado
+      - hayamos destapado
+      - "hay\xE1is destapado"
+      - hayan destapado
+      cjid: ppfs
+    - cjfs:
+      - hubiera destapado
+      - hubieras destapado
+      - hubiera destapado
+      - "hubi\xE9ramos destapado"
+      - hubierais destapado
+      - hubieran destapado
+      cjid: ppss1
+    - cjfs:
+      - hubiese destapado
+      - hubieses destapado
+      - hubiese destapado
+      - "hubi\xE9semos destapado"
+      - hubieseis destapado
+      - hubiesen destapado
+      cjid: ppss2
+    - cjfs:
+      - hubiere destapado
+      - hubieres destapado
+      - hubiere destapado
+      - "hubi\xE9remos destapado"
+      - hubiereis destapado
+      - hubieren destapado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - destapa
+      - destape
+      - destapemos
+      - destapad
+      - destapen
+      cjid: impf

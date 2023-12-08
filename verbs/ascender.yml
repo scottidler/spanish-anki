@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ascend}, to {a_link|rise up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be promoted '
+          - - vis
+            - - t: "ascendi\xF3 a gerente"
+                tr: she was promoted to manager
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|amount to}, to {a_link|reach} '
+          - - vis
+            - - t: las deudas ascienden a 20 millones de pesos
+                tr: the debt amounts to 20 million pesos
+          sn: '3'
+          vrs:
+          - va: ascender a
+            vac: ~ a
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|promote}'
+    vd: transitive verb
+  fl: transitive verb
+  hwi:
+    hw: ascender
+    prs:
+    - sound:
+        audio: ascen01sp
+  meta:
+    id: ascender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602101000'
+    src: spanish
+    stems:
+    - ascender
+    - ascender a
+    uuid: 794697ca-5e49-44f7-9f08-ebb0dcf825ba
+  shortdef:
+  - to ascend, to rise up
+  - to be promoted
+  - to amount to, to reach
+  suppl:
+    cjts:
+    - cjfs:
+      - ascendiendo
+      - ascendido
+      cjid: gppt
+    - cjfs:
+      - asciendo
+      - asciendes
+      - asciende
+      - ascendemos
+      - "ascend\xE9is"
+      - ascienden
+      cjid: pind
+    - cjfs:
+      - "ascend\xEDa"
+      - "ascend\xEDas"
+      - "ascend\xEDa"
+      - "ascend\xEDamos"
+      - "ascend\xEDais"
+      - "ascend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ascend\xED"
+      - ascendiste
+      - "ascendi\xF3"
+      - ascendimos
+      - ascendisteis
+      - ascendieron
+      cjid: pprf
+    - cjfs:
+      - "ascender\xE9"
+      - "ascender\xE1s"
+      - "ascender\xE1"
+      - ascenderemos
+      - "ascender\xE9is"
+      - "ascender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ascender\xEDa"
+      - "ascender\xEDas"
+      - "ascender\xEDa"
+      - "ascender\xEDamos"
+      - "ascender\xEDais"
+      - "ascender\xEDan"
+      cjid: cond
+    - cjfs:
+      - ascienda
+      - asciendas
+      - ascienda
+      - ascendamos
+      - "ascend\xE1is"
+      - asciendan
+      cjid: psub
+    - cjfs:
+      - ascendiera
+      - ascendieras
+      - ascendiera
+      - "ascendi\xE9ramos"
+      - ascendierais
+      - ascendieran
+      cjid: pisb1
+    - cjfs:
+      - ascendiese
+      - ascendieses
+      - ascendiese
+      - "ascendi\xE9semos"
+      - ascendieseis
+      - ascendiesen
+      cjid: pisb2
+    - cjfs:
+      - ascendiere
+      - ascendieres
+      - ascendiere
+      - "ascendi\xE9remos"
+      - ascendiereis
+      - ascendieren
+      cjid: fsub
+    - cjfs:
+      - he ascendido
+      - has ascendido
+      - ha ascendido
+      - hemos ascendido
+      - "hab\xE9is ascendido"
+      - han ascendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ascendido"
+      - "hab\xEDas ascendido"
+      - "hab\xEDa ascendido"
+      - "hab\xEDamos ascendido"
+      - "hab\xEDais ascendido"
+      - "hab\xEDan ascendido"
+      cjid: ppsi
+    - cjfs:
+      - hube ascendido
+      - hubiste ascendido
+      - hubo ascendido
+      - hubimos ascendido
+      - hubisteis ascendido
+      - hubieron ascendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ascendido"
+      - "habr\xE1s ascendido"
+      - "habr\xE1 ascendido"
+      - habremos ascendido
+      - "habr\xE9is ascendido"
+      - "habr\xE1n ascendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ascendido"
+      - "habr\xEDas ascendido"
+      - "habr\xEDa ascendido"
+      - "habr\xEDamos ascendido"
+      - "habr\xEDais ascendido"
+      - "habr\xEDan ascendido"
+      cjid: cpef
+    - cjfs:
+      - haya ascendido
+      - hayas ascendido
+      - haya ascendido
+      - hayamos ascendido
+      - "hay\xE1is ascendido"
+      - hayan ascendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ascendido
+      - hubieras ascendido
+      - hubiera ascendido
+      - "hubi\xE9ramos ascendido"
+      - hubierais ascendido
+      - hubieran ascendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ascendido
+      - hubieses ascendido
+      - hubiese ascendido
+      - "hubi\xE9semos ascendido"
+      - hubieseis ascendido
+      - hubiesen ascendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ascendido
+      - hubieres ascendido
+      - hubiere ascendido
+      - "hubi\xE9remos ascendido"
+      - hubiereis ascendido
+      - hubieren ascendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asciende
+      - ascienda
+      - ascendamos
+      - ascended
+      - asciendan
+      cjid: impf

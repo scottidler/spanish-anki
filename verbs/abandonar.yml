@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|dejar||} {bc}to {a_link|abandon}, to {a_link|leave}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give up}, to {a_link|quit} '
+          - - vis
+            - - t: "abandonaron la b\xFAsqueda"
+                tr: they gave up the search
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to neglect oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to succumb to, to give oneself over to'
+            sn: '2'
+            vrs:
+            - va: abandonarse a
+              vac: ~ a
+    drp: abandonarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: abandonar
+    prs:
+    - sound:
+        audio: aband02sp
+  meta:
+    id: abandonar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600013000'
+    src: spanish
+    stems:
+    - abandonar
+    - abandonarse
+    - abandonarse a
+    uuid: 87e49e0e-d52a-4010-8c5f-5241746fa1ae
+  shortdef:
+  - 'dejar : to abandon, to leave'
+  - to give up, to quit
+  suppl:
+    cjts:
+    - cjfs:
+      - abandonando
+      - abandonado
+      cjid: gppt
+    - cjfs:
+      - abandono
+      - abandonas
+      - abandona
+      - abandonamos
+      - "abandon\xE1is"
+      - abandonan
+      cjid: pind
+    - cjfs:
+      - abandonaba
+      - abandonabas
+      - abandonaba
+      - "abandon\xE1bamos"
+      - abandonabais
+      - abandonaban
+      cjid: pret
+    - cjfs:
+      - "abandon\xE9"
+      - abandonaste
+      - "abandon\xF3"
+      - abandonamos
+      - abandonasteis
+      - abandonaron
+      cjid: pprf
+    - cjfs:
+      - "abandonar\xE9"
+      - "abandonar\xE1s"
+      - "abandonar\xE1"
+      - abandonaremos
+      - "abandonar\xE9is"
+      - "abandonar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abandonar\xEDa"
+      - "abandonar\xEDas"
+      - "abandonar\xEDa"
+      - "abandonar\xEDamos"
+      - "abandonar\xEDais"
+      - "abandonar\xEDan"
+      cjid: cond
+    - cjfs:
+      - abandone
+      - abandones
+      - abandone
+      - abandonemos
+      - "abandon\xE9is"
+      - abandonen
+      cjid: psub
+    - cjfs:
+      - abandonara
+      - abandonaras
+      - abandonara
+      - "abandon\xE1ramos"
+      - abandonarais
+      - abandonaran
+      cjid: pisb1
+    - cjfs:
+      - abandonase
+      - abandonases
+      - abandonase
+      - "abandon\xE1semos"
+      - abandonaseis
+      - abandonasen
+      cjid: pisb2
+    - cjfs:
+      - abandonare
+      - abandonares
+      - abandonare
+      - "abandon\xE1remos"
+      - abandonareis
+      - abandonaren
+      cjid: fsub
+    - cjfs:
+      - he abandonado
+      - has abandonado
+      - ha abandonado
+      - hemos abandonado
+      - "hab\xE9is abandonado"
+      - han abandonado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abandonado"
+      - "hab\xEDas abandonado"
+      - "hab\xEDa abandonado"
+      - "hab\xEDamos abandonado"
+      - "hab\xEDais abandonado"
+      - "hab\xEDan abandonado"
+      cjid: ppsi
+    - cjfs:
+      - hube abandonado
+      - hubiste abandonado
+      - hubo abandonado
+      - hubimos abandonado
+      - hubisteis abandonado
+      - hubieron abandonado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abandonado"
+      - "habr\xE1s abandonado"
+      - "habr\xE1 abandonado"
+      - habremos abandonado
+      - "habr\xE9is abandonado"
+      - "habr\xE1n abandonado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abandonado"
+      - "habr\xEDas abandonado"
+      - "habr\xEDa abandonado"
+      - "habr\xEDamos abandonado"
+      - "habr\xEDais abandonado"
+      - "habr\xEDan abandonado"
+      cjid: cpef
+    - cjfs:
+      - haya abandonado
+      - hayas abandonado
+      - haya abandonado
+      - hayamos abandonado
+      - "hay\xE1is abandonado"
+      - hayan abandonado
+      cjid: ppfs
+    - cjfs:
+      - hubiera abandonado
+      - hubieras abandonado
+      - hubiera abandonado
+      - "hubi\xE9ramos abandonado"
+      - hubierais abandonado
+      - hubieran abandonado
+      cjid: ppss1
+    - cjfs:
+      - hubiese abandonado
+      - hubieses abandonado
+      - hubiese abandonado
+      - "hubi\xE9semos abandonado"
+      - hubieseis abandonado
+      - hubiesen abandonado
+      cjid: ppss2
+    - cjfs:
+      - hubiere abandonado
+      - hubieres abandonado
+      - hubiere abandonado
+      - "hubi\xE9remos abandonado"
+      - hubiereis abandonado
+      - hubieren abandonado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abandona
+      - abandone
+      - abandonemos
+      - abandonad
+      - abandonen
+      cjid: impf

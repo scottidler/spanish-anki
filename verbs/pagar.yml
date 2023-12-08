@@ -1,0 +1,288 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay} (a bill), to {a_link|pay for} (a purchase), to
+              {a_link|pay off} (a debt)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay for} (a crime, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|repay} (a favor)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: pagar
+    prs:
+    - sound:
+        audio: pagar01sp
+  meta:
+    id: pagar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616461000'
+    src: spanish
+    stems:
+    - pagar
+    uuid: 33075124-c02d-4e7f-9f80-bfcd07c0931b
+  shortdef:
+  - to pay (a bill), to pay for (a purchase), to pay off (a debt)
+  - to pay for (a crime, etc.)
+  - to repay (a favor)
+  suppl:
+    cjts:
+    - cjfs:
+      - pagando
+      - pagado
+      cjid: gppt
+    - cjfs:
+      - pago
+      - pagas
+      - paga
+      - pagamos
+      - "pag\xE1is"
+      - pagan
+      cjid: pind
+    - cjfs:
+      - pagaba
+      - pagabas
+      - pagaba
+      - "pag\xE1bamos"
+      - pagabais
+      - pagaban
+      cjid: pret
+    - cjfs:
+      - "pagu\xE9"
+      - pagaste
+      - "pag\xF3"
+      - pagamos
+      - pagasteis
+      - pagaron
+      cjid: pprf
+    - cjfs:
+      - "pagar\xE9"
+      - "pagar\xE1s"
+      - "pagar\xE1"
+      - pagaremos
+      - "pagar\xE9is"
+      - "pagar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pagar\xEDa"
+      - "pagar\xEDas"
+      - "pagar\xEDa"
+      - "pagar\xEDamos"
+      - "pagar\xEDais"
+      - "pagar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pague
+      - pagues
+      - pague
+      - paguemos
+      - "pagu\xE9is"
+      - paguen
+      cjid: psub
+    - cjfs:
+      - pagara
+      - pagaras
+      - pagara
+      - "pag\xE1ramos"
+      - pagarais
+      - pagaran
+      cjid: pisb1
+    - cjfs:
+      - pagase
+      - pagases
+      - pagase
+      - "pag\xE1semos"
+      - pagaseis
+      - pagasen
+      cjid: pisb2
+    - cjfs:
+      - pagare
+      - pagares
+      - pagare
+      - "pag\xE1remos"
+      - pagareis
+      - pagaren
+      cjid: fsub
+    - cjfs:
+      - he pagado
+      - has pagado
+      - ha pagado
+      - hemos pagado
+      - "hab\xE9is pagado"
+      - han pagado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pagado"
+      - "hab\xEDas pagado"
+      - "hab\xEDa pagado"
+      - "hab\xEDamos pagado"
+      - "hab\xEDais pagado"
+      - "hab\xEDan pagado"
+      cjid: ppsi
+    - cjfs:
+      - hube pagado
+      - hubiste pagado
+      - hubo pagado
+      - hubimos pagado
+      - hubisteis pagado
+      - hubieron pagado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pagado"
+      - "habr\xE1s pagado"
+      - "habr\xE1 pagado"
+      - habremos pagado
+      - "habr\xE9is pagado"
+      - "habr\xE1n pagado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pagado"
+      - "habr\xEDas pagado"
+      - "habr\xEDa pagado"
+      - "habr\xEDamos pagado"
+      - "habr\xEDais pagado"
+      - "habr\xEDan pagado"
+      cjid: cpef
+    - cjfs:
+      - haya pagado
+      - hayas pagado
+      - haya pagado
+      - hayamos pagado
+      - "hay\xE1is pagado"
+      - hayan pagado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pagado
+      - hubieras pagado
+      - hubiera pagado
+      - "hubi\xE9ramos pagado"
+      - hubierais pagado
+      - hubieran pagado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pagado
+      - hubieses pagado
+      - hubiese pagado
+      - "hubi\xE9semos pagado"
+      - hubieseis pagado
+      - hubiesen pagado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pagado
+      - hubieres pagado
+      - hubiere pagado
+      - "hubi\xE9remos pagado"
+      - hubiereis pagado
+      - hubieren pagado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - paga
+      - pague
+      - paguemos
+      - pagad
+      - paguen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}(low) {a_link|neckline} '
+          - - vis
+            - - t: escote en V
+                tr: V-neck
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go dutch'
+          sn: '2'
+          vrs:
+          - va: pagar a escote
+  fl: masculine noun
+  hwi:
+    hw: escote
+    prs:
+    - sound:
+        audio: escot01sp
+  meta:
+    id: escote
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609036000'
+    src: spanish
+    stems:
+    - escote
+    - pagar a escote
+    uuid: 7e3bb330-5b39-4ef5-a3ec-090c4f7f91d2
+  shortdef:
+  - (low) neckline
+  - to go dutch
+- ahws:
+  - hw: pata
+    hwc: -ta
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|duck}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|mallard}'
+          sn: '2'
+          vrs:
+          - va: pato real
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take the blame'
+          sls:
+          - familiar
+          sn: '3'
+          vrs:
+          - va: pagar el pato
+  fl: noun
+  hwi:
+    hw: pato
+    prs:
+    - sound:
+        audio: pato001sp
+  meta:
+    id: pato
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616841000'
+    src: spanish
+    stems:
+    - pato
+    - pata
+    - pato real
+    - pagar el pato
+    uuid: 98f6554b-e86d-4610-b44a-4a68f5ccf038
+  shortdef:
+  - duck
+  - mallard
+  - to take the blame

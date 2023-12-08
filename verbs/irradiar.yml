@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|radiate}, to {a_link|irradiate}'
+  fl: transitive verb
+  hwi:
+    hw: irradiar
+  meta:
+    id: irradiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613052000'
+    src: spanish
+    stems:
+    - irradiar
+    uuid: db6ab157-78a0-4107-95eb-0237a15e5f3d
+  shortdef:
+  - to radiate, to irradiate
+  suppl:
+    cjts:
+    - cjfs:
+      - irradiando
+      - irradiado
+      cjid: gppt
+    - cjfs:
+      - irradio
+      - irradias
+      - irradia
+      - irradiamos
+      - "irradi\xE1is"
+      - irradian
+      cjid: pind
+    - cjfs:
+      - irradiaba
+      - irradiabas
+      - irradiaba
+      - "irradi\xE1bamos"
+      - irradiabais
+      - irradiaban
+      cjid: pret
+    - cjfs:
+      - "irradi\xE9"
+      - irradiaste
+      - "irradi\xF3"
+      - irradiamos
+      - irradiasteis
+      - irradiaron
+      cjid: pprf
+    - cjfs:
+      - "irradiar\xE9"
+      - "irradiar\xE1s"
+      - "irradiar\xE1"
+      - irradiaremos
+      - "irradiar\xE9is"
+      - "irradiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "irradiar\xEDa"
+      - "irradiar\xEDas"
+      - "irradiar\xEDa"
+      - "irradiar\xEDamos"
+      - "irradiar\xEDais"
+      - "irradiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - irradie
+      - irradies
+      - irradie
+      - irradiemos
+      - "irradi\xE9is"
+      - irradien
+      cjid: psub
+    - cjfs:
+      - irradiara
+      - irradiaras
+      - irradiara
+      - "irradi\xE1ramos"
+      - irradiarais
+      - irradiaran
+      cjid: pisb1
+    - cjfs:
+      - irradiase
+      - irradiases
+      - irradiase
+      - "irradi\xE1semos"
+      - irradiaseis
+      - irradiasen
+      cjid: pisb2
+    - cjfs:
+      - irradiare
+      - irradiares
+      - irradiare
+      - "irradi\xE1remos"
+      - irradiareis
+      - irradiaren
+      cjid: fsub
+    - cjfs:
+      - he irradiado
+      - has irradiado
+      - ha irradiado
+      - hemos irradiado
+      - "hab\xE9is irradiado"
+      - han irradiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa irradiado"
+      - "hab\xEDas irradiado"
+      - "hab\xEDa irradiado"
+      - "hab\xEDamos irradiado"
+      - "hab\xEDais irradiado"
+      - "hab\xEDan irradiado"
+      cjid: ppsi
+    - cjfs:
+      - hube irradiado
+      - hubiste irradiado
+      - hubo irradiado
+      - hubimos irradiado
+      - hubisteis irradiado
+      - hubieron irradiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 irradiado"
+      - "habr\xE1s irradiado"
+      - "habr\xE1 irradiado"
+      - habremos irradiado
+      - "habr\xE9is irradiado"
+      - "habr\xE1n irradiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa irradiado"
+      - "habr\xEDas irradiado"
+      - "habr\xEDa irradiado"
+      - "habr\xEDamos irradiado"
+      - "habr\xEDais irradiado"
+      - "habr\xEDan irradiado"
+      cjid: cpef
+    - cjfs:
+      - haya irradiado
+      - hayas irradiado
+      - haya irradiado
+      - hayamos irradiado
+      - "hay\xE1is irradiado"
+      - hayan irradiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera irradiado
+      - hubieras irradiado
+      - hubiera irradiado
+      - "hubi\xE9ramos irradiado"
+      - hubierais irradiado
+      - hubieran irradiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese irradiado
+      - hubieses irradiado
+      - hubiese irradiado
+      - "hubi\xE9semos irradiado"
+      - hubieseis irradiado
+      - hubiesen irradiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere irradiado
+      - hubieres irradiado
+      - hubiere irradiado
+      - "hubi\xE9remos irradiado"
+      - hubiereis irradiado
+      - hubieren irradiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - irradia
+      - irradie
+      - irradiemos
+      - irradiad
+      - irradien
+      cjid: impf

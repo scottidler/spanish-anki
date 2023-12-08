@@ -1,0 +1,31 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|complain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|groan}, to {a_link|moan}'
+          sn: '2'
+  fl: reflexive verb
+  hwi:
+    hw: quejarse
+    prs:
+    - sound:
+        audio: queja02sp
+  meta:
+    id: quejarse
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618582000'
+    src: spanish
+    stems:
+    - quejarse
+    uuid: 077e2cf1-8b12-48aa-aff9-38c9f6f2f258
+  shortdef:
+  - to complain
+  - to groan, to moan

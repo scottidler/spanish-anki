@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|poke}, to {a_link|stir}, to {a_link|stoke} (a fire)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stir up}, to {a_link|rouse}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give}, to {a_link|land} (a blow)'
+          sls:
+          - familiar
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: atizar
+    prs:
+    - sound:
+        audio: atiza01sp
+  meta:
+    id: atizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602312000'
+    src: spanish
+    stems:
+    - atizar
+    uuid: 004d1041-fe56-4bc2-948f-b427f0b66c91
+  shortdef:
+  - to poke, to stir, to stoke (a fire)
+  - to stir up, to rouse
+  - to give, to land (a blow)
+  suppl:
+    cjts:
+    - cjfs:
+      - atizando
+      - atizado
+      cjid: gppt
+    - cjfs:
+      - atizo
+      - atizas
+      - atiza
+      - atizamos
+      - "atiz\xE1is"
+      - atizan
+      cjid: pind
+    - cjfs:
+      - atizaba
+      - atizabas
+      - atizaba
+      - "atiz\xE1bamos"
+      - atizabais
+      - atizaban
+      cjid: pret
+    - cjfs:
+      - "atic\xE9"
+      - atizaste
+      - "atiz\xF3"
+      - atizamos
+      - atizasteis
+      - atizaron
+      cjid: pprf
+    - cjfs:
+      - "atizar\xE9"
+      - "atizar\xE1s"
+      - "atizar\xE1"
+      - atizaremos
+      - "atizar\xE9is"
+      - "atizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atizar\xEDa"
+      - "atizar\xEDas"
+      - "atizar\xEDa"
+      - "atizar\xEDamos"
+      - "atizar\xEDais"
+      - "atizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - atice
+      - atices
+      - atice
+      - aticemos
+      - "atic\xE9is"
+      - aticen
+      cjid: psub
+    - cjfs:
+      - atizara
+      - atizaras
+      - atizara
+      - "atiz\xE1ramos"
+      - atizarais
+      - atizaran
+      cjid: pisb1
+    - cjfs:
+      - atizase
+      - atizases
+      - atizase
+      - "atiz\xE1semos"
+      - atizaseis
+      - atizasen
+      cjid: pisb2
+    - cjfs:
+      - atizare
+      - atizares
+      - atizare
+      - "atiz\xE1remos"
+      - atizareis
+      - atizaren
+      cjid: fsub
+    - cjfs:
+      - he atizado
+      - has atizado
+      - ha atizado
+      - hemos atizado
+      - "hab\xE9is atizado"
+      - han atizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atizado"
+      - "hab\xEDas atizado"
+      - "hab\xEDa atizado"
+      - "hab\xEDamos atizado"
+      - "hab\xEDais atizado"
+      - "hab\xEDan atizado"
+      cjid: ppsi
+    - cjfs:
+      - hube atizado
+      - hubiste atizado
+      - hubo atizado
+      - hubimos atizado
+      - hubisteis atizado
+      - hubieron atizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atizado"
+      - "habr\xE1s atizado"
+      - "habr\xE1 atizado"
+      - habremos atizado
+      - "habr\xE9is atizado"
+      - "habr\xE1n atizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atizado"
+      - "habr\xEDas atizado"
+      - "habr\xEDa atizado"
+      - "habr\xEDamos atizado"
+      - "habr\xEDais atizado"
+      - "habr\xEDan atizado"
+      cjid: cpef
+    - cjfs:
+      - haya atizado
+      - hayas atizado
+      - haya atizado
+      - hayamos atizado
+      - "hay\xE1is atizado"
+      - hayan atizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atizado
+      - hubieras atizado
+      - hubiera atizado
+      - "hubi\xE9ramos atizado"
+      - hubierais atizado
+      - hubieran atizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atizado
+      - hubieses atizado
+      - hubiese atizado
+      - "hubi\xE9semos atizado"
+      - hubieseis atizado
+      - hubiesen atizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atizado
+      - hubieres atizado
+      - hubiere atizado
+      - "hubi\xE9remos atizado"
+      - hubiereis atizado
+      - hubieren atizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atiza
+      - atice
+      - aticemos
+      - atizad
+      - aticen
+      cjid: impf

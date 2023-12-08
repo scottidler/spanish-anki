@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|promise} '
+          - - vis
+            - - t: "\xBFme lo prometes?"
+                tr: (do you) promise?
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|show promise}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|comprometerse||} {bc}to get engaged'
+    drp: prometerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: prometer
+    prs:
+    - sound:
+        audio: prome04sp
+  meta:
+    id: prometer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618256000'
+    src: spanish
+    stems:
+    - prometer
+    - prometerse
+    uuid: 7e4e1546-331b-44dc-95ea-ab9c1015c934
+  shortdef:
+  - to promise
+  - to show promise
+  suppl:
+    cjts:
+    - cjfs:
+      - prometiendo
+      - prometido
+      cjid: gppt
+    - cjfs:
+      - prometo
+      - prometes
+      - promete
+      - prometemos
+      - "promet\xE9is"
+      - prometen
+      cjid: pind
+    - cjfs:
+      - "promet\xEDa"
+      - "promet\xEDas"
+      - "promet\xEDa"
+      - "promet\xEDamos"
+      - "promet\xEDais"
+      - "promet\xEDan"
+      cjid: pret
+    - cjfs:
+      - "promet\xED"
+      - prometiste
+      - "prometi\xF3"
+      - prometimos
+      - prometisteis
+      - prometieron
+      cjid: pprf
+    - cjfs:
+      - "prometer\xE9"
+      - "prometer\xE1s"
+      - "prometer\xE1"
+      - prometeremos
+      - "prometer\xE9is"
+      - "prometer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prometer\xEDa"
+      - "prometer\xEDas"
+      - "prometer\xEDa"
+      - "prometer\xEDamos"
+      - "prometer\xEDais"
+      - "prometer\xEDan"
+      cjid: cond
+    - cjfs:
+      - prometa
+      - prometas
+      - prometa
+      - prometamos
+      - "promet\xE1is"
+      - prometan
+      cjid: psub
+    - cjfs:
+      - prometiera
+      - prometieras
+      - prometiera
+      - "prometi\xE9ramos"
+      - prometierais
+      - prometieran
+      cjid: pisb1
+    - cjfs:
+      - prometiese
+      - prometieses
+      - prometiese
+      - "prometi\xE9semos"
+      - prometieseis
+      - prometiesen
+      cjid: pisb2
+    - cjfs:
+      - prometiere
+      - prometieres
+      - prometiere
+      - "prometi\xE9remos"
+      - prometiereis
+      - prometieren
+      cjid: fsub
+    - cjfs:
+      - he prometido
+      - has prometido
+      - ha prometido
+      - hemos prometido
+      - "hab\xE9is prometido"
+      - han prometido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prometido"
+      - "hab\xEDas prometido"
+      - "hab\xEDa prometido"
+      - "hab\xEDamos prometido"
+      - "hab\xEDais prometido"
+      - "hab\xEDan prometido"
+      cjid: ppsi
+    - cjfs:
+      - hube prometido
+      - hubiste prometido
+      - hubo prometido
+      - hubimos prometido
+      - hubisteis prometido
+      - hubieron prometido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prometido"
+      - "habr\xE1s prometido"
+      - "habr\xE1 prometido"
+      - habremos prometido
+      - "habr\xE9is prometido"
+      - "habr\xE1n prometido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prometido"
+      - "habr\xEDas prometido"
+      - "habr\xEDa prometido"
+      - "habr\xEDamos prometido"
+      - "habr\xEDais prometido"
+      - "habr\xEDan prometido"
+      cjid: cpef
+    - cjfs:
+      - haya prometido
+      - hayas prometido
+      - haya prometido
+      - hayamos prometido
+      - "hay\xE1is prometido"
+      - hayan prometido
+      cjid: ppfs
+    - cjfs:
+      - hubiera prometido
+      - hubieras prometido
+      - hubiera prometido
+      - "hubi\xE9ramos prometido"
+      - hubierais prometido
+      - hubieran prometido
+      cjid: ppss1
+    - cjfs:
+      - hubiese prometido
+      - hubieses prometido
+      - hubiese prometido
+      - "hubi\xE9semos prometido"
+      - hubieseis prometido
+      - hubiesen prometido
+      cjid: ppss2
+    - cjfs:
+      - hubiere prometido
+      - hubieres prometido
+      - hubiere prometido
+      - "hubi\xE9remos prometido"
+      - hubiereis prometido
+      - hubieren prometido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - promete
+      - prometa
+      - prometamos
+      - prometed
+      - prometan
+      cjid: impf

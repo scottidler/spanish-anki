@@ -1,0 +1,222 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|use}, to {a_link|make use of} '
+          - - vis
+            - - t: "lo us\xF3 de martillo"
+                tr: he used it as a hammer
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|consumir||} {bc}to {a_link|consume}, to {a_link|use} (up)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|llevar||} {bc}to {a_link|wear}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|disposable}'
+          sn: '4'
+          vrs:
+          - va: de usar y tirar
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be used'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be in fashion'
+            sn: '2'
+    drp: usarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: usar
+    prs:
+    - sound:
+        audio: usar001sp
+  meta:
+    id: usar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622589000'
+    src: spanish
+    stems:
+    - usar
+    - de usar y tirar
+    - usarse
+    uuid: 4b3d2874-92d8-41f5-95cc-415b3d4b3a98
+  shortdef:
+  - to use, to make use of
+  - 'consumir : to consume, to use (up)'
+  - 'llevar : to wear'
+  suppl:
+    cjts:
+    - cjfs:
+      - usando
+      - usado
+      cjid: gppt
+    - cjfs:
+      - uso
+      - usas
+      - usa
+      - usamos
+      - "us\xE1is"
+      - usan
+      cjid: pind
+    - cjfs:
+      - usaba
+      - usabas
+      - usaba
+      - "us\xE1bamos"
+      - usabais
+      - usaban
+      cjid: pret
+    - cjfs:
+      - "us\xE9"
+      - usaste
+      - "us\xF3"
+      - usamos
+      - usasteis
+      - usaron
+      cjid: pprf
+    - cjfs:
+      - "usar\xE9"
+      - "usar\xE1s"
+      - "usar\xE1"
+      - usaremos
+      - "usar\xE9is"
+      - "usar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "usar\xEDa"
+      - "usar\xEDas"
+      - "usar\xEDa"
+      - "usar\xEDamos"
+      - "usar\xEDais"
+      - "usar\xEDan"
+      cjid: cond
+    - cjfs:
+      - use
+      - uses
+      - use
+      - usemos
+      - "us\xE9is"
+      - usen
+      cjid: psub
+    - cjfs:
+      - usara
+      - usaras
+      - usara
+      - "us\xE1ramos"
+      - usarais
+      - usaran
+      cjid: pisb1
+    - cjfs:
+      - usase
+      - usases
+      - usase
+      - "us\xE1semos"
+      - usaseis
+      - usasen
+      cjid: pisb2
+    - cjfs:
+      - usare
+      - usares
+      - usare
+      - "us\xE1remos"
+      - usareis
+      - usaren
+      cjid: fsub
+    - cjfs:
+      - he usado
+      - has usado
+      - ha usado
+      - hemos usado
+      - "hab\xE9is usado"
+      - han usado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa usado"
+      - "hab\xEDas usado"
+      - "hab\xEDa usado"
+      - "hab\xEDamos usado"
+      - "hab\xEDais usado"
+      - "hab\xEDan usado"
+      cjid: ppsi
+    - cjfs:
+      - hube usado
+      - hubiste usado
+      - hubo usado
+      - hubimos usado
+      - hubisteis usado
+      - hubieron usado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 usado"
+      - "habr\xE1s usado"
+      - "habr\xE1 usado"
+      - habremos usado
+      - "habr\xE9is usado"
+      - "habr\xE1n usado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa usado"
+      - "habr\xEDas usado"
+      - "habr\xEDa usado"
+      - "habr\xEDamos usado"
+      - "habr\xEDais usado"
+      - "habr\xEDan usado"
+      cjid: cpef
+    - cjfs:
+      - haya usado
+      - hayas usado
+      - haya usado
+      - hayamos usado
+      - "hay\xE1is usado"
+      - hayan usado
+      cjid: ppfs
+    - cjfs:
+      - hubiera usado
+      - hubieras usado
+      - hubiera usado
+      - "hubi\xE9ramos usado"
+      - hubierais usado
+      - hubieran usado
+      cjid: ppss1
+    - cjfs:
+      - hubiese usado
+      - hubieses usado
+      - hubiese usado
+      - "hubi\xE9semos usado"
+      - hubieseis usado
+      - hubiesen usado
+      cjid: ppss2
+    - cjfs:
+      - hubiere usado
+      - hubieres usado
+      - hubiere usado
+      - "hubi\xE9remos usado"
+      - hubiereis usado
+      - hubieren usado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - usa
+      - use
+      - usemos
+      - usad
+      - usen
+      cjid: impf

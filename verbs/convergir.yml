@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|converge}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to concur on'
+          sn: '2'
+          vrs:
+          - va: converger en
+            vac: ~ en
+  fl: intransitive verb
+  hwi:
+    hw: converger
+    prs:
+    - sound:
+        audio: conve07sp
+  meta:
+    id: converger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605809000'
+    src: spanish
+    stems:
+    - converger
+    - convergir
+    - converger en
+    uuid: 0a8db00c-1b96-4c24-8ab1-0d29694336d1
+  shortdef:
+  - to converge
+  - to concur on
+  suppl:
+    cjts:
+    - cjfs:
+      - convergiendo
+      - convergido
+      cjid: gppt
+    - cjfs:
+      - converjo
+      - converges
+      - converge
+      - convergemos
+      - "converg\xE9is"
+      - convergen
+      cjid: pind
+    - cjfs:
+      - "converg\xEDa"
+      - "converg\xEDas"
+      - "converg\xEDa"
+      - "converg\xEDamos"
+      - "converg\xEDais"
+      - "converg\xEDan"
+      cjid: pret
+    - cjfs:
+      - "converg\xED"
+      - convergiste
+      - "convergi\xF3"
+      - convergimos
+      - convergisteis
+      - convergieron
+      cjid: pprf
+    - cjfs:
+      - "converger\xE9"
+      - "converger\xE1s"
+      - "converger\xE1"
+      - convergeremos
+      - "converger\xE9is"
+      - "converger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "converger\xEDa"
+      - "converger\xEDas"
+      - "converger\xEDa"
+      - "converger\xEDamos"
+      - "converger\xEDais"
+      - "converger\xEDan"
+      cjid: cond
+    - cjfs:
+      - converja
+      - converjas
+      - converja
+      - converjamos
+      - "converj\xE1is"
+      - converjan
+      cjid: psub
+    - cjfs:
+      - convergiera
+      - convergieras
+      - convergiera
+      - "convergi\xE9ramos"
+      - convergierais
+      - convergieran
+      cjid: pisb1
+    - cjfs:
+      - convergiese
+      - convergieses
+      - convergiese
+      - "convergi\xE9semos"
+      - convergieseis
+      - convergiesen
+      cjid: pisb2
+    - cjfs:
+      - convergiere
+      - convergieres
+      - convergiere
+      - "convergi\xE9remos"
+      - convergiereis
+      - convergieren
+      cjid: fsub
+    - cjfs:
+      - he convergido
+      - has convergido
+      - ha convergido
+      - hemos convergido
+      - "hab\xE9is convergido"
+      - han convergido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa convergido"
+      - "hab\xEDas convergido"
+      - "hab\xEDa convergido"
+      - "hab\xEDamos convergido"
+      - "hab\xEDais convergido"
+      - "hab\xEDan convergido"
+      cjid: ppsi
+    - cjfs:
+      - hube convergido
+      - hubiste convergido
+      - hubo convergido
+      - hubimos convergido
+      - hubisteis convergido
+      - hubieron convergido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 convergido"
+      - "habr\xE1s convergido"
+      - "habr\xE1 convergido"
+      - habremos convergido
+      - "habr\xE9is convergido"
+      - "habr\xE1n convergido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa convergido"
+      - "habr\xEDas convergido"
+      - "habr\xEDa convergido"
+      - "habr\xEDamos convergido"
+      - "habr\xEDais convergido"
+      - "habr\xEDan convergido"
+      cjid: cpef
+    - cjfs:
+      - haya convergido
+      - hayas convergido
+      - haya convergido
+      - hayamos convergido
+      - "hay\xE1is convergido"
+      - hayan convergido
+      cjid: ppfs
+    - cjfs:
+      - hubiera convergido
+      - hubieras convergido
+      - hubiera convergido
+      - "hubi\xE9ramos convergido"
+      - hubierais convergido
+      - hubieran convergido
+      cjid: ppss1
+    - cjfs:
+      - hubiese convergido
+      - hubieses convergido
+      - hubiese convergido
+      - "hubi\xE9semos convergido"
+      - hubieseis convergido
+      - hubiesen convergido
+      cjid: ppss2
+    - cjfs:
+      - hubiere convergido
+      - hubieres convergido
+      - hubiere convergido
+      - "hubi\xE9remos convergido"
+      - hubiereis convergido
+      - hubieren convergido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - converge
+      - converja
+      - converjamos
+      - converged
+      - converjan
+      cjid: impf
+  vrs:
+  - cjref: '35'
+    va: convergir
+    vl: or

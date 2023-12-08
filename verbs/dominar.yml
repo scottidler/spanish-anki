@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dominate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|master}, to be proficient at'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|overlook}, to offer a view of'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|predominate}, to {a_link|prevail}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to control oneself'
+    drp: dominarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: dominar
+    prs:
+    - sound:
+        audio: domin01sp
+  meta:
+    id: dominar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607884000'
+    src: spanish
+    stems:
+    - dominar
+    - dominarse
+    uuid: 6e3e8631-48e3-4ae3-b48a-ed3b1bd89b4d
+  shortdef:
+  - to dominate
+  - to master, to be proficient at
+  - to overlook, to offer a view of
+  suppl:
+    cjts:
+    - cjfs:
+      - dominando
+      - dominado
+      cjid: gppt
+    - cjfs:
+      - domino
+      - dominas
+      - domina
+      - dominamos
+      - "domin\xE1is"
+      - dominan
+      cjid: pind
+    - cjfs:
+      - dominaba
+      - dominabas
+      - dominaba
+      - "domin\xE1bamos"
+      - dominabais
+      - dominaban
+      cjid: pret
+    - cjfs:
+      - "domin\xE9"
+      - dominaste
+      - "domin\xF3"
+      - dominamos
+      - dominasteis
+      - dominaron
+      cjid: pprf
+    - cjfs:
+      - "dominar\xE9"
+      - "dominar\xE1s"
+      - "dominar\xE1"
+      - dominaremos
+      - "dominar\xE9is"
+      - "dominar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dominar\xEDa"
+      - "dominar\xEDas"
+      - "dominar\xEDa"
+      - "dominar\xEDamos"
+      - "dominar\xEDais"
+      - "dominar\xEDan"
+      cjid: cond
+    - cjfs:
+      - domine
+      - domines
+      - domine
+      - dominemos
+      - "domin\xE9is"
+      - dominen
+      cjid: psub
+    - cjfs:
+      - dominara
+      - dominaras
+      - dominara
+      - "domin\xE1ramos"
+      - dominarais
+      - dominaran
+      cjid: pisb1
+    - cjfs:
+      - dominase
+      - dominases
+      - dominase
+      - "domin\xE1semos"
+      - dominaseis
+      - dominasen
+      cjid: pisb2
+    - cjfs:
+      - dominare
+      - dominares
+      - dominare
+      - "domin\xE1remos"
+      - dominareis
+      - dominaren
+      cjid: fsub
+    - cjfs:
+      - he dominado
+      - has dominado
+      - ha dominado
+      - hemos dominado
+      - "hab\xE9is dominado"
+      - han dominado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dominado"
+      - "hab\xEDas dominado"
+      - "hab\xEDa dominado"
+      - "hab\xEDamos dominado"
+      - "hab\xEDais dominado"
+      - "hab\xEDan dominado"
+      cjid: ppsi
+    - cjfs:
+      - hube dominado
+      - hubiste dominado
+      - hubo dominado
+      - hubimos dominado
+      - hubisteis dominado
+      - hubieron dominado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dominado"
+      - "habr\xE1s dominado"
+      - "habr\xE1 dominado"
+      - habremos dominado
+      - "habr\xE9is dominado"
+      - "habr\xE1n dominado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dominado"
+      - "habr\xEDas dominado"
+      - "habr\xEDa dominado"
+      - "habr\xEDamos dominado"
+      - "habr\xEDais dominado"
+      - "habr\xEDan dominado"
+      cjid: cpef
+    - cjfs:
+      - haya dominado
+      - hayas dominado
+      - haya dominado
+      - hayamos dominado
+      - "hay\xE1is dominado"
+      - hayan dominado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dominado
+      - hubieras dominado
+      - hubiera dominado
+      - "hubi\xE9ramos dominado"
+      - hubierais dominado
+      - hubieran dominado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dominado
+      - hubieses dominado
+      - hubiese dominado
+      - "hubi\xE9semos dominado"
+      - hubieseis dominado
+      - hubiesen dominado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dominado
+      - hubieres dominado
+      - hubiere dominado
+      - "hubi\xE9remos dominado"
+      - hubiereis dominado
+      - hubieren dominado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - domina
+      - domine
+      - dominemos
+      - dominad
+      - dominen
+      cjid: impf

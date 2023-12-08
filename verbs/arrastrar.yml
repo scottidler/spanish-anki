@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drag}, to {a_link|tow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw}, to {a_link|attract}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to hang down, to {a_link|trail}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|crawl}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|grovel}'
+            sn: '2'
+    drp: arrastrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arrastrar
+    prs:
+    - sound:
+        audio: arras02sp
+  meta:
+    id: arrastrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601983000'
+    src: spanish
+    stems:
+    - arrastrar
+    - arrastrarse
+    uuid: 0887149a-9aa5-4a90-9f30-80f875dd6910
+  shortdef:
+  - to drag, to tow
+  - to draw, to attract
+  - to hang down, to trail
+  suppl:
+    cjts:
+    - cjfs:
+      - arrastrando
+      - arrastrado
+      cjid: gppt
+    - cjfs:
+      - arrastro
+      - arrastras
+      - arrastra
+      - arrastramos
+      - "arrastr\xE1is"
+      - arrastran
+      cjid: pind
+    - cjfs:
+      - arrastraba
+      - arrastrabas
+      - arrastraba
+      - "arrastr\xE1bamos"
+      - arrastrabais
+      - arrastraban
+      cjid: pret
+    - cjfs:
+      - "arrastr\xE9"
+      - arrastraste
+      - "arrastr\xF3"
+      - arrastramos
+      - arrastrasteis
+      - arrastraron
+      cjid: pprf
+    - cjfs:
+      - "arrastrar\xE9"
+      - "arrastrar\xE1s"
+      - "arrastrar\xE1"
+      - arrastraremos
+      - "arrastrar\xE9is"
+      - "arrastrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrastrar\xEDa"
+      - "arrastrar\xEDas"
+      - "arrastrar\xEDa"
+      - "arrastrar\xEDamos"
+      - "arrastrar\xEDais"
+      - "arrastrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arrastre
+      - arrastres
+      - arrastre
+      - arrastremos
+      - "arrastr\xE9is"
+      - arrastren
+      cjid: psub
+    - cjfs:
+      - arrastrara
+      - arrastraras
+      - arrastrara
+      - "arrastr\xE1ramos"
+      - arrastrarais
+      - arrastraran
+      cjid: pisb1
+    - cjfs:
+      - arrastrase
+      - arrastrases
+      - arrastrase
+      - "arrastr\xE1semos"
+      - arrastraseis
+      - arrastrasen
+      cjid: pisb2
+    - cjfs:
+      - arrastrare
+      - arrastrares
+      - arrastrare
+      - "arrastr\xE1remos"
+      - arrastrareis
+      - arrastraren
+      cjid: fsub
+    - cjfs:
+      - he arrastrado
+      - has arrastrado
+      - ha arrastrado
+      - hemos arrastrado
+      - "hab\xE9is arrastrado"
+      - han arrastrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrastrado"
+      - "hab\xEDas arrastrado"
+      - "hab\xEDa arrastrado"
+      - "hab\xEDamos arrastrado"
+      - "hab\xEDais arrastrado"
+      - "hab\xEDan arrastrado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrastrado
+      - hubiste arrastrado
+      - hubo arrastrado
+      - hubimos arrastrado
+      - hubisteis arrastrado
+      - hubieron arrastrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrastrado"
+      - "habr\xE1s arrastrado"
+      - "habr\xE1 arrastrado"
+      - habremos arrastrado
+      - "habr\xE9is arrastrado"
+      - "habr\xE1n arrastrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrastrado"
+      - "habr\xEDas arrastrado"
+      - "habr\xEDa arrastrado"
+      - "habr\xEDamos arrastrado"
+      - "habr\xEDais arrastrado"
+      - "habr\xEDan arrastrado"
+      cjid: cpef
+    - cjfs:
+      - haya arrastrado
+      - hayas arrastrado
+      - haya arrastrado
+      - hayamos arrastrado
+      - "hay\xE1is arrastrado"
+      - hayan arrastrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrastrado
+      - hubieras arrastrado
+      - hubiera arrastrado
+      - "hubi\xE9ramos arrastrado"
+      - hubierais arrastrado
+      - hubieran arrastrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrastrado
+      - hubieses arrastrado
+      - hubiese arrastrado
+      - "hubi\xE9semos arrastrado"
+      - hubieseis arrastrado
+      - hubiesen arrastrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrastrado
+      - hubieres arrastrado
+      - hubiere arrastrado
+      - "hubi\xE9remos arrastrado"
+      - hubiereis arrastrado
+      - hubieren arrastrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arrastra
+      - arrastre
+      - arrastremos
+      - arrastrad
+      - arrastren
+      cjid: impf

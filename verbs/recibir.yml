@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|receive}, to {a_link|get}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|receive}, to {a_link|greet} (visitors)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to receive visitors'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|graduate}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to qualify as'
+            sn: '2'
+            vrs:
+            - va: recibirse de
+              vac: ~ de
+    drp: recibirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: recibir
+    prs:
+    - sound:
+        audio: recib02sp
+  meta:
+    id: recibir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618973000'
+    src: spanish
+    stems:
+    - recibir
+    - recibirse
+    - recibirse de
+    uuid: e2720f0c-66a6-482a-9ea4-1cb35f66a4b6
+  shortdef:
+  - to receive, to get
+  - to receive, to greet (visitors)
+  - to receive visitors
+  suppl:
+    cjts:
+    - cjfs:
+      - recibiendo
+      - recibido
+      cjid: gppt
+    - cjfs:
+      - recibo
+      - recibes
+      - recibe
+      - recibimos
+      - "recib\xEDs"
+      - reciben
+      cjid: pind
+    - cjfs:
+      - "recib\xEDa"
+      - "recib\xEDas"
+      - "recib\xEDa"
+      - "recib\xEDamos"
+      - "recib\xEDais"
+      - "recib\xEDan"
+      cjid: pret
+    - cjfs:
+      - "recib\xED"
+      - recibiste
+      - "recibi\xF3"
+      - recibimos
+      - recibisteis
+      - recibieron
+      cjid: pprf
+    - cjfs:
+      - "recibir\xE9"
+      - "recibir\xE1s"
+      - "recibir\xE1"
+      - recibiremos
+      - "recibir\xE9is"
+      - "recibir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recibir\xEDa"
+      - "recibir\xEDas"
+      - "recibir\xEDa"
+      - "recibir\xEDamos"
+      - "recibir\xEDais"
+      - "recibir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reciba
+      - recibas
+      - reciba
+      - recibamos
+      - "recib\xE1is"
+      - reciban
+      cjid: psub
+    - cjfs:
+      - recibiera
+      - recibieras
+      - recibiera
+      - "recibi\xE9ramos"
+      - recibierais
+      - recibieran
+      cjid: pisb1
+    - cjfs:
+      - recibiese
+      - recibieses
+      - recibiese
+      - "recibi\xE9semos"
+      - recibieseis
+      - recibiesen
+      cjid: pisb2
+    - cjfs:
+      - recibiere
+      - recibieres
+      - recibiere
+      - "recibi\xE9remos"
+      - recibiereis
+      - recibieren
+      cjid: fsub
+    - cjfs:
+      - he recibido
+      - has recibido
+      - ha recibido
+      - hemos recibido
+      - "hab\xE9is recibido"
+      - han recibido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recibido"
+      - "hab\xEDas recibido"
+      - "hab\xEDa recibido"
+      - "hab\xEDamos recibido"
+      - "hab\xEDais recibido"
+      - "hab\xEDan recibido"
+      cjid: ppsi
+    - cjfs:
+      - hube recibido
+      - hubiste recibido
+      - hubo recibido
+      - hubimos recibido
+      - hubisteis recibido
+      - hubieron recibido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recibido"
+      - "habr\xE1s recibido"
+      - "habr\xE1 recibido"
+      - habremos recibido
+      - "habr\xE9is recibido"
+      - "habr\xE1n recibido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recibido"
+      - "habr\xEDas recibido"
+      - "habr\xEDa recibido"
+      - "habr\xEDamos recibido"
+      - "habr\xEDais recibido"
+      - "habr\xEDan recibido"
+      cjid: cpef
+    - cjfs:
+      - haya recibido
+      - hayas recibido
+      - haya recibido
+      - hayamos recibido
+      - "hay\xE1is recibido"
+      - hayan recibido
+      cjid: ppfs
+    - cjfs:
+      - hubiera recibido
+      - hubieras recibido
+      - hubiera recibido
+      - "hubi\xE9ramos recibido"
+      - hubierais recibido
+      - hubieran recibido
+      cjid: ppss1
+    - cjfs:
+      - hubiese recibido
+      - hubieses recibido
+      - hubiese recibido
+      - "hubi\xE9semos recibido"
+      - hubieseis recibido
+      - hubiesen recibido
+      cjid: ppss2
+    - cjfs:
+      - hubiere recibido
+      - hubieres recibido
+      - hubiere recibido
+      - "hubi\xE9remos recibido"
+      - hubiereis recibido
+      - hubieren recibido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recibe
+      - reciba
+      - recibamos
+      - recibid
+      - reciban
+      cjid: impf

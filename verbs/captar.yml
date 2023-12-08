@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|catch}, to {a_link|grasp}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gain}, to {a_link|attract}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|harness}, to {a_link|collect} (waters)'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: captar
+    prs:
+    - sound:
+        audio: capta01sp
+  meta:
+    id: captar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603938000'
+    src: spanish
+    stems:
+    - captar
+    uuid: 5bc2b042-ff4b-486a-aaf2-cb3769b47c91
+  shortdef:
+  - to catch, to grasp
+  - to gain, to attract
+  - to harness, to collect (waters)
+  suppl:
+    cjts:
+    - cjfs:
+      - captando
+      - captado
+      cjid: gppt
+    - cjfs:
+      - capto
+      - captas
+      - capta
+      - captamos
+      - "capt\xE1is"
+      - captan
+      cjid: pind
+    - cjfs:
+      - captaba
+      - captabas
+      - captaba
+      - "capt\xE1bamos"
+      - captabais
+      - captaban
+      cjid: pret
+    - cjfs:
+      - "capt\xE9"
+      - captaste
+      - "capt\xF3"
+      - captamos
+      - captasteis
+      - captaron
+      cjid: pprf
+    - cjfs:
+      - "captar\xE9"
+      - "captar\xE1s"
+      - "captar\xE1"
+      - captaremos
+      - "captar\xE9is"
+      - "captar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "captar\xEDa"
+      - "captar\xEDas"
+      - "captar\xEDa"
+      - "captar\xEDamos"
+      - "captar\xEDais"
+      - "captar\xEDan"
+      cjid: cond
+    - cjfs:
+      - capte
+      - captes
+      - capte
+      - captemos
+      - "capt\xE9is"
+      - capten
+      cjid: psub
+    - cjfs:
+      - captara
+      - captaras
+      - captara
+      - "capt\xE1ramos"
+      - captarais
+      - captaran
+      cjid: pisb1
+    - cjfs:
+      - captase
+      - captases
+      - captase
+      - "capt\xE1semos"
+      - captaseis
+      - captasen
+      cjid: pisb2
+    - cjfs:
+      - captare
+      - captares
+      - captare
+      - "capt\xE1remos"
+      - captareis
+      - captaren
+      cjid: fsub
+    - cjfs:
+      - he captado
+      - has captado
+      - ha captado
+      - hemos captado
+      - "hab\xE9is captado"
+      - han captado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa captado"
+      - "hab\xEDas captado"
+      - "hab\xEDa captado"
+      - "hab\xEDamos captado"
+      - "hab\xEDais captado"
+      - "hab\xEDan captado"
+      cjid: ppsi
+    - cjfs:
+      - hube captado
+      - hubiste captado
+      - hubo captado
+      - hubimos captado
+      - hubisteis captado
+      - hubieron captado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 captado"
+      - "habr\xE1s captado"
+      - "habr\xE1 captado"
+      - habremos captado
+      - "habr\xE9is captado"
+      - "habr\xE1n captado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa captado"
+      - "habr\xEDas captado"
+      - "habr\xEDa captado"
+      - "habr\xEDamos captado"
+      - "habr\xEDais captado"
+      - "habr\xEDan captado"
+      cjid: cpef
+    - cjfs:
+      - haya captado
+      - hayas captado
+      - haya captado
+      - hayamos captado
+      - "hay\xE1is captado"
+      - hayan captado
+      cjid: ppfs
+    - cjfs:
+      - hubiera captado
+      - hubieras captado
+      - hubiera captado
+      - "hubi\xE9ramos captado"
+      - hubierais captado
+      - hubieran captado
+      cjid: ppss1
+    - cjfs:
+      - hubiese captado
+      - hubieses captado
+      - hubiese captado
+      - "hubi\xE9semos captado"
+      - hubieseis captado
+      - hubiesen captado
+      cjid: ppss2
+    - cjfs:
+      - hubiere captado
+      - hubieres captado
+      - hubiere captado
+      - "hubi\xE9remos captado"
+      - hubiereis captado
+      - hubieren captado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - capta
+      - capte
+      - captemos
+      - captad
+      - capten
+      cjid: impf

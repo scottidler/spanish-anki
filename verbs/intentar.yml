@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attempt}, to {a_link|try}'
+  fl: transitive verb
+  hwi:
+    hw: intentar
+    prs:
+    - sound:
+        audio: inten03sp
+  meta:
+    id: intentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612804000'
+    src: spanish
+    stems:
+    - intentar
+    uuid: c8c9a414-dd62-4cca-8e75-81b4becba6e5
+  shortdef:
+  - to attempt, to try
+  suppl:
+    cjts:
+    - cjfs:
+      - intentando
+      - intentado
+      cjid: gppt
+    - cjfs:
+      - intento
+      - intentas
+      - intenta
+      - intentamos
+      - "intent\xE1is"
+      - intentan
+      cjid: pind
+    - cjfs:
+      - intentaba
+      - intentabas
+      - intentaba
+      - "intent\xE1bamos"
+      - intentabais
+      - intentaban
+      cjid: pret
+    - cjfs:
+      - "intent\xE9"
+      - intentaste
+      - "intent\xF3"
+      - intentamos
+      - intentasteis
+      - intentaron
+      cjid: pprf
+    - cjfs:
+      - "intentar\xE9"
+      - "intentar\xE1s"
+      - "intentar\xE1"
+      - intentaremos
+      - "intentar\xE9is"
+      - "intentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "intentar\xEDa"
+      - "intentar\xEDas"
+      - "intentar\xEDa"
+      - "intentar\xEDamos"
+      - "intentar\xEDais"
+      - "intentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - intente
+      - intentes
+      - intente
+      - intentemos
+      - "intent\xE9is"
+      - intenten
+      cjid: psub
+    - cjfs:
+      - intentara
+      - intentaras
+      - intentara
+      - "intent\xE1ramos"
+      - intentarais
+      - intentaran
+      cjid: pisb1
+    - cjfs:
+      - intentase
+      - intentases
+      - intentase
+      - "intent\xE1semos"
+      - intentaseis
+      - intentasen
+      cjid: pisb2
+    - cjfs:
+      - intentare
+      - intentares
+      - intentare
+      - "intent\xE1remos"
+      - intentareis
+      - intentaren
+      cjid: fsub
+    - cjfs:
+      - he intentado
+      - has intentado
+      - ha intentado
+      - hemos intentado
+      - "hab\xE9is intentado"
+      - han intentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa intentado"
+      - "hab\xEDas intentado"
+      - "hab\xEDa intentado"
+      - "hab\xEDamos intentado"
+      - "hab\xEDais intentado"
+      - "hab\xEDan intentado"
+      cjid: ppsi
+    - cjfs:
+      - hube intentado
+      - hubiste intentado
+      - hubo intentado
+      - hubimos intentado
+      - hubisteis intentado
+      - hubieron intentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 intentado"
+      - "habr\xE1s intentado"
+      - "habr\xE1 intentado"
+      - habremos intentado
+      - "habr\xE9is intentado"
+      - "habr\xE1n intentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa intentado"
+      - "habr\xEDas intentado"
+      - "habr\xEDa intentado"
+      - "habr\xEDamos intentado"
+      - "habr\xEDais intentado"
+      - "habr\xEDan intentado"
+      cjid: cpef
+    - cjfs:
+      - haya intentado
+      - hayas intentado
+      - haya intentado
+      - hayamos intentado
+      - "hay\xE1is intentado"
+      - hayan intentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera intentado
+      - hubieras intentado
+      - hubiera intentado
+      - "hubi\xE9ramos intentado"
+      - hubierais intentado
+      - hubieran intentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese intentado
+      - hubieses intentado
+      - hubiese intentado
+      - "hubi\xE9semos intentado"
+      - hubieseis intentado
+      - hubiesen intentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere intentado
+      - hubieres intentado
+      - hubiere intentado
+      - "hubi\xE9remos intentado"
+      - hubiereis intentado
+      - hubieren intentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - intenta
+      - intente
+      - intentemos
+      - intentad
+      - intenten
+      cjid: impf

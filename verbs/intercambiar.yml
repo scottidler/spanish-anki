@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|canjear||} {bc}to {a_link|exchange}, to {a_link|trade}'
+  fl: transitive verb
+  hwi:
+    hw: intercambiar
+    prs:
+    - sound:
+        audio: inter03sp
+  meta:
+    id: intercambiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612813000'
+    src: spanish
+    stems:
+    - intercambiar
+    uuid: 53d65a8d-6707-46a3-9361-42f4eaf07b90
+  shortdef:
+  - 'canjear : to exchange, to trade'
+  suppl:
+    cjts:
+    - cjfs:
+      - intercambiando
+      - intercambiado
+      cjid: gppt
+    - cjfs:
+      - intercambio
+      - intercambias
+      - intercambia
+      - intercambiamos
+      - "intercambi\xE1is"
+      - intercambian
+      cjid: pind
+    - cjfs:
+      - intercambiaba
+      - intercambiabas
+      - intercambiaba
+      - "intercambi\xE1bamos"
+      - intercambiabais
+      - intercambiaban
+      cjid: pret
+    - cjfs:
+      - "intercambi\xE9"
+      - intercambiaste
+      - "intercambi\xF3"
+      - intercambiamos
+      - intercambiasteis
+      - intercambiaron
+      cjid: pprf
+    - cjfs:
+      - "intercambiar\xE9"
+      - "intercambiar\xE1s"
+      - "intercambiar\xE1"
+      - intercambiaremos
+      - "intercambiar\xE9is"
+      - "intercambiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "intercambiar\xEDa"
+      - "intercambiar\xEDas"
+      - "intercambiar\xEDa"
+      - "intercambiar\xEDamos"
+      - "intercambiar\xEDais"
+      - "intercambiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - intercambie
+      - intercambies
+      - intercambie
+      - intercambiemos
+      - "intercambi\xE9is"
+      - intercambien
+      cjid: psub
+    - cjfs:
+      - intercambiara
+      - intercambiaras
+      - intercambiara
+      - "intercambi\xE1ramos"
+      - intercambiarais
+      - intercambiaran
+      cjid: pisb1
+    - cjfs:
+      - intercambiase
+      - intercambiases
+      - intercambiase
+      - "intercambi\xE1semos"
+      - intercambiaseis
+      - intercambiasen
+      cjid: pisb2
+    - cjfs:
+      - intercambiare
+      - intercambiares
+      - intercambiare
+      - "intercambi\xE1remos"
+      - intercambiareis
+      - intercambiaren
+      cjid: fsub
+    - cjfs:
+      - he intercambiado
+      - has intercambiado
+      - ha intercambiado
+      - hemos intercambiado
+      - "hab\xE9is intercambiado"
+      - han intercambiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa intercambiado"
+      - "hab\xEDas intercambiado"
+      - "hab\xEDa intercambiado"
+      - "hab\xEDamos intercambiado"
+      - "hab\xEDais intercambiado"
+      - "hab\xEDan intercambiado"
+      cjid: ppsi
+    - cjfs:
+      - hube intercambiado
+      - hubiste intercambiado
+      - hubo intercambiado
+      - hubimos intercambiado
+      - hubisteis intercambiado
+      - hubieron intercambiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 intercambiado"
+      - "habr\xE1s intercambiado"
+      - "habr\xE1 intercambiado"
+      - habremos intercambiado
+      - "habr\xE9is intercambiado"
+      - "habr\xE1n intercambiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa intercambiado"
+      - "habr\xEDas intercambiado"
+      - "habr\xEDa intercambiado"
+      - "habr\xEDamos intercambiado"
+      - "habr\xEDais intercambiado"
+      - "habr\xEDan intercambiado"
+      cjid: cpef
+    - cjfs:
+      - haya intercambiado
+      - hayas intercambiado
+      - haya intercambiado
+      - hayamos intercambiado
+      - "hay\xE1is intercambiado"
+      - hayan intercambiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera intercambiado
+      - hubieras intercambiado
+      - hubiera intercambiado
+      - "hubi\xE9ramos intercambiado"
+      - hubierais intercambiado
+      - hubieran intercambiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese intercambiado
+      - hubieses intercambiado
+      - hubiese intercambiado
+      - "hubi\xE9semos intercambiado"
+      - hubieseis intercambiado
+      - hubiesen intercambiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere intercambiado
+      - hubieres intercambiado
+      - hubiere intercambiado
+      - "hubi\xE9remos intercambiado"
+      - hubiereis intercambiado
+      - hubieren intercambiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - intercambia
+      - intercambie
+      - intercambiemos
+      - intercambiad
+      - intercambien
+      cjid: impf

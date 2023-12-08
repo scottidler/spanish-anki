@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|nutrir||} {bc}to {a_link|feed}, to {a_link|nourish}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mantener||} {bc}to {a_link|support} (a family)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fomentar||} {bc}to {a_link|nurture}, to {a_link|foster}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|live on}'
+            vrs:
+            - va: alimentarse con
+              vac: ~ con
+    drp: alimentarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: alimentar
+    prs:
+    - sound:
+        audio: alime02sp
+  meta:
+    id: alimentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601028000'
+    src: spanish
+    stems:
+    - alimentar
+    - alimentarse
+    - alimentarse con
+    uuid: 54519a39-aacc-404f-bb04-1c0e68dffb29
+  shortdef:
+  - 'nutrir : to feed, to nourish'
+  - 'mantener : to support (a family)'
+  - 'fomentar : to nurture, to foster'
+  suppl:
+    cjts:
+    - cjfs:
+      - alimentando
+      - alimentado
+      cjid: gppt
+    - cjfs:
+      - alimento
+      - alimentas
+      - alimenta
+      - alimentamos
+      - "aliment\xE1is"
+      - alimentan
+      cjid: pind
+    - cjfs:
+      - alimentaba
+      - alimentabas
+      - alimentaba
+      - "aliment\xE1bamos"
+      - alimentabais
+      - alimentaban
+      cjid: pret
+    - cjfs:
+      - "aliment\xE9"
+      - alimentaste
+      - "aliment\xF3"
+      - alimentamos
+      - alimentasteis
+      - alimentaron
+      cjid: pprf
+    - cjfs:
+      - "alimentar\xE9"
+      - "alimentar\xE1s"
+      - "alimentar\xE1"
+      - alimentaremos
+      - "alimentar\xE9is"
+      - "alimentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alimentar\xEDa"
+      - "alimentar\xEDas"
+      - "alimentar\xEDa"
+      - "alimentar\xEDamos"
+      - "alimentar\xEDais"
+      - "alimentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alimente
+      - alimentes
+      - alimente
+      - alimentemos
+      - "aliment\xE9is"
+      - alimenten
+      cjid: psub
+    - cjfs:
+      - alimentara
+      - alimentaras
+      - alimentara
+      - "aliment\xE1ramos"
+      - alimentarais
+      - alimentaran
+      cjid: pisb1
+    - cjfs:
+      - alimentase
+      - alimentases
+      - alimentase
+      - "aliment\xE1semos"
+      - alimentaseis
+      - alimentasen
+      cjid: pisb2
+    - cjfs:
+      - alimentare
+      - alimentares
+      - alimentare
+      - "aliment\xE1remos"
+      - alimentareis
+      - alimentaren
+      cjid: fsub
+    - cjfs:
+      - he alimentado
+      - has alimentado
+      - ha alimentado
+      - hemos alimentado
+      - "hab\xE9is alimentado"
+      - han alimentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alimentado"
+      - "hab\xEDas alimentado"
+      - "hab\xEDa alimentado"
+      - "hab\xEDamos alimentado"
+      - "hab\xEDais alimentado"
+      - "hab\xEDan alimentado"
+      cjid: ppsi
+    - cjfs:
+      - hube alimentado
+      - hubiste alimentado
+      - hubo alimentado
+      - hubimos alimentado
+      - hubisteis alimentado
+      - hubieron alimentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alimentado"
+      - "habr\xE1s alimentado"
+      - "habr\xE1 alimentado"
+      - habremos alimentado
+      - "habr\xE9is alimentado"
+      - "habr\xE1n alimentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alimentado"
+      - "habr\xEDas alimentado"
+      - "habr\xEDa alimentado"
+      - "habr\xEDamos alimentado"
+      - "habr\xEDais alimentado"
+      - "habr\xEDan alimentado"
+      cjid: cpef
+    - cjfs:
+      - haya alimentado
+      - hayas alimentado
+      - haya alimentado
+      - hayamos alimentado
+      - "hay\xE1is alimentado"
+      - hayan alimentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alimentado
+      - hubieras alimentado
+      - hubiera alimentado
+      - "hubi\xE9ramos alimentado"
+      - hubierais alimentado
+      - hubieran alimentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alimentado
+      - hubieses alimentado
+      - hubiese alimentado
+      - "hubi\xE9semos alimentado"
+      - hubieseis alimentado
+      - hubiesen alimentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alimentado
+      - hubieres alimentado
+      - hubiere alimentado
+      - "hubi\xE9remos alimentado"
+      - hubiereis alimentado
+      - hubieren alimentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alimenta
+      - alimente
+      - alimentemos
+      - alimentad
+      - alimenten
+      cjid: impf

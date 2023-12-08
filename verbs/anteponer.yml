@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to place before '
+          - - vis
+            - - t: "anteponer al inter\xE9s de la naci\xF3n el inter\xE9s de la comunidad"
+                tr: to place the interests of the community before national interest
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prefer}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: anteponer
+  meta:
+    id: anteponer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601495000'
+    src: spanish
+    stems:
+    - anteponer
+    uuid: b81ec8e6-caec-46bf-be0c-a5357da04ec4
+  shortdef:
+  - to place before
+  - to prefer
+  suppl:
+    cjts:
+    - cjfs:
+      - anteponiendo
+      - antepuesto
+      cjid: gppt
+    - cjfs:
+      - antepongo
+      - antepones
+      - antepone
+      - anteponemos
+      - "antepon\xE9is"
+      - anteponen
+      cjid: pind
+    - cjfs:
+      - "antepon\xEDa"
+      - "antepon\xEDas"
+      - "antepon\xEDa"
+      - "antepon\xEDamos"
+      - "antepon\xEDais"
+      - "antepon\xEDan"
+      cjid: pret
+    - cjfs:
+      - antepuse
+      - antepusiste
+      - antepuso
+      - antepusimos
+      - antepusisteis
+      - antepusieron
+      cjid: pprf
+    - cjfs:
+      - "antepondr\xE9"
+      - "antepondr\xE1s"
+      - "antepondr\xE1"
+      - antepondremos
+      - "antepondr\xE9is"
+      - "antepondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "antepondr\xEDa"
+      - "antepondr\xEDas"
+      - "antepondr\xEDa"
+      - "antepondr\xEDamos"
+      - "antepondr\xEDais"
+      - "antepondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - anteponga
+      - antepongas
+      - anteponga
+      - antepongamos
+      - "antepong\xE1is"
+      - antepongan
+      cjid: psub
+    - cjfs:
+      - antepusiera
+      - antepusieras
+      - antepusiera
+      - "antepusi\xE9ramos"
+      - antepusierais
+      - antepusieran
+      cjid: pisb1
+    - cjfs:
+      - antepusiese
+      - antepusieses
+      - antepusiese
+      - "antepusi\xE9semos"
+      - antepusieseis
+      - antepusiesen
+      cjid: pisb2
+    - cjfs:
+      - antepusiere
+      - antepusieres
+      - antepusiere
+      - "antepusi\xE9remos"
+      - antepusiereis
+      - antepusieren
+      cjid: fsub
+    - cjfs:
+      - he antepuesto
+      - has antepuesto
+      - ha antepuesto
+      - hemos antepuesto
+      - "hab\xE9is antepuesto"
+      - han antepuesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa antepuesto"
+      - "hab\xEDas antepuesto"
+      - "hab\xEDa antepuesto"
+      - "hab\xEDamos antepuesto"
+      - "hab\xEDais antepuesto"
+      - "hab\xEDan antepuesto"
+      cjid: ppsi
+    - cjfs:
+      - hube antepuesto
+      - hubiste antepuesto
+      - hubo antepuesto
+      - hubimos antepuesto
+      - hubisteis antepuesto
+      - hubieron antepuesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 antepuesto"
+      - "habr\xE1s antepuesto"
+      - "habr\xE1 antepuesto"
+      - habremos antepuesto
+      - "habr\xE9is antepuesto"
+      - "habr\xE1n antepuesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa antepuesto"
+      - "habr\xEDas antepuesto"
+      - "habr\xEDa antepuesto"
+      - "habr\xEDamos antepuesto"
+      - "habr\xEDais antepuesto"
+      - "habr\xEDan antepuesto"
+      cjid: cpef
+    - cjfs:
+      - haya antepuesto
+      - hayas antepuesto
+      - haya antepuesto
+      - hayamos antepuesto
+      - "hay\xE1is antepuesto"
+      - hayan antepuesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera antepuesto
+      - hubieras antepuesto
+      - hubiera antepuesto
+      - "hubi\xE9ramos antepuesto"
+      - hubierais antepuesto
+      - hubieran antepuesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese antepuesto
+      - hubieses antepuesto
+      - hubiese antepuesto
+      - "hubi\xE9semos antepuesto"
+      - hubieseis antepuesto
+      - hubiesen antepuesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere antepuesto
+      - hubieres antepuesto
+      - hubiere antepuesto
+      - "hubi\xE9remos antepuesto"
+      - hubiereis antepuesto
+      - hubieren antepuesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "antep\xF3n"
+      - anteponga
+      - antepongamos
+      - anteponed
+      - antepongan
+      cjid: impf

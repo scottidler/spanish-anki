@@ -1,0 +1,224 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|save}, to {a_link|rescue}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cover} (a distance)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get around} (an obstacle), to {a_link|overcome} (a difficulty)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cross}, to jump across'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|except for}, {a_link|excluding}'
+          sn: '5'
+          vrs:
+          - va: salvando
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|survive}, to {a_link|escape}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to save one''s soul'
+            sn: '2'
+    drp: salvarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: salvar
+    prs:
+    - sound:
+        audio: salva06sp
+  meta:
+    id: salvar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620178000'
+    src: spanish
+    stems:
+    - salvar
+    - salvando
+    - salvarse
+    uuid: 216b9442-c120-43a7-8d34-fc40279f01f4
+  shortdef:
+  - to save, to rescue
+  - to cover (a distance)
+  - to get around (an obstacle), to overcome (a difficulty)
+  suppl:
+    cjts:
+    - cjfs:
+      - salvando
+      - salvado
+      cjid: gppt
+    - cjfs:
+      - salvo
+      - salvas
+      - salva
+      - salvamos
+      - "salv\xE1is"
+      - salvan
+      cjid: pind
+    - cjfs:
+      - salvaba
+      - salvabas
+      - salvaba
+      - "salv\xE1bamos"
+      - salvabais
+      - salvaban
+      cjid: pret
+    - cjfs:
+      - "salv\xE9"
+      - salvaste
+      - "salv\xF3"
+      - salvamos
+      - salvasteis
+      - salvaron
+      cjid: pprf
+    - cjfs:
+      - "salvar\xE9"
+      - "salvar\xE1s"
+      - "salvar\xE1"
+      - salvaremos
+      - "salvar\xE9is"
+      - "salvar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "salvar\xEDa"
+      - "salvar\xEDas"
+      - "salvar\xEDa"
+      - "salvar\xEDamos"
+      - "salvar\xEDais"
+      - "salvar\xEDan"
+      cjid: cond
+    - cjfs:
+      - salve
+      - salves
+      - salve
+      - salvemos
+      - "salv\xE9is"
+      - salven
+      cjid: psub
+    - cjfs:
+      - salvara
+      - salvaras
+      - salvara
+      - "salv\xE1ramos"
+      - salvarais
+      - salvaran
+      cjid: pisb1
+    - cjfs:
+      - salvase
+      - salvases
+      - salvase
+      - "salv\xE1semos"
+      - salvaseis
+      - salvasen
+      cjid: pisb2
+    - cjfs:
+      - salvare
+      - salvares
+      - salvare
+      - "salv\xE1remos"
+      - salvareis
+      - salvaren
+      cjid: fsub
+    - cjfs:
+      - he salvado
+      - has salvado
+      - ha salvado
+      - hemos salvado
+      - "hab\xE9is salvado"
+      - han salvado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa salvado"
+      - "hab\xEDas salvado"
+      - "hab\xEDa salvado"
+      - "hab\xEDamos salvado"
+      - "hab\xEDais salvado"
+      - "hab\xEDan salvado"
+      cjid: ppsi
+    - cjfs:
+      - hube salvado
+      - hubiste salvado
+      - hubo salvado
+      - hubimos salvado
+      - hubisteis salvado
+      - hubieron salvado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 salvado"
+      - "habr\xE1s salvado"
+      - "habr\xE1 salvado"
+      - habremos salvado
+      - "habr\xE9is salvado"
+      - "habr\xE1n salvado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa salvado"
+      - "habr\xEDas salvado"
+      - "habr\xEDa salvado"
+      - "habr\xEDamos salvado"
+      - "habr\xEDais salvado"
+      - "habr\xEDan salvado"
+      cjid: cpef
+    - cjfs:
+      - haya salvado
+      - hayas salvado
+      - haya salvado
+      - hayamos salvado
+      - "hay\xE1is salvado"
+      - hayan salvado
+      cjid: ppfs
+    - cjfs:
+      - hubiera salvado
+      - hubieras salvado
+      - hubiera salvado
+      - "hubi\xE9ramos salvado"
+      - hubierais salvado
+      - hubieran salvado
+      cjid: ppss1
+    - cjfs:
+      - hubiese salvado
+      - hubieses salvado
+      - hubiese salvado
+      - "hubi\xE9semos salvado"
+      - hubieseis salvado
+      - hubiesen salvado
+      cjid: ppss2
+    - cjfs:
+      - hubiere salvado
+      - hubieres salvado
+      - hubiere salvado
+      - "hubi\xE9remos salvado"
+      - hubiereis salvado
+      - hubieren salvado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - salva
+      - salve
+      - salvemos
+      - salvad
+      - salven
+      cjid: impf

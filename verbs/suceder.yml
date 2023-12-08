@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ocurrir||} {bc}to {a_link|happen}, to {a_link|occur} '
+          - - vis
+            - - t: "\xBFqu\xE9 sucede?"
+                tr: what's going on?
+              - t: suceda lo que suceda
+                tr: come what may
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|follow}, to {a_link|succeed} '
+          - - vis
+            - - t: a la primavera sucede el verano
+                tr: summer follows spring
+          sn: '2'
+          vrs:
+          - va: suceder a
+            vac: ~ a
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|succeed} '
+          - - vis
+            - - t: suceder a alguien
+                tr: to succeed someone
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: suceder
+    prs:
+    - sound:
+        audio: suced01sp
+  meta:
+    id: suceder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621121000'
+    src: spanish
+    stems:
+    - suceder
+    - suceder a
+    uuid: c0dd0cdc-2701-4529-8312-a0288a1d57ad
+  shortdef:
+  - 'ocurrir : to happen, to occur'
+  - to follow, to succeed
+  - to succeed
+  suppl:
+    cjts:
+    - cjfs:
+      - sucediendo
+      - sucedido
+      cjid: gppt
+    - cjfs:
+      - sucedo
+      - sucedes
+      - sucede
+      - sucedemos
+      - "suced\xE9is"
+      - suceden
+      cjid: pind
+    - cjfs:
+      - "suced\xEDa"
+      - "suced\xEDas"
+      - "suced\xEDa"
+      - "suced\xEDamos"
+      - "suced\xEDais"
+      - "suced\xEDan"
+      cjid: pret
+    - cjfs:
+      - "suced\xED"
+      - sucediste
+      - "sucedi\xF3"
+      - sucedimos
+      - sucedisteis
+      - sucedieron
+      cjid: pprf
+    - cjfs:
+      - "suceder\xE9"
+      - "suceder\xE1s"
+      - "suceder\xE1"
+      - sucederemos
+      - "suceder\xE9is"
+      - "suceder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "suceder\xEDa"
+      - "suceder\xEDas"
+      - "suceder\xEDa"
+      - "suceder\xEDamos"
+      - "suceder\xEDais"
+      - "suceder\xEDan"
+      cjid: cond
+    - cjfs:
+      - suceda
+      - sucedas
+      - suceda
+      - sucedamos
+      - "suced\xE1is"
+      - sucedan
+      cjid: psub
+    - cjfs:
+      - sucediera
+      - sucedieras
+      - sucediera
+      - "sucedi\xE9ramos"
+      - sucedierais
+      - sucedieran
+      cjid: pisb1
+    - cjfs:
+      - sucediese
+      - sucedieses
+      - sucediese
+      - "sucedi\xE9semos"
+      - sucedieseis
+      - sucediesen
+      cjid: pisb2
+    - cjfs:
+      - sucediere
+      - sucedieres
+      - sucediere
+      - "sucedi\xE9remos"
+      - sucediereis
+      - sucedieren
+      cjid: fsub
+    - cjfs:
+      - he sucedido
+      - has sucedido
+      - ha sucedido
+      - hemos sucedido
+      - "hab\xE9is sucedido"
+      - han sucedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sucedido"
+      - "hab\xEDas sucedido"
+      - "hab\xEDa sucedido"
+      - "hab\xEDamos sucedido"
+      - "hab\xEDais sucedido"
+      - "hab\xEDan sucedido"
+      cjid: ppsi
+    - cjfs:
+      - hube sucedido
+      - hubiste sucedido
+      - hubo sucedido
+      - hubimos sucedido
+      - hubisteis sucedido
+      - hubieron sucedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sucedido"
+      - "habr\xE1s sucedido"
+      - "habr\xE1 sucedido"
+      - habremos sucedido
+      - "habr\xE9is sucedido"
+      - "habr\xE1n sucedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sucedido"
+      - "habr\xEDas sucedido"
+      - "habr\xEDa sucedido"
+      - "habr\xEDamos sucedido"
+      - "habr\xEDais sucedido"
+      - "habr\xEDan sucedido"
+      cjid: cpef
+    - cjfs:
+      - haya sucedido
+      - hayas sucedido
+      - haya sucedido
+      - hayamos sucedido
+      - "hay\xE1is sucedido"
+      - hayan sucedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sucedido
+      - hubieras sucedido
+      - hubiera sucedido
+      - "hubi\xE9ramos sucedido"
+      - hubierais sucedido
+      - hubieran sucedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sucedido
+      - hubieses sucedido
+      - hubiese sucedido
+      - "hubi\xE9semos sucedido"
+      - hubieseis sucedido
+      - hubiesen sucedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sucedido
+      - hubieres sucedido
+      - hubiere sucedido
+      - "hubi\xE9remos sucedido"
+      - hubiereis sucedido
+      - hubieren sucedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sucede
+      - suceda
+      - sucedamos
+      - suceded
+      - sucedan
+      cjid: impf

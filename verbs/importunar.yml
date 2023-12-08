@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bother}, to {a_link|inconvenience}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be inconvenient'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: importunar
+  meta:
+    id: importunar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611992000'
+    src: spanish
+    stems:
+    - importunar
+    uuid: 83104430-9643-44ae-9918-af4f546f77c3
+  shortdef:
+  - to bother, to inconvenience
+  - to be inconvenient
+  suppl:
+    cjts:
+    - cjfs:
+      - importunando
+      - importunado
+      cjid: gppt
+    - cjfs:
+      - importuno
+      - importunas
+      - importuna
+      - importunamos
+      - "importun\xE1is"
+      - importunan
+      cjid: pind
+    - cjfs:
+      - importunaba
+      - importunabas
+      - importunaba
+      - "importun\xE1bamos"
+      - importunabais
+      - importunaban
+      cjid: pret
+    - cjfs:
+      - "importun\xE9"
+      - importunaste
+      - "importun\xF3"
+      - importunamos
+      - importunasteis
+      - importunaron
+      cjid: pprf
+    - cjfs:
+      - "importunar\xE9"
+      - "importunar\xE1s"
+      - "importunar\xE1"
+      - importunaremos
+      - "importunar\xE9is"
+      - "importunar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "importunar\xEDa"
+      - "importunar\xEDas"
+      - "importunar\xEDa"
+      - "importunar\xEDamos"
+      - "importunar\xEDais"
+      - "importunar\xEDan"
+      cjid: cond
+    - cjfs:
+      - importune
+      - importunes
+      - importune
+      - importunemos
+      - "importun\xE9is"
+      - importunen
+      cjid: psub
+    - cjfs:
+      - importunara
+      - importunaras
+      - importunara
+      - "importun\xE1ramos"
+      - importunarais
+      - importunaran
+      cjid: pisb1
+    - cjfs:
+      - importunase
+      - importunases
+      - importunase
+      - "importun\xE1semos"
+      - importunaseis
+      - importunasen
+      cjid: pisb2
+    - cjfs:
+      - importunare
+      - importunares
+      - importunare
+      - "importun\xE1remos"
+      - importunareis
+      - importunaren
+      cjid: fsub
+    - cjfs:
+      - he importunado
+      - has importunado
+      - ha importunado
+      - hemos importunado
+      - "hab\xE9is importunado"
+      - han importunado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa importunado"
+      - "hab\xEDas importunado"
+      - "hab\xEDa importunado"
+      - "hab\xEDamos importunado"
+      - "hab\xEDais importunado"
+      - "hab\xEDan importunado"
+      cjid: ppsi
+    - cjfs:
+      - hube importunado
+      - hubiste importunado
+      - hubo importunado
+      - hubimos importunado
+      - hubisteis importunado
+      - hubieron importunado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 importunado"
+      - "habr\xE1s importunado"
+      - "habr\xE1 importunado"
+      - habremos importunado
+      - "habr\xE9is importunado"
+      - "habr\xE1n importunado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa importunado"
+      - "habr\xEDas importunado"
+      - "habr\xEDa importunado"
+      - "habr\xEDamos importunado"
+      - "habr\xEDais importunado"
+      - "habr\xEDan importunado"
+      cjid: cpef
+    - cjfs:
+      - haya importunado
+      - hayas importunado
+      - haya importunado
+      - hayamos importunado
+      - "hay\xE1is importunado"
+      - hayan importunado
+      cjid: ppfs
+    - cjfs:
+      - hubiera importunado
+      - hubieras importunado
+      - hubiera importunado
+      - "hubi\xE9ramos importunado"
+      - hubierais importunado
+      - hubieran importunado
+      cjid: ppss1
+    - cjfs:
+      - hubiese importunado
+      - hubieses importunado
+      - hubiese importunado
+      - "hubi\xE9semos importunado"
+      - hubieseis importunado
+      - hubiesen importunado
+      cjid: ppss2
+    - cjfs:
+      - hubiere importunado
+      - hubieres importunado
+      - hubiere importunado
+      - "hubi\xE9remos importunado"
+      - hubiereis importunado
+      - hubieren importunado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - importuna
+      - importune
+      - importunemos
+      - importunad
+      - importunen
+      cjid: impf

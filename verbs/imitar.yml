@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|imitate}, to {a_link|copy}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mimic}, to {a_link|impersonate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: imitar
+  meta:
+    id: imitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611900000'
+    src: spanish
+    stems:
+    - imitar
+    uuid: 614bfa55-87fd-4413-a5a2-485db4bb4156
+  shortdef:
+  - to imitate, to copy
+  - to mimic, to impersonate
+  suppl:
+    cjts:
+    - cjfs:
+      - imitando
+      - imitado
+      cjid: gppt
+    - cjfs:
+      - imito
+      - imitas
+      - imita
+      - imitamos
+      - "imit\xE1is"
+      - imitan
+      cjid: pind
+    - cjfs:
+      - imitaba
+      - imitabas
+      - imitaba
+      - "imit\xE1bamos"
+      - imitabais
+      - imitaban
+      cjid: pret
+    - cjfs:
+      - "imit\xE9"
+      - imitaste
+      - "imit\xF3"
+      - imitamos
+      - imitasteis
+      - imitaron
+      cjid: pprf
+    - cjfs:
+      - "imitar\xE9"
+      - "imitar\xE1s"
+      - "imitar\xE1"
+      - imitaremos
+      - "imitar\xE9is"
+      - "imitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "imitar\xEDa"
+      - "imitar\xEDas"
+      - "imitar\xEDa"
+      - "imitar\xEDamos"
+      - "imitar\xEDais"
+      - "imitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - imite
+      - imites
+      - imite
+      - imitemos
+      - "imit\xE9is"
+      - imiten
+      cjid: psub
+    - cjfs:
+      - imitara
+      - imitaras
+      - imitara
+      - "imit\xE1ramos"
+      - imitarais
+      - imitaran
+      cjid: pisb1
+    - cjfs:
+      - imitase
+      - imitases
+      - imitase
+      - "imit\xE1semos"
+      - imitaseis
+      - imitasen
+      cjid: pisb2
+    - cjfs:
+      - imitare
+      - imitares
+      - imitare
+      - "imit\xE1remos"
+      - imitareis
+      - imitaren
+      cjid: fsub
+    - cjfs:
+      - he imitado
+      - has imitado
+      - ha imitado
+      - hemos imitado
+      - "hab\xE9is imitado"
+      - han imitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa imitado"
+      - "hab\xEDas imitado"
+      - "hab\xEDa imitado"
+      - "hab\xEDamos imitado"
+      - "hab\xEDais imitado"
+      - "hab\xEDan imitado"
+      cjid: ppsi
+    - cjfs:
+      - hube imitado
+      - hubiste imitado
+      - hubo imitado
+      - hubimos imitado
+      - hubisteis imitado
+      - hubieron imitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 imitado"
+      - "habr\xE1s imitado"
+      - "habr\xE1 imitado"
+      - habremos imitado
+      - "habr\xE9is imitado"
+      - "habr\xE1n imitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa imitado"
+      - "habr\xEDas imitado"
+      - "habr\xEDa imitado"
+      - "habr\xEDamos imitado"
+      - "habr\xEDais imitado"
+      - "habr\xEDan imitado"
+      cjid: cpef
+    - cjfs:
+      - haya imitado
+      - hayas imitado
+      - haya imitado
+      - hayamos imitado
+      - "hay\xE1is imitado"
+      - hayan imitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera imitado
+      - hubieras imitado
+      - hubiera imitado
+      - "hubi\xE9ramos imitado"
+      - hubierais imitado
+      - hubieran imitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese imitado
+      - hubieses imitado
+      - hubiese imitado
+      - "hubi\xE9semos imitado"
+      - hubieseis imitado
+      - hubiesen imitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere imitado
+      - hubieres imitado
+      - hubiere imitado
+      - "hubi\xE9remos imitado"
+      - hubiereis imitado
+      - hubieren imitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - imita
+      - imite
+      - imitemos
+      - imitad
+      - imiten
+      cjid: impf

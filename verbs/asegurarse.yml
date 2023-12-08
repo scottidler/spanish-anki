@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assure}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|secure}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|insure}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|cerciorarse||} {bc}to {a_link|make sure}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take out insurance, to insure oneself'
+            sn: '2'
+    drp: asegurarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: asegurar
+    prs:
+    - sound:
+        audio: asegu02sp
+  meta:
+    id: asegurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602121000'
+    src: spanish
+    stems:
+    - asegurar
+    - asegurarse
+    uuid: b04ff3ec-9e93-49fc-92eb-06de563e4cdf
+  shortdef:
+  - to assure
+  - to secure
+  - to insure
+  suppl:
+    cjts:
+    - cjfs:
+      - asegurando
+      - asegurado
+      cjid: gppt
+    - cjfs:
+      - aseguro
+      - aseguras
+      - asegura
+      - aseguramos
+      - "asegur\xE1is"
+      - aseguran
+      cjid: pind
+    - cjfs:
+      - aseguraba
+      - asegurabas
+      - aseguraba
+      - "asegur\xE1bamos"
+      - asegurabais
+      - aseguraban
+      cjid: pret
+    - cjfs:
+      - "asegur\xE9"
+      - aseguraste
+      - "asegur\xF3"
+      - aseguramos
+      - asegurasteis
+      - aseguraron
+      cjid: pprf
+    - cjfs:
+      - "asegurar\xE9"
+      - "asegurar\xE1s"
+      - "asegurar\xE1"
+      - aseguraremos
+      - "asegurar\xE9is"
+      - "asegurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asegurar\xEDa"
+      - "asegurar\xEDas"
+      - "asegurar\xEDa"
+      - "asegurar\xEDamos"
+      - "asegurar\xEDais"
+      - "asegurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asegure
+      - asegures
+      - asegure
+      - aseguremos
+      - "asegur\xE9is"
+      - aseguren
+      cjid: psub
+    - cjfs:
+      - asegurara
+      - aseguraras
+      - asegurara
+      - "asegur\xE1ramos"
+      - asegurarais
+      - aseguraran
+      cjid: pisb1
+    - cjfs:
+      - asegurase
+      - asegurases
+      - asegurase
+      - "asegur\xE1semos"
+      - aseguraseis
+      - asegurasen
+      cjid: pisb2
+    - cjfs:
+      - asegurare
+      - asegurares
+      - asegurare
+      - "asegur\xE1remos"
+      - asegurareis
+      - aseguraren
+      cjid: fsub
+    - cjfs:
+      - he asegurado
+      - has asegurado
+      - ha asegurado
+      - hemos asegurado
+      - "hab\xE9is asegurado"
+      - han asegurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asegurado"
+      - "hab\xEDas asegurado"
+      - "hab\xEDa asegurado"
+      - "hab\xEDamos asegurado"
+      - "hab\xEDais asegurado"
+      - "hab\xEDan asegurado"
+      cjid: ppsi
+    - cjfs:
+      - hube asegurado
+      - hubiste asegurado
+      - hubo asegurado
+      - hubimos asegurado
+      - hubisteis asegurado
+      - hubieron asegurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asegurado"
+      - "habr\xE1s asegurado"
+      - "habr\xE1 asegurado"
+      - habremos asegurado
+      - "habr\xE9is asegurado"
+      - "habr\xE1n asegurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asegurado"
+      - "habr\xEDas asegurado"
+      - "habr\xEDa asegurado"
+      - "habr\xEDamos asegurado"
+      - "habr\xEDais asegurado"
+      - "habr\xEDan asegurado"
+      cjid: cpef
+    - cjfs:
+      - haya asegurado
+      - hayas asegurado
+      - haya asegurado
+      - hayamos asegurado
+      - "hay\xE1is asegurado"
+      - hayan asegurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asegurado
+      - hubieras asegurado
+      - hubiera asegurado
+      - "hubi\xE9ramos asegurado"
+      - hubierais asegurado
+      - hubieran asegurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asegurado
+      - hubieses asegurado
+      - hubiese asegurado
+      - "hubi\xE9semos asegurado"
+      - hubieseis asegurado
+      - hubiesen asegurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asegurado
+      - hubieres asegurado
+      - hubiere asegurado
+      - "hubi\xE9remos asegurado"
+      - hubiereis asegurado
+      - hubieren asegurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asegura
+      - asegure
+      - aseguremos
+      - asegurad
+      - aseguren
+      cjid: impf

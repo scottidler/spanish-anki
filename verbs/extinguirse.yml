@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apagar||} {bc}to {a_link|extinguish}, to {a_link|put out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wipe out}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|apagarse||} {bc}to {a_link|go out}, to fade out'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|die out}, to become extinct'
+            sn: '2'
+    drp: extinguirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: extinguir
+  meta:
+    id: extinguir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609757000'
+    src: spanish
+    stems:
+    - extinguir
+    - extinguirse
+    uuid: c065ff05-06ff-442c-a5ce-0b24ec37d254
+  shortdef:
+  - 'apagar : to extinguish, to put out'
+  - to wipe out
+  suppl:
+    cjts:
+    - cjfs:
+      - extinguiendo
+      - extinguido
+      cjid: gppt
+    - cjfs:
+      - extingo
+      - extingues
+      - extingue
+      - extinguimos
+      - "extingu\xEDs"
+      - extinguen
+      cjid: pind
+    - cjfs:
+      - "extingu\xEDa"
+      - "extingu\xEDas"
+      - "extingu\xEDa"
+      - "extingu\xEDamos"
+      - "extingu\xEDais"
+      - "extingu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "extingu\xED"
+      - extinguiste
+      - "extingui\xF3"
+      - extinguimos
+      - extinguisteis
+      - extinguieron
+      cjid: pprf
+    - cjfs:
+      - "extinguir\xE9"
+      - "extinguir\xE1s"
+      - "extinguir\xE1"
+      - extinguiremos
+      - "extinguir\xE9is"
+      - "extinguir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "extinguir\xEDa"
+      - "extinguir\xEDas"
+      - "extinguir\xEDa"
+      - "extinguir\xEDamos"
+      - "extinguir\xEDais"
+      - "extinguir\xEDan"
+      cjid: cond
+    - cjfs:
+      - extinga
+      - extingas
+      - extinga
+      - extingamos
+      - "exting\xE1is"
+      - extingan
+      cjid: psub
+    - cjfs:
+      - extinguiera
+      - extinguieras
+      - extinguiera
+      - "extingui\xE9ramos"
+      - extinguierais
+      - extinguieran
+      cjid: pisb1
+    - cjfs:
+      - extinguiese
+      - extinguieses
+      - extinguiese
+      - "extingui\xE9semos"
+      - extinguieseis
+      - extinguiesen
+      cjid: pisb2
+    - cjfs:
+      - extinguiere
+      - extinguieres
+      - extinguiere
+      - "extingui\xE9remos"
+      - extinguiereis
+      - extinguieren
+      cjid: fsub
+    - cjfs:
+      - he extinguido
+      - has extinguido
+      - ha extinguido
+      - hemos extinguido
+      - "hab\xE9is extinguido"
+      - han extinguido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa extinguido"
+      - "hab\xEDas extinguido"
+      - "hab\xEDa extinguido"
+      - "hab\xEDamos extinguido"
+      - "hab\xEDais extinguido"
+      - "hab\xEDan extinguido"
+      cjid: ppsi
+    - cjfs:
+      - hube extinguido
+      - hubiste extinguido
+      - hubo extinguido
+      - hubimos extinguido
+      - hubisteis extinguido
+      - hubieron extinguido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 extinguido"
+      - "habr\xE1s extinguido"
+      - "habr\xE1 extinguido"
+      - habremos extinguido
+      - "habr\xE9is extinguido"
+      - "habr\xE1n extinguido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa extinguido"
+      - "habr\xEDas extinguido"
+      - "habr\xEDa extinguido"
+      - "habr\xEDamos extinguido"
+      - "habr\xEDais extinguido"
+      - "habr\xEDan extinguido"
+      cjid: cpef
+    - cjfs:
+      - haya extinguido
+      - hayas extinguido
+      - haya extinguido
+      - hayamos extinguido
+      - "hay\xE1is extinguido"
+      - hayan extinguido
+      cjid: ppfs
+    - cjfs:
+      - hubiera extinguido
+      - hubieras extinguido
+      - hubiera extinguido
+      - "hubi\xE9ramos extinguido"
+      - hubierais extinguido
+      - hubieran extinguido
+      cjid: ppss1
+    - cjfs:
+      - hubiese extinguido
+      - hubieses extinguido
+      - hubiese extinguido
+      - "hubi\xE9semos extinguido"
+      - hubieseis extinguido
+      - hubiesen extinguido
+      cjid: ppss2
+    - cjfs:
+      - hubiere extinguido
+      - hubieres extinguido
+      - hubiere extinguido
+      - "hubi\xE9remos extinguido"
+      - hubiereis extinguido
+      - hubieren extinguido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - extingue
+      - extinga
+      - extingamos
+      - extinguid
+      - extingan
+      cjid: impf

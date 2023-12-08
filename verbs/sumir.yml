@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|sumergir||} {bc}to {a_link|plunge}, to {a_link|immerse}, to {a_link|sink}'
+  fl: transitive verb
+  hwi:
+    hw: sumir
+  meta:
+    id: sumir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621210000'
+    src: spanish
+    stems:
+    - sumir
+    - sumirse
+    uuid: 703cf6a9-961c-4eaf-a621-a62f3df11848
+  shortdef:
+  - 'sumergir : to plunge, to immerse, to sink'
+  suppl:
+    cjts:
+    - cjfs:
+      - sumiendo
+      - sumido
+      cjid: gppt
+    - cjfs:
+      - sumo
+      - sumes
+      - sume
+      - sumimos
+      - "sum\xEDs"
+      - sumen
+      cjid: pind
+    - cjfs:
+      - "sum\xEDa"
+      - "sum\xEDas"
+      - "sum\xEDa"
+      - "sum\xEDamos"
+      - "sum\xEDais"
+      - "sum\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sum\xED"
+      - sumiste
+      - "sumi\xF3"
+      - sumimos
+      - sumisteis
+      - sumieron
+      cjid: pprf
+    - cjfs:
+      - "sumir\xE9"
+      - "sumir\xE1s"
+      - "sumir\xE1"
+      - sumiremos
+      - "sumir\xE9is"
+      - "sumir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sumir\xEDa"
+      - "sumir\xEDas"
+      - "sumir\xEDa"
+      - "sumir\xEDamos"
+      - "sumir\xEDais"
+      - "sumir\xEDan"
+      cjid: cond
+    - cjfs:
+      - suma
+      - sumas
+      - suma
+      - sumamos
+      - "sum\xE1is"
+      - suman
+      cjid: psub
+    - cjfs:
+      - sumiera
+      - sumieras
+      - sumiera
+      - "sumi\xE9ramos"
+      - sumierais
+      - sumieran
+      cjid: pisb1
+    - cjfs:
+      - sumiese
+      - sumieses
+      - sumiese
+      - "sumi\xE9semos"
+      - sumieseis
+      - sumiesen
+      cjid: pisb2
+    - cjfs:
+      - sumiere
+      - sumieres
+      - sumiere
+      - "sumi\xE9remos"
+      - sumiereis
+      - sumieren
+      cjid: fsub
+    - cjfs:
+      - he sumido
+      - has sumido
+      - ha sumido
+      - hemos sumido
+      - "hab\xE9is sumido"
+      - han sumido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sumido"
+      - "hab\xEDas sumido"
+      - "hab\xEDa sumido"
+      - "hab\xEDamos sumido"
+      - "hab\xEDais sumido"
+      - "hab\xEDan sumido"
+      cjid: ppsi
+    - cjfs:
+      - hube sumido
+      - hubiste sumido
+      - hubo sumido
+      - hubimos sumido
+      - hubisteis sumido
+      - hubieron sumido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sumido"
+      - "habr\xE1s sumido"
+      - "habr\xE1 sumido"
+      - habremos sumido
+      - "habr\xE9is sumido"
+      - "habr\xE1n sumido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sumido"
+      - "habr\xEDas sumido"
+      - "habr\xEDa sumido"
+      - "habr\xEDamos sumido"
+      - "habr\xEDais sumido"
+      - "habr\xEDan sumido"
+      cjid: cpef
+    - cjfs:
+      - haya sumido
+      - hayas sumido
+      - haya sumido
+      - hayamos sumido
+      - "hay\xE1is sumido"
+      - hayan sumido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sumido
+      - hubieras sumido
+      - hubiera sumido
+      - "hubi\xE9ramos sumido"
+      - hubierais sumido
+      - hubieran sumido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sumido
+      - hubieses sumido
+      - hubiese sumido
+      - "hubi\xE9semos sumido"
+      - hubieseis sumido
+      - hubiesen sumido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sumido
+      - hubieres sumido
+      - hubiere sumido
+      - "hubi\xE9remos sumido"
+      - hubiereis sumido
+      - hubieren sumido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sume
+      - suma
+      - sumamos
+      - sumid
+      - suman
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: sumirse

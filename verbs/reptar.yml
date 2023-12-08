@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crawl}, to {a_link|slither}'
+  fl: intransitive verb
+  hwi:
+    hw: reptar
+    prs:
+    - sound:
+        audio: repta01sp
+  meta:
+    id: reptar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619500000'
+    src: spanish
+    stems:
+    - reptar
+    uuid: 227fbf40-feef-4755-aa5d-cd35c4777112
+  shortdef:
+  - to crawl, to slither
+  suppl:
+    cjts:
+    - cjfs:
+      - reptando
+      - reptado
+      cjid: gppt
+    - cjfs:
+      - repto
+      - reptas
+      - repta
+      - reptamos
+      - "rept\xE1is"
+      - reptan
+      cjid: pind
+    - cjfs:
+      - reptaba
+      - reptabas
+      - reptaba
+      - "rept\xE1bamos"
+      - reptabais
+      - reptaban
+      cjid: pret
+    - cjfs:
+      - "rept\xE9"
+      - reptaste
+      - "rept\xF3"
+      - reptamos
+      - reptasteis
+      - reptaron
+      cjid: pprf
+    - cjfs:
+      - "reptar\xE9"
+      - "reptar\xE1s"
+      - "reptar\xE1"
+      - reptaremos
+      - "reptar\xE9is"
+      - "reptar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reptar\xEDa"
+      - "reptar\xEDas"
+      - "reptar\xEDa"
+      - "reptar\xEDamos"
+      - "reptar\xEDais"
+      - "reptar\xEDan"
+      cjid: cond
+    - cjfs:
+      - repte
+      - reptes
+      - repte
+      - reptemos
+      - "rept\xE9is"
+      - repten
+      cjid: psub
+    - cjfs:
+      - reptara
+      - reptaras
+      - reptara
+      - "rept\xE1ramos"
+      - reptarais
+      - reptaran
+      cjid: pisb1
+    - cjfs:
+      - reptase
+      - reptases
+      - reptase
+      - "rept\xE1semos"
+      - reptaseis
+      - reptasen
+      cjid: pisb2
+    - cjfs:
+      - reptare
+      - reptares
+      - reptare
+      - "rept\xE1remos"
+      - reptareis
+      - reptaren
+      cjid: fsub
+    - cjfs:
+      - he reptado
+      - has reptado
+      - ha reptado
+      - hemos reptado
+      - "hab\xE9is reptado"
+      - han reptado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reptado"
+      - "hab\xEDas reptado"
+      - "hab\xEDa reptado"
+      - "hab\xEDamos reptado"
+      - "hab\xEDais reptado"
+      - "hab\xEDan reptado"
+      cjid: ppsi
+    - cjfs:
+      - hube reptado
+      - hubiste reptado
+      - hubo reptado
+      - hubimos reptado
+      - hubisteis reptado
+      - hubieron reptado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reptado"
+      - "habr\xE1s reptado"
+      - "habr\xE1 reptado"
+      - habremos reptado
+      - "habr\xE9is reptado"
+      - "habr\xE1n reptado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reptado"
+      - "habr\xEDas reptado"
+      - "habr\xEDa reptado"
+      - "habr\xEDamos reptado"
+      - "habr\xEDais reptado"
+      - "habr\xEDan reptado"
+      cjid: cpef
+    - cjfs:
+      - haya reptado
+      - hayas reptado
+      - haya reptado
+      - hayamos reptado
+      - "hay\xE1is reptado"
+      - hayan reptado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reptado
+      - hubieras reptado
+      - hubiera reptado
+      - "hubi\xE9ramos reptado"
+      - hubierais reptado
+      - hubieran reptado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reptado
+      - hubieses reptado
+      - hubiese reptado
+      - "hubi\xE9semos reptado"
+      - hubieseis reptado
+      - hubiesen reptado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reptado
+      - hubieres reptado
+      - hubiere reptado
+      - "hubi\xE9remos reptado"
+      - hubiereis reptado
+      - hubieren reptado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - repta
+      - repte
+      - reptemos
+      - reptad
+      - repten
+      cjid: impf

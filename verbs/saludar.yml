@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|greet}, to say hello to'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|salute}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: saludar
+    prs:
+    - sound:
+        audio: salud03sp
+  meta:
+    id: saludar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620161000'
+    src: spanish
+    stems:
+    - saludar
+    - saludarse
+    uuid: e47d8e3d-e30e-40bf-a67c-1837a5aeb19b
+  shortdef:
+  - to greet, to say hello to
+  - to salute
+  suppl:
+    cjts:
+    - cjfs:
+      - saludando
+      - saludado
+      cjid: gppt
+    - cjfs:
+      - saludo
+      - saludas
+      - saluda
+      - saludamos
+      - "salud\xE1is"
+      - saludan
+      cjid: pind
+    - cjfs:
+      - saludaba
+      - saludabas
+      - saludaba
+      - "salud\xE1bamos"
+      - saludabais
+      - saludaban
+      cjid: pret
+    - cjfs:
+      - "salud\xE9"
+      - saludaste
+      - "salud\xF3"
+      - saludamos
+      - saludasteis
+      - saludaron
+      cjid: pprf
+    - cjfs:
+      - "saludar\xE9"
+      - "saludar\xE1s"
+      - "saludar\xE1"
+      - saludaremos
+      - "saludar\xE9is"
+      - "saludar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "saludar\xEDa"
+      - "saludar\xEDas"
+      - "saludar\xEDa"
+      - "saludar\xEDamos"
+      - "saludar\xEDais"
+      - "saludar\xEDan"
+      cjid: cond
+    - cjfs:
+      - salude
+      - saludes
+      - salude
+      - saludemos
+      - "salud\xE9is"
+      - saluden
+      cjid: psub
+    - cjfs:
+      - saludara
+      - saludaras
+      - saludara
+      - "salud\xE1ramos"
+      - saludarais
+      - saludaran
+      cjid: pisb1
+    - cjfs:
+      - saludase
+      - saludases
+      - saludase
+      - "salud\xE1semos"
+      - saludaseis
+      - saludasen
+      cjid: pisb2
+    - cjfs:
+      - saludare
+      - saludares
+      - saludare
+      - "salud\xE1remos"
+      - saludareis
+      - saludaren
+      cjid: fsub
+    - cjfs:
+      - he saludado
+      - has saludado
+      - ha saludado
+      - hemos saludado
+      - "hab\xE9is saludado"
+      - han saludado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa saludado"
+      - "hab\xEDas saludado"
+      - "hab\xEDa saludado"
+      - "hab\xEDamos saludado"
+      - "hab\xEDais saludado"
+      - "hab\xEDan saludado"
+      cjid: ppsi
+    - cjfs:
+      - hube saludado
+      - hubiste saludado
+      - hubo saludado
+      - hubimos saludado
+      - hubisteis saludado
+      - hubieron saludado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 saludado"
+      - "habr\xE1s saludado"
+      - "habr\xE1 saludado"
+      - habremos saludado
+      - "habr\xE9is saludado"
+      - "habr\xE1n saludado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa saludado"
+      - "habr\xEDas saludado"
+      - "habr\xEDa saludado"
+      - "habr\xEDamos saludado"
+      - "habr\xEDais saludado"
+      - "habr\xEDan saludado"
+      cjid: cpef
+    - cjfs:
+      - haya saludado
+      - hayas saludado
+      - haya saludado
+      - hayamos saludado
+      - "hay\xE1is saludado"
+      - hayan saludado
+      cjid: ppfs
+    - cjfs:
+      - hubiera saludado
+      - hubieras saludado
+      - hubiera saludado
+      - "hubi\xE9ramos saludado"
+      - hubierais saludado
+      - hubieran saludado
+      cjid: ppss1
+    - cjfs:
+      - hubiese saludado
+      - hubieses saludado
+      - hubiese saludado
+      - "hubi\xE9semos saludado"
+      - hubieseis saludado
+      - hubiesen saludado
+      cjid: ppss2
+    - cjfs:
+      - hubiere saludado
+      - hubieres saludado
+      - hubiere saludado
+      - "hubi\xE9remos saludado"
+      - hubiereis saludado
+      - hubieren saludado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - saluda
+      - salude
+      - saludemos
+      - saludad
+      - saluden
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: saludarse

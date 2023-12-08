@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reestablish}, to {a_link|restore}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|recover}'
+    drp: restablecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: restablecer
+  meta:
+    id: restablecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619613000'
+    src: spanish
+    stems:
+    - restablecer
+    - restablecerse
+    uuid: b68db2c2-425f-40c0-af6c-2d7917be53da
+  shortdef:
+  - to reestablish, to restore
+  suppl:
+    cjts:
+    - cjfs:
+      - restableciendo
+      - restablecido
+      cjid: gppt
+    - cjfs:
+      - restablezco
+      - restableces
+      - restablece
+      - restablecemos
+      - "restablec\xE9is"
+      - restablecen
+      cjid: pind
+    - cjfs:
+      - "restablec\xEDa"
+      - "restablec\xEDas"
+      - "restablec\xEDa"
+      - "restablec\xEDamos"
+      - "restablec\xEDais"
+      - "restablec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "restablec\xED"
+      - restableciste
+      - "restableci\xF3"
+      - restablecimos
+      - restablecisteis
+      - restablecieron
+      cjid: pprf
+    - cjfs:
+      - "restablecer\xE9"
+      - "restablecer\xE1s"
+      - "restablecer\xE1"
+      - restableceremos
+      - "restablecer\xE9is"
+      - "restablecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "restablecer\xEDa"
+      - "restablecer\xEDas"
+      - "restablecer\xEDa"
+      - "restablecer\xEDamos"
+      - "restablecer\xEDais"
+      - "restablecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - restablezca
+      - restablezcas
+      - restablezca
+      - restablezcamos
+      - "restablezc\xE1is"
+      - restablezcan
+      cjid: psub
+    - cjfs:
+      - restableciera
+      - restablecieras
+      - restableciera
+      - "restableci\xE9ramos"
+      - restablecierais
+      - restablecieran
+      cjid: pisb1
+    - cjfs:
+      - restableciese
+      - restablecieses
+      - restableciese
+      - "restableci\xE9semos"
+      - restablecieseis
+      - restableciesen
+      cjid: pisb2
+    - cjfs:
+      - restableciere
+      - restablecieres
+      - restableciere
+      - "restableci\xE9remos"
+      - restableciereis
+      - restablecieren
+      cjid: fsub
+    - cjfs:
+      - he restablecido
+      - has restablecido
+      - ha restablecido
+      - hemos restablecido
+      - "hab\xE9is restablecido"
+      - han restablecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa restablecido"
+      - "hab\xEDas restablecido"
+      - "hab\xEDa restablecido"
+      - "hab\xEDamos restablecido"
+      - "hab\xEDais restablecido"
+      - "hab\xEDan restablecido"
+      cjid: ppsi
+    - cjfs:
+      - hube restablecido
+      - hubiste restablecido
+      - hubo restablecido
+      - hubimos restablecido
+      - hubisteis restablecido
+      - hubieron restablecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 restablecido"
+      - "habr\xE1s restablecido"
+      - "habr\xE1 restablecido"
+      - habremos restablecido
+      - "habr\xE9is restablecido"
+      - "habr\xE1n restablecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa restablecido"
+      - "habr\xEDas restablecido"
+      - "habr\xEDa restablecido"
+      - "habr\xEDamos restablecido"
+      - "habr\xEDais restablecido"
+      - "habr\xEDan restablecido"
+      cjid: cpef
+    - cjfs:
+      - haya restablecido
+      - hayas restablecido
+      - haya restablecido
+      - hayamos restablecido
+      - "hay\xE1is restablecido"
+      - hayan restablecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera restablecido
+      - hubieras restablecido
+      - hubiera restablecido
+      - "hubi\xE9ramos restablecido"
+      - hubierais restablecido
+      - hubieran restablecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese restablecido
+      - hubieses restablecido
+      - hubiese restablecido
+      - "hubi\xE9semos restablecido"
+      - hubieseis restablecido
+      - hubiesen restablecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere restablecido
+      - hubieres restablecido
+      - hubiere restablecido
+      - "hubi\xE9remos restablecido"
+      - hubiereis restablecido
+      - hubieren restablecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - restablece
+      - restablezca
+      - restablezcamos
+      - restableced
+      - restablezcan
+      cjid: impf

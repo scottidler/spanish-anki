@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|soltar||} {bc}to let loose, to {a_link|release}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aflojar||} {bc}to {a_link|loosen}, to {a_link|slacken}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give}, to {a_link|hand over}'
+          sls:
+          - familiar
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hurl}, to let fly (insults, etc.)'
+          sls:
+          - familiar
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|scram}, to beat it'
+            sls:
+            - familiar
+    drp: largarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: largar
+    prs:
+    - sound:
+        audio: larga01sp
+  meta:
+    id: largar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613497000'
+    src: spanish
+    stems:
+    - largar
+    - largarse
+    uuid: af8358b1-6855-4435-a80e-adac26842868
+  shortdef:
+  - 'soltar : to let loose, to release'
+  - 'aflojar : to loosen, to slacken'
+  - to give, to hand over
+  suppl:
+    cjts:
+    - cjfs:
+      - largando
+      - largado
+      cjid: gppt
+    - cjfs:
+      - largo
+      - largas
+      - larga
+      - largamos
+      - "larg\xE1is"
+      - largan
+      cjid: pind
+    - cjfs:
+      - largaba
+      - largabas
+      - largaba
+      - "larg\xE1bamos"
+      - largabais
+      - largaban
+      cjid: pret
+    - cjfs:
+      - "largu\xE9"
+      - largaste
+      - "larg\xF3"
+      - largamos
+      - largasteis
+      - largaron
+      cjid: pprf
+    - cjfs:
+      - "largar\xE9"
+      - "largar\xE1s"
+      - "largar\xE1"
+      - largaremos
+      - "largar\xE9is"
+      - "largar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "largar\xEDa"
+      - "largar\xEDas"
+      - "largar\xEDa"
+      - "largar\xEDamos"
+      - "largar\xEDais"
+      - "largar\xEDan"
+      cjid: cond
+    - cjfs:
+      - largue
+      - largues
+      - largue
+      - larguemos
+      - "largu\xE9is"
+      - larguen
+      cjid: psub
+    - cjfs:
+      - largara
+      - largaras
+      - largara
+      - "larg\xE1ramos"
+      - largarais
+      - largaran
+      cjid: pisb1
+    - cjfs:
+      - largase
+      - largases
+      - largase
+      - "larg\xE1semos"
+      - largaseis
+      - largasen
+      cjid: pisb2
+    - cjfs:
+      - largare
+      - largares
+      - largare
+      - "larg\xE1remos"
+      - largareis
+      - largaren
+      cjid: fsub
+    - cjfs:
+      - he largado
+      - has largado
+      - ha largado
+      - hemos largado
+      - "hab\xE9is largado"
+      - han largado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa largado"
+      - "hab\xEDas largado"
+      - "hab\xEDa largado"
+      - "hab\xEDamos largado"
+      - "hab\xEDais largado"
+      - "hab\xEDan largado"
+      cjid: ppsi
+    - cjfs:
+      - hube largado
+      - hubiste largado
+      - hubo largado
+      - hubimos largado
+      - hubisteis largado
+      - hubieron largado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 largado"
+      - "habr\xE1s largado"
+      - "habr\xE1 largado"
+      - habremos largado
+      - "habr\xE9is largado"
+      - "habr\xE1n largado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa largado"
+      - "habr\xEDas largado"
+      - "habr\xEDa largado"
+      - "habr\xEDamos largado"
+      - "habr\xEDais largado"
+      - "habr\xEDan largado"
+      cjid: cpef
+    - cjfs:
+      - haya largado
+      - hayas largado
+      - haya largado
+      - hayamos largado
+      - "hay\xE1is largado"
+      - hayan largado
+      cjid: ppfs
+    - cjfs:
+      - hubiera largado
+      - hubieras largado
+      - hubiera largado
+      - "hubi\xE9ramos largado"
+      - hubierais largado
+      - hubieran largado
+      cjid: ppss1
+    - cjfs:
+      - hubiese largado
+      - hubieses largado
+      - hubiese largado
+      - "hubi\xE9semos largado"
+      - hubieseis largado
+      - hubiesen largado
+      cjid: ppss2
+    - cjfs:
+      - hubiere largado
+      - hubieres largado
+      - hubiere largado
+      - "hubi\xE9remos largado"
+      - hubiereis largado
+      - hubieren largado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - larga
+      - largue
+      - larguemos
+      - largad
+      - larguen
+      cjid: impf

@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|chafe}, to {a_link|rub against}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to border on, to {a_link|touch on}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|graze}, to touch lightly'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to rub shoulders with'
+            sls:
+            - familiar
+            vrs:
+            - va: rozarse con
+              vac: ~ con
+    drp: rozarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: rozar
+    prs:
+    - sound:
+        audio: rozar01sp
+  meta:
+    id: rozar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619977000'
+    src: spanish
+    stems:
+    - rozar
+    - rozarse
+    - rozarse con
+    uuid: 0b01d642-03f5-4b5d-bc31-cfadc84c1525
+  shortdef:
+  - to chafe, to rub against
+  - to border on, to touch on
+  - to graze, to touch lightly
+  suppl:
+    cjts:
+    - cjfs:
+      - rozando
+      - rozado
+      cjid: gppt
+    - cjfs:
+      - rozo
+      - rozas
+      - roza
+      - rozamos
+      - "roz\xE1is"
+      - rozan
+      cjid: pind
+    - cjfs:
+      - rozaba
+      - rozabas
+      - rozaba
+      - "roz\xE1bamos"
+      - rozabais
+      - rozaban
+      cjid: pret
+    - cjfs:
+      - "roc\xE9"
+      - rozaste
+      - "roz\xF3"
+      - rozamos
+      - rozasteis
+      - rozaron
+      cjid: pprf
+    - cjfs:
+      - "rozar\xE9"
+      - "rozar\xE1s"
+      - "rozar\xE1"
+      - rozaremos
+      - "rozar\xE9is"
+      - "rozar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rozar\xEDa"
+      - "rozar\xEDas"
+      - "rozar\xEDa"
+      - "rozar\xEDamos"
+      - "rozar\xEDais"
+      - "rozar\xEDan"
+      cjid: cond
+    - cjfs:
+      - roce
+      - roces
+      - roce
+      - rocemos
+      - "roc\xE9is"
+      - rocen
+      cjid: psub
+    - cjfs:
+      - rozara
+      - rozaras
+      - rozara
+      - "roz\xE1ramos"
+      - rozarais
+      - rozaran
+      cjid: pisb1
+    - cjfs:
+      - rozase
+      - rozases
+      - rozase
+      - "roz\xE1semos"
+      - rozaseis
+      - rozasen
+      cjid: pisb2
+    - cjfs:
+      - rozare
+      - rozares
+      - rozare
+      - "roz\xE1remos"
+      - rozareis
+      - rozaren
+      cjid: fsub
+    - cjfs:
+      - he rozado
+      - has rozado
+      - ha rozado
+      - hemos rozado
+      - "hab\xE9is rozado"
+      - han rozado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rozado"
+      - "hab\xEDas rozado"
+      - "hab\xEDa rozado"
+      - "hab\xEDamos rozado"
+      - "hab\xEDais rozado"
+      - "hab\xEDan rozado"
+      cjid: ppsi
+    - cjfs:
+      - hube rozado
+      - hubiste rozado
+      - hubo rozado
+      - hubimos rozado
+      - hubisteis rozado
+      - hubieron rozado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rozado"
+      - "habr\xE1s rozado"
+      - "habr\xE1 rozado"
+      - habremos rozado
+      - "habr\xE9is rozado"
+      - "habr\xE1n rozado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rozado"
+      - "habr\xEDas rozado"
+      - "habr\xEDa rozado"
+      - "habr\xEDamos rozado"
+      - "habr\xEDais rozado"
+      - "habr\xEDan rozado"
+      cjid: cpef
+    - cjfs:
+      - haya rozado
+      - hayas rozado
+      - haya rozado
+      - hayamos rozado
+      - "hay\xE1is rozado"
+      - hayan rozado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rozado
+      - hubieras rozado
+      - hubiera rozado
+      - "hubi\xE9ramos rozado"
+      - hubierais rozado
+      - hubieran rozado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rozado
+      - hubieses rozado
+      - hubiese rozado
+      - "hubi\xE9semos rozado"
+      - hubieseis rozado
+      - hubiesen rozado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rozado
+      - hubieres rozado
+      - hubiere rozado
+      - "hubi\xE9remos rozado"
+      - hubiereis rozado
+      - hubieren rozado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - roza
+      - roce
+      - rocemos
+      - rozad
+      - rocen
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|capture}, to {a_link|seize}'
+  fl: transitive verb
+  hwi:
+    hw: capturar
+    prs:
+    - sound:
+        audio: captu01sp
+  meta:
+    id: capturar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603941000'
+    src: spanish
+    stems:
+    - capturar
+    uuid: df7ca670-8391-4c1a-9723-03fabd140a87
+  shortdef:
+  - to capture, to seize
+  suppl:
+    cjts:
+    - cjfs:
+      - capturando
+      - capturado
+      cjid: gppt
+    - cjfs:
+      - capturo
+      - capturas
+      - captura
+      - capturamos
+      - "captur\xE1is"
+      - capturan
+      cjid: pind
+    - cjfs:
+      - capturaba
+      - capturabas
+      - capturaba
+      - "captur\xE1bamos"
+      - capturabais
+      - capturaban
+      cjid: pret
+    - cjfs:
+      - "captur\xE9"
+      - capturaste
+      - "captur\xF3"
+      - capturamos
+      - capturasteis
+      - capturaron
+      cjid: pprf
+    - cjfs:
+      - "capturar\xE9"
+      - "capturar\xE1s"
+      - "capturar\xE1"
+      - capturaremos
+      - "capturar\xE9is"
+      - "capturar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "capturar\xEDa"
+      - "capturar\xEDas"
+      - "capturar\xEDa"
+      - "capturar\xEDamos"
+      - "capturar\xEDais"
+      - "capturar\xEDan"
+      cjid: cond
+    - cjfs:
+      - capture
+      - captures
+      - capture
+      - capturemos
+      - "captur\xE9is"
+      - capturen
+      cjid: psub
+    - cjfs:
+      - capturara
+      - capturaras
+      - capturara
+      - "captur\xE1ramos"
+      - capturarais
+      - capturaran
+      cjid: pisb1
+    - cjfs:
+      - capturase
+      - capturases
+      - capturase
+      - "captur\xE1semos"
+      - capturaseis
+      - capturasen
+      cjid: pisb2
+    - cjfs:
+      - capturare
+      - capturares
+      - capturare
+      - "captur\xE1remos"
+      - capturareis
+      - capturaren
+      cjid: fsub
+    - cjfs:
+      - he capturado
+      - has capturado
+      - ha capturado
+      - hemos capturado
+      - "hab\xE9is capturado"
+      - han capturado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa capturado"
+      - "hab\xEDas capturado"
+      - "hab\xEDa capturado"
+      - "hab\xEDamos capturado"
+      - "hab\xEDais capturado"
+      - "hab\xEDan capturado"
+      cjid: ppsi
+    - cjfs:
+      - hube capturado
+      - hubiste capturado
+      - hubo capturado
+      - hubimos capturado
+      - hubisteis capturado
+      - hubieron capturado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 capturado"
+      - "habr\xE1s capturado"
+      - "habr\xE1 capturado"
+      - habremos capturado
+      - "habr\xE9is capturado"
+      - "habr\xE1n capturado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa capturado"
+      - "habr\xEDas capturado"
+      - "habr\xEDa capturado"
+      - "habr\xEDamos capturado"
+      - "habr\xEDais capturado"
+      - "habr\xEDan capturado"
+      cjid: cpef
+    - cjfs:
+      - haya capturado
+      - hayas capturado
+      - haya capturado
+      - hayamos capturado
+      - "hay\xE1is capturado"
+      - hayan capturado
+      cjid: ppfs
+    - cjfs:
+      - hubiera capturado
+      - hubieras capturado
+      - hubiera capturado
+      - "hubi\xE9ramos capturado"
+      - hubierais capturado
+      - hubieran capturado
+      cjid: ppss1
+    - cjfs:
+      - hubiese capturado
+      - hubieses capturado
+      - hubiese capturado
+      - "hubi\xE9semos capturado"
+      - hubieseis capturado
+      - hubiesen capturado
+      cjid: ppss2
+    - cjfs:
+      - hubiere capturado
+      - hubieres capturado
+      - hubiere capturado
+      - "hubi\xE9remos capturado"
+      - hubiereis capturado
+      - hubieren capturado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - captura
+      - capture
+      - capturemos
+      - capturad
+      - capturen
+      cjid: impf

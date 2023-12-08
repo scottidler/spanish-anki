@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|applaud}'
+  fl: verb
+  hwi:
+    hw: aplaudir
+  meta:
+    id: aplaudir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601721000'
+    src: spanish
+    stems:
+    - aplaudir
+    uuid: 3cc3f06c-99df-4657-ae2c-cdb806b1619e
+  shortdef:
+  - to applaud
+  suppl:
+    cjts:
+    - cjfs:
+      - aplaudiendo
+      - aplaudido
+      cjid: gppt
+    - cjfs:
+      - aplaudo
+      - aplaudes
+      - aplaude
+      - aplaudimos
+      - "aplaud\xEDs"
+      - aplauden
+      cjid: pind
+    - cjfs:
+      - "aplaud\xEDa"
+      - "aplaud\xEDas"
+      - "aplaud\xEDa"
+      - "aplaud\xEDamos"
+      - "aplaud\xEDais"
+      - "aplaud\xEDan"
+      cjid: pret
+    - cjfs:
+      - "aplaud\xED"
+      - aplaudiste
+      - "aplaudi\xF3"
+      - aplaudimos
+      - aplaudisteis
+      - aplaudieron
+      cjid: pprf
+    - cjfs:
+      - "aplaudir\xE9"
+      - "aplaudir\xE1s"
+      - "aplaudir\xE1"
+      - aplaudiremos
+      - "aplaudir\xE9is"
+      - "aplaudir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aplaudir\xEDa"
+      - "aplaudir\xEDas"
+      - "aplaudir\xEDa"
+      - "aplaudir\xEDamos"
+      - "aplaudir\xEDais"
+      - "aplaudir\xEDan"
+      cjid: cond
+    - cjfs:
+      - aplauda
+      - aplaudas
+      - aplauda
+      - aplaudamos
+      - "aplaud\xE1is"
+      - aplaudan
+      cjid: psub
+    - cjfs:
+      - aplaudiera
+      - aplaudieras
+      - aplaudiera
+      - "aplaudi\xE9ramos"
+      - aplaudierais
+      - aplaudieran
+      cjid: pisb1
+    - cjfs:
+      - aplaudiese
+      - aplaudieses
+      - aplaudiese
+      - "aplaudi\xE9semos"
+      - aplaudieseis
+      - aplaudiesen
+      cjid: pisb2
+    - cjfs:
+      - aplaudiere
+      - aplaudieres
+      - aplaudiere
+      - "aplaudi\xE9remos"
+      - aplaudiereis
+      - aplaudieren
+      cjid: fsub
+    - cjfs:
+      - he aplaudido
+      - has aplaudido
+      - ha aplaudido
+      - hemos aplaudido
+      - "hab\xE9is aplaudido"
+      - han aplaudido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aplaudido"
+      - "hab\xEDas aplaudido"
+      - "hab\xEDa aplaudido"
+      - "hab\xEDamos aplaudido"
+      - "hab\xEDais aplaudido"
+      - "hab\xEDan aplaudido"
+      cjid: ppsi
+    - cjfs:
+      - hube aplaudido
+      - hubiste aplaudido
+      - hubo aplaudido
+      - hubimos aplaudido
+      - hubisteis aplaudido
+      - hubieron aplaudido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aplaudido"
+      - "habr\xE1s aplaudido"
+      - "habr\xE1 aplaudido"
+      - habremos aplaudido
+      - "habr\xE9is aplaudido"
+      - "habr\xE1n aplaudido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aplaudido"
+      - "habr\xEDas aplaudido"
+      - "habr\xEDa aplaudido"
+      - "habr\xEDamos aplaudido"
+      - "habr\xEDais aplaudido"
+      - "habr\xEDan aplaudido"
+      cjid: cpef
+    - cjfs:
+      - haya aplaudido
+      - hayas aplaudido
+      - haya aplaudido
+      - hayamos aplaudido
+      - "hay\xE1is aplaudido"
+      - hayan aplaudido
+      cjid: ppfs
+    - cjfs:
+      - hubiera aplaudido
+      - hubieras aplaudido
+      - hubiera aplaudido
+      - "hubi\xE9ramos aplaudido"
+      - hubierais aplaudido
+      - hubieran aplaudido
+      cjid: ppss1
+    - cjfs:
+      - hubiese aplaudido
+      - hubieses aplaudido
+      - hubiese aplaudido
+      - "hubi\xE9semos aplaudido"
+      - hubieseis aplaudido
+      - hubiesen aplaudido
+      cjid: ppss2
+    - cjfs:
+      - hubiere aplaudido
+      - hubieres aplaudido
+      - hubiere aplaudido
+      - "hubi\xE9remos aplaudido"
+      - hubiereis aplaudido
+      - hubieren aplaudido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aplaude
+      - aplauda
+      - aplaudamos
+      - aplaudid
+      - aplaudan
+      cjid: impf

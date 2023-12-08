@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fastidiar||} {bc}to {a_link|annoy}, to {a_link|bother} '
+          - - vis
+            - - t: no me molesta
+                tr: it doesn't bother me, I don't mind
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disturb}, to {a_link|disrupt}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be a nuisance'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get annoyed, to be offended'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take the trouble to'
+            sn: '2'
+            vrs:
+            - va: molestarse en
+              vac: ~ en
+    drp: molestarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: molestar
+    prs:
+    - sound:
+        audio: moles01sp
+  meta:
+    id: molestar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615226000'
+    src: spanish
+    stems:
+    - molestar
+    - molestarse
+    - molestarse en
+    uuid: b81ef034-e0ad-41aa-ba85-8d7172979b9f
+  shortdef:
+  - 'fastidiar : to annoy, to bother'
+  - to disturb, to disrupt
+  - to be a nuisance
+  suppl:
+    cjts:
+    - cjfs:
+      - molestando
+      - molestado
+      cjid: gppt
+    - cjfs:
+      - molesto
+      - molestas
+      - molesta
+      - molestamos
+      - "molest\xE1is"
+      - molestan
+      cjid: pind
+    - cjfs:
+      - molestaba
+      - molestabas
+      - molestaba
+      - "molest\xE1bamos"
+      - molestabais
+      - molestaban
+      cjid: pret
+    - cjfs:
+      - "molest\xE9"
+      - molestaste
+      - "molest\xF3"
+      - molestamos
+      - molestasteis
+      - molestaron
+      cjid: pprf
+    - cjfs:
+      - "molestar\xE9"
+      - "molestar\xE1s"
+      - "molestar\xE1"
+      - molestaremos
+      - "molestar\xE9is"
+      - "molestar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "molestar\xEDa"
+      - "molestar\xEDas"
+      - "molestar\xEDa"
+      - "molestar\xEDamos"
+      - "molestar\xEDais"
+      - "molestar\xEDan"
+      cjid: cond
+    - cjfs:
+      - moleste
+      - molestes
+      - moleste
+      - molestemos
+      - "molest\xE9is"
+      - molesten
+      cjid: psub
+    - cjfs:
+      - molestara
+      - molestaras
+      - molestara
+      - "molest\xE1ramos"
+      - molestarais
+      - molestaran
+      cjid: pisb1
+    - cjfs:
+      - molestase
+      - molestases
+      - molestase
+      - "molest\xE1semos"
+      - molestaseis
+      - molestasen
+      cjid: pisb2
+    - cjfs:
+      - molestare
+      - molestares
+      - molestare
+      - "molest\xE1remos"
+      - molestareis
+      - molestaren
+      cjid: fsub
+    - cjfs:
+      - he molestado
+      - has molestado
+      - ha molestado
+      - hemos molestado
+      - "hab\xE9is molestado"
+      - han molestado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa molestado"
+      - "hab\xEDas molestado"
+      - "hab\xEDa molestado"
+      - "hab\xEDamos molestado"
+      - "hab\xEDais molestado"
+      - "hab\xEDan molestado"
+      cjid: ppsi
+    - cjfs:
+      - hube molestado
+      - hubiste molestado
+      - hubo molestado
+      - hubimos molestado
+      - hubisteis molestado
+      - hubieron molestado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 molestado"
+      - "habr\xE1s molestado"
+      - "habr\xE1 molestado"
+      - habremos molestado
+      - "habr\xE9is molestado"
+      - "habr\xE1n molestado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa molestado"
+      - "habr\xEDas molestado"
+      - "habr\xEDa molestado"
+      - "habr\xEDamos molestado"
+      - "habr\xEDais molestado"
+      - "habr\xEDan molestado"
+      cjid: cpef
+    - cjfs:
+      - haya molestado
+      - hayas molestado
+      - haya molestado
+      - hayamos molestado
+      - "hay\xE1is molestado"
+      - hayan molestado
+      cjid: ppfs
+    - cjfs:
+      - hubiera molestado
+      - hubieras molestado
+      - hubiera molestado
+      - "hubi\xE9ramos molestado"
+      - hubierais molestado
+      - hubieran molestado
+      cjid: ppss1
+    - cjfs:
+      - hubiese molestado
+      - hubieses molestado
+      - hubiese molestado
+      - "hubi\xE9semos molestado"
+      - hubieseis molestado
+      - hubiesen molestado
+      cjid: ppss2
+    - cjfs:
+      - hubiere molestado
+      - hubieres molestado
+      - hubiere molestado
+      - "hubi\xE9remos molestado"
+      - hubiereis molestado
+      - hubieren molestado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - molesta
+      - moleste
+      - molestemos
+      - molestad
+      - molesten
+      cjid: impf

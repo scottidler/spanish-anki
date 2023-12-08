@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bang on}, to {a_link|beat}, to {a_link|bludgeon}'
+  fl: transitive verb
+  hwi:
+    hw: aporrear
+  meta:
+    id: aporrear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601749000'
+    src: spanish
+    stems:
+    - aporrear
+    uuid: d59e8a26-f18f-4d51-9ca6-665c85c94835
+  shortdef:
+  - to bang on, to beat, to bludgeon
+  suppl:
+    cjts:
+    - cjfs:
+      - aporreando
+      - aporreado
+      cjid: gppt
+    - cjfs:
+      - aporreo
+      - aporreas
+      - aporrea
+      - aporreamos
+      - "aporre\xE1is"
+      - aporrean
+      cjid: pind
+    - cjfs:
+      - aporreaba
+      - aporreabas
+      - aporreaba
+      - "aporre\xE1bamos"
+      - aporreabais
+      - aporreaban
+      cjid: pret
+    - cjfs:
+      - "aporre\xE9"
+      - aporreaste
+      - "aporre\xF3"
+      - aporreamos
+      - aporreasteis
+      - aporrearon
+      cjid: pprf
+    - cjfs:
+      - "aporrear\xE9"
+      - "aporrear\xE1s"
+      - "aporrear\xE1"
+      - aporrearemos
+      - "aporrear\xE9is"
+      - "aporrear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aporrear\xEDa"
+      - "aporrear\xEDas"
+      - "aporrear\xEDa"
+      - "aporrear\xEDamos"
+      - "aporrear\xEDais"
+      - "aporrear\xEDan"
+      cjid: cond
+    - cjfs:
+      - aporree
+      - aporrees
+      - aporree
+      - aporreemos
+      - "aporre\xE9is"
+      - aporreen
+      cjid: psub
+    - cjfs:
+      - aporreara
+      - aporrearas
+      - aporreara
+      - "aporre\xE1ramos"
+      - aporrearais
+      - aporrearan
+      cjid: pisb1
+    - cjfs:
+      - aporrease
+      - aporreases
+      - aporrease
+      - "aporre\xE1semos"
+      - aporreaseis
+      - aporreasen
+      cjid: pisb2
+    - cjfs:
+      - aporreare
+      - aporreares
+      - aporreare
+      - "aporre\xE1remos"
+      - aporreareis
+      - aporrearen
+      cjid: fsub
+    - cjfs:
+      - he aporreado
+      - has aporreado
+      - ha aporreado
+      - hemos aporreado
+      - "hab\xE9is aporreado"
+      - han aporreado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aporreado"
+      - "hab\xEDas aporreado"
+      - "hab\xEDa aporreado"
+      - "hab\xEDamos aporreado"
+      - "hab\xEDais aporreado"
+      - "hab\xEDan aporreado"
+      cjid: ppsi
+    - cjfs:
+      - hube aporreado
+      - hubiste aporreado
+      - hubo aporreado
+      - hubimos aporreado
+      - hubisteis aporreado
+      - hubieron aporreado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aporreado"
+      - "habr\xE1s aporreado"
+      - "habr\xE1 aporreado"
+      - habremos aporreado
+      - "habr\xE9is aporreado"
+      - "habr\xE1n aporreado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aporreado"
+      - "habr\xEDas aporreado"
+      - "habr\xEDa aporreado"
+      - "habr\xEDamos aporreado"
+      - "habr\xEDais aporreado"
+      - "habr\xEDan aporreado"
+      cjid: cpef
+    - cjfs:
+      - haya aporreado
+      - hayas aporreado
+      - haya aporreado
+      - hayamos aporreado
+      - "hay\xE1is aporreado"
+      - hayan aporreado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aporreado
+      - hubieras aporreado
+      - hubiera aporreado
+      - "hubi\xE9ramos aporreado"
+      - hubierais aporreado
+      - hubieran aporreado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aporreado
+      - hubieses aporreado
+      - hubiese aporreado
+      - "hubi\xE9semos aporreado"
+      - hubieseis aporreado
+      - hubiesen aporreado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aporreado
+      - hubieres aporreado
+      - hubiere aporreado
+      - "hubi\xE9remos aporreado"
+      - hubiereis aporreado
+      - hubieren aporreado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aporrea
+      - aporree
+      - aporreemos
+      - aporread
+      - aporreen
+      cjid: impf

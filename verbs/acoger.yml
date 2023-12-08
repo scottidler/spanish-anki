@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|refugiar||} {bc}to {a_link|take in}, to {a_link|shelter}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|receive}, to {a_link|welcome}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|refugiarse||} {bc}to take refuge'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|resort to}, to avail oneself of'
+            sn: '2'
+            vrs:
+            - va: acogerse a
+              vac: ~ a
+    drp: acogerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: acoger
+    prs:
+    - sound:
+        audio: acoge02sp
+  meta:
+    id: acoger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600298000'
+    src: spanish
+    stems:
+    - acoger
+    - acogerse
+    - acogerse a
+    uuid: bbd20334-44fa-427f-9c59-8a46b2c33ac2
+  shortdef:
+  - 'refugiar : to take in, to shelter'
+  - to receive, to welcome
+  suppl:
+    cjts:
+    - cjfs:
+      - acogiendo
+      - acogido
+      cjid: gppt
+    - cjfs:
+      - acojo
+      - acoges
+      - acoge
+      - acogemos
+      - "acog\xE9is"
+      - acogen
+      cjid: pind
+    - cjfs:
+      - "acog\xEDa"
+      - "acog\xEDas"
+      - "acog\xEDa"
+      - "acog\xEDamos"
+      - "acog\xEDais"
+      - "acog\xEDan"
+      cjid: pret
+    - cjfs:
+      - "acog\xED"
+      - acogiste
+      - "acogi\xF3"
+      - acogimos
+      - acogisteis
+      - acogieron
+      cjid: pprf
+    - cjfs:
+      - "acoger\xE9"
+      - "acoger\xE1s"
+      - "acoger\xE1"
+      - acogeremos
+      - "acoger\xE9is"
+      - "acoger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acoger\xEDa"
+      - "acoger\xEDas"
+      - "acoger\xEDa"
+      - "acoger\xEDamos"
+      - "acoger\xEDais"
+      - "acoger\xEDan"
+      cjid: cond
+    - cjfs:
+      - acoja
+      - acojas
+      - acoja
+      - acojamos
+      - "acoj\xE1is"
+      - acojan
+      cjid: psub
+    - cjfs:
+      - acogiera
+      - acogieras
+      - acogiera
+      - "acogi\xE9ramos"
+      - acogierais
+      - acogieran
+      cjid: pisb1
+    - cjfs:
+      - acogiese
+      - acogieses
+      - acogiese
+      - "acogi\xE9semos"
+      - acogieseis
+      - acogiesen
+      cjid: pisb2
+    - cjfs:
+      - acogiere
+      - acogieres
+      - acogiere
+      - "acogi\xE9remos"
+      - acogiereis
+      - acogieren
+      cjid: fsub
+    - cjfs:
+      - he acogido
+      - has acogido
+      - ha acogido
+      - hemos acogido
+      - "hab\xE9is acogido"
+      - han acogido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acogido"
+      - "hab\xEDas acogido"
+      - "hab\xEDa acogido"
+      - "hab\xEDamos acogido"
+      - "hab\xEDais acogido"
+      - "hab\xEDan acogido"
+      cjid: ppsi
+    - cjfs:
+      - hube acogido
+      - hubiste acogido
+      - hubo acogido
+      - hubimos acogido
+      - hubisteis acogido
+      - hubieron acogido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acogido"
+      - "habr\xE1s acogido"
+      - "habr\xE1 acogido"
+      - habremos acogido
+      - "habr\xE9is acogido"
+      - "habr\xE1n acogido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acogido"
+      - "habr\xEDas acogido"
+      - "habr\xEDa acogido"
+      - "habr\xEDamos acogido"
+      - "habr\xEDais acogido"
+      - "habr\xEDan acogido"
+      cjid: cpef
+    - cjfs:
+      - haya acogido
+      - hayas acogido
+      - haya acogido
+      - hayamos acogido
+      - "hay\xE1is acogido"
+      - hayan acogido
+      cjid: ppfs
+    - cjfs:
+      - hubiera acogido
+      - hubieras acogido
+      - hubiera acogido
+      - "hubi\xE9ramos acogido"
+      - hubierais acogido
+      - hubieran acogido
+      cjid: ppss1
+    - cjfs:
+      - hubiese acogido
+      - hubieses acogido
+      - hubiese acogido
+      - "hubi\xE9semos acogido"
+      - hubieseis acogido
+      - hubiesen acogido
+      cjid: ppss2
+    - cjfs:
+      - hubiere acogido
+      - hubieres acogido
+      - hubiere acogido
+      - "hubi\xE9remos acogido"
+      - hubiereis acogido
+      - hubieren acogido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acoge
+      - acoja
+      - acojamos
+      - acoged
+      - acojan
+      cjid: impf

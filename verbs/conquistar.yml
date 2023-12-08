@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|conquer}'
+  fl: transitive verb
+  hwi:
+    hw: conquistar
+    prs:
+    - sound:
+        audio: conqu02sp
+  meta:
+    id: conquistar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605556000'
+    src: spanish
+    stems:
+    - conquistar
+    uuid: 670674e8-df0f-4fbd-a75f-c7e11e6f397a
+  shortdef:
+  - to conquer
+  suppl:
+    cjts:
+    - cjfs:
+      - conquistando
+      - conquistado
+      cjid: gppt
+    - cjfs:
+      - conquisto
+      - conquistas
+      - conquista
+      - conquistamos
+      - "conquist\xE1is"
+      - conquistan
+      cjid: pind
+    - cjfs:
+      - conquistaba
+      - conquistabas
+      - conquistaba
+      - "conquist\xE1bamos"
+      - conquistabais
+      - conquistaban
+      cjid: pret
+    - cjfs:
+      - "conquist\xE9"
+      - conquistaste
+      - "conquist\xF3"
+      - conquistamos
+      - conquistasteis
+      - conquistaron
+      cjid: pprf
+    - cjfs:
+      - "conquistar\xE9"
+      - "conquistar\xE1s"
+      - "conquistar\xE1"
+      - conquistaremos
+      - "conquistar\xE9is"
+      - "conquistar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conquistar\xEDa"
+      - "conquistar\xEDas"
+      - "conquistar\xEDa"
+      - "conquistar\xEDamos"
+      - "conquistar\xEDais"
+      - "conquistar\xEDan"
+      cjid: cond
+    - cjfs:
+      - conquiste
+      - conquistes
+      - conquiste
+      - conquistemos
+      - "conquist\xE9is"
+      - conquisten
+      cjid: psub
+    - cjfs:
+      - conquistara
+      - conquistaras
+      - conquistara
+      - "conquist\xE1ramos"
+      - conquistarais
+      - conquistaran
+      cjid: pisb1
+    - cjfs:
+      - conquistase
+      - conquistases
+      - conquistase
+      - "conquist\xE1semos"
+      - conquistaseis
+      - conquistasen
+      cjid: pisb2
+    - cjfs:
+      - conquistare
+      - conquistares
+      - conquistare
+      - "conquist\xE1remos"
+      - conquistareis
+      - conquistaren
+      cjid: fsub
+    - cjfs:
+      - he conquistado
+      - has conquistado
+      - ha conquistado
+      - hemos conquistado
+      - "hab\xE9is conquistado"
+      - han conquistado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conquistado"
+      - "hab\xEDas conquistado"
+      - "hab\xEDa conquistado"
+      - "hab\xEDamos conquistado"
+      - "hab\xEDais conquistado"
+      - "hab\xEDan conquistado"
+      cjid: ppsi
+    - cjfs:
+      - hube conquistado
+      - hubiste conquistado
+      - hubo conquistado
+      - hubimos conquistado
+      - hubisteis conquistado
+      - hubieron conquistado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conquistado"
+      - "habr\xE1s conquistado"
+      - "habr\xE1 conquistado"
+      - habremos conquistado
+      - "habr\xE9is conquistado"
+      - "habr\xE1n conquistado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conquistado"
+      - "habr\xEDas conquistado"
+      - "habr\xEDa conquistado"
+      - "habr\xEDamos conquistado"
+      - "habr\xEDais conquistado"
+      - "habr\xEDan conquistado"
+      cjid: cpef
+    - cjfs:
+      - haya conquistado
+      - hayas conquistado
+      - haya conquistado
+      - hayamos conquistado
+      - "hay\xE1is conquistado"
+      - hayan conquistado
+      cjid: ppfs
+    - cjfs:
+      - hubiera conquistado
+      - hubieras conquistado
+      - hubiera conquistado
+      - "hubi\xE9ramos conquistado"
+      - hubierais conquistado
+      - hubieran conquistado
+      cjid: ppss1
+    - cjfs:
+      - hubiese conquistado
+      - hubieses conquistado
+      - hubiese conquistado
+      - "hubi\xE9semos conquistado"
+      - hubieseis conquistado
+      - hubiesen conquistado
+      cjid: ppss2
+    - cjfs:
+      - hubiere conquistado
+      - hubieres conquistado
+      - hubiere conquistado
+      - "hubi\xE9remos conquistado"
+      - hubiereis conquistado
+      - hubieren conquistado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conquista
+      - conquiste
+      - conquistemos
+      - conquistad
+      - conquisten
+      cjid: impf

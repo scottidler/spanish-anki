@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|examine}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|inspeccionar||} {bc}to {a_link|inspect}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take an exam'
+    drp: examinarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: examinar
+    prs:
+    - sound:
+        audio: exami01sp
+  meta:
+    id: examinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609576000'
+    src: spanish
+    stems:
+    - examinar
+    - examinarse
+    uuid: 71a54667-9e3a-42f6-a9c2-b04b40af5806
+  shortdef:
+  - to examine
+  - 'inspeccionar : to inspect'
+  suppl:
+    cjts:
+    - cjfs:
+      - examinando
+      - examinado
+      cjid: gppt
+    - cjfs:
+      - examino
+      - examinas
+      - examina
+      - examinamos
+      - "examin\xE1is"
+      - examinan
+      cjid: pind
+    - cjfs:
+      - examinaba
+      - examinabas
+      - examinaba
+      - "examin\xE1bamos"
+      - examinabais
+      - examinaban
+      cjid: pret
+    - cjfs:
+      - "examin\xE9"
+      - examinaste
+      - "examin\xF3"
+      - examinamos
+      - examinasteis
+      - examinaron
+      cjid: pprf
+    - cjfs:
+      - "examinar\xE9"
+      - "examinar\xE1s"
+      - "examinar\xE1"
+      - examinaremos
+      - "examinar\xE9is"
+      - "examinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "examinar\xEDa"
+      - "examinar\xEDas"
+      - "examinar\xEDa"
+      - "examinar\xEDamos"
+      - "examinar\xEDais"
+      - "examinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - examine
+      - examines
+      - examine
+      - examinemos
+      - "examin\xE9is"
+      - examinen
+      cjid: psub
+    - cjfs:
+      - examinara
+      - examinaras
+      - examinara
+      - "examin\xE1ramos"
+      - examinarais
+      - examinaran
+      cjid: pisb1
+    - cjfs:
+      - examinase
+      - examinases
+      - examinase
+      - "examin\xE1semos"
+      - examinaseis
+      - examinasen
+      cjid: pisb2
+    - cjfs:
+      - examinare
+      - examinares
+      - examinare
+      - "examin\xE1remos"
+      - examinareis
+      - examinaren
+      cjid: fsub
+    - cjfs:
+      - he examinado
+      - has examinado
+      - ha examinado
+      - hemos examinado
+      - "hab\xE9is examinado"
+      - han examinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa examinado"
+      - "hab\xEDas examinado"
+      - "hab\xEDa examinado"
+      - "hab\xEDamos examinado"
+      - "hab\xEDais examinado"
+      - "hab\xEDan examinado"
+      cjid: ppsi
+    - cjfs:
+      - hube examinado
+      - hubiste examinado
+      - hubo examinado
+      - hubimos examinado
+      - hubisteis examinado
+      - hubieron examinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 examinado"
+      - "habr\xE1s examinado"
+      - "habr\xE1 examinado"
+      - habremos examinado
+      - "habr\xE9is examinado"
+      - "habr\xE1n examinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa examinado"
+      - "habr\xEDas examinado"
+      - "habr\xEDa examinado"
+      - "habr\xEDamos examinado"
+      - "habr\xEDais examinado"
+      - "habr\xEDan examinado"
+      cjid: cpef
+    - cjfs:
+      - haya examinado
+      - hayas examinado
+      - haya examinado
+      - hayamos examinado
+      - "hay\xE1is examinado"
+      - hayan examinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera examinado
+      - hubieras examinado
+      - hubiera examinado
+      - "hubi\xE9ramos examinado"
+      - hubierais examinado
+      - hubieran examinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese examinado
+      - hubieses examinado
+      - hubiese examinado
+      - "hubi\xE9semos examinado"
+      - hubieseis examinado
+      - hubiesen examinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere examinado
+      - hubieres examinado
+      - hubiere examinado
+      - "hubi\xE9remos examinado"
+      - hubiereis examinado
+      - hubieren examinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - examina
+      - examine
+      - examinemos
+      - examinad
+      - examinen
+      cjid: impf

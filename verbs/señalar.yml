@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|indicar||} {bc}to {a_link|indicate}, to {a_link|show}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mark}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|point out}, to {a_link|stress}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fix}, to {a_link|set}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|distinguish oneself}'
+    drp: "se\xF1alarse"
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: "se\xF1alar"
+    prs:
+    - sound:
+        audio: senal03sp
+  meta:
+    id: senalar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620453000'
+    src: spanish
+    stems:
+    - "se\xF1alar"
+    - "se\xF1alarse"
+    uuid: ff395088-1046-4e91-9c9e-99b3b700c92a
+  shortdef:
+  - 'indicar : to indicate, to show'
+  - to mark
+  - to point out, to stress
+  suppl:
+    cjts:
+    - cjfs:
+      - "se\xF1alando"
+      - "se\xF1alado"
+      cjid: gppt
+    - cjfs:
+      - "se\xF1alo"
+      - "se\xF1alas"
+      - "se\xF1ala"
+      - "se\xF1alamos"
+      - "se\xF1al\xE1is"
+      - "se\xF1alan"
+      cjid: pind
+    - cjfs:
+      - "se\xF1alaba"
+      - "se\xF1alabas"
+      - "se\xF1alaba"
+      - "se\xF1al\xE1bamos"
+      - "se\xF1alabais"
+      - "se\xF1alaban"
+      cjid: pret
+    - cjfs:
+      - "se\xF1al\xE9"
+      - "se\xF1alaste"
+      - "se\xF1al\xF3"
+      - "se\xF1alamos"
+      - "se\xF1alasteis"
+      - "se\xF1alaron"
+      cjid: pprf
+    - cjfs:
+      - "se\xF1alar\xE9"
+      - "se\xF1alar\xE1s"
+      - "se\xF1alar\xE1"
+      - "se\xF1alaremos"
+      - "se\xF1alar\xE9is"
+      - "se\xF1alar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "se\xF1alar\xEDa"
+      - "se\xF1alar\xEDas"
+      - "se\xF1alar\xEDa"
+      - "se\xF1alar\xEDamos"
+      - "se\xF1alar\xEDais"
+      - "se\xF1alar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "se\xF1ale"
+      - "se\xF1ales"
+      - "se\xF1ale"
+      - "se\xF1alemos"
+      - "se\xF1al\xE9is"
+      - "se\xF1alen"
+      cjid: psub
+    - cjfs:
+      - "se\xF1alara"
+      - "se\xF1alaras"
+      - "se\xF1alara"
+      - "se\xF1al\xE1ramos"
+      - "se\xF1alarais"
+      - "se\xF1alaran"
+      cjid: pisb1
+    - cjfs:
+      - "se\xF1alase"
+      - "se\xF1alases"
+      - "se\xF1alase"
+      - "se\xF1al\xE1semos"
+      - "se\xF1alaseis"
+      - "se\xF1alasen"
+      cjid: pisb2
+    - cjfs:
+      - "se\xF1alare"
+      - "se\xF1alares"
+      - "se\xF1alare"
+      - "se\xF1al\xE1remos"
+      - "se\xF1alareis"
+      - "se\xF1alaren"
+      cjid: fsub
+    - cjfs:
+      - "he se\xF1alado"
+      - "has se\xF1alado"
+      - "ha se\xF1alado"
+      - "hemos se\xF1alado"
+      - "hab\xE9is se\xF1alado"
+      - "han se\xF1alado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa se\xF1alado"
+      - "hab\xEDas se\xF1alado"
+      - "hab\xEDa se\xF1alado"
+      - "hab\xEDamos se\xF1alado"
+      - "hab\xEDais se\xF1alado"
+      - "hab\xEDan se\xF1alado"
+      cjid: ppsi
+    - cjfs:
+      - "hube se\xF1alado"
+      - "hubiste se\xF1alado"
+      - "hubo se\xF1alado"
+      - "hubimos se\xF1alado"
+      - "hubisteis se\xF1alado"
+      - "hubieron se\xF1alado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 se\xF1alado"
+      - "habr\xE1s se\xF1alado"
+      - "habr\xE1 se\xF1alado"
+      - "habremos se\xF1alado"
+      - "habr\xE9is se\xF1alado"
+      - "habr\xE1n se\xF1alado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa se\xF1alado"
+      - "habr\xEDas se\xF1alado"
+      - "habr\xEDa se\xF1alado"
+      - "habr\xEDamos se\xF1alado"
+      - "habr\xEDais se\xF1alado"
+      - "habr\xEDan se\xF1alado"
+      cjid: cpef
+    - cjfs:
+      - "haya se\xF1alado"
+      - "hayas se\xF1alado"
+      - "haya se\xF1alado"
+      - "hayamos se\xF1alado"
+      - "hay\xE1is se\xF1alado"
+      - "hayan se\xF1alado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera se\xF1alado"
+      - "hubieras se\xF1alado"
+      - "hubiera se\xF1alado"
+      - "hubi\xE9ramos se\xF1alado"
+      - "hubierais se\xF1alado"
+      - "hubieran se\xF1alado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese se\xF1alado"
+      - "hubieses se\xF1alado"
+      - "hubiese se\xF1alado"
+      - "hubi\xE9semos se\xF1alado"
+      - "hubieseis se\xF1alado"
+      - "hubiesen se\xF1alado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere se\xF1alado"
+      - "hubieres se\xF1alado"
+      - "hubiere se\xF1alado"
+      - "hubi\xE9remos se\xF1alado"
+      - "hubiereis se\xF1alado"
+      - "hubieren se\xF1alado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "se\xF1ala"
+      - "se\xF1ale"
+      - "se\xF1alemos"
+      - "se\xF1alad"
+      - "se\xF1alen"
+      cjid: impf

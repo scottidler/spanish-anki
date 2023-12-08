@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|esconder||} {bc}to {a_link|conceal}, to {a_link|hide}'
+  fl: transitive verb
+  hwi:
+    hw: ocultar
+    prs:
+    - sound:
+        audio: ocult01sp
+  meta:
+    id: ocultar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616082000'
+    src: spanish
+    stems:
+    - ocultar
+    - ocultarse
+    uuid: 25a549c6-2324-4e97-88f0-5085e3928a75
+  shortdef:
+  - 'esconder : to conceal, to hide'
+  suppl:
+    cjts:
+    - cjfs:
+      - ocultando
+      - ocultado
+      cjid: gppt
+    - cjfs:
+      - oculto
+      - ocultas
+      - oculta
+      - ocultamos
+      - "ocult\xE1is"
+      - ocultan
+      cjid: pind
+    - cjfs:
+      - ocultaba
+      - ocultabas
+      - ocultaba
+      - "ocult\xE1bamos"
+      - ocultabais
+      - ocultaban
+      cjid: pret
+    - cjfs:
+      - "ocult\xE9"
+      - ocultaste
+      - "ocult\xF3"
+      - ocultamos
+      - ocultasteis
+      - ocultaron
+      cjid: pprf
+    - cjfs:
+      - "ocultar\xE9"
+      - "ocultar\xE1s"
+      - "ocultar\xE1"
+      - ocultaremos
+      - "ocultar\xE9is"
+      - "ocultar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ocultar\xEDa"
+      - "ocultar\xEDas"
+      - "ocultar\xEDa"
+      - "ocultar\xEDamos"
+      - "ocultar\xEDais"
+      - "ocultar\xEDan"
+      cjid: cond
+    - cjfs:
+      - oculte
+      - ocultes
+      - oculte
+      - ocultemos
+      - "ocult\xE9is"
+      - oculten
+      cjid: psub
+    - cjfs:
+      - ocultara
+      - ocultaras
+      - ocultara
+      - "ocult\xE1ramos"
+      - ocultarais
+      - ocultaran
+      cjid: pisb1
+    - cjfs:
+      - ocultase
+      - ocultases
+      - ocultase
+      - "ocult\xE1semos"
+      - ocultaseis
+      - ocultasen
+      cjid: pisb2
+    - cjfs:
+      - ocultare
+      - ocultares
+      - ocultare
+      - "ocult\xE1remos"
+      - ocultareis
+      - ocultaren
+      cjid: fsub
+    - cjfs:
+      - he ocultado
+      - has ocultado
+      - ha ocultado
+      - hemos ocultado
+      - "hab\xE9is ocultado"
+      - han ocultado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ocultado"
+      - "hab\xEDas ocultado"
+      - "hab\xEDa ocultado"
+      - "hab\xEDamos ocultado"
+      - "hab\xEDais ocultado"
+      - "hab\xEDan ocultado"
+      cjid: ppsi
+    - cjfs:
+      - hube ocultado
+      - hubiste ocultado
+      - hubo ocultado
+      - hubimos ocultado
+      - hubisteis ocultado
+      - hubieron ocultado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ocultado"
+      - "habr\xE1s ocultado"
+      - "habr\xE1 ocultado"
+      - habremos ocultado
+      - "habr\xE9is ocultado"
+      - "habr\xE1n ocultado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ocultado"
+      - "habr\xEDas ocultado"
+      - "habr\xEDa ocultado"
+      - "habr\xEDamos ocultado"
+      - "habr\xEDais ocultado"
+      - "habr\xEDan ocultado"
+      cjid: cpef
+    - cjfs:
+      - haya ocultado
+      - hayas ocultado
+      - haya ocultado
+      - hayamos ocultado
+      - "hay\xE1is ocultado"
+      - hayan ocultado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ocultado
+      - hubieras ocultado
+      - hubiera ocultado
+      - "hubi\xE9ramos ocultado"
+      - hubierais ocultado
+      - hubieran ocultado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ocultado
+      - hubieses ocultado
+      - hubiese ocultado
+      - "hubi\xE9semos ocultado"
+      - hubieseis ocultado
+      - hubiesen ocultado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ocultado
+      - hubieres ocultado
+      - hubiere ocultado
+      - "hubi\xE9remos ocultado"
+      - hubiereis ocultado
+      - hubieren ocultado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - oculta
+      - oculte
+      - ocultemos
+      - ocultad
+      - oculten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: ocultarse

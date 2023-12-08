@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|support}, to {a_link|hold up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold} '
+          - - vis
+            - - t: sostenme la puerta
+                tr: hold the door for me
+              - t: "sostener una conversaci\xF3n"
+                tr: to hold a conversation
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sustain}, to {a_link|maintain}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stand}, to hold oneself up'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|continue}, to {a_link|remain}'
+            sn: '2'
+    drp: sostenerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sostener
+    prs:
+    - sound:
+        audio: soste02sp
+  meta:
+    id: sostener
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621003000'
+    src: spanish
+    stems:
+    - sostener
+    - sostenerse
+    uuid: 87e5cac2-99c4-4853-8a96-42d27ba0423b
+  shortdef:
+  - to support, to hold up
+  - to hold
+  - to sustain, to maintain
+  suppl:
+    cjts:
+    - cjfs:
+      - sosteniendo
+      - sostenido
+      cjid: gppt
+    - cjfs:
+      - sostengo
+      - sostienes
+      - sostiene
+      - sostenemos
+      - "sosten\xE9is"
+      - sostienen
+      cjid: pind
+    - cjfs:
+      - "sosten\xEDa"
+      - "sosten\xEDas"
+      - "sosten\xEDa"
+      - "sosten\xEDamos"
+      - "sosten\xEDais"
+      - "sosten\xEDan"
+      cjid: pret
+    - cjfs:
+      - sostuve
+      - sostuviste
+      - sostuvo
+      - sostuvimos
+      - sostuvisteis
+      - sostuvieron
+      cjid: pprf
+    - cjfs:
+      - "sostendr\xE9"
+      - "sostendr\xE1s"
+      - "sostendr\xE1"
+      - sostendremos
+      - "sostendr\xE9is"
+      - "sostendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sostendr\xEDa"
+      - "sostendr\xEDas"
+      - "sostendr\xEDa"
+      - "sostendr\xEDamos"
+      - "sostendr\xEDais"
+      - "sostendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - sostenga
+      - sostengas
+      - sostenga
+      - sostengamos
+      - "sosteng\xE1is"
+      - sostengan
+      cjid: psub
+    - cjfs:
+      - sostuviera
+      - sostuvieras
+      - sostuviera
+      - "sostuvi\xE9ramos"
+      - sostuvierais
+      - sostuvieran
+      cjid: pisb1
+    - cjfs:
+      - sostuviese
+      - sostuvieses
+      - sostuviese
+      - "sostuvi\xE9semos"
+      - sostuvieseis
+      - sostuviesen
+      cjid: pisb2
+    - cjfs:
+      - sostuviere
+      - sostuvieres
+      - sostuviere
+      - "sostuvi\xE9remos"
+      - sostuviereis
+      - sostuvieren
+      cjid: fsub
+    - cjfs:
+      - he sostenido
+      - has sostenido
+      - ha sostenido
+      - hemos sostenido
+      - "hab\xE9is sostenido"
+      - han sostenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sostenido"
+      - "hab\xEDas sostenido"
+      - "hab\xEDa sostenido"
+      - "hab\xEDamos sostenido"
+      - "hab\xEDais sostenido"
+      - "hab\xEDan sostenido"
+      cjid: ppsi
+    - cjfs:
+      - hube sostenido
+      - hubiste sostenido
+      - hubo sostenido
+      - hubimos sostenido
+      - hubisteis sostenido
+      - hubieron sostenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sostenido"
+      - "habr\xE1s sostenido"
+      - "habr\xE1 sostenido"
+      - habremos sostenido
+      - "habr\xE9is sostenido"
+      - "habr\xE1n sostenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sostenido"
+      - "habr\xEDas sostenido"
+      - "habr\xEDa sostenido"
+      - "habr\xEDamos sostenido"
+      - "habr\xEDais sostenido"
+      - "habr\xEDan sostenido"
+      cjid: cpef
+    - cjfs:
+      - haya sostenido
+      - hayas sostenido
+      - haya sostenido
+      - hayamos sostenido
+      - "hay\xE1is sostenido"
+      - hayan sostenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sostenido
+      - hubieras sostenido
+      - hubiera sostenido
+      - "hubi\xE9ramos sostenido"
+      - hubierais sostenido
+      - hubieran sostenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sostenido
+      - hubieses sostenido
+      - hubiese sostenido
+      - "hubi\xE9semos sostenido"
+      - hubieseis sostenido
+      - hubiesen sostenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sostenido
+      - hubieres sostenido
+      - hubiere sostenido
+      - "hubi\xE9remos sostenido"
+      - hubiereis sostenido
+      - hubieren sostenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "sost\xE9n"
+      - sostenga
+      - sostengamos
+      - sostened
+      - sostengan
+      cjid: impf

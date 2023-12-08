@@ -1,0 +1,201 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|practice}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|perform}, to {a_link|carry out}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exercise} (a profession), to {a_link|play} (a sport)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|practice}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: practicar
+    prs:
+    - sound:
+        audio: pract03sp
+  meta:
+    id: practicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617882000'
+    src: spanish
+    stems:
+    - practicar
+    uuid: 9d7acdf5-f2fd-4122-809b-02c95ac4b650
+  shortdef:
+  - to practice
+  - to perform, to carry out
+  - to exercise (a profession), to play (a sport)
+  suppl:
+    cjts:
+    - cjfs:
+      - practicando
+      - practicado
+      cjid: gppt
+    - cjfs:
+      - practico
+      - practicas
+      - practica
+      - practicamos
+      - "practic\xE1is"
+      - practican
+      cjid: pind
+    - cjfs:
+      - practicaba
+      - practicabas
+      - practicaba
+      - "practic\xE1bamos"
+      - practicabais
+      - practicaban
+      cjid: pret
+    - cjfs:
+      - "practiqu\xE9"
+      - practicaste
+      - "practic\xF3"
+      - practicamos
+      - practicasteis
+      - practicaron
+      cjid: pprf
+    - cjfs:
+      - "practicar\xE9"
+      - "practicar\xE1s"
+      - "practicar\xE1"
+      - practicaremos
+      - "practicar\xE9is"
+      - "practicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "practicar\xEDa"
+      - "practicar\xEDas"
+      - "practicar\xEDa"
+      - "practicar\xEDamos"
+      - "practicar\xEDais"
+      - "practicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - practique
+      - practiques
+      - practique
+      - practiquemos
+      - "practiqu\xE9is"
+      - practiquen
+      cjid: psub
+    - cjfs:
+      - practicara
+      - practicaras
+      - practicara
+      - "practic\xE1ramos"
+      - practicarais
+      - practicaran
+      cjid: pisb1
+    - cjfs:
+      - practicase
+      - practicases
+      - practicase
+      - "practic\xE1semos"
+      - practicaseis
+      - practicasen
+      cjid: pisb2
+    - cjfs:
+      - practicare
+      - practicares
+      - practicare
+      - "practic\xE1remos"
+      - practicareis
+      - practicaren
+      cjid: fsub
+    - cjfs:
+      - he practicado
+      - has practicado
+      - ha practicado
+      - hemos practicado
+      - "hab\xE9is practicado"
+      - han practicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa practicado"
+      - "hab\xEDas practicado"
+      - "hab\xEDa practicado"
+      - "hab\xEDamos practicado"
+      - "hab\xEDais practicado"
+      - "hab\xEDan practicado"
+      cjid: ppsi
+    - cjfs:
+      - hube practicado
+      - hubiste practicado
+      - hubo practicado
+      - hubimos practicado
+      - hubisteis practicado
+      - hubieron practicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 practicado"
+      - "habr\xE1s practicado"
+      - "habr\xE1 practicado"
+      - habremos practicado
+      - "habr\xE9is practicado"
+      - "habr\xE1n practicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa practicado"
+      - "habr\xEDas practicado"
+      - "habr\xEDa practicado"
+      - "habr\xEDamos practicado"
+      - "habr\xEDais practicado"
+      - "habr\xEDan practicado"
+      cjid: cpef
+    - cjfs:
+      - haya practicado
+      - hayas practicado
+      - haya practicado
+      - hayamos practicado
+      - "hay\xE1is practicado"
+      - hayan practicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera practicado
+      - hubieras practicado
+      - hubiera practicado
+      - "hubi\xE9ramos practicado"
+      - hubierais practicado
+      - hubieran practicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese practicado
+      - hubieses practicado
+      - hubiese practicado
+      - "hubi\xE9semos practicado"
+      - hubieseis practicado
+      - hubiesen practicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere practicado
+      - hubieres practicado
+      - hubiere practicado
+      - "hubi\xE9remos practicado"
+      - hubiereis practicado
+      - hubieren practicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - practica
+      - practique
+      - practiquemos
+      - practicad
+      - practiquen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sniff}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sense}, to {a_link|sniff out}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: olfatear
+  meta:
+    id: olfatear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616154000'
+    src: spanish
+    stems:
+    - olfatear
+    uuid: 33888101-bfda-4b56-9325-daec9569980b
+  shortdef:
+  - to sniff
+  - to sense, to sniff out
+  suppl:
+    cjts:
+    - cjfs:
+      - olfateando
+      - olfateado
+      cjid: gppt
+    - cjfs:
+      - olfateo
+      - olfateas
+      - olfatea
+      - olfateamos
+      - "olfate\xE1is"
+      - olfatean
+      cjid: pind
+    - cjfs:
+      - olfateaba
+      - olfateabas
+      - olfateaba
+      - "olfate\xE1bamos"
+      - olfateabais
+      - olfateaban
+      cjid: pret
+    - cjfs:
+      - "olfate\xE9"
+      - olfateaste
+      - "olfate\xF3"
+      - olfateamos
+      - olfateasteis
+      - olfatearon
+      cjid: pprf
+    - cjfs:
+      - "olfatear\xE9"
+      - "olfatear\xE1s"
+      - "olfatear\xE1"
+      - olfatearemos
+      - "olfatear\xE9is"
+      - "olfatear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "olfatear\xEDa"
+      - "olfatear\xEDas"
+      - "olfatear\xEDa"
+      - "olfatear\xEDamos"
+      - "olfatear\xEDais"
+      - "olfatear\xEDan"
+      cjid: cond
+    - cjfs:
+      - olfatee
+      - olfatees
+      - olfatee
+      - olfateemos
+      - "olfate\xE9is"
+      - olfateen
+      cjid: psub
+    - cjfs:
+      - olfateara
+      - olfatearas
+      - olfateara
+      - "olfate\xE1ramos"
+      - olfatearais
+      - olfatearan
+      cjid: pisb1
+    - cjfs:
+      - olfatease
+      - olfateases
+      - olfatease
+      - "olfate\xE1semos"
+      - olfateaseis
+      - olfateasen
+      cjid: pisb2
+    - cjfs:
+      - olfateare
+      - olfateares
+      - olfateare
+      - "olfate\xE1remos"
+      - olfateareis
+      - olfatearen
+      cjid: fsub
+    - cjfs:
+      - he olfateado
+      - has olfateado
+      - ha olfateado
+      - hemos olfateado
+      - "hab\xE9is olfateado"
+      - han olfateado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa olfateado"
+      - "hab\xEDas olfateado"
+      - "hab\xEDa olfateado"
+      - "hab\xEDamos olfateado"
+      - "hab\xEDais olfateado"
+      - "hab\xEDan olfateado"
+      cjid: ppsi
+    - cjfs:
+      - hube olfateado
+      - hubiste olfateado
+      - hubo olfateado
+      - hubimos olfateado
+      - hubisteis olfateado
+      - hubieron olfateado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 olfateado"
+      - "habr\xE1s olfateado"
+      - "habr\xE1 olfateado"
+      - habremos olfateado
+      - "habr\xE9is olfateado"
+      - "habr\xE1n olfateado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa olfateado"
+      - "habr\xEDas olfateado"
+      - "habr\xEDa olfateado"
+      - "habr\xEDamos olfateado"
+      - "habr\xEDais olfateado"
+      - "habr\xEDan olfateado"
+      cjid: cpef
+    - cjfs:
+      - haya olfateado
+      - hayas olfateado
+      - haya olfateado
+      - hayamos olfateado
+      - "hay\xE1is olfateado"
+      - hayan olfateado
+      cjid: ppfs
+    - cjfs:
+      - hubiera olfateado
+      - hubieras olfateado
+      - hubiera olfateado
+      - "hubi\xE9ramos olfateado"
+      - hubierais olfateado
+      - hubieran olfateado
+      cjid: ppss1
+    - cjfs:
+      - hubiese olfateado
+      - hubieses olfateado
+      - hubiese olfateado
+      - "hubi\xE9semos olfateado"
+      - hubieseis olfateado
+      - hubiesen olfateado
+      cjid: ppss2
+    - cjfs:
+      - hubiere olfateado
+      - hubieres olfateado
+      - hubiere olfateado
+      - "hubi\xE9remos olfateado"
+      - hubiereis olfateado
+      - hubieren olfateado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - olfatea
+      - olfatee
+      - olfateemos
+      - olfatead
+      - olfateen
+      cjid: impf

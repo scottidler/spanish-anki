@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tremble}, to {a_link|shake}, to {a_link|shiver} '
+          - - vis
+            - - t: le temblaban las rodillas
+                tr: his knees were shaking
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shudder}, to {a_link|be afraid} '
+          - - vis
+            - - t: "tiemblo con s\xF3lo pensarlo"
+                tr: I shudder to think of it
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: temblar
+    prs:
+    - sound:
+        audio: tembl01sp
+  meta:
+    id: temblar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621605000'
+    src: spanish
+    stems:
+    - temblar
+    uuid: 14d13f60-551b-4bef-b297-e9fccf9ff12c
+  shortdef:
+  - to tremble, to shake, to shiver
+  - to shudder, to be afraid
+  suppl:
+    cjts:
+    - cjfs:
+      - temblando
+      - temblado
+      cjid: gppt
+    - cjfs:
+      - tiemblo
+      - tiemblas
+      - tiembla
+      - temblamos
+      - "tembl\xE1is"
+      - tiemblan
+      cjid: pind
+    - cjfs:
+      - temblaba
+      - temblabas
+      - temblaba
+      - "tembl\xE1bamos"
+      - temblabais
+      - temblaban
+      cjid: pret
+    - cjfs:
+      - "tembl\xE9"
+      - temblaste
+      - "tembl\xF3"
+      - temblamos
+      - temblasteis
+      - temblaron
+      cjid: pprf
+    - cjfs:
+      - "temblar\xE9"
+      - "temblar\xE1s"
+      - "temblar\xE1"
+      - temblaremos
+      - "temblar\xE9is"
+      - "temblar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "temblar\xEDa"
+      - "temblar\xEDas"
+      - "temblar\xEDa"
+      - "temblar\xEDamos"
+      - "temblar\xEDais"
+      - "temblar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tiemble
+      - tiembles
+      - tiemble
+      - temblemos
+      - "tembl\xE9is"
+      - tiemblen
+      cjid: psub
+    - cjfs:
+      - temblara
+      - temblaras
+      - temblara
+      - "tembl\xE1ramos"
+      - temblarais
+      - temblaran
+      cjid: pisb1
+    - cjfs:
+      - temblase
+      - temblases
+      - temblase
+      - "tembl\xE1semos"
+      - temblaseis
+      - temblasen
+      cjid: pisb2
+    - cjfs:
+      - temblare
+      - temblares
+      - temblare
+      - "tembl\xE1remos"
+      - temblareis
+      - temblaren
+      cjid: fsub
+    - cjfs:
+      - he temblado
+      - has temblado
+      - ha temblado
+      - hemos temblado
+      - "hab\xE9is temblado"
+      - han temblado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa temblado"
+      - "hab\xEDas temblado"
+      - "hab\xEDa temblado"
+      - "hab\xEDamos temblado"
+      - "hab\xEDais temblado"
+      - "hab\xEDan temblado"
+      cjid: ppsi
+    - cjfs:
+      - hube temblado
+      - hubiste temblado
+      - hubo temblado
+      - hubimos temblado
+      - hubisteis temblado
+      - hubieron temblado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 temblado"
+      - "habr\xE1s temblado"
+      - "habr\xE1 temblado"
+      - habremos temblado
+      - "habr\xE9is temblado"
+      - "habr\xE1n temblado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa temblado"
+      - "habr\xEDas temblado"
+      - "habr\xEDa temblado"
+      - "habr\xEDamos temblado"
+      - "habr\xEDais temblado"
+      - "habr\xEDan temblado"
+      cjid: cpef
+    - cjfs:
+      - haya temblado
+      - hayas temblado
+      - haya temblado
+      - hayamos temblado
+      - "hay\xE1is temblado"
+      - hayan temblado
+      cjid: ppfs
+    - cjfs:
+      - hubiera temblado
+      - hubieras temblado
+      - hubiera temblado
+      - "hubi\xE9ramos temblado"
+      - hubierais temblado
+      - hubieran temblado
+      cjid: ppss1
+    - cjfs:
+      - hubiese temblado
+      - hubieses temblado
+      - hubiese temblado
+      - "hubi\xE9semos temblado"
+      - hubieseis temblado
+      - hubiesen temblado
+      cjid: ppss2
+    - cjfs:
+      - hubiere temblado
+      - hubieres temblado
+      - hubiere temblado
+      - "hubi\xE9remos temblado"
+      - hubiereis temblado
+      - hubieren temblado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tiembla
+      - tiemble
+      - temblemos
+      - temblad
+      - tiemblen
+      cjid: impf

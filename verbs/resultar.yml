@@ -1,0 +1,226 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|work}, to {a_link|work out} '
+          - - vis
+            - - t: "mi idea no result\xF3"
+                tr: my idea didn't work out
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be}, to turn out to be, to end up being '
+          - - vis
+            - - t: "result\xF3 bien simp\xE1tico"
+                tr: he turned out to be very nice
+              - t: "result\xF3 cancelado"
+                tr: it was canceled, it ended up being canceled
+              - t: "resulta m\xE1s sencillo/barato"
+                tr: it's simpler/cheaper, it ends up being simpler/cheaper
+              - t: me resulta muy interesante
+                tr: I find it very interesting
+              - t: "result\xF3 (ser) una falsa alarma"
+                tr: it turned out to be a false alarm
+              - t: "resulta que ya lo hab\xEDa hecho"
+                tr: it turns out she'd already done it
+              - t: "result\xF3 con heridas graves"
+                tr: he sustained serious injuries
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lead to}, to result in'
+          sn: '3'
+          vrs:
+          - va: resultar en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be the result of'
+          sn: '4'
+          vrs:
+          - va: resultar de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: resultar
+    prs:
+    - sound:
+        audio: resul03sp
+  meta:
+    id: resultar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619644000'
+    src: spanish
+    stems:
+    - resultar
+    - resultar en
+    - resultar de
+    uuid: d992633d-076b-46c3-b8a7-b620a8960759
+  shortdef:
+  - to work, to work out
+  - to be, to turn out to be, to end up being
+  - to lead to, to result in
+  suppl:
+    cjts:
+    - cjfs:
+      - resultando
+      - resultado
+      cjid: gppt
+    - cjfs:
+      - resulto
+      - resultas
+      - resulta
+      - resultamos
+      - "result\xE1is"
+      - resultan
+      cjid: pind
+    - cjfs:
+      - resultaba
+      - resultabas
+      - resultaba
+      - "result\xE1bamos"
+      - resultabais
+      - resultaban
+      cjid: pret
+    - cjfs:
+      - "result\xE9"
+      - resultaste
+      - "result\xF3"
+      - resultamos
+      - resultasteis
+      - resultaron
+      cjid: pprf
+    - cjfs:
+      - "resultar\xE9"
+      - "resultar\xE1s"
+      - "resultar\xE1"
+      - resultaremos
+      - "resultar\xE9is"
+      - "resultar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resultar\xEDa"
+      - "resultar\xEDas"
+      - "resultar\xEDa"
+      - "resultar\xEDamos"
+      - "resultar\xEDais"
+      - "resultar\xEDan"
+      cjid: cond
+    - cjfs:
+      - resulte
+      - resultes
+      - resulte
+      - resultemos
+      - "result\xE9is"
+      - resulten
+      cjid: psub
+    - cjfs:
+      - resultara
+      - resultaras
+      - resultara
+      - "result\xE1ramos"
+      - resultarais
+      - resultaran
+      cjid: pisb1
+    - cjfs:
+      - resultase
+      - resultases
+      - resultase
+      - "result\xE1semos"
+      - resultaseis
+      - resultasen
+      cjid: pisb2
+    - cjfs:
+      - resultare
+      - resultares
+      - resultare
+      - "result\xE1remos"
+      - resultareis
+      - resultaren
+      cjid: fsub
+    - cjfs:
+      - he resultado
+      - has resultado
+      - ha resultado
+      - hemos resultado
+      - "hab\xE9is resultado"
+      - han resultado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resultado"
+      - "hab\xEDas resultado"
+      - "hab\xEDa resultado"
+      - "hab\xEDamos resultado"
+      - "hab\xEDais resultado"
+      - "hab\xEDan resultado"
+      cjid: ppsi
+    - cjfs:
+      - hube resultado
+      - hubiste resultado
+      - hubo resultado
+      - hubimos resultado
+      - hubisteis resultado
+      - hubieron resultado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resultado"
+      - "habr\xE1s resultado"
+      - "habr\xE1 resultado"
+      - habremos resultado
+      - "habr\xE9is resultado"
+      - "habr\xE1n resultado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resultado"
+      - "habr\xEDas resultado"
+      - "habr\xEDa resultado"
+      - "habr\xEDamos resultado"
+      - "habr\xEDais resultado"
+      - "habr\xEDan resultado"
+      cjid: cpef
+    - cjfs:
+      - haya resultado
+      - hayas resultado
+      - haya resultado
+      - hayamos resultado
+      - "hay\xE1is resultado"
+      - hayan resultado
+      cjid: ppfs
+    - cjfs:
+      - hubiera resultado
+      - hubieras resultado
+      - hubiera resultado
+      - "hubi\xE9ramos resultado"
+      - hubierais resultado
+      - hubieran resultado
+      cjid: ppss1
+    - cjfs:
+      - hubiese resultado
+      - hubieses resultado
+      - hubiese resultado
+      - "hubi\xE9semos resultado"
+      - hubieseis resultado
+      - hubiesen resultado
+      cjid: ppss2
+    - cjfs:
+      - hubiere resultado
+      - hubieres resultado
+      - hubiere resultado
+      - "hubi\xE9remos resultado"
+      - hubiereis resultado
+      - hubieren resultado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resulta
+      - resulte
+      - resultemos
+      - resultad
+      - resulten
+      cjid: impf

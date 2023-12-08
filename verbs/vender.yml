@@ -1,0 +1,260 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sell}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sell out}, to {a_link|betray}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be sold '
+            - - vis
+              - - t: se vende
+                  tr: for sale
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|sell out}'
+            sn: '2'
+    drp: venderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: vender
+    prs:
+    - sound:
+        audio: vende02sp
+  meta:
+    id: vender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622812000'
+    src: spanish
+    stems:
+    - vender
+    - venderse
+    uuid: 7c712259-e587-481f-a98e-99690d4555d8
+  shortdef:
+  - to sell
+  - to sell out, to betray
+  suppl:
+    cjts:
+    - cjfs:
+      - vendiendo
+      - vendido
+      cjid: gppt
+    - cjfs:
+      - vendo
+      - vendes
+      - vende
+      - vendemos
+      - "vend\xE9is"
+      - venden
+      cjid: pind
+    - cjfs:
+      - "vend\xEDa"
+      - "vend\xEDas"
+      - "vend\xEDa"
+      - "vend\xEDamos"
+      - "vend\xEDais"
+      - "vend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "vend\xED"
+      - vendiste
+      - "vendi\xF3"
+      - vendimos
+      - vendisteis
+      - vendieron
+      cjid: pprf
+    - cjfs:
+      - "vender\xE9"
+      - "vender\xE1s"
+      - "vender\xE1"
+      - venderemos
+      - "vender\xE9is"
+      - "vender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vender\xEDa"
+      - "vender\xEDas"
+      - "vender\xEDa"
+      - "vender\xEDamos"
+      - "vender\xEDais"
+      - "vender\xEDan"
+      cjid: cond
+    - cjfs:
+      - venda
+      - vendas
+      - venda
+      - vendamos
+      - "vend\xE1is"
+      - vendan
+      cjid: psub
+    - cjfs:
+      - vendiera
+      - vendieras
+      - vendiera
+      - "vendi\xE9ramos"
+      - vendierais
+      - vendieran
+      cjid: pisb1
+    - cjfs:
+      - vendiese
+      - vendieses
+      - vendiese
+      - "vendi\xE9semos"
+      - vendieseis
+      - vendiesen
+      cjid: pisb2
+    - cjfs:
+      - vendiere
+      - vendieres
+      - vendiere
+      - "vendi\xE9remos"
+      - vendiereis
+      - vendieren
+      cjid: fsub
+    - cjfs:
+      - he vendido
+      - has vendido
+      - ha vendido
+      - hemos vendido
+      - "hab\xE9is vendido"
+      - han vendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vendido"
+      - "hab\xEDas vendido"
+      - "hab\xEDa vendido"
+      - "hab\xEDamos vendido"
+      - "hab\xEDais vendido"
+      - "hab\xEDan vendido"
+      cjid: ppsi
+    - cjfs:
+      - hube vendido
+      - hubiste vendido
+      - hubo vendido
+      - hubimos vendido
+      - hubisteis vendido
+      - hubieron vendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vendido"
+      - "habr\xE1s vendido"
+      - "habr\xE1 vendido"
+      - habremos vendido
+      - "habr\xE9is vendido"
+      - "habr\xE1n vendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vendido"
+      - "habr\xEDas vendido"
+      - "habr\xEDa vendido"
+      - "habr\xEDamos vendido"
+      - "habr\xEDais vendido"
+      - "habr\xEDan vendido"
+      cjid: cpef
+    - cjfs:
+      - haya vendido
+      - hayas vendido
+      - haya vendido
+      - hayamos vendido
+      - "hay\xE1is vendido"
+      - hayan vendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera vendido
+      - hubieras vendido
+      - hubiera vendido
+      - "hubi\xE9ramos vendido"
+      - hubierais vendido
+      - hubieran vendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese vendido
+      - hubieses vendido
+      - hubiese vendido
+      - "hubi\xE9semos vendido"
+      - hubieseis vendido
+      - hubiesen vendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere vendido
+      - hubieres vendido
+      - hubiere vendido
+      - "hubi\xE9remos vendido"
+      - hubiereis vendido
+      - hubieren vendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vende
+      - venda
+      - vendamos
+      - vended
+      - vendan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|vendedor} '
+          - - gl
+            - masculine
+          - - text
+            - ', '
+          - - gwds
+            - gwc: -dora
+              gwd: vendedora
+          - - text
+            - ' '
+          - - gl
+            - feminine
+          - - text
+            - '; puestero '
+          - - gl
+            - masculine
+          - - text
+            - ', '
+          - - gwds
+            - gwc: -ra
+              gwd: puestera
+          - - text
+            - ' '
+          - - gl
+            - feminine
+  fl: noun
+  hwi:
+    hw: vendor
+    prs:
+    - mw: "\u02C8v\u025Bnd\u0259r"
+      sound:
+        audio: vendor01
+  meta:
+    id: vendor
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2626033000'
+    src: spanish
+    stems:
+    - vendor
+    - vender
+    - vendors
+    - venders
+    uuid: 66618362-e8f7-4d5b-95b6-3f37b250af9c
+  shortdef:
+  - vendedor, vendedora; puestero, puestera

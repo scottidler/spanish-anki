@@ -1,0 +1,231 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|adjust} (wages, settings, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|adecuar||} {bc}to {a_link|adapt}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tighten} (a bolt, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit} (a part)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take in} (clothing)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fix}, to {a_link|set} (a price)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|saldar||} {bc}to {a_link|settle}'
+          sn: '7'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fit}, to {a_link|conform}'
+    drp: ajustarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ajustar
+    prs:
+    - sound:
+        audio: ajust02sp
+  meta:
+    id: ajustar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600831000'
+    src: spanish
+    stems:
+    - ajustar
+    - ajustarse
+    uuid: ace3990c-b071-4862-bca7-0908dd3a1d79
+  shortdef:
+  - to adjust (wages, settings, etc.)
+  - 'adecuar : to adapt'
+  - to tighten (a bolt, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - ajustando
+      - ajustado
+      cjid: gppt
+    - cjfs:
+      - ajusto
+      - ajustas
+      - ajusta
+      - ajustamos
+      - "ajust\xE1is"
+      - ajustan
+      cjid: pind
+    - cjfs:
+      - ajustaba
+      - ajustabas
+      - ajustaba
+      - "ajust\xE1bamos"
+      - ajustabais
+      - ajustaban
+      cjid: pret
+    - cjfs:
+      - "ajust\xE9"
+      - ajustaste
+      - "ajust\xF3"
+      - ajustamos
+      - ajustasteis
+      - ajustaron
+      cjid: pprf
+    - cjfs:
+      - "ajustar\xE9"
+      - "ajustar\xE1s"
+      - "ajustar\xE1"
+      - ajustaremos
+      - "ajustar\xE9is"
+      - "ajustar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ajustar\xEDa"
+      - "ajustar\xEDas"
+      - "ajustar\xEDa"
+      - "ajustar\xEDamos"
+      - "ajustar\xEDais"
+      - "ajustar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ajuste
+      - ajustes
+      - ajuste
+      - ajustemos
+      - "ajust\xE9is"
+      - ajusten
+      cjid: psub
+    - cjfs:
+      - ajustara
+      - ajustaras
+      - ajustara
+      - "ajust\xE1ramos"
+      - ajustarais
+      - ajustaran
+      cjid: pisb1
+    - cjfs:
+      - ajustase
+      - ajustases
+      - ajustase
+      - "ajust\xE1semos"
+      - ajustaseis
+      - ajustasen
+      cjid: pisb2
+    - cjfs:
+      - ajustare
+      - ajustares
+      - ajustare
+      - "ajust\xE1remos"
+      - ajustareis
+      - ajustaren
+      cjid: fsub
+    - cjfs:
+      - he ajustado
+      - has ajustado
+      - ha ajustado
+      - hemos ajustado
+      - "hab\xE9is ajustado"
+      - han ajustado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ajustado"
+      - "hab\xEDas ajustado"
+      - "hab\xEDa ajustado"
+      - "hab\xEDamos ajustado"
+      - "hab\xEDais ajustado"
+      - "hab\xEDan ajustado"
+      cjid: ppsi
+    - cjfs:
+      - hube ajustado
+      - hubiste ajustado
+      - hubo ajustado
+      - hubimos ajustado
+      - hubisteis ajustado
+      - hubieron ajustado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ajustado"
+      - "habr\xE1s ajustado"
+      - "habr\xE1 ajustado"
+      - habremos ajustado
+      - "habr\xE9is ajustado"
+      - "habr\xE1n ajustado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ajustado"
+      - "habr\xEDas ajustado"
+      - "habr\xEDa ajustado"
+      - "habr\xEDamos ajustado"
+      - "habr\xEDais ajustado"
+      - "habr\xEDan ajustado"
+      cjid: cpef
+    - cjfs:
+      - haya ajustado
+      - hayas ajustado
+      - haya ajustado
+      - hayamos ajustado
+      - "hay\xE1is ajustado"
+      - hayan ajustado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ajustado
+      - hubieras ajustado
+      - hubiera ajustado
+      - "hubi\xE9ramos ajustado"
+      - hubierais ajustado
+      - hubieran ajustado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ajustado
+      - hubieses ajustado
+      - hubiese ajustado
+      - "hubi\xE9semos ajustado"
+      - hubieseis ajustado
+      - hubiesen ajustado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ajustado
+      - hubieres ajustado
+      - hubiere ajustado
+      - "hubi\xE9remos ajustado"
+      - hubiereis ajustado
+      - hubieren ajustado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ajusta
+      - ajuste
+      - ajustemos
+      - ajustad
+      - ajusten
+      cjid: impf

@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|balance}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|swing} (one''s arms, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rock} (a boat)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|oscilar||} {bc}to {a_link|swing}, to {a_link|sway}, to {a_link|rock}'
+    drp: balancearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: balancear
+    prs:
+    - sound:
+        audio: balan01sp
+  meta:
+    id: balancear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602673000'
+    src: spanish
+    stems:
+    - balancear
+    - balancearse
+    uuid: ccb200b9-39cc-4b29-9193-2c33251ca248
+  shortdef:
+  - to balance
+  - to swing (one's arms, etc.)
+  - to rock (a boat)
+  suppl:
+    cjts:
+    - cjfs:
+      - balanceando
+      - balanceado
+      cjid: gppt
+    - cjfs:
+      - balanceo
+      - balanceas
+      - balancea
+      - balanceamos
+      - "balance\xE1is"
+      - balancean
+      cjid: pind
+    - cjfs:
+      - balanceaba
+      - balanceabas
+      - balanceaba
+      - "balance\xE1bamos"
+      - balanceabais
+      - balanceaban
+      cjid: pret
+    - cjfs:
+      - "balance\xE9"
+      - balanceaste
+      - "balance\xF3"
+      - balanceamos
+      - balanceasteis
+      - balancearon
+      cjid: pprf
+    - cjfs:
+      - "balancear\xE9"
+      - "balancear\xE1s"
+      - "balancear\xE1"
+      - balancearemos
+      - "balancear\xE9is"
+      - "balancear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "balancear\xEDa"
+      - "balancear\xEDas"
+      - "balancear\xEDa"
+      - "balancear\xEDamos"
+      - "balancear\xEDais"
+      - "balancear\xEDan"
+      cjid: cond
+    - cjfs:
+      - balancee
+      - balancees
+      - balancee
+      - balanceemos
+      - "balance\xE9is"
+      - balanceen
+      cjid: psub
+    - cjfs:
+      - balanceara
+      - balancearas
+      - balanceara
+      - "balance\xE1ramos"
+      - balancearais
+      - balancearan
+      cjid: pisb1
+    - cjfs:
+      - balancease
+      - balanceases
+      - balancease
+      - "balance\xE1semos"
+      - balanceaseis
+      - balanceasen
+      cjid: pisb2
+    - cjfs:
+      - balanceare
+      - balanceares
+      - balanceare
+      - "balance\xE1remos"
+      - balanceareis
+      - balancearen
+      cjid: fsub
+    - cjfs:
+      - he balanceado
+      - has balanceado
+      - ha balanceado
+      - hemos balanceado
+      - "hab\xE9is balanceado"
+      - han balanceado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa balanceado"
+      - "hab\xEDas balanceado"
+      - "hab\xEDa balanceado"
+      - "hab\xEDamos balanceado"
+      - "hab\xEDais balanceado"
+      - "hab\xEDan balanceado"
+      cjid: ppsi
+    - cjfs:
+      - hube balanceado
+      - hubiste balanceado
+      - hubo balanceado
+      - hubimos balanceado
+      - hubisteis balanceado
+      - hubieron balanceado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 balanceado"
+      - "habr\xE1s balanceado"
+      - "habr\xE1 balanceado"
+      - habremos balanceado
+      - "habr\xE9is balanceado"
+      - "habr\xE1n balanceado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa balanceado"
+      - "habr\xEDas balanceado"
+      - "habr\xEDa balanceado"
+      - "habr\xEDamos balanceado"
+      - "habr\xEDais balanceado"
+      - "habr\xEDan balanceado"
+      cjid: cpef
+    - cjfs:
+      - haya balanceado
+      - hayas balanceado
+      - haya balanceado
+      - hayamos balanceado
+      - "hay\xE1is balanceado"
+      - hayan balanceado
+      cjid: ppfs
+    - cjfs:
+      - hubiera balanceado
+      - hubieras balanceado
+      - hubiera balanceado
+      - "hubi\xE9ramos balanceado"
+      - hubierais balanceado
+      - hubieran balanceado
+      cjid: ppss1
+    - cjfs:
+      - hubiese balanceado
+      - hubieses balanceado
+      - hubiese balanceado
+      - "hubi\xE9semos balanceado"
+      - hubieseis balanceado
+      - hubiesen balanceado
+      cjid: ppss2
+    - cjfs:
+      - hubiere balanceado
+      - hubieres balanceado
+      - hubiere balanceado
+      - "hubi\xE9remos balanceado"
+      - hubiereis balanceado
+      - hubieren balanceado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - balancea
+      - balancee
+      - balanceemos
+      - balancead
+      - balanceen
+      cjid: impf

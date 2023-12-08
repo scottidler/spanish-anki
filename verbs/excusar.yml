@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|excuse}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exempt}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|apologize}, to send one''s regrets'
+    drp: excusarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: excusar
+    prs:
+    - sound:
+        audio: excus03sp
+  meta:
+    id: excusar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609618000'
+    src: spanish
+    stems:
+    - excusar
+    - excusarse
+    uuid: 73981a9b-8d6e-4b10-b130-a41bef49fd94
+  shortdef:
+  - to excuse
+  - to exempt
+  suppl:
+    cjts:
+    - cjfs:
+      - excusando
+      - excusado
+      cjid: gppt
+    - cjfs:
+      - excuso
+      - excusas
+      - excusa
+      - excusamos
+      - "excus\xE1is"
+      - excusan
+      cjid: pind
+    - cjfs:
+      - excusaba
+      - excusabas
+      - excusaba
+      - "excus\xE1bamos"
+      - excusabais
+      - excusaban
+      cjid: pret
+    - cjfs:
+      - "excus\xE9"
+      - excusaste
+      - "excus\xF3"
+      - excusamos
+      - excusasteis
+      - excusaron
+      cjid: pprf
+    - cjfs:
+      - "excusar\xE9"
+      - "excusar\xE1s"
+      - "excusar\xE1"
+      - excusaremos
+      - "excusar\xE9is"
+      - "excusar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "excusar\xEDa"
+      - "excusar\xEDas"
+      - "excusar\xEDa"
+      - "excusar\xEDamos"
+      - "excusar\xEDais"
+      - "excusar\xEDan"
+      cjid: cond
+    - cjfs:
+      - excuse
+      - excuses
+      - excuse
+      - excusemos
+      - "excus\xE9is"
+      - excusen
+      cjid: psub
+    - cjfs:
+      - excusara
+      - excusaras
+      - excusara
+      - "excus\xE1ramos"
+      - excusarais
+      - excusaran
+      cjid: pisb1
+    - cjfs:
+      - excusase
+      - excusases
+      - excusase
+      - "excus\xE1semos"
+      - excusaseis
+      - excusasen
+      cjid: pisb2
+    - cjfs:
+      - excusare
+      - excusares
+      - excusare
+      - "excus\xE1remos"
+      - excusareis
+      - excusaren
+      cjid: fsub
+    - cjfs:
+      - he excusado
+      - has excusado
+      - ha excusado
+      - hemos excusado
+      - "hab\xE9is excusado"
+      - han excusado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa excusado"
+      - "hab\xEDas excusado"
+      - "hab\xEDa excusado"
+      - "hab\xEDamos excusado"
+      - "hab\xEDais excusado"
+      - "hab\xEDan excusado"
+      cjid: ppsi
+    - cjfs:
+      - hube excusado
+      - hubiste excusado
+      - hubo excusado
+      - hubimos excusado
+      - hubisteis excusado
+      - hubieron excusado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 excusado"
+      - "habr\xE1s excusado"
+      - "habr\xE1 excusado"
+      - habremos excusado
+      - "habr\xE9is excusado"
+      - "habr\xE1n excusado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa excusado"
+      - "habr\xEDas excusado"
+      - "habr\xEDa excusado"
+      - "habr\xEDamos excusado"
+      - "habr\xEDais excusado"
+      - "habr\xEDan excusado"
+      cjid: cpef
+    - cjfs:
+      - haya excusado
+      - hayas excusado
+      - haya excusado
+      - hayamos excusado
+      - "hay\xE1is excusado"
+      - hayan excusado
+      cjid: ppfs
+    - cjfs:
+      - hubiera excusado
+      - hubieras excusado
+      - hubiera excusado
+      - "hubi\xE9ramos excusado"
+      - hubierais excusado
+      - hubieran excusado
+      cjid: ppss1
+    - cjfs:
+      - hubiese excusado
+      - hubieses excusado
+      - hubiese excusado
+      - "hubi\xE9semos excusado"
+      - hubieseis excusado
+      - hubiesen excusado
+      cjid: ppss2
+    - cjfs:
+      - hubiere excusado
+      - hubieres excusado
+      - hubiere excusado
+      - "hubi\xE9remos excusado"
+      - hubiereis excusado
+      - hubieren excusado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - excusa
+      - excuse
+      - excusemos
+      - excusad
+      - excusen
+      cjid: impf

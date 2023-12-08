@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sen
+        - vrs:
+          - va: acceder a
+            vac: ~ a
+      - - sense
+        - dt:
+          - - text
+            - '{bc}to accede to, to {a_link|agree to}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assume} (a position)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to gain access to'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: acceder
+    prs:
+    - sound:
+        audio: acced01sp
+  meta:
+    id: acceder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600205000'
+    src: spanish
+    stems:
+    - acceder
+    - acceder a
+    uuid: 3ee8a12c-a86f-4daf-9896-b1c0b692f947
+  shortdef:
+  - to accede to, to agree to
+  - to assume (a position)
+  - to gain access to
+  suppl:
+    cjts:
+    - cjfs:
+      - accediendo
+      - accedido
+      cjid: gppt
+    - cjfs:
+      - accedo
+      - accedes
+      - accede
+      - accedemos
+      - "acced\xE9is"
+      - acceden
+      cjid: pind
+    - cjfs:
+      - "acced\xEDa"
+      - "acced\xEDas"
+      - "acced\xEDa"
+      - "acced\xEDamos"
+      - "acced\xEDais"
+      - "acced\xEDan"
+      cjid: pret
+    - cjfs:
+      - "acced\xED"
+      - accediste
+      - "accedi\xF3"
+      - accedimos
+      - accedisteis
+      - accedieron
+      cjid: pprf
+    - cjfs:
+      - "acceder\xE9"
+      - "acceder\xE1s"
+      - "acceder\xE1"
+      - accederemos
+      - "acceder\xE9is"
+      - "acceder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acceder\xEDa"
+      - "acceder\xEDas"
+      - "acceder\xEDa"
+      - "acceder\xEDamos"
+      - "acceder\xEDais"
+      - "acceder\xEDan"
+      cjid: cond
+    - cjfs:
+      - acceda
+      - accedas
+      - acceda
+      - accedamos
+      - "acced\xE1is"
+      - accedan
+      cjid: psub
+    - cjfs:
+      - accediera
+      - accedieras
+      - accediera
+      - "accedi\xE9ramos"
+      - accedierais
+      - accedieran
+      cjid: pisb1
+    - cjfs:
+      - accediese
+      - accedieses
+      - accediese
+      - "accedi\xE9semos"
+      - accedieseis
+      - accediesen
+      cjid: pisb2
+    - cjfs:
+      - accediere
+      - accedieres
+      - accediere
+      - "accedi\xE9remos"
+      - accediereis
+      - accedieren
+      cjid: fsub
+    - cjfs:
+      - he accedido
+      - has accedido
+      - ha accedido
+      - hemos accedido
+      - "hab\xE9is accedido"
+      - han accedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa accedido"
+      - "hab\xEDas accedido"
+      - "hab\xEDa accedido"
+      - "hab\xEDamos accedido"
+      - "hab\xEDais accedido"
+      - "hab\xEDan accedido"
+      cjid: ppsi
+    - cjfs:
+      - hube accedido
+      - hubiste accedido
+      - hubo accedido
+      - hubimos accedido
+      - hubisteis accedido
+      - hubieron accedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 accedido"
+      - "habr\xE1s accedido"
+      - "habr\xE1 accedido"
+      - habremos accedido
+      - "habr\xE9is accedido"
+      - "habr\xE1n accedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa accedido"
+      - "habr\xEDas accedido"
+      - "habr\xEDa accedido"
+      - "habr\xEDamos accedido"
+      - "habr\xEDais accedido"
+      - "habr\xEDan accedido"
+      cjid: cpef
+    - cjfs:
+      - haya accedido
+      - hayas accedido
+      - haya accedido
+      - hayamos accedido
+      - "hay\xE1is accedido"
+      - hayan accedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera accedido
+      - hubieras accedido
+      - hubiera accedido
+      - "hubi\xE9ramos accedido"
+      - hubierais accedido
+      - hubieran accedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese accedido
+      - hubieses accedido
+      - hubiese accedido
+      - "hubi\xE9semos accedido"
+      - hubieseis accedido
+      - hubiesen accedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere accedido
+      - hubieres accedido
+      - hubiere accedido
+      - "hubi\xE9remos accedido"
+      - hubiereis accedido
+      - hubieren accedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - accede
+      - acceda
+      - accedamos
+      - acceded
+      - accedan
+      cjid: impf

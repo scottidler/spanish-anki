@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bore}, to {a_link|tire}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get bored'
+    drp: aburrirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aburrir
+    prs:
+    - sound:
+        audio: aburr03sp
+  meta:
+    id: aburrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600162000'
+    src: spanish
+    stems:
+    - aburrir
+    - aburrirse
+    uuid: aa9f830d-a4e8-4937-af4f-0e576b81789a
+  shortdef:
+  - to bore, to tire
+  suppl:
+    cjts:
+    - cjfs:
+      - aburriendo
+      - aburrido
+      cjid: gppt
+    - cjfs:
+      - aburro
+      - aburres
+      - aburre
+      - aburrimos
+      - "aburr\xEDs"
+      - aburren
+      cjid: pind
+    - cjfs:
+      - "aburr\xEDa"
+      - "aburr\xEDas"
+      - "aburr\xEDa"
+      - "aburr\xEDamos"
+      - "aburr\xEDais"
+      - "aburr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "aburr\xED"
+      - aburriste
+      - "aburri\xF3"
+      - aburrimos
+      - aburristeis
+      - aburrieron
+      cjid: pprf
+    - cjfs:
+      - "aburrir\xE9"
+      - "aburrir\xE1s"
+      - "aburrir\xE1"
+      - aburriremos
+      - "aburrir\xE9is"
+      - "aburrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aburrir\xEDa"
+      - "aburrir\xEDas"
+      - "aburrir\xEDa"
+      - "aburrir\xEDamos"
+      - "aburrir\xEDais"
+      - "aburrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - aburra
+      - aburras
+      - aburra
+      - aburramos
+      - "aburr\xE1is"
+      - aburran
+      cjid: psub
+    - cjfs:
+      - aburriera
+      - aburrieras
+      - aburriera
+      - "aburri\xE9ramos"
+      - aburrierais
+      - aburrieran
+      cjid: pisb1
+    - cjfs:
+      - aburriese
+      - aburrieses
+      - aburriese
+      - "aburri\xE9semos"
+      - aburrieseis
+      - aburriesen
+      cjid: pisb2
+    - cjfs:
+      - aburriere
+      - aburrieres
+      - aburriere
+      - "aburri\xE9remos"
+      - aburriereis
+      - aburrieren
+      cjid: fsub
+    - cjfs:
+      - he aburrido
+      - has aburrido
+      - ha aburrido
+      - hemos aburrido
+      - "hab\xE9is aburrido"
+      - han aburrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aburrido"
+      - "hab\xEDas aburrido"
+      - "hab\xEDa aburrido"
+      - "hab\xEDamos aburrido"
+      - "hab\xEDais aburrido"
+      - "hab\xEDan aburrido"
+      cjid: ppsi
+    - cjfs:
+      - hube aburrido
+      - hubiste aburrido
+      - hubo aburrido
+      - hubimos aburrido
+      - hubisteis aburrido
+      - hubieron aburrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aburrido"
+      - "habr\xE1s aburrido"
+      - "habr\xE1 aburrido"
+      - habremos aburrido
+      - "habr\xE9is aburrido"
+      - "habr\xE1n aburrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aburrido"
+      - "habr\xEDas aburrido"
+      - "habr\xEDa aburrido"
+      - "habr\xEDamos aburrido"
+      - "habr\xEDais aburrido"
+      - "habr\xEDan aburrido"
+      cjid: cpef
+    - cjfs:
+      - haya aburrido
+      - hayas aburrido
+      - haya aburrido
+      - hayamos aburrido
+      - "hay\xE1is aburrido"
+      - hayan aburrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera aburrido
+      - hubieras aburrido
+      - hubiera aburrido
+      - "hubi\xE9ramos aburrido"
+      - hubierais aburrido
+      - hubieran aburrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese aburrido
+      - hubieses aburrido
+      - hubiese aburrido
+      - "hubi\xE9semos aburrido"
+      - hubieseis aburrido
+      - hubiesen aburrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere aburrido
+      - hubieres aburrido
+      - hubiere aburrido
+      - "hubi\xE9remos aburrido"
+      - hubiereis aburrido
+      - hubieren aburrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aburre
+      - aburra
+      - aburramos
+      - aburrid
+      - aburran
+      cjid: impf

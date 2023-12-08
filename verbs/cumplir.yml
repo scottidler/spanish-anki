@@ -1,0 +1,234 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|accomplish}, to {a_link|carry out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to comply with, to {a_link|fulfill}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attain}, to {a_link|reach} '
+          - - vis
+            - - t: "su hermana cumple (los) 20 (a\xF1os) el viernes"
+                tr: her sister will be 20 on Friday
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expire}, to fall due'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fulfill one''s obligations '
+          - - vis
+            - - t: cumplir con su deber
+                tr: to do one's duty
+              - t: cumplir con su palabra
+                tr: to keep one's word
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to come true, to be fulfilled '
+            - - vis
+              - - t: "se cumplieron sus sue\xF1os"
+                  tr: her dreams came true
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|run out}, to {a_link|expire}'
+            sn: '2'
+    drp: cumplirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: cumplir
+    prs:
+    - sound:
+        audio: cumpl04sp
+  meta:
+    id: cumplir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606358000'
+    src: spanish
+    stems:
+    - cumplir
+    - cumplirse
+    uuid: adb4dacf-2406-472d-9e7d-64055f495ee1
+  shortdef:
+  - to accomplish, to carry out
+  - to comply with, to fulfill
+  - to attain, to reach
+  suppl:
+    cjts:
+    - cjfs:
+      - cumpliendo
+      - cumplido
+      cjid: gppt
+    - cjfs:
+      - cumplo
+      - cumples
+      - cumple
+      - cumplimos
+      - "cumpl\xEDs"
+      - cumplen
+      cjid: pind
+    - cjfs:
+      - "cumpl\xEDa"
+      - "cumpl\xEDas"
+      - "cumpl\xEDa"
+      - "cumpl\xEDamos"
+      - "cumpl\xEDais"
+      - "cumpl\xEDan"
+      cjid: pret
+    - cjfs:
+      - "cumpl\xED"
+      - cumpliste
+      - "cumpli\xF3"
+      - cumplimos
+      - cumplisteis
+      - cumplieron
+      cjid: pprf
+    - cjfs:
+      - "cumplir\xE9"
+      - "cumplir\xE1s"
+      - "cumplir\xE1"
+      - cumpliremos
+      - "cumplir\xE9is"
+      - "cumplir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cumplir\xEDa"
+      - "cumplir\xEDas"
+      - "cumplir\xEDa"
+      - "cumplir\xEDamos"
+      - "cumplir\xEDais"
+      - "cumplir\xEDan"
+      cjid: cond
+    - cjfs:
+      - cumpla
+      - cumplas
+      - cumpla
+      - cumplamos
+      - "cumpl\xE1is"
+      - cumplan
+      cjid: psub
+    - cjfs:
+      - cumpliera
+      - cumplieras
+      - cumpliera
+      - "cumpli\xE9ramos"
+      - cumplierais
+      - cumplieran
+      cjid: pisb1
+    - cjfs:
+      - cumpliese
+      - cumplieses
+      - cumpliese
+      - "cumpli\xE9semos"
+      - cumplieseis
+      - cumpliesen
+      cjid: pisb2
+    - cjfs:
+      - cumpliere
+      - cumplieres
+      - cumpliere
+      - "cumpli\xE9remos"
+      - cumpliereis
+      - cumplieren
+      cjid: fsub
+    - cjfs:
+      - he cumplido
+      - has cumplido
+      - ha cumplido
+      - hemos cumplido
+      - "hab\xE9is cumplido"
+      - han cumplido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cumplido"
+      - "hab\xEDas cumplido"
+      - "hab\xEDa cumplido"
+      - "hab\xEDamos cumplido"
+      - "hab\xEDais cumplido"
+      - "hab\xEDan cumplido"
+      cjid: ppsi
+    - cjfs:
+      - hube cumplido
+      - hubiste cumplido
+      - hubo cumplido
+      - hubimos cumplido
+      - hubisteis cumplido
+      - hubieron cumplido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cumplido"
+      - "habr\xE1s cumplido"
+      - "habr\xE1 cumplido"
+      - habremos cumplido
+      - "habr\xE9is cumplido"
+      - "habr\xE1n cumplido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cumplido"
+      - "habr\xEDas cumplido"
+      - "habr\xEDa cumplido"
+      - "habr\xEDamos cumplido"
+      - "habr\xEDais cumplido"
+      - "habr\xEDan cumplido"
+      cjid: cpef
+    - cjfs:
+      - haya cumplido
+      - hayas cumplido
+      - haya cumplido
+      - hayamos cumplido
+      - "hay\xE1is cumplido"
+      - hayan cumplido
+      cjid: ppfs
+    - cjfs:
+      - hubiera cumplido
+      - hubieras cumplido
+      - hubiera cumplido
+      - "hubi\xE9ramos cumplido"
+      - hubierais cumplido
+      - hubieran cumplido
+      cjid: ppss1
+    - cjfs:
+      - hubiese cumplido
+      - hubieses cumplido
+      - hubiese cumplido
+      - "hubi\xE9semos cumplido"
+      - hubieseis cumplido
+      - hubiesen cumplido
+      cjid: ppss2
+    - cjfs:
+      - hubiere cumplido
+      - hubieres cumplido
+      - hubiere cumplido
+      - "hubi\xE9remos cumplido"
+      - hubiereis cumplido
+      - hubieren cumplido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cumple
+      - cumpla
+      - cumplamos
+      - cumplid
+      - cumplan
+      cjid: impf

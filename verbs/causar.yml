@@ -1,0 +1,232 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cause}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|provoke}, to {a_link|arouse} '
+          - - vis
+            - - t: eso me causa gracia
+                tr: I find that funny
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: causar
+    prs:
+    - sound:
+        audio: causa03sp
+  meta:
+    id: causar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604206000'
+    src: spanish
+    stems:
+    - causar
+    uuid: 89fe2984-c0d2-42a9-95a8-5495ba5e5b12
+  shortdef:
+  - to cause
+  - to provoke, to arouse
+  suppl:
+    cjts:
+    - cjfs:
+      - causando
+      - causado
+      cjid: gppt
+    - cjfs:
+      - causo
+      - causas
+      - causa
+      - causamos
+      - "caus\xE1is"
+      - causan
+      cjid: pind
+    - cjfs:
+      - causaba
+      - causabas
+      - causaba
+      - "caus\xE1bamos"
+      - causabais
+      - causaban
+      cjid: pret
+    - cjfs:
+      - "caus\xE9"
+      - causaste
+      - "caus\xF3"
+      - causamos
+      - causasteis
+      - causaron
+      cjid: pprf
+    - cjfs:
+      - "causar\xE9"
+      - "causar\xE1s"
+      - "causar\xE1"
+      - causaremos
+      - "causar\xE9is"
+      - "causar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "causar\xEDa"
+      - "causar\xEDas"
+      - "causar\xEDa"
+      - "causar\xEDamos"
+      - "causar\xEDais"
+      - "causar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cause
+      - causes
+      - cause
+      - causemos
+      - "caus\xE9is"
+      - causen
+      cjid: psub
+    - cjfs:
+      - causara
+      - causaras
+      - causara
+      - "caus\xE1ramos"
+      - causarais
+      - causaran
+      cjid: pisb1
+    - cjfs:
+      - causase
+      - causases
+      - causase
+      - "caus\xE1semos"
+      - causaseis
+      - causasen
+      cjid: pisb2
+    - cjfs:
+      - causare
+      - causares
+      - causare
+      - "caus\xE1remos"
+      - causareis
+      - causaren
+      cjid: fsub
+    - cjfs:
+      - he causado
+      - has causado
+      - ha causado
+      - hemos causado
+      - "hab\xE9is causado"
+      - han causado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa causado"
+      - "hab\xEDas causado"
+      - "hab\xEDa causado"
+      - "hab\xEDamos causado"
+      - "hab\xEDais causado"
+      - "hab\xEDan causado"
+      cjid: ppsi
+    - cjfs:
+      - hube causado
+      - hubiste causado
+      - hubo causado
+      - hubimos causado
+      - hubisteis causado
+      - hubieron causado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 causado"
+      - "habr\xE1s causado"
+      - "habr\xE1 causado"
+      - habremos causado
+      - "habr\xE9is causado"
+      - "habr\xE1n causado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa causado"
+      - "habr\xEDas causado"
+      - "habr\xEDa causado"
+      - "habr\xEDamos causado"
+      - "habr\xEDais causado"
+      - "habr\xEDan causado"
+      cjid: cpef
+    - cjfs:
+      - haya causado
+      - hayas causado
+      - haya causado
+      - hayamos causado
+      - "hay\xE1is causado"
+      - hayan causado
+      cjid: ppfs
+    - cjfs:
+      - hubiera causado
+      - hubieras causado
+      - hubiera causado
+      - "hubi\xE9ramos causado"
+      - hubierais causado
+      - hubieran causado
+      cjid: ppss1
+    - cjfs:
+      - hubiese causado
+      - hubieses causado
+      - hubiese causado
+      - "hubi\xE9semos causado"
+      - hubieseis causado
+      - hubiesen causado
+      cjid: ppss2
+    - cjfs:
+      - hubiere causado
+      - hubieres causado
+      - hubiere causado
+      - "hubi\xE9remos causado"
+      - hubiereis causado
+      - hubieren causado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - causa
+      - cause
+      - causemos
+      - causad
+      - causen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}ravages, {a_link|destruction}, {a_link|devastation} '
+          - - vis
+            - - t: los estragos de la guerra
+                tr: the ravages of war
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to play havoc with'
+          sn: '2'
+          vrs:
+          - va: hacer estragos en
+          - va: causar estragos entre
+            vl: or
+  fl: masculine plural noun
+  hwi:
+    hw: estragos
+    prs:
+    - sound:
+        audio: estra02sp
+  meta:
+    id: estragos
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609420000'
+    src: spanish
+    stems:
+    - estragos
+    - hacer estragos en
+    - causar estragos entre
+    uuid: e48d2e92-87f0-4da3-ae10-2715d62d4e3d
+  shortdef:
+  - ravages, destruction, devastation
+  - to play havoc with

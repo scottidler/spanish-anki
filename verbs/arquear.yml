@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arch}, to {a_link|bend} '
+          - - vis
+            - - t: arquear las cejas
+                tr: to raise one's eyebrows
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|bend}, to {a_link|bow}'
+    drp: arquearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arquear
+  meta:
+    id: arquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601962000'
+    src: spanish
+    stems:
+    - arquear
+    - arquearse
+    uuid: e663c22a-480b-499c-8364-dfdd2b910885
+  shortdef:
+  - to arch, to bend
+  suppl:
+    cjts:
+    - cjfs:
+      - arqueando
+      - arqueado
+      cjid: gppt
+    - cjfs:
+      - arqueo
+      - arqueas
+      - arquea
+      - arqueamos
+      - "arque\xE1is"
+      - arquean
+      cjid: pind
+    - cjfs:
+      - arqueaba
+      - arqueabas
+      - arqueaba
+      - "arque\xE1bamos"
+      - arqueabais
+      - arqueaban
+      cjid: pret
+    - cjfs:
+      - "arque\xE9"
+      - arqueaste
+      - "arque\xF3"
+      - arqueamos
+      - arqueasteis
+      - arquearon
+      cjid: pprf
+    - cjfs:
+      - "arquear\xE9"
+      - "arquear\xE1s"
+      - "arquear\xE1"
+      - arquearemos
+      - "arquear\xE9is"
+      - "arquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arquear\xEDa"
+      - "arquear\xEDas"
+      - "arquear\xEDa"
+      - "arquear\xEDamos"
+      - "arquear\xEDais"
+      - "arquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - arquee
+      - arquees
+      - arquee
+      - arqueemos
+      - "arque\xE9is"
+      - arqueen
+      cjid: psub
+    - cjfs:
+      - arqueara
+      - arquearas
+      - arqueara
+      - "arque\xE1ramos"
+      - arquearais
+      - arquearan
+      cjid: pisb1
+    - cjfs:
+      - arquease
+      - arqueases
+      - arquease
+      - "arque\xE1semos"
+      - arqueaseis
+      - arqueasen
+      cjid: pisb2
+    - cjfs:
+      - arqueare
+      - arqueares
+      - arqueare
+      - "arque\xE1remos"
+      - arqueareis
+      - arquearen
+      cjid: fsub
+    - cjfs:
+      - he arqueado
+      - has arqueado
+      - ha arqueado
+      - hemos arqueado
+      - "hab\xE9is arqueado"
+      - han arqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arqueado"
+      - "hab\xEDas arqueado"
+      - "hab\xEDa arqueado"
+      - "hab\xEDamos arqueado"
+      - "hab\xEDais arqueado"
+      - "hab\xEDan arqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube arqueado
+      - hubiste arqueado
+      - hubo arqueado
+      - hubimos arqueado
+      - hubisteis arqueado
+      - hubieron arqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arqueado"
+      - "habr\xE1s arqueado"
+      - "habr\xE1 arqueado"
+      - habremos arqueado
+      - "habr\xE9is arqueado"
+      - "habr\xE1n arqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arqueado"
+      - "habr\xEDas arqueado"
+      - "habr\xEDa arqueado"
+      - "habr\xEDamos arqueado"
+      - "habr\xEDais arqueado"
+      - "habr\xEDan arqueado"
+      cjid: cpef
+    - cjfs:
+      - haya arqueado
+      - hayas arqueado
+      - haya arqueado
+      - hayamos arqueado
+      - "hay\xE1is arqueado"
+      - hayan arqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arqueado
+      - hubieras arqueado
+      - hubiera arqueado
+      - "hubi\xE9ramos arqueado"
+      - hubierais arqueado
+      - hubieran arqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arqueado
+      - hubieses arqueado
+      - hubiese arqueado
+      - "hubi\xE9semos arqueado"
+      - hubieseis arqueado
+      - hubiesen arqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arqueado
+      - hubieres arqueado
+      - hubiere arqueado
+      - "hubi\xE9remos arqueado"
+      - hubiereis arqueado
+      - hubieren arqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arquea
+      - arquee
+      - arqueemos
+      - arquead
+      - arqueen
+      cjid: impf

@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|impress}, to {a_link|strike}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|affect}, to {a_link|move}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shock}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expose} (film) to {a_link|light}'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make an impression'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be affected, to be moved'
+    drp: impresionarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: impresionar
+    prs:
+    - sound:
+        audio: impre06sp
+  meta:
+    id: impresionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612014000'
+    src: spanish
+    stems:
+    - impresionar
+    - impresionarse
+    uuid: 78a760a1-dd95-436e-89ab-7313e33929a3
+  shortdef:
+  - to impress, to strike
+  - to affect, to move
+  - to shock
+  suppl:
+    cjts:
+    - cjfs:
+      - impresionando
+      - impresionado
+      cjid: gppt
+    - cjfs:
+      - impresiono
+      - impresionas
+      - impresiona
+      - impresionamos
+      - "impresion\xE1is"
+      - impresionan
+      cjid: pind
+    - cjfs:
+      - impresionaba
+      - impresionabas
+      - impresionaba
+      - "impresion\xE1bamos"
+      - impresionabais
+      - impresionaban
+      cjid: pret
+    - cjfs:
+      - "impresion\xE9"
+      - impresionaste
+      - "impresion\xF3"
+      - impresionamos
+      - impresionasteis
+      - impresionaron
+      cjid: pprf
+    - cjfs:
+      - "impresionar\xE9"
+      - "impresionar\xE1s"
+      - "impresionar\xE1"
+      - impresionaremos
+      - "impresionar\xE9is"
+      - "impresionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "impresionar\xEDa"
+      - "impresionar\xEDas"
+      - "impresionar\xEDa"
+      - "impresionar\xEDamos"
+      - "impresionar\xEDais"
+      - "impresionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - impresione
+      - impresiones
+      - impresione
+      - impresionemos
+      - "impresion\xE9is"
+      - impresionen
+      cjid: psub
+    - cjfs:
+      - impresionara
+      - impresionaras
+      - impresionara
+      - "impresion\xE1ramos"
+      - impresionarais
+      - impresionaran
+      cjid: pisb1
+    - cjfs:
+      - impresionase
+      - impresionases
+      - impresionase
+      - "impresion\xE1semos"
+      - impresionaseis
+      - impresionasen
+      cjid: pisb2
+    - cjfs:
+      - impresionare
+      - impresionares
+      - impresionare
+      - "impresion\xE1remos"
+      - impresionareis
+      - impresionaren
+      cjid: fsub
+    - cjfs:
+      - he impresionado
+      - has impresionado
+      - ha impresionado
+      - hemos impresionado
+      - "hab\xE9is impresionado"
+      - han impresionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa impresionado"
+      - "hab\xEDas impresionado"
+      - "hab\xEDa impresionado"
+      - "hab\xEDamos impresionado"
+      - "hab\xEDais impresionado"
+      - "hab\xEDan impresionado"
+      cjid: ppsi
+    - cjfs:
+      - hube impresionado
+      - hubiste impresionado
+      - hubo impresionado
+      - hubimos impresionado
+      - hubisteis impresionado
+      - hubieron impresionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 impresionado"
+      - "habr\xE1s impresionado"
+      - "habr\xE1 impresionado"
+      - habremos impresionado
+      - "habr\xE9is impresionado"
+      - "habr\xE1n impresionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa impresionado"
+      - "habr\xEDas impresionado"
+      - "habr\xEDa impresionado"
+      - "habr\xEDamos impresionado"
+      - "habr\xEDais impresionado"
+      - "habr\xEDan impresionado"
+      cjid: cpef
+    - cjfs:
+      - haya impresionado
+      - hayas impresionado
+      - haya impresionado
+      - hayamos impresionado
+      - "hay\xE1is impresionado"
+      - hayan impresionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera impresionado
+      - hubieras impresionado
+      - hubiera impresionado
+      - "hubi\xE9ramos impresionado"
+      - hubierais impresionado
+      - hubieran impresionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese impresionado
+      - hubieses impresionado
+      - hubiese impresionado
+      - "hubi\xE9semos impresionado"
+      - hubieseis impresionado
+      - hubiesen impresionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere impresionado
+      - hubieres impresionado
+      - hubiere impresionado
+      - "hubi\xE9remos impresionado"
+      - hubiereis impresionado
+      - hubieren impresionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - impresiona
+      - impresione
+      - impresionemos
+      - impresionad
+      - impresionen
+      cjid: impf

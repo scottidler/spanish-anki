@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|roll up}, to {a_link|coil}'
+  fl: transitive verb
+  hwi:
+    hw: enrollar
+  meta:
+    id: enrollar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608664000'
+    src: spanish
+    stems:
+    - enrollar
+    - enrollarse
+    uuid: 5af9ba3e-f5c5-4240-a345-cbb7c4d57ea7
+  shortdef:
+  - to roll up, to coil
+  suppl:
+    cjts:
+    - cjfs:
+      - enrollando
+      - enrollado
+      cjid: gppt
+    - cjfs:
+      - enrollo
+      - enrollas
+      - enrolla
+      - enrollamos
+      - "enroll\xE1is"
+      - enrollan
+      cjid: pind
+    - cjfs:
+      - enrollaba
+      - enrollabas
+      - enrollaba
+      - "enroll\xE1bamos"
+      - enrollabais
+      - enrollaban
+      cjid: pret
+    - cjfs:
+      - "enroll\xE9"
+      - enrollaste
+      - "enroll\xF3"
+      - enrollamos
+      - enrollasteis
+      - enrollaron
+      cjid: pprf
+    - cjfs:
+      - "enrollar\xE9"
+      - "enrollar\xE1s"
+      - "enrollar\xE1"
+      - enrollaremos
+      - "enrollar\xE9is"
+      - "enrollar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enrollar\xEDa"
+      - "enrollar\xEDas"
+      - "enrollar\xEDa"
+      - "enrollar\xEDamos"
+      - "enrollar\xEDais"
+      - "enrollar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enrolle
+      - enrolles
+      - enrolle
+      - enrollemos
+      - "enroll\xE9is"
+      - enrollen
+      cjid: psub
+    - cjfs:
+      - enrollara
+      - enrollaras
+      - enrollara
+      - "enroll\xE1ramos"
+      - enrollarais
+      - enrollaran
+      cjid: pisb1
+    - cjfs:
+      - enrollase
+      - enrollases
+      - enrollase
+      - "enroll\xE1semos"
+      - enrollaseis
+      - enrollasen
+      cjid: pisb2
+    - cjfs:
+      - enrollare
+      - enrollares
+      - enrollare
+      - "enroll\xE1remos"
+      - enrollareis
+      - enrollaren
+      cjid: fsub
+    - cjfs:
+      - he enrollado
+      - has enrollado
+      - ha enrollado
+      - hemos enrollado
+      - "hab\xE9is enrollado"
+      - han enrollado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enrollado"
+      - "hab\xEDas enrollado"
+      - "hab\xEDa enrollado"
+      - "hab\xEDamos enrollado"
+      - "hab\xEDais enrollado"
+      - "hab\xEDan enrollado"
+      cjid: ppsi
+    - cjfs:
+      - hube enrollado
+      - hubiste enrollado
+      - hubo enrollado
+      - hubimos enrollado
+      - hubisteis enrollado
+      - hubieron enrollado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enrollado"
+      - "habr\xE1s enrollado"
+      - "habr\xE1 enrollado"
+      - habremos enrollado
+      - "habr\xE9is enrollado"
+      - "habr\xE1n enrollado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enrollado"
+      - "habr\xEDas enrollado"
+      - "habr\xEDa enrollado"
+      - "habr\xEDamos enrollado"
+      - "habr\xEDais enrollado"
+      - "habr\xEDan enrollado"
+      cjid: cpef
+    - cjfs:
+      - haya enrollado
+      - hayas enrollado
+      - haya enrollado
+      - hayamos enrollado
+      - "hay\xE1is enrollado"
+      - hayan enrollado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enrollado
+      - hubieras enrollado
+      - hubiera enrollado
+      - "hubi\xE9ramos enrollado"
+      - hubierais enrollado
+      - hubieran enrollado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enrollado
+      - hubieses enrollado
+      - hubiese enrollado
+      - "hubi\xE9semos enrollado"
+      - hubieseis enrollado
+      - hubiesen enrollado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enrollado
+      - hubieres enrollado
+      - hubiere enrollado
+      - "hubi\xE9remos enrollado"
+      - hubiereis enrollado
+      - hubieren enrollado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enrolla
+      - enrolle
+      - enrollemos
+      - enrollad
+      - enrollen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: enrollarse

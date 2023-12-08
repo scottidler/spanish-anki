@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|implorar||}, {sx|rogar||} {bc}to {a_link|entreat}, to {a_link|implore},
+              to {a_link|supplicate}'
+  fl: transitive verb
+  hwi:
+    hw: suplicar
+    prs:
+    - sound:
+        audio: supli02sp
+  meta:
+    id: suplicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621263000'
+    src: spanish
+    stems:
+    - suplicar
+    uuid: 7c121a56-99d6-4525-a4e2-e32f4be06ab4
+  shortdef:
+  - 'implorar, rogar : to entreat, to implore, to supplicate'
+  suppl:
+    cjts:
+    - cjfs:
+      - suplicando
+      - suplicado
+      cjid: gppt
+    - cjfs:
+      - suplico
+      - suplicas
+      - suplica
+      - suplicamos
+      - "suplic\xE1is"
+      - suplican
+      cjid: pind
+    - cjfs:
+      - suplicaba
+      - suplicabas
+      - suplicaba
+      - "suplic\xE1bamos"
+      - suplicabais
+      - suplicaban
+      cjid: pret
+    - cjfs:
+      - "supliqu\xE9"
+      - suplicaste
+      - "suplic\xF3"
+      - suplicamos
+      - suplicasteis
+      - suplicaron
+      cjid: pprf
+    - cjfs:
+      - "suplicar\xE9"
+      - "suplicar\xE1s"
+      - "suplicar\xE1"
+      - suplicaremos
+      - "suplicar\xE9is"
+      - "suplicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "suplicar\xEDa"
+      - "suplicar\xEDas"
+      - "suplicar\xEDa"
+      - "suplicar\xEDamos"
+      - "suplicar\xEDais"
+      - "suplicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - suplique
+      - supliques
+      - suplique
+      - supliquemos
+      - "supliqu\xE9is"
+      - supliquen
+      cjid: psub
+    - cjfs:
+      - suplicara
+      - suplicaras
+      - suplicara
+      - "suplic\xE1ramos"
+      - suplicarais
+      - suplicaran
+      cjid: pisb1
+    - cjfs:
+      - suplicase
+      - suplicases
+      - suplicase
+      - "suplic\xE1semos"
+      - suplicaseis
+      - suplicasen
+      cjid: pisb2
+    - cjfs:
+      - suplicare
+      - suplicares
+      - suplicare
+      - "suplic\xE1remos"
+      - suplicareis
+      - suplicaren
+      cjid: fsub
+    - cjfs:
+      - he suplicado
+      - has suplicado
+      - ha suplicado
+      - hemos suplicado
+      - "hab\xE9is suplicado"
+      - han suplicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa suplicado"
+      - "hab\xEDas suplicado"
+      - "hab\xEDa suplicado"
+      - "hab\xEDamos suplicado"
+      - "hab\xEDais suplicado"
+      - "hab\xEDan suplicado"
+      cjid: ppsi
+    - cjfs:
+      - hube suplicado
+      - hubiste suplicado
+      - hubo suplicado
+      - hubimos suplicado
+      - hubisteis suplicado
+      - hubieron suplicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 suplicado"
+      - "habr\xE1s suplicado"
+      - "habr\xE1 suplicado"
+      - habremos suplicado
+      - "habr\xE9is suplicado"
+      - "habr\xE1n suplicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa suplicado"
+      - "habr\xEDas suplicado"
+      - "habr\xEDa suplicado"
+      - "habr\xEDamos suplicado"
+      - "habr\xEDais suplicado"
+      - "habr\xEDan suplicado"
+      cjid: cpef
+    - cjfs:
+      - haya suplicado
+      - hayas suplicado
+      - haya suplicado
+      - hayamos suplicado
+      - "hay\xE1is suplicado"
+      - hayan suplicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera suplicado
+      - hubieras suplicado
+      - hubiera suplicado
+      - "hubi\xE9ramos suplicado"
+      - hubierais suplicado
+      - hubieran suplicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese suplicado
+      - hubieses suplicado
+      - hubiese suplicado
+      - "hubi\xE9semos suplicado"
+      - hubieseis suplicado
+      - hubiesen suplicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere suplicado
+      - hubieres suplicado
+      - hubiere suplicado
+      - "hubi\xE9remos suplicado"
+      - hubiereis suplicado
+      - hubieren suplicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - suplica
+      - suplique
+      - supliquemos
+      - suplicad
+      - supliquen
+      cjid: impf

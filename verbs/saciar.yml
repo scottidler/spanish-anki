@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|hartar||} {bc}to {a_link|sate}, to {a_link|satiate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|satisfacer||} {bc}to {a_link|satisfy}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: saciar
+    prs:
+    - sound:
+        audio: sacia01sp
+  meta:
+    id: saciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620075000'
+    src: spanish
+    stems:
+    - saciar
+    uuid: 84f3f0aa-3364-4a16-9380-d7c183910615
+  shortdef:
+  - 'hartar : to sate, to satiate'
+  - 'satisfacer : to satisfy'
+  suppl:
+    cjts:
+    - cjfs:
+      - saciando
+      - saciado
+      cjid: gppt
+    - cjfs:
+      - sacio
+      - sacias
+      - sacia
+      - saciamos
+      - "saci\xE1is"
+      - sacian
+      cjid: pind
+    - cjfs:
+      - saciaba
+      - saciabas
+      - saciaba
+      - "saci\xE1bamos"
+      - saciabais
+      - saciaban
+      cjid: pret
+    - cjfs:
+      - "saci\xE9"
+      - saciaste
+      - "saci\xF3"
+      - saciamos
+      - saciasteis
+      - saciaron
+      cjid: pprf
+    - cjfs:
+      - "saciar\xE9"
+      - "saciar\xE1s"
+      - "saciar\xE1"
+      - saciaremos
+      - "saciar\xE9is"
+      - "saciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "saciar\xEDa"
+      - "saciar\xEDas"
+      - "saciar\xEDa"
+      - "saciar\xEDamos"
+      - "saciar\xEDais"
+      - "saciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sacie
+      - sacies
+      - sacie
+      - saciemos
+      - "saci\xE9is"
+      - sacien
+      cjid: psub
+    - cjfs:
+      - saciara
+      - saciaras
+      - saciara
+      - "saci\xE1ramos"
+      - saciarais
+      - saciaran
+      cjid: pisb1
+    - cjfs:
+      - saciase
+      - saciases
+      - saciase
+      - "saci\xE1semos"
+      - saciaseis
+      - saciasen
+      cjid: pisb2
+    - cjfs:
+      - saciare
+      - saciares
+      - saciare
+      - "saci\xE1remos"
+      - saciareis
+      - saciaren
+      cjid: fsub
+    - cjfs:
+      - he saciado
+      - has saciado
+      - ha saciado
+      - hemos saciado
+      - "hab\xE9is saciado"
+      - han saciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa saciado"
+      - "hab\xEDas saciado"
+      - "hab\xEDa saciado"
+      - "hab\xEDamos saciado"
+      - "hab\xEDais saciado"
+      - "hab\xEDan saciado"
+      cjid: ppsi
+    - cjfs:
+      - hube saciado
+      - hubiste saciado
+      - hubo saciado
+      - hubimos saciado
+      - hubisteis saciado
+      - hubieron saciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 saciado"
+      - "habr\xE1s saciado"
+      - "habr\xE1 saciado"
+      - habremos saciado
+      - "habr\xE9is saciado"
+      - "habr\xE1n saciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa saciado"
+      - "habr\xEDas saciado"
+      - "habr\xEDa saciado"
+      - "habr\xEDamos saciado"
+      - "habr\xEDais saciado"
+      - "habr\xEDan saciado"
+      cjid: cpef
+    - cjfs:
+      - haya saciado
+      - hayas saciado
+      - haya saciado
+      - hayamos saciado
+      - "hay\xE1is saciado"
+      - hayan saciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera saciado
+      - hubieras saciado
+      - hubiera saciado
+      - "hubi\xE9ramos saciado"
+      - hubierais saciado
+      - hubieran saciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese saciado
+      - hubieses saciado
+      - hubiese saciado
+      - "hubi\xE9semos saciado"
+      - hubieseis saciado
+      - hubiesen saciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere saciado
+      - hubieres saciado
+      - hubiere saciado
+      - "hubi\xE9remos saciado"
+      - hubiereis saciado
+      - hubieren saciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sacia
+      - sacie
+      - saciemos
+      - saciad
+      - sacien
+      cjid: impf

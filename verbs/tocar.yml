@@ -1,0 +1,575 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|touch}, to {a_link|feel}, to {a_link|handle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|touch on}, to {a_link|refer to}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|concern}, to {a_link|affect}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play} (a musical instrument)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ring} (a bell), to {a_link|sound}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hit/reach rock bottom}'
+          sn: '6'
+          vrs:
+          - va: tocar fondo
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knock} '
+          - - vis
+            - - t: tocar a la puerta
+                tr: to knock on the door
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sound}, to {a_link|ring} '
+          - - vis
+            - - t: "toc\xF3 el timbre"
+                tr: the doorbell rang
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall to}, to {a_link|be up to}, to be one''s turn '
+          - - vis
+            - - t: "\xBFa qui\xE9n le toca manejar?"
+                tr: whose turn is it to drive?
+              - t: "a \xE9l le toca decidir"
+                tr: it's up to him to decide
+              - t: nos toca el 50 por ciento
+                tr: we get 50 percent
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come by chance '
+          - - vis
+            - - t: "les toc\xF3 la loter\xEDa"
+                tr: they won the lottery
+              - t: "nos toca vivir en tiempos dif\xEDciles"
+                tr: it's our fate to live in difficult times
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|touch on}, to border on '
+          - - vis
+            - - t: "eso toca en lo rid\xEDculo"
+                tr: that's almost ludicrous
+          sn: '5'
+          vrs:
+          - va: tocar en
+            vac: ~ en
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|touch} '
+            - - vis
+              - - t: "se toc\xF3 la frente"
+                  tr: he touched his forehead
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|touch} (each other)'
+            sn: '2'
+    drp: tocarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tocar
+    prs:
+    - sound:
+        audio: tocar01sp
+  meta:
+    id: tocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621923000'
+    src: spanish
+    stems:
+    - tocar
+    - tocar fondo
+    - tocar en
+    - tocarse
+    uuid: 14ffb678-b7a2-46c3-a1cc-da89efde8f6d
+  shortdef:
+  - to touch, to feel, to handle
+  - to touch on, to refer to
+  - to concern, to affect
+  suppl:
+    cjts:
+    - cjfs:
+      - tocando
+      - tocado
+      cjid: gppt
+    - cjfs:
+      - toco
+      - tocas
+      - toca
+      - tocamos
+      - "toc\xE1is"
+      - tocan
+      cjid: pind
+    - cjfs:
+      - tocaba
+      - tocabas
+      - tocaba
+      - "toc\xE1bamos"
+      - tocabais
+      - tocaban
+      cjid: pret
+    - cjfs:
+      - "toqu\xE9"
+      - tocaste
+      - "toc\xF3"
+      - tocamos
+      - tocasteis
+      - tocaron
+      cjid: pprf
+    - cjfs:
+      - "tocar\xE9"
+      - "tocar\xE1s"
+      - "tocar\xE1"
+      - tocaremos
+      - "tocar\xE9is"
+      - "tocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tocar\xEDa"
+      - "tocar\xEDas"
+      - "tocar\xEDa"
+      - "tocar\xEDamos"
+      - "tocar\xEDais"
+      - "tocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - toque
+      - toques
+      - toque
+      - toquemos
+      - "toqu\xE9is"
+      - toquen
+      cjid: psub
+    - cjfs:
+      - tocara
+      - tocaras
+      - tocara
+      - "toc\xE1ramos"
+      - tocarais
+      - tocaran
+      cjid: pisb1
+    - cjfs:
+      - tocase
+      - tocases
+      - tocase
+      - "toc\xE1semos"
+      - tocaseis
+      - tocasen
+      cjid: pisb2
+    - cjfs:
+      - tocare
+      - tocares
+      - tocare
+      - "toc\xE1remos"
+      - tocareis
+      - tocaren
+      cjid: fsub
+    - cjfs:
+      - he tocado
+      - has tocado
+      - ha tocado
+      - hemos tocado
+      - "hab\xE9is tocado"
+      - han tocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tocado"
+      - "hab\xEDas tocado"
+      - "hab\xEDa tocado"
+      - "hab\xEDamos tocado"
+      - "hab\xEDais tocado"
+      - "hab\xEDan tocado"
+      cjid: ppsi
+    - cjfs:
+      - hube tocado
+      - hubiste tocado
+      - hubo tocado
+      - hubimos tocado
+      - hubisteis tocado
+      - hubieron tocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tocado"
+      - "habr\xE1s tocado"
+      - "habr\xE1 tocado"
+      - habremos tocado
+      - "habr\xE9is tocado"
+      - "habr\xE1n tocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tocado"
+      - "habr\xEDas tocado"
+      - "habr\xEDa tocado"
+      - "habr\xEDamos tocado"
+      - "habr\xEDais tocado"
+      - "habr\xEDan tocado"
+      cjid: cpef
+    - cjfs:
+      - haya tocado
+      - hayas tocado
+      - haya tocado
+      - hayamos tocado
+      - "hay\xE1is tocado"
+      - hayan tocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tocado
+      - hubieras tocado
+      - hubiera tocado
+      - "hubi\xE9ramos tocado"
+      - hubierais tocado
+      - hubieran tocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tocado
+      - hubieses tocado
+      - hubiese tocado
+      - "hubi\xE9semos tocado"
+      - hubieseis tocado
+      - hubiesen tocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tocado
+      - hubieres tocado
+      - hubiere tocado
+      - "hubi\xE9remos tocado"
+      - hubiereis tocado
+      - hubieren tocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - toca
+      - toque
+      - toquemos
+      - tocad
+      - toquen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|smash||} {bc}caerse con estr\xE9pito, {a_link|estrellarse}"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|collide||} {bc}{a_link|estrellarse}, {a_link|chocar}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|boom||}, {sx|resound||} {bc}{a_link|retumbar}, {a_link|resonar}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|smash||} {bc}{a_link|estrellar}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}colarse en una fiesta'
+          sn: '2'
+          vrs:
+          - va: to crash a party
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}tener un accidente'
+          sn: '3'
+          vrs:
+          - va: to crash one's car
+    vd: transitive verb
+  fl: intransitive verb
+  hom: 1
+  hwi:
+    hw: crash
+    prs:
+    - mw: "\u02C8kr\xE6\u0283"
+      sound:
+        audio: crash001
+  meta:
+    id: crash:1
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2605522000'
+    src: spanish
+    stems:
+    - crash
+    - crashed
+    - crashing
+    - crashes
+    - crasher
+    - crashers
+    - to crash a party
+    - to crash one's car
+    - to crash ones car
+    uuid: eebbf484-f88d-4852-82a8-3910cda67573
+  shortdef:
+  - "smash : caerse con estr\xE9pito, estrellarse"
+  - 'collide : estrellarse, chocar'
+  - 'boom, resound : retumbar, resonar'
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|bottom} '
+          - - vis
+            - - t: "el fondo del oc\xE9ano/barril"
+                tr: the bottom of the ocean/barrel
+              - t: llegar al fondo de algo
+                tr: to get to the bottom of something
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|rear}, {a_link|back}, {a_link|end} '
+          - - vis
+            - - t: al fondo de la casa
+                tr: at the back of the house
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|profundidad||} {bc}{a_link|depth}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|background} '
+          - - vis
+            - - t: al fondo
+                tr: in the background
+              - t: "m\xFAsica de fondo"
+                tr: background music
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|contenido||} {bc}{a_link|content}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|slip}, {a_link|petticoat}'
+          sls:
+          - Mexico
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|fund} '
+          - - vis
+            - - t: fondo de inversiones/pensiones
+                tr: investment/pension fund
+              - t: "fondo com\xFAn"
+                tr: joint fund
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}funds, resources '
+          - - vis
+            - - t: cheque sin fondos
+                tr: bounced check
+              - t: recaudar fondos
+                tr: to raise funds
+              - t: "fondos p\xFAblicos"
+                tr: public funds
+              - t: "fondos de campa\xF1a"
+                tr: campaign funds
+          ins:
+          - if: fondos
+            spl: noun masculine plural
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|thoroughly}, {a_link|in depth}'
+          sn: '9'
+          vrs:
+          - va: a fondo
+            vac: a ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|fundamental}'
+          sn: '10'
+          vrs:
+          - va: de fondo
+            vac: de ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|long-distance} (in sports)'
+          sn: '11'
+          vrs:
+          - va: de fondo
+            vac: de ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|abreast}'
+          sn: '12'
+          vrs:
+          - va: en fondo
+            vac: en ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}deep down, {a_link|at heart}'
+          sn: '13'
+          vrs:
+          - va: en el fondo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to touch bottom (in the sea, etc.), to hit rock bottom'
+          sn: '14'
+          vrs:
+          - va: tocar fondo
+  fl: masculine noun
+  hwi:
+    hw: fondo
+    prs:
+    - sound:
+        audio: fondo01sp
+  meta:
+    id: fondo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610285000'
+    src: spanish
+    stems:
+    - fondo
+    - fondos
+    - a fondo
+    - de fondo
+    - en fondo
+    - en el fondo
+    - tocar fondo
+    uuid: adaf377c-1480-43d7-9b04-68a93402840f
+  shortdef:
+  - bottom
+  - rear, back, end
+  - 'profundidad : depth'
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ear} '
+          - - vis
+            - - t: "o\xEDdo interno"
+                tr: inner ear
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hearing} '
+          - - vis
+            - - t: "duro de o\xEDdo"
+                tr: hard of hearing
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play by ear}'
+          sn: '3'
+          vrs:
+          - va: "tocar de o\xEDdo"
+  fl: masculine noun
+  hwi:
+    hw: "o\xEDdo"
+    prs:
+    - sound:
+        audio: oido001sp
+  meta:
+    id: oido
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616133000'
+    src: spanish
+    stems:
+    - "o\xEDdo"
+    - "tocar de o\xEDdo"
+    uuid: d1ef9ed2-0702-47f4-b6bb-7a77b7254392
+  shortdef:
+  - ear
+  - hearing
+  - to play by ear
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}surprise attack'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sound the alarm'
+          sn: '2'
+          vrs:
+          - va: tocar a rebato
+  fl: masculine noun
+  hwi:
+    hw: rebato
+  meta:
+    id: rebato
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618901000'
+    src: spanish
+    stems:
+    - rebato
+    - tocar a rebato
+    uuid: 3d5b5674-ef9a-4a9b-9ed9-ffa86d334aef
+  shortdef:
+  - surprise attack
+  - to sound the alarm

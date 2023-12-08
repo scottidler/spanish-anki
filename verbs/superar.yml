@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|surpass}, to {a_link|exceed}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|overcome}, to {a_link|surmount}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to improve oneself'
+    drp: superarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: superar
+    prs:
+    - sound:
+        audio: super01sp
+  meta:
+    id: superar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621222000'
+    src: spanish
+    stems:
+    - superar
+    - superarse
+    uuid: b6f5b996-ca1c-44e3-8597-c5caaa20b146
+  shortdef:
+  - to surpass, to exceed
+  - to overcome, to surmount
+  suppl:
+    cjts:
+    - cjfs:
+      - superando
+      - superado
+      cjid: gppt
+    - cjfs:
+      - supero
+      - superas
+      - supera
+      - superamos
+      - "super\xE1is"
+      - superan
+      cjid: pind
+    - cjfs:
+      - superaba
+      - superabas
+      - superaba
+      - "super\xE1bamos"
+      - superabais
+      - superaban
+      cjid: pret
+    - cjfs:
+      - "super\xE9"
+      - superaste
+      - "super\xF3"
+      - superamos
+      - superasteis
+      - superaron
+      cjid: pprf
+    - cjfs:
+      - "superar\xE9"
+      - "superar\xE1s"
+      - "superar\xE1"
+      - superaremos
+      - "superar\xE9is"
+      - "superar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "superar\xEDa"
+      - "superar\xEDas"
+      - "superar\xEDa"
+      - "superar\xEDamos"
+      - "superar\xEDais"
+      - "superar\xEDan"
+      cjid: cond
+    - cjfs:
+      - supere
+      - superes
+      - supere
+      - superemos
+      - "super\xE9is"
+      - superen
+      cjid: psub
+    - cjfs:
+      - superara
+      - superaras
+      - superara
+      - "super\xE1ramos"
+      - superarais
+      - superaran
+      cjid: pisb1
+    - cjfs:
+      - superase
+      - superases
+      - superase
+      - "super\xE1semos"
+      - superaseis
+      - superasen
+      cjid: pisb2
+    - cjfs:
+      - superare
+      - superares
+      - superare
+      - "super\xE1remos"
+      - superareis
+      - superaren
+      cjid: fsub
+    - cjfs:
+      - he superado
+      - has superado
+      - ha superado
+      - hemos superado
+      - "hab\xE9is superado"
+      - han superado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa superado"
+      - "hab\xEDas superado"
+      - "hab\xEDa superado"
+      - "hab\xEDamos superado"
+      - "hab\xEDais superado"
+      - "hab\xEDan superado"
+      cjid: ppsi
+    - cjfs:
+      - hube superado
+      - hubiste superado
+      - hubo superado
+      - hubimos superado
+      - hubisteis superado
+      - hubieron superado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 superado"
+      - "habr\xE1s superado"
+      - "habr\xE1 superado"
+      - habremos superado
+      - "habr\xE9is superado"
+      - "habr\xE1n superado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa superado"
+      - "habr\xEDas superado"
+      - "habr\xEDa superado"
+      - "habr\xEDamos superado"
+      - "habr\xEDais superado"
+      - "habr\xEDan superado"
+      cjid: cpef
+    - cjfs:
+      - haya superado
+      - hayas superado
+      - haya superado
+      - hayamos superado
+      - "hay\xE1is superado"
+      - hayan superado
+      cjid: ppfs
+    - cjfs:
+      - hubiera superado
+      - hubieras superado
+      - hubiera superado
+      - "hubi\xE9ramos superado"
+      - hubierais superado
+      - hubieran superado
+      cjid: ppss1
+    - cjfs:
+      - hubiese superado
+      - hubieses superado
+      - hubiese superado
+      - "hubi\xE9semos superado"
+      - hubieseis superado
+      - hubiesen superado
+      cjid: ppss2
+    - cjfs:
+      - hubiere superado
+      - hubieres superado
+      - hubiere superado
+      - "hubi\xE9remos superado"
+      - hubiereis superado
+      - hubieren superado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - supera
+      - supere
+      - superemos
+      - superad
+      - superen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crawl}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|climb}, to {a_link|clamber} (up)'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: gatear
+  meta:
+    id: gatear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610723000'
+    src: spanish
+    stems:
+    - gatear
+    uuid: 44ff24c5-02fe-4e80-9ca4-60330f4d7ce2
+  shortdef:
+  - to crawl
+  - to climb, to clamber (up)
+  suppl:
+    cjts:
+    - cjfs:
+      - gateando
+      - gateado
+      cjid: gppt
+    - cjfs:
+      - gateo
+      - gateas
+      - gatea
+      - gateamos
+      - "gate\xE1is"
+      - gatean
+      cjid: pind
+    - cjfs:
+      - gateaba
+      - gateabas
+      - gateaba
+      - "gate\xE1bamos"
+      - gateabais
+      - gateaban
+      cjid: pret
+    - cjfs:
+      - "gate\xE9"
+      - gateaste
+      - "gate\xF3"
+      - gateamos
+      - gateasteis
+      - gatearon
+      cjid: pprf
+    - cjfs:
+      - "gatear\xE9"
+      - "gatear\xE1s"
+      - "gatear\xE1"
+      - gatearemos
+      - "gatear\xE9is"
+      - "gatear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gatear\xEDa"
+      - "gatear\xEDas"
+      - "gatear\xEDa"
+      - "gatear\xEDamos"
+      - "gatear\xEDais"
+      - "gatear\xEDan"
+      cjid: cond
+    - cjfs:
+      - gatee
+      - gatees
+      - gatee
+      - gateemos
+      - "gate\xE9is"
+      - gateen
+      cjid: psub
+    - cjfs:
+      - gateara
+      - gatearas
+      - gateara
+      - "gate\xE1ramos"
+      - gatearais
+      - gatearan
+      cjid: pisb1
+    - cjfs:
+      - gatease
+      - gateases
+      - gatease
+      - "gate\xE1semos"
+      - gateaseis
+      - gateasen
+      cjid: pisb2
+    - cjfs:
+      - gateare
+      - gateares
+      - gateare
+      - "gate\xE1remos"
+      - gateareis
+      - gatearen
+      cjid: fsub
+    - cjfs:
+      - he gateado
+      - has gateado
+      - ha gateado
+      - hemos gateado
+      - "hab\xE9is gateado"
+      - han gateado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gateado"
+      - "hab\xEDas gateado"
+      - "hab\xEDa gateado"
+      - "hab\xEDamos gateado"
+      - "hab\xEDais gateado"
+      - "hab\xEDan gateado"
+      cjid: ppsi
+    - cjfs:
+      - hube gateado
+      - hubiste gateado
+      - hubo gateado
+      - hubimos gateado
+      - hubisteis gateado
+      - hubieron gateado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gateado"
+      - "habr\xE1s gateado"
+      - "habr\xE1 gateado"
+      - habremos gateado
+      - "habr\xE9is gateado"
+      - "habr\xE1n gateado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gateado"
+      - "habr\xEDas gateado"
+      - "habr\xEDa gateado"
+      - "habr\xEDamos gateado"
+      - "habr\xEDais gateado"
+      - "habr\xEDan gateado"
+      cjid: cpef
+    - cjfs:
+      - haya gateado
+      - hayas gateado
+      - haya gateado
+      - hayamos gateado
+      - "hay\xE1is gateado"
+      - hayan gateado
+      cjid: ppfs
+    - cjfs:
+      - hubiera gateado
+      - hubieras gateado
+      - hubiera gateado
+      - "hubi\xE9ramos gateado"
+      - hubierais gateado
+      - hubieran gateado
+      cjid: ppss1
+    - cjfs:
+      - hubiese gateado
+      - hubieses gateado
+      - hubiese gateado
+      - "hubi\xE9semos gateado"
+      - hubieseis gateado
+      - hubiesen gateado
+      cjid: ppss2
+    - cjfs:
+      - hubiere gateado
+      - hubieres gateado
+      - hubiere gateado
+      - "hubi\xE9remos gateado"
+      - hubiereis gateado
+      - hubieren gateado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gatea
+      - gatee
+      - gateemos
+      - gatead
+      - gateen
+      cjid: impf

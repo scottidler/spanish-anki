@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ocultar||} {bc}to {a_link|hide}, to {a_link|conceal}'
+  fl: transitive verb
+  hwi:
+    hw: esconder
+    prs:
+    - sound:
+        audio: escon01sp
+  meta:
+    id: esconder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609023000'
+    src: spanish
+    stems:
+    - esconder
+    uuid: 666ffeb4-f196-4961-b05e-c669df1b6907
+  shortdef:
+  - 'ocultar : to hide, to conceal'
+  suppl:
+    cjts:
+    - cjfs:
+      - escondiendo
+      - escondido
+      cjid: gppt
+    - cjfs:
+      - escondo
+      - escondes
+      - esconde
+      - escondemos
+      - "escond\xE9is"
+      - esconden
+      cjid: pind
+    - cjfs:
+      - "escond\xEDa"
+      - "escond\xEDas"
+      - "escond\xEDa"
+      - "escond\xEDamos"
+      - "escond\xEDais"
+      - "escond\xEDan"
+      cjid: pret
+    - cjfs:
+      - "escond\xED"
+      - escondiste
+      - "escondi\xF3"
+      - escondimos
+      - escondisteis
+      - escondieron
+      cjid: pprf
+    - cjfs:
+      - "esconder\xE9"
+      - "esconder\xE1s"
+      - "esconder\xE1"
+      - esconderemos
+      - "esconder\xE9is"
+      - "esconder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "esconder\xEDa"
+      - "esconder\xEDas"
+      - "esconder\xEDa"
+      - "esconder\xEDamos"
+      - "esconder\xEDais"
+      - "esconder\xEDan"
+      cjid: cond
+    - cjfs:
+      - esconda
+      - escondas
+      - esconda
+      - escondamos
+      - "escond\xE1is"
+      - escondan
+      cjid: psub
+    - cjfs:
+      - escondiera
+      - escondieras
+      - escondiera
+      - "escondi\xE9ramos"
+      - escondierais
+      - escondieran
+      cjid: pisb1
+    - cjfs:
+      - escondiese
+      - escondieses
+      - escondiese
+      - "escondi\xE9semos"
+      - escondieseis
+      - escondiesen
+      cjid: pisb2
+    - cjfs:
+      - escondiere
+      - escondieres
+      - escondiere
+      - "escondi\xE9remos"
+      - escondiereis
+      - escondieren
+      cjid: fsub
+    - cjfs:
+      - he escondido
+      - has escondido
+      - ha escondido
+      - hemos escondido
+      - "hab\xE9is escondido"
+      - han escondido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escondido"
+      - "hab\xEDas escondido"
+      - "hab\xEDa escondido"
+      - "hab\xEDamos escondido"
+      - "hab\xEDais escondido"
+      - "hab\xEDan escondido"
+      cjid: ppsi
+    - cjfs:
+      - hube escondido
+      - hubiste escondido
+      - hubo escondido
+      - hubimos escondido
+      - hubisteis escondido
+      - hubieron escondido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escondido"
+      - "habr\xE1s escondido"
+      - "habr\xE1 escondido"
+      - habremos escondido
+      - "habr\xE9is escondido"
+      - "habr\xE1n escondido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escondido"
+      - "habr\xEDas escondido"
+      - "habr\xEDa escondido"
+      - "habr\xEDamos escondido"
+      - "habr\xEDais escondido"
+      - "habr\xEDan escondido"
+      cjid: cpef
+    - cjfs:
+      - haya escondido
+      - hayas escondido
+      - haya escondido
+      - hayamos escondido
+      - "hay\xE1is escondido"
+      - hayan escondido
+      cjid: ppfs
+    - cjfs:
+      - hubiera escondido
+      - hubieras escondido
+      - hubiera escondido
+      - "hubi\xE9ramos escondido"
+      - hubierais escondido
+      - hubieran escondido
+      cjid: ppss1
+    - cjfs:
+      - hubiese escondido
+      - hubieses escondido
+      - hubiese escondido
+      - "hubi\xE9semos escondido"
+      - hubieseis escondido
+      - hubiesen escondido
+      cjid: ppss2
+    - cjfs:
+      - hubiere escondido
+      - hubieres escondido
+      - hubiere escondido
+      - "hubi\xE9remos escondido"
+      - hubiereis escondido
+      - hubieren escondido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - esconde
+      - esconda
+      - escondamos
+      - esconded
+      - escondan
+      cjid: impf

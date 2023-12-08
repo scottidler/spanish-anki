@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|abominar||}, {sx|odiar||} {bc}to {a_link|abhor}, to {a_link|detest},
+              to {a_link|hate}'
+  fl: transitive verb
+  hwi:
+    hw: aborrecer
+    prs:
+    - sound:
+        audio: aborr01sp
+  meta:
+    id: aborrecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600085000'
+    src: spanish
+    stems:
+    - aborrecer
+    uuid: 83ff2ad7-3af6-4396-a075-4f3e342a87cf
+  shortdef:
+  - 'abominar, odiar : to abhor, to detest, to hate'
+  suppl:
+    cjts:
+    - cjfs:
+      - aborreciendo
+      - aborrecido
+      cjid: gppt
+    - cjfs:
+      - aborrezco
+      - aborreces
+      - aborrece
+      - aborrecemos
+      - "aborrec\xE9is"
+      - aborrecen
+      cjid: pind
+    - cjfs:
+      - "aborrec\xEDa"
+      - "aborrec\xEDas"
+      - "aborrec\xEDa"
+      - "aborrec\xEDamos"
+      - "aborrec\xEDais"
+      - "aborrec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "aborrec\xED"
+      - aborreciste
+      - "aborreci\xF3"
+      - aborrecimos
+      - aborrecisteis
+      - aborrecieron
+      cjid: pprf
+    - cjfs:
+      - "aborrecer\xE9"
+      - "aborrecer\xE1s"
+      - "aborrecer\xE1"
+      - aborreceremos
+      - "aborrecer\xE9is"
+      - "aborrecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aborrecer\xEDa"
+      - "aborrecer\xEDas"
+      - "aborrecer\xEDa"
+      - "aborrecer\xEDamos"
+      - "aborrecer\xEDais"
+      - "aborrecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - aborrezca
+      - aborrezcas
+      - aborrezca
+      - aborrezcamos
+      - "aborrezc\xE1is"
+      - aborrezcan
+      cjid: psub
+    - cjfs:
+      - aborreciera
+      - aborrecieras
+      - aborreciera
+      - "aborreci\xE9ramos"
+      - aborrecierais
+      - aborrecieran
+      cjid: pisb1
+    - cjfs:
+      - aborreciese
+      - aborrecieses
+      - aborreciese
+      - "aborreci\xE9semos"
+      - aborrecieseis
+      - aborreciesen
+      cjid: pisb2
+    - cjfs:
+      - aborreciere
+      - aborrecieres
+      - aborreciere
+      - "aborreci\xE9remos"
+      - aborreciereis
+      - aborrecieren
+      cjid: fsub
+    - cjfs:
+      - he aborrecido
+      - has aborrecido
+      - ha aborrecido
+      - hemos aborrecido
+      - "hab\xE9is aborrecido"
+      - han aborrecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aborrecido"
+      - "hab\xEDas aborrecido"
+      - "hab\xEDa aborrecido"
+      - "hab\xEDamos aborrecido"
+      - "hab\xEDais aborrecido"
+      - "hab\xEDan aborrecido"
+      cjid: ppsi
+    - cjfs:
+      - hube aborrecido
+      - hubiste aborrecido
+      - hubo aborrecido
+      - hubimos aborrecido
+      - hubisteis aborrecido
+      - hubieron aborrecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aborrecido"
+      - "habr\xE1s aborrecido"
+      - "habr\xE1 aborrecido"
+      - habremos aborrecido
+      - "habr\xE9is aborrecido"
+      - "habr\xE1n aborrecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aborrecido"
+      - "habr\xEDas aborrecido"
+      - "habr\xEDa aborrecido"
+      - "habr\xEDamos aborrecido"
+      - "habr\xEDais aborrecido"
+      - "habr\xEDan aborrecido"
+      cjid: cpef
+    - cjfs:
+      - haya aborrecido
+      - hayas aborrecido
+      - haya aborrecido
+      - hayamos aborrecido
+      - "hay\xE1is aborrecido"
+      - hayan aborrecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera aborrecido
+      - hubieras aborrecido
+      - hubiera aborrecido
+      - "hubi\xE9ramos aborrecido"
+      - hubierais aborrecido
+      - hubieran aborrecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese aborrecido
+      - hubieses aborrecido
+      - hubiese aborrecido
+      - "hubi\xE9semos aborrecido"
+      - hubieseis aborrecido
+      - hubiesen aborrecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere aborrecido
+      - hubieres aborrecido
+      - hubiere aborrecido
+      - "hubi\xE9remos aborrecido"
+      - hubiereis aborrecido
+      - hubieren aborrecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aborrece
+      - aborrezca
+      - aborrezcamos
+      - aborreced
+      - aborrezcan
+      cjid: impf

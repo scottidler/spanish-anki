@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|approve of}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass} (a law)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass} (an exam)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass} (a student)'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass} (in school)'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: aprobar
+    prs:
+    - sound:
+        audio: aprob02sp
+  meta:
+    id: aprobar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601804000'
+    src: spanish
+    stems:
+    - aprobar
+    uuid: 0d4f0270-0628-44c2-84d4-f45a32bc037d
+  shortdef:
+  - to approve of
+  - to pass (a law)
+  - to pass (an exam)
+  suppl:
+    cjts:
+    - cjfs:
+      - aprobando
+      - aprobado
+      cjid: gppt
+    - cjfs:
+      - apruebo
+      - apruebas
+      - aprueba
+      - aprobamos
+      - "aprob\xE1is"
+      - aprueban
+      cjid: pind
+    - cjfs:
+      - aprobaba
+      - aprobabas
+      - aprobaba
+      - "aprob\xE1bamos"
+      - aprobabais
+      - aprobaban
+      cjid: pret
+    - cjfs:
+      - "aprob\xE9"
+      - aprobaste
+      - "aprob\xF3"
+      - aprobamos
+      - aprobasteis
+      - aprobaron
+      cjid: pprf
+    - cjfs:
+      - "aprobar\xE9"
+      - "aprobar\xE1s"
+      - "aprobar\xE1"
+      - aprobaremos
+      - "aprobar\xE9is"
+      - "aprobar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aprobar\xEDa"
+      - "aprobar\xEDas"
+      - "aprobar\xEDa"
+      - "aprobar\xEDamos"
+      - "aprobar\xEDais"
+      - "aprobar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apruebe
+      - apruebes
+      - apruebe
+      - aprobemos
+      - "aprob\xE9is"
+      - aprueben
+      cjid: psub
+    - cjfs:
+      - aprobara
+      - aprobaras
+      - aprobara
+      - "aprob\xE1ramos"
+      - aprobarais
+      - aprobaran
+      cjid: pisb1
+    - cjfs:
+      - aprobase
+      - aprobases
+      - aprobase
+      - "aprob\xE1semos"
+      - aprobaseis
+      - aprobasen
+      cjid: pisb2
+    - cjfs:
+      - aprobare
+      - aprobares
+      - aprobare
+      - "aprob\xE1remos"
+      - aprobareis
+      - aprobaren
+      cjid: fsub
+    - cjfs:
+      - he aprobado
+      - has aprobado
+      - ha aprobado
+      - hemos aprobado
+      - "hab\xE9is aprobado"
+      - han aprobado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aprobado"
+      - "hab\xEDas aprobado"
+      - "hab\xEDa aprobado"
+      - "hab\xEDamos aprobado"
+      - "hab\xEDais aprobado"
+      - "hab\xEDan aprobado"
+      cjid: ppsi
+    - cjfs:
+      - hube aprobado
+      - hubiste aprobado
+      - hubo aprobado
+      - hubimos aprobado
+      - hubisteis aprobado
+      - hubieron aprobado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aprobado"
+      - "habr\xE1s aprobado"
+      - "habr\xE1 aprobado"
+      - habremos aprobado
+      - "habr\xE9is aprobado"
+      - "habr\xE1n aprobado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aprobado"
+      - "habr\xEDas aprobado"
+      - "habr\xEDa aprobado"
+      - "habr\xEDamos aprobado"
+      - "habr\xEDais aprobado"
+      - "habr\xEDan aprobado"
+      cjid: cpef
+    - cjfs:
+      - haya aprobado
+      - hayas aprobado
+      - haya aprobado
+      - hayamos aprobado
+      - "hay\xE1is aprobado"
+      - hayan aprobado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aprobado
+      - hubieras aprobado
+      - hubiera aprobado
+      - "hubi\xE9ramos aprobado"
+      - hubierais aprobado
+      - hubieran aprobado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aprobado
+      - hubieses aprobado
+      - hubiese aprobado
+      - "hubi\xE9semos aprobado"
+      - hubieseis aprobado
+      - hubiesen aprobado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aprobado
+      - hubieres aprobado
+      - hubiere aprobado
+      - "hubi\xE9remos aprobado"
+      - hubiereis aprobado
+      - hubieren aprobado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aprueba
+      - apruebe
+      - aprobemos
+      - aprobad
+      - aprueben
+      cjid: impf

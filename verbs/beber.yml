@@ -1,0 +1,237 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|tomar||} {bc}to {a_link|drink}'
+  fl: verb
+  hwi:
+    hw: beber
+    prs:
+    - sound:
+        audio: beber01sp
+  meta:
+    id: beber
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602900000'
+    src: spanish
+    stems:
+    - beber
+    uuid: dad61c53-a37f-4ef5-b456-5ff753acf980
+  shortdef:
+  - 'tomar : to drink'
+  suppl:
+    cjts:
+    - cjfs:
+      - bebiendo
+      - bebido
+      cjid: gppt
+    - cjfs:
+      - bebo
+      - bebes
+      - bebe
+      - bebemos
+      - "beb\xE9is"
+      - beben
+      cjid: pind
+    - cjfs:
+      - "beb\xEDa"
+      - "beb\xEDas"
+      - "beb\xEDa"
+      - "beb\xEDamos"
+      - "beb\xEDais"
+      - "beb\xEDan"
+      cjid: pret
+    - cjfs:
+      - "beb\xED"
+      - bebiste
+      - "bebi\xF3"
+      - bebimos
+      - bebisteis
+      - bebieron
+      cjid: pprf
+    - cjfs:
+      - "beber\xE9"
+      - "beber\xE1s"
+      - "beber\xE1"
+      - beberemos
+      - "beber\xE9is"
+      - "beber\xE1n"
+      cjid: futr
+    - cjfs:
+      - "beber\xEDa"
+      - "beber\xEDas"
+      - "beber\xEDa"
+      - "beber\xEDamos"
+      - "beber\xEDais"
+      - "beber\xEDan"
+      cjid: cond
+    - cjfs:
+      - beba
+      - bebas
+      - beba
+      - bebamos
+      - "beb\xE1is"
+      - beban
+      cjid: psub
+    - cjfs:
+      - bebiera
+      - bebieras
+      - bebiera
+      - "bebi\xE9ramos"
+      - bebierais
+      - bebieran
+      cjid: pisb1
+    - cjfs:
+      - bebiese
+      - bebieses
+      - bebiese
+      - "bebi\xE9semos"
+      - bebieseis
+      - bebiesen
+      cjid: pisb2
+    - cjfs:
+      - bebiere
+      - bebieres
+      - bebiere
+      - "bebi\xE9remos"
+      - bebiereis
+      - bebieren
+      cjid: fsub
+    - cjfs:
+      - he bebido
+      - has bebido
+      - ha bebido
+      - hemos bebido
+      - "hab\xE9is bebido"
+      - han bebido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bebido"
+      - "hab\xEDas bebido"
+      - "hab\xEDa bebido"
+      - "hab\xEDamos bebido"
+      - "hab\xEDais bebido"
+      - "hab\xEDan bebido"
+      cjid: ppsi
+    - cjfs:
+      - hube bebido
+      - hubiste bebido
+      - hubo bebido
+      - hubimos bebido
+      - hubisteis bebido
+      - hubieron bebido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bebido"
+      - "habr\xE1s bebido"
+      - "habr\xE1 bebido"
+      - habremos bebido
+      - "habr\xE9is bebido"
+      - "habr\xE1n bebido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bebido"
+      - "habr\xEDas bebido"
+      - "habr\xEDa bebido"
+      - "habr\xEDamos bebido"
+      - "habr\xEDais bebido"
+      - "habr\xEDan bebido"
+      cjid: cpef
+    - cjfs:
+      - haya bebido
+      - hayas bebido
+      - haya bebido
+      - hayamos bebido
+      - "hay\xE1is bebido"
+      - hayan bebido
+      cjid: ppfs
+    - cjfs:
+      - hubiera bebido
+      - hubieras bebido
+      - hubiera bebido
+      - "hubi\xE9ramos bebido"
+      - hubierais bebido
+      - hubieran bebido
+      cjid: ppss1
+    - cjfs:
+      - hubiese bebido
+      - hubieses bebido
+      - hubiese bebido
+      - "hubi\xE9semos bebido"
+      - hubieseis bebido
+      - hubiesen bebido
+      cjid: ppss2
+    - cjfs:
+      - hubiere bebido
+      - hubieres bebido
+      - hubiere bebido
+      - "hubi\xE9remos bebido"
+      - hubiereis bebido
+      - hubieren bebido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bebe
+      - beba
+      - bebamos
+      - bebed
+      - beban
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lap} (up)'
+          vrs:
+          - va: "beber a leng\xFCetadas"
+  fl: feminine noun
+  hwi:
+    hw: "leng\xFCetada"
+  meta:
+    id: lenguetada
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613641000'
+    src: spanish
+    stems:
+    - "leng\xFCetada"
+    - "beber a leng\xFCetadas"
+    uuid: df03d5e4-7e55-4709-a1c0-2f5072fbf37d
+  shortdef:
+  - to lap (up)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sip}, {a_link|gulp}, {a_link|swallow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sip}'
+          sn: '2'
+          vrs:
+          - va: beber a sorbos
+  fl: masculine noun
+  hwi:
+    hw: sorbo
+  meta:
+    id: sorbo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620972000'
+    src: spanish
+    stems:
+    - sorbo
+    - beber a sorbos
+    uuid: 2ee67b0c-88cf-488a-8cfb-a5d37ab119da
+  shortdef:
+  - sip, gulp, swallow
+  - to sip

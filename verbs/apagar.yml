@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn off}, to {a_link|shut off}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put out}, to {a_link|extinguish}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go out} (of a light, flame, etc.)'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|disminuir||} {bc}to {a_link|wane}, to {a_link|die down}'
+            sn: '2'
+    drp: apagarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apagar
+    prs:
+    - sound:
+        audio: apaga02sp
+  meta:
+    id: apagar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601633000'
+    src: spanish
+    stems:
+    - apagar
+    - apagarse
+    uuid: baad62ff-26ad-4410-8890-c15bdd061b82
+  shortdef:
+  - to turn off, to shut off
+  - to put out, to extinguish
+  suppl:
+    cjts:
+    - cjfs:
+      - apagando
+      - apagado
+      cjid: gppt
+    - cjfs:
+      - apago
+      - apagas
+      - apaga
+      - apagamos
+      - "apag\xE1is"
+      - apagan
+      cjid: pind
+    - cjfs:
+      - apagaba
+      - apagabas
+      - apagaba
+      - "apag\xE1bamos"
+      - apagabais
+      - apagaban
+      cjid: pret
+    - cjfs:
+      - "apagu\xE9"
+      - apagaste
+      - "apag\xF3"
+      - apagamos
+      - apagasteis
+      - apagaron
+      cjid: pprf
+    - cjfs:
+      - "apagar\xE9"
+      - "apagar\xE1s"
+      - "apagar\xE1"
+      - apagaremos
+      - "apagar\xE9is"
+      - "apagar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apagar\xEDa"
+      - "apagar\xEDas"
+      - "apagar\xEDa"
+      - "apagar\xEDamos"
+      - "apagar\xEDais"
+      - "apagar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apague
+      - apagues
+      - apague
+      - apaguemos
+      - "apagu\xE9is"
+      - apaguen
+      cjid: psub
+    - cjfs:
+      - apagara
+      - apagaras
+      - apagara
+      - "apag\xE1ramos"
+      - apagarais
+      - apagaran
+      cjid: pisb1
+    - cjfs:
+      - apagase
+      - apagases
+      - apagase
+      - "apag\xE1semos"
+      - apagaseis
+      - apagasen
+      cjid: pisb2
+    - cjfs:
+      - apagare
+      - apagares
+      - apagare
+      - "apag\xE1remos"
+      - apagareis
+      - apagaren
+      cjid: fsub
+    - cjfs:
+      - he apagado
+      - has apagado
+      - ha apagado
+      - hemos apagado
+      - "hab\xE9is apagado"
+      - han apagado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apagado"
+      - "hab\xEDas apagado"
+      - "hab\xEDa apagado"
+      - "hab\xEDamos apagado"
+      - "hab\xEDais apagado"
+      - "hab\xEDan apagado"
+      cjid: ppsi
+    - cjfs:
+      - hube apagado
+      - hubiste apagado
+      - hubo apagado
+      - hubimos apagado
+      - hubisteis apagado
+      - hubieron apagado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apagado"
+      - "habr\xE1s apagado"
+      - "habr\xE1 apagado"
+      - habremos apagado
+      - "habr\xE9is apagado"
+      - "habr\xE1n apagado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apagado"
+      - "habr\xEDas apagado"
+      - "habr\xEDa apagado"
+      - "habr\xEDamos apagado"
+      - "habr\xEDais apagado"
+      - "habr\xEDan apagado"
+      cjid: cpef
+    - cjfs:
+      - haya apagado
+      - hayas apagado
+      - haya apagado
+      - hayamos apagado
+      - "hay\xE1is apagado"
+      - hayan apagado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apagado
+      - hubieras apagado
+      - hubiera apagado
+      - "hubi\xE9ramos apagado"
+      - hubierais apagado
+      - hubieran apagado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apagado
+      - hubieses apagado
+      - hubiese apagado
+      - "hubi\xE9semos apagado"
+      - hubieseis apagado
+      - hubiesen apagado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apagado
+      - hubieres apagado
+      - hubiere apagado
+      - "hubi\xE9remos apagado"
+      - hubiereis apagado
+      - hubieren apagado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apaga
+      - apague
+      - apaguemos
+      - apagad
+      - apaguen
+      cjid: impf

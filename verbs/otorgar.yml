@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grant}, to {a_link|award}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw up}, to {a_link|frame} (a legal document)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: otorgar
+    prs:
+    - sound:
+        audio: otorg02sp
+  meta:
+    id: otorgar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616397000'
+    src: spanish
+    stems:
+    - otorgar
+    uuid: 03e1d173-9b34-4d8c-9df6-eb07d77688c9
+  shortdef:
+  - to grant, to award
+  - to draw up, to frame (a legal document)
+  suppl:
+    cjts:
+    - cjfs:
+      - otorgando
+      - otorgado
+      cjid: gppt
+    - cjfs:
+      - otorgo
+      - otorgas
+      - otorga
+      - otorgamos
+      - "otorg\xE1is"
+      - otorgan
+      cjid: pind
+    - cjfs:
+      - otorgaba
+      - otorgabas
+      - otorgaba
+      - "otorg\xE1bamos"
+      - otorgabais
+      - otorgaban
+      cjid: pret
+    - cjfs:
+      - "otorgu\xE9"
+      - otorgaste
+      - "otorg\xF3"
+      - otorgamos
+      - otorgasteis
+      - otorgaron
+      cjid: pprf
+    - cjfs:
+      - "otorgar\xE9"
+      - "otorgar\xE1s"
+      - "otorgar\xE1"
+      - otorgaremos
+      - "otorgar\xE9is"
+      - "otorgar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "otorgar\xEDa"
+      - "otorgar\xEDas"
+      - "otorgar\xEDa"
+      - "otorgar\xEDamos"
+      - "otorgar\xEDais"
+      - "otorgar\xEDan"
+      cjid: cond
+    - cjfs:
+      - otorgue
+      - otorgues
+      - otorgue
+      - otorguemos
+      - "otorgu\xE9is"
+      - otorguen
+      cjid: psub
+    - cjfs:
+      - otorgara
+      - otorgaras
+      - otorgara
+      - "otorg\xE1ramos"
+      - otorgarais
+      - otorgaran
+      cjid: pisb1
+    - cjfs:
+      - otorgase
+      - otorgases
+      - otorgase
+      - "otorg\xE1semos"
+      - otorgaseis
+      - otorgasen
+      cjid: pisb2
+    - cjfs:
+      - otorgare
+      - otorgares
+      - otorgare
+      - "otorg\xE1remos"
+      - otorgareis
+      - otorgaren
+      cjid: fsub
+    - cjfs:
+      - he otorgado
+      - has otorgado
+      - ha otorgado
+      - hemos otorgado
+      - "hab\xE9is otorgado"
+      - han otorgado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa otorgado"
+      - "hab\xEDas otorgado"
+      - "hab\xEDa otorgado"
+      - "hab\xEDamos otorgado"
+      - "hab\xEDais otorgado"
+      - "hab\xEDan otorgado"
+      cjid: ppsi
+    - cjfs:
+      - hube otorgado
+      - hubiste otorgado
+      - hubo otorgado
+      - hubimos otorgado
+      - hubisteis otorgado
+      - hubieron otorgado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 otorgado"
+      - "habr\xE1s otorgado"
+      - "habr\xE1 otorgado"
+      - habremos otorgado
+      - "habr\xE9is otorgado"
+      - "habr\xE1n otorgado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa otorgado"
+      - "habr\xEDas otorgado"
+      - "habr\xEDa otorgado"
+      - "habr\xEDamos otorgado"
+      - "habr\xEDais otorgado"
+      - "habr\xEDan otorgado"
+      cjid: cpef
+    - cjfs:
+      - haya otorgado
+      - hayas otorgado
+      - haya otorgado
+      - hayamos otorgado
+      - "hay\xE1is otorgado"
+      - hayan otorgado
+      cjid: ppfs
+    - cjfs:
+      - hubiera otorgado
+      - hubieras otorgado
+      - hubiera otorgado
+      - "hubi\xE9ramos otorgado"
+      - hubierais otorgado
+      - hubieran otorgado
+      cjid: ppss1
+    - cjfs:
+      - hubiese otorgado
+      - hubieses otorgado
+      - hubiese otorgado
+      - "hubi\xE9semos otorgado"
+      - hubieseis otorgado
+      - hubiesen otorgado
+      cjid: ppss2
+    - cjfs:
+      - hubiere otorgado
+      - hubieres otorgado
+      - hubiere otorgado
+      - "hubi\xE9remos otorgado"
+      - hubiereis otorgado
+      - hubieren otorgado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - otorga
+      - otorgue
+      - otorguemos
+      - otorgad
+      - otorguen
+      cjid: impf

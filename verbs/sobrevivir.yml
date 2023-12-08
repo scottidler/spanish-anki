@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|survive}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|outlive}, to {a_link|outlast}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: sobrevivir
+    prs:
+    - sound:
+        audio: sobre17sp
+  meta:
+    id: sobrevivir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620802000'
+    src: spanish
+    stems:
+    - sobrevivir
+    uuid: 49dc52f0-879b-4aee-b3bb-3cb8abf049de
+  shortdef:
+  - to survive
+  - to outlive, to outlast
+  suppl:
+    cjts:
+    - cjfs:
+      - sobreviviendo
+      - sobrevivido
+      cjid: gppt
+    - cjfs:
+      - sobrevivo
+      - sobrevives
+      - sobrevive
+      - sobrevivimos
+      - "sobreviv\xEDs"
+      - sobreviven
+      cjid: pind
+    - cjfs:
+      - "sobreviv\xEDa"
+      - "sobreviv\xEDas"
+      - "sobreviv\xEDa"
+      - "sobreviv\xEDamos"
+      - "sobreviv\xEDais"
+      - "sobreviv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sobreviv\xED"
+      - sobreviviste
+      - "sobrevivi\xF3"
+      - sobrevivimos
+      - sobrevivisteis
+      - sobrevivieron
+      cjid: pprf
+    - cjfs:
+      - "sobrevivir\xE9"
+      - "sobrevivir\xE1s"
+      - "sobrevivir\xE1"
+      - sobreviviremos
+      - "sobrevivir\xE9is"
+      - "sobrevivir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sobrevivir\xEDa"
+      - "sobrevivir\xEDas"
+      - "sobrevivir\xEDa"
+      - "sobrevivir\xEDamos"
+      - "sobrevivir\xEDais"
+      - "sobrevivir\xEDan"
+      cjid: cond
+    - cjfs:
+      - sobreviva
+      - sobrevivas
+      - sobreviva
+      - sobrevivamos
+      - "sobreviv\xE1is"
+      - sobrevivan
+      cjid: psub
+    - cjfs:
+      - sobreviviera
+      - sobrevivieras
+      - sobreviviera
+      - "sobrevivi\xE9ramos"
+      - sobrevivierais
+      - sobrevivieran
+      cjid: pisb1
+    - cjfs:
+      - sobreviviese
+      - sobrevivieses
+      - sobreviviese
+      - "sobrevivi\xE9semos"
+      - sobrevivieseis
+      - sobreviviesen
+      cjid: pisb2
+    - cjfs:
+      - sobreviviere
+      - sobrevivieres
+      - sobreviviere
+      - "sobrevivi\xE9remos"
+      - sobreviviereis
+      - sobrevivieren
+      cjid: fsub
+    - cjfs:
+      - he sobrevivido
+      - has sobrevivido
+      - ha sobrevivido
+      - hemos sobrevivido
+      - "hab\xE9is sobrevivido"
+      - han sobrevivido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sobrevivido"
+      - "hab\xEDas sobrevivido"
+      - "hab\xEDa sobrevivido"
+      - "hab\xEDamos sobrevivido"
+      - "hab\xEDais sobrevivido"
+      - "hab\xEDan sobrevivido"
+      cjid: ppsi
+    - cjfs:
+      - hube sobrevivido
+      - hubiste sobrevivido
+      - hubo sobrevivido
+      - hubimos sobrevivido
+      - hubisteis sobrevivido
+      - hubieron sobrevivido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sobrevivido"
+      - "habr\xE1s sobrevivido"
+      - "habr\xE1 sobrevivido"
+      - habremos sobrevivido
+      - "habr\xE9is sobrevivido"
+      - "habr\xE1n sobrevivido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sobrevivido"
+      - "habr\xEDas sobrevivido"
+      - "habr\xEDa sobrevivido"
+      - "habr\xEDamos sobrevivido"
+      - "habr\xEDais sobrevivido"
+      - "habr\xEDan sobrevivido"
+      cjid: cpef
+    - cjfs:
+      - haya sobrevivido
+      - hayas sobrevivido
+      - haya sobrevivido
+      - hayamos sobrevivido
+      - "hay\xE1is sobrevivido"
+      - hayan sobrevivido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sobrevivido
+      - hubieras sobrevivido
+      - hubiera sobrevivido
+      - "hubi\xE9ramos sobrevivido"
+      - hubierais sobrevivido
+      - hubieran sobrevivido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sobrevivido
+      - hubieses sobrevivido
+      - hubiese sobrevivido
+      - "hubi\xE9semos sobrevivido"
+      - hubieseis sobrevivido
+      - hubiesen sobrevivido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sobrevivido
+      - hubieres sobrevivido
+      - hubiere sobrevivido
+      - "hubi\xE9remos sobrevivido"
+      - hubiereis sobrevivido
+      - hubieren sobrevivido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sobrevive
+      - sobreviva
+      - sobrevivamos
+      - sobrevivid
+      - sobrevivan
+      cjid: impf

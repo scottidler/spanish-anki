@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|thicken}'
+  fl: transitive verb
+  hwi:
+    hw: espesar
+  meta:
+    id: espesar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609185000'
+    src: spanish
+    stems:
+    - espesar
+    - espesarse
+    uuid: 67568b7b-86cf-4dce-85e6-9bfde77d1d3a
+  shortdef:
+  - to thicken
+  suppl:
+    cjts:
+    - cjfs:
+      - espesando
+      - espesado
+      cjid: gppt
+    - cjfs:
+      - espeso
+      - espesas
+      - espesa
+      - espesamos
+      - "espes\xE1is"
+      - espesan
+      cjid: pind
+    - cjfs:
+      - espesaba
+      - espesabas
+      - espesaba
+      - "espes\xE1bamos"
+      - espesabais
+      - espesaban
+      cjid: pret
+    - cjfs:
+      - "espes\xE9"
+      - espesaste
+      - "espes\xF3"
+      - espesamos
+      - espesasteis
+      - espesaron
+      cjid: pprf
+    - cjfs:
+      - "espesar\xE9"
+      - "espesar\xE1s"
+      - "espesar\xE1"
+      - espesaremos
+      - "espesar\xE9is"
+      - "espesar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "espesar\xEDa"
+      - "espesar\xEDas"
+      - "espesar\xEDa"
+      - "espesar\xEDamos"
+      - "espesar\xEDais"
+      - "espesar\xEDan"
+      cjid: cond
+    - cjfs:
+      - espese
+      - espeses
+      - espese
+      - espesemos
+      - "espes\xE9is"
+      - espesen
+      cjid: psub
+    - cjfs:
+      - espesara
+      - espesaras
+      - espesara
+      - "espes\xE1ramos"
+      - espesarais
+      - espesaran
+      cjid: pisb1
+    - cjfs:
+      - espesase
+      - espesases
+      - espesase
+      - "espes\xE1semos"
+      - espesaseis
+      - espesasen
+      cjid: pisb2
+    - cjfs:
+      - espesare
+      - espesares
+      - espesare
+      - "espes\xE1remos"
+      - espesareis
+      - espesaren
+      cjid: fsub
+    - cjfs:
+      - he espesado
+      - has espesado
+      - ha espesado
+      - hemos espesado
+      - "hab\xE9is espesado"
+      - han espesado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa espesado"
+      - "hab\xEDas espesado"
+      - "hab\xEDa espesado"
+      - "hab\xEDamos espesado"
+      - "hab\xEDais espesado"
+      - "hab\xEDan espesado"
+      cjid: ppsi
+    - cjfs:
+      - hube espesado
+      - hubiste espesado
+      - hubo espesado
+      - hubimos espesado
+      - hubisteis espesado
+      - hubieron espesado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 espesado"
+      - "habr\xE1s espesado"
+      - "habr\xE1 espesado"
+      - habremos espesado
+      - "habr\xE9is espesado"
+      - "habr\xE1n espesado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa espesado"
+      - "habr\xEDas espesado"
+      - "habr\xEDa espesado"
+      - "habr\xEDamos espesado"
+      - "habr\xEDais espesado"
+      - "habr\xEDan espesado"
+      cjid: cpef
+    - cjfs:
+      - haya espesado
+      - hayas espesado
+      - haya espesado
+      - hayamos espesado
+      - "hay\xE1is espesado"
+      - hayan espesado
+      cjid: ppfs
+    - cjfs:
+      - hubiera espesado
+      - hubieras espesado
+      - hubiera espesado
+      - "hubi\xE9ramos espesado"
+      - hubierais espesado
+      - hubieran espesado
+      cjid: ppss1
+    - cjfs:
+      - hubiese espesado
+      - hubieses espesado
+      - hubiese espesado
+      - "hubi\xE9semos espesado"
+      - hubieseis espesado
+      - hubiesen espesado
+      cjid: ppss2
+    - cjfs:
+      - hubiere espesado
+      - hubieres espesado
+      - hubiere espesado
+      - "hubi\xE9remos espesado"
+      - hubiereis espesado
+      - hubieren espesado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - espesa
+      - espese
+      - espesemos
+      - espesad
+      - espesen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: espesarse

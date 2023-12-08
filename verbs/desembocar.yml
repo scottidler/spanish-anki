@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sen
+        - vrs:
+          - va: desembocar en
+            vac: ~ en
+          - va: desembocar a
+            vac: ~ a
+            vl: or
+      - - sense
+        - dt:
+          - - text
+            - '{bc}to flow into, to {a_link|join}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lead to}, to result in'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: desembocar
+    prs:
+    - sound:
+        audio: desem03sp
+  meta:
+    id: desembocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607014000'
+    src: spanish
+    stems:
+    - desembocar
+    - desembocar en
+    - desembocar a
+    uuid: 1103be93-4b65-489c-a7f8-da116b624148
+  shortdef:
+  - to flow into, to join
+  - to lead to, to result in
+  suppl:
+    cjts:
+    - cjfs:
+      - desembocando
+      - desembocado
+      cjid: gppt
+    - cjfs:
+      - desemboco
+      - desembocas
+      - desemboca
+      - desembocamos
+      - "desemboc\xE1is"
+      - desembocan
+      cjid: pind
+    - cjfs:
+      - desembocaba
+      - desembocabas
+      - desembocaba
+      - "desemboc\xE1bamos"
+      - desembocabais
+      - desembocaban
+      cjid: pret
+    - cjfs:
+      - "desemboqu\xE9"
+      - desembocaste
+      - "desemboc\xF3"
+      - desembocamos
+      - desembocasteis
+      - desembocaron
+      cjid: pprf
+    - cjfs:
+      - "desembocar\xE9"
+      - "desembocar\xE1s"
+      - "desembocar\xE1"
+      - desembocaremos
+      - "desembocar\xE9is"
+      - "desembocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desembocar\xEDa"
+      - "desembocar\xEDas"
+      - "desembocar\xEDa"
+      - "desembocar\xEDamos"
+      - "desembocar\xEDais"
+      - "desembocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desemboque
+      - desemboques
+      - desemboque
+      - desemboquemos
+      - "desemboqu\xE9is"
+      - desemboquen
+      cjid: psub
+    - cjfs:
+      - desembocara
+      - desembocaras
+      - desembocara
+      - "desemboc\xE1ramos"
+      - desembocarais
+      - desembocaran
+      cjid: pisb1
+    - cjfs:
+      - desembocase
+      - desembocases
+      - desembocase
+      - "desemboc\xE1semos"
+      - desembocaseis
+      - desembocasen
+      cjid: pisb2
+    - cjfs:
+      - desembocare
+      - desembocares
+      - desembocare
+      - "desemboc\xE1remos"
+      - desembocareis
+      - desembocaren
+      cjid: fsub
+    - cjfs:
+      - he desembocado
+      - has desembocado
+      - ha desembocado
+      - hemos desembocado
+      - "hab\xE9is desembocado"
+      - han desembocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desembocado"
+      - "hab\xEDas desembocado"
+      - "hab\xEDa desembocado"
+      - "hab\xEDamos desembocado"
+      - "hab\xEDais desembocado"
+      - "hab\xEDan desembocado"
+      cjid: ppsi
+    - cjfs:
+      - hube desembocado
+      - hubiste desembocado
+      - hubo desembocado
+      - hubimos desembocado
+      - hubisteis desembocado
+      - hubieron desembocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desembocado"
+      - "habr\xE1s desembocado"
+      - "habr\xE1 desembocado"
+      - habremos desembocado
+      - "habr\xE9is desembocado"
+      - "habr\xE1n desembocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desembocado"
+      - "habr\xEDas desembocado"
+      - "habr\xEDa desembocado"
+      - "habr\xEDamos desembocado"
+      - "habr\xEDais desembocado"
+      - "habr\xEDan desembocado"
+      cjid: cpef
+    - cjfs:
+      - haya desembocado
+      - hayas desembocado
+      - haya desembocado
+      - hayamos desembocado
+      - "hay\xE1is desembocado"
+      - hayan desembocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desembocado
+      - hubieras desembocado
+      - hubiera desembocado
+      - "hubi\xE9ramos desembocado"
+      - hubierais desembocado
+      - hubieran desembocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desembocado
+      - hubieses desembocado
+      - hubiese desembocado
+      - "hubi\xE9semos desembocado"
+      - hubieseis desembocado
+      - hubiesen desembocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desembocado
+      - hubieres desembocado
+      - hubiere desembocado
+      - "hubi\xE9remos desembocado"
+      - hubiereis desembocado
+      - hubieren desembocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desemboca
+      - desemboque
+      - desemboquemos
+      - desembocad
+      - desemboquen
+      cjid: impf

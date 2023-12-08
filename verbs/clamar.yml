@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clamor}, to raise a protest'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cry out for'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: clamar
+    prs:
+    - sound:
+        audio: clama01sp
+  meta:
+    id: clamar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604820000'
+    src: spanish
+    stems:
+    - clamar
+    uuid: f656eb11-9006-4429-954c-8f01d152d612
+  shortdef:
+  - to clamor, to raise a protest
+  - to cry out for
+  suppl:
+    cjts:
+    - cjfs:
+      - clamando
+      - clamado
+      cjid: gppt
+    - cjfs:
+      - clamo
+      - clamas
+      - clama
+      - clamamos
+      - "clam\xE1is"
+      - claman
+      cjid: pind
+    - cjfs:
+      - clamaba
+      - clamabas
+      - clamaba
+      - "clam\xE1bamos"
+      - clamabais
+      - clamaban
+      cjid: pret
+    - cjfs:
+      - "clam\xE9"
+      - clamaste
+      - "clam\xF3"
+      - clamamos
+      - clamasteis
+      - clamaron
+      cjid: pprf
+    - cjfs:
+      - "clamar\xE9"
+      - "clamar\xE1s"
+      - "clamar\xE1"
+      - clamaremos
+      - "clamar\xE9is"
+      - "clamar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "clamar\xEDa"
+      - "clamar\xEDas"
+      - "clamar\xEDa"
+      - "clamar\xEDamos"
+      - "clamar\xEDais"
+      - "clamar\xEDan"
+      cjid: cond
+    - cjfs:
+      - clame
+      - clames
+      - clame
+      - clamemos
+      - "clam\xE9is"
+      - clamen
+      cjid: psub
+    - cjfs:
+      - clamara
+      - clamaras
+      - clamara
+      - "clam\xE1ramos"
+      - clamarais
+      - clamaran
+      cjid: pisb1
+    - cjfs:
+      - clamase
+      - clamases
+      - clamase
+      - "clam\xE1semos"
+      - clamaseis
+      - clamasen
+      cjid: pisb2
+    - cjfs:
+      - clamare
+      - clamares
+      - clamare
+      - "clam\xE1remos"
+      - clamareis
+      - clamaren
+      cjid: fsub
+    - cjfs:
+      - he clamado
+      - has clamado
+      - ha clamado
+      - hemos clamado
+      - "hab\xE9is clamado"
+      - han clamado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa clamado"
+      - "hab\xEDas clamado"
+      - "hab\xEDa clamado"
+      - "hab\xEDamos clamado"
+      - "hab\xEDais clamado"
+      - "hab\xEDan clamado"
+      cjid: ppsi
+    - cjfs:
+      - hube clamado
+      - hubiste clamado
+      - hubo clamado
+      - hubimos clamado
+      - hubisteis clamado
+      - hubieron clamado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 clamado"
+      - "habr\xE1s clamado"
+      - "habr\xE1 clamado"
+      - habremos clamado
+      - "habr\xE9is clamado"
+      - "habr\xE1n clamado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa clamado"
+      - "habr\xEDas clamado"
+      - "habr\xEDa clamado"
+      - "habr\xEDamos clamado"
+      - "habr\xEDais clamado"
+      - "habr\xEDan clamado"
+      cjid: cpef
+    - cjfs:
+      - haya clamado
+      - hayas clamado
+      - haya clamado
+      - hayamos clamado
+      - "hay\xE1is clamado"
+      - hayan clamado
+      cjid: ppfs
+    - cjfs:
+      - hubiera clamado
+      - hubieras clamado
+      - hubiera clamado
+      - "hubi\xE9ramos clamado"
+      - hubierais clamado
+      - hubieran clamado
+      cjid: ppss1
+    - cjfs:
+      - hubiese clamado
+      - hubieses clamado
+      - hubiese clamado
+      - "hubi\xE9semos clamado"
+      - hubieseis clamado
+      - hubiesen clamado
+      cjid: ppss2
+    - cjfs:
+      - hubiere clamado
+      - hubieres clamado
+      - hubiere clamado
+      - "hubi\xE9remos clamado"
+      - hubiereis clamado
+      - hubieren clamado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - clama
+      - clame
+      - clamemos
+      - clamad
+      - clamen
+      cjid: impf

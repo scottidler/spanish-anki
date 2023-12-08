@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|unite}, to {a_link|join}, to bring together'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have}, to {a_link|possess} '
+          - - vis
+            - - t: reunieron los requisitos necesarios
+                tr: they fulfilled the necessary requirements
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gather}, to {a_link|collect}, to {a_link|raise} (funds)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|meet}'
+    drp: reunirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reunir
+    prs:
+    - sound:
+        audio: reuni02sp
+  meta:
+    id: reunir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619727000'
+    src: spanish
+    stems:
+    - reunir
+    - reunirse
+    uuid: ce2fbdff-c999-40e2-a233-773c57823da8
+  shortdef:
+  - to unite, to join, to bring together
+  - to have, to possess
+  - to gather, to collect, to raise (funds)
+  suppl:
+    cjts:
+    - cjfs:
+      - reuniendo
+      - reunido
+      cjid: gppt
+    - cjfs:
+      - "re\xFAno"
+      - "re\xFAnes"
+      - "re\xFAne"
+      - reunimos
+      - "reun\xEDs"
+      - "re\xFAnen"
+      cjid: pind
+    - cjfs:
+      - "reun\xEDa"
+      - "reun\xEDas"
+      - "reun\xEDa"
+      - "reun\xEDamos"
+      - "reun\xEDais"
+      - "reun\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reun\xED"
+      - reuniste
+      - "reuni\xF3"
+      - reunimos
+      - reunisteis
+      - reunieron
+      cjid: pprf
+    - cjfs:
+      - "reunir\xE9"
+      - "reunir\xE1s"
+      - "reunir\xE1"
+      - reuniremos
+      - "reunir\xE9is"
+      - "reunir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reunir\xEDa"
+      - "reunir\xEDas"
+      - "reunir\xEDa"
+      - "reunir\xEDamos"
+      - "reunir\xEDais"
+      - "reunir\xEDan"
+      cjid: cond
+    - cjfs:
+      - "re\xFAna"
+      - "re\xFAnas"
+      - "re\xFAna"
+      - reunamos
+      - "reun\xE1is"
+      - "re\xFAnan"
+      cjid: psub
+    - cjfs:
+      - reuniera
+      - reunieras
+      - reuniera
+      - "reuni\xE9ramos"
+      - reunierais
+      - reunieran
+      cjid: pisb1
+    - cjfs:
+      - reuniese
+      - reunieses
+      - reuniese
+      - "reuni\xE9semos"
+      - reunieseis
+      - reuniesen
+      cjid: pisb2
+    - cjfs:
+      - reuniere
+      - reunieres
+      - reuniere
+      - "reuni\xE9remos"
+      - reuniereis
+      - reunieren
+      cjid: fsub
+    - cjfs:
+      - he reunido
+      - has reunido
+      - ha reunido
+      - hemos reunido
+      - "hab\xE9is reunido"
+      - han reunido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reunido"
+      - "hab\xEDas reunido"
+      - "hab\xEDa reunido"
+      - "hab\xEDamos reunido"
+      - "hab\xEDais reunido"
+      - "hab\xEDan reunido"
+      cjid: ppsi
+    - cjfs:
+      - hube reunido
+      - hubiste reunido
+      - hubo reunido
+      - hubimos reunido
+      - hubisteis reunido
+      - hubieron reunido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reunido"
+      - "habr\xE1s reunido"
+      - "habr\xE1 reunido"
+      - habremos reunido
+      - "habr\xE9is reunido"
+      - "habr\xE1n reunido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reunido"
+      - "habr\xEDas reunido"
+      - "habr\xEDa reunido"
+      - "habr\xEDamos reunido"
+      - "habr\xEDais reunido"
+      - "habr\xEDan reunido"
+      cjid: cpef
+    - cjfs:
+      - haya reunido
+      - hayas reunido
+      - haya reunido
+      - hayamos reunido
+      - "hay\xE1is reunido"
+      - hayan reunido
+      cjid: ppfs
+    - cjfs:
+      - hubiera reunido
+      - hubieras reunido
+      - hubiera reunido
+      - "hubi\xE9ramos reunido"
+      - hubierais reunido
+      - hubieran reunido
+      cjid: ppss1
+    - cjfs:
+      - hubiese reunido
+      - hubieses reunido
+      - hubiese reunido
+      - "hubi\xE9semos reunido"
+      - hubieseis reunido
+      - hubiesen reunido
+      cjid: ppss2
+    - cjfs:
+      - hubiere reunido
+      - hubieres reunido
+      - hubiere reunido
+      - "hubi\xE9remos reunido"
+      - hubiereis reunido
+      - hubieren reunido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "re\xFAne"
+      - "re\xFAna"
+      - reunamos
+      - reunid
+      - "re\xFAnan"
+      cjid: impf

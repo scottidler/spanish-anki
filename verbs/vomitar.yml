@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vomit}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vomit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to spew out (lava, etc.)'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: vomitar
+    prs:
+    - sound:
+        audio: vomit01sp
+  meta:
+    id: vomitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623213000'
+    src: spanish
+    stems:
+    - vomitar
+    uuid: d98e9cee-cb53-4659-8061-b7b43fb55370
+  shortdef:
+  - to vomit
+  - to vomit
+  - to spew out (lava, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - vomitando
+      - vomitado
+      cjid: gppt
+    - cjfs:
+      - vomito
+      - vomitas
+      - vomita
+      - vomitamos
+      - "vomit\xE1is"
+      - vomitan
+      cjid: pind
+    - cjfs:
+      - vomitaba
+      - vomitabas
+      - vomitaba
+      - "vomit\xE1bamos"
+      - vomitabais
+      - vomitaban
+      cjid: pret
+    - cjfs:
+      - "vomit\xE9"
+      - vomitaste
+      - "vomit\xF3"
+      - vomitamos
+      - vomitasteis
+      - vomitaron
+      cjid: pprf
+    - cjfs:
+      - "vomitar\xE9"
+      - "vomitar\xE1s"
+      - "vomitar\xE1"
+      - vomitaremos
+      - "vomitar\xE9is"
+      - "vomitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vomitar\xEDa"
+      - "vomitar\xEDas"
+      - "vomitar\xEDa"
+      - "vomitar\xEDamos"
+      - "vomitar\xEDais"
+      - "vomitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vomite
+      - vomites
+      - vomite
+      - vomitemos
+      - "vomit\xE9is"
+      - vomiten
+      cjid: psub
+    - cjfs:
+      - vomitara
+      - vomitaras
+      - vomitara
+      - "vomit\xE1ramos"
+      - vomitarais
+      - vomitaran
+      cjid: pisb1
+    - cjfs:
+      - vomitase
+      - vomitases
+      - vomitase
+      - "vomit\xE1semos"
+      - vomitaseis
+      - vomitasen
+      cjid: pisb2
+    - cjfs:
+      - vomitare
+      - vomitares
+      - vomitare
+      - "vomit\xE1remos"
+      - vomitareis
+      - vomitaren
+      cjid: fsub
+    - cjfs:
+      - he vomitado
+      - has vomitado
+      - ha vomitado
+      - hemos vomitado
+      - "hab\xE9is vomitado"
+      - han vomitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vomitado"
+      - "hab\xEDas vomitado"
+      - "hab\xEDa vomitado"
+      - "hab\xEDamos vomitado"
+      - "hab\xEDais vomitado"
+      - "hab\xEDan vomitado"
+      cjid: ppsi
+    - cjfs:
+      - hube vomitado
+      - hubiste vomitado
+      - hubo vomitado
+      - hubimos vomitado
+      - hubisteis vomitado
+      - hubieron vomitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vomitado"
+      - "habr\xE1s vomitado"
+      - "habr\xE1 vomitado"
+      - habremos vomitado
+      - "habr\xE9is vomitado"
+      - "habr\xE1n vomitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vomitado"
+      - "habr\xEDas vomitado"
+      - "habr\xEDa vomitado"
+      - "habr\xEDamos vomitado"
+      - "habr\xEDais vomitado"
+      - "habr\xEDan vomitado"
+      cjid: cpef
+    - cjfs:
+      - haya vomitado
+      - hayas vomitado
+      - haya vomitado
+      - hayamos vomitado
+      - "hay\xE1is vomitado"
+      - hayan vomitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vomitado
+      - hubieras vomitado
+      - hubiera vomitado
+      - "hubi\xE9ramos vomitado"
+      - hubierais vomitado
+      - hubieran vomitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vomitado
+      - hubieses vomitado
+      - hubiese vomitado
+      - "hubi\xE9semos vomitado"
+      - hubieseis vomitado
+      - hubiesen vomitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vomitado
+      - hubieres vomitado
+      - hubiere vomitado
+      - "hubi\xE9remos vomitado"
+      - hubiereis vomitado
+      - hubieren vomitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vomita
+      - vomite
+      - vomitemos
+      - vomitad
+      - vomiten
+      cjid: impf

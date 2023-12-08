@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|improvise}, to {a_link|ad-lib}'
+  fl: verb
+  hwi:
+    hw: improvisar
+    prs:
+    - sound:
+        audio: impro01sp
+  meta:
+    id: improvisar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612038000'
+    src: spanish
+    stems:
+    - improvisar
+    uuid: 08aa43e9-6246-4344-a01a-660f428968ba
+  shortdef:
+  - to improvise, to ad-lib
+  suppl:
+    cjts:
+    - cjfs:
+      - improvisando
+      - improvisado
+      cjid: gppt
+    - cjfs:
+      - improviso
+      - improvisas
+      - improvisa
+      - improvisamos
+      - "improvis\xE1is"
+      - improvisan
+      cjid: pind
+    - cjfs:
+      - improvisaba
+      - improvisabas
+      - improvisaba
+      - "improvis\xE1bamos"
+      - improvisabais
+      - improvisaban
+      cjid: pret
+    - cjfs:
+      - "improvis\xE9"
+      - improvisaste
+      - "improvis\xF3"
+      - improvisamos
+      - improvisasteis
+      - improvisaron
+      cjid: pprf
+    - cjfs:
+      - "improvisar\xE9"
+      - "improvisar\xE1s"
+      - "improvisar\xE1"
+      - improvisaremos
+      - "improvisar\xE9is"
+      - "improvisar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "improvisar\xEDa"
+      - "improvisar\xEDas"
+      - "improvisar\xEDa"
+      - "improvisar\xEDamos"
+      - "improvisar\xEDais"
+      - "improvisar\xEDan"
+      cjid: cond
+    - cjfs:
+      - improvise
+      - improvises
+      - improvise
+      - improvisemos
+      - "improvis\xE9is"
+      - improvisen
+      cjid: psub
+    - cjfs:
+      - improvisara
+      - improvisaras
+      - improvisara
+      - "improvis\xE1ramos"
+      - improvisarais
+      - improvisaran
+      cjid: pisb1
+    - cjfs:
+      - improvisase
+      - improvisases
+      - improvisase
+      - "improvis\xE1semos"
+      - improvisaseis
+      - improvisasen
+      cjid: pisb2
+    - cjfs:
+      - improvisare
+      - improvisares
+      - improvisare
+      - "improvis\xE1remos"
+      - improvisareis
+      - improvisaren
+      cjid: fsub
+    - cjfs:
+      - he improvisado
+      - has improvisado
+      - ha improvisado
+      - hemos improvisado
+      - "hab\xE9is improvisado"
+      - han improvisado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa improvisado"
+      - "hab\xEDas improvisado"
+      - "hab\xEDa improvisado"
+      - "hab\xEDamos improvisado"
+      - "hab\xEDais improvisado"
+      - "hab\xEDan improvisado"
+      cjid: ppsi
+    - cjfs:
+      - hube improvisado
+      - hubiste improvisado
+      - hubo improvisado
+      - hubimos improvisado
+      - hubisteis improvisado
+      - hubieron improvisado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 improvisado"
+      - "habr\xE1s improvisado"
+      - "habr\xE1 improvisado"
+      - habremos improvisado
+      - "habr\xE9is improvisado"
+      - "habr\xE1n improvisado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa improvisado"
+      - "habr\xEDas improvisado"
+      - "habr\xEDa improvisado"
+      - "habr\xEDamos improvisado"
+      - "habr\xEDais improvisado"
+      - "habr\xEDan improvisado"
+      cjid: cpef
+    - cjfs:
+      - haya improvisado
+      - hayas improvisado
+      - haya improvisado
+      - hayamos improvisado
+      - "hay\xE1is improvisado"
+      - hayan improvisado
+      cjid: ppfs
+    - cjfs:
+      - hubiera improvisado
+      - hubieras improvisado
+      - hubiera improvisado
+      - "hubi\xE9ramos improvisado"
+      - hubierais improvisado
+      - hubieran improvisado
+      cjid: ppss1
+    - cjfs:
+      - hubiese improvisado
+      - hubieses improvisado
+      - hubiese improvisado
+      - "hubi\xE9semos improvisado"
+      - hubieseis improvisado
+      - hubiesen improvisado
+      cjid: ppss2
+    - cjfs:
+      - hubiere improvisado
+      - hubieres improvisado
+      - hubiere improvisado
+      - "hubi\xE9remos improvisado"
+      - hubiereis improvisado
+      - hubieren improvisado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - improvisa
+      - improvise
+      - improvisemos
+      - improvisad
+      - improvisen
+      cjid: impf

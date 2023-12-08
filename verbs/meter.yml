@@ -1,0 +1,558 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|metro} '
+          - - gl
+            - masculine
+          - - vis
+            - - t: it measures 2 meters
+                tr: mide 2 metros
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|contador} '
+          - - gl
+            - masculine
+          - - text
+            - ', {a_link|medidor} '
+          - - gl
+            - masculine
+          - - text
+            - ' (de electricidad, etc.) '
+          - - vis
+            - - t: parking meter
+                tr: "parqu\xEDmetro"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|metro} '
+          - - gl
+            - masculine
+          - - text
+            - " (en literatura o m\xFAsica)"
+          sn: '3'
+  fl: noun
+  hwi:
+    hw: meter
+    prs:
+    - mw: "\u02C8mi\u02D0t\u032C\u032C\u0259r"
+  meta:
+    id: meter
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2615175000'
+    src: spanish
+    stems:
+    - meter
+    - meters
+    uuid: f42d5476-fc64-45e4-9eb3-6666948389e6
+  shortdef:
+  - metro
+  - contador, medidor (de electricidad, etc.)
+  - "metro (en literatura o m\xFAsica)"
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put} '
+          - - vis
+            - - t: "lo meti\xF3 en un caj\xF3n"
+                tr: he put it in a drawer
+              - t: metieron su dinero en el banco
+                tr: they put their money in the bank
+              - t: "se le meti\xF3 en la cabeza que \u2026"
+                tr: "he got it in his head that \u2026"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shut} (in a place) '
+          - - vis
+            - - t: "la metieron en la c\xE1rcel"
+                tr: they put her in jail
+              - t: "estuve todo el d\xEDa metida en la casa"
+                tr: I was stuck in the house all day
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit}, to {a_link|squeeze} '
+          - - vis
+            - - t: "puedes meter dos l\xEDneas m\xE1s en esa p\xE1gina"
+                tr: you can fit two more lines on that page
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|place} (in a job) '
+          - - vis
+            - - t: lo metieron de dependiente
+                tr: they got him a job as a store clerk
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|involve} '
+          - - vis
+            - - t: "lo meti\xF3 en un buen l\xEDo"
+                tr: she got him in an awful mess
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make}, to {a_link|cause} '
+          - - vis
+            - - t: meten demasiado ruido
+                tr: they make too much noise
+              - t: un cuento que mete miedo
+                tr: a scary story
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spread} (a rumor)'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|strike} (a blow)'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|score} (a goal or point)'
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take up}, to {a_link|take in} (clothing)'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}at top speed'
+          sn: '11'
+          vrs:
+          - va: a todo meter
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get} (in), to {a_link|enter} '
+            - - vis
+              - - t: "se meti\xF3 en la cama"
+                  tr: she got in bed
+                - t: "el ladr\xF3n se meti\xF3 por la ventana"
+                  tr: the thief got in through the window
+                - t: "\xBFd\xF3nde te has metido?"
+                  tr: where are you hiding?, where have you gotten to?
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|put}, to {a_link|stick} '
+            - - vis
+              - - t: no te lo metas en la boca
+                  tr: don't put it in your mouth
+                - t: "se meti\xF3 la mano en el bolsillo"
+                  tr: he stuck his hand in his pocket
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|meddle} '
+            - - vis
+              - - t: no te metas en lo que no te importa
+                  tr: mind your own business
+            sls:
+            - familiar
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to pick a fight with, to {a_link|provoke} '
+            - - vis
+              - - t: no te metas conmigo
+                  tr: don't mess with me
+            sls:
+            - familiar
+            sn: '4'
+            vrs:
+            - va: meterse con
+              vac: ~ con
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|become} '
+            - - vis
+              - - t: "se meti\xF3 a monja"
+                  tr: she became a nun
+            sn: '5'
+            vrs:
+            - va: meterse a/de
+              vac: ~ a/de
+    drp: meterse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: meter
+  meta:
+    id: meter
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614942000'
+    src: spanish
+    stems:
+    - meter
+    - a todo meter
+    - meterse
+    - meterse con
+    - meterse a/de
+    - meterse a
+    - meterse de
+    uuid: b9c32c7f-a026-40eb-915d-8cbe35e97c4e
+  shortdef:
+  - to put
+  - to shut (in a place)
+  - to fit, to squeeze
+  suppl:
+    cjts:
+    - cjfs:
+      - metiendo
+      - metido
+      cjid: gppt
+    - cjfs:
+      - meto
+      - metes
+      - mete
+      - metemos
+      - "met\xE9is"
+      - meten
+      cjid: pind
+    - cjfs:
+      - "met\xEDa"
+      - "met\xEDas"
+      - "met\xEDa"
+      - "met\xEDamos"
+      - "met\xEDais"
+      - "met\xEDan"
+      cjid: pret
+    - cjfs:
+      - "met\xED"
+      - metiste
+      - "meti\xF3"
+      - metimos
+      - metisteis
+      - metieron
+      cjid: pprf
+    - cjfs:
+      - "meter\xE9"
+      - "meter\xE1s"
+      - "meter\xE1"
+      - meteremos
+      - "meter\xE9is"
+      - "meter\xE1n"
+      cjid: futr
+    - cjfs:
+      - "meter\xEDa"
+      - "meter\xEDas"
+      - "meter\xEDa"
+      - "meter\xEDamos"
+      - "meter\xEDais"
+      - "meter\xEDan"
+      cjid: cond
+    - cjfs:
+      - meta
+      - metas
+      - meta
+      - metamos
+      - "met\xE1is"
+      - metan
+      cjid: psub
+    - cjfs:
+      - metiera
+      - metieras
+      - metiera
+      - "meti\xE9ramos"
+      - metierais
+      - metieran
+      cjid: pisb1
+    - cjfs:
+      - metiese
+      - metieses
+      - metiese
+      - "meti\xE9semos"
+      - metieseis
+      - metiesen
+      cjid: pisb2
+    - cjfs:
+      - metiere
+      - metieres
+      - metiere
+      - "meti\xE9remos"
+      - metiereis
+      - metieren
+      cjid: fsub
+    - cjfs:
+      - he metido
+      - has metido
+      - ha metido
+      - hemos metido
+      - "hab\xE9is metido"
+      - han metido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa metido"
+      - "hab\xEDas metido"
+      - "hab\xEDa metido"
+      - "hab\xEDamos metido"
+      - "hab\xEDais metido"
+      - "hab\xEDan metido"
+      cjid: ppsi
+    - cjfs:
+      - hube metido
+      - hubiste metido
+      - hubo metido
+      - hubimos metido
+      - hubisteis metido
+      - hubieron metido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 metido"
+      - "habr\xE1s metido"
+      - "habr\xE1 metido"
+      - habremos metido
+      - "habr\xE9is metido"
+      - "habr\xE1n metido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa metido"
+      - "habr\xEDas metido"
+      - "habr\xEDa metido"
+      - "habr\xEDamos metido"
+      - "habr\xEDais metido"
+      - "habr\xEDan metido"
+      cjid: cpef
+    - cjfs:
+      - haya metido
+      - hayas metido
+      - haya metido
+      - hayamos metido
+      - "hay\xE1is metido"
+      - hayan metido
+      cjid: ppfs
+    - cjfs:
+      - hubiera metido
+      - hubieras metido
+      - hubiera metido
+      - "hubi\xE9ramos metido"
+      - hubierais metido
+      - hubieran metido
+      cjid: ppss1
+    - cjfs:
+      - hubiese metido
+      - hubieses metido
+      - hubiese metido
+      - "hubi\xE9semos metido"
+      - hubieseis metido
+      - hubiesen metido
+      cjid: ppss2
+    - cjfs:
+      - hubiere metido
+      - hubieres metido
+      - hubiere metido
+      - "hubi\xE9remos metido"
+      - hubiereis metido
+      - hubieren metido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mete
+      - meta
+      - metamos
+      - meted
+      - metan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}{a_link|parqu\xEDmetro} "
+          - - gl
+            - masculine
+  fl: noun
+  hwi:
+    hw: parking meter
+  meta:
+    id: parking meter
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2617396000'
+    src: spanish
+    stems:
+    - parking meter
+    uuid: 215546f3-1c4a-41d3-ae4a-3813378d0ff9
+  shortdef:
+  - "parqu\xEDmetro"
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ear of corn}, {a_link|corncob}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|corn}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make a mistake'
+          sls:
+          - Mexico familiar
+          sn: '3'
+          vrs:
+          - va: meter el choclo
+  fl: masculine noun
+  hwi:
+    hw: choclo
+    prs:
+    - sound:
+        audio: chocl01sp
+  meta:
+    id: choclo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604632000'
+    src: spanish
+    stems:
+    - choclo
+    - meter el choclo
+    uuid: 6085463f-30ee-4e2f-997f-37e1645f2811
+  shortdef:
+  - ear of corn, corncob
+  - corn
+  - to make a mistake
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|waist}, {a_link|waistline}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to bring into line, to {a_link|discipline}'
+          sls:
+          - familiar
+          sn: '2'
+          vrs:
+          - va: meter en cintura
+  fl: feminine noun
+  hwi:
+    hw: cintura
+    prs:
+    - sound:
+        audio: cintu01sp
+  meta:
+    id: cintura
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604756000'
+    src: spanish
+    stems:
+    - cintura
+    - meter en cintura
+    uuid: 82bec65b-31a7-434f-812e-4b621997a26e
+  shortdef:
+  - waist, waistline
+  - to bring into line, to discipline
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|paw}, {a_link|leg} (of an animal)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|foot}, {a_link|leg} (of a person)'
+          sls:
+          - familiar
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|foot}, {a_link|leg} (of furniture)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}bad luck'
+          sls:
+          - familiar
+          sn: '4'
+          vrs:
+          - va: mala pata
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put one''s foot in it, to make a faux pas'
+          sls:
+          - familiar
+          sn: '5'
+          vrs:
+          - va: meter la pata
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|crow''s-feet}'
+          sn: '6'
+          vrs:
+          - va: patas de gallo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|upside-down}'
+          sn: '7'
+          vrs:
+          - va: patas (para) arriba
+  fl: feminine noun
+  hom: 1
+  hwi:
+    hw: pata
+  meta:
+    id: pata:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616809000'
+    src: spanish
+    stems:
+    - pata
+    - mala pata
+    - meter la pata
+    - patas de gallo
+    - patas (para) arriba
+    uuid: d838a644-d523-43dd-aff4-2de705f5b94b
+  shortdef:
+  - paw, leg (of an animal)
+  - foot, leg (of a person)
+  - foot, leg (of furniture)

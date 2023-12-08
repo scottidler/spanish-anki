@@ -1,0 +1,221 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dawn}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to begin to show, to {a_link|appear}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wake up} (in the morning)'
+          sn: '3'
+  fl: impersonal verb
+  hom: 1
+  hwi:
+    hw: amanecer
+    prs:
+    - sound:
+        audio: amane01sp
+  meta:
+    id: amanecer:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601175000'
+    src: spanish
+    stems:
+    - amanecer
+    uuid: 0cc3c3a6-ca21-4873-9715-3204df301090
+  shortdef:
+  - to dawn
+  - to begin to show, to appear
+  - to wake up (in the morning)
+  suppl:
+    cjts:
+    - cjfs:
+      - amaneciendo
+      - amanecido
+      cjid: gppt
+    - cjfs:
+      - amanezco
+      - amaneces
+      - amanece
+      - amanecemos
+      - "amanec\xE9is"
+      - amanecen
+      cjid: pind
+    - cjfs:
+      - "amanec\xEDa"
+      - "amanec\xEDas"
+      - "amanec\xEDa"
+      - "amanec\xEDamos"
+      - "amanec\xEDais"
+      - "amanec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "amanec\xED"
+      - amaneciste
+      - "amaneci\xF3"
+      - amanecimos
+      - amanecisteis
+      - amanecieron
+      cjid: pprf
+    - cjfs:
+      - "amanecer\xE9"
+      - "amanecer\xE1s"
+      - "amanecer\xE1"
+      - amaneceremos
+      - "amanecer\xE9is"
+      - "amanecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amanecer\xEDa"
+      - "amanecer\xEDas"
+      - "amanecer\xEDa"
+      - "amanecer\xEDamos"
+      - "amanecer\xEDais"
+      - "amanecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - amanezca
+      - amanezcas
+      - amanezca
+      - amanezcamos
+      - "amanezc\xE1is"
+      - amanezcan
+      cjid: psub
+    - cjfs:
+      - amaneciera
+      - amanecieras
+      - amaneciera
+      - "amaneci\xE9ramos"
+      - amanecierais
+      - amanecieran
+      cjid: pisb1
+    - cjfs:
+      - amaneciese
+      - amanecieses
+      - amaneciese
+      - "amaneci\xE9semos"
+      - amanecieseis
+      - amaneciesen
+      cjid: pisb2
+    - cjfs:
+      - amaneciere
+      - amanecieres
+      - amaneciere
+      - "amaneci\xE9remos"
+      - amaneciereis
+      - amanecieren
+      cjid: fsub
+    - cjfs:
+      - he amanecido
+      - has amanecido
+      - ha amanecido
+      - hemos amanecido
+      - "hab\xE9is amanecido"
+      - han amanecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amanecido"
+      - "hab\xEDas amanecido"
+      - "hab\xEDa amanecido"
+      - "hab\xEDamos amanecido"
+      - "hab\xEDais amanecido"
+      - "hab\xEDan amanecido"
+      cjid: ppsi
+    - cjfs:
+      - hube amanecido
+      - hubiste amanecido
+      - hubo amanecido
+      - hubimos amanecido
+      - hubisteis amanecido
+      - hubieron amanecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amanecido"
+      - "habr\xE1s amanecido"
+      - "habr\xE1 amanecido"
+      - habremos amanecido
+      - "habr\xE9is amanecido"
+      - "habr\xE1n amanecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amanecido"
+      - "habr\xEDas amanecido"
+      - "habr\xEDa amanecido"
+      - "habr\xEDamos amanecido"
+      - "habr\xEDais amanecido"
+      - "habr\xEDan amanecido"
+      cjid: cpef
+    - cjfs:
+      - haya amanecido
+      - hayas amanecido
+      - haya amanecido
+      - hayamos amanecido
+      - "hay\xE1is amanecido"
+      - hayan amanecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera amanecido
+      - hubieras amanecido
+      - hubiera amanecido
+      - "hubi\xE9ramos amanecido"
+      - hubierais amanecido
+      - hubieran amanecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese amanecido
+      - hubieses amanecido
+      - hubiese amanecido
+      - "hubi\xE9semos amanecido"
+      - hubieseis amanecido
+      - hubiesen amanecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere amanecido
+      - hubieres amanecido
+      - hubiere amanecido
+      - "hubi\xE9remos amanecido"
+      - hubiereis amanecido
+      - hubieren amanecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - amanece
+      - amanezca
+      - amanezcamos
+      - amaneced
+      - amanezcan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|alba||} {bc}{a_link|dawn}, {a_link|daybreak}'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: amanecer
+    prs:
+    - sound:
+        audio: amane02sp
+  meta:
+    id: amanecer:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601176000'
+    src: spanish
+    stems:
+    - amanecer
+    uuid: 4d60fb7f-61d2-4538-bf83-435e8892b71b
+  shortdef:
+  - 'alba : dawn, daybreak'

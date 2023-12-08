@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|surprise}, to {a_link|startle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scare}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: sobrecoger
+    prs:
+    - sound:
+        audio: sobre05sp
+  meta:
+    id: sobrecoger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620767000'
+    src: spanish
+    stems:
+    - sobrecoger
+    - sobrecogerse
+    uuid: f4d97904-789b-4653-be14-09af1e1df96a
+  shortdef:
+  - to surprise, to startle
+  - to scare
+  suppl:
+    cjts:
+    - cjfs:
+      - sobrecogiendo
+      - sobrecogido
+      cjid: gppt
+    - cjfs:
+      - sobrecojo
+      - sobrecoges
+      - sobrecoge
+      - sobrecogemos
+      - "sobrecog\xE9is"
+      - sobrecogen
+      cjid: pind
+    - cjfs:
+      - "sobrecog\xEDa"
+      - "sobrecog\xEDas"
+      - "sobrecog\xEDa"
+      - "sobrecog\xEDamos"
+      - "sobrecog\xEDais"
+      - "sobrecog\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sobrecog\xED"
+      - sobrecogiste
+      - "sobrecogi\xF3"
+      - sobrecogimos
+      - sobrecogisteis
+      - sobrecogieron
+      cjid: pprf
+    - cjfs:
+      - "sobrecoger\xE9"
+      - "sobrecoger\xE1s"
+      - "sobrecoger\xE1"
+      - sobrecogeremos
+      - "sobrecoger\xE9is"
+      - "sobrecoger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sobrecoger\xEDa"
+      - "sobrecoger\xEDas"
+      - "sobrecoger\xEDa"
+      - "sobrecoger\xEDamos"
+      - "sobrecoger\xEDais"
+      - "sobrecoger\xEDan"
+      cjid: cond
+    - cjfs:
+      - sobrecoja
+      - sobrecojas
+      - sobrecoja
+      - sobrecojamos
+      - "sobrecoj\xE1is"
+      - sobrecojan
+      cjid: psub
+    - cjfs:
+      - sobrecogiera
+      - sobrecogieras
+      - sobrecogiera
+      - "sobrecogi\xE9ramos"
+      - sobrecogierais
+      - sobrecogieran
+      cjid: pisb1
+    - cjfs:
+      - sobrecogiese
+      - sobrecogieses
+      - sobrecogiese
+      - "sobrecogi\xE9semos"
+      - sobrecogieseis
+      - sobrecogiesen
+      cjid: pisb2
+    - cjfs:
+      - sobrecogiere
+      - sobrecogieres
+      - sobrecogiere
+      - "sobrecogi\xE9remos"
+      - sobrecogiereis
+      - sobrecogieren
+      cjid: fsub
+    - cjfs:
+      - he sobrecogido
+      - has sobrecogido
+      - ha sobrecogido
+      - hemos sobrecogido
+      - "hab\xE9is sobrecogido"
+      - han sobrecogido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sobrecogido"
+      - "hab\xEDas sobrecogido"
+      - "hab\xEDa sobrecogido"
+      - "hab\xEDamos sobrecogido"
+      - "hab\xEDais sobrecogido"
+      - "hab\xEDan sobrecogido"
+      cjid: ppsi
+    - cjfs:
+      - hube sobrecogido
+      - hubiste sobrecogido
+      - hubo sobrecogido
+      - hubimos sobrecogido
+      - hubisteis sobrecogido
+      - hubieron sobrecogido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sobrecogido"
+      - "habr\xE1s sobrecogido"
+      - "habr\xE1 sobrecogido"
+      - habremos sobrecogido
+      - "habr\xE9is sobrecogido"
+      - "habr\xE1n sobrecogido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sobrecogido"
+      - "habr\xEDas sobrecogido"
+      - "habr\xEDa sobrecogido"
+      - "habr\xEDamos sobrecogido"
+      - "habr\xEDais sobrecogido"
+      - "habr\xEDan sobrecogido"
+      cjid: cpef
+    - cjfs:
+      - haya sobrecogido
+      - hayas sobrecogido
+      - haya sobrecogido
+      - hayamos sobrecogido
+      - "hay\xE1is sobrecogido"
+      - hayan sobrecogido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sobrecogido
+      - hubieras sobrecogido
+      - hubiera sobrecogido
+      - "hubi\xE9ramos sobrecogido"
+      - hubierais sobrecogido
+      - hubieran sobrecogido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sobrecogido
+      - hubieses sobrecogido
+      - hubiese sobrecogido
+      - "hubi\xE9semos sobrecogido"
+      - hubieseis sobrecogido
+      - hubiesen sobrecogido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sobrecogido
+      - hubieres sobrecogido
+      - hubiere sobrecogido
+      - "hubi\xE9remos sobrecogido"
+      - hubiereis sobrecogido
+      - hubieren sobrecogido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sobrecoge
+      - sobrecoja
+      - sobrecojamos
+      - sobrecoged
+      - sobrecojan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: sobrecogerse

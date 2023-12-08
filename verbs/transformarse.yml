@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|convertir||} {bc}to {a_link|convert}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|transform}, to {a_link|change}, to {a_link|alter}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: transformar
+    prs:
+    - sound:
+        audio: trans09sp
+  meta:
+    id: transformar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622148000'
+    src: spanish
+    stems:
+    - transformar
+    - transformarse
+    uuid: cc5154f7-a9fa-4d60-9e2f-2ed192b97a14
+  shortdef:
+  - 'convertir : to convert'
+  - to transform, to change, to alter
+  suppl:
+    cjts:
+    - cjfs:
+      - transformando
+      - transformado
+      cjid: gppt
+    - cjfs:
+      - transformo
+      - transformas
+      - transforma
+      - transformamos
+      - "transform\xE1is"
+      - transforman
+      cjid: pind
+    - cjfs:
+      - transformaba
+      - transformabas
+      - transformaba
+      - "transform\xE1bamos"
+      - transformabais
+      - transformaban
+      cjid: pret
+    - cjfs:
+      - "transform\xE9"
+      - transformaste
+      - "transform\xF3"
+      - transformamos
+      - transformasteis
+      - transformaron
+      cjid: pprf
+    - cjfs:
+      - "transformar\xE9"
+      - "transformar\xE1s"
+      - "transformar\xE1"
+      - transformaremos
+      - "transformar\xE9is"
+      - "transformar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "transformar\xEDa"
+      - "transformar\xEDas"
+      - "transformar\xEDa"
+      - "transformar\xEDamos"
+      - "transformar\xEDais"
+      - "transformar\xEDan"
+      cjid: cond
+    - cjfs:
+      - transforme
+      - transformes
+      - transforme
+      - transformemos
+      - "transform\xE9is"
+      - transformen
+      cjid: psub
+    - cjfs:
+      - transformara
+      - transformaras
+      - transformara
+      - "transform\xE1ramos"
+      - transformarais
+      - transformaran
+      cjid: pisb1
+    - cjfs:
+      - transformase
+      - transformases
+      - transformase
+      - "transform\xE1semos"
+      - transformaseis
+      - transformasen
+      cjid: pisb2
+    - cjfs:
+      - transformare
+      - transformares
+      - transformare
+      - "transform\xE1remos"
+      - transformareis
+      - transformaren
+      cjid: fsub
+    - cjfs:
+      - he transformado
+      - has transformado
+      - ha transformado
+      - hemos transformado
+      - "hab\xE9is transformado"
+      - han transformado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa transformado"
+      - "hab\xEDas transformado"
+      - "hab\xEDa transformado"
+      - "hab\xEDamos transformado"
+      - "hab\xEDais transformado"
+      - "hab\xEDan transformado"
+      cjid: ppsi
+    - cjfs:
+      - hube transformado
+      - hubiste transformado
+      - hubo transformado
+      - hubimos transformado
+      - hubisteis transformado
+      - hubieron transformado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 transformado"
+      - "habr\xE1s transformado"
+      - "habr\xE1 transformado"
+      - habremos transformado
+      - "habr\xE9is transformado"
+      - "habr\xE1n transformado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa transformado"
+      - "habr\xEDas transformado"
+      - "habr\xEDa transformado"
+      - "habr\xEDamos transformado"
+      - "habr\xEDais transformado"
+      - "habr\xEDan transformado"
+      cjid: cpef
+    - cjfs:
+      - haya transformado
+      - hayas transformado
+      - haya transformado
+      - hayamos transformado
+      - "hay\xE1is transformado"
+      - hayan transformado
+      cjid: ppfs
+    - cjfs:
+      - hubiera transformado
+      - hubieras transformado
+      - hubiera transformado
+      - "hubi\xE9ramos transformado"
+      - hubierais transformado
+      - hubieran transformado
+      cjid: ppss1
+    - cjfs:
+      - hubiese transformado
+      - hubieses transformado
+      - hubiese transformado
+      - "hubi\xE9semos transformado"
+      - hubieseis transformado
+      - hubiesen transformado
+      cjid: ppss2
+    - cjfs:
+      - hubiere transformado
+      - hubieres transformado
+      - hubiere transformado
+      - "hubi\xE9remos transformado"
+      - hubiereis transformado
+      - hubieren transformado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - transforma
+      - transforme
+      - transformemos
+      - transformad
+      - transformen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: transformarse

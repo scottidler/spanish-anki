@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be grateful for'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|thank}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: agradecer
+    prs:
+    - sound:
+        audio: agrad03sp
+  meta:
+    id: agradecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600713000'
+    src: spanish
+    stems:
+    - agradecer
+    uuid: 0e63ef0e-62ae-47da-9574-e01a39f1fdba
+  shortdef:
+  - to be grateful for
+  - to thank
+  suppl:
+    cjts:
+    - cjfs:
+      - agradeciendo
+      - agradecido
+      cjid: gppt
+    - cjfs:
+      - agradezco
+      - agradeces
+      - agradece
+      - agradecemos
+      - "agradec\xE9is"
+      - agradecen
+      cjid: pind
+    - cjfs:
+      - "agradec\xEDa"
+      - "agradec\xEDas"
+      - "agradec\xEDa"
+      - "agradec\xEDamos"
+      - "agradec\xEDais"
+      - "agradec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "agradec\xED"
+      - agradeciste
+      - "agradeci\xF3"
+      - agradecimos
+      - agradecisteis
+      - agradecieron
+      cjid: pprf
+    - cjfs:
+      - "agradecer\xE9"
+      - "agradecer\xE1s"
+      - "agradecer\xE1"
+      - agradeceremos
+      - "agradecer\xE9is"
+      - "agradecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agradecer\xEDa"
+      - "agradecer\xEDas"
+      - "agradecer\xEDa"
+      - "agradecer\xEDamos"
+      - "agradecer\xEDais"
+      - "agradecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - agradezca
+      - agradezcas
+      - agradezca
+      - agradezcamos
+      - "agradezc\xE1is"
+      - agradezcan
+      cjid: psub
+    - cjfs:
+      - agradeciera
+      - agradecieras
+      - agradeciera
+      - "agradeci\xE9ramos"
+      - agradecierais
+      - agradecieran
+      cjid: pisb1
+    - cjfs:
+      - agradeciese
+      - agradecieses
+      - agradeciese
+      - "agradeci\xE9semos"
+      - agradecieseis
+      - agradeciesen
+      cjid: pisb2
+    - cjfs:
+      - agradeciere
+      - agradecieres
+      - agradeciere
+      - "agradeci\xE9remos"
+      - agradeciereis
+      - agradecieren
+      cjid: fsub
+    - cjfs:
+      - he agradecido
+      - has agradecido
+      - ha agradecido
+      - hemos agradecido
+      - "hab\xE9is agradecido"
+      - han agradecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agradecido"
+      - "hab\xEDas agradecido"
+      - "hab\xEDa agradecido"
+      - "hab\xEDamos agradecido"
+      - "hab\xEDais agradecido"
+      - "hab\xEDan agradecido"
+      cjid: ppsi
+    - cjfs:
+      - hube agradecido
+      - hubiste agradecido
+      - hubo agradecido
+      - hubimos agradecido
+      - hubisteis agradecido
+      - hubieron agradecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agradecido"
+      - "habr\xE1s agradecido"
+      - "habr\xE1 agradecido"
+      - habremos agradecido
+      - "habr\xE9is agradecido"
+      - "habr\xE1n agradecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agradecido"
+      - "habr\xEDas agradecido"
+      - "habr\xEDa agradecido"
+      - "habr\xEDamos agradecido"
+      - "habr\xEDais agradecido"
+      - "habr\xEDan agradecido"
+      cjid: cpef
+    - cjfs:
+      - haya agradecido
+      - hayas agradecido
+      - haya agradecido
+      - hayamos agradecido
+      - "hay\xE1is agradecido"
+      - hayan agradecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera agradecido
+      - hubieras agradecido
+      - hubiera agradecido
+      - "hubi\xE9ramos agradecido"
+      - hubierais agradecido
+      - hubieran agradecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese agradecido
+      - hubieses agradecido
+      - hubiese agradecido
+      - "hubi\xE9semos agradecido"
+      - hubieseis agradecido
+      - hubiesen agradecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere agradecido
+      - hubieres agradecido
+      - hubiere agradecido
+      - "hubi\xE9remos agradecido"
+      - hubiereis agradecido
+      - hubieren agradecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agradece
+      - agradezca
+      - agradezcamos
+      - agradeced
+      - agradezcan
+      cjid: impf

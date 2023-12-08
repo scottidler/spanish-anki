@@ -1,0 +1,234 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn over}, to turn upside down'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reverse}, to turn inside out'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn} '
+          - - vis
+            - - t: voltear la cara
+                tr: to turn one's head
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knock down}'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|roll over}, to do somersaults'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn} '
+          - - vis
+            - - t: "volte\xF3 a la izquierda"
+                tr: he turned left
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|turn around}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to change one''s allegiance'
+            sn: '2'
+    drp: voltearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: voltear
+    prs:
+    - sound:
+        audio: volte01sp
+  meta:
+    id: voltear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623197000'
+    src: spanish
+    stems:
+    - voltear
+    - voltearse
+    uuid: bcd0f2fe-a87f-4683-8bea-e9c36634da48
+  shortdef:
+  - to turn over, to turn upside down
+  - to reverse, to turn inside out
+  - to turn
+  suppl:
+    cjts:
+    - cjfs:
+      - volteando
+      - volteado
+      cjid: gppt
+    - cjfs:
+      - volteo
+      - volteas
+      - voltea
+      - volteamos
+      - "volte\xE1is"
+      - voltean
+      cjid: pind
+    - cjfs:
+      - volteaba
+      - volteabas
+      - volteaba
+      - "volte\xE1bamos"
+      - volteabais
+      - volteaban
+      cjid: pret
+    - cjfs:
+      - "volte\xE9"
+      - volteaste
+      - "volte\xF3"
+      - volteamos
+      - volteasteis
+      - voltearon
+      cjid: pprf
+    - cjfs:
+      - "voltear\xE9"
+      - "voltear\xE1s"
+      - "voltear\xE1"
+      - voltearemos
+      - "voltear\xE9is"
+      - "voltear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "voltear\xEDa"
+      - "voltear\xEDas"
+      - "voltear\xEDa"
+      - "voltear\xEDamos"
+      - "voltear\xEDais"
+      - "voltear\xEDan"
+      cjid: cond
+    - cjfs:
+      - voltee
+      - voltees
+      - voltee
+      - volteemos
+      - "volte\xE9is"
+      - volteen
+      cjid: psub
+    - cjfs:
+      - volteara
+      - voltearas
+      - volteara
+      - "volte\xE1ramos"
+      - voltearais
+      - voltearan
+      cjid: pisb1
+    - cjfs:
+      - voltease
+      - volteases
+      - voltease
+      - "volte\xE1semos"
+      - volteaseis
+      - volteasen
+      cjid: pisb2
+    - cjfs:
+      - volteare
+      - volteares
+      - volteare
+      - "volte\xE1remos"
+      - volteareis
+      - voltearen
+      cjid: fsub
+    - cjfs:
+      - he volteado
+      - has volteado
+      - ha volteado
+      - hemos volteado
+      - "hab\xE9is volteado"
+      - han volteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa volteado"
+      - "hab\xEDas volteado"
+      - "hab\xEDa volteado"
+      - "hab\xEDamos volteado"
+      - "hab\xEDais volteado"
+      - "hab\xEDan volteado"
+      cjid: ppsi
+    - cjfs:
+      - hube volteado
+      - hubiste volteado
+      - hubo volteado
+      - hubimos volteado
+      - hubisteis volteado
+      - hubieron volteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 volteado"
+      - "habr\xE1s volteado"
+      - "habr\xE1 volteado"
+      - habremos volteado
+      - "habr\xE9is volteado"
+      - "habr\xE1n volteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa volteado"
+      - "habr\xEDas volteado"
+      - "habr\xEDa volteado"
+      - "habr\xEDamos volteado"
+      - "habr\xEDais volteado"
+      - "habr\xEDan volteado"
+      cjid: cpef
+    - cjfs:
+      - haya volteado
+      - hayas volteado
+      - haya volteado
+      - hayamos volteado
+      - "hay\xE1is volteado"
+      - hayan volteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera volteado
+      - hubieras volteado
+      - hubiera volteado
+      - "hubi\xE9ramos volteado"
+      - hubierais volteado
+      - hubieran volteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese volteado
+      - hubieses volteado
+      - hubiese volteado
+      - "hubi\xE9semos volteado"
+      - hubieseis volteado
+      - hubiesen volteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere volteado
+      - hubieres volteado
+      - hubiere volteado
+      - "hubi\xE9remos volteado"
+      - hubiereis volteado
+      - hubieren volteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - voltea
+      - voltee
+      - volteemos
+      - voltead
+      - volteen
+      cjid: impf

@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fundar||}, {sx|instituir||} {bc}to {a_link|establish}, to {a_link|found}
+              (a city, etc.), to {a_link|set up} (a system, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|establish} (a law, etc.), to {a_link|set} (a standard,
+              etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|establish} (relations, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|demostrar||} {bc}to {a_link|establish}, to {a_link|show}, to {a_link|prove}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|instalarse||} {bc}to {a_link|settle}, to establish oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|establish}, to {a_link|show}, to {a_link|prove}'
+            sn: '2'
+    drp: establecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: establecer
+    prs:
+    - sound:
+        audio: estab02sp
+  meta:
+    id: establecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609268000'
+    src: spanish
+    stems:
+    - establecer
+    - establecerse
+    uuid: 011f61bd-3d7f-4b39-a372-d7b1e25389de
+  shortdef:
+  - 'fundar, instituir : to establish, to found (a city, etc.), to set up (a system,
+    etc.)'
+  - to establish (a law, etc.), to set (a standard, etc.)
+  - to establish (relations, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - estableciendo
+      - establecido
+      cjid: gppt
+    - cjfs:
+      - establezco
+      - estableces
+      - establece
+      - establecemos
+      - "establec\xE9is"
+      - establecen
+      cjid: pind
+    - cjfs:
+      - "establec\xEDa"
+      - "establec\xEDas"
+      - "establec\xEDa"
+      - "establec\xEDamos"
+      - "establec\xEDais"
+      - "establec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "establec\xED"
+      - estableciste
+      - "estableci\xF3"
+      - establecimos
+      - establecisteis
+      - establecieron
+      cjid: pprf
+    - cjfs:
+      - "establecer\xE9"
+      - "establecer\xE1s"
+      - "establecer\xE1"
+      - estableceremos
+      - "establecer\xE9is"
+      - "establecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "establecer\xEDa"
+      - "establecer\xEDas"
+      - "establecer\xEDa"
+      - "establecer\xEDamos"
+      - "establecer\xEDais"
+      - "establecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - establezca
+      - establezcas
+      - establezca
+      - establezcamos
+      - "establezc\xE1is"
+      - establezcan
+      cjid: psub
+    - cjfs:
+      - estableciera
+      - establecieras
+      - estableciera
+      - "estableci\xE9ramos"
+      - establecierais
+      - establecieran
+      cjid: pisb1
+    - cjfs:
+      - estableciese
+      - establecieses
+      - estableciese
+      - "estableci\xE9semos"
+      - establecieseis
+      - estableciesen
+      cjid: pisb2
+    - cjfs:
+      - estableciere
+      - establecieres
+      - estableciere
+      - "estableci\xE9remos"
+      - estableciereis
+      - establecieren
+      cjid: fsub
+    - cjfs:
+      - he establecido
+      - has establecido
+      - ha establecido
+      - hemos establecido
+      - "hab\xE9is establecido"
+      - han establecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa establecido"
+      - "hab\xEDas establecido"
+      - "hab\xEDa establecido"
+      - "hab\xEDamos establecido"
+      - "hab\xEDais establecido"
+      - "hab\xEDan establecido"
+      cjid: ppsi
+    - cjfs:
+      - hube establecido
+      - hubiste establecido
+      - hubo establecido
+      - hubimos establecido
+      - hubisteis establecido
+      - hubieron establecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 establecido"
+      - "habr\xE1s establecido"
+      - "habr\xE1 establecido"
+      - habremos establecido
+      - "habr\xE9is establecido"
+      - "habr\xE1n establecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa establecido"
+      - "habr\xEDas establecido"
+      - "habr\xEDa establecido"
+      - "habr\xEDamos establecido"
+      - "habr\xEDais establecido"
+      - "habr\xEDan establecido"
+      cjid: cpef
+    - cjfs:
+      - haya establecido
+      - hayas establecido
+      - haya establecido
+      - hayamos establecido
+      - "hay\xE1is establecido"
+      - hayan establecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera establecido
+      - hubieras establecido
+      - hubiera establecido
+      - "hubi\xE9ramos establecido"
+      - hubierais establecido
+      - hubieran establecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese establecido
+      - hubieses establecido
+      - hubiese establecido
+      - "hubi\xE9semos establecido"
+      - hubieseis establecido
+      - hubiesen establecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere establecido
+      - hubieres establecido
+      - hubiere establecido
+      - "hubi\xE9remos establecido"
+      - hubiereis establecido
+      - hubieren establecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - establece
+      - establezca
+      - establezcamos
+      - estableced
+      - establezcan
+      cjid: impf

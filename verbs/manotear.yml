@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to wave one''s hands, to {a_link|gesticulate}'
+  fl: intransitive verb
+  hwi:
+    hw: manotear
+  meta:
+    id: manotear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614387000'
+    src: spanish
+    stems:
+    - manotear
+    uuid: d38fa80c-465f-4bce-a2f1-e89db6f85d1f
+  shortdef:
+  - to wave one's hands, to gesticulate
+  suppl:
+    cjts:
+    - cjfs:
+      - manoteando
+      - manoteado
+      cjid: gppt
+    - cjfs:
+      - manoteo
+      - manoteas
+      - manotea
+      - manoteamos
+      - "manote\xE1is"
+      - manotean
+      cjid: pind
+    - cjfs:
+      - manoteaba
+      - manoteabas
+      - manoteaba
+      - "manote\xE1bamos"
+      - manoteabais
+      - manoteaban
+      cjid: pret
+    - cjfs:
+      - "manote\xE9"
+      - manoteaste
+      - "manote\xF3"
+      - manoteamos
+      - manoteasteis
+      - manotearon
+      cjid: pprf
+    - cjfs:
+      - "manotear\xE9"
+      - "manotear\xE1s"
+      - "manotear\xE1"
+      - manotearemos
+      - "manotear\xE9is"
+      - "manotear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "manotear\xEDa"
+      - "manotear\xEDas"
+      - "manotear\xEDa"
+      - "manotear\xEDamos"
+      - "manotear\xEDais"
+      - "manotear\xEDan"
+      cjid: cond
+    - cjfs:
+      - manotee
+      - manotees
+      - manotee
+      - manoteemos
+      - "manote\xE9is"
+      - manoteen
+      cjid: psub
+    - cjfs:
+      - manoteara
+      - manotearas
+      - manoteara
+      - "manote\xE1ramos"
+      - manotearais
+      - manotearan
+      cjid: pisb1
+    - cjfs:
+      - manotease
+      - manoteases
+      - manotease
+      - "manote\xE1semos"
+      - manoteaseis
+      - manoteasen
+      cjid: pisb2
+    - cjfs:
+      - manoteare
+      - manoteares
+      - manoteare
+      - "manote\xE1remos"
+      - manoteareis
+      - manotearen
+      cjid: fsub
+    - cjfs:
+      - he manoteado
+      - has manoteado
+      - ha manoteado
+      - hemos manoteado
+      - "hab\xE9is manoteado"
+      - han manoteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa manoteado"
+      - "hab\xEDas manoteado"
+      - "hab\xEDa manoteado"
+      - "hab\xEDamos manoteado"
+      - "hab\xEDais manoteado"
+      - "hab\xEDan manoteado"
+      cjid: ppsi
+    - cjfs:
+      - hube manoteado
+      - hubiste manoteado
+      - hubo manoteado
+      - hubimos manoteado
+      - hubisteis manoteado
+      - hubieron manoteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 manoteado"
+      - "habr\xE1s manoteado"
+      - "habr\xE1 manoteado"
+      - habremos manoteado
+      - "habr\xE9is manoteado"
+      - "habr\xE1n manoteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa manoteado"
+      - "habr\xEDas manoteado"
+      - "habr\xEDa manoteado"
+      - "habr\xEDamos manoteado"
+      - "habr\xEDais manoteado"
+      - "habr\xEDan manoteado"
+      cjid: cpef
+    - cjfs:
+      - haya manoteado
+      - hayas manoteado
+      - haya manoteado
+      - hayamos manoteado
+      - "hay\xE1is manoteado"
+      - hayan manoteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera manoteado
+      - hubieras manoteado
+      - hubiera manoteado
+      - "hubi\xE9ramos manoteado"
+      - hubierais manoteado
+      - hubieran manoteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese manoteado
+      - hubieses manoteado
+      - hubiese manoteado
+      - "hubi\xE9semos manoteado"
+      - hubieseis manoteado
+      - hubiesen manoteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere manoteado
+      - hubieres manoteado
+      - hubiere manoteado
+      - "hubi\xE9remos manoteado"
+      - hubiereis manoteado
+      - hubieren manoteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - manotea
+      - manotee
+      - manoteemos
+      - manotead
+      - manoteen
+      cjid: impf

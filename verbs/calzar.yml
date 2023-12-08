@@ -1,0 +1,194 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wear} (shoes) '
+          - - vis
+            - - t: "\xBFde cu\xE1l calza?"
+                tr: what is your shoe size?
+              - t: calzar tenis
+                tr: to wear sneakers
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to provide with shoes'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: calzar
+    prs:
+    - sound:
+        audio: calza03sp
+  meta:
+    id: calzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603707000'
+    src: spanish
+    stems:
+    - calzar
+    uuid: 1d52f74d-2d0c-4f75-9a84-93c4d15e2756
+  shortdef:
+  - to wear (shoes)
+  - to provide with shoes
+  suppl:
+    cjts:
+    - cjfs:
+      - calzando
+      - calzado
+      cjid: gppt
+    - cjfs:
+      - calzo
+      - calzas
+      - calza
+      - calzamos
+      - "calz\xE1is"
+      - calzan
+      cjid: pind
+    - cjfs:
+      - calzaba
+      - calzabas
+      - calzaba
+      - "calz\xE1bamos"
+      - calzabais
+      - calzaban
+      cjid: pret
+    - cjfs:
+      - "calc\xE9"
+      - calzaste
+      - "calz\xF3"
+      - calzamos
+      - calzasteis
+      - calzaron
+      cjid: pprf
+    - cjfs:
+      - "calzar\xE9"
+      - "calzar\xE1s"
+      - "calzar\xE1"
+      - calzaremos
+      - "calzar\xE9is"
+      - "calzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "calzar\xEDa"
+      - "calzar\xEDas"
+      - "calzar\xEDa"
+      - "calzar\xEDamos"
+      - "calzar\xEDais"
+      - "calzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - calce
+      - calces
+      - calce
+      - calcemos
+      - "calc\xE9is"
+      - calcen
+      cjid: psub
+    - cjfs:
+      - calzara
+      - calzaras
+      - calzara
+      - "calz\xE1ramos"
+      - calzarais
+      - calzaran
+      cjid: pisb1
+    - cjfs:
+      - calzase
+      - calzases
+      - calzase
+      - "calz\xE1semos"
+      - calzaseis
+      - calzasen
+      cjid: pisb2
+    - cjfs:
+      - calzare
+      - calzares
+      - calzare
+      - "calz\xE1remos"
+      - calzareis
+      - calzaren
+      cjid: fsub
+    - cjfs:
+      - he calzado
+      - has calzado
+      - ha calzado
+      - hemos calzado
+      - "hab\xE9is calzado"
+      - han calzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa calzado"
+      - "hab\xEDas calzado"
+      - "hab\xEDa calzado"
+      - "hab\xEDamos calzado"
+      - "hab\xEDais calzado"
+      - "hab\xEDan calzado"
+      cjid: ppsi
+    - cjfs:
+      - hube calzado
+      - hubiste calzado
+      - hubo calzado
+      - hubimos calzado
+      - hubisteis calzado
+      - hubieron calzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 calzado"
+      - "habr\xE1s calzado"
+      - "habr\xE1 calzado"
+      - habremos calzado
+      - "habr\xE9is calzado"
+      - "habr\xE1n calzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa calzado"
+      - "habr\xEDas calzado"
+      - "habr\xEDa calzado"
+      - "habr\xEDamos calzado"
+      - "habr\xEDais calzado"
+      - "habr\xEDan calzado"
+      cjid: cpef
+    - cjfs:
+      - haya calzado
+      - hayas calzado
+      - haya calzado
+      - hayamos calzado
+      - "hay\xE1is calzado"
+      - hayan calzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera calzado
+      - hubieras calzado
+      - hubiera calzado
+      - "hubi\xE9ramos calzado"
+      - hubierais calzado
+      - hubieran calzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese calzado
+      - hubieses calzado
+      - hubiese calzado
+      - "hubi\xE9semos calzado"
+      - hubieseis calzado
+      - hubiesen calzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere calzado
+      - hubieres calzado
+      - hubiere calzado
+      - "hubi\xE9remos calzado"
+      - hubiereis calzado
+      - hubieren calzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - calza
+      - calce
+      - calcemos
+      - calzad
+      - calcen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be suitable, to be advisable'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: convenir
+    prs:
+    - sound:
+        audio: conve05sp
+  meta:
+    id: convenir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605804000'
+    src: spanish
+    stems:
+    - convenir
+    uuid: d63dc8cd-7809-45f8-8359-9aaf4450212c
+  shortdef:
+  - to be suitable, to be advisable
+  - to agree
+  suppl:
+    cjts:
+    - cjfs:
+      - conviniendo
+      - convenido
+      cjid: gppt
+    - cjfs:
+      - convengo
+      - convienes
+      - conviene
+      - convenimos
+      - "conven\xEDs"
+      - convienen
+      cjid: pind
+    - cjfs:
+      - "conven\xEDa"
+      - "conven\xEDas"
+      - "conven\xEDa"
+      - "conven\xEDamos"
+      - "conven\xEDais"
+      - "conven\xEDan"
+      cjid: pret
+    - cjfs:
+      - convine
+      - conviniste
+      - convino
+      - convinimos
+      - convinisteis
+      - convinieron
+      cjid: pprf
+    - cjfs:
+      - "convendr\xE9"
+      - "convendr\xE1s"
+      - "convendr\xE1"
+      - convendremos
+      - "convendr\xE9is"
+      - "convendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "convendr\xEDa"
+      - "convendr\xEDas"
+      - "convendr\xEDa"
+      - "convendr\xEDamos"
+      - "convendr\xEDais"
+      - "convendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - convenga
+      - convengas
+      - convenga
+      - convengamos
+      - "conveng\xE1is"
+      - convengan
+      cjid: psub
+    - cjfs:
+      - conviniera
+      - convinieras
+      - conviniera
+      - "convini\xE9ramos"
+      - convinierais
+      - convinieran
+      cjid: pisb1
+    - cjfs:
+      - conviniese
+      - convinieses
+      - conviniese
+      - "convini\xE9semos"
+      - convinieseis
+      - conviniesen
+      cjid: pisb2
+    - cjfs:
+      - conviniere
+      - convinieres
+      - conviniere
+      - "convini\xE9remos"
+      - conviniereis
+      - convinieren
+      cjid: fsub
+    - cjfs:
+      - he convenido
+      - has convenido
+      - ha convenido
+      - hemos convenido
+      - "hab\xE9is convenido"
+      - han convenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa convenido"
+      - "hab\xEDas convenido"
+      - "hab\xEDa convenido"
+      - "hab\xEDamos convenido"
+      - "hab\xEDais convenido"
+      - "hab\xEDan convenido"
+      cjid: ppsi
+    - cjfs:
+      - hube convenido
+      - hubiste convenido
+      - hubo convenido
+      - hubimos convenido
+      - hubisteis convenido
+      - hubieron convenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 convenido"
+      - "habr\xE1s convenido"
+      - "habr\xE1 convenido"
+      - habremos convenido
+      - "habr\xE9is convenido"
+      - "habr\xE1n convenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa convenido"
+      - "habr\xEDas convenido"
+      - "habr\xEDa convenido"
+      - "habr\xEDamos convenido"
+      - "habr\xEDais convenido"
+      - "habr\xEDan convenido"
+      cjid: cpef
+    - cjfs:
+      - haya convenido
+      - hayas convenido
+      - haya convenido
+      - hayamos convenido
+      - "hay\xE1is convenido"
+      - hayan convenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera convenido
+      - hubieras convenido
+      - hubiera convenido
+      - "hubi\xE9ramos convenido"
+      - hubierais convenido
+      - hubieran convenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese convenido
+      - hubieses convenido
+      - hubiese convenido
+      - "hubi\xE9semos convenido"
+      - hubieseis convenido
+      - hubiesen convenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere convenido
+      - hubieres convenido
+      - hubiere convenido
+      - "hubi\xE9remos convenido"
+      - hubiereis convenido
+      - hubieren convenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "conv\xE9n"
+      - convenga
+      - convengamos
+      - convenid
+      - convengan
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|consume}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|waste away}'
+    drp: consumirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: consumir
+    prs:
+    - sound:
+        audio: consu09sp
+  meta:
+    id: consumir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605654000'
+    src: spanish
+    stems:
+    - consumir
+    - consumirse
+    uuid: 09ba2adc-95c1-431b-9c79-1f0c91fcd408
+  shortdef:
+  - to consume
+  suppl:
+    cjts:
+    - cjfs:
+      - consumiendo
+      - consumido
+      cjid: gppt
+    - cjfs:
+      - consumo
+      - consumes
+      - consume
+      - consumimos
+      - "consum\xEDs"
+      - consumen
+      cjid: pind
+    - cjfs:
+      - "consum\xEDa"
+      - "consum\xEDas"
+      - "consum\xEDa"
+      - "consum\xEDamos"
+      - "consum\xEDais"
+      - "consum\xEDan"
+      cjid: pret
+    - cjfs:
+      - "consum\xED"
+      - consumiste
+      - "consumi\xF3"
+      - consumimos
+      - consumisteis
+      - consumieron
+      cjid: pprf
+    - cjfs:
+      - "consumir\xE9"
+      - "consumir\xE1s"
+      - "consumir\xE1"
+      - consumiremos
+      - "consumir\xE9is"
+      - "consumir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "consumir\xEDa"
+      - "consumir\xEDas"
+      - "consumir\xEDa"
+      - "consumir\xEDamos"
+      - "consumir\xEDais"
+      - "consumir\xEDan"
+      cjid: cond
+    - cjfs:
+      - consuma
+      - consumas
+      - consuma
+      - consumamos
+      - "consum\xE1is"
+      - consuman
+      cjid: psub
+    - cjfs:
+      - consumiera
+      - consumieras
+      - consumiera
+      - "consumi\xE9ramos"
+      - consumierais
+      - consumieran
+      cjid: pisb1
+    - cjfs:
+      - consumiese
+      - consumieses
+      - consumiese
+      - "consumi\xE9semos"
+      - consumieseis
+      - consumiesen
+      cjid: pisb2
+    - cjfs:
+      - consumiere
+      - consumieres
+      - consumiere
+      - "consumi\xE9remos"
+      - consumiereis
+      - consumieren
+      cjid: fsub
+    - cjfs:
+      - he consumido
+      - has consumido
+      - ha consumido
+      - hemos consumido
+      - "hab\xE9is consumido"
+      - han consumido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa consumido"
+      - "hab\xEDas consumido"
+      - "hab\xEDa consumido"
+      - "hab\xEDamos consumido"
+      - "hab\xEDais consumido"
+      - "hab\xEDan consumido"
+      cjid: ppsi
+    - cjfs:
+      - hube consumido
+      - hubiste consumido
+      - hubo consumido
+      - hubimos consumido
+      - hubisteis consumido
+      - hubieron consumido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 consumido"
+      - "habr\xE1s consumido"
+      - "habr\xE1 consumido"
+      - habremos consumido
+      - "habr\xE9is consumido"
+      - "habr\xE1n consumido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa consumido"
+      - "habr\xEDas consumido"
+      - "habr\xEDa consumido"
+      - "habr\xEDamos consumido"
+      - "habr\xEDais consumido"
+      - "habr\xEDan consumido"
+      cjid: cpef
+    - cjfs:
+      - haya consumido
+      - hayas consumido
+      - haya consumido
+      - hayamos consumido
+      - "hay\xE1is consumido"
+      - hayan consumido
+      cjid: ppfs
+    - cjfs:
+      - hubiera consumido
+      - hubieras consumido
+      - hubiera consumido
+      - "hubi\xE9ramos consumido"
+      - hubierais consumido
+      - hubieran consumido
+      cjid: ppss1
+    - cjfs:
+      - hubiese consumido
+      - hubieses consumido
+      - hubiese consumido
+      - "hubi\xE9semos consumido"
+      - hubieseis consumido
+      - hubiesen consumido
+      cjid: ppss2
+    - cjfs:
+      - hubiere consumido
+      - hubieres consumido
+      - hubiere consumido
+      - "hubi\xE9remos consumido"
+      - hubiereis consumido
+      - hubieren consumido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - consume
+      - consuma
+      - consumamos
+      - consumid
+      - consuman
+      cjid: impf

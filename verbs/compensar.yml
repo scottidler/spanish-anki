@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|compensate for}, to {a_link|make up for}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be worth one''s while}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: compensar
+    prs:
+    - sound:
+        audio: compe01sp
+  meta:
+    id: compensar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605244000'
+    src: spanish
+    stems:
+    - compensar
+    uuid: b67e77dc-49ce-4edc-a79b-7d7d5af12ebb
+  shortdef:
+  - to compensate for, to make up for
+  - to be worth one's while
+  suppl:
+    cjts:
+    - cjfs:
+      - compensando
+      - compensado
+      cjid: gppt
+    - cjfs:
+      - compenso
+      - compensas
+      - compensa
+      - compensamos
+      - "compens\xE1is"
+      - compensan
+      cjid: pind
+    - cjfs:
+      - compensaba
+      - compensabas
+      - compensaba
+      - "compens\xE1bamos"
+      - compensabais
+      - compensaban
+      cjid: pret
+    - cjfs:
+      - "compens\xE9"
+      - compensaste
+      - "compens\xF3"
+      - compensamos
+      - compensasteis
+      - compensaron
+      cjid: pprf
+    - cjfs:
+      - "compensar\xE9"
+      - "compensar\xE1s"
+      - "compensar\xE1"
+      - compensaremos
+      - "compensar\xE9is"
+      - "compensar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "compensar\xEDa"
+      - "compensar\xEDas"
+      - "compensar\xEDa"
+      - "compensar\xEDamos"
+      - "compensar\xEDais"
+      - "compensar\xEDan"
+      cjid: cond
+    - cjfs:
+      - compense
+      - compenses
+      - compense
+      - compensemos
+      - "compens\xE9is"
+      - compensen
+      cjid: psub
+    - cjfs:
+      - compensara
+      - compensaras
+      - compensara
+      - "compens\xE1ramos"
+      - compensarais
+      - compensaran
+      cjid: pisb1
+    - cjfs:
+      - compensase
+      - compensases
+      - compensase
+      - "compens\xE1semos"
+      - compensaseis
+      - compensasen
+      cjid: pisb2
+    - cjfs:
+      - compensare
+      - compensares
+      - compensare
+      - "compens\xE1remos"
+      - compensareis
+      - compensaren
+      cjid: fsub
+    - cjfs:
+      - he compensado
+      - has compensado
+      - ha compensado
+      - hemos compensado
+      - "hab\xE9is compensado"
+      - han compensado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa compensado"
+      - "hab\xEDas compensado"
+      - "hab\xEDa compensado"
+      - "hab\xEDamos compensado"
+      - "hab\xEDais compensado"
+      - "hab\xEDan compensado"
+      cjid: ppsi
+    - cjfs:
+      - hube compensado
+      - hubiste compensado
+      - hubo compensado
+      - hubimos compensado
+      - hubisteis compensado
+      - hubieron compensado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 compensado"
+      - "habr\xE1s compensado"
+      - "habr\xE1 compensado"
+      - habremos compensado
+      - "habr\xE9is compensado"
+      - "habr\xE1n compensado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa compensado"
+      - "habr\xEDas compensado"
+      - "habr\xEDa compensado"
+      - "habr\xEDamos compensado"
+      - "habr\xEDais compensado"
+      - "habr\xEDan compensado"
+      cjid: cpef
+    - cjfs:
+      - haya compensado
+      - hayas compensado
+      - haya compensado
+      - hayamos compensado
+      - "hay\xE1is compensado"
+      - hayan compensado
+      cjid: ppfs
+    - cjfs:
+      - hubiera compensado
+      - hubieras compensado
+      - hubiera compensado
+      - "hubi\xE9ramos compensado"
+      - hubierais compensado
+      - hubieran compensado
+      cjid: ppss1
+    - cjfs:
+      - hubiese compensado
+      - hubieses compensado
+      - hubiese compensado
+      - "hubi\xE9semos compensado"
+      - hubieseis compensado
+      - hubiesen compensado
+      cjid: ppss2
+    - cjfs:
+      - hubiere compensado
+      - hubieres compensado
+      - hubiere compensado
+      - "hubi\xE9remos compensado"
+      - hubiereis compensado
+      - hubieren compensado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - compensa
+      - compense
+      - compensemos
+      - compensad
+      - compensen
+      cjid: impf

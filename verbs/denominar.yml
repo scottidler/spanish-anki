@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|designate}, to {a_link|name}, to {a_link|call}'
+  fl: transitive verb
+  hwi:
+    hw: denominar
+    prs:
+    - sound:
+        audio: denom02sp
+  meta:
+    id: denominar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606685000'
+    src: spanish
+    stems:
+    - denominar
+    uuid: 20075dd5-33e4-4a29-b85a-5d8e9c91ae8e
+  shortdef:
+  - to designate, to name, to call
+  suppl:
+    cjts:
+    - cjfs:
+      - denominando
+      - denominado
+      cjid: gppt
+    - cjfs:
+      - denomino
+      - denominas
+      - denomina
+      - denominamos
+      - "denomin\xE1is"
+      - denominan
+      cjid: pind
+    - cjfs:
+      - denominaba
+      - denominabas
+      - denominaba
+      - "denomin\xE1bamos"
+      - denominabais
+      - denominaban
+      cjid: pret
+    - cjfs:
+      - "denomin\xE9"
+      - denominaste
+      - "denomin\xF3"
+      - denominamos
+      - denominasteis
+      - denominaron
+      cjid: pprf
+    - cjfs:
+      - "denominar\xE9"
+      - "denominar\xE1s"
+      - "denominar\xE1"
+      - denominaremos
+      - "denominar\xE9is"
+      - "denominar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "denominar\xEDa"
+      - "denominar\xEDas"
+      - "denominar\xEDa"
+      - "denominar\xEDamos"
+      - "denominar\xEDais"
+      - "denominar\xEDan"
+      cjid: cond
+    - cjfs:
+      - denomine
+      - denomines
+      - denomine
+      - denominemos
+      - "denomin\xE9is"
+      - denominen
+      cjid: psub
+    - cjfs:
+      - denominara
+      - denominaras
+      - denominara
+      - "denomin\xE1ramos"
+      - denominarais
+      - denominaran
+      cjid: pisb1
+    - cjfs:
+      - denominase
+      - denominases
+      - denominase
+      - "denomin\xE1semos"
+      - denominaseis
+      - denominasen
+      cjid: pisb2
+    - cjfs:
+      - denominare
+      - denominares
+      - denominare
+      - "denomin\xE1remos"
+      - denominareis
+      - denominaren
+      cjid: fsub
+    - cjfs:
+      - he denominado
+      - has denominado
+      - ha denominado
+      - hemos denominado
+      - "hab\xE9is denominado"
+      - han denominado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa denominado"
+      - "hab\xEDas denominado"
+      - "hab\xEDa denominado"
+      - "hab\xEDamos denominado"
+      - "hab\xEDais denominado"
+      - "hab\xEDan denominado"
+      cjid: ppsi
+    - cjfs:
+      - hube denominado
+      - hubiste denominado
+      - hubo denominado
+      - hubimos denominado
+      - hubisteis denominado
+      - hubieron denominado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 denominado"
+      - "habr\xE1s denominado"
+      - "habr\xE1 denominado"
+      - habremos denominado
+      - "habr\xE9is denominado"
+      - "habr\xE1n denominado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa denominado"
+      - "habr\xEDas denominado"
+      - "habr\xEDa denominado"
+      - "habr\xEDamos denominado"
+      - "habr\xEDais denominado"
+      - "habr\xEDan denominado"
+      cjid: cpef
+    - cjfs:
+      - haya denominado
+      - hayas denominado
+      - haya denominado
+      - hayamos denominado
+      - "hay\xE1is denominado"
+      - hayan denominado
+      cjid: ppfs
+    - cjfs:
+      - hubiera denominado
+      - hubieras denominado
+      - hubiera denominado
+      - "hubi\xE9ramos denominado"
+      - hubierais denominado
+      - hubieran denominado
+      cjid: ppss1
+    - cjfs:
+      - hubiese denominado
+      - hubieses denominado
+      - hubiese denominado
+      - "hubi\xE9semos denominado"
+      - hubieseis denominado
+      - hubiesen denominado
+      cjid: ppss2
+    - cjfs:
+      - hubiere denominado
+      - hubieres denominado
+      - hubiere denominado
+      - "hubi\xE9remos denominado"
+      - hubiereis denominado
+      - hubieren denominado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - denomina
+      - denomine
+      - denominemos
+      - denominad
+      - denominen
+      cjid: impf

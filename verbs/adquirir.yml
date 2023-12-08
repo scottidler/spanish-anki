@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|acquire}, to {a_link|gain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|comprar||} {bc}to {a_link|purchase}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: adquirir
+    prs:
+    - sound:
+        audio: adqui01sp
+  meta:
+    id: adquirir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600531000'
+    src: spanish
+    stems:
+    - adquirir
+    uuid: 529844e5-fc3a-42b0-a91b-b3db1da5c5a5
+  shortdef:
+  - to acquire, to gain
+  - 'comprar : to purchase'
+  suppl:
+    cjts:
+    - cjfs:
+      - adquiriendo
+      - adquirido
+      cjid: gppt
+    - cjfs:
+      - adquiero
+      - adquieres
+      - adquiere
+      - adquirimos
+      - "adquir\xEDs"
+      - adquieren
+      cjid: pind
+    - cjfs:
+      - "adquir\xEDa"
+      - "adquir\xEDas"
+      - "adquir\xEDa"
+      - "adquir\xEDamos"
+      - "adquir\xEDais"
+      - "adquir\xEDan"
+      cjid: pret
+    - cjfs:
+      - "adquir\xED"
+      - adquiriste
+      - "adquiri\xF3"
+      - adquirimos
+      - adquiristeis
+      - adquirieron
+      cjid: pprf
+    - cjfs:
+      - "adquirir\xE9"
+      - "adquirir\xE1s"
+      - "adquirir\xE1"
+      - adquiriremos
+      - "adquirir\xE9is"
+      - "adquirir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "adquirir\xEDa"
+      - "adquirir\xEDas"
+      - "adquirir\xEDa"
+      - "adquirir\xEDamos"
+      - "adquirir\xEDais"
+      - "adquirir\xEDan"
+      cjid: cond
+    - cjfs:
+      - adquiera
+      - adquieras
+      - adquiera
+      - adquiramos
+      - "adquir\xE1is"
+      - adquieran
+      cjid: psub
+    - cjfs:
+      - adquiriera
+      - adquirieras
+      - adquiriera
+      - "adquiri\xE9ramos"
+      - adquirierais
+      - adquirieran
+      cjid: pisb1
+    - cjfs:
+      - adquiriese
+      - adquirieses
+      - adquiriese
+      - "adquiri\xE9semos"
+      - adquirieseis
+      - adquiriesen
+      cjid: pisb2
+    - cjfs:
+      - adquiriere
+      - adquirieres
+      - adquiriere
+      - "adquiri\xE9remos"
+      - adquiriereis
+      - adquirieren
+      cjid: fsub
+    - cjfs:
+      - he adquirido
+      - has adquirido
+      - ha adquirido
+      - hemos adquirido
+      - "hab\xE9is adquirido"
+      - han adquirido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa adquirido"
+      - "hab\xEDas adquirido"
+      - "hab\xEDa adquirido"
+      - "hab\xEDamos adquirido"
+      - "hab\xEDais adquirido"
+      - "hab\xEDan adquirido"
+      cjid: ppsi
+    - cjfs:
+      - hube adquirido
+      - hubiste adquirido
+      - hubo adquirido
+      - hubimos adquirido
+      - hubisteis adquirido
+      - hubieron adquirido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 adquirido"
+      - "habr\xE1s adquirido"
+      - "habr\xE1 adquirido"
+      - habremos adquirido
+      - "habr\xE9is adquirido"
+      - "habr\xE1n adquirido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa adquirido"
+      - "habr\xEDas adquirido"
+      - "habr\xEDa adquirido"
+      - "habr\xEDamos adquirido"
+      - "habr\xEDais adquirido"
+      - "habr\xEDan adquirido"
+      cjid: cpef
+    - cjfs:
+      - haya adquirido
+      - hayas adquirido
+      - haya adquirido
+      - hayamos adquirido
+      - "hay\xE1is adquirido"
+      - hayan adquirido
+      cjid: ppfs
+    - cjfs:
+      - hubiera adquirido
+      - hubieras adquirido
+      - hubiera adquirido
+      - "hubi\xE9ramos adquirido"
+      - hubierais adquirido
+      - hubieran adquirido
+      cjid: ppss1
+    - cjfs:
+      - hubiese adquirido
+      - hubieses adquirido
+      - hubiese adquirido
+      - "hubi\xE9semos adquirido"
+      - hubieseis adquirido
+      - hubiesen adquirido
+      cjid: ppss2
+    - cjfs:
+      - hubiere adquirido
+      - hubieres adquirido
+      - hubiere adquirido
+      - "hubi\xE9remos adquirido"
+      - hubiereis adquirido
+      - hubieren adquirido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - adquiere
+      - adquiera
+      - adquiramos
+      - adquirid
+      - adquieran
+      cjid: impf

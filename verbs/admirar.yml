@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|admire}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|amaze}, to {a_link|astonish}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be amazed'
+    drp: admirarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: admirar
+    prs:
+    - sound:
+        audio: admir03sp
+  meta:
+    id: admirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600493000'
+    src: spanish
+    stems:
+    - admirar
+    - admirarse
+    uuid: cbea791e-3b70-4b58-a8cc-4eebd768d4e7
+  shortdef:
+  - to admire
+  - to amaze, to astonish
+  suppl:
+    cjts:
+    - cjfs:
+      - admirando
+      - admirado
+      cjid: gppt
+    - cjfs:
+      - admiro
+      - admiras
+      - admira
+      - admiramos
+      - "admir\xE1is"
+      - admiran
+      cjid: pind
+    - cjfs:
+      - admiraba
+      - admirabas
+      - admiraba
+      - "admir\xE1bamos"
+      - admirabais
+      - admiraban
+      cjid: pret
+    - cjfs:
+      - "admir\xE9"
+      - admiraste
+      - "admir\xF3"
+      - admiramos
+      - admirasteis
+      - admiraron
+      cjid: pprf
+    - cjfs:
+      - "admirar\xE9"
+      - "admirar\xE1s"
+      - "admirar\xE1"
+      - admiraremos
+      - "admirar\xE9is"
+      - "admirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "admirar\xEDa"
+      - "admirar\xEDas"
+      - "admirar\xEDa"
+      - "admirar\xEDamos"
+      - "admirar\xEDais"
+      - "admirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - admire
+      - admires
+      - admire
+      - admiremos
+      - "admir\xE9is"
+      - admiren
+      cjid: psub
+    - cjfs:
+      - admirara
+      - admiraras
+      - admirara
+      - "admir\xE1ramos"
+      - admirarais
+      - admiraran
+      cjid: pisb1
+    - cjfs:
+      - admirase
+      - admirases
+      - admirase
+      - "admir\xE1semos"
+      - admiraseis
+      - admirasen
+      cjid: pisb2
+    - cjfs:
+      - admirare
+      - admirares
+      - admirare
+      - "admir\xE1remos"
+      - admirareis
+      - admiraren
+      cjid: fsub
+    - cjfs:
+      - he admirado
+      - has admirado
+      - ha admirado
+      - hemos admirado
+      - "hab\xE9is admirado"
+      - han admirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa admirado"
+      - "hab\xEDas admirado"
+      - "hab\xEDa admirado"
+      - "hab\xEDamos admirado"
+      - "hab\xEDais admirado"
+      - "hab\xEDan admirado"
+      cjid: ppsi
+    - cjfs:
+      - hube admirado
+      - hubiste admirado
+      - hubo admirado
+      - hubimos admirado
+      - hubisteis admirado
+      - hubieron admirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 admirado"
+      - "habr\xE1s admirado"
+      - "habr\xE1 admirado"
+      - habremos admirado
+      - "habr\xE9is admirado"
+      - "habr\xE1n admirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa admirado"
+      - "habr\xEDas admirado"
+      - "habr\xEDa admirado"
+      - "habr\xEDamos admirado"
+      - "habr\xEDais admirado"
+      - "habr\xEDan admirado"
+      cjid: cpef
+    - cjfs:
+      - haya admirado
+      - hayas admirado
+      - haya admirado
+      - hayamos admirado
+      - "hay\xE1is admirado"
+      - hayan admirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera admirado
+      - hubieras admirado
+      - hubiera admirado
+      - "hubi\xE9ramos admirado"
+      - hubierais admirado
+      - hubieran admirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese admirado
+      - hubieses admirado
+      - hubiese admirado
+      - "hubi\xE9semos admirado"
+      - hubieseis admirado
+      - hubiesen admirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere admirado
+      - hubieres admirado
+      - hubiere admirado
+      - "hubi\xE9remos admirado"
+      - hubiereis admirado
+      - hubieren admirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - admira
+      - admire
+      - admiremos
+      - admirad
+      - admiren
+      cjid: impf

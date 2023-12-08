@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|demoler||}, {sx|derribar||} {bc}to {a_link|demolish}, to {a_link|knock
+              down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|despe\xF1ar||} {bc}to cast down, to {a_link|topple}"
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|desplomarse||} {bc}to {a_link|collapse}, to {a_link|break down}'
+    drp: derrumbarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: derrumbar
+  meta:
+    id: derrumbar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606777000'
+    src: spanish
+    stems:
+    - derrumbar
+    - derrumbarse
+    uuid: 960f6d62-db69-44c6-8679-9c97e41e1eb2
+  shortdef:
+  - 'demoler, derribar : to demolish, to knock down'
+  - "despe\xF1ar : to cast down, to topple"
+  suppl:
+    cjts:
+    - cjfs:
+      - derrumbando
+      - derrumbado
+      cjid: gppt
+    - cjfs:
+      - derrumbo
+      - derrumbas
+      - derrumba
+      - derrumbamos
+      - "derrumb\xE1is"
+      - derrumban
+      cjid: pind
+    - cjfs:
+      - derrumbaba
+      - derrumbabas
+      - derrumbaba
+      - "derrumb\xE1bamos"
+      - derrumbabais
+      - derrumbaban
+      cjid: pret
+    - cjfs:
+      - "derrumb\xE9"
+      - derrumbaste
+      - "derrumb\xF3"
+      - derrumbamos
+      - derrumbasteis
+      - derrumbaron
+      cjid: pprf
+    - cjfs:
+      - "derrumbar\xE9"
+      - "derrumbar\xE1s"
+      - "derrumbar\xE1"
+      - derrumbaremos
+      - "derrumbar\xE9is"
+      - "derrumbar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "derrumbar\xEDa"
+      - "derrumbar\xEDas"
+      - "derrumbar\xEDa"
+      - "derrumbar\xEDamos"
+      - "derrumbar\xEDais"
+      - "derrumbar\xEDan"
+      cjid: cond
+    - cjfs:
+      - derrumbe
+      - derrumbes
+      - derrumbe
+      - derrumbemos
+      - "derrumb\xE9is"
+      - derrumben
+      cjid: psub
+    - cjfs:
+      - derrumbara
+      - derrumbaras
+      - derrumbara
+      - "derrumb\xE1ramos"
+      - derrumbarais
+      - derrumbaran
+      cjid: pisb1
+    - cjfs:
+      - derrumbase
+      - derrumbases
+      - derrumbase
+      - "derrumb\xE1semos"
+      - derrumbaseis
+      - derrumbasen
+      cjid: pisb2
+    - cjfs:
+      - derrumbare
+      - derrumbares
+      - derrumbare
+      - "derrumb\xE1remos"
+      - derrumbareis
+      - derrumbaren
+      cjid: fsub
+    - cjfs:
+      - he derrumbado
+      - has derrumbado
+      - ha derrumbado
+      - hemos derrumbado
+      - "hab\xE9is derrumbado"
+      - han derrumbado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa derrumbado"
+      - "hab\xEDas derrumbado"
+      - "hab\xEDa derrumbado"
+      - "hab\xEDamos derrumbado"
+      - "hab\xEDais derrumbado"
+      - "hab\xEDan derrumbado"
+      cjid: ppsi
+    - cjfs:
+      - hube derrumbado
+      - hubiste derrumbado
+      - hubo derrumbado
+      - hubimos derrumbado
+      - hubisteis derrumbado
+      - hubieron derrumbado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 derrumbado"
+      - "habr\xE1s derrumbado"
+      - "habr\xE1 derrumbado"
+      - habremos derrumbado
+      - "habr\xE9is derrumbado"
+      - "habr\xE1n derrumbado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa derrumbado"
+      - "habr\xEDas derrumbado"
+      - "habr\xEDa derrumbado"
+      - "habr\xEDamos derrumbado"
+      - "habr\xEDais derrumbado"
+      - "habr\xEDan derrumbado"
+      cjid: cpef
+    - cjfs:
+      - haya derrumbado
+      - hayas derrumbado
+      - haya derrumbado
+      - hayamos derrumbado
+      - "hay\xE1is derrumbado"
+      - hayan derrumbado
+      cjid: ppfs
+    - cjfs:
+      - hubiera derrumbado
+      - hubieras derrumbado
+      - hubiera derrumbado
+      - "hubi\xE9ramos derrumbado"
+      - hubierais derrumbado
+      - hubieran derrumbado
+      cjid: ppss1
+    - cjfs:
+      - hubiese derrumbado
+      - hubieses derrumbado
+      - hubiese derrumbado
+      - "hubi\xE9semos derrumbado"
+      - hubieseis derrumbado
+      - hubiesen derrumbado
+      cjid: ppss2
+    - cjfs:
+      - hubiere derrumbado
+      - hubieres derrumbado
+      - hubiere derrumbado
+      - "hubi\xE9remos derrumbado"
+      - hubiereis derrumbado
+      - hubieren derrumbado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - derrumba
+      - derrumbe
+      - derrumbemos
+      - derrumbad
+      - derrumben
+      cjid: impf

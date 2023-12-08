@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|guarantee}'
+  fl: transitive verb
+  hwi:
+    hw: garantizar
+    prs:
+    - sound:
+        audio: garan02sp
+  meta:
+    id: garantizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610670000'
+    src: spanish
+    stems:
+    - garantizar
+    uuid: 1fe4f534-daf6-46a8-a0b4-3538e0e68ec4
+  shortdef:
+  - to guarantee
+  suppl:
+    cjts:
+    - cjfs:
+      - garantizando
+      - garantizado
+      cjid: gppt
+    - cjfs:
+      - garantizo
+      - garantizas
+      - garantiza
+      - garantizamos
+      - "garantiz\xE1is"
+      - garantizan
+      cjid: pind
+    - cjfs:
+      - garantizaba
+      - garantizabas
+      - garantizaba
+      - "garantiz\xE1bamos"
+      - garantizabais
+      - garantizaban
+      cjid: pret
+    - cjfs:
+      - "garantic\xE9"
+      - garantizaste
+      - "garantiz\xF3"
+      - garantizamos
+      - garantizasteis
+      - garantizaron
+      cjid: pprf
+    - cjfs:
+      - "garantizar\xE9"
+      - "garantizar\xE1s"
+      - "garantizar\xE1"
+      - garantizaremos
+      - "garantizar\xE9is"
+      - "garantizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "garantizar\xEDa"
+      - "garantizar\xEDas"
+      - "garantizar\xEDa"
+      - "garantizar\xEDamos"
+      - "garantizar\xEDais"
+      - "garantizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - garantice
+      - garantices
+      - garantice
+      - garanticemos
+      - "garantic\xE9is"
+      - garanticen
+      cjid: psub
+    - cjfs:
+      - garantizara
+      - garantizaras
+      - garantizara
+      - "garantiz\xE1ramos"
+      - garantizarais
+      - garantizaran
+      cjid: pisb1
+    - cjfs:
+      - garantizase
+      - garantizases
+      - garantizase
+      - "garantiz\xE1semos"
+      - garantizaseis
+      - garantizasen
+      cjid: pisb2
+    - cjfs:
+      - garantizare
+      - garantizares
+      - garantizare
+      - "garantiz\xE1remos"
+      - garantizareis
+      - garantizaren
+      cjid: fsub
+    - cjfs:
+      - he garantizado
+      - has garantizado
+      - ha garantizado
+      - hemos garantizado
+      - "hab\xE9is garantizado"
+      - han garantizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa garantizado"
+      - "hab\xEDas garantizado"
+      - "hab\xEDa garantizado"
+      - "hab\xEDamos garantizado"
+      - "hab\xEDais garantizado"
+      - "hab\xEDan garantizado"
+      cjid: ppsi
+    - cjfs:
+      - hube garantizado
+      - hubiste garantizado
+      - hubo garantizado
+      - hubimos garantizado
+      - hubisteis garantizado
+      - hubieron garantizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 garantizado"
+      - "habr\xE1s garantizado"
+      - "habr\xE1 garantizado"
+      - habremos garantizado
+      - "habr\xE9is garantizado"
+      - "habr\xE1n garantizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa garantizado"
+      - "habr\xEDas garantizado"
+      - "habr\xEDa garantizado"
+      - "habr\xEDamos garantizado"
+      - "habr\xEDais garantizado"
+      - "habr\xEDan garantizado"
+      cjid: cpef
+    - cjfs:
+      - haya garantizado
+      - hayas garantizado
+      - haya garantizado
+      - hayamos garantizado
+      - "hay\xE1is garantizado"
+      - hayan garantizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera garantizado
+      - hubieras garantizado
+      - hubiera garantizado
+      - "hubi\xE9ramos garantizado"
+      - hubierais garantizado
+      - hubieran garantizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese garantizado
+      - hubieses garantizado
+      - hubiese garantizado
+      - "hubi\xE9semos garantizado"
+      - hubieseis garantizado
+      - hubiesen garantizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere garantizado
+      - hubieres garantizado
+      - hubiere garantizado
+      - "hubi\xE9remos garantizado"
+      - hubiereis garantizado
+      - hubieren garantizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - garantiza
+      - garantice
+      - garanticemos
+      - garantizad
+      - garanticen
+      cjid: impf

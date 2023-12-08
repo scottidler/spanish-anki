@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mumble}, to {a_link|murmur}'
+  fl: transitive verb
+  hwi:
+    hw: musitar
+  meta:
+    id: musitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615530000'
+    src: spanish
+    stems:
+    - musitar
+    uuid: f3d06448-23ca-4e43-90c9-66b5c016f7d7
+  shortdef:
+  - to mumble, to murmur
+  suppl:
+    cjts:
+    - cjfs:
+      - musitando
+      - musitado
+      cjid: gppt
+    - cjfs:
+      - musito
+      - musitas
+      - musita
+      - musitamos
+      - "musit\xE1is"
+      - musitan
+      cjid: pind
+    - cjfs:
+      - musitaba
+      - musitabas
+      - musitaba
+      - "musit\xE1bamos"
+      - musitabais
+      - musitaban
+      cjid: pret
+    - cjfs:
+      - "musit\xE9"
+      - musitaste
+      - "musit\xF3"
+      - musitamos
+      - musitasteis
+      - musitaron
+      cjid: pprf
+    - cjfs:
+      - "musitar\xE9"
+      - "musitar\xE1s"
+      - "musitar\xE1"
+      - musitaremos
+      - "musitar\xE9is"
+      - "musitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "musitar\xEDa"
+      - "musitar\xEDas"
+      - "musitar\xEDa"
+      - "musitar\xEDamos"
+      - "musitar\xEDais"
+      - "musitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - musite
+      - musites
+      - musite
+      - musitemos
+      - "musit\xE9is"
+      - musiten
+      cjid: psub
+    - cjfs:
+      - musitara
+      - musitaras
+      - musitara
+      - "musit\xE1ramos"
+      - musitarais
+      - musitaran
+      cjid: pisb1
+    - cjfs:
+      - musitase
+      - musitases
+      - musitase
+      - "musit\xE1semos"
+      - musitaseis
+      - musitasen
+      cjid: pisb2
+    - cjfs:
+      - musitare
+      - musitares
+      - musitare
+      - "musit\xE1remos"
+      - musitareis
+      - musitaren
+      cjid: fsub
+    - cjfs:
+      - he musitado
+      - has musitado
+      - ha musitado
+      - hemos musitado
+      - "hab\xE9is musitado"
+      - han musitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa musitado"
+      - "hab\xEDas musitado"
+      - "hab\xEDa musitado"
+      - "hab\xEDamos musitado"
+      - "hab\xEDais musitado"
+      - "hab\xEDan musitado"
+      cjid: ppsi
+    - cjfs:
+      - hube musitado
+      - hubiste musitado
+      - hubo musitado
+      - hubimos musitado
+      - hubisteis musitado
+      - hubieron musitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 musitado"
+      - "habr\xE1s musitado"
+      - "habr\xE1 musitado"
+      - habremos musitado
+      - "habr\xE9is musitado"
+      - "habr\xE1n musitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa musitado"
+      - "habr\xEDas musitado"
+      - "habr\xEDa musitado"
+      - "habr\xEDamos musitado"
+      - "habr\xEDais musitado"
+      - "habr\xEDan musitado"
+      cjid: cpef
+    - cjfs:
+      - haya musitado
+      - hayas musitado
+      - haya musitado
+      - hayamos musitado
+      - "hay\xE1is musitado"
+      - hayan musitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera musitado
+      - hubieras musitado
+      - hubiera musitado
+      - "hubi\xE9ramos musitado"
+      - hubierais musitado
+      - hubieran musitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese musitado
+      - hubieses musitado
+      - hubiese musitado
+      - "hubi\xE9semos musitado"
+      - hubieseis musitado
+      - hubiesen musitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere musitado
+      - hubieres musitado
+      - hubiere musitado
+      - "hubi\xE9remos musitado"
+      - hubiereis musitado
+      - hubieren musitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - musita
+      - musite
+      - musitemos
+      - musitad
+      - musiten
+      cjid: impf

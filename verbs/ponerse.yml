@@ -1,0 +1,476 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|colocar||} {bc}to {a_link|put}, to {a_link|place} '
+          - - vis
+            - - t: pon el libro en la mesa
+                tr: put the book on the table
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|agregar||}, {sx|a\xF1adir||} {bc}to {a_link|put in}, to {a_link|add}\
+              \ (an ingredient, etc.)"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put on} (clothes) '
+          - - vis
+            - - t: "le puse el su\xE9ter"
+                tr: I put her sweater on (her)
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|contribuir||} {bc}to {a_link|contribute}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|escribir||} {bc}to put in writing '
+          - - vis
+            - - t: no le puso su nombre
+                tr: he didn't put his name on it
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a task, etc.), to {a_link|impose} (a fine)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prepare}, to {a_link|arrange} '
+          - - vis
+            - - t: poner la mesa
+                tr: to set the table
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|name} '
+          - - vis
+            - - t: le pusimos Ana
+                tr: we called her Ana
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|establecer||} {bc}to {a_link|set up}, to {a_link|establish} '
+          - - vis
+            - - t: puso un restaurante
+                tr: he opened up a restaurant
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|instalar||} {bc}to {a_link|install}, to {a_link|put in}'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make} '
+          - - vis
+            - - t: me pone nervioso
+                tr: it makes me nervous
+              - t: siempre lo pones de mal humor
+                tr: you always put him in a bad mood
+          sls:
+          - (with an adjective or adverb)
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn on}, to {a_link|switch on}'
+          sn: '12'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|set} (an alarm, etc.) '
+          - - vis
+            - - t: "pon la m\xFAsica m\xE1s alta/fuerte"
+                tr: turn up the music
+          sn: '13'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|suponer||} {bc}to {a_link|suppose} '
+          - - vis
+            - - t: pongamos que no viene
+                tr: supposing he doesn't come
+          sn: '14'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (an example)'
+          sn: '15'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|raise} (objections), to {a_link|create} (problems, etc.)'
+          sn: '16'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lay} (eggs)'
+          sn: '17'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|start} (someone doing something) '
+          - - vis
+            - - t: lo puse a trabajar
+                tr: I put him to work
+          sn: '18'
+          vrs:
+          - va: poner a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to place as '
+          - - vis
+            - - t: la pusieron de directora
+                tr: they made her director
+          sn: '19'
+          vrs:
+          - va: poner de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put in} (a state or condition) '
+          - - vis
+            - - t: poner en duda
+                tr: to call into question
+              - t: lo puso en peligro
+                tr: she put him in danger
+          sn: '20'
+          vrs:
+          - va: poner en
+            vac: ~ en
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|contribute}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lay eggs}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|move} (into a position) '
+            - - vis
+              - - t: ponerse de pie
+                  tr: to stand up
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|put on}, to {a_link|wear}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|become}, to {a_link|turn} '
+            - - vis
+              - - t: se puso colorado
+                  tr: he turned red
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|start} '
+            - - vis
+              - - t: me puse a llorar
+                  tr: I started to cry
+            sn: '4'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|set} (of the sun or moon)'
+            sn: '5'
+    drp: ponerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: poner
+    prs:
+    - sound:
+        audio: poner01sp
+  meta:
+    id: poner
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617720000'
+    src: spanish
+    stems:
+    - poner
+    - poner a
+    - poner de
+    - poner en
+    - ponerse
+    uuid: e56d685f-f239-4274-b4bd-a60a71fbd8a8
+  shortdef:
+  - 'colocar : to put, to place'
+  - "agregar, a\xF1adir : to put in, to add (an ingredient, etc.)"
+  - to put on (clothes)
+  suppl:
+    cjts:
+    - cjfs:
+      - poniendo
+      - puesto
+      cjid: gppt
+    - cjfs:
+      - pongo
+      - pones
+      - pone
+      - ponemos
+      - "pon\xE9is"
+      - ponen
+      cjid: pind
+    - cjfs:
+      - "pon\xEDa"
+      - "pon\xEDas"
+      - "pon\xEDa"
+      - "pon\xEDamos"
+      - "pon\xEDais"
+      - "pon\xEDan"
+      cjid: pret
+    - cjfs:
+      - puse
+      - pusiste
+      - puso
+      - pusimos
+      - pusisteis
+      - pusieron
+      cjid: pprf
+    - cjfs:
+      - "pondr\xE9"
+      - "pondr\xE1s"
+      - "pondr\xE1"
+      - pondremos
+      - "pondr\xE9is"
+      - "pondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pondr\xEDa"
+      - "pondr\xEDas"
+      - "pondr\xEDa"
+      - "pondr\xEDamos"
+      - "pondr\xEDais"
+      - "pondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - ponga
+      - pongas
+      - ponga
+      - pongamos
+      - "pong\xE1is"
+      - pongan
+      cjid: psub
+    - cjfs:
+      - pusiera
+      - pusieras
+      - pusiera
+      - "pusi\xE9ramos"
+      - pusierais
+      - pusieran
+      cjid: pisb1
+    - cjfs:
+      - pusiese
+      - pusieses
+      - pusiese
+      - "pusi\xE9semos"
+      - pusieseis
+      - pusiesen
+      cjid: pisb2
+    - cjfs:
+      - pusiere
+      - pusieres
+      - pusiere
+      - "pusi\xE9remos"
+      - pusiereis
+      - pusieren
+      cjid: fsub
+    - cjfs:
+      - he puesto
+      - has puesto
+      - ha puesto
+      - hemos puesto
+      - "hab\xE9is puesto"
+      - han puesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa puesto"
+      - "hab\xEDas puesto"
+      - "hab\xEDa puesto"
+      - "hab\xEDamos puesto"
+      - "hab\xEDais puesto"
+      - "hab\xEDan puesto"
+      cjid: ppsi
+    - cjfs:
+      - hube puesto
+      - hubiste puesto
+      - hubo puesto
+      - hubimos puesto
+      - hubisteis puesto
+      - hubieron puesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 puesto"
+      - "habr\xE1s puesto"
+      - "habr\xE1 puesto"
+      - habremos puesto
+      - "habr\xE9is puesto"
+      - "habr\xE1n puesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa puesto"
+      - "habr\xEDas puesto"
+      - "habr\xEDa puesto"
+      - "habr\xEDamos puesto"
+      - "habr\xEDais puesto"
+      - "habr\xEDan puesto"
+      cjid: cpef
+    - cjfs:
+      - haya puesto
+      - hayas puesto
+      - haya puesto
+      - hayamos puesto
+      - "hay\xE1is puesto"
+      - hayan puesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera puesto
+      - hubieras puesto
+      - hubiera puesto
+      - "hubi\xE9ramos puesto"
+      - hubierais puesto
+      - hubieran puesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese puesto
+      - hubieses puesto
+      - hubiese puesto
+      - "hubi\xE9semos puesto"
+      - hubieseis puesto
+      - hubiesen puesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere puesto
+      - hubieres puesto
+      - hubiere puesto
+      - "hubi\xE9remos puesto"
+      - hubiereis puesto
+      - hubieren puesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pon
+      - ponga
+      - pongamos
+      - poned
+      - pongan
+      cjid: impf
+- ahws:
+  - hw: colorada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rojo||} {bc}{a_link|red}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blush}'
+          sn: '2'
+          vrs:
+          - va: ponerse colorado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}off-color joke'
+          sls:
+          - Mexico
+          sn: '3'
+          vrs:
+          - va: chiste colorado
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: colorado
+    prs:
+    - sound:
+        audio: color01sp
+  meta:
+    id: colorado:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605103000'
+    src: spanish
+    stems:
+    - colorado
+    - colorada
+    - ponerse colorado
+    - chiste colorado
+    uuid: 1a2b5965-2107-4ce6-a38d-26ae9e397c51
+  shortdef:
+  - 'rojo : red'
+  - to blush
+  - off-color joke
+- ahws:
+  - hw: roja
+    hwc: -ja
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|red}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blush}'
+          sn: '2'
+          vrs:
+          - va: ponerse rojo
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: rojo
+    prs:
+    - sound:
+        audio: rojo001sp
+  meta:
+    id: rojo:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619898000'
+    src: spanish
+    stems:
+    - rojo
+    - roja
+    - ponerse rojo
+    uuid: 5c00b8f0-dcde-4a3a-9be3-0e626ce0a3be
+  shortdef:
+  - red
+  - to blush

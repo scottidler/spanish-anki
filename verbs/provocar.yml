@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|causar||} {bc}to {a_link|provoke}, to {a_link|cause}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|irritar||} {bc}to {a_link|provoke}, to {a_link|pique}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arouse} (sexually)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apetecer||} {bc}to {a_link|appeal to} '
+          - - vis
+            - - t: "\xBFqu\xE9 te provoca comer?"
+                tr: what would you like to eat?
+          sls:
+          - Colombia, Peru, Venezuela familiar
+          sn: '4'
+  fl: transitive verb
+  hwi:
+    hw: provocar
+    prs:
+    - sound:
+        audio: provo01sp
+  meta:
+    id: provocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618376000'
+    src: spanish
+    stems:
+    - provocar
+    uuid: 9861b020-8c1a-4b21-9185-bc9608f68147
+  shortdef:
+  - 'causar : to provoke, to cause'
+  - 'irritar : to provoke, to pique'
+  - to arouse (sexually)
+  suppl:
+    cjts:
+    - cjfs:
+      - provocando
+      - provocado
+      cjid: gppt
+    - cjfs:
+      - provoco
+      - provocas
+      - provoca
+      - provocamos
+      - "provoc\xE1is"
+      - provocan
+      cjid: pind
+    - cjfs:
+      - provocaba
+      - provocabas
+      - provocaba
+      - "provoc\xE1bamos"
+      - provocabais
+      - provocaban
+      cjid: pret
+    - cjfs:
+      - "provoqu\xE9"
+      - provocaste
+      - "provoc\xF3"
+      - provocamos
+      - provocasteis
+      - provocaron
+      cjid: pprf
+    - cjfs:
+      - "provocar\xE9"
+      - "provocar\xE1s"
+      - "provocar\xE1"
+      - provocaremos
+      - "provocar\xE9is"
+      - "provocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "provocar\xEDa"
+      - "provocar\xEDas"
+      - "provocar\xEDa"
+      - "provocar\xEDamos"
+      - "provocar\xEDais"
+      - "provocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - provoque
+      - provoques
+      - provoque
+      - provoquemos
+      - "provoqu\xE9is"
+      - provoquen
+      cjid: psub
+    - cjfs:
+      - provocara
+      - provocaras
+      - provocara
+      - "provoc\xE1ramos"
+      - provocarais
+      - provocaran
+      cjid: pisb1
+    - cjfs:
+      - provocase
+      - provocases
+      - provocase
+      - "provoc\xE1semos"
+      - provocaseis
+      - provocasen
+      cjid: pisb2
+    - cjfs:
+      - provocare
+      - provocares
+      - provocare
+      - "provoc\xE1remos"
+      - provocareis
+      - provocaren
+      cjid: fsub
+    - cjfs:
+      - he provocado
+      - has provocado
+      - ha provocado
+      - hemos provocado
+      - "hab\xE9is provocado"
+      - han provocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa provocado"
+      - "hab\xEDas provocado"
+      - "hab\xEDa provocado"
+      - "hab\xEDamos provocado"
+      - "hab\xEDais provocado"
+      - "hab\xEDan provocado"
+      cjid: ppsi
+    - cjfs:
+      - hube provocado
+      - hubiste provocado
+      - hubo provocado
+      - hubimos provocado
+      - hubisteis provocado
+      - hubieron provocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 provocado"
+      - "habr\xE1s provocado"
+      - "habr\xE1 provocado"
+      - habremos provocado
+      - "habr\xE9is provocado"
+      - "habr\xE1n provocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa provocado"
+      - "habr\xEDas provocado"
+      - "habr\xEDa provocado"
+      - "habr\xEDamos provocado"
+      - "habr\xEDais provocado"
+      - "habr\xEDan provocado"
+      cjid: cpef
+    - cjfs:
+      - haya provocado
+      - hayas provocado
+      - haya provocado
+      - hayamos provocado
+      - "hay\xE1is provocado"
+      - hayan provocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera provocado
+      - hubieras provocado
+      - hubiera provocado
+      - "hubi\xE9ramos provocado"
+      - hubierais provocado
+      - hubieran provocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese provocado
+      - hubieses provocado
+      - hubiese provocado
+      - "hubi\xE9semos provocado"
+      - hubieseis provocado
+      - hubiesen provocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere provocado
+      - hubieres provocado
+      - hubiere provocado
+      - "hubi\xE9remos provocado"
+      - hubiereis provocado
+      - hubieren provocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - provoca
+      - provoque
+      - provoquemos
+      - provocad
+      - provoquen
+      cjid: impf

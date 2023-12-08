@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|confortar||} {bc}to {a_link|console}, to {a_link|comfort}'
+  fl: transitive verb
+  hwi:
+    hw: consolar
+    prs:
+    - sound:
+        audio: conso01sp
+  meta:
+    id: consolar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605600000'
+    src: spanish
+    stems:
+    - consolar
+    uuid: b374e870-21de-4360-8761-fd72a9dfd498
+  shortdef:
+  - 'confortar : to console, to comfort'
+  suppl:
+    cjts:
+    - cjfs:
+      - consolando
+      - consolado
+      cjid: gppt
+    - cjfs:
+      - consuelo
+      - consuelas
+      - consuela
+      - consolamos
+      - "consol\xE1is"
+      - consuelan
+      cjid: pind
+    - cjfs:
+      - consolaba
+      - consolabas
+      - consolaba
+      - "consol\xE1bamos"
+      - consolabais
+      - consolaban
+      cjid: pret
+    - cjfs:
+      - "consol\xE9"
+      - consolaste
+      - "consol\xF3"
+      - consolamos
+      - consolasteis
+      - consolaron
+      cjid: pprf
+    - cjfs:
+      - "consolar\xE9"
+      - "consolar\xE1s"
+      - "consolar\xE1"
+      - consolaremos
+      - "consolar\xE9is"
+      - "consolar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "consolar\xEDa"
+      - "consolar\xEDas"
+      - "consolar\xEDa"
+      - "consolar\xEDamos"
+      - "consolar\xEDais"
+      - "consolar\xEDan"
+      cjid: cond
+    - cjfs:
+      - consuele
+      - consueles
+      - consuele
+      - consolemos
+      - "consol\xE9is"
+      - consuelen
+      cjid: psub
+    - cjfs:
+      - consolara
+      - consolaras
+      - consolara
+      - "consol\xE1ramos"
+      - consolarais
+      - consolaran
+      cjid: pisb1
+    - cjfs:
+      - consolase
+      - consolases
+      - consolase
+      - "consol\xE1semos"
+      - consolaseis
+      - consolasen
+      cjid: pisb2
+    - cjfs:
+      - consolare
+      - consolares
+      - consolare
+      - "consol\xE1remos"
+      - consolareis
+      - consolaren
+      cjid: fsub
+    - cjfs:
+      - he consolado
+      - has consolado
+      - ha consolado
+      - hemos consolado
+      - "hab\xE9is consolado"
+      - han consolado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa consolado"
+      - "hab\xEDas consolado"
+      - "hab\xEDa consolado"
+      - "hab\xEDamos consolado"
+      - "hab\xEDais consolado"
+      - "hab\xEDan consolado"
+      cjid: ppsi
+    - cjfs:
+      - hube consolado
+      - hubiste consolado
+      - hubo consolado
+      - hubimos consolado
+      - hubisteis consolado
+      - hubieron consolado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 consolado"
+      - "habr\xE1s consolado"
+      - "habr\xE1 consolado"
+      - habremos consolado
+      - "habr\xE9is consolado"
+      - "habr\xE1n consolado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa consolado"
+      - "habr\xEDas consolado"
+      - "habr\xEDa consolado"
+      - "habr\xEDamos consolado"
+      - "habr\xEDais consolado"
+      - "habr\xEDan consolado"
+      cjid: cpef
+    - cjfs:
+      - haya consolado
+      - hayas consolado
+      - haya consolado
+      - hayamos consolado
+      - "hay\xE1is consolado"
+      - hayan consolado
+      cjid: ppfs
+    - cjfs:
+      - hubiera consolado
+      - hubieras consolado
+      - hubiera consolado
+      - "hubi\xE9ramos consolado"
+      - hubierais consolado
+      - hubieran consolado
+      cjid: ppss1
+    - cjfs:
+      - hubiese consolado
+      - hubieses consolado
+      - hubiese consolado
+      - "hubi\xE9semos consolado"
+      - hubieseis consolado
+      - hubiesen consolado
+      cjid: ppss2
+    - cjfs:
+      - hubiere consolado
+      - hubieres consolado
+      - hubiere consolado
+      - "hubi\xE9remos consolado"
+      - hubiereis consolado
+      - hubieren consolado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - consuela
+      - consuele
+      - consolemos
+      - consolad
+      - consuelen
+      cjid: impf

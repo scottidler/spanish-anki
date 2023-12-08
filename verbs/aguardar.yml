@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|esperar||} {bc}to {a_link|wait for}, to {a_link|await}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in store'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: aguardar
+    prs:
+    - sound:
+        audio: aguar01sp
+  meta:
+    id: aguardar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600760000'
+    src: spanish
+    stems:
+    - aguardar
+    uuid: 86bcbbae-3933-4489-a7d3-bf8c00eefb32
+  shortdef:
+  - 'esperar : to wait for, to await'
+  - to be in store
+  suppl:
+    cjts:
+    - cjfs:
+      - aguardando
+      - aguardado
+      cjid: gppt
+    - cjfs:
+      - aguardo
+      - aguardas
+      - aguarda
+      - aguardamos
+      - "aguard\xE1is"
+      - aguardan
+      cjid: pind
+    - cjfs:
+      - aguardaba
+      - aguardabas
+      - aguardaba
+      - "aguard\xE1bamos"
+      - aguardabais
+      - aguardaban
+      cjid: pret
+    - cjfs:
+      - "aguard\xE9"
+      - aguardaste
+      - "aguard\xF3"
+      - aguardamos
+      - aguardasteis
+      - aguardaron
+      cjid: pprf
+    - cjfs:
+      - "aguardar\xE9"
+      - "aguardar\xE1s"
+      - "aguardar\xE1"
+      - aguardaremos
+      - "aguardar\xE9is"
+      - "aguardar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aguardar\xEDa"
+      - "aguardar\xEDas"
+      - "aguardar\xEDa"
+      - "aguardar\xEDamos"
+      - "aguardar\xEDais"
+      - "aguardar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aguarde
+      - aguardes
+      - aguarde
+      - aguardemos
+      - "aguard\xE9is"
+      - aguarden
+      cjid: psub
+    - cjfs:
+      - aguardara
+      - aguardaras
+      - aguardara
+      - "aguard\xE1ramos"
+      - aguardarais
+      - aguardaran
+      cjid: pisb1
+    - cjfs:
+      - aguardase
+      - aguardases
+      - aguardase
+      - "aguard\xE1semos"
+      - aguardaseis
+      - aguardasen
+      cjid: pisb2
+    - cjfs:
+      - aguardare
+      - aguardares
+      - aguardare
+      - "aguard\xE1remos"
+      - aguardareis
+      - aguardaren
+      cjid: fsub
+    - cjfs:
+      - he aguardado
+      - has aguardado
+      - ha aguardado
+      - hemos aguardado
+      - "hab\xE9is aguardado"
+      - han aguardado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aguardado"
+      - "hab\xEDas aguardado"
+      - "hab\xEDa aguardado"
+      - "hab\xEDamos aguardado"
+      - "hab\xEDais aguardado"
+      - "hab\xEDan aguardado"
+      cjid: ppsi
+    - cjfs:
+      - hube aguardado
+      - hubiste aguardado
+      - hubo aguardado
+      - hubimos aguardado
+      - hubisteis aguardado
+      - hubieron aguardado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aguardado"
+      - "habr\xE1s aguardado"
+      - "habr\xE1 aguardado"
+      - habremos aguardado
+      - "habr\xE9is aguardado"
+      - "habr\xE1n aguardado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aguardado"
+      - "habr\xEDas aguardado"
+      - "habr\xEDa aguardado"
+      - "habr\xEDamos aguardado"
+      - "habr\xEDais aguardado"
+      - "habr\xEDan aguardado"
+      cjid: cpef
+    - cjfs:
+      - haya aguardado
+      - hayas aguardado
+      - haya aguardado
+      - hayamos aguardado
+      - "hay\xE1is aguardado"
+      - hayan aguardado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aguardado
+      - hubieras aguardado
+      - hubiera aguardado
+      - "hubi\xE9ramos aguardado"
+      - hubierais aguardado
+      - hubieran aguardado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aguardado
+      - hubieses aguardado
+      - hubiese aguardado
+      - "hubi\xE9semos aguardado"
+      - hubieseis aguardado
+      - hubiesen aguardado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aguardado
+      - hubieres aguardado
+      - hubiere aguardado
+      - "hubi\xE9remos aguardado"
+      - hubiereis aguardado
+      - hubieren aguardado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aguarda
+      - aguarde
+      - aguardemos
+      - aguardad
+      - aguarden
+      cjid: impf

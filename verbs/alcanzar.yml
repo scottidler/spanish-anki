@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reach}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to catch up with'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|lograr||} {bc}to {a_link|achieve}, to {a_link|attain}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|dar||} {bc}to {a_link|suffice}, to be enough'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to manage to'
+          sn: '2'
+          vrs:
+          - va: alcanzar a
+            vac: ~ a
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: alcanzar
+    prs:
+    - sound:
+        audio: alcan05sp
+  meta:
+    id: alcanzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600906000'
+    src: spanish
+    stems:
+    - alcanzar
+    - alcanzar a
+    uuid: 3259e889-a46e-4505-a5d9-a5b7e05a8d1b
+  shortdef:
+  - to reach
+  - to catch up with
+  - 'lograr : to achieve, to attain'
+  suppl:
+    cjts:
+    - cjfs:
+      - alcanzando
+      - alcanzado
+      cjid: gppt
+    - cjfs:
+      - alcanzo
+      - alcanzas
+      - alcanza
+      - alcanzamos
+      - "alcanz\xE1is"
+      - alcanzan
+      cjid: pind
+    - cjfs:
+      - alcanzaba
+      - alcanzabas
+      - alcanzaba
+      - "alcanz\xE1bamos"
+      - alcanzabais
+      - alcanzaban
+      cjid: pret
+    - cjfs:
+      - "alcanc\xE9"
+      - alcanzaste
+      - "alcanz\xF3"
+      - alcanzamos
+      - alcanzasteis
+      - alcanzaron
+      cjid: pprf
+    - cjfs:
+      - "alcanzar\xE9"
+      - "alcanzar\xE1s"
+      - "alcanzar\xE1"
+      - alcanzaremos
+      - "alcanzar\xE9is"
+      - "alcanzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alcanzar\xEDa"
+      - "alcanzar\xEDas"
+      - "alcanzar\xEDa"
+      - "alcanzar\xEDamos"
+      - "alcanzar\xEDais"
+      - "alcanzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alcance
+      - alcances
+      - alcance
+      - alcancemos
+      - "alcanc\xE9is"
+      - alcancen
+      cjid: psub
+    - cjfs:
+      - alcanzara
+      - alcanzaras
+      - alcanzara
+      - "alcanz\xE1ramos"
+      - alcanzarais
+      - alcanzaran
+      cjid: pisb1
+    - cjfs:
+      - alcanzase
+      - alcanzases
+      - alcanzase
+      - "alcanz\xE1semos"
+      - alcanzaseis
+      - alcanzasen
+      cjid: pisb2
+    - cjfs:
+      - alcanzare
+      - alcanzares
+      - alcanzare
+      - "alcanz\xE1remos"
+      - alcanzareis
+      - alcanzaren
+      cjid: fsub
+    - cjfs:
+      - he alcanzado
+      - has alcanzado
+      - ha alcanzado
+      - hemos alcanzado
+      - "hab\xE9is alcanzado"
+      - han alcanzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alcanzado"
+      - "hab\xEDas alcanzado"
+      - "hab\xEDa alcanzado"
+      - "hab\xEDamos alcanzado"
+      - "hab\xEDais alcanzado"
+      - "hab\xEDan alcanzado"
+      cjid: ppsi
+    - cjfs:
+      - hube alcanzado
+      - hubiste alcanzado
+      - hubo alcanzado
+      - hubimos alcanzado
+      - hubisteis alcanzado
+      - hubieron alcanzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alcanzado"
+      - "habr\xE1s alcanzado"
+      - "habr\xE1 alcanzado"
+      - habremos alcanzado
+      - "habr\xE9is alcanzado"
+      - "habr\xE1n alcanzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alcanzado"
+      - "habr\xEDas alcanzado"
+      - "habr\xEDa alcanzado"
+      - "habr\xEDamos alcanzado"
+      - "habr\xEDais alcanzado"
+      - "habr\xEDan alcanzado"
+      cjid: cpef
+    - cjfs:
+      - haya alcanzado
+      - hayas alcanzado
+      - haya alcanzado
+      - hayamos alcanzado
+      - "hay\xE1is alcanzado"
+      - hayan alcanzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alcanzado
+      - hubieras alcanzado
+      - hubiera alcanzado
+      - "hubi\xE9ramos alcanzado"
+      - hubierais alcanzado
+      - hubieran alcanzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alcanzado
+      - hubieses alcanzado
+      - hubiese alcanzado
+      - "hubi\xE9semos alcanzado"
+      - hubieseis alcanzado
+      - hubiesen alcanzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alcanzado
+      - hubieres alcanzado
+      - hubiere alcanzado
+      - "hubi\xE9remos alcanzado"
+      - hubiereis alcanzado
+      - hubieren alcanzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alcanza
+      - alcance
+      - alcancemos
+      - alcanzad
+      - alcancen
+      cjid: impf

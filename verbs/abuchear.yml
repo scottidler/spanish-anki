@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|boo}, to {a_link|jeer}'
+  fl: transitive verb
+  hwi:
+    hw: abuchear
+  meta:
+    id: abuchear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600147000'
+    src: spanish
+    stems:
+    - abuchear
+    uuid: e3097339-07cc-4fe0-b321-1d348cf72395
+  shortdef:
+  - to boo, to jeer
+  suppl:
+    cjts:
+    - cjfs:
+      - abucheando
+      - abucheado
+      cjid: gppt
+    - cjfs:
+      - abucheo
+      - abucheas
+      - abuchea
+      - abucheamos
+      - "abuche\xE1is"
+      - abuchean
+      cjid: pind
+    - cjfs:
+      - abucheaba
+      - abucheabas
+      - abucheaba
+      - "abuche\xE1bamos"
+      - abucheabais
+      - abucheaban
+      cjid: pret
+    - cjfs:
+      - "abuche\xE9"
+      - abucheaste
+      - "abuche\xF3"
+      - abucheamos
+      - abucheasteis
+      - abuchearon
+      cjid: pprf
+    - cjfs:
+      - "abuchear\xE9"
+      - "abuchear\xE1s"
+      - "abuchear\xE1"
+      - abuchearemos
+      - "abuchear\xE9is"
+      - "abuchear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abuchear\xEDa"
+      - "abuchear\xEDas"
+      - "abuchear\xEDa"
+      - "abuchear\xEDamos"
+      - "abuchear\xEDais"
+      - "abuchear\xEDan"
+      cjid: cond
+    - cjfs:
+      - abuchee
+      - abuchees
+      - abuchee
+      - abucheemos
+      - "abuche\xE9is"
+      - abucheen
+      cjid: psub
+    - cjfs:
+      - abucheara
+      - abuchearas
+      - abucheara
+      - "abuche\xE1ramos"
+      - abuchearais
+      - abuchearan
+      cjid: pisb1
+    - cjfs:
+      - abuchease
+      - abucheases
+      - abuchease
+      - "abuche\xE1semos"
+      - abucheaseis
+      - abucheasen
+      cjid: pisb2
+    - cjfs:
+      - abucheare
+      - abucheares
+      - abucheare
+      - "abuche\xE1remos"
+      - abucheareis
+      - abuchearen
+      cjid: fsub
+    - cjfs:
+      - he abucheado
+      - has abucheado
+      - ha abucheado
+      - hemos abucheado
+      - "hab\xE9is abucheado"
+      - han abucheado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abucheado"
+      - "hab\xEDas abucheado"
+      - "hab\xEDa abucheado"
+      - "hab\xEDamos abucheado"
+      - "hab\xEDais abucheado"
+      - "hab\xEDan abucheado"
+      cjid: ppsi
+    - cjfs:
+      - hube abucheado
+      - hubiste abucheado
+      - hubo abucheado
+      - hubimos abucheado
+      - hubisteis abucheado
+      - hubieron abucheado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abucheado"
+      - "habr\xE1s abucheado"
+      - "habr\xE1 abucheado"
+      - habremos abucheado
+      - "habr\xE9is abucheado"
+      - "habr\xE1n abucheado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abucheado"
+      - "habr\xEDas abucheado"
+      - "habr\xEDa abucheado"
+      - "habr\xEDamos abucheado"
+      - "habr\xEDais abucheado"
+      - "habr\xEDan abucheado"
+      cjid: cpef
+    - cjfs:
+      - haya abucheado
+      - hayas abucheado
+      - haya abucheado
+      - hayamos abucheado
+      - "hay\xE1is abucheado"
+      - hayan abucheado
+      cjid: ppfs
+    - cjfs:
+      - hubiera abucheado
+      - hubieras abucheado
+      - hubiera abucheado
+      - "hubi\xE9ramos abucheado"
+      - hubierais abucheado
+      - hubieran abucheado
+      cjid: ppss1
+    - cjfs:
+      - hubiese abucheado
+      - hubieses abucheado
+      - hubiese abucheado
+      - "hubi\xE9semos abucheado"
+      - hubieseis abucheado
+      - hubiesen abucheado
+      cjid: ppss2
+    - cjfs:
+      - hubiere abucheado
+      - hubieres abucheado
+      - hubiere abucheado
+      - "hubi\xE9remos abucheado"
+      - hubiereis abucheado
+      - hubieren abucheado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abuchea
+      - abuchee
+      - abucheemos
+      - abuchead
+      - abucheen
+      cjid: impf

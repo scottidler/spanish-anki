@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shelter}, to {a_link|protect}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to keep warm, to {a_link|dress warmly}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cherish}, to {a_link|harbor} '
+          - - vis
+            - - t: abrigar esperanzas
+                tr: to cherish hopes
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|dress warmly}'
+    drp: abrigarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: abrigar
+    prs:
+    - sound:
+        audio: abrig02sp
+  meta:
+    id: abrigar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600110000'
+    src: spanish
+    stems:
+    - abrigar
+    - abrigarse
+    uuid: 408bee7e-df4b-4f53-aa1b-f6f0cf196668
+  shortdef:
+  - to shelter, to protect
+  - to keep warm, to dress warmly
+  - to cherish, to harbor
+  suppl:
+    cjts:
+    - cjfs:
+      - abrigando
+      - abrigado
+      cjid: gppt
+    - cjfs:
+      - abrigo
+      - abrigas
+      - abriga
+      - abrigamos
+      - "abrig\xE1is"
+      - abrigan
+      cjid: pind
+    - cjfs:
+      - abrigaba
+      - abrigabas
+      - abrigaba
+      - "abrig\xE1bamos"
+      - abrigabais
+      - abrigaban
+      cjid: pret
+    - cjfs:
+      - "abrigu\xE9"
+      - abrigaste
+      - "abrig\xF3"
+      - abrigamos
+      - abrigasteis
+      - abrigaron
+      cjid: pprf
+    - cjfs:
+      - "abrigar\xE9"
+      - "abrigar\xE1s"
+      - "abrigar\xE1"
+      - abrigaremos
+      - "abrigar\xE9is"
+      - "abrigar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abrigar\xEDa"
+      - "abrigar\xEDas"
+      - "abrigar\xEDa"
+      - "abrigar\xEDamos"
+      - "abrigar\xEDais"
+      - "abrigar\xEDan"
+      cjid: cond
+    - cjfs:
+      - abrigue
+      - abrigues
+      - abrigue
+      - abriguemos
+      - "abrigu\xE9is"
+      - abriguen
+      cjid: psub
+    - cjfs:
+      - abrigara
+      - abrigaras
+      - abrigara
+      - "abrig\xE1ramos"
+      - abrigarais
+      - abrigaran
+      cjid: pisb1
+    - cjfs:
+      - abrigase
+      - abrigases
+      - abrigase
+      - "abrig\xE1semos"
+      - abrigaseis
+      - abrigasen
+      cjid: pisb2
+    - cjfs:
+      - abrigare
+      - abrigares
+      - abrigare
+      - "abrig\xE1remos"
+      - abrigareis
+      - abrigaren
+      cjid: fsub
+    - cjfs:
+      - he abrigado
+      - has abrigado
+      - ha abrigado
+      - hemos abrigado
+      - "hab\xE9is abrigado"
+      - han abrigado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abrigado"
+      - "hab\xEDas abrigado"
+      - "hab\xEDa abrigado"
+      - "hab\xEDamos abrigado"
+      - "hab\xEDais abrigado"
+      - "hab\xEDan abrigado"
+      cjid: ppsi
+    - cjfs:
+      - hube abrigado
+      - hubiste abrigado
+      - hubo abrigado
+      - hubimos abrigado
+      - hubisteis abrigado
+      - hubieron abrigado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abrigado"
+      - "habr\xE1s abrigado"
+      - "habr\xE1 abrigado"
+      - habremos abrigado
+      - "habr\xE9is abrigado"
+      - "habr\xE1n abrigado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abrigado"
+      - "habr\xEDas abrigado"
+      - "habr\xEDa abrigado"
+      - "habr\xEDamos abrigado"
+      - "habr\xEDais abrigado"
+      - "habr\xEDan abrigado"
+      cjid: cpef
+    - cjfs:
+      - haya abrigado
+      - hayas abrigado
+      - haya abrigado
+      - hayamos abrigado
+      - "hay\xE1is abrigado"
+      - hayan abrigado
+      cjid: ppfs
+    - cjfs:
+      - hubiera abrigado
+      - hubieras abrigado
+      - hubiera abrigado
+      - "hubi\xE9ramos abrigado"
+      - hubierais abrigado
+      - hubieran abrigado
+      cjid: ppss1
+    - cjfs:
+      - hubiese abrigado
+      - hubieses abrigado
+      - hubiese abrigado
+      - "hubi\xE9semos abrigado"
+      - hubieseis abrigado
+      - hubiesen abrigado
+      cjid: ppss2
+    - cjfs:
+      - hubiere abrigado
+      - hubieres abrigado
+      - hubiere abrigado
+      - "hubi\xE9remos abrigado"
+      - hubiereis abrigado
+      - hubieren abrigado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abriga
+      - abrigue
+      - abriguemos
+      - abrigad
+      - abriguen
+      cjid: impf

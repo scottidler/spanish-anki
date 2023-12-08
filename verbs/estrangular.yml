@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ahogar||} {bc}to {a_link|strangle}'
+  fl: transitive verb
+  hwi:
+    hw: estrangular
+    prs:
+    - sound:
+        audio: estra03sp
+  meta:
+    id: estrangular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609424000'
+    src: spanish
+    stems:
+    - estrangular
+    - "estrangulaci\xF3n"
+    uuid: bbe32ab1-423f-4ed9-a122-f2e5d176bdf9
+  shortdef:
+  - 'ahogar : to strangle'
+  suppl:
+    cjts:
+    - cjfs:
+      - estrangulando
+      - estrangulado
+      cjid: gppt
+    - cjfs:
+      - estrangulo
+      - estrangulas
+      - estrangula
+      - estrangulamos
+      - "estrangul\xE1is"
+      - estrangulan
+      cjid: pind
+    - cjfs:
+      - estrangulaba
+      - estrangulabas
+      - estrangulaba
+      - "estrangul\xE1bamos"
+      - estrangulabais
+      - estrangulaban
+      cjid: pret
+    - cjfs:
+      - "estrangul\xE9"
+      - estrangulaste
+      - "estrangul\xF3"
+      - estrangulamos
+      - estrangulasteis
+      - estrangularon
+      cjid: pprf
+    - cjfs:
+      - "estrangular\xE9"
+      - "estrangular\xE1s"
+      - "estrangular\xE1"
+      - estrangularemos
+      - "estrangular\xE9is"
+      - "estrangular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estrangular\xEDa"
+      - "estrangular\xEDas"
+      - "estrangular\xEDa"
+      - "estrangular\xEDamos"
+      - "estrangular\xEDais"
+      - "estrangular\xEDan"
+      cjid: cond
+    - cjfs:
+      - estrangule
+      - estrangules
+      - estrangule
+      - estrangulemos
+      - "estrangul\xE9is"
+      - estrangulen
+      cjid: psub
+    - cjfs:
+      - estrangulara
+      - estrangularas
+      - estrangulara
+      - "estrangul\xE1ramos"
+      - estrangularais
+      - estrangularan
+      cjid: pisb1
+    - cjfs:
+      - estrangulase
+      - estrangulases
+      - estrangulase
+      - "estrangul\xE1semos"
+      - estrangulaseis
+      - estrangulasen
+      cjid: pisb2
+    - cjfs:
+      - estrangulare
+      - estrangulares
+      - estrangulare
+      - "estrangul\xE1remos"
+      - estrangulareis
+      - estrangularen
+      cjid: fsub
+    - cjfs:
+      - he estrangulado
+      - has estrangulado
+      - ha estrangulado
+      - hemos estrangulado
+      - "hab\xE9is estrangulado"
+      - han estrangulado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estrangulado"
+      - "hab\xEDas estrangulado"
+      - "hab\xEDa estrangulado"
+      - "hab\xEDamos estrangulado"
+      - "hab\xEDais estrangulado"
+      - "hab\xEDan estrangulado"
+      cjid: ppsi
+    - cjfs:
+      - hube estrangulado
+      - hubiste estrangulado
+      - hubo estrangulado
+      - hubimos estrangulado
+      - hubisteis estrangulado
+      - hubieron estrangulado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estrangulado"
+      - "habr\xE1s estrangulado"
+      - "habr\xE1 estrangulado"
+      - habremos estrangulado
+      - "habr\xE9is estrangulado"
+      - "habr\xE1n estrangulado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estrangulado"
+      - "habr\xEDas estrangulado"
+      - "habr\xEDa estrangulado"
+      - "habr\xEDamos estrangulado"
+      - "habr\xEDais estrangulado"
+      - "habr\xEDan estrangulado"
+      cjid: cpef
+    - cjfs:
+      - haya estrangulado
+      - hayas estrangulado
+      - haya estrangulado
+      - hayamos estrangulado
+      - "hay\xE1is estrangulado"
+      - hayan estrangulado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estrangulado
+      - hubieras estrangulado
+      - hubiera estrangulado
+      - "hubi\xE9ramos estrangulado"
+      - hubierais estrangulado
+      - hubieran estrangulado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estrangulado
+      - hubieses estrangulado
+      - hubiese estrangulado
+      - "hubi\xE9semos estrangulado"
+      - hubieseis estrangulado
+      - hubiesen estrangulado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estrangulado
+      - hubieres estrangulado
+      - hubiere estrangulado
+      - "hubi\xE9remos estrangulado"
+      - hubiereis estrangulado
+      - hubieren estrangulado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estrangula
+      - estrangule
+      - estrangulemos
+      - estrangulad
+      - estrangulen
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "estrangulaci\xF3n"

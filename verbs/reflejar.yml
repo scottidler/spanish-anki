@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reflect}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be reflected '
+            - - vis
+              - - t: "la decepci\xF3n se refleja en su rostro"
+                  tr: the disappointment shows on her face
+    drp: reflejarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reflejar
+    prs:
+    - sound:
+        audio: refle01sp
+  meta:
+    id: reflejar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619142000'
+    src: spanish
+    stems:
+    - reflejar
+    - reflejarse
+    uuid: 814fc905-7583-4ea7-83c5-9c11e7d09611
+  shortdef:
+  - to reflect
+  suppl:
+    cjts:
+    - cjfs:
+      - reflejando
+      - reflejado
+      cjid: gppt
+    - cjfs:
+      - reflejo
+      - reflejas
+      - refleja
+      - reflejamos
+      - "reflej\xE1is"
+      - reflejan
+      cjid: pind
+    - cjfs:
+      - reflejaba
+      - reflejabas
+      - reflejaba
+      - "reflej\xE1bamos"
+      - reflejabais
+      - reflejaban
+      cjid: pret
+    - cjfs:
+      - "reflej\xE9"
+      - reflejaste
+      - "reflej\xF3"
+      - reflejamos
+      - reflejasteis
+      - reflejaron
+      cjid: pprf
+    - cjfs:
+      - "reflejar\xE9"
+      - "reflejar\xE1s"
+      - "reflejar\xE1"
+      - reflejaremos
+      - "reflejar\xE9is"
+      - "reflejar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reflejar\xEDa"
+      - "reflejar\xEDas"
+      - "reflejar\xEDa"
+      - "reflejar\xEDamos"
+      - "reflejar\xEDais"
+      - "reflejar\xEDan"
+      cjid: cond
+    - cjfs:
+      - refleje
+      - reflejes
+      - refleje
+      - reflejemos
+      - "reflej\xE9is"
+      - reflejen
+      cjid: psub
+    - cjfs:
+      - reflejara
+      - reflejaras
+      - reflejara
+      - "reflej\xE1ramos"
+      - reflejarais
+      - reflejaran
+      cjid: pisb1
+    - cjfs:
+      - reflejase
+      - reflejases
+      - reflejase
+      - "reflej\xE1semos"
+      - reflejaseis
+      - reflejasen
+      cjid: pisb2
+    - cjfs:
+      - reflejare
+      - reflejares
+      - reflejare
+      - "reflej\xE1remos"
+      - reflejareis
+      - reflejaren
+      cjid: fsub
+    - cjfs:
+      - he reflejado
+      - has reflejado
+      - ha reflejado
+      - hemos reflejado
+      - "hab\xE9is reflejado"
+      - han reflejado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reflejado"
+      - "hab\xEDas reflejado"
+      - "hab\xEDa reflejado"
+      - "hab\xEDamos reflejado"
+      - "hab\xEDais reflejado"
+      - "hab\xEDan reflejado"
+      cjid: ppsi
+    - cjfs:
+      - hube reflejado
+      - hubiste reflejado
+      - hubo reflejado
+      - hubimos reflejado
+      - hubisteis reflejado
+      - hubieron reflejado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reflejado"
+      - "habr\xE1s reflejado"
+      - "habr\xE1 reflejado"
+      - habremos reflejado
+      - "habr\xE9is reflejado"
+      - "habr\xE1n reflejado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reflejado"
+      - "habr\xEDas reflejado"
+      - "habr\xEDa reflejado"
+      - "habr\xEDamos reflejado"
+      - "habr\xEDais reflejado"
+      - "habr\xEDan reflejado"
+      cjid: cpef
+    - cjfs:
+      - haya reflejado
+      - hayas reflejado
+      - haya reflejado
+      - hayamos reflejado
+      - "hay\xE1is reflejado"
+      - hayan reflejado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reflejado
+      - hubieras reflejado
+      - hubiera reflejado
+      - "hubi\xE9ramos reflejado"
+      - hubierais reflejado
+      - hubieran reflejado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reflejado
+      - hubieses reflejado
+      - hubiese reflejado
+      - "hubi\xE9semos reflejado"
+      - hubieseis reflejado
+      - hubiesen reflejado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reflejado
+      - hubieres reflejado
+      - hubiere reflejado
+      - "hubi\xE9remos reflejado"
+      - hubiereis reflejado
+      - hubieren reflejado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - refleja
+      - refleje
+      - reflejemos
+      - reflejad
+      - reflejen
+      cjid: impf

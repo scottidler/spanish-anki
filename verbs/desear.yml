@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wish} '
+          - - vis
+            - - t: te deseo buena suerte
+                tr: I wish you good luck
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|querer||} {bc}to {a_link|want}, to {a_link|desire} '
+          - - vis
+            - - t: dejar mucho que desear
+                tr: to leave much to be desired
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: desear
+    prs:
+    - sound:
+        audio: desea01sp
+  meta:
+    id: desear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607004000'
+    src: spanish
+    stems:
+    - desear
+    uuid: e26d1654-f6d5-4ae3-bd52-d7dc45a867be
+  shortdef:
+  - to wish
+  - 'querer : to want, to desire'
+  suppl:
+    cjts:
+    - cjfs:
+      - deseando
+      - deseado
+      cjid: gppt
+    - cjfs:
+      - deseo
+      - deseas
+      - desea
+      - deseamos
+      - "dese\xE1is"
+      - desean
+      cjid: pind
+    - cjfs:
+      - deseaba
+      - deseabas
+      - deseaba
+      - "dese\xE1bamos"
+      - deseabais
+      - deseaban
+      cjid: pret
+    - cjfs:
+      - "dese\xE9"
+      - deseaste
+      - "dese\xF3"
+      - deseamos
+      - deseasteis
+      - desearon
+      cjid: pprf
+    - cjfs:
+      - "desear\xE9"
+      - "desear\xE1s"
+      - "desear\xE1"
+      - desearemos
+      - "desear\xE9is"
+      - "desear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desear\xEDa"
+      - "desear\xEDas"
+      - "desear\xEDa"
+      - "desear\xEDamos"
+      - "desear\xEDais"
+      - "desear\xEDan"
+      cjid: cond
+    - cjfs:
+      - desee
+      - desees
+      - desee
+      - deseemos
+      - "dese\xE9is"
+      - deseen
+      cjid: psub
+    - cjfs:
+      - deseara
+      - desearas
+      - deseara
+      - "dese\xE1ramos"
+      - desearais
+      - desearan
+      cjid: pisb1
+    - cjfs:
+      - desease
+      - deseases
+      - desease
+      - "dese\xE1semos"
+      - deseaseis
+      - deseasen
+      cjid: pisb2
+    - cjfs:
+      - deseare
+      - deseares
+      - deseare
+      - "dese\xE1remos"
+      - deseareis
+      - desearen
+      cjid: fsub
+    - cjfs:
+      - he deseado
+      - has deseado
+      - ha deseado
+      - hemos deseado
+      - "hab\xE9is deseado"
+      - han deseado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deseado"
+      - "hab\xEDas deseado"
+      - "hab\xEDa deseado"
+      - "hab\xEDamos deseado"
+      - "hab\xEDais deseado"
+      - "hab\xEDan deseado"
+      cjid: ppsi
+    - cjfs:
+      - hube deseado
+      - hubiste deseado
+      - hubo deseado
+      - hubimos deseado
+      - hubisteis deseado
+      - hubieron deseado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deseado"
+      - "habr\xE1s deseado"
+      - "habr\xE1 deseado"
+      - habremos deseado
+      - "habr\xE9is deseado"
+      - "habr\xE1n deseado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deseado"
+      - "habr\xEDas deseado"
+      - "habr\xEDa deseado"
+      - "habr\xEDamos deseado"
+      - "habr\xEDais deseado"
+      - "habr\xEDan deseado"
+      cjid: cpef
+    - cjfs:
+      - haya deseado
+      - hayas deseado
+      - haya deseado
+      - hayamos deseado
+      - "hay\xE1is deseado"
+      - hayan deseado
+      cjid: ppfs
+    - cjfs:
+      - hubiera deseado
+      - hubieras deseado
+      - hubiera deseado
+      - "hubi\xE9ramos deseado"
+      - hubierais deseado
+      - hubieran deseado
+      cjid: ppss1
+    - cjfs:
+      - hubiese deseado
+      - hubieses deseado
+      - hubiese deseado
+      - "hubi\xE9semos deseado"
+      - hubieseis deseado
+      - hubiesen deseado
+      cjid: ppss2
+    - cjfs:
+      - hubiere deseado
+      - hubieres deseado
+      - hubiere deseado
+      - "hubi\xE9remos deseado"
+      - hubiereis deseado
+      - hubieren deseado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desea
+      - desee
+      - deseemos
+      - desead
+      - deseen
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enamor}, to win the love of'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to fall in love'
+    drp: enamorarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enamorar
+    prs:
+    - sound:
+        audio: enamo04sp
+  meta:
+    id: enamorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608394000'
+    src: spanish
+    stems:
+    - enamorar
+    - enamorarse
+    uuid: 33313230-0bad-4b3f-9101-dfac2a73ebcf
+  shortdef:
+  - to enamor, to win the love of
+  suppl:
+    cjts:
+    - cjfs:
+      - enamorando
+      - enamorado
+      cjid: gppt
+    - cjfs:
+      - enamoro
+      - enamoras
+      - enamora
+      - enamoramos
+      - "enamor\xE1is"
+      - enamoran
+      cjid: pind
+    - cjfs:
+      - enamoraba
+      - enamorabas
+      - enamoraba
+      - "enamor\xE1bamos"
+      - enamorabais
+      - enamoraban
+      cjid: pret
+    - cjfs:
+      - "enamor\xE9"
+      - enamoraste
+      - "enamor\xF3"
+      - enamoramos
+      - enamorasteis
+      - enamoraron
+      cjid: pprf
+    - cjfs:
+      - "enamorar\xE9"
+      - "enamorar\xE1s"
+      - "enamorar\xE1"
+      - enamoraremos
+      - "enamorar\xE9is"
+      - "enamorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enamorar\xEDa"
+      - "enamorar\xEDas"
+      - "enamorar\xEDa"
+      - "enamorar\xEDamos"
+      - "enamorar\xEDais"
+      - "enamorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enamore
+      - enamores
+      - enamore
+      - enamoremos
+      - "enamor\xE9is"
+      - enamoren
+      cjid: psub
+    - cjfs:
+      - enamorara
+      - enamoraras
+      - enamorara
+      - "enamor\xE1ramos"
+      - enamorarais
+      - enamoraran
+      cjid: pisb1
+    - cjfs:
+      - enamorase
+      - enamorases
+      - enamorase
+      - "enamor\xE1semos"
+      - enamoraseis
+      - enamorasen
+      cjid: pisb2
+    - cjfs:
+      - enamorare
+      - enamorares
+      - enamorare
+      - "enamor\xE1remos"
+      - enamorareis
+      - enamoraren
+      cjid: fsub
+    - cjfs:
+      - he enamorado
+      - has enamorado
+      - ha enamorado
+      - hemos enamorado
+      - "hab\xE9is enamorado"
+      - han enamorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enamorado"
+      - "hab\xEDas enamorado"
+      - "hab\xEDa enamorado"
+      - "hab\xEDamos enamorado"
+      - "hab\xEDais enamorado"
+      - "hab\xEDan enamorado"
+      cjid: ppsi
+    - cjfs:
+      - hube enamorado
+      - hubiste enamorado
+      - hubo enamorado
+      - hubimos enamorado
+      - hubisteis enamorado
+      - hubieron enamorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enamorado"
+      - "habr\xE1s enamorado"
+      - "habr\xE1 enamorado"
+      - habremos enamorado
+      - "habr\xE9is enamorado"
+      - "habr\xE1n enamorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enamorado"
+      - "habr\xEDas enamorado"
+      - "habr\xEDa enamorado"
+      - "habr\xEDamos enamorado"
+      - "habr\xEDais enamorado"
+      - "habr\xEDan enamorado"
+      cjid: cpef
+    - cjfs:
+      - haya enamorado
+      - hayas enamorado
+      - haya enamorado
+      - hayamos enamorado
+      - "hay\xE1is enamorado"
+      - hayan enamorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enamorado
+      - hubieras enamorado
+      - hubiera enamorado
+      - "hubi\xE9ramos enamorado"
+      - hubierais enamorado
+      - hubieran enamorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enamorado
+      - hubieses enamorado
+      - hubiese enamorado
+      - "hubi\xE9semos enamorado"
+      - hubieseis enamorado
+      - hubiesen enamorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enamorado
+      - hubieres enamorado
+      - hubiere enamorado
+      - "hubi\xE9remos enamorado"
+      - hubiereis enamorado
+      - hubieren enamorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enamora
+      - enamore
+      - enamoremos
+      - enamorad
+      - enamoren
+      cjid: impf

@@ -1,0 +1,208 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|see off}, to show out'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dismiss}, to {a_link|fire}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|emitir||} {bc}to {a_link|give off}, to {a_link|emit} '
+          - - vis
+            - - t: despedir un olor
+                tr: to give off an odor
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take one''s leave}, to say good-bye'
+    drp: despedirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: despedir
+    prs:
+    - sound:
+        audio: despe04sp
+  meta:
+    id: despedir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607249000'
+    src: spanish
+    stems:
+    - despedir
+    - despedirse
+    uuid: f06fc217-a193-4ed6-a665-954c684ebad8
+  shortdef:
+  - to see off, to show out
+  - to dismiss, to fire
+  - 'emitir : to give off, to emit'
+  suppl:
+    cjts:
+    - cjfs:
+      - despidiendo
+      - despedido
+      cjid: gppt
+    - cjfs:
+      - despido
+      - despides
+      - despide
+      - despedimos
+      - "desped\xEDs"
+      - despiden
+      cjid: pind
+    - cjfs:
+      - "desped\xEDa"
+      - "desped\xEDas"
+      - "desped\xEDa"
+      - "desped\xEDamos"
+      - "desped\xEDais"
+      - "desped\xEDan"
+      cjid: pret
+    - cjfs:
+      - "desped\xED"
+      - despediste
+      - "despidi\xF3"
+      - despedimos
+      - despedisteis
+      - despidieron
+      cjid: pprf
+    - cjfs:
+      - "despedir\xE9"
+      - "despedir\xE1s"
+      - "despedir\xE1"
+      - despediremos
+      - "despedir\xE9is"
+      - "despedir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "despedir\xEDa"
+      - "despedir\xEDas"
+      - "despedir\xEDa"
+      - "despedir\xEDamos"
+      - "despedir\xEDais"
+      - "despedir\xEDan"
+      cjid: cond
+    - cjfs:
+      - despida
+      - despidas
+      - despida
+      - despidamos
+      - "despid\xE1is"
+      - despidan
+      cjid: psub
+    - cjfs:
+      - despidiera
+      - despidieras
+      - despidiera
+      - "despidi\xE9ramos"
+      - despidierais
+      - despidieran
+      cjid: pisb1
+    - cjfs:
+      - despidiese
+      - despidieses
+      - despidiese
+      - "despidi\xE9semos"
+      - despidieseis
+      - despidiesen
+      cjid: pisb2
+    - cjfs:
+      - despidiere
+      - despidieres
+      - despidiere
+      - "despidi\xE9remos"
+      - despidiereis
+      - despidieren
+      cjid: fsub
+    - cjfs:
+      - he despedido
+      - has despedido
+      - ha despedido
+      - hemos despedido
+      - "hab\xE9is despedido"
+      - han despedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa despedido"
+      - "hab\xEDas despedido"
+      - "hab\xEDa despedido"
+      - "hab\xEDamos despedido"
+      - "hab\xEDais despedido"
+      - "hab\xEDan despedido"
+      cjid: ppsi
+    - cjfs:
+      - hube despedido
+      - hubiste despedido
+      - hubo despedido
+      - hubimos despedido
+      - hubisteis despedido
+      - hubieron despedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 despedido"
+      - "habr\xE1s despedido"
+      - "habr\xE1 despedido"
+      - habremos despedido
+      - "habr\xE9is despedido"
+      - "habr\xE1n despedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa despedido"
+      - "habr\xEDas despedido"
+      - "habr\xEDa despedido"
+      - "habr\xEDamos despedido"
+      - "habr\xEDais despedido"
+      - "habr\xEDan despedido"
+      cjid: cpef
+    - cjfs:
+      - haya despedido
+      - hayas despedido
+      - haya despedido
+      - hayamos despedido
+      - "hay\xE1is despedido"
+      - hayan despedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera despedido
+      - hubieras despedido
+      - hubiera despedido
+      - "hubi\xE9ramos despedido"
+      - hubierais despedido
+      - hubieran despedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese despedido
+      - hubieses despedido
+      - hubiese despedido
+      - "hubi\xE9semos despedido"
+      - hubieseis despedido
+      - hubiesen despedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere despedido
+      - hubieres despedido
+      - hubiere despedido
+      - "hubi\xE9remos despedido"
+      - hubiereis despedido
+      - hubieren despedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - despide
+      - despida
+      - despidamos
+      - despedid
+      - despidan
+      cjid: impf

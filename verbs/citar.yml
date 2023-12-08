@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|quote}, to {a_link|cite}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make an appointment with'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|summon} (to court), to {a_link|subpoena}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to arrange to meet (someone)'
+            vrs:
+            - va: citarse con
+              vac: ~ con
+    drp: citarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: citar
+    prs:
+    - sound:
+        audio: citar01sp
+  meta:
+    id: citar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604802000'
+    src: spanish
+    stems:
+    - citar
+    - citarse
+    - citarse con
+    uuid: 762bb6db-3ad1-4f11-86d6-32575ef01e05
+  shortdef:
+  - to quote, to cite
+  - to make an appointment with
+  - to summon (to court), to subpoena
+  suppl:
+    cjts:
+    - cjfs:
+      - citando
+      - citado
+      cjid: gppt
+    - cjfs:
+      - cito
+      - citas
+      - cita
+      - citamos
+      - "cit\xE1is"
+      - citan
+      cjid: pind
+    - cjfs:
+      - citaba
+      - citabas
+      - citaba
+      - "cit\xE1bamos"
+      - citabais
+      - citaban
+      cjid: pret
+    - cjfs:
+      - "cit\xE9"
+      - citaste
+      - "cit\xF3"
+      - citamos
+      - citasteis
+      - citaron
+      cjid: pprf
+    - cjfs:
+      - "citar\xE9"
+      - "citar\xE1s"
+      - "citar\xE1"
+      - citaremos
+      - "citar\xE9is"
+      - "citar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "citar\xEDa"
+      - "citar\xEDas"
+      - "citar\xEDa"
+      - "citar\xEDamos"
+      - "citar\xEDais"
+      - "citar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cite
+      - cites
+      - cite
+      - citemos
+      - "cit\xE9is"
+      - citen
+      cjid: psub
+    - cjfs:
+      - citara
+      - citaras
+      - citara
+      - "cit\xE1ramos"
+      - citarais
+      - citaran
+      cjid: pisb1
+    - cjfs:
+      - citase
+      - citases
+      - citase
+      - "cit\xE1semos"
+      - citaseis
+      - citasen
+      cjid: pisb2
+    - cjfs:
+      - citare
+      - citares
+      - citare
+      - "cit\xE1remos"
+      - citareis
+      - citaren
+      cjid: fsub
+    - cjfs:
+      - he citado
+      - has citado
+      - ha citado
+      - hemos citado
+      - "hab\xE9is citado"
+      - han citado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa citado"
+      - "hab\xEDas citado"
+      - "hab\xEDa citado"
+      - "hab\xEDamos citado"
+      - "hab\xEDais citado"
+      - "hab\xEDan citado"
+      cjid: ppsi
+    - cjfs:
+      - hube citado
+      - hubiste citado
+      - hubo citado
+      - hubimos citado
+      - hubisteis citado
+      - hubieron citado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 citado"
+      - "habr\xE1s citado"
+      - "habr\xE1 citado"
+      - habremos citado
+      - "habr\xE9is citado"
+      - "habr\xE1n citado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa citado"
+      - "habr\xEDas citado"
+      - "habr\xEDa citado"
+      - "habr\xEDamos citado"
+      - "habr\xEDais citado"
+      - "habr\xEDan citado"
+      cjid: cpef
+    - cjfs:
+      - haya citado
+      - hayas citado
+      - haya citado
+      - hayamos citado
+      - "hay\xE1is citado"
+      - hayan citado
+      cjid: ppfs
+    - cjfs:
+      - hubiera citado
+      - hubieras citado
+      - hubiera citado
+      - "hubi\xE9ramos citado"
+      - hubierais citado
+      - hubieran citado
+      cjid: ppss1
+    - cjfs:
+      - hubiese citado
+      - hubieses citado
+      - hubiese citado
+      - "hubi\xE9semos citado"
+      - hubieseis citado
+      - hubiesen citado
+      cjid: ppss2
+    - cjfs:
+      - hubiere citado
+      - hubieres citado
+      - hubiere citado
+      - "hubi\xE9remos citado"
+      - hubiereis citado
+      - hubieren citado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cita
+      - cite
+      - citemos
+      - citad
+      - citen
+      cjid: impf

@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knot}, to tie in a knot'
+  fl: transitive verb
+  hwi:
+    hw: anudar
+  meta:
+    id: anudar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601597000'
+    src: spanish
+    stems:
+    - anudar
+    - anudarse
+    uuid: 63d1e59b-63e9-4f53-b512-ede68b048ff2
+  shortdef:
+  - to knot, to tie in a knot
+  suppl:
+    cjts:
+    - cjfs:
+      - anudando
+      - anudado
+      cjid: gppt
+    - cjfs:
+      - anudo
+      - anudas
+      - anuda
+      - anudamos
+      - "anud\xE1is"
+      - anudan
+      cjid: pind
+    - cjfs:
+      - anudaba
+      - anudabas
+      - anudaba
+      - "anud\xE1bamos"
+      - anudabais
+      - anudaban
+      cjid: pret
+    - cjfs:
+      - "anud\xE9"
+      - anudaste
+      - "anud\xF3"
+      - anudamos
+      - anudasteis
+      - anudaron
+      cjid: pprf
+    - cjfs:
+      - "anudar\xE9"
+      - "anudar\xE1s"
+      - "anudar\xE1"
+      - anudaremos
+      - "anudar\xE9is"
+      - "anudar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "anudar\xEDa"
+      - "anudar\xEDas"
+      - "anudar\xEDa"
+      - "anudar\xEDamos"
+      - "anudar\xEDais"
+      - "anudar\xEDan"
+      cjid: cond
+    - cjfs:
+      - anude
+      - anudes
+      - anude
+      - anudemos
+      - "anud\xE9is"
+      - anuden
+      cjid: psub
+    - cjfs:
+      - anudara
+      - anudaras
+      - anudara
+      - "anud\xE1ramos"
+      - anudarais
+      - anudaran
+      cjid: pisb1
+    - cjfs:
+      - anudase
+      - anudases
+      - anudase
+      - "anud\xE1semos"
+      - anudaseis
+      - anudasen
+      cjid: pisb2
+    - cjfs:
+      - anudare
+      - anudares
+      - anudare
+      - "anud\xE1remos"
+      - anudareis
+      - anudaren
+      cjid: fsub
+    - cjfs:
+      - he anudado
+      - has anudado
+      - ha anudado
+      - hemos anudado
+      - "hab\xE9is anudado"
+      - han anudado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa anudado"
+      - "hab\xEDas anudado"
+      - "hab\xEDa anudado"
+      - "hab\xEDamos anudado"
+      - "hab\xEDais anudado"
+      - "hab\xEDan anudado"
+      cjid: ppsi
+    - cjfs:
+      - hube anudado
+      - hubiste anudado
+      - hubo anudado
+      - hubimos anudado
+      - hubisteis anudado
+      - hubieron anudado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 anudado"
+      - "habr\xE1s anudado"
+      - "habr\xE1 anudado"
+      - habremos anudado
+      - "habr\xE9is anudado"
+      - "habr\xE1n anudado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa anudado"
+      - "habr\xEDas anudado"
+      - "habr\xEDa anudado"
+      - "habr\xEDamos anudado"
+      - "habr\xEDais anudado"
+      - "habr\xEDan anudado"
+      cjid: cpef
+    - cjfs:
+      - haya anudado
+      - hayas anudado
+      - haya anudado
+      - hayamos anudado
+      - "hay\xE1is anudado"
+      - hayan anudado
+      cjid: ppfs
+    - cjfs:
+      - hubiera anudado
+      - hubieras anudado
+      - hubiera anudado
+      - "hubi\xE9ramos anudado"
+      - hubierais anudado
+      - hubieran anudado
+      cjid: ppss1
+    - cjfs:
+      - hubiese anudado
+      - hubieses anudado
+      - hubiese anudado
+      - "hubi\xE9semos anudado"
+      - hubieseis anudado
+      - hubiesen anudado
+      cjid: ppss2
+    - cjfs:
+      - hubiere anudado
+      - hubieres anudado
+      - hubiere anudado
+      - "hubi\xE9remos anudado"
+      - hubiereis anudado
+      - hubieren anudado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - anuda
+      - anude
+      - anudemos
+      - anudad
+      - anuden
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: anudarse

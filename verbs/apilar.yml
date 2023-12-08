@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|amontonar||} {bc}to heap up, to {a_link|pile up}'
+  fl: transitive verb
+  hwi:
+    hw: apilar
+  meta:
+    id: apilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601709000'
+    src: spanish
+    stems:
+    - apilar
+    - apilarse
+    uuid: 6bcc1bb0-0a7c-482c-b090-136861d85a81
+  shortdef:
+  - 'amontonar : to heap up, to pile up'
+  suppl:
+    cjts:
+    - cjfs:
+      - apilando
+      - apilado
+      cjid: gppt
+    - cjfs:
+      - apilo
+      - apilas
+      - apila
+      - apilamos
+      - "apil\xE1is"
+      - apilan
+      cjid: pind
+    - cjfs:
+      - apilaba
+      - apilabas
+      - apilaba
+      - "apil\xE1bamos"
+      - apilabais
+      - apilaban
+      cjid: pret
+    - cjfs:
+      - "apil\xE9"
+      - apilaste
+      - "apil\xF3"
+      - apilamos
+      - apilasteis
+      - apilaron
+      cjid: pprf
+    - cjfs:
+      - "apilar\xE9"
+      - "apilar\xE1s"
+      - "apilar\xE1"
+      - apilaremos
+      - "apilar\xE9is"
+      - "apilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apilar\xEDa"
+      - "apilar\xEDas"
+      - "apilar\xEDa"
+      - "apilar\xEDamos"
+      - "apilar\xEDais"
+      - "apilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apile
+      - apiles
+      - apile
+      - apilemos
+      - "apil\xE9is"
+      - apilen
+      cjid: psub
+    - cjfs:
+      - apilara
+      - apilaras
+      - apilara
+      - "apil\xE1ramos"
+      - apilarais
+      - apilaran
+      cjid: pisb1
+    - cjfs:
+      - apilase
+      - apilases
+      - apilase
+      - "apil\xE1semos"
+      - apilaseis
+      - apilasen
+      cjid: pisb2
+    - cjfs:
+      - apilare
+      - apilares
+      - apilare
+      - "apil\xE1remos"
+      - apilareis
+      - apilaren
+      cjid: fsub
+    - cjfs:
+      - he apilado
+      - has apilado
+      - ha apilado
+      - hemos apilado
+      - "hab\xE9is apilado"
+      - han apilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apilado"
+      - "hab\xEDas apilado"
+      - "hab\xEDa apilado"
+      - "hab\xEDamos apilado"
+      - "hab\xEDais apilado"
+      - "hab\xEDan apilado"
+      cjid: ppsi
+    - cjfs:
+      - hube apilado
+      - hubiste apilado
+      - hubo apilado
+      - hubimos apilado
+      - hubisteis apilado
+      - hubieron apilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apilado"
+      - "habr\xE1s apilado"
+      - "habr\xE1 apilado"
+      - habremos apilado
+      - "habr\xE9is apilado"
+      - "habr\xE1n apilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apilado"
+      - "habr\xEDas apilado"
+      - "habr\xEDa apilado"
+      - "habr\xEDamos apilado"
+      - "habr\xEDais apilado"
+      - "habr\xEDan apilado"
+      cjid: cpef
+    - cjfs:
+      - haya apilado
+      - hayas apilado
+      - haya apilado
+      - hayamos apilado
+      - "hay\xE1is apilado"
+      - hayan apilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apilado
+      - hubieras apilado
+      - hubiera apilado
+      - "hubi\xE9ramos apilado"
+      - hubierais apilado
+      - hubieran apilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apilado
+      - hubieses apilado
+      - hubiese apilado
+      - "hubi\xE9semos apilado"
+      - hubieseis apilado
+      - hubiesen apilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apilado
+      - hubieres apilado
+      - hubiere apilado
+      - "hubi\xE9remos apilado"
+      - hubiereis apilado
+      - hubieren apilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apila
+      - apile
+      - apilemos
+      - apilad
+      - apilen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: apilarse

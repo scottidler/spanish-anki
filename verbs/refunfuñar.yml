@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grumble}, to {a_link|groan}'
+  fl: intransitive verb
+  hwi:
+    hw: "refunfu\xF1ar"
+    prs:
+    - sound:
+        audio: refun01sp
+  meta:
+    id: refunfunar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619178000'
+    src: spanish
+    stems:
+    - "refunfu\xF1ar"
+    uuid: d8c8e456-2118-4694-a6d4-51acb17ddfab
+  shortdef:
+  - to grumble, to groan
+  suppl:
+    cjts:
+    - cjfs:
+      - "refunfu\xF1ando"
+      - "refunfu\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "refunfu\xF1o"
+      - "refunfu\xF1as"
+      - "refunfu\xF1a"
+      - "refunfu\xF1amos"
+      - "refunfu\xF1\xE1is"
+      - "refunfu\xF1an"
+      cjid: pind
+    - cjfs:
+      - "refunfu\xF1aba"
+      - "refunfu\xF1abas"
+      - "refunfu\xF1aba"
+      - "refunfu\xF1\xE1bamos"
+      - "refunfu\xF1abais"
+      - "refunfu\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "refunfu\xF1\xE9"
+      - "refunfu\xF1aste"
+      - "refunfu\xF1\xF3"
+      - "refunfu\xF1amos"
+      - "refunfu\xF1asteis"
+      - "refunfu\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "refunfu\xF1ar\xE9"
+      - "refunfu\xF1ar\xE1s"
+      - "refunfu\xF1ar\xE1"
+      - "refunfu\xF1aremos"
+      - "refunfu\xF1ar\xE9is"
+      - "refunfu\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "refunfu\xF1ar\xEDa"
+      - "refunfu\xF1ar\xEDas"
+      - "refunfu\xF1ar\xEDa"
+      - "refunfu\xF1ar\xEDamos"
+      - "refunfu\xF1ar\xEDais"
+      - "refunfu\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "refunfu\xF1e"
+      - "refunfu\xF1es"
+      - "refunfu\xF1e"
+      - "refunfu\xF1emos"
+      - "refunfu\xF1\xE9is"
+      - "refunfu\xF1en"
+      cjid: psub
+    - cjfs:
+      - "refunfu\xF1ara"
+      - "refunfu\xF1aras"
+      - "refunfu\xF1ara"
+      - "refunfu\xF1\xE1ramos"
+      - "refunfu\xF1arais"
+      - "refunfu\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "refunfu\xF1ase"
+      - "refunfu\xF1ases"
+      - "refunfu\xF1ase"
+      - "refunfu\xF1\xE1semos"
+      - "refunfu\xF1aseis"
+      - "refunfu\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "refunfu\xF1are"
+      - "refunfu\xF1ares"
+      - "refunfu\xF1are"
+      - "refunfu\xF1\xE1remos"
+      - "refunfu\xF1areis"
+      - "refunfu\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he refunfu\xF1ado"
+      - "has refunfu\xF1ado"
+      - "ha refunfu\xF1ado"
+      - "hemos refunfu\xF1ado"
+      - "hab\xE9is refunfu\xF1ado"
+      - "han refunfu\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa refunfu\xF1ado"
+      - "hab\xEDas refunfu\xF1ado"
+      - "hab\xEDa refunfu\xF1ado"
+      - "hab\xEDamos refunfu\xF1ado"
+      - "hab\xEDais refunfu\xF1ado"
+      - "hab\xEDan refunfu\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube refunfu\xF1ado"
+      - "hubiste refunfu\xF1ado"
+      - "hubo refunfu\xF1ado"
+      - "hubimos refunfu\xF1ado"
+      - "hubisteis refunfu\xF1ado"
+      - "hubieron refunfu\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 refunfu\xF1ado"
+      - "habr\xE1s refunfu\xF1ado"
+      - "habr\xE1 refunfu\xF1ado"
+      - "habremos refunfu\xF1ado"
+      - "habr\xE9is refunfu\xF1ado"
+      - "habr\xE1n refunfu\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa refunfu\xF1ado"
+      - "habr\xEDas refunfu\xF1ado"
+      - "habr\xEDa refunfu\xF1ado"
+      - "habr\xEDamos refunfu\xF1ado"
+      - "habr\xEDais refunfu\xF1ado"
+      - "habr\xEDan refunfu\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya refunfu\xF1ado"
+      - "hayas refunfu\xF1ado"
+      - "haya refunfu\xF1ado"
+      - "hayamos refunfu\xF1ado"
+      - "hay\xE1is refunfu\xF1ado"
+      - "hayan refunfu\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera refunfu\xF1ado"
+      - "hubieras refunfu\xF1ado"
+      - "hubiera refunfu\xF1ado"
+      - "hubi\xE9ramos refunfu\xF1ado"
+      - "hubierais refunfu\xF1ado"
+      - "hubieran refunfu\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese refunfu\xF1ado"
+      - "hubieses refunfu\xF1ado"
+      - "hubiese refunfu\xF1ado"
+      - "hubi\xE9semos refunfu\xF1ado"
+      - "hubieseis refunfu\xF1ado"
+      - "hubiesen refunfu\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere refunfu\xF1ado"
+      - "hubieres refunfu\xF1ado"
+      - "hubiere refunfu\xF1ado"
+      - "hubi\xE9remos refunfu\xF1ado"
+      - "hubiereis refunfu\xF1ado"
+      - "hubieren refunfu\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "refunfu\xF1a"
+      - "refunfu\xF1e"
+      - "refunfu\xF1emos"
+      - "refunfu\xF1ad"
+      - "refunfu\xF1en"
+      cjid: impf

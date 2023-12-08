@@ -1,0 +1,749 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pull out}, to {a_link|take out} '
+          - - vis
+            - - t: saca el pollo del congelador
+                tr: take the chicken out of the freezer
+              - t: me sacaron de la cama
+                tr: they dragged me out of bed
+              - t: "sac\xF3 un as"
+                tr: he drew an ace
+              - t: sacar la basura
+                tr: to take out the garbage
+              - t: "\xA1s\xE1calo de la casa!"
+                tr: get it out of the house!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get}, to {a_link|obtain} '
+          - - vis
+            - - t: "saqu\xE9 un 100 en el examen"
+                tr: I got 100 on the exam
+              - t: "sac\xF3 cuatro puntos de ventaja"
+                tr: she got a four-point lead
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get out}, to {a_link|extract} '
+          - - vis
+            - - t: "le saqu\xE9 la informaci\xF3n"
+                tr: I got the information from him
+              - t: sacar sangre
+                tr: to draw blood
+              - t: "me sac\xF3 de un apuro"
+                tr: she got me out of a jam
+              - t: sacar provecho de
+                tr: to benefit from
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take} (someone) {a_link|out} '
+          - - vis
+            - - t: "lo saqu\xE9 a comer"
+                tr: I took him out to eat
+              - t: "la sac\xF3 a bailar"
+                tr: he asked her to dance
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stick out} '
+          - - vis
+            - - t: sacar la lengua
+                tr: to stick out one's tongue
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring out}, to {a_link|introduce} '
+          - - vis
+            - - t: sacar un libro
+                tr: to publish a book
+              - t: sacaron una moda nueva
+                tr: they introduced a new style
+              - t: sacar algo a la venta
+                tr: to release something for sale
+              - t: sacar a relucir un tema
+                tr: to bring up a topic
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take} (a photo, a shot)'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make} (copies)'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|retirar||} {bc}to {a_link|withdraw} (money)'
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw}, to {a_link|reach} (a conclusion)'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|calcular||} {bc}to {a_link|work out}, to tally up'
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|avanzar||} {bc}to get started, to move forward'
+          sn: '12'
+          vrs:
+          - va: sacar adelante
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mantener||} {bc}to {a_link|support}, to keep afloat'
+          sn: '13'
+          vrs:
+          - va: sacar adelante
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get rid of}'
+          sn: '14'
+          vrs:
+          - va: sacar de encima
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|kick off} (in soccer or football)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|serve} (in sports)'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: sacar
+    prs:
+    - sound:
+        audio: sacar01sp
+  meta:
+    id: sacar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620069000'
+    src: spanish
+    stems:
+    - sacar
+    - sacar adelante
+    - sacar de encima
+    uuid: ad69687a-e752-487f-9b39-7280df83ebd2
+  shortdef:
+  - to pull out, to take out
+  - to get, to obtain
+  - to get out, to extract
+  suppl:
+    cjts:
+    - cjfs:
+      - sacando
+      - sacado
+      cjid: gppt
+    - cjfs:
+      - saco
+      - sacas
+      - saca
+      - sacamos
+      - "sac\xE1is"
+      - sacan
+      cjid: pind
+    - cjfs:
+      - sacaba
+      - sacabas
+      - sacaba
+      - "sac\xE1bamos"
+      - sacabais
+      - sacaban
+      cjid: pret
+    - cjfs:
+      - "saqu\xE9"
+      - sacaste
+      - "sac\xF3"
+      - sacamos
+      - sacasteis
+      - sacaron
+      cjid: pprf
+    - cjfs:
+      - "sacar\xE9"
+      - "sacar\xE1s"
+      - "sacar\xE1"
+      - sacaremos
+      - "sacar\xE9is"
+      - "sacar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sacar\xEDa"
+      - "sacar\xEDas"
+      - "sacar\xEDa"
+      - "sacar\xEDamos"
+      - "sacar\xEDais"
+      - "sacar\xEDan"
+      cjid: cond
+    - cjfs:
+      - saque
+      - saques
+      - saque
+      - saquemos
+      - "saqu\xE9is"
+      - saquen
+      cjid: psub
+    - cjfs:
+      - sacara
+      - sacaras
+      - sacara
+      - "sac\xE1ramos"
+      - sacarais
+      - sacaran
+      cjid: pisb1
+    - cjfs:
+      - sacase
+      - sacases
+      - sacase
+      - "sac\xE1semos"
+      - sacaseis
+      - sacasen
+      cjid: pisb2
+    - cjfs:
+      - sacare
+      - sacares
+      - sacare
+      - "sac\xE1remos"
+      - sacareis
+      - sacaren
+      cjid: fsub
+    - cjfs:
+      - he sacado
+      - has sacado
+      - ha sacado
+      - hemos sacado
+      - "hab\xE9is sacado"
+      - han sacado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sacado"
+      - "hab\xEDas sacado"
+      - "hab\xEDa sacado"
+      - "hab\xEDamos sacado"
+      - "hab\xEDais sacado"
+      - "hab\xEDan sacado"
+      cjid: ppsi
+    - cjfs:
+      - hube sacado
+      - hubiste sacado
+      - hubo sacado
+      - hubimos sacado
+      - hubisteis sacado
+      - hubieron sacado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sacado"
+      - "habr\xE1s sacado"
+      - "habr\xE1 sacado"
+      - habremos sacado
+      - "habr\xE9is sacado"
+      - "habr\xE1n sacado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sacado"
+      - "habr\xEDas sacado"
+      - "habr\xEDa sacado"
+      - "habr\xEDamos sacado"
+      - "habr\xEDais sacado"
+      - "habr\xEDan sacado"
+      cjid: cpef
+    - cjfs:
+      - haya sacado
+      - hayas sacado
+      - haya sacado
+      - hayamos sacado
+      - "hay\xE1is sacado"
+      - hayan sacado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sacado
+      - hubieras sacado
+      - hubiera sacado
+      - "hubi\xE9ramos sacado"
+      - hubierais sacado
+      - hubieran sacado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sacado
+      - hubieses sacado
+      - hubiese sacado
+      - "hubi\xE9semos sacado"
+      - hubieseis sacado
+      - hubiesen sacado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sacado
+      - hubieres sacado
+      - hubiere sacado
+      - "hubi\xE9remos sacado"
+      - hubiereis sacado
+      - hubieren sacado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - saca
+      - saque
+      - saquemos
+      - sacad
+      - saquen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|caste}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|lineage}, {a_link|stock} '
+          - - vis
+            - - t: de casta
+                tr: thoroughbred, purebred
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come out ahead'
+          sls:
+          - Mexico
+          sn: '3'
+          vrs:
+          - va: sacar la casta
+  fl: feminine noun
+  hwi:
+    hw: casta
+    prs:
+    - sound:
+        audio: casta01sp
+  meta:
+    id: casta
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604133000'
+    src: spanish
+    stems:
+    - casta
+    - sacar la casta
+    uuid: 4788f634-e5be-408a-bfce-365dac8e1112
+  shortdef:
+  - caste
+  - lineage, stock
+  - to come out ahead
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|light} '
+          - - vis
+            - - t: luz del sol
+                tr: sunlight
+              - t: "luz el\xE9ctrica/artificial"
+                tr: electric/artificial light
+              - t: iluminado con una luz tenue
+                tr: dimly lit
+              - t: "a plena luz del d\xEDa"
+                tr: in full/broad daylight
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|power}, {a_link|electricity} '
+          - - vis
+            - - t: se fue la luz
+                tr: the power/electricity went out
+              - t: cortar la luz
+                tr: to cut off the power
+              - t: pagar la luz
+                tr: to pay the electricity bill
+          sls:
+          - familiar
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|light}, {a_link|lamp} '
+          - - vis
+            - - t: apagar la luz
+                tr: to turn off the light
+              - t: encender/prender la luz
+                tr: to turn on the light
+              - t: luz de bengala
+                tr: flare
+              - t: "luz ne\xF3n/LED"
+                tr: neon/LED light
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|span}, {a_link|spread} (between supports)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}in light of'
+          sn: '5'
+          vrs:
+          - va: a la luz de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}by any measure'
+          sn: '6'
+          vrs:
+          - va: a todas luces
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give birth'
+          sn: '7'
+          vrs:
+          - va: dar a luz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make known, to {a_link|bring to light}'
+          sn: '8'
+          vrs:
+          - va: sacar a la luz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to become known, to {a_link|come to light}'
+          sn: '9'
+          vrs:
+          - va: salir a la luz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}matador''s costume'
+          sn: '10'
+          vrs:
+          - va: traje de luces
+  fl: feminine noun
+  hwi:
+    hw: luz
+    prs:
+    - sound:
+        audio: luz0001sp
+  ins:
+  - if: luces
+    il: plural
+  meta:
+    id: luz
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614083000'
+    src: spanish
+    stems:
+    - luz
+    - luces
+    - a la luz de
+    - a todas luces
+    - dar a luz
+    - sacar a la luz
+    - salir a la luz
+    - traje de luces
+    uuid: 56a1e7a3-6843-4485-9b30-fa08a6995295
+  shortdef:
+  - light
+  - power, electricity
+  - light, lamp
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be beside oneself'
+          sn: '1'
+          vrs:
+          - va: estar fuera de quicio
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exasperate}, to {a_link|drive crazy}'
+          sn: '2'
+          vrs:
+          - va: sacar de quicio
+  fl: masculine noun
+  hwi:
+    hw: quicio
+    prs:
+    - sound:
+        audio: quici01sp
+  meta:
+    id: quicio
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618612000'
+    src: spanish
+    stems:
+    - quicio
+    - estar fuera de quicio
+    - sacar de quicio
+    uuid: 714b765b-f342-4c1d-8f59-3c7ce3ed3604
+  shortdef:
+  - to be beside oneself
+  - to exasperate, to drive crazy
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|glitter}, to {a_link|shine}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come to the surface'
+          sn: '2'
+          vrs:
+          - va: salir a relucir
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring up}, to {a_link|mention}'
+          sn: '3'
+          vrs:
+          - va: sacar a relucir
+  fl: intransitive verb
+  hwi:
+    hw: relucir
+  meta:
+    id: relucir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619318000'
+    src: spanish
+    stems:
+    - relucir
+    - salir a relucir
+    - sacar a relucir
+    uuid: d75105f4-92ca-4cc8-9d1c-07f7ffc57684
+  shortdef:
+  - to glitter, to shine
+  - to come to the surface
+  - to bring up, to mention
+  suppl:
+    cjts:
+    - cjfs:
+      - reluciendo
+      - relucido
+      cjid: gppt
+    - cjfs:
+      - reluzco
+      - reluces
+      - reluce
+      - relucimos
+      - "reluc\xEDs"
+      - relucen
+      cjid: pind
+    - cjfs:
+      - "reluc\xEDa"
+      - "reluc\xEDas"
+      - "reluc\xEDa"
+      - "reluc\xEDamos"
+      - "reluc\xEDais"
+      - "reluc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reluc\xED"
+      - reluciste
+      - "reluci\xF3"
+      - relucimos
+      - relucisteis
+      - relucieron
+      cjid: pprf
+    - cjfs:
+      - "relucir\xE9"
+      - "relucir\xE1s"
+      - "relucir\xE1"
+      - reluciremos
+      - "relucir\xE9is"
+      - "relucir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "relucir\xEDa"
+      - "relucir\xEDas"
+      - "relucir\xEDa"
+      - "relucir\xEDamos"
+      - "relucir\xEDais"
+      - "relucir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reluzca
+      - reluzcas
+      - reluzca
+      - reluzcamos
+      - "reluzc\xE1is"
+      - reluzcan
+      cjid: psub
+    - cjfs:
+      - reluciera
+      - relucieras
+      - reluciera
+      - "reluci\xE9ramos"
+      - relucierais
+      - relucieran
+      cjid: pisb1
+    - cjfs:
+      - reluciese
+      - relucieses
+      - reluciese
+      - "reluci\xE9semos"
+      - relucieseis
+      - reluciesen
+      cjid: pisb2
+    - cjfs:
+      - reluciere
+      - relucieres
+      - reluciere
+      - "reluci\xE9remos"
+      - reluciereis
+      - relucieren
+      cjid: fsub
+    - cjfs:
+      - he relucido
+      - has relucido
+      - ha relucido
+      - hemos relucido
+      - "hab\xE9is relucido"
+      - han relucido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa relucido"
+      - "hab\xEDas relucido"
+      - "hab\xEDa relucido"
+      - "hab\xEDamos relucido"
+      - "hab\xEDais relucido"
+      - "hab\xEDan relucido"
+      cjid: ppsi
+    - cjfs:
+      - hube relucido
+      - hubiste relucido
+      - hubo relucido
+      - hubimos relucido
+      - hubisteis relucido
+      - hubieron relucido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 relucido"
+      - "habr\xE1s relucido"
+      - "habr\xE1 relucido"
+      - habremos relucido
+      - "habr\xE9is relucido"
+      - "habr\xE1n relucido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa relucido"
+      - "habr\xEDas relucido"
+      - "habr\xEDa relucido"
+      - "habr\xEDamos relucido"
+      - "habr\xEDais relucido"
+      - "habr\xEDan relucido"
+      cjid: cpef
+    - cjfs:
+      - haya relucido
+      - hayas relucido
+      - haya relucido
+      - hayamos relucido
+      - "hay\xE1is relucido"
+      - hayan relucido
+      cjid: ppfs
+    - cjfs:
+      - hubiera relucido
+      - hubieras relucido
+      - hubiera relucido
+      - "hubi\xE9ramos relucido"
+      - hubierais relucido
+      - hubieran relucido
+      cjid: ppss1
+    - cjfs:
+      - hubiese relucido
+      - hubieses relucido
+      - hubiese relucido
+      - "hubi\xE9semos relucido"
+      - hubieseis relucido
+      - hubiesen relucido
+      cjid: ppss2
+    - cjfs:
+      - hubiere relucido
+      - hubieres relucido
+      - hubiere relucido
+      - "hubi\xE9remos relucido"
+      - hubiereis relucido
+      - hubieren relucido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reluce
+      - reluzca
+      - reluzcamos
+      - relucid
+      - reluzcan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|slice}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get one''s share'
+          sls:
+          - familiar
+          sn: '2'
+          vrs:
+          - va: sacar tajada
+  fl: feminine noun
+  hwi:
+    hw: tajada
+    prs:
+    - sound:
+        audio: tajad01sp
+  meta:
+    id: tajada
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621400000'
+    src: spanish
+    stems:
+    - tajada
+    - sacar tajada
+    uuid: d0c5a61f-4066-456f-9107-33cd7b26343a
+  shortdef:
+  - slice
+  - to get one's share

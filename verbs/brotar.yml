@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bud}, to {a_link|sprout}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spring up}, to {a_link|stream}, to gush forth'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|appear} (of a rash, etc.)'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: brotar
+    prs:
+    - sound:
+        audio: brota01sp
+  meta:
+    id: brotar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603366000'
+    src: spanish
+    stems:
+    - brotar
+    uuid: ed5b2aa7-0be1-4fe5-b8bb-2cd21bf9ee0a
+  shortdef:
+  - to bud, to sprout
+  - to spring up, to stream, to gush forth
+  - to appear (of a rash, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - brotando
+      - brotado
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - brota
+      - '-'
+      - '-'
+      - brotan
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - brotaba
+      - '-'
+      - '-'
+      - brotaban
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "brot\xF3"
+      - '-'
+      - '-'
+      - brotaron
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "brotar\xE1"
+      - '-'
+      - '-'
+      - "brotar\xE1n"
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "brotar\xEDa"
+      - '-'
+      - '-'
+      - "brotar\xEDan"
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - brote
+      - '-'
+      - '-'
+      - broten
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - brotara
+      - '-'
+      - '-'
+      - brotaran
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - brotase
+      - '-'
+      - '-'
+      - brotasen
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - brotare
+      - '-'
+      - '-'
+      - brotaren
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha brotado
+      - '-'
+      - '-'
+      - han brotado
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa brotado"
+      - '-'
+      - '-'
+      - "hab\xEDan brotado"
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo brotado
+      - '-'
+      - '-'
+      - hubieron brotado
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 brotado"
+      - '-'
+      - '-'
+      - "habr\xE1n brotado"
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa brotado"
+      - '-'
+      - '-'
+      - "habr\xEDan brotado"
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya brotado
+      - '-'
+      - '-'
+      - hayan brotado
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera brotado
+      - '-'
+      - '-'
+      - hubieran brotado
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese brotado
+      - '-'
+      - '-'
+      - hubiesen brotado
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere brotado
+      - '-'
+      - '-'
+      - hubieren brotado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

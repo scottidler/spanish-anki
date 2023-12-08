@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lay} (something) {a_link|down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put to bed'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|lie down}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to go to bed'
+            sn: '2'
+    drp: acostarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: acostar
+    prs:
+    - sound:
+        audio: acost01sp
+  meta:
+    id: acostar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600343000'
+    src: spanish
+    stems:
+    - acostar
+    - acostarse
+    uuid: c6e72c74-99d1-4fa0-8431-f0adda3ebc58
+  shortdef:
+  - to lay (something) down
+  - to put to bed
+  suppl:
+    cjts:
+    - cjfs:
+      - acostando
+      - acostado
+      cjid: gppt
+    - cjfs:
+      - acuesto
+      - acuestas
+      - acuesta
+      - acostamos
+      - "acost\xE1is"
+      - acuestan
+      cjid: pind
+    - cjfs:
+      - acostaba
+      - acostabas
+      - acostaba
+      - "acost\xE1bamos"
+      - acostabais
+      - acostaban
+      cjid: pret
+    - cjfs:
+      - "acost\xE9"
+      - acostaste
+      - "acost\xF3"
+      - acostamos
+      - acostasteis
+      - acostaron
+      cjid: pprf
+    - cjfs:
+      - "acostar\xE9"
+      - "acostar\xE1s"
+      - "acostar\xE1"
+      - acostaremos
+      - "acostar\xE9is"
+      - "acostar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acostar\xEDa"
+      - "acostar\xEDas"
+      - "acostar\xEDa"
+      - "acostar\xEDamos"
+      - "acostar\xEDais"
+      - "acostar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acueste
+      - acuestes
+      - acueste
+      - acostemos
+      - "acost\xE9is"
+      - acuesten
+      cjid: psub
+    - cjfs:
+      - acostara
+      - acostaras
+      - acostara
+      - "acost\xE1ramos"
+      - acostarais
+      - acostaran
+      cjid: pisb1
+    - cjfs:
+      - acostase
+      - acostases
+      - acostase
+      - "acost\xE1semos"
+      - acostaseis
+      - acostasen
+      cjid: pisb2
+    - cjfs:
+      - acostare
+      - acostares
+      - acostare
+      - "acost\xE1remos"
+      - acostareis
+      - acostaren
+      cjid: fsub
+    - cjfs:
+      - he acostado
+      - has acostado
+      - ha acostado
+      - hemos acostado
+      - "hab\xE9is acostado"
+      - han acostado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acostado"
+      - "hab\xEDas acostado"
+      - "hab\xEDa acostado"
+      - "hab\xEDamos acostado"
+      - "hab\xEDais acostado"
+      - "hab\xEDan acostado"
+      cjid: ppsi
+    - cjfs:
+      - hube acostado
+      - hubiste acostado
+      - hubo acostado
+      - hubimos acostado
+      - hubisteis acostado
+      - hubieron acostado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acostado"
+      - "habr\xE1s acostado"
+      - "habr\xE1 acostado"
+      - habremos acostado
+      - "habr\xE9is acostado"
+      - "habr\xE1n acostado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acostado"
+      - "habr\xEDas acostado"
+      - "habr\xEDa acostado"
+      - "habr\xEDamos acostado"
+      - "habr\xEDais acostado"
+      - "habr\xEDan acostado"
+      cjid: cpef
+    - cjfs:
+      - haya acostado
+      - hayas acostado
+      - haya acostado
+      - hayamos acostado
+      - "hay\xE1is acostado"
+      - hayan acostado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acostado
+      - hubieras acostado
+      - hubiera acostado
+      - "hubi\xE9ramos acostado"
+      - hubierais acostado
+      - hubieran acostado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acostado
+      - hubieses acostado
+      - hubiese acostado
+      - "hubi\xE9semos acostado"
+      - hubieseis acostado
+      - hubiesen acostado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acostado
+      - hubieres acostado
+      - hubiere acostado
+      - "hubi\xE9remos acostado"
+      - hubiereis acostado
+      - hubieren acostado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acuesta
+      - acueste
+      - acostemos
+      - acostad
+      - acuesten
+      cjid: impf

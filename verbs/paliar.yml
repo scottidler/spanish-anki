@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mitigar||} {bc}to {a_link|alleviate}'
+  fl: transitive verb
+  hwi:
+    hw: paliar
+    prs:
+    - sound:
+        audio: palia01sp
+  meta:
+    id: paliar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616504000'
+    src: spanish
+    stems:
+    - paliar
+    uuid: 50c69043-8dbf-4740-a9ae-0d3ef472d304
+  shortdef:
+  - 'mitigar : to alleviate'
+  suppl:
+    cjts:
+    - cjfs:
+      - paliando
+      - paliado
+      cjid: gppt
+    - cjfs:
+      - palio
+      - palias
+      - palia
+      - paliamos
+      - "pali\xE1is"
+      - palian
+      cjid: pind
+    - cjfs:
+      - paliaba
+      - paliabas
+      - paliaba
+      - "pali\xE1bamos"
+      - paliabais
+      - paliaban
+      cjid: pret
+    - cjfs:
+      - "pali\xE9"
+      - paliaste
+      - "pali\xF3"
+      - paliamos
+      - paliasteis
+      - paliaron
+      cjid: pprf
+    - cjfs:
+      - "paliar\xE9"
+      - "paliar\xE1s"
+      - "paliar\xE1"
+      - paliaremos
+      - "paliar\xE9is"
+      - "paliar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "paliar\xEDa"
+      - "paliar\xEDas"
+      - "paliar\xEDa"
+      - "paliar\xEDamos"
+      - "paliar\xEDais"
+      - "paliar\xEDan"
+      cjid: cond
+    - cjfs:
+      - palie
+      - palies
+      - palie
+      - paliemos
+      - "pali\xE9is"
+      - palien
+      cjid: psub
+    - cjfs:
+      - paliara
+      - paliaras
+      - paliara
+      - "pali\xE1ramos"
+      - paliarais
+      - paliaran
+      cjid: pisb1
+    - cjfs:
+      - paliase
+      - paliases
+      - paliase
+      - "pali\xE1semos"
+      - paliaseis
+      - paliasen
+      cjid: pisb2
+    - cjfs:
+      - paliare
+      - paliares
+      - paliare
+      - "pali\xE1remos"
+      - paliareis
+      - paliaren
+      cjid: fsub
+    - cjfs:
+      - he paliado
+      - has paliado
+      - ha paliado
+      - hemos paliado
+      - "hab\xE9is paliado"
+      - han paliado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa paliado"
+      - "hab\xEDas paliado"
+      - "hab\xEDa paliado"
+      - "hab\xEDamos paliado"
+      - "hab\xEDais paliado"
+      - "hab\xEDan paliado"
+      cjid: ppsi
+    - cjfs:
+      - hube paliado
+      - hubiste paliado
+      - hubo paliado
+      - hubimos paliado
+      - hubisteis paliado
+      - hubieron paliado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 paliado"
+      - "habr\xE1s paliado"
+      - "habr\xE1 paliado"
+      - habremos paliado
+      - "habr\xE9is paliado"
+      - "habr\xE1n paliado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa paliado"
+      - "habr\xEDas paliado"
+      - "habr\xEDa paliado"
+      - "habr\xEDamos paliado"
+      - "habr\xEDais paliado"
+      - "habr\xEDan paliado"
+      cjid: cpef
+    - cjfs:
+      - haya paliado
+      - hayas paliado
+      - haya paliado
+      - hayamos paliado
+      - "hay\xE1is paliado"
+      - hayan paliado
+      cjid: ppfs
+    - cjfs:
+      - hubiera paliado
+      - hubieras paliado
+      - hubiera paliado
+      - "hubi\xE9ramos paliado"
+      - hubierais paliado
+      - hubieran paliado
+      cjid: ppss1
+    - cjfs:
+      - hubiese paliado
+      - hubieses paliado
+      - hubiese paliado
+      - "hubi\xE9semos paliado"
+      - hubieseis paliado
+      - hubiesen paliado
+      cjid: ppss2
+    - cjfs:
+      - hubiere paliado
+      - hubieres paliado
+      - hubiere paliado
+      - "hubi\xE9remos paliado"
+      - hubiereis paliado
+      - hubieren paliado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - palia
+      - palie
+      - paliemos
+      - paliad
+      - palien
+      cjid: impf

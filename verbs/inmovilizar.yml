@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|immobilize}'
+  fl: transitive verb
+  hwi:
+    hw: inmovilizar
+  meta:
+    id: inmovilizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612608000'
+    src: spanish
+    stems:
+    - inmovilizar
+    - "inmovilizaci\xF3n"
+    uuid: cd4f31a9-a619-4279-a69f-453a027ead30
+  shortdef:
+  - to immobilize
+  suppl:
+    cjts:
+    - cjfs:
+      - inmovilizando
+      - inmovilizado
+      cjid: gppt
+    - cjfs:
+      - inmovilizo
+      - inmovilizas
+      - inmoviliza
+      - inmovilizamos
+      - "inmoviliz\xE1is"
+      - inmovilizan
+      cjid: pind
+    - cjfs:
+      - inmovilizaba
+      - inmovilizabas
+      - inmovilizaba
+      - "inmoviliz\xE1bamos"
+      - inmovilizabais
+      - inmovilizaban
+      cjid: pret
+    - cjfs:
+      - "inmovilic\xE9"
+      - inmovilizaste
+      - "inmoviliz\xF3"
+      - inmovilizamos
+      - inmovilizasteis
+      - inmovilizaron
+      cjid: pprf
+    - cjfs:
+      - "inmovilizar\xE9"
+      - "inmovilizar\xE1s"
+      - "inmovilizar\xE1"
+      - inmovilizaremos
+      - "inmovilizar\xE9is"
+      - "inmovilizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inmovilizar\xEDa"
+      - "inmovilizar\xEDas"
+      - "inmovilizar\xEDa"
+      - "inmovilizar\xEDamos"
+      - "inmovilizar\xEDais"
+      - "inmovilizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - inmovilice
+      - inmovilices
+      - inmovilice
+      - inmovilicemos
+      - "inmovilic\xE9is"
+      - inmovilicen
+      cjid: psub
+    - cjfs:
+      - inmovilizara
+      - inmovilizaras
+      - inmovilizara
+      - "inmoviliz\xE1ramos"
+      - inmovilizarais
+      - inmovilizaran
+      cjid: pisb1
+    - cjfs:
+      - inmovilizase
+      - inmovilizases
+      - inmovilizase
+      - "inmoviliz\xE1semos"
+      - inmovilizaseis
+      - inmovilizasen
+      cjid: pisb2
+    - cjfs:
+      - inmovilizare
+      - inmovilizares
+      - inmovilizare
+      - "inmoviliz\xE1remos"
+      - inmovilizareis
+      - inmovilizaren
+      cjid: fsub
+    - cjfs:
+      - he inmovilizado
+      - has inmovilizado
+      - ha inmovilizado
+      - hemos inmovilizado
+      - "hab\xE9is inmovilizado"
+      - han inmovilizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inmovilizado"
+      - "hab\xEDas inmovilizado"
+      - "hab\xEDa inmovilizado"
+      - "hab\xEDamos inmovilizado"
+      - "hab\xEDais inmovilizado"
+      - "hab\xEDan inmovilizado"
+      cjid: ppsi
+    - cjfs:
+      - hube inmovilizado
+      - hubiste inmovilizado
+      - hubo inmovilizado
+      - hubimos inmovilizado
+      - hubisteis inmovilizado
+      - hubieron inmovilizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inmovilizado"
+      - "habr\xE1s inmovilizado"
+      - "habr\xE1 inmovilizado"
+      - habremos inmovilizado
+      - "habr\xE9is inmovilizado"
+      - "habr\xE1n inmovilizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inmovilizado"
+      - "habr\xEDas inmovilizado"
+      - "habr\xEDa inmovilizado"
+      - "habr\xEDamos inmovilizado"
+      - "habr\xEDais inmovilizado"
+      - "habr\xEDan inmovilizado"
+      cjid: cpef
+    - cjfs:
+      - haya inmovilizado
+      - hayas inmovilizado
+      - haya inmovilizado
+      - hayamos inmovilizado
+      - "hay\xE1is inmovilizado"
+      - hayan inmovilizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera inmovilizado
+      - hubieras inmovilizado
+      - hubiera inmovilizado
+      - "hubi\xE9ramos inmovilizado"
+      - hubierais inmovilizado
+      - hubieran inmovilizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese inmovilizado
+      - hubieses inmovilizado
+      - hubiese inmovilizado
+      - "hubi\xE9semos inmovilizado"
+      - hubieseis inmovilizado
+      - hubiesen inmovilizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere inmovilizado
+      - hubieres inmovilizado
+      - hubiere inmovilizado
+      - "hubi\xE9remos inmovilizado"
+      - hubiereis inmovilizado
+      - hubieren inmovilizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inmoviliza
+      - inmovilice
+      - inmovilicemos
+      - inmovilizad
+      - inmovilicen
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "inmovilizaci\xF3n"

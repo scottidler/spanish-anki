@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|enga\xF1ar||} {bc}to {a_link|trick}, to {a_link|deceive}"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|eludir||} {bc}to {a_link|evade}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|make fun of}'
+            vrs:
+            - va: burlarse de
+              vac: ~ de
+    drp: burlarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: burlar
+    prs:
+    - sound:
+        audio: burla02sp
+  meta:
+    id: burlar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603444000'
+    src: spanish
+    stems:
+    - burlar
+    - burlarse
+    - burlarse de
+    uuid: c39237a4-abbb-4e09-867a-aa09cbdc2454
+  shortdef:
+  - "enga\xF1ar : to trick, to deceive"
+  - 'eludir : to evade'
+  suppl:
+    cjts:
+    - cjfs:
+      - burlando
+      - burlado
+      cjid: gppt
+    - cjfs:
+      - burlo
+      - burlas
+      - burla
+      - burlamos
+      - "burl\xE1is"
+      - burlan
+      cjid: pind
+    - cjfs:
+      - burlaba
+      - burlabas
+      - burlaba
+      - "burl\xE1bamos"
+      - burlabais
+      - burlaban
+      cjid: pret
+    - cjfs:
+      - "burl\xE9"
+      - burlaste
+      - "burl\xF3"
+      - burlamos
+      - burlasteis
+      - burlaron
+      cjid: pprf
+    - cjfs:
+      - "burlar\xE9"
+      - "burlar\xE1s"
+      - "burlar\xE1"
+      - burlaremos
+      - "burlar\xE9is"
+      - "burlar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "burlar\xEDa"
+      - "burlar\xEDas"
+      - "burlar\xEDa"
+      - "burlar\xEDamos"
+      - "burlar\xEDais"
+      - "burlar\xEDan"
+      cjid: cond
+    - cjfs:
+      - burle
+      - burles
+      - burle
+      - burlemos
+      - "burl\xE9is"
+      - burlen
+      cjid: psub
+    - cjfs:
+      - burlara
+      - burlaras
+      - burlara
+      - "burl\xE1ramos"
+      - burlarais
+      - burlaran
+      cjid: pisb1
+    - cjfs:
+      - burlase
+      - burlases
+      - burlase
+      - "burl\xE1semos"
+      - burlaseis
+      - burlasen
+      cjid: pisb2
+    - cjfs:
+      - burlare
+      - burlares
+      - burlare
+      - "burl\xE1remos"
+      - burlareis
+      - burlaren
+      cjid: fsub
+    - cjfs:
+      - he burlado
+      - has burlado
+      - ha burlado
+      - hemos burlado
+      - "hab\xE9is burlado"
+      - han burlado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa burlado"
+      - "hab\xEDas burlado"
+      - "hab\xEDa burlado"
+      - "hab\xEDamos burlado"
+      - "hab\xEDais burlado"
+      - "hab\xEDan burlado"
+      cjid: ppsi
+    - cjfs:
+      - hube burlado
+      - hubiste burlado
+      - hubo burlado
+      - hubimos burlado
+      - hubisteis burlado
+      - hubieron burlado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 burlado"
+      - "habr\xE1s burlado"
+      - "habr\xE1 burlado"
+      - habremos burlado
+      - "habr\xE9is burlado"
+      - "habr\xE1n burlado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa burlado"
+      - "habr\xEDas burlado"
+      - "habr\xEDa burlado"
+      - "habr\xEDamos burlado"
+      - "habr\xEDais burlado"
+      - "habr\xEDan burlado"
+      cjid: cpef
+    - cjfs:
+      - haya burlado
+      - hayas burlado
+      - haya burlado
+      - hayamos burlado
+      - "hay\xE1is burlado"
+      - hayan burlado
+      cjid: ppfs
+    - cjfs:
+      - hubiera burlado
+      - hubieras burlado
+      - hubiera burlado
+      - "hubi\xE9ramos burlado"
+      - hubierais burlado
+      - hubieran burlado
+      cjid: ppss1
+    - cjfs:
+      - hubiese burlado
+      - hubieses burlado
+      - hubiese burlado
+      - "hubi\xE9semos burlado"
+      - hubieseis burlado
+      - hubiesen burlado
+      cjid: ppss2
+    - cjfs:
+      - hubiere burlado
+      - hubieres burlado
+      - hubiere burlado
+      - "hubi\xE9remos burlado"
+      - hubiereis burlado
+      - hubieren burlado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - burla
+      - burle
+      - burlemos
+      - burlad
+      - burlen
+      cjid: impf

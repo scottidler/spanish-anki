@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fill}, to {a_link|fill up}, to {a_link|fill in}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|meet}, to {a_link|fulfill} '
+          - - vis
+            - - t: los regalos no llenaron sus expectativas
+                tr: the gifts did not meet her expectations
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fill up}, to become full'
+    drp: llenarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: llenar
+    prs:
+    - sound:
+        audio: llena01sp
+  meta:
+    id: llenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613933000'
+    src: spanish
+    stems:
+    - llenar
+    - llenarse
+    uuid: 7a2e3aab-0167-466f-a2c5-1012b2f4711e
+  shortdef:
+  - to fill, to fill up, to fill in
+  - to meet, to fulfill
+  suppl:
+    cjts:
+    - cjfs:
+      - llenando
+      - llenado
+      cjid: gppt
+    - cjfs:
+      - lleno
+      - llenas
+      - llena
+      - llenamos
+      - "llen\xE1is"
+      - llenan
+      cjid: pind
+    - cjfs:
+      - llenaba
+      - llenabas
+      - llenaba
+      - "llen\xE1bamos"
+      - llenabais
+      - llenaban
+      cjid: pret
+    - cjfs:
+      - "llen\xE9"
+      - llenaste
+      - "llen\xF3"
+      - llenamos
+      - llenasteis
+      - llenaron
+      cjid: pprf
+    - cjfs:
+      - "llenar\xE9"
+      - "llenar\xE1s"
+      - "llenar\xE1"
+      - llenaremos
+      - "llenar\xE9is"
+      - "llenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "llenar\xEDa"
+      - "llenar\xEDas"
+      - "llenar\xEDa"
+      - "llenar\xEDamos"
+      - "llenar\xEDais"
+      - "llenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - llene
+      - llenes
+      - llene
+      - llenemos
+      - "llen\xE9is"
+      - llenen
+      cjid: psub
+    - cjfs:
+      - llenara
+      - llenaras
+      - llenara
+      - "llen\xE1ramos"
+      - llenarais
+      - llenaran
+      cjid: pisb1
+    - cjfs:
+      - llenase
+      - llenases
+      - llenase
+      - "llen\xE1semos"
+      - llenaseis
+      - llenasen
+      cjid: pisb2
+    - cjfs:
+      - llenare
+      - llenares
+      - llenare
+      - "llen\xE1remos"
+      - llenareis
+      - llenaren
+      cjid: fsub
+    - cjfs:
+      - he llenado
+      - has llenado
+      - ha llenado
+      - hemos llenado
+      - "hab\xE9is llenado"
+      - han llenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa llenado"
+      - "hab\xEDas llenado"
+      - "hab\xEDa llenado"
+      - "hab\xEDamos llenado"
+      - "hab\xEDais llenado"
+      - "hab\xEDan llenado"
+      cjid: ppsi
+    - cjfs:
+      - hube llenado
+      - hubiste llenado
+      - hubo llenado
+      - hubimos llenado
+      - hubisteis llenado
+      - hubieron llenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 llenado"
+      - "habr\xE1s llenado"
+      - "habr\xE1 llenado"
+      - habremos llenado
+      - "habr\xE9is llenado"
+      - "habr\xE1n llenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa llenado"
+      - "habr\xEDas llenado"
+      - "habr\xEDa llenado"
+      - "habr\xEDamos llenado"
+      - "habr\xEDais llenado"
+      - "habr\xEDan llenado"
+      cjid: cpef
+    - cjfs:
+      - haya llenado
+      - hayas llenado
+      - haya llenado
+      - hayamos llenado
+      - "hay\xE1is llenado"
+      - hayan llenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera llenado
+      - hubieras llenado
+      - hubiera llenado
+      - "hubi\xE9ramos llenado"
+      - hubierais llenado
+      - hubieran llenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese llenado
+      - hubieses llenado
+      - hubiese llenado
+      - "hubi\xE9semos llenado"
+      - hubieseis llenado
+      - hubiesen llenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere llenado
+      - hubieres llenado
+      - hubiere llenado
+      - "hubi\xE9remos llenado"
+      - hubiereis llenado
+      - hubieren llenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - llena
+      - llene
+      - llenemos
+      - llenad
+      - llenen
+      cjid: impf

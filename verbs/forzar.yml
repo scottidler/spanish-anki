@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|obligar||} {bc}to {a_link|force}, to {a_link|compel}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to force open'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|strain} '
+          - - vis
+            - - t: forzar los ojos
+                tr: to strain one's eyes
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: forzar
+    prs:
+    - sound:
+        audio: forza01sp
+  meta:
+    id: forzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610339000'
+    src: spanish
+    stems:
+    - forzar
+    uuid: bc49b1ea-5d35-49ac-bba6-5ecabcdf6840
+  shortdef:
+  - 'obligar : to force, to compel'
+  - to force open
+  - to strain
+  suppl:
+    cjts:
+    - cjfs:
+      - forzando
+      - forzado
+      cjid: gppt
+    - cjfs:
+      - fuerzo
+      - fuerzas
+      - fuerza
+      - forzamos
+      - "forz\xE1is"
+      - fuerzan
+      cjid: pind
+    - cjfs:
+      - forzaba
+      - forzabas
+      - forzaba
+      - "forz\xE1bamos"
+      - forzabais
+      - forzaban
+      cjid: pret
+    - cjfs:
+      - "forc\xE9"
+      - forzaste
+      - "forz\xF3"
+      - forzamos
+      - forzasteis
+      - forzaron
+      cjid: pprf
+    - cjfs:
+      - "forzar\xE9"
+      - "forzar\xE1s"
+      - "forzar\xE1"
+      - forzaremos
+      - "forzar\xE9is"
+      - "forzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "forzar\xEDa"
+      - "forzar\xEDas"
+      - "forzar\xEDa"
+      - "forzar\xEDamos"
+      - "forzar\xEDais"
+      - "forzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - fuerce
+      - fuerces
+      - fuerce
+      - forcemos
+      - "forc\xE9is"
+      - fuercen
+      cjid: psub
+    - cjfs:
+      - forzara
+      - forzaras
+      - forzara
+      - "forz\xE1ramos"
+      - forzarais
+      - forzaran
+      cjid: pisb1
+    - cjfs:
+      - forzase
+      - forzases
+      - forzase
+      - "forz\xE1semos"
+      - forzaseis
+      - forzasen
+      cjid: pisb2
+    - cjfs:
+      - forzare
+      - forzares
+      - forzare
+      - "forz\xE1remos"
+      - forzareis
+      - forzaren
+      cjid: fsub
+    - cjfs:
+      - he forzado
+      - has forzado
+      - ha forzado
+      - hemos forzado
+      - "hab\xE9is forzado"
+      - han forzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa forzado"
+      - "hab\xEDas forzado"
+      - "hab\xEDa forzado"
+      - "hab\xEDamos forzado"
+      - "hab\xEDais forzado"
+      - "hab\xEDan forzado"
+      cjid: ppsi
+    - cjfs:
+      - hube forzado
+      - hubiste forzado
+      - hubo forzado
+      - hubimos forzado
+      - hubisteis forzado
+      - hubieron forzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 forzado"
+      - "habr\xE1s forzado"
+      - "habr\xE1 forzado"
+      - habremos forzado
+      - "habr\xE9is forzado"
+      - "habr\xE1n forzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa forzado"
+      - "habr\xEDas forzado"
+      - "habr\xEDa forzado"
+      - "habr\xEDamos forzado"
+      - "habr\xEDais forzado"
+      - "habr\xEDan forzado"
+      cjid: cpef
+    - cjfs:
+      - haya forzado
+      - hayas forzado
+      - haya forzado
+      - hayamos forzado
+      - "hay\xE1is forzado"
+      - hayan forzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera forzado
+      - hubieras forzado
+      - hubiera forzado
+      - "hubi\xE9ramos forzado"
+      - hubierais forzado
+      - hubieran forzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese forzado
+      - hubieses forzado
+      - hubiese forzado
+      - "hubi\xE9semos forzado"
+      - hubieseis forzado
+      - hubiesen forzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere forzado
+      - hubieres forzado
+      - hubiere forzado
+      - "hubi\xE9remos forzado"
+      - hubiereis forzado
+      - hubieren forzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fuerza
+      - fuerce
+      - forcemos
+      - forzad
+      - fuercen
+      cjid: impf

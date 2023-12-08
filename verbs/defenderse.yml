@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|defend}, to {a_link|protect}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to defend oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get by}, to know the basics '
+            - - vis
+              - - t: "su ingl\xE9s no es perfecto pero se defiende"
+                  tr: his English isn't perfect but he gets by
+            sn: '2'
+    drp: defenderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: defender
+  meta:
+    id: defender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606553000'
+    src: spanish
+    stems:
+    - defender
+    - defenderse
+    uuid: d8d3fe42-0534-417c-949f-16d5b3b219cc
+  shortdef:
+  - to defend, to protect
+  suppl:
+    cjts:
+    - cjfs:
+      - defendiendo
+      - defendido
+      cjid: gppt
+    - cjfs:
+      - defiendo
+      - defiendes
+      - defiende
+      - defendemos
+      - "defend\xE9is"
+      - defienden
+      cjid: pind
+    - cjfs:
+      - "defend\xEDa"
+      - "defend\xEDas"
+      - "defend\xEDa"
+      - "defend\xEDamos"
+      - "defend\xEDais"
+      - "defend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "defend\xED"
+      - defendiste
+      - "defendi\xF3"
+      - defendimos
+      - defendisteis
+      - defendieron
+      cjid: pprf
+    - cjfs:
+      - "defender\xE9"
+      - "defender\xE1s"
+      - "defender\xE1"
+      - defenderemos
+      - "defender\xE9is"
+      - "defender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "defender\xEDa"
+      - "defender\xEDas"
+      - "defender\xEDa"
+      - "defender\xEDamos"
+      - "defender\xEDais"
+      - "defender\xEDan"
+      cjid: cond
+    - cjfs:
+      - defienda
+      - defiendas
+      - defienda
+      - defendamos
+      - "defend\xE1is"
+      - defiendan
+      cjid: psub
+    - cjfs:
+      - defendiera
+      - defendieras
+      - defendiera
+      - "defendi\xE9ramos"
+      - defendierais
+      - defendieran
+      cjid: pisb1
+    - cjfs:
+      - defendiese
+      - defendieses
+      - defendiese
+      - "defendi\xE9semos"
+      - defendieseis
+      - defendiesen
+      cjid: pisb2
+    - cjfs:
+      - defendiere
+      - defendieres
+      - defendiere
+      - "defendi\xE9remos"
+      - defendiereis
+      - defendieren
+      cjid: fsub
+    - cjfs:
+      - he defendido
+      - has defendido
+      - ha defendido
+      - hemos defendido
+      - "hab\xE9is defendido"
+      - han defendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa defendido"
+      - "hab\xEDas defendido"
+      - "hab\xEDa defendido"
+      - "hab\xEDamos defendido"
+      - "hab\xEDais defendido"
+      - "hab\xEDan defendido"
+      cjid: ppsi
+    - cjfs:
+      - hube defendido
+      - hubiste defendido
+      - hubo defendido
+      - hubimos defendido
+      - hubisteis defendido
+      - hubieron defendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 defendido"
+      - "habr\xE1s defendido"
+      - "habr\xE1 defendido"
+      - habremos defendido
+      - "habr\xE9is defendido"
+      - "habr\xE1n defendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa defendido"
+      - "habr\xEDas defendido"
+      - "habr\xEDa defendido"
+      - "habr\xEDamos defendido"
+      - "habr\xEDais defendido"
+      - "habr\xEDan defendido"
+      cjid: cpef
+    - cjfs:
+      - haya defendido
+      - hayas defendido
+      - haya defendido
+      - hayamos defendido
+      - "hay\xE1is defendido"
+      - hayan defendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera defendido
+      - hubieras defendido
+      - hubiera defendido
+      - "hubi\xE9ramos defendido"
+      - hubierais defendido
+      - hubieran defendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese defendido
+      - hubieses defendido
+      - hubiese defendido
+      - "hubi\xE9semos defendido"
+      - hubieseis defendido
+      - hubiesen defendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere defendido
+      - hubieres defendido
+      - hubiere defendido
+      - "hubi\xE9remos defendido"
+      - hubiereis defendido
+      - hubieren defendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - defiende
+      - defienda
+      - defendamos
+      - defended
+      - defiendan
+      cjid: impf

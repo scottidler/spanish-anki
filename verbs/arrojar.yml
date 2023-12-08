@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hurl}, to {a_link|cast}, to {a_link|throw}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give off}, to spew out'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|yield}, to {a_link|produce}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vomit}'
+          sls:
+          - familiar
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|precipitarse||} {bc}to throw oneself, to {a_link|leap}'
+    drp: arrojarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arrojar
+    prs:
+    - sound:
+        audio: arroj01sp
+  meta:
+    id: arrojar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602035000'
+    src: spanish
+    stems:
+    - arrojar
+    - arrojarse
+    uuid: a46b4256-ef25-4fdc-8147-b7e197694fac
+  shortdef:
+  - to hurl, to cast, to throw
+  - to give off, to spew out
+  - to yield, to produce
+  suppl:
+    cjts:
+    - cjfs:
+      - arrojando
+      - arrojado
+      cjid: gppt
+    - cjfs:
+      - arrojo
+      - arrojas
+      - arroja
+      - arrojamos
+      - "arroj\xE1is"
+      - arrojan
+      cjid: pind
+    - cjfs:
+      - arrojaba
+      - arrojabas
+      - arrojaba
+      - "arroj\xE1bamos"
+      - arrojabais
+      - arrojaban
+      cjid: pret
+    - cjfs:
+      - "arroj\xE9"
+      - arrojaste
+      - "arroj\xF3"
+      - arrojamos
+      - arrojasteis
+      - arrojaron
+      cjid: pprf
+    - cjfs:
+      - "arrojar\xE9"
+      - "arrojar\xE1s"
+      - "arrojar\xE1"
+      - arrojaremos
+      - "arrojar\xE9is"
+      - "arrojar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrojar\xEDa"
+      - "arrojar\xEDas"
+      - "arrojar\xEDa"
+      - "arrojar\xEDamos"
+      - "arrojar\xEDais"
+      - "arrojar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arroje
+      - arrojes
+      - arroje
+      - arrojemos
+      - "arroj\xE9is"
+      - arrojen
+      cjid: psub
+    - cjfs:
+      - arrojara
+      - arrojaras
+      - arrojara
+      - "arroj\xE1ramos"
+      - arrojarais
+      - arrojaran
+      cjid: pisb1
+    - cjfs:
+      - arrojase
+      - arrojases
+      - arrojase
+      - "arroj\xE1semos"
+      - arrojaseis
+      - arrojasen
+      cjid: pisb2
+    - cjfs:
+      - arrojare
+      - arrojares
+      - arrojare
+      - "arroj\xE1remos"
+      - arrojareis
+      - arrojaren
+      cjid: fsub
+    - cjfs:
+      - he arrojado
+      - has arrojado
+      - ha arrojado
+      - hemos arrojado
+      - "hab\xE9is arrojado"
+      - han arrojado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrojado"
+      - "hab\xEDas arrojado"
+      - "hab\xEDa arrojado"
+      - "hab\xEDamos arrojado"
+      - "hab\xEDais arrojado"
+      - "hab\xEDan arrojado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrojado
+      - hubiste arrojado
+      - hubo arrojado
+      - hubimos arrojado
+      - hubisteis arrojado
+      - hubieron arrojado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrojado"
+      - "habr\xE1s arrojado"
+      - "habr\xE1 arrojado"
+      - habremos arrojado
+      - "habr\xE9is arrojado"
+      - "habr\xE1n arrojado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrojado"
+      - "habr\xEDas arrojado"
+      - "habr\xEDa arrojado"
+      - "habr\xEDamos arrojado"
+      - "habr\xEDais arrojado"
+      - "habr\xEDan arrojado"
+      cjid: cpef
+    - cjfs:
+      - haya arrojado
+      - hayas arrojado
+      - haya arrojado
+      - hayamos arrojado
+      - "hay\xE1is arrojado"
+      - hayan arrojado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrojado
+      - hubieras arrojado
+      - hubiera arrojado
+      - "hubi\xE9ramos arrojado"
+      - hubierais arrojado
+      - hubieran arrojado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrojado
+      - hubieses arrojado
+      - hubiese arrojado
+      - "hubi\xE9semos arrojado"
+      - hubieseis arrojado
+      - hubiesen arrojado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrojado
+      - hubieres arrojado
+      - hubiere arrojado
+      - "hubi\xE9remos arrojado"
+      - hubiereis arrojado
+      - hubieren arrojado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arroja
+      - arroje
+      - arrojemos
+      - arrojad
+      - arrojen
+      cjid: impf

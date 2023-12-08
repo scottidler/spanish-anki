@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deposit}, to {a_link|place}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|store}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|settle}'
+    drp: depositarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: depositar
+    prs:
+    - sound:
+        audio: depos01sp
+  meta:
+    id: depositar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606721000'
+    src: spanish
+    stems:
+    - depositar
+    - depositarse
+    uuid: 1413d88b-929c-4014-a98f-d17fc4d62e33
+  shortdef:
+  - to deposit, to place
+  - to store
+  suppl:
+    cjts:
+    - cjfs:
+      - depositando
+      - depositado
+      cjid: gppt
+    - cjfs:
+      - deposito
+      - depositas
+      - deposita
+      - depositamos
+      - "deposit\xE1is"
+      - depositan
+      cjid: pind
+    - cjfs:
+      - depositaba
+      - depositabas
+      - depositaba
+      - "deposit\xE1bamos"
+      - depositabais
+      - depositaban
+      cjid: pret
+    - cjfs:
+      - "deposit\xE9"
+      - depositaste
+      - "deposit\xF3"
+      - depositamos
+      - depositasteis
+      - depositaron
+      cjid: pprf
+    - cjfs:
+      - "depositar\xE9"
+      - "depositar\xE1s"
+      - "depositar\xE1"
+      - depositaremos
+      - "depositar\xE9is"
+      - "depositar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "depositar\xEDa"
+      - "depositar\xEDas"
+      - "depositar\xEDa"
+      - "depositar\xEDamos"
+      - "depositar\xEDais"
+      - "depositar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deposite
+      - deposites
+      - deposite
+      - depositemos
+      - "deposit\xE9is"
+      - depositen
+      cjid: psub
+    - cjfs:
+      - depositara
+      - depositaras
+      - depositara
+      - "deposit\xE1ramos"
+      - depositarais
+      - depositaran
+      cjid: pisb1
+    - cjfs:
+      - depositase
+      - depositases
+      - depositase
+      - "deposit\xE1semos"
+      - depositaseis
+      - depositasen
+      cjid: pisb2
+    - cjfs:
+      - depositare
+      - depositares
+      - depositare
+      - "deposit\xE1remos"
+      - depositareis
+      - depositaren
+      cjid: fsub
+    - cjfs:
+      - he depositado
+      - has depositado
+      - ha depositado
+      - hemos depositado
+      - "hab\xE9is depositado"
+      - han depositado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa depositado"
+      - "hab\xEDas depositado"
+      - "hab\xEDa depositado"
+      - "hab\xEDamos depositado"
+      - "hab\xEDais depositado"
+      - "hab\xEDan depositado"
+      cjid: ppsi
+    - cjfs:
+      - hube depositado
+      - hubiste depositado
+      - hubo depositado
+      - hubimos depositado
+      - hubisteis depositado
+      - hubieron depositado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 depositado"
+      - "habr\xE1s depositado"
+      - "habr\xE1 depositado"
+      - habremos depositado
+      - "habr\xE9is depositado"
+      - "habr\xE1n depositado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa depositado"
+      - "habr\xEDas depositado"
+      - "habr\xEDa depositado"
+      - "habr\xEDamos depositado"
+      - "habr\xEDais depositado"
+      - "habr\xEDan depositado"
+      cjid: cpef
+    - cjfs:
+      - haya depositado
+      - hayas depositado
+      - haya depositado
+      - hayamos depositado
+      - "hay\xE1is depositado"
+      - hayan depositado
+      cjid: ppfs
+    - cjfs:
+      - hubiera depositado
+      - hubieras depositado
+      - hubiera depositado
+      - "hubi\xE9ramos depositado"
+      - hubierais depositado
+      - hubieran depositado
+      cjid: ppss1
+    - cjfs:
+      - hubiese depositado
+      - hubieses depositado
+      - hubiese depositado
+      - "hubi\xE9semos depositado"
+      - hubieseis depositado
+      - hubiesen depositado
+      cjid: ppss2
+    - cjfs:
+      - hubiere depositado
+      - hubieres depositado
+      - hubiere depositado
+      - "hubi\xE9remos depositado"
+      - hubiereis depositado
+      - hubieren depositado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - deposita
+      - deposite
+      - depositemos
+      - depositad
+      - depositen
+      cjid: impf

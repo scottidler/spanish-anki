@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|protrude}, to jut out, to {a_link|project}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stand out}, to {a_link|excel}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: sobresalir
+    prs:
+    - sound:
+        audio: sobre12sp
+  meta:
+    id: sobresalir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620791000'
+    src: spanish
+    stems:
+    - sobresalir
+    uuid: fd4c9334-acac-466b-a626-9f1145199d92
+  shortdef:
+  - to protrude, to jut out, to project
+  - to stand out, to excel
+  suppl:
+    cjts:
+    - cjfs:
+      - sobresaliendo
+      - sobresalido
+      cjid: gppt
+    - cjfs:
+      - sobresalgo
+      - sobresales
+      - sobresale
+      - sobresalimos
+      - "sobresal\xEDs"
+      - sobresalen
+      cjid: pind
+    - cjfs:
+      - "sobresal\xEDa"
+      - "sobresal\xEDas"
+      - "sobresal\xEDa"
+      - "sobresal\xEDamos"
+      - "sobresal\xEDais"
+      - "sobresal\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sobresal\xED"
+      - sobresaliste
+      - "sobresali\xF3"
+      - sobresalimos
+      - sobresalisteis
+      - sobresalieron
+      cjid: pprf
+    - cjfs:
+      - "sobresaldr\xE9"
+      - "sobresaldr\xE1s"
+      - "sobresaldr\xE1"
+      - sobresaldremos
+      - "sobresaldr\xE9is"
+      - "sobresaldr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sobresaldr\xEDa"
+      - "sobresaldr\xEDas"
+      - "sobresaldr\xEDa"
+      - "sobresaldr\xEDamos"
+      - "sobresaldr\xEDais"
+      - "sobresaldr\xEDan"
+      cjid: cond
+    - cjfs:
+      - sobresalga
+      - sobresalgas
+      - sobresalga
+      - sobresalgamos
+      - "sobresalg\xE1is"
+      - sobresalgan
+      cjid: psub
+    - cjfs:
+      - sobresaliera
+      - sobresalieras
+      - sobresaliera
+      - "sobresali\xE9ramos"
+      - sobresalierais
+      - sobresalieran
+      cjid: pisb1
+    - cjfs:
+      - sobresaliese
+      - sobresalieses
+      - sobresaliese
+      - "sobresali\xE9semos"
+      - sobresalieseis
+      - sobresaliesen
+      cjid: pisb2
+    - cjfs:
+      - sobresaliere
+      - sobresalieres
+      - sobresaliere
+      - "sobresali\xE9remos"
+      - sobresaliereis
+      - sobresalieren
+      cjid: fsub
+    - cjfs:
+      - he sobresalido
+      - has sobresalido
+      - ha sobresalido
+      - hemos sobresalido
+      - "hab\xE9is sobresalido"
+      - han sobresalido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sobresalido"
+      - "hab\xEDas sobresalido"
+      - "hab\xEDa sobresalido"
+      - "hab\xEDamos sobresalido"
+      - "hab\xEDais sobresalido"
+      - "hab\xEDan sobresalido"
+      cjid: ppsi
+    - cjfs:
+      - hube sobresalido
+      - hubiste sobresalido
+      - hubo sobresalido
+      - hubimos sobresalido
+      - hubisteis sobresalido
+      - hubieron sobresalido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sobresalido"
+      - "habr\xE1s sobresalido"
+      - "habr\xE1 sobresalido"
+      - habremos sobresalido
+      - "habr\xE9is sobresalido"
+      - "habr\xE1n sobresalido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sobresalido"
+      - "habr\xEDas sobresalido"
+      - "habr\xEDa sobresalido"
+      - "habr\xEDamos sobresalido"
+      - "habr\xEDais sobresalido"
+      - "habr\xEDan sobresalido"
+      cjid: cpef
+    - cjfs:
+      - haya sobresalido
+      - hayas sobresalido
+      - haya sobresalido
+      - hayamos sobresalido
+      - "hay\xE1is sobresalido"
+      - hayan sobresalido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sobresalido
+      - hubieras sobresalido
+      - hubiera sobresalido
+      - "hubi\xE9ramos sobresalido"
+      - hubierais sobresalido
+      - hubieran sobresalido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sobresalido
+      - hubieses sobresalido
+      - hubiese sobresalido
+      - "hubi\xE9semos sobresalido"
+      - hubieseis sobresalido
+      - hubiesen sobresalido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sobresalido
+      - hubieres sobresalido
+      - hubiere sobresalido
+      - "hubi\xE9remos sobresalido"
+      - hubiereis sobresalido
+      - hubieren sobresalido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sobresal
+      - sobresalga
+      - sobresalgamos
+      - sobresalid
+      - sobresalgan
+      cjid: impf

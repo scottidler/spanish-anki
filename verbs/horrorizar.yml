@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|horrify}, to {a_link|terrify}'
+  fl: transitive verb
+  hwi:
+    hw: horrorizar
+  meta:
+    id: horrorizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611669000'
+    src: spanish
+    stems:
+    - horrorizar
+    - horrorizarse
+    uuid: 581f1b4f-16db-484f-b114-52bf64afd2c1
+  shortdef:
+  - to horrify, to terrify
+  suppl:
+    cjts:
+    - cjfs:
+      - horrorizando
+      - horrorizado
+      cjid: gppt
+    - cjfs:
+      - horrorizo
+      - horrorizas
+      - horroriza
+      - horrorizamos
+      - "horroriz\xE1is"
+      - horrorizan
+      cjid: pind
+    - cjfs:
+      - horrorizaba
+      - horrorizabas
+      - horrorizaba
+      - "horroriz\xE1bamos"
+      - horrorizabais
+      - horrorizaban
+      cjid: pret
+    - cjfs:
+      - "horroric\xE9"
+      - horrorizaste
+      - "horroriz\xF3"
+      - horrorizamos
+      - horrorizasteis
+      - horrorizaron
+      cjid: pprf
+    - cjfs:
+      - "horrorizar\xE9"
+      - "horrorizar\xE1s"
+      - "horrorizar\xE1"
+      - horrorizaremos
+      - "horrorizar\xE9is"
+      - "horrorizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "horrorizar\xEDa"
+      - "horrorizar\xEDas"
+      - "horrorizar\xEDa"
+      - "horrorizar\xEDamos"
+      - "horrorizar\xEDais"
+      - "horrorizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - horrorice
+      - horrorices
+      - horrorice
+      - horroricemos
+      - "horroric\xE9is"
+      - horroricen
+      cjid: psub
+    - cjfs:
+      - horrorizara
+      - horrorizaras
+      - horrorizara
+      - "horroriz\xE1ramos"
+      - horrorizarais
+      - horrorizaran
+      cjid: pisb1
+    - cjfs:
+      - horrorizase
+      - horrorizases
+      - horrorizase
+      - "horroriz\xE1semos"
+      - horrorizaseis
+      - horrorizasen
+      cjid: pisb2
+    - cjfs:
+      - horrorizare
+      - horrorizares
+      - horrorizare
+      - "horroriz\xE1remos"
+      - horrorizareis
+      - horrorizaren
+      cjid: fsub
+    - cjfs:
+      - he horrorizado
+      - has horrorizado
+      - ha horrorizado
+      - hemos horrorizado
+      - "hab\xE9is horrorizado"
+      - han horrorizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa horrorizado"
+      - "hab\xEDas horrorizado"
+      - "hab\xEDa horrorizado"
+      - "hab\xEDamos horrorizado"
+      - "hab\xEDais horrorizado"
+      - "hab\xEDan horrorizado"
+      cjid: ppsi
+    - cjfs:
+      - hube horrorizado
+      - hubiste horrorizado
+      - hubo horrorizado
+      - hubimos horrorizado
+      - hubisteis horrorizado
+      - hubieron horrorizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 horrorizado"
+      - "habr\xE1s horrorizado"
+      - "habr\xE1 horrorizado"
+      - habremos horrorizado
+      - "habr\xE9is horrorizado"
+      - "habr\xE1n horrorizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa horrorizado"
+      - "habr\xEDas horrorizado"
+      - "habr\xEDa horrorizado"
+      - "habr\xEDamos horrorizado"
+      - "habr\xEDais horrorizado"
+      - "habr\xEDan horrorizado"
+      cjid: cpef
+    - cjfs:
+      - haya horrorizado
+      - hayas horrorizado
+      - haya horrorizado
+      - hayamos horrorizado
+      - "hay\xE1is horrorizado"
+      - hayan horrorizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera horrorizado
+      - hubieras horrorizado
+      - hubiera horrorizado
+      - "hubi\xE9ramos horrorizado"
+      - hubierais horrorizado
+      - hubieran horrorizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese horrorizado
+      - hubieses horrorizado
+      - hubiese horrorizado
+      - "hubi\xE9semos horrorizado"
+      - hubieseis horrorizado
+      - hubiesen horrorizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere horrorizado
+      - hubieres horrorizado
+      - hubiere horrorizado
+      - "hubi\xE9remos horrorizado"
+      - hubiereis horrorizado
+      - hubieren horrorizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - horroriza
+      - horrorice
+      - horroricemos
+      - horrorizad
+      - horroricen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: horrorizarse

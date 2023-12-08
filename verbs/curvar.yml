@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bend}'
+  fl: transitive verb
+  hwi:
+    hw: curvar
+  meta:
+    id: curvar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606401000'
+    src: spanish
+    stems:
+    - curvar
+    uuid: c81f71c7-7c2b-4953-9e8d-86dd1a1d3645
+  shortdef:
+  - to bend
+  suppl:
+    cjts:
+    - cjfs:
+      - curvando
+      - curvado
+      cjid: gppt
+    - cjfs:
+      - curvo
+      - curvas
+      - curva
+      - curvamos
+      - "curv\xE1is"
+      - curvan
+      cjid: pind
+    - cjfs:
+      - curvaba
+      - curvabas
+      - curvaba
+      - "curv\xE1bamos"
+      - curvabais
+      - curvaban
+      cjid: pret
+    - cjfs:
+      - "curv\xE9"
+      - curvaste
+      - "curv\xF3"
+      - curvamos
+      - curvasteis
+      - curvaron
+      cjid: pprf
+    - cjfs:
+      - "curvar\xE9"
+      - "curvar\xE1s"
+      - "curvar\xE1"
+      - curvaremos
+      - "curvar\xE9is"
+      - "curvar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "curvar\xEDa"
+      - "curvar\xEDas"
+      - "curvar\xEDa"
+      - "curvar\xEDamos"
+      - "curvar\xEDais"
+      - "curvar\xEDan"
+      cjid: cond
+    - cjfs:
+      - curve
+      - curves
+      - curve
+      - curvemos
+      - "curv\xE9is"
+      - curven
+      cjid: psub
+    - cjfs:
+      - curvara
+      - curvaras
+      - curvara
+      - "curv\xE1ramos"
+      - curvarais
+      - curvaran
+      cjid: pisb1
+    - cjfs:
+      - curvase
+      - curvases
+      - curvase
+      - "curv\xE1semos"
+      - curvaseis
+      - curvasen
+      cjid: pisb2
+    - cjfs:
+      - curvare
+      - curvares
+      - curvare
+      - "curv\xE1remos"
+      - curvareis
+      - curvaren
+      cjid: fsub
+    - cjfs:
+      - he curvado
+      - has curvado
+      - ha curvado
+      - hemos curvado
+      - "hab\xE9is curvado"
+      - han curvado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa curvado"
+      - "hab\xEDas curvado"
+      - "hab\xEDa curvado"
+      - "hab\xEDamos curvado"
+      - "hab\xEDais curvado"
+      - "hab\xEDan curvado"
+      cjid: ppsi
+    - cjfs:
+      - hube curvado
+      - hubiste curvado
+      - hubo curvado
+      - hubimos curvado
+      - hubisteis curvado
+      - hubieron curvado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 curvado"
+      - "habr\xE1s curvado"
+      - "habr\xE1 curvado"
+      - habremos curvado
+      - "habr\xE9is curvado"
+      - "habr\xE1n curvado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa curvado"
+      - "habr\xEDas curvado"
+      - "habr\xEDa curvado"
+      - "habr\xEDamos curvado"
+      - "habr\xEDais curvado"
+      - "habr\xEDan curvado"
+      cjid: cpef
+    - cjfs:
+      - haya curvado
+      - hayas curvado
+      - haya curvado
+      - hayamos curvado
+      - "hay\xE1is curvado"
+      - hayan curvado
+      cjid: ppfs
+    - cjfs:
+      - hubiera curvado
+      - hubieras curvado
+      - hubiera curvado
+      - "hubi\xE9ramos curvado"
+      - hubierais curvado
+      - hubieran curvado
+      cjid: ppss1
+    - cjfs:
+      - hubiese curvado
+      - hubieses curvado
+      - hubiese curvado
+      - "hubi\xE9semos curvado"
+      - hubieseis curvado
+      - hubiesen curvado
+      cjid: ppss2
+    - cjfs:
+      - hubiere curvado
+      - hubieres curvado
+      - hubiere curvado
+      - "hubi\xE9remos curvado"
+      - hubiereis curvado
+      - hubieren curvado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - curva
+      - curve
+      - curvemos
+      - curvad
+      - curven
+      cjid: impf

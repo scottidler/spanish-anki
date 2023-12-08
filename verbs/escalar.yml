@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|climb}, to {a_link|scale}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go climbing'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|escalate}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: escalar
+    prs:
+    - sound:
+        audio: escal04sp
+  meta:
+    id: escalar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608932000'
+    src: spanish
+    stems:
+    - escalar
+    uuid: 644a499a-2c24-47f9-9b0d-1b98699fd943
+  shortdef:
+  - to climb, to scale
+  - to go climbing
+  - to escalate
+  suppl:
+    cjts:
+    - cjfs:
+      - escalando
+      - escalado
+      cjid: gppt
+    - cjfs:
+      - escalo
+      - escalas
+      - escala
+      - escalamos
+      - "escal\xE1is"
+      - escalan
+      cjid: pind
+    - cjfs:
+      - escalaba
+      - escalabas
+      - escalaba
+      - "escal\xE1bamos"
+      - escalabais
+      - escalaban
+      cjid: pret
+    - cjfs:
+      - "escal\xE9"
+      - escalaste
+      - "escal\xF3"
+      - escalamos
+      - escalasteis
+      - escalaron
+      cjid: pprf
+    - cjfs:
+      - "escalar\xE9"
+      - "escalar\xE1s"
+      - "escalar\xE1"
+      - escalaremos
+      - "escalar\xE9is"
+      - "escalar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escalar\xEDa"
+      - "escalar\xEDas"
+      - "escalar\xEDa"
+      - "escalar\xEDamos"
+      - "escalar\xEDais"
+      - "escalar\xEDan"
+      cjid: cond
+    - cjfs:
+      - escale
+      - escales
+      - escale
+      - escalemos
+      - "escal\xE9is"
+      - escalen
+      cjid: psub
+    - cjfs:
+      - escalara
+      - escalaras
+      - escalara
+      - "escal\xE1ramos"
+      - escalarais
+      - escalaran
+      cjid: pisb1
+    - cjfs:
+      - escalase
+      - escalases
+      - escalase
+      - "escal\xE1semos"
+      - escalaseis
+      - escalasen
+      cjid: pisb2
+    - cjfs:
+      - escalare
+      - escalares
+      - escalare
+      - "escal\xE1remos"
+      - escalareis
+      - escalaren
+      cjid: fsub
+    - cjfs:
+      - he escalado
+      - has escalado
+      - ha escalado
+      - hemos escalado
+      - "hab\xE9is escalado"
+      - han escalado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escalado"
+      - "hab\xEDas escalado"
+      - "hab\xEDa escalado"
+      - "hab\xEDamos escalado"
+      - "hab\xEDais escalado"
+      - "hab\xEDan escalado"
+      cjid: ppsi
+    - cjfs:
+      - hube escalado
+      - hubiste escalado
+      - hubo escalado
+      - hubimos escalado
+      - hubisteis escalado
+      - hubieron escalado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escalado"
+      - "habr\xE1s escalado"
+      - "habr\xE1 escalado"
+      - habremos escalado
+      - "habr\xE9is escalado"
+      - "habr\xE1n escalado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escalado"
+      - "habr\xEDas escalado"
+      - "habr\xEDa escalado"
+      - "habr\xEDamos escalado"
+      - "habr\xEDais escalado"
+      - "habr\xEDan escalado"
+      cjid: cpef
+    - cjfs:
+      - haya escalado
+      - hayas escalado
+      - haya escalado
+      - hayamos escalado
+      - "hay\xE1is escalado"
+      - hayan escalado
+      cjid: ppfs
+    - cjfs:
+      - hubiera escalado
+      - hubieras escalado
+      - hubiera escalado
+      - "hubi\xE9ramos escalado"
+      - hubierais escalado
+      - hubieran escalado
+      cjid: ppss1
+    - cjfs:
+      - hubiese escalado
+      - hubieses escalado
+      - hubiese escalado
+      - "hubi\xE9semos escalado"
+      - hubieseis escalado
+      - hubiesen escalado
+      cjid: ppss2
+    - cjfs:
+      - hubiere escalado
+      - hubieres escalado
+      - hubiere escalado
+      - "hubi\xE9remos escalado"
+      - hubiereis escalado
+      - hubieren escalado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escala
+      - escale
+      - escalemos
+      - escalad
+      - escalen
+      cjid: impf

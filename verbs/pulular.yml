@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|abundar||} {bc}to {a_link|abound}, to {a_link|swarm} '
+          - - vis
+            - - t: "en el r\xEDo pululan los peces"
+                tr: the river is teeming with fish
+  fl: intransitive verb
+  hwi:
+    hw: pulular
+  meta:
+    id: pulular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618487000'
+    src: spanish
+    stems:
+    - pulular
+    uuid: 80ad58de-2c43-4a0b-afde-67e3b23da996
+  shortdef:
+  - 'abundar : to abound, to swarm'
+  suppl:
+    cjts:
+    - cjfs:
+      - pululando
+      - pululado
+      cjid: gppt
+    - cjfs:
+      - pululo
+      - pululas
+      - pulula
+      - pululamos
+      - "pulul\xE1is"
+      - pululan
+      cjid: pind
+    - cjfs:
+      - pululaba
+      - pululabas
+      - pululaba
+      - "pulul\xE1bamos"
+      - pululabais
+      - pululaban
+      cjid: pret
+    - cjfs:
+      - "pulul\xE9"
+      - pululaste
+      - "pulul\xF3"
+      - pululamos
+      - pululasteis
+      - pulularon
+      cjid: pprf
+    - cjfs:
+      - "pulular\xE9"
+      - "pulular\xE1s"
+      - "pulular\xE1"
+      - pulularemos
+      - "pulular\xE9is"
+      - "pulular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pulular\xEDa"
+      - "pulular\xEDas"
+      - "pulular\xEDa"
+      - "pulular\xEDamos"
+      - "pulular\xEDais"
+      - "pulular\xEDan"
+      cjid: cond
+    - cjfs:
+      - pulule
+      - pulules
+      - pulule
+      - pululemos
+      - "pulul\xE9is"
+      - pululen
+      cjid: psub
+    - cjfs:
+      - pululara
+      - pulularas
+      - pululara
+      - "pulul\xE1ramos"
+      - pulularais
+      - pulularan
+      cjid: pisb1
+    - cjfs:
+      - pululase
+      - pululases
+      - pululase
+      - "pulul\xE1semos"
+      - pululaseis
+      - pululasen
+      cjid: pisb2
+    - cjfs:
+      - pululare
+      - pululares
+      - pululare
+      - "pulul\xE1remos"
+      - pululareis
+      - pulularen
+      cjid: fsub
+    - cjfs:
+      - he pululado
+      - has pululado
+      - ha pululado
+      - hemos pululado
+      - "hab\xE9is pululado"
+      - han pululado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pululado"
+      - "hab\xEDas pululado"
+      - "hab\xEDa pululado"
+      - "hab\xEDamos pululado"
+      - "hab\xEDais pululado"
+      - "hab\xEDan pululado"
+      cjid: ppsi
+    - cjfs:
+      - hube pululado
+      - hubiste pululado
+      - hubo pululado
+      - hubimos pululado
+      - hubisteis pululado
+      - hubieron pululado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pululado"
+      - "habr\xE1s pululado"
+      - "habr\xE1 pululado"
+      - habremos pululado
+      - "habr\xE9is pululado"
+      - "habr\xE1n pululado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pululado"
+      - "habr\xEDas pululado"
+      - "habr\xEDa pululado"
+      - "habr\xEDamos pululado"
+      - "habr\xEDais pululado"
+      - "habr\xEDan pululado"
+      cjid: cpef
+    - cjfs:
+      - haya pululado
+      - hayas pululado
+      - haya pululado
+      - hayamos pululado
+      - "hay\xE1is pululado"
+      - hayan pululado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pululado
+      - hubieras pululado
+      - hubiera pululado
+      - "hubi\xE9ramos pululado"
+      - hubierais pululado
+      - hubieran pululado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pululado
+      - hubieses pululado
+      - hubiese pululado
+      - "hubi\xE9semos pululado"
+      - hubieseis pululado
+      - hubiesen pululado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pululado
+      - hubieres pululado
+      - hubiere pululado
+      - "hubi\xE9remos pululado"
+      - hubiereis pululado
+      - hubieren pululado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pulula
+      - pulule
+      - pululemos
+      - pululad
+      - pululen
+      cjid: impf

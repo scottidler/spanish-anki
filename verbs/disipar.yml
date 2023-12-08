@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dissipate}, to {a_link|dispel}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|squander}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: disipar
+    prs:
+    - sound:
+        audio: disip01sp
+  meta:
+    id: disipar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607714000'
+    src: spanish
+    stems:
+    - disipar
+    - disiparse
+    uuid: cc955e01-1c62-46ec-8b48-edef1c50cf93
+  shortdef:
+  - to dissipate, to dispel
+  - to squander
+  suppl:
+    cjts:
+    - cjfs:
+      - disipando
+      - disipado
+      cjid: gppt
+    - cjfs:
+      - disipo
+      - disipas
+      - disipa
+      - disipamos
+      - "disip\xE1is"
+      - disipan
+      cjid: pind
+    - cjfs:
+      - disipaba
+      - disipabas
+      - disipaba
+      - "disip\xE1bamos"
+      - disipabais
+      - disipaban
+      cjid: pret
+    - cjfs:
+      - "disip\xE9"
+      - disipaste
+      - "disip\xF3"
+      - disipamos
+      - disipasteis
+      - disiparon
+      cjid: pprf
+    - cjfs:
+      - "disipar\xE9"
+      - "disipar\xE1s"
+      - "disipar\xE1"
+      - disiparemos
+      - "disipar\xE9is"
+      - "disipar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disipar\xEDa"
+      - "disipar\xEDas"
+      - "disipar\xEDa"
+      - "disipar\xEDamos"
+      - "disipar\xEDais"
+      - "disipar\xEDan"
+      cjid: cond
+    - cjfs:
+      - disipe
+      - disipes
+      - disipe
+      - disipemos
+      - "disip\xE9is"
+      - disipen
+      cjid: psub
+    - cjfs:
+      - disipara
+      - disiparas
+      - disipara
+      - "disip\xE1ramos"
+      - disiparais
+      - disiparan
+      cjid: pisb1
+    - cjfs:
+      - disipase
+      - disipases
+      - disipase
+      - "disip\xE1semos"
+      - disipaseis
+      - disipasen
+      cjid: pisb2
+    - cjfs:
+      - disipare
+      - disipares
+      - disipare
+      - "disip\xE1remos"
+      - disipareis
+      - disiparen
+      cjid: fsub
+    - cjfs:
+      - he disipado
+      - has disipado
+      - ha disipado
+      - hemos disipado
+      - "hab\xE9is disipado"
+      - han disipado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disipado"
+      - "hab\xEDas disipado"
+      - "hab\xEDa disipado"
+      - "hab\xEDamos disipado"
+      - "hab\xEDais disipado"
+      - "hab\xEDan disipado"
+      cjid: ppsi
+    - cjfs:
+      - hube disipado
+      - hubiste disipado
+      - hubo disipado
+      - hubimos disipado
+      - hubisteis disipado
+      - hubieron disipado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disipado"
+      - "habr\xE1s disipado"
+      - "habr\xE1 disipado"
+      - habremos disipado
+      - "habr\xE9is disipado"
+      - "habr\xE1n disipado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disipado"
+      - "habr\xEDas disipado"
+      - "habr\xEDa disipado"
+      - "habr\xEDamos disipado"
+      - "habr\xEDais disipado"
+      - "habr\xEDan disipado"
+      cjid: cpef
+    - cjfs:
+      - haya disipado
+      - hayas disipado
+      - haya disipado
+      - hayamos disipado
+      - "hay\xE1is disipado"
+      - hayan disipado
+      cjid: ppfs
+    - cjfs:
+      - hubiera disipado
+      - hubieras disipado
+      - hubiera disipado
+      - "hubi\xE9ramos disipado"
+      - hubierais disipado
+      - hubieran disipado
+      cjid: ppss1
+    - cjfs:
+      - hubiese disipado
+      - hubieses disipado
+      - hubiese disipado
+      - "hubi\xE9semos disipado"
+      - hubieseis disipado
+      - hubiesen disipado
+      cjid: ppss2
+    - cjfs:
+      - hubiere disipado
+      - hubieres disipado
+      - hubiere disipado
+      - "hubi\xE9remos disipado"
+      - hubiereis disipado
+      - hubieren disipado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disipa
+      - disipe
+      - disipemos
+      - disipad
+      - disipen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: disiparse

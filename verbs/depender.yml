@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|depend}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|depend on}'
+          sn: '2'
+          vrs:
+          - va: depender de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be subordinate to'
+          sn: '3'
+          vrs:
+          - va: depender de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: depender
+    prs:
+    - sound:
+        audio: depen02sp
+  meta:
+    id: depender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606706000'
+    src: spanish
+    stems:
+    - depender
+    - depender de
+    uuid: 0aaed65c-52d8-4b98-9deb-44e359b38bca
+  shortdef:
+  - to depend
+  - to depend on
+  - to be subordinate to
+  suppl:
+    cjts:
+    - cjfs:
+      - dependiendo
+      - dependido
+      cjid: gppt
+    - cjfs:
+      - dependo
+      - dependes
+      - depende
+      - dependemos
+      - "depend\xE9is"
+      - dependen
+      cjid: pind
+    - cjfs:
+      - "depend\xEDa"
+      - "depend\xEDas"
+      - "depend\xEDa"
+      - "depend\xEDamos"
+      - "depend\xEDais"
+      - "depend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "depend\xED"
+      - dependiste
+      - "dependi\xF3"
+      - dependimos
+      - dependisteis
+      - dependieron
+      cjid: pprf
+    - cjfs:
+      - "depender\xE9"
+      - "depender\xE1s"
+      - "depender\xE1"
+      - dependeremos
+      - "depender\xE9is"
+      - "depender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "depender\xEDa"
+      - "depender\xEDas"
+      - "depender\xEDa"
+      - "depender\xEDamos"
+      - "depender\xEDais"
+      - "depender\xEDan"
+      cjid: cond
+    - cjfs:
+      - dependa
+      - dependas
+      - dependa
+      - dependamos
+      - "depend\xE1is"
+      - dependan
+      cjid: psub
+    - cjfs:
+      - dependiera
+      - dependieras
+      - dependiera
+      - "dependi\xE9ramos"
+      - dependierais
+      - dependieran
+      cjid: pisb1
+    - cjfs:
+      - dependiese
+      - dependieses
+      - dependiese
+      - "dependi\xE9semos"
+      - dependieseis
+      - dependiesen
+      cjid: pisb2
+    - cjfs:
+      - dependiere
+      - dependieres
+      - dependiere
+      - "dependi\xE9remos"
+      - dependiereis
+      - dependieren
+      cjid: fsub
+    - cjfs:
+      - he dependido
+      - has dependido
+      - ha dependido
+      - hemos dependido
+      - "hab\xE9is dependido"
+      - han dependido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dependido"
+      - "hab\xEDas dependido"
+      - "hab\xEDa dependido"
+      - "hab\xEDamos dependido"
+      - "hab\xEDais dependido"
+      - "hab\xEDan dependido"
+      cjid: ppsi
+    - cjfs:
+      - hube dependido
+      - hubiste dependido
+      - hubo dependido
+      - hubimos dependido
+      - hubisteis dependido
+      - hubieron dependido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dependido"
+      - "habr\xE1s dependido"
+      - "habr\xE1 dependido"
+      - habremos dependido
+      - "habr\xE9is dependido"
+      - "habr\xE1n dependido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dependido"
+      - "habr\xEDas dependido"
+      - "habr\xEDa dependido"
+      - "habr\xEDamos dependido"
+      - "habr\xEDais dependido"
+      - "habr\xEDan dependido"
+      cjid: cpef
+    - cjfs:
+      - haya dependido
+      - hayas dependido
+      - haya dependido
+      - hayamos dependido
+      - "hay\xE1is dependido"
+      - hayan dependido
+      cjid: ppfs
+    - cjfs:
+      - hubiera dependido
+      - hubieras dependido
+      - hubiera dependido
+      - "hubi\xE9ramos dependido"
+      - hubierais dependido
+      - hubieran dependido
+      cjid: ppss1
+    - cjfs:
+      - hubiese dependido
+      - hubieses dependido
+      - hubiese dependido
+      - "hubi\xE9semos dependido"
+      - hubieseis dependido
+      - hubiesen dependido
+      cjid: ppss2
+    - cjfs:
+      - hubiere dependido
+      - hubieres dependido
+      - hubiere dependido
+      - "hubi\xE9remos dependido"
+      - hubiereis dependido
+      - hubieren dependido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - depende
+      - dependa
+      - dependamos
+      - depended
+      - dependan
+      cjid: impf

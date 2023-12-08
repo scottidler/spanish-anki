@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arouse} (anger, passions)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stir up}, to {a_link|excite}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: enardecer
+  meta:
+    id: enardecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608399000'
+    src: spanish
+    stems:
+    - enardecer
+    - enardecerse
+    uuid: d4fa3696-f264-495d-87b8-c1aec4690a71
+  shortdef:
+  - to arouse (anger, passions)
+  - to stir up, to excite
+  suppl:
+    cjts:
+    - cjfs:
+      - enardeciendo
+      - enardecido
+      cjid: gppt
+    - cjfs:
+      - enardezco
+      - enardeces
+      - enardece
+      - enardecemos
+      - "enardec\xE9is"
+      - enardecen
+      cjid: pind
+    - cjfs:
+      - "enardec\xEDa"
+      - "enardec\xEDas"
+      - "enardec\xEDa"
+      - "enardec\xEDamos"
+      - "enardec\xEDais"
+      - "enardec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "enardec\xED"
+      - enardeciste
+      - "enardeci\xF3"
+      - enardecimos
+      - enardecisteis
+      - enardecieron
+      cjid: pprf
+    - cjfs:
+      - "enardecer\xE9"
+      - "enardecer\xE1s"
+      - "enardecer\xE1"
+      - enardeceremos
+      - "enardecer\xE9is"
+      - "enardecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enardecer\xEDa"
+      - "enardecer\xEDas"
+      - "enardecer\xEDa"
+      - "enardecer\xEDamos"
+      - "enardecer\xEDais"
+      - "enardecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - enardezca
+      - enardezcas
+      - enardezca
+      - enardezcamos
+      - "enardezc\xE1is"
+      - enardezcan
+      cjid: psub
+    - cjfs:
+      - enardeciera
+      - enardecieras
+      - enardeciera
+      - "enardeci\xE9ramos"
+      - enardecierais
+      - enardecieran
+      cjid: pisb1
+    - cjfs:
+      - enardeciese
+      - enardecieses
+      - enardeciese
+      - "enardeci\xE9semos"
+      - enardecieseis
+      - enardeciesen
+      cjid: pisb2
+    - cjfs:
+      - enardeciere
+      - enardecieres
+      - enardeciere
+      - "enardeci\xE9remos"
+      - enardeciereis
+      - enardecieren
+      cjid: fsub
+    - cjfs:
+      - he enardecido
+      - has enardecido
+      - ha enardecido
+      - hemos enardecido
+      - "hab\xE9is enardecido"
+      - han enardecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enardecido"
+      - "hab\xEDas enardecido"
+      - "hab\xEDa enardecido"
+      - "hab\xEDamos enardecido"
+      - "hab\xEDais enardecido"
+      - "hab\xEDan enardecido"
+      cjid: ppsi
+    - cjfs:
+      - hube enardecido
+      - hubiste enardecido
+      - hubo enardecido
+      - hubimos enardecido
+      - hubisteis enardecido
+      - hubieron enardecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enardecido"
+      - "habr\xE1s enardecido"
+      - "habr\xE1 enardecido"
+      - habremos enardecido
+      - "habr\xE9is enardecido"
+      - "habr\xE1n enardecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enardecido"
+      - "habr\xEDas enardecido"
+      - "habr\xEDa enardecido"
+      - "habr\xEDamos enardecido"
+      - "habr\xEDais enardecido"
+      - "habr\xEDan enardecido"
+      cjid: cpef
+    - cjfs:
+      - haya enardecido
+      - hayas enardecido
+      - haya enardecido
+      - hayamos enardecido
+      - "hay\xE1is enardecido"
+      - hayan enardecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera enardecido
+      - hubieras enardecido
+      - hubiera enardecido
+      - "hubi\xE9ramos enardecido"
+      - hubierais enardecido
+      - hubieran enardecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese enardecido
+      - hubieses enardecido
+      - hubiese enardecido
+      - "hubi\xE9semos enardecido"
+      - hubieseis enardecido
+      - hubiesen enardecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere enardecido
+      - hubieres enardecido
+      - hubiere enardecido
+      - "hubi\xE9remos enardecido"
+      - hubiereis enardecido
+      - hubieren enardecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enardece
+      - enardezca
+      - enardezcamos
+      - enardeced
+      - enardezcan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: enardecerse

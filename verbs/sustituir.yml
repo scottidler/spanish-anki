@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|replace}, to {a_link|substitute for}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to stand in for'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: sustituir
+    prs:
+    - sound:
+        audio: susti02sp
+  meta:
+    id: sustituir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621328000'
+    src: spanish
+    stems:
+    - sustituir
+    uuid: 9081abff-aad9-4fee-8465-c81d36193679
+  shortdef:
+  - to replace, to substitute for
+  - to stand in for
+  suppl:
+    cjts:
+    - cjfs:
+      - sustituyendo
+      - sustituido
+      cjid: gppt
+    - cjfs:
+      - sustituyo
+      - sustituyes
+      - sustituye
+      - sustituimos
+      - "sustitu\xEDs"
+      - sustituyen
+      cjid: pind
+    - cjfs:
+      - "sustitu\xEDa"
+      - "sustitu\xEDas"
+      - "sustitu\xEDa"
+      - "sustitu\xEDamos"
+      - "sustitu\xEDais"
+      - "sustitu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sustitu\xED"
+      - sustituiste
+      - "sustituy\xF3"
+      - sustituimos
+      - sustituisteis
+      - sustituyeron
+      cjid: pprf
+    - cjfs:
+      - "sustituir\xE9"
+      - "sustituir\xE1s"
+      - "sustituir\xE1"
+      - sustituiremos
+      - "sustituir\xE9is"
+      - "sustituir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sustituir\xEDa"
+      - "sustituir\xEDas"
+      - "sustituir\xEDa"
+      - "sustituir\xEDamos"
+      - "sustituir\xEDais"
+      - "sustituir\xEDan"
+      cjid: cond
+    - cjfs:
+      - sustituya
+      - sustituyas
+      - sustituya
+      - sustituyamos
+      - "sustituy\xE1is"
+      - sustituyan
+      cjid: psub
+    - cjfs:
+      - sustituyera
+      - sustituyeras
+      - sustituyera
+      - "sustituy\xE9ramos"
+      - sustituyerais
+      - sustituyeran
+      cjid: pisb1
+    - cjfs:
+      - sustituyese
+      - sustituyeses
+      - sustituyese
+      - "sustituy\xE9semos"
+      - sustituyeseis
+      - sustituyesen
+      cjid: pisb2
+    - cjfs:
+      - sustituyere
+      - sustituyeres
+      - sustituyere
+      - "sustituy\xE9remos"
+      - sustituyereis
+      - sustituyeren
+      cjid: fsub
+    - cjfs:
+      - he sustituido
+      - has sustituido
+      - ha sustituido
+      - hemos sustituido
+      - "hab\xE9is sustituido"
+      - han sustituido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sustituido"
+      - "hab\xEDas sustituido"
+      - "hab\xEDa sustituido"
+      - "hab\xEDamos sustituido"
+      - "hab\xEDais sustituido"
+      - "hab\xEDan sustituido"
+      cjid: ppsi
+    - cjfs:
+      - hube sustituido
+      - hubiste sustituido
+      - hubo sustituido
+      - hubimos sustituido
+      - hubisteis sustituido
+      - hubieron sustituido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sustituido"
+      - "habr\xE1s sustituido"
+      - "habr\xE1 sustituido"
+      - habremos sustituido
+      - "habr\xE9is sustituido"
+      - "habr\xE1n sustituido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sustituido"
+      - "habr\xEDas sustituido"
+      - "habr\xEDa sustituido"
+      - "habr\xEDamos sustituido"
+      - "habr\xEDais sustituido"
+      - "habr\xEDan sustituido"
+      cjid: cpef
+    - cjfs:
+      - haya sustituido
+      - hayas sustituido
+      - haya sustituido
+      - hayamos sustituido
+      - "hay\xE1is sustituido"
+      - hayan sustituido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sustituido
+      - hubieras sustituido
+      - hubiera sustituido
+      - "hubi\xE9ramos sustituido"
+      - hubierais sustituido
+      - hubieran sustituido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sustituido
+      - hubieses sustituido
+      - hubiese sustituido
+      - "hubi\xE9semos sustituido"
+      - hubieseis sustituido
+      - hubiesen sustituido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sustituido
+      - hubieres sustituido
+      - hubiere sustituido
+      - "hubi\xE9remos sustituido"
+      - hubiereis sustituido
+      - hubieren sustituido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sustituye
+      - sustituya
+      - sustituyamos
+      - sustituid
+      - sustituyan
+      cjid: impf

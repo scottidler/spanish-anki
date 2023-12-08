@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hear}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hear}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|escuchar||} {bc}to {a_link|listen to}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pay attention to, to {a_link|heed}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}listen!, excuse me!, look here!'
+          sn: '4'
+          vrs:
+          - va: "\xA1oye!"
+          - va: "\xA1oiga!"
+            vl: or
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: "o\xEDr"
+    prs:
+    - sound:
+        audio: oir0001sp
+  meta:
+    id: oir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616135000'
+    src: spanish
+    stems:
+    - "o\xEDr"
+    - "\xA1oye!"
+    - "\xA1oiga!"
+    uuid: 1d2b8a5b-b19d-47f4-b2d4-5270f7d08d1b
+  shortdef:
+  - to hear
+  - to hear
+  - 'escuchar : to listen to'
+  suppl:
+    cjts:
+    - cjfs:
+      - oyendo
+      - "o\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - oigo
+      - oyes
+      - oye
+      - "o\xEDmos"
+      - "o\xEDs"
+      - oyen
+      cjid: pind
+    - cjfs:
+      - "o\xEDa"
+      - "o\xEDas"
+      - "o\xEDa"
+      - "o\xEDamos"
+      - "o\xEDais"
+      - "o\xEDan"
+      cjid: pret
+    - cjfs:
+      - "o\xED"
+      - "o\xEDste"
+      - "oy\xF3"
+      - "o\xEDmos"
+      - "o\xEDsteis"
+      - oyeron
+      cjid: pprf
+    - cjfs:
+      - "oir\xE9"
+      - "oir\xE1s"
+      - "oir\xE1"
+      - oiremos
+      - "oir\xE9is"
+      - "oir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "oir\xEDa"
+      - "oir\xEDas"
+      - "oir\xEDa"
+      - "oir\xEDamos"
+      - "oir\xEDais"
+      - "oir\xEDan"
+      cjid: cond
+    - cjfs:
+      - oiga
+      - oigas
+      - oiga
+      - oigamos
+      - "oig\xE1is"
+      - oigan
+      cjid: psub
+    - cjfs:
+      - oyera
+      - oyeras
+      - oyera
+      - "oy\xE9ramos"
+      - oyerais
+      - oyeran
+      cjid: pisb1
+    - cjfs:
+      - oyese
+      - oyeses
+      - oyese
+      - "oy\xE9semos"
+      - oyeseis
+      - oyesen
+      cjid: pisb2
+    - cjfs:
+      - oyere
+      - oyeres
+      - oyere
+      - "oy\xE9remos"
+      - oyereis
+      - oyeren
+      cjid: fsub
+    - cjfs:
+      - "he o\xEDdo"
+      - "has o\xEDdo"
+      - "ha o\xEDdo"
+      - "hemos o\xEDdo"
+      - "hab\xE9is o\xEDdo"
+      - "han o\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa o\xEDdo"
+      - "hab\xEDas o\xEDdo"
+      - "hab\xEDa o\xEDdo"
+      - "hab\xEDamos o\xEDdo"
+      - "hab\xEDais o\xEDdo"
+      - "hab\xEDan o\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube o\xEDdo"
+      - "hubiste o\xEDdo"
+      - "hubo o\xEDdo"
+      - "hubimos o\xEDdo"
+      - "hubisteis o\xEDdo"
+      - "hubieron o\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 o\xEDdo"
+      - "habr\xE1s o\xEDdo"
+      - "habr\xE1 o\xEDdo"
+      - "habremos o\xEDdo"
+      - "habr\xE9is o\xEDdo"
+      - "habr\xE1n o\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa o\xEDdo"
+      - "habr\xEDas o\xEDdo"
+      - "habr\xEDa o\xEDdo"
+      - "habr\xEDamos o\xEDdo"
+      - "habr\xEDais o\xEDdo"
+      - "habr\xEDan o\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya o\xEDdo"
+      - "hayas o\xEDdo"
+      - "haya o\xEDdo"
+      - "hayamos o\xEDdo"
+      - "hay\xE1is o\xEDdo"
+      - "hayan o\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera o\xEDdo"
+      - "hubieras o\xEDdo"
+      - "hubiera o\xEDdo"
+      - "hubi\xE9ramos o\xEDdo"
+      - "hubierais o\xEDdo"
+      - "hubieran o\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese o\xEDdo"
+      - "hubieses o\xEDdo"
+      - "hubiese o\xEDdo"
+      - "hubi\xE9semos o\xEDdo"
+      - "hubieseis o\xEDdo"
+      - "hubiesen o\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere o\xEDdo"
+      - "hubieres o\xEDdo"
+      - "hubiere o\xEDdo"
+      - "hubi\xE9remos o\xEDdo"
+      - "hubiereis o\xEDdo"
+      - "hubieren o\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - oye
+      - oiga
+      - oigamos
+      - "o\xEDd"
+      - oigan
+      cjid: impf

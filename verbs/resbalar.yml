@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|slip}, to {a_link|slide}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|slip up}, to make a mistake'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|skid}'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: resbalar
+    prs:
+    - sound:
+        audio: resba02sp
+  meta:
+    id: resbalar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619533000'
+    src: spanish
+    stems:
+    - resbalar
+    - resbalarse
+    uuid: 5bbcb076-f756-448f-80e8-5a956ffec56a
+  shortdef:
+  - to slip, to slide
+  - to slip up, to make a mistake
+  - to skid
+  suppl:
+    cjts:
+    - cjfs:
+      - resbalando
+      - resbalado
+      cjid: gppt
+    - cjfs:
+      - resbalo
+      - resbalas
+      - resbala
+      - resbalamos
+      - "resbal\xE1is"
+      - resbalan
+      cjid: pind
+    - cjfs:
+      - resbalaba
+      - resbalabas
+      - resbalaba
+      - "resbal\xE1bamos"
+      - resbalabais
+      - resbalaban
+      cjid: pret
+    - cjfs:
+      - "resbal\xE9"
+      - resbalaste
+      - "resbal\xF3"
+      - resbalamos
+      - resbalasteis
+      - resbalaron
+      cjid: pprf
+    - cjfs:
+      - "resbalar\xE9"
+      - "resbalar\xE1s"
+      - "resbalar\xE1"
+      - resbalaremos
+      - "resbalar\xE9is"
+      - "resbalar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resbalar\xEDa"
+      - "resbalar\xEDas"
+      - "resbalar\xEDa"
+      - "resbalar\xEDamos"
+      - "resbalar\xEDais"
+      - "resbalar\xEDan"
+      cjid: cond
+    - cjfs:
+      - resbale
+      - resbales
+      - resbale
+      - resbalemos
+      - "resbal\xE9is"
+      - resbalen
+      cjid: psub
+    - cjfs:
+      - resbalara
+      - resbalaras
+      - resbalara
+      - "resbal\xE1ramos"
+      - resbalarais
+      - resbalaran
+      cjid: pisb1
+    - cjfs:
+      - resbalase
+      - resbalases
+      - resbalase
+      - "resbal\xE1semos"
+      - resbalaseis
+      - resbalasen
+      cjid: pisb2
+    - cjfs:
+      - resbalare
+      - resbalares
+      - resbalare
+      - "resbal\xE1remos"
+      - resbalareis
+      - resbalaren
+      cjid: fsub
+    - cjfs:
+      - he resbalado
+      - has resbalado
+      - ha resbalado
+      - hemos resbalado
+      - "hab\xE9is resbalado"
+      - han resbalado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resbalado"
+      - "hab\xEDas resbalado"
+      - "hab\xEDa resbalado"
+      - "hab\xEDamos resbalado"
+      - "hab\xEDais resbalado"
+      - "hab\xEDan resbalado"
+      cjid: ppsi
+    - cjfs:
+      - hube resbalado
+      - hubiste resbalado
+      - hubo resbalado
+      - hubimos resbalado
+      - hubisteis resbalado
+      - hubieron resbalado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resbalado"
+      - "habr\xE1s resbalado"
+      - "habr\xE1 resbalado"
+      - habremos resbalado
+      - "habr\xE9is resbalado"
+      - "habr\xE1n resbalado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resbalado"
+      - "habr\xEDas resbalado"
+      - "habr\xEDa resbalado"
+      - "habr\xEDamos resbalado"
+      - "habr\xEDais resbalado"
+      - "habr\xEDan resbalado"
+      cjid: cpef
+    - cjfs:
+      - haya resbalado
+      - hayas resbalado
+      - haya resbalado
+      - hayamos resbalado
+      - "hay\xE1is resbalado"
+      - hayan resbalado
+      cjid: ppfs
+    - cjfs:
+      - hubiera resbalado
+      - hubieras resbalado
+      - hubiera resbalado
+      - "hubi\xE9ramos resbalado"
+      - hubierais resbalado
+      - hubieran resbalado
+      cjid: ppss1
+    - cjfs:
+      - hubiese resbalado
+      - hubieses resbalado
+      - hubiese resbalado
+      - "hubi\xE9semos resbalado"
+      - hubieseis resbalado
+      - hubiesen resbalado
+      cjid: ppss2
+    - cjfs:
+      - hubiere resbalado
+      - hubieres resbalado
+      - hubiere resbalado
+      - "hubi\xE9remos resbalado"
+      - hubiereis resbalado
+      - hubieren resbalado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resbala
+      - resbale
+      - resbalemos
+      - resbalad
+      - resbalen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: resbalarse

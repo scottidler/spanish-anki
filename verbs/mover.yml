@@ -1,0 +1,262 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|persona} '
+          - - gl
+            - feminine
+          - - text
+            - ' que hace mudanzas'
+  fl: noun
+  hwi:
+    hw: mover
+    prs:
+    - mw: "\u02C8mu\u02D0v\u0259r"
+      sound:
+        audio: mover001
+  meta:
+    id: mover
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2615742000'
+    src: spanish
+    stems:
+    - mover
+    - movers
+    uuid: c5842cb6-2466-4c3b-bdc5-ee3bec15c9ba
+  shortdef:
+  - persona que hace mudanzas
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|trasladar||} {bc}to {a_link|move}, to {a_link|shift}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|agitar||} {bc}to {a_link|shake}, to {a_link|move} '
+          - - vis
+            - - t: "mover la cabeza (diciendo que s\xED)"
+                tr: to nod
+              - t: mover la cabeza (diciendo que no)
+                tr: to shake one's head
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|accionar||} {bc}to {a_link|power}, to {a_link|drive}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cause to (do something) '
+          - - vis
+            - - t: "me movi\xF3 a pensar"
+                tr: it made me think
+              - t: "lo movi\xF3 a escribir"
+                tr: it inspired him to write
+          sn: '4'
+          vrs:
+          - va: mover a
+            vac: ~ a
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|move}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|hurry}, to get a move on'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get moving, to make an effort'
+            sn: '3'
+    drp: moverse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: mover
+  meta:
+    id: mover
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615414000'
+    src: spanish
+    stems:
+    - mover
+    - mover a
+    - moverse
+    uuid: c9c540a7-ae68-4825-a47a-4f471e03b5d8
+  shortdef:
+  - 'trasladar : to move, to shift'
+  - 'agitar : to shake, to move'
+  - 'accionar : to power, to drive'
+  suppl:
+    cjts:
+    - cjfs:
+      - moviendo
+      - movido
+      cjid: gppt
+    - cjfs:
+      - muevo
+      - mueves
+      - mueve
+      - movemos
+      - "mov\xE9is"
+      - mueven
+      cjid: pind
+    - cjfs:
+      - "mov\xEDa"
+      - "mov\xEDas"
+      - "mov\xEDa"
+      - "mov\xEDamos"
+      - "mov\xEDais"
+      - "mov\xEDan"
+      cjid: pret
+    - cjfs:
+      - "mov\xED"
+      - moviste
+      - "movi\xF3"
+      - movimos
+      - movisteis
+      - movieron
+      cjid: pprf
+    - cjfs:
+      - "mover\xE9"
+      - "mover\xE1s"
+      - "mover\xE1"
+      - moveremos
+      - "mover\xE9is"
+      - "mover\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mover\xEDa"
+      - "mover\xEDas"
+      - "mover\xEDa"
+      - "mover\xEDamos"
+      - "mover\xEDais"
+      - "mover\xEDan"
+      cjid: cond
+    - cjfs:
+      - mueva
+      - muevas
+      - mueva
+      - movamos
+      - "mov\xE1is"
+      - muevan
+      cjid: psub
+    - cjfs:
+      - moviera
+      - movieras
+      - moviera
+      - "movi\xE9ramos"
+      - movierais
+      - movieran
+      cjid: pisb1
+    - cjfs:
+      - moviese
+      - movieses
+      - moviese
+      - "movi\xE9semos"
+      - movieseis
+      - moviesen
+      cjid: pisb2
+    - cjfs:
+      - moviere
+      - movieres
+      - moviere
+      - "movi\xE9remos"
+      - moviereis
+      - movieren
+      cjid: fsub
+    - cjfs:
+      - he movido
+      - has movido
+      - ha movido
+      - hemos movido
+      - "hab\xE9is movido"
+      - han movido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa movido"
+      - "hab\xEDas movido"
+      - "hab\xEDa movido"
+      - "hab\xEDamos movido"
+      - "hab\xEDais movido"
+      - "hab\xEDan movido"
+      cjid: ppsi
+    - cjfs:
+      - hube movido
+      - hubiste movido
+      - hubo movido
+      - hubimos movido
+      - hubisteis movido
+      - hubieron movido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 movido"
+      - "habr\xE1s movido"
+      - "habr\xE1 movido"
+      - habremos movido
+      - "habr\xE9is movido"
+      - "habr\xE1n movido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa movido"
+      - "habr\xEDas movido"
+      - "habr\xEDa movido"
+      - "habr\xEDamos movido"
+      - "habr\xEDais movido"
+      - "habr\xEDan movido"
+      cjid: cpef
+    - cjfs:
+      - haya movido
+      - hayas movido
+      - haya movido
+      - hayamos movido
+      - "hay\xE1is movido"
+      - hayan movido
+      cjid: ppfs
+    - cjfs:
+      - hubiera movido
+      - hubieras movido
+      - hubiera movido
+      - "hubi\xE9ramos movido"
+      - hubierais movido
+      - hubieran movido
+      cjid: ppss1
+    - cjfs:
+      - hubiese movido
+      - hubieses movido
+      - hubiese movido
+      - "hubi\xE9semos movido"
+      - hubieseis movido
+      - hubiesen movido
+      cjid: ppss2
+    - cjfs:
+      - hubiere movido
+      - hubieres movido
+      - hubiere movido
+      - "hubi\xE9remos movido"
+      - hubiereis movido
+      - hubieren movido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mueve
+      - mueva
+      - movamos
+      - moved
+      - muevan
+      cjid: impf

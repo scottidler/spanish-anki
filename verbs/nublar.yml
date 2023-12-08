@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cloud}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|oscurecer||} {bc}to {a_link|obscure}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get cloudy'
+    drp: nublarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: nublar
+    prs:
+    - sound:
+        audio: nubla02sp
+  meta:
+    id: nublar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615906000'
+    src: spanish
+    stems:
+    - nublar
+    - nublarse
+    uuid: 38e53da6-cb96-4042-9da9-561284f479a9
+  shortdef:
+  - to cloud
+  - 'oscurecer : to obscure'
+  suppl:
+    cjts:
+    - cjfs:
+      - nublando
+      - nublado
+      cjid: gppt
+    - cjfs:
+      - nublo
+      - nublas
+      - nubla
+      - nublamos
+      - "nubl\xE1is"
+      - nublan
+      cjid: pind
+    - cjfs:
+      - nublaba
+      - nublabas
+      - nublaba
+      - "nubl\xE1bamos"
+      - nublabais
+      - nublaban
+      cjid: pret
+    - cjfs:
+      - "nubl\xE9"
+      - nublaste
+      - "nubl\xF3"
+      - nublamos
+      - nublasteis
+      - nublaron
+      cjid: pprf
+    - cjfs:
+      - "nublar\xE9"
+      - "nublar\xE1s"
+      - "nublar\xE1"
+      - nublaremos
+      - "nublar\xE9is"
+      - "nublar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "nublar\xEDa"
+      - "nublar\xEDas"
+      - "nublar\xEDa"
+      - "nublar\xEDamos"
+      - "nublar\xEDais"
+      - "nublar\xEDan"
+      cjid: cond
+    - cjfs:
+      - nuble
+      - nubles
+      - nuble
+      - nublemos
+      - "nubl\xE9is"
+      - nublen
+      cjid: psub
+    - cjfs:
+      - nublara
+      - nublaras
+      - nublara
+      - "nubl\xE1ramos"
+      - nublarais
+      - nublaran
+      cjid: pisb1
+    - cjfs:
+      - nublase
+      - nublases
+      - nublase
+      - "nubl\xE1semos"
+      - nublaseis
+      - nublasen
+      cjid: pisb2
+    - cjfs:
+      - nublare
+      - nublares
+      - nublare
+      - "nubl\xE1remos"
+      - nublareis
+      - nublaren
+      cjid: fsub
+    - cjfs:
+      - he nublado
+      - has nublado
+      - ha nublado
+      - hemos nublado
+      - "hab\xE9is nublado"
+      - han nublado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa nublado"
+      - "hab\xEDas nublado"
+      - "hab\xEDa nublado"
+      - "hab\xEDamos nublado"
+      - "hab\xEDais nublado"
+      - "hab\xEDan nublado"
+      cjid: ppsi
+    - cjfs:
+      - hube nublado
+      - hubiste nublado
+      - hubo nublado
+      - hubimos nublado
+      - hubisteis nublado
+      - hubieron nublado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 nublado"
+      - "habr\xE1s nublado"
+      - "habr\xE1 nublado"
+      - habremos nublado
+      - "habr\xE9is nublado"
+      - "habr\xE1n nublado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa nublado"
+      - "habr\xEDas nublado"
+      - "habr\xEDa nublado"
+      - "habr\xEDamos nublado"
+      - "habr\xEDais nublado"
+      - "habr\xEDan nublado"
+      cjid: cpef
+    - cjfs:
+      - haya nublado
+      - hayas nublado
+      - haya nublado
+      - hayamos nublado
+      - "hay\xE1is nublado"
+      - hayan nublado
+      cjid: ppfs
+    - cjfs:
+      - hubiera nublado
+      - hubieras nublado
+      - hubiera nublado
+      - "hubi\xE9ramos nublado"
+      - hubierais nublado
+      - hubieran nublado
+      cjid: ppss1
+    - cjfs:
+      - hubiese nublado
+      - hubieses nublado
+      - hubiese nublado
+      - "hubi\xE9semos nublado"
+      - hubieseis nublado
+      - hubiesen nublado
+      cjid: ppss2
+    - cjfs:
+      - hubiere nublado
+      - hubieres nublado
+      - hubiere nublado
+      - "hubi\xE9remos nublado"
+      - hubiereis nublado
+      - hubieren nublado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - nubla
+      - nuble
+      - nublemos
+      - nublad
+      - nublen
+      cjid: impf

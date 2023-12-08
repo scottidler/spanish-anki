@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demand}, to {a_link|require}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exact}, to {a_link|levy}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: exigir
+    prs:
+    - sound:
+        audio: exigi01sp
+  meta:
+    id: exigir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609635000'
+    src: spanish
+    stems:
+    - exigir
+    uuid: e59cba33-4ef3-4f76-bd44-ecaca4663449
+  shortdef:
+  - to demand, to require
+  - to exact, to levy
+  suppl:
+    cjts:
+    - cjfs:
+      - exigiendo
+      - exigido
+      cjid: gppt
+    - cjfs:
+      - exijo
+      - exiges
+      - exige
+      - exigimos
+      - "exig\xEDs"
+      - exigen
+      cjid: pind
+    - cjfs:
+      - "exig\xEDa"
+      - "exig\xEDas"
+      - "exig\xEDa"
+      - "exig\xEDamos"
+      - "exig\xEDais"
+      - "exig\xEDan"
+      cjid: pret
+    - cjfs:
+      - "exig\xED"
+      - exigiste
+      - "exigi\xF3"
+      - exigimos
+      - exigisteis
+      - exigieron
+      cjid: pprf
+    - cjfs:
+      - "exigir\xE9"
+      - "exigir\xE1s"
+      - "exigir\xE1"
+      - exigiremos
+      - "exigir\xE9is"
+      - "exigir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "exigir\xEDa"
+      - "exigir\xEDas"
+      - "exigir\xEDa"
+      - "exigir\xEDamos"
+      - "exigir\xEDais"
+      - "exigir\xEDan"
+      cjid: cond
+    - cjfs:
+      - exija
+      - exijas
+      - exija
+      - exijamos
+      - "exij\xE1is"
+      - exijan
+      cjid: psub
+    - cjfs:
+      - exigiera
+      - exigieras
+      - exigiera
+      - "exigi\xE9ramos"
+      - exigierais
+      - exigieran
+      cjid: pisb1
+    - cjfs:
+      - exigiese
+      - exigieses
+      - exigiese
+      - "exigi\xE9semos"
+      - exigieseis
+      - exigiesen
+      cjid: pisb2
+    - cjfs:
+      - exigiere
+      - exigieres
+      - exigiere
+      - "exigi\xE9remos"
+      - exigiereis
+      - exigieren
+      cjid: fsub
+    - cjfs:
+      - he exigido
+      - has exigido
+      - ha exigido
+      - hemos exigido
+      - "hab\xE9is exigido"
+      - han exigido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa exigido"
+      - "hab\xEDas exigido"
+      - "hab\xEDa exigido"
+      - "hab\xEDamos exigido"
+      - "hab\xEDais exigido"
+      - "hab\xEDan exigido"
+      cjid: ppsi
+    - cjfs:
+      - hube exigido
+      - hubiste exigido
+      - hubo exigido
+      - hubimos exigido
+      - hubisteis exigido
+      - hubieron exigido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 exigido"
+      - "habr\xE1s exigido"
+      - "habr\xE1 exigido"
+      - habremos exigido
+      - "habr\xE9is exigido"
+      - "habr\xE1n exigido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa exigido"
+      - "habr\xEDas exigido"
+      - "habr\xEDa exigido"
+      - "habr\xEDamos exigido"
+      - "habr\xEDais exigido"
+      - "habr\xEDan exigido"
+      cjid: cpef
+    - cjfs:
+      - haya exigido
+      - hayas exigido
+      - haya exigido
+      - hayamos exigido
+      - "hay\xE1is exigido"
+      - hayan exigido
+      cjid: ppfs
+    - cjfs:
+      - hubiera exigido
+      - hubieras exigido
+      - hubiera exigido
+      - "hubi\xE9ramos exigido"
+      - hubierais exigido
+      - hubieran exigido
+      cjid: ppss1
+    - cjfs:
+      - hubiese exigido
+      - hubieses exigido
+      - hubiese exigido
+      - "hubi\xE9semos exigido"
+      - hubieseis exigido
+      - hubiesen exigido
+      cjid: ppss2
+    - cjfs:
+      - hubiere exigido
+      - hubieres exigido
+      - hubiere exigido
+      - "hubi\xE9remos exigido"
+      - hubiereis exigido
+      - hubieren exigido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - exige
+      - exija
+      - exijamos
+      - exigid
+      - exijan
+      cjid: impf

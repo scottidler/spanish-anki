@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dilute}'
+  fl: transitive verb
+  hwi:
+    hw: diluir
+  meta:
+    id: diluir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607589000'
+    src: spanish
+    stems:
+    - diluir
+    uuid: a330cf3d-dd86-4188-aece-5103987751a8
+  shortdef:
+  - to dilute
+  suppl:
+    cjts:
+    - cjfs:
+      - diluyendo
+      - diluido
+      cjid: gppt
+    - cjfs:
+      - diluyo
+      - diluyes
+      - diluye
+      - diluimos
+      - "dilu\xEDs"
+      - diluyen
+      cjid: pind
+    - cjfs:
+      - "dilu\xEDa"
+      - "dilu\xEDas"
+      - "dilu\xEDa"
+      - "dilu\xEDamos"
+      - "dilu\xEDais"
+      - "dilu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "dilu\xED"
+      - diluiste
+      - "diluy\xF3"
+      - diluimos
+      - diluisteis
+      - diluyeron
+      cjid: pprf
+    - cjfs:
+      - "diluir\xE9"
+      - "diluir\xE1s"
+      - "diluir\xE1"
+      - diluiremos
+      - "diluir\xE9is"
+      - "diluir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "diluir\xEDa"
+      - "diluir\xEDas"
+      - "diluir\xEDa"
+      - "diluir\xEDamos"
+      - "diluir\xEDais"
+      - "diluir\xEDan"
+      cjid: cond
+    - cjfs:
+      - diluya
+      - diluyas
+      - diluya
+      - diluyamos
+      - "diluy\xE1is"
+      - diluyan
+      cjid: psub
+    - cjfs:
+      - diluyera
+      - diluyeras
+      - diluyera
+      - "diluy\xE9ramos"
+      - diluyerais
+      - diluyeran
+      cjid: pisb1
+    - cjfs:
+      - diluyese
+      - diluyeses
+      - diluyese
+      - "diluy\xE9semos"
+      - diluyeseis
+      - diluyesen
+      cjid: pisb2
+    - cjfs:
+      - diluyere
+      - diluyeres
+      - diluyere
+      - "diluy\xE9remos"
+      - diluyereis
+      - diluyeren
+      cjid: fsub
+    - cjfs:
+      - he diluido
+      - has diluido
+      - ha diluido
+      - hemos diluido
+      - "hab\xE9is diluido"
+      - han diluido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa diluido"
+      - "hab\xEDas diluido"
+      - "hab\xEDa diluido"
+      - "hab\xEDamos diluido"
+      - "hab\xEDais diluido"
+      - "hab\xEDan diluido"
+      cjid: ppsi
+    - cjfs:
+      - hube diluido
+      - hubiste diluido
+      - hubo diluido
+      - hubimos diluido
+      - hubisteis diluido
+      - hubieron diluido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 diluido"
+      - "habr\xE1s diluido"
+      - "habr\xE1 diluido"
+      - habremos diluido
+      - "habr\xE9is diluido"
+      - "habr\xE1n diluido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa diluido"
+      - "habr\xEDas diluido"
+      - "habr\xEDa diluido"
+      - "habr\xEDamos diluido"
+      - "habr\xEDais diluido"
+      - "habr\xEDan diluido"
+      cjid: cpef
+    - cjfs:
+      - haya diluido
+      - hayas diluido
+      - haya diluido
+      - hayamos diluido
+      - "hay\xE1is diluido"
+      - hayan diluido
+      cjid: ppfs
+    - cjfs:
+      - hubiera diluido
+      - hubieras diluido
+      - hubiera diluido
+      - "hubi\xE9ramos diluido"
+      - hubierais diluido
+      - hubieran diluido
+      cjid: ppss1
+    - cjfs:
+      - hubiese diluido
+      - hubieses diluido
+      - hubiese diluido
+      - "hubi\xE9semos diluido"
+      - hubieseis diluido
+      - hubiesen diluido
+      cjid: ppss2
+    - cjfs:
+      - hubiere diluido
+      - hubieres diluido
+      - hubiere diluido
+      - "hubi\xE9remos diluido"
+      - hubiereis diluido
+      - hubieren diluido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - diluye
+      - diluya
+      - diluyamos
+      - diluid
+      - diluyan
+      cjid: impf

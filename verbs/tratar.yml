@@ -1,0 +1,277 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deal with}, to have contact with '
+          - - vis
+            - - t: no trato mucho con los clientes
+                tr: I don't have much contact with customers
+          sn: '1'
+          vrs:
+          - va: tratar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to try to '
+          - - vis
+            - - t: estoy tratando de comer
+                tr: I am trying to eat
+          sn: '2'
+          vrs:
+          - va: tratar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be about, to {a_link|concern} '
+          - - vis
+            - - t: el libro trata de las plantas
+                tr: the book is about plants
+          sn: '3'
+          vrs:
+          - va: tratar de/sobre
+            vac: ~ de/sobre
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deal in} '
+          - - vis
+            - - t: trata en herramientas
+                tr: he deals in tools
+          sn: '4'
+          vrs:
+          - va: tratar en
+            vac: ~ en
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|treat} '
+          - - vis
+            - - t: tratan bien a sus empleados
+                tr: they treat their employees well
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|treat} (a patient, a condition)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|handle} '
+          - - vis
+            - - t: "trat\xF3 el tema con delicadeza"
+                tr: he handled the subject tactfully
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|treat} (wood, etc.)'
+          sn: '4'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to socialize with'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be about, to {a_link|concern}'
+            sn: '2'
+            vrs:
+            - va: tratarse de
+              vac: ~ de
+    drp: tratarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: tratar
+    prs:
+    - sound:
+        audio: trata03sp
+  meta:
+    id: tratar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622245000'
+    src: spanish
+    stems:
+    - tratar
+    - tratar con
+    - tratar de
+    - tratar de/sobre
+    - tratar sobre
+    - tratar en
+    - tratarse
+    - tratarse de
+    uuid: 7e5df5b6-3e2a-4ac2-aab6-e147f02301b0
+  shortdef:
+  - to deal with, to have contact with
+  - to try to
+  - to be about, to concern
+  suppl:
+    cjts:
+    - cjfs:
+      - tratando
+      - tratado
+      cjid: gppt
+    - cjfs:
+      - trato
+      - tratas
+      - trata
+      - tratamos
+      - "trat\xE1is"
+      - tratan
+      cjid: pind
+    - cjfs:
+      - trataba
+      - tratabas
+      - trataba
+      - "trat\xE1bamos"
+      - tratabais
+      - trataban
+      cjid: pret
+    - cjfs:
+      - "trat\xE9"
+      - trataste
+      - "trat\xF3"
+      - tratamos
+      - tratasteis
+      - trataron
+      cjid: pprf
+    - cjfs:
+      - "tratar\xE9"
+      - "tratar\xE1s"
+      - "tratar\xE1"
+      - trataremos
+      - "tratar\xE9is"
+      - "tratar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tratar\xEDa"
+      - "tratar\xEDas"
+      - "tratar\xEDa"
+      - "tratar\xEDamos"
+      - "tratar\xEDais"
+      - "tratar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trate
+      - trates
+      - trate
+      - tratemos
+      - "trat\xE9is"
+      - traten
+      cjid: psub
+    - cjfs:
+      - tratara
+      - trataras
+      - tratara
+      - "trat\xE1ramos"
+      - tratarais
+      - trataran
+      cjid: pisb1
+    - cjfs:
+      - tratase
+      - tratases
+      - tratase
+      - "trat\xE1semos"
+      - trataseis
+      - tratasen
+      cjid: pisb2
+    - cjfs:
+      - tratare
+      - tratares
+      - tratare
+      - "trat\xE1remos"
+      - tratareis
+      - trataren
+      cjid: fsub
+    - cjfs:
+      - he tratado
+      - has tratado
+      - ha tratado
+      - hemos tratado
+      - "hab\xE9is tratado"
+      - han tratado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tratado"
+      - "hab\xEDas tratado"
+      - "hab\xEDa tratado"
+      - "hab\xEDamos tratado"
+      - "hab\xEDais tratado"
+      - "hab\xEDan tratado"
+      cjid: ppsi
+    - cjfs:
+      - hube tratado
+      - hubiste tratado
+      - hubo tratado
+      - hubimos tratado
+      - hubisteis tratado
+      - hubieron tratado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tratado"
+      - "habr\xE1s tratado"
+      - "habr\xE1 tratado"
+      - habremos tratado
+      - "habr\xE9is tratado"
+      - "habr\xE1n tratado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tratado"
+      - "habr\xEDas tratado"
+      - "habr\xEDa tratado"
+      - "habr\xEDamos tratado"
+      - "habr\xEDais tratado"
+      - "habr\xEDan tratado"
+      cjid: cpef
+    - cjfs:
+      - haya tratado
+      - hayas tratado
+      - haya tratado
+      - hayamos tratado
+      - "hay\xE1is tratado"
+      - hayan tratado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tratado
+      - hubieras tratado
+      - hubiera tratado
+      - "hubi\xE9ramos tratado"
+      - hubierais tratado
+      - hubieran tratado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tratado
+      - hubieses tratado
+      - hubiese tratado
+      - "hubi\xE9semos tratado"
+      - hubieseis tratado
+      - hubiesen tratado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tratado
+      - hubieres tratado
+      - hubiere tratado
+      - "hubi\xE9remos tratado"
+      - hubiereis tratado
+      - hubieren tratado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - trata
+      - trate
+      - tratemos
+      - tratad
+      - traten
+      cjid: impf

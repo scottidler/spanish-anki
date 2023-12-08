@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|compromise}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|jeopardize}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|commit}, to put under obligation'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|commit oneself}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get engaged to'
+            sn: '2'
+            vrs:
+            - va: comprometerse con
+              vac: ~ con
+    drp: comprometerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: comprometer
+    prs:
+    - sound:
+        audio: compr12sp
+  meta:
+    id: comprometer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605302000'
+    src: spanish
+    stems:
+    - comprometer
+    - comprometerse
+    - comprometerse con
+    uuid: f182d9b8-cec2-4fef-8a56-4b0ec1c3b318
+  shortdef:
+  - to compromise
+  - to jeopardize
+  - to commit, to put under obligation
+  suppl:
+    cjts:
+    - cjfs:
+      - comprometiendo
+      - comprometido
+      cjid: gppt
+    - cjfs:
+      - comprometo
+      - comprometes
+      - compromete
+      - comprometemos
+      - "compromet\xE9is"
+      - comprometen
+      cjid: pind
+    - cjfs:
+      - "compromet\xEDa"
+      - "compromet\xEDas"
+      - "compromet\xEDa"
+      - "compromet\xEDamos"
+      - "compromet\xEDais"
+      - "compromet\xEDan"
+      cjid: pret
+    - cjfs:
+      - "compromet\xED"
+      - comprometiste
+      - "comprometi\xF3"
+      - comprometimos
+      - comprometisteis
+      - comprometieron
+      cjid: pprf
+    - cjfs:
+      - "comprometer\xE9"
+      - "comprometer\xE1s"
+      - "comprometer\xE1"
+      - comprometeremos
+      - "comprometer\xE9is"
+      - "comprometer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "comprometer\xEDa"
+      - "comprometer\xEDas"
+      - "comprometer\xEDa"
+      - "comprometer\xEDamos"
+      - "comprometer\xEDais"
+      - "comprometer\xEDan"
+      cjid: cond
+    - cjfs:
+      - comprometa
+      - comprometas
+      - comprometa
+      - comprometamos
+      - "compromet\xE1is"
+      - comprometan
+      cjid: psub
+    - cjfs:
+      - comprometiera
+      - comprometieras
+      - comprometiera
+      - "comprometi\xE9ramos"
+      - comprometierais
+      - comprometieran
+      cjid: pisb1
+    - cjfs:
+      - comprometiese
+      - comprometieses
+      - comprometiese
+      - "comprometi\xE9semos"
+      - comprometieseis
+      - comprometiesen
+      cjid: pisb2
+    - cjfs:
+      - comprometiere
+      - comprometieres
+      - comprometiere
+      - "comprometi\xE9remos"
+      - comprometiereis
+      - comprometieren
+      cjid: fsub
+    - cjfs:
+      - he comprometido
+      - has comprometido
+      - ha comprometido
+      - hemos comprometido
+      - "hab\xE9is comprometido"
+      - han comprometido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa comprometido"
+      - "hab\xEDas comprometido"
+      - "hab\xEDa comprometido"
+      - "hab\xEDamos comprometido"
+      - "hab\xEDais comprometido"
+      - "hab\xEDan comprometido"
+      cjid: ppsi
+    - cjfs:
+      - hube comprometido
+      - hubiste comprometido
+      - hubo comprometido
+      - hubimos comprometido
+      - hubisteis comprometido
+      - hubieron comprometido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 comprometido"
+      - "habr\xE1s comprometido"
+      - "habr\xE1 comprometido"
+      - habremos comprometido
+      - "habr\xE9is comprometido"
+      - "habr\xE1n comprometido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa comprometido"
+      - "habr\xEDas comprometido"
+      - "habr\xEDa comprometido"
+      - "habr\xEDamos comprometido"
+      - "habr\xEDais comprometido"
+      - "habr\xEDan comprometido"
+      cjid: cpef
+    - cjfs:
+      - haya comprometido
+      - hayas comprometido
+      - haya comprometido
+      - hayamos comprometido
+      - "hay\xE1is comprometido"
+      - hayan comprometido
+      cjid: ppfs
+    - cjfs:
+      - hubiera comprometido
+      - hubieras comprometido
+      - hubiera comprometido
+      - "hubi\xE9ramos comprometido"
+      - hubierais comprometido
+      - hubieran comprometido
+      cjid: ppss1
+    - cjfs:
+      - hubiese comprometido
+      - hubieses comprometido
+      - hubiese comprometido
+      - "hubi\xE9semos comprometido"
+      - hubieseis comprometido
+      - hubiesen comprometido
+      cjid: ppss2
+    - cjfs:
+      - hubiere comprometido
+      - hubieres comprometido
+      - hubiere comprometido
+      - "hubi\xE9remos comprometido"
+      - hubiereis comprometido
+      - hubieren comprometido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - compromete
+      - comprometa
+      - comprometamos
+      - comprometed
+      - comprometan
+      cjid: impf

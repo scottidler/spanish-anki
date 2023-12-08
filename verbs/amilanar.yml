@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|frighten}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|daunt}, to {a_link|discourage}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to lose heart'
+    drp: amilanarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: amilanar
+  meta:
+    id: amilanar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601251000'
+    src: spanish
+    stems:
+    - amilanar
+    - amilanarse
+    uuid: f630b2be-0eb1-40db-99d8-96dd798948e6
+  shortdef:
+  - to frighten
+  - to daunt, to discourage
+  suppl:
+    cjts:
+    - cjfs:
+      - amilanando
+      - amilanado
+      cjid: gppt
+    - cjfs:
+      - amilano
+      - amilanas
+      - amilana
+      - amilanamos
+      - "amilan\xE1is"
+      - amilanan
+      cjid: pind
+    - cjfs:
+      - amilanaba
+      - amilanabas
+      - amilanaba
+      - "amilan\xE1bamos"
+      - amilanabais
+      - amilanaban
+      cjid: pret
+    - cjfs:
+      - "amilan\xE9"
+      - amilanaste
+      - "amilan\xF3"
+      - amilanamos
+      - amilanasteis
+      - amilanaron
+      cjid: pprf
+    - cjfs:
+      - "amilanar\xE9"
+      - "amilanar\xE1s"
+      - "amilanar\xE1"
+      - amilanaremos
+      - "amilanar\xE9is"
+      - "amilanar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amilanar\xEDa"
+      - "amilanar\xEDas"
+      - "amilanar\xEDa"
+      - "amilanar\xEDamos"
+      - "amilanar\xEDais"
+      - "amilanar\xEDan"
+      cjid: cond
+    - cjfs:
+      - amilane
+      - amilanes
+      - amilane
+      - amilanemos
+      - "amilan\xE9is"
+      - amilanen
+      cjid: psub
+    - cjfs:
+      - amilanara
+      - amilanaras
+      - amilanara
+      - "amilan\xE1ramos"
+      - amilanarais
+      - amilanaran
+      cjid: pisb1
+    - cjfs:
+      - amilanase
+      - amilanases
+      - amilanase
+      - "amilan\xE1semos"
+      - amilanaseis
+      - amilanasen
+      cjid: pisb2
+    - cjfs:
+      - amilanare
+      - amilanares
+      - amilanare
+      - "amilan\xE1remos"
+      - amilanareis
+      - amilanaren
+      cjid: fsub
+    - cjfs:
+      - he amilanado
+      - has amilanado
+      - ha amilanado
+      - hemos amilanado
+      - "hab\xE9is amilanado"
+      - han amilanado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amilanado"
+      - "hab\xEDas amilanado"
+      - "hab\xEDa amilanado"
+      - "hab\xEDamos amilanado"
+      - "hab\xEDais amilanado"
+      - "hab\xEDan amilanado"
+      cjid: ppsi
+    - cjfs:
+      - hube amilanado
+      - hubiste amilanado
+      - hubo amilanado
+      - hubimos amilanado
+      - hubisteis amilanado
+      - hubieron amilanado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amilanado"
+      - "habr\xE1s amilanado"
+      - "habr\xE1 amilanado"
+      - habremos amilanado
+      - "habr\xE9is amilanado"
+      - "habr\xE1n amilanado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amilanado"
+      - "habr\xEDas amilanado"
+      - "habr\xEDa amilanado"
+      - "habr\xEDamos amilanado"
+      - "habr\xEDais amilanado"
+      - "habr\xEDan amilanado"
+      cjid: cpef
+    - cjfs:
+      - haya amilanado
+      - hayas amilanado
+      - haya amilanado
+      - hayamos amilanado
+      - "hay\xE1is amilanado"
+      - hayan amilanado
+      cjid: ppfs
+    - cjfs:
+      - hubiera amilanado
+      - hubieras amilanado
+      - hubiera amilanado
+      - "hubi\xE9ramos amilanado"
+      - hubierais amilanado
+      - hubieran amilanado
+      cjid: ppss1
+    - cjfs:
+      - hubiese amilanado
+      - hubieses amilanado
+      - hubiese amilanado
+      - "hubi\xE9semos amilanado"
+      - hubieseis amilanado
+      - hubiesen amilanado
+      cjid: ppss2
+    - cjfs:
+      - hubiere amilanado
+      - hubieres amilanado
+      - hubiere amilanado
+      - "hubi\xE9remos amilanado"
+      - hubiereis amilanado
+      - hubieren amilanado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - amilana
+      - amilane
+      - amilanemos
+      - amilanad
+      - amilanen
+      cjid: impf

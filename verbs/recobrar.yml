@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recover}, to {a_link|regain}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|recover}, to {a_link|recuperate}'
+    drp: recobrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: recobrar
+    prs:
+    - sound:
+        audio: recob01sp
+  meta:
+    id: recobrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619003000'
+    src: spanish
+    stems:
+    - recobrar
+    - recobrarse
+    uuid: 5478344e-8ed9-48cd-b0b2-f7865e888ad3
+  shortdef:
+  - to recover, to regain
+  suppl:
+    cjts:
+    - cjfs:
+      - recobrando
+      - recobrado
+      cjid: gppt
+    - cjfs:
+      - recobro
+      - recobras
+      - recobra
+      - recobramos
+      - "recobr\xE1is"
+      - recobran
+      cjid: pind
+    - cjfs:
+      - recobraba
+      - recobrabas
+      - recobraba
+      - "recobr\xE1bamos"
+      - recobrabais
+      - recobraban
+      cjid: pret
+    - cjfs:
+      - "recobr\xE9"
+      - recobraste
+      - "recobr\xF3"
+      - recobramos
+      - recobrasteis
+      - recobraron
+      cjid: pprf
+    - cjfs:
+      - "recobrar\xE9"
+      - "recobrar\xE1s"
+      - "recobrar\xE1"
+      - recobraremos
+      - "recobrar\xE9is"
+      - "recobrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recobrar\xEDa"
+      - "recobrar\xEDas"
+      - "recobrar\xEDa"
+      - "recobrar\xEDamos"
+      - "recobrar\xEDais"
+      - "recobrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recobre
+      - recobres
+      - recobre
+      - recobremos
+      - "recobr\xE9is"
+      - recobren
+      cjid: psub
+    - cjfs:
+      - recobrara
+      - recobraras
+      - recobrara
+      - "recobr\xE1ramos"
+      - recobrarais
+      - recobraran
+      cjid: pisb1
+    - cjfs:
+      - recobrase
+      - recobrases
+      - recobrase
+      - "recobr\xE1semos"
+      - recobraseis
+      - recobrasen
+      cjid: pisb2
+    - cjfs:
+      - recobrare
+      - recobrares
+      - recobrare
+      - "recobr\xE1remos"
+      - recobrareis
+      - recobraren
+      cjid: fsub
+    - cjfs:
+      - he recobrado
+      - has recobrado
+      - ha recobrado
+      - hemos recobrado
+      - "hab\xE9is recobrado"
+      - han recobrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recobrado"
+      - "hab\xEDas recobrado"
+      - "hab\xEDa recobrado"
+      - "hab\xEDamos recobrado"
+      - "hab\xEDais recobrado"
+      - "hab\xEDan recobrado"
+      cjid: ppsi
+    - cjfs:
+      - hube recobrado
+      - hubiste recobrado
+      - hubo recobrado
+      - hubimos recobrado
+      - hubisteis recobrado
+      - hubieron recobrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recobrado"
+      - "habr\xE1s recobrado"
+      - "habr\xE1 recobrado"
+      - habremos recobrado
+      - "habr\xE9is recobrado"
+      - "habr\xE1n recobrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recobrado"
+      - "habr\xEDas recobrado"
+      - "habr\xEDa recobrado"
+      - "habr\xEDamos recobrado"
+      - "habr\xEDais recobrado"
+      - "habr\xEDan recobrado"
+      cjid: cpef
+    - cjfs:
+      - haya recobrado
+      - hayas recobrado
+      - haya recobrado
+      - hayamos recobrado
+      - "hay\xE1is recobrado"
+      - hayan recobrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recobrado
+      - hubieras recobrado
+      - hubiera recobrado
+      - "hubi\xE9ramos recobrado"
+      - hubierais recobrado
+      - hubieran recobrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recobrado
+      - hubieses recobrado
+      - hubiese recobrado
+      - "hubi\xE9semos recobrado"
+      - hubieseis recobrado
+      - hubiesen recobrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recobrado
+      - hubieres recobrado
+      - hubiere recobrado
+      - "hubi\xE9remos recobrado"
+      - hubiereis recobrado
+      - hubieren recobrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recobra
+      - recobre
+      - recobremos
+      - recobrad
+      - recobren
+      cjid: impf

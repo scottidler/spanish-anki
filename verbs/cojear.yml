@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|limp}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wobble}, to {a_link|rock}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be two of a kind'
+          sn: '3'
+          vrs:
+          - va: cojear del mismo pie
+  fl: intransitive verb
+  hwi:
+    hw: cojear
+    prs:
+    - sound:
+        audio: cojea01sp
+  meta:
+    id: cojear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605010000'
+    src: spanish
+    stems:
+    - cojear
+    - cojear del mismo pie
+    uuid: f5725920-577c-44c1-900d-e931d996fb7e
+  shortdef:
+  - to limp
+  - to wobble, to rock
+  - to be two of a kind
+  suppl:
+    cjts:
+    - cjfs:
+      - cojeando
+      - cojeado
+      cjid: gppt
+    - cjfs:
+      - cojeo
+      - cojeas
+      - cojea
+      - cojeamos
+      - "coje\xE1is"
+      - cojean
+      cjid: pind
+    - cjfs:
+      - cojeaba
+      - cojeabas
+      - cojeaba
+      - "coje\xE1bamos"
+      - cojeabais
+      - cojeaban
+      cjid: pret
+    - cjfs:
+      - "coje\xE9"
+      - cojeaste
+      - "coje\xF3"
+      - cojeamos
+      - cojeasteis
+      - cojearon
+      cjid: pprf
+    - cjfs:
+      - "cojear\xE9"
+      - "cojear\xE1s"
+      - "cojear\xE1"
+      - cojearemos
+      - "cojear\xE9is"
+      - "cojear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cojear\xEDa"
+      - "cojear\xEDas"
+      - "cojear\xEDa"
+      - "cojear\xEDamos"
+      - "cojear\xEDais"
+      - "cojear\xEDan"
+      cjid: cond
+    - cjfs:
+      - cojee
+      - cojees
+      - cojee
+      - cojeemos
+      - "coje\xE9is"
+      - cojeen
+      cjid: psub
+    - cjfs:
+      - cojeara
+      - cojearas
+      - cojeara
+      - "coje\xE1ramos"
+      - cojearais
+      - cojearan
+      cjid: pisb1
+    - cjfs:
+      - cojease
+      - cojeases
+      - cojease
+      - "coje\xE1semos"
+      - cojeaseis
+      - cojeasen
+      cjid: pisb2
+    - cjfs:
+      - cojeare
+      - cojeares
+      - cojeare
+      - "coje\xE1remos"
+      - cojeareis
+      - cojearen
+      cjid: fsub
+    - cjfs:
+      - he cojeado
+      - has cojeado
+      - ha cojeado
+      - hemos cojeado
+      - "hab\xE9is cojeado"
+      - han cojeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cojeado"
+      - "hab\xEDas cojeado"
+      - "hab\xEDa cojeado"
+      - "hab\xEDamos cojeado"
+      - "hab\xEDais cojeado"
+      - "hab\xEDan cojeado"
+      cjid: ppsi
+    - cjfs:
+      - hube cojeado
+      - hubiste cojeado
+      - hubo cojeado
+      - hubimos cojeado
+      - hubisteis cojeado
+      - hubieron cojeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cojeado"
+      - "habr\xE1s cojeado"
+      - "habr\xE1 cojeado"
+      - habremos cojeado
+      - "habr\xE9is cojeado"
+      - "habr\xE1n cojeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cojeado"
+      - "habr\xEDas cojeado"
+      - "habr\xEDa cojeado"
+      - "habr\xEDamos cojeado"
+      - "habr\xEDais cojeado"
+      - "habr\xEDan cojeado"
+      cjid: cpef
+    - cjfs:
+      - haya cojeado
+      - hayas cojeado
+      - haya cojeado
+      - hayamos cojeado
+      - "hay\xE1is cojeado"
+      - hayan cojeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cojeado
+      - hubieras cojeado
+      - hubiera cojeado
+      - "hubi\xE9ramos cojeado"
+      - hubierais cojeado
+      - hubieran cojeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cojeado
+      - hubieses cojeado
+      - hubiese cojeado
+      - "hubi\xE9semos cojeado"
+      - hubieseis cojeado
+      - hubiesen cojeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cojeado
+      - hubieres cojeado
+      - hubiere cojeado
+      - "hubi\xE9remos cojeado"
+      - hubiereis cojeado
+      - hubieren cojeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cojea
+      - cojee
+      - cojeemos
+      - cojead
+      - cojeen
+      cjid: impf

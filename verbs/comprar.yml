@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|buy}, to {a_link|purchase}'
+  fl: transitive verb
+  hwi:
+    hw: comprar
+    prs:
+    - sound:
+        audio: compr03sp
+  meta:
+    id: comprar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605286000'
+    src: spanish
+    stems:
+    - comprar
+    uuid: 2a9ed92f-175e-47f5-92ab-86e664250232
+  shortdef:
+  - to buy, to purchase
+  suppl:
+    cjts:
+    - cjfs:
+      - comprando
+      - comprado
+      cjid: gppt
+    - cjfs:
+      - compro
+      - compras
+      - compra
+      - compramos
+      - "compr\xE1is"
+      - compran
+      cjid: pind
+    - cjfs:
+      - compraba
+      - comprabas
+      - compraba
+      - "compr\xE1bamos"
+      - comprabais
+      - compraban
+      cjid: pret
+    - cjfs:
+      - "compr\xE9"
+      - compraste
+      - "compr\xF3"
+      - compramos
+      - comprasteis
+      - compraron
+      cjid: pprf
+    - cjfs:
+      - "comprar\xE9"
+      - "comprar\xE1s"
+      - "comprar\xE1"
+      - compraremos
+      - "comprar\xE9is"
+      - "comprar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "comprar\xEDa"
+      - "comprar\xEDas"
+      - "comprar\xEDa"
+      - "comprar\xEDamos"
+      - "comprar\xEDais"
+      - "comprar\xEDan"
+      cjid: cond
+    - cjfs:
+      - compre
+      - compres
+      - compre
+      - compremos
+      - "compr\xE9is"
+      - compren
+      cjid: psub
+    - cjfs:
+      - comprara
+      - compraras
+      - comprara
+      - "compr\xE1ramos"
+      - comprarais
+      - compraran
+      cjid: pisb1
+    - cjfs:
+      - comprase
+      - comprases
+      - comprase
+      - "compr\xE1semos"
+      - compraseis
+      - comprasen
+      cjid: pisb2
+    - cjfs:
+      - comprare
+      - comprares
+      - comprare
+      - "compr\xE1remos"
+      - comprareis
+      - compraren
+      cjid: fsub
+    - cjfs:
+      - he comprado
+      - has comprado
+      - ha comprado
+      - hemos comprado
+      - "hab\xE9is comprado"
+      - han comprado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa comprado"
+      - "hab\xEDas comprado"
+      - "hab\xEDa comprado"
+      - "hab\xEDamos comprado"
+      - "hab\xEDais comprado"
+      - "hab\xEDan comprado"
+      cjid: ppsi
+    - cjfs:
+      - hube comprado
+      - hubiste comprado
+      - hubo comprado
+      - hubimos comprado
+      - hubisteis comprado
+      - hubieron comprado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 comprado"
+      - "habr\xE1s comprado"
+      - "habr\xE1 comprado"
+      - habremos comprado
+      - "habr\xE9is comprado"
+      - "habr\xE1n comprado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa comprado"
+      - "habr\xEDas comprado"
+      - "habr\xEDa comprado"
+      - "habr\xEDamos comprado"
+      - "habr\xEDais comprado"
+      - "habr\xEDan comprado"
+      cjid: cpef
+    - cjfs:
+      - haya comprado
+      - hayas comprado
+      - haya comprado
+      - hayamos comprado
+      - "hay\xE1is comprado"
+      - hayan comprado
+      cjid: ppfs
+    - cjfs:
+      - hubiera comprado
+      - hubieras comprado
+      - hubiera comprado
+      - "hubi\xE9ramos comprado"
+      - hubierais comprado
+      - hubieran comprado
+      cjid: ppss1
+    - cjfs:
+      - hubiese comprado
+      - hubieses comprado
+      - hubiese comprado
+      - "hubi\xE9semos comprado"
+      - hubieseis comprado
+      - hubiesen comprado
+      cjid: ppss2
+    - cjfs:
+      - hubiere comprado
+      - hubieres comprado
+      - hubiere comprado
+      - "hubi\xE9remos comprado"
+      - hubiereis comprado
+      - hubieren comprado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - compra
+      - compre
+      - compremos
+      - comprad
+      - compren
+      cjid: impf

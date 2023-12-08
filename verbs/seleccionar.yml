@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|elegir||} {bc}to {a_link|select}, to {a_link|choose}'
+  fl: transitive verb
+  hwi:
+    hw: seleccionar
+    prs:
+    - sound:
+        audio: selec02sp
+  meta:
+    id: seleccionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620367000'
+    src: spanish
+    stems:
+    - seleccionar
+    uuid: af9ddb5d-06c7-4943-a758-ffdbf95c2316
+  shortdef:
+  - 'elegir : to select, to choose'
+  suppl:
+    cjts:
+    - cjfs:
+      - seleccionando
+      - seleccionado
+      cjid: gppt
+    - cjfs:
+      - selecciono
+      - seleccionas
+      - selecciona
+      - seleccionamos
+      - "seleccion\xE1is"
+      - seleccionan
+      cjid: pind
+    - cjfs:
+      - seleccionaba
+      - seleccionabas
+      - seleccionaba
+      - "seleccion\xE1bamos"
+      - seleccionabais
+      - seleccionaban
+      cjid: pret
+    - cjfs:
+      - "seleccion\xE9"
+      - seleccionaste
+      - "seleccion\xF3"
+      - seleccionamos
+      - seleccionasteis
+      - seleccionaron
+      cjid: pprf
+    - cjfs:
+      - "seleccionar\xE9"
+      - "seleccionar\xE1s"
+      - "seleccionar\xE1"
+      - seleccionaremos
+      - "seleccionar\xE9is"
+      - "seleccionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "seleccionar\xEDa"
+      - "seleccionar\xEDas"
+      - "seleccionar\xEDa"
+      - "seleccionar\xEDamos"
+      - "seleccionar\xEDais"
+      - "seleccionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - seleccione
+      - selecciones
+      - seleccione
+      - seleccionemos
+      - "seleccion\xE9is"
+      - seleccionen
+      cjid: psub
+    - cjfs:
+      - seleccionara
+      - seleccionaras
+      - seleccionara
+      - "seleccion\xE1ramos"
+      - seleccionarais
+      - seleccionaran
+      cjid: pisb1
+    - cjfs:
+      - seleccionase
+      - seleccionases
+      - seleccionase
+      - "seleccion\xE1semos"
+      - seleccionaseis
+      - seleccionasen
+      cjid: pisb2
+    - cjfs:
+      - seleccionare
+      - seleccionares
+      - seleccionare
+      - "seleccion\xE1remos"
+      - seleccionareis
+      - seleccionaren
+      cjid: fsub
+    - cjfs:
+      - he seleccionado
+      - has seleccionado
+      - ha seleccionado
+      - hemos seleccionado
+      - "hab\xE9is seleccionado"
+      - han seleccionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa seleccionado"
+      - "hab\xEDas seleccionado"
+      - "hab\xEDa seleccionado"
+      - "hab\xEDamos seleccionado"
+      - "hab\xEDais seleccionado"
+      - "hab\xEDan seleccionado"
+      cjid: ppsi
+    - cjfs:
+      - hube seleccionado
+      - hubiste seleccionado
+      - hubo seleccionado
+      - hubimos seleccionado
+      - hubisteis seleccionado
+      - hubieron seleccionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 seleccionado"
+      - "habr\xE1s seleccionado"
+      - "habr\xE1 seleccionado"
+      - habremos seleccionado
+      - "habr\xE9is seleccionado"
+      - "habr\xE1n seleccionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa seleccionado"
+      - "habr\xEDas seleccionado"
+      - "habr\xEDa seleccionado"
+      - "habr\xEDamos seleccionado"
+      - "habr\xEDais seleccionado"
+      - "habr\xEDan seleccionado"
+      cjid: cpef
+    - cjfs:
+      - haya seleccionado
+      - hayas seleccionado
+      - haya seleccionado
+      - hayamos seleccionado
+      - "hay\xE1is seleccionado"
+      - hayan seleccionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera seleccionado
+      - hubieras seleccionado
+      - hubiera seleccionado
+      - "hubi\xE9ramos seleccionado"
+      - hubierais seleccionado
+      - hubieran seleccionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese seleccionado
+      - hubieses seleccionado
+      - hubiese seleccionado
+      - "hubi\xE9semos seleccionado"
+      - hubieseis seleccionado
+      - hubiesen seleccionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere seleccionado
+      - hubieres seleccionado
+      - hubiere seleccionado
+      - "hubi\xE9remos seleccionado"
+      - hubiereis seleccionado
+      - hubieren seleccionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - selecciona
+      - seleccione
+      - seleccionemos
+      - seleccionad
+      - seleccionen
+      cjid: impf

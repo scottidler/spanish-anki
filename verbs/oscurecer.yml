@@ -1,0 +1,214 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|darken}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|obscure}, to {a_link|confuse}, to {a_link|cloud}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}at dusk, at nightfall'
+          sn: '3'
+          vrs:
+          - va: al oscurecer
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to grow dark, to get dark'
+    vd: impersonal verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|darken}, to {a_link|dim}'
+    drp: oscurecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: oscurecer
+    prs:
+    - sound:
+        audio: oscur01sp
+  meta:
+    id: oscurecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616373000'
+    src: spanish
+    stems:
+    - oscurecer
+    - al oscurecer
+    - oscurecerse
+    uuid: 17b61a8e-15f8-4d84-9017-bbd8974d9364
+  shortdef:
+  - to darken
+  - to obscure, to confuse, to cloud
+  - at dusk, at nightfall
+  suppl:
+    cjts:
+    - cjfs:
+      - oscureciendo
+      - oscurecido
+      cjid: gppt
+    - cjfs:
+      - oscurezco
+      - oscureces
+      - oscurece
+      - oscurecemos
+      - "oscurec\xE9is"
+      - oscurecen
+      cjid: pind
+    - cjfs:
+      - "oscurec\xEDa"
+      - "oscurec\xEDas"
+      - "oscurec\xEDa"
+      - "oscurec\xEDamos"
+      - "oscurec\xEDais"
+      - "oscurec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "oscurec\xED"
+      - oscureciste
+      - "oscureci\xF3"
+      - oscurecimos
+      - oscurecisteis
+      - oscurecieron
+      cjid: pprf
+    - cjfs:
+      - "oscurecer\xE9"
+      - "oscurecer\xE1s"
+      - "oscurecer\xE1"
+      - oscureceremos
+      - "oscurecer\xE9is"
+      - "oscurecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "oscurecer\xEDa"
+      - "oscurecer\xEDas"
+      - "oscurecer\xEDa"
+      - "oscurecer\xEDamos"
+      - "oscurecer\xEDais"
+      - "oscurecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - oscurezca
+      - oscurezcas
+      - oscurezca
+      - oscurezcamos
+      - "oscurezc\xE1is"
+      - oscurezcan
+      cjid: psub
+    - cjfs:
+      - oscureciera
+      - oscurecieras
+      - oscureciera
+      - "oscureci\xE9ramos"
+      - oscurecierais
+      - oscurecieran
+      cjid: pisb1
+    - cjfs:
+      - oscureciese
+      - oscurecieses
+      - oscureciese
+      - "oscureci\xE9semos"
+      - oscurecieseis
+      - oscureciesen
+      cjid: pisb2
+    - cjfs:
+      - oscureciere
+      - oscurecieres
+      - oscureciere
+      - "oscureci\xE9remos"
+      - oscureciereis
+      - oscurecieren
+      cjid: fsub
+    - cjfs:
+      - he oscurecido
+      - has oscurecido
+      - ha oscurecido
+      - hemos oscurecido
+      - "hab\xE9is oscurecido"
+      - han oscurecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa oscurecido"
+      - "hab\xEDas oscurecido"
+      - "hab\xEDa oscurecido"
+      - "hab\xEDamos oscurecido"
+      - "hab\xEDais oscurecido"
+      - "hab\xEDan oscurecido"
+      cjid: ppsi
+    - cjfs:
+      - hube oscurecido
+      - hubiste oscurecido
+      - hubo oscurecido
+      - hubimos oscurecido
+      - hubisteis oscurecido
+      - hubieron oscurecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 oscurecido"
+      - "habr\xE1s oscurecido"
+      - "habr\xE1 oscurecido"
+      - habremos oscurecido
+      - "habr\xE9is oscurecido"
+      - "habr\xE1n oscurecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa oscurecido"
+      - "habr\xEDas oscurecido"
+      - "habr\xEDa oscurecido"
+      - "habr\xEDamos oscurecido"
+      - "habr\xEDais oscurecido"
+      - "habr\xEDan oscurecido"
+      cjid: cpef
+    - cjfs:
+      - haya oscurecido
+      - hayas oscurecido
+      - haya oscurecido
+      - hayamos oscurecido
+      - "hay\xE1is oscurecido"
+      - hayan oscurecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera oscurecido
+      - hubieras oscurecido
+      - hubiera oscurecido
+      - "hubi\xE9ramos oscurecido"
+      - hubierais oscurecido
+      - hubieran oscurecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese oscurecido
+      - hubieses oscurecido
+      - hubiese oscurecido
+      - "hubi\xE9semos oscurecido"
+      - hubieseis oscurecido
+      - hubiesen oscurecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere oscurecido
+      - hubieres oscurecido
+      - hubiere oscurecido
+      - "hubi\xE9remos oscurecido"
+      - hubiereis oscurecido
+      - hubieren oscurecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - oscurece
+      - oscurezca
+      - oscurezcamos
+      - oscureced
+      - oscurezcan
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|confiar||} {bc}to {a_link|entrust}, to {a_link|commend}'
+  fl: transitive verb
+  hwi:
+    hw: encomendar
+    prs:
+    - sound:
+        audio: encom01sp
+  meta:
+    id: encomendar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608485000'
+    src: spanish
+    stems:
+    - encomendar
+    - encomendarse
+    uuid: 14ed0c19-4b3f-467f-90f4-a85da7b3cd6e
+  shortdef:
+  - 'confiar : to entrust, to commend'
+  suppl:
+    cjts:
+    - cjfs:
+      - encomendando
+      - encomendado
+      cjid: gppt
+    - cjfs:
+      - encomiendo
+      - encomiendas
+      - encomienda
+      - encomendamos
+      - "encomend\xE1is"
+      - encomiendan
+      cjid: pind
+    - cjfs:
+      - encomendaba
+      - encomendabas
+      - encomendaba
+      - "encomend\xE1bamos"
+      - encomendabais
+      - encomendaban
+      cjid: pret
+    - cjfs:
+      - "encomend\xE9"
+      - encomendaste
+      - "encomend\xF3"
+      - encomendamos
+      - encomendasteis
+      - encomendaron
+      cjid: pprf
+    - cjfs:
+      - "encomendar\xE9"
+      - "encomendar\xE1s"
+      - "encomendar\xE1"
+      - encomendaremos
+      - "encomendar\xE9is"
+      - "encomendar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encomendar\xEDa"
+      - "encomendar\xEDas"
+      - "encomendar\xEDa"
+      - "encomendar\xEDamos"
+      - "encomendar\xEDais"
+      - "encomendar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encomiende
+      - encomiendes
+      - encomiende
+      - encomendemos
+      - "encomend\xE9is"
+      - encomienden
+      cjid: psub
+    - cjfs:
+      - encomendara
+      - encomendaras
+      - encomendara
+      - "encomend\xE1ramos"
+      - encomendarais
+      - encomendaran
+      cjid: pisb1
+    - cjfs:
+      - encomendase
+      - encomendases
+      - encomendase
+      - "encomend\xE1semos"
+      - encomendaseis
+      - encomendasen
+      cjid: pisb2
+    - cjfs:
+      - encomendare
+      - encomendares
+      - encomendare
+      - "encomend\xE1remos"
+      - encomendareis
+      - encomendaren
+      cjid: fsub
+    - cjfs:
+      - he encomendado
+      - has encomendado
+      - ha encomendado
+      - hemos encomendado
+      - "hab\xE9is encomendado"
+      - han encomendado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encomendado"
+      - "hab\xEDas encomendado"
+      - "hab\xEDa encomendado"
+      - "hab\xEDamos encomendado"
+      - "hab\xEDais encomendado"
+      - "hab\xEDan encomendado"
+      cjid: ppsi
+    - cjfs:
+      - hube encomendado
+      - hubiste encomendado
+      - hubo encomendado
+      - hubimos encomendado
+      - hubisteis encomendado
+      - hubieron encomendado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encomendado"
+      - "habr\xE1s encomendado"
+      - "habr\xE1 encomendado"
+      - habremos encomendado
+      - "habr\xE9is encomendado"
+      - "habr\xE1n encomendado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encomendado"
+      - "habr\xEDas encomendado"
+      - "habr\xEDa encomendado"
+      - "habr\xEDamos encomendado"
+      - "habr\xEDais encomendado"
+      - "habr\xEDan encomendado"
+      cjid: cpef
+    - cjfs:
+      - haya encomendado
+      - hayas encomendado
+      - haya encomendado
+      - hayamos encomendado
+      - "hay\xE1is encomendado"
+      - hayan encomendado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encomendado
+      - hubieras encomendado
+      - hubiera encomendado
+      - "hubi\xE9ramos encomendado"
+      - hubierais encomendado
+      - hubieran encomendado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encomendado
+      - hubieses encomendado
+      - hubiese encomendado
+      - "hubi\xE9semos encomendado"
+      - hubieseis encomendado
+      - hubiesen encomendado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encomendado
+      - hubieres encomendado
+      - hubiere encomendado
+      - "hubi\xE9remos encomendado"
+      - hubiereis encomendado
+      - hubieren encomendado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encomienda
+      - encomiende
+      - encomendemos
+      - encomendad
+      - encomienden
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: encomendarse

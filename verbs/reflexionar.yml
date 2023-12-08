@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reflect}, to {a_link|think}'
+  fl: intransitive verb
+  hwi:
+    hw: reflexionar
+    prs:
+    - sound:
+        audio: refle04sp
+  meta:
+    id: reflexionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619145000'
+    src: spanish
+    stems:
+    - reflexionar
+    uuid: bb12c234-7601-467a-be70-a0e50a14015b
+  shortdef:
+  - to reflect, to think
+  suppl:
+    cjts:
+    - cjfs:
+      - reflexionando
+      - reflexionado
+      cjid: gppt
+    - cjfs:
+      - reflexiono
+      - reflexionas
+      - reflexiona
+      - reflexionamos
+      - "reflexion\xE1is"
+      - reflexionan
+      cjid: pind
+    - cjfs:
+      - reflexionaba
+      - reflexionabas
+      - reflexionaba
+      - "reflexion\xE1bamos"
+      - reflexionabais
+      - reflexionaban
+      cjid: pret
+    - cjfs:
+      - "reflexion\xE9"
+      - reflexionaste
+      - "reflexion\xF3"
+      - reflexionamos
+      - reflexionasteis
+      - reflexionaron
+      cjid: pprf
+    - cjfs:
+      - "reflexionar\xE9"
+      - "reflexionar\xE1s"
+      - "reflexionar\xE1"
+      - reflexionaremos
+      - "reflexionar\xE9is"
+      - "reflexionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reflexionar\xEDa"
+      - "reflexionar\xEDas"
+      - "reflexionar\xEDa"
+      - "reflexionar\xEDamos"
+      - "reflexionar\xEDais"
+      - "reflexionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reflexione
+      - reflexiones
+      - reflexione
+      - reflexionemos
+      - "reflexion\xE9is"
+      - reflexionen
+      cjid: psub
+    - cjfs:
+      - reflexionara
+      - reflexionaras
+      - reflexionara
+      - "reflexion\xE1ramos"
+      - reflexionarais
+      - reflexionaran
+      cjid: pisb1
+    - cjfs:
+      - reflexionase
+      - reflexionases
+      - reflexionase
+      - "reflexion\xE1semos"
+      - reflexionaseis
+      - reflexionasen
+      cjid: pisb2
+    - cjfs:
+      - reflexionare
+      - reflexionares
+      - reflexionare
+      - "reflexion\xE1remos"
+      - reflexionareis
+      - reflexionaren
+      cjid: fsub
+    - cjfs:
+      - he reflexionado
+      - has reflexionado
+      - ha reflexionado
+      - hemos reflexionado
+      - "hab\xE9is reflexionado"
+      - han reflexionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reflexionado"
+      - "hab\xEDas reflexionado"
+      - "hab\xEDa reflexionado"
+      - "hab\xEDamos reflexionado"
+      - "hab\xEDais reflexionado"
+      - "hab\xEDan reflexionado"
+      cjid: ppsi
+    - cjfs:
+      - hube reflexionado
+      - hubiste reflexionado
+      - hubo reflexionado
+      - hubimos reflexionado
+      - hubisteis reflexionado
+      - hubieron reflexionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reflexionado"
+      - "habr\xE1s reflexionado"
+      - "habr\xE1 reflexionado"
+      - habremos reflexionado
+      - "habr\xE9is reflexionado"
+      - "habr\xE1n reflexionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reflexionado"
+      - "habr\xEDas reflexionado"
+      - "habr\xEDa reflexionado"
+      - "habr\xEDamos reflexionado"
+      - "habr\xEDais reflexionado"
+      - "habr\xEDan reflexionado"
+      cjid: cpef
+    - cjfs:
+      - haya reflexionado
+      - hayas reflexionado
+      - haya reflexionado
+      - hayamos reflexionado
+      - "hay\xE1is reflexionado"
+      - hayan reflexionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reflexionado
+      - hubieras reflexionado
+      - hubiera reflexionado
+      - "hubi\xE9ramos reflexionado"
+      - hubierais reflexionado
+      - hubieran reflexionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reflexionado
+      - hubieses reflexionado
+      - hubiese reflexionado
+      - "hubi\xE9semos reflexionado"
+      - hubieseis reflexionado
+      - hubiesen reflexionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reflexionado
+      - hubieres reflexionado
+      - hubiere reflexionado
+      - "hubi\xE9remos reflexionado"
+      - hubiereis reflexionado
+      - hubieren reflexionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reflexiona
+      - reflexione
+      - reflexionemos
+      - reflexionad
+      - reflexionen
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sigh}'
+  fl: intransitive verb
+  hwi:
+    hw: suspirar
+    prs:
+    - sound:
+        audio: suspi02sp
+  meta:
+    id: suspirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621316000'
+    src: spanish
+    stems:
+    - suspirar
+    uuid: c66b3aa9-45be-467f-a776-ee1791978dd6
+  shortdef:
+  - to sigh
+  suppl:
+    cjts:
+    - cjfs:
+      - suspirando
+      - suspirado
+      cjid: gppt
+    - cjfs:
+      - suspiro
+      - suspiras
+      - suspira
+      - suspiramos
+      - "suspir\xE1is"
+      - suspiran
+      cjid: pind
+    - cjfs:
+      - suspiraba
+      - suspirabas
+      - suspiraba
+      - "suspir\xE1bamos"
+      - suspirabais
+      - suspiraban
+      cjid: pret
+    - cjfs:
+      - "suspir\xE9"
+      - suspiraste
+      - "suspir\xF3"
+      - suspiramos
+      - suspirasteis
+      - suspiraron
+      cjid: pprf
+    - cjfs:
+      - "suspirar\xE9"
+      - "suspirar\xE1s"
+      - "suspirar\xE1"
+      - suspiraremos
+      - "suspirar\xE9is"
+      - "suspirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "suspirar\xEDa"
+      - "suspirar\xEDas"
+      - "suspirar\xEDa"
+      - "suspirar\xEDamos"
+      - "suspirar\xEDais"
+      - "suspirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - suspire
+      - suspires
+      - suspire
+      - suspiremos
+      - "suspir\xE9is"
+      - suspiren
+      cjid: psub
+    - cjfs:
+      - suspirara
+      - suspiraras
+      - suspirara
+      - "suspir\xE1ramos"
+      - suspirarais
+      - suspiraran
+      cjid: pisb1
+    - cjfs:
+      - suspirase
+      - suspirases
+      - suspirase
+      - "suspir\xE1semos"
+      - suspiraseis
+      - suspirasen
+      cjid: pisb2
+    - cjfs:
+      - suspirare
+      - suspirares
+      - suspirare
+      - "suspir\xE1remos"
+      - suspirareis
+      - suspiraren
+      cjid: fsub
+    - cjfs:
+      - he suspirado
+      - has suspirado
+      - ha suspirado
+      - hemos suspirado
+      - "hab\xE9is suspirado"
+      - han suspirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa suspirado"
+      - "hab\xEDas suspirado"
+      - "hab\xEDa suspirado"
+      - "hab\xEDamos suspirado"
+      - "hab\xEDais suspirado"
+      - "hab\xEDan suspirado"
+      cjid: ppsi
+    - cjfs:
+      - hube suspirado
+      - hubiste suspirado
+      - hubo suspirado
+      - hubimos suspirado
+      - hubisteis suspirado
+      - hubieron suspirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 suspirado"
+      - "habr\xE1s suspirado"
+      - "habr\xE1 suspirado"
+      - habremos suspirado
+      - "habr\xE9is suspirado"
+      - "habr\xE1n suspirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa suspirado"
+      - "habr\xEDas suspirado"
+      - "habr\xEDa suspirado"
+      - "habr\xEDamos suspirado"
+      - "habr\xEDais suspirado"
+      - "habr\xEDan suspirado"
+      cjid: cpef
+    - cjfs:
+      - haya suspirado
+      - hayas suspirado
+      - haya suspirado
+      - hayamos suspirado
+      - "hay\xE1is suspirado"
+      - hayan suspirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera suspirado
+      - hubieras suspirado
+      - hubiera suspirado
+      - "hubi\xE9ramos suspirado"
+      - hubierais suspirado
+      - hubieran suspirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese suspirado
+      - hubieses suspirado
+      - hubiese suspirado
+      - "hubi\xE9semos suspirado"
+      - hubieseis suspirado
+      - hubiesen suspirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere suspirado
+      - hubieres suspirado
+      - hubiere suspirado
+      - "hubi\xE9remos suspirado"
+      - hubiereis suspirado
+      - hubieren suspirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - suspira
+      - suspire
+      - suspiremos
+      - suspirad
+      - suspiren
+      cjid: impf

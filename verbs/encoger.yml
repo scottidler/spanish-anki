@@ -1,0 +1,220 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shrink}, to make smaller'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|intimidate}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shrink}, to {a_link|contract}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|shrink}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be intimidated, to {a_link|cower}, to {a_link|cringe}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|shrug} (one''s shoulders)'
+            sn: '3'
+            vrs:
+            - va: encogerse de hombros
+    drp: encogerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: encoger
+    prs:
+    - sound:
+        audio: encog01sp
+  meta:
+    id: encoger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608481000'
+    src: spanish
+    stems:
+    - encoger
+    - encogerse
+    - encogerse de hombros
+    uuid: b4398899-cc80-4bb2-bde8-34670bf95c49
+  shortdef:
+  - to shrink, to make smaller
+  - to intimidate
+  - to shrink, to contract
+  suppl:
+    cjts:
+    - cjfs:
+      - encogiendo
+      - encogido
+      cjid: gppt
+    - cjfs:
+      - encojo
+      - encoges
+      - encoge
+      - encogemos
+      - "encog\xE9is"
+      - encogen
+      cjid: pind
+    - cjfs:
+      - "encog\xEDa"
+      - "encog\xEDas"
+      - "encog\xEDa"
+      - "encog\xEDamos"
+      - "encog\xEDais"
+      - "encog\xEDan"
+      cjid: pret
+    - cjfs:
+      - "encog\xED"
+      - encogiste
+      - "encogi\xF3"
+      - encogimos
+      - encogisteis
+      - encogieron
+      cjid: pprf
+    - cjfs:
+      - "encoger\xE9"
+      - "encoger\xE1s"
+      - "encoger\xE1"
+      - encogeremos
+      - "encoger\xE9is"
+      - "encoger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encoger\xEDa"
+      - "encoger\xEDas"
+      - "encoger\xEDa"
+      - "encoger\xEDamos"
+      - "encoger\xEDais"
+      - "encoger\xEDan"
+      cjid: cond
+    - cjfs:
+      - encoja
+      - encojas
+      - encoja
+      - encojamos
+      - "encoj\xE1is"
+      - encojan
+      cjid: psub
+    - cjfs:
+      - encogiera
+      - encogieras
+      - encogiera
+      - "encogi\xE9ramos"
+      - encogierais
+      - encogieran
+      cjid: pisb1
+    - cjfs:
+      - encogiese
+      - encogieses
+      - encogiese
+      - "encogi\xE9semos"
+      - encogieseis
+      - encogiesen
+      cjid: pisb2
+    - cjfs:
+      - encogiere
+      - encogieres
+      - encogiere
+      - "encogi\xE9remos"
+      - encogiereis
+      - encogieren
+      cjid: fsub
+    - cjfs:
+      - he encogido
+      - has encogido
+      - ha encogido
+      - hemos encogido
+      - "hab\xE9is encogido"
+      - han encogido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encogido"
+      - "hab\xEDas encogido"
+      - "hab\xEDa encogido"
+      - "hab\xEDamos encogido"
+      - "hab\xEDais encogido"
+      - "hab\xEDan encogido"
+      cjid: ppsi
+    - cjfs:
+      - hube encogido
+      - hubiste encogido
+      - hubo encogido
+      - hubimos encogido
+      - hubisteis encogido
+      - hubieron encogido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encogido"
+      - "habr\xE1s encogido"
+      - "habr\xE1 encogido"
+      - habremos encogido
+      - "habr\xE9is encogido"
+      - "habr\xE1n encogido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encogido"
+      - "habr\xEDas encogido"
+      - "habr\xEDa encogido"
+      - "habr\xEDamos encogido"
+      - "habr\xEDais encogido"
+      - "habr\xEDan encogido"
+      cjid: cpef
+    - cjfs:
+      - haya encogido
+      - hayas encogido
+      - haya encogido
+      - hayamos encogido
+      - "hay\xE1is encogido"
+      - hayan encogido
+      cjid: ppfs
+    - cjfs:
+      - hubiera encogido
+      - hubieras encogido
+      - hubiera encogido
+      - "hubi\xE9ramos encogido"
+      - hubierais encogido
+      - hubieran encogido
+      cjid: ppss1
+    - cjfs:
+      - hubiese encogido
+      - hubieses encogido
+      - hubiese encogido
+      - "hubi\xE9semos encogido"
+      - hubieseis encogido
+      - hubiesen encogido
+      cjid: ppss2
+    - cjfs:
+      - hubiere encogido
+      - hubieres encogido
+      - hubiere encogido
+      - "hubi\xE9remos encogido"
+      - hubiereis encogido
+      - hubieren encogido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encoge
+      - encoja
+      - encojamos
+      - encoged
+      - encojan
+      cjid: impf

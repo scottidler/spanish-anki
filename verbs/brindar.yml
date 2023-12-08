@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to drink a toast '
+          - - vis
+            - - t: brindar por
+                tr: to toast, to drink to
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|offer}, to {a_link|provide}'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to volunteer to do something'
+            vrs:
+            - va: brindarse a hacer algo
+    drp: brindarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: brindar
+    prs:
+    - sound:
+        audio: brind01sp
+  meta:
+    id: brindar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603335000'
+    src: spanish
+    stems:
+    - brindar
+    - brindarse
+    - brindarse a hacer algo
+    uuid: e0f5266c-71fe-410d-93d9-6579469295ac
+  shortdef:
+  - to drink a toast
+  - to offer, to provide
+  suppl:
+    cjts:
+    - cjfs:
+      - brindando
+      - brindado
+      cjid: gppt
+    - cjfs:
+      - brindo
+      - brindas
+      - brinda
+      - brindamos
+      - "brind\xE1is"
+      - brindan
+      cjid: pind
+    - cjfs:
+      - brindaba
+      - brindabas
+      - brindaba
+      - "brind\xE1bamos"
+      - brindabais
+      - brindaban
+      cjid: pret
+    - cjfs:
+      - "brind\xE9"
+      - brindaste
+      - "brind\xF3"
+      - brindamos
+      - brindasteis
+      - brindaron
+      cjid: pprf
+    - cjfs:
+      - "brindar\xE9"
+      - "brindar\xE1s"
+      - "brindar\xE1"
+      - brindaremos
+      - "brindar\xE9is"
+      - "brindar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "brindar\xEDa"
+      - "brindar\xEDas"
+      - "brindar\xEDa"
+      - "brindar\xEDamos"
+      - "brindar\xEDais"
+      - "brindar\xEDan"
+      cjid: cond
+    - cjfs:
+      - brinde
+      - brindes
+      - brinde
+      - brindemos
+      - "brind\xE9is"
+      - brinden
+      cjid: psub
+    - cjfs:
+      - brindara
+      - brindaras
+      - brindara
+      - "brind\xE1ramos"
+      - brindarais
+      - brindaran
+      cjid: pisb1
+    - cjfs:
+      - brindase
+      - brindases
+      - brindase
+      - "brind\xE1semos"
+      - brindaseis
+      - brindasen
+      cjid: pisb2
+    - cjfs:
+      - brindare
+      - brindares
+      - brindare
+      - "brind\xE1remos"
+      - brindareis
+      - brindaren
+      cjid: fsub
+    - cjfs:
+      - he brindado
+      - has brindado
+      - ha brindado
+      - hemos brindado
+      - "hab\xE9is brindado"
+      - han brindado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa brindado"
+      - "hab\xEDas brindado"
+      - "hab\xEDa brindado"
+      - "hab\xEDamos brindado"
+      - "hab\xEDais brindado"
+      - "hab\xEDan brindado"
+      cjid: ppsi
+    - cjfs:
+      - hube brindado
+      - hubiste brindado
+      - hubo brindado
+      - hubimos brindado
+      - hubisteis brindado
+      - hubieron brindado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 brindado"
+      - "habr\xE1s brindado"
+      - "habr\xE1 brindado"
+      - habremos brindado
+      - "habr\xE9is brindado"
+      - "habr\xE1n brindado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa brindado"
+      - "habr\xEDas brindado"
+      - "habr\xEDa brindado"
+      - "habr\xEDamos brindado"
+      - "habr\xEDais brindado"
+      - "habr\xEDan brindado"
+      cjid: cpef
+    - cjfs:
+      - haya brindado
+      - hayas brindado
+      - haya brindado
+      - hayamos brindado
+      - "hay\xE1is brindado"
+      - hayan brindado
+      cjid: ppfs
+    - cjfs:
+      - hubiera brindado
+      - hubieras brindado
+      - hubiera brindado
+      - "hubi\xE9ramos brindado"
+      - hubierais brindado
+      - hubieran brindado
+      cjid: ppss1
+    - cjfs:
+      - hubiese brindado
+      - hubieses brindado
+      - hubiese brindado
+      - "hubi\xE9semos brindado"
+      - hubieseis brindado
+      - hubiesen brindado
+      cjid: ppss2
+    - cjfs:
+      - hubiere brindado
+      - hubieres brindado
+      - hubiere brindado
+      - "hubi\xE9remos brindado"
+      - hubiereis brindado
+      - hubieren brindado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - brinda
+      - brinde
+      - brindemos
+      - brindad
+      - brinden
+      cjid: impf

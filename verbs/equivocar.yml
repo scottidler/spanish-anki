@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confuse} (someone), to {a_link|make} (someone) {a_link|mess
+              up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to choose badly'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to make a mistake, to {a_link|be wrong} '
+            - - vis
+              - - t: "se equivoc\xF3 de casa"
+                  tr: he got the wrong house
+    drp: equivocarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: equivocar
+    prs:
+    - sound:
+        audio: equiv02sp
+  meta:
+    id: equivocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608876000'
+    src: spanish
+    stems:
+    - equivocar
+    - equivocarse
+    uuid: 9ab219f9-f5a2-4fe1-97e9-40891a501e4b
+  shortdef:
+  - to confuse (someone), to make (someone) mess up
+  - to choose badly
+  suppl:
+    cjts:
+    - cjfs:
+      - equivocando
+      - equivocado
+      cjid: gppt
+    - cjfs:
+      - equivoco
+      - equivocas
+      - equivoca
+      - equivocamos
+      - "equivoc\xE1is"
+      - equivocan
+      cjid: pind
+    - cjfs:
+      - equivocaba
+      - equivocabas
+      - equivocaba
+      - "equivoc\xE1bamos"
+      - equivocabais
+      - equivocaban
+      cjid: pret
+    - cjfs:
+      - "equivoqu\xE9"
+      - equivocaste
+      - "equivoc\xF3"
+      - equivocamos
+      - equivocasteis
+      - equivocaron
+      cjid: pprf
+    - cjfs:
+      - "equivocar\xE9"
+      - "equivocar\xE1s"
+      - "equivocar\xE1"
+      - equivocaremos
+      - "equivocar\xE9is"
+      - "equivocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "equivocar\xEDa"
+      - "equivocar\xEDas"
+      - "equivocar\xEDa"
+      - "equivocar\xEDamos"
+      - "equivocar\xEDais"
+      - "equivocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - equivoque
+      - equivoques
+      - equivoque
+      - equivoquemos
+      - "equivoqu\xE9is"
+      - equivoquen
+      cjid: psub
+    - cjfs:
+      - equivocara
+      - equivocaras
+      - equivocara
+      - "equivoc\xE1ramos"
+      - equivocarais
+      - equivocaran
+      cjid: pisb1
+    - cjfs:
+      - equivocase
+      - equivocases
+      - equivocase
+      - "equivoc\xE1semos"
+      - equivocaseis
+      - equivocasen
+      cjid: pisb2
+    - cjfs:
+      - equivocare
+      - equivocares
+      - equivocare
+      - "equivoc\xE1remos"
+      - equivocareis
+      - equivocaren
+      cjid: fsub
+    - cjfs:
+      - he equivocado
+      - has equivocado
+      - ha equivocado
+      - hemos equivocado
+      - "hab\xE9is equivocado"
+      - han equivocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa equivocado"
+      - "hab\xEDas equivocado"
+      - "hab\xEDa equivocado"
+      - "hab\xEDamos equivocado"
+      - "hab\xEDais equivocado"
+      - "hab\xEDan equivocado"
+      cjid: ppsi
+    - cjfs:
+      - hube equivocado
+      - hubiste equivocado
+      - hubo equivocado
+      - hubimos equivocado
+      - hubisteis equivocado
+      - hubieron equivocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 equivocado"
+      - "habr\xE1s equivocado"
+      - "habr\xE1 equivocado"
+      - habremos equivocado
+      - "habr\xE9is equivocado"
+      - "habr\xE1n equivocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa equivocado"
+      - "habr\xEDas equivocado"
+      - "habr\xEDa equivocado"
+      - "habr\xEDamos equivocado"
+      - "habr\xEDais equivocado"
+      - "habr\xEDan equivocado"
+      cjid: cpef
+    - cjfs:
+      - haya equivocado
+      - hayas equivocado
+      - haya equivocado
+      - hayamos equivocado
+      - "hay\xE1is equivocado"
+      - hayan equivocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera equivocado
+      - hubieras equivocado
+      - hubiera equivocado
+      - "hubi\xE9ramos equivocado"
+      - hubierais equivocado
+      - hubieran equivocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese equivocado
+      - hubieses equivocado
+      - hubiese equivocado
+      - "hubi\xE9semos equivocado"
+      - hubieseis equivocado
+      - hubiesen equivocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere equivocado
+      - hubieres equivocado
+      - hubiere equivocado
+      - "hubi\xE9remos equivocado"
+      - hubiereis equivocado
+      - hubieren equivocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - equivoca
+      - equivoque
+      - equivoquemos
+      - equivocad
+      - equivoquen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|announce}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|advertise}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: anunciar
+  meta:
+    id: anunciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601603000'
+    src: spanish
+    stems:
+    - anunciar
+    uuid: 58d0a2a7-e49f-4b8f-b76f-f9d4381f23d7
+  shortdef:
+  - to announce
+  - to advertise
+  suppl:
+    cjts:
+    - cjfs:
+      - anunciando
+      - anunciado
+      cjid: gppt
+    - cjfs:
+      - anuncio
+      - anuncias
+      - anuncia
+      - anunciamos
+      - "anunci\xE1is"
+      - anuncian
+      cjid: pind
+    - cjfs:
+      - anunciaba
+      - anunciabas
+      - anunciaba
+      - "anunci\xE1bamos"
+      - anunciabais
+      - anunciaban
+      cjid: pret
+    - cjfs:
+      - "anunci\xE9"
+      - anunciaste
+      - "anunci\xF3"
+      - anunciamos
+      - anunciasteis
+      - anunciaron
+      cjid: pprf
+    - cjfs:
+      - "anunciar\xE9"
+      - "anunciar\xE1s"
+      - "anunciar\xE1"
+      - anunciaremos
+      - "anunciar\xE9is"
+      - "anunciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "anunciar\xEDa"
+      - "anunciar\xEDas"
+      - "anunciar\xEDa"
+      - "anunciar\xEDamos"
+      - "anunciar\xEDais"
+      - "anunciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - anuncie
+      - anuncies
+      - anuncie
+      - anunciemos
+      - "anunci\xE9is"
+      - anuncien
+      cjid: psub
+    - cjfs:
+      - anunciara
+      - anunciaras
+      - anunciara
+      - "anunci\xE1ramos"
+      - anunciarais
+      - anunciaran
+      cjid: pisb1
+    - cjfs:
+      - anunciase
+      - anunciases
+      - anunciase
+      - "anunci\xE1semos"
+      - anunciaseis
+      - anunciasen
+      cjid: pisb2
+    - cjfs:
+      - anunciare
+      - anunciares
+      - anunciare
+      - "anunci\xE1remos"
+      - anunciareis
+      - anunciaren
+      cjid: fsub
+    - cjfs:
+      - he anunciado
+      - has anunciado
+      - ha anunciado
+      - hemos anunciado
+      - "hab\xE9is anunciado"
+      - han anunciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa anunciado"
+      - "hab\xEDas anunciado"
+      - "hab\xEDa anunciado"
+      - "hab\xEDamos anunciado"
+      - "hab\xEDais anunciado"
+      - "hab\xEDan anunciado"
+      cjid: ppsi
+    - cjfs:
+      - hube anunciado
+      - hubiste anunciado
+      - hubo anunciado
+      - hubimos anunciado
+      - hubisteis anunciado
+      - hubieron anunciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 anunciado"
+      - "habr\xE1s anunciado"
+      - "habr\xE1 anunciado"
+      - habremos anunciado
+      - "habr\xE9is anunciado"
+      - "habr\xE1n anunciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa anunciado"
+      - "habr\xEDas anunciado"
+      - "habr\xEDa anunciado"
+      - "habr\xEDamos anunciado"
+      - "habr\xEDais anunciado"
+      - "habr\xEDan anunciado"
+      cjid: cpef
+    - cjfs:
+      - haya anunciado
+      - hayas anunciado
+      - haya anunciado
+      - hayamos anunciado
+      - "hay\xE1is anunciado"
+      - hayan anunciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera anunciado
+      - hubieras anunciado
+      - hubiera anunciado
+      - "hubi\xE9ramos anunciado"
+      - hubierais anunciado
+      - hubieran anunciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese anunciado
+      - hubieses anunciado
+      - hubiese anunciado
+      - "hubi\xE9semos anunciado"
+      - hubieseis anunciado
+      - hubiesen anunciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere anunciado
+      - hubieres anunciado
+      - hubiere anunciado
+      - "hubi\xE9remos anunciado"
+      - hubiereis anunciado
+      - hubieren anunciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - anuncia
+      - anuncie
+      - anunciemos
+      - anunciad
+      - anuncien
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scratch}, to {a_link|claw}'
+  fl: verb
+  hwi:
+    hw: "ara\xF1ar"
+    prs:
+    - sound:
+        audio: arana02sp
+  meta:
+    id: aranar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601857000'
+    src: spanish
+    stems:
+    - "ara\xF1ar"
+    uuid: 0622f370-6596-40ec-9c7c-e544f2a63cc9
+  shortdef:
+  - to scratch, to claw
+  suppl:
+    cjts:
+    - cjfs:
+      - "ara\xF1ando"
+      - "ara\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "ara\xF1o"
+      - "ara\xF1as"
+      - "ara\xF1a"
+      - "ara\xF1amos"
+      - "ara\xF1\xE1is"
+      - "ara\xF1an"
+      cjid: pind
+    - cjfs:
+      - "ara\xF1aba"
+      - "ara\xF1abas"
+      - "ara\xF1aba"
+      - "ara\xF1\xE1bamos"
+      - "ara\xF1abais"
+      - "ara\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "ara\xF1\xE9"
+      - "ara\xF1aste"
+      - "ara\xF1\xF3"
+      - "ara\xF1amos"
+      - "ara\xF1asteis"
+      - "ara\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "ara\xF1ar\xE9"
+      - "ara\xF1ar\xE1s"
+      - "ara\xF1ar\xE1"
+      - "ara\xF1aremos"
+      - "ara\xF1ar\xE9is"
+      - "ara\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ara\xF1ar\xEDa"
+      - "ara\xF1ar\xEDas"
+      - "ara\xF1ar\xEDa"
+      - "ara\xF1ar\xEDamos"
+      - "ara\xF1ar\xEDais"
+      - "ara\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ara\xF1e"
+      - "ara\xF1es"
+      - "ara\xF1e"
+      - "ara\xF1emos"
+      - "ara\xF1\xE9is"
+      - "ara\xF1en"
+      cjid: psub
+    - cjfs:
+      - "ara\xF1ara"
+      - "ara\xF1aras"
+      - "ara\xF1ara"
+      - "ara\xF1\xE1ramos"
+      - "ara\xF1arais"
+      - "ara\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "ara\xF1ase"
+      - "ara\xF1ases"
+      - "ara\xF1ase"
+      - "ara\xF1\xE1semos"
+      - "ara\xF1aseis"
+      - "ara\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "ara\xF1are"
+      - "ara\xF1ares"
+      - "ara\xF1are"
+      - "ara\xF1\xE1remos"
+      - "ara\xF1areis"
+      - "ara\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he ara\xF1ado"
+      - "has ara\xF1ado"
+      - "ha ara\xF1ado"
+      - "hemos ara\xF1ado"
+      - "hab\xE9is ara\xF1ado"
+      - "han ara\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ara\xF1ado"
+      - "hab\xEDas ara\xF1ado"
+      - "hab\xEDa ara\xF1ado"
+      - "hab\xEDamos ara\xF1ado"
+      - "hab\xEDais ara\xF1ado"
+      - "hab\xEDan ara\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube ara\xF1ado"
+      - "hubiste ara\xF1ado"
+      - "hubo ara\xF1ado"
+      - "hubimos ara\xF1ado"
+      - "hubisteis ara\xF1ado"
+      - "hubieron ara\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ara\xF1ado"
+      - "habr\xE1s ara\xF1ado"
+      - "habr\xE1 ara\xF1ado"
+      - "habremos ara\xF1ado"
+      - "habr\xE9is ara\xF1ado"
+      - "habr\xE1n ara\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ara\xF1ado"
+      - "habr\xEDas ara\xF1ado"
+      - "habr\xEDa ara\xF1ado"
+      - "habr\xEDamos ara\xF1ado"
+      - "habr\xEDais ara\xF1ado"
+      - "habr\xEDan ara\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya ara\xF1ado"
+      - "hayas ara\xF1ado"
+      - "haya ara\xF1ado"
+      - "hayamos ara\xF1ado"
+      - "hay\xE1is ara\xF1ado"
+      - "hayan ara\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera ara\xF1ado"
+      - "hubieras ara\xF1ado"
+      - "hubiera ara\xF1ado"
+      - "hubi\xE9ramos ara\xF1ado"
+      - "hubierais ara\xF1ado"
+      - "hubieran ara\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese ara\xF1ado"
+      - "hubieses ara\xF1ado"
+      - "hubiese ara\xF1ado"
+      - "hubi\xE9semos ara\xF1ado"
+      - "hubieseis ara\xF1ado"
+      - "hubiesen ara\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere ara\xF1ado"
+      - "hubieres ara\xF1ado"
+      - "hubiere ara\xF1ado"
+      - "hubi\xE9remos ara\xF1ado"
+      - "hubiereis ara\xF1ado"
+      - "hubieren ara\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ara\xF1a"
+      - "ara\xF1e"
+      - "ara\xF1emos"
+      - "ara\xF1ad"
+      - "ara\xF1en"
+      cjid: impf

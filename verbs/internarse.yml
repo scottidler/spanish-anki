@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|admit} (to a hospital, etc.), to {a_link|commit} (to
+              an institution)'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|penetrate}, to advance into'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go into}, to {a_link|enter}'
+            sn: '2'
+            vrs:
+            - va: internarse en
+              vac: ~ en
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be admitted to'
+            sn: '3'
+            vrs:
+            - va: internarse en
+              vac: ~ en
+    drp: internarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: internar
+    prs:
+    - sound:
+        audio: inter18sp
+  meta:
+    id: internar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612865000'
+    src: spanish
+    stems:
+    - internar
+    - internarse
+    - internarse en
+    uuid: c5cce048-90c1-4b73-8478-725d2d8d11e6
+  shortdef:
+  - to admit (to a hospital, etc.), to commit (to an institution)
+  suppl:
+    cjts:
+    - cjfs:
+      - internando
+      - internado
+      cjid: gppt
+    - cjfs:
+      - interno
+      - internas
+      - interna
+      - internamos
+      - "intern\xE1is"
+      - internan
+      cjid: pind
+    - cjfs:
+      - internaba
+      - internabas
+      - internaba
+      - "intern\xE1bamos"
+      - internabais
+      - internaban
+      cjid: pret
+    - cjfs:
+      - "intern\xE9"
+      - internaste
+      - "intern\xF3"
+      - internamos
+      - internasteis
+      - internaron
+      cjid: pprf
+    - cjfs:
+      - "internar\xE9"
+      - "internar\xE1s"
+      - "internar\xE1"
+      - internaremos
+      - "internar\xE9is"
+      - "internar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "internar\xEDa"
+      - "internar\xEDas"
+      - "internar\xEDa"
+      - "internar\xEDamos"
+      - "internar\xEDais"
+      - "internar\xEDan"
+      cjid: cond
+    - cjfs:
+      - interne
+      - internes
+      - interne
+      - internemos
+      - "intern\xE9is"
+      - internen
+      cjid: psub
+    - cjfs:
+      - internara
+      - internaras
+      - internara
+      - "intern\xE1ramos"
+      - internarais
+      - internaran
+      cjid: pisb1
+    - cjfs:
+      - internase
+      - internases
+      - internase
+      - "intern\xE1semos"
+      - internaseis
+      - internasen
+      cjid: pisb2
+    - cjfs:
+      - internare
+      - internares
+      - internare
+      - "intern\xE1remos"
+      - internareis
+      - internaren
+      cjid: fsub
+    - cjfs:
+      - he internado
+      - has internado
+      - ha internado
+      - hemos internado
+      - "hab\xE9is internado"
+      - han internado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa internado"
+      - "hab\xEDas internado"
+      - "hab\xEDa internado"
+      - "hab\xEDamos internado"
+      - "hab\xEDais internado"
+      - "hab\xEDan internado"
+      cjid: ppsi
+    - cjfs:
+      - hube internado
+      - hubiste internado
+      - hubo internado
+      - hubimos internado
+      - hubisteis internado
+      - hubieron internado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 internado"
+      - "habr\xE1s internado"
+      - "habr\xE1 internado"
+      - habremos internado
+      - "habr\xE9is internado"
+      - "habr\xE1n internado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa internado"
+      - "habr\xEDas internado"
+      - "habr\xEDa internado"
+      - "habr\xEDamos internado"
+      - "habr\xEDais internado"
+      - "habr\xEDan internado"
+      cjid: cpef
+    - cjfs:
+      - haya internado
+      - hayas internado
+      - haya internado
+      - hayamos internado
+      - "hay\xE1is internado"
+      - hayan internado
+      cjid: ppfs
+    - cjfs:
+      - hubiera internado
+      - hubieras internado
+      - hubiera internado
+      - "hubi\xE9ramos internado"
+      - hubierais internado
+      - hubieran internado
+      cjid: ppss1
+    - cjfs:
+      - hubiese internado
+      - hubieses internado
+      - hubiese internado
+      - "hubi\xE9semos internado"
+      - hubieseis internado
+      - hubiesen internado
+      cjid: ppss2
+    - cjfs:
+      - hubiere internado
+      - hubieres internado
+      - hubiere internado
+      - "hubi\xE9remos internado"
+      - hubiereis internado
+      - hubieren internado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - interna
+      - interne
+      - internemos
+      - internad
+      - internen
+      cjid: impf

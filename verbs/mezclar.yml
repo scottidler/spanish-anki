@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mix}, to {a_link|blend}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mix up}, to {a_link|muddle}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|involucrar||} {bc}to {a_link|involve}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get mixed up (in)'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|mix}, to {a_link|mingle} (socially)'
+            sn: '2'
+    drp: mezclarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: mezclar
+    prs:
+    - sound:
+        audio: mezcl02sp
+  meta:
+    id: mezclar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614968000'
+    src: spanish
+    stems:
+    - mezclar
+    - mezclarse
+    uuid: c03e548e-551a-4ba0-94c2-4bd672d06629
+  shortdef:
+  - to mix, to blend
+  - to mix up, to muddle
+  - 'involucrar : to involve'
+  suppl:
+    cjts:
+    - cjfs:
+      - mezclando
+      - mezclado
+      cjid: gppt
+    - cjfs:
+      - mezclo
+      - mezclas
+      - mezcla
+      - mezclamos
+      - "mezcl\xE1is"
+      - mezclan
+      cjid: pind
+    - cjfs:
+      - mezclaba
+      - mezclabas
+      - mezclaba
+      - "mezcl\xE1bamos"
+      - mezclabais
+      - mezclaban
+      cjid: pret
+    - cjfs:
+      - "mezcl\xE9"
+      - mezclaste
+      - "mezcl\xF3"
+      - mezclamos
+      - mezclasteis
+      - mezclaron
+      cjid: pprf
+    - cjfs:
+      - "mezclar\xE9"
+      - "mezclar\xE1s"
+      - "mezclar\xE1"
+      - mezclaremos
+      - "mezclar\xE9is"
+      - "mezclar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mezclar\xEDa"
+      - "mezclar\xEDas"
+      - "mezclar\xEDa"
+      - "mezclar\xEDamos"
+      - "mezclar\xEDais"
+      - "mezclar\xEDan"
+      cjid: cond
+    - cjfs:
+      - mezcle
+      - mezcles
+      - mezcle
+      - mezclemos
+      - "mezcl\xE9is"
+      - mezclen
+      cjid: psub
+    - cjfs:
+      - mezclara
+      - mezclaras
+      - mezclara
+      - "mezcl\xE1ramos"
+      - mezclarais
+      - mezclaran
+      cjid: pisb1
+    - cjfs:
+      - mezclase
+      - mezclases
+      - mezclase
+      - "mezcl\xE1semos"
+      - mezclaseis
+      - mezclasen
+      cjid: pisb2
+    - cjfs:
+      - mezclare
+      - mezclares
+      - mezclare
+      - "mezcl\xE1remos"
+      - mezclareis
+      - mezclaren
+      cjid: fsub
+    - cjfs:
+      - he mezclado
+      - has mezclado
+      - ha mezclado
+      - hemos mezclado
+      - "hab\xE9is mezclado"
+      - han mezclado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mezclado"
+      - "hab\xEDas mezclado"
+      - "hab\xEDa mezclado"
+      - "hab\xEDamos mezclado"
+      - "hab\xEDais mezclado"
+      - "hab\xEDan mezclado"
+      cjid: ppsi
+    - cjfs:
+      - hube mezclado
+      - hubiste mezclado
+      - hubo mezclado
+      - hubimos mezclado
+      - hubisteis mezclado
+      - hubieron mezclado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mezclado"
+      - "habr\xE1s mezclado"
+      - "habr\xE1 mezclado"
+      - habremos mezclado
+      - "habr\xE9is mezclado"
+      - "habr\xE1n mezclado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mezclado"
+      - "habr\xEDas mezclado"
+      - "habr\xEDa mezclado"
+      - "habr\xEDamos mezclado"
+      - "habr\xEDais mezclado"
+      - "habr\xEDan mezclado"
+      cjid: cpef
+    - cjfs:
+      - haya mezclado
+      - hayas mezclado
+      - haya mezclado
+      - hayamos mezclado
+      - "hay\xE1is mezclado"
+      - hayan mezclado
+      cjid: ppfs
+    - cjfs:
+      - hubiera mezclado
+      - hubieras mezclado
+      - hubiera mezclado
+      - "hubi\xE9ramos mezclado"
+      - hubierais mezclado
+      - hubieran mezclado
+      cjid: ppss1
+    - cjfs:
+      - hubiese mezclado
+      - hubieses mezclado
+      - hubiese mezclado
+      - "hubi\xE9semos mezclado"
+      - hubieseis mezclado
+      - hubiesen mezclado
+      cjid: ppss2
+    - cjfs:
+      - hubiere mezclado
+      - hubieres mezclado
+      - hubiere mezclado
+      - "hubi\xE9remos mezclado"
+      - hubiereis mezclado
+      - hubieren mezclado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mezcla
+      - mezcle
+      - mezclemos
+      - mezclad
+      - mezclen
+      cjid: impf

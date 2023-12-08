@@ -1,0 +1,248 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|win}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gain} '
+          - - vis
+            - - t: ganar tiempo
+                tr: to buy time
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|earn} '
+          - - vis
+            - - t: ganar dinero
+                tr: to make money
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|acquire}, to {a_link|obtain}'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|win}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|profit} '
+          - - vis
+            - - t: salir ganando
+                tr: to come out ahead
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|gain}, to {a_link|win} '
+            - - vis
+              - - t: ganarse a alguien
+                  tr: to win someone over
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|earn} '
+            - - vis
+              - - t: ganarse la vida
+                  tr: to make a living
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|deserve}'
+            sn: '3'
+    drp: ganarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ganar
+    prs:
+    - sound:
+        audio: ganar01sp
+  meta:
+    id: ganar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610651000'
+    src: spanish
+    stems:
+    - ganar
+    - ganarse
+    uuid: 5b7f39df-318f-4cb8-a971-aa5c5e44255f
+  shortdef:
+  - to win
+  - to gain
+  - to earn
+  suppl:
+    cjts:
+    - cjfs:
+      - ganando
+      - ganado
+      cjid: gppt
+    - cjfs:
+      - gano
+      - ganas
+      - gana
+      - ganamos
+      - "gan\xE1is"
+      - ganan
+      cjid: pind
+    - cjfs:
+      - ganaba
+      - ganabas
+      - ganaba
+      - "gan\xE1bamos"
+      - ganabais
+      - ganaban
+      cjid: pret
+    - cjfs:
+      - "gan\xE9"
+      - ganaste
+      - "gan\xF3"
+      - ganamos
+      - ganasteis
+      - ganaron
+      cjid: pprf
+    - cjfs:
+      - "ganar\xE9"
+      - "ganar\xE1s"
+      - "ganar\xE1"
+      - ganaremos
+      - "ganar\xE9is"
+      - "ganar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ganar\xEDa"
+      - "ganar\xEDas"
+      - "ganar\xEDa"
+      - "ganar\xEDamos"
+      - "ganar\xEDais"
+      - "ganar\xEDan"
+      cjid: cond
+    - cjfs:
+      - gane
+      - ganes
+      - gane
+      - ganemos
+      - "gan\xE9is"
+      - ganen
+      cjid: psub
+    - cjfs:
+      - ganara
+      - ganaras
+      - ganara
+      - "gan\xE1ramos"
+      - ganarais
+      - ganaran
+      cjid: pisb1
+    - cjfs:
+      - ganase
+      - ganases
+      - ganase
+      - "gan\xE1semos"
+      - ganaseis
+      - ganasen
+      cjid: pisb2
+    - cjfs:
+      - ganare
+      - ganares
+      - ganare
+      - "gan\xE1remos"
+      - ganareis
+      - ganaren
+      cjid: fsub
+    - cjfs:
+      - he ganado
+      - has ganado
+      - ha ganado
+      - hemos ganado
+      - "hab\xE9is ganado"
+      - han ganado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ganado"
+      - "hab\xEDas ganado"
+      - "hab\xEDa ganado"
+      - "hab\xEDamos ganado"
+      - "hab\xEDais ganado"
+      - "hab\xEDan ganado"
+      cjid: ppsi
+    - cjfs:
+      - hube ganado
+      - hubiste ganado
+      - hubo ganado
+      - hubimos ganado
+      - hubisteis ganado
+      - hubieron ganado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ganado"
+      - "habr\xE1s ganado"
+      - "habr\xE1 ganado"
+      - habremos ganado
+      - "habr\xE9is ganado"
+      - "habr\xE1n ganado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ganado"
+      - "habr\xEDas ganado"
+      - "habr\xEDa ganado"
+      - "habr\xEDamos ganado"
+      - "habr\xEDais ganado"
+      - "habr\xEDan ganado"
+      cjid: cpef
+    - cjfs:
+      - haya ganado
+      - hayas ganado
+      - haya ganado
+      - hayamos ganado
+      - "hay\xE1is ganado"
+      - hayan ganado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ganado
+      - hubieras ganado
+      - hubiera ganado
+      - "hubi\xE9ramos ganado"
+      - hubierais ganado
+      - hubieran ganado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ganado
+      - hubieses ganado
+      - hubiese ganado
+      - "hubi\xE9semos ganado"
+      - hubieseis ganado
+      - hubiesen ganado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ganado
+      - hubieres ganado
+      - hubiere ganado
+      - "hubi\xE9remos ganado"
+      - hubiereis ganado
+      - hubieren ganado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gana
+      - gane
+      - ganemos
+      - ganad
+      - ganen
+      cjid: impf

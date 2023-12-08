@@ -1,0 +1,270 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|remove}, to take away/off/out '
+          - - vis
+            - - t: quita la olla del fuego
+                tr: take the pot off the heat/burner
+              - t: quitarle el polvo a algo
+                tr: to dust something
+              - t: "qu\xEDtalo de en medio"
+                tr: get it out of the way
+              - t: "\xA1qu\xEDtame las manos (de encima)!"
+                tr: get your hands off me!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|take away} '
+          - - vis
+            - - t: "le quit\xF3 las llaves"
+                tr: she took away his keys
+              - t: trataron de quitarle el dinero
+                tr: they tried to take her money
+              - t: le quitaron la vida
+                tr: they took his life, they killed him
+              - t: "no me quita el sue\xF1o"
+                tr: I'm not losing any sleep over it
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take off} (clothes) '
+          - - vis
+            - - t: "le quit\xF3 los zapatos al paciente"
+                tr: she took the patient's shoes off
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get rid of}, to {a_link|relieve} '
+          - - vis
+            - - t: quitar el dolor
+                tr: to relieve the pain
+              - t: nadie le va a quitar esa idea de la cabeza
+                tr: nobody's going to change his mind
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take up} (time)'
+          sn: '5'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|withdraw}, to {a_link|leave}, to {a_link|go away} '
+            - - vis
+              - - t: se me quitaron las ganas de salir
+                  tr: I don't feel like going out anymore
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take off} (one''s clothes)'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|give up} (a habit)'
+            sn: '3'
+            vrs:
+            - va: quitarse de
+              vac: ~ de
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get rid of} '
+            - - vis
+              - - t: me he quitado un peso de encima
+                  tr: that's a load off my mind
+            sn: '4'
+            vrs:
+            - va: quitarse de encima
+    drp: quitarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: quitar
+    prs:
+    - sound:
+        audio: quita01sp
+  meta:
+    id: quitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618671000'
+    src: spanish
+    stems:
+    - quitar
+    - quitarse
+    - quitarse de
+    - quitarse de encima
+    uuid: 13fefe66-4238-4389-af0a-0a0ab41b6b2a
+  shortdef:
+  - to remove, to take away/off/out
+  - to take, to take away
+  - to take off (clothes)
+  suppl:
+    cjts:
+    - cjfs:
+      - quitando
+      - quitado
+      cjid: gppt
+    - cjfs:
+      - quito
+      - quitas
+      - quita
+      - quitamos
+      - "quit\xE1is"
+      - quitan
+      cjid: pind
+    - cjfs:
+      - quitaba
+      - quitabas
+      - quitaba
+      - "quit\xE1bamos"
+      - quitabais
+      - quitaban
+      cjid: pret
+    - cjfs:
+      - "quit\xE9"
+      - quitaste
+      - "quit\xF3"
+      - quitamos
+      - quitasteis
+      - quitaron
+      cjid: pprf
+    - cjfs:
+      - "quitar\xE9"
+      - "quitar\xE1s"
+      - "quitar\xE1"
+      - quitaremos
+      - "quitar\xE9is"
+      - "quitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "quitar\xEDa"
+      - "quitar\xEDas"
+      - "quitar\xEDa"
+      - "quitar\xEDamos"
+      - "quitar\xEDais"
+      - "quitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - quite
+      - quites
+      - quite
+      - quitemos
+      - "quit\xE9is"
+      - quiten
+      cjid: psub
+    - cjfs:
+      - quitara
+      - quitaras
+      - quitara
+      - "quit\xE1ramos"
+      - quitarais
+      - quitaran
+      cjid: pisb1
+    - cjfs:
+      - quitase
+      - quitases
+      - quitase
+      - "quit\xE1semos"
+      - quitaseis
+      - quitasen
+      cjid: pisb2
+    - cjfs:
+      - quitare
+      - quitares
+      - quitare
+      - "quit\xE1remos"
+      - quitareis
+      - quitaren
+      cjid: fsub
+    - cjfs:
+      - he quitado
+      - has quitado
+      - ha quitado
+      - hemos quitado
+      - "hab\xE9is quitado"
+      - han quitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa quitado"
+      - "hab\xEDas quitado"
+      - "hab\xEDa quitado"
+      - "hab\xEDamos quitado"
+      - "hab\xEDais quitado"
+      - "hab\xEDan quitado"
+      cjid: ppsi
+    - cjfs:
+      - hube quitado
+      - hubiste quitado
+      - hubo quitado
+      - hubimos quitado
+      - hubisteis quitado
+      - hubieron quitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 quitado"
+      - "habr\xE1s quitado"
+      - "habr\xE1 quitado"
+      - habremos quitado
+      - "habr\xE9is quitado"
+      - "habr\xE1n quitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa quitado"
+      - "habr\xEDas quitado"
+      - "habr\xEDa quitado"
+      - "habr\xEDamos quitado"
+      - "habr\xEDais quitado"
+      - "habr\xEDan quitado"
+      cjid: cpef
+    - cjfs:
+      - haya quitado
+      - hayas quitado
+      - haya quitado
+      - hayamos quitado
+      - "hay\xE1is quitado"
+      - hayan quitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera quitado
+      - hubieras quitado
+      - hubiera quitado
+      - "hubi\xE9ramos quitado"
+      - hubierais quitado
+      - hubieran quitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese quitado
+      - hubieses quitado
+      - hubiese quitado
+      - "hubi\xE9semos quitado"
+      - hubieseis quitado
+      - hubiesen quitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere quitado
+      - hubieres quitado
+      - hubiere quitado
+      - "hubi\xE9remos quitado"
+      - hubiereis quitado
+      - hubieren quitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - quita
+      - quite
+      - quitemos
+      - quitad
+      - quiten
+      cjid: impf

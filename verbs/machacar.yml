@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crush}, to {a_link|grind}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|beat}, to {a_link|pound}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|insist}, to {a_link|go on} (about)'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: machacar
+    prs:
+    - sound:
+        audio: macha01sp
+  meta:
+    id: machacar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614095000'
+    src: spanish
+    stems:
+    - machacar
+    uuid: 40ffc132-10fa-421d-8f06-991b7f2209de
+  shortdef:
+  - to crush, to grind
+  - to beat, to pound
+  - to insist, to go on (about)
+  suppl:
+    cjts:
+    - cjfs:
+      - machacando
+      - machacado
+      cjid: gppt
+    - cjfs:
+      - machaco
+      - machacas
+      - machaca
+      - machacamos
+      - "machac\xE1is"
+      - machacan
+      cjid: pind
+    - cjfs:
+      - machacaba
+      - machacabas
+      - machacaba
+      - "machac\xE1bamos"
+      - machacabais
+      - machacaban
+      cjid: pret
+    - cjfs:
+      - "machaqu\xE9"
+      - machacaste
+      - "machac\xF3"
+      - machacamos
+      - machacasteis
+      - machacaron
+      cjid: pprf
+    - cjfs:
+      - "machacar\xE9"
+      - "machacar\xE1s"
+      - "machacar\xE1"
+      - machacaremos
+      - "machacar\xE9is"
+      - "machacar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "machacar\xEDa"
+      - "machacar\xEDas"
+      - "machacar\xEDa"
+      - "machacar\xEDamos"
+      - "machacar\xEDais"
+      - "machacar\xEDan"
+      cjid: cond
+    - cjfs:
+      - machaque
+      - machaques
+      - machaque
+      - machaquemos
+      - "machaqu\xE9is"
+      - machaquen
+      cjid: psub
+    - cjfs:
+      - machacara
+      - machacaras
+      - machacara
+      - "machac\xE1ramos"
+      - machacarais
+      - machacaran
+      cjid: pisb1
+    - cjfs:
+      - machacase
+      - machacases
+      - machacase
+      - "machac\xE1semos"
+      - machacaseis
+      - machacasen
+      cjid: pisb2
+    - cjfs:
+      - machacare
+      - machacares
+      - machacare
+      - "machac\xE1remos"
+      - machacareis
+      - machacaren
+      cjid: fsub
+    - cjfs:
+      - he machacado
+      - has machacado
+      - ha machacado
+      - hemos machacado
+      - "hab\xE9is machacado"
+      - han machacado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa machacado"
+      - "hab\xEDas machacado"
+      - "hab\xEDa machacado"
+      - "hab\xEDamos machacado"
+      - "hab\xEDais machacado"
+      - "hab\xEDan machacado"
+      cjid: ppsi
+    - cjfs:
+      - hube machacado
+      - hubiste machacado
+      - hubo machacado
+      - hubimos machacado
+      - hubisteis machacado
+      - hubieron machacado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 machacado"
+      - "habr\xE1s machacado"
+      - "habr\xE1 machacado"
+      - habremos machacado
+      - "habr\xE9is machacado"
+      - "habr\xE1n machacado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa machacado"
+      - "habr\xEDas machacado"
+      - "habr\xEDa machacado"
+      - "habr\xEDamos machacado"
+      - "habr\xEDais machacado"
+      - "habr\xEDan machacado"
+      cjid: cpef
+    - cjfs:
+      - haya machacado
+      - hayas machacado
+      - haya machacado
+      - hayamos machacado
+      - "hay\xE1is machacado"
+      - hayan machacado
+      cjid: ppfs
+    - cjfs:
+      - hubiera machacado
+      - hubieras machacado
+      - hubiera machacado
+      - "hubi\xE9ramos machacado"
+      - hubierais machacado
+      - hubieran machacado
+      cjid: ppss1
+    - cjfs:
+      - hubiese machacado
+      - hubieses machacado
+      - hubiese machacado
+      - "hubi\xE9semos machacado"
+      - hubieseis machacado
+      - hubiesen machacado
+      cjid: ppss2
+    - cjfs:
+      - hubiere machacado
+      - hubieres machacado
+      - hubiere machacado
+      - "hubi\xE9remos machacado"
+      - hubiereis machacado
+      - hubieren machacado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - machaca
+      - machaque
+      - machaquemos
+      - machacad
+      - machaquen
+      cjid: impf

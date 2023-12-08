@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|premiar||} {bc}to {a_link|reward}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|compensate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: recompensar
+  meta:
+    id: recompensar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619017000'
+    src: spanish
+    stems:
+    - recompensar
+    uuid: e6787160-b31e-4be0-8197-ecb69e537953
+  shortdef:
+  - 'premiar : to reward'
+  - to compensate
+  suppl:
+    cjts:
+    - cjfs:
+      - recompensando
+      - recompensado
+      cjid: gppt
+    - cjfs:
+      - recompenso
+      - recompensas
+      - recompensa
+      - recompensamos
+      - "recompens\xE1is"
+      - recompensan
+      cjid: pind
+    - cjfs:
+      - recompensaba
+      - recompensabas
+      - recompensaba
+      - "recompens\xE1bamos"
+      - recompensabais
+      - recompensaban
+      cjid: pret
+    - cjfs:
+      - "recompens\xE9"
+      - recompensaste
+      - "recompens\xF3"
+      - recompensamos
+      - recompensasteis
+      - recompensaron
+      cjid: pprf
+    - cjfs:
+      - "recompensar\xE9"
+      - "recompensar\xE1s"
+      - "recompensar\xE1"
+      - recompensaremos
+      - "recompensar\xE9is"
+      - "recompensar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recompensar\xEDa"
+      - "recompensar\xEDas"
+      - "recompensar\xEDa"
+      - "recompensar\xEDamos"
+      - "recompensar\xEDais"
+      - "recompensar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recompense
+      - recompenses
+      - recompense
+      - recompensemos
+      - "recompens\xE9is"
+      - recompensen
+      cjid: psub
+    - cjfs:
+      - recompensara
+      - recompensaras
+      - recompensara
+      - "recompens\xE1ramos"
+      - recompensarais
+      - recompensaran
+      cjid: pisb1
+    - cjfs:
+      - recompensase
+      - recompensases
+      - recompensase
+      - "recompens\xE1semos"
+      - recompensaseis
+      - recompensasen
+      cjid: pisb2
+    - cjfs:
+      - recompensare
+      - recompensares
+      - recompensare
+      - "recompens\xE1remos"
+      - recompensareis
+      - recompensaren
+      cjid: fsub
+    - cjfs:
+      - he recompensado
+      - has recompensado
+      - ha recompensado
+      - hemos recompensado
+      - "hab\xE9is recompensado"
+      - han recompensado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recompensado"
+      - "hab\xEDas recompensado"
+      - "hab\xEDa recompensado"
+      - "hab\xEDamos recompensado"
+      - "hab\xEDais recompensado"
+      - "hab\xEDan recompensado"
+      cjid: ppsi
+    - cjfs:
+      - hube recompensado
+      - hubiste recompensado
+      - hubo recompensado
+      - hubimos recompensado
+      - hubisteis recompensado
+      - hubieron recompensado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recompensado"
+      - "habr\xE1s recompensado"
+      - "habr\xE1 recompensado"
+      - habremos recompensado
+      - "habr\xE9is recompensado"
+      - "habr\xE1n recompensado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recompensado"
+      - "habr\xEDas recompensado"
+      - "habr\xEDa recompensado"
+      - "habr\xEDamos recompensado"
+      - "habr\xEDais recompensado"
+      - "habr\xEDan recompensado"
+      cjid: cpef
+    - cjfs:
+      - haya recompensado
+      - hayas recompensado
+      - haya recompensado
+      - hayamos recompensado
+      - "hay\xE1is recompensado"
+      - hayan recompensado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recompensado
+      - hubieras recompensado
+      - hubiera recompensado
+      - "hubi\xE9ramos recompensado"
+      - hubierais recompensado
+      - hubieran recompensado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recompensado
+      - hubieses recompensado
+      - hubiese recompensado
+      - "hubi\xE9semos recompensado"
+      - hubieseis recompensado
+      - hubiesen recompensado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recompensado
+      - hubieres recompensado
+      - hubiere recompensado
+      - "hubi\xE9remos recompensado"
+      - hubiereis recompensado
+      - hubieren recompensado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recompensa
+      - recompense
+      - recompensemos
+      - recompensad
+      - recompensen
+      cjid: impf

@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crack}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|crack}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become chapped'
+            sn: '2'
+    drp: agrietarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: agrietar
+  meta:
+    id: agrietar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600739000'
+    src: spanish
+    stems:
+    - agrietar
+    - agrietarse
+    uuid: 89bfdf96-b34d-46c8-8ec5-1b30da363025
+  shortdef:
+  - to crack
+  suppl:
+    cjts:
+    - cjfs:
+      - agrietando
+      - agrietado
+      cjid: gppt
+    - cjfs:
+      - agrieto
+      - agrietas
+      - agrieta
+      - agrietamos
+      - "agriet\xE1is"
+      - agrietan
+      cjid: pind
+    - cjfs:
+      - agrietaba
+      - agrietabas
+      - agrietaba
+      - "agriet\xE1bamos"
+      - agrietabais
+      - agrietaban
+      cjid: pret
+    - cjfs:
+      - "agriet\xE9"
+      - agrietaste
+      - "agriet\xF3"
+      - agrietamos
+      - agrietasteis
+      - agrietaron
+      cjid: pprf
+    - cjfs:
+      - "agrietar\xE9"
+      - "agrietar\xE1s"
+      - "agrietar\xE1"
+      - agrietaremos
+      - "agrietar\xE9is"
+      - "agrietar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agrietar\xEDa"
+      - "agrietar\xEDas"
+      - "agrietar\xEDa"
+      - "agrietar\xEDamos"
+      - "agrietar\xEDais"
+      - "agrietar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agriete
+      - agrietes
+      - agriete
+      - agrietemos
+      - "agriet\xE9is"
+      - agrieten
+      cjid: psub
+    - cjfs:
+      - agrietara
+      - agrietaras
+      - agrietara
+      - "agriet\xE1ramos"
+      - agrietarais
+      - agrietaran
+      cjid: pisb1
+    - cjfs:
+      - agrietase
+      - agrietases
+      - agrietase
+      - "agriet\xE1semos"
+      - agrietaseis
+      - agrietasen
+      cjid: pisb2
+    - cjfs:
+      - agrietare
+      - agrietares
+      - agrietare
+      - "agriet\xE1remos"
+      - agrietareis
+      - agrietaren
+      cjid: fsub
+    - cjfs:
+      - he agrietado
+      - has agrietado
+      - ha agrietado
+      - hemos agrietado
+      - "hab\xE9is agrietado"
+      - han agrietado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agrietado"
+      - "hab\xEDas agrietado"
+      - "hab\xEDa agrietado"
+      - "hab\xEDamos agrietado"
+      - "hab\xEDais agrietado"
+      - "hab\xEDan agrietado"
+      cjid: ppsi
+    - cjfs:
+      - hube agrietado
+      - hubiste agrietado
+      - hubo agrietado
+      - hubimos agrietado
+      - hubisteis agrietado
+      - hubieron agrietado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agrietado"
+      - "habr\xE1s agrietado"
+      - "habr\xE1 agrietado"
+      - habremos agrietado
+      - "habr\xE9is agrietado"
+      - "habr\xE1n agrietado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agrietado"
+      - "habr\xEDas agrietado"
+      - "habr\xEDa agrietado"
+      - "habr\xEDamos agrietado"
+      - "habr\xEDais agrietado"
+      - "habr\xEDan agrietado"
+      cjid: cpef
+    - cjfs:
+      - haya agrietado
+      - hayas agrietado
+      - haya agrietado
+      - hayamos agrietado
+      - "hay\xE1is agrietado"
+      - hayan agrietado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agrietado
+      - hubieras agrietado
+      - hubiera agrietado
+      - "hubi\xE9ramos agrietado"
+      - hubierais agrietado
+      - hubieran agrietado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agrietado
+      - hubieses agrietado
+      - hubiese agrietado
+      - "hubi\xE9semos agrietado"
+      - hubieseis agrietado
+      - hubiesen agrietado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agrietado
+      - hubieres agrietado
+      - hubiere agrietado
+      - "hubi\xE9remos agrietado"
+      - hubiereis agrietado
+      - hubieren agrietado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agrieta
+      - agriete
+      - agrietemos
+      - agrietad
+      - agrieten
+      cjid: impf

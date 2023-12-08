@@ -1,0 +1,31 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dip}, to {a_link|submerge}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|dive}, to {a_link|plunge}'
+    drp: zambullirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: zambullir
+  meta:
+    id: zambullir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623335000'
+    src: spanish
+    stems:
+    - zambullir
+    - zambullirse
+    uuid: 0693033e-d99a-4f5d-ae05-15e283bd50ef
+  shortdef:
+  - to dip, to submerge

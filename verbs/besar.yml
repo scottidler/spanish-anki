@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|kiss}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|kiss} (each other)'
+    drp: besarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: besar
+    prs:
+    - sound:
+        audio: besar01sp
+  meta:
+    id: besar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602963000'
+    src: spanish
+    stems:
+    - besar
+    - besarse
+    uuid: 8427471d-7302-4e88-beb5-e1945d6af3a3
+  shortdef:
+  - to kiss
+  suppl:
+    cjts:
+    - cjfs:
+      - besando
+      - besado
+      cjid: gppt
+    - cjfs:
+      - beso
+      - besas
+      - besa
+      - besamos
+      - "bes\xE1is"
+      - besan
+      cjid: pind
+    - cjfs:
+      - besaba
+      - besabas
+      - besaba
+      - "bes\xE1bamos"
+      - besabais
+      - besaban
+      cjid: pret
+    - cjfs:
+      - "bes\xE9"
+      - besaste
+      - "bes\xF3"
+      - besamos
+      - besasteis
+      - besaron
+      cjid: pprf
+    - cjfs:
+      - "besar\xE9"
+      - "besar\xE1s"
+      - "besar\xE1"
+      - besaremos
+      - "besar\xE9is"
+      - "besar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "besar\xEDa"
+      - "besar\xEDas"
+      - "besar\xEDa"
+      - "besar\xEDamos"
+      - "besar\xEDais"
+      - "besar\xEDan"
+      cjid: cond
+    - cjfs:
+      - bese
+      - beses
+      - bese
+      - besemos
+      - "bes\xE9is"
+      - besen
+      cjid: psub
+    - cjfs:
+      - besara
+      - besaras
+      - besara
+      - "bes\xE1ramos"
+      - besarais
+      - besaran
+      cjid: pisb1
+    - cjfs:
+      - besase
+      - besases
+      - besase
+      - "bes\xE1semos"
+      - besaseis
+      - besasen
+      cjid: pisb2
+    - cjfs:
+      - besare
+      - besares
+      - besare
+      - "bes\xE1remos"
+      - besareis
+      - besaren
+      cjid: fsub
+    - cjfs:
+      - he besado
+      - has besado
+      - ha besado
+      - hemos besado
+      - "hab\xE9is besado"
+      - han besado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa besado"
+      - "hab\xEDas besado"
+      - "hab\xEDa besado"
+      - "hab\xEDamos besado"
+      - "hab\xEDais besado"
+      - "hab\xEDan besado"
+      cjid: ppsi
+    - cjfs:
+      - hube besado
+      - hubiste besado
+      - hubo besado
+      - hubimos besado
+      - hubisteis besado
+      - hubieron besado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 besado"
+      - "habr\xE1s besado"
+      - "habr\xE1 besado"
+      - habremos besado
+      - "habr\xE9is besado"
+      - "habr\xE1n besado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa besado"
+      - "habr\xEDas besado"
+      - "habr\xEDa besado"
+      - "habr\xEDamos besado"
+      - "habr\xEDais besado"
+      - "habr\xEDan besado"
+      cjid: cpef
+    - cjfs:
+      - haya besado
+      - hayas besado
+      - haya besado
+      - hayamos besado
+      - "hay\xE1is besado"
+      - hayan besado
+      cjid: ppfs
+    - cjfs:
+      - hubiera besado
+      - hubieras besado
+      - hubiera besado
+      - "hubi\xE9ramos besado"
+      - hubierais besado
+      - hubieran besado
+      cjid: ppss1
+    - cjfs:
+      - hubiese besado
+      - hubieses besado
+      - hubiese besado
+      - "hubi\xE9semos besado"
+      - hubieseis besado
+      - hubiesen besado
+      cjid: ppss2
+    - cjfs:
+      - hubiere besado
+      - hubieres besado
+      - hubiere besado
+      - "hubi\xE9remos besado"
+      - hubiereis besado
+      - hubieren besado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - besa
+      - bese
+      - besemos
+      - besad
+      - besen
+      cjid: impf

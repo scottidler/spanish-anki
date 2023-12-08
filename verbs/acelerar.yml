@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|accelerate}, to {a_link|speed up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|agilizar||} {bc}to {a_link|expedite}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|accelerate} (of an automobile)'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|hasten}, to hurry up'
+    drp: acelerarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: acelerar
+    prs:
+    - sound:
+        audio: acele02sp
+  meta:
+    id: acelerar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600236000'
+    src: spanish
+    stems:
+    - acelerar
+    - acelerarse
+    uuid: d393ec6f-7003-4a25-a701-10436f8556a0
+  shortdef:
+  - to accelerate, to speed up
+  - 'agilizar : to expedite'
+  - to accelerate (of an automobile)
+  suppl:
+    cjts:
+    - cjfs:
+      - acelerando
+      - acelerado
+      cjid: gppt
+    - cjfs:
+      - acelero
+      - aceleras
+      - acelera
+      - aceleramos
+      - "aceler\xE1is"
+      - aceleran
+      cjid: pind
+    - cjfs:
+      - aceleraba
+      - acelerabas
+      - aceleraba
+      - "aceler\xE1bamos"
+      - acelerabais
+      - aceleraban
+      cjid: pret
+    - cjfs:
+      - "aceler\xE9"
+      - aceleraste
+      - "aceler\xF3"
+      - aceleramos
+      - acelerasteis
+      - aceleraron
+      cjid: pprf
+    - cjfs:
+      - "acelerar\xE9"
+      - "acelerar\xE1s"
+      - "acelerar\xE1"
+      - aceleraremos
+      - "acelerar\xE9is"
+      - "acelerar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acelerar\xEDa"
+      - "acelerar\xEDas"
+      - "acelerar\xEDa"
+      - "acelerar\xEDamos"
+      - "acelerar\xEDais"
+      - "acelerar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acelere
+      - aceleres
+      - acelere
+      - aceleremos
+      - "aceler\xE9is"
+      - aceleren
+      cjid: psub
+    - cjfs:
+      - acelerara
+      - aceleraras
+      - acelerara
+      - "aceler\xE1ramos"
+      - acelerarais
+      - aceleraran
+      cjid: pisb1
+    - cjfs:
+      - acelerase
+      - acelerases
+      - acelerase
+      - "aceler\xE1semos"
+      - aceleraseis
+      - acelerasen
+      cjid: pisb2
+    - cjfs:
+      - acelerare
+      - acelerares
+      - acelerare
+      - "aceler\xE1remos"
+      - acelerareis
+      - aceleraren
+      cjid: fsub
+    - cjfs:
+      - he acelerado
+      - has acelerado
+      - ha acelerado
+      - hemos acelerado
+      - "hab\xE9is acelerado"
+      - han acelerado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acelerado"
+      - "hab\xEDas acelerado"
+      - "hab\xEDa acelerado"
+      - "hab\xEDamos acelerado"
+      - "hab\xEDais acelerado"
+      - "hab\xEDan acelerado"
+      cjid: ppsi
+    - cjfs:
+      - hube acelerado
+      - hubiste acelerado
+      - hubo acelerado
+      - hubimos acelerado
+      - hubisteis acelerado
+      - hubieron acelerado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acelerado"
+      - "habr\xE1s acelerado"
+      - "habr\xE1 acelerado"
+      - habremos acelerado
+      - "habr\xE9is acelerado"
+      - "habr\xE1n acelerado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acelerado"
+      - "habr\xEDas acelerado"
+      - "habr\xEDa acelerado"
+      - "habr\xEDamos acelerado"
+      - "habr\xEDais acelerado"
+      - "habr\xEDan acelerado"
+      cjid: cpef
+    - cjfs:
+      - haya acelerado
+      - hayas acelerado
+      - haya acelerado
+      - hayamos acelerado
+      - "hay\xE1is acelerado"
+      - hayan acelerado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acelerado
+      - hubieras acelerado
+      - hubiera acelerado
+      - "hubi\xE9ramos acelerado"
+      - hubierais acelerado
+      - hubieran acelerado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acelerado
+      - hubieses acelerado
+      - hubiese acelerado
+      - "hubi\xE9semos acelerado"
+      - hubieseis acelerado
+      - hubiesen acelerado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acelerado
+      - hubieres acelerado
+      - hubiere acelerado
+      - "hubi\xE9remos acelerado"
+      - hubiereis acelerado
+      - hubieren acelerado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acelera
+      - acelere
+      - aceleremos
+      - acelerad
+      - aceleren
+      cjid: impf

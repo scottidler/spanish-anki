@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cover} '
+          - - vis
+            - - t: cubierto de algo
+                tr: covered in/with something
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cover} (costs, etc.)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: cubrir
+    prs:
+    - sound:
+        audio: cubri01sp
+  meta:
+    id: cubrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606279000'
+    src: spanish
+    stems:
+    - cubrir
+    - cubrirse
+    uuid: 64ef8467-b387-407e-b3f9-bef4508a88ea
+  shortdef:
+  - to cover
+  - to cover (costs, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - cubriendo
+      - cubierto
+      cjid: gppt
+    - cjfs:
+      - cubro
+      - cubres
+      - cubre
+      - cubrimos
+      - "cubr\xEDs"
+      - cubren
+      cjid: pind
+    - cjfs:
+      - "cubr\xEDa"
+      - "cubr\xEDas"
+      - "cubr\xEDa"
+      - "cubr\xEDamos"
+      - "cubr\xEDais"
+      - "cubr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "cubr\xED"
+      - cubriste
+      - "cubri\xF3"
+      - cubrimos
+      - cubristeis
+      - cubrieron
+      cjid: pprf
+    - cjfs:
+      - "cubrir\xE9"
+      - "cubrir\xE1s"
+      - "cubrir\xE1"
+      - cubriremos
+      - "cubrir\xE9is"
+      - "cubrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cubrir\xEDa"
+      - "cubrir\xEDas"
+      - "cubrir\xEDa"
+      - "cubrir\xEDamos"
+      - "cubrir\xEDais"
+      - "cubrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - cubra
+      - cubras
+      - cubra
+      - cubramos
+      - "cubr\xE1is"
+      - cubran
+      cjid: psub
+    - cjfs:
+      - cubriera
+      - cubrieras
+      - cubriera
+      - "cubri\xE9ramos"
+      - cubrierais
+      - cubrieran
+      cjid: pisb1
+    - cjfs:
+      - cubriese
+      - cubrieses
+      - cubriese
+      - "cubri\xE9semos"
+      - cubrieseis
+      - cubriesen
+      cjid: pisb2
+    - cjfs:
+      - cubriere
+      - cubrieres
+      - cubriere
+      - "cubri\xE9remos"
+      - cubriereis
+      - cubrieren
+      cjid: fsub
+    - cjfs:
+      - he cubierto
+      - has cubierto
+      - ha cubierto
+      - hemos cubierto
+      - "hab\xE9is cubierto"
+      - han cubierto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cubierto"
+      - "hab\xEDas cubierto"
+      - "hab\xEDa cubierto"
+      - "hab\xEDamos cubierto"
+      - "hab\xEDais cubierto"
+      - "hab\xEDan cubierto"
+      cjid: ppsi
+    - cjfs:
+      - hube cubierto
+      - hubiste cubierto
+      - hubo cubierto
+      - hubimos cubierto
+      - hubisteis cubierto
+      - hubieron cubierto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cubierto"
+      - "habr\xE1s cubierto"
+      - "habr\xE1 cubierto"
+      - habremos cubierto
+      - "habr\xE9is cubierto"
+      - "habr\xE1n cubierto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cubierto"
+      - "habr\xEDas cubierto"
+      - "habr\xEDa cubierto"
+      - "habr\xEDamos cubierto"
+      - "habr\xEDais cubierto"
+      - "habr\xEDan cubierto"
+      cjid: cpef
+    - cjfs:
+      - haya cubierto
+      - hayas cubierto
+      - haya cubierto
+      - hayamos cubierto
+      - "hay\xE1is cubierto"
+      - hayan cubierto
+      cjid: ppfs
+    - cjfs:
+      - hubiera cubierto
+      - hubieras cubierto
+      - hubiera cubierto
+      - "hubi\xE9ramos cubierto"
+      - hubierais cubierto
+      - hubieran cubierto
+      cjid: ppss1
+    - cjfs:
+      - hubiese cubierto
+      - hubieses cubierto
+      - hubiese cubierto
+      - "hubi\xE9semos cubierto"
+      - hubieseis cubierto
+      - hubiesen cubierto
+      cjid: ppss2
+    - cjfs:
+      - hubiere cubierto
+      - hubieres cubierto
+      - hubiere cubierto
+      - "hubi\xE9remos cubierto"
+      - hubiereis cubierto
+      - hubieren cubierto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cubre
+      - cubra
+      - cubramos
+      - cubrid
+      - cubran
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: cubrirse

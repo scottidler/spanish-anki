@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to incite to rebellion'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|rebel}, to {a_link|rise up}'
+    drp: sublevarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sublevar
+    prs:
+    - sound:
+        audio: suble01sp
+  meta:
+    id: sublevar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621075000'
+    src: spanish
+    stems:
+    - sublevar
+    - sublevarse
+    uuid: c7df9eda-70c4-43ec-8d1f-5ce45fa915e5
+  shortdef:
+  - to incite to rebellion
+  suppl:
+    cjts:
+    - cjfs:
+      - sublevando
+      - sublevado
+      cjid: gppt
+    - cjfs:
+      - sublevo
+      - sublevas
+      - subleva
+      - sublevamos
+      - "sublev\xE1is"
+      - sublevan
+      cjid: pind
+    - cjfs:
+      - sublevaba
+      - sublevabas
+      - sublevaba
+      - "sublev\xE1bamos"
+      - sublevabais
+      - sublevaban
+      cjid: pret
+    - cjfs:
+      - "sublev\xE9"
+      - sublevaste
+      - "sublev\xF3"
+      - sublevamos
+      - sublevasteis
+      - sublevaron
+      cjid: pprf
+    - cjfs:
+      - "sublevar\xE9"
+      - "sublevar\xE1s"
+      - "sublevar\xE1"
+      - sublevaremos
+      - "sublevar\xE9is"
+      - "sublevar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sublevar\xEDa"
+      - "sublevar\xEDas"
+      - "sublevar\xEDa"
+      - "sublevar\xEDamos"
+      - "sublevar\xEDais"
+      - "sublevar\xEDan"
+      cjid: cond
+    - cjfs:
+      - subleve
+      - subleves
+      - subleve
+      - sublevemos
+      - "sublev\xE9is"
+      - subleven
+      cjid: psub
+    - cjfs:
+      - sublevara
+      - sublevaras
+      - sublevara
+      - "sublev\xE1ramos"
+      - sublevarais
+      - sublevaran
+      cjid: pisb1
+    - cjfs:
+      - sublevase
+      - sublevases
+      - sublevase
+      - "sublev\xE1semos"
+      - sublevaseis
+      - sublevasen
+      cjid: pisb2
+    - cjfs:
+      - sublevare
+      - sublevares
+      - sublevare
+      - "sublev\xE1remos"
+      - sublevareis
+      - sublevaren
+      cjid: fsub
+    - cjfs:
+      - he sublevado
+      - has sublevado
+      - ha sublevado
+      - hemos sublevado
+      - "hab\xE9is sublevado"
+      - han sublevado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sublevado"
+      - "hab\xEDas sublevado"
+      - "hab\xEDa sublevado"
+      - "hab\xEDamos sublevado"
+      - "hab\xEDais sublevado"
+      - "hab\xEDan sublevado"
+      cjid: ppsi
+    - cjfs:
+      - hube sublevado
+      - hubiste sublevado
+      - hubo sublevado
+      - hubimos sublevado
+      - hubisteis sublevado
+      - hubieron sublevado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sublevado"
+      - "habr\xE1s sublevado"
+      - "habr\xE1 sublevado"
+      - habremos sublevado
+      - "habr\xE9is sublevado"
+      - "habr\xE1n sublevado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sublevado"
+      - "habr\xEDas sublevado"
+      - "habr\xEDa sublevado"
+      - "habr\xEDamos sublevado"
+      - "habr\xEDais sublevado"
+      - "habr\xEDan sublevado"
+      cjid: cpef
+    - cjfs:
+      - haya sublevado
+      - hayas sublevado
+      - haya sublevado
+      - hayamos sublevado
+      - "hay\xE1is sublevado"
+      - hayan sublevado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sublevado
+      - hubieras sublevado
+      - hubiera sublevado
+      - "hubi\xE9ramos sublevado"
+      - hubierais sublevado
+      - hubieran sublevado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sublevado
+      - hubieses sublevado
+      - hubiese sublevado
+      - "hubi\xE9semos sublevado"
+      - hubieseis sublevado
+      - hubiesen sublevado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sublevado
+      - hubieres sublevado
+      - hubiere sublevado
+      - "hubi\xE9remos sublevado"
+      - hubiereis sublevado
+      - hubieren sublevado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - subleva
+      - subleve
+      - sublevemos
+      - sublevad
+      - subleven
+      cjid: impf

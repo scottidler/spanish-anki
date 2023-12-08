@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hunt}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|catch}, to {a_link|bag}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|land} (a job, a spouse)'
+          sls:
+          - familiar
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go hunting'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: cazar
+    prs:
+    - sound:
+        audio: cazar01sp
+  meta:
+    id: cazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604233000'
+    src: spanish
+    stems:
+    - cazar
+    uuid: 55c9b675-abce-453b-bc96-75f670c2ad3e
+  shortdef:
+  - to hunt
+  - to catch, to bag
+  - to land (a job, a spouse)
+  suppl:
+    cjts:
+    - cjfs:
+      - cazando
+      - cazado
+      cjid: gppt
+    - cjfs:
+      - cazo
+      - cazas
+      - caza
+      - cazamos
+      - "caz\xE1is"
+      - cazan
+      cjid: pind
+    - cjfs:
+      - cazaba
+      - cazabas
+      - cazaba
+      - "caz\xE1bamos"
+      - cazabais
+      - cazaban
+      cjid: pret
+    - cjfs:
+      - "cac\xE9"
+      - cazaste
+      - "caz\xF3"
+      - cazamos
+      - cazasteis
+      - cazaron
+      cjid: pprf
+    - cjfs:
+      - "cazar\xE9"
+      - "cazar\xE1s"
+      - "cazar\xE1"
+      - cazaremos
+      - "cazar\xE9is"
+      - "cazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cazar\xEDa"
+      - "cazar\xEDas"
+      - "cazar\xEDa"
+      - "cazar\xEDamos"
+      - "cazar\xEDais"
+      - "cazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cace
+      - caces
+      - cace
+      - cacemos
+      - "cac\xE9is"
+      - cacen
+      cjid: psub
+    - cjfs:
+      - cazara
+      - cazaras
+      - cazara
+      - "caz\xE1ramos"
+      - cazarais
+      - cazaran
+      cjid: pisb1
+    - cjfs:
+      - cazase
+      - cazases
+      - cazase
+      - "caz\xE1semos"
+      - cazaseis
+      - cazasen
+      cjid: pisb2
+    - cjfs:
+      - cazare
+      - cazares
+      - cazare
+      - "caz\xE1remos"
+      - cazareis
+      - cazaren
+      cjid: fsub
+    - cjfs:
+      - he cazado
+      - has cazado
+      - ha cazado
+      - hemos cazado
+      - "hab\xE9is cazado"
+      - han cazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cazado"
+      - "hab\xEDas cazado"
+      - "hab\xEDa cazado"
+      - "hab\xEDamos cazado"
+      - "hab\xEDais cazado"
+      - "hab\xEDan cazado"
+      cjid: ppsi
+    - cjfs:
+      - hube cazado
+      - hubiste cazado
+      - hubo cazado
+      - hubimos cazado
+      - hubisteis cazado
+      - hubieron cazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cazado"
+      - "habr\xE1s cazado"
+      - "habr\xE1 cazado"
+      - habremos cazado
+      - "habr\xE9is cazado"
+      - "habr\xE1n cazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cazado"
+      - "habr\xEDas cazado"
+      - "habr\xEDa cazado"
+      - "habr\xEDamos cazado"
+      - "habr\xEDais cazado"
+      - "habr\xEDan cazado"
+      cjid: cpef
+    - cjfs:
+      - haya cazado
+      - hayas cazado
+      - haya cazado
+      - hayamos cazado
+      - "hay\xE1is cazado"
+      - hayan cazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cazado
+      - hubieras cazado
+      - hubiera cazado
+      - "hubi\xE9ramos cazado"
+      - hubierais cazado
+      - hubieran cazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cazado
+      - hubieses cazado
+      - hubiese cazado
+      - "hubi\xE9semos cazado"
+      - hubieseis cazado
+      - hubiesen cazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cazado
+      - hubieres cazado
+      - hubiere cazado
+      - "hubi\xE9remos cazado"
+      - hubiereis cazado
+      - hubieren cazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - caza
+      - cace
+      - cacemos
+      - cazad
+      - cacen
+      cjid: impf

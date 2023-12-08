@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|instigate}, to {a_link|incite}'
+  fl: transitive verb
+  hwi:
+    hw: instigar
+  meta:
+    id: instigar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612732000'
+    src: spanish
+    stems:
+    - instigar
+    uuid: 9dc7552f-a97c-4978-841c-812f7244bc87
+  shortdef:
+  - to instigate, to incite
+  suppl:
+    cjts:
+    - cjfs:
+      - instigando
+      - instigado
+      cjid: gppt
+    - cjfs:
+      - instigo
+      - instigas
+      - instiga
+      - instigamos
+      - "instig\xE1is"
+      - instigan
+      cjid: pind
+    - cjfs:
+      - instigaba
+      - instigabas
+      - instigaba
+      - "instig\xE1bamos"
+      - instigabais
+      - instigaban
+      cjid: pret
+    - cjfs:
+      - "instigu\xE9"
+      - instigaste
+      - "instig\xF3"
+      - instigamos
+      - instigasteis
+      - instigaron
+      cjid: pprf
+    - cjfs:
+      - "instigar\xE9"
+      - "instigar\xE1s"
+      - "instigar\xE1"
+      - instigaremos
+      - "instigar\xE9is"
+      - "instigar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "instigar\xEDa"
+      - "instigar\xEDas"
+      - "instigar\xEDa"
+      - "instigar\xEDamos"
+      - "instigar\xEDais"
+      - "instigar\xEDan"
+      cjid: cond
+    - cjfs:
+      - instigue
+      - instigues
+      - instigue
+      - instiguemos
+      - "instigu\xE9is"
+      - instiguen
+      cjid: psub
+    - cjfs:
+      - instigara
+      - instigaras
+      - instigara
+      - "instig\xE1ramos"
+      - instigarais
+      - instigaran
+      cjid: pisb1
+    - cjfs:
+      - instigase
+      - instigases
+      - instigase
+      - "instig\xE1semos"
+      - instigaseis
+      - instigasen
+      cjid: pisb2
+    - cjfs:
+      - instigare
+      - instigares
+      - instigare
+      - "instig\xE1remos"
+      - instigareis
+      - instigaren
+      cjid: fsub
+    - cjfs:
+      - he instigado
+      - has instigado
+      - ha instigado
+      - hemos instigado
+      - "hab\xE9is instigado"
+      - han instigado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa instigado"
+      - "hab\xEDas instigado"
+      - "hab\xEDa instigado"
+      - "hab\xEDamos instigado"
+      - "hab\xEDais instigado"
+      - "hab\xEDan instigado"
+      cjid: ppsi
+    - cjfs:
+      - hube instigado
+      - hubiste instigado
+      - hubo instigado
+      - hubimos instigado
+      - hubisteis instigado
+      - hubieron instigado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 instigado"
+      - "habr\xE1s instigado"
+      - "habr\xE1 instigado"
+      - habremos instigado
+      - "habr\xE9is instigado"
+      - "habr\xE1n instigado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa instigado"
+      - "habr\xEDas instigado"
+      - "habr\xEDa instigado"
+      - "habr\xEDamos instigado"
+      - "habr\xEDais instigado"
+      - "habr\xEDan instigado"
+      cjid: cpef
+    - cjfs:
+      - haya instigado
+      - hayas instigado
+      - haya instigado
+      - hayamos instigado
+      - "hay\xE1is instigado"
+      - hayan instigado
+      cjid: ppfs
+    - cjfs:
+      - hubiera instigado
+      - hubieras instigado
+      - hubiera instigado
+      - "hubi\xE9ramos instigado"
+      - hubierais instigado
+      - hubieran instigado
+      cjid: ppss1
+    - cjfs:
+      - hubiese instigado
+      - hubieses instigado
+      - hubiese instigado
+      - "hubi\xE9semos instigado"
+      - hubieseis instigado
+      - hubiesen instigado
+      cjid: ppss2
+    - cjfs:
+      - hubiere instigado
+      - hubieres instigado
+      - hubiere instigado
+      - "hubi\xE9remos instigado"
+      - hubiereis instigado
+      - hubieren instigado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - instiga
+      - instigue
+      - instiguemos
+      - instigad
+      - instiguen
+      cjid: impf

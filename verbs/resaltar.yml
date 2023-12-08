@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|sobresalir||} {bc}to {a_link|stand out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring out}, to {a_link|highlight}'
+          sn: '2'
+          vrs:
+          - va: hacer resaltar
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stress}, to {a_link|emphasize}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: resaltar
+    prs:
+    - sound:
+        audio: resal01sp
+  meta:
+    id: resaltar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619528000'
+    src: spanish
+    stems:
+    - resaltar
+    - hacer resaltar
+    uuid: 4178cd46-1ba9-4841-9c85-7e39581f3035
+  shortdef:
+  - 'sobresalir : to stand out'
+  - to bring out, to highlight
+  - to stress, to emphasize
+  suppl:
+    cjts:
+    - cjfs:
+      - resaltando
+      - resaltado
+      cjid: gppt
+    - cjfs:
+      - resalto
+      - resaltas
+      - resalta
+      - resaltamos
+      - "resalt\xE1is"
+      - resaltan
+      cjid: pind
+    - cjfs:
+      - resaltaba
+      - resaltabas
+      - resaltaba
+      - "resalt\xE1bamos"
+      - resaltabais
+      - resaltaban
+      cjid: pret
+    - cjfs:
+      - "resalt\xE9"
+      - resaltaste
+      - "resalt\xF3"
+      - resaltamos
+      - resaltasteis
+      - resaltaron
+      cjid: pprf
+    - cjfs:
+      - "resaltar\xE9"
+      - "resaltar\xE1s"
+      - "resaltar\xE1"
+      - resaltaremos
+      - "resaltar\xE9is"
+      - "resaltar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resaltar\xEDa"
+      - "resaltar\xEDas"
+      - "resaltar\xEDa"
+      - "resaltar\xEDamos"
+      - "resaltar\xEDais"
+      - "resaltar\xEDan"
+      cjid: cond
+    - cjfs:
+      - resalte
+      - resaltes
+      - resalte
+      - resaltemos
+      - "resalt\xE9is"
+      - resalten
+      cjid: psub
+    - cjfs:
+      - resaltara
+      - resaltaras
+      - resaltara
+      - "resalt\xE1ramos"
+      - resaltarais
+      - resaltaran
+      cjid: pisb1
+    - cjfs:
+      - resaltase
+      - resaltases
+      - resaltase
+      - "resalt\xE1semos"
+      - resaltaseis
+      - resaltasen
+      cjid: pisb2
+    - cjfs:
+      - resaltare
+      - resaltares
+      - resaltare
+      - "resalt\xE1remos"
+      - resaltareis
+      - resaltaren
+      cjid: fsub
+    - cjfs:
+      - he resaltado
+      - has resaltado
+      - ha resaltado
+      - hemos resaltado
+      - "hab\xE9is resaltado"
+      - han resaltado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resaltado"
+      - "hab\xEDas resaltado"
+      - "hab\xEDa resaltado"
+      - "hab\xEDamos resaltado"
+      - "hab\xEDais resaltado"
+      - "hab\xEDan resaltado"
+      cjid: ppsi
+    - cjfs:
+      - hube resaltado
+      - hubiste resaltado
+      - hubo resaltado
+      - hubimos resaltado
+      - hubisteis resaltado
+      - hubieron resaltado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resaltado"
+      - "habr\xE1s resaltado"
+      - "habr\xE1 resaltado"
+      - habremos resaltado
+      - "habr\xE9is resaltado"
+      - "habr\xE1n resaltado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resaltado"
+      - "habr\xEDas resaltado"
+      - "habr\xEDa resaltado"
+      - "habr\xEDamos resaltado"
+      - "habr\xEDais resaltado"
+      - "habr\xEDan resaltado"
+      cjid: cpef
+    - cjfs:
+      - haya resaltado
+      - hayas resaltado
+      - haya resaltado
+      - hayamos resaltado
+      - "hay\xE1is resaltado"
+      - hayan resaltado
+      cjid: ppfs
+    - cjfs:
+      - hubiera resaltado
+      - hubieras resaltado
+      - hubiera resaltado
+      - "hubi\xE9ramos resaltado"
+      - hubierais resaltado
+      - hubieran resaltado
+      cjid: ppss1
+    - cjfs:
+      - hubiese resaltado
+      - hubieses resaltado
+      - hubiese resaltado
+      - "hubi\xE9semos resaltado"
+      - hubieseis resaltado
+      - hubiesen resaltado
+      cjid: ppss2
+    - cjfs:
+      - hubiere resaltado
+      - hubieres resaltado
+      - hubiere resaltado
+      - "hubi\xE9remos resaltado"
+      - hubiereis resaltado
+      - hubieren resaltado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resalta
+      - resalte
+      - resaltemos
+      - resaltad
+      - resalten
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make up}, to {a_link|compose}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|integrate}, to {a_link|fit in}'
+    drp: integrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: integrar
+    prs:
+    - sound:
+        audio: integ04sp
+  meta:
+    id: integrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612777000'
+    src: spanish
+    stems:
+    - integrar
+    - integrarse
+    uuid: 6662497a-5dc2-4ceb-a630-ae3ab1c9bf4e
+  shortdef:
+  - to make up, to compose
+  suppl:
+    cjts:
+    - cjfs:
+      - integrando
+      - integrado
+      cjid: gppt
+    - cjfs:
+      - integro
+      - integras
+      - integra
+      - integramos
+      - "integr\xE1is"
+      - integran
+      cjid: pind
+    - cjfs:
+      - integraba
+      - integrabas
+      - integraba
+      - "integr\xE1bamos"
+      - integrabais
+      - integraban
+      cjid: pret
+    - cjfs:
+      - "integr\xE9"
+      - integraste
+      - "integr\xF3"
+      - integramos
+      - integrasteis
+      - integraron
+      cjid: pprf
+    - cjfs:
+      - "integrar\xE9"
+      - "integrar\xE1s"
+      - "integrar\xE1"
+      - integraremos
+      - "integrar\xE9is"
+      - "integrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "integrar\xEDa"
+      - "integrar\xEDas"
+      - "integrar\xEDa"
+      - "integrar\xEDamos"
+      - "integrar\xEDais"
+      - "integrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - integre
+      - integres
+      - integre
+      - integremos
+      - "integr\xE9is"
+      - integren
+      cjid: psub
+    - cjfs:
+      - integrara
+      - integraras
+      - integrara
+      - "integr\xE1ramos"
+      - integrarais
+      - integraran
+      cjid: pisb1
+    - cjfs:
+      - integrase
+      - integrases
+      - integrase
+      - "integr\xE1semos"
+      - integraseis
+      - integrasen
+      cjid: pisb2
+    - cjfs:
+      - integrare
+      - integrares
+      - integrare
+      - "integr\xE1remos"
+      - integrareis
+      - integraren
+      cjid: fsub
+    - cjfs:
+      - he integrado
+      - has integrado
+      - ha integrado
+      - hemos integrado
+      - "hab\xE9is integrado"
+      - han integrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa integrado"
+      - "hab\xEDas integrado"
+      - "hab\xEDa integrado"
+      - "hab\xEDamos integrado"
+      - "hab\xEDais integrado"
+      - "hab\xEDan integrado"
+      cjid: ppsi
+    - cjfs:
+      - hube integrado
+      - hubiste integrado
+      - hubo integrado
+      - hubimos integrado
+      - hubisteis integrado
+      - hubieron integrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 integrado"
+      - "habr\xE1s integrado"
+      - "habr\xE1 integrado"
+      - habremos integrado
+      - "habr\xE9is integrado"
+      - "habr\xE1n integrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa integrado"
+      - "habr\xEDas integrado"
+      - "habr\xEDa integrado"
+      - "habr\xEDamos integrado"
+      - "habr\xEDais integrado"
+      - "habr\xEDan integrado"
+      cjid: cpef
+    - cjfs:
+      - haya integrado
+      - hayas integrado
+      - haya integrado
+      - hayamos integrado
+      - "hay\xE1is integrado"
+      - hayan integrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera integrado
+      - hubieras integrado
+      - hubiera integrado
+      - "hubi\xE9ramos integrado"
+      - hubierais integrado
+      - hubieran integrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese integrado
+      - hubieses integrado
+      - hubiese integrado
+      - "hubi\xE9semos integrado"
+      - hubieseis integrado
+      - hubiesen integrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere integrado
+      - hubieres integrado
+      - hubiere integrado
+      - "hubi\xE9remos integrado"
+      - hubiereis integrado
+      - hubieren integrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - integra
+      - integre
+      - integremos
+      - integrad
+      - integren
+      cjid: impf

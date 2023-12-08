@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|entretener||} {bc}to {a_link|amuse}, to {a_link|entertain}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|have fun}, to have a good time'
+    drp: divertirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: divertir
+    prs:
+    - sound:
+        audio: diver06sp
+  meta:
+    id: divertir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607809000'
+    src: spanish
+    stems:
+    - divertir
+    - divertirse
+    uuid: b8ab3836-6881-47fa-8045-a92225852323
+  shortdef:
+  - 'entretener : to amuse, to entertain'
+  suppl:
+    cjts:
+    - cjfs:
+      - divirtiendo
+      - divertido
+      cjid: gppt
+    - cjfs:
+      - divierto
+      - diviertes
+      - divierte
+      - divertimos
+      - "divert\xEDs"
+      - divierten
+      cjid: pind
+    - cjfs:
+      - "divert\xEDa"
+      - "divert\xEDas"
+      - "divert\xEDa"
+      - "divert\xEDamos"
+      - "divert\xEDais"
+      - "divert\xEDan"
+      cjid: pret
+    - cjfs:
+      - "divert\xED"
+      - divertiste
+      - "divirti\xF3"
+      - divertimos
+      - divertisteis
+      - divirtieron
+      cjid: pprf
+    - cjfs:
+      - "divertir\xE9"
+      - "divertir\xE1s"
+      - "divertir\xE1"
+      - divertiremos
+      - "divertir\xE9is"
+      - "divertir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "divertir\xEDa"
+      - "divertir\xEDas"
+      - "divertir\xEDa"
+      - "divertir\xEDamos"
+      - "divertir\xEDais"
+      - "divertir\xEDan"
+      cjid: cond
+    - cjfs:
+      - divierta
+      - diviertas
+      - divierta
+      - divirtamos
+      - "divirt\xE1is"
+      - diviertan
+      cjid: psub
+    - cjfs:
+      - divirtiera
+      - divirtieras
+      - divirtiera
+      - "divirti\xE9ramos"
+      - divirtierais
+      - divirtieran
+      cjid: pisb1
+    - cjfs:
+      - divirtiese
+      - divirtieses
+      - divirtiese
+      - "divirti\xE9semos"
+      - divirtieseis
+      - divirtiesen
+      cjid: pisb2
+    - cjfs:
+      - divirtiere
+      - divirtieres
+      - divirtiere
+      - "divirti\xE9remos"
+      - divirtiereis
+      - divirtieren
+      cjid: fsub
+    - cjfs:
+      - he divertido
+      - has divertido
+      - ha divertido
+      - hemos divertido
+      - "hab\xE9is divertido"
+      - han divertido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa divertido"
+      - "hab\xEDas divertido"
+      - "hab\xEDa divertido"
+      - "hab\xEDamos divertido"
+      - "hab\xEDais divertido"
+      - "hab\xEDan divertido"
+      cjid: ppsi
+    - cjfs:
+      - hube divertido
+      - hubiste divertido
+      - hubo divertido
+      - hubimos divertido
+      - hubisteis divertido
+      - hubieron divertido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 divertido"
+      - "habr\xE1s divertido"
+      - "habr\xE1 divertido"
+      - habremos divertido
+      - "habr\xE9is divertido"
+      - "habr\xE1n divertido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa divertido"
+      - "habr\xEDas divertido"
+      - "habr\xEDa divertido"
+      - "habr\xEDamos divertido"
+      - "habr\xEDais divertido"
+      - "habr\xEDan divertido"
+      cjid: cpef
+    - cjfs:
+      - haya divertido
+      - hayas divertido
+      - haya divertido
+      - hayamos divertido
+      - "hay\xE1is divertido"
+      - hayan divertido
+      cjid: ppfs
+    - cjfs:
+      - hubiera divertido
+      - hubieras divertido
+      - hubiera divertido
+      - "hubi\xE9ramos divertido"
+      - hubierais divertido
+      - hubieran divertido
+      cjid: ppss1
+    - cjfs:
+      - hubiese divertido
+      - hubieses divertido
+      - hubiese divertido
+      - "hubi\xE9semos divertido"
+      - hubieseis divertido
+      - hubiesen divertido
+      cjid: ppss2
+    - cjfs:
+      - hubiere divertido
+      - hubieres divertido
+      - hubiere divertido
+      - "hubi\xE9remos divertido"
+      - hubiereis divertido
+      - hubieren divertido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - divierte
+      - divierta
+      - divirtamos
+      - divertid
+      - diviertan
+      cjid: impf

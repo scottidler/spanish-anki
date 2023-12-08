@@ -1,0 +1,222 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|conducir||} {bc}to {a_link|drive} (a car)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|operar||} {bc}to {a_link|handle}, to {a_link|operate}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|manage}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|manipulate} (a person)'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drive}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|comportarse||} {bc}to {a_link|behave}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get along}, to {a_link|manage}'
+            sn: '2'
+    drp: manejarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: manejar
+    prs:
+    - sound:
+        audio: manej01sp
+  meta:
+    id: manejar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614334000'
+    src: spanish
+    stems:
+    - manejar
+    - manejarse
+    uuid: fcdfae7f-ac08-4208-9e1d-a6b99815c9c1
+  shortdef:
+  - 'conducir : to drive (a car)'
+  - 'operar : to handle, to operate'
+  - to manage
+  suppl:
+    cjts:
+    - cjfs:
+      - manejando
+      - manejado
+      cjid: gppt
+    - cjfs:
+      - manejo
+      - manejas
+      - maneja
+      - manejamos
+      - "manej\xE1is"
+      - manejan
+      cjid: pind
+    - cjfs:
+      - manejaba
+      - manejabas
+      - manejaba
+      - "manej\xE1bamos"
+      - manejabais
+      - manejaban
+      cjid: pret
+    - cjfs:
+      - "manej\xE9"
+      - manejaste
+      - "manej\xF3"
+      - manejamos
+      - manejasteis
+      - manejaron
+      cjid: pprf
+    - cjfs:
+      - "manejar\xE9"
+      - "manejar\xE1s"
+      - "manejar\xE1"
+      - manejaremos
+      - "manejar\xE9is"
+      - "manejar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "manejar\xEDa"
+      - "manejar\xEDas"
+      - "manejar\xEDa"
+      - "manejar\xEDamos"
+      - "manejar\xEDais"
+      - "manejar\xEDan"
+      cjid: cond
+    - cjfs:
+      - maneje
+      - manejes
+      - maneje
+      - manejemos
+      - "manej\xE9is"
+      - manejen
+      cjid: psub
+    - cjfs:
+      - manejara
+      - manejaras
+      - manejara
+      - "manej\xE1ramos"
+      - manejarais
+      - manejaran
+      cjid: pisb1
+    - cjfs:
+      - manejase
+      - manejases
+      - manejase
+      - "manej\xE1semos"
+      - manejaseis
+      - manejasen
+      cjid: pisb2
+    - cjfs:
+      - manejare
+      - manejares
+      - manejare
+      - "manej\xE1remos"
+      - manejareis
+      - manejaren
+      cjid: fsub
+    - cjfs:
+      - he manejado
+      - has manejado
+      - ha manejado
+      - hemos manejado
+      - "hab\xE9is manejado"
+      - han manejado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa manejado"
+      - "hab\xEDas manejado"
+      - "hab\xEDa manejado"
+      - "hab\xEDamos manejado"
+      - "hab\xEDais manejado"
+      - "hab\xEDan manejado"
+      cjid: ppsi
+    - cjfs:
+      - hube manejado
+      - hubiste manejado
+      - hubo manejado
+      - hubimos manejado
+      - hubisteis manejado
+      - hubieron manejado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 manejado"
+      - "habr\xE1s manejado"
+      - "habr\xE1 manejado"
+      - habremos manejado
+      - "habr\xE9is manejado"
+      - "habr\xE1n manejado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa manejado"
+      - "habr\xEDas manejado"
+      - "habr\xEDa manejado"
+      - "habr\xEDamos manejado"
+      - "habr\xEDais manejado"
+      - "habr\xEDan manejado"
+      cjid: cpef
+    - cjfs:
+      - haya manejado
+      - hayas manejado
+      - haya manejado
+      - hayamos manejado
+      - "hay\xE1is manejado"
+      - hayan manejado
+      cjid: ppfs
+    - cjfs:
+      - hubiera manejado
+      - hubieras manejado
+      - hubiera manejado
+      - "hubi\xE9ramos manejado"
+      - hubierais manejado
+      - hubieran manejado
+      cjid: ppss1
+    - cjfs:
+      - hubiese manejado
+      - hubieses manejado
+      - hubiese manejado
+      - "hubi\xE9semos manejado"
+      - hubieseis manejado
+      - hubiesen manejado
+      cjid: ppss2
+    - cjfs:
+      - hubiere manejado
+      - hubieres manejado
+      - hubiere manejado
+      - "hubi\xE9remos manejado"
+      - hubiereis manejado
+      - hubieren manejado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - maneja
+      - maneje
+      - manejemos
+      - manejad
+      - manejen
+      cjid: impf

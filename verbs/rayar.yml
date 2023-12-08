@@ -1,0 +1,233 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|ara\xF1ar||} {bc}to {a_link|scratch}"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to scrawl on, to {a_link|mark up} '
+          - - vis
+            - - t: rayaron las paredes
+                tr: they covered the walls with graffiti
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scratch}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|amanecer||} {bc}to {a_link|dawn}, to {a_link|break} '
+          - - vis
+            - - t: al rayar el alba
+                tr: at break of day
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be adjacent to, to be next to'
+          sn: '3'
+          vrs:
+          - va: rayar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to border on, to verge on '
+          - - vis
+            - - t: "su respuesta raya en lo rid\xEDculo"
+                tr: his answer borders on the ridiculous
+          sn: '4'
+          vrs:
+          - va: rayar en
+            vac: ~ en
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: rayar
+    prs:
+    - sound:
+        audio: rayar01sp
+  meta:
+    id: rayar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618841000'
+    src: spanish
+    stems:
+    - rayar
+    - rayar con
+    - rayar en
+    - rayarse
+    uuid: 0ed970f4-f401-4c7c-aaf7-29d39e59b43e
+  shortdef:
+  - "ara\xF1ar : to scratch"
+  - to scrawl on, to mark up
+  - to scratch
+  suppl:
+    cjts:
+    - cjfs:
+      - rayando
+      - rayado
+      cjid: gppt
+    - cjfs:
+      - rayo
+      - rayas
+      - raya
+      - rayamos
+      - "ray\xE1is"
+      - rayan
+      cjid: pind
+    - cjfs:
+      - rayaba
+      - rayabas
+      - rayaba
+      - "ray\xE1bamos"
+      - rayabais
+      - rayaban
+      cjid: pret
+    - cjfs:
+      - "ray\xE9"
+      - rayaste
+      - "ray\xF3"
+      - rayamos
+      - rayasteis
+      - rayaron
+      cjid: pprf
+    - cjfs:
+      - "rayar\xE9"
+      - "rayar\xE1s"
+      - "rayar\xE1"
+      - rayaremos
+      - "rayar\xE9is"
+      - "rayar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rayar\xEDa"
+      - "rayar\xEDas"
+      - "rayar\xEDa"
+      - "rayar\xEDamos"
+      - "rayar\xEDais"
+      - "rayar\xEDan"
+      cjid: cond
+    - cjfs:
+      - raye
+      - rayes
+      - raye
+      - rayemos
+      - "ray\xE9is"
+      - rayen
+      cjid: psub
+    - cjfs:
+      - rayara
+      - rayaras
+      - rayara
+      - "ray\xE1ramos"
+      - rayarais
+      - rayaran
+      cjid: pisb1
+    - cjfs:
+      - rayase
+      - rayases
+      - rayase
+      - "ray\xE1semos"
+      - rayaseis
+      - rayasen
+      cjid: pisb2
+    - cjfs:
+      - rayare
+      - rayares
+      - rayare
+      - "ray\xE1remos"
+      - rayareis
+      - rayaren
+      cjid: fsub
+    - cjfs:
+      - he rayado
+      - has rayado
+      - ha rayado
+      - hemos rayado
+      - "hab\xE9is rayado"
+      - han rayado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rayado"
+      - "hab\xEDas rayado"
+      - "hab\xEDa rayado"
+      - "hab\xEDamos rayado"
+      - "hab\xEDais rayado"
+      - "hab\xEDan rayado"
+      cjid: ppsi
+    - cjfs:
+      - hube rayado
+      - hubiste rayado
+      - hubo rayado
+      - hubimos rayado
+      - hubisteis rayado
+      - hubieron rayado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rayado"
+      - "habr\xE1s rayado"
+      - "habr\xE1 rayado"
+      - habremos rayado
+      - "habr\xE9is rayado"
+      - "habr\xE1n rayado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rayado"
+      - "habr\xEDas rayado"
+      - "habr\xEDa rayado"
+      - "habr\xEDamos rayado"
+      - "habr\xEDais rayado"
+      - "habr\xEDan rayado"
+      cjid: cpef
+    - cjfs:
+      - haya rayado
+      - hayas rayado
+      - haya rayado
+      - hayamos rayado
+      - "hay\xE1is rayado"
+      - hayan rayado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rayado
+      - hubieras rayado
+      - hubiera rayado
+      - "hubi\xE9ramos rayado"
+      - hubierais rayado
+      - hubieran rayado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rayado
+      - hubieses rayado
+      - hubiese rayado
+      - "hubi\xE9semos rayado"
+      - hubieseis rayado
+      - hubiesen rayado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rayado
+      - hubieres rayado
+      - hubiere rayado
+      - "hubi\xE9remos rayado"
+      - hubiereis rayado
+      - hubieren rayado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - raya
+      - raye
+      - rayemos
+      - rayad
+      - rayen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: rayarse

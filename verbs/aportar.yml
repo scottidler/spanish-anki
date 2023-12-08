@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|contribuir||} {bc}to {a_link|contribute}, to {a_link|provide}'
+  fl: transitive verb
+  hwi:
+    hw: aportar
+    prs:
+    - sound:
+        audio: aport02sp
+  meta:
+    id: aportar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601751000'
+    src: spanish
+    stems:
+    - aportar
+    uuid: 99e13355-cf34-4d8c-9791-da36fbd792f9
+  shortdef:
+  - 'contribuir : to contribute, to provide'
+  suppl:
+    cjts:
+    - cjfs:
+      - aportando
+      - aportado
+      cjid: gppt
+    - cjfs:
+      - aporto
+      - aportas
+      - aporta
+      - aportamos
+      - "aport\xE1is"
+      - aportan
+      cjid: pind
+    - cjfs:
+      - aportaba
+      - aportabas
+      - aportaba
+      - "aport\xE1bamos"
+      - aportabais
+      - aportaban
+      cjid: pret
+    - cjfs:
+      - "aport\xE9"
+      - aportaste
+      - "aport\xF3"
+      - aportamos
+      - aportasteis
+      - aportaron
+      cjid: pprf
+    - cjfs:
+      - "aportar\xE9"
+      - "aportar\xE1s"
+      - "aportar\xE1"
+      - aportaremos
+      - "aportar\xE9is"
+      - "aportar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aportar\xEDa"
+      - "aportar\xEDas"
+      - "aportar\xEDa"
+      - "aportar\xEDamos"
+      - "aportar\xEDais"
+      - "aportar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aporte
+      - aportes
+      - aporte
+      - aportemos
+      - "aport\xE9is"
+      - aporten
+      cjid: psub
+    - cjfs:
+      - aportara
+      - aportaras
+      - aportara
+      - "aport\xE1ramos"
+      - aportarais
+      - aportaran
+      cjid: pisb1
+    - cjfs:
+      - aportase
+      - aportases
+      - aportase
+      - "aport\xE1semos"
+      - aportaseis
+      - aportasen
+      cjid: pisb2
+    - cjfs:
+      - aportare
+      - aportares
+      - aportare
+      - "aport\xE1remos"
+      - aportareis
+      - aportaren
+      cjid: fsub
+    - cjfs:
+      - he aportado
+      - has aportado
+      - ha aportado
+      - hemos aportado
+      - "hab\xE9is aportado"
+      - han aportado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aportado"
+      - "hab\xEDas aportado"
+      - "hab\xEDa aportado"
+      - "hab\xEDamos aportado"
+      - "hab\xEDais aportado"
+      - "hab\xEDan aportado"
+      cjid: ppsi
+    - cjfs:
+      - hube aportado
+      - hubiste aportado
+      - hubo aportado
+      - hubimos aportado
+      - hubisteis aportado
+      - hubieron aportado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aportado"
+      - "habr\xE1s aportado"
+      - "habr\xE1 aportado"
+      - habremos aportado
+      - "habr\xE9is aportado"
+      - "habr\xE1n aportado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aportado"
+      - "habr\xEDas aportado"
+      - "habr\xEDa aportado"
+      - "habr\xEDamos aportado"
+      - "habr\xEDais aportado"
+      - "habr\xEDan aportado"
+      cjid: cpef
+    - cjfs:
+      - haya aportado
+      - hayas aportado
+      - haya aportado
+      - hayamos aportado
+      - "hay\xE1is aportado"
+      - hayan aportado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aportado
+      - hubieras aportado
+      - hubiera aportado
+      - "hubi\xE9ramos aportado"
+      - hubierais aportado
+      - hubieran aportado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aportado
+      - hubieses aportado
+      - hubiese aportado
+      - "hubi\xE9semos aportado"
+      - hubieseis aportado
+      - hubiesen aportado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aportado
+      - hubieres aportado
+      - hubiere aportado
+      - "hubi\xE9remos aportado"
+      - hubiereis aportado
+      - hubieren aportado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aporta
+      - aporte
+      - aportemos
+      - aportad
+      - aporten
+      cjid: impf

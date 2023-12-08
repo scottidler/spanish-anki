@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|interrupt}'
+  fl: verb
+  hwi:
+    hw: interrumpir
+    prs:
+    - sound:
+        audio: inter28sp
+  meta:
+    id: interrumpir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612892000'
+    src: spanish
+    stems:
+    - interrumpir
+    uuid: 4da6385b-5fd2-4f38-af48-d0a3e7be0522
+  shortdef:
+  - to interrupt
+  suppl:
+    cjts:
+    - cjfs:
+      - interrumpiendo
+      - interrumpido
+      cjid: gppt
+    - cjfs:
+      - interrumpo
+      - interrumpes
+      - interrumpe
+      - interrumpimos
+      - "interrump\xEDs"
+      - interrumpen
+      cjid: pind
+    - cjfs:
+      - "interrump\xEDa"
+      - "interrump\xEDas"
+      - "interrump\xEDa"
+      - "interrump\xEDamos"
+      - "interrump\xEDais"
+      - "interrump\xEDan"
+      cjid: pret
+    - cjfs:
+      - "interrump\xED"
+      - interrumpiste
+      - "interrumpi\xF3"
+      - interrumpimos
+      - interrumpisteis
+      - interrumpieron
+      cjid: pprf
+    - cjfs:
+      - "interrumpir\xE9"
+      - "interrumpir\xE1s"
+      - "interrumpir\xE1"
+      - interrumpiremos
+      - "interrumpir\xE9is"
+      - "interrumpir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "interrumpir\xEDa"
+      - "interrumpir\xEDas"
+      - "interrumpir\xEDa"
+      - "interrumpir\xEDamos"
+      - "interrumpir\xEDais"
+      - "interrumpir\xEDan"
+      cjid: cond
+    - cjfs:
+      - interrumpa
+      - interrumpas
+      - interrumpa
+      - interrumpamos
+      - "interrump\xE1is"
+      - interrumpan
+      cjid: psub
+    - cjfs:
+      - interrumpiera
+      - interrumpieras
+      - interrumpiera
+      - "interrumpi\xE9ramos"
+      - interrumpierais
+      - interrumpieran
+      cjid: pisb1
+    - cjfs:
+      - interrumpiese
+      - interrumpieses
+      - interrumpiese
+      - "interrumpi\xE9semos"
+      - interrumpieseis
+      - interrumpiesen
+      cjid: pisb2
+    - cjfs:
+      - interrumpiere
+      - interrumpieres
+      - interrumpiere
+      - "interrumpi\xE9remos"
+      - interrumpiereis
+      - interrumpieren
+      cjid: fsub
+    - cjfs:
+      - he interrumpido
+      - has interrumpido
+      - ha interrumpido
+      - hemos interrumpido
+      - "hab\xE9is interrumpido"
+      - han interrumpido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa interrumpido"
+      - "hab\xEDas interrumpido"
+      - "hab\xEDa interrumpido"
+      - "hab\xEDamos interrumpido"
+      - "hab\xEDais interrumpido"
+      - "hab\xEDan interrumpido"
+      cjid: ppsi
+    - cjfs:
+      - hube interrumpido
+      - hubiste interrumpido
+      - hubo interrumpido
+      - hubimos interrumpido
+      - hubisteis interrumpido
+      - hubieron interrumpido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 interrumpido"
+      - "habr\xE1s interrumpido"
+      - "habr\xE1 interrumpido"
+      - habremos interrumpido
+      - "habr\xE9is interrumpido"
+      - "habr\xE1n interrumpido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa interrumpido"
+      - "habr\xEDas interrumpido"
+      - "habr\xEDa interrumpido"
+      - "habr\xEDamos interrumpido"
+      - "habr\xEDais interrumpido"
+      - "habr\xEDan interrumpido"
+      cjid: cpef
+    - cjfs:
+      - haya interrumpido
+      - hayas interrumpido
+      - haya interrumpido
+      - hayamos interrumpido
+      - "hay\xE1is interrumpido"
+      - hayan interrumpido
+      cjid: ppfs
+    - cjfs:
+      - hubiera interrumpido
+      - hubieras interrumpido
+      - hubiera interrumpido
+      - "hubi\xE9ramos interrumpido"
+      - hubierais interrumpido
+      - hubieran interrumpido
+      cjid: ppss1
+    - cjfs:
+      - hubiese interrumpido
+      - hubieses interrumpido
+      - hubiese interrumpido
+      - "hubi\xE9semos interrumpido"
+      - hubieseis interrumpido
+      - hubiesen interrumpido
+      cjid: ppss2
+    - cjfs:
+      - hubiere interrumpido
+      - hubieres interrumpido
+      - hubiere interrumpido
+      - "hubi\xE9remos interrumpido"
+      - hubiereis interrumpido
+      - hubieren interrumpido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - interrumpe
+      - interrumpa
+      - interrumpamos
+      - interrumpid
+      - interrumpan
+      cjid: impf

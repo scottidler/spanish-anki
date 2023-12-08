@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mascar||} {bc}to {a_link|chew}, to {a_link|masticate}'
+  fl: verb
+  hwi:
+    hw: masticar
+    prs:
+    - sound:
+        audio: masti01sp
+  meta:
+    id: masticar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614574000'
+    src: spanish
+    stems:
+    - masticar
+    uuid: b91c7394-c5b7-489a-b465-778161ac95d3
+  shortdef:
+  - 'mascar : to chew, to masticate'
+  suppl:
+    cjts:
+    - cjfs:
+      - masticando
+      - masticado
+      cjid: gppt
+    - cjfs:
+      - mastico
+      - masticas
+      - mastica
+      - masticamos
+      - "mastic\xE1is"
+      - mastican
+      cjid: pind
+    - cjfs:
+      - masticaba
+      - masticabas
+      - masticaba
+      - "mastic\xE1bamos"
+      - masticabais
+      - masticaban
+      cjid: pret
+    - cjfs:
+      - "mastiqu\xE9"
+      - masticaste
+      - "mastic\xF3"
+      - masticamos
+      - masticasteis
+      - masticaron
+      cjid: pprf
+    - cjfs:
+      - "masticar\xE9"
+      - "masticar\xE1s"
+      - "masticar\xE1"
+      - masticaremos
+      - "masticar\xE9is"
+      - "masticar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "masticar\xEDa"
+      - "masticar\xEDas"
+      - "masticar\xEDa"
+      - "masticar\xEDamos"
+      - "masticar\xEDais"
+      - "masticar\xEDan"
+      cjid: cond
+    - cjfs:
+      - mastique
+      - mastiques
+      - mastique
+      - mastiquemos
+      - "mastiqu\xE9is"
+      - mastiquen
+      cjid: psub
+    - cjfs:
+      - masticara
+      - masticaras
+      - masticara
+      - "mastic\xE1ramos"
+      - masticarais
+      - masticaran
+      cjid: pisb1
+    - cjfs:
+      - masticase
+      - masticases
+      - masticase
+      - "mastic\xE1semos"
+      - masticaseis
+      - masticasen
+      cjid: pisb2
+    - cjfs:
+      - masticare
+      - masticares
+      - masticare
+      - "mastic\xE1remos"
+      - masticareis
+      - masticaren
+      cjid: fsub
+    - cjfs:
+      - he masticado
+      - has masticado
+      - ha masticado
+      - hemos masticado
+      - "hab\xE9is masticado"
+      - han masticado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa masticado"
+      - "hab\xEDas masticado"
+      - "hab\xEDa masticado"
+      - "hab\xEDamos masticado"
+      - "hab\xEDais masticado"
+      - "hab\xEDan masticado"
+      cjid: ppsi
+    - cjfs:
+      - hube masticado
+      - hubiste masticado
+      - hubo masticado
+      - hubimos masticado
+      - hubisteis masticado
+      - hubieron masticado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 masticado"
+      - "habr\xE1s masticado"
+      - "habr\xE1 masticado"
+      - habremos masticado
+      - "habr\xE9is masticado"
+      - "habr\xE1n masticado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa masticado"
+      - "habr\xEDas masticado"
+      - "habr\xEDa masticado"
+      - "habr\xEDamos masticado"
+      - "habr\xEDais masticado"
+      - "habr\xEDan masticado"
+      cjid: cpef
+    - cjfs:
+      - haya masticado
+      - hayas masticado
+      - haya masticado
+      - hayamos masticado
+      - "hay\xE1is masticado"
+      - hayan masticado
+      cjid: ppfs
+    - cjfs:
+      - hubiera masticado
+      - hubieras masticado
+      - hubiera masticado
+      - "hubi\xE9ramos masticado"
+      - hubierais masticado
+      - hubieran masticado
+      cjid: ppss1
+    - cjfs:
+      - hubiese masticado
+      - hubieses masticado
+      - hubiese masticado
+      - "hubi\xE9semos masticado"
+      - hubieseis masticado
+      - hubiesen masticado
+      cjid: ppss2
+    - cjfs:
+      - hubiere masticado
+      - hubieres masticado
+      - hubiere masticado
+      - "hubi\xE9remos masticado"
+      - hubiereis masticado
+      - hubieren masticado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mastica
+      - mastique
+      - mastiquemos
+      - masticad
+      - mastiquen
+      cjid: impf

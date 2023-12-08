@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|caw}, to {a_link|honk}, to {a_link|quack}, to {a_link|squawk}'
+  fl: intransitive verb
+  hwi:
+    hw: graznar
+  meta:
+    id: graznar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611053000'
+    src: spanish
+    stems:
+    - graznar
+    uuid: 05751b76-8147-4f41-9fb4-30180a378451
+  shortdef:
+  - to caw, to honk, to quack, to squawk
+  suppl:
+    cjts:
+    - cjfs:
+      - graznando
+      - graznado
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - grazna
+      - '-'
+      - '-'
+      - graznan
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - graznaba
+      - '-'
+      - '-'
+      - graznaban
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "grazn\xF3"
+      - '-'
+      - '-'
+      - graznaron
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "graznar\xE1"
+      - '-'
+      - '-'
+      - "graznar\xE1n"
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "graznar\xEDa"
+      - '-'
+      - '-'
+      - "graznar\xEDan"
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - grazne
+      - '-'
+      - '-'
+      - graznen
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - graznara
+      - '-'
+      - '-'
+      - graznaran
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - graznase
+      - '-'
+      - '-'
+      - graznasen
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - graznare
+      - '-'
+      - '-'
+      - graznaren
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha graznado
+      - '-'
+      - '-'
+      - han graznado
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa graznado"
+      - '-'
+      - '-'
+      - "hab\xEDan graznado"
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo graznado
+      - '-'
+      - '-'
+      - hubieron graznado
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 graznado"
+      - '-'
+      - '-'
+      - "habr\xE1n graznado"
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa graznado"
+      - '-'
+      - '-'
+      - "habr\xEDan graznado"
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya graznado
+      - '-'
+      - '-'
+      - hayan graznado
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera graznado
+      - '-'
+      - '-'
+      - hubieran graznado
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese graznado
+      - '-'
+      - '-'
+      - hubiesen graznado
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere graznado
+      - '-'
+      - '-'
+      - hubieren graznado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

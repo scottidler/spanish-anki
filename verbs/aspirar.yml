@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to aspire to'
+          vrs:
+          - va: aspirar a
+            vac: ~ a
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inhale}, to {a_link|breathe in}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: aspirar
+    prs:
+    - sound:
+        audio: aspir02sp
+  meta:
+    id: aspirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602208000'
+    src: spanish
+    stems:
+    - aspirar
+    - aspirar a
+    uuid: 444f50ed-605b-4a66-a767-918db146cf41
+  shortdef:
+  - to aspire to
+  - to inhale, to breathe in
+  suppl:
+    cjts:
+    - cjfs:
+      - aspirando
+      - aspirado
+      cjid: gppt
+    - cjfs:
+      - aspiro
+      - aspiras
+      - aspira
+      - aspiramos
+      - "aspir\xE1is"
+      - aspiran
+      cjid: pind
+    - cjfs:
+      - aspiraba
+      - aspirabas
+      - aspiraba
+      - "aspir\xE1bamos"
+      - aspirabais
+      - aspiraban
+      cjid: pret
+    - cjfs:
+      - "aspir\xE9"
+      - aspiraste
+      - "aspir\xF3"
+      - aspiramos
+      - aspirasteis
+      - aspiraron
+      cjid: pprf
+    - cjfs:
+      - "aspirar\xE9"
+      - "aspirar\xE1s"
+      - "aspirar\xE1"
+      - aspiraremos
+      - "aspirar\xE9is"
+      - "aspirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aspirar\xEDa"
+      - "aspirar\xEDas"
+      - "aspirar\xEDa"
+      - "aspirar\xEDamos"
+      - "aspirar\xEDais"
+      - "aspirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aspire
+      - aspires
+      - aspire
+      - aspiremos
+      - "aspir\xE9is"
+      - aspiren
+      cjid: psub
+    - cjfs:
+      - aspirara
+      - aspiraras
+      - aspirara
+      - "aspir\xE1ramos"
+      - aspirarais
+      - aspiraran
+      cjid: pisb1
+    - cjfs:
+      - aspirase
+      - aspirases
+      - aspirase
+      - "aspir\xE1semos"
+      - aspiraseis
+      - aspirasen
+      cjid: pisb2
+    - cjfs:
+      - aspirare
+      - aspirares
+      - aspirare
+      - "aspir\xE1remos"
+      - aspirareis
+      - aspiraren
+      cjid: fsub
+    - cjfs:
+      - he aspirado
+      - has aspirado
+      - ha aspirado
+      - hemos aspirado
+      - "hab\xE9is aspirado"
+      - han aspirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aspirado"
+      - "hab\xEDas aspirado"
+      - "hab\xEDa aspirado"
+      - "hab\xEDamos aspirado"
+      - "hab\xEDais aspirado"
+      - "hab\xEDan aspirado"
+      cjid: ppsi
+    - cjfs:
+      - hube aspirado
+      - hubiste aspirado
+      - hubo aspirado
+      - hubimos aspirado
+      - hubisteis aspirado
+      - hubieron aspirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aspirado"
+      - "habr\xE1s aspirado"
+      - "habr\xE1 aspirado"
+      - habremos aspirado
+      - "habr\xE9is aspirado"
+      - "habr\xE1n aspirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aspirado"
+      - "habr\xEDas aspirado"
+      - "habr\xEDa aspirado"
+      - "habr\xEDamos aspirado"
+      - "habr\xEDais aspirado"
+      - "habr\xEDan aspirado"
+      cjid: cpef
+    - cjfs:
+      - haya aspirado
+      - hayas aspirado
+      - haya aspirado
+      - hayamos aspirado
+      - "hay\xE1is aspirado"
+      - hayan aspirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aspirado
+      - hubieras aspirado
+      - hubiera aspirado
+      - "hubi\xE9ramos aspirado"
+      - hubierais aspirado
+      - hubieran aspirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aspirado
+      - hubieses aspirado
+      - hubiese aspirado
+      - "hubi\xE9semos aspirado"
+      - hubieseis aspirado
+      - hubiesen aspirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aspirado
+      - hubieres aspirado
+      - hubiere aspirado
+      - "hubi\xE9remos aspirado"
+      - hubiereis aspirado
+      - hubieren aspirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aspira
+      - aspire
+      - aspiremos
+      - aspirad
+      - aspiren
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cause to disappear'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disappear}, to {a_link|vanish}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: desaparecer
+    prs:
+    - sound:
+        audio: desap01sp
+  meta:
+    id: desaparecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606846000'
+    src: spanish
+    stems:
+    - desaparecer
+    uuid: 8b437684-62df-4f96-817a-ca5720709849
+  shortdef:
+  - to cause to disappear
+  - to disappear, to vanish
+  suppl:
+    cjts:
+    - cjfs:
+      - desapareciendo
+      - desaparecido
+      cjid: gppt
+    - cjfs:
+      - desaparezco
+      - desapareces
+      - desaparece
+      - desaparecemos
+      - "desaparec\xE9is"
+      - desaparecen
+      cjid: pind
+    - cjfs:
+      - "desaparec\xEDa"
+      - "desaparec\xEDas"
+      - "desaparec\xEDa"
+      - "desaparec\xEDamos"
+      - "desaparec\xEDais"
+      - "desaparec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "desaparec\xED"
+      - desapareciste
+      - "desapareci\xF3"
+      - desaparecimos
+      - desaparecisteis
+      - desaparecieron
+      cjid: pprf
+    - cjfs:
+      - "desaparecer\xE9"
+      - "desaparecer\xE1s"
+      - "desaparecer\xE1"
+      - desapareceremos
+      - "desaparecer\xE9is"
+      - "desaparecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desaparecer\xEDa"
+      - "desaparecer\xEDas"
+      - "desaparecer\xEDa"
+      - "desaparecer\xEDamos"
+      - "desaparecer\xEDais"
+      - "desaparecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - desaparezca
+      - desaparezcas
+      - desaparezca
+      - desaparezcamos
+      - "desaparezc\xE1is"
+      - desaparezcan
+      cjid: psub
+    - cjfs:
+      - desapareciera
+      - desaparecieras
+      - desapareciera
+      - "desapareci\xE9ramos"
+      - desaparecierais
+      - desaparecieran
+      cjid: pisb1
+    - cjfs:
+      - desapareciese
+      - desaparecieses
+      - desapareciese
+      - "desapareci\xE9semos"
+      - desaparecieseis
+      - desapareciesen
+      cjid: pisb2
+    - cjfs:
+      - desapareciere
+      - desaparecieres
+      - desapareciere
+      - "desapareci\xE9remos"
+      - desapareciereis
+      - desaparecieren
+      cjid: fsub
+    - cjfs:
+      - he desaparecido
+      - has desaparecido
+      - ha desaparecido
+      - hemos desaparecido
+      - "hab\xE9is desaparecido"
+      - han desaparecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desaparecido"
+      - "hab\xEDas desaparecido"
+      - "hab\xEDa desaparecido"
+      - "hab\xEDamos desaparecido"
+      - "hab\xEDais desaparecido"
+      - "hab\xEDan desaparecido"
+      cjid: ppsi
+    - cjfs:
+      - hube desaparecido
+      - hubiste desaparecido
+      - hubo desaparecido
+      - hubimos desaparecido
+      - hubisteis desaparecido
+      - hubieron desaparecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desaparecido"
+      - "habr\xE1s desaparecido"
+      - "habr\xE1 desaparecido"
+      - habremos desaparecido
+      - "habr\xE9is desaparecido"
+      - "habr\xE1n desaparecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desaparecido"
+      - "habr\xEDas desaparecido"
+      - "habr\xEDa desaparecido"
+      - "habr\xEDamos desaparecido"
+      - "habr\xEDais desaparecido"
+      - "habr\xEDan desaparecido"
+      cjid: cpef
+    - cjfs:
+      - haya desaparecido
+      - hayas desaparecido
+      - haya desaparecido
+      - hayamos desaparecido
+      - "hay\xE1is desaparecido"
+      - hayan desaparecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera desaparecido
+      - hubieras desaparecido
+      - hubiera desaparecido
+      - "hubi\xE9ramos desaparecido"
+      - hubierais desaparecido
+      - hubieran desaparecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese desaparecido
+      - hubieses desaparecido
+      - hubiese desaparecido
+      - "hubi\xE9semos desaparecido"
+      - hubieseis desaparecido
+      - hubiesen desaparecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere desaparecido
+      - hubieres desaparecido
+      - hubiere desaparecido
+      - "hubi\xE9remos desaparecido"
+      - hubiereis desaparecido
+      - hubieren desaparecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desaparece
+      - desaparezca
+      - desaparezcamos
+      - desapareced
+      - desaparezcan
+      cjid: impf

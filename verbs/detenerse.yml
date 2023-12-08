@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|arrestar||} {bc}to {a_link|arrest}, to {a_link|detain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|parar||} {bc}to {a_link|stop}, to {a_link|halt}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|keep}, to {a_link|hold back}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stop}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|delay}, to {a_link|linger}'
+            sn: '2'
+    drp: detenerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: detener
+    prs:
+    - sound:
+        audio: deten01sp
+  meta:
+    id: detener
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607419000'
+    src: spanish
+    stems:
+    - detener
+    - detenerse
+    uuid: d8beacba-178a-4c12-9988-0b897f0cf38c
+  shortdef:
+  - 'arrestar : to arrest, to detain'
+  - 'parar : to stop, to halt'
+  - to keep, to hold back
+  suppl:
+    cjts:
+    - cjfs:
+      - deteniendo
+      - detenido
+      cjid: gppt
+    - cjfs:
+      - detengo
+      - detienes
+      - detiene
+      - detenemos
+      - "deten\xE9is"
+      - detienen
+      cjid: pind
+    - cjfs:
+      - "deten\xEDa"
+      - "deten\xEDas"
+      - "deten\xEDa"
+      - "deten\xEDamos"
+      - "deten\xEDais"
+      - "deten\xEDan"
+      cjid: pret
+    - cjfs:
+      - detuve
+      - detuviste
+      - detuvo
+      - detuvimos
+      - detuvisteis
+      - detuvieron
+      cjid: pprf
+    - cjfs:
+      - "detendr\xE9"
+      - "detendr\xE1s"
+      - "detendr\xE1"
+      - detendremos
+      - "detendr\xE9is"
+      - "detendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "detendr\xEDa"
+      - "detendr\xEDas"
+      - "detendr\xEDa"
+      - "detendr\xEDamos"
+      - "detendr\xEDais"
+      - "detendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - detenga
+      - detengas
+      - detenga
+      - detengamos
+      - "deteng\xE1is"
+      - detengan
+      cjid: psub
+    - cjfs:
+      - detuviera
+      - detuvieras
+      - detuviera
+      - "detuvi\xE9ramos"
+      - detuvierais
+      - detuvieran
+      cjid: pisb1
+    - cjfs:
+      - detuviese
+      - detuvieses
+      - detuviese
+      - "detuvi\xE9semos"
+      - detuvieseis
+      - detuviesen
+      cjid: pisb2
+    - cjfs:
+      - detuviere
+      - detuvieres
+      - detuviere
+      - "detuvi\xE9remos"
+      - detuviereis
+      - detuvieren
+      cjid: fsub
+    - cjfs:
+      - he detenido
+      - has detenido
+      - ha detenido
+      - hemos detenido
+      - "hab\xE9is detenido"
+      - han detenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa detenido"
+      - "hab\xEDas detenido"
+      - "hab\xEDa detenido"
+      - "hab\xEDamos detenido"
+      - "hab\xEDais detenido"
+      - "hab\xEDan detenido"
+      cjid: ppsi
+    - cjfs:
+      - hube detenido
+      - hubiste detenido
+      - hubo detenido
+      - hubimos detenido
+      - hubisteis detenido
+      - hubieron detenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 detenido"
+      - "habr\xE1s detenido"
+      - "habr\xE1 detenido"
+      - habremos detenido
+      - "habr\xE9is detenido"
+      - "habr\xE1n detenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa detenido"
+      - "habr\xEDas detenido"
+      - "habr\xEDa detenido"
+      - "habr\xEDamos detenido"
+      - "habr\xEDais detenido"
+      - "habr\xEDan detenido"
+      cjid: cpef
+    - cjfs:
+      - haya detenido
+      - hayas detenido
+      - haya detenido
+      - hayamos detenido
+      - "hay\xE1is detenido"
+      - hayan detenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera detenido
+      - hubieras detenido
+      - hubiera detenido
+      - "hubi\xE9ramos detenido"
+      - hubierais detenido
+      - hubieran detenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese detenido
+      - hubieses detenido
+      - hubiese detenido
+      - "hubi\xE9semos detenido"
+      - hubieseis detenido
+      - hubiesen detenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere detenido
+      - hubieres detenido
+      - hubiere detenido
+      - "hubi\xE9remos detenido"
+      - hubiereis detenido
+      - hubieren detenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "det\xE9n"
+      - detenga
+      - detengamos
+      - detened
+      - detengan
+      cjid: impf

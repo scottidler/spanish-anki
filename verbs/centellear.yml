@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|twinkle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gleam}, to {a_link|sparkle}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: centellear
+  meta:
+    id: centellear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604314000'
+    src: spanish
+    stems:
+    - centellear
+    uuid: eb1a99e8-9077-4a69-aeda-e5eb62877044
+  shortdef:
+  - to twinkle
+  - to gleam, to sparkle
+  suppl:
+    cjts:
+    - cjfs:
+      - centelleando
+      - centelleado
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - centellea
+      - '-'
+      - '-'
+      - centellean
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - centelleaba
+      - '-'
+      - '-'
+      - centelleaban
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "centelle\xF3"
+      - '-'
+      - '-'
+      - centellearon
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "centellear\xE1"
+      - '-'
+      - '-'
+      - "centellear\xE1n"
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "centellear\xEDa"
+      - '-'
+      - '-'
+      - "centellear\xEDan"
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - centellee
+      - '-'
+      - '-'
+      - centelleen
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - centelleara
+      - '-'
+      - '-'
+      - centellearan
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - centellease
+      - '-'
+      - '-'
+      - centelleasen
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - centelleare
+      - '-'
+      - '-'
+      - centellearen
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha centelleado
+      - '-'
+      - '-'
+      - han centelleado
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa centelleado"
+      - '-'
+      - '-'
+      - "hab\xEDan centelleado"
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo centelleado
+      - '-'
+      - '-'
+      - hubieron centelleado
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 centelleado"
+      - '-'
+      - '-'
+      - "habr\xE1n centelleado"
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa centelleado"
+      - '-'
+      - '-'
+      - "habr\xEDan centelleado"
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya centelleado
+      - '-'
+      - '-'
+      - hayan centelleado
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera centelleado
+      - '-'
+      - '-'
+      - hubieran centelleado
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese centelleado
+      - '-'
+      - '-'
+      - hubiesen centelleado
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere centelleado
+      - '-'
+      - '-'
+      - hubieren centelleado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

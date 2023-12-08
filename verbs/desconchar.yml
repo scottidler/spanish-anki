@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|chip}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to chip off, to {a_link|peel}'
+    drp: desconcharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desconchar
+  meta:
+    id: desconchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606945000'
+    src: spanish
+    stems:
+    - desconchar
+    - desconcharse
+    uuid: d08c8dd3-e6f1-4a9d-afbd-3e174234364a
+  shortdef:
+  - to chip
+  suppl:
+    cjts:
+    - cjfs:
+      - desconchando
+      - desconchado
+      cjid: gppt
+    - cjfs:
+      - desconcho
+      - desconchas
+      - desconcha
+      - desconchamos
+      - "desconch\xE1is"
+      - desconchan
+      cjid: pind
+    - cjfs:
+      - desconchaba
+      - desconchabas
+      - desconchaba
+      - "desconch\xE1bamos"
+      - desconchabais
+      - desconchaban
+      cjid: pret
+    - cjfs:
+      - "desconch\xE9"
+      - desconchaste
+      - "desconch\xF3"
+      - desconchamos
+      - desconchasteis
+      - desconcharon
+      cjid: pprf
+    - cjfs:
+      - "desconchar\xE9"
+      - "desconchar\xE1s"
+      - "desconchar\xE1"
+      - desconcharemos
+      - "desconchar\xE9is"
+      - "desconchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desconchar\xEDa"
+      - "desconchar\xEDas"
+      - "desconchar\xEDa"
+      - "desconchar\xEDamos"
+      - "desconchar\xEDais"
+      - "desconchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desconche
+      - desconches
+      - desconche
+      - desconchemos
+      - "desconch\xE9is"
+      - desconchen
+      cjid: psub
+    - cjfs:
+      - desconchara
+      - desconcharas
+      - desconchara
+      - "desconch\xE1ramos"
+      - desconcharais
+      - desconcharan
+      cjid: pisb1
+    - cjfs:
+      - desconchase
+      - desconchases
+      - desconchase
+      - "desconch\xE1semos"
+      - desconchaseis
+      - desconchasen
+      cjid: pisb2
+    - cjfs:
+      - desconchare
+      - desconchares
+      - desconchare
+      - "desconch\xE1remos"
+      - desconchareis
+      - desconcharen
+      cjid: fsub
+    - cjfs:
+      - he desconchado
+      - has desconchado
+      - ha desconchado
+      - hemos desconchado
+      - "hab\xE9is desconchado"
+      - han desconchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desconchado"
+      - "hab\xEDas desconchado"
+      - "hab\xEDa desconchado"
+      - "hab\xEDamos desconchado"
+      - "hab\xEDais desconchado"
+      - "hab\xEDan desconchado"
+      cjid: ppsi
+    - cjfs:
+      - hube desconchado
+      - hubiste desconchado
+      - hubo desconchado
+      - hubimos desconchado
+      - hubisteis desconchado
+      - hubieron desconchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desconchado"
+      - "habr\xE1s desconchado"
+      - "habr\xE1 desconchado"
+      - habremos desconchado
+      - "habr\xE9is desconchado"
+      - "habr\xE1n desconchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desconchado"
+      - "habr\xEDas desconchado"
+      - "habr\xEDa desconchado"
+      - "habr\xEDamos desconchado"
+      - "habr\xEDais desconchado"
+      - "habr\xEDan desconchado"
+      cjid: cpef
+    - cjfs:
+      - haya desconchado
+      - hayas desconchado
+      - haya desconchado
+      - hayamos desconchado
+      - "hay\xE1is desconchado"
+      - hayan desconchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desconchado
+      - hubieras desconchado
+      - hubiera desconchado
+      - "hubi\xE9ramos desconchado"
+      - hubierais desconchado
+      - hubieran desconchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desconchado
+      - hubieses desconchado
+      - hubiese desconchado
+      - "hubi\xE9semos desconchado"
+      - hubieseis desconchado
+      - hubiesen desconchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desconchado
+      - hubieres desconchado
+      - hubiere desconchado
+      - "hubi\xE9remos desconchado"
+      - hubiereis desconchado
+      - hubieren desconchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desconcha
+      - desconche
+      - desconchemos
+      - desconchad
+      - desconchen
+      cjid: impf

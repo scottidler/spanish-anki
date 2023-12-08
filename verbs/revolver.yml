@@ -1,0 +1,260 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}{a_link|rev\xF3lver} "
+          - - gl
+            - masculine
+  fl: noun
+  hwi:
+    hw: revolver
+    prs:
+    - mw: "r\u026A\u02C8v\u0251lv\u0259r"
+      sound:
+        audio: revolv03
+  meta:
+    id: revolver
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2620375000'
+    src: spanish
+    stems:
+    - revolver
+    - revolvers
+    uuid: 920bce84-8b4d-4430-9d23-0eacdf44c22c
+  shortdef:
+  - "rev\xF3lver"
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to move about, to {a_link|mix}, to {a_link|shake}, to {a_link|stir}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|upset} (one''s stomach)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mess up}, to rummage through '
+          - - vis
+            - - t: revolver la casa
+                tr: to turn the house upside down
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to toss and turn'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|volverse||} {bc}to {a_link|turn around}'
+            sn: '2'
+    drp: revolverse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: revolver
+  meta:
+    id: revolver
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619778000'
+    src: spanish
+    stems:
+    - revolver
+    - revolverse
+    uuid: 731eca2d-27f3-4b98-b473-0c01867367f7
+  shortdef:
+  - to move about, to mix, to shake, to stir
+  - to upset (one's stomach)
+  - to mess up, to rummage through
+  suppl:
+    cjts:
+    - cjfs:
+      - revolviendo
+      - revuelto
+      cjid: gppt
+    - cjfs:
+      - revuelvo
+      - revuelves
+      - revuelve
+      - revolvemos
+      - "revolv\xE9is"
+      - revuelven
+      cjid: pind
+    - cjfs:
+      - "revolv\xEDa"
+      - "revolv\xEDas"
+      - "revolv\xEDa"
+      - "revolv\xEDamos"
+      - "revolv\xEDais"
+      - "revolv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "revolv\xED"
+      - revolviste
+      - "revolvi\xF3"
+      - revolvimos
+      - revolvisteis
+      - revolvieron
+      cjid: pprf
+    - cjfs:
+      - "revolver\xE9"
+      - "revolver\xE1s"
+      - "revolver\xE1"
+      - revolveremos
+      - "revolver\xE9is"
+      - "revolver\xE1n"
+      cjid: futr
+    - cjfs:
+      - "revolver\xEDa"
+      - "revolver\xEDas"
+      - "revolver\xEDa"
+      - "revolver\xEDamos"
+      - "revolver\xEDais"
+      - "revolver\xEDan"
+      cjid: cond
+    - cjfs:
+      - revuelva
+      - revuelvas
+      - revuelva
+      - revolvamos
+      - "revolv\xE1is"
+      - revuelvan
+      cjid: psub
+    - cjfs:
+      - revolviera
+      - revolvieras
+      - revolviera
+      - "revolvi\xE9ramos"
+      - revolvierais
+      - revolvieran
+      cjid: pisb1
+    - cjfs:
+      - revolviese
+      - revolvieses
+      - revolviese
+      - "revolvi\xE9semos"
+      - revolvieseis
+      - revolviesen
+      cjid: pisb2
+    - cjfs:
+      - revolviere
+      - revolvieres
+      - revolviere
+      - "revolvi\xE9remos"
+      - revolviereis
+      - revolvieren
+      cjid: fsub
+    - cjfs:
+      - he revuelto
+      - has revuelto
+      - ha revuelto
+      - hemos revuelto
+      - "hab\xE9is revuelto"
+      - han revuelto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa revuelto"
+      - "hab\xEDas revuelto"
+      - "hab\xEDa revuelto"
+      - "hab\xEDamos revuelto"
+      - "hab\xEDais revuelto"
+      - "hab\xEDan revuelto"
+      cjid: ppsi
+    - cjfs:
+      - hube revuelto
+      - hubiste revuelto
+      - hubo revuelto
+      - hubimos revuelto
+      - hubisteis revuelto
+      - hubieron revuelto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 revuelto"
+      - "habr\xE1s revuelto"
+      - "habr\xE1 revuelto"
+      - habremos revuelto
+      - "habr\xE9is revuelto"
+      - "habr\xE1n revuelto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa revuelto"
+      - "habr\xEDas revuelto"
+      - "habr\xEDa revuelto"
+      - "habr\xEDamos revuelto"
+      - "habr\xEDais revuelto"
+      - "habr\xEDan revuelto"
+      cjid: cpef
+    - cjfs:
+      - haya revuelto
+      - hayas revuelto
+      - haya revuelto
+      - hayamos revuelto
+      - "hay\xE1is revuelto"
+      - hayan revuelto
+      cjid: ppfs
+    - cjfs:
+      - hubiera revuelto
+      - hubieras revuelto
+      - hubiera revuelto
+      - "hubi\xE9ramos revuelto"
+      - hubierais revuelto
+      - hubieran revuelto
+      cjid: ppss1
+    - cjfs:
+      - hubiese revuelto
+      - hubieses revuelto
+      - hubiese revuelto
+      - "hubi\xE9semos revuelto"
+      - hubieseis revuelto
+      - hubiesen revuelto
+      cjid: ppss2
+    - cjfs:
+      - hubiere revuelto
+      - hubieres revuelto
+      - hubiere revuelto
+      - "hubi\xE9remos revuelto"
+      - hubiereis revuelto
+      - hubieren revuelto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - revuelve
+      - revuelva
+      - revolvamos
+      - revolved
+      - revuelvan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|revolver}'
+  fl: masculine noun
+  hwi:
+    hw: "rev\xF3lver"
+  meta:
+    id: revolver'
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619779000'
+    src: spanish
+    stems:
+    - "rev\xF3lver"
+    uuid: f4e5767a-afd6-419f-a789-2926aab33651
+  shortdef:
+  - revolver

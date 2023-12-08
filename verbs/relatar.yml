@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|relate}, to {a_link|tell}'
+  fl: transitive verb
+  hwi:
+    hw: relatar
+    prs:
+    - sound:
+        audio: relat01sp
+  meta:
+    id: relatar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619290000'
+    src: spanish
+    stems:
+    - relatar
+    uuid: 05d817ce-28d0-4e05-8c23-97e736613a19
+  shortdef:
+  - to relate, to tell
+  suppl:
+    cjts:
+    - cjfs:
+      - relatando
+      - relatado
+      cjid: gppt
+    - cjfs:
+      - relato
+      - relatas
+      - relata
+      - relatamos
+      - "relat\xE1is"
+      - relatan
+      cjid: pind
+    - cjfs:
+      - relataba
+      - relatabas
+      - relataba
+      - "relat\xE1bamos"
+      - relatabais
+      - relataban
+      cjid: pret
+    - cjfs:
+      - "relat\xE9"
+      - relataste
+      - "relat\xF3"
+      - relatamos
+      - relatasteis
+      - relataron
+      cjid: pprf
+    - cjfs:
+      - "relatar\xE9"
+      - "relatar\xE1s"
+      - "relatar\xE1"
+      - relataremos
+      - "relatar\xE9is"
+      - "relatar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "relatar\xEDa"
+      - "relatar\xEDas"
+      - "relatar\xEDa"
+      - "relatar\xEDamos"
+      - "relatar\xEDais"
+      - "relatar\xEDan"
+      cjid: cond
+    - cjfs:
+      - relate
+      - relates
+      - relate
+      - relatemos
+      - "relat\xE9is"
+      - relaten
+      cjid: psub
+    - cjfs:
+      - relatara
+      - relataras
+      - relatara
+      - "relat\xE1ramos"
+      - relatarais
+      - relataran
+      cjid: pisb1
+    - cjfs:
+      - relatase
+      - relatases
+      - relatase
+      - "relat\xE1semos"
+      - relataseis
+      - relatasen
+      cjid: pisb2
+    - cjfs:
+      - relatare
+      - relatares
+      - relatare
+      - "relat\xE1remos"
+      - relatareis
+      - relataren
+      cjid: fsub
+    - cjfs:
+      - he relatado
+      - has relatado
+      - ha relatado
+      - hemos relatado
+      - "hab\xE9is relatado"
+      - han relatado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa relatado"
+      - "hab\xEDas relatado"
+      - "hab\xEDa relatado"
+      - "hab\xEDamos relatado"
+      - "hab\xEDais relatado"
+      - "hab\xEDan relatado"
+      cjid: ppsi
+    - cjfs:
+      - hube relatado
+      - hubiste relatado
+      - hubo relatado
+      - hubimos relatado
+      - hubisteis relatado
+      - hubieron relatado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 relatado"
+      - "habr\xE1s relatado"
+      - "habr\xE1 relatado"
+      - habremos relatado
+      - "habr\xE9is relatado"
+      - "habr\xE1n relatado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa relatado"
+      - "habr\xEDas relatado"
+      - "habr\xEDa relatado"
+      - "habr\xEDamos relatado"
+      - "habr\xEDais relatado"
+      - "habr\xEDan relatado"
+      cjid: cpef
+    - cjfs:
+      - haya relatado
+      - hayas relatado
+      - haya relatado
+      - hayamos relatado
+      - "hay\xE1is relatado"
+      - hayan relatado
+      cjid: ppfs
+    - cjfs:
+      - hubiera relatado
+      - hubieras relatado
+      - hubiera relatado
+      - "hubi\xE9ramos relatado"
+      - hubierais relatado
+      - hubieran relatado
+      cjid: ppss1
+    - cjfs:
+      - hubiese relatado
+      - hubieses relatado
+      - hubiese relatado
+      - "hubi\xE9semos relatado"
+      - hubieseis relatado
+      - hubiesen relatado
+      cjid: ppss2
+    - cjfs:
+      - hubiere relatado
+      - hubieres relatado
+      - hubiere relatado
+      - "hubi\xE9remos relatado"
+      - hubiereis relatado
+      - hubieren relatado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - relata
+      - relate
+      - relatemos
+      - relatad
+      - relaten
+      cjid: impf

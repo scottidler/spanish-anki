@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hang}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be pending'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: pender
+    prs:
+    - sound:
+        audio: pende02sp
+  meta:
+    id: pender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617006000'
+    src: spanish
+    stems:
+    - pender
+    uuid: 0572be0f-d840-4e03-b5c1-c7a136181ce5
+  shortdef:
+  - to hang
+  - to be pending
+  suppl:
+    cjts:
+    - cjfs:
+      - pendiendo
+      - pendido
+      cjid: gppt
+    - cjfs:
+      - pendo
+      - pendes
+      - pende
+      - pendemos
+      - "pend\xE9is"
+      - penden
+      cjid: pind
+    - cjfs:
+      - "pend\xEDa"
+      - "pend\xEDas"
+      - "pend\xEDa"
+      - "pend\xEDamos"
+      - "pend\xEDais"
+      - "pend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "pend\xED"
+      - pendiste
+      - "pendi\xF3"
+      - pendimos
+      - pendisteis
+      - pendieron
+      cjid: pprf
+    - cjfs:
+      - "pender\xE9"
+      - "pender\xE1s"
+      - "pender\xE1"
+      - penderemos
+      - "pender\xE9is"
+      - "pender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pender\xEDa"
+      - "pender\xEDas"
+      - "pender\xEDa"
+      - "pender\xEDamos"
+      - "pender\xEDais"
+      - "pender\xEDan"
+      cjid: cond
+    - cjfs:
+      - penda
+      - pendas
+      - penda
+      - pendamos
+      - "pend\xE1is"
+      - pendan
+      cjid: psub
+    - cjfs:
+      - pendiera
+      - pendieras
+      - pendiera
+      - "pendi\xE9ramos"
+      - pendierais
+      - pendieran
+      cjid: pisb1
+    - cjfs:
+      - pendiese
+      - pendieses
+      - pendiese
+      - "pendi\xE9semos"
+      - pendieseis
+      - pendiesen
+      cjid: pisb2
+    - cjfs:
+      - pendiere
+      - pendieres
+      - pendiere
+      - "pendi\xE9remos"
+      - pendiereis
+      - pendieren
+      cjid: fsub
+    - cjfs:
+      - he pendido
+      - has pendido
+      - ha pendido
+      - hemos pendido
+      - "hab\xE9is pendido"
+      - han pendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pendido"
+      - "hab\xEDas pendido"
+      - "hab\xEDa pendido"
+      - "hab\xEDamos pendido"
+      - "hab\xEDais pendido"
+      - "hab\xEDan pendido"
+      cjid: ppsi
+    - cjfs:
+      - hube pendido
+      - hubiste pendido
+      - hubo pendido
+      - hubimos pendido
+      - hubisteis pendido
+      - hubieron pendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pendido"
+      - "habr\xE1s pendido"
+      - "habr\xE1 pendido"
+      - habremos pendido
+      - "habr\xE9is pendido"
+      - "habr\xE1n pendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pendido"
+      - "habr\xEDas pendido"
+      - "habr\xEDa pendido"
+      - "habr\xEDamos pendido"
+      - "habr\xEDais pendido"
+      - "habr\xEDan pendido"
+      cjid: cpef
+    - cjfs:
+      - haya pendido
+      - hayas pendido
+      - haya pendido
+      - hayamos pendido
+      - "hay\xE1is pendido"
+      - hayan pendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera pendido
+      - hubieras pendido
+      - hubiera pendido
+      - "hubi\xE9ramos pendido"
+      - hubierais pendido
+      - hubieran pendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese pendido
+      - hubieses pendido
+      - hubiese pendido
+      - "hubi\xE9semos pendido"
+      - hubieseis pendido
+      - hubiesen pendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere pendido
+      - hubieres pendido
+      - hubiere pendido
+      - "hubi\xE9remos pendido"
+      - hubiereis pendido
+      - hubieren pendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pende
+      - penda
+      - pendamos
+      - pended
+      - pendan
+      cjid: impf

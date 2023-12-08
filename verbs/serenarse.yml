@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|calm}, to {a_link|soothe}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|calmarse||} {bc}to {a_link|calm down}'
+    drp: serenarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: serenar
+    prs:
+    - sound:
+        audio: seren01sp
+  meta:
+    id: serenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620494000'
+    src: spanish
+    stems:
+    - serenar
+    - serenarse
+    uuid: 15c83e32-823f-45f0-bd25-f3f0906bc07a
+  shortdef:
+  - to calm, to soothe
+  suppl:
+    cjts:
+    - cjfs:
+      - serenando
+      - serenado
+      cjid: gppt
+    - cjfs:
+      - sereno
+      - serenas
+      - serena
+      - serenamos
+      - "seren\xE1is"
+      - serenan
+      cjid: pind
+    - cjfs:
+      - serenaba
+      - serenabas
+      - serenaba
+      - "seren\xE1bamos"
+      - serenabais
+      - serenaban
+      cjid: pret
+    - cjfs:
+      - "seren\xE9"
+      - serenaste
+      - "seren\xF3"
+      - serenamos
+      - serenasteis
+      - serenaron
+      cjid: pprf
+    - cjfs:
+      - "serenar\xE9"
+      - "serenar\xE1s"
+      - "serenar\xE1"
+      - serenaremos
+      - "serenar\xE9is"
+      - "serenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "serenar\xEDa"
+      - "serenar\xEDas"
+      - "serenar\xEDa"
+      - "serenar\xEDamos"
+      - "serenar\xEDais"
+      - "serenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - serene
+      - serenes
+      - serene
+      - serenemos
+      - "seren\xE9is"
+      - serenen
+      cjid: psub
+    - cjfs:
+      - serenara
+      - serenaras
+      - serenara
+      - "seren\xE1ramos"
+      - serenarais
+      - serenaran
+      cjid: pisb1
+    - cjfs:
+      - serenase
+      - serenases
+      - serenase
+      - "seren\xE1semos"
+      - serenaseis
+      - serenasen
+      cjid: pisb2
+    - cjfs:
+      - serenare
+      - serenares
+      - serenare
+      - "seren\xE1remos"
+      - serenareis
+      - serenaren
+      cjid: fsub
+    - cjfs:
+      - he serenado
+      - has serenado
+      - ha serenado
+      - hemos serenado
+      - "hab\xE9is serenado"
+      - han serenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa serenado"
+      - "hab\xEDas serenado"
+      - "hab\xEDa serenado"
+      - "hab\xEDamos serenado"
+      - "hab\xEDais serenado"
+      - "hab\xEDan serenado"
+      cjid: ppsi
+    - cjfs:
+      - hube serenado
+      - hubiste serenado
+      - hubo serenado
+      - hubimos serenado
+      - hubisteis serenado
+      - hubieron serenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 serenado"
+      - "habr\xE1s serenado"
+      - "habr\xE1 serenado"
+      - habremos serenado
+      - "habr\xE9is serenado"
+      - "habr\xE1n serenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa serenado"
+      - "habr\xEDas serenado"
+      - "habr\xEDa serenado"
+      - "habr\xEDamos serenado"
+      - "habr\xEDais serenado"
+      - "habr\xEDan serenado"
+      cjid: cpef
+    - cjfs:
+      - haya serenado
+      - hayas serenado
+      - haya serenado
+      - hayamos serenado
+      - "hay\xE1is serenado"
+      - hayan serenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera serenado
+      - hubieras serenado
+      - hubiera serenado
+      - "hubi\xE9ramos serenado"
+      - hubierais serenado
+      - hubieran serenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese serenado
+      - hubieses serenado
+      - hubiese serenado
+      - "hubi\xE9semos serenado"
+      - hubieseis serenado
+      - hubiesen serenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere serenado
+      - hubieres serenado
+      - hubiere serenado
+      - "hubi\xE9remos serenado"
+      - hubiereis serenado
+      - hubieren serenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - serena
+      - serene
+      - serenemos
+      - serenad
+      - serenen
+      cjid: impf

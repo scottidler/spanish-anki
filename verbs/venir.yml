@@ -1,0 +1,394 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come} '
+          - - vis
+            - - t: lo vi venir
+                tr: I saw him coming
+              - t: vino a verte
+                tr: she came to see you
+              - t: vino a/de la oficina
+                tr: he came to/from the office
+              - t: "\xA1no me vengas con cuentos!"
+                tr: I don't want to hear your excuses!
+              - t: "\xA1venga!"
+                tr: come on!
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arrive} '
+          - - vis
+            - - t: vinieron en coche
+                tr: they came by car
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come}, to {a_link|originate} '
+          - - vis
+            - - t: sus zapatos vienen de Italia
+                tr: her shoes are from Italy
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come}, to be available '
+          - - vis
+            - - t: "viene envuelto en pl\xE1stico"
+                tr: it comes wrapped in plastic
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come back}, to {a_link|return} '
+          - - vis
+            - - t: no vengas tarde
+                tr: don't come back late
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|affect}, to {a_link|overcome} '
+          - - vis
+            - - t: "me vino un vah\xEDdo"
+                tr: a dizzy spell came over me
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit} '
+          - - vis
+            - - t: te viene un poco grande
+                tr: it's a little big for you
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have been '
+          - - vis
+            - - t: viene entrenando diariamente
+                tr: he's been training daily
+          sls:
+          - (with the present participle)
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to end up, to {a_link|turn out} '
+          - - vis
+            - - t: viene a ser lo mismo
+                tr: it comes out the same
+          sls:
+          - (with the infinitive)
+          sn: '9'
+          vrs:
+          - va: venir a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|coming}, {a_link|next} '
+          - - vis
+            - - t: "el a\xF1o que viene"
+                tr: next year
+          sn: '10'
+          vrs:
+          - va: que viene
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be suitable, to be just right'
+          sn: '11'
+          vrs:
+          - va: venir bien
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|come}, to {a_link|arrive} '
+            - - vis
+              - - t: "\xBFte vienes conmigo?"
+                  tr: are you coming with me?
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|come back}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fall apart}, to {a_link|collapse}'
+            sn: '3'
+            vrs:
+            - va: venirse abajo
+    drp: venirse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: venir
+    prs:
+    - sound:
+        audio: venir01sp
+  meta:
+    id: venir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622834000'
+    src: spanish
+    stems:
+    - venir
+    - venir a
+    - que viene
+    - venir bien
+    - venirse
+    - venirse abajo
+    uuid: db3a9917-5aa2-46b1-99ea-bc07a5b9e075
+  shortdef:
+  - to come
+  - to arrive
+  - to come, to originate
+  suppl:
+    cjts:
+    - cjfs:
+      - viniendo
+      - venido
+      cjid: gppt
+    - cjfs:
+      - vengo
+      - vienes
+      - viene
+      - venimos
+      - "ven\xEDs"
+      - vienen
+      cjid: pind
+    - cjfs:
+      - "ven\xEDa"
+      - "ven\xEDas"
+      - "ven\xEDa"
+      - "ven\xEDamos"
+      - "ven\xEDais"
+      - "ven\xEDan"
+      cjid: pret
+    - cjfs:
+      - vine
+      - viniste
+      - vino
+      - vinimos
+      - vinisteis
+      - vinieron
+      cjid: pprf
+    - cjfs:
+      - "vendr\xE9"
+      - "vendr\xE1s"
+      - "vendr\xE1"
+      - vendremos
+      - "vendr\xE9is"
+      - "vendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vendr\xEDa"
+      - "vendr\xEDas"
+      - "vendr\xEDa"
+      - "vendr\xEDamos"
+      - "vendr\xEDais"
+      - "vendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - venga
+      - vengas
+      - venga
+      - vengamos
+      - "veng\xE1is"
+      - vengan
+      cjid: psub
+    - cjfs:
+      - viniera
+      - vinieras
+      - viniera
+      - "vini\xE9ramos"
+      - vinierais
+      - vinieran
+      cjid: pisb1
+    - cjfs:
+      - viniese
+      - vinieses
+      - viniese
+      - "vini\xE9semos"
+      - vinieseis
+      - viniesen
+      cjid: pisb2
+    - cjfs:
+      - viniere
+      - vinieres
+      - viniere
+      - "vini\xE9remos"
+      - viniereis
+      - vinieren
+      cjid: fsub
+    - cjfs:
+      - he venido
+      - has venido
+      - ha venido
+      - hemos venido
+      - "hab\xE9is venido"
+      - han venido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa venido"
+      - "hab\xEDas venido"
+      - "hab\xEDa venido"
+      - "hab\xEDamos venido"
+      - "hab\xEDais venido"
+      - "hab\xEDan venido"
+      cjid: ppsi
+    - cjfs:
+      - hube venido
+      - hubiste venido
+      - hubo venido
+      - hubimos venido
+      - hubisteis venido
+      - hubieron venido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 venido"
+      - "habr\xE1s venido"
+      - "habr\xE1 venido"
+      - habremos venido
+      - "habr\xE9is venido"
+      - "habr\xE1n venido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa venido"
+      - "habr\xEDas venido"
+      - "habr\xEDa venido"
+      - "habr\xEDamos venido"
+      - "habr\xEDais venido"
+      - "habr\xEDan venido"
+      cjid: cpef
+    - cjfs:
+      - haya venido
+      - hayas venido
+      - haya venido
+      - hayamos venido
+      - "hay\xE1is venido"
+      - hayan venido
+      cjid: ppfs
+    - cjfs:
+      - hubiera venido
+      - hubieras venido
+      - hubiera venido
+      - "hubi\xE9ramos venido"
+      - hubierais venido
+      - hubieran venido
+      cjid: ppss1
+    - cjfs:
+      - hubiese venido
+      - hubieses venido
+      - hubiese venido
+      - "hubi\xE9semos venido"
+      - hubieseis venido
+      - hubiesen venido
+      cjid: ppss2
+    - cjfs:
+      - hubiere venido
+      - hubieres venido
+      - hubiere venido
+      - "hubi\xE9remos venido"
+      - hubiereis venido
+      - hubieren venido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ven
+      - venga
+      - vengamos
+      - venid
+      - vengan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|case} '
+          - - vis
+            - - t: en caso de
+                tr: in case of
+              - t: en este/ese caso
+                tr: in this/that case
+              - t: en todo/cualquier caso
+                tr: in any case
+              - t: en el mejor/peor de los casos
+                tr: at best/worst
+              - t: "el caso es que \u2026"
+                tr: "the fact/thing is (that) \u2026"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|case} (in law or medicine)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay attention} '
+          - - vis
+            - - t: hacer caso de algo
+                tr: to pay attention to something, to notice something
+              - t: hacerle caso a alguien
+                tr: to pay attention to someone, to listen to someone
+          sn: '3'
+          vrs:
+          - va: hacer caso
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ignore}, to take no notice of'
+          sn: '4'
+          vrs:
+          - va: hacer caso omiso de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}it''s useless, there''s no point'
+          sn: '5'
+          vrs:
+          - va: no hay caso
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be beside the point'
+          sn: '6'
+          vrs:
+          - va: no venir al caso
+  fl: masculine noun
+  hwi:
+    hw: caso
+    prs:
+    - sound:
+        audio: caso001sp
+  meta:
+    id: caso
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604127000'
+    src: spanish
+    stems:
+    - caso
+    - hacer caso
+    - hacer caso omiso de
+    - no hay caso
+    - no venir al caso
+    uuid: c9d760c8-2cfb-4397-aa6c-7890a8d9818c
+  shortdef:
+  - case
+  - case (in law or medicine)
+  - to pay attention

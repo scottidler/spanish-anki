@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acelerar||} {bc}to {a_link|expedite}, to {a_link|speed up}'
+  fl: transitive verb
+  hwi:
+    hw: agilizar
+    prs:
+    - sound:
+        audio: agili02sp
+  meta:
+    id: agilizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600685000'
+    src: spanish
+    stems:
+    - agilizar
+    uuid: d9b62503-3b11-4f1c-93ac-d6e8cc6ceb35
+  shortdef:
+  - 'acelerar : to expedite, to speed up'
+  suppl:
+    cjts:
+    - cjfs:
+      - agilizando
+      - agilizado
+      cjid: gppt
+    - cjfs:
+      - agilizo
+      - agilizas
+      - agiliza
+      - agilizamos
+      - "agiliz\xE1is"
+      - agilizan
+      cjid: pind
+    - cjfs:
+      - agilizaba
+      - agilizabas
+      - agilizaba
+      - "agiliz\xE1bamos"
+      - agilizabais
+      - agilizaban
+      cjid: pret
+    - cjfs:
+      - "agilic\xE9"
+      - agilizaste
+      - "agiliz\xF3"
+      - agilizamos
+      - agilizasteis
+      - agilizaron
+      cjid: pprf
+    - cjfs:
+      - "agilizar\xE9"
+      - "agilizar\xE1s"
+      - "agilizar\xE1"
+      - agilizaremos
+      - "agilizar\xE9is"
+      - "agilizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agilizar\xEDa"
+      - "agilizar\xEDas"
+      - "agilizar\xEDa"
+      - "agilizar\xEDamos"
+      - "agilizar\xEDais"
+      - "agilizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agilice
+      - agilices
+      - agilice
+      - agilicemos
+      - "agilic\xE9is"
+      - agilicen
+      cjid: psub
+    - cjfs:
+      - agilizara
+      - agilizaras
+      - agilizara
+      - "agiliz\xE1ramos"
+      - agilizarais
+      - agilizaran
+      cjid: pisb1
+    - cjfs:
+      - agilizase
+      - agilizases
+      - agilizase
+      - "agiliz\xE1semos"
+      - agilizaseis
+      - agilizasen
+      cjid: pisb2
+    - cjfs:
+      - agilizare
+      - agilizares
+      - agilizare
+      - "agiliz\xE1remos"
+      - agilizareis
+      - agilizaren
+      cjid: fsub
+    - cjfs:
+      - he agilizado
+      - has agilizado
+      - ha agilizado
+      - hemos agilizado
+      - "hab\xE9is agilizado"
+      - han agilizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agilizado"
+      - "hab\xEDas agilizado"
+      - "hab\xEDa agilizado"
+      - "hab\xEDamos agilizado"
+      - "hab\xEDais agilizado"
+      - "hab\xEDan agilizado"
+      cjid: ppsi
+    - cjfs:
+      - hube agilizado
+      - hubiste agilizado
+      - hubo agilizado
+      - hubimos agilizado
+      - hubisteis agilizado
+      - hubieron agilizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agilizado"
+      - "habr\xE1s agilizado"
+      - "habr\xE1 agilizado"
+      - habremos agilizado
+      - "habr\xE9is agilizado"
+      - "habr\xE1n agilizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agilizado"
+      - "habr\xEDas agilizado"
+      - "habr\xEDa agilizado"
+      - "habr\xEDamos agilizado"
+      - "habr\xEDais agilizado"
+      - "habr\xEDan agilizado"
+      cjid: cpef
+    - cjfs:
+      - haya agilizado
+      - hayas agilizado
+      - haya agilizado
+      - hayamos agilizado
+      - "hay\xE1is agilizado"
+      - hayan agilizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agilizado
+      - hubieras agilizado
+      - hubiera agilizado
+      - "hubi\xE9ramos agilizado"
+      - hubierais agilizado
+      - hubieran agilizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agilizado
+      - hubieses agilizado
+      - hubiese agilizado
+      - "hubi\xE9semos agilizado"
+      - hubieseis agilizado
+      - hubiesen agilizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agilizado
+      - hubieres agilizado
+      - hubiere agilizado
+      - "hubi\xE9remos agilizado"
+      - hubiereis agilizado
+      - hubieren agilizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agiliza
+      - agilice
+      - agilicemos
+      - agilizad
+      - agilicen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|inferir||} {bc}to {a_link|deduce}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|descontar||} {bc}to {a_link|deduct}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: deducir
+    prs:
+    - sound:
+        audio: deduc02sp
+  meta:
+    id: deducir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606549000'
+    src: spanish
+    stems:
+    - deducir
+    uuid: 9f65351f-e435-429b-be62-f11bd998d93e
+  shortdef:
+  - 'inferir : to deduce'
+  - 'descontar : to deduct'
+  suppl:
+    cjts:
+    - cjfs:
+      - deduciendo
+      - deducido
+      cjid: gppt
+    - cjfs:
+      - deduzco
+      - deduces
+      - deduce
+      - deducimos
+      - "deduc\xEDs"
+      - deducen
+      cjid: pind
+    - cjfs:
+      - "deduc\xEDa"
+      - "deduc\xEDas"
+      - "deduc\xEDa"
+      - "deduc\xEDamos"
+      - "deduc\xEDais"
+      - "deduc\xEDan"
+      cjid: pret
+    - cjfs:
+      - deduje
+      - dedujiste
+      - dedujo
+      - dedujimos
+      - dedujisteis
+      - dedujeron
+      cjid: pprf
+    - cjfs:
+      - "deducir\xE9"
+      - "deducir\xE1s"
+      - "deducir\xE1"
+      - deduciremos
+      - "deducir\xE9is"
+      - "deducir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deducir\xEDa"
+      - "deducir\xEDas"
+      - "deducir\xEDa"
+      - "deducir\xEDamos"
+      - "deducir\xEDais"
+      - "deducir\xEDan"
+      cjid: cond
+    - cjfs:
+      - deduzca
+      - deduzcas
+      - deduzca
+      - deduzcamos
+      - "deduzc\xE1is"
+      - deduzcan
+      cjid: psub
+    - cjfs:
+      - dedujera
+      - dedujeras
+      - dedujera
+      - "deduj\xE9ramos"
+      - dedujerais
+      - dedujeran
+      cjid: pisb1
+    - cjfs:
+      - dedujese
+      - dedujeses
+      - dedujese
+      - "deduj\xE9semos"
+      - dedujeseis
+      - dedujesen
+      cjid: pisb2
+    - cjfs:
+      - dedujere
+      - dedujeres
+      - dedujere
+      - "deduj\xE9remos"
+      - dedujereis
+      - dedujeren
+      cjid: fsub
+    - cjfs:
+      - he deducido
+      - has deducido
+      - ha deducido
+      - hemos deducido
+      - "hab\xE9is deducido"
+      - han deducido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deducido"
+      - "hab\xEDas deducido"
+      - "hab\xEDa deducido"
+      - "hab\xEDamos deducido"
+      - "hab\xEDais deducido"
+      - "hab\xEDan deducido"
+      cjid: ppsi
+    - cjfs:
+      - hube deducido
+      - hubiste deducido
+      - hubo deducido
+      - hubimos deducido
+      - hubisteis deducido
+      - hubieron deducido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deducido"
+      - "habr\xE1s deducido"
+      - "habr\xE1 deducido"
+      - habremos deducido
+      - "habr\xE9is deducido"
+      - "habr\xE1n deducido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deducido"
+      - "habr\xEDas deducido"
+      - "habr\xEDa deducido"
+      - "habr\xEDamos deducido"
+      - "habr\xEDais deducido"
+      - "habr\xEDan deducido"
+      cjid: cpef
+    - cjfs:
+      - haya deducido
+      - hayas deducido
+      - haya deducido
+      - hayamos deducido
+      - "hay\xE1is deducido"
+      - hayan deducido
+      cjid: ppfs
+    - cjfs:
+      - hubiera deducido
+      - hubieras deducido
+      - hubiera deducido
+      - "hubi\xE9ramos deducido"
+      - hubierais deducido
+      - hubieran deducido
+      cjid: ppss1
+    - cjfs:
+      - hubiese deducido
+      - hubieses deducido
+      - hubiese deducido
+      - "hubi\xE9semos deducido"
+      - hubieseis deducido
+      - hubiesen deducido
+      cjid: ppss2
+    - cjfs:
+      - hubiere deducido
+      - hubieres deducido
+      - hubiere deducido
+      - "hubi\xE9remos deducido"
+      - hubiereis deducido
+      - hubieren deducido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - deduce
+      - deduzca
+      - deduzcamos
+      - deducid
+      - deduzcan
+      cjid: impf

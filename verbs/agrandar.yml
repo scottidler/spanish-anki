@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exaggerate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enlarge}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: agrandar
+  meta:
+    id: agrandar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600717000'
+    src: spanish
+    stems:
+    - agrandar
+    - agrandarse
+    uuid: 504dadad-c094-4bdb-a3ff-52ede6fd0c12
+  shortdef:
+  - to exaggerate
+  - to enlarge
+  suppl:
+    cjts:
+    - cjfs:
+      - agrandando
+      - agrandado
+      cjid: gppt
+    - cjfs:
+      - agrando
+      - agrandas
+      - agranda
+      - agrandamos
+      - "agrand\xE1is"
+      - agrandan
+      cjid: pind
+    - cjfs:
+      - agrandaba
+      - agrandabas
+      - agrandaba
+      - "agrand\xE1bamos"
+      - agrandabais
+      - agrandaban
+      cjid: pret
+    - cjfs:
+      - "agrand\xE9"
+      - agrandaste
+      - "agrand\xF3"
+      - agrandamos
+      - agrandasteis
+      - agrandaron
+      cjid: pprf
+    - cjfs:
+      - "agrandar\xE9"
+      - "agrandar\xE1s"
+      - "agrandar\xE1"
+      - agrandaremos
+      - "agrandar\xE9is"
+      - "agrandar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agrandar\xEDa"
+      - "agrandar\xEDas"
+      - "agrandar\xEDa"
+      - "agrandar\xEDamos"
+      - "agrandar\xEDais"
+      - "agrandar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agrande
+      - agrandes
+      - agrande
+      - agrandemos
+      - "agrand\xE9is"
+      - agranden
+      cjid: psub
+    - cjfs:
+      - agrandara
+      - agrandaras
+      - agrandara
+      - "agrand\xE1ramos"
+      - agrandarais
+      - agrandaran
+      cjid: pisb1
+    - cjfs:
+      - agrandase
+      - agrandases
+      - agrandase
+      - "agrand\xE1semos"
+      - agrandaseis
+      - agrandasen
+      cjid: pisb2
+    - cjfs:
+      - agrandare
+      - agrandares
+      - agrandare
+      - "agrand\xE1remos"
+      - agrandareis
+      - agrandaren
+      cjid: fsub
+    - cjfs:
+      - he agrandado
+      - has agrandado
+      - ha agrandado
+      - hemos agrandado
+      - "hab\xE9is agrandado"
+      - han agrandado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agrandado"
+      - "hab\xEDas agrandado"
+      - "hab\xEDa agrandado"
+      - "hab\xEDamos agrandado"
+      - "hab\xEDais agrandado"
+      - "hab\xEDan agrandado"
+      cjid: ppsi
+    - cjfs:
+      - hube agrandado
+      - hubiste agrandado
+      - hubo agrandado
+      - hubimos agrandado
+      - hubisteis agrandado
+      - hubieron agrandado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agrandado"
+      - "habr\xE1s agrandado"
+      - "habr\xE1 agrandado"
+      - habremos agrandado
+      - "habr\xE9is agrandado"
+      - "habr\xE1n agrandado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agrandado"
+      - "habr\xEDas agrandado"
+      - "habr\xEDa agrandado"
+      - "habr\xEDamos agrandado"
+      - "habr\xEDais agrandado"
+      - "habr\xEDan agrandado"
+      cjid: cpef
+    - cjfs:
+      - haya agrandado
+      - hayas agrandado
+      - haya agrandado
+      - hayamos agrandado
+      - "hay\xE1is agrandado"
+      - hayan agrandado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agrandado
+      - hubieras agrandado
+      - hubiera agrandado
+      - "hubi\xE9ramos agrandado"
+      - hubierais agrandado
+      - hubieran agrandado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agrandado
+      - hubieses agrandado
+      - hubiese agrandado
+      - "hubi\xE9semos agrandado"
+      - hubieseis agrandado
+      - hubiesen agrandado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agrandado
+      - hubieres agrandado
+      - hubiere agrandado
+      - "hubi\xE9remos agrandado"
+      - hubiereis agrandado
+      - hubieren agrandado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agranda
+      - agrande
+      - agrandemos
+      - agrandad
+      - agranden
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: agrandarse

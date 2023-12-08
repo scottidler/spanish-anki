@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aproximar||}, {sx|arrimar||} {bc}to bring near, to bring closer'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|aproximarse||}, {sx|arrimarse||} {bc}to {a_link|approach}, to
+                {a_link|draw near}'
+    drp: acercarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: acercar
+    prs:
+    - sound:
+        audio: acerc03sp
+  meta:
+    id: acercar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600253000'
+    src: spanish
+    stems:
+    - acercar
+    - acercarse
+    uuid: 98535db8-766b-4c67-b8d1-991df6695f45
+  shortdef:
+  - 'aproximar, arrimar : to bring near, to bring closer'
+  suppl:
+    cjts:
+    - cjfs:
+      - acercando
+      - acercado
+      cjid: gppt
+    - cjfs:
+      - acerco
+      - acercas
+      - acerca
+      - acercamos
+      - "acerc\xE1is"
+      - acercan
+      cjid: pind
+    - cjfs:
+      - acercaba
+      - acercabas
+      - acercaba
+      - "acerc\xE1bamos"
+      - acercabais
+      - acercaban
+      cjid: pret
+    - cjfs:
+      - "acerqu\xE9"
+      - acercaste
+      - "acerc\xF3"
+      - acercamos
+      - acercasteis
+      - acercaron
+      cjid: pprf
+    - cjfs:
+      - "acercar\xE9"
+      - "acercar\xE1s"
+      - "acercar\xE1"
+      - acercaremos
+      - "acercar\xE9is"
+      - "acercar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acercar\xEDa"
+      - "acercar\xEDas"
+      - "acercar\xEDa"
+      - "acercar\xEDamos"
+      - "acercar\xEDais"
+      - "acercar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acerque
+      - acerques
+      - acerque
+      - acerquemos
+      - "acerqu\xE9is"
+      - acerquen
+      cjid: psub
+    - cjfs:
+      - acercara
+      - acercaras
+      - acercara
+      - "acerc\xE1ramos"
+      - acercarais
+      - acercaran
+      cjid: pisb1
+    - cjfs:
+      - acercase
+      - acercases
+      - acercase
+      - "acerc\xE1semos"
+      - acercaseis
+      - acercasen
+      cjid: pisb2
+    - cjfs:
+      - acercare
+      - acercares
+      - acercare
+      - "acerc\xE1remos"
+      - acercareis
+      - acercaren
+      cjid: fsub
+    - cjfs:
+      - he acercado
+      - has acercado
+      - ha acercado
+      - hemos acercado
+      - "hab\xE9is acercado"
+      - han acercado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acercado"
+      - "hab\xEDas acercado"
+      - "hab\xEDa acercado"
+      - "hab\xEDamos acercado"
+      - "hab\xEDais acercado"
+      - "hab\xEDan acercado"
+      cjid: ppsi
+    - cjfs:
+      - hube acercado
+      - hubiste acercado
+      - hubo acercado
+      - hubimos acercado
+      - hubisteis acercado
+      - hubieron acercado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acercado"
+      - "habr\xE1s acercado"
+      - "habr\xE1 acercado"
+      - habremos acercado
+      - "habr\xE9is acercado"
+      - "habr\xE1n acercado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acercado"
+      - "habr\xEDas acercado"
+      - "habr\xEDa acercado"
+      - "habr\xEDamos acercado"
+      - "habr\xEDais acercado"
+      - "habr\xEDan acercado"
+      cjid: cpef
+    - cjfs:
+      - haya acercado
+      - hayas acercado
+      - haya acercado
+      - hayamos acercado
+      - "hay\xE1is acercado"
+      - hayan acercado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acercado
+      - hubieras acercado
+      - hubiera acercado
+      - "hubi\xE9ramos acercado"
+      - hubierais acercado
+      - hubieran acercado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acercado
+      - hubieses acercado
+      - hubiese acercado
+      - "hubi\xE9semos acercado"
+      - hubieseis acercado
+      - hubiesen acercado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acercado
+      - hubieres acercado
+      - hubiere acercado
+      - "hubi\xE9remos acercado"
+      - hubiereis acercado
+      - hubieren acercado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acerca
+      - acerque
+      - acerquemos
+      - acercad
+      - acerquen
+      cjid: impf

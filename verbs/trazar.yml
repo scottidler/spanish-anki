@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trace}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw up}, to {a_link|devise}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|outline}, to {a_link|sketch}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: trazar
+    prs:
+    - sound:
+        audio: traza03sp
+  meta:
+    id: trazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622261000'
+    src: spanish
+    stems:
+    - trazar
+    uuid: 81403f58-a6b8-4a7d-9b58-f75ea110a939
+  shortdef:
+  - to trace
+  - to draw up, to devise
+  - to outline, to sketch
+  suppl:
+    cjts:
+    - cjfs:
+      - trazando
+      - trazado
+      cjid: gppt
+    - cjfs:
+      - trazo
+      - trazas
+      - traza
+      - trazamos
+      - "traz\xE1is"
+      - trazan
+      cjid: pind
+    - cjfs:
+      - trazaba
+      - trazabas
+      - trazaba
+      - "traz\xE1bamos"
+      - trazabais
+      - trazaban
+      cjid: pret
+    - cjfs:
+      - "trac\xE9"
+      - trazaste
+      - "traz\xF3"
+      - trazamos
+      - trazasteis
+      - trazaron
+      cjid: pprf
+    - cjfs:
+      - "trazar\xE9"
+      - "trazar\xE1s"
+      - "trazar\xE1"
+      - trazaremos
+      - "trazar\xE9is"
+      - "trazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "trazar\xEDa"
+      - "trazar\xEDas"
+      - "trazar\xEDa"
+      - "trazar\xEDamos"
+      - "trazar\xEDais"
+      - "trazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trace
+      - traces
+      - trace
+      - tracemos
+      - "trac\xE9is"
+      - tracen
+      cjid: psub
+    - cjfs:
+      - trazara
+      - trazaras
+      - trazara
+      - "traz\xE1ramos"
+      - trazarais
+      - trazaran
+      cjid: pisb1
+    - cjfs:
+      - trazase
+      - trazases
+      - trazase
+      - "traz\xE1semos"
+      - trazaseis
+      - trazasen
+      cjid: pisb2
+    - cjfs:
+      - trazare
+      - trazares
+      - trazare
+      - "traz\xE1remos"
+      - trazareis
+      - trazaren
+      cjid: fsub
+    - cjfs:
+      - he trazado
+      - has trazado
+      - ha trazado
+      - hemos trazado
+      - "hab\xE9is trazado"
+      - han trazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa trazado"
+      - "hab\xEDas trazado"
+      - "hab\xEDa trazado"
+      - "hab\xEDamos trazado"
+      - "hab\xEDais trazado"
+      - "hab\xEDan trazado"
+      cjid: ppsi
+    - cjfs:
+      - hube trazado
+      - hubiste trazado
+      - hubo trazado
+      - hubimos trazado
+      - hubisteis trazado
+      - hubieron trazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 trazado"
+      - "habr\xE1s trazado"
+      - "habr\xE1 trazado"
+      - habremos trazado
+      - "habr\xE9is trazado"
+      - "habr\xE1n trazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa trazado"
+      - "habr\xEDas trazado"
+      - "habr\xEDa trazado"
+      - "habr\xEDamos trazado"
+      - "habr\xEDais trazado"
+      - "habr\xEDan trazado"
+      cjid: cpef
+    - cjfs:
+      - haya trazado
+      - hayas trazado
+      - haya trazado
+      - hayamos trazado
+      - "hay\xE1is trazado"
+      - hayan trazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera trazado
+      - hubieras trazado
+      - hubiera trazado
+      - "hubi\xE9ramos trazado"
+      - hubierais trazado
+      - hubieran trazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese trazado
+      - hubieses trazado
+      - hubiese trazado
+      - "hubi\xE9semos trazado"
+      - hubieseis trazado
+      - hubiesen trazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere trazado
+      - hubieres trazado
+      - hubiere trazado
+      - "hubi\xE9remos trazado"
+      - hubiereis trazado
+      - hubieren trazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - traza
+      - trace
+      - tracemos
+      - trazad
+      - tracen
+      cjid: impf

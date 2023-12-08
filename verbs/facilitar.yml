@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make easier, to {a_link|facilitate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|provide}, to {a_link|supply}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: facilitar
+    prs:
+    - sound:
+        audio: facil03sp
+  meta:
+    id: facilitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609835000'
+    src: spanish
+    stems:
+    - facilitar
+    - facilitador
+    - facilitadora
+    uuid: 569234d5-3f94-4f8b-b3ef-4f793c9aceaf
+  shortdef:
+  - to make easier, to facilitate
+  - to provide, to supply
+  suppl:
+    cjts:
+    - cjfs:
+      - facilitando
+      - facilitado
+      cjid: gppt
+    - cjfs:
+      - facilito
+      - facilitas
+      - facilita
+      - facilitamos
+      - "facilit\xE1is"
+      - facilitan
+      cjid: pind
+    - cjfs:
+      - facilitaba
+      - facilitabas
+      - facilitaba
+      - "facilit\xE1bamos"
+      - facilitabais
+      - facilitaban
+      cjid: pret
+    - cjfs:
+      - "facilit\xE9"
+      - facilitaste
+      - "facilit\xF3"
+      - facilitamos
+      - facilitasteis
+      - facilitaron
+      cjid: pprf
+    - cjfs:
+      - "facilitar\xE9"
+      - "facilitar\xE1s"
+      - "facilitar\xE1"
+      - facilitaremos
+      - "facilitar\xE9is"
+      - "facilitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "facilitar\xEDa"
+      - "facilitar\xEDas"
+      - "facilitar\xEDa"
+      - "facilitar\xEDamos"
+      - "facilitar\xEDais"
+      - "facilitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - facilite
+      - facilites
+      - facilite
+      - facilitemos
+      - "facilit\xE9is"
+      - faciliten
+      cjid: psub
+    - cjfs:
+      - facilitara
+      - facilitaras
+      - facilitara
+      - "facilit\xE1ramos"
+      - facilitarais
+      - facilitaran
+      cjid: pisb1
+    - cjfs:
+      - facilitase
+      - facilitases
+      - facilitase
+      - "facilit\xE1semos"
+      - facilitaseis
+      - facilitasen
+      cjid: pisb2
+    - cjfs:
+      - facilitare
+      - facilitares
+      - facilitare
+      - "facilit\xE1remos"
+      - facilitareis
+      - facilitaren
+      cjid: fsub
+    - cjfs:
+      - he facilitado
+      - has facilitado
+      - ha facilitado
+      - hemos facilitado
+      - "hab\xE9is facilitado"
+      - han facilitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa facilitado"
+      - "hab\xEDas facilitado"
+      - "hab\xEDa facilitado"
+      - "hab\xEDamos facilitado"
+      - "hab\xEDais facilitado"
+      - "hab\xEDan facilitado"
+      cjid: ppsi
+    - cjfs:
+      - hube facilitado
+      - hubiste facilitado
+      - hubo facilitado
+      - hubimos facilitado
+      - hubisteis facilitado
+      - hubieron facilitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 facilitado"
+      - "habr\xE1s facilitado"
+      - "habr\xE1 facilitado"
+      - habremos facilitado
+      - "habr\xE9is facilitado"
+      - "habr\xE1n facilitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa facilitado"
+      - "habr\xEDas facilitado"
+      - "habr\xEDa facilitado"
+      - "habr\xEDamos facilitado"
+      - "habr\xEDais facilitado"
+      - "habr\xEDan facilitado"
+      cjid: cpef
+    - cjfs:
+      - haya facilitado
+      - hayas facilitado
+      - haya facilitado
+      - hayamos facilitado
+      - "hay\xE1is facilitado"
+      - hayan facilitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera facilitado
+      - hubieras facilitado
+      - hubiera facilitado
+      - "hubi\xE9ramos facilitado"
+      - hubierais facilitado
+      - hubieran facilitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese facilitado
+      - hubieses facilitado
+      - hubiese facilitado
+      - "hubi\xE9semos facilitado"
+      - hubieseis facilitado
+      - hubiesen facilitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere facilitado
+      - hubieres facilitado
+      - hubiere facilitado
+      - "hubi\xE9remos facilitado"
+      - hubiereis facilitado
+      - hubieren facilitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - facilita
+      - facilite
+      - facilitemos
+      - facilitad
+      - faciliten
+      cjid: impf
+  uros:
+  - aure:
+      ure: facilitadora
+      urec: -dora
+    fl: noun
+    ure: facilitador

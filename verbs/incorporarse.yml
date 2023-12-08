@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|incorporate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|add}, to {a_link|include}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|sit up}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|join}'
+            sn: '2'
+            vrs:
+            - va: incorporarse a
+              vac: ~ a
+    drp: incorporarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: incorporar
+    prs:
+    - sound:
+        audio: incor01sp
+  meta:
+    id: incorporar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612214000'
+    src: spanish
+    stems:
+    - incorporar
+    - incorporarse
+    - incorporarse a
+    uuid: 7d23d93c-9d83-43c9-9cd1-c02ee5ce4aa6
+  shortdef:
+  - to incorporate
+  - to add, to include
+  suppl:
+    cjts:
+    - cjfs:
+      - incorporando
+      - incorporado
+      cjid: gppt
+    - cjfs:
+      - incorporo
+      - incorporas
+      - incorpora
+      - incorporamos
+      - "incorpor\xE1is"
+      - incorporan
+      cjid: pind
+    - cjfs:
+      - incorporaba
+      - incorporabas
+      - incorporaba
+      - "incorpor\xE1bamos"
+      - incorporabais
+      - incorporaban
+      cjid: pret
+    - cjfs:
+      - "incorpor\xE9"
+      - incorporaste
+      - "incorpor\xF3"
+      - incorporamos
+      - incorporasteis
+      - incorporaron
+      cjid: pprf
+    - cjfs:
+      - "incorporar\xE9"
+      - "incorporar\xE1s"
+      - "incorporar\xE1"
+      - incorporaremos
+      - "incorporar\xE9is"
+      - "incorporar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "incorporar\xEDa"
+      - "incorporar\xEDas"
+      - "incorporar\xEDa"
+      - "incorporar\xEDamos"
+      - "incorporar\xEDais"
+      - "incorporar\xEDan"
+      cjid: cond
+    - cjfs:
+      - incorpore
+      - incorpores
+      - incorpore
+      - incorporemos
+      - "incorpor\xE9is"
+      - incorporen
+      cjid: psub
+    - cjfs:
+      - incorporara
+      - incorporaras
+      - incorporara
+      - "incorpor\xE1ramos"
+      - incorporarais
+      - incorporaran
+      cjid: pisb1
+    - cjfs:
+      - incorporase
+      - incorporases
+      - incorporase
+      - "incorpor\xE1semos"
+      - incorporaseis
+      - incorporasen
+      cjid: pisb2
+    - cjfs:
+      - incorporare
+      - incorporares
+      - incorporare
+      - "incorpor\xE1remos"
+      - incorporareis
+      - incorporaren
+      cjid: fsub
+    - cjfs:
+      - he incorporado
+      - has incorporado
+      - ha incorporado
+      - hemos incorporado
+      - "hab\xE9is incorporado"
+      - han incorporado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa incorporado"
+      - "hab\xEDas incorporado"
+      - "hab\xEDa incorporado"
+      - "hab\xEDamos incorporado"
+      - "hab\xEDais incorporado"
+      - "hab\xEDan incorporado"
+      cjid: ppsi
+    - cjfs:
+      - hube incorporado
+      - hubiste incorporado
+      - hubo incorporado
+      - hubimos incorporado
+      - hubisteis incorporado
+      - hubieron incorporado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 incorporado"
+      - "habr\xE1s incorporado"
+      - "habr\xE1 incorporado"
+      - habremos incorporado
+      - "habr\xE9is incorporado"
+      - "habr\xE1n incorporado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa incorporado"
+      - "habr\xEDas incorporado"
+      - "habr\xEDa incorporado"
+      - "habr\xEDamos incorporado"
+      - "habr\xEDais incorporado"
+      - "habr\xEDan incorporado"
+      cjid: cpef
+    - cjfs:
+      - haya incorporado
+      - hayas incorporado
+      - haya incorporado
+      - hayamos incorporado
+      - "hay\xE1is incorporado"
+      - hayan incorporado
+      cjid: ppfs
+    - cjfs:
+      - hubiera incorporado
+      - hubieras incorporado
+      - hubiera incorporado
+      - "hubi\xE9ramos incorporado"
+      - hubierais incorporado
+      - hubieran incorporado
+      cjid: ppss1
+    - cjfs:
+      - hubiese incorporado
+      - hubieses incorporado
+      - hubiese incorporado
+      - "hubi\xE9semos incorporado"
+      - hubieseis incorporado
+      - hubiesen incorporado
+      cjid: ppss2
+    - cjfs:
+      - hubiere incorporado
+      - hubieres incorporado
+      - hubiere incorporado
+      - "hubi\xE9remos incorporado"
+      - hubiereis incorporado
+      - hubieren incorporado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - incorpora
+      - incorpore
+      - incorporemos
+      - incorporad
+      - incorporen
+      cjid: impf

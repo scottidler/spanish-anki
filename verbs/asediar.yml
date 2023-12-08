@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|sitiar||} {bc}to {a_link|besiege}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acosar||} {bc}to {a_link|harass}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: asediar
+  meta:
+    id: asediar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602116000'
+    src: spanish
+    stems:
+    - asediar
+    uuid: 138c711b-e6a9-4a15-8edb-25e16caaff6b
+  shortdef:
+  - 'sitiar : to besiege'
+  - 'acosar : to harass'
+  suppl:
+    cjts:
+    - cjfs:
+      - asediando
+      - asediado
+      cjid: gppt
+    - cjfs:
+      - asedio
+      - asedias
+      - asedia
+      - asediamos
+      - "asedi\xE1is"
+      - asedian
+      cjid: pind
+    - cjfs:
+      - asediaba
+      - asediabas
+      - asediaba
+      - "asedi\xE1bamos"
+      - asediabais
+      - asediaban
+      cjid: pret
+    - cjfs:
+      - "asedi\xE9"
+      - asediaste
+      - "asedi\xF3"
+      - asediamos
+      - asediasteis
+      - asediaron
+      cjid: pprf
+    - cjfs:
+      - "asediar\xE9"
+      - "asediar\xE1s"
+      - "asediar\xE1"
+      - asediaremos
+      - "asediar\xE9is"
+      - "asediar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asediar\xEDa"
+      - "asediar\xEDas"
+      - "asediar\xEDa"
+      - "asediar\xEDamos"
+      - "asediar\xEDais"
+      - "asediar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asedie
+      - asedies
+      - asedie
+      - asediemos
+      - "asedi\xE9is"
+      - asedien
+      cjid: psub
+    - cjfs:
+      - asediara
+      - asediaras
+      - asediara
+      - "asedi\xE1ramos"
+      - asediarais
+      - asediaran
+      cjid: pisb1
+    - cjfs:
+      - asediase
+      - asediases
+      - asediase
+      - "asedi\xE1semos"
+      - asediaseis
+      - asediasen
+      cjid: pisb2
+    - cjfs:
+      - asediare
+      - asediares
+      - asediare
+      - "asedi\xE1remos"
+      - asediareis
+      - asediaren
+      cjid: fsub
+    - cjfs:
+      - he asediado
+      - has asediado
+      - ha asediado
+      - hemos asediado
+      - "hab\xE9is asediado"
+      - han asediado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asediado"
+      - "hab\xEDas asediado"
+      - "hab\xEDa asediado"
+      - "hab\xEDamos asediado"
+      - "hab\xEDais asediado"
+      - "hab\xEDan asediado"
+      cjid: ppsi
+    - cjfs:
+      - hube asediado
+      - hubiste asediado
+      - hubo asediado
+      - hubimos asediado
+      - hubisteis asediado
+      - hubieron asediado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asediado"
+      - "habr\xE1s asediado"
+      - "habr\xE1 asediado"
+      - habremos asediado
+      - "habr\xE9is asediado"
+      - "habr\xE1n asediado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asediado"
+      - "habr\xEDas asediado"
+      - "habr\xEDa asediado"
+      - "habr\xEDamos asediado"
+      - "habr\xEDais asediado"
+      - "habr\xEDan asediado"
+      cjid: cpef
+    - cjfs:
+      - haya asediado
+      - hayas asediado
+      - haya asediado
+      - hayamos asediado
+      - "hay\xE1is asediado"
+      - hayan asediado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asediado
+      - hubieras asediado
+      - hubiera asediado
+      - "hubi\xE9ramos asediado"
+      - hubierais asediado
+      - hubieran asediado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asediado
+      - hubieses asediado
+      - hubiese asediado
+      - "hubi\xE9semos asediado"
+      - hubieseis asediado
+      - hubiesen asediado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asediado
+      - hubieres asediado
+      - hubiere asediado
+      - "hubi\xE9remos asediado"
+      - hubiereis asediado
+      - hubieren asediado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asedia
+      - asedie
+      - asediemos
+      - asediad
+      - asedien
+      cjid: impf

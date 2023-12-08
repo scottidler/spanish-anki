@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|venerate}, to {a_link|revere}'
+  fl: transitive verb
+  hwi:
+    hw: venerar
+    prs:
+    - sound:
+        audio: vener01sp
+  meta:
+    id: venerar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622821000'
+    src: spanish
+    stems:
+    - venerar
+    uuid: bbf4c4ac-4ab5-451f-9783-9109f34e7e32
+  shortdef:
+  - to venerate, to revere
+  suppl:
+    cjts:
+    - cjfs:
+      - venerando
+      - venerado
+      cjid: gppt
+    - cjfs:
+      - venero
+      - veneras
+      - venera
+      - veneramos
+      - "vener\xE1is"
+      - veneran
+      cjid: pind
+    - cjfs:
+      - veneraba
+      - venerabas
+      - veneraba
+      - "vener\xE1bamos"
+      - venerabais
+      - veneraban
+      cjid: pret
+    - cjfs:
+      - "vener\xE9"
+      - veneraste
+      - "vener\xF3"
+      - veneramos
+      - venerasteis
+      - veneraron
+      cjid: pprf
+    - cjfs:
+      - "venerar\xE9"
+      - "venerar\xE1s"
+      - "venerar\xE1"
+      - veneraremos
+      - "venerar\xE9is"
+      - "venerar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "venerar\xEDa"
+      - "venerar\xEDas"
+      - "venerar\xEDa"
+      - "venerar\xEDamos"
+      - "venerar\xEDais"
+      - "venerar\xEDan"
+      cjid: cond
+    - cjfs:
+      - venere
+      - veneres
+      - venere
+      - veneremos
+      - "vener\xE9is"
+      - veneren
+      cjid: psub
+    - cjfs:
+      - venerara
+      - veneraras
+      - venerara
+      - "vener\xE1ramos"
+      - venerarais
+      - veneraran
+      cjid: pisb1
+    - cjfs:
+      - venerase
+      - venerases
+      - venerase
+      - "vener\xE1semos"
+      - veneraseis
+      - venerasen
+      cjid: pisb2
+    - cjfs:
+      - venerare
+      - venerares
+      - venerare
+      - "vener\xE1remos"
+      - venerareis
+      - veneraren
+      cjid: fsub
+    - cjfs:
+      - he venerado
+      - has venerado
+      - ha venerado
+      - hemos venerado
+      - "hab\xE9is venerado"
+      - han venerado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa venerado"
+      - "hab\xEDas venerado"
+      - "hab\xEDa venerado"
+      - "hab\xEDamos venerado"
+      - "hab\xEDais venerado"
+      - "hab\xEDan venerado"
+      cjid: ppsi
+    - cjfs:
+      - hube venerado
+      - hubiste venerado
+      - hubo venerado
+      - hubimos venerado
+      - hubisteis venerado
+      - hubieron venerado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 venerado"
+      - "habr\xE1s venerado"
+      - "habr\xE1 venerado"
+      - habremos venerado
+      - "habr\xE9is venerado"
+      - "habr\xE1n venerado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa venerado"
+      - "habr\xEDas venerado"
+      - "habr\xEDa venerado"
+      - "habr\xEDamos venerado"
+      - "habr\xEDais venerado"
+      - "habr\xEDan venerado"
+      cjid: cpef
+    - cjfs:
+      - haya venerado
+      - hayas venerado
+      - haya venerado
+      - hayamos venerado
+      - "hay\xE1is venerado"
+      - hayan venerado
+      cjid: ppfs
+    - cjfs:
+      - hubiera venerado
+      - hubieras venerado
+      - hubiera venerado
+      - "hubi\xE9ramos venerado"
+      - hubierais venerado
+      - hubieran venerado
+      cjid: ppss1
+    - cjfs:
+      - hubiese venerado
+      - hubieses venerado
+      - hubiese venerado
+      - "hubi\xE9semos venerado"
+      - hubieseis venerado
+      - hubiesen venerado
+      cjid: ppss2
+    - cjfs:
+      - hubiere venerado
+      - hubieres venerado
+      - hubiere venerado
+      - "hubi\xE9remos venerado"
+      - hubiereis venerado
+      - hubieren venerado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - venera
+      - venere
+      - veneremos
+      - venerad
+      - veneren
+      cjid: impf

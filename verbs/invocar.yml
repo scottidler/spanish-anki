@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|invoke}, to {a_link|call on}'
+  fl: transitive verb
+  hwi:
+    hw: invocar
+    prs:
+    - sound:
+        audio: invoc01sp
+  meta:
+    id: invocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613021000'
+    src: spanish
+    stems:
+    - invocar
+    uuid: 2a728ca8-9950-4997-bcc6-96d322bd525c
+  shortdef:
+  - to invoke, to call on
+  suppl:
+    cjts:
+    - cjfs:
+      - invocando
+      - invocado
+      cjid: gppt
+    - cjfs:
+      - invoco
+      - invocas
+      - invoca
+      - invocamos
+      - "invoc\xE1is"
+      - invocan
+      cjid: pind
+    - cjfs:
+      - invocaba
+      - invocabas
+      - invocaba
+      - "invoc\xE1bamos"
+      - invocabais
+      - invocaban
+      cjid: pret
+    - cjfs:
+      - "invoqu\xE9"
+      - invocaste
+      - "invoc\xF3"
+      - invocamos
+      - invocasteis
+      - invocaron
+      cjid: pprf
+    - cjfs:
+      - "invocar\xE9"
+      - "invocar\xE1s"
+      - "invocar\xE1"
+      - invocaremos
+      - "invocar\xE9is"
+      - "invocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "invocar\xEDa"
+      - "invocar\xEDas"
+      - "invocar\xEDa"
+      - "invocar\xEDamos"
+      - "invocar\xEDais"
+      - "invocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - invoque
+      - invoques
+      - invoque
+      - invoquemos
+      - "invoqu\xE9is"
+      - invoquen
+      cjid: psub
+    - cjfs:
+      - invocara
+      - invocaras
+      - invocara
+      - "invoc\xE1ramos"
+      - invocarais
+      - invocaran
+      cjid: pisb1
+    - cjfs:
+      - invocase
+      - invocases
+      - invocase
+      - "invoc\xE1semos"
+      - invocaseis
+      - invocasen
+      cjid: pisb2
+    - cjfs:
+      - invocare
+      - invocares
+      - invocare
+      - "invoc\xE1remos"
+      - invocareis
+      - invocaren
+      cjid: fsub
+    - cjfs:
+      - he invocado
+      - has invocado
+      - ha invocado
+      - hemos invocado
+      - "hab\xE9is invocado"
+      - han invocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa invocado"
+      - "hab\xEDas invocado"
+      - "hab\xEDa invocado"
+      - "hab\xEDamos invocado"
+      - "hab\xEDais invocado"
+      - "hab\xEDan invocado"
+      cjid: ppsi
+    - cjfs:
+      - hube invocado
+      - hubiste invocado
+      - hubo invocado
+      - hubimos invocado
+      - hubisteis invocado
+      - hubieron invocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 invocado"
+      - "habr\xE1s invocado"
+      - "habr\xE1 invocado"
+      - habremos invocado
+      - "habr\xE9is invocado"
+      - "habr\xE1n invocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa invocado"
+      - "habr\xEDas invocado"
+      - "habr\xEDa invocado"
+      - "habr\xEDamos invocado"
+      - "habr\xEDais invocado"
+      - "habr\xEDan invocado"
+      cjid: cpef
+    - cjfs:
+      - haya invocado
+      - hayas invocado
+      - haya invocado
+      - hayamos invocado
+      - "hay\xE1is invocado"
+      - hayan invocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera invocado
+      - hubieras invocado
+      - hubiera invocado
+      - "hubi\xE9ramos invocado"
+      - hubierais invocado
+      - hubieran invocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese invocado
+      - hubieses invocado
+      - hubiese invocado
+      - "hubi\xE9semos invocado"
+      - hubieseis invocado
+      - hubiesen invocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere invocado
+      - hubieres invocado
+      - hubiere invocado
+      - "hubi\xE9remos invocado"
+      - hubiereis invocado
+      - hubieren invocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - invoca
+      - invoque
+      - invoquemos
+      - invocad
+      - invoquen
+      cjid: impf

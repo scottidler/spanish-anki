@@ -1,0 +1,854 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take} '
+          - - vis
+            - - t: "tom\xE9 el libro"
+                tr: I took the book
+              - t: tomar un taxi
+                tr: to take a taxi
+              - t: tomar una foto
+                tr: to take a photo
+              - t: "toma dos a\xF1os"
+                tr: it takes two years
+              - t: "tomaron medidas dr\xE1sticas"
+                tr: they took drastic measures
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make} (a decision)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|beber||} {bc}to {a_link|drink}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|consumir||} {bc}to {a_link|have} (food), to {a_link|take} (medicine)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|capturar||} {bc}to {a_link|capture}, to {a_link|seize}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|interpret} '
+          - - vis
+            - - t: no lo tomes a mal
+                tr: don't take it the wrong way
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take for}, to mistake for'
+          sn: '7'
+          vrs:
+          - va: tomar por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sunbathe}'
+          sn: '8'
+          vrs:
+          - va: tomar el sol
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|borrow}'
+          sn: '9'
+          vrs:
+          - va: tomar prestado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|land}'
+          sn: '10'
+          vrs:
+          - va: tomar tierra
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take something '
+          - - vis
+            - - t: toma, te lo presto
+                tr: here, I'll lend it to you
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drink} (alcohol)'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take} '
+            - - vis
+              - - t: tomarse la molestia de
+                  tr: to take the trouble to
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|drink}, to {a_link|eat}, to {a_link|have}'
+            sn: '2'
+    drp: tomarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tomar
+    prs:
+    - sound:
+        audio: tomar01sp
+  meta:
+    id: tomar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621946000'
+    src: spanish
+    stems:
+    - tomar
+    - tomar por
+    - tomar el sol
+    - tomar prestado
+    - tomar tierra
+    - tomarse
+    uuid: c03be3d3-b5bb-4b01-9389-00bcad763e7a
+  shortdef:
+  - to take
+  - to make (a decision)
+  - 'beber : to drink'
+  suppl:
+    cjts:
+    - cjfs:
+      - tomando
+      - tomado
+      cjid: gppt
+    - cjfs:
+      - tomo
+      - tomas
+      - toma
+      - tomamos
+      - "tom\xE1is"
+      - toman
+      cjid: pind
+    - cjfs:
+      - tomaba
+      - tomabas
+      - tomaba
+      - "tom\xE1bamos"
+      - tomabais
+      - tomaban
+      cjid: pret
+    - cjfs:
+      - "tom\xE9"
+      - tomaste
+      - "tom\xF3"
+      - tomamos
+      - tomasteis
+      - tomaron
+      cjid: pprf
+    - cjfs:
+      - "tomar\xE9"
+      - "tomar\xE1s"
+      - "tomar\xE1"
+      - tomaremos
+      - "tomar\xE9is"
+      - "tomar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tomar\xEDa"
+      - "tomar\xEDas"
+      - "tomar\xEDa"
+      - "tomar\xEDamos"
+      - "tomar\xEDais"
+      - "tomar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tome
+      - tomes
+      - tome
+      - tomemos
+      - "tom\xE9is"
+      - tomen
+      cjid: psub
+    - cjfs:
+      - tomara
+      - tomaras
+      - tomara
+      - "tom\xE1ramos"
+      - tomarais
+      - tomaran
+      cjid: pisb1
+    - cjfs:
+      - tomase
+      - tomases
+      - tomase
+      - "tom\xE1semos"
+      - tomaseis
+      - tomasen
+      cjid: pisb2
+    - cjfs:
+      - tomare
+      - tomares
+      - tomare
+      - "tom\xE1remos"
+      - tomareis
+      - tomaren
+      cjid: fsub
+    - cjfs:
+      - he tomado
+      - has tomado
+      - ha tomado
+      - hemos tomado
+      - "hab\xE9is tomado"
+      - han tomado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tomado"
+      - "hab\xEDas tomado"
+      - "hab\xEDa tomado"
+      - "hab\xEDamos tomado"
+      - "hab\xEDais tomado"
+      - "hab\xEDan tomado"
+      cjid: ppsi
+    - cjfs:
+      - hube tomado
+      - hubiste tomado
+      - hubo tomado
+      - hubimos tomado
+      - hubisteis tomado
+      - hubieron tomado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tomado"
+      - "habr\xE1s tomado"
+      - "habr\xE1 tomado"
+      - habremos tomado
+      - "habr\xE9is tomado"
+      - "habr\xE1n tomado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tomado"
+      - "habr\xEDas tomado"
+      - "habr\xEDa tomado"
+      - "habr\xEDamos tomado"
+      - "habr\xEDais tomado"
+      - "habr\xEDan tomado"
+      cjid: cpef
+    - cjfs:
+      - haya tomado
+      - hayas tomado
+      - haya tomado
+      - hayamos tomado
+      - "hay\xE1is tomado"
+      - hayan tomado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tomado
+      - hubieras tomado
+      - hubiera tomado
+      - "hubi\xE9ramos tomado"
+      - hubierais tomado
+      - hubieran tomado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tomado
+      - hubieses tomado
+      - hubiese tomado
+      - "hubi\xE9semos tomado"
+      - hubieseis tomado
+      - hubiesen tomado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tomado
+      - hubieres tomado
+      - hubiere tomado
+      - "hubi\xE9remos tomado"
+      - hubiereis tomado
+      - hubieren tomado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - toma
+      - tome
+      - tomemos
+      - tomad
+      - tomen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|letter} '
+          - - vis
+            - - t: carta de amor
+                tr: love letter
+              - t: carta de renuncia
+                tr: letter of resignation
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|naipe||} {bc}{a_link|playing card}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|charter}, {a_link|constitution}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|men\xFA||} {bc}{a_link|menu}"
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|map}, {a_link|chart}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to intervene in'
+          sn: '6'
+          vrs:
+          - va: tomar cartas en
+  fl: feminine noun
+  hwi:
+    hw: carta
+    prs:
+    - sound:
+        audio: carta01sp
+  meta:
+    id: carta
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604083000'
+    src: spanish
+    stems:
+    - carta
+    - tomar cartas en
+    uuid: ff872937-3f49-448b-9456-97c70d236f88
+  shortdef:
+  - letter
+  - 'naipe : playing card'
+  - charter, constitution
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|calculation}, {a_link|count}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|account} '
+          - - vis
+            - - t: cuenta corriente
+                tr: checking account
+              - t: cuenta de ahorro(s)
+                tr: savings account
+              - t: "cuenta de correo(s) electr\xF3nico(s), cuenta de email"
+                tr: e-mail account
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|responsibility}, {a_link|liability} '
+          - - vis
+            - - t: corre por cuenta del gobierno
+                tr: the government is footing the bill
+              - t: trabajar por cuenta propia
+                tr: to be self-employed
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|check}, {a_link|bill}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in the end}'
+          sn: '5'
+          vrs:
+          - va: a fin de cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|realize}'
+          sn: '6'
+          vrs:
+          - va: darse cuenta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in short}'
+          sls:
+          - Chile
+          sn: '7'
+          vrs:
+          - va: en buenas cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|on account of}, {a_link|because of}'
+          sn: '8'
+          vrs:
+          - va: por cuenta de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be held accountable'
+          sn: '9'
+          vrs:
+          - va: rendir cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to bear in mind'
+          sn: '10'
+          vrs:
+          - va: tener en cuenta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take into account}'
+          sn: '11'
+          vrs:
+          - va: tomar en cuenta
+  fl: feminine noun
+  hom: 2
+  hwi:
+    hw: cuenta
+    prs:
+    - sound:
+        audio: cuent02sp
+  meta:
+    id: cuenta:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606303000'
+    src: spanish
+    stems:
+    - cuenta
+    - a fin de cuentas
+    - darse cuenta
+    - en buenas cuentas
+    - por cuenta de
+    - rendir cuentas
+    - tener en cuenta
+    - tomar en cuenta
+    uuid: 0e3c2d31-6bd9-490f-8e43-cbbad91d7815
+  shortdef:
+  - calculation, count
+  - account
+  - responsibility, liability
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|determination}, {a_link|resolve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make a decision'
+          sn: '2'
+          vrs:
+          - va: "tomar una determinaci\xF3n"
+  fl: feminine noun
+  hwi:
+    hw: "determinaci\xF3n"
+    prs:
+    - sound:
+        audio: deter04sp
+  ins:
+  - if: determinaciones
+    ifc: -ciones
+    il: plural
+  meta:
+    id: determinacion
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607427000'
+    src: spanish
+    stems:
+    - "determinaci\xF3n"
+    - determinaciones
+    - "tomar una determinaci\xF3n"
+    uuid: 7b0da9c2-4502-4823-92d2-3b57bc540faf
+  shortdef:
+  - determination, resolve
+  - to make a decision
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cold} '
+          - - vis
+            - - t: "hace mucho fr\xEDo esta noche"
+                tr: it's very cold tonight
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|indiferencia||} {bc}{a_link|coldness}, {a_link|indifference}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to feel cold '
+          - - vis
+            - - t: "tengo fr\xEDo"
+                tr: I'm cold
+          sn: '3'
+          vrs:
+          - va: "tener fr\xEDo"
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|resfriarse||} {bc}to catch a cold'
+          sn: '4'
+          vrs:
+          - va: "tomar fr\xEDo"
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: "fr\xEDo"
+  meta:
+    id: frio:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610450000'
+    src: spanish
+    stems:
+    - "fr\xEDo"
+    - "tener fr\xEDo"
+    - "tomar fr\xEDo"
+    uuid: f08294ea-c030-402a-b4b4-dc7e717beae0
+  shortdef:
+  - cold
+  - 'indiferencia : coldness, indifference'
+  - to feel cold
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|part} (of a whole) '
+          - - vis
+            - - t: la mayor parte de
+                tr: the majority of
+              - t: una quinta parte de
+                tr: one fifth of
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|place}, {a_link|part} '
+          - - vis
+            - - t: en alguna/cualquier parte
+                tr: somewhere/anywhere
+              - t: en ninguna parte
+                tr: nowhere, not anywhere
+              - t: por todas partes
+                tr: everywhere
+              - t: ir a otra parte
+                tr: to go somewhere else
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|party} (in negotiations, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|on behalf of} '
+          - - vis
+            - - t: de mi parte
+                tr: on my behalf, for me
+          sn: '4'
+          vrs:
+          - va: de parte de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}may I ask who''s calling?'
+          sn: '5'
+          vrs:
+          - va: "\xBFde parte de qui\xE9n?"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|largely}, in large part'
+          sn: '6'
+          vrs:
+          - va: en gran parte
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|partly}, {a_link|in part}'
+          sn: '7'
+          vrs:
+          - va: en parte
+            vac: en ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}most of, the majority of'
+          sn: '8'
+          vrs:
+          - va: la mayor parte de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}on the other hand'
+          sn: '9'
+          vrs:
+          - va: por otra parte
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|on the part of} '
+          - - vis
+            - - t: por mi parte
+                tr: on my part, as far as I'm concerned
+          sn: '10'
+          vrs:
+          - va: por parte de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take part'
+          sn: '11'
+          vrs:
+          - va: tomar parte
+  fl: feminine noun
+  hom: 2
+  hwi:
+    hw: parte
+    prs:
+    - sound:
+        audio: parte02sp
+  meta:
+    id: parte:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616735000'
+    src: spanish
+    stems:
+    - parte
+    - de parte de
+    - "\xBFde parte de quien?"
+    - en gran parte
+    - en parte
+    - la mayor parte de
+    - por otra parte
+    - por parte de
+    - tomar parte
+    uuid: 75c0eb26-15ad-4924-8059-3335ff1e7d87
+  shortdef:
+  - part (of a whole)
+  - place, part
+  - party (in negotiations, etc.)
+- ahws:
+  - hw: presa
+    hwc: -sa
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}imprisoned '
+          - - vis
+            - - t: estar preso
+                tr: to be imprisoned
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|imprison}, to take prisoner'
+          sn: '2'
+          vrs:
+          - va: llevarse/tomar preso a
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: preso
+    prs:
+    - sound:
+        audio: preso01sp
+  meta:
+    id: preso:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618048000'
+    src: spanish
+    stems:
+    - preso
+    - presa
+    - llevarse/tomar preso a
+    - llevarse preso a
+    - tomar preso a
+    uuid: 04095321-c961-4ca5-8904-12e333218a0c
+  shortdef:
+  - imprisoned
+  - to imprison, to take prisoner
+- ahws:
+  - hw: prestada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}borrowed, on loan'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|borrow}, to ask to borrow'
+          sn: '2'
+          vrs:
+          - va: pedir prestado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|borrow}'
+          sn: '3'
+          vrs:
+          - va: tomar prestado
+  fl: adjective
+  hwi:
+    hw: prestado
+    prs:
+    - sound:
+        audio: prest01sp
+  meta:
+    id: prestado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618051000'
+    src: spanish
+    stems:
+    - prestado
+    - prestada
+    - pedir prestado
+    - tomar prestado
+    uuid: c3d9e295-c262-4693-8830-0b79097415b0
+  shortdef:
+  - borrowed, on loan
+  - to borrow, to ask to borrow
+  - to borrow
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|reprisal}, {a_link|retaliation}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|retaliate}'
+          sn: '2'
+          vrs:
+          - va: tomar represalias
+  fl: feminine noun
+  hwi:
+    hw: represalia
+    prs:
+    - sound:
+        audio: repre03sp
+  meta:
+    id: represalia
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619479000'
+    src: spanish
+    stems:
+    - represalia
+    - tomar represalias
+    uuid: 664ddc30-8d77-45cd-9a5c-34ee9ea6a595
+  shortdef:
+  - reprisal, retaliation
+  - to retaliate
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|rein}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give free rein to'
+          sn: '2'
+          vrs:
+          - va: dar rienda suelta a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in charge'
+          sn: '3'
+          vrs:
+          - va: llevar las riendas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take control'
+          sn: '4'
+          vrs:
+          - va: tomar las riendas
+  fl: feminine noun
+  hwi:
+    hw: rienda
+    prs:
+    - sound:
+        audio: riend01sp
+  meta:
+    id: rienda
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619814000'
+    src: spanish
+    stems:
+    - rienda
+    - dar rienda suelta a
+    - llevar las riendas
+    - tomar las riendas
+    uuid: 525f4e11-33a7-4f27-ad7c-a9b8a419508b
+  shortdef:
+  - rein
+  - to give free rein to
+  - to be in charge

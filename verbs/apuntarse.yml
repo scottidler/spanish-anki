@@ -1,0 +1,247 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|point} (a finger, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to point at'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|anotar||} {bc}to {a_link|write down}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|inscribir||} {bc}to {a_link|sign up}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|point out} (a fact, etc.)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prompt} (in the theater)'
+          sn: '6'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|aim} '
+          - - vis
+            - - t: "apunt\xF3 al blanco con el rev\xF3lver"
+                tr: she aimed the gun at the target
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|point to/toward}'
+          sn: '2'
+          vrs:
+          - va: apuntar a/hacia
+            vac: ~ a/hacia
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|sign up}, to {a_link|enroll}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|score}'
+            sn: '2'
+    drp: apuntarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apuntar
+    prs:
+    - sound:
+        audio: apunt01sp
+  meta:
+    id: apuntar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601826000'
+    src: spanish
+    stems:
+    - apuntar
+    - apuntar a/hacia
+    - apuntar a
+    - apuntar hacia
+    - apuntarse
+    uuid: d4e94cec-65db-4b84-ae31-d161985ff4f7
+  shortdef:
+  - to point (a finger, etc.)
+  - to point at
+  - 'anotar : to write down'
+  suppl:
+    cjts:
+    - cjfs:
+      - apuntando
+      - apuntado
+      cjid: gppt
+    - cjfs:
+      - apunto
+      - apuntas
+      - apunta
+      - apuntamos
+      - "apunt\xE1is"
+      - apuntan
+      cjid: pind
+    - cjfs:
+      - apuntaba
+      - apuntabas
+      - apuntaba
+      - "apunt\xE1bamos"
+      - apuntabais
+      - apuntaban
+      cjid: pret
+    - cjfs:
+      - "apunt\xE9"
+      - apuntaste
+      - "apunt\xF3"
+      - apuntamos
+      - apuntasteis
+      - apuntaron
+      cjid: pprf
+    - cjfs:
+      - "apuntar\xE9"
+      - "apuntar\xE1s"
+      - "apuntar\xE1"
+      - apuntaremos
+      - "apuntar\xE9is"
+      - "apuntar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apuntar\xEDa"
+      - "apuntar\xEDas"
+      - "apuntar\xEDa"
+      - "apuntar\xEDamos"
+      - "apuntar\xEDais"
+      - "apuntar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apunte
+      - apuntes
+      - apunte
+      - apuntemos
+      - "apunt\xE9is"
+      - apunten
+      cjid: psub
+    - cjfs:
+      - apuntara
+      - apuntaras
+      - apuntara
+      - "apunt\xE1ramos"
+      - apuntarais
+      - apuntaran
+      cjid: pisb1
+    - cjfs:
+      - apuntase
+      - apuntases
+      - apuntase
+      - "apunt\xE1semos"
+      - apuntaseis
+      - apuntasen
+      cjid: pisb2
+    - cjfs:
+      - apuntare
+      - apuntares
+      - apuntare
+      - "apunt\xE1remos"
+      - apuntareis
+      - apuntaren
+      cjid: fsub
+    - cjfs:
+      - he apuntado
+      - has apuntado
+      - ha apuntado
+      - hemos apuntado
+      - "hab\xE9is apuntado"
+      - han apuntado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apuntado"
+      - "hab\xEDas apuntado"
+      - "hab\xEDa apuntado"
+      - "hab\xEDamos apuntado"
+      - "hab\xEDais apuntado"
+      - "hab\xEDan apuntado"
+      cjid: ppsi
+    - cjfs:
+      - hube apuntado
+      - hubiste apuntado
+      - hubo apuntado
+      - hubimos apuntado
+      - hubisteis apuntado
+      - hubieron apuntado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apuntado"
+      - "habr\xE1s apuntado"
+      - "habr\xE1 apuntado"
+      - habremos apuntado
+      - "habr\xE9is apuntado"
+      - "habr\xE1n apuntado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apuntado"
+      - "habr\xEDas apuntado"
+      - "habr\xEDa apuntado"
+      - "habr\xEDamos apuntado"
+      - "habr\xEDais apuntado"
+      - "habr\xEDan apuntado"
+      cjid: cpef
+    - cjfs:
+      - haya apuntado
+      - hayas apuntado
+      - haya apuntado
+      - hayamos apuntado
+      - "hay\xE1is apuntado"
+      - hayan apuntado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apuntado
+      - hubieras apuntado
+      - hubiera apuntado
+      - "hubi\xE9ramos apuntado"
+      - hubierais apuntado
+      - hubieran apuntado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apuntado
+      - hubieses apuntado
+      - hubiese apuntado
+      - "hubi\xE9semos apuntado"
+      - hubieseis apuntado
+      - hubiesen apuntado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apuntado
+      - hubieres apuntado
+      - hubiere apuntado
+      - "hubi\xE9remos apuntado"
+      - hubiereis apuntado
+      - hubieren apuntado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apunta
+      - apunte
+      - apuntemos
+      - apuntad
+      - apunten
+      cjid: impf

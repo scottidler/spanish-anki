@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be enough, to {a_link|suffice} '
+          - - vis
+            - - t: con uno basta (y sobra)
+                tr: one is (more than) enough
+              - t: "\xA1basta (ya)!"
+                tr: that's enough!
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be able to manage on one''s own'
+    drp: bastarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: bastar
+    prs:
+    - sound:
+        audio: basta03sp
+  meta:
+    id: bastar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602844000'
+    src: spanish
+    stems:
+    - bastar
+    - bastarse
+    uuid: 414f7662-07cd-4290-944c-670310c534e4
+  shortdef:
+  - to be enough, to suffice
+  suppl:
+    cjts:
+    - cjfs:
+      - bastando
+      - bastado
+      cjid: gppt
+    - cjfs:
+      - basto
+      - bastas
+      - basta
+      - bastamos
+      - "bast\xE1is"
+      - bastan
+      cjid: pind
+    - cjfs:
+      - bastaba
+      - bastabas
+      - bastaba
+      - "bast\xE1bamos"
+      - bastabais
+      - bastaban
+      cjid: pret
+    - cjfs:
+      - "bast\xE9"
+      - bastaste
+      - "bast\xF3"
+      - bastamos
+      - bastasteis
+      - bastaron
+      cjid: pprf
+    - cjfs:
+      - "bastar\xE9"
+      - "bastar\xE1s"
+      - "bastar\xE1"
+      - bastaremos
+      - "bastar\xE9is"
+      - "bastar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bastar\xEDa"
+      - "bastar\xEDas"
+      - "bastar\xEDa"
+      - "bastar\xEDamos"
+      - "bastar\xEDais"
+      - "bastar\xEDan"
+      cjid: cond
+    - cjfs:
+      - baste
+      - bastes
+      - baste
+      - bastemos
+      - "bast\xE9is"
+      - basten
+      cjid: psub
+    - cjfs:
+      - bastara
+      - bastaras
+      - bastara
+      - "bast\xE1ramos"
+      - bastarais
+      - bastaran
+      cjid: pisb1
+    - cjfs:
+      - bastase
+      - bastases
+      - bastase
+      - "bast\xE1semos"
+      - bastaseis
+      - bastasen
+      cjid: pisb2
+    - cjfs:
+      - bastare
+      - bastares
+      - bastare
+      - "bast\xE1remos"
+      - bastareis
+      - bastaren
+      cjid: fsub
+    - cjfs:
+      - he bastado
+      - has bastado
+      - ha bastado
+      - hemos bastado
+      - "hab\xE9is bastado"
+      - han bastado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bastado"
+      - "hab\xEDas bastado"
+      - "hab\xEDa bastado"
+      - "hab\xEDamos bastado"
+      - "hab\xEDais bastado"
+      - "hab\xEDan bastado"
+      cjid: ppsi
+    - cjfs:
+      - hube bastado
+      - hubiste bastado
+      - hubo bastado
+      - hubimos bastado
+      - hubisteis bastado
+      - hubieron bastado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bastado"
+      - "habr\xE1s bastado"
+      - "habr\xE1 bastado"
+      - habremos bastado
+      - "habr\xE9is bastado"
+      - "habr\xE1n bastado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bastado"
+      - "habr\xEDas bastado"
+      - "habr\xEDa bastado"
+      - "habr\xEDamos bastado"
+      - "habr\xEDais bastado"
+      - "habr\xEDan bastado"
+      cjid: cpef
+    - cjfs:
+      - haya bastado
+      - hayas bastado
+      - haya bastado
+      - hayamos bastado
+      - "hay\xE1is bastado"
+      - hayan bastado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bastado
+      - hubieras bastado
+      - hubiera bastado
+      - "hubi\xE9ramos bastado"
+      - hubierais bastado
+      - hubieran bastado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bastado
+      - hubieses bastado
+      - hubiese bastado
+      - "hubi\xE9semos bastado"
+      - hubieseis bastado
+      - hubiesen bastado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bastado
+      - hubieres bastado
+      - hubiere bastado
+      - "hubi\xE9remos bastado"
+      - hubiereis bastado
+      - hubieren bastado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - basta
+      - baste
+      - bastemos
+      - bastad
+      - basten
+      cjid: impf

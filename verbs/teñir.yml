@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dye}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stain}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: "te\xF1ir"
+    prs:
+    - sound:
+        audio: tenir01sp
+  meta:
+    id: tenir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621681000'
+    src: spanish
+    stems:
+    - "te\xF1ir"
+    uuid: eefbf9a4-3ad4-4929-a08f-4f200d4a13ae
+  shortdef:
+  - to dye
+  - to stain
+  suppl:
+    cjts:
+    - cjfs:
+      - "ti\xF1endo"
+      - "te\xF1ido"
+      cjid: gppt
+    - cjfs:
+      - "ti\xF1o"
+      - "ti\xF1es"
+      - "ti\xF1e"
+      - "te\xF1imos"
+      - "te\xF1\xEDs"
+      - "ti\xF1en"
+      cjid: pind
+    - cjfs:
+      - "te\xF1\xEDa"
+      - "te\xF1\xEDas"
+      - "te\xF1\xEDa"
+      - "te\xF1\xEDamos"
+      - "te\xF1\xEDais"
+      - "te\xF1\xEDan"
+      cjid: pret
+    - cjfs:
+      - "te\xF1\xED"
+      - "te\xF1iste"
+      - "ti\xF1\xF3"
+      - "te\xF1imos"
+      - "te\xF1isteis"
+      - "ti\xF1eron"
+      cjid: pprf
+    - cjfs:
+      - "te\xF1ir\xE9"
+      - "te\xF1ir\xE1s"
+      - "te\xF1ir\xE1"
+      - "te\xF1iremos"
+      - "te\xF1ir\xE9is"
+      - "te\xF1ir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "te\xF1ir\xEDa"
+      - "te\xF1ir\xEDas"
+      - "te\xF1ir\xEDa"
+      - "te\xF1ir\xEDamos"
+      - "te\xF1ir\xEDais"
+      - "te\xF1ir\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ti\xF1a"
+      - "ti\xF1as"
+      - "ti\xF1a"
+      - "ti\xF1amos"
+      - "ti\xF1\xE1is"
+      - "ti\xF1an"
+      cjid: psub
+    - cjfs:
+      - "ti\xF1era"
+      - "ti\xF1eras"
+      - "ti\xF1era"
+      - "ti\xF1\xE9ramos"
+      - "ti\xF1erais"
+      - "ti\xF1eran"
+      cjid: pisb1
+    - cjfs:
+      - "ti\xF1ese"
+      - "ti\xF1eses"
+      - "ti\xF1ese"
+      - "ti\xF1\xE9semos"
+      - "ti\xF1eseis"
+      - "ti\xF1esen"
+      cjid: pisb2
+    - cjfs:
+      - "ti\xF1ere"
+      - "ti\xF1eres"
+      - "ti\xF1ere"
+      - "ti\xF1\xE9remos"
+      - "ti\xF1ereis"
+      - "ti\xF1eren"
+      cjid: fsub
+    - cjfs:
+      - "he te\xF1ido"
+      - "has te\xF1ido"
+      - "ha te\xF1ido"
+      - "hemos te\xF1ido"
+      - "hab\xE9is te\xF1ido"
+      - "han te\xF1ido"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa te\xF1ido"
+      - "hab\xEDas te\xF1ido"
+      - "hab\xEDa te\xF1ido"
+      - "hab\xEDamos te\xF1ido"
+      - "hab\xEDais te\xF1ido"
+      - "hab\xEDan te\xF1ido"
+      cjid: ppsi
+    - cjfs:
+      - "hube te\xF1ido"
+      - "hubiste te\xF1ido"
+      - "hubo te\xF1ido"
+      - "hubimos te\xF1ido"
+      - "hubisteis te\xF1ido"
+      - "hubieron te\xF1ido"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 te\xF1ido"
+      - "habr\xE1s te\xF1ido"
+      - "habr\xE1 te\xF1ido"
+      - "habremos te\xF1ido"
+      - "habr\xE9is te\xF1ido"
+      - "habr\xE1n te\xF1ido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa te\xF1ido"
+      - "habr\xEDas te\xF1ido"
+      - "habr\xEDa te\xF1ido"
+      - "habr\xEDamos te\xF1ido"
+      - "habr\xEDais te\xF1ido"
+      - "habr\xEDan te\xF1ido"
+      cjid: cpef
+    - cjfs:
+      - "haya te\xF1ido"
+      - "hayas te\xF1ido"
+      - "haya te\xF1ido"
+      - "hayamos te\xF1ido"
+      - "hay\xE1is te\xF1ido"
+      - "hayan te\xF1ido"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera te\xF1ido"
+      - "hubieras te\xF1ido"
+      - "hubiera te\xF1ido"
+      - "hubi\xE9ramos te\xF1ido"
+      - "hubierais te\xF1ido"
+      - "hubieran te\xF1ido"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese te\xF1ido"
+      - "hubieses te\xF1ido"
+      - "hubiese te\xF1ido"
+      - "hubi\xE9semos te\xF1ido"
+      - "hubieseis te\xF1ido"
+      - "hubiesen te\xF1ido"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere te\xF1ido"
+      - "hubieres te\xF1ido"
+      - "hubiere te\xF1ido"
+      - "hubi\xE9remos te\xF1ido"
+      - "hubiereis te\xF1ido"
+      - "hubieren te\xF1ido"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ti\xF1e"
+      - "ti\xF1a"
+      - "ti\xF1amos"
+      - "te\xF1id"
+      - "ti\xF1an"
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|react}, to {a_link|respond}'
+  fl: intransitive verb
+  hwi:
+    hw: reaccionar
+    prs:
+    - sound:
+        audio: reacc01sp
+  meta:
+    id: reaccionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618857000'
+    src: spanish
+    stems:
+    - reaccionar
+    uuid: 678f5c8c-186e-48b2-804c-be7bc3552a92
+  shortdef:
+  - to react, to respond
+  suppl:
+    cjts:
+    - cjfs:
+      - reaccionando
+      - reaccionado
+      cjid: gppt
+    - cjfs:
+      - reacciono
+      - reaccionas
+      - reacciona
+      - reaccionamos
+      - "reaccion\xE1is"
+      - reaccionan
+      cjid: pind
+    - cjfs:
+      - reaccionaba
+      - reaccionabas
+      - reaccionaba
+      - "reaccion\xE1bamos"
+      - reaccionabais
+      - reaccionaban
+      cjid: pret
+    - cjfs:
+      - "reaccion\xE9"
+      - reaccionaste
+      - "reaccion\xF3"
+      - reaccionamos
+      - reaccionasteis
+      - reaccionaron
+      cjid: pprf
+    - cjfs:
+      - "reaccionar\xE9"
+      - "reaccionar\xE1s"
+      - "reaccionar\xE1"
+      - reaccionaremos
+      - "reaccionar\xE9is"
+      - "reaccionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reaccionar\xEDa"
+      - "reaccionar\xEDas"
+      - "reaccionar\xEDa"
+      - "reaccionar\xEDamos"
+      - "reaccionar\xEDais"
+      - "reaccionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reaccione
+      - reacciones
+      - reaccione
+      - reaccionemos
+      - "reaccion\xE9is"
+      - reaccionen
+      cjid: psub
+    - cjfs:
+      - reaccionara
+      - reaccionaras
+      - reaccionara
+      - "reaccion\xE1ramos"
+      - reaccionarais
+      - reaccionaran
+      cjid: pisb1
+    - cjfs:
+      - reaccionase
+      - reaccionases
+      - reaccionase
+      - "reaccion\xE1semos"
+      - reaccionaseis
+      - reaccionasen
+      cjid: pisb2
+    - cjfs:
+      - reaccionare
+      - reaccionares
+      - reaccionare
+      - "reaccion\xE1remos"
+      - reaccionareis
+      - reaccionaren
+      cjid: fsub
+    - cjfs:
+      - he reaccionado
+      - has reaccionado
+      - ha reaccionado
+      - hemos reaccionado
+      - "hab\xE9is reaccionado"
+      - han reaccionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reaccionado"
+      - "hab\xEDas reaccionado"
+      - "hab\xEDa reaccionado"
+      - "hab\xEDamos reaccionado"
+      - "hab\xEDais reaccionado"
+      - "hab\xEDan reaccionado"
+      cjid: ppsi
+    - cjfs:
+      - hube reaccionado
+      - hubiste reaccionado
+      - hubo reaccionado
+      - hubimos reaccionado
+      - hubisteis reaccionado
+      - hubieron reaccionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reaccionado"
+      - "habr\xE1s reaccionado"
+      - "habr\xE1 reaccionado"
+      - habremos reaccionado
+      - "habr\xE9is reaccionado"
+      - "habr\xE1n reaccionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reaccionado"
+      - "habr\xEDas reaccionado"
+      - "habr\xEDa reaccionado"
+      - "habr\xEDamos reaccionado"
+      - "habr\xEDais reaccionado"
+      - "habr\xEDan reaccionado"
+      cjid: cpef
+    - cjfs:
+      - haya reaccionado
+      - hayas reaccionado
+      - haya reaccionado
+      - hayamos reaccionado
+      - "hay\xE1is reaccionado"
+      - hayan reaccionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reaccionado
+      - hubieras reaccionado
+      - hubiera reaccionado
+      - "hubi\xE9ramos reaccionado"
+      - hubierais reaccionado
+      - hubieran reaccionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reaccionado
+      - hubieses reaccionado
+      - hubiese reaccionado
+      - "hubi\xE9semos reaccionado"
+      - hubieseis reaccionado
+      - hubiesen reaccionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reaccionado
+      - hubieres reaccionado
+      - hubiere reaccionado
+      - "hubi\xE9remos reaccionado"
+      - hubiereis reaccionado
+      - hubieren reaccionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reacciona
+      - reaccione
+      - reaccionemos
+      - reaccionad
+      - reaccionen
+      cjid: impf

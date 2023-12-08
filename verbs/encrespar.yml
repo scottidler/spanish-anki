@@ -1,0 +1,207 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|curl}, to {a_link|ruffle}, to {a_link|ripple}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|annoy}, to {a_link|irritate}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to curl one''s hair'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become choppy'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get annoyed'
+            sn: '3'
+    drp: encresparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: encrespar
+  meta:
+    id: encrespar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608495000'
+    src: spanish
+    stems:
+    - encrespar
+    - encresparse
+    uuid: 45d7dc67-da07-4630-a9c4-3a86731eb554
+  shortdef:
+  - to curl, to ruffle, to ripple
+  - to annoy, to irritate
+  suppl:
+    cjts:
+    - cjfs:
+      - encrespando
+      - encrespado
+      cjid: gppt
+    - cjfs:
+      - encrespo
+      - encrespas
+      - encrespa
+      - encrespamos
+      - "encresp\xE1is"
+      - encrespan
+      cjid: pind
+    - cjfs:
+      - encrespaba
+      - encrespabas
+      - encrespaba
+      - "encresp\xE1bamos"
+      - encrespabais
+      - encrespaban
+      cjid: pret
+    - cjfs:
+      - "encresp\xE9"
+      - encrespaste
+      - "encresp\xF3"
+      - encrespamos
+      - encrespasteis
+      - encresparon
+      cjid: pprf
+    - cjfs:
+      - "encrespar\xE9"
+      - "encrespar\xE1s"
+      - "encrespar\xE1"
+      - encresparemos
+      - "encrespar\xE9is"
+      - "encrespar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encrespar\xEDa"
+      - "encrespar\xEDas"
+      - "encrespar\xEDa"
+      - "encrespar\xEDamos"
+      - "encrespar\xEDais"
+      - "encrespar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encrespe
+      - encrespes
+      - encrespe
+      - encrespemos
+      - "encresp\xE9is"
+      - encrespen
+      cjid: psub
+    - cjfs:
+      - encrespara
+      - encresparas
+      - encrespara
+      - "encresp\xE1ramos"
+      - encresparais
+      - encresparan
+      cjid: pisb1
+    - cjfs:
+      - encrespase
+      - encrespases
+      - encrespase
+      - "encresp\xE1semos"
+      - encrespaseis
+      - encrespasen
+      cjid: pisb2
+    - cjfs:
+      - encrespare
+      - encrespares
+      - encrespare
+      - "encresp\xE1remos"
+      - encrespareis
+      - encresparen
+      cjid: fsub
+    - cjfs:
+      - he encrespado
+      - has encrespado
+      - ha encrespado
+      - hemos encrespado
+      - "hab\xE9is encrespado"
+      - han encrespado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encrespado"
+      - "hab\xEDas encrespado"
+      - "hab\xEDa encrespado"
+      - "hab\xEDamos encrespado"
+      - "hab\xEDais encrespado"
+      - "hab\xEDan encrespado"
+      cjid: ppsi
+    - cjfs:
+      - hube encrespado
+      - hubiste encrespado
+      - hubo encrespado
+      - hubimos encrespado
+      - hubisteis encrespado
+      - hubieron encrespado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encrespado"
+      - "habr\xE1s encrespado"
+      - "habr\xE1 encrespado"
+      - habremos encrespado
+      - "habr\xE9is encrespado"
+      - "habr\xE1n encrespado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encrespado"
+      - "habr\xEDas encrespado"
+      - "habr\xEDa encrespado"
+      - "habr\xEDamos encrespado"
+      - "habr\xEDais encrespado"
+      - "habr\xEDan encrespado"
+      cjid: cpef
+    - cjfs:
+      - haya encrespado
+      - hayas encrespado
+      - haya encrespado
+      - hayamos encrespado
+      - "hay\xE1is encrespado"
+      - hayan encrespado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encrespado
+      - hubieras encrespado
+      - hubiera encrespado
+      - "hubi\xE9ramos encrespado"
+      - hubierais encrespado
+      - hubieran encrespado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encrespado
+      - hubieses encrespado
+      - hubiese encrespado
+      - "hubi\xE9semos encrespado"
+      - hubieseis encrespado
+      - hubiesen encrespado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encrespado
+      - hubieres encrespado
+      - hubiere encrespado
+      - "hubi\xE9remos encrespado"
+      - hubiereis encrespado
+      - hubieren encrespado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encrespa
+      - encrespe
+      - encrespemos
+      - encrespad
+      - encrespen
+      cjid: impf

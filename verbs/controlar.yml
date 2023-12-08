@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|control}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|monitor}, to {a_link|check}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: controlar
+    prs:
+    - sound:
+        audio: contr18sp
+  meta:
+    id: controlar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605780000'
+    src: spanish
+    stems:
+    - controlar
+    uuid: 514cc036-4646-4317-8c99-1be13366c403
+  shortdef:
+  - to control
+  - to monitor, to check
+  suppl:
+    cjts:
+    - cjfs:
+      - controlando
+      - controlado
+      cjid: gppt
+    - cjfs:
+      - controlo
+      - controlas
+      - controla
+      - controlamos
+      - "control\xE1is"
+      - controlan
+      cjid: pind
+    - cjfs:
+      - controlaba
+      - controlabas
+      - controlaba
+      - "control\xE1bamos"
+      - controlabais
+      - controlaban
+      cjid: pret
+    - cjfs:
+      - "control\xE9"
+      - controlaste
+      - "control\xF3"
+      - controlamos
+      - controlasteis
+      - controlaron
+      cjid: pprf
+    - cjfs:
+      - "controlar\xE9"
+      - "controlar\xE1s"
+      - "controlar\xE1"
+      - controlaremos
+      - "controlar\xE9is"
+      - "controlar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "controlar\xEDa"
+      - "controlar\xEDas"
+      - "controlar\xEDa"
+      - "controlar\xEDamos"
+      - "controlar\xEDais"
+      - "controlar\xEDan"
+      cjid: cond
+    - cjfs:
+      - controle
+      - controles
+      - controle
+      - controlemos
+      - "control\xE9is"
+      - controlen
+      cjid: psub
+    - cjfs:
+      - controlara
+      - controlaras
+      - controlara
+      - "control\xE1ramos"
+      - controlarais
+      - controlaran
+      cjid: pisb1
+    - cjfs:
+      - controlase
+      - controlases
+      - controlase
+      - "control\xE1semos"
+      - controlaseis
+      - controlasen
+      cjid: pisb2
+    - cjfs:
+      - controlare
+      - controlares
+      - controlare
+      - "control\xE1remos"
+      - controlareis
+      - controlaren
+      cjid: fsub
+    - cjfs:
+      - he controlado
+      - has controlado
+      - ha controlado
+      - hemos controlado
+      - "hab\xE9is controlado"
+      - han controlado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa controlado"
+      - "hab\xEDas controlado"
+      - "hab\xEDa controlado"
+      - "hab\xEDamos controlado"
+      - "hab\xEDais controlado"
+      - "hab\xEDan controlado"
+      cjid: ppsi
+    - cjfs:
+      - hube controlado
+      - hubiste controlado
+      - hubo controlado
+      - hubimos controlado
+      - hubisteis controlado
+      - hubieron controlado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 controlado"
+      - "habr\xE1s controlado"
+      - "habr\xE1 controlado"
+      - habremos controlado
+      - "habr\xE9is controlado"
+      - "habr\xE1n controlado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa controlado"
+      - "habr\xEDas controlado"
+      - "habr\xEDa controlado"
+      - "habr\xEDamos controlado"
+      - "habr\xEDais controlado"
+      - "habr\xEDan controlado"
+      cjid: cpef
+    - cjfs:
+      - haya controlado
+      - hayas controlado
+      - haya controlado
+      - hayamos controlado
+      - "hay\xE1is controlado"
+      - hayan controlado
+      cjid: ppfs
+    - cjfs:
+      - hubiera controlado
+      - hubieras controlado
+      - hubiera controlado
+      - "hubi\xE9ramos controlado"
+      - hubierais controlado
+      - hubieran controlado
+      cjid: ppss1
+    - cjfs:
+      - hubiese controlado
+      - hubieses controlado
+      - hubiese controlado
+      - "hubi\xE9semos controlado"
+      - hubieseis controlado
+      - hubiesen controlado
+      cjid: ppss2
+    - cjfs:
+      - hubiere controlado
+      - hubieres controlado
+      - hubiere controlado
+      - "hubi\xE9remos controlado"
+      - hubiereis controlado
+      - hubieren controlado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - controla
+      - controle
+      - controlemos
+      - controlad
+      - controlen
+      cjid: impf

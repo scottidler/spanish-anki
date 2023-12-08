@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|loosen}, to {a_link|slacken}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay up}, to fork over'
+          sls:
+          - familiar
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|slacken}, to ease up'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become loose, to {a_link|slacken}'
+    drp: aflojarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aflojar
+  meta:
+    id: aflojar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600643000'
+    src: spanish
+    stems:
+    - aflojar
+    - aflojarse
+    uuid: 5bb830dd-d071-4997-a527-68ccd79a3b48
+  shortdef:
+  - to loosen, to slacken
+  - to pay up, to fork over
+  - to slacken, to ease up
+  suppl:
+    cjts:
+    - cjfs:
+      - aflojando
+      - aflojado
+      cjid: gppt
+    - cjfs:
+      - aflojo
+      - aflojas
+      - afloja
+      - aflojamos
+      - "afloj\xE1is"
+      - aflojan
+      cjid: pind
+    - cjfs:
+      - aflojaba
+      - aflojabas
+      - aflojaba
+      - "afloj\xE1bamos"
+      - aflojabais
+      - aflojaban
+      cjid: pret
+    - cjfs:
+      - "afloj\xE9"
+      - aflojaste
+      - "afloj\xF3"
+      - aflojamos
+      - aflojasteis
+      - aflojaron
+      cjid: pprf
+    - cjfs:
+      - "aflojar\xE9"
+      - "aflojar\xE1s"
+      - "aflojar\xE1"
+      - aflojaremos
+      - "aflojar\xE9is"
+      - "aflojar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aflojar\xEDa"
+      - "aflojar\xEDas"
+      - "aflojar\xEDa"
+      - "aflojar\xEDamos"
+      - "aflojar\xEDais"
+      - "aflojar\xEDan"
+      cjid: cond
+    - cjfs:
+      - afloje
+      - aflojes
+      - afloje
+      - aflojemos
+      - "afloj\xE9is"
+      - aflojen
+      cjid: psub
+    - cjfs:
+      - aflojara
+      - aflojaras
+      - aflojara
+      - "afloj\xE1ramos"
+      - aflojarais
+      - aflojaran
+      cjid: pisb1
+    - cjfs:
+      - aflojase
+      - aflojases
+      - aflojase
+      - "afloj\xE1semos"
+      - aflojaseis
+      - aflojasen
+      cjid: pisb2
+    - cjfs:
+      - aflojare
+      - aflojares
+      - aflojare
+      - "afloj\xE1remos"
+      - aflojareis
+      - aflojaren
+      cjid: fsub
+    - cjfs:
+      - he aflojado
+      - has aflojado
+      - ha aflojado
+      - hemos aflojado
+      - "hab\xE9is aflojado"
+      - han aflojado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aflojado"
+      - "hab\xEDas aflojado"
+      - "hab\xEDa aflojado"
+      - "hab\xEDamos aflojado"
+      - "hab\xEDais aflojado"
+      - "hab\xEDan aflojado"
+      cjid: ppsi
+    - cjfs:
+      - hube aflojado
+      - hubiste aflojado
+      - hubo aflojado
+      - hubimos aflojado
+      - hubisteis aflojado
+      - hubieron aflojado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aflojado"
+      - "habr\xE1s aflojado"
+      - "habr\xE1 aflojado"
+      - habremos aflojado
+      - "habr\xE9is aflojado"
+      - "habr\xE1n aflojado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aflojado"
+      - "habr\xEDas aflojado"
+      - "habr\xEDa aflojado"
+      - "habr\xEDamos aflojado"
+      - "habr\xEDais aflojado"
+      - "habr\xEDan aflojado"
+      cjid: cpef
+    - cjfs:
+      - haya aflojado
+      - hayas aflojado
+      - haya aflojado
+      - hayamos aflojado
+      - "hay\xE1is aflojado"
+      - hayan aflojado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aflojado
+      - hubieras aflojado
+      - hubiera aflojado
+      - "hubi\xE9ramos aflojado"
+      - hubierais aflojado
+      - hubieran aflojado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aflojado
+      - hubieses aflojado
+      - hubiese aflojado
+      - "hubi\xE9semos aflojado"
+      - hubieseis aflojado
+      - hubiesen aflojado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aflojado
+      - hubieres aflojado
+      - hubiere aflojado
+      - "hubi\xE9remos aflojado"
+      - hubiereis aflojado
+      - hubieren aflojado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - afloja
+      - afloje
+      - aflojemos
+      - aflojad
+      - aflojen
+      cjid: impf

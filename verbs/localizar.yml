@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ubicar||} {bc}to {a_link|locate}, to {a_link|find}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|localize}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|ubicarse||} {bc}to be located '
+            - - vis
+              - - t: "se localiza en el s\xE9ptimo piso"
+                  tr: it is located on the seventh floor
+    drp: localizarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: localizar
+    prs:
+    - sound:
+        audio: local04sp
+  meta:
+    id: localizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613969000'
+    src: spanish
+    stems:
+    - localizar
+    - localizarse
+    uuid: 053b1556-dcc0-466c-8d0a-ff555070d2ad
+  shortdef:
+  - 'ubicar : to locate, to find'
+  - to localize
+  suppl:
+    cjts:
+    - cjfs:
+      - localizando
+      - localizado
+      cjid: gppt
+    - cjfs:
+      - localizo
+      - localizas
+      - localiza
+      - localizamos
+      - "localiz\xE1is"
+      - localizan
+      cjid: pind
+    - cjfs:
+      - localizaba
+      - localizabas
+      - localizaba
+      - "localiz\xE1bamos"
+      - localizabais
+      - localizaban
+      cjid: pret
+    - cjfs:
+      - "localic\xE9"
+      - localizaste
+      - "localiz\xF3"
+      - localizamos
+      - localizasteis
+      - localizaron
+      cjid: pprf
+    - cjfs:
+      - "localizar\xE9"
+      - "localizar\xE1s"
+      - "localizar\xE1"
+      - localizaremos
+      - "localizar\xE9is"
+      - "localizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "localizar\xEDa"
+      - "localizar\xEDas"
+      - "localizar\xEDa"
+      - "localizar\xEDamos"
+      - "localizar\xEDais"
+      - "localizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - localice
+      - localices
+      - localice
+      - localicemos
+      - "localic\xE9is"
+      - localicen
+      cjid: psub
+    - cjfs:
+      - localizara
+      - localizaras
+      - localizara
+      - "localiz\xE1ramos"
+      - localizarais
+      - localizaran
+      cjid: pisb1
+    - cjfs:
+      - localizase
+      - localizases
+      - localizase
+      - "localiz\xE1semos"
+      - localizaseis
+      - localizasen
+      cjid: pisb2
+    - cjfs:
+      - localizare
+      - localizares
+      - localizare
+      - "localiz\xE1remos"
+      - localizareis
+      - localizaren
+      cjid: fsub
+    - cjfs:
+      - he localizado
+      - has localizado
+      - ha localizado
+      - hemos localizado
+      - "hab\xE9is localizado"
+      - han localizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa localizado"
+      - "hab\xEDas localizado"
+      - "hab\xEDa localizado"
+      - "hab\xEDamos localizado"
+      - "hab\xEDais localizado"
+      - "hab\xEDan localizado"
+      cjid: ppsi
+    - cjfs:
+      - hube localizado
+      - hubiste localizado
+      - hubo localizado
+      - hubimos localizado
+      - hubisteis localizado
+      - hubieron localizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 localizado"
+      - "habr\xE1s localizado"
+      - "habr\xE1 localizado"
+      - habremos localizado
+      - "habr\xE9is localizado"
+      - "habr\xE1n localizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa localizado"
+      - "habr\xEDas localizado"
+      - "habr\xEDa localizado"
+      - "habr\xEDamos localizado"
+      - "habr\xEDais localizado"
+      - "habr\xEDan localizado"
+      cjid: cpef
+    - cjfs:
+      - haya localizado
+      - hayas localizado
+      - haya localizado
+      - hayamos localizado
+      - "hay\xE1is localizado"
+      - hayan localizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera localizado
+      - hubieras localizado
+      - hubiera localizado
+      - "hubi\xE9ramos localizado"
+      - hubierais localizado
+      - hubieran localizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese localizado
+      - hubieses localizado
+      - hubiese localizado
+      - "hubi\xE9semos localizado"
+      - hubieseis localizado
+      - hubiesen localizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere localizado
+      - hubieres localizado
+      - hubiere localizado
+      - "hubi\xE9remos localizado"
+      - hubiereis localizado
+      - hubieren localizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - localiza
+      - localice
+      - localicemos
+      - localizad
+      - localicen
+      cjid: impf

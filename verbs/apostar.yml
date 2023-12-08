@@ -1,0 +1,185 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bet}, to {a_link|wager} '
+          - - vis
+            - - t: apuesto que no viene
+                tr: I bet he's not coming
+  fl: verb
+  hwi:
+    hw: apostar
+    prs:
+    - sound:
+        audio: apost01sp
+  meta:
+    id: apostar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601756000'
+    src: spanish
+    stems:
+    - apostar
+    uuid: cd205d20-f710-4a53-b1c1-ec9fcf9e2dd0
+  shortdef:
+  - to bet, to wager
+  suppl:
+    cjts:
+    - cjfs:
+      - apostando
+      - apostado
+      cjid: gppt
+    - cjfs:
+      - apuesto
+      - apuestas
+      - apuesta
+      - apostamos
+      - "apost\xE1is"
+      - apuestan
+      cjid: pind
+    - cjfs:
+      - apostaba
+      - apostabas
+      - apostaba
+      - "apost\xE1bamos"
+      - apostabais
+      - apostaban
+      cjid: pret
+    - cjfs:
+      - "apost\xE9"
+      - apostaste
+      - "apost\xF3"
+      - apostamos
+      - apostasteis
+      - apostaron
+      cjid: pprf
+    - cjfs:
+      - "apostar\xE9"
+      - "apostar\xE1s"
+      - "apostar\xE1"
+      - apostaremos
+      - "apostar\xE9is"
+      - "apostar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apostar\xEDa"
+      - "apostar\xEDas"
+      - "apostar\xEDa"
+      - "apostar\xEDamos"
+      - "apostar\xEDais"
+      - "apostar\xEDan"
+      cjid: cond
+    - cjfs:
+      - apueste
+      - apuestes
+      - apueste
+      - apostemos
+      - "apost\xE9is"
+      - apuesten
+      cjid: psub
+    - cjfs:
+      - apostara
+      - apostaras
+      - apostara
+      - "apost\xE1ramos"
+      - apostarais
+      - apostaran
+      cjid: pisb1
+    - cjfs:
+      - apostase
+      - apostases
+      - apostase
+      - "apost\xE1semos"
+      - apostaseis
+      - apostasen
+      cjid: pisb2
+    - cjfs:
+      - apostare
+      - apostares
+      - apostare
+      - "apost\xE1remos"
+      - apostareis
+      - apostaren
+      cjid: fsub
+    - cjfs:
+      - he apostado
+      - has apostado
+      - ha apostado
+      - hemos apostado
+      - "hab\xE9is apostado"
+      - han apostado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apostado"
+      - "hab\xEDas apostado"
+      - "hab\xEDa apostado"
+      - "hab\xEDamos apostado"
+      - "hab\xEDais apostado"
+      - "hab\xEDan apostado"
+      cjid: ppsi
+    - cjfs:
+      - hube apostado
+      - hubiste apostado
+      - hubo apostado
+      - hubimos apostado
+      - hubisteis apostado
+      - hubieron apostado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apostado"
+      - "habr\xE1s apostado"
+      - "habr\xE1 apostado"
+      - habremos apostado
+      - "habr\xE9is apostado"
+      - "habr\xE1n apostado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apostado"
+      - "habr\xEDas apostado"
+      - "habr\xEDa apostado"
+      - "habr\xEDamos apostado"
+      - "habr\xEDais apostado"
+      - "habr\xEDan apostado"
+      cjid: cpef
+    - cjfs:
+      - haya apostado
+      - hayas apostado
+      - haya apostado
+      - hayamos apostado
+      - "hay\xE1is apostado"
+      - hayan apostado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apostado
+      - hubieras apostado
+      - hubiera apostado
+      - "hubi\xE9ramos apostado"
+      - hubierais apostado
+      - hubieran apostado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apostado
+      - hubieses apostado
+      - hubiese apostado
+      - "hubi\xE9semos apostado"
+      - hubieseis apostado
+      - hubiesen apostado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apostado
+      - hubieres apostado
+      - hubiere apostado
+      - "hubi\xE9remos apostado"
+      - hubiereis apostado
+      - hubieren apostado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apuesta
+      - apueste
+      - apostemos
+      - apostad
+      - apuesten
+      cjid: impf

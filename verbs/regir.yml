@@ -1,0 +1,221 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rule}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|manage}, to {a_link|run}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|control}, to {a_link|govern} '
+          - - vis
+            - - t: las costumbres que rigen la conducta
+                tr: the customs which govern behavior
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|apply}, to be in force '
+          - - vis
+            - - t: "las leyes rigen en los tres pa\xEDses"
+                tr: the laws apply in all three countries
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go by}, to be guided by'
+            vrs:
+            - va: regirse por
+              vac: ~ por
+    drp: regirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: regir
+    prs:
+    - sound:
+        audio: regir01sp
+  meta:
+    id: regir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619212000'
+    src: spanish
+    stems:
+    - regir
+    - regirse
+    - regirse por
+    uuid: e5faefaa-ad41-46ec-8727-0977329e78e1
+  shortdef:
+  - to rule
+  - to manage, to run
+  - to control, to govern
+  suppl:
+    cjts:
+    - cjfs:
+      - rigiendo
+      - regido
+      cjid: gppt
+    - cjfs:
+      - rijo
+      - riges
+      - rige
+      - regimos
+      - "reg\xEDs"
+      - rigen
+      cjid: pind
+    - cjfs:
+      - "reg\xEDa"
+      - "reg\xEDas"
+      - "reg\xEDa"
+      - "reg\xEDamos"
+      - "reg\xEDais"
+      - "reg\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reg\xED"
+      - registe
+      - "rigi\xF3"
+      - regimos
+      - registeis
+      - rigieron
+      cjid: pprf
+    - cjfs:
+      - "regir\xE9"
+      - "regir\xE1s"
+      - "regir\xE1"
+      - regiremos
+      - "regir\xE9is"
+      - "regir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "regir\xEDa"
+      - "regir\xEDas"
+      - "regir\xEDa"
+      - "regir\xEDamos"
+      - "regir\xEDais"
+      - "regir\xEDan"
+      cjid: cond
+    - cjfs:
+      - rija
+      - rijas
+      - rija
+      - rijamos
+      - "rij\xE1is"
+      - rijan
+      cjid: psub
+    - cjfs:
+      - rigiera
+      - rigieras
+      - rigiera
+      - "rigi\xE9ramos"
+      - rigierais
+      - rigieran
+      cjid: pisb1
+    - cjfs:
+      - rigiese
+      - rigieses
+      - rigiese
+      - "rigi\xE9semos"
+      - rigieseis
+      - rigiesen
+      cjid: pisb2
+    - cjfs:
+      - rigiere
+      - rigieres
+      - rigiere
+      - "rigi\xE9remos"
+      - rigiereis
+      - rigieren
+      cjid: fsub
+    - cjfs:
+      - he regido
+      - has regido
+      - ha regido
+      - hemos regido
+      - "hab\xE9is regido"
+      - han regido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa regido"
+      - "hab\xEDas regido"
+      - "hab\xEDa regido"
+      - "hab\xEDamos regido"
+      - "hab\xEDais regido"
+      - "hab\xEDan regido"
+      cjid: ppsi
+    - cjfs:
+      - hube regido
+      - hubiste regido
+      - hubo regido
+      - hubimos regido
+      - hubisteis regido
+      - hubieron regido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 regido"
+      - "habr\xE1s regido"
+      - "habr\xE1 regido"
+      - habremos regido
+      - "habr\xE9is regido"
+      - "habr\xE1n regido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa regido"
+      - "habr\xEDas regido"
+      - "habr\xEDa regido"
+      - "habr\xEDamos regido"
+      - "habr\xEDais regido"
+      - "habr\xEDan regido"
+      cjid: cpef
+    - cjfs:
+      - haya regido
+      - hayas regido
+      - haya regido
+      - hayamos regido
+      - "hay\xE1is regido"
+      - hayan regido
+      cjid: ppfs
+    - cjfs:
+      - hubiera regido
+      - hubieras regido
+      - hubiera regido
+      - "hubi\xE9ramos regido"
+      - hubierais regido
+      - hubieran regido
+      cjid: ppss1
+    - cjfs:
+      - hubiese regido
+      - hubieses regido
+      - hubiese regido
+      - "hubi\xE9semos regido"
+      - hubieseis regido
+      - hubiesen regido
+      cjid: ppss2
+    - cjfs:
+      - hubiere regido
+      - hubieres regido
+      - hubiere regido
+      - "hubi\xE9remos regido"
+      - hubiereis regido
+      - hubieren regido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rige
+      - rija
+      - rijamos
+      - regid
+      - rijan
+      cjid: impf

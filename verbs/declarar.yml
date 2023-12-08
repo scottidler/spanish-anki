@@ -1,0 +1,235 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|declare}, to {a_link|state} '
+          - - vis
+            - - t: declarar culpable
+                tr: to find guilty
+              - t: declarar inocente
+                tr: to find not guilty
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|atestiguar||} {bc}to {a_link|testify}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to declare oneself (to be) '
+            - - vis
+              - - t: declararse en huelga
+                  tr: to go on strike
+                - t: declararse en bancarrota
+                  tr: to declare bankruptcy
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to confess one''s love'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|plead} (in court) '
+            - - vis
+              - - t: declararse culpable
+                  tr: to plead guilty
+                - t: declararse inocente
+                  tr: to plead not guilty
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|testify}'
+            sn: '4'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|break out} (of a fire, etc.)'
+            sn: '5'
+    drp: declararse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: declarar
+    prs:
+    - sound:
+        audio: decla02sp
+  meta:
+    id: declarar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606519000'
+    src: spanish
+    stems:
+    - declarar
+    - declararse
+    uuid: a6771942-bbb5-4d7a-bdca-50497d7b1f98
+  shortdef:
+  - to declare, to state
+  - 'atestiguar : to testify'
+  suppl:
+    cjts:
+    - cjfs:
+      - declarando
+      - declarado
+      cjid: gppt
+    - cjfs:
+      - declaro
+      - declaras
+      - declara
+      - declaramos
+      - "declar\xE1is"
+      - declaran
+      cjid: pind
+    - cjfs:
+      - declaraba
+      - declarabas
+      - declaraba
+      - "declar\xE1bamos"
+      - declarabais
+      - declaraban
+      cjid: pret
+    - cjfs:
+      - "declar\xE9"
+      - declaraste
+      - "declar\xF3"
+      - declaramos
+      - declarasteis
+      - declararon
+      cjid: pprf
+    - cjfs:
+      - "declarar\xE9"
+      - "declarar\xE1s"
+      - "declarar\xE1"
+      - declararemos
+      - "declarar\xE9is"
+      - "declarar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "declarar\xEDa"
+      - "declarar\xEDas"
+      - "declarar\xEDa"
+      - "declarar\xEDamos"
+      - "declarar\xEDais"
+      - "declarar\xEDan"
+      cjid: cond
+    - cjfs:
+      - declare
+      - declares
+      - declare
+      - declaremos
+      - "declar\xE9is"
+      - declaren
+      cjid: psub
+    - cjfs:
+      - declarara
+      - declararas
+      - declarara
+      - "declar\xE1ramos"
+      - declararais
+      - declararan
+      cjid: pisb1
+    - cjfs:
+      - declarase
+      - declarases
+      - declarase
+      - "declar\xE1semos"
+      - declaraseis
+      - declarasen
+      cjid: pisb2
+    - cjfs:
+      - declarare
+      - declarares
+      - declarare
+      - "declar\xE1remos"
+      - declarareis
+      - declararen
+      cjid: fsub
+    - cjfs:
+      - he declarado
+      - has declarado
+      - ha declarado
+      - hemos declarado
+      - "hab\xE9is declarado"
+      - han declarado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa declarado"
+      - "hab\xEDas declarado"
+      - "hab\xEDa declarado"
+      - "hab\xEDamos declarado"
+      - "hab\xEDais declarado"
+      - "hab\xEDan declarado"
+      cjid: ppsi
+    - cjfs:
+      - hube declarado
+      - hubiste declarado
+      - hubo declarado
+      - hubimos declarado
+      - hubisteis declarado
+      - hubieron declarado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 declarado"
+      - "habr\xE1s declarado"
+      - "habr\xE1 declarado"
+      - habremos declarado
+      - "habr\xE9is declarado"
+      - "habr\xE1n declarado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa declarado"
+      - "habr\xEDas declarado"
+      - "habr\xEDa declarado"
+      - "habr\xEDamos declarado"
+      - "habr\xEDais declarado"
+      - "habr\xEDan declarado"
+      cjid: cpef
+    - cjfs:
+      - haya declarado
+      - hayas declarado
+      - haya declarado
+      - hayamos declarado
+      - "hay\xE1is declarado"
+      - hayan declarado
+      cjid: ppfs
+    - cjfs:
+      - hubiera declarado
+      - hubieras declarado
+      - hubiera declarado
+      - "hubi\xE9ramos declarado"
+      - hubierais declarado
+      - hubieran declarado
+      cjid: ppss1
+    - cjfs:
+      - hubiese declarado
+      - hubieses declarado
+      - hubiese declarado
+      - "hubi\xE9semos declarado"
+      - hubieseis declarado
+      - hubiesen declarado
+      cjid: ppss2
+    - cjfs:
+      - hubiere declarado
+      - hubieres declarado
+      - hubiere declarado
+      - "hubi\xE9remos declarado"
+      - hubiereis declarado
+      - hubieren declarado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - declara
+      - declare
+      - declaremos
+      - declarad
+      - declaren
+      cjid: impf

@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|calm}, to {a_link|soothe}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|calm down}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|ease} (of pain, etc.)'
+            sn: '2'
+    drp: calmarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: calmar
+    prs:
+    - sound:
+        audio: calma02sp
+  meta:
+    id: calmar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603686000'
+    src: spanish
+    stems:
+    - calmar
+    - calmarse
+    uuid: cae69248-6f74-4f23-92da-73358c6900bb
+  shortdef:
+  - to calm, to soothe
+  suppl:
+    cjts:
+    - cjfs:
+      - calmando
+      - calmado
+      cjid: gppt
+    - cjfs:
+      - calmo
+      - calmas
+      - calma
+      - calmamos
+      - "calm\xE1is"
+      - calman
+      cjid: pind
+    - cjfs:
+      - calmaba
+      - calmabas
+      - calmaba
+      - "calm\xE1bamos"
+      - calmabais
+      - calmaban
+      cjid: pret
+    - cjfs:
+      - "calm\xE9"
+      - calmaste
+      - "calm\xF3"
+      - calmamos
+      - calmasteis
+      - calmaron
+      cjid: pprf
+    - cjfs:
+      - "calmar\xE9"
+      - "calmar\xE1s"
+      - "calmar\xE1"
+      - calmaremos
+      - "calmar\xE9is"
+      - "calmar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "calmar\xEDa"
+      - "calmar\xEDas"
+      - "calmar\xEDa"
+      - "calmar\xEDamos"
+      - "calmar\xEDais"
+      - "calmar\xEDan"
+      cjid: cond
+    - cjfs:
+      - calme
+      - calmes
+      - calme
+      - calmemos
+      - "calm\xE9is"
+      - calmen
+      cjid: psub
+    - cjfs:
+      - calmara
+      - calmaras
+      - calmara
+      - "calm\xE1ramos"
+      - calmarais
+      - calmaran
+      cjid: pisb1
+    - cjfs:
+      - calmase
+      - calmases
+      - calmase
+      - "calm\xE1semos"
+      - calmaseis
+      - calmasen
+      cjid: pisb2
+    - cjfs:
+      - calmare
+      - calmares
+      - calmare
+      - "calm\xE1remos"
+      - calmareis
+      - calmaren
+      cjid: fsub
+    - cjfs:
+      - he calmado
+      - has calmado
+      - ha calmado
+      - hemos calmado
+      - "hab\xE9is calmado"
+      - han calmado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa calmado"
+      - "hab\xEDas calmado"
+      - "hab\xEDa calmado"
+      - "hab\xEDamos calmado"
+      - "hab\xEDais calmado"
+      - "hab\xEDan calmado"
+      cjid: ppsi
+    - cjfs:
+      - hube calmado
+      - hubiste calmado
+      - hubo calmado
+      - hubimos calmado
+      - hubisteis calmado
+      - hubieron calmado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 calmado"
+      - "habr\xE1s calmado"
+      - "habr\xE1 calmado"
+      - habremos calmado
+      - "habr\xE9is calmado"
+      - "habr\xE1n calmado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa calmado"
+      - "habr\xEDas calmado"
+      - "habr\xEDa calmado"
+      - "habr\xEDamos calmado"
+      - "habr\xEDais calmado"
+      - "habr\xEDan calmado"
+      cjid: cpef
+    - cjfs:
+      - haya calmado
+      - hayas calmado
+      - haya calmado
+      - hayamos calmado
+      - "hay\xE1is calmado"
+      - hayan calmado
+      cjid: ppfs
+    - cjfs:
+      - hubiera calmado
+      - hubieras calmado
+      - hubiera calmado
+      - "hubi\xE9ramos calmado"
+      - hubierais calmado
+      - hubieran calmado
+      cjid: ppss1
+    - cjfs:
+      - hubiese calmado
+      - hubieses calmado
+      - hubiese calmado
+      - "hubi\xE9semos calmado"
+      - hubieseis calmado
+      - hubiesen calmado
+      cjid: ppss2
+    - cjfs:
+      - hubiere calmado
+      - hubieres calmado
+      - hubiere calmado
+      - "hubi\xE9remos calmado"
+      - hubiereis calmado
+      - hubieren calmado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - calma
+      - calme
+      - calmemos
+      - calmad
+      - calmen
+      cjid: impf

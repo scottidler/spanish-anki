@@ -1,0 +1,217 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wash}, to {a_link|clean}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|launder} (money)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dry-clean}'
+          sn: '3'
+          vrs:
+          - va: lavar en seco
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to wash oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to wash one''s hands of'
+            sn: '2'
+            vrs:
+            - va: lavarse las manos de
+    drp: lavarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: lavar
+    prs:
+    - sound:
+        audio: lavar01sp
+  meta:
+    id: lavar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613561000'
+    src: spanish
+    stems:
+    - lavar
+    - lavar en seco
+    - lavarse
+    - lavarse las manos de
+    uuid: ee405a91-763d-47f5-891c-4fc13f2b7d70
+  shortdef:
+  - to wash, to clean
+  - to launder (money)
+  - to dry-clean
+  suppl:
+    cjts:
+    - cjfs:
+      - lavando
+      - lavado
+      cjid: gppt
+    - cjfs:
+      - lavo
+      - lavas
+      - lava
+      - lavamos
+      - "lav\xE1is"
+      - lavan
+      cjid: pind
+    - cjfs:
+      - lavaba
+      - lavabas
+      - lavaba
+      - "lav\xE1bamos"
+      - lavabais
+      - lavaban
+      cjid: pret
+    - cjfs:
+      - "lav\xE9"
+      - lavaste
+      - "lav\xF3"
+      - lavamos
+      - lavasteis
+      - lavaron
+      cjid: pprf
+    - cjfs:
+      - "lavar\xE9"
+      - "lavar\xE1s"
+      - "lavar\xE1"
+      - lavaremos
+      - "lavar\xE9is"
+      - "lavar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "lavar\xEDa"
+      - "lavar\xEDas"
+      - "lavar\xEDa"
+      - "lavar\xEDamos"
+      - "lavar\xEDais"
+      - "lavar\xEDan"
+      cjid: cond
+    - cjfs:
+      - lave
+      - laves
+      - lave
+      - lavemos
+      - "lav\xE9is"
+      - laven
+      cjid: psub
+    - cjfs:
+      - lavara
+      - lavaras
+      - lavara
+      - "lav\xE1ramos"
+      - lavarais
+      - lavaran
+      cjid: pisb1
+    - cjfs:
+      - lavase
+      - lavases
+      - lavase
+      - "lav\xE1semos"
+      - lavaseis
+      - lavasen
+      cjid: pisb2
+    - cjfs:
+      - lavare
+      - lavares
+      - lavare
+      - "lav\xE1remos"
+      - lavareis
+      - lavaren
+      cjid: fsub
+    - cjfs:
+      - he lavado
+      - has lavado
+      - ha lavado
+      - hemos lavado
+      - "hab\xE9is lavado"
+      - han lavado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa lavado"
+      - "hab\xEDas lavado"
+      - "hab\xEDa lavado"
+      - "hab\xEDamos lavado"
+      - "hab\xEDais lavado"
+      - "hab\xEDan lavado"
+      cjid: ppsi
+    - cjfs:
+      - hube lavado
+      - hubiste lavado
+      - hubo lavado
+      - hubimos lavado
+      - hubisteis lavado
+      - hubieron lavado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 lavado"
+      - "habr\xE1s lavado"
+      - "habr\xE1 lavado"
+      - habremos lavado
+      - "habr\xE9is lavado"
+      - "habr\xE1n lavado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa lavado"
+      - "habr\xEDas lavado"
+      - "habr\xEDa lavado"
+      - "habr\xEDamos lavado"
+      - "habr\xEDais lavado"
+      - "habr\xEDan lavado"
+      cjid: cpef
+    - cjfs:
+      - haya lavado
+      - hayas lavado
+      - haya lavado
+      - hayamos lavado
+      - "hay\xE1is lavado"
+      - hayan lavado
+      cjid: ppfs
+    - cjfs:
+      - hubiera lavado
+      - hubieras lavado
+      - hubiera lavado
+      - "hubi\xE9ramos lavado"
+      - hubierais lavado
+      - hubieran lavado
+      cjid: ppss1
+    - cjfs:
+      - hubiese lavado
+      - hubieses lavado
+      - hubiese lavado
+      - "hubi\xE9semos lavado"
+      - hubieseis lavado
+      - hubiesen lavado
+      cjid: ppss2
+    - cjfs:
+      - hubiere lavado
+      - hubieres lavado
+      - hubiere lavado
+      - "hubi\xE9remos lavado"
+      - hubiereis lavado
+      - hubieren lavado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - lava
+      - lave
+      - lavemos
+      - lavad
+      - laven
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|last}'
+  fl: verb
+  hwi:
+    hw: durar
+    prs:
+    - sound:
+        audio: durar01sp
+  meta:
+    id: durar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608000000'
+    src: spanish
+    stems:
+    - durar
+    uuid: b7b6a48f-7769-4e98-9a62-6ce1f2fb19e1
+  shortdef:
+  - to last
+  suppl:
+    cjts:
+    - cjfs:
+      - durando
+      - durado
+      cjid: gppt
+    - cjfs:
+      - duro
+      - duras
+      - dura
+      - duramos
+      - "dur\xE1is"
+      - duran
+      cjid: pind
+    - cjfs:
+      - duraba
+      - durabas
+      - duraba
+      - "dur\xE1bamos"
+      - durabais
+      - duraban
+      cjid: pret
+    - cjfs:
+      - "dur\xE9"
+      - duraste
+      - "dur\xF3"
+      - duramos
+      - durasteis
+      - duraron
+      cjid: pprf
+    - cjfs:
+      - "durar\xE9"
+      - "durar\xE1s"
+      - "durar\xE1"
+      - duraremos
+      - "durar\xE9is"
+      - "durar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "durar\xEDa"
+      - "durar\xEDas"
+      - "durar\xEDa"
+      - "durar\xEDamos"
+      - "durar\xEDais"
+      - "durar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dure
+      - dures
+      - dure
+      - duremos
+      - "dur\xE9is"
+      - duren
+      cjid: psub
+    - cjfs:
+      - durara
+      - duraras
+      - durara
+      - "dur\xE1ramos"
+      - durarais
+      - duraran
+      cjid: pisb1
+    - cjfs:
+      - durase
+      - durases
+      - durase
+      - "dur\xE1semos"
+      - duraseis
+      - durasen
+      cjid: pisb2
+    - cjfs:
+      - durare
+      - durares
+      - durare
+      - "dur\xE1remos"
+      - durareis
+      - duraren
+      cjid: fsub
+    - cjfs:
+      - he durado
+      - has durado
+      - ha durado
+      - hemos durado
+      - "hab\xE9is durado"
+      - han durado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa durado"
+      - "hab\xEDas durado"
+      - "hab\xEDa durado"
+      - "hab\xEDamos durado"
+      - "hab\xEDais durado"
+      - "hab\xEDan durado"
+      cjid: ppsi
+    - cjfs:
+      - hube durado
+      - hubiste durado
+      - hubo durado
+      - hubimos durado
+      - hubisteis durado
+      - hubieron durado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 durado"
+      - "habr\xE1s durado"
+      - "habr\xE1 durado"
+      - habremos durado
+      - "habr\xE9is durado"
+      - "habr\xE1n durado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa durado"
+      - "habr\xEDas durado"
+      - "habr\xEDa durado"
+      - "habr\xEDamos durado"
+      - "habr\xEDais durado"
+      - "habr\xEDan durado"
+      cjid: cpef
+    - cjfs:
+      - haya durado
+      - hayas durado
+      - haya durado
+      - hayamos durado
+      - "hay\xE1is durado"
+      - hayan durado
+      cjid: ppfs
+    - cjfs:
+      - hubiera durado
+      - hubieras durado
+      - hubiera durado
+      - "hubi\xE9ramos durado"
+      - hubierais durado
+      - hubieran durado
+      cjid: ppss1
+    - cjfs:
+      - hubiese durado
+      - hubieses durado
+      - hubiese durado
+      - "hubi\xE9semos durado"
+      - hubieseis durado
+      - hubiesen durado
+      cjid: ppss2
+    - cjfs:
+      - hubiere durado
+      - hubieres durado
+      - hubiere durado
+      - "hubi\xE9remos durado"
+      - hubiereis durado
+      - hubieren durado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dura
+      - dure
+      - duremos
+      - durad
+      - duren
+      cjid: impf

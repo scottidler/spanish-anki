@@ -1,0 +1,268 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fallecer||} {bc}to {a_link|die} '
+          - - vis
+            - - t: "muri\xF3 de c\xE1ncer"
+                tr: he died of cancer
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apagarse||} {bc}to {a_link|die out}, to {a_link|go out}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|die}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - vis
+              - - t: "\xA1me muero de fr\xEDo/hambre!"
+                  tr: I'm freezing/starving!
+                - t: "cuando lo vi casi me muero de verg\xFCenza"
+                  tr: when I saw it I nearly died of embarrassment
+                - t: morirse de risa
+                  tr: to die laughing
+            sls:
+            - (expressing an extreme state)
+            sn: '2'
+            vrs:
+            - va: morirse de
+              vac: ~ de
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be dying for (something), to be dying to (do something) '
+            - - vis
+              - - t: se muere por jugar
+                  tr: she's dying to play
+                - t: se muere por ti
+                  tr: he's crazy about you
+            sn: '3'
+            vrs:
+            - va: morirse por
+              vac: ~ por
+    drp: morirse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: morir
+    prs:
+    - sound:
+        audio: morir01sp
+  meta:
+    id: morir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615354000'
+    src: spanish
+    stems:
+    - morir
+    - morirse
+    - morirse de
+    - morirse por
+    uuid: 17dc9db3-680f-4218-9e90-76d9ace8ac3e
+  shortdef:
+  - 'fallecer : to die'
+  - 'apagarse : to die out, to go out'
+  suppl:
+    cjts:
+    - cjfs:
+      - muriendo
+      - muerto
+      cjid: gppt
+    - cjfs:
+      - muero
+      - mueres
+      - muere
+      - morimos
+      - "mor\xEDs"
+      - mueren
+      cjid: pind
+    - cjfs:
+      - "mor\xEDa"
+      - "mor\xEDas"
+      - "mor\xEDa"
+      - "mor\xEDamos"
+      - "mor\xEDais"
+      - "mor\xEDan"
+      cjid: pret
+    - cjfs:
+      - "mor\xED"
+      - moriste
+      - "muri\xF3"
+      - morimos
+      - moristeis
+      - murieron
+      cjid: pprf
+    - cjfs:
+      - "morir\xE9"
+      - "morir\xE1s"
+      - "morir\xE1"
+      - moriremos
+      - "morir\xE9is"
+      - "morir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "morir\xEDa"
+      - "morir\xEDas"
+      - "morir\xEDa"
+      - "morir\xEDamos"
+      - "morir\xEDais"
+      - "morir\xEDan"
+      cjid: cond
+    - cjfs:
+      - muera
+      - mueras
+      - muera
+      - muramos
+      - "mur\xE1is"
+      - mueran
+      cjid: psub
+    - cjfs:
+      - muriera
+      - murieras
+      - muriera
+      - "muri\xE9ramos"
+      - murierais
+      - murieran
+      cjid: pisb1
+    - cjfs:
+      - muriese
+      - murieses
+      - muriese
+      - "muri\xE9semos"
+      - murieseis
+      - muriesen
+      cjid: pisb2
+    - cjfs:
+      - muriere
+      - murieres
+      - muriere
+      - "muri\xE9remos"
+      - muriereis
+      - murieren
+      cjid: fsub
+    - cjfs:
+      - he muerto
+      - has muerto
+      - ha muerto
+      - hemos muerto
+      - "hab\xE9is muerto"
+      - han muerto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa muerto"
+      - "hab\xEDas muerto"
+      - "hab\xEDa muerto"
+      - "hab\xEDamos muerto"
+      - "hab\xEDais muerto"
+      - "hab\xEDan muerto"
+      cjid: ppsi
+    - cjfs:
+      - hube muerto
+      - hubiste muerto
+      - hubo muerto
+      - hubimos muerto
+      - hubisteis muerto
+      - hubieron muerto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 muerto"
+      - "habr\xE1s muerto"
+      - "habr\xE1 muerto"
+      - habremos muerto
+      - "habr\xE9is muerto"
+      - "habr\xE1n muerto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa muerto"
+      - "habr\xEDas muerto"
+      - "habr\xEDa muerto"
+      - "habr\xEDamos muerto"
+      - "habr\xEDais muerto"
+      - "habr\xEDan muerto"
+      cjid: cpef
+    - cjfs:
+      - haya muerto
+      - hayas muerto
+      - haya muerto
+      - hayamos muerto
+      - "hay\xE1is muerto"
+      - hayan muerto
+      cjid: ppfs
+    - cjfs:
+      - hubiera muerto
+      - hubieras muerto
+      - hubiera muerto
+      - "hubi\xE9ramos muerto"
+      - hubierais muerto
+      - hubieran muerto
+      cjid: ppss1
+    - cjfs:
+      - hubiese muerto
+      - hubieses muerto
+      - hubiese muerto
+      - "hubi\xE9semos muerto"
+      - hubieseis muerto
+      - hubiesen muerto
+      cjid: ppss2
+    - cjfs:
+      - hubiere muerto
+      - hubieres muerto
+      - hubiere muerto
+      - "hubi\xE9remos muerto"
+      - hubiereis muerto
+      - hubieren muerto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - muere
+      - muera
+      - muramos
+      - morid
+      - mueran
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fogata||} {bc}{a_link|bonfire}, campfire'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to burn at the stake'
+          sn: '2'
+          vrs:
+          - va: morir en la hoguera
+  fl: feminine noun
+  hwi:
+    hw: hoguera
+    prs:
+    - sound:
+        audio: hogue01sp
+  meta:
+    id: hoguera
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611565000'
+    src: spanish
+    stems:
+    - hoguera
+    - hogueras
+    - morir en la hoguera
+    uuid: b1595c75-f948-46c3-b25e-124e354cbeff
+  shortdef:
+  - 'fogata : bonfire, campfire'
+  - to burn at the stake

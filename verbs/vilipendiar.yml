@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vilify}, to {a_link|revile}'
+  fl: transitive verb
+  hwi:
+    hw: vilipendiar
+  meta:
+    id: vilipendiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623031000'
+    src: spanish
+    stems:
+    - vilipendiar
+    uuid: 4b3f5e12-a64e-4569-bd04-3382fb6bc445
+  shortdef:
+  - to vilify, to revile
+  suppl:
+    cjts:
+    - cjfs:
+      - vilipendiando
+      - vilipendiado
+      cjid: gppt
+    - cjfs:
+      - vilipendio
+      - vilipendias
+      - vilipendia
+      - vilipendiamos
+      - "vilipendi\xE1is"
+      - vilipendian
+      cjid: pind
+    - cjfs:
+      - vilipendiaba
+      - vilipendiabas
+      - vilipendiaba
+      - "vilipendi\xE1bamos"
+      - vilipendiabais
+      - vilipendiaban
+      cjid: pret
+    - cjfs:
+      - "vilipendi\xE9"
+      - vilipendiaste
+      - "vilipendi\xF3"
+      - vilipendiamos
+      - vilipendiasteis
+      - vilipendiaron
+      cjid: pprf
+    - cjfs:
+      - "vilipendiar\xE9"
+      - "vilipendiar\xE1s"
+      - "vilipendiar\xE1"
+      - vilipendiaremos
+      - "vilipendiar\xE9is"
+      - "vilipendiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vilipendiar\xEDa"
+      - "vilipendiar\xEDas"
+      - "vilipendiar\xEDa"
+      - "vilipendiar\xEDamos"
+      - "vilipendiar\xEDais"
+      - "vilipendiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vilipendie
+      - vilipendies
+      - vilipendie
+      - vilipendiemos
+      - "vilipendi\xE9is"
+      - vilipendien
+      cjid: psub
+    - cjfs:
+      - vilipendiara
+      - vilipendiaras
+      - vilipendiara
+      - "vilipendi\xE1ramos"
+      - vilipendiarais
+      - vilipendiaran
+      cjid: pisb1
+    - cjfs:
+      - vilipendiase
+      - vilipendiases
+      - vilipendiase
+      - "vilipendi\xE1semos"
+      - vilipendiaseis
+      - vilipendiasen
+      cjid: pisb2
+    - cjfs:
+      - vilipendiare
+      - vilipendiares
+      - vilipendiare
+      - "vilipendi\xE1remos"
+      - vilipendiareis
+      - vilipendiaren
+      cjid: fsub
+    - cjfs:
+      - he vilipendiado
+      - has vilipendiado
+      - ha vilipendiado
+      - hemos vilipendiado
+      - "hab\xE9is vilipendiado"
+      - han vilipendiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vilipendiado"
+      - "hab\xEDas vilipendiado"
+      - "hab\xEDa vilipendiado"
+      - "hab\xEDamos vilipendiado"
+      - "hab\xEDais vilipendiado"
+      - "hab\xEDan vilipendiado"
+      cjid: ppsi
+    - cjfs:
+      - hube vilipendiado
+      - hubiste vilipendiado
+      - hubo vilipendiado
+      - hubimos vilipendiado
+      - hubisteis vilipendiado
+      - hubieron vilipendiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vilipendiado"
+      - "habr\xE1s vilipendiado"
+      - "habr\xE1 vilipendiado"
+      - habremos vilipendiado
+      - "habr\xE9is vilipendiado"
+      - "habr\xE1n vilipendiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vilipendiado"
+      - "habr\xEDas vilipendiado"
+      - "habr\xEDa vilipendiado"
+      - "habr\xEDamos vilipendiado"
+      - "habr\xEDais vilipendiado"
+      - "habr\xEDan vilipendiado"
+      cjid: cpef
+    - cjfs:
+      - haya vilipendiado
+      - hayas vilipendiado
+      - haya vilipendiado
+      - hayamos vilipendiado
+      - "hay\xE1is vilipendiado"
+      - hayan vilipendiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vilipendiado
+      - hubieras vilipendiado
+      - hubiera vilipendiado
+      - "hubi\xE9ramos vilipendiado"
+      - hubierais vilipendiado
+      - hubieran vilipendiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vilipendiado
+      - hubieses vilipendiado
+      - hubiese vilipendiado
+      - "hubi\xE9semos vilipendiado"
+      - hubieseis vilipendiado
+      - hubiesen vilipendiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vilipendiado
+      - hubieres vilipendiado
+      - hubiere vilipendiado
+      - "hubi\xE9remos vilipendiado"
+      - hubiereis vilipendiado
+      - hubieren vilipendiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vilipendia
+      - vilipendie
+      - vilipendiemos
+      - vilipendiad
+      - vilipendien
+      cjid: impf

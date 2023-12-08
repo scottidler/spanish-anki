@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|display}, to {a_link|show}, to {a_link|manifest}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desdoblar||} {bc}to {a_link|unfold}, to {a_link|unfurl}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spread} (out)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deploy}'
+          sn: '4'
+  fl: transitive verb
+  hwi:
+    hw: desplegar
+    prs:
+    - sound:
+        audio: despl03sp
+  meta:
+    id: desplegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607286000'
+    src: spanish
+    stems:
+    - desplegar
+    uuid: bf70cbed-77be-446f-9d17-9b8e8b806cb8
+  shortdef:
+  - to display, to show, to manifest
+  - 'desdoblar : to unfold, to unfurl'
+  - to spread (out)
+  suppl:
+    cjts:
+    - cjfs:
+      - desplegando
+      - desplegado
+      cjid: gppt
+    - cjfs:
+      - despliego
+      - despliegas
+      - despliega
+      - desplegamos
+      - "despleg\xE1is"
+      - despliegan
+      cjid: pind
+    - cjfs:
+      - desplegaba
+      - desplegabas
+      - desplegaba
+      - "despleg\xE1bamos"
+      - desplegabais
+      - desplegaban
+      cjid: pret
+    - cjfs:
+      - "desplegu\xE9"
+      - desplegaste
+      - "despleg\xF3"
+      - desplegamos
+      - desplegasteis
+      - desplegaron
+      cjid: pprf
+    - cjfs:
+      - "desplegar\xE9"
+      - "desplegar\xE1s"
+      - "desplegar\xE1"
+      - desplegaremos
+      - "desplegar\xE9is"
+      - "desplegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desplegar\xEDa"
+      - "desplegar\xEDas"
+      - "desplegar\xEDa"
+      - "desplegar\xEDamos"
+      - "desplegar\xEDais"
+      - "desplegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - despliegue
+      - despliegues
+      - despliegue
+      - despleguemos
+      - "desplegu\xE9is"
+      - desplieguen
+      cjid: psub
+    - cjfs:
+      - desplegara
+      - desplegaras
+      - desplegara
+      - "despleg\xE1ramos"
+      - desplegarais
+      - desplegaran
+      cjid: pisb1
+    - cjfs:
+      - desplegase
+      - desplegases
+      - desplegase
+      - "despleg\xE1semos"
+      - desplegaseis
+      - desplegasen
+      cjid: pisb2
+    - cjfs:
+      - desplegare
+      - desplegares
+      - desplegare
+      - "despleg\xE1remos"
+      - desplegareis
+      - desplegaren
+      cjid: fsub
+    - cjfs:
+      - he desplegado
+      - has desplegado
+      - ha desplegado
+      - hemos desplegado
+      - "hab\xE9is desplegado"
+      - han desplegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desplegado"
+      - "hab\xEDas desplegado"
+      - "hab\xEDa desplegado"
+      - "hab\xEDamos desplegado"
+      - "hab\xEDais desplegado"
+      - "hab\xEDan desplegado"
+      cjid: ppsi
+    - cjfs:
+      - hube desplegado
+      - hubiste desplegado
+      - hubo desplegado
+      - hubimos desplegado
+      - hubisteis desplegado
+      - hubieron desplegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desplegado"
+      - "habr\xE1s desplegado"
+      - "habr\xE1 desplegado"
+      - habremos desplegado
+      - "habr\xE9is desplegado"
+      - "habr\xE1n desplegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desplegado"
+      - "habr\xEDas desplegado"
+      - "habr\xEDa desplegado"
+      - "habr\xEDamos desplegado"
+      - "habr\xEDais desplegado"
+      - "habr\xEDan desplegado"
+      cjid: cpef
+    - cjfs:
+      - haya desplegado
+      - hayas desplegado
+      - haya desplegado
+      - hayamos desplegado
+      - "hay\xE1is desplegado"
+      - hayan desplegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desplegado
+      - hubieras desplegado
+      - hubiera desplegado
+      - "hubi\xE9ramos desplegado"
+      - hubierais desplegado
+      - hubieran desplegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desplegado
+      - hubieses desplegado
+      - hubiese desplegado
+      - "hubi\xE9semos desplegado"
+      - hubieseis desplegado
+      - hubiesen desplegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desplegado
+      - hubieres desplegado
+      - hubiere desplegado
+      - "hubi\xE9remos desplegado"
+      - hubiereis desplegado
+      - hubieren desplegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - despliega
+      - despliegue
+      - despleguemos
+      - desplegad
+      - desplieguen
+      cjid: impf

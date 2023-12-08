@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|occur}, to {a_link|happen}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to occur to, to {a_link|strike} '
+            - - vis
+              - - t: "se me ocurri\xF3 una mejor idea"
+                  tr: a better idea occurred to me
+            vrs:
+            - va: ocurrirse a
+              vac: ~ a
+    drp: ocurrirse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: ocurrir
+    prs:
+    - sound:
+        audio: ocurr02sp
+  meta:
+    id: ocurrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616091000'
+    src: spanish
+    stems:
+    - ocurrir
+    - ocurrirse
+    - ocurrirse a
+    uuid: 3f78ad6e-fcae-4343-87fe-da44c6a9d955
+  shortdef:
+  - to occur, to happen
+  suppl:
+    cjts:
+    - cjfs:
+      - ocurriendo
+      - ocurrido
+      cjid: gppt
+    - cjfs:
+      - ocurro
+      - ocurres
+      - ocurre
+      - ocurrimos
+      - "ocurr\xEDs"
+      - ocurren
+      cjid: pind
+    - cjfs:
+      - "ocurr\xEDa"
+      - "ocurr\xEDas"
+      - "ocurr\xEDa"
+      - "ocurr\xEDamos"
+      - "ocurr\xEDais"
+      - "ocurr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ocurr\xED"
+      - ocurriste
+      - "ocurri\xF3"
+      - ocurrimos
+      - ocurristeis
+      - ocurrieron
+      cjid: pprf
+    - cjfs:
+      - "ocurrir\xE9"
+      - "ocurrir\xE1s"
+      - "ocurrir\xE1"
+      - ocurriremos
+      - "ocurrir\xE9is"
+      - "ocurrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ocurrir\xEDa"
+      - "ocurrir\xEDas"
+      - "ocurrir\xEDa"
+      - "ocurrir\xEDamos"
+      - "ocurrir\xEDais"
+      - "ocurrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - ocurra
+      - ocurras
+      - ocurra
+      - ocurramos
+      - "ocurr\xE1is"
+      - ocurran
+      cjid: psub
+    - cjfs:
+      - ocurriera
+      - ocurrieras
+      - ocurriera
+      - "ocurri\xE9ramos"
+      - ocurrierais
+      - ocurrieran
+      cjid: pisb1
+    - cjfs:
+      - ocurriese
+      - ocurrieses
+      - ocurriese
+      - "ocurri\xE9semos"
+      - ocurrieseis
+      - ocurriesen
+      cjid: pisb2
+    - cjfs:
+      - ocurriere
+      - ocurrieres
+      - ocurriere
+      - "ocurri\xE9remos"
+      - ocurriereis
+      - ocurrieren
+      cjid: fsub
+    - cjfs:
+      - he ocurrido
+      - has ocurrido
+      - ha ocurrido
+      - hemos ocurrido
+      - "hab\xE9is ocurrido"
+      - han ocurrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ocurrido"
+      - "hab\xEDas ocurrido"
+      - "hab\xEDa ocurrido"
+      - "hab\xEDamos ocurrido"
+      - "hab\xEDais ocurrido"
+      - "hab\xEDan ocurrido"
+      cjid: ppsi
+    - cjfs:
+      - hube ocurrido
+      - hubiste ocurrido
+      - hubo ocurrido
+      - hubimos ocurrido
+      - hubisteis ocurrido
+      - hubieron ocurrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ocurrido"
+      - "habr\xE1s ocurrido"
+      - "habr\xE1 ocurrido"
+      - habremos ocurrido
+      - "habr\xE9is ocurrido"
+      - "habr\xE1n ocurrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ocurrido"
+      - "habr\xEDas ocurrido"
+      - "habr\xEDa ocurrido"
+      - "habr\xEDamos ocurrido"
+      - "habr\xEDais ocurrido"
+      - "habr\xEDan ocurrido"
+      cjid: cpef
+    - cjfs:
+      - haya ocurrido
+      - hayas ocurrido
+      - haya ocurrido
+      - hayamos ocurrido
+      - "hay\xE1is ocurrido"
+      - hayan ocurrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ocurrido
+      - hubieras ocurrido
+      - hubiera ocurrido
+      - "hubi\xE9ramos ocurrido"
+      - hubierais ocurrido
+      - hubieran ocurrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ocurrido
+      - hubieses ocurrido
+      - hubiese ocurrido
+      - "hubi\xE9semos ocurrido"
+      - hubieseis ocurrido
+      - hubiesen ocurrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ocurrido
+      - hubieres ocurrido
+      - hubiere ocurrido
+      - "hubi\xE9remos ocurrido"
+      - hubiereis ocurrido
+      - hubieren ocurrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ocurre
+      - ocurra
+      - ocurramos
+      - ocurrid
+      - ocurran
+      cjid: impf

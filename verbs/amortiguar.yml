@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|soften} (an impact)'
+  fl: transitive verb
+  hwi:
+    hw: amortiguar
+    prs:
+    - sound:
+        audio: amort02sp
+  meta:
+    id: amortiguar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601279000'
+    src: spanish
+    stems:
+    - amortiguar
+    uuid: a095f5de-5276-49e5-b451-aa1fcceb90d5
+  shortdef:
+  - to soften (an impact)
+  suppl:
+    cjts:
+    - cjfs:
+      - amortiguando
+      - amortiguado
+      cjid: gppt
+    - cjfs:
+      - amortiguo
+      - amortiguas
+      - amortigua
+      - amortiguamos
+      - "amortigu\xE1is"
+      - amortiguan
+      cjid: pind
+    - cjfs:
+      - amortiguaba
+      - amortiguabas
+      - amortiguaba
+      - "amortigu\xE1bamos"
+      - amortiguabais
+      - amortiguaban
+      cjid: pret
+    - cjfs:
+      - "amortig\xFC\xE9"
+      - amortiguaste
+      - "amortigu\xF3"
+      - amortiguamos
+      - amortiguasteis
+      - amortiguaron
+      cjid: pprf
+    - cjfs:
+      - "amortiguar\xE9"
+      - "amortiguar\xE1s"
+      - "amortiguar\xE1"
+      - amortiguaremos
+      - "amortiguar\xE9is"
+      - "amortiguar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amortiguar\xEDa"
+      - "amortiguar\xEDas"
+      - "amortiguar\xEDa"
+      - "amortiguar\xEDamos"
+      - "amortiguar\xEDais"
+      - "amortiguar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "amortig\xFCe"
+      - "amortig\xFCes"
+      - "amortig\xFCe"
+      - "amortig\xFCemos"
+      - "amortig\xFC\xE9is"
+      - "amortig\xFCen"
+      cjid: psub
+    - cjfs:
+      - amortiguara
+      - amortiguaras
+      - amortiguara
+      - "amortigu\xE1ramos"
+      - amortiguarais
+      - amortiguaran
+      cjid: pisb1
+    - cjfs:
+      - amortiguase
+      - amortiguases
+      - amortiguase
+      - "amortigu\xE1semos"
+      - amortiguaseis
+      - amortiguasen
+      cjid: pisb2
+    - cjfs:
+      - amortiguare
+      - amortiguares
+      - amortiguare
+      - "amortigu\xE1remos"
+      - amortiguareis
+      - amortiguaren
+      cjid: fsub
+    - cjfs:
+      - he amortiguado
+      - has amortiguado
+      - ha amortiguado
+      - hemos amortiguado
+      - "hab\xE9is amortiguado"
+      - han amortiguado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amortiguado"
+      - "hab\xEDas amortiguado"
+      - "hab\xEDa amortiguado"
+      - "hab\xEDamos amortiguado"
+      - "hab\xEDais amortiguado"
+      - "hab\xEDan amortiguado"
+      cjid: ppsi
+    - cjfs:
+      - hube amortiguado
+      - hubiste amortiguado
+      - hubo amortiguado
+      - hubimos amortiguado
+      - hubisteis amortiguado
+      - hubieron amortiguado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amortiguado"
+      - "habr\xE1s amortiguado"
+      - "habr\xE1 amortiguado"
+      - habremos amortiguado
+      - "habr\xE9is amortiguado"
+      - "habr\xE1n amortiguado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amortiguado"
+      - "habr\xEDas amortiguado"
+      - "habr\xEDa amortiguado"
+      - "habr\xEDamos amortiguado"
+      - "habr\xEDais amortiguado"
+      - "habr\xEDan amortiguado"
+      cjid: cpef
+    - cjfs:
+      - haya amortiguado
+      - hayas amortiguado
+      - haya amortiguado
+      - hayamos amortiguado
+      - "hay\xE1is amortiguado"
+      - hayan amortiguado
+      cjid: ppfs
+    - cjfs:
+      - hubiera amortiguado
+      - hubieras amortiguado
+      - hubiera amortiguado
+      - "hubi\xE9ramos amortiguado"
+      - hubierais amortiguado
+      - hubieran amortiguado
+      cjid: ppss1
+    - cjfs:
+      - hubiese amortiguado
+      - hubieses amortiguado
+      - hubiese amortiguado
+      - "hubi\xE9semos amortiguado"
+      - hubieseis amortiguado
+      - hubiesen amortiguado
+      cjid: ppss2
+    - cjfs:
+      - hubiere amortiguado
+      - hubieres amortiguado
+      - hubiere amortiguado
+      - "hubi\xE9remos amortiguado"
+      - hubiereis amortiguado
+      - hubieren amortiguado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - amortigua
+      - "amortig\xFCe"
+      - "amortig\xFCemos"
+      - amortiguad
+      - "amortig\xFCen"
+      cjid: impf

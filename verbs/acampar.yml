@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|camp}'
+  fl: intransitive verb
+  hwi:
+    hw: acampar
+  meta:
+    id: acampar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600185000'
+    src: spanish
+    stems:
+    - acampar
+    uuid: 734da2c1-6c82-4f89-a039-edb16de8229f
+  shortdef:
+  - to camp
+  suppl:
+    cjts:
+    - cjfs:
+      - acampando
+      - acampado
+      cjid: gppt
+    - cjfs:
+      - acampo
+      - acampas
+      - acampa
+      - acampamos
+      - "acamp\xE1is"
+      - acampan
+      cjid: pind
+    - cjfs:
+      - acampaba
+      - acampabas
+      - acampaba
+      - "acamp\xE1bamos"
+      - acampabais
+      - acampaban
+      cjid: pret
+    - cjfs:
+      - "acamp\xE9"
+      - acampaste
+      - "acamp\xF3"
+      - acampamos
+      - acampasteis
+      - acamparon
+      cjid: pprf
+    - cjfs:
+      - "acampar\xE9"
+      - "acampar\xE1s"
+      - "acampar\xE1"
+      - acamparemos
+      - "acampar\xE9is"
+      - "acampar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acampar\xEDa"
+      - "acampar\xEDas"
+      - "acampar\xEDa"
+      - "acampar\xEDamos"
+      - "acampar\xEDais"
+      - "acampar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acampe
+      - acampes
+      - acampe
+      - acampemos
+      - "acamp\xE9is"
+      - acampen
+      cjid: psub
+    - cjfs:
+      - acampara
+      - acamparas
+      - acampara
+      - "acamp\xE1ramos"
+      - acamparais
+      - acamparan
+      cjid: pisb1
+    - cjfs:
+      - acampase
+      - acampases
+      - acampase
+      - "acamp\xE1semos"
+      - acampaseis
+      - acampasen
+      cjid: pisb2
+    - cjfs:
+      - acampare
+      - acampares
+      - acampare
+      - "acamp\xE1remos"
+      - acampareis
+      - acamparen
+      cjid: fsub
+    - cjfs:
+      - he acampado
+      - has acampado
+      - ha acampado
+      - hemos acampado
+      - "hab\xE9is acampado"
+      - han acampado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acampado"
+      - "hab\xEDas acampado"
+      - "hab\xEDa acampado"
+      - "hab\xEDamos acampado"
+      - "hab\xEDais acampado"
+      - "hab\xEDan acampado"
+      cjid: ppsi
+    - cjfs:
+      - hube acampado
+      - hubiste acampado
+      - hubo acampado
+      - hubimos acampado
+      - hubisteis acampado
+      - hubieron acampado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acampado"
+      - "habr\xE1s acampado"
+      - "habr\xE1 acampado"
+      - habremos acampado
+      - "habr\xE9is acampado"
+      - "habr\xE1n acampado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acampado"
+      - "habr\xEDas acampado"
+      - "habr\xEDa acampado"
+      - "habr\xEDamos acampado"
+      - "habr\xEDais acampado"
+      - "habr\xEDan acampado"
+      cjid: cpef
+    - cjfs:
+      - haya acampado
+      - hayas acampado
+      - haya acampado
+      - hayamos acampado
+      - "hay\xE1is acampado"
+      - hayan acampado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acampado
+      - hubieras acampado
+      - hubiera acampado
+      - "hubi\xE9ramos acampado"
+      - hubierais acampado
+      - hubieran acampado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acampado
+      - hubieses acampado
+      - hubiese acampado
+      - "hubi\xE9semos acampado"
+      - hubieseis acampado
+      - hubiesen acampado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acampado
+      - hubieres acampado
+      - hubiere acampado
+      - "hubi\xE9remos acampado"
+      - hubiereis acampado
+      - hubieren acampado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acampa
+      - acampe
+      - acampemos
+      - acampad
+      - acampen
+      cjid: impf

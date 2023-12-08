@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shine}, to {a_link|sparkle}'
+  fl: intransitive verb
+  hwi:
+    hw: brillar
+    prs:
+    - sound:
+        audio: brill02sp
+  meta:
+    id: brillar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603330000'
+    src: spanish
+    stems:
+    - brillar
+    uuid: 85329c28-5553-4094-a0e9-fdbbccf51562
+  shortdef:
+  - to shine, to sparkle
+  suppl:
+    cjts:
+    - cjfs:
+      - brillando
+      - brillado
+      cjid: gppt
+    - cjfs:
+      - brillo
+      - brillas
+      - brilla
+      - brillamos
+      - "brill\xE1is"
+      - brillan
+      cjid: pind
+    - cjfs:
+      - brillaba
+      - brillabas
+      - brillaba
+      - "brill\xE1bamos"
+      - brillabais
+      - brillaban
+      cjid: pret
+    - cjfs:
+      - "brill\xE9"
+      - brillaste
+      - "brill\xF3"
+      - brillamos
+      - brillasteis
+      - brillaron
+      cjid: pprf
+    - cjfs:
+      - "brillar\xE9"
+      - "brillar\xE1s"
+      - "brillar\xE1"
+      - brillaremos
+      - "brillar\xE9is"
+      - "brillar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "brillar\xEDa"
+      - "brillar\xEDas"
+      - "brillar\xEDa"
+      - "brillar\xEDamos"
+      - "brillar\xEDais"
+      - "brillar\xEDan"
+      cjid: cond
+    - cjfs:
+      - brille
+      - brilles
+      - brille
+      - brillemos
+      - "brill\xE9is"
+      - brillen
+      cjid: psub
+    - cjfs:
+      - brillara
+      - brillaras
+      - brillara
+      - "brill\xE1ramos"
+      - brillarais
+      - brillaran
+      cjid: pisb1
+    - cjfs:
+      - brillase
+      - brillases
+      - brillase
+      - "brill\xE1semos"
+      - brillaseis
+      - brillasen
+      cjid: pisb2
+    - cjfs:
+      - brillare
+      - brillares
+      - brillare
+      - "brill\xE1remos"
+      - brillareis
+      - brillaren
+      cjid: fsub
+    - cjfs:
+      - he brillado
+      - has brillado
+      - ha brillado
+      - hemos brillado
+      - "hab\xE9is brillado"
+      - han brillado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa brillado"
+      - "hab\xEDas brillado"
+      - "hab\xEDa brillado"
+      - "hab\xEDamos brillado"
+      - "hab\xEDais brillado"
+      - "hab\xEDan brillado"
+      cjid: ppsi
+    - cjfs:
+      - hube brillado
+      - hubiste brillado
+      - hubo brillado
+      - hubimos brillado
+      - hubisteis brillado
+      - hubieron brillado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 brillado"
+      - "habr\xE1s brillado"
+      - "habr\xE1 brillado"
+      - habremos brillado
+      - "habr\xE9is brillado"
+      - "habr\xE1n brillado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa brillado"
+      - "habr\xEDas brillado"
+      - "habr\xEDa brillado"
+      - "habr\xEDamos brillado"
+      - "habr\xEDais brillado"
+      - "habr\xEDan brillado"
+      cjid: cpef
+    - cjfs:
+      - haya brillado
+      - hayas brillado
+      - haya brillado
+      - hayamos brillado
+      - "hay\xE1is brillado"
+      - hayan brillado
+      cjid: ppfs
+    - cjfs:
+      - hubiera brillado
+      - hubieras brillado
+      - hubiera brillado
+      - "hubi\xE9ramos brillado"
+      - hubierais brillado
+      - hubieran brillado
+      cjid: ppss1
+    - cjfs:
+      - hubiese brillado
+      - hubieses brillado
+      - hubiese brillado
+      - "hubi\xE9semos brillado"
+      - hubieseis brillado
+      - hubiesen brillado
+      cjid: ppss2
+    - cjfs:
+      - hubiere brillado
+      - hubieres brillado
+      - hubiere brillado
+      - "hubi\xE9remos brillado"
+      - hubiereis brillado
+      - hubieren brillado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - brilla
+      - brille
+      - brillemos
+      - brillad
+      - brillen
+      cjid: impf

@@ -1,0 +1,41 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make} (hair, etc.) {a_link|stand on end} '
+          - - vis
+            - - t: me eriza la piel
+                tr: it gives me goose bumps
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|irritate}, to grate on (someone)'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stand on end}'
+    drp: erizarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: erizar
+  meta:
+    id: erizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608891000'
+    src: spanish
+    stems:
+    - erizar
+    - erizarse
+    uuid: 63cce675-e6fc-42d8-b334-36a02583c59d
+  shortdef:
+  - to make (hair, etc.) stand on end
+  - to irritate, to grate on (someone)

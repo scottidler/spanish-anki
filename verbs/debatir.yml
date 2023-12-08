@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|debate}, to {a_link|discuss}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|struggle}'
+    drp: debatirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: debatir
+  meta:
+    id: debatir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606454000'
+    src: spanish
+    stems:
+    - debatir
+    - debatirse
+    uuid: eaf80edc-c577-4d18-a175-0a49014415c3
+  shortdef:
+  - to debate, to discuss
+  suppl:
+    cjts:
+    - cjfs:
+      - debatiendo
+      - debatido
+      cjid: gppt
+    - cjfs:
+      - debato
+      - debates
+      - debate
+      - debatimos
+      - "debat\xEDs"
+      - debaten
+      cjid: pind
+    - cjfs:
+      - "debat\xEDa"
+      - "debat\xEDas"
+      - "debat\xEDa"
+      - "debat\xEDamos"
+      - "debat\xEDais"
+      - "debat\xEDan"
+      cjid: pret
+    - cjfs:
+      - "debat\xED"
+      - debatiste
+      - "debati\xF3"
+      - debatimos
+      - debatisteis
+      - debatieron
+      cjid: pprf
+    - cjfs:
+      - "debatir\xE9"
+      - "debatir\xE1s"
+      - "debatir\xE1"
+      - debatiremos
+      - "debatir\xE9is"
+      - "debatir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "debatir\xEDa"
+      - "debatir\xEDas"
+      - "debatir\xEDa"
+      - "debatir\xEDamos"
+      - "debatir\xEDais"
+      - "debatir\xEDan"
+      cjid: cond
+    - cjfs:
+      - debata
+      - debatas
+      - debata
+      - debatamos
+      - "debat\xE1is"
+      - debatan
+      cjid: psub
+    - cjfs:
+      - debatiera
+      - debatieras
+      - debatiera
+      - "debati\xE9ramos"
+      - debatierais
+      - debatieran
+      cjid: pisb1
+    - cjfs:
+      - debatiese
+      - debatieses
+      - debatiese
+      - "debati\xE9semos"
+      - debatieseis
+      - debatiesen
+      cjid: pisb2
+    - cjfs:
+      - debatiere
+      - debatieres
+      - debatiere
+      - "debati\xE9remos"
+      - debatiereis
+      - debatieren
+      cjid: fsub
+    - cjfs:
+      - he debatido
+      - has debatido
+      - ha debatido
+      - hemos debatido
+      - "hab\xE9is debatido"
+      - han debatido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa debatido"
+      - "hab\xEDas debatido"
+      - "hab\xEDa debatido"
+      - "hab\xEDamos debatido"
+      - "hab\xEDais debatido"
+      - "hab\xEDan debatido"
+      cjid: ppsi
+    - cjfs:
+      - hube debatido
+      - hubiste debatido
+      - hubo debatido
+      - hubimos debatido
+      - hubisteis debatido
+      - hubieron debatido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 debatido"
+      - "habr\xE1s debatido"
+      - "habr\xE1 debatido"
+      - habremos debatido
+      - "habr\xE9is debatido"
+      - "habr\xE1n debatido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa debatido"
+      - "habr\xEDas debatido"
+      - "habr\xEDa debatido"
+      - "habr\xEDamos debatido"
+      - "habr\xEDais debatido"
+      - "habr\xEDan debatido"
+      cjid: cpef
+    - cjfs:
+      - haya debatido
+      - hayas debatido
+      - haya debatido
+      - hayamos debatido
+      - "hay\xE1is debatido"
+      - hayan debatido
+      cjid: ppfs
+    - cjfs:
+      - hubiera debatido
+      - hubieras debatido
+      - hubiera debatido
+      - "hubi\xE9ramos debatido"
+      - hubierais debatido
+      - hubieran debatido
+      cjid: ppss1
+    - cjfs:
+      - hubiese debatido
+      - hubieses debatido
+      - hubiese debatido
+      - "hubi\xE9semos debatido"
+      - hubieseis debatido
+      - hubiesen debatido
+      cjid: ppss2
+    - cjfs:
+      - hubiere debatido
+      - hubieres debatido
+      - hubiere debatido
+      - "hubi\xE9remos debatido"
+      - hubiereis debatido
+      - hubieren debatido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - debate
+      - debata
+      - debatamos
+      - debatid
+      - debatan
+      cjid: impf

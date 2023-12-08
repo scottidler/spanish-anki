@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|safeguard}, to {a_link|protect}'
+  fl: transitive verb
+  hwi:
+    hw: resguardar
+  meta:
+    id: resguardar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619556000'
+    src: spanish
+    stems:
+    - resguardar
+    - resguardarse
+    uuid: 2f5d7c7f-5489-4317-87fc-59c327f434ea
+  shortdef:
+  - to safeguard, to protect
+  suppl:
+    cjts:
+    - cjfs:
+      - resguardando
+      - resguardado
+      cjid: gppt
+    - cjfs:
+      - resguardo
+      - resguardas
+      - resguarda
+      - resguardamos
+      - "resguard\xE1is"
+      - resguardan
+      cjid: pind
+    - cjfs:
+      - resguardaba
+      - resguardabas
+      - resguardaba
+      - "resguard\xE1bamos"
+      - resguardabais
+      - resguardaban
+      cjid: pret
+    - cjfs:
+      - "resguard\xE9"
+      - resguardaste
+      - "resguard\xF3"
+      - resguardamos
+      - resguardasteis
+      - resguardaron
+      cjid: pprf
+    - cjfs:
+      - "resguardar\xE9"
+      - "resguardar\xE1s"
+      - "resguardar\xE1"
+      - resguardaremos
+      - "resguardar\xE9is"
+      - "resguardar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resguardar\xEDa"
+      - "resguardar\xEDas"
+      - "resguardar\xEDa"
+      - "resguardar\xEDamos"
+      - "resguardar\xEDais"
+      - "resguardar\xEDan"
+      cjid: cond
+    - cjfs:
+      - resguarde
+      - resguardes
+      - resguarde
+      - resguardemos
+      - "resguard\xE9is"
+      - resguarden
+      cjid: psub
+    - cjfs:
+      - resguardara
+      - resguardaras
+      - resguardara
+      - "resguard\xE1ramos"
+      - resguardarais
+      - resguardaran
+      cjid: pisb1
+    - cjfs:
+      - resguardase
+      - resguardases
+      - resguardase
+      - "resguard\xE1semos"
+      - resguardaseis
+      - resguardasen
+      cjid: pisb2
+    - cjfs:
+      - resguardare
+      - resguardares
+      - resguardare
+      - "resguard\xE1remos"
+      - resguardareis
+      - resguardaren
+      cjid: fsub
+    - cjfs:
+      - he resguardado
+      - has resguardado
+      - ha resguardado
+      - hemos resguardado
+      - "hab\xE9is resguardado"
+      - han resguardado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resguardado"
+      - "hab\xEDas resguardado"
+      - "hab\xEDa resguardado"
+      - "hab\xEDamos resguardado"
+      - "hab\xEDais resguardado"
+      - "hab\xEDan resguardado"
+      cjid: ppsi
+    - cjfs:
+      - hube resguardado
+      - hubiste resguardado
+      - hubo resguardado
+      - hubimos resguardado
+      - hubisteis resguardado
+      - hubieron resguardado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resguardado"
+      - "habr\xE1s resguardado"
+      - "habr\xE1 resguardado"
+      - habremos resguardado
+      - "habr\xE9is resguardado"
+      - "habr\xE1n resguardado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resguardado"
+      - "habr\xEDas resguardado"
+      - "habr\xEDa resguardado"
+      - "habr\xEDamos resguardado"
+      - "habr\xEDais resguardado"
+      - "habr\xEDan resguardado"
+      cjid: cpef
+    - cjfs:
+      - haya resguardado
+      - hayas resguardado
+      - haya resguardado
+      - hayamos resguardado
+      - "hay\xE1is resguardado"
+      - hayan resguardado
+      cjid: ppfs
+    - cjfs:
+      - hubiera resguardado
+      - hubieras resguardado
+      - hubiera resguardado
+      - "hubi\xE9ramos resguardado"
+      - hubierais resguardado
+      - hubieran resguardado
+      cjid: ppss1
+    - cjfs:
+      - hubiese resguardado
+      - hubieses resguardado
+      - hubiese resguardado
+      - "hubi\xE9semos resguardado"
+      - hubieseis resguardado
+      - hubiesen resguardado
+      cjid: ppss2
+    - cjfs:
+      - hubiere resguardado
+      - hubieres resguardado
+      - hubiere resguardado
+      - "hubi\xE9remos resguardado"
+      - hubiereis resguardado
+      - hubieren resguardado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resguarda
+      - resguarde
+      - resguardemos
+      - resguardad
+      - resguarden
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: resguardarse

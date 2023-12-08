@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clear}, to {a_link|level off}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desmantelar||} {bc}to {a_link|dismantle}, to {a_link|take apart}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dismount}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: desmontar
+    prs:
+    - sound:
+        audio: desmo01sp
+  meta:
+    id: desmontar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607196000'
+    src: spanish
+    stems:
+    - desmontar
+    uuid: a7af5733-586c-4c20-a438-1d69d145725e
+  shortdef:
+  - to clear, to level off
+  - 'desmantelar : to dismantle, to take apart'
+  - to dismount
+  suppl:
+    cjts:
+    - cjfs:
+      - desmontando
+      - desmontado
+      cjid: gppt
+    - cjfs:
+      - desmonto
+      - desmontas
+      - desmonta
+      - desmontamos
+      - "desmont\xE1is"
+      - desmontan
+      cjid: pind
+    - cjfs:
+      - desmontaba
+      - desmontabas
+      - desmontaba
+      - "desmont\xE1bamos"
+      - desmontabais
+      - desmontaban
+      cjid: pret
+    - cjfs:
+      - "desmont\xE9"
+      - desmontaste
+      - "desmont\xF3"
+      - desmontamos
+      - desmontasteis
+      - desmontaron
+      cjid: pprf
+    - cjfs:
+      - "desmontar\xE9"
+      - "desmontar\xE1s"
+      - "desmontar\xE1"
+      - desmontaremos
+      - "desmontar\xE9is"
+      - "desmontar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desmontar\xEDa"
+      - "desmontar\xEDas"
+      - "desmontar\xEDa"
+      - "desmontar\xEDamos"
+      - "desmontar\xEDais"
+      - "desmontar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desmonte
+      - desmontes
+      - desmonte
+      - desmontemos
+      - "desmont\xE9is"
+      - desmonten
+      cjid: psub
+    - cjfs:
+      - desmontara
+      - desmontaras
+      - desmontara
+      - "desmont\xE1ramos"
+      - desmontarais
+      - desmontaran
+      cjid: pisb1
+    - cjfs:
+      - desmontase
+      - desmontases
+      - desmontase
+      - "desmont\xE1semos"
+      - desmontaseis
+      - desmontasen
+      cjid: pisb2
+    - cjfs:
+      - desmontare
+      - desmontares
+      - desmontare
+      - "desmont\xE1remos"
+      - desmontareis
+      - desmontaren
+      cjid: fsub
+    - cjfs:
+      - he desmontado
+      - has desmontado
+      - ha desmontado
+      - hemos desmontado
+      - "hab\xE9is desmontado"
+      - han desmontado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desmontado"
+      - "hab\xEDas desmontado"
+      - "hab\xEDa desmontado"
+      - "hab\xEDamos desmontado"
+      - "hab\xEDais desmontado"
+      - "hab\xEDan desmontado"
+      cjid: ppsi
+    - cjfs:
+      - hube desmontado
+      - hubiste desmontado
+      - hubo desmontado
+      - hubimos desmontado
+      - hubisteis desmontado
+      - hubieron desmontado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desmontado"
+      - "habr\xE1s desmontado"
+      - "habr\xE1 desmontado"
+      - habremos desmontado
+      - "habr\xE9is desmontado"
+      - "habr\xE1n desmontado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desmontado"
+      - "habr\xEDas desmontado"
+      - "habr\xEDa desmontado"
+      - "habr\xEDamos desmontado"
+      - "habr\xEDais desmontado"
+      - "habr\xEDan desmontado"
+      cjid: cpef
+    - cjfs:
+      - haya desmontado
+      - hayas desmontado
+      - haya desmontado
+      - hayamos desmontado
+      - "hay\xE1is desmontado"
+      - hayan desmontado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desmontado
+      - hubieras desmontado
+      - hubiera desmontado
+      - "hubi\xE9ramos desmontado"
+      - hubierais desmontado
+      - hubieran desmontado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desmontado
+      - hubieses desmontado
+      - hubiese desmontado
+      - "hubi\xE9semos desmontado"
+      - hubieseis desmontado
+      - hubiesen desmontado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desmontado
+      - hubieres desmontado
+      - hubiere desmontado
+      - "hubi\xE9remos desmontado"
+      - hubiereis desmontado
+      - hubieren desmontado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desmonta
+      - desmonte
+      - desmontemos
+      - desmontad
+      - desmonten
+      cjid: impf

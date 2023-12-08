@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sweep away, to carry away'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crush}, to {a_link|overwhelm}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run over} (with a vehicle)'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: arrollar
+    prs:
+    - sound:
+        audio: arrol01sp
+  meta:
+    id: arrollar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602038000'
+    src: spanish
+    stems:
+    - arrollar
+    uuid: 1730869e-db62-4d9e-81c6-02799ca72fca
+  shortdef:
+  - to sweep away, to carry away
+  - to crush, to overwhelm
+  - to run over (with a vehicle)
+  suppl:
+    cjts:
+    - cjfs:
+      - arrollando
+      - arrollado
+      cjid: gppt
+    - cjfs:
+      - arrollo
+      - arrollas
+      - arrolla
+      - arrollamos
+      - "arroll\xE1is"
+      - arrollan
+      cjid: pind
+    - cjfs:
+      - arrollaba
+      - arrollabas
+      - arrollaba
+      - "arroll\xE1bamos"
+      - arrollabais
+      - arrollaban
+      cjid: pret
+    - cjfs:
+      - "arroll\xE9"
+      - arrollaste
+      - "arroll\xF3"
+      - arrollamos
+      - arrollasteis
+      - arrollaron
+      cjid: pprf
+    - cjfs:
+      - "arrollar\xE9"
+      - "arrollar\xE1s"
+      - "arrollar\xE1"
+      - arrollaremos
+      - "arrollar\xE9is"
+      - "arrollar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrollar\xEDa"
+      - "arrollar\xEDas"
+      - "arrollar\xEDa"
+      - "arrollar\xEDamos"
+      - "arrollar\xEDais"
+      - "arrollar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arrolle
+      - arrolles
+      - arrolle
+      - arrollemos
+      - "arroll\xE9is"
+      - arrollen
+      cjid: psub
+    - cjfs:
+      - arrollara
+      - arrollaras
+      - arrollara
+      - "arroll\xE1ramos"
+      - arrollarais
+      - arrollaran
+      cjid: pisb1
+    - cjfs:
+      - arrollase
+      - arrollases
+      - arrollase
+      - "arroll\xE1semos"
+      - arrollaseis
+      - arrollasen
+      cjid: pisb2
+    - cjfs:
+      - arrollare
+      - arrollares
+      - arrollare
+      - "arroll\xE1remos"
+      - arrollareis
+      - arrollaren
+      cjid: fsub
+    - cjfs:
+      - he arrollado
+      - has arrollado
+      - ha arrollado
+      - hemos arrollado
+      - "hab\xE9is arrollado"
+      - han arrollado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrollado"
+      - "hab\xEDas arrollado"
+      - "hab\xEDa arrollado"
+      - "hab\xEDamos arrollado"
+      - "hab\xEDais arrollado"
+      - "hab\xEDan arrollado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrollado
+      - hubiste arrollado
+      - hubo arrollado
+      - hubimos arrollado
+      - hubisteis arrollado
+      - hubieron arrollado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrollado"
+      - "habr\xE1s arrollado"
+      - "habr\xE1 arrollado"
+      - habremos arrollado
+      - "habr\xE9is arrollado"
+      - "habr\xE1n arrollado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrollado"
+      - "habr\xEDas arrollado"
+      - "habr\xEDa arrollado"
+      - "habr\xEDamos arrollado"
+      - "habr\xEDais arrollado"
+      - "habr\xEDan arrollado"
+      cjid: cpef
+    - cjfs:
+      - haya arrollado
+      - hayas arrollado
+      - haya arrollado
+      - hayamos arrollado
+      - "hay\xE1is arrollado"
+      - hayan arrollado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrollado
+      - hubieras arrollado
+      - hubiera arrollado
+      - "hubi\xE9ramos arrollado"
+      - hubierais arrollado
+      - hubieran arrollado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrollado
+      - hubieses arrollado
+      - hubiese arrollado
+      - "hubi\xE9semos arrollado"
+      - hubieseis arrollado
+      - hubiesen arrollado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrollado
+      - hubieres arrollado
+      - hubiere arrollado
+      - "hubi\xE9remos arrollado"
+      - hubiereis arrollado
+      - hubieren arrollado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arrolla
+      - arrolle
+      - arrollemos
+      - arrollad
+      - arrollen
+      cjid: impf

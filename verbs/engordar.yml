@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fatten}, to fatten up'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to gain weight'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: engordar
+    prs:
+    - sound:
+        audio: engor01sp
+  meta:
+    id: engordar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608586000'
+    src: spanish
+    stems:
+    - engordar
+    uuid: 439212cd-0fd4-41db-9c00-0fd21bacbda7
+  shortdef:
+  - to fatten, to fatten up
+  - to gain weight
+  suppl:
+    cjts:
+    - cjfs:
+      - engordando
+      - engordado
+      cjid: gppt
+    - cjfs:
+      - engordo
+      - engordas
+      - engorda
+      - engordamos
+      - "engord\xE1is"
+      - engordan
+      cjid: pind
+    - cjfs:
+      - engordaba
+      - engordabas
+      - engordaba
+      - "engord\xE1bamos"
+      - engordabais
+      - engordaban
+      cjid: pret
+    - cjfs:
+      - "engord\xE9"
+      - engordaste
+      - "engord\xF3"
+      - engordamos
+      - engordasteis
+      - engordaron
+      cjid: pprf
+    - cjfs:
+      - "engordar\xE9"
+      - "engordar\xE1s"
+      - "engordar\xE1"
+      - engordaremos
+      - "engordar\xE9is"
+      - "engordar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "engordar\xEDa"
+      - "engordar\xEDas"
+      - "engordar\xEDa"
+      - "engordar\xEDamos"
+      - "engordar\xEDais"
+      - "engordar\xEDan"
+      cjid: cond
+    - cjfs:
+      - engorde
+      - engordes
+      - engorde
+      - engordemos
+      - "engord\xE9is"
+      - engorden
+      cjid: psub
+    - cjfs:
+      - engordara
+      - engordaras
+      - engordara
+      - "engord\xE1ramos"
+      - engordarais
+      - engordaran
+      cjid: pisb1
+    - cjfs:
+      - engordase
+      - engordases
+      - engordase
+      - "engord\xE1semos"
+      - engordaseis
+      - engordasen
+      cjid: pisb2
+    - cjfs:
+      - engordare
+      - engordares
+      - engordare
+      - "engord\xE1remos"
+      - engordareis
+      - engordaren
+      cjid: fsub
+    - cjfs:
+      - he engordado
+      - has engordado
+      - ha engordado
+      - hemos engordado
+      - "hab\xE9is engordado"
+      - han engordado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa engordado"
+      - "hab\xEDas engordado"
+      - "hab\xEDa engordado"
+      - "hab\xEDamos engordado"
+      - "hab\xEDais engordado"
+      - "hab\xEDan engordado"
+      cjid: ppsi
+    - cjfs:
+      - hube engordado
+      - hubiste engordado
+      - hubo engordado
+      - hubimos engordado
+      - hubisteis engordado
+      - hubieron engordado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 engordado"
+      - "habr\xE1s engordado"
+      - "habr\xE1 engordado"
+      - habremos engordado
+      - "habr\xE9is engordado"
+      - "habr\xE1n engordado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa engordado"
+      - "habr\xEDas engordado"
+      - "habr\xEDa engordado"
+      - "habr\xEDamos engordado"
+      - "habr\xEDais engordado"
+      - "habr\xEDan engordado"
+      cjid: cpef
+    - cjfs:
+      - haya engordado
+      - hayas engordado
+      - haya engordado
+      - hayamos engordado
+      - "hay\xE1is engordado"
+      - hayan engordado
+      cjid: ppfs
+    - cjfs:
+      - hubiera engordado
+      - hubieras engordado
+      - hubiera engordado
+      - "hubi\xE9ramos engordado"
+      - hubierais engordado
+      - hubieran engordado
+      cjid: ppss1
+    - cjfs:
+      - hubiese engordado
+      - hubieses engordado
+      - hubiese engordado
+      - "hubi\xE9semos engordado"
+      - hubieseis engordado
+      - hubiesen engordado
+      cjid: ppss2
+    - cjfs:
+      - hubiere engordado
+      - hubieres engordado
+      - hubiere engordado
+      - "hubi\xE9remos engordado"
+      - hubiereis engordado
+      - hubieren engordado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - engorda
+      - engorde
+      - engordemos
+      - engordad
+      - engorden
+      cjid: impf

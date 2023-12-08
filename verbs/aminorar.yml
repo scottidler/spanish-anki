@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reduce}, to {a_link|lessen}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|diminish}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: aminorar
+  meta:
+    id: aminorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601253000'
+    src: spanish
+    stems:
+    - aminorar
+    uuid: 5f48ca45-f55e-4fd6-afdb-cb22d0bf264d
+  shortdef:
+  - to reduce, to lessen
+  - to diminish
+  suppl:
+    cjts:
+    - cjfs:
+      - aminorando
+      - aminorado
+      cjid: gppt
+    - cjfs:
+      - aminoro
+      - aminoras
+      - aminora
+      - aminoramos
+      - "aminor\xE1is"
+      - aminoran
+      cjid: pind
+    - cjfs:
+      - aminoraba
+      - aminorabas
+      - aminoraba
+      - "aminor\xE1bamos"
+      - aminorabais
+      - aminoraban
+      cjid: pret
+    - cjfs:
+      - "aminor\xE9"
+      - aminoraste
+      - "aminor\xF3"
+      - aminoramos
+      - aminorasteis
+      - aminoraron
+      cjid: pprf
+    - cjfs:
+      - "aminorar\xE9"
+      - "aminorar\xE1s"
+      - "aminorar\xE1"
+      - aminoraremos
+      - "aminorar\xE9is"
+      - "aminorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aminorar\xEDa"
+      - "aminorar\xEDas"
+      - "aminorar\xEDa"
+      - "aminorar\xEDamos"
+      - "aminorar\xEDais"
+      - "aminorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aminore
+      - aminores
+      - aminore
+      - aminoremos
+      - "aminor\xE9is"
+      - aminoren
+      cjid: psub
+    - cjfs:
+      - aminorara
+      - aminoraras
+      - aminorara
+      - "aminor\xE1ramos"
+      - aminorarais
+      - aminoraran
+      cjid: pisb1
+    - cjfs:
+      - aminorase
+      - aminorases
+      - aminorase
+      - "aminor\xE1semos"
+      - aminoraseis
+      - aminorasen
+      cjid: pisb2
+    - cjfs:
+      - aminorare
+      - aminorares
+      - aminorare
+      - "aminor\xE1remos"
+      - aminorareis
+      - aminoraren
+      cjid: fsub
+    - cjfs:
+      - he aminorado
+      - has aminorado
+      - ha aminorado
+      - hemos aminorado
+      - "hab\xE9is aminorado"
+      - han aminorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aminorado"
+      - "hab\xEDas aminorado"
+      - "hab\xEDa aminorado"
+      - "hab\xEDamos aminorado"
+      - "hab\xEDais aminorado"
+      - "hab\xEDan aminorado"
+      cjid: ppsi
+    - cjfs:
+      - hube aminorado
+      - hubiste aminorado
+      - hubo aminorado
+      - hubimos aminorado
+      - hubisteis aminorado
+      - hubieron aminorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aminorado"
+      - "habr\xE1s aminorado"
+      - "habr\xE1 aminorado"
+      - habremos aminorado
+      - "habr\xE9is aminorado"
+      - "habr\xE1n aminorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aminorado"
+      - "habr\xEDas aminorado"
+      - "habr\xEDa aminorado"
+      - "habr\xEDamos aminorado"
+      - "habr\xEDais aminorado"
+      - "habr\xEDan aminorado"
+      cjid: cpef
+    - cjfs:
+      - haya aminorado
+      - hayas aminorado
+      - haya aminorado
+      - hayamos aminorado
+      - "hay\xE1is aminorado"
+      - hayan aminorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aminorado
+      - hubieras aminorado
+      - hubiera aminorado
+      - "hubi\xE9ramos aminorado"
+      - hubierais aminorado
+      - hubieran aminorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aminorado
+      - hubieses aminorado
+      - hubiese aminorado
+      - "hubi\xE9semos aminorado"
+      - hubieseis aminorado
+      - hubiesen aminorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aminorado
+      - hubieres aminorado
+      - hubiere aminorado
+      - "hubi\xE9remos aminorado"
+      - hubiereis aminorado
+      - hubieren aminorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aminora
+      - aminore
+      - aminoremos
+      - aminorad
+      - aminoren
+      cjid: impf

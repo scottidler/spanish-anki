@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|propagate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spread}, to {a_link|disseminate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: propagar
+    prs:
+    - sound:
+        audio: propa02sp
+  meta:
+    id: propagar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618282000'
+    src: spanish
+    stems:
+    - propagar
+    - propagarse
+    uuid: 89a0c14f-c5cc-4e95-abc0-4103a1d46ba5
+  shortdef:
+  - to propagate
+  - to spread, to disseminate
+  suppl:
+    cjts:
+    - cjfs:
+      - propagando
+      - propagado
+      cjid: gppt
+    - cjfs:
+      - propago
+      - propagas
+      - propaga
+      - propagamos
+      - "propag\xE1is"
+      - propagan
+      cjid: pind
+    - cjfs:
+      - propagaba
+      - propagabas
+      - propagaba
+      - "propag\xE1bamos"
+      - propagabais
+      - propagaban
+      cjid: pret
+    - cjfs:
+      - "propagu\xE9"
+      - propagaste
+      - "propag\xF3"
+      - propagamos
+      - propagasteis
+      - propagaron
+      cjid: pprf
+    - cjfs:
+      - "propagar\xE9"
+      - "propagar\xE1s"
+      - "propagar\xE1"
+      - propagaremos
+      - "propagar\xE9is"
+      - "propagar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "propagar\xEDa"
+      - "propagar\xEDas"
+      - "propagar\xEDa"
+      - "propagar\xEDamos"
+      - "propagar\xEDais"
+      - "propagar\xEDan"
+      cjid: cond
+    - cjfs:
+      - propague
+      - propagues
+      - propague
+      - propaguemos
+      - "propagu\xE9is"
+      - propaguen
+      cjid: psub
+    - cjfs:
+      - propagara
+      - propagaras
+      - propagara
+      - "propag\xE1ramos"
+      - propagarais
+      - propagaran
+      cjid: pisb1
+    - cjfs:
+      - propagase
+      - propagases
+      - propagase
+      - "propag\xE1semos"
+      - propagaseis
+      - propagasen
+      cjid: pisb2
+    - cjfs:
+      - propagare
+      - propagares
+      - propagare
+      - "propag\xE1remos"
+      - propagareis
+      - propagaren
+      cjid: fsub
+    - cjfs:
+      - he propagado
+      - has propagado
+      - ha propagado
+      - hemos propagado
+      - "hab\xE9is propagado"
+      - han propagado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa propagado"
+      - "hab\xEDas propagado"
+      - "hab\xEDa propagado"
+      - "hab\xEDamos propagado"
+      - "hab\xEDais propagado"
+      - "hab\xEDan propagado"
+      cjid: ppsi
+    - cjfs:
+      - hube propagado
+      - hubiste propagado
+      - hubo propagado
+      - hubimos propagado
+      - hubisteis propagado
+      - hubieron propagado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 propagado"
+      - "habr\xE1s propagado"
+      - "habr\xE1 propagado"
+      - habremos propagado
+      - "habr\xE9is propagado"
+      - "habr\xE1n propagado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa propagado"
+      - "habr\xEDas propagado"
+      - "habr\xEDa propagado"
+      - "habr\xEDamos propagado"
+      - "habr\xEDais propagado"
+      - "habr\xEDan propagado"
+      cjid: cpef
+    - cjfs:
+      - haya propagado
+      - hayas propagado
+      - haya propagado
+      - hayamos propagado
+      - "hay\xE1is propagado"
+      - hayan propagado
+      cjid: ppfs
+    - cjfs:
+      - hubiera propagado
+      - hubieras propagado
+      - hubiera propagado
+      - "hubi\xE9ramos propagado"
+      - hubierais propagado
+      - hubieran propagado
+      cjid: ppss1
+    - cjfs:
+      - hubiese propagado
+      - hubieses propagado
+      - hubiese propagado
+      - "hubi\xE9semos propagado"
+      - hubieseis propagado
+      - hubiesen propagado
+      cjid: ppss2
+    - cjfs:
+      - hubiere propagado
+      - hubieres propagado
+      - hubiere propagado
+      - "hubi\xE9remos propagado"
+      - hubiereis propagado
+      - hubieren propagado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - propaga
+      - propague
+      - propaguemos
+      - propagad
+      - propaguen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: propagarse

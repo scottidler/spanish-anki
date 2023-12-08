@@ -1,0 +1,506 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}sonar '
+          - - gl
+            - masculine
+  fl: noun
+  hwi:
+    hw: sonar
+    prs:
+    - mw: "\u02C8so\u02D0\u02CCn\u0251r"
+      sound:
+        audio: sonar001
+  meta:
+    id: sonar
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2622493000'
+    src: spanish
+    stems:
+    - sonar
+    - sonars
+    uuid: 6d91b5e9-36ae-4f1e-b441-e5ecdfc23430
+  shortdef:
+  - sonar
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sound} '
+          - - vis
+            - - t: suena bien
+                tr: it sounds good
+              - t: sonaba contenta
+                tr: she sounded happy
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sound}, to {a_link|ring} (of bells, a phone, etc.),
+              to {a_link|go off} (of an alarm), to {a_link|ring out} (of shots), to
+              {a_link|play} (of music)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be pronounced (of a letter)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to look or sound familiar '
+          - - vis
+            - - t: me suena ese nombre
+                tr: that name rings a bell
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fly} (of rumors), to be talked about '
+          - - vis
+            - - t: "suena para reemplazar a D\xEDaz"
+                tr: "there is talk that he might replace D\xEDaz"
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sound like'
+          sn: '6'
+          vrs:
+          - va: sonar a
+            vac: ~ a
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ring}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blow} (a trumpet, a nose)'
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|blow one''s nose}'
+    drp: sonarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hom: 1
+  hwi:
+    hw: sonar
+    prs:
+    - sound:
+        audio: sonar01sp
+  meta:
+    id: sonar:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620928000'
+    src: spanish
+    stems:
+    - sonar
+    - sonar a
+    - sonarse
+    uuid: f3032827-61da-4184-b272-45f008e850d3
+  shortdef:
+  - to sound
+  - to sound, to ring (of bells, a phone, etc.), to go off (of an alarm), to ring
+    out (of shots), to play (of music)
+  - to be pronounced (of a letter)
+  suppl:
+    cjts:
+    - cjfs:
+      - sonando
+      - sonado
+      cjid: gppt
+    - cjfs:
+      - sueno
+      - suenas
+      - suena
+      - sonamos
+      - "son\xE1is"
+      - suenan
+      cjid: pind
+    - cjfs:
+      - sonaba
+      - sonabas
+      - sonaba
+      - "son\xE1bamos"
+      - sonabais
+      - sonaban
+      cjid: pret
+    - cjfs:
+      - "son\xE9"
+      - sonaste
+      - "son\xF3"
+      - sonamos
+      - sonasteis
+      - sonaron
+      cjid: pprf
+    - cjfs:
+      - "sonar\xE9"
+      - "sonar\xE1s"
+      - "sonar\xE1"
+      - sonaremos
+      - "sonar\xE9is"
+      - "sonar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sonar\xEDa"
+      - "sonar\xEDas"
+      - "sonar\xEDa"
+      - "sonar\xEDamos"
+      - "sonar\xEDais"
+      - "sonar\xEDan"
+      cjid: cond
+    - cjfs:
+      - suene
+      - suenes
+      - suene
+      - sonemos
+      - "son\xE9is"
+      - suenen
+      cjid: psub
+    - cjfs:
+      - sonara
+      - sonaras
+      - sonara
+      - "son\xE1ramos"
+      - sonarais
+      - sonaran
+      cjid: pisb1
+    - cjfs:
+      - sonase
+      - sonases
+      - sonase
+      - "son\xE1semos"
+      - sonaseis
+      - sonasen
+      cjid: pisb2
+    - cjfs:
+      - sonare
+      - sonares
+      - sonare
+      - "son\xE1remos"
+      - sonareis
+      - sonaren
+      cjid: fsub
+    - cjfs:
+      - he sonado
+      - has sonado
+      - ha sonado
+      - hemos sonado
+      - "hab\xE9is sonado"
+      - han sonado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sonado"
+      - "hab\xEDas sonado"
+      - "hab\xEDa sonado"
+      - "hab\xEDamos sonado"
+      - "hab\xEDais sonado"
+      - "hab\xEDan sonado"
+      cjid: ppsi
+    - cjfs:
+      - hube sonado
+      - hubiste sonado
+      - hubo sonado
+      - hubimos sonado
+      - hubisteis sonado
+      - hubieron sonado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sonado"
+      - "habr\xE1s sonado"
+      - "habr\xE1 sonado"
+      - habremos sonado
+      - "habr\xE9is sonado"
+      - "habr\xE1n sonado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sonado"
+      - "habr\xEDas sonado"
+      - "habr\xEDa sonado"
+      - "habr\xEDamos sonado"
+      - "habr\xEDais sonado"
+      - "habr\xEDan sonado"
+      cjid: cpef
+    - cjfs:
+      - haya sonado
+      - hayas sonado
+      - haya sonado
+      - hayamos sonado
+      - "hay\xE1is sonado"
+      - hayan sonado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sonado
+      - hubieras sonado
+      - hubiera sonado
+      - "hubi\xE9ramos sonado"
+      - hubierais sonado
+      - hubieran sonado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sonado
+      - hubieses sonado
+      - hubiese sonado
+      - "hubi\xE9semos sonado"
+      - hubieseis sonado
+      - hubiesen sonado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sonado
+      - hubieres sonado
+      - hubiere sonado
+      - "hubi\xE9remos sonado"
+      - hubiereis sonado
+      - hubieren sonado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - suena
+      - suene
+      - sonemos
+      - sonad
+      - suenen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}sonar'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: sonar
+    prs:
+    - sound:
+        audio: sonar03sp
+  meta:
+    id: sonar:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620929000'
+    src: spanish
+    stems:
+    - sonar
+    uuid: 7f9dc521-c23e-4046-a942-98c51a0435cc
+  shortdef:
+  - sonar
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dream}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to dream about'
+          sn: '2'
+          vrs:
+          - va: "so\xF1ar con"
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|daydream}'
+          sn: '3'
+          vrs:
+          - va: "so\xF1ar despierto"
+  fl: verb
+  hwi:
+    hw: "so\xF1ar"
+    prs:
+    - sound:
+        audio: sonar02sp
+  meta:
+    id: sonar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620950000'
+    src: spanish
+    stems:
+    - "so\xF1ar"
+    - "so\xF1ar con"
+    - "so\xF1ar despierto"
+    uuid: 0d2166ab-f503-4740-adfc-50b2df6297fb
+  shortdef:
+  - to dream
+  - to dream about
+  - to daydream
+  suppl:
+    cjts:
+    - cjfs:
+      - "so\xF1ando"
+      - "so\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "sue\xF1o"
+      - "sue\xF1as"
+      - "sue\xF1a"
+      - "so\xF1amos"
+      - "so\xF1\xE1is"
+      - "sue\xF1an"
+      cjid: pind
+    - cjfs:
+      - "so\xF1aba"
+      - "so\xF1abas"
+      - "so\xF1aba"
+      - "so\xF1\xE1bamos"
+      - "so\xF1abais"
+      - "so\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "so\xF1\xE9"
+      - "so\xF1aste"
+      - "so\xF1\xF3"
+      - "so\xF1amos"
+      - "so\xF1asteis"
+      - "so\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "so\xF1ar\xE9"
+      - "so\xF1ar\xE1s"
+      - "so\xF1ar\xE1"
+      - "so\xF1aremos"
+      - "so\xF1ar\xE9is"
+      - "so\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "so\xF1ar\xEDa"
+      - "so\xF1ar\xEDas"
+      - "so\xF1ar\xEDa"
+      - "so\xF1ar\xEDamos"
+      - "so\xF1ar\xEDais"
+      - "so\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "sue\xF1e"
+      - "sue\xF1es"
+      - "sue\xF1e"
+      - "so\xF1emos"
+      - "so\xF1\xE9is"
+      - "sue\xF1en"
+      cjid: psub
+    - cjfs:
+      - "so\xF1ara"
+      - "so\xF1aras"
+      - "so\xF1ara"
+      - "so\xF1\xE1ramos"
+      - "so\xF1arais"
+      - "so\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "so\xF1ase"
+      - "so\xF1ases"
+      - "so\xF1ase"
+      - "so\xF1\xE1semos"
+      - "so\xF1aseis"
+      - "so\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "so\xF1are"
+      - "so\xF1ares"
+      - "so\xF1are"
+      - "so\xF1\xE1remos"
+      - "so\xF1areis"
+      - "so\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he so\xF1ado"
+      - "has so\xF1ado"
+      - "ha so\xF1ado"
+      - "hemos so\xF1ado"
+      - "hab\xE9is so\xF1ado"
+      - "han so\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa so\xF1ado"
+      - "hab\xEDas so\xF1ado"
+      - "hab\xEDa so\xF1ado"
+      - "hab\xEDamos so\xF1ado"
+      - "hab\xEDais so\xF1ado"
+      - "hab\xEDan so\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube so\xF1ado"
+      - "hubiste so\xF1ado"
+      - "hubo so\xF1ado"
+      - "hubimos so\xF1ado"
+      - "hubisteis so\xF1ado"
+      - "hubieron so\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 so\xF1ado"
+      - "habr\xE1s so\xF1ado"
+      - "habr\xE1 so\xF1ado"
+      - "habremos so\xF1ado"
+      - "habr\xE9is so\xF1ado"
+      - "habr\xE1n so\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa so\xF1ado"
+      - "habr\xEDas so\xF1ado"
+      - "habr\xEDa so\xF1ado"
+      - "habr\xEDamos so\xF1ado"
+      - "habr\xEDais so\xF1ado"
+      - "habr\xEDan so\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya so\xF1ado"
+      - "hayas so\xF1ado"
+      - "haya so\xF1ado"
+      - "hayamos so\xF1ado"
+      - "hay\xE1is so\xF1ado"
+      - "hayan so\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera so\xF1ado"
+      - "hubieras so\xF1ado"
+      - "hubiera so\xF1ado"
+      - "hubi\xE9ramos so\xF1ado"
+      - "hubierais so\xF1ado"
+      - "hubieran so\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese so\xF1ado"
+      - "hubieses so\xF1ado"
+      - "hubiese so\xF1ado"
+      - "hubi\xE9semos so\xF1ado"
+      - "hubieseis so\xF1ado"
+      - "hubiesen so\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere so\xF1ado"
+      - "hubieres so\xF1ado"
+      - "hubiere so\xF1ado"
+      - "hubi\xE9remos so\xF1ado"
+      - "hubiereis so\xF1ado"
+      - "hubieren so\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "sue\xF1a"
+      - "sue\xF1e"
+      - "so\xF1emos"
+      - "so\xF1ad"
+      - "sue\xF1en"
+      cjid: impf

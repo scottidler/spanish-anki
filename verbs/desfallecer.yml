@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|weaken}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|faint}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: desfallecer
+  meta:
+    id: desfallecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607076000'
+    src: spanish
+    stems:
+    - desfallecer
+    uuid: 2e1a9578-4335-43b8-9089-798de019ba58
+  shortdef:
+  - to weaken
+  - to faint
+  suppl:
+    cjts:
+    - cjfs:
+      - desfalleciendo
+      - desfallecido
+      cjid: gppt
+    - cjfs:
+      - desfallezco
+      - desfalleces
+      - desfallece
+      - desfallecemos
+      - "desfallec\xE9is"
+      - desfallecen
+      cjid: pind
+    - cjfs:
+      - "desfallec\xEDa"
+      - "desfallec\xEDas"
+      - "desfallec\xEDa"
+      - "desfallec\xEDamos"
+      - "desfallec\xEDais"
+      - "desfallec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "desfallec\xED"
+      - desfalleciste
+      - "desfalleci\xF3"
+      - desfallecimos
+      - desfallecisteis
+      - desfallecieron
+      cjid: pprf
+    - cjfs:
+      - "desfallecer\xE9"
+      - "desfallecer\xE1s"
+      - "desfallecer\xE1"
+      - desfalleceremos
+      - "desfallecer\xE9is"
+      - "desfallecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desfallecer\xEDa"
+      - "desfallecer\xEDas"
+      - "desfallecer\xEDa"
+      - "desfallecer\xEDamos"
+      - "desfallecer\xEDais"
+      - "desfallecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - desfallezca
+      - desfallezcas
+      - desfallezca
+      - desfallezcamos
+      - "desfallezc\xE1is"
+      - desfallezcan
+      cjid: psub
+    - cjfs:
+      - desfalleciera
+      - desfallecieras
+      - desfalleciera
+      - "desfalleci\xE9ramos"
+      - desfallecierais
+      - desfallecieran
+      cjid: pisb1
+    - cjfs:
+      - desfalleciese
+      - desfallecieses
+      - desfalleciese
+      - "desfalleci\xE9semos"
+      - desfallecieseis
+      - desfalleciesen
+      cjid: pisb2
+    - cjfs:
+      - desfalleciere
+      - desfallecieres
+      - desfalleciere
+      - "desfalleci\xE9remos"
+      - desfalleciereis
+      - desfallecieren
+      cjid: fsub
+    - cjfs:
+      - he desfallecido
+      - has desfallecido
+      - ha desfallecido
+      - hemos desfallecido
+      - "hab\xE9is desfallecido"
+      - han desfallecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desfallecido"
+      - "hab\xEDas desfallecido"
+      - "hab\xEDa desfallecido"
+      - "hab\xEDamos desfallecido"
+      - "hab\xEDais desfallecido"
+      - "hab\xEDan desfallecido"
+      cjid: ppsi
+    - cjfs:
+      - hube desfallecido
+      - hubiste desfallecido
+      - hubo desfallecido
+      - hubimos desfallecido
+      - hubisteis desfallecido
+      - hubieron desfallecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desfallecido"
+      - "habr\xE1s desfallecido"
+      - "habr\xE1 desfallecido"
+      - habremos desfallecido
+      - "habr\xE9is desfallecido"
+      - "habr\xE1n desfallecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desfallecido"
+      - "habr\xEDas desfallecido"
+      - "habr\xEDa desfallecido"
+      - "habr\xEDamos desfallecido"
+      - "habr\xEDais desfallecido"
+      - "habr\xEDan desfallecido"
+      cjid: cpef
+    - cjfs:
+      - haya desfallecido
+      - hayas desfallecido
+      - haya desfallecido
+      - hayamos desfallecido
+      - "hay\xE1is desfallecido"
+      - hayan desfallecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera desfallecido
+      - hubieras desfallecido
+      - hubiera desfallecido
+      - "hubi\xE9ramos desfallecido"
+      - hubierais desfallecido
+      - hubieran desfallecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese desfallecido
+      - hubieses desfallecido
+      - hubiese desfallecido
+      - "hubi\xE9semos desfallecido"
+      - hubieseis desfallecido
+      - hubiesen desfallecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere desfallecido
+      - hubieres desfallecido
+      - hubiere desfallecido
+      - "hubi\xE9remos desfallecido"
+      - hubiereis desfallecido
+      - hubieren desfallecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desfallece
+      - desfallezca
+      - desfallezcamos
+      - desfalleced
+      - desfallezcan
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|abate}, to ease up, to {a_link|die down}'
+  fl: intransitive verb
+  hwi:
+    hw: amainar
+  meta:
+    id: amainar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601171000'
+    src: spanish
+    stems:
+    - amainar
+    uuid: 463b759a-8d39-4404-957e-ba8bcf543e37
+  shortdef:
+  - to abate, to ease up, to die down
+  suppl:
+    cjts:
+    - cjfs:
+      - amainando
+      - amainado
+      cjid: gppt
+    - cjfs:
+      - "ama\xEDno"
+      - "ama\xEDnas"
+      - "ama\xEDna"
+      - amainamos
+      - "amain\xE1is"
+      - "ama\xEDnan"
+      cjid: pind
+    - cjfs:
+      - amainaba
+      - amainabas
+      - amainaba
+      - "amain\xE1bamos"
+      - amainabais
+      - amainaban
+      cjid: pret
+    - cjfs:
+      - "amain\xE9"
+      - amainaste
+      - "amain\xF3"
+      - amainamos
+      - amainasteis
+      - amainaron
+      cjid: pprf
+    - cjfs:
+      - "amainar\xE9"
+      - "amainar\xE1s"
+      - "amainar\xE1"
+      - amainaremos
+      - "amainar\xE9is"
+      - "amainar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amainar\xEDa"
+      - "amainar\xEDas"
+      - "amainar\xEDa"
+      - "amainar\xEDamos"
+      - "amainar\xEDais"
+      - "amainar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ama\xEDne"
+      - "ama\xEDnes"
+      - "ama\xEDne"
+      - amainemos
+      - "amain\xE9is"
+      - "ama\xEDnen"
+      cjid: psub
+    - cjfs:
+      - amainara
+      - amainaras
+      - amainara
+      - "amain\xE1ramos"
+      - amainarais
+      - amainaran
+      cjid: pisb1
+    - cjfs:
+      - amainase
+      - amainases
+      - amainase
+      - "amain\xE1semos"
+      - amainaseis
+      - amainasen
+      cjid: pisb2
+    - cjfs:
+      - amainare
+      - amainares
+      - amainare
+      - "amain\xE1remos"
+      - amainareis
+      - amainaren
+      cjid: fsub
+    - cjfs:
+      - he amainado
+      - has amainado
+      - ha amainado
+      - hemos amainado
+      - "hab\xE9is amainado"
+      - han amainado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amainado"
+      - "hab\xEDas amainado"
+      - "hab\xEDa amainado"
+      - "hab\xEDamos amainado"
+      - "hab\xEDais amainado"
+      - "hab\xEDan amainado"
+      cjid: ppsi
+    - cjfs:
+      - hube amainado
+      - hubiste amainado
+      - hubo amainado
+      - hubimos amainado
+      - hubisteis amainado
+      - hubieron amainado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amainado"
+      - "habr\xE1s amainado"
+      - "habr\xE1 amainado"
+      - habremos amainado
+      - "habr\xE9is amainado"
+      - "habr\xE1n amainado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amainado"
+      - "habr\xEDas amainado"
+      - "habr\xEDa amainado"
+      - "habr\xEDamos amainado"
+      - "habr\xEDais amainado"
+      - "habr\xEDan amainado"
+      cjid: cpef
+    - cjfs:
+      - haya amainado
+      - hayas amainado
+      - haya amainado
+      - hayamos amainado
+      - "hay\xE1is amainado"
+      - hayan amainado
+      cjid: ppfs
+    - cjfs:
+      - hubiera amainado
+      - hubieras amainado
+      - hubiera amainado
+      - "hubi\xE9ramos amainado"
+      - hubierais amainado
+      - hubieran amainado
+      cjid: ppss1
+    - cjfs:
+      - hubiese amainado
+      - hubieses amainado
+      - hubiese amainado
+      - "hubi\xE9semos amainado"
+      - hubieseis amainado
+      - hubiesen amainado
+      cjid: ppss2
+    - cjfs:
+      - hubiere amainado
+      - hubieres amainado
+      - hubiere amainado
+      - "hubi\xE9remos amainado"
+      - hubiereis amainado
+      - hubieren amainado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ama\xEDna"
+      - "ama\xEDne"
+      - amainemos
+      - amainad
+      - "ama\xEDnen"
+      cjid: impf

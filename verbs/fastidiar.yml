@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|molestar||} {bc}to {a_link|annoy}, to {a_link|bother}, to {a_link|hassle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aburrir||} {bc}to {a_link|bore}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be annoying or bothersome'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to put up with something'
+    drp: fastidiarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: fastidiar
+    prs:
+    - sound:
+        audio: fasti01sp
+  meta:
+    id: fastidiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609938000'
+    src: spanish
+    stems:
+    - fastidiar
+    - fastidiarse
+    uuid: 9ae84b6a-eb6c-4cd3-a40f-68a714c55a92
+  shortdef:
+  - 'molestar : to annoy, to bother, to hassle'
+  - 'aburrir : to bore'
+  - to be annoying or bothersome
+  suppl:
+    cjts:
+    - cjfs:
+      - fastidiando
+      - fastidiado
+      cjid: gppt
+    - cjfs:
+      - fastidio
+      - fastidias
+      - fastidia
+      - fastidiamos
+      - "fastidi\xE1is"
+      - fastidian
+      cjid: pind
+    - cjfs:
+      - fastidiaba
+      - fastidiabas
+      - fastidiaba
+      - "fastidi\xE1bamos"
+      - fastidiabais
+      - fastidiaban
+      cjid: pret
+    - cjfs:
+      - "fastidi\xE9"
+      - fastidiaste
+      - "fastidi\xF3"
+      - fastidiamos
+      - fastidiasteis
+      - fastidiaron
+      cjid: pprf
+    - cjfs:
+      - "fastidiar\xE9"
+      - "fastidiar\xE1s"
+      - "fastidiar\xE1"
+      - fastidiaremos
+      - "fastidiar\xE9is"
+      - "fastidiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fastidiar\xEDa"
+      - "fastidiar\xEDas"
+      - "fastidiar\xEDa"
+      - "fastidiar\xEDamos"
+      - "fastidiar\xEDais"
+      - "fastidiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - fastidie
+      - fastidies
+      - fastidie
+      - fastidiemos
+      - "fastidi\xE9is"
+      - fastidien
+      cjid: psub
+    - cjfs:
+      - fastidiara
+      - fastidiaras
+      - fastidiara
+      - "fastidi\xE1ramos"
+      - fastidiarais
+      - fastidiaran
+      cjid: pisb1
+    - cjfs:
+      - fastidiase
+      - fastidiases
+      - fastidiase
+      - "fastidi\xE1semos"
+      - fastidiaseis
+      - fastidiasen
+      cjid: pisb2
+    - cjfs:
+      - fastidiare
+      - fastidiares
+      - fastidiare
+      - "fastidi\xE1remos"
+      - fastidiareis
+      - fastidiaren
+      cjid: fsub
+    - cjfs:
+      - he fastidiado
+      - has fastidiado
+      - ha fastidiado
+      - hemos fastidiado
+      - "hab\xE9is fastidiado"
+      - han fastidiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fastidiado"
+      - "hab\xEDas fastidiado"
+      - "hab\xEDa fastidiado"
+      - "hab\xEDamos fastidiado"
+      - "hab\xEDais fastidiado"
+      - "hab\xEDan fastidiado"
+      cjid: ppsi
+    - cjfs:
+      - hube fastidiado
+      - hubiste fastidiado
+      - hubo fastidiado
+      - hubimos fastidiado
+      - hubisteis fastidiado
+      - hubieron fastidiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fastidiado"
+      - "habr\xE1s fastidiado"
+      - "habr\xE1 fastidiado"
+      - habremos fastidiado
+      - "habr\xE9is fastidiado"
+      - "habr\xE1n fastidiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fastidiado"
+      - "habr\xEDas fastidiado"
+      - "habr\xEDa fastidiado"
+      - "habr\xEDamos fastidiado"
+      - "habr\xEDais fastidiado"
+      - "habr\xEDan fastidiado"
+      cjid: cpef
+    - cjfs:
+      - haya fastidiado
+      - hayas fastidiado
+      - haya fastidiado
+      - hayamos fastidiado
+      - "hay\xE1is fastidiado"
+      - hayan fastidiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fastidiado
+      - hubieras fastidiado
+      - hubiera fastidiado
+      - "hubi\xE9ramos fastidiado"
+      - hubierais fastidiado
+      - hubieran fastidiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fastidiado
+      - hubieses fastidiado
+      - hubiese fastidiado
+      - "hubi\xE9semos fastidiado"
+      - hubieseis fastidiado
+      - hubiesen fastidiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fastidiado
+      - hubieres fastidiado
+      - hubiere fastidiado
+      - "hubi\xE9remos fastidiado"
+      - hubiereis fastidiado
+      - hubieren fastidiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fastidia
+      - fastidie
+      - fastidiemos
+      - fastidiad
+      - fastidien
+      cjid: impf

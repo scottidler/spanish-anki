@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|caress}, to {a_link|stroke}, to {a_link|pet}'
+  fl: transitive verb
+  hwi:
+    hw: acariciar
+    prs:
+    - sound:
+        audio: acari01sp
+  meta:
+    id: acariciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600194000'
+    src: spanish
+    stems:
+    - acariciar
+    uuid: fa8f23a2-9b32-44d1-b2c6-3271576712c0
+  shortdef:
+  - to caress, to stroke, to pet
+  suppl:
+    cjts:
+    - cjfs:
+      - acariciando
+      - acariciado
+      cjid: gppt
+    - cjfs:
+      - acaricio
+      - acaricias
+      - acaricia
+      - acariciamos
+      - "acarici\xE1is"
+      - acarician
+      cjid: pind
+    - cjfs:
+      - acariciaba
+      - acariciabas
+      - acariciaba
+      - "acarici\xE1bamos"
+      - acariciabais
+      - acariciaban
+      cjid: pret
+    - cjfs:
+      - "acarici\xE9"
+      - acariciaste
+      - "acarici\xF3"
+      - acariciamos
+      - acariciasteis
+      - acariciaron
+      cjid: pprf
+    - cjfs:
+      - "acariciar\xE9"
+      - "acariciar\xE1s"
+      - "acariciar\xE1"
+      - acariciaremos
+      - "acariciar\xE9is"
+      - "acariciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acariciar\xEDa"
+      - "acariciar\xEDas"
+      - "acariciar\xEDa"
+      - "acariciar\xEDamos"
+      - "acariciar\xEDais"
+      - "acariciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acaricie
+      - acaricies
+      - acaricie
+      - acariciemos
+      - "acarici\xE9is"
+      - acaricien
+      cjid: psub
+    - cjfs:
+      - acariciara
+      - acariciaras
+      - acariciara
+      - "acarici\xE1ramos"
+      - acariciarais
+      - acariciaran
+      cjid: pisb1
+    - cjfs:
+      - acariciase
+      - acariciases
+      - acariciase
+      - "acarici\xE1semos"
+      - acariciaseis
+      - acariciasen
+      cjid: pisb2
+    - cjfs:
+      - acariciare
+      - acariciares
+      - acariciare
+      - "acarici\xE1remos"
+      - acariciareis
+      - acariciaren
+      cjid: fsub
+    - cjfs:
+      - he acariciado
+      - has acariciado
+      - ha acariciado
+      - hemos acariciado
+      - "hab\xE9is acariciado"
+      - han acariciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acariciado"
+      - "hab\xEDas acariciado"
+      - "hab\xEDa acariciado"
+      - "hab\xEDamos acariciado"
+      - "hab\xEDais acariciado"
+      - "hab\xEDan acariciado"
+      cjid: ppsi
+    - cjfs:
+      - hube acariciado
+      - hubiste acariciado
+      - hubo acariciado
+      - hubimos acariciado
+      - hubisteis acariciado
+      - hubieron acariciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acariciado"
+      - "habr\xE1s acariciado"
+      - "habr\xE1 acariciado"
+      - habremos acariciado
+      - "habr\xE9is acariciado"
+      - "habr\xE1n acariciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acariciado"
+      - "habr\xEDas acariciado"
+      - "habr\xEDa acariciado"
+      - "habr\xEDamos acariciado"
+      - "habr\xEDais acariciado"
+      - "habr\xEDan acariciado"
+      cjid: cpef
+    - cjfs:
+      - haya acariciado
+      - hayas acariciado
+      - haya acariciado
+      - hayamos acariciado
+      - "hay\xE1is acariciado"
+      - hayan acariciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acariciado
+      - hubieras acariciado
+      - hubiera acariciado
+      - "hubi\xE9ramos acariciado"
+      - hubierais acariciado
+      - hubieran acariciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acariciado
+      - hubieses acariciado
+      - hubiese acariciado
+      - "hubi\xE9semos acariciado"
+      - hubieseis acariciado
+      - hubiesen acariciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acariciado
+      - hubieres acariciado
+      - hubiere acariciado
+      - "hubi\xE9remos acariciado"
+      - hubiereis acariciado
+      - hubieren acariciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acaricia
+      - acaricie
+      - acariciemos
+      - acariciad
+      - acaricien
+      cjid: impf

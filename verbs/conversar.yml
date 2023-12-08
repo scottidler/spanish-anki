@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|converse}, to {a_link|talk}'
+  fl: intransitive verb
+  hwi:
+    hw: conversar
+    prs:
+    - sound:
+        audio: conve09sp
+  meta:
+    id: conversar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605812000'
+    src: spanish
+    stems:
+    - conversar
+    uuid: d219bca4-6311-4568-bc84-34522c058935
+  shortdef:
+  - to converse, to talk
+  suppl:
+    cjts:
+    - cjfs:
+      - conversando
+      - conversado
+      cjid: gppt
+    - cjfs:
+      - converso
+      - conversas
+      - conversa
+      - conversamos
+      - "convers\xE1is"
+      - conversan
+      cjid: pind
+    - cjfs:
+      - conversaba
+      - conversabas
+      - conversaba
+      - "convers\xE1bamos"
+      - conversabais
+      - conversaban
+      cjid: pret
+    - cjfs:
+      - "convers\xE9"
+      - conversaste
+      - "convers\xF3"
+      - conversamos
+      - conversasteis
+      - conversaron
+      cjid: pprf
+    - cjfs:
+      - "conversar\xE9"
+      - "conversar\xE1s"
+      - "conversar\xE1"
+      - conversaremos
+      - "conversar\xE9is"
+      - "conversar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conversar\xEDa"
+      - "conversar\xEDas"
+      - "conversar\xEDa"
+      - "conversar\xEDamos"
+      - "conversar\xEDais"
+      - "conversar\xEDan"
+      cjid: cond
+    - cjfs:
+      - converse
+      - converses
+      - converse
+      - conversemos
+      - "convers\xE9is"
+      - conversen
+      cjid: psub
+    - cjfs:
+      - conversara
+      - conversaras
+      - conversara
+      - "convers\xE1ramos"
+      - conversarais
+      - conversaran
+      cjid: pisb1
+    - cjfs:
+      - conversase
+      - conversases
+      - conversase
+      - "convers\xE1semos"
+      - conversaseis
+      - conversasen
+      cjid: pisb2
+    - cjfs:
+      - conversare
+      - conversares
+      - conversare
+      - "convers\xE1remos"
+      - conversareis
+      - conversaren
+      cjid: fsub
+    - cjfs:
+      - he conversado
+      - has conversado
+      - ha conversado
+      - hemos conversado
+      - "hab\xE9is conversado"
+      - han conversado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conversado"
+      - "hab\xEDas conversado"
+      - "hab\xEDa conversado"
+      - "hab\xEDamos conversado"
+      - "hab\xEDais conversado"
+      - "hab\xEDan conversado"
+      cjid: ppsi
+    - cjfs:
+      - hube conversado
+      - hubiste conversado
+      - hubo conversado
+      - hubimos conversado
+      - hubisteis conversado
+      - hubieron conversado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conversado"
+      - "habr\xE1s conversado"
+      - "habr\xE1 conversado"
+      - habremos conversado
+      - "habr\xE9is conversado"
+      - "habr\xE1n conversado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conversado"
+      - "habr\xEDas conversado"
+      - "habr\xEDa conversado"
+      - "habr\xEDamos conversado"
+      - "habr\xEDais conversado"
+      - "habr\xEDan conversado"
+      cjid: cpef
+    - cjfs:
+      - haya conversado
+      - hayas conversado
+      - haya conversado
+      - hayamos conversado
+      - "hay\xE1is conversado"
+      - hayan conversado
+      cjid: ppfs
+    - cjfs:
+      - hubiera conversado
+      - hubieras conversado
+      - hubiera conversado
+      - "hubi\xE9ramos conversado"
+      - hubierais conversado
+      - hubieran conversado
+      cjid: ppss1
+    - cjfs:
+      - hubiese conversado
+      - hubieses conversado
+      - hubiese conversado
+      - "hubi\xE9semos conversado"
+      - hubieseis conversado
+      - hubiesen conversado
+      cjid: ppss2
+    - cjfs:
+      - hubiere conversado
+      - hubieres conversado
+      - hubiere conversado
+      - "hubi\xE9remos conversado"
+      - hubiereis conversado
+      - hubieren conversado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conversa
+      - converse
+      - conversemos
+      - conversad
+      - conversen
+      cjid: impf

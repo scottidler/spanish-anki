@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|splinter}'
+  fl: transitive verb
+  hwi:
+    hw: astillar
+  meta:
+    id: astillar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602223000'
+    src: spanish
+    stems:
+    - astillar
+    - astillarse
+    uuid: 35df3b27-e37f-4d94-9ce3-f5767fd32027
+  shortdef:
+  - to splinter
+  suppl:
+    cjts:
+    - cjfs:
+      - astillando
+      - astillado
+      cjid: gppt
+    - cjfs:
+      - astillo
+      - astillas
+      - astilla
+      - astillamos
+      - "astill\xE1is"
+      - astillan
+      cjid: pind
+    - cjfs:
+      - astillaba
+      - astillabas
+      - astillaba
+      - "astill\xE1bamos"
+      - astillabais
+      - astillaban
+      cjid: pret
+    - cjfs:
+      - "astill\xE9"
+      - astillaste
+      - "astill\xF3"
+      - astillamos
+      - astillasteis
+      - astillaron
+      cjid: pprf
+    - cjfs:
+      - "astillar\xE9"
+      - "astillar\xE1s"
+      - "astillar\xE1"
+      - astillaremos
+      - "astillar\xE9is"
+      - "astillar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "astillar\xEDa"
+      - "astillar\xEDas"
+      - "astillar\xEDa"
+      - "astillar\xEDamos"
+      - "astillar\xEDais"
+      - "astillar\xEDan"
+      cjid: cond
+    - cjfs:
+      - astille
+      - astilles
+      - astille
+      - astillemos
+      - "astill\xE9is"
+      - astillen
+      cjid: psub
+    - cjfs:
+      - astillara
+      - astillaras
+      - astillara
+      - "astill\xE1ramos"
+      - astillarais
+      - astillaran
+      cjid: pisb1
+    - cjfs:
+      - astillase
+      - astillases
+      - astillase
+      - "astill\xE1semos"
+      - astillaseis
+      - astillasen
+      cjid: pisb2
+    - cjfs:
+      - astillare
+      - astillares
+      - astillare
+      - "astill\xE1remos"
+      - astillareis
+      - astillaren
+      cjid: fsub
+    - cjfs:
+      - he astillado
+      - has astillado
+      - ha astillado
+      - hemos astillado
+      - "hab\xE9is astillado"
+      - han astillado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa astillado"
+      - "hab\xEDas astillado"
+      - "hab\xEDa astillado"
+      - "hab\xEDamos astillado"
+      - "hab\xEDais astillado"
+      - "hab\xEDan astillado"
+      cjid: ppsi
+    - cjfs:
+      - hube astillado
+      - hubiste astillado
+      - hubo astillado
+      - hubimos astillado
+      - hubisteis astillado
+      - hubieron astillado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 astillado"
+      - "habr\xE1s astillado"
+      - "habr\xE1 astillado"
+      - habremos astillado
+      - "habr\xE9is astillado"
+      - "habr\xE1n astillado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa astillado"
+      - "habr\xEDas astillado"
+      - "habr\xEDa astillado"
+      - "habr\xEDamos astillado"
+      - "habr\xEDais astillado"
+      - "habr\xEDan astillado"
+      cjid: cpef
+    - cjfs:
+      - haya astillado
+      - hayas astillado
+      - haya astillado
+      - hayamos astillado
+      - "hay\xE1is astillado"
+      - hayan astillado
+      cjid: ppfs
+    - cjfs:
+      - hubiera astillado
+      - hubieras astillado
+      - hubiera astillado
+      - "hubi\xE9ramos astillado"
+      - hubierais astillado
+      - hubieran astillado
+      cjid: ppss1
+    - cjfs:
+      - hubiese astillado
+      - hubieses astillado
+      - hubiese astillado
+      - "hubi\xE9semos astillado"
+      - hubieseis astillado
+      - hubiesen astillado
+      cjid: ppss2
+    - cjfs:
+      - hubiere astillado
+      - hubieres astillado
+      - hubiere astillado
+      - "hubi\xE9remos astillado"
+      - hubiereis astillado
+      - hubieren astillado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - astilla
+      - astille
+      - astillemos
+      - astillad
+      - astillen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: astillarse

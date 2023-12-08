@@ -1,0 +1,862 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|colocar||} {bc}to {a_link|put}, to {a_link|place} '
+          - - vis
+            - - t: pon el libro en la mesa
+                tr: put the book on the table
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|agregar||}, {sx|a\xF1adir||} {bc}to {a_link|put in}, to {a_link|add}\
+              \ (an ingredient, etc.)"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put on} (clothes) '
+          - - vis
+            - - t: "le puse el su\xE9ter"
+                tr: I put her sweater on (her)
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|contribuir||} {bc}to {a_link|contribute}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|escribir||} {bc}to put in writing '
+          - - vis
+            - - t: no le puso su nombre
+                tr: he didn't put his name on it
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a task, etc.), to {a_link|impose} (a fine)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prepare}, to {a_link|arrange} '
+          - - vis
+            - - t: poner la mesa
+                tr: to set the table
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|name} '
+          - - vis
+            - - t: le pusimos Ana
+                tr: we called her Ana
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|establecer||} {bc}to {a_link|set up}, to {a_link|establish} '
+          - - vis
+            - - t: puso un restaurante
+                tr: he opened up a restaurant
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|instalar||} {bc}to {a_link|install}, to {a_link|put in}'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make} '
+          - - vis
+            - - t: me pone nervioso
+                tr: it makes me nervous
+              - t: siempre lo pones de mal humor
+                tr: you always put him in a bad mood
+          sls:
+          - (with an adjective or adverb)
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn on}, to {a_link|switch on}'
+          sn: '12'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|set} (an alarm, etc.) '
+          - - vis
+            - - t: "pon la m\xFAsica m\xE1s alta/fuerte"
+                tr: turn up the music
+          sn: '13'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|suponer||} {bc}to {a_link|suppose} '
+          - - vis
+            - - t: pongamos que no viene
+                tr: supposing he doesn't come
+          sn: '14'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (an example)'
+          sn: '15'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|raise} (objections), to {a_link|create} (problems, etc.)'
+          sn: '16'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lay} (eggs)'
+          sn: '17'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|start} (someone doing something) '
+          - - vis
+            - - t: lo puse a trabajar
+                tr: I put him to work
+          sn: '18'
+          vrs:
+          - va: poner a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to place as '
+          - - vis
+            - - t: la pusieron de directora
+                tr: they made her director
+          sn: '19'
+          vrs:
+          - va: poner de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put in} (a state or condition) '
+          - - vis
+            - - t: poner en duda
+                tr: to call into question
+              - t: lo puso en peligro
+                tr: she put him in danger
+          sn: '20'
+          vrs:
+          - va: poner en
+            vac: ~ en
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|contribute}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lay eggs}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|move} (into a position) '
+            - - vis
+              - - t: ponerse de pie
+                  tr: to stand up
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|put on}, to {a_link|wear}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|become}, to {a_link|turn} '
+            - - vis
+              - - t: se puso colorado
+                  tr: he turned red
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|start} '
+            - - vis
+              - - t: me puse a llorar
+                  tr: I started to cry
+            sn: '4'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|set} (of the sun or moon)'
+            sn: '5'
+    drp: ponerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: poner
+    prs:
+    - sound:
+        audio: poner01sp
+  meta:
+    id: poner
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617720000'
+    src: spanish
+    stems:
+    - poner
+    - poner a
+    - poner de
+    - poner en
+    - ponerse
+    uuid: e56d685f-f239-4274-b4bd-a60a71fbd8a8
+  shortdef:
+  - 'colocar : to put, to place'
+  - "agregar, a\xF1adir : to put in, to add (an ingredient, etc.)"
+  - to put on (clothes)
+  suppl:
+    cjts:
+    - cjfs:
+      - poniendo
+      - puesto
+      cjid: gppt
+    - cjfs:
+      - pongo
+      - pones
+      - pone
+      - ponemos
+      - "pon\xE9is"
+      - ponen
+      cjid: pind
+    - cjfs:
+      - "pon\xEDa"
+      - "pon\xEDas"
+      - "pon\xEDa"
+      - "pon\xEDamos"
+      - "pon\xEDais"
+      - "pon\xEDan"
+      cjid: pret
+    - cjfs:
+      - puse
+      - pusiste
+      - puso
+      - pusimos
+      - pusisteis
+      - pusieron
+      cjid: pprf
+    - cjfs:
+      - "pondr\xE9"
+      - "pondr\xE1s"
+      - "pondr\xE1"
+      - pondremos
+      - "pondr\xE9is"
+      - "pondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pondr\xEDa"
+      - "pondr\xEDas"
+      - "pondr\xEDa"
+      - "pondr\xEDamos"
+      - "pondr\xEDais"
+      - "pondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - ponga
+      - pongas
+      - ponga
+      - pongamos
+      - "pong\xE1is"
+      - pongan
+      cjid: psub
+    - cjfs:
+      - pusiera
+      - pusieras
+      - pusiera
+      - "pusi\xE9ramos"
+      - pusierais
+      - pusieran
+      cjid: pisb1
+    - cjfs:
+      - pusiese
+      - pusieses
+      - pusiese
+      - "pusi\xE9semos"
+      - pusieseis
+      - pusiesen
+      cjid: pisb2
+    - cjfs:
+      - pusiere
+      - pusieres
+      - pusiere
+      - "pusi\xE9remos"
+      - pusiereis
+      - pusieren
+      cjid: fsub
+    - cjfs:
+      - he puesto
+      - has puesto
+      - ha puesto
+      - hemos puesto
+      - "hab\xE9is puesto"
+      - han puesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa puesto"
+      - "hab\xEDas puesto"
+      - "hab\xEDa puesto"
+      - "hab\xEDamos puesto"
+      - "hab\xEDais puesto"
+      - "hab\xEDan puesto"
+      cjid: ppsi
+    - cjfs:
+      - hube puesto
+      - hubiste puesto
+      - hubo puesto
+      - hubimos puesto
+      - hubisteis puesto
+      - hubieron puesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 puesto"
+      - "habr\xE1s puesto"
+      - "habr\xE1 puesto"
+      - habremos puesto
+      - "habr\xE9is puesto"
+      - "habr\xE1n puesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa puesto"
+      - "habr\xEDas puesto"
+      - "habr\xEDa puesto"
+      - "habr\xEDamos puesto"
+      - "habr\xEDais puesto"
+      - "habr\xEDan puesto"
+      cjid: cpef
+    - cjfs:
+      - haya puesto
+      - hayas puesto
+      - haya puesto
+      - hayamos puesto
+      - "hay\xE1is puesto"
+      - hayan puesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera puesto
+      - hubieras puesto
+      - hubiera puesto
+      - "hubi\xE9ramos puesto"
+      - hubierais puesto
+      - hubieran puesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese puesto
+      - hubieses puesto
+      - hubiese puesto
+      - "hubi\xE9semos puesto"
+      - hubieseis puesto
+      - hubiesen puesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere puesto
+      - hubieres puesto
+      - hubiere puesto
+      - "hubi\xE9remos puesto"
+      - hubiereis puesto
+      - hubieren puesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pon
+      - ponga
+      - pongamos
+      - poned
+      - pongan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|attention}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay attention}'
+          sn: '2'
+          vrs:
+          - va: "poner atenci\xF3n"
+          - va: "prestar atenci\xF3n"
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attract attention}'
+          sn: '3'
+          vrs:
+          - va: "llamar la atenci\xF3n"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in view of}'
+          sn: '4'
+          vrs:
+          - va: "en atenci\xF3n a"
+  fl: feminine noun
+  hom: 1
+  hwi:
+    hw: "atenci\xF3n"
+    prs:
+    - sound:
+        audio: atenc01sp
+  ins:
+  - if: atenciones
+    ifc: -ciones
+    il: plural
+  meta:
+    id: atencion:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602274000'
+    src: spanish
+    stems:
+    - "atenci\xF3n"
+    - atenciones
+    - "poner atenci\xF3n"
+    - "prestar atenci\xF3n"
+    - "llamar la atenci\xF3n"
+    - "en atenci\xF3n a"
+    uuid: 92c80876-e0b9-4022-a6fe-8524c3b73129
+  shortdef:
+  - attention
+  - to pay attention
+  - to attract attention
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|enclosure}, {a_link|reserve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put a stop to'
+          sn: '2'
+          vrs:
+          - va: poner coto a
+  fl: masculine noun
+  hwi:
+    hw: coto
+    prs:
+    - sound:
+        audio: coto001sp
+  meta:
+    id: coto
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606042000'
+    src: spanish
+    stems:
+    - coto
+    - poner coto a
+    uuid: b19c5ed3-13b9-4a0c-abce-bffc0fb4bbdd
+  shortdef:
+  - enclosure, reserve
+  - to put a stop to
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|evidence}, {a_link|proof}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demonstrate}, to make clear'
+          sn: '2'
+          vrs:
+          - va: poner en evidencia
+  fl: feminine noun
+  hwi:
+    hw: evidencia
+    prs:
+    - sound:
+        audio: evide01sp
+  meta:
+    id: evidencia
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609548000'
+    src: spanish
+    stems:
+    - evidencia
+    - poner en evidencia
+    uuid: bff1418f-32eb-4265-9264-4c60cd84b91f
+  shortdef:
+  - evidence, proof
+  - to demonstrate, to make clear
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fuego||} {bc}{a_link|fire}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|brilliance}, {a_link|splendor}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put on the stove, to {a_link|warm up}'
+          sn: '3'
+          vrs:
+          - va: poner en la lumbre
+  fl: feminine noun
+  hwi:
+    hw: lumbre
+    prs:
+    - sound:
+        audio: lumbr01sp
+  meta:
+    id: lumbre
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614062000'
+    src: spanish
+    stems:
+    - lumbre
+    - poner en la lumbre
+    uuid: b79b970b-fe9c-4250-9e9a-2b51363d7963
+  shortdef:
+  - 'fuego : fire'
+  - brilliance, splendor
+  - to put on the stove, to warm up
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|work} '
+          - - vis
+            - - t: obra de arte
+                tr: work of art
+              - t: obra de teatro
+                tr: play
+              - t: obra de consulta
+                tr: reference work
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|deed} '
+          - - vis
+            - - t: una buena obra
+                tr: a good deed
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}construction work '
+          - - vis
+            - - t: en obra(s)
+                tr: under construction
+              - t: obras viales
+                tr: roadwork
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}construction site, building site'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|masterpiece}'
+          sn: '5'
+          vrs:
+          - va: obra maestra
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}public works'
+          sn: '6'
+          vrs:
+          - va: "obras p\xFAblicas"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put into effect'
+          sn: '7'
+          vrs:
+          - va: poner en obra
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}thanks to, {a_link|because of}'
+          sn: '8'
+          vrs:
+          - va: por obra de
+  fl: feminine noun
+  hwi:
+    hw: obra
+    prs:
+    - sound:
+        audio: obra001sp
+  meta:
+    id: obra
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615997000'
+    src: spanish
+    stems:
+    - obra
+    - obra maestra
+    - "obras p\xFAblicas"
+    - poner en obra
+    - por obra de
+    uuid: 2c57a1c3-32f1-4a7d-8948-7bd4cba6f1d0
+  shortdef:
+  - work
+  - deed
+  - construction work
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pillory}, {a_link|stock}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put someone on the spot'
+          sn: '2'
+          vrs:
+          - va: poner a alguien en la picota
+  fl: feminine noun
+  hwi:
+    hw: picota
+  meta:
+    id: picota
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617328000'
+    src: spanish
+    stems:
+    - picota
+    - poner a alguien en la picota
+    uuid: 5599152e-2e21-4feb-976e-9846da376501
+  shortdef:
+  - pillory, stock
+  - to put someone on the spot
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|proof}, (piece of) {a_link|evidence} '
+          - - vis
+            - - t: como prueba de
+                tr: as proof of
+              - t: "pruebas cient\xEDficas"
+                tr: scientific evidence
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|trial}, {a_link|test} '
+          - - vis
+            - - t: prueba del embarazo
+                tr: pregnancy test
+              - t: vamos a hacer la prueba
+                tr: let's try it
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|proof} (in printing or photography)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|event}, qualifying round (in sports)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}on a trial basis'
+          sn: '5'
+          vrs:
+          - va: a prueba
+            vac: a ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|waterproof}'
+          sn: '6'
+          vrs:
+          - va: a prueba de agua
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|acid test}'
+          sn: '7'
+          vrs:
+          - va: prueba de fuego
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put to the test'
+          sn: '8'
+          vrs:
+          - va: poner a prueba
+  fl: feminine noun
+  hom: 2
+  hwi:
+    hw: prueba
+    prs:
+    - sound:
+        audio: prueb02sp
+  meta:
+    id: prueba:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618392000'
+    src: spanish
+    stems:
+    - prueba
+    - a prueba
+    - a prueba de agua
+    - prueba de fuego
+    - poner a prueba
+    uuid: 3ddcba59-b1d5-4253-a237-7b7bef2295b7
+  shortdef:
+  - proof, (piece of) evidence
+  - trial, test
+  - proof (in printing or photography)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|relief}, {a_link|projection} '
+          - - vis
+            - - t: mapa en relieve
+                tr: relief map
+              - t: letras en relieve
+                tr: embossed letters
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|prominence}, {a_link|importance}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|highlight}, to {a_link|emphasize}'
+          sn: '3'
+          vrs:
+          - va: poner en relieve
+  fl: masculine noun
+  hwi:
+    hw: relieve
+  meta:
+    id: relieve
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619302000'
+    src: spanish
+    stems:
+    - relieve
+    - poner en relieve
+    uuid: bb5c03ff-0726-4713-bc0b-5997639f3bc0
+  shortdef:
+  - relief, projection
+  - prominence, importance
+  - to highlight, to emphasize
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|remedy}, {a_link|cure}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|solution}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|option} '
+          - - vis
+            - - t: "no me qued\xF3 m\xE1s remedio"
+                tr: I had no other choice
+              - t: no hay remedio
+                tr: it can't be helped
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put a stop to'
+          sn: '4'
+          vrs:
+          - va: poner remedio a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|unavoidable}, {a_link|inevitable}'
+          sn: '5'
+          vrs:
+          - va: sin remedio
+            vac: sin ~
+  fl: masculine noun
+  hwi:
+    hw: remedio
+    prs:
+    - sound:
+        audio: remed01sp
+  meta:
+    id: remedio
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619336000'
+    src: spanish
+    stems:
+    - remedio
+    - poner remedio a
+    - sin remedio
+    uuid: 182908f5-57ca-437d-8b8e-0b38d80d287e
+  shortdef:
+  - remedy, cure
+  - solution
+  - option

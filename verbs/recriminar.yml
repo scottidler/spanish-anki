@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reproach}'
+  fl: transitive verb
+  hwi:
+    hw: recriminar
+    prs:
+    - sound:
+        audio: recri01sp
+  meta:
+    id: recriminar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619051000'
+    src: spanish
+    stems:
+    - recriminar
+    - recriminarse
+    uuid: 62c7c434-694b-4a15-9cb6-30ba26dd9112
+  shortdef:
+  - to reproach
+  suppl:
+    cjts:
+    - cjfs:
+      - recriminando
+      - recriminado
+      cjid: gppt
+    - cjfs:
+      - recrimino
+      - recriminas
+      - recrimina
+      - recriminamos
+      - "recrimin\xE1is"
+      - recriminan
+      cjid: pind
+    - cjfs:
+      - recriminaba
+      - recriminabas
+      - recriminaba
+      - "recrimin\xE1bamos"
+      - recriminabais
+      - recriminaban
+      cjid: pret
+    - cjfs:
+      - "recrimin\xE9"
+      - recriminaste
+      - "recrimin\xF3"
+      - recriminamos
+      - recriminasteis
+      - recriminaron
+      cjid: pprf
+    - cjfs:
+      - "recriminar\xE9"
+      - "recriminar\xE1s"
+      - "recriminar\xE1"
+      - recriminaremos
+      - "recriminar\xE9is"
+      - "recriminar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recriminar\xEDa"
+      - "recriminar\xEDas"
+      - "recriminar\xEDa"
+      - "recriminar\xEDamos"
+      - "recriminar\xEDais"
+      - "recriminar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recrimine
+      - recrimines
+      - recrimine
+      - recriminemos
+      - "recrimin\xE9is"
+      - recriminen
+      cjid: psub
+    - cjfs:
+      - recriminara
+      - recriminaras
+      - recriminara
+      - "recrimin\xE1ramos"
+      - recriminarais
+      - recriminaran
+      cjid: pisb1
+    - cjfs:
+      - recriminase
+      - recriminases
+      - recriminase
+      - "recrimin\xE1semos"
+      - recriminaseis
+      - recriminasen
+      cjid: pisb2
+    - cjfs:
+      - recriminare
+      - recriminares
+      - recriminare
+      - "recrimin\xE1remos"
+      - recriminareis
+      - recriminaren
+      cjid: fsub
+    - cjfs:
+      - he recriminado
+      - has recriminado
+      - ha recriminado
+      - hemos recriminado
+      - "hab\xE9is recriminado"
+      - han recriminado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recriminado"
+      - "hab\xEDas recriminado"
+      - "hab\xEDa recriminado"
+      - "hab\xEDamos recriminado"
+      - "hab\xEDais recriminado"
+      - "hab\xEDan recriminado"
+      cjid: ppsi
+    - cjfs:
+      - hube recriminado
+      - hubiste recriminado
+      - hubo recriminado
+      - hubimos recriminado
+      - hubisteis recriminado
+      - hubieron recriminado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recriminado"
+      - "habr\xE1s recriminado"
+      - "habr\xE1 recriminado"
+      - habremos recriminado
+      - "habr\xE9is recriminado"
+      - "habr\xE1n recriminado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recriminado"
+      - "habr\xEDas recriminado"
+      - "habr\xEDa recriminado"
+      - "habr\xEDamos recriminado"
+      - "habr\xEDais recriminado"
+      - "habr\xEDan recriminado"
+      cjid: cpef
+    - cjfs:
+      - haya recriminado
+      - hayas recriminado
+      - haya recriminado
+      - hayamos recriminado
+      - "hay\xE1is recriminado"
+      - hayan recriminado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recriminado
+      - hubieras recriminado
+      - hubiera recriminado
+      - "hubi\xE9ramos recriminado"
+      - hubierais recriminado
+      - hubieran recriminado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recriminado
+      - hubieses recriminado
+      - hubiese recriminado
+      - "hubi\xE9semos recriminado"
+      - hubieseis recriminado
+      - hubiesen recriminado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recriminado
+      - hubieres recriminado
+      - hubiere recriminado
+      - "hubi\xE9remos recriminado"
+      - hubiereis recriminado
+      - hubieren recriminado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recrimina
+      - recrimine
+      - recriminemos
+      - recriminad
+      - recriminen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: recriminarse

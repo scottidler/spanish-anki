@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|yawn}'
+  fl: intransitive verb
+  hwi:
+    hw: bostezar
+    prs:
+    - sound:
+        audio: boste01sp
+  meta:
+    id: bostezar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603254000'
+    src: spanish
+    stems:
+    - bostezar
+    uuid: 183ec547-8754-4931-924f-07d116418999
+  shortdef:
+  - to yawn
+  suppl:
+    cjts:
+    - cjfs:
+      - bostezando
+      - bostezado
+      cjid: gppt
+    - cjfs:
+      - bostezo
+      - bostezas
+      - bosteza
+      - bostezamos
+      - "bostez\xE1is"
+      - bostezan
+      cjid: pind
+    - cjfs:
+      - bostezaba
+      - bostezabas
+      - bostezaba
+      - "bostez\xE1bamos"
+      - bostezabais
+      - bostezaban
+      cjid: pret
+    - cjfs:
+      - "bostec\xE9"
+      - bostezaste
+      - "bostez\xF3"
+      - bostezamos
+      - bostezasteis
+      - bostezaron
+      cjid: pprf
+    - cjfs:
+      - "bostezar\xE9"
+      - "bostezar\xE1s"
+      - "bostezar\xE1"
+      - bostezaremos
+      - "bostezar\xE9is"
+      - "bostezar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bostezar\xEDa"
+      - "bostezar\xEDas"
+      - "bostezar\xEDa"
+      - "bostezar\xEDamos"
+      - "bostezar\xEDais"
+      - "bostezar\xEDan"
+      cjid: cond
+    - cjfs:
+      - bostece
+      - bosteces
+      - bostece
+      - bostecemos
+      - "bostec\xE9is"
+      - bostecen
+      cjid: psub
+    - cjfs:
+      - bostezara
+      - bostezaras
+      - bostezara
+      - "bostez\xE1ramos"
+      - bostezarais
+      - bostezaran
+      cjid: pisb1
+    - cjfs:
+      - bostezase
+      - bostezases
+      - bostezase
+      - "bostez\xE1semos"
+      - bostezaseis
+      - bostezasen
+      cjid: pisb2
+    - cjfs:
+      - bostezare
+      - bostezares
+      - bostezare
+      - "bostez\xE1remos"
+      - bostezareis
+      - bostezaren
+      cjid: fsub
+    - cjfs:
+      - he bostezado
+      - has bostezado
+      - ha bostezado
+      - hemos bostezado
+      - "hab\xE9is bostezado"
+      - han bostezado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bostezado"
+      - "hab\xEDas bostezado"
+      - "hab\xEDa bostezado"
+      - "hab\xEDamos bostezado"
+      - "hab\xEDais bostezado"
+      - "hab\xEDan bostezado"
+      cjid: ppsi
+    - cjfs:
+      - hube bostezado
+      - hubiste bostezado
+      - hubo bostezado
+      - hubimos bostezado
+      - hubisteis bostezado
+      - hubieron bostezado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bostezado"
+      - "habr\xE1s bostezado"
+      - "habr\xE1 bostezado"
+      - habremos bostezado
+      - "habr\xE9is bostezado"
+      - "habr\xE1n bostezado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bostezado"
+      - "habr\xEDas bostezado"
+      - "habr\xEDa bostezado"
+      - "habr\xEDamos bostezado"
+      - "habr\xEDais bostezado"
+      - "habr\xEDan bostezado"
+      cjid: cpef
+    - cjfs:
+      - haya bostezado
+      - hayas bostezado
+      - haya bostezado
+      - hayamos bostezado
+      - "hay\xE1is bostezado"
+      - hayan bostezado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bostezado
+      - hubieras bostezado
+      - hubiera bostezado
+      - "hubi\xE9ramos bostezado"
+      - hubierais bostezado
+      - hubieran bostezado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bostezado
+      - hubieses bostezado
+      - hubiese bostezado
+      - "hubi\xE9semos bostezado"
+      - hubieseis bostezado
+      - hubiesen bostezado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bostezado
+      - hubieres bostezado
+      - hubiere bostezado
+      - "hubi\xE9remos bostezado"
+      - hubiereis bostezado
+      - hubieren bostezado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bosteza
+      - bostece
+      - bostecemos
+      - bostezad
+      - bostecen
+      cjid: impf

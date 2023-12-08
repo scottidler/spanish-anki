@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|complete}, to {a_link|finish}, to {a_link|finalize}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|matar||} {bc}to {a_link|kill}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: ultimar
+  meta:
+    id: ultimar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622508000'
+    src: spanish
+    stems:
+    - ultimar
+    uuid: 1c130419-7a61-444a-acd0-8faa15e0209c
+  shortdef:
+  - to complete, to finish, to finalize
+  - 'matar : to kill'
+  suppl:
+    cjts:
+    - cjfs:
+      - ultimando
+      - ultimado
+      cjid: gppt
+    - cjfs:
+      - ultimo
+      - ultimas
+      - ultima
+      - ultimamos
+      - "ultim\xE1is"
+      - ultiman
+      cjid: pind
+    - cjfs:
+      - ultimaba
+      - ultimabas
+      - ultimaba
+      - "ultim\xE1bamos"
+      - ultimabais
+      - ultimaban
+      cjid: pret
+    - cjfs:
+      - "ultim\xE9"
+      - ultimaste
+      - "ultim\xF3"
+      - ultimamos
+      - ultimasteis
+      - ultimaron
+      cjid: pprf
+    - cjfs:
+      - "ultimar\xE9"
+      - "ultimar\xE1s"
+      - "ultimar\xE1"
+      - ultimaremos
+      - "ultimar\xE9is"
+      - "ultimar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ultimar\xEDa"
+      - "ultimar\xEDas"
+      - "ultimar\xEDa"
+      - "ultimar\xEDamos"
+      - "ultimar\xEDais"
+      - "ultimar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ultime
+      - ultimes
+      - ultime
+      - ultimemos
+      - "ultim\xE9is"
+      - ultimen
+      cjid: psub
+    - cjfs:
+      - ultimara
+      - ultimaras
+      - ultimara
+      - "ultim\xE1ramos"
+      - ultimarais
+      - ultimaran
+      cjid: pisb1
+    - cjfs:
+      - ultimase
+      - ultimases
+      - ultimase
+      - "ultim\xE1semos"
+      - ultimaseis
+      - ultimasen
+      cjid: pisb2
+    - cjfs:
+      - ultimare
+      - ultimares
+      - ultimare
+      - "ultim\xE1remos"
+      - ultimareis
+      - ultimaren
+      cjid: fsub
+    - cjfs:
+      - he ultimado
+      - has ultimado
+      - ha ultimado
+      - hemos ultimado
+      - "hab\xE9is ultimado"
+      - han ultimado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ultimado"
+      - "hab\xEDas ultimado"
+      - "hab\xEDa ultimado"
+      - "hab\xEDamos ultimado"
+      - "hab\xEDais ultimado"
+      - "hab\xEDan ultimado"
+      cjid: ppsi
+    - cjfs:
+      - hube ultimado
+      - hubiste ultimado
+      - hubo ultimado
+      - hubimos ultimado
+      - hubisteis ultimado
+      - hubieron ultimado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ultimado"
+      - "habr\xE1s ultimado"
+      - "habr\xE1 ultimado"
+      - habremos ultimado
+      - "habr\xE9is ultimado"
+      - "habr\xE1n ultimado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ultimado"
+      - "habr\xEDas ultimado"
+      - "habr\xEDa ultimado"
+      - "habr\xEDamos ultimado"
+      - "habr\xEDais ultimado"
+      - "habr\xEDan ultimado"
+      cjid: cpef
+    - cjfs:
+      - haya ultimado
+      - hayas ultimado
+      - haya ultimado
+      - hayamos ultimado
+      - "hay\xE1is ultimado"
+      - hayan ultimado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ultimado
+      - hubieras ultimado
+      - hubiera ultimado
+      - "hubi\xE9ramos ultimado"
+      - hubierais ultimado
+      - hubieran ultimado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ultimado
+      - hubieses ultimado
+      - hubiese ultimado
+      - "hubi\xE9semos ultimado"
+      - hubieseis ultimado
+      - hubiesen ultimado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ultimado
+      - hubieres ultimado
+      - hubiere ultimado
+      - "hubi\xE9remos ultimado"
+      - hubiereis ultimado
+      - hubieren ultimado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ultima
+      - ultime
+      - ultimemos
+      - ultimad
+      - ultimen
+      cjid: impf

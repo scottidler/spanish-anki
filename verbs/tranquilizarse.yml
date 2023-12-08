@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|calmar||} {bc}to {a_link|calm down}, to {a_link|soothe} '
+          - - vis
+            - - t: tranquilizar la conciencia
+                tr: to ease the conscience
+  fl: transitive verb
+  hwi:
+    hw: tranquilizar
+    prs:
+    - sound:
+        audio: tranq03sp
+  meta:
+    id: tranquilizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622124000'
+    src: spanish
+    stems:
+    - tranquilizar
+    - tranquilizarse
+    uuid: 1c67ae00-2362-4b0b-a0d6-3a455f8f815e
+  shortdef:
+  - 'calmar : to calm down, to soothe'
+  suppl:
+    cjts:
+    - cjfs:
+      - tranquilizando
+      - tranquilizado
+      cjid: gppt
+    - cjfs:
+      - tranquilizo
+      - tranquilizas
+      - tranquiliza
+      - tranquilizamos
+      - "tranquiliz\xE1is"
+      - tranquilizan
+      cjid: pind
+    - cjfs:
+      - tranquilizaba
+      - tranquilizabas
+      - tranquilizaba
+      - "tranquiliz\xE1bamos"
+      - tranquilizabais
+      - tranquilizaban
+      cjid: pret
+    - cjfs:
+      - "tranquilic\xE9"
+      - tranquilizaste
+      - "tranquiliz\xF3"
+      - tranquilizamos
+      - tranquilizasteis
+      - tranquilizaron
+      cjid: pprf
+    - cjfs:
+      - "tranquilizar\xE9"
+      - "tranquilizar\xE1s"
+      - "tranquilizar\xE1"
+      - tranquilizaremos
+      - "tranquilizar\xE9is"
+      - "tranquilizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tranquilizar\xEDa"
+      - "tranquilizar\xEDas"
+      - "tranquilizar\xEDa"
+      - "tranquilizar\xEDamos"
+      - "tranquilizar\xEDais"
+      - "tranquilizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tranquilice
+      - tranquilices
+      - tranquilice
+      - tranquilicemos
+      - "tranquilic\xE9is"
+      - tranquilicen
+      cjid: psub
+    - cjfs:
+      - tranquilizara
+      - tranquilizaras
+      - tranquilizara
+      - "tranquiliz\xE1ramos"
+      - tranquilizarais
+      - tranquilizaran
+      cjid: pisb1
+    - cjfs:
+      - tranquilizase
+      - tranquilizases
+      - tranquilizase
+      - "tranquiliz\xE1semos"
+      - tranquilizaseis
+      - tranquilizasen
+      cjid: pisb2
+    - cjfs:
+      - tranquilizare
+      - tranquilizares
+      - tranquilizare
+      - "tranquiliz\xE1remos"
+      - tranquilizareis
+      - tranquilizaren
+      cjid: fsub
+    - cjfs:
+      - he tranquilizado
+      - has tranquilizado
+      - ha tranquilizado
+      - hemos tranquilizado
+      - "hab\xE9is tranquilizado"
+      - han tranquilizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tranquilizado"
+      - "hab\xEDas tranquilizado"
+      - "hab\xEDa tranquilizado"
+      - "hab\xEDamos tranquilizado"
+      - "hab\xEDais tranquilizado"
+      - "hab\xEDan tranquilizado"
+      cjid: ppsi
+    - cjfs:
+      - hube tranquilizado
+      - hubiste tranquilizado
+      - hubo tranquilizado
+      - hubimos tranquilizado
+      - hubisteis tranquilizado
+      - hubieron tranquilizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tranquilizado"
+      - "habr\xE1s tranquilizado"
+      - "habr\xE1 tranquilizado"
+      - habremos tranquilizado
+      - "habr\xE9is tranquilizado"
+      - "habr\xE1n tranquilizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tranquilizado"
+      - "habr\xEDas tranquilizado"
+      - "habr\xEDa tranquilizado"
+      - "habr\xEDamos tranquilizado"
+      - "habr\xEDais tranquilizado"
+      - "habr\xEDan tranquilizado"
+      cjid: cpef
+    - cjfs:
+      - haya tranquilizado
+      - hayas tranquilizado
+      - haya tranquilizado
+      - hayamos tranquilizado
+      - "hay\xE1is tranquilizado"
+      - hayan tranquilizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tranquilizado
+      - hubieras tranquilizado
+      - hubiera tranquilizado
+      - "hubi\xE9ramos tranquilizado"
+      - hubierais tranquilizado
+      - hubieran tranquilizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tranquilizado
+      - hubieses tranquilizado
+      - hubiese tranquilizado
+      - "hubi\xE9semos tranquilizado"
+      - hubieseis tranquilizado
+      - hubiesen tranquilizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tranquilizado
+      - hubieres tranquilizado
+      - hubiere tranquilizado
+      - "hubi\xE9remos tranquilizado"
+      - hubiereis tranquilizado
+      - hubieren tranquilizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tranquiliza
+      - tranquilice
+      - tranquilicemos
+      - tranquilizad
+      - tranquilicen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: tranquilizarse

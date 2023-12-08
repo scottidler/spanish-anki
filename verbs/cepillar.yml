@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|brush}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plane} (wood)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: cepillar
+    prs:
+    - sound:
+        audio: cepil01sp
+  meta:
+    id: cepillar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604348000'
+    src: spanish
+    stems:
+    - cepillar
+    - cepillarse
+    uuid: 89e0b6db-69b9-4f6f-80fe-caf9bfd0f5aa
+  shortdef:
+  - to brush
+  - to plane (wood)
+  suppl:
+    cjts:
+    - cjfs:
+      - cepillando
+      - cepillado
+      cjid: gppt
+    - cjfs:
+      - cepillo
+      - cepillas
+      - cepilla
+      - cepillamos
+      - "cepill\xE1is"
+      - cepillan
+      cjid: pind
+    - cjfs:
+      - cepillaba
+      - cepillabas
+      - cepillaba
+      - "cepill\xE1bamos"
+      - cepillabais
+      - cepillaban
+      cjid: pret
+    - cjfs:
+      - "cepill\xE9"
+      - cepillaste
+      - "cepill\xF3"
+      - cepillamos
+      - cepillasteis
+      - cepillaron
+      cjid: pprf
+    - cjfs:
+      - "cepillar\xE9"
+      - "cepillar\xE1s"
+      - "cepillar\xE1"
+      - cepillaremos
+      - "cepillar\xE9is"
+      - "cepillar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cepillar\xEDa"
+      - "cepillar\xEDas"
+      - "cepillar\xEDa"
+      - "cepillar\xEDamos"
+      - "cepillar\xEDais"
+      - "cepillar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cepille
+      - cepilles
+      - cepille
+      - cepillemos
+      - "cepill\xE9is"
+      - cepillen
+      cjid: psub
+    - cjfs:
+      - cepillara
+      - cepillaras
+      - cepillara
+      - "cepill\xE1ramos"
+      - cepillarais
+      - cepillaran
+      cjid: pisb1
+    - cjfs:
+      - cepillase
+      - cepillases
+      - cepillase
+      - "cepill\xE1semos"
+      - cepillaseis
+      - cepillasen
+      cjid: pisb2
+    - cjfs:
+      - cepillare
+      - cepillares
+      - cepillare
+      - "cepill\xE1remos"
+      - cepillareis
+      - cepillaren
+      cjid: fsub
+    - cjfs:
+      - he cepillado
+      - has cepillado
+      - ha cepillado
+      - hemos cepillado
+      - "hab\xE9is cepillado"
+      - han cepillado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cepillado"
+      - "hab\xEDas cepillado"
+      - "hab\xEDa cepillado"
+      - "hab\xEDamos cepillado"
+      - "hab\xEDais cepillado"
+      - "hab\xEDan cepillado"
+      cjid: ppsi
+    - cjfs:
+      - hube cepillado
+      - hubiste cepillado
+      - hubo cepillado
+      - hubimos cepillado
+      - hubisteis cepillado
+      - hubieron cepillado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cepillado"
+      - "habr\xE1s cepillado"
+      - "habr\xE1 cepillado"
+      - habremos cepillado
+      - "habr\xE9is cepillado"
+      - "habr\xE1n cepillado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cepillado"
+      - "habr\xEDas cepillado"
+      - "habr\xEDa cepillado"
+      - "habr\xEDamos cepillado"
+      - "habr\xEDais cepillado"
+      - "habr\xEDan cepillado"
+      cjid: cpef
+    - cjfs:
+      - haya cepillado
+      - hayas cepillado
+      - haya cepillado
+      - hayamos cepillado
+      - "hay\xE1is cepillado"
+      - hayan cepillado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cepillado
+      - hubieras cepillado
+      - hubiera cepillado
+      - "hubi\xE9ramos cepillado"
+      - hubierais cepillado
+      - hubieran cepillado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cepillado
+      - hubieses cepillado
+      - hubiese cepillado
+      - "hubi\xE9semos cepillado"
+      - hubieseis cepillado
+      - hubiesen cepillado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cepillado
+      - hubieres cepillado
+      - hubiere cepillado
+      - "hubi\xE9remos cepillado"
+      - hubiereis cepillado
+      - hubieren cepillado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cepilla
+      - cepille
+      - cepillemos
+      - cepillad
+      - cepillen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: cepillarse

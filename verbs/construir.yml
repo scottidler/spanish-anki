@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|build}, to {a_link|construct}'
+  fl: transitive verb
+  hwi:
+    hw: construir
+    prs:
+    - sound:
+        audio: const09sp
+  meta:
+    id: construir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605635000'
+    src: spanish
+    stems:
+    - construir
+    uuid: 32e0329c-6ca4-4a91-960c-b90ba18e9747
+  shortdef:
+  - to build, to construct
+  suppl:
+    cjts:
+    - cjfs:
+      - construyendo
+      - construido
+      cjid: gppt
+    - cjfs:
+      - construyo
+      - construyes
+      - construye
+      - construimos
+      - "constru\xEDs"
+      - construyen
+      cjid: pind
+    - cjfs:
+      - "constru\xEDa"
+      - "constru\xEDas"
+      - "constru\xEDa"
+      - "constru\xEDamos"
+      - "constru\xEDais"
+      - "constru\xEDan"
+      cjid: pret
+    - cjfs:
+      - "constru\xED"
+      - construiste
+      - "construy\xF3"
+      - construimos
+      - construisteis
+      - construyeron
+      cjid: pprf
+    - cjfs:
+      - "construir\xE9"
+      - "construir\xE1s"
+      - "construir\xE1"
+      - construiremos
+      - "construir\xE9is"
+      - "construir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "construir\xEDa"
+      - "construir\xEDas"
+      - "construir\xEDa"
+      - "construir\xEDamos"
+      - "construir\xEDais"
+      - "construir\xEDan"
+      cjid: cond
+    - cjfs:
+      - construya
+      - construyas
+      - construya
+      - construyamos
+      - "construy\xE1is"
+      - construyan
+      cjid: psub
+    - cjfs:
+      - construyera
+      - construyeras
+      - construyera
+      - "construy\xE9ramos"
+      - construyerais
+      - construyeran
+      cjid: pisb1
+    - cjfs:
+      - construyese
+      - construyeses
+      - construyese
+      - "construy\xE9semos"
+      - construyeseis
+      - construyesen
+      cjid: pisb2
+    - cjfs:
+      - construyere
+      - construyeres
+      - construyere
+      - "construy\xE9remos"
+      - construyereis
+      - construyeren
+      cjid: fsub
+    - cjfs:
+      - he construido
+      - has construido
+      - ha construido
+      - hemos construido
+      - "hab\xE9is construido"
+      - han construido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa construido"
+      - "hab\xEDas construido"
+      - "hab\xEDa construido"
+      - "hab\xEDamos construido"
+      - "hab\xEDais construido"
+      - "hab\xEDan construido"
+      cjid: ppsi
+    - cjfs:
+      - hube construido
+      - hubiste construido
+      - hubo construido
+      - hubimos construido
+      - hubisteis construido
+      - hubieron construido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 construido"
+      - "habr\xE1s construido"
+      - "habr\xE1 construido"
+      - habremos construido
+      - "habr\xE9is construido"
+      - "habr\xE1n construido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa construido"
+      - "habr\xEDas construido"
+      - "habr\xEDa construido"
+      - "habr\xEDamos construido"
+      - "habr\xEDais construido"
+      - "habr\xEDan construido"
+      cjid: cpef
+    - cjfs:
+      - haya construido
+      - hayas construido
+      - haya construido
+      - hayamos construido
+      - "hay\xE1is construido"
+      - hayan construido
+      cjid: ppfs
+    - cjfs:
+      - hubiera construido
+      - hubieras construido
+      - hubiera construido
+      - "hubi\xE9ramos construido"
+      - hubierais construido
+      - hubieran construido
+      cjid: ppss1
+    - cjfs:
+      - hubiese construido
+      - hubieses construido
+      - hubiese construido
+      - "hubi\xE9semos construido"
+      - hubieseis construido
+      - hubiesen construido
+      cjid: ppss2
+    - cjfs:
+      - hubiere construido
+      - hubieres construido
+      - hubiere construido
+      - "hubi\xE9remos construido"
+      - hubiereis construido
+      - hubieren construido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - construye
+      - construya
+      - construyamos
+      - construid
+      - construyan
+      cjid: impf

@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit}, to fit together, to {a_link|fit in}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|insert}, to {a_link|stick}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|cope with} '
+          - - vis
+            - - t: "encaj\xF3 el golpe"
+                tr: he withstood the blow
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: encajar
+    prs:
+    - sound:
+        audio: encaj01sp
+  meta:
+    id: encajar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608405000'
+    src: spanish
+    stems:
+    - encajar
+    uuid: 28031901-c2db-40c0-9a39-e8ebb21ef191
+  shortdef:
+  - to fit, to fit together, to fit in
+  - to insert, to stick
+  - to take, to cope with
+  suppl:
+    cjts:
+    - cjfs:
+      - encajando
+      - encajado
+      cjid: gppt
+    - cjfs:
+      - encajo
+      - encajas
+      - encaja
+      - encajamos
+      - "encaj\xE1is"
+      - encajan
+      cjid: pind
+    - cjfs:
+      - encajaba
+      - encajabas
+      - encajaba
+      - "encaj\xE1bamos"
+      - encajabais
+      - encajaban
+      cjid: pret
+    - cjfs:
+      - "encaj\xE9"
+      - encajaste
+      - "encaj\xF3"
+      - encajamos
+      - encajasteis
+      - encajaron
+      cjid: pprf
+    - cjfs:
+      - "encajar\xE9"
+      - "encajar\xE1s"
+      - "encajar\xE1"
+      - encajaremos
+      - "encajar\xE9is"
+      - "encajar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encajar\xEDa"
+      - "encajar\xEDas"
+      - "encajar\xEDa"
+      - "encajar\xEDamos"
+      - "encajar\xEDais"
+      - "encajar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encaje
+      - encajes
+      - encaje
+      - encajemos
+      - "encaj\xE9is"
+      - encajen
+      cjid: psub
+    - cjfs:
+      - encajara
+      - encajaras
+      - encajara
+      - "encaj\xE1ramos"
+      - encajarais
+      - encajaran
+      cjid: pisb1
+    - cjfs:
+      - encajase
+      - encajases
+      - encajase
+      - "encaj\xE1semos"
+      - encajaseis
+      - encajasen
+      cjid: pisb2
+    - cjfs:
+      - encajare
+      - encajares
+      - encajare
+      - "encaj\xE1remos"
+      - encajareis
+      - encajaren
+      cjid: fsub
+    - cjfs:
+      - he encajado
+      - has encajado
+      - ha encajado
+      - hemos encajado
+      - "hab\xE9is encajado"
+      - han encajado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encajado"
+      - "hab\xEDas encajado"
+      - "hab\xEDa encajado"
+      - "hab\xEDamos encajado"
+      - "hab\xEDais encajado"
+      - "hab\xEDan encajado"
+      cjid: ppsi
+    - cjfs:
+      - hube encajado
+      - hubiste encajado
+      - hubo encajado
+      - hubimos encajado
+      - hubisteis encajado
+      - hubieron encajado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encajado"
+      - "habr\xE1s encajado"
+      - "habr\xE1 encajado"
+      - habremos encajado
+      - "habr\xE9is encajado"
+      - "habr\xE1n encajado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encajado"
+      - "habr\xEDas encajado"
+      - "habr\xEDa encajado"
+      - "habr\xEDamos encajado"
+      - "habr\xEDais encajado"
+      - "habr\xEDan encajado"
+      cjid: cpef
+    - cjfs:
+      - haya encajado
+      - hayas encajado
+      - haya encajado
+      - hayamos encajado
+      - "hay\xE1is encajado"
+      - hayan encajado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encajado
+      - hubieras encajado
+      - hubiera encajado
+      - "hubi\xE9ramos encajado"
+      - hubierais encajado
+      - hubieran encajado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encajado
+      - hubieses encajado
+      - hubiese encajado
+      - "hubi\xE9semos encajado"
+      - hubieseis encajado
+      - hubiesen encajado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encajado
+      - hubieres encajado
+      - hubiere encajado
+      - "hubi\xE9remos encajado"
+      - hubiereis encajado
+      - hubieren encajado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encaja
+      - encaje
+      - encajemos
+      - encajad
+      - encajen
+      cjid: impf

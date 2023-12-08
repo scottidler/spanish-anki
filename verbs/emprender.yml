@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|undertake}, to {a_link|begin}'
+  fl: transitive verb
+  hwi:
+    hw: emprender
+    prs:
+    - sound:
+        audio: empre02sp
+  meta:
+    id: emprender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608368000'
+    src: spanish
+    stems:
+    - emprender
+    uuid: 60046ae7-e575-4418-80f6-94be6f8f0775
+  shortdef:
+  - to undertake, to begin
+  suppl:
+    cjts:
+    - cjfs:
+      - emprendiendo
+      - emprendido
+      cjid: gppt
+    - cjfs:
+      - emprendo
+      - emprendes
+      - emprende
+      - emprendemos
+      - "emprend\xE9is"
+      - emprenden
+      cjid: pind
+    - cjfs:
+      - "emprend\xEDa"
+      - "emprend\xEDas"
+      - "emprend\xEDa"
+      - "emprend\xEDamos"
+      - "emprend\xEDais"
+      - "emprend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "emprend\xED"
+      - emprendiste
+      - "emprendi\xF3"
+      - emprendimos
+      - emprendisteis
+      - emprendieron
+      cjid: pprf
+    - cjfs:
+      - "emprender\xE9"
+      - "emprender\xE1s"
+      - "emprender\xE1"
+      - emprenderemos
+      - "emprender\xE9is"
+      - "emprender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "emprender\xEDa"
+      - "emprender\xEDas"
+      - "emprender\xEDa"
+      - "emprender\xEDamos"
+      - "emprender\xEDais"
+      - "emprender\xEDan"
+      cjid: cond
+    - cjfs:
+      - emprenda
+      - emprendas
+      - emprenda
+      - emprendamos
+      - "emprend\xE1is"
+      - emprendan
+      cjid: psub
+    - cjfs:
+      - emprendiera
+      - emprendieras
+      - emprendiera
+      - "emprendi\xE9ramos"
+      - emprendierais
+      - emprendieran
+      cjid: pisb1
+    - cjfs:
+      - emprendiese
+      - emprendieses
+      - emprendiese
+      - "emprendi\xE9semos"
+      - emprendieseis
+      - emprendiesen
+      cjid: pisb2
+    - cjfs:
+      - emprendiere
+      - emprendieres
+      - emprendiere
+      - "emprendi\xE9remos"
+      - emprendiereis
+      - emprendieren
+      cjid: fsub
+    - cjfs:
+      - he emprendido
+      - has emprendido
+      - ha emprendido
+      - hemos emprendido
+      - "hab\xE9is emprendido"
+      - han emprendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa emprendido"
+      - "hab\xEDas emprendido"
+      - "hab\xEDa emprendido"
+      - "hab\xEDamos emprendido"
+      - "hab\xEDais emprendido"
+      - "hab\xEDan emprendido"
+      cjid: ppsi
+    - cjfs:
+      - hube emprendido
+      - hubiste emprendido
+      - hubo emprendido
+      - hubimos emprendido
+      - hubisteis emprendido
+      - hubieron emprendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 emprendido"
+      - "habr\xE1s emprendido"
+      - "habr\xE1 emprendido"
+      - habremos emprendido
+      - "habr\xE9is emprendido"
+      - "habr\xE1n emprendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa emprendido"
+      - "habr\xEDas emprendido"
+      - "habr\xEDa emprendido"
+      - "habr\xEDamos emprendido"
+      - "habr\xEDais emprendido"
+      - "habr\xEDan emprendido"
+      cjid: cpef
+    - cjfs:
+      - haya emprendido
+      - hayas emprendido
+      - haya emprendido
+      - hayamos emprendido
+      - "hay\xE1is emprendido"
+      - hayan emprendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera emprendido
+      - hubieras emprendido
+      - hubiera emprendido
+      - "hubi\xE9ramos emprendido"
+      - hubierais emprendido
+      - hubieran emprendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese emprendido
+      - hubieses emprendido
+      - hubiese emprendido
+      - "hubi\xE9semos emprendido"
+      - hubieseis emprendido
+      - hubiesen emprendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere emprendido
+      - hubieres emprendido
+      - hubiere emprendido
+      - "hubi\xE9remos emprendido"
+      - hubiereis emprendido
+      - hubieren emprendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - emprende
+      - emprenda
+      - emprendamos
+      - emprended
+      - emprendan
+      cjid: impf

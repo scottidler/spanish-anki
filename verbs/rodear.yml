@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|surround} '
+          - - vis
+            - - t: "rodeado de monta\xF1as"
+                tr: surrounded by mountains
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|round up} (cattle)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go around}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to beat around the bush'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to surround oneself with'
+            vrs:
+            - va: rodearse de
+              vac: ~ de
+    drp: rodearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: rodear
+    prs:
+    - sound:
+        audio: rodea01sp
+  meta:
+    id: rodear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619885000'
+    src: spanish
+    stems:
+    - rodear
+    - rodearse
+    - rodearse de
+    uuid: f7ee2ef0-e0d3-415c-a405-00df1b6c2d2f
+  shortdef:
+  - to surround
+  - to round up (cattle)
+  - to go around
+  suppl:
+    cjts:
+    - cjfs:
+      - rodeando
+      - rodeado
+      cjid: gppt
+    - cjfs:
+      - rodeo
+      - rodeas
+      - rodea
+      - rodeamos
+      - "rode\xE1is"
+      - rodean
+      cjid: pind
+    - cjfs:
+      - rodeaba
+      - rodeabas
+      - rodeaba
+      - "rode\xE1bamos"
+      - rodeabais
+      - rodeaban
+      cjid: pret
+    - cjfs:
+      - "rode\xE9"
+      - rodeaste
+      - "rode\xF3"
+      - rodeamos
+      - rodeasteis
+      - rodearon
+      cjid: pprf
+    - cjfs:
+      - "rodear\xE9"
+      - "rodear\xE1s"
+      - "rodear\xE1"
+      - rodearemos
+      - "rodear\xE9is"
+      - "rodear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rodear\xEDa"
+      - "rodear\xEDas"
+      - "rodear\xEDa"
+      - "rodear\xEDamos"
+      - "rodear\xEDais"
+      - "rodear\xEDan"
+      cjid: cond
+    - cjfs:
+      - rodee
+      - rodees
+      - rodee
+      - rodeemos
+      - "rode\xE9is"
+      - rodeen
+      cjid: psub
+    - cjfs:
+      - rodeara
+      - rodearas
+      - rodeara
+      - "rode\xE1ramos"
+      - rodearais
+      - rodearan
+      cjid: pisb1
+    - cjfs:
+      - rodease
+      - rodeases
+      - rodease
+      - "rode\xE1semos"
+      - rodeaseis
+      - rodeasen
+      cjid: pisb2
+    - cjfs:
+      - rodeare
+      - rodeares
+      - rodeare
+      - "rode\xE1remos"
+      - rodeareis
+      - rodearen
+      cjid: fsub
+    - cjfs:
+      - he rodeado
+      - has rodeado
+      - ha rodeado
+      - hemos rodeado
+      - "hab\xE9is rodeado"
+      - han rodeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rodeado"
+      - "hab\xEDas rodeado"
+      - "hab\xEDa rodeado"
+      - "hab\xEDamos rodeado"
+      - "hab\xEDais rodeado"
+      - "hab\xEDan rodeado"
+      cjid: ppsi
+    - cjfs:
+      - hube rodeado
+      - hubiste rodeado
+      - hubo rodeado
+      - hubimos rodeado
+      - hubisteis rodeado
+      - hubieron rodeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rodeado"
+      - "habr\xE1s rodeado"
+      - "habr\xE1 rodeado"
+      - habremos rodeado
+      - "habr\xE9is rodeado"
+      - "habr\xE1n rodeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rodeado"
+      - "habr\xEDas rodeado"
+      - "habr\xEDa rodeado"
+      - "habr\xEDamos rodeado"
+      - "habr\xEDais rodeado"
+      - "habr\xEDan rodeado"
+      cjid: cpef
+    - cjfs:
+      - haya rodeado
+      - hayas rodeado
+      - haya rodeado
+      - hayamos rodeado
+      - "hay\xE1is rodeado"
+      - hayan rodeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rodeado
+      - hubieras rodeado
+      - hubiera rodeado
+      - "hubi\xE9ramos rodeado"
+      - hubierais rodeado
+      - hubieran rodeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rodeado
+      - hubieses rodeado
+      - hubiese rodeado
+      - "hubi\xE9semos rodeado"
+      - hubieseis rodeado
+      - hubiesen rodeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rodeado
+      - hubieres rodeado
+      - hubiere rodeado
+      - "hubi\xE9remos rodeado"
+      - hubiereis rodeado
+      - hubieren rodeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rodea
+      - rodee
+      - rodeemos
+      - rodead
+      - rodeen
+      cjid: impf

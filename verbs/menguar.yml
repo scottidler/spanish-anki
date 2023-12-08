@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|diminish}, to {a_link|lessen}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|decline}, to {a_link|decrease}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wane}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: menguar
+    prs:
+    - sound:
+        audio: mengu01sp
+  meta:
+    id: menguar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614805000'
+    src: spanish
+    stems:
+    - menguar
+    - menguante
+    uuid: 86a91f28-0749-4503-a1bc-f094e0e9ec7f
+  shortdef:
+  - to diminish, to lessen
+  - to decline, to decrease
+  - to wane
+  suppl:
+    cjts:
+    - cjfs:
+      - menguando
+      - menguado
+      cjid: gppt
+    - cjfs:
+      - menguo
+      - menguas
+      - mengua
+      - menguamos
+      - "mengu\xE1is"
+      - menguan
+      cjid: pind
+    - cjfs:
+      - menguaba
+      - menguabas
+      - menguaba
+      - "mengu\xE1bamos"
+      - menguabais
+      - menguaban
+      cjid: pret
+    - cjfs:
+      - "meng\xFC\xE9"
+      - menguaste
+      - "mengu\xF3"
+      - menguamos
+      - menguasteis
+      - menguaron
+      cjid: pprf
+    - cjfs:
+      - "menguar\xE9"
+      - "menguar\xE1s"
+      - "menguar\xE1"
+      - menguaremos
+      - "menguar\xE9is"
+      - "menguar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "menguar\xEDa"
+      - "menguar\xEDas"
+      - "menguar\xEDa"
+      - "menguar\xEDamos"
+      - "menguar\xEDais"
+      - "menguar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "meng\xFCe"
+      - "meng\xFCes"
+      - "meng\xFCe"
+      - "meng\xFCemos"
+      - "meng\xFC\xE9is"
+      - "meng\xFCen"
+      cjid: psub
+    - cjfs:
+      - menguara
+      - menguaras
+      - menguara
+      - "mengu\xE1ramos"
+      - menguarais
+      - menguaran
+      cjid: pisb1
+    - cjfs:
+      - menguase
+      - menguases
+      - menguase
+      - "mengu\xE1semos"
+      - menguaseis
+      - menguasen
+      cjid: pisb2
+    - cjfs:
+      - menguare
+      - menguares
+      - menguare
+      - "mengu\xE1remos"
+      - menguareis
+      - menguaren
+      cjid: fsub
+    - cjfs:
+      - he menguado
+      - has menguado
+      - ha menguado
+      - hemos menguado
+      - "hab\xE9is menguado"
+      - han menguado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa menguado"
+      - "hab\xEDas menguado"
+      - "hab\xEDa menguado"
+      - "hab\xEDamos menguado"
+      - "hab\xEDais menguado"
+      - "hab\xEDan menguado"
+      cjid: ppsi
+    - cjfs:
+      - hube menguado
+      - hubiste menguado
+      - hubo menguado
+      - hubimos menguado
+      - hubisteis menguado
+      - hubieron menguado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 menguado"
+      - "habr\xE1s menguado"
+      - "habr\xE1 menguado"
+      - habremos menguado
+      - "habr\xE9is menguado"
+      - "habr\xE1n menguado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa menguado"
+      - "habr\xEDas menguado"
+      - "habr\xEDa menguado"
+      - "habr\xEDamos menguado"
+      - "habr\xEDais menguado"
+      - "habr\xEDan menguado"
+      cjid: cpef
+    - cjfs:
+      - haya menguado
+      - hayas menguado
+      - haya menguado
+      - hayamos menguado
+      - "hay\xE1is menguado"
+      - hayan menguado
+      cjid: ppfs
+    - cjfs:
+      - hubiera menguado
+      - hubieras menguado
+      - hubiera menguado
+      - "hubi\xE9ramos menguado"
+      - hubierais menguado
+      - hubieran menguado
+      cjid: ppss1
+    - cjfs:
+      - hubiese menguado
+      - hubieses menguado
+      - hubiese menguado
+      - "hubi\xE9semos menguado"
+      - hubieseis menguado
+      - hubiesen menguado
+      cjid: ppss2
+    - cjfs:
+      - hubiere menguado
+      - hubieres menguado
+      - hubiere menguado
+      - "hubi\xE9remos menguado"
+      - hubiereis menguado
+      - hubieren menguado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mengua
+      - "meng\xFCe"
+      - "meng\xFCemos"
+      - menguad
+      - "meng\xFCen"
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: menguante

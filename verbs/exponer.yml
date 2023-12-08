@@ -1,0 +1,201 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exhibit}, to {a_link|show}, to {a_link|display}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|explain}, to {a_link|present}, to set forth'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expose}, to {a_link|risk}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exhibit}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: exponer
+    prs:
+    - sound:
+        audio: expon02sp
+  meta:
+    id: exponer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609703000'
+    src: spanish
+    stems:
+    - exponer
+    uuid: 558fc642-761e-4132-8163-caa4e8e6b145
+  shortdef:
+  - to exhibit, to show, to display
+  - to explain, to present, to set forth
+  - to expose, to risk
+  suppl:
+    cjts:
+    - cjfs:
+      - exponiendo
+      - expuesto
+      cjid: gppt
+    - cjfs:
+      - expongo
+      - expones
+      - expone
+      - exponemos
+      - "expon\xE9is"
+      - exponen
+      cjid: pind
+    - cjfs:
+      - "expon\xEDa"
+      - "expon\xEDas"
+      - "expon\xEDa"
+      - "expon\xEDamos"
+      - "expon\xEDais"
+      - "expon\xEDan"
+      cjid: pret
+    - cjfs:
+      - expuse
+      - expusiste
+      - expuso
+      - expusimos
+      - expusisteis
+      - expusieron
+      cjid: pprf
+    - cjfs:
+      - "expondr\xE9"
+      - "expondr\xE1s"
+      - "expondr\xE1"
+      - expondremos
+      - "expondr\xE9is"
+      - "expondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "expondr\xEDa"
+      - "expondr\xEDas"
+      - "expondr\xEDa"
+      - "expondr\xEDamos"
+      - "expondr\xEDais"
+      - "expondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - exponga
+      - expongas
+      - exponga
+      - expongamos
+      - "expong\xE1is"
+      - expongan
+      cjid: psub
+    - cjfs:
+      - expusiera
+      - expusieras
+      - expusiera
+      - "expusi\xE9ramos"
+      - expusierais
+      - expusieran
+      cjid: pisb1
+    - cjfs:
+      - expusiese
+      - expusieses
+      - expusiese
+      - "expusi\xE9semos"
+      - expusieseis
+      - expusiesen
+      cjid: pisb2
+    - cjfs:
+      - expusiere
+      - expusieres
+      - expusiere
+      - "expusi\xE9remos"
+      - expusiereis
+      - expusieren
+      cjid: fsub
+    - cjfs:
+      - he expuesto
+      - has expuesto
+      - ha expuesto
+      - hemos expuesto
+      - "hab\xE9is expuesto"
+      - han expuesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa expuesto"
+      - "hab\xEDas expuesto"
+      - "hab\xEDa expuesto"
+      - "hab\xEDamos expuesto"
+      - "hab\xEDais expuesto"
+      - "hab\xEDan expuesto"
+      cjid: ppsi
+    - cjfs:
+      - hube expuesto
+      - hubiste expuesto
+      - hubo expuesto
+      - hubimos expuesto
+      - hubisteis expuesto
+      - hubieron expuesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 expuesto"
+      - "habr\xE1s expuesto"
+      - "habr\xE1 expuesto"
+      - habremos expuesto
+      - "habr\xE9is expuesto"
+      - "habr\xE1n expuesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa expuesto"
+      - "habr\xEDas expuesto"
+      - "habr\xEDa expuesto"
+      - "habr\xEDamos expuesto"
+      - "habr\xEDais expuesto"
+      - "habr\xEDan expuesto"
+      cjid: cpef
+    - cjfs:
+      - haya expuesto
+      - hayas expuesto
+      - haya expuesto
+      - hayamos expuesto
+      - "hay\xE1is expuesto"
+      - hayan expuesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera expuesto
+      - hubieras expuesto
+      - hubiera expuesto
+      - "hubi\xE9ramos expuesto"
+      - hubierais expuesto
+      - hubieran expuesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese expuesto
+      - hubieses expuesto
+      - hubiese expuesto
+      - "hubi\xE9semos expuesto"
+      - hubieseis expuesto
+      - hubiesen expuesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere expuesto
+      - hubieres expuesto
+      - hubiere expuesto
+      - "hubi\xE9remos expuesto"
+      - hubiereis expuesto
+      - hubieren expuesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "exp\xF3n"
+      - exponga
+      - expongamos
+      - exponed
+      - expongan
+      cjid: impf

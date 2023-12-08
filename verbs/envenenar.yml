@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|poison}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|embitter}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: envenenar
+    prs:
+    - sound:
+        audio: enven01sp
+  meta:
+    id: envenenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608812000'
+    src: spanish
+    stems:
+    - envenenar
+    uuid: 38fff1c0-3096-4f71-9f50-93c4efff4f15
+  shortdef:
+  - to poison
+  - to embitter
+  suppl:
+    cjts:
+    - cjfs:
+      - envenenando
+      - envenenado
+      cjid: gppt
+    - cjfs:
+      - enveneno
+      - envenenas
+      - envenena
+      - envenenamos
+      - "envenen\xE1is"
+      - envenenan
+      cjid: pind
+    - cjfs:
+      - envenenaba
+      - envenenabas
+      - envenenaba
+      - "envenen\xE1bamos"
+      - envenenabais
+      - envenenaban
+      cjid: pret
+    - cjfs:
+      - "envenen\xE9"
+      - envenenaste
+      - "envenen\xF3"
+      - envenenamos
+      - envenenasteis
+      - envenenaron
+      cjid: pprf
+    - cjfs:
+      - "envenenar\xE9"
+      - "envenenar\xE1s"
+      - "envenenar\xE1"
+      - envenenaremos
+      - "envenenar\xE9is"
+      - "envenenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "envenenar\xEDa"
+      - "envenenar\xEDas"
+      - "envenenar\xEDa"
+      - "envenenar\xEDamos"
+      - "envenenar\xEDais"
+      - "envenenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - envenene
+      - envenenes
+      - envenene
+      - envenenemos
+      - "envenen\xE9is"
+      - envenenen
+      cjid: psub
+    - cjfs:
+      - envenenara
+      - envenenaras
+      - envenenara
+      - "envenen\xE1ramos"
+      - envenenarais
+      - envenenaran
+      cjid: pisb1
+    - cjfs:
+      - envenenase
+      - envenenases
+      - envenenase
+      - "envenen\xE1semos"
+      - envenenaseis
+      - envenenasen
+      cjid: pisb2
+    - cjfs:
+      - envenenare
+      - envenenares
+      - envenenare
+      - "envenen\xE1remos"
+      - envenenareis
+      - envenenaren
+      cjid: fsub
+    - cjfs:
+      - he envenenado
+      - has envenenado
+      - ha envenenado
+      - hemos envenenado
+      - "hab\xE9is envenenado"
+      - han envenenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa envenenado"
+      - "hab\xEDas envenenado"
+      - "hab\xEDa envenenado"
+      - "hab\xEDamos envenenado"
+      - "hab\xEDais envenenado"
+      - "hab\xEDan envenenado"
+      cjid: ppsi
+    - cjfs:
+      - hube envenenado
+      - hubiste envenenado
+      - hubo envenenado
+      - hubimos envenenado
+      - hubisteis envenenado
+      - hubieron envenenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 envenenado"
+      - "habr\xE1s envenenado"
+      - "habr\xE1 envenenado"
+      - habremos envenenado
+      - "habr\xE9is envenenado"
+      - "habr\xE1n envenenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa envenenado"
+      - "habr\xEDas envenenado"
+      - "habr\xEDa envenenado"
+      - "habr\xEDamos envenenado"
+      - "habr\xEDais envenenado"
+      - "habr\xEDan envenenado"
+      cjid: cpef
+    - cjfs:
+      - haya envenenado
+      - hayas envenenado
+      - haya envenenado
+      - hayamos envenenado
+      - "hay\xE1is envenenado"
+      - hayan envenenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera envenenado
+      - hubieras envenenado
+      - hubiera envenenado
+      - "hubi\xE9ramos envenenado"
+      - hubierais envenenado
+      - hubieran envenenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese envenenado
+      - hubieses envenenado
+      - hubiese envenenado
+      - "hubi\xE9semos envenenado"
+      - hubieseis envenenado
+      - hubiesen envenenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere envenenado
+      - hubieres envenenado
+      - hubiere envenenado
+      - "hubi\xE9remos envenenado"
+      - hubiereis envenenado
+      - hubieren envenenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - envenena
+      - envenene
+      - envenenemos
+      - envenenad
+      - envenenen
+      cjid: impf

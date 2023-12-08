@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knock down}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fell}, to {a_link|cut down}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall down}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|acostarse||} {bc}to {a_link|lie down}'
+    drp: tumbarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tumbar
+    prs:
+    - sound:
+        audio: tumba02sp
+  meta:
+    id: tumbar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622439000'
+    src: spanish
+    stems:
+    - tumbar
+    - tumbarse
+    uuid: 345ae757-16ce-4a63-91c3-16d1b3cb0993
+  shortdef:
+  - to knock down
+  - to fell, to cut down
+  - to fall down
+  suppl:
+    cjts:
+    - cjfs:
+      - tumbando
+      - tumbado
+      cjid: gppt
+    - cjfs:
+      - tumbo
+      - tumbas
+      - tumba
+      - tumbamos
+      - "tumb\xE1is"
+      - tumban
+      cjid: pind
+    - cjfs:
+      - tumbaba
+      - tumbabas
+      - tumbaba
+      - "tumb\xE1bamos"
+      - tumbabais
+      - tumbaban
+      cjid: pret
+    - cjfs:
+      - "tumb\xE9"
+      - tumbaste
+      - "tumb\xF3"
+      - tumbamos
+      - tumbasteis
+      - tumbaron
+      cjid: pprf
+    - cjfs:
+      - "tumbar\xE9"
+      - "tumbar\xE1s"
+      - "tumbar\xE1"
+      - tumbaremos
+      - "tumbar\xE9is"
+      - "tumbar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tumbar\xEDa"
+      - "tumbar\xEDas"
+      - "tumbar\xEDa"
+      - "tumbar\xEDamos"
+      - "tumbar\xEDais"
+      - "tumbar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tumbe
+      - tumbes
+      - tumbe
+      - tumbemos
+      - "tumb\xE9is"
+      - tumben
+      cjid: psub
+    - cjfs:
+      - tumbara
+      - tumbaras
+      - tumbara
+      - "tumb\xE1ramos"
+      - tumbarais
+      - tumbaran
+      cjid: pisb1
+    - cjfs:
+      - tumbase
+      - tumbases
+      - tumbase
+      - "tumb\xE1semos"
+      - tumbaseis
+      - tumbasen
+      cjid: pisb2
+    - cjfs:
+      - tumbare
+      - tumbares
+      - tumbare
+      - "tumb\xE1remos"
+      - tumbareis
+      - tumbaren
+      cjid: fsub
+    - cjfs:
+      - he tumbado
+      - has tumbado
+      - ha tumbado
+      - hemos tumbado
+      - "hab\xE9is tumbado"
+      - han tumbado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tumbado"
+      - "hab\xEDas tumbado"
+      - "hab\xEDa tumbado"
+      - "hab\xEDamos tumbado"
+      - "hab\xEDais tumbado"
+      - "hab\xEDan tumbado"
+      cjid: ppsi
+    - cjfs:
+      - hube tumbado
+      - hubiste tumbado
+      - hubo tumbado
+      - hubimos tumbado
+      - hubisteis tumbado
+      - hubieron tumbado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tumbado"
+      - "habr\xE1s tumbado"
+      - "habr\xE1 tumbado"
+      - habremos tumbado
+      - "habr\xE9is tumbado"
+      - "habr\xE1n tumbado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tumbado"
+      - "habr\xEDas tumbado"
+      - "habr\xEDa tumbado"
+      - "habr\xEDamos tumbado"
+      - "habr\xEDais tumbado"
+      - "habr\xEDan tumbado"
+      cjid: cpef
+    - cjfs:
+      - haya tumbado
+      - hayas tumbado
+      - haya tumbado
+      - hayamos tumbado
+      - "hay\xE1is tumbado"
+      - hayan tumbado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tumbado
+      - hubieras tumbado
+      - hubiera tumbado
+      - "hubi\xE9ramos tumbado"
+      - hubierais tumbado
+      - hubieran tumbado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tumbado
+      - hubieses tumbado
+      - hubiese tumbado
+      - "hubi\xE9semos tumbado"
+      - hubieseis tumbado
+      - hubiesen tumbado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tumbado
+      - hubieres tumbado
+      - hubiere tumbado
+      - "hubi\xE9remos tumbado"
+      - hubiereis tumbado
+      - hubieren tumbado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tumba
+      - tumbe
+      - tumbemos
+      - tumbad
+      - tumben
+      cjid: impf

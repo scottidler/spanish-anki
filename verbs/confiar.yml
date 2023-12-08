@@ -1,0 +1,220 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confide}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|entrust}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trust}, to have faith/confidence in'
+          vrs:
+          - va: confiar en
+            vac: ~ en
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be overconfident'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to confide in'
+            sn: '2'
+            vrs:
+            - va: confiarse a
+              vac: ~ a
+    drp: confiarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: confiar
+    prs:
+    - sound:
+        audio: confi04sp
+  meta:
+    id: confiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605454000'
+    src: spanish
+    stems:
+    - confiar
+    - confiar en
+    - confiarse
+    - confiarse a
+    uuid: 63f56bce-56b0-4839-a1a7-849b736481db
+  shortdef:
+  - to confide
+  - to entrust
+  - to trust, to have faith/confidence in
+  suppl:
+    cjts:
+    - cjfs:
+      - confiando
+      - confiado
+      cjid: gppt
+    - cjfs:
+      - "conf\xEDo"
+      - "conf\xEDas"
+      - "conf\xEDa"
+      - confiamos
+      - "confi\xE1is"
+      - "conf\xEDan"
+      cjid: pind
+    - cjfs:
+      - confiaba
+      - confiabas
+      - confiaba
+      - "confi\xE1bamos"
+      - confiabais
+      - confiaban
+      cjid: pret
+    - cjfs:
+      - "confi\xE9"
+      - confiaste
+      - "confi\xF3"
+      - confiamos
+      - confiasteis
+      - confiaron
+      cjid: pprf
+    - cjfs:
+      - "confiar\xE9"
+      - "confiar\xE1s"
+      - "confiar\xE1"
+      - confiaremos
+      - "confiar\xE9is"
+      - "confiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "confiar\xEDa"
+      - "confiar\xEDas"
+      - "confiar\xEDa"
+      - "confiar\xEDamos"
+      - "confiar\xEDais"
+      - "confiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "conf\xEDe"
+      - "conf\xEDes"
+      - "conf\xEDe"
+      - confiemos
+      - "confi\xE9is"
+      - "conf\xEDen"
+      cjid: psub
+    - cjfs:
+      - confiara
+      - confiaras
+      - confiara
+      - "confi\xE1ramos"
+      - confiarais
+      - confiaran
+      cjid: pisb1
+    - cjfs:
+      - confiase
+      - confiases
+      - confiase
+      - "confi\xE1semos"
+      - confiaseis
+      - confiasen
+      cjid: pisb2
+    - cjfs:
+      - confiare
+      - confiares
+      - confiare
+      - "confi\xE1remos"
+      - confiareis
+      - confiaren
+      cjid: fsub
+    - cjfs:
+      - he confiado
+      - has confiado
+      - ha confiado
+      - hemos confiado
+      - "hab\xE9is confiado"
+      - han confiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa confiado"
+      - "hab\xEDas confiado"
+      - "hab\xEDa confiado"
+      - "hab\xEDamos confiado"
+      - "hab\xEDais confiado"
+      - "hab\xEDan confiado"
+      cjid: ppsi
+    - cjfs:
+      - hube confiado
+      - hubiste confiado
+      - hubo confiado
+      - hubimos confiado
+      - hubisteis confiado
+      - hubieron confiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 confiado"
+      - "habr\xE1s confiado"
+      - "habr\xE1 confiado"
+      - habremos confiado
+      - "habr\xE9is confiado"
+      - "habr\xE1n confiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa confiado"
+      - "habr\xEDas confiado"
+      - "habr\xEDa confiado"
+      - "habr\xEDamos confiado"
+      - "habr\xEDais confiado"
+      - "habr\xEDan confiado"
+      cjid: cpef
+    - cjfs:
+      - haya confiado
+      - hayas confiado
+      - haya confiado
+      - hayamos confiado
+      - "hay\xE1is confiado"
+      - hayan confiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera confiado
+      - hubieras confiado
+      - hubiera confiado
+      - "hubi\xE9ramos confiado"
+      - hubierais confiado
+      - hubieran confiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese confiado
+      - hubieses confiado
+      - hubiese confiado
+      - "hubi\xE9semos confiado"
+      - hubieseis confiado
+      - hubiesen confiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere confiado
+      - hubieres confiado
+      - hubiere confiado
+      - "hubi\xE9remos confiado"
+      - hubiereis confiado
+      - hubieren confiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "conf\xEDa"
+      - "conf\xEDe"
+      - confiemos
+      - confiad
+      - "conf\xEDen"
+      cjid: impf

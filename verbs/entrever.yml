@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to catch a glimpse of'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make out}, to see indistinctly'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: entrever
+  meta:
+    id: entrever
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608779000'
+    src: spanish
+    stems:
+    - entrever
+    uuid: b5aea9a8-686c-459a-b55c-ff0b45f5c3ec
+  shortdef:
+  - to catch a glimpse of
+  - to make out, to see indistinctly
+  suppl:
+    cjts:
+    - cjfs:
+      - entreviendo
+      - entrevisto
+      cjid: gppt
+    - cjfs:
+      - entreveo
+      - entreves
+      - entreve
+      - entrevemos
+      - "entrev\xE9is"
+      - entreven
+      cjid: pind
+    - cjfs:
+      - "entreve\xEDa"
+      - "entreve\xEDas"
+      - "entreve\xEDa"
+      - "entreve\xEDamos"
+      - "entreve\xEDais"
+      - "entreve\xEDan"
+      cjid: pret
+    - cjfs:
+      - "entrev\xED"
+      - entreviste
+      - "entrevi\xF3"
+      - entrevimos
+      - entrevisteis
+      - entrevieron
+      cjid: pprf
+    - cjfs:
+      - "entrever\xE9"
+      - "entrever\xE1s"
+      - "entrever\xE1"
+      - entreveremos
+      - "entrever\xE9is"
+      - "entrever\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entrever\xEDa"
+      - "entrever\xEDas"
+      - "entrever\xEDa"
+      - "entrever\xEDamos"
+      - "entrever\xEDais"
+      - "entrever\xEDan"
+      cjid: cond
+    - cjfs:
+      - entrevea
+      - entreveas
+      - entrevea
+      - entreveamos
+      - "entreve\xE1is"
+      - entrevean
+      cjid: psub
+    - cjfs:
+      - entreviera
+      - entrevieras
+      - entreviera
+      - "entrevi\xE9ramos"
+      - entrevierais
+      - entrevieran
+      cjid: pisb1
+    - cjfs:
+      - entreviese
+      - entrevieses
+      - entreviese
+      - "entrevi\xE9semos"
+      - entrevieseis
+      - entreviesen
+      cjid: pisb2
+    - cjfs:
+      - entreviere
+      - entrevieres
+      - entreviere
+      - "entrevi\xE9remos"
+      - entreviereis
+      - entrevieren
+      cjid: fsub
+    - cjfs:
+      - he entrevisto
+      - has entrevisto
+      - ha entrevisto
+      - hemos entrevisto
+      - "hab\xE9is entrevisto"
+      - han entrevisto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entrevisto"
+      - "hab\xEDas entrevisto"
+      - "hab\xEDa entrevisto"
+      - "hab\xEDamos entrevisto"
+      - "hab\xEDais entrevisto"
+      - "hab\xEDan entrevisto"
+      cjid: ppsi
+    - cjfs:
+      - hube entrevisto
+      - hubiste entrevisto
+      - hubo entrevisto
+      - hubimos entrevisto
+      - hubisteis entrevisto
+      - hubieron entrevisto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entrevisto"
+      - "habr\xE1s entrevisto"
+      - "habr\xE1 entrevisto"
+      - habremos entrevisto
+      - "habr\xE9is entrevisto"
+      - "habr\xE1n entrevisto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entrevisto"
+      - "habr\xEDas entrevisto"
+      - "habr\xEDa entrevisto"
+      - "habr\xEDamos entrevisto"
+      - "habr\xEDais entrevisto"
+      - "habr\xEDan entrevisto"
+      cjid: cpef
+    - cjfs:
+      - haya entrevisto
+      - hayas entrevisto
+      - haya entrevisto
+      - hayamos entrevisto
+      - "hay\xE1is entrevisto"
+      - hayan entrevisto
+      cjid: ppfs
+    - cjfs:
+      - hubiera entrevisto
+      - hubieras entrevisto
+      - hubiera entrevisto
+      - "hubi\xE9ramos entrevisto"
+      - hubierais entrevisto
+      - hubieran entrevisto
+      cjid: ppss1
+    - cjfs:
+      - hubiese entrevisto
+      - hubieses entrevisto
+      - hubiese entrevisto
+      - "hubi\xE9semos entrevisto"
+      - hubieseis entrevisto
+      - hubiesen entrevisto
+      cjid: ppss2
+    - cjfs:
+      - hubiere entrevisto
+      - hubieres entrevisto
+      - hubiere entrevisto
+      - "hubi\xE9remos entrevisto"
+      - hubiereis entrevisto
+      - hubieren entrevisto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "entrev\xE9"
+      - entrevea
+      - entreveamos
+      - entreved
+      - entrevean
+      cjid: impf

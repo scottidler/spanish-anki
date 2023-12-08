@@ -1,0 +1,249 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|soportar||} {bc}to {a_link|bear}, to {a_link|tolerate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold} '
+          - - vis
+            - - t: "agu\xE1ntame la puerta"
+                tr: hold the door for me
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|withstand} (weight, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|durar||} {bc}to {a_link|last}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to resist the urge (to do something)'
+          sn: '5'
+          vrs:
+          - va: aguantar las ganas (de hacer algo)
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tolerate} '
+          - - vis
+            - - t: "no aguanto m\xE1s"
+                tr: I can't take it anymore
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold out}, to {a_link|last}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold} (under pressure, etc.)'
+          sn: '3'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|resign oneself}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|restrain oneself}'
+            sn: '2'
+    drp: aguantarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aguantar
+    prs:
+    - sound:
+        audio: aguan01sp
+  meta:
+    id: aguantar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600757000'
+    src: spanish
+    stems:
+    - aguantar
+    - aguantar las ganas (de hacer algo)
+    - aguantar las ganas
+    - aguantar las ganas de hacer algo
+    - aguantarse
+    uuid: b7c9a503-df29-469a-be62-194bd3864a50
+  shortdef:
+  - 'soportar : to bear, to tolerate'
+  - to hold
+  - to take, to withstand (weight, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - aguantando
+      - aguantado
+      cjid: gppt
+    - cjfs:
+      - aguanto
+      - aguantas
+      - aguanta
+      - aguantamos
+      - "aguant\xE1is"
+      - aguantan
+      cjid: pind
+    - cjfs:
+      - aguantaba
+      - aguantabas
+      - aguantaba
+      - "aguant\xE1bamos"
+      - aguantabais
+      - aguantaban
+      cjid: pret
+    - cjfs:
+      - "aguant\xE9"
+      - aguantaste
+      - "aguant\xF3"
+      - aguantamos
+      - aguantasteis
+      - aguantaron
+      cjid: pprf
+    - cjfs:
+      - "aguantar\xE9"
+      - "aguantar\xE1s"
+      - "aguantar\xE1"
+      - aguantaremos
+      - "aguantar\xE9is"
+      - "aguantar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aguantar\xEDa"
+      - "aguantar\xEDas"
+      - "aguantar\xEDa"
+      - "aguantar\xEDamos"
+      - "aguantar\xEDais"
+      - "aguantar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aguante
+      - aguantes
+      - aguante
+      - aguantemos
+      - "aguant\xE9is"
+      - aguanten
+      cjid: psub
+    - cjfs:
+      - aguantara
+      - aguantaras
+      - aguantara
+      - "aguant\xE1ramos"
+      - aguantarais
+      - aguantaran
+      cjid: pisb1
+    - cjfs:
+      - aguantase
+      - aguantases
+      - aguantase
+      - "aguant\xE1semos"
+      - aguantaseis
+      - aguantasen
+      cjid: pisb2
+    - cjfs:
+      - aguantare
+      - aguantares
+      - aguantare
+      - "aguant\xE1remos"
+      - aguantareis
+      - aguantaren
+      cjid: fsub
+    - cjfs:
+      - he aguantado
+      - has aguantado
+      - ha aguantado
+      - hemos aguantado
+      - "hab\xE9is aguantado"
+      - han aguantado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aguantado"
+      - "hab\xEDas aguantado"
+      - "hab\xEDa aguantado"
+      - "hab\xEDamos aguantado"
+      - "hab\xEDais aguantado"
+      - "hab\xEDan aguantado"
+      cjid: ppsi
+    - cjfs:
+      - hube aguantado
+      - hubiste aguantado
+      - hubo aguantado
+      - hubimos aguantado
+      - hubisteis aguantado
+      - hubieron aguantado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aguantado"
+      - "habr\xE1s aguantado"
+      - "habr\xE1 aguantado"
+      - habremos aguantado
+      - "habr\xE9is aguantado"
+      - "habr\xE1n aguantado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aguantado"
+      - "habr\xEDas aguantado"
+      - "habr\xEDa aguantado"
+      - "habr\xEDamos aguantado"
+      - "habr\xEDais aguantado"
+      - "habr\xEDan aguantado"
+      cjid: cpef
+    - cjfs:
+      - haya aguantado
+      - hayas aguantado
+      - haya aguantado
+      - hayamos aguantado
+      - "hay\xE1is aguantado"
+      - hayan aguantado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aguantado
+      - hubieras aguantado
+      - hubiera aguantado
+      - "hubi\xE9ramos aguantado"
+      - hubierais aguantado
+      - hubieran aguantado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aguantado
+      - hubieses aguantado
+      - hubiese aguantado
+      - "hubi\xE9semos aguantado"
+      - hubieseis aguantado
+      - hubiesen aguantado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aguantado
+      - hubieres aguantado
+      - hubiere aguantado
+      - "hubi\xE9remos aguantado"
+      - hubiereis aguantado
+      - hubieren aguantado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aguanta
+      - aguante
+      - aguantemos
+      - aguantad
+      - aguanten
+      cjid: impf

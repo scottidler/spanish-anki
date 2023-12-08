@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|injure}, to {a_link|wound}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hurt}, to {a_link|offend}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: herir
+    prs:
+    - sound:
+        audio: herir01sp
+  meta:
+    id: herir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611389000'
+    src: spanish
+    stems:
+    - herir
+    uuid: 4e36ec17-bfd5-4ce9-aa2f-0406d1354774
+  shortdef:
+  - to injure, to wound
+  - to hurt, to offend
+  suppl:
+    cjts:
+    - cjfs:
+      - hiriendo
+      - herido
+      cjid: gppt
+    - cjfs:
+      - hiero
+      - hieres
+      - hiere
+      - herimos
+      - "her\xEDs"
+      - hieren
+      cjid: pind
+    - cjfs:
+      - "her\xEDa"
+      - "her\xEDas"
+      - "her\xEDa"
+      - "her\xEDamos"
+      - "her\xEDais"
+      - "her\xEDan"
+      cjid: pret
+    - cjfs:
+      - "her\xED"
+      - heriste
+      - "hiri\xF3"
+      - herimos
+      - heristeis
+      - hirieron
+      cjid: pprf
+    - cjfs:
+      - "herir\xE9"
+      - "herir\xE1s"
+      - "herir\xE1"
+      - heriremos
+      - "herir\xE9is"
+      - "herir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "herir\xEDa"
+      - "herir\xEDas"
+      - "herir\xEDa"
+      - "herir\xEDamos"
+      - "herir\xEDais"
+      - "herir\xEDan"
+      cjid: cond
+    - cjfs:
+      - hiera
+      - hieras
+      - hiera
+      - hiramos
+      - "hir\xE1is"
+      - hieran
+      cjid: psub
+    - cjfs:
+      - hiriera
+      - hirieras
+      - hiriera
+      - "hiri\xE9ramos"
+      - hirierais
+      - hirieran
+      cjid: pisb1
+    - cjfs:
+      - hiriese
+      - hirieses
+      - hiriese
+      - "hiri\xE9semos"
+      - hirieseis
+      - hiriesen
+      cjid: pisb2
+    - cjfs:
+      - hiriere
+      - hirieres
+      - hiriere
+      - "hiri\xE9remos"
+      - hiriereis
+      - hirieren
+      cjid: fsub
+    - cjfs:
+      - he herido
+      - has herido
+      - ha herido
+      - hemos herido
+      - "hab\xE9is herido"
+      - han herido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa herido"
+      - "hab\xEDas herido"
+      - "hab\xEDa herido"
+      - "hab\xEDamos herido"
+      - "hab\xEDais herido"
+      - "hab\xEDan herido"
+      cjid: ppsi
+    - cjfs:
+      - hube herido
+      - hubiste herido
+      - hubo herido
+      - hubimos herido
+      - hubisteis herido
+      - hubieron herido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 herido"
+      - "habr\xE1s herido"
+      - "habr\xE1 herido"
+      - habremos herido
+      - "habr\xE9is herido"
+      - "habr\xE1n herido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa herido"
+      - "habr\xEDas herido"
+      - "habr\xEDa herido"
+      - "habr\xEDamos herido"
+      - "habr\xEDais herido"
+      - "habr\xEDan herido"
+      cjid: cpef
+    - cjfs:
+      - haya herido
+      - hayas herido
+      - haya herido
+      - hayamos herido
+      - "hay\xE1is herido"
+      - hayan herido
+      cjid: ppfs
+    - cjfs:
+      - hubiera herido
+      - hubieras herido
+      - hubiera herido
+      - "hubi\xE9ramos herido"
+      - hubierais herido
+      - hubieran herido
+      cjid: ppss1
+    - cjfs:
+      - hubiese herido
+      - hubieses herido
+      - hubiese herido
+      - "hubi\xE9semos herido"
+      - hubieseis herido
+      - hubiesen herido
+      cjid: ppss2
+    - cjfs:
+      - hubiere herido
+      - hubieres herido
+      - hubiere herido
+      - "hubi\xE9remos herido"
+      - hubiereis herido
+      - hubieren herido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - hiere
+      - hiera
+      - hiramos
+      - herid
+      - hieran
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|act}, to {a_link|perform}'
+  fl: intransitive verb
+  hwi:
+    hw: actuar
+    prs:
+    - sound:
+        audio: actua07sp
+  meta:
+    id: actuar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600387000'
+    src: spanish
+    stems:
+    - actuar
+    uuid: fefbf6c5-3181-4f15-97fa-45d47ae205f3
+  shortdef:
+  - to act, to perform
+  suppl:
+    cjts:
+    - cjfs:
+      - actuando
+      - actuado
+      cjid: gppt
+    - cjfs:
+      - "act\xFAo"
+      - "act\xFAas"
+      - "act\xFAa"
+      - actuamos
+      - "actu\xE1is"
+      - "act\xFAan"
+      cjid: pind
+    - cjfs:
+      - actuaba
+      - actuabas
+      - actuaba
+      - "actu\xE1bamos"
+      - actuabais
+      - actuaban
+      cjid: pret
+    - cjfs:
+      - "actu\xE9"
+      - actuaste
+      - "actu\xF3"
+      - actuamos
+      - actuasteis
+      - actuaron
+      cjid: pprf
+    - cjfs:
+      - "actuar\xE9"
+      - "actuar\xE1s"
+      - "actuar\xE1"
+      - actuaremos
+      - "actuar\xE9is"
+      - "actuar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "actuar\xEDa"
+      - "actuar\xEDas"
+      - "actuar\xEDa"
+      - "actuar\xEDamos"
+      - "actuar\xEDais"
+      - "actuar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "act\xFAe"
+      - "act\xFAes"
+      - "act\xFAe"
+      - actuemos
+      - "actu\xE9is"
+      - "act\xFAen"
+      cjid: psub
+    - cjfs:
+      - actuara
+      - actuaras
+      - actuara
+      - "actu\xE1ramos"
+      - actuarais
+      - actuaran
+      cjid: pisb1
+    - cjfs:
+      - actuase
+      - actuases
+      - actuase
+      - "actu\xE1semos"
+      - actuaseis
+      - actuasen
+      cjid: pisb2
+    - cjfs:
+      - actuare
+      - actuares
+      - actuare
+      - "actu\xE1remos"
+      - actuareis
+      - actuaren
+      cjid: fsub
+    - cjfs:
+      - he actuado
+      - has actuado
+      - ha actuado
+      - hemos actuado
+      - "hab\xE9is actuado"
+      - han actuado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa actuado"
+      - "hab\xEDas actuado"
+      - "hab\xEDa actuado"
+      - "hab\xEDamos actuado"
+      - "hab\xEDais actuado"
+      - "hab\xEDan actuado"
+      cjid: ppsi
+    - cjfs:
+      - hube actuado
+      - hubiste actuado
+      - hubo actuado
+      - hubimos actuado
+      - hubisteis actuado
+      - hubieron actuado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 actuado"
+      - "habr\xE1s actuado"
+      - "habr\xE1 actuado"
+      - habremos actuado
+      - "habr\xE9is actuado"
+      - "habr\xE1n actuado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa actuado"
+      - "habr\xEDas actuado"
+      - "habr\xEDa actuado"
+      - "habr\xEDamos actuado"
+      - "habr\xEDais actuado"
+      - "habr\xEDan actuado"
+      cjid: cpef
+    - cjfs:
+      - haya actuado
+      - hayas actuado
+      - haya actuado
+      - hayamos actuado
+      - "hay\xE1is actuado"
+      - hayan actuado
+      cjid: ppfs
+    - cjfs:
+      - hubiera actuado
+      - hubieras actuado
+      - hubiera actuado
+      - "hubi\xE9ramos actuado"
+      - hubierais actuado
+      - hubieran actuado
+      cjid: ppss1
+    - cjfs:
+      - hubiese actuado
+      - hubieses actuado
+      - hubiese actuado
+      - "hubi\xE9semos actuado"
+      - hubieseis actuado
+      - hubiesen actuado
+      cjid: ppss2
+    - cjfs:
+      - hubiere actuado
+      - hubieres actuado
+      - hubiere actuado
+      - "hubi\xE9remos actuado"
+      - hubiereis actuado
+      - hubieren actuado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "act\xFAa"
+      - "act\xFAe"
+      - actuemos
+      - actuad
+      - "act\xFAen"
+      cjid: impf

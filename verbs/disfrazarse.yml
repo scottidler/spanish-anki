@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disguise}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mask}, to {a_link|conceal}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to wear a costume, to be in disguise'
+    drp: disfrazarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: disfrazar
+    prs:
+    - sound:
+        audio: disfr02sp
+  meta:
+    id: disfrazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607699000'
+    src: spanish
+    stems:
+    - disfrazar
+    - disfrazarse
+    uuid: 14f2b684-7cf8-4498-be1d-7f58e58f86e0
+  shortdef:
+  - to disguise
+  - to mask, to conceal
+  suppl:
+    cjts:
+    - cjfs:
+      - disfrazando
+      - disfrazado
+      cjid: gppt
+    - cjfs:
+      - disfrazo
+      - disfrazas
+      - disfraza
+      - disfrazamos
+      - "disfraz\xE1is"
+      - disfrazan
+      cjid: pind
+    - cjfs:
+      - disfrazaba
+      - disfrazabas
+      - disfrazaba
+      - "disfraz\xE1bamos"
+      - disfrazabais
+      - disfrazaban
+      cjid: pret
+    - cjfs:
+      - "disfrac\xE9"
+      - disfrazaste
+      - "disfraz\xF3"
+      - disfrazamos
+      - disfrazasteis
+      - disfrazaron
+      cjid: pprf
+    - cjfs:
+      - "disfrazar\xE9"
+      - "disfrazar\xE1s"
+      - "disfrazar\xE1"
+      - disfrazaremos
+      - "disfrazar\xE9is"
+      - "disfrazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disfrazar\xEDa"
+      - "disfrazar\xEDas"
+      - "disfrazar\xEDa"
+      - "disfrazar\xEDamos"
+      - "disfrazar\xEDais"
+      - "disfrazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - disfrace
+      - disfraces
+      - disfrace
+      - disfracemos
+      - "disfrac\xE9is"
+      - disfracen
+      cjid: psub
+    - cjfs:
+      - disfrazara
+      - disfrazaras
+      - disfrazara
+      - "disfraz\xE1ramos"
+      - disfrazarais
+      - disfrazaran
+      cjid: pisb1
+    - cjfs:
+      - disfrazase
+      - disfrazases
+      - disfrazase
+      - "disfraz\xE1semos"
+      - disfrazaseis
+      - disfrazasen
+      cjid: pisb2
+    - cjfs:
+      - disfrazare
+      - disfrazares
+      - disfrazare
+      - "disfraz\xE1remos"
+      - disfrazareis
+      - disfrazaren
+      cjid: fsub
+    - cjfs:
+      - he disfrazado
+      - has disfrazado
+      - ha disfrazado
+      - hemos disfrazado
+      - "hab\xE9is disfrazado"
+      - han disfrazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disfrazado"
+      - "hab\xEDas disfrazado"
+      - "hab\xEDa disfrazado"
+      - "hab\xEDamos disfrazado"
+      - "hab\xEDais disfrazado"
+      - "hab\xEDan disfrazado"
+      cjid: ppsi
+    - cjfs:
+      - hube disfrazado
+      - hubiste disfrazado
+      - hubo disfrazado
+      - hubimos disfrazado
+      - hubisteis disfrazado
+      - hubieron disfrazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disfrazado"
+      - "habr\xE1s disfrazado"
+      - "habr\xE1 disfrazado"
+      - habremos disfrazado
+      - "habr\xE9is disfrazado"
+      - "habr\xE1n disfrazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disfrazado"
+      - "habr\xEDas disfrazado"
+      - "habr\xEDa disfrazado"
+      - "habr\xEDamos disfrazado"
+      - "habr\xEDais disfrazado"
+      - "habr\xEDan disfrazado"
+      cjid: cpef
+    - cjfs:
+      - haya disfrazado
+      - hayas disfrazado
+      - haya disfrazado
+      - hayamos disfrazado
+      - "hay\xE1is disfrazado"
+      - hayan disfrazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera disfrazado
+      - hubieras disfrazado
+      - hubiera disfrazado
+      - "hubi\xE9ramos disfrazado"
+      - hubierais disfrazado
+      - hubieran disfrazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese disfrazado
+      - hubieses disfrazado
+      - hubiese disfrazado
+      - "hubi\xE9semos disfrazado"
+      - hubieseis disfrazado
+      - hubiesen disfrazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere disfrazado
+      - hubieres disfrazado
+      - hubiere disfrazado
+      - "hubi\xE9remos disfrazado"
+      - hubiereis disfrazado
+      - hubieren disfrazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disfraza
+      - disfrace
+      - disfracemos
+      - disfrazad
+      - disfracen
+      cjid: impf

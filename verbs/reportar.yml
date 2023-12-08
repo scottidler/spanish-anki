@@ -1,0 +1,214 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|check}, to {a_link|restrain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring}, to {a_link|carry}, to {a_link|yield} '
+          - - vis
+            - - t: "me report\xF3 numerosos beneficios"
+                tr: it brought me many benefits
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|report}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|contenerse||} {bc}to control oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|presentarse||} {bc}to {a_link|report}, to {a_link|show up}'
+            sn: '2'
+    drp: reportarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reportar
+    prs:
+    - sound:
+        audio: repor02sp
+  meta:
+    id: reportar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619460000'
+    src: spanish
+    stems:
+    - reportar
+    - reportarse
+    uuid: b8ee875f-0420-4a31-b227-96ac89872832
+  shortdef:
+  - to check, to restrain
+  - to bring, to carry, to yield
+  - to report
+  suppl:
+    cjts:
+    - cjfs:
+      - reportando
+      - reportado
+      cjid: gppt
+    - cjfs:
+      - reporto
+      - reportas
+      - reporta
+      - reportamos
+      - "report\xE1is"
+      - reportan
+      cjid: pind
+    - cjfs:
+      - reportaba
+      - reportabas
+      - reportaba
+      - "report\xE1bamos"
+      - reportabais
+      - reportaban
+      cjid: pret
+    - cjfs:
+      - "report\xE9"
+      - reportaste
+      - "report\xF3"
+      - reportamos
+      - reportasteis
+      - reportaron
+      cjid: pprf
+    - cjfs:
+      - "reportar\xE9"
+      - "reportar\xE1s"
+      - "reportar\xE1"
+      - reportaremos
+      - "reportar\xE9is"
+      - "reportar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reportar\xEDa"
+      - "reportar\xEDas"
+      - "reportar\xEDa"
+      - "reportar\xEDamos"
+      - "reportar\xEDais"
+      - "reportar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reporte
+      - reportes
+      - reporte
+      - reportemos
+      - "report\xE9is"
+      - reporten
+      cjid: psub
+    - cjfs:
+      - reportara
+      - reportaras
+      - reportara
+      - "report\xE1ramos"
+      - reportarais
+      - reportaran
+      cjid: pisb1
+    - cjfs:
+      - reportase
+      - reportases
+      - reportase
+      - "report\xE1semos"
+      - reportaseis
+      - reportasen
+      cjid: pisb2
+    - cjfs:
+      - reportare
+      - reportares
+      - reportare
+      - "report\xE1remos"
+      - reportareis
+      - reportaren
+      cjid: fsub
+    - cjfs:
+      - he reportado
+      - has reportado
+      - ha reportado
+      - hemos reportado
+      - "hab\xE9is reportado"
+      - han reportado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reportado"
+      - "hab\xEDas reportado"
+      - "hab\xEDa reportado"
+      - "hab\xEDamos reportado"
+      - "hab\xEDais reportado"
+      - "hab\xEDan reportado"
+      cjid: ppsi
+    - cjfs:
+      - hube reportado
+      - hubiste reportado
+      - hubo reportado
+      - hubimos reportado
+      - hubisteis reportado
+      - hubieron reportado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reportado"
+      - "habr\xE1s reportado"
+      - "habr\xE1 reportado"
+      - habremos reportado
+      - "habr\xE9is reportado"
+      - "habr\xE1n reportado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reportado"
+      - "habr\xEDas reportado"
+      - "habr\xEDa reportado"
+      - "habr\xEDamos reportado"
+      - "habr\xEDais reportado"
+      - "habr\xEDan reportado"
+      cjid: cpef
+    - cjfs:
+      - haya reportado
+      - hayas reportado
+      - haya reportado
+      - hayamos reportado
+      - "hay\xE1is reportado"
+      - hayan reportado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reportado
+      - hubieras reportado
+      - hubiera reportado
+      - "hubi\xE9ramos reportado"
+      - hubierais reportado
+      - hubieran reportado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reportado
+      - hubieses reportado
+      - hubiese reportado
+      - "hubi\xE9semos reportado"
+      - hubieseis reportado
+      - hubiesen reportado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reportado
+      - hubieres reportado
+      - hubiere reportado
+      - "hubi\xE9remos reportado"
+      - hubiereis reportado
+      - hubieren reportado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reporta
+      - reporte
+      - reportemos
+      - reportad
+      - reporten
+      cjid: impf

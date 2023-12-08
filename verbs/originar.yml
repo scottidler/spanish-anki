@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|originate}, to {a_link|give rise to}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|originate}, to {a_link|begin}'
+    drp: originarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: originar
+    prs:
+    - sound:
+        audio: origi01sp
+  meta:
+    id: originar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616323000'
+    src: spanish
+    stems:
+    - originar
+    - originarse
+    uuid: 87463eb1-6440-4128-a3b7-00b96e88101f
+  shortdef:
+  - to originate, to give rise to
+  suppl:
+    cjts:
+    - cjfs:
+      - originando
+      - originado
+      cjid: gppt
+    - cjfs:
+      - origino
+      - originas
+      - origina
+      - originamos
+      - "origin\xE1is"
+      - originan
+      cjid: pind
+    - cjfs:
+      - originaba
+      - originabas
+      - originaba
+      - "origin\xE1bamos"
+      - originabais
+      - originaban
+      cjid: pret
+    - cjfs:
+      - "origin\xE9"
+      - originaste
+      - "origin\xF3"
+      - originamos
+      - originasteis
+      - originaron
+      cjid: pprf
+    - cjfs:
+      - "originar\xE9"
+      - "originar\xE1s"
+      - "originar\xE1"
+      - originaremos
+      - "originar\xE9is"
+      - "originar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "originar\xEDa"
+      - "originar\xEDas"
+      - "originar\xEDa"
+      - "originar\xEDamos"
+      - "originar\xEDais"
+      - "originar\xEDan"
+      cjid: cond
+    - cjfs:
+      - origine
+      - origines
+      - origine
+      - originemos
+      - "origin\xE9is"
+      - originen
+      cjid: psub
+    - cjfs:
+      - originara
+      - originaras
+      - originara
+      - "origin\xE1ramos"
+      - originarais
+      - originaran
+      cjid: pisb1
+    - cjfs:
+      - originase
+      - originases
+      - originase
+      - "origin\xE1semos"
+      - originaseis
+      - originasen
+      cjid: pisb2
+    - cjfs:
+      - originare
+      - originares
+      - originare
+      - "origin\xE1remos"
+      - originareis
+      - originaren
+      cjid: fsub
+    - cjfs:
+      - he originado
+      - has originado
+      - ha originado
+      - hemos originado
+      - "hab\xE9is originado"
+      - han originado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa originado"
+      - "hab\xEDas originado"
+      - "hab\xEDa originado"
+      - "hab\xEDamos originado"
+      - "hab\xEDais originado"
+      - "hab\xEDan originado"
+      cjid: ppsi
+    - cjfs:
+      - hube originado
+      - hubiste originado
+      - hubo originado
+      - hubimos originado
+      - hubisteis originado
+      - hubieron originado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 originado"
+      - "habr\xE1s originado"
+      - "habr\xE1 originado"
+      - habremos originado
+      - "habr\xE9is originado"
+      - "habr\xE1n originado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa originado"
+      - "habr\xEDas originado"
+      - "habr\xEDa originado"
+      - "habr\xEDamos originado"
+      - "habr\xEDais originado"
+      - "habr\xEDan originado"
+      cjid: cpef
+    - cjfs:
+      - haya originado
+      - hayas originado
+      - haya originado
+      - hayamos originado
+      - "hay\xE1is originado"
+      - hayan originado
+      cjid: ppfs
+    - cjfs:
+      - hubiera originado
+      - hubieras originado
+      - hubiera originado
+      - "hubi\xE9ramos originado"
+      - hubierais originado
+      - hubieran originado
+      cjid: ppss1
+    - cjfs:
+      - hubiese originado
+      - hubieses originado
+      - hubiese originado
+      - "hubi\xE9semos originado"
+      - hubieseis originado
+      - hubiesen originado
+      cjid: ppss2
+    - cjfs:
+      - hubiere originado
+      - hubieres originado
+      - hubiere originado
+      - "hubi\xE9remos originado"
+      - hubiereis originado
+      - hubieren originado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - origina
+      - origine
+      - originemos
+      - originad
+      - originen
+      cjid: impf

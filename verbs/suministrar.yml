@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|supply}, to {a_link|provide}'
+  fl: transitive verb
+  hwi:
+    hw: suministrar
+    prs:
+    - sound:
+        audio: sumin01sp
+  meta:
+    id: suministrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621208000'
+    src: spanish
+    stems:
+    - suministrar
+    uuid: e43d43f5-0b91-4460-9f6d-bd429b8d0797
+  shortdef:
+  - to supply, to provide
+  suppl:
+    cjts:
+    - cjfs:
+      - suministrando
+      - suministrado
+      cjid: gppt
+    - cjfs:
+      - suministro
+      - suministras
+      - suministra
+      - suministramos
+      - "suministr\xE1is"
+      - suministran
+      cjid: pind
+    - cjfs:
+      - suministraba
+      - suministrabas
+      - suministraba
+      - "suministr\xE1bamos"
+      - suministrabais
+      - suministraban
+      cjid: pret
+    - cjfs:
+      - "suministr\xE9"
+      - suministraste
+      - "suministr\xF3"
+      - suministramos
+      - suministrasteis
+      - suministraron
+      cjid: pprf
+    - cjfs:
+      - "suministrar\xE9"
+      - "suministrar\xE1s"
+      - "suministrar\xE1"
+      - suministraremos
+      - "suministrar\xE9is"
+      - "suministrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "suministrar\xEDa"
+      - "suministrar\xEDas"
+      - "suministrar\xEDa"
+      - "suministrar\xEDamos"
+      - "suministrar\xEDais"
+      - "suministrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - suministre
+      - suministres
+      - suministre
+      - suministremos
+      - "suministr\xE9is"
+      - suministren
+      cjid: psub
+    - cjfs:
+      - suministrara
+      - suministraras
+      - suministrara
+      - "suministr\xE1ramos"
+      - suministrarais
+      - suministraran
+      cjid: pisb1
+    - cjfs:
+      - suministrase
+      - suministrases
+      - suministrase
+      - "suministr\xE1semos"
+      - suministraseis
+      - suministrasen
+      cjid: pisb2
+    - cjfs:
+      - suministrare
+      - suministrares
+      - suministrare
+      - "suministr\xE1remos"
+      - suministrareis
+      - suministraren
+      cjid: fsub
+    - cjfs:
+      - he suministrado
+      - has suministrado
+      - ha suministrado
+      - hemos suministrado
+      - "hab\xE9is suministrado"
+      - han suministrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa suministrado"
+      - "hab\xEDas suministrado"
+      - "hab\xEDa suministrado"
+      - "hab\xEDamos suministrado"
+      - "hab\xEDais suministrado"
+      - "hab\xEDan suministrado"
+      cjid: ppsi
+    - cjfs:
+      - hube suministrado
+      - hubiste suministrado
+      - hubo suministrado
+      - hubimos suministrado
+      - hubisteis suministrado
+      - hubieron suministrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 suministrado"
+      - "habr\xE1s suministrado"
+      - "habr\xE1 suministrado"
+      - habremos suministrado
+      - "habr\xE9is suministrado"
+      - "habr\xE1n suministrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa suministrado"
+      - "habr\xEDas suministrado"
+      - "habr\xEDa suministrado"
+      - "habr\xEDamos suministrado"
+      - "habr\xEDais suministrado"
+      - "habr\xEDan suministrado"
+      cjid: cpef
+    - cjfs:
+      - haya suministrado
+      - hayas suministrado
+      - haya suministrado
+      - hayamos suministrado
+      - "hay\xE1is suministrado"
+      - hayan suministrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera suministrado
+      - hubieras suministrado
+      - hubiera suministrado
+      - "hubi\xE9ramos suministrado"
+      - hubierais suministrado
+      - hubieran suministrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese suministrado
+      - hubieses suministrado
+      - hubiese suministrado
+      - "hubi\xE9semos suministrado"
+      - hubieseis suministrado
+      - hubiesen suministrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere suministrado
+      - hubieres suministrado
+      - hubiere suministrado
+      - "hubi\xE9remos suministrado"
+      - hubiereis suministrado
+      - hubieren suministrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - suministra
+      - suministre
+      - suministremos
+      - suministrad
+      - suministren
+      cjid: impf

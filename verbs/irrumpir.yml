@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to burst into'
+          vrs:
+          - va: irrumpir en
+            vac: ~ en
+  fl: intransitive verb
+  hwi:
+    hw: irrumpir
+    prs:
+    - sound:
+        audio: irrum01sp
+  meta:
+    id: irrumpir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613099000'
+    src: spanish
+    stems:
+    - irrumpir
+    - irrumpir en
+    uuid: 3002c220-d40b-44e3-a3d5-55b7141ddb60
+  shortdef:
+  - to burst into
+  suppl:
+    cjts:
+    - cjfs:
+      - irrumpiendo
+      - irrumpido
+      cjid: gppt
+    - cjfs:
+      - irrumpo
+      - irrumpes
+      - irrumpe
+      - irrumpimos
+      - "irrump\xEDs"
+      - irrumpen
+      cjid: pind
+    - cjfs:
+      - "irrump\xEDa"
+      - "irrump\xEDas"
+      - "irrump\xEDa"
+      - "irrump\xEDamos"
+      - "irrump\xEDais"
+      - "irrump\xEDan"
+      cjid: pret
+    - cjfs:
+      - "irrump\xED"
+      - irrumpiste
+      - "irrumpi\xF3"
+      - irrumpimos
+      - irrumpisteis
+      - irrumpieron
+      cjid: pprf
+    - cjfs:
+      - "irrumpir\xE9"
+      - "irrumpir\xE1s"
+      - "irrumpir\xE1"
+      - irrumpiremos
+      - "irrumpir\xE9is"
+      - "irrumpir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "irrumpir\xEDa"
+      - "irrumpir\xEDas"
+      - "irrumpir\xEDa"
+      - "irrumpir\xEDamos"
+      - "irrumpir\xEDais"
+      - "irrumpir\xEDan"
+      cjid: cond
+    - cjfs:
+      - irrumpa
+      - irrumpas
+      - irrumpa
+      - irrumpamos
+      - "irrump\xE1is"
+      - irrumpan
+      cjid: psub
+    - cjfs:
+      - irrumpiera
+      - irrumpieras
+      - irrumpiera
+      - "irrumpi\xE9ramos"
+      - irrumpierais
+      - irrumpieran
+      cjid: pisb1
+    - cjfs:
+      - irrumpiese
+      - irrumpieses
+      - irrumpiese
+      - "irrumpi\xE9semos"
+      - irrumpieseis
+      - irrumpiesen
+      cjid: pisb2
+    - cjfs:
+      - irrumpiere
+      - irrumpieres
+      - irrumpiere
+      - "irrumpi\xE9remos"
+      - irrumpiereis
+      - irrumpieren
+      cjid: fsub
+    - cjfs:
+      - he irrumpido
+      - has irrumpido
+      - ha irrumpido
+      - hemos irrumpido
+      - "hab\xE9is irrumpido"
+      - han irrumpido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa irrumpido"
+      - "hab\xEDas irrumpido"
+      - "hab\xEDa irrumpido"
+      - "hab\xEDamos irrumpido"
+      - "hab\xEDais irrumpido"
+      - "hab\xEDan irrumpido"
+      cjid: ppsi
+    - cjfs:
+      - hube irrumpido
+      - hubiste irrumpido
+      - hubo irrumpido
+      - hubimos irrumpido
+      - hubisteis irrumpido
+      - hubieron irrumpido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 irrumpido"
+      - "habr\xE1s irrumpido"
+      - "habr\xE1 irrumpido"
+      - habremos irrumpido
+      - "habr\xE9is irrumpido"
+      - "habr\xE1n irrumpido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa irrumpido"
+      - "habr\xEDas irrumpido"
+      - "habr\xEDa irrumpido"
+      - "habr\xEDamos irrumpido"
+      - "habr\xEDais irrumpido"
+      - "habr\xEDan irrumpido"
+      cjid: cpef
+    - cjfs:
+      - haya irrumpido
+      - hayas irrumpido
+      - haya irrumpido
+      - hayamos irrumpido
+      - "hay\xE1is irrumpido"
+      - hayan irrumpido
+      cjid: ppfs
+    - cjfs:
+      - hubiera irrumpido
+      - hubieras irrumpido
+      - hubiera irrumpido
+      - "hubi\xE9ramos irrumpido"
+      - hubierais irrumpido
+      - hubieran irrumpido
+      cjid: ppss1
+    - cjfs:
+      - hubiese irrumpido
+      - hubieses irrumpido
+      - hubiese irrumpido
+      - "hubi\xE9semos irrumpido"
+      - hubieseis irrumpido
+      - hubiesen irrumpido
+      cjid: ppss2
+    - cjfs:
+      - hubiere irrumpido
+      - hubieres irrumpido
+      - hubiere irrumpido
+      - "hubi\xE9remos irrumpido"
+      - hubiereis irrumpido
+      - hubieren irrumpido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - irrumpe
+      - irrumpa
+      - irrumpamos
+      - irrumpid
+      - irrumpan
+      cjid: impf

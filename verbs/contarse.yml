@@ -1,0 +1,263 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|count} '
+          - - vis
+            - - t: contar el dinero
+                tr: to count the money
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tell} '
+          - - vis
+            - - t: "cu\xE9ntame un cuento"
+                tr: tell me a story
+              - t: "me lo cont\xF3 todo"
+                tr: she told me everything
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|include}, to {a_link|count}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|count} (up) '
+          - - vis
+            - - t: contar de diez en diez
+                tr: to count by tens
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|count}, to {a_link|matter} '
+          - - vis
+            - - t: eso no cuenta
+                tr: that doesn't count
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|count on}, to rely on'
+          sn: '3'
+          vrs:
+          - va: contar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expect}, to {a_link|count on} '
+          - - vis
+            - - t: "no contaba con que \u2026"
+                tr: "I didn't count on the fact that \u2026"
+          sn: '4'
+          vrs:
+          - va: contar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have} (support, resources, etc.)'
+          sn: '5'
+          vrs:
+          - va: contar con
+            vac: ~ con
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be numbered among'
+            vrs:
+            - va: contarse entre
+              vac: ~ entre
+    drp: contarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: contar
+    prs:
+    - sound:
+        audio: conta13sp
+  meta:
+    id: contar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605675000'
+    src: spanish
+    stems:
+    - contar
+    - contar con
+    - contarse
+    - contarse entre
+    uuid: 8bb8e250-007b-464f-952f-a30b4b7dc1e0
+  shortdef:
+  - to count
+  - to tell
+  - to include, to count
+  suppl:
+    cjts:
+    - cjfs:
+      - contando
+      - contado
+      cjid: gppt
+    - cjfs:
+      - cuento
+      - cuentas
+      - cuenta
+      - contamos
+      - "cont\xE1is"
+      - cuentan
+      cjid: pind
+    - cjfs:
+      - contaba
+      - contabas
+      - contaba
+      - "cont\xE1bamos"
+      - contabais
+      - contaban
+      cjid: pret
+    - cjfs:
+      - "cont\xE9"
+      - contaste
+      - "cont\xF3"
+      - contamos
+      - contasteis
+      - contaron
+      cjid: pprf
+    - cjfs:
+      - "contar\xE9"
+      - "contar\xE1s"
+      - "contar\xE1"
+      - contaremos
+      - "contar\xE9is"
+      - "contar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contar\xEDa"
+      - "contar\xEDas"
+      - "contar\xEDa"
+      - "contar\xEDamos"
+      - "contar\xEDais"
+      - "contar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cuente
+      - cuentes
+      - cuente
+      - contemos
+      - "cont\xE9is"
+      - cuenten
+      cjid: psub
+    - cjfs:
+      - contara
+      - contaras
+      - contara
+      - "cont\xE1ramos"
+      - contarais
+      - contaran
+      cjid: pisb1
+    - cjfs:
+      - contase
+      - contases
+      - contase
+      - "cont\xE1semos"
+      - contaseis
+      - contasen
+      cjid: pisb2
+    - cjfs:
+      - contare
+      - contares
+      - contare
+      - "cont\xE1remos"
+      - contareis
+      - contaren
+      cjid: fsub
+    - cjfs:
+      - he contado
+      - has contado
+      - ha contado
+      - hemos contado
+      - "hab\xE9is contado"
+      - han contado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contado"
+      - "hab\xEDas contado"
+      - "hab\xEDa contado"
+      - "hab\xEDamos contado"
+      - "hab\xEDais contado"
+      - "hab\xEDan contado"
+      cjid: ppsi
+    - cjfs:
+      - hube contado
+      - hubiste contado
+      - hubo contado
+      - hubimos contado
+      - hubisteis contado
+      - hubieron contado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contado"
+      - "habr\xE1s contado"
+      - "habr\xE1 contado"
+      - habremos contado
+      - "habr\xE9is contado"
+      - "habr\xE1n contado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contado"
+      - "habr\xEDas contado"
+      - "habr\xEDa contado"
+      - "habr\xEDamos contado"
+      - "habr\xEDais contado"
+      - "habr\xEDan contado"
+      cjid: cpef
+    - cjfs:
+      - haya contado
+      - hayas contado
+      - haya contado
+      - hayamos contado
+      - "hay\xE1is contado"
+      - hayan contado
+      cjid: ppfs
+    - cjfs:
+      - hubiera contado
+      - hubieras contado
+      - hubiera contado
+      - "hubi\xE9ramos contado"
+      - hubierais contado
+      - hubieran contado
+      cjid: ppss1
+    - cjfs:
+      - hubiese contado
+      - hubieses contado
+      - hubiese contado
+      - "hubi\xE9semos contado"
+      - hubieseis contado
+      - hubiesen contado
+      cjid: ppss2
+    - cjfs:
+      - hubiere contado
+      - hubieres contado
+      - hubiere contado
+      - "hubi\xE9remos contado"
+      - hubiereis contado
+      - hubieren contado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cuenta
+      - cuente
+      - contemos
+      - contad
+      - cuenten
+      cjid: impf

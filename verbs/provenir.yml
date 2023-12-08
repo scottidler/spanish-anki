@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come from}'
+          vrs:
+          - va: provenir de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: provenir
+    prs:
+    - sound:
+        audio: prove05sp
+  meta:
+    id: provenir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618359000'
+    src: spanish
+    stems:
+    - provenir
+    - provenir de
+    uuid: ce727baa-31f0-47fa-a902-3421fe1fa252
+  shortdef:
+  - to come from
+  suppl:
+    cjts:
+    - cjfs:
+      - proviniendo
+      - provenido
+      cjid: gppt
+    - cjfs:
+      - provengo
+      - provienes
+      - proviene
+      - provenimos
+      - "proven\xEDs"
+      - provienen
+      cjid: pind
+    - cjfs:
+      - "proven\xEDa"
+      - "proven\xEDas"
+      - "proven\xEDa"
+      - "proven\xEDamos"
+      - "proven\xEDais"
+      - "proven\xEDan"
+      cjid: pret
+    - cjfs:
+      - provine
+      - proviniste
+      - provino
+      - provinimos
+      - provinisteis
+      - provinieron
+      cjid: pprf
+    - cjfs:
+      - "provendr\xE9"
+      - "provendr\xE1s"
+      - "provendr\xE1"
+      - provendremos
+      - "provendr\xE9is"
+      - "provendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "provendr\xEDa"
+      - "provendr\xEDas"
+      - "provendr\xEDa"
+      - "provendr\xEDamos"
+      - "provendr\xEDais"
+      - "provendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - provenga
+      - provengas
+      - provenga
+      - provengamos
+      - "proveng\xE1is"
+      - provengan
+      cjid: psub
+    - cjfs:
+      - proviniera
+      - provinieras
+      - proviniera
+      - "provini\xE9ramos"
+      - provinierais
+      - provinieran
+      cjid: pisb1
+    - cjfs:
+      - proviniese
+      - provinieses
+      - proviniese
+      - "provini\xE9semos"
+      - provinieseis
+      - proviniesen
+      cjid: pisb2
+    - cjfs:
+      - proviniere
+      - provinieres
+      - proviniere
+      - "provini\xE9remos"
+      - proviniereis
+      - provinieren
+      cjid: fsub
+    - cjfs:
+      - he provenido
+      - has provenido
+      - ha provenido
+      - hemos provenido
+      - "hab\xE9is provenido"
+      - han provenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa provenido"
+      - "hab\xEDas provenido"
+      - "hab\xEDa provenido"
+      - "hab\xEDamos provenido"
+      - "hab\xEDais provenido"
+      - "hab\xEDan provenido"
+      cjid: ppsi
+    - cjfs:
+      - hube provenido
+      - hubiste provenido
+      - hubo provenido
+      - hubimos provenido
+      - hubisteis provenido
+      - hubieron provenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 provenido"
+      - "habr\xE1s provenido"
+      - "habr\xE1 provenido"
+      - habremos provenido
+      - "habr\xE9is provenido"
+      - "habr\xE1n provenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa provenido"
+      - "habr\xEDas provenido"
+      - "habr\xEDa provenido"
+      - "habr\xEDamos provenido"
+      - "habr\xEDais provenido"
+      - "habr\xEDan provenido"
+      cjid: cpef
+    - cjfs:
+      - haya provenido
+      - hayas provenido
+      - haya provenido
+      - hayamos provenido
+      - "hay\xE1is provenido"
+      - hayan provenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera provenido
+      - hubieras provenido
+      - hubiera provenido
+      - "hubi\xE9ramos provenido"
+      - hubierais provenido
+      - hubieran provenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese provenido
+      - hubieses provenido
+      - hubiese provenido
+      - "hubi\xE9semos provenido"
+      - hubieseis provenido
+      - hubiesen provenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere provenido
+      - hubieres provenido
+      - hubiere provenido
+      - "hubi\xE9remos provenido"
+      - hubiereis provenido
+      - hubieren provenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "prov\xE9n"
+      - provenga
+      - provengamos
+      - provenid
+      - provengan
+      cjid: impf

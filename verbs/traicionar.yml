@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|betray}'
+  fl: transitive verb
+  hwi:
+    hw: traicionar
+    prs:
+    - sound:
+        audio: traic02sp
+  meta:
+    id: traicionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622090000'
+    src: spanish
+    stems:
+    - traicionar
+    uuid: 32adebef-3087-4abe-a97b-cfcbd3e54f3d
+  shortdef:
+  - to betray
+  suppl:
+    cjts:
+    - cjfs:
+      - traicionando
+      - traicionado
+      cjid: gppt
+    - cjfs:
+      - traiciono
+      - traicionas
+      - traiciona
+      - traicionamos
+      - "traicion\xE1is"
+      - traicionan
+      cjid: pind
+    - cjfs:
+      - traicionaba
+      - traicionabas
+      - traicionaba
+      - "traicion\xE1bamos"
+      - traicionabais
+      - traicionaban
+      cjid: pret
+    - cjfs:
+      - "traicion\xE9"
+      - traicionaste
+      - "traicion\xF3"
+      - traicionamos
+      - traicionasteis
+      - traicionaron
+      cjid: pprf
+    - cjfs:
+      - "traicionar\xE9"
+      - "traicionar\xE1s"
+      - "traicionar\xE1"
+      - traicionaremos
+      - "traicionar\xE9is"
+      - "traicionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "traicionar\xEDa"
+      - "traicionar\xEDas"
+      - "traicionar\xEDa"
+      - "traicionar\xEDamos"
+      - "traicionar\xEDais"
+      - "traicionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - traicione
+      - traiciones
+      - traicione
+      - traicionemos
+      - "traicion\xE9is"
+      - traicionen
+      cjid: psub
+    - cjfs:
+      - traicionara
+      - traicionaras
+      - traicionara
+      - "traicion\xE1ramos"
+      - traicionarais
+      - traicionaran
+      cjid: pisb1
+    - cjfs:
+      - traicionase
+      - traicionases
+      - traicionase
+      - "traicion\xE1semos"
+      - traicionaseis
+      - traicionasen
+      cjid: pisb2
+    - cjfs:
+      - traicionare
+      - traicionares
+      - traicionare
+      - "traicion\xE1remos"
+      - traicionareis
+      - traicionaren
+      cjid: fsub
+    - cjfs:
+      - he traicionado
+      - has traicionado
+      - ha traicionado
+      - hemos traicionado
+      - "hab\xE9is traicionado"
+      - han traicionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa traicionado"
+      - "hab\xEDas traicionado"
+      - "hab\xEDa traicionado"
+      - "hab\xEDamos traicionado"
+      - "hab\xEDais traicionado"
+      - "hab\xEDan traicionado"
+      cjid: ppsi
+    - cjfs:
+      - hube traicionado
+      - hubiste traicionado
+      - hubo traicionado
+      - hubimos traicionado
+      - hubisteis traicionado
+      - hubieron traicionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 traicionado"
+      - "habr\xE1s traicionado"
+      - "habr\xE1 traicionado"
+      - habremos traicionado
+      - "habr\xE9is traicionado"
+      - "habr\xE1n traicionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa traicionado"
+      - "habr\xEDas traicionado"
+      - "habr\xEDa traicionado"
+      - "habr\xEDamos traicionado"
+      - "habr\xEDais traicionado"
+      - "habr\xEDan traicionado"
+      cjid: cpef
+    - cjfs:
+      - haya traicionado
+      - hayas traicionado
+      - haya traicionado
+      - hayamos traicionado
+      - "hay\xE1is traicionado"
+      - hayan traicionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera traicionado
+      - hubieras traicionado
+      - hubiera traicionado
+      - "hubi\xE9ramos traicionado"
+      - hubierais traicionado
+      - hubieran traicionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese traicionado
+      - hubieses traicionado
+      - hubiese traicionado
+      - "hubi\xE9semos traicionado"
+      - hubieseis traicionado
+      - hubiesen traicionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere traicionado
+      - hubieres traicionado
+      - hubiere traicionado
+      - "hubi\xE9remos traicionado"
+      - hubiereis traicionado
+      - hubieren traicionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - traiciona
+      - traicione
+      - traicionemos
+      - traicionad
+      - traicionen
+      cjid: impf

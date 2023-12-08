@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|torment}, to {a_link|torture}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to torment oneself, to {a_link|agonize}'
+    drp: atormentarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: atormentar
+  meta:
+    id: atormentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602333000'
+    src: spanish
+    stems:
+    - atormentar
+    - atormentarse
+    uuid: b2fc0bc3-79d0-4eea-bc90-a6a2ef42da19
+  shortdef:
+  - to torment, to torture
+  suppl:
+    cjts:
+    - cjfs:
+      - atormentando
+      - atormentado
+      cjid: gppt
+    - cjfs:
+      - atormento
+      - atormentas
+      - atormenta
+      - atormentamos
+      - "atorment\xE1is"
+      - atormentan
+      cjid: pind
+    - cjfs:
+      - atormentaba
+      - atormentabas
+      - atormentaba
+      - "atorment\xE1bamos"
+      - atormentabais
+      - atormentaban
+      cjid: pret
+    - cjfs:
+      - "atorment\xE9"
+      - atormentaste
+      - "atorment\xF3"
+      - atormentamos
+      - atormentasteis
+      - atormentaron
+      cjid: pprf
+    - cjfs:
+      - "atormentar\xE9"
+      - "atormentar\xE1s"
+      - "atormentar\xE1"
+      - atormentaremos
+      - "atormentar\xE9is"
+      - "atormentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atormentar\xEDa"
+      - "atormentar\xEDas"
+      - "atormentar\xEDa"
+      - "atormentar\xEDamos"
+      - "atormentar\xEDais"
+      - "atormentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - atormente
+      - atormentes
+      - atormente
+      - atormentemos
+      - "atorment\xE9is"
+      - atormenten
+      cjid: psub
+    - cjfs:
+      - atormentara
+      - atormentaras
+      - atormentara
+      - "atorment\xE1ramos"
+      - atormentarais
+      - atormentaran
+      cjid: pisb1
+    - cjfs:
+      - atormentase
+      - atormentases
+      - atormentase
+      - "atorment\xE1semos"
+      - atormentaseis
+      - atormentasen
+      cjid: pisb2
+    - cjfs:
+      - atormentare
+      - atormentares
+      - atormentare
+      - "atorment\xE1remos"
+      - atormentareis
+      - atormentaren
+      cjid: fsub
+    - cjfs:
+      - he atormentado
+      - has atormentado
+      - ha atormentado
+      - hemos atormentado
+      - "hab\xE9is atormentado"
+      - han atormentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atormentado"
+      - "hab\xEDas atormentado"
+      - "hab\xEDa atormentado"
+      - "hab\xEDamos atormentado"
+      - "hab\xEDais atormentado"
+      - "hab\xEDan atormentado"
+      cjid: ppsi
+    - cjfs:
+      - hube atormentado
+      - hubiste atormentado
+      - hubo atormentado
+      - hubimos atormentado
+      - hubisteis atormentado
+      - hubieron atormentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atormentado"
+      - "habr\xE1s atormentado"
+      - "habr\xE1 atormentado"
+      - habremos atormentado
+      - "habr\xE9is atormentado"
+      - "habr\xE1n atormentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atormentado"
+      - "habr\xEDas atormentado"
+      - "habr\xEDa atormentado"
+      - "habr\xEDamos atormentado"
+      - "habr\xEDais atormentado"
+      - "habr\xEDan atormentado"
+      cjid: cpef
+    - cjfs:
+      - haya atormentado
+      - hayas atormentado
+      - haya atormentado
+      - hayamos atormentado
+      - "hay\xE1is atormentado"
+      - hayan atormentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atormentado
+      - hubieras atormentado
+      - hubiera atormentado
+      - "hubi\xE9ramos atormentado"
+      - hubierais atormentado
+      - hubieran atormentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atormentado
+      - hubieses atormentado
+      - hubiese atormentado
+      - "hubi\xE9semos atormentado"
+      - hubieseis atormentado
+      - hubiesen atormentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atormentado
+      - hubieres atormentado
+      - hubiere atormentado
+      - "hubi\xE9remos atormentado"
+      - hubiereis atormentado
+      - hubieren atormentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atormenta
+      - atormente
+      - atormentemos
+      - atormentad
+      - atormenten
+      cjid: impf

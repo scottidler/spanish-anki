@@ -1,0 +1,191 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acercar||}, {sx|arrimar||} {bc}to {a_link|approximate}, to bring
+              closer'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|acercarse||}, {sx|arrimarse||} {bc}to {a_link|approach}, to move
+                closer'
+    drp: aproximarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aproximar
+  meta:
+    id: aproximar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601819000'
+    src: spanish
+    stems:
+    - aproximar
+    - aproximarse
+    uuid: c9301a0e-4e62-48ed-b276-b884d680b4d0
+  shortdef:
+  - 'acercar, arrimar : to approximate, to bring closer'
+  suppl:
+    cjts:
+    - cjfs:
+      - aproximando
+      - aproximado
+      cjid: gppt
+    - cjfs:
+      - aproximo
+      - aproximas
+      - aproxima
+      - aproximamos
+      - "aproxim\xE1is"
+      - aproximan
+      cjid: pind
+    - cjfs:
+      - aproximaba
+      - aproximabas
+      - aproximaba
+      - "aproxim\xE1bamos"
+      - aproximabais
+      - aproximaban
+      cjid: pret
+    - cjfs:
+      - "aproxim\xE9"
+      - aproximaste
+      - "aproxim\xF3"
+      - aproximamos
+      - aproximasteis
+      - aproximaron
+      cjid: pprf
+    - cjfs:
+      - "aproximar\xE9"
+      - "aproximar\xE1s"
+      - "aproximar\xE1"
+      - aproximaremos
+      - "aproximar\xE9is"
+      - "aproximar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aproximar\xEDa"
+      - "aproximar\xEDas"
+      - "aproximar\xEDa"
+      - "aproximar\xEDamos"
+      - "aproximar\xEDais"
+      - "aproximar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aproxime
+      - aproximes
+      - aproxime
+      - aproximemos
+      - "aproxim\xE9is"
+      - aproximen
+      cjid: psub
+    - cjfs:
+      - aproximara
+      - aproximaras
+      - aproximara
+      - "aproxim\xE1ramos"
+      - aproximarais
+      - aproximaran
+      cjid: pisb1
+    - cjfs:
+      - aproximase
+      - aproximases
+      - aproximase
+      - "aproxim\xE1semos"
+      - aproximaseis
+      - aproximasen
+      cjid: pisb2
+    - cjfs:
+      - aproximare
+      - aproximares
+      - aproximare
+      - "aproxim\xE1remos"
+      - aproximareis
+      - aproximaren
+      cjid: fsub
+    - cjfs:
+      - he aproximado
+      - has aproximado
+      - ha aproximado
+      - hemos aproximado
+      - "hab\xE9is aproximado"
+      - han aproximado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aproximado"
+      - "hab\xEDas aproximado"
+      - "hab\xEDa aproximado"
+      - "hab\xEDamos aproximado"
+      - "hab\xEDais aproximado"
+      - "hab\xEDan aproximado"
+      cjid: ppsi
+    - cjfs:
+      - hube aproximado
+      - hubiste aproximado
+      - hubo aproximado
+      - hubimos aproximado
+      - hubisteis aproximado
+      - hubieron aproximado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aproximado"
+      - "habr\xE1s aproximado"
+      - "habr\xE1 aproximado"
+      - habremos aproximado
+      - "habr\xE9is aproximado"
+      - "habr\xE1n aproximado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aproximado"
+      - "habr\xEDas aproximado"
+      - "habr\xEDa aproximado"
+      - "habr\xEDamos aproximado"
+      - "habr\xEDais aproximado"
+      - "habr\xEDan aproximado"
+      cjid: cpef
+    - cjfs:
+      - haya aproximado
+      - hayas aproximado
+      - haya aproximado
+      - hayamos aproximado
+      - "hay\xE1is aproximado"
+      - hayan aproximado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aproximado
+      - hubieras aproximado
+      - hubiera aproximado
+      - "hubi\xE9ramos aproximado"
+      - hubierais aproximado
+      - hubieran aproximado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aproximado
+      - hubieses aproximado
+      - hubiese aproximado
+      - "hubi\xE9semos aproximado"
+      - hubieseis aproximado
+      - hubiesen aproximado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aproximado
+      - hubieres aproximado
+      - hubiere aproximado
+      - "hubi\xE9remos aproximado"
+      - hubiereis aproximado
+      - hubieren aproximado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aproxima
+      - aproxime
+      - aproximemos
+      - aproximad
+      - aproximen
+      cjid: impf

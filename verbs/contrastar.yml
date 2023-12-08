@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resist}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|check}, to {a_link|confirm}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|contrast}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: contrastar
+    prs:
+    - sound:
+        audio: contr09sp
+  meta:
+    id: contrastar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605760000'
+    src: spanish
+    stems:
+    - contrastar
+    uuid: 9cdf7f51-ab49-48ab-9ab0-0284579de8ae
+  shortdef:
+  - to resist
+  - to check, to confirm
+  - to contrast
+  suppl:
+    cjts:
+    - cjfs:
+      - contrastando
+      - contrastado
+      cjid: gppt
+    - cjfs:
+      - contrasto
+      - contrastas
+      - contrasta
+      - contrastamos
+      - "contrast\xE1is"
+      - contrastan
+      cjid: pind
+    - cjfs:
+      - contrastaba
+      - contrastabas
+      - contrastaba
+      - "contrast\xE1bamos"
+      - contrastabais
+      - contrastaban
+      cjid: pret
+    - cjfs:
+      - "contrast\xE9"
+      - contrastaste
+      - "contrast\xF3"
+      - contrastamos
+      - contrastasteis
+      - contrastaron
+      cjid: pprf
+    - cjfs:
+      - "contrastar\xE9"
+      - "contrastar\xE1s"
+      - "contrastar\xE1"
+      - contrastaremos
+      - "contrastar\xE9is"
+      - "contrastar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contrastar\xEDa"
+      - "contrastar\xEDas"
+      - "contrastar\xEDa"
+      - "contrastar\xEDamos"
+      - "contrastar\xEDais"
+      - "contrastar\xEDan"
+      cjid: cond
+    - cjfs:
+      - contraste
+      - contrastes
+      - contraste
+      - contrastemos
+      - "contrast\xE9is"
+      - contrasten
+      cjid: psub
+    - cjfs:
+      - contrastara
+      - contrastaras
+      - contrastara
+      - "contrast\xE1ramos"
+      - contrastarais
+      - contrastaran
+      cjid: pisb1
+    - cjfs:
+      - contrastase
+      - contrastases
+      - contrastase
+      - "contrast\xE1semos"
+      - contrastaseis
+      - contrastasen
+      cjid: pisb2
+    - cjfs:
+      - contrastare
+      - contrastares
+      - contrastare
+      - "contrast\xE1remos"
+      - contrastareis
+      - contrastaren
+      cjid: fsub
+    - cjfs:
+      - he contrastado
+      - has contrastado
+      - ha contrastado
+      - hemos contrastado
+      - "hab\xE9is contrastado"
+      - han contrastado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contrastado"
+      - "hab\xEDas contrastado"
+      - "hab\xEDa contrastado"
+      - "hab\xEDamos contrastado"
+      - "hab\xEDais contrastado"
+      - "hab\xEDan contrastado"
+      cjid: ppsi
+    - cjfs:
+      - hube contrastado
+      - hubiste contrastado
+      - hubo contrastado
+      - hubimos contrastado
+      - hubisteis contrastado
+      - hubieron contrastado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contrastado"
+      - "habr\xE1s contrastado"
+      - "habr\xE1 contrastado"
+      - habremos contrastado
+      - "habr\xE9is contrastado"
+      - "habr\xE1n contrastado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contrastado"
+      - "habr\xEDas contrastado"
+      - "habr\xEDa contrastado"
+      - "habr\xEDamos contrastado"
+      - "habr\xEDais contrastado"
+      - "habr\xEDan contrastado"
+      cjid: cpef
+    - cjfs:
+      - haya contrastado
+      - hayas contrastado
+      - haya contrastado
+      - hayamos contrastado
+      - "hay\xE1is contrastado"
+      - hayan contrastado
+      cjid: ppfs
+    - cjfs:
+      - hubiera contrastado
+      - hubieras contrastado
+      - hubiera contrastado
+      - "hubi\xE9ramos contrastado"
+      - hubierais contrastado
+      - hubieran contrastado
+      cjid: ppss1
+    - cjfs:
+      - hubiese contrastado
+      - hubieses contrastado
+      - hubiese contrastado
+      - "hubi\xE9semos contrastado"
+      - hubieseis contrastado
+      - hubiesen contrastado
+      cjid: ppss2
+    - cjfs:
+      - hubiere contrastado
+      - hubieres contrastado
+      - hubiere contrastado
+      - "hubi\xE9remos contrastado"
+      - hubiereis contrastado
+      - hubieren contrastado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - contrasta
+      - contraste
+      - contrastemos
+      - contrastad
+      - contrasten
+      cjid: impf

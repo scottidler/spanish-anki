@@ -1,0 +1,194 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|roast}, to {a_link|grill}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|roast}, to be dying from heat'
+            sls:
+            - familiar
+    drp: asarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: asar
+    prs:
+    - sound:
+        audio: asar001sp
+  meta:
+    id: asar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602097000'
+    src: spanish
+    stems:
+    - asar
+    - asarse
+    uuid: f1768203-9617-4a27-86e5-a2c184edcbdb
+  shortdef:
+  - to roast, to grill
+  suppl:
+    cjts:
+    - cjfs:
+      - asando
+      - asado
+      cjid: gppt
+    - cjfs:
+      - aso
+      - asas
+      - asa
+      - asamos
+      - "as\xE1is"
+      - asan
+      cjid: pind
+    - cjfs:
+      - asaba
+      - asabas
+      - asaba
+      - "as\xE1bamos"
+      - asabais
+      - asaban
+      cjid: pret
+    - cjfs:
+      - "as\xE9"
+      - asaste
+      - "as\xF3"
+      - asamos
+      - asasteis
+      - asaron
+      cjid: pprf
+    - cjfs:
+      - "asar\xE9"
+      - "asar\xE1s"
+      - "asar\xE1"
+      - asaremos
+      - "asar\xE9is"
+      - "asar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asar\xEDa"
+      - "asar\xEDas"
+      - "asar\xEDa"
+      - "asar\xEDamos"
+      - "asar\xEDais"
+      - "asar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ase
+      - ases
+      - ase
+      - asemos
+      - "as\xE9is"
+      - asen
+      cjid: psub
+    - cjfs:
+      - asara
+      - asaras
+      - asara
+      - "as\xE1ramos"
+      - asarais
+      - asaran
+      cjid: pisb1
+    - cjfs:
+      - asase
+      - asases
+      - asase
+      - "as\xE1semos"
+      - asaseis
+      - asasen
+      cjid: pisb2
+    - cjfs:
+      - asare
+      - asares
+      - asare
+      - "as\xE1remos"
+      - asareis
+      - asaren
+      cjid: fsub
+    - cjfs:
+      - he asado
+      - has asado
+      - ha asado
+      - hemos asado
+      - "hab\xE9is asado"
+      - han asado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asado"
+      - "hab\xEDas asado"
+      - "hab\xEDa asado"
+      - "hab\xEDamos asado"
+      - "hab\xEDais asado"
+      - "hab\xEDan asado"
+      cjid: ppsi
+    - cjfs:
+      - hube asado
+      - hubiste asado
+      - hubo asado
+      - hubimos asado
+      - hubisteis asado
+      - hubieron asado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asado"
+      - "habr\xE1s asado"
+      - "habr\xE1 asado"
+      - habremos asado
+      - "habr\xE9is asado"
+      - "habr\xE1n asado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asado"
+      - "habr\xEDas asado"
+      - "habr\xEDa asado"
+      - "habr\xEDamos asado"
+      - "habr\xEDais asado"
+      - "habr\xEDan asado"
+      cjid: cpef
+    - cjfs:
+      - haya asado
+      - hayas asado
+      - haya asado
+      - hayamos asado
+      - "hay\xE1is asado"
+      - hayan asado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asado
+      - hubieras asado
+      - hubiera asado
+      - "hubi\xE9ramos asado"
+      - hubierais asado
+      - hubieran asado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asado
+      - hubieses asado
+      - hubiese asado
+      - "hubi\xE9semos asado"
+      - hubieseis asado
+      - hubiesen asado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asado
+      - hubieres asado
+      - hubiere asado
+      - "hubi\xE9remos asado"
+      - hubiereis asado
+      - hubieren asado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asa
+      - ase
+      - asemos
+      - asad
+      - asen
+      cjid: impf

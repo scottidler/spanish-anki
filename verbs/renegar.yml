@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|renounce}, to {a_link|disown}, to {a_link|give up}'
+          sn: '1'
+          vrs:
+          - va: renegar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to complain about'
+          sn: '2'
+          vrs:
+          - va: renegar de
+            vac: ~ de
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to deny vigorously'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|abhor}, to {a_link|hate}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: renegar
+    prs:
+    - sound:
+        audio: reneg01sp
+  meta:
+    id: renegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619392000'
+    src: spanish
+    stems:
+    - renegar
+    - renegar de
+    uuid: 11c41140-f4f7-4584-9a42-d0e23e8c1058
+  shortdef:
+  - to renounce, to disown, to give up
+  - to complain about
+  - to deny vigorously
+  suppl:
+    cjts:
+    - cjfs:
+      - renegando
+      - renegado
+      cjid: gppt
+    - cjfs:
+      - reniego
+      - reniegas
+      - reniega
+      - renegamos
+      - "reneg\xE1is"
+      - reniegan
+      cjid: pind
+    - cjfs:
+      - renegaba
+      - renegabas
+      - renegaba
+      - "reneg\xE1bamos"
+      - renegabais
+      - renegaban
+      cjid: pret
+    - cjfs:
+      - "renegu\xE9"
+      - renegaste
+      - "reneg\xF3"
+      - renegamos
+      - renegasteis
+      - renegaron
+      cjid: pprf
+    - cjfs:
+      - "renegar\xE9"
+      - "renegar\xE1s"
+      - "renegar\xE1"
+      - renegaremos
+      - "renegar\xE9is"
+      - "renegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "renegar\xEDa"
+      - "renegar\xEDas"
+      - "renegar\xEDa"
+      - "renegar\xEDamos"
+      - "renegar\xEDais"
+      - "renegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reniegue
+      - reniegues
+      - reniegue
+      - reneguemos
+      - "renegu\xE9is"
+      - renieguen
+      cjid: psub
+    - cjfs:
+      - renegara
+      - renegaras
+      - renegara
+      - "reneg\xE1ramos"
+      - renegarais
+      - renegaran
+      cjid: pisb1
+    - cjfs:
+      - renegase
+      - renegases
+      - renegase
+      - "reneg\xE1semos"
+      - renegaseis
+      - renegasen
+      cjid: pisb2
+    - cjfs:
+      - renegare
+      - renegares
+      - renegare
+      - "reneg\xE1remos"
+      - renegareis
+      - renegaren
+      cjid: fsub
+    - cjfs:
+      - he renegado
+      - has renegado
+      - ha renegado
+      - hemos renegado
+      - "hab\xE9is renegado"
+      - han renegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa renegado"
+      - "hab\xEDas renegado"
+      - "hab\xEDa renegado"
+      - "hab\xEDamos renegado"
+      - "hab\xEDais renegado"
+      - "hab\xEDan renegado"
+      cjid: ppsi
+    - cjfs:
+      - hube renegado
+      - hubiste renegado
+      - hubo renegado
+      - hubimos renegado
+      - hubisteis renegado
+      - hubieron renegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 renegado"
+      - "habr\xE1s renegado"
+      - "habr\xE1 renegado"
+      - habremos renegado
+      - "habr\xE9is renegado"
+      - "habr\xE1n renegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa renegado"
+      - "habr\xEDas renegado"
+      - "habr\xEDa renegado"
+      - "habr\xEDamos renegado"
+      - "habr\xEDais renegado"
+      - "habr\xEDan renegado"
+      cjid: cpef
+    - cjfs:
+      - haya renegado
+      - hayas renegado
+      - haya renegado
+      - hayamos renegado
+      - "hay\xE1is renegado"
+      - hayan renegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera renegado
+      - hubieras renegado
+      - hubiera renegado
+      - "hubi\xE9ramos renegado"
+      - hubierais renegado
+      - hubieran renegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese renegado
+      - hubieses renegado
+      - hubiese renegado
+      - "hubi\xE9semos renegado"
+      - hubieseis renegado
+      - hubiesen renegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere renegado
+      - hubieres renegado
+      - hubiere renegado
+      - "hubi\xE9remos renegado"
+      - hubiereis renegado
+      - hubieren renegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reniega
+      - reniegue
+      - reneguemos
+      - renegad
+      - renieguen
+      cjid: impf

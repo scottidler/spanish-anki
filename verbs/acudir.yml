@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go}, to {a_link|come} (someplace for a specific purpose) '
+          - - vis
+            - - t: "acudi\xF3 a la puerta"
+                tr: he went to the door
+              - t: acudimos en su ayuda
+                tr: we came to her aid
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be present, to {a_link|show up} '
+          - - vis
+            - - t: "acud\xED a la cita"
+                tr: I showed up for the appointment
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn to}, to have recourse to '
+          - - vis
+            - - t: "hay que acudir al m\xE9dico"
+                tr: you must consult the doctor
+          sn: '3'
+          vrs:
+          - va: acudir a
+            vac: ~ a
+  fl: intransitive verb
+  hwi:
+    hw: acudir
+    prs:
+    - sound:
+        audio: acudi01sp
+  meta:
+    id: acudir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600399000'
+    src: spanish
+    stems:
+    - acudir
+    - acudir a
+    uuid: d97b2bba-4834-4874-8437-613d160207d3
+  shortdef:
+  - to go, to come (someplace for a specific purpose)
+  - to be present, to show up
+  - to turn to, to have recourse to
+  suppl:
+    cjts:
+    - cjfs:
+      - acudiendo
+      - acudido
+      cjid: gppt
+    - cjfs:
+      - acudo
+      - acudes
+      - acude
+      - acudimos
+      - "acud\xEDs"
+      - acuden
+      cjid: pind
+    - cjfs:
+      - "acud\xEDa"
+      - "acud\xEDas"
+      - "acud\xEDa"
+      - "acud\xEDamos"
+      - "acud\xEDais"
+      - "acud\xEDan"
+      cjid: pret
+    - cjfs:
+      - "acud\xED"
+      - acudiste
+      - "acudi\xF3"
+      - acudimos
+      - acudisteis
+      - acudieron
+      cjid: pprf
+    - cjfs:
+      - "acudir\xE9"
+      - "acudir\xE1s"
+      - "acudir\xE1"
+      - acudiremos
+      - "acudir\xE9is"
+      - "acudir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acudir\xEDa"
+      - "acudir\xEDas"
+      - "acudir\xEDa"
+      - "acudir\xEDamos"
+      - "acudir\xEDais"
+      - "acudir\xEDan"
+      cjid: cond
+    - cjfs:
+      - acuda
+      - acudas
+      - acuda
+      - acudamos
+      - "acud\xE1is"
+      - acudan
+      cjid: psub
+    - cjfs:
+      - acudiera
+      - acudieras
+      - acudiera
+      - "acudi\xE9ramos"
+      - acudierais
+      - acudieran
+      cjid: pisb1
+    - cjfs:
+      - acudiese
+      - acudieses
+      - acudiese
+      - "acudi\xE9semos"
+      - acudieseis
+      - acudiesen
+      cjid: pisb2
+    - cjfs:
+      - acudiere
+      - acudieres
+      - acudiere
+      - "acudi\xE9remos"
+      - acudiereis
+      - acudieren
+      cjid: fsub
+    - cjfs:
+      - he acudido
+      - has acudido
+      - ha acudido
+      - hemos acudido
+      - "hab\xE9is acudido"
+      - han acudido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acudido"
+      - "hab\xEDas acudido"
+      - "hab\xEDa acudido"
+      - "hab\xEDamos acudido"
+      - "hab\xEDais acudido"
+      - "hab\xEDan acudido"
+      cjid: ppsi
+    - cjfs:
+      - hube acudido
+      - hubiste acudido
+      - hubo acudido
+      - hubimos acudido
+      - hubisteis acudido
+      - hubieron acudido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acudido"
+      - "habr\xE1s acudido"
+      - "habr\xE1 acudido"
+      - habremos acudido
+      - "habr\xE9is acudido"
+      - "habr\xE1n acudido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acudido"
+      - "habr\xEDas acudido"
+      - "habr\xEDa acudido"
+      - "habr\xEDamos acudido"
+      - "habr\xEDais acudido"
+      - "habr\xEDan acudido"
+      cjid: cpef
+    - cjfs:
+      - haya acudido
+      - hayas acudido
+      - haya acudido
+      - hayamos acudido
+      - "hay\xE1is acudido"
+      - hayan acudido
+      cjid: ppfs
+    - cjfs:
+      - hubiera acudido
+      - hubieras acudido
+      - hubiera acudido
+      - "hubi\xE9ramos acudido"
+      - hubierais acudido
+      - hubieran acudido
+      cjid: ppss1
+    - cjfs:
+      - hubiese acudido
+      - hubieses acudido
+      - hubiese acudido
+      - "hubi\xE9semos acudido"
+      - hubieseis acudido
+      - hubiesen acudido
+      cjid: ppss2
+    - cjfs:
+      - hubiere acudido
+      - hubieres acudido
+      - hubiere acudido
+      - "hubi\xE9remos acudido"
+      - hubiereis acudido
+      - hubieren acudido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acude
+      - acuda
+      - acudamos
+      - acudid
+      - acudan
+      cjid: impf

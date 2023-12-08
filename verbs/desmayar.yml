@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lose heart, to {a_link|falter}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|desvanecerse||} {bc}to {a_link|faint}, to {a_link|swoon}'
+    drp: desmayarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: desmayar
+    prs:
+    - sound:
+        audio: desma04sp
+  meta:
+    id: desmayar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607181000'
+    src: spanish
+    stems:
+    - desmayar
+    - desmayarse
+    uuid: 9e3bb52d-618f-4c4e-8e31-86a657ba038a
+  shortdef:
+  - to lose heart, to falter
+  suppl:
+    cjts:
+    - cjfs:
+      - desmayando
+      - desmayado
+      cjid: gppt
+    - cjfs:
+      - desmayo
+      - desmayas
+      - desmaya
+      - desmayamos
+      - "desmay\xE1is"
+      - desmayan
+      cjid: pind
+    - cjfs:
+      - desmayaba
+      - desmayabas
+      - desmayaba
+      - "desmay\xE1bamos"
+      - desmayabais
+      - desmayaban
+      cjid: pret
+    - cjfs:
+      - "desmay\xE9"
+      - desmayaste
+      - "desmay\xF3"
+      - desmayamos
+      - desmayasteis
+      - desmayaron
+      cjid: pprf
+    - cjfs:
+      - "desmayar\xE9"
+      - "desmayar\xE1s"
+      - "desmayar\xE1"
+      - desmayaremos
+      - "desmayar\xE9is"
+      - "desmayar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desmayar\xEDa"
+      - "desmayar\xEDas"
+      - "desmayar\xEDa"
+      - "desmayar\xEDamos"
+      - "desmayar\xEDais"
+      - "desmayar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desmaye
+      - desmayes
+      - desmaye
+      - desmayemos
+      - "desmay\xE9is"
+      - desmayen
+      cjid: psub
+    - cjfs:
+      - desmayara
+      - desmayaras
+      - desmayara
+      - "desmay\xE1ramos"
+      - desmayarais
+      - desmayaran
+      cjid: pisb1
+    - cjfs:
+      - desmayase
+      - desmayases
+      - desmayase
+      - "desmay\xE1semos"
+      - desmayaseis
+      - desmayasen
+      cjid: pisb2
+    - cjfs:
+      - desmayare
+      - desmayares
+      - desmayare
+      - "desmay\xE1remos"
+      - desmayareis
+      - desmayaren
+      cjid: fsub
+    - cjfs:
+      - he desmayado
+      - has desmayado
+      - ha desmayado
+      - hemos desmayado
+      - "hab\xE9is desmayado"
+      - han desmayado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desmayado"
+      - "hab\xEDas desmayado"
+      - "hab\xEDa desmayado"
+      - "hab\xEDamos desmayado"
+      - "hab\xEDais desmayado"
+      - "hab\xEDan desmayado"
+      cjid: ppsi
+    - cjfs:
+      - hube desmayado
+      - hubiste desmayado
+      - hubo desmayado
+      - hubimos desmayado
+      - hubisteis desmayado
+      - hubieron desmayado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desmayado"
+      - "habr\xE1s desmayado"
+      - "habr\xE1 desmayado"
+      - habremos desmayado
+      - "habr\xE9is desmayado"
+      - "habr\xE1n desmayado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desmayado"
+      - "habr\xEDas desmayado"
+      - "habr\xEDa desmayado"
+      - "habr\xEDamos desmayado"
+      - "habr\xEDais desmayado"
+      - "habr\xEDan desmayado"
+      cjid: cpef
+    - cjfs:
+      - haya desmayado
+      - hayas desmayado
+      - haya desmayado
+      - hayamos desmayado
+      - "hay\xE1is desmayado"
+      - hayan desmayado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desmayado
+      - hubieras desmayado
+      - hubiera desmayado
+      - "hubi\xE9ramos desmayado"
+      - hubierais desmayado
+      - hubieran desmayado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desmayado
+      - hubieses desmayado
+      - hubiese desmayado
+      - "hubi\xE9semos desmayado"
+      - hubieseis desmayado
+      - hubiesen desmayado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desmayado
+      - hubieres desmayado
+      - hubiere desmayado
+      - "hubi\xE9remos desmayado"
+      - hubiereis desmayado
+      - hubieren desmayado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desmaya
+      - desmaye
+      - desmayemos
+      - desmayad
+      - desmayen
+      cjid: impf

@@ -1,0 +1,242 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|advance}, to move forward '
+          - - vis
+            - - t: adelantar el reloj
+                tr: to set one's watch/clock ahead
+              - t: adelantar una fecha
+                tr: to move up a date
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass}, to {a_link|overtake}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reveal} (information) {a_link|in advance}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|advance}, to {a_link|lend} (money)'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go ahead} '
+            - - vis
+              - - t: "se adelant\xF3 para recibirlos"
+                  tr: she went ahead to meet them
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|run fast} (of a watch or clock)'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get ahead} '
+            - - vis
+              - - t: "alguien se me adelant\xF3"
+                  tr: someone beat me to it
+                - t: no nos adelantemos
+                  tr: let's not get ahead of ourselves
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be ahead of one''s time'
+            sn: '4'
+            vrs:
+            - va: adelantarse a su tiempo
+    drp: adelantarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: adelantar
+    prs:
+    - sound:
+        audio: adela02sp
+  meta:
+    id: adelantar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600437000'
+    src: spanish
+    stems:
+    - adelantar
+    - adelantarse
+    - adelantarse a su tiempo
+    uuid: a80aa89f-0eee-4de0-a0e0-f9a66bb98c80
+  shortdef:
+  - to advance, to move forward
+  - to pass, to overtake
+  - to reveal (information) in advance
+  suppl:
+    cjts:
+    - cjfs:
+      - adelantando
+      - adelantado
+      cjid: gppt
+    - cjfs:
+      - adelanto
+      - adelantas
+      - adelanta
+      - adelantamos
+      - "adelant\xE1is"
+      - adelantan
+      cjid: pind
+    - cjfs:
+      - adelantaba
+      - adelantabas
+      - adelantaba
+      - "adelant\xE1bamos"
+      - adelantabais
+      - adelantaban
+      cjid: pret
+    - cjfs:
+      - "adelant\xE9"
+      - adelantaste
+      - "adelant\xF3"
+      - adelantamos
+      - adelantasteis
+      - adelantaron
+      cjid: pprf
+    - cjfs:
+      - "adelantar\xE9"
+      - "adelantar\xE1s"
+      - "adelantar\xE1"
+      - adelantaremos
+      - "adelantar\xE9is"
+      - "adelantar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "adelantar\xEDa"
+      - "adelantar\xEDas"
+      - "adelantar\xEDa"
+      - "adelantar\xEDamos"
+      - "adelantar\xEDais"
+      - "adelantar\xEDan"
+      cjid: cond
+    - cjfs:
+      - adelante
+      - adelantes
+      - adelante
+      - adelantemos
+      - "adelant\xE9is"
+      - adelanten
+      cjid: psub
+    - cjfs:
+      - adelantara
+      - adelantaras
+      - adelantara
+      - "adelant\xE1ramos"
+      - adelantarais
+      - adelantaran
+      cjid: pisb1
+    - cjfs:
+      - adelantase
+      - adelantases
+      - adelantase
+      - "adelant\xE1semos"
+      - adelantaseis
+      - adelantasen
+      cjid: pisb2
+    - cjfs:
+      - adelantare
+      - adelantares
+      - adelantare
+      - "adelant\xE1remos"
+      - adelantareis
+      - adelantaren
+      cjid: fsub
+    - cjfs:
+      - he adelantado
+      - has adelantado
+      - ha adelantado
+      - hemos adelantado
+      - "hab\xE9is adelantado"
+      - han adelantado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa adelantado"
+      - "hab\xEDas adelantado"
+      - "hab\xEDa adelantado"
+      - "hab\xEDamos adelantado"
+      - "hab\xEDais adelantado"
+      - "hab\xEDan adelantado"
+      cjid: ppsi
+    - cjfs:
+      - hube adelantado
+      - hubiste adelantado
+      - hubo adelantado
+      - hubimos adelantado
+      - hubisteis adelantado
+      - hubieron adelantado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 adelantado"
+      - "habr\xE1s adelantado"
+      - "habr\xE1 adelantado"
+      - habremos adelantado
+      - "habr\xE9is adelantado"
+      - "habr\xE1n adelantado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa adelantado"
+      - "habr\xEDas adelantado"
+      - "habr\xEDa adelantado"
+      - "habr\xEDamos adelantado"
+      - "habr\xEDais adelantado"
+      - "habr\xEDan adelantado"
+      cjid: cpef
+    - cjfs:
+      - haya adelantado
+      - hayas adelantado
+      - haya adelantado
+      - hayamos adelantado
+      - "hay\xE1is adelantado"
+      - hayan adelantado
+      cjid: ppfs
+    - cjfs:
+      - hubiera adelantado
+      - hubieras adelantado
+      - hubiera adelantado
+      - "hubi\xE9ramos adelantado"
+      - hubierais adelantado
+      - hubieran adelantado
+      cjid: ppss1
+    - cjfs:
+      - hubiese adelantado
+      - hubieses adelantado
+      - hubiese adelantado
+      - "hubi\xE9semos adelantado"
+      - hubieseis adelantado
+      - hubiesen adelantado
+      cjid: ppss2
+    - cjfs:
+      - hubiere adelantado
+      - hubieres adelantado
+      - hubiere adelantado
+      - "hubi\xE9remos adelantado"
+      - hubiereis adelantado
+      - hubieren adelantado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - adelanta
+      - adelante
+      - adelantemos
+      - adelantad
+      - adelanten
+      cjid: impf

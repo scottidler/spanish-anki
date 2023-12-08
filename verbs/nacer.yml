@@ -1,0 +1,221 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be born '
+          - - vis
+            - - t: "nac\xED en Guatemala"
+                tr: I was born in Guatemala
+              - t: "no naci\xF3 ayer"
+                tr: he wasn't born yesterday
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hatch}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bud}, to {a_link|sprout}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rise}, to {a_link|originate}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be born to be something'
+          sn: '5'
+          vrs:
+          - va: nacer para algo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a lucky escape'
+          sn: '6'
+          vrs:
+          - va: volver a nacer
+  fl: intransitive verb
+  hwi:
+    hw: nacer
+    prs:
+    - sound:
+        audio: nacer01sp
+  meta:
+    id: nacer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615547000'
+    src: spanish
+    stems:
+    - nacer
+    - nacer para algo
+    - volver a nacer
+    uuid: 94fee331-3d54-4be0-9b95-a5fae2f295ae
+  shortdef:
+  - to be born
+  - to hatch
+  - to bud, to sprout
+  suppl:
+    cjts:
+    - cjfs:
+      - naciendo
+      - nacido
+      cjid: gppt
+    - cjfs:
+      - nazco
+      - naces
+      - nace
+      - nacemos
+      - "nac\xE9is"
+      - nacen
+      cjid: pind
+    - cjfs:
+      - "nac\xEDa"
+      - "nac\xEDas"
+      - "nac\xEDa"
+      - "nac\xEDamos"
+      - "nac\xEDais"
+      - "nac\xEDan"
+      cjid: pret
+    - cjfs:
+      - "nac\xED"
+      - naciste
+      - "naci\xF3"
+      - nacimos
+      - nacisteis
+      - nacieron
+      cjid: pprf
+    - cjfs:
+      - "nacer\xE9"
+      - "nacer\xE1s"
+      - "nacer\xE1"
+      - naceremos
+      - "nacer\xE9is"
+      - "nacer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "nacer\xEDa"
+      - "nacer\xEDas"
+      - "nacer\xEDa"
+      - "nacer\xEDamos"
+      - "nacer\xEDais"
+      - "nacer\xEDan"
+      cjid: cond
+    - cjfs:
+      - nazca
+      - nazcas
+      - nazca
+      - nazcamos
+      - "nazc\xE1is"
+      - nazcan
+      cjid: psub
+    - cjfs:
+      - naciera
+      - nacieras
+      - naciera
+      - "naci\xE9ramos"
+      - nacierais
+      - nacieran
+      cjid: pisb1
+    - cjfs:
+      - naciese
+      - nacieses
+      - naciese
+      - "naci\xE9semos"
+      - nacieseis
+      - naciesen
+      cjid: pisb2
+    - cjfs:
+      - naciere
+      - nacieres
+      - naciere
+      - "naci\xE9remos"
+      - naciereis
+      - nacieren
+      cjid: fsub
+    - cjfs:
+      - he nacido
+      - has nacido
+      - ha nacido
+      - hemos nacido
+      - "hab\xE9is nacido"
+      - han nacido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa nacido"
+      - "hab\xEDas nacido"
+      - "hab\xEDa nacido"
+      - "hab\xEDamos nacido"
+      - "hab\xEDais nacido"
+      - "hab\xEDan nacido"
+      cjid: ppsi
+    - cjfs:
+      - hube nacido
+      - hubiste nacido
+      - hubo nacido
+      - hubimos nacido
+      - hubisteis nacido
+      - hubieron nacido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 nacido"
+      - "habr\xE1s nacido"
+      - "habr\xE1 nacido"
+      - habremos nacido
+      - "habr\xE9is nacido"
+      - "habr\xE1n nacido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa nacido"
+      - "habr\xEDas nacido"
+      - "habr\xEDa nacido"
+      - "habr\xEDamos nacido"
+      - "habr\xEDais nacido"
+      - "habr\xEDan nacido"
+      cjid: cpef
+    - cjfs:
+      - haya nacido
+      - hayas nacido
+      - haya nacido
+      - hayamos nacido
+      - "hay\xE1is nacido"
+      - hayan nacido
+      cjid: ppfs
+    - cjfs:
+      - hubiera nacido
+      - hubieras nacido
+      - hubiera nacido
+      - "hubi\xE9ramos nacido"
+      - hubierais nacido
+      - hubieran nacido
+      cjid: ppss1
+    - cjfs:
+      - hubiese nacido
+      - hubieses nacido
+      - hubiese nacido
+      - "hubi\xE9semos nacido"
+      - hubieseis nacido
+      - hubiesen nacido
+      cjid: ppss2
+    - cjfs:
+      - hubiere nacido
+      - hubieres nacido
+      - hubiere nacido
+      - "hubi\xE9remos nacido"
+      - hubiereis nacido
+      - hubieren nacido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - nace
+      - nazca
+      - nazcamos
+      - naced
+      - nazcan
+      cjid: impf

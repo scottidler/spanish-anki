@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|relax}, to {a_link|slacken}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be relaxing'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: relajar
+    prs:
+    - sound:
+        audio: relaj02sp
+  meta:
+    id: relajar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619284000'
+    src: spanish
+    stems:
+    - relajar
+    - relajarse
+    uuid: f5fb830f-01b2-4352-9592-2930172807b4
+  shortdef:
+  - to relax, to slacken
+  - to be relaxing
+  suppl:
+    cjts:
+    - cjfs:
+      - relajando
+      - relajado
+      cjid: gppt
+    - cjfs:
+      - relajo
+      - relajas
+      - relaja
+      - relajamos
+      - "relaj\xE1is"
+      - relajan
+      cjid: pind
+    - cjfs:
+      - relajaba
+      - relajabas
+      - relajaba
+      - "relaj\xE1bamos"
+      - relajabais
+      - relajaban
+      cjid: pret
+    - cjfs:
+      - "relaj\xE9"
+      - relajaste
+      - "relaj\xF3"
+      - relajamos
+      - relajasteis
+      - relajaron
+      cjid: pprf
+    - cjfs:
+      - "relajar\xE9"
+      - "relajar\xE1s"
+      - "relajar\xE1"
+      - relajaremos
+      - "relajar\xE9is"
+      - "relajar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "relajar\xEDa"
+      - "relajar\xEDas"
+      - "relajar\xEDa"
+      - "relajar\xEDamos"
+      - "relajar\xEDais"
+      - "relajar\xEDan"
+      cjid: cond
+    - cjfs:
+      - relaje
+      - relajes
+      - relaje
+      - relajemos
+      - "relaj\xE9is"
+      - relajen
+      cjid: psub
+    - cjfs:
+      - relajara
+      - relajaras
+      - relajara
+      - "relaj\xE1ramos"
+      - relajarais
+      - relajaran
+      cjid: pisb1
+    - cjfs:
+      - relajase
+      - relajases
+      - relajase
+      - "relaj\xE1semos"
+      - relajaseis
+      - relajasen
+      cjid: pisb2
+    - cjfs:
+      - relajare
+      - relajares
+      - relajare
+      - "relaj\xE1remos"
+      - relajareis
+      - relajaren
+      cjid: fsub
+    - cjfs:
+      - he relajado
+      - has relajado
+      - ha relajado
+      - hemos relajado
+      - "hab\xE9is relajado"
+      - han relajado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa relajado"
+      - "hab\xEDas relajado"
+      - "hab\xEDa relajado"
+      - "hab\xEDamos relajado"
+      - "hab\xEDais relajado"
+      - "hab\xEDan relajado"
+      cjid: ppsi
+    - cjfs:
+      - hube relajado
+      - hubiste relajado
+      - hubo relajado
+      - hubimos relajado
+      - hubisteis relajado
+      - hubieron relajado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 relajado"
+      - "habr\xE1s relajado"
+      - "habr\xE1 relajado"
+      - habremos relajado
+      - "habr\xE9is relajado"
+      - "habr\xE1n relajado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa relajado"
+      - "habr\xEDas relajado"
+      - "habr\xEDa relajado"
+      - "habr\xEDamos relajado"
+      - "habr\xEDais relajado"
+      - "habr\xEDan relajado"
+      cjid: cpef
+    - cjfs:
+      - haya relajado
+      - hayas relajado
+      - haya relajado
+      - hayamos relajado
+      - "hay\xE1is relajado"
+      - hayan relajado
+      cjid: ppfs
+    - cjfs:
+      - hubiera relajado
+      - hubieras relajado
+      - hubiera relajado
+      - "hubi\xE9ramos relajado"
+      - hubierais relajado
+      - hubieran relajado
+      cjid: ppss1
+    - cjfs:
+      - hubiese relajado
+      - hubieses relajado
+      - hubiese relajado
+      - "hubi\xE9semos relajado"
+      - hubieseis relajado
+      - hubiesen relajado
+      cjid: ppss2
+    - cjfs:
+      - hubiere relajado
+      - hubieres relajado
+      - hubiere relajado
+      - "hubi\xE9remos relajado"
+      - hubiereis relajado
+      - hubieren relajado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - relaja
+      - relaje
+      - relajemos
+      - relajad
+      - relajen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: relajarse

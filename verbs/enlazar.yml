@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|join}, to {a_link|link}, to fit together'
+  fl: verb
+  hwi:
+    hw: enlazar
+    prs:
+    - sound:
+        audio: enlaz01sp
+  meta:
+    id: enlazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608621000'
+    src: spanish
+    stems:
+    - enlazar
+    uuid: a901f9f8-5d07-4f3b-b44c-ae4be628efd9
+  shortdef:
+  - to join, to link, to fit together
+  suppl:
+    cjts:
+    - cjfs:
+      - enlazando
+      - enlazado
+      cjid: gppt
+    - cjfs:
+      - enlazo
+      - enlazas
+      - enlaza
+      - enlazamos
+      - "enlaz\xE1is"
+      - enlazan
+      cjid: pind
+    - cjfs:
+      - enlazaba
+      - enlazabas
+      - enlazaba
+      - "enlaz\xE1bamos"
+      - enlazabais
+      - enlazaban
+      cjid: pret
+    - cjfs:
+      - "enlac\xE9"
+      - enlazaste
+      - "enlaz\xF3"
+      - enlazamos
+      - enlazasteis
+      - enlazaron
+      cjid: pprf
+    - cjfs:
+      - "enlazar\xE9"
+      - "enlazar\xE1s"
+      - "enlazar\xE1"
+      - enlazaremos
+      - "enlazar\xE9is"
+      - "enlazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enlazar\xEDa"
+      - "enlazar\xEDas"
+      - "enlazar\xEDa"
+      - "enlazar\xEDamos"
+      - "enlazar\xEDais"
+      - "enlazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enlace
+      - enlaces
+      - enlace
+      - enlacemos
+      - "enlac\xE9is"
+      - enlacen
+      cjid: psub
+    - cjfs:
+      - enlazara
+      - enlazaras
+      - enlazara
+      - "enlaz\xE1ramos"
+      - enlazarais
+      - enlazaran
+      cjid: pisb1
+    - cjfs:
+      - enlazase
+      - enlazases
+      - enlazase
+      - "enlaz\xE1semos"
+      - enlazaseis
+      - enlazasen
+      cjid: pisb2
+    - cjfs:
+      - enlazare
+      - enlazares
+      - enlazare
+      - "enlaz\xE1remos"
+      - enlazareis
+      - enlazaren
+      cjid: fsub
+    - cjfs:
+      - he enlazado
+      - has enlazado
+      - ha enlazado
+      - hemos enlazado
+      - "hab\xE9is enlazado"
+      - han enlazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enlazado"
+      - "hab\xEDas enlazado"
+      - "hab\xEDa enlazado"
+      - "hab\xEDamos enlazado"
+      - "hab\xEDais enlazado"
+      - "hab\xEDan enlazado"
+      cjid: ppsi
+    - cjfs:
+      - hube enlazado
+      - hubiste enlazado
+      - hubo enlazado
+      - hubimos enlazado
+      - hubisteis enlazado
+      - hubieron enlazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enlazado"
+      - "habr\xE1s enlazado"
+      - "habr\xE1 enlazado"
+      - habremos enlazado
+      - "habr\xE9is enlazado"
+      - "habr\xE1n enlazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enlazado"
+      - "habr\xEDas enlazado"
+      - "habr\xEDa enlazado"
+      - "habr\xEDamos enlazado"
+      - "habr\xEDais enlazado"
+      - "habr\xEDan enlazado"
+      cjid: cpef
+    - cjfs:
+      - haya enlazado
+      - hayas enlazado
+      - haya enlazado
+      - hayamos enlazado
+      - "hay\xE1is enlazado"
+      - hayan enlazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enlazado
+      - hubieras enlazado
+      - hubiera enlazado
+      - "hubi\xE9ramos enlazado"
+      - hubierais enlazado
+      - hubieran enlazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enlazado
+      - hubieses enlazado
+      - hubiese enlazado
+      - "hubi\xE9semos enlazado"
+      - hubieseis enlazado
+      - hubiesen enlazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enlazado
+      - hubieres enlazado
+      - hubiere enlazado
+      - "hubi\xE9remos enlazado"
+      - hubiereis enlazado
+      - hubieren enlazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enlaza
+      - enlace
+      - enlacemos
+      - enlazad
+      - enlacen
+      cjid: impf

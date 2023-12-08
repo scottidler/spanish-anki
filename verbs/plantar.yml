@@ -1,0 +1,235 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plant}, to {a_link|sow} '
+          - - vis
+            - - t: plantar de flores
+                tr: to plant with flowers
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put in}, to {a_link|place}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plant}, to {a_link|land} '
+          - - vis
+            - - t: plantar un beso
+                tr: to plant a kiss
+          sls:
+          - familiar
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave}, to {a_link|jilt}'
+          sls:
+          - familiar
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stand firm}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|arrive}, to {a_link|show up}'
+            sls:
+            - familiar
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|balk}'
+            sls:
+            - familiar
+            sn: '3'
+    drp: plantarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: plantar
+    prs:
+    - sound:
+        audio: plant03sp
+  meta:
+    id: plantar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617515000'
+    src: spanish
+    stems:
+    - plantar
+    - plantarse
+    uuid: 469c05de-9789-44bf-80cf-6c42d6f43f69
+  shortdef:
+  - to plant, to sow
+  - to put in, to place
+  - to plant, to land
+  suppl:
+    cjts:
+    - cjfs:
+      - plantando
+      - plantado
+      cjid: gppt
+    - cjfs:
+      - planto
+      - plantas
+      - planta
+      - plantamos
+      - "plant\xE1is"
+      - plantan
+      cjid: pind
+    - cjfs:
+      - plantaba
+      - plantabas
+      - plantaba
+      - "plant\xE1bamos"
+      - plantabais
+      - plantaban
+      cjid: pret
+    - cjfs:
+      - "plant\xE9"
+      - plantaste
+      - "plant\xF3"
+      - plantamos
+      - plantasteis
+      - plantaron
+      cjid: pprf
+    - cjfs:
+      - "plantar\xE9"
+      - "plantar\xE1s"
+      - "plantar\xE1"
+      - plantaremos
+      - "plantar\xE9is"
+      - "plantar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "plantar\xEDa"
+      - "plantar\xEDas"
+      - "plantar\xEDa"
+      - "plantar\xEDamos"
+      - "plantar\xEDais"
+      - "plantar\xEDan"
+      cjid: cond
+    - cjfs:
+      - plante
+      - plantes
+      - plante
+      - plantemos
+      - "plant\xE9is"
+      - planten
+      cjid: psub
+    - cjfs:
+      - plantara
+      - plantaras
+      - plantara
+      - "plant\xE1ramos"
+      - plantarais
+      - plantaran
+      cjid: pisb1
+    - cjfs:
+      - plantase
+      - plantases
+      - plantase
+      - "plant\xE1semos"
+      - plantaseis
+      - plantasen
+      cjid: pisb2
+    - cjfs:
+      - plantare
+      - plantares
+      - plantare
+      - "plant\xE1remos"
+      - plantareis
+      - plantaren
+      cjid: fsub
+    - cjfs:
+      - he plantado
+      - has plantado
+      - ha plantado
+      - hemos plantado
+      - "hab\xE9is plantado"
+      - han plantado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa plantado"
+      - "hab\xEDas plantado"
+      - "hab\xEDa plantado"
+      - "hab\xEDamos plantado"
+      - "hab\xEDais plantado"
+      - "hab\xEDan plantado"
+      cjid: ppsi
+    - cjfs:
+      - hube plantado
+      - hubiste plantado
+      - hubo plantado
+      - hubimos plantado
+      - hubisteis plantado
+      - hubieron plantado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 plantado"
+      - "habr\xE1s plantado"
+      - "habr\xE1 plantado"
+      - habremos plantado
+      - "habr\xE9is plantado"
+      - "habr\xE1n plantado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa plantado"
+      - "habr\xEDas plantado"
+      - "habr\xEDa plantado"
+      - "habr\xEDamos plantado"
+      - "habr\xEDais plantado"
+      - "habr\xEDan plantado"
+      cjid: cpef
+    - cjfs:
+      - haya plantado
+      - hayas plantado
+      - haya plantado
+      - hayamos plantado
+      - "hay\xE1is plantado"
+      - hayan plantado
+      cjid: ppfs
+    - cjfs:
+      - hubiera plantado
+      - hubieras plantado
+      - hubiera plantado
+      - "hubi\xE9ramos plantado"
+      - hubierais plantado
+      - hubieran plantado
+      cjid: ppss1
+    - cjfs:
+      - hubiese plantado
+      - hubieses plantado
+      - hubiese plantado
+      - "hubi\xE9semos plantado"
+      - hubieseis plantado
+      - hubiesen plantado
+      cjid: ppss2
+    - cjfs:
+      - hubiere plantado
+      - hubieres plantado
+      - hubiere plantado
+      - "hubi\xE9remos plantado"
+      - hubiereis plantado
+      - hubieren plantado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - planta
+      - plante
+      - plantemos
+      - plantad
+      - planten
+      cjid: impf

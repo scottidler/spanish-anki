@@ -1,0 +1,250 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|puncture} (a tire, balloon, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prick}, to {a_link|stick}, to {a_link|jab}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|provocar||} {bc}to {a_link|goad}, to {a_link|tease}, to {a_link|needle}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give an injection'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to click on (a link, etc.) '
+          - - vis
+            - - t: "pinche aqu\xED"
+                tr: click here
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tap}, to {a_link|wiretap} (a phone)'
+          sls:
+          - familiar
+          sn: '6'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be prickly'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get a flat tire'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get beaten, to lose out'
+          sls:
+          - familiar
+          sn: '3'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|inyectarse||} {bc}to {a_link|shoot up}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to go flat (of a tire)'
+            sn: '2'
+    drp: pincharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: pinchar
+    prs:
+    - sound:
+        audio: pinch01sp
+  meta:
+    id: pinchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617378000'
+    src: spanish
+    stems:
+    - pinchar
+    - pincharse
+    uuid: 70a34787-5c59-45ac-9a01-611ad3a78a52
+  shortdef:
+  - to puncture (a tire, balloon, etc.)
+  - to prick, to stick, to jab
+  - 'provocar : to goad, to tease, to needle'
+  suppl:
+    cjts:
+    - cjfs:
+      - pinchando
+      - pinchado
+      cjid: gppt
+    - cjfs:
+      - pincho
+      - pinchas
+      - pincha
+      - pinchamos
+      - "pinch\xE1is"
+      - pinchan
+      cjid: pind
+    - cjfs:
+      - pinchaba
+      - pinchabas
+      - pinchaba
+      - "pinch\xE1bamos"
+      - pinchabais
+      - pinchaban
+      cjid: pret
+    - cjfs:
+      - "pinch\xE9"
+      - pinchaste
+      - "pinch\xF3"
+      - pinchamos
+      - pinchasteis
+      - pincharon
+      cjid: pprf
+    - cjfs:
+      - "pinchar\xE9"
+      - "pinchar\xE1s"
+      - "pinchar\xE1"
+      - pincharemos
+      - "pinchar\xE9is"
+      - "pinchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pinchar\xEDa"
+      - "pinchar\xEDas"
+      - "pinchar\xEDa"
+      - "pinchar\xEDamos"
+      - "pinchar\xEDais"
+      - "pinchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pinche
+      - pinches
+      - pinche
+      - pinchemos
+      - "pinch\xE9is"
+      - pinchen
+      cjid: psub
+    - cjfs:
+      - pinchara
+      - pincharas
+      - pinchara
+      - "pinch\xE1ramos"
+      - pincharais
+      - pincharan
+      cjid: pisb1
+    - cjfs:
+      - pinchase
+      - pinchases
+      - pinchase
+      - "pinch\xE1semos"
+      - pinchaseis
+      - pinchasen
+      cjid: pisb2
+    - cjfs:
+      - pinchare
+      - pinchares
+      - pinchare
+      - "pinch\xE1remos"
+      - pinchareis
+      - pincharen
+      cjid: fsub
+    - cjfs:
+      - he pinchado
+      - has pinchado
+      - ha pinchado
+      - hemos pinchado
+      - "hab\xE9is pinchado"
+      - han pinchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pinchado"
+      - "hab\xEDas pinchado"
+      - "hab\xEDa pinchado"
+      - "hab\xEDamos pinchado"
+      - "hab\xEDais pinchado"
+      - "hab\xEDan pinchado"
+      cjid: ppsi
+    - cjfs:
+      - hube pinchado
+      - hubiste pinchado
+      - hubo pinchado
+      - hubimos pinchado
+      - hubisteis pinchado
+      - hubieron pinchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pinchado"
+      - "habr\xE1s pinchado"
+      - "habr\xE1 pinchado"
+      - habremos pinchado
+      - "habr\xE9is pinchado"
+      - "habr\xE1n pinchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pinchado"
+      - "habr\xEDas pinchado"
+      - "habr\xEDa pinchado"
+      - "habr\xEDamos pinchado"
+      - "habr\xEDais pinchado"
+      - "habr\xEDan pinchado"
+      cjid: cpef
+    - cjfs:
+      - haya pinchado
+      - hayas pinchado
+      - haya pinchado
+      - hayamos pinchado
+      - "hay\xE1is pinchado"
+      - hayan pinchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pinchado
+      - hubieras pinchado
+      - hubiera pinchado
+      - "hubi\xE9ramos pinchado"
+      - hubierais pinchado
+      - hubieran pinchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pinchado
+      - hubieses pinchado
+      - hubiese pinchado
+      - "hubi\xE9semos pinchado"
+      - hubieseis pinchado
+      - hubiesen pinchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pinchado
+      - hubieres pinchado
+      - hubiere pinchado
+      - "hubi\xE9remos pinchado"
+      - hubiereis pinchado
+      - hubieren pinchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pincha
+      - pinche
+      - pinchemos
+      - pinchad
+      - pinchen
+      cjid: impf

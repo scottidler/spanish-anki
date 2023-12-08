@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|refill}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stuff}, to {a_link|fill}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fill out'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: rellenar
+    prs:
+    - sound:
+        audio: relle01sp
+  meta:
+    id: rellenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619311000'
+    src: spanish
+    stems:
+    - rellenar
+    uuid: f40cf749-29fb-40a1-8947-9b53ebe5c08c
+  shortdef:
+  - to refill
+  - to stuff, to fill
+  - to fill out
+  suppl:
+    cjts:
+    - cjfs:
+      - rellenando
+      - rellenado
+      cjid: gppt
+    - cjfs:
+      - relleno
+      - rellenas
+      - rellena
+      - rellenamos
+      - "rellen\xE1is"
+      - rellenan
+      cjid: pind
+    - cjfs:
+      - rellenaba
+      - rellenabas
+      - rellenaba
+      - "rellen\xE1bamos"
+      - rellenabais
+      - rellenaban
+      cjid: pret
+    - cjfs:
+      - "rellen\xE9"
+      - rellenaste
+      - "rellen\xF3"
+      - rellenamos
+      - rellenasteis
+      - rellenaron
+      cjid: pprf
+    - cjfs:
+      - "rellenar\xE9"
+      - "rellenar\xE1s"
+      - "rellenar\xE1"
+      - rellenaremos
+      - "rellenar\xE9is"
+      - "rellenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rellenar\xEDa"
+      - "rellenar\xEDas"
+      - "rellenar\xEDa"
+      - "rellenar\xEDamos"
+      - "rellenar\xEDais"
+      - "rellenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rellene
+      - rellenes
+      - rellene
+      - rellenemos
+      - "rellen\xE9is"
+      - rellenen
+      cjid: psub
+    - cjfs:
+      - rellenara
+      - rellenaras
+      - rellenara
+      - "rellen\xE1ramos"
+      - rellenarais
+      - rellenaran
+      cjid: pisb1
+    - cjfs:
+      - rellenase
+      - rellenases
+      - rellenase
+      - "rellen\xE1semos"
+      - rellenaseis
+      - rellenasen
+      cjid: pisb2
+    - cjfs:
+      - rellenare
+      - rellenares
+      - rellenare
+      - "rellen\xE1remos"
+      - rellenareis
+      - rellenaren
+      cjid: fsub
+    - cjfs:
+      - he rellenado
+      - has rellenado
+      - ha rellenado
+      - hemos rellenado
+      - "hab\xE9is rellenado"
+      - han rellenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rellenado"
+      - "hab\xEDas rellenado"
+      - "hab\xEDa rellenado"
+      - "hab\xEDamos rellenado"
+      - "hab\xEDais rellenado"
+      - "hab\xEDan rellenado"
+      cjid: ppsi
+    - cjfs:
+      - hube rellenado
+      - hubiste rellenado
+      - hubo rellenado
+      - hubimos rellenado
+      - hubisteis rellenado
+      - hubieron rellenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rellenado"
+      - "habr\xE1s rellenado"
+      - "habr\xE1 rellenado"
+      - habremos rellenado
+      - "habr\xE9is rellenado"
+      - "habr\xE1n rellenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rellenado"
+      - "habr\xEDas rellenado"
+      - "habr\xEDa rellenado"
+      - "habr\xEDamos rellenado"
+      - "habr\xEDais rellenado"
+      - "habr\xEDan rellenado"
+      cjid: cpef
+    - cjfs:
+      - haya rellenado
+      - hayas rellenado
+      - haya rellenado
+      - hayamos rellenado
+      - "hay\xE1is rellenado"
+      - hayan rellenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rellenado
+      - hubieras rellenado
+      - hubiera rellenado
+      - "hubi\xE9ramos rellenado"
+      - hubierais rellenado
+      - hubieran rellenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rellenado
+      - hubieses rellenado
+      - hubiese rellenado
+      - "hubi\xE9semos rellenado"
+      - hubieseis rellenado
+      - hubiesen rellenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rellenado
+      - hubieres rellenado
+      - hubiere rellenado
+      - "hubi\xE9remos rellenado"
+      - hubiereis rellenado
+      - hubieren rellenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rellena
+      - rellene
+      - rellenemos
+      - rellenad
+      - rellenen
+      cjid: impf

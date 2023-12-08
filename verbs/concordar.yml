@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree}, to {a_link|coincide}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reconcile}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: concordar
+    prs:
+    - sound:
+        audio: conco02sp
+  meta:
+    id: concordar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605379000'
+    src: spanish
+    stems:
+    - concordar
+    uuid: 70cf7c06-9f30-49d1-a993-e1d68d41cb7e
+  shortdef:
+  - to agree, to coincide
+  - to reconcile
+  suppl:
+    cjts:
+    - cjfs:
+      - concordando
+      - concordado
+      cjid: gppt
+    - cjfs:
+      - concuerdo
+      - concuerdas
+      - concuerda
+      - concordamos
+      - "concord\xE1is"
+      - concuerdan
+      cjid: pind
+    - cjfs:
+      - concordaba
+      - concordabas
+      - concordaba
+      - "concord\xE1bamos"
+      - concordabais
+      - concordaban
+      cjid: pret
+    - cjfs:
+      - "concord\xE9"
+      - concordaste
+      - "concord\xF3"
+      - concordamos
+      - concordasteis
+      - concordaron
+      cjid: pprf
+    - cjfs:
+      - "concordar\xE9"
+      - "concordar\xE1s"
+      - "concordar\xE1"
+      - concordaremos
+      - "concordar\xE9is"
+      - "concordar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "concordar\xEDa"
+      - "concordar\xEDas"
+      - "concordar\xEDa"
+      - "concordar\xEDamos"
+      - "concordar\xEDais"
+      - "concordar\xEDan"
+      cjid: cond
+    - cjfs:
+      - concuerde
+      - concuerdes
+      - concuerde
+      - concordemos
+      - "concord\xE9is"
+      - concuerden
+      cjid: psub
+    - cjfs:
+      - concordara
+      - concordaras
+      - concordara
+      - "concord\xE1ramos"
+      - concordarais
+      - concordaran
+      cjid: pisb1
+    - cjfs:
+      - concordase
+      - concordases
+      - concordase
+      - "concord\xE1semos"
+      - concordaseis
+      - concordasen
+      cjid: pisb2
+    - cjfs:
+      - concordare
+      - concordares
+      - concordare
+      - "concord\xE1remos"
+      - concordareis
+      - concordaren
+      cjid: fsub
+    - cjfs:
+      - he concordado
+      - has concordado
+      - ha concordado
+      - hemos concordado
+      - "hab\xE9is concordado"
+      - han concordado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa concordado"
+      - "hab\xEDas concordado"
+      - "hab\xEDa concordado"
+      - "hab\xEDamos concordado"
+      - "hab\xEDais concordado"
+      - "hab\xEDan concordado"
+      cjid: ppsi
+    - cjfs:
+      - hube concordado
+      - hubiste concordado
+      - hubo concordado
+      - hubimos concordado
+      - hubisteis concordado
+      - hubieron concordado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 concordado"
+      - "habr\xE1s concordado"
+      - "habr\xE1 concordado"
+      - habremos concordado
+      - "habr\xE9is concordado"
+      - "habr\xE1n concordado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa concordado"
+      - "habr\xEDas concordado"
+      - "habr\xEDa concordado"
+      - "habr\xEDamos concordado"
+      - "habr\xEDais concordado"
+      - "habr\xEDan concordado"
+      cjid: cpef
+    - cjfs:
+      - haya concordado
+      - hayas concordado
+      - haya concordado
+      - hayamos concordado
+      - "hay\xE1is concordado"
+      - hayan concordado
+      cjid: ppfs
+    - cjfs:
+      - hubiera concordado
+      - hubieras concordado
+      - hubiera concordado
+      - "hubi\xE9ramos concordado"
+      - hubierais concordado
+      - hubieran concordado
+      cjid: ppss1
+    - cjfs:
+      - hubiese concordado
+      - hubieses concordado
+      - hubiese concordado
+      - "hubi\xE9semos concordado"
+      - hubieseis concordado
+      - hubiesen concordado
+      cjid: ppss2
+    - cjfs:
+      - hubiere concordado
+      - hubieres concordado
+      - hubiere concordado
+      - "hubi\xE9remos concordado"
+      - hubiereis concordado
+      - hubieren concordado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - concuerda
+      - concuerde
+      - concordemos
+      - concordad
+      - concuerden
+      cjid: impf

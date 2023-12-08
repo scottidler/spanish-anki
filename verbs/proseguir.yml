@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|continuar||} {bc}to {a_link|continue}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pursue} (studies, goals)'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|continue}, to {a_link|go on}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: proseguir
+    prs:
+    - sound:
+        audio: prose01sp
+  meta:
+    id: proseguir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618321000'
+    src: spanish
+    stems:
+    - proseguir
+    uuid: 45f57624-c130-482e-8ecc-a7f438731371
+  shortdef:
+  - 'continuar : to continue'
+  - to pursue (studies, goals)
+  - to continue, to go on
+  suppl:
+    cjts:
+    - cjfs:
+      - prosiguiendo
+      - proseguido
+      cjid: gppt
+    - cjfs:
+      - prosigo
+      - prosigues
+      - prosigue
+      - proseguimos
+      - "prosegu\xEDs"
+      - prosiguen
+      cjid: pind
+    - cjfs:
+      - "prosegu\xEDa"
+      - "prosegu\xEDas"
+      - "prosegu\xEDa"
+      - "prosegu\xEDamos"
+      - "prosegu\xEDais"
+      - "prosegu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "prosegu\xED"
+      - proseguiste
+      - "prosigui\xF3"
+      - proseguimos
+      - proseguisteis
+      - prosiguieron
+      cjid: pprf
+    - cjfs:
+      - "proseguir\xE9"
+      - "proseguir\xE1s"
+      - "proseguir\xE1"
+      - proseguiremos
+      - "proseguir\xE9is"
+      - "proseguir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "proseguir\xEDa"
+      - "proseguir\xEDas"
+      - "proseguir\xEDa"
+      - "proseguir\xEDamos"
+      - "proseguir\xEDais"
+      - "proseguir\xEDan"
+      cjid: cond
+    - cjfs:
+      - prosiga
+      - prosigas
+      - prosiga
+      - prosigamos
+      - "prosig\xE1is"
+      - prosigan
+      cjid: psub
+    - cjfs:
+      - prosiguiera
+      - prosiguieras
+      - prosiguiera
+      - "prosigui\xE9ramos"
+      - prosiguierais
+      - prosiguieran
+      cjid: pisb1
+    - cjfs:
+      - prosiguiese
+      - prosiguieses
+      - prosiguiese
+      - "prosigui\xE9semos"
+      - prosiguieseis
+      - prosiguiesen
+      cjid: pisb2
+    - cjfs:
+      - prosiguiere
+      - prosiguieres
+      - prosiguiere
+      - "prosigui\xE9remos"
+      - prosiguiereis
+      - prosiguieren
+      cjid: fsub
+    - cjfs:
+      - he proseguido
+      - has proseguido
+      - ha proseguido
+      - hemos proseguido
+      - "hab\xE9is proseguido"
+      - han proseguido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa proseguido"
+      - "hab\xEDas proseguido"
+      - "hab\xEDa proseguido"
+      - "hab\xEDamos proseguido"
+      - "hab\xEDais proseguido"
+      - "hab\xEDan proseguido"
+      cjid: ppsi
+    - cjfs:
+      - hube proseguido
+      - hubiste proseguido
+      - hubo proseguido
+      - hubimos proseguido
+      - hubisteis proseguido
+      - hubieron proseguido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 proseguido"
+      - "habr\xE1s proseguido"
+      - "habr\xE1 proseguido"
+      - habremos proseguido
+      - "habr\xE9is proseguido"
+      - "habr\xE1n proseguido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa proseguido"
+      - "habr\xEDas proseguido"
+      - "habr\xEDa proseguido"
+      - "habr\xEDamos proseguido"
+      - "habr\xEDais proseguido"
+      - "habr\xEDan proseguido"
+      cjid: cpef
+    - cjfs:
+      - haya proseguido
+      - hayas proseguido
+      - haya proseguido
+      - hayamos proseguido
+      - "hay\xE1is proseguido"
+      - hayan proseguido
+      cjid: ppfs
+    - cjfs:
+      - hubiera proseguido
+      - hubieras proseguido
+      - hubiera proseguido
+      - "hubi\xE9ramos proseguido"
+      - hubierais proseguido
+      - hubieran proseguido
+      cjid: ppss1
+    - cjfs:
+      - hubiese proseguido
+      - hubieses proseguido
+      - hubiese proseguido
+      - "hubi\xE9semos proseguido"
+      - hubieseis proseguido
+      - hubiesen proseguido
+      cjid: ppss2
+    - cjfs:
+      - hubiere proseguido
+      - hubieres proseguido
+      - hubiere proseguido
+      - "hubi\xE9remos proseguido"
+      - hubiereis proseguido
+      - hubieren proseguido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prosigue
+      - prosiga
+      - prosigamos
+      - proseguid
+      - prosigan
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ignorar||} {bc}to be unaware of'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fail to recognize'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: desconocer
+    prs:
+    - sound:
+        audio: desco10sp
+  meta:
+    id: desconocer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606954000'
+    src: spanish
+    stems:
+    - desconocer
+    uuid: 450058f7-ba3e-4ae2-936c-444b5f6e8b68
+  shortdef:
+  - 'ignorar : to be unaware of'
+  - to fail to recognize
+  suppl:
+    cjts:
+    - cjfs:
+      - desconociendo
+      - desconocido
+      cjid: gppt
+    - cjfs:
+      - desconozco
+      - desconoces
+      - desconoce
+      - desconocemos
+      - "desconoc\xE9is"
+      - desconocen
+      cjid: pind
+    - cjfs:
+      - "desconoc\xEDa"
+      - "desconoc\xEDas"
+      - "desconoc\xEDa"
+      - "desconoc\xEDamos"
+      - "desconoc\xEDais"
+      - "desconoc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "desconoc\xED"
+      - desconociste
+      - "desconoci\xF3"
+      - desconocimos
+      - desconocisteis
+      - desconocieron
+      cjid: pprf
+    - cjfs:
+      - "desconocer\xE9"
+      - "desconocer\xE1s"
+      - "desconocer\xE1"
+      - desconoceremos
+      - "desconocer\xE9is"
+      - "desconocer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desconocer\xEDa"
+      - "desconocer\xEDas"
+      - "desconocer\xEDa"
+      - "desconocer\xEDamos"
+      - "desconocer\xEDais"
+      - "desconocer\xEDan"
+      cjid: cond
+    - cjfs:
+      - desconozca
+      - desconozcas
+      - desconozca
+      - desconozcamos
+      - "desconozc\xE1is"
+      - desconozcan
+      cjid: psub
+    - cjfs:
+      - desconociera
+      - desconocieras
+      - desconociera
+      - "desconoci\xE9ramos"
+      - desconocierais
+      - desconocieran
+      cjid: pisb1
+    - cjfs:
+      - desconociese
+      - desconocieses
+      - desconociese
+      - "desconoci\xE9semos"
+      - desconocieseis
+      - desconociesen
+      cjid: pisb2
+    - cjfs:
+      - desconociere
+      - desconocieres
+      - desconociere
+      - "desconoci\xE9remos"
+      - desconociereis
+      - desconocieren
+      cjid: fsub
+    - cjfs:
+      - he desconocido
+      - has desconocido
+      - ha desconocido
+      - hemos desconocido
+      - "hab\xE9is desconocido"
+      - han desconocido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desconocido"
+      - "hab\xEDas desconocido"
+      - "hab\xEDa desconocido"
+      - "hab\xEDamos desconocido"
+      - "hab\xEDais desconocido"
+      - "hab\xEDan desconocido"
+      cjid: ppsi
+    - cjfs:
+      - hube desconocido
+      - hubiste desconocido
+      - hubo desconocido
+      - hubimos desconocido
+      - hubisteis desconocido
+      - hubieron desconocido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desconocido"
+      - "habr\xE1s desconocido"
+      - "habr\xE1 desconocido"
+      - habremos desconocido
+      - "habr\xE9is desconocido"
+      - "habr\xE1n desconocido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desconocido"
+      - "habr\xEDas desconocido"
+      - "habr\xEDa desconocido"
+      - "habr\xEDamos desconocido"
+      - "habr\xEDais desconocido"
+      - "habr\xEDan desconocido"
+      cjid: cpef
+    - cjfs:
+      - haya desconocido
+      - hayas desconocido
+      - haya desconocido
+      - hayamos desconocido
+      - "hay\xE1is desconocido"
+      - hayan desconocido
+      cjid: ppfs
+    - cjfs:
+      - hubiera desconocido
+      - hubieras desconocido
+      - hubiera desconocido
+      - "hubi\xE9ramos desconocido"
+      - hubierais desconocido
+      - hubieran desconocido
+      cjid: ppss1
+    - cjfs:
+      - hubiese desconocido
+      - hubieses desconocido
+      - hubiese desconocido
+      - "hubi\xE9semos desconocido"
+      - hubieseis desconocido
+      - hubiesen desconocido
+      cjid: ppss2
+    - cjfs:
+      - hubiere desconocido
+      - hubieres desconocido
+      - hubiere desconocido
+      - "hubi\xE9remos desconocido"
+      - hubiereis desconocido
+      - hubieren desconocido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desconoce
+      - desconozca
+      - desconozcamos
+      - desconoced
+      - desconozcan
+      cjid: impf

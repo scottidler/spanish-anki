@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|restore}'
+  fl: transitive verb
+  hwi:
+    hw: restaurar
+    prs:
+    - sound:
+        audio: resta04sp
+  meta:
+    id: restaurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619622000'
+    src: spanish
+    stems:
+    - restaurar
+    uuid: 2f0eb879-b864-46d3-a2a4-88b27e6f83f9
+  shortdef:
+  - to restore
+  suppl:
+    cjts:
+    - cjfs:
+      - restaurando
+      - restaurado
+      cjid: gppt
+    - cjfs:
+      - restauro
+      - restauras
+      - restaura
+      - restauramos
+      - "restaur\xE1is"
+      - restauran
+      cjid: pind
+    - cjfs:
+      - restauraba
+      - restaurabas
+      - restauraba
+      - "restaur\xE1bamos"
+      - restaurabais
+      - restauraban
+      cjid: pret
+    - cjfs:
+      - "restaur\xE9"
+      - restauraste
+      - "restaur\xF3"
+      - restauramos
+      - restaurasteis
+      - restauraron
+      cjid: pprf
+    - cjfs:
+      - "restaurar\xE9"
+      - "restaurar\xE1s"
+      - "restaurar\xE1"
+      - restauraremos
+      - "restaurar\xE9is"
+      - "restaurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "restaurar\xEDa"
+      - "restaurar\xEDas"
+      - "restaurar\xEDa"
+      - "restaurar\xEDamos"
+      - "restaurar\xEDais"
+      - "restaurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - restaure
+      - restaures
+      - restaure
+      - restauremos
+      - "restaur\xE9is"
+      - restauren
+      cjid: psub
+    - cjfs:
+      - restaurara
+      - restauraras
+      - restaurara
+      - "restaur\xE1ramos"
+      - restaurarais
+      - restauraran
+      cjid: pisb1
+    - cjfs:
+      - restaurase
+      - restaurases
+      - restaurase
+      - "restaur\xE1semos"
+      - restauraseis
+      - restaurasen
+      cjid: pisb2
+    - cjfs:
+      - restaurare
+      - restaurares
+      - restaurare
+      - "restaur\xE1remos"
+      - restaurareis
+      - restauraren
+      cjid: fsub
+    - cjfs:
+      - he restaurado
+      - has restaurado
+      - ha restaurado
+      - hemos restaurado
+      - "hab\xE9is restaurado"
+      - han restaurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa restaurado"
+      - "hab\xEDas restaurado"
+      - "hab\xEDa restaurado"
+      - "hab\xEDamos restaurado"
+      - "hab\xEDais restaurado"
+      - "hab\xEDan restaurado"
+      cjid: ppsi
+    - cjfs:
+      - hube restaurado
+      - hubiste restaurado
+      - hubo restaurado
+      - hubimos restaurado
+      - hubisteis restaurado
+      - hubieron restaurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 restaurado"
+      - "habr\xE1s restaurado"
+      - "habr\xE1 restaurado"
+      - habremos restaurado
+      - "habr\xE9is restaurado"
+      - "habr\xE1n restaurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa restaurado"
+      - "habr\xEDas restaurado"
+      - "habr\xEDa restaurado"
+      - "habr\xEDamos restaurado"
+      - "habr\xEDais restaurado"
+      - "habr\xEDan restaurado"
+      cjid: cpef
+    - cjfs:
+      - haya restaurado
+      - hayas restaurado
+      - haya restaurado
+      - hayamos restaurado
+      - "hay\xE1is restaurado"
+      - hayan restaurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera restaurado
+      - hubieras restaurado
+      - hubiera restaurado
+      - "hubi\xE9ramos restaurado"
+      - hubierais restaurado
+      - hubieran restaurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese restaurado
+      - hubieses restaurado
+      - hubiese restaurado
+      - "hubi\xE9semos restaurado"
+      - hubieseis restaurado
+      - hubiesen restaurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere restaurado
+      - hubieres restaurado
+      - hubiere restaurado
+      - "hubi\xE9remos restaurado"
+      - hubiereis restaurado
+      - hubieren restaurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - restaura
+      - restaure
+      - restauremos
+      - restaurad
+      - restauren
+      cjid: impf

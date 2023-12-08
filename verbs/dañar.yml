@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|damage}, to {a_link|spoil}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|harm}, to {a_link|hurt}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: "da\xF1ar"
+    prs:
+    - sound:
+        audio: danar01sp
+  meta:
+    id: danar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606436000'
+    src: spanish
+    stems:
+    - "da\xF1ar"
+    - "da\xF1arse"
+    uuid: 613fcee7-0d74-409d-bcb7-c07407f5206c
+  shortdef:
+  - to damage, to spoil
+  - to harm, to hurt
+  suppl:
+    cjts:
+    - cjfs:
+      - "da\xF1ando"
+      - "da\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "da\xF1o"
+      - "da\xF1as"
+      - "da\xF1a"
+      - "da\xF1amos"
+      - "da\xF1\xE1is"
+      - "da\xF1an"
+      cjid: pind
+    - cjfs:
+      - "da\xF1aba"
+      - "da\xF1abas"
+      - "da\xF1aba"
+      - "da\xF1\xE1bamos"
+      - "da\xF1abais"
+      - "da\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "da\xF1\xE9"
+      - "da\xF1aste"
+      - "da\xF1\xF3"
+      - "da\xF1amos"
+      - "da\xF1asteis"
+      - "da\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "da\xF1ar\xE9"
+      - "da\xF1ar\xE1s"
+      - "da\xF1ar\xE1"
+      - "da\xF1aremos"
+      - "da\xF1ar\xE9is"
+      - "da\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "da\xF1ar\xEDa"
+      - "da\xF1ar\xEDas"
+      - "da\xF1ar\xEDa"
+      - "da\xF1ar\xEDamos"
+      - "da\xF1ar\xEDais"
+      - "da\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "da\xF1e"
+      - "da\xF1es"
+      - "da\xF1e"
+      - "da\xF1emos"
+      - "da\xF1\xE9is"
+      - "da\xF1en"
+      cjid: psub
+    - cjfs:
+      - "da\xF1ara"
+      - "da\xF1aras"
+      - "da\xF1ara"
+      - "da\xF1\xE1ramos"
+      - "da\xF1arais"
+      - "da\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "da\xF1ase"
+      - "da\xF1ases"
+      - "da\xF1ase"
+      - "da\xF1\xE1semos"
+      - "da\xF1aseis"
+      - "da\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "da\xF1are"
+      - "da\xF1ares"
+      - "da\xF1are"
+      - "da\xF1\xE1remos"
+      - "da\xF1areis"
+      - "da\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he da\xF1ado"
+      - "has da\xF1ado"
+      - "ha da\xF1ado"
+      - "hemos da\xF1ado"
+      - "hab\xE9is da\xF1ado"
+      - "han da\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa da\xF1ado"
+      - "hab\xEDas da\xF1ado"
+      - "hab\xEDa da\xF1ado"
+      - "hab\xEDamos da\xF1ado"
+      - "hab\xEDais da\xF1ado"
+      - "hab\xEDan da\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube da\xF1ado"
+      - "hubiste da\xF1ado"
+      - "hubo da\xF1ado"
+      - "hubimos da\xF1ado"
+      - "hubisteis da\xF1ado"
+      - "hubieron da\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 da\xF1ado"
+      - "habr\xE1s da\xF1ado"
+      - "habr\xE1 da\xF1ado"
+      - "habremos da\xF1ado"
+      - "habr\xE9is da\xF1ado"
+      - "habr\xE1n da\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa da\xF1ado"
+      - "habr\xEDas da\xF1ado"
+      - "habr\xEDa da\xF1ado"
+      - "habr\xEDamos da\xF1ado"
+      - "habr\xEDais da\xF1ado"
+      - "habr\xEDan da\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya da\xF1ado"
+      - "hayas da\xF1ado"
+      - "haya da\xF1ado"
+      - "hayamos da\xF1ado"
+      - "hay\xE1is da\xF1ado"
+      - "hayan da\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera da\xF1ado"
+      - "hubieras da\xF1ado"
+      - "hubiera da\xF1ado"
+      - "hubi\xE9ramos da\xF1ado"
+      - "hubierais da\xF1ado"
+      - "hubieran da\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese da\xF1ado"
+      - "hubieses da\xF1ado"
+      - "hubiese da\xF1ado"
+      - "hubi\xE9semos da\xF1ado"
+      - "hubieseis da\xF1ado"
+      - "hubiesen da\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere da\xF1ado"
+      - "hubieres da\xF1ado"
+      - "hubiere da\xF1ado"
+      - "hubi\xE9remos da\xF1ado"
+      - "hubiereis da\xF1ado"
+      - "hubieren da\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "da\xF1a"
+      - "da\xF1e"
+      - "da\xF1emos"
+      - "da\xF1ad"
+      - "da\xF1en"
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: "da\xF1arse"

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attend}, to be present '
+          - - vis
+            - - t: asistir a clase
+                tr: to attend class
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|aid}, to {a_link|assist}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: asistir
+    prs:
+    - sound:
+        audio: asist03sp
+  meta:
+    id: asistir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602182000'
+    src: spanish
+    stems:
+    - asistir
+    uuid: d90461a7-edc2-42ad-a683-f419266f2979
+  shortdef:
+  - to attend, to be present
+  - to aid, to assist
+  suppl:
+    cjts:
+    - cjfs:
+      - asistiendo
+      - asistido
+      cjid: gppt
+    - cjfs:
+      - asisto
+      - asistes
+      - asiste
+      - asistimos
+      - "asist\xEDs"
+      - asisten
+      cjid: pind
+    - cjfs:
+      - "asist\xEDa"
+      - "asist\xEDas"
+      - "asist\xEDa"
+      - "asist\xEDamos"
+      - "asist\xEDais"
+      - "asist\xEDan"
+      cjid: pret
+    - cjfs:
+      - "asist\xED"
+      - asististe
+      - "asisti\xF3"
+      - asistimos
+      - asististeis
+      - asistieron
+      cjid: pprf
+    - cjfs:
+      - "asistir\xE9"
+      - "asistir\xE1s"
+      - "asistir\xE1"
+      - asistiremos
+      - "asistir\xE9is"
+      - "asistir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asistir\xEDa"
+      - "asistir\xEDas"
+      - "asistir\xEDa"
+      - "asistir\xEDamos"
+      - "asistir\xEDais"
+      - "asistir\xEDan"
+      cjid: cond
+    - cjfs:
+      - asista
+      - asistas
+      - asista
+      - asistamos
+      - "asist\xE1is"
+      - asistan
+      cjid: psub
+    - cjfs:
+      - asistiera
+      - asistieras
+      - asistiera
+      - "asisti\xE9ramos"
+      - asistierais
+      - asistieran
+      cjid: pisb1
+    - cjfs:
+      - asistiese
+      - asistieses
+      - asistiese
+      - "asisti\xE9semos"
+      - asistieseis
+      - asistiesen
+      cjid: pisb2
+    - cjfs:
+      - asistiere
+      - asistieres
+      - asistiere
+      - "asisti\xE9remos"
+      - asistiereis
+      - asistieren
+      cjid: fsub
+    - cjfs:
+      - he asistido
+      - has asistido
+      - ha asistido
+      - hemos asistido
+      - "hab\xE9is asistido"
+      - han asistido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asistido"
+      - "hab\xEDas asistido"
+      - "hab\xEDa asistido"
+      - "hab\xEDamos asistido"
+      - "hab\xEDais asistido"
+      - "hab\xEDan asistido"
+      cjid: ppsi
+    - cjfs:
+      - hube asistido
+      - hubiste asistido
+      - hubo asistido
+      - hubimos asistido
+      - hubisteis asistido
+      - hubieron asistido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asistido"
+      - "habr\xE1s asistido"
+      - "habr\xE1 asistido"
+      - habremos asistido
+      - "habr\xE9is asistido"
+      - "habr\xE1n asistido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asistido"
+      - "habr\xEDas asistido"
+      - "habr\xEDa asistido"
+      - "habr\xEDamos asistido"
+      - "habr\xEDais asistido"
+      - "habr\xEDan asistido"
+      cjid: cpef
+    - cjfs:
+      - haya asistido
+      - hayas asistido
+      - haya asistido
+      - hayamos asistido
+      - "hay\xE1is asistido"
+      - hayan asistido
+      cjid: ppfs
+    - cjfs:
+      - hubiera asistido
+      - hubieras asistido
+      - hubiera asistido
+      - "hubi\xE9ramos asistido"
+      - hubierais asistido
+      - hubieran asistido
+      cjid: ppss1
+    - cjfs:
+      - hubiese asistido
+      - hubieses asistido
+      - hubiese asistido
+      - "hubi\xE9semos asistido"
+      - hubieseis asistido
+      - hubiesen asistido
+      cjid: ppss2
+    - cjfs:
+      - hubiere asistido
+      - hubieres asistido
+      - hubiere asistido
+      - "hubi\xE9remos asistido"
+      - hubiereis asistido
+      - hubieren asistido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asiste
+      - asista
+      - asistamos
+      - asistid
+      - asistan
+      cjid: impf

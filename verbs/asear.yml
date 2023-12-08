@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wash}, to {a_link|clean}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tidy up}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: asear
+  meta:
+    id: asear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602113000'
+    src: spanish
+    stems:
+    - asear
+    - asearse
+    uuid: 974b6af7-3bc8-4779-931a-89ec0aa25056
+  shortdef:
+  - to wash, to clean
+  - to tidy up
+  suppl:
+    cjts:
+    - cjfs:
+      - aseando
+      - aseado
+      cjid: gppt
+    - cjfs:
+      - aseo
+      - aseas
+      - asea
+      - aseamos
+      - "ase\xE1is"
+      - asean
+      cjid: pind
+    - cjfs:
+      - aseaba
+      - aseabas
+      - aseaba
+      - "ase\xE1bamos"
+      - aseabais
+      - aseaban
+      cjid: pret
+    - cjfs:
+      - "ase\xE9"
+      - aseaste
+      - "ase\xF3"
+      - aseamos
+      - aseasteis
+      - asearon
+      cjid: pprf
+    - cjfs:
+      - "asear\xE9"
+      - "asear\xE1s"
+      - "asear\xE1"
+      - asearemos
+      - "asear\xE9is"
+      - "asear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asear\xEDa"
+      - "asear\xEDas"
+      - "asear\xEDa"
+      - "asear\xEDamos"
+      - "asear\xEDais"
+      - "asear\xEDan"
+      cjid: cond
+    - cjfs:
+      - asee
+      - asees
+      - asee
+      - aseemos
+      - "ase\xE9is"
+      - aseen
+      cjid: psub
+    - cjfs:
+      - aseara
+      - asearas
+      - aseara
+      - "ase\xE1ramos"
+      - asearais
+      - asearan
+      cjid: pisb1
+    - cjfs:
+      - asease
+      - aseases
+      - asease
+      - "ase\xE1semos"
+      - aseaseis
+      - aseasen
+      cjid: pisb2
+    - cjfs:
+      - aseare
+      - aseares
+      - aseare
+      - "ase\xE1remos"
+      - aseareis
+      - asearen
+      cjid: fsub
+    - cjfs:
+      - he aseado
+      - has aseado
+      - ha aseado
+      - hemos aseado
+      - "hab\xE9is aseado"
+      - han aseado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aseado"
+      - "hab\xEDas aseado"
+      - "hab\xEDa aseado"
+      - "hab\xEDamos aseado"
+      - "hab\xEDais aseado"
+      - "hab\xEDan aseado"
+      cjid: ppsi
+    - cjfs:
+      - hube aseado
+      - hubiste aseado
+      - hubo aseado
+      - hubimos aseado
+      - hubisteis aseado
+      - hubieron aseado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aseado"
+      - "habr\xE1s aseado"
+      - "habr\xE1 aseado"
+      - habremos aseado
+      - "habr\xE9is aseado"
+      - "habr\xE1n aseado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aseado"
+      - "habr\xEDas aseado"
+      - "habr\xEDa aseado"
+      - "habr\xEDamos aseado"
+      - "habr\xEDais aseado"
+      - "habr\xEDan aseado"
+      cjid: cpef
+    - cjfs:
+      - haya aseado
+      - hayas aseado
+      - haya aseado
+      - hayamos aseado
+      - "hay\xE1is aseado"
+      - hayan aseado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aseado
+      - hubieras aseado
+      - hubiera aseado
+      - "hubi\xE9ramos aseado"
+      - hubierais aseado
+      - hubieran aseado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aseado
+      - hubieses aseado
+      - hubiese aseado
+      - "hubi\xE9semos aseado"
+      - hubieseis aseado
+      - hubiesen aseado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aseado
+      - hubieres aseado
+      - hubiere aseado
+      - "hubi\xE9remos aseado"
+      - hubiereis aseado
+      - hubieren aseado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asea
+      - asee
+      - aseemos
+      - asead
+      - aseen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: asearse

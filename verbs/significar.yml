@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mean}, to {a_link|signify}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|express}, to make known'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to draw attention, to become known'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take a stance'
+            sn: '2'
+    drp: significarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: significar
+    prs:
+    - sound:
+        audio: signi03sp
+  meta:
+    id: significar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620609000'
+    src: spanish
+    stems:
+    - significar
+    - significarse
+    uuid: 896e5605-0b97-4236-8550-90889dcb86f4
+  shortdef:
+  - to mean, to signify
+  - to express, to make known
+  suppl:
+    cjts:
+    - cjfs:
+      - significando
+      - significado
+      cjid: gppt
+    - cjfs:
+      - significo
+      - significas
+      - significa
+      - significamos
+      - "signific\xE1is"
+      - significan
+      cjid: pind
+    - cjfs:
+      - significaba
+      - significabas
+      - significaba
+      - "signific\xE1bamos"
+      - significabais
+      - significaban
+      cjid: pret
+    - cjfs:
+      - "signifiqu\xE9"
+      - significaste
+      - "signific\xF3"
+      - significamos
+      - significasteis
+      - significaron
+      cjid: pprf
+    - cjfs:
+      - "significar\xE9"
+      - "significar\xE1s"
+      - "significar\xE1"
+      - significaremos
+      - "significar\xE9is"
+      - "significar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "significar\xEDa"
+      - "significar\xEDas"
+      - "significar\xEDa"
+      - "significar\xEDamos"
+      - "significar\xEDais"
+      - "significar\xEDan"
+      cjid: cond
+    - cjfs:
+      - signifique
+      - signifiques
+      - signifique
+      - signifiquemos
+      - "signifiqu\xE9is"
+      - signifiquen
+      cjid: psub
+    - cjfs:
+      - significara
+      - significaras
+      - significara
+      - "signific\xE1ramos"
+      - significarais
+      - significaran
+      cjid: pisb1
+    - cjfs:
+      - significase
+      - significases
+      - significase
+      - "signific\xE1semos"
+      - significaseis
+      - significasen
+      cjid: pisb2
+    - cjfs:
+      - significare
+      - significares
+      - significare
+      - "signific\xE1remos"
+      - significareis
+      - significaren
+      cjid: fsub
+    - cjfs:
+      - he significado
+      - has significado
+      - ha significado
+      - hemos significado
+      - "hab\xE9is significado"
+      - han significado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa significado"
+      - "hab\xEDas significado"
+      - "hab\xEDa significado"
+      - "hab\xEDamos significado"
+      - "hab\xEDais significado"
+      - "hab\xEDan significado"
+      cjid: ppsi
+    - cjfs:
+      - hube significado
+      - hubiste significado
+      - hubo significado
+      - hubimos significado
+      - hubisteis significado
+      - hubieron significado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 significado"
+      - "habr\xE1s significado"
+      - "habr\xE1 significado"
+      - habremos significado
+      - "habr\xE9is significado"
+      - "habr\xE1n significado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa significado"
+      - "habr\xEDas significado"
+      - "habr\xEDa significado"
+      - "habr\xEDamos significado"
+      - "habr\xEDais significado"
+      - "habr\xEDan significado"
+      cjid: cpef
+    - cjfs:
+      - haya significado
+      - hayas significado
+      - haya significado
+      - hayamos significado
+      - "hay\xE1is significado"
+      - hayan significado
+      cjid: ppfs
+    - cjfs:
+      - hubiera significado
+      - hubieras significado
+      - hubiera significado
+      - "hubi\xE9ramos significado"
+      - hubierais significado
+      - hubieran significado
+      cjid: ppss1
+    - cjfs:
+      - hubiese significado
+      - hubieses significado
+      - hubiese significado
+      - "hubi\xE9semos significado"
+      - hubieseis significado
+      - hubiesen significado
+      cjid: ppss2
+    - cjfs:
+      - hubiere significado
+      - hubieres significado
+      - hubiere significado
+      - "hubi\xE9remos significado"
+      - hubiereis significado
+      - hubieren significado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - significa
+      - signifique
+      - signifiquemos
+      - significad
+      - signifiquen
+      cjid: impf

@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|meditate}, to {a_link|think} '
+          - - vis
+            - - t: meditar sobre la vida
+                tr: to contemplate life
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|think over}, to {a_link|consider}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plan}, to {a_link|work out}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: meditar
+    prs:
+    - sound:
+        audio: medit01sp
+  meta:
+    id: meditar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614729000'
+    src: spanish
+    stems:
+    - meditar
+    uuid: 6965ddc9-e172-4f7a-b127-905518349596
+  shortdef:
+  - to meditate, to think
+  - to think over, to consider
+  - to plan, to work out
+  suppl:
+    cjts:
+    - cjfs:
+      - meditando
+      - meditado
+      cjid: gppt
+    - cjfs:
+      - medito
+      - meditas
+      - medita
+      - meditamos
+      - "medit\xE1is"
+      - meditan
+      cjid: pind
+    - cjfs:
+      - meditaba
+      - meditabas
+      - meditaba
+      - "medit\xE1bamos"
+      - meditabais
+      - meditaban
+      cjid: pret
+    - cjfs:
+      - "medit\xE9"
+      - meditaste
+      - "medit\xF3"
+      - meditamos
+      - meditasteis
+      - meditaron
+      cjid: pprf
+    - cjfs:
+      - "meditar\xE9"
+      - "meditar\xE1s"
+      - "meditar\xE1"
+      - meditaremos
+      - "meditar\xE9is"
+      - "meditar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "meditar\xEDa"
+      - "meditar\xEDas"
+      - "meditar\xEDa"
+      - "meditar\xEDamos"
+      - "meditar\xEDais"
+      - "meditar\xEDan"
+      cjid: cond
+    - cjfs:
+      - medite
+      - medites
+      - medite
+      - meditemos
+      - "medit\xE9is"
+      - mediten
+      cjid: psub
+    - cjfs:
+      - meditara
+      - meditaras
+      - meditara
+      - "medit\xE1ramos"
+      - meditarais
+      - meditaran
+      cjid: pisb1
+    - cjfs:
+      - meditase
+      - meditases
+      - meditase
+      - "medit\xE1semos"
+      - meditaseis
+      - meditasen
+      cjid: pisb2
+    - cjfs:
+      - meditare
+      - meditares
+      - meditare
+      - "medit\xE1remos"
+      - meditareis
+      - meditaren
+      cjid: fsub
+    - cjfs:
+      - he meditado
+      - has meditado
+      - ha meditado
+      - hemos meditado
+      - "hab\xE9is meditado"
+      - han meditado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa meditado"
+      - "hab\xEDas meditado"
+      - "hab\xEDa meditado"
+      - "hab\xEDamos meditado"
+      - "hab\xEDais meditado"
+      - "hab\xEDan meditado"
+      cjid: ppsi
+    - cjfs:
+      - hube meditado
+      - hubiste meditado
+      - hubo meditado
+      - hubimos meditado
+      - hubisteis meditado
+      - hubieron meditado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 meditado"
+      - "habr\xE1s meditado"
+      - "habr\xE1 meditado"
+      - habremos meditado
+      - "habr\xE9is meditado"
+      - "habr\xE1n meditado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa meditado"
+      - "habr\xEDas meditado"
+      - "habr\xEDa meditado"
+      - "habr\xEDamos meditado"
+      - "habr\xEDais meditado"
+      - "habr\xEDan meditado"
+      cjid: cpef
+    - cjfs:
+      - haya meditado
+      - hayas meditado
+      - haya meditado
+      - hayamos meditado
+      - "hay\xE1is meditado"
+      - hayan meditado
+      cjid: ppfs
+    - cjfs:
+      - hubiera meditado
+      - hubieras meditado
+      - hubiera meditado
+      - "hubi\xE9ramos meditado"
+      - hubierais meditado
+      - hubieran meditado
+      cjid: ppss1
+    - cjfs:
+      - hubiese meditado
+      - hubieses meditado
+      - hubiese meditado
+      - "hubi\xE9semos meditado"
+      - hubieseis meditado
+      - hubiesen meditado
+      cjid: ppss2
+    - cjfs:
+      - hubiere meditado
+      - hubieres meditado
+      - hubiere meditado
+      - "hubi\xE9remos meditado"
+      - hubiereis meditado
+      - hubieren meditado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - medita
+      - medite
+      - meditemos
+      - meditad
+      - mediten
+      cjid: impf

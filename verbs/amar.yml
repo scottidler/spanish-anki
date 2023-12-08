@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|love}'
+  fl: transitive verb
+  hwi:
+    hw: amar
+    prs:
+    - sound:
+        audio: amar001sp
+  meta:
+    id: amar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601184000'
+    src: spanish
+    stems:
+    - amar
+    - amarse
+    uuid: a6c8991a-a79c-4ab1-9985-570c8f466d0f
+  shortdef:
+  - to love
+  suppl:
+    cjts:
+    - cjfs:
+      - amando
+      - amado
+      cjid: gppt
+    - cjfs:
+      - amo
+      - amas
+      - ama
+      - amamos
+      - "am\xE1is"
+      - aman
+      cjid: pind
+    - cjfs:
+      - amaba
+      - amabas
+      - amaba
+      - "am\xE1bamos"
+      - amabais
+      - amaban
+      cjid: pret
+    - cjfs:
+      - "am\xE9"
+      - amaste
+      - "am\xF3"
+      - amamos
+      - amasteis
+      - amaron
+      cjid: pprf
+    - cjfs:
+      - "amar\xE9"
+      - "amar\xE1s"
+      - "amar\xE1"
+      - amaremos
+      - "amar\xE9is"
+      - "amar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amar\xEDa"
+      - "amar\xEDas"
+      - "amar\xEDa"
+      - "amar\xEDamos"
+      - "amar\xEDais"
+      - "amar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ame
+      - ames
+      - ame
+      - amemos
+      - "am\xE9is"
+      - amen
+      cjid: psub
+    - cjfs:
+      - amara
+      - amaras
+      - amara
+      - "am\xE1ramos"
+      - amarais
+      - amaran
+      cjid: pisb1
+    - cjfs:
+      - amase
+      - amases
+      - amase
+      - "am\xE1semos"
+      - amaseis
+      - amasen
+      cjid: pisb2
+    - cjfs:
+      - amare
+      - amares
+      - amare
+      - "am\xE1remos"
+      - amareis
+      - amaren
+      cjid: fsub
+    - cjfs:
+      - he amado
+      - has amado
+      - ha amado
+      - hemos amado
+      - "hab\xE9is amado"
+      - han amado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amado"
+      - "hab\xEDas amado"
+      - "hab\xEDa amado"
+      - "hab\xEDamos amado"
+      - "hab\xEDais amado"
+      - "hab\xEDan amado"
+      cjid: ppsi
+    - cjfs:
+      - hube amado
+      - hubiste amado
+      - hubo amado
+      - hubimos amado
+      - hubisteis amado
+      - hubieron amado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amado"
+      - "habr\xE1s amado"
+      - "habr\xE1 amado"
+      - habremos amado
+      - "habr\xE9is amado"
+      - "habr\xE1n amado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amado"
+      - "habr\xEDas amado"
+      - "habr\xEDa amado"
+      - "habr\xEDamos amado"
+      - "habr\xEDais amado"
+      - "habr\xEDan amado"
+      cjid: cpef
+    - cjfs:
+      - haya amado
+      - hayas amado
+      - haya amado
+      - hayamos amado
+      - "hay\xE1is amado"
+      - hayan amado
+      cjid: ppfs
+    - cjfs:
+      - hubiera amado
+      - hubieras amado
+      - hubiera amado
+      - "hubi\xE9ramos amado"
+      - hubierais amado
+      - hubieran amado
+      cjid: ppss1
+    - cjfs:
+      - hubiese amado
+      - hubieses amado
+      - hubiese amado
+      - "hubi\xE9semos amado"
+      - hubieseis amado
+      - hubiesen amado
+      cjid: ppss2
+    - cjfs:
+      - hubiere amado
+      - hubieres amado
+      - hubiere amado
+      - "hubi\xE9remos amado"
+      - hubiereis amado
+      - hubieren amado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ama
+      - ame
+      - amemos
+      - amad
+      - amen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: amarse

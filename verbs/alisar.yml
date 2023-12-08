@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|smooth}'
+  fl: transitive verb
+  hwi:
+    hw: alisar
+  meta:
+    id: alisar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601038000'
+    src: spanish
+    stems:
+    - alisar
+    uuid: e37a2e68-b9cf-4927-a4eb-4732a9dc3804
+  shortdef:
+  - to smooth
+  suppl:
+    cjts:
+    - cjfs:
+      - alisando
+      - alisado
+      cjid: gppt
+    - cjfs:
+      - aliso
+      - alisas
+      - alisa
+      - alisamos
+      - "alis\xE1is"
+      - alisan
+      cjid: pind
+    - cjfs:
+      - alisaba
+      - alisabas
+      - alisaba
+      - "alis\xE1bamos"
+      - alisabais
+      - alisaban
+      cjid: pret
+    - cjfs:
+      - "alis\xE9"
+      - alisaste
+      - "alis\xF3"
+      - alisamos
+      - alisasteis
+      - alisaron
+      cjid: pprf
+    - cjfs:
+      - "alisar\xE9"
+      - "alisar\xE1s"
+      - "alisar\xE1"
+      - alisaremos
+      - "alisar\xE9is"
+      - "alisar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alisar\xEDa"
+      - "alisar\xEDas"
+      - "alisar\xEDa"
+      - "alisar\xEDamos"
+      - "alisar\xEDais"
+      - "alisar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alise
+      - alises
+      - alise
+      - alisemos
+      - "alis\xE9is"
+      - alisen
+      cjid: psub
+    - cjfs:
+      - alisara
+      - alisaras
+      - alisara
+      - "alis\xE1ramos"
+      - alisarais
+      - alisaran
+      cjid: pisb1
+    - cjfs:
+      - alisase
+      - alisases
+      - alisase
+      - "alis\xE1semos"
+      - alisaseis
+      - alisasen
+      cjid: pisb2
+    - cjfs:
+      - alisare
+      - alisares
+      - alisare
+      - "alis\xE1remos"
+      - alisareis
+      - alisaren
+      cjid: fsub
+    - cjfs:
+      - he alisado
+      - has alisado
+      - ha alisado
+      - hemos alisado
+      - "hab\xE9is alisado"
+      - han alisado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alisado"
+      - "hab\xEDas alisado"
+      - "hab\xEDa alisado"
+      - "hab\xEDamos alisado"
+      - "hab\xEDais alisado"
+      - "hab\xEDan alisado"
+      cjid: ppsi
+    - cjfs:
+      - hube alisado
+      - hubiste alisado
+      - hubo alisado
+      - hubimos alisado
+      - hubisteis alisado
+      - hubieron alisado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alisado"
+      - "habr\xE1s alisado"
+      - "habr\xE1 alisado"
+      - habremos alisado
+      - "habr\xE9is alisado"
+      - "habr\xE1n alisado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alisado"
+      - "habr\xEDas alisado"
+      - "habr\xEDa alisado"
+      - "habr\xEDamos alisado"
+      - "habr\xEDais alisado"
+      - "habr\xEDan alisado"
+      cjid: cpef
+    - cjfs:
+      - haya alisado
+      - hayas alisado
+      - haya alisado
+      - hayamos alisado
+      - "hay\xE1is alisado"
+      - hayan alisado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alisado
+      - hubieras alisado
+      - hubiera alisado
+      - "hubi\xE9ramos alisado"
+      - hubierais alisado
+      - hubieran alisado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alisado
+      - hubieses alisado
+      - hubiese alisado
+      - "hubi\xE9semos alisado"
+      - hubieseis alisado
+      - hubiesen alisado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alisado
+      - hubieres alisado
+      - hubiere alisado
+      - "hubi\xE9remos alisado"
+      - hubiereis alisado
+      - hubieren alisado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alisa
+      - alise
+      - alisemos
+      - alisad
+      - alisen
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|joke}'
+  fl: intransitive verb
+  hwi:
+    hw: bromear
+    prs:
+    - sound:
+        audio: brome01sp
+  meta:
+    id: bromear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603351000'
+    src: spanish
+    stems:
+    - bromear
+    uuid: 9eb651ca-e57b-427e-9586-fb82e5de36a0
+  shortdef:
+  - to joke
+  suppl:
+    cjts:
+    - cjfs:
+      - bromeando
+      - bromeado
+      cjid: gppt
+    - cjfs:
+      - bromeo
+      - bromeas
+      - bromea
+      - bromeamos
+      - "brome\xE1is"
+      - bromean
+      cjid: pind
+    - cjfs:
+      - bromeaba
+      - bromeabas
+      - bromeaba
+      - "brome\xE1bamos"
+      - bromeabais
+      - bromeaban
+      cjid: pret
+    - cjfs:
+      - "brome\xE9"
+      - bromeaste
+      - "brome\xF3"
+      - bromeamos
+      - bromeasteis
+      - bromearon
+      cjid: pprf
+    - cjfs:
+      - "bromear\xE9"
+      - "bromear\xE1s"
+      - "bromear\xE1"
+      - bromearemos
+      - "bromear\xE9is"
+      - "bromear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bromear\xEDa"
+      - "bromear\xEDas"
+      - "bromear\xEDa"
+      - "bromear\xEDamos"
+      - "bromear\xEDais"
+      - "bromear\xEDan"
+      cjid: cond
+    - cjfs:
+      - bromee
+      - bromees
+      - bromee
+      - bromeemos
+      - "brome\xE9is"
+      - bromeen
+      cjid: psub
+    - cjfs:
+      - bromeara
+      - bromearas
+      - bromeara
+      - "brome\xE1ramos"
+      - bromearais
+      - bromearan
+      cjid: pisb1
+    - cjfs:
+      - bromease
+      - bromeases
+      - bromease
+      - "brome\xE1semos"
+      - bromeaseis
+      - bromeasen
+      cjid: pisb2
+    - cjfs:
+      - bromeare
+      - bromeares
+      - bromeare
+      - "brome\xE1remos"
+      - bromeareis
+      - bromearen
+      cjid: fsub
+    - cjfs:
+      - he bromeado
+      - has bromeado
+      - ha bromeado
+      - hemos bromeado
+      - "hab\xE9is bromeado"
+      - han bromeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bromeado"
+      - "hab\xEDas bromeado"
+      - "hab\xEDa bromeado"
+      - "hab\xEDamos bromeado"
+      - "hab\xEDais bromeado"
+      - "hab\xEDan bromeado"
+      cjid: ppsi
+    - cjfs:
+      - hube bromeado
+      - hubiste bromeado
+      - hubo bromeado
+      - hubimos bromeado
+      - hubisteis bromeado
+      - hubieron bromeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bromeado"
+      - "habr\xE1s bromeado"
+      - "habr\xE1 bromeado"
+      - habremos bromeado
+      - "habr\xE9is bromeado"
+      - "habr\xE1n bromeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bromeado"
+      - "habr\xEDas bromeado"
+      - "habr\xEDa bromeado"
+      - "habr\xEDamos bromeado"
+      - "habr\xEDais bromeado"
+      - "habr\xEDan bromeado"
+      cjid: cpef
+    - cjfs:
+      - haya bromeado
+      - hayas bromeado
+      - haya bromeado
+      - hayamos bromeado
+      - "hay\xE1is bromeado"
+      - hayan bromeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bromeado
+      - hubieras bromeado
+      - hubiera bromeado
+      - "hubi\xE9ramos bromeado"
+      - hubierais bromeado
+      - hubieran bromeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bromeado
+      - hubieses bromeado
+      - hubiese bromeado
+      - "hubi\xE9semos bromeado"
+      - hubieseis bromeado
+      - hubiesen bromeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bromeado
+      - hubieres bromeado
+      - hubiere bromeado
+      - "hubi\xE9remos bromeado"
+      - hubiereis bromeado
+      - hubieren bromeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bromea
+      - bromee
+      - bromeemos
+      - bromead
+      - bromeen
+      cjid: impf

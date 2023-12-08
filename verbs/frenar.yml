@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|brake}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|detener||} {bc}to {a_link|curb}, to {a_link|check}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to apply the brakes'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|restrain oneself}'
+    drp: frenarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: frenar
+    prs:
+    - sound:
+        audio: frena01sp
+  meta:
+    id: frenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610427000'
+    src: spanish
+    stems:
+    - frenar
+    - frenarse
+    uuid: 45196b5e-2fff-4318-a20c-b95f90fa671e
+  shortdef:
+  - to brake
+  - 'detener : to curb, to check'
+  - to apply the brakes
+  suppl:
+    cjts:
+    - cjfs:
+      - frenando
+      - frenado
+      cjid: gppt
+    - cjfs:
+      - freno
+      - frenas
+      - frena
+      - frenamos
+      - "fren\xE1is"
+      - frenan
+      cjid: pind
+    - cjfs:
+      - frenaba
+      - frenabas
+      - frenaba
+      - "fren\xE1bamos"
+      - frenabais
+      - frenaban
+      cjid: pret
+    - cjfs:
+      - "fren\xE9"
+      - frenaste
+      - "fren\xF3"
+      - frenamos
+      - frenasteis
+      - frenaron
+      cjid: pprf
+    - cjfs:
+      - "frenar\xE9"
+      - "frenar\xE1s"
+      - "frenar\xE1"
+      - frenaremos
+      - "frenar\xE9is"
+      - "frenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "frenar\xEDa"
+      - "frenar\xEDas"
+      - "frenar\xEDa"
+      - "frenar\xEDamos"
+      - "frenar\xEDais"
+      - "frenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - frene
+      - frenes
+      - frene
+      - frenemos
+      - "fren\xE9is"
+      - frenen
+      cjid: psub
+    - cjfs:
+      - frenara
+      - frenaras
+      - frenara
+      - "fren\xE1ramos"
+      - frenarais
+      - frenaran
+      cjid: pisb1
+    - cjfs:
+      - frenase
+      - frenases
+      - frenase
+      - "fren\xE1semos"
+      - frenaseis
+      - frenasen
+      cjid: pisb2
+    - cjfs:
+      - frenare
+      - frenares
+      - frenare
+      - "fren\xE1remos"
+      - frenareis
+      - frenaren
+      cjid: fsub
+    - cjfs:
+      - he frenado
+      - has frenado
+      - ha frenado
+      - hemos frenado
+      - "hab\xE9is frenado"
+      - han frenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa frenado"
+      - "hab\xEDas frenado"
+      - "hab\xEDa frenado"
+      - "hab\xEDamos frenado"
+      - "hab\xEDais frenado"
+      - "hab\xEDan frenado"
+      cjid: ppsi
+    - cjfs:
+      - hube frenado
+      - hubiste frenado
+      - hubo frenado
+      - hubimos frenado
+      - hubisteis frenado
+      - hubieron frenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 frenado"
+      - "habr\xE1s frenado"
+      - "habr\xE1 frenado"
+      - habremos frenado
+      - "habr\xE9is frenado"
+      - "habr\xE1n frenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa frenado"
+      - "habr\xEDas frenado"
+      - "habr\xEDa frenado"
+      - "habr\xEDamos frenado"
+      - "habr\xEDais frenado"
+      - "habr\xEDan frenado"
+      cjid: cpef
+    - cjfs:
+      - haya frenado
+      - hayas frenado
+      - haya frenado
+      - hayamos frenado
+      - "hay\xE1is frenado"
+      - hayan frenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera frenado
+      - hubieras frenado
+      - hubiera frenado
+      - "hubi\xE9ramos frenado"
+      - hubierais frenado
+      - hubieran frenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese frenado
+      - hubieses frenado
+      - hubiese frenado
+      - "hubi\xE9semos frenado"
+      - hubieseis frenado
+      - hubiesen frenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere frenado
+      - hubieres frenado
+      - hubiere frenado
+      - "hubi\xE9remos frenado"
+      - hubiereis frenado
+      - hubieren frenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - frena
+      - frene
+      - frenemos
+      - frenad
+      - frenen
+      cjid: impf

@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sympathize with, to {a_link|feel sorry for}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take pity on'
+            sn: '1'
+            vrs:
+            - va: compadecerse de
+              vac: ~ de
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fit}, to {a_link|accord} (with)'
+            sn: '2'
+            vrs:
+            - va: compadecerse con
+              vac: ~ con
+    drp: compadecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: compadecer
+  meta:
+    id: compadecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605215000'
+    src: spanish
+    stems:
+    - compadecer
+    - compadecerse
+    - compadecerse de
+    - compadecerse con
+    uuid: 2f83c518-5804-4f6d-a51b-92e39c8ba23c
+  shortdef:
+  - to sympathize with, to feel sorry for
+  suppl:
+    cjts:
+    - cjfs:
+      - compadeciendo
+      - compadecido
+      cjid: gppt
+    - cjfs:
+      - compadezco
+      - compadeces
+      - compadece
+      - compadecemos
+      - "compadec\xE9is"
+      - compadecen
+      cjid: pind
+    - cjfs:
+      - "compadec\xEDa"
+      - "compadec\xEDas"
+      - "compadec\xEDa"
+      - "compadec\xEDamos"
+      - "compadec\xEDais"
+      - "compadec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "compadec\xED"
+      - compadeciste
+      - "compadeci\xF3"
+      - compadecimos
+      - compadecisteis
+      - compadecieron
+      cjid: pprf
+    - cjfs:
+      - "compadecer\xE9"
+      - "compadecer\xE1s"
+      - "compadecer\xE1"
+      - compadeceremos
+      - "compadecer\xE9is"
+      - "compadecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "compadecer\xEDa"
+      - "compadecer\xEDas"
+      - "compadecer\xEDa"
+      - "compadecer\xEDamos"
+      - "compadecer\xEDais"
+      - "compadecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - compadezca
+      - compadezcas
+      - compadezca
+      - compadezcamos
+      - "compadezc\xE1is"
+      - compadezcan
+      cjid: psub
+    - cjfs:
+      - compadeciera
+      - compadecieras
+      - compadeciera
+      - "compadeci\xE9ramos"
+      - compadecierais
+      - compadecieran
+      cjid: pisb1
+    - cjfs:
+      - compadeciese
+      - compadecieses
+      - compadeciese
+      - "compadeci\xE9semos"
+      - compadecieseis
+      - compadeciesen
+      cjid: pisb2
+    - cjfs:
+      - compadeciere
+      - compadecieres
+      - compadeciere
+      - "compadeci\xE9remos"
+      - compadeciereis
+      - compadecieren
+      cjid: fsub
+    - cjfs:
+      - he compadecido
+      - has compadecido
+      - ha compadecido
+      - hemos compadecido
+      - "hab\xE9is compadecido"
+      - han compadecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa compadecido"
+      - "hab\xEDas compadecido"
+      - "hab\xEDa compadecido"
+      - "hab\xEDamos compadecido"
+      - "hab\xEDais compadecido"
+      - "hab\xEDan compadecido"
+      cjid: ppsi
+    - cjfs:
+      - hube compadecido
+      - hubiste compadecido
+      - hubo compadecido
+      - hubimos compadecido
+      - hubisteis compadecido
+      - hubieron compadecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 compadecido"
+      - "habr\xE1s compadecido"
+      - "habr\xE1 compadecido"
+      - habremos compadecido
+      - "habr\xE9is compadecido"
+      - "habr\xE1n compadecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa compadecido"
+      - "habr\xEDas compadecido"
+      - "habr\xEDa compadecido"
+      - "habr\xEDamos compadecido"
+      - "habr\xEDais compadecido"
+      - "habr\xEDan compadecido"
+      cjid: cpef
+    - cjfs:
+      - haya compadecido
+      - hayas compadecido
+      - haya compadecido
+      - hayamos compadecido
+      - "hay\xE1is compadecido"
+      - hayan compadecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera compadecido
+      - hubieras compadecido
+      - hubiera compadecido
+      - "hubi\xE9ramos compadecido"
+      - hubierais compadecido
+      - hubieran compadecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese compadecido
+      - hubieses compadecido
+      - hubiese compadecido
+      - "hubi\xE9semos compadecido"
+      - hubieseis compadecido
+      - hubiesen compadecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere compadecido
+      - hubieres compadecido
+      - hubiere compadecido
+      - "hubi\xE9remos compadecido"
+      - hubiereis compadecido
+      - hubieren compadecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - compadece
+      - compadezca
+      - compadezcamos
+      - compadeced
+      - compadezcan
+      cjid: impf

@@ -1,0 +1,223 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|repeat}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a second helping of'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to repeat a year (in school)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a second helping'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give indigestion'
+          sn: '3'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to repeat oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|recur}'
+            sn: '2'
+    drp: repetirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: repetir
+    prs:
+    - sound:
+        audio: repet03sp
+  meta:
+    id: repetir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619444000'
+    src: spanish
+    stems:
+    - repetir
+    - repetirse
+    uuid: 64d26118-ed18-4a48-a22c-da7c38163c40
+  shortdef:
+  - to repeat
+  - to have a second helping of
+  - to repeat a year (in school)
+  suppl:
+    cjts:
+    - cjfs:
+      - repitiendo
+      - repetido
+      cjid: gppt
+    - cjfs:
+      - repito
+      - repites
+      - repite
+      - repetimos
+      - "repet\xEDs"
+      - repiten
+      cjid: pind
+    - cjfs:
+      - "repet\xEDa"
+      - "repet\xEDas"
+      - "repet\xEDa"
+      - "repet\xEDamos"
+      - "repet\xEDais"
+      - "repet\xEDan"
+      cjid: pret
+    - cjfs:
+      - "repet\xED"
+      - repetiste
+      - "repiti\xF3"
+      - repetimos
+      - repetisteis
+      - repitieron
+      cjid: pprf
+    - cjfs:
+      - "repetir\xE9"
+      - "repetir\xE1s"
+      - "repetir\xE1"
+      - repetiremos
+      - "repetir\xE9is"
+      - "repetir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "repetir\xEDa"
+      - "repetir\xEDas"
+      - "repetir\xEDa"
+      - "repetir\xEDamos"
+      - "repetir\xEDais"
+      - "repetir\xEDan"
+      cjid: cond
+    - cjfs:
+      - repita
+      - repitas
+      - repita
+      - repitamos
+      - "repit\xE1is"
+      - repitan
+      cjid: psub
+    - cjfs:
+      - repitiera
+      - repitieras
+      - repitiera
+      - "repiti\xE9ramos"
+      - repitierais
+      - repitieran
+      cjid: pisb1
+    - cjfs:
+      - repitiese
+      - repitieses
+      - repitiese
+      - "repiti\xE9semos"
+      - repitieseis
+      - repitiesen
+      cjid: pisb2
+    - cjfs:
+      - repitiere
+      - repitieres
+      - repitiere
+      - "repiti\xE9remos"
+      - repitiereis
+      - repitieren
+      cjid: fsub
+    - cjfs:
+      - he repetido
+      - has repetido
+      - ha repetido
+      - hemos repetido
+      - "hab\xE9is repetido"
+      - han repetido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa repetido"
+      - "hab\xEDas repetido"
+      - "hab\xEDa repetido"
+      - "hab\xEDamos repetido"
+      - "hab\xEDais repetido"
+      - "hab\xEDan repetido"
+      cjid: ppsi
+    - cjfs:
+      - hube repetido
+      - hubiste repetido
+      - hubo repetido
+      - hubimos repetido
+      - hubisteis repetido
+      - hubieron repetido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 repetido"
+      - "habr\xE1s repetido"
+      - "habr\xE1 repetido"
+      - habremos repetido
+      - "habr\xE9is repetido"
+      - "habr\xE1n repetido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa repetido"
+      - "habr\xEDas repetido"
+      - "habr\xEDa repetido"
+      - "habr\xEDamos repetido"
+      - "habr\xEDais repetido"
+      - "habr\xEDan repetido"
+      cjid: cpef
+    - cjfs:
+      - haya repetido
+      - hayas repetido
+      - haya repetido
+      - hayamos repetido
+      - "hay\xE1is repetido"
+      - hayan repetido
+      cjid: ppfs
+    - cjfs:
+      - hubiera repetido
+      - hubieras repetido
+      - hubiera repetido
+      - "hubi\xE9ramos repetido"
+      - hubierais repetido
+      - hubieran repetido
+      cjid: ppss1
+    - cjfs:
+      - hubiese repetido
+      - hubieses repetido
+      - hubiese repetido
+      - "hubi\xE9semos repetido"
+      - hubieseis repetido
+      - hubiesen repetido
+      cjid: ppss2
+    - cjfs:
+      - hubiere repetido
+      - hubieres repetido
+      - hubiere repetido
+      - "hubi\xE9remos repetido"
+      - hubiereis repetido
+      - hubieren repetido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - repite
+      - repita
+      - repitamos
+      - repetid
+      - repitan
+      cjid: impf

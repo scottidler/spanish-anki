@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|enterrar||} {bc}to {a_link|bury}'
+  fl: transitive verb
+  hwi:
+    hw: sepultar
+    prs:
+    - sound:
+        audio: sepul03sp
+  meta:
+    id: sepultar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620481000'
+    src: spanish
+    stems:
+    - sepultar
+    uuid: 4d4638c8-64f9-4322-ae03-47078d76509c
+  shortdef:
+  - 'enterrar : to bury'
+  suppl:
+    cjts:
+    - cjfs:
+      - sepultando
+      - sepultado
+      cjid: gppt
+    - cjfs:
+      - sepulto
+      - sepultas
+      - sepulta
+      - sepultamos
+      - "sepult\xE1is"
+      - sepultan
+      cjid: pind
+    - cjfs:
+      - sepultaba
+      - sepultabas
+      - sepultaba
+      - "sepult\xE1bamos"
+      - sepultabais
+      - sepultaban
+      cjid: pret
+    - cjfs:
+      - "sepult\xE9"
+      - sepultaste
+      - "sepult\xF3"
+      - sepultamos
+      - sepultasteis
+      - sepultaron
+      cjid: pprf
+    - cjfs:
+      - "sepultar\xE9"
+      - "sepultar\xE1s"
+      - "sepultar\xE1"
+      - sepultaremos
+      - "sepultar\xE9is"
+      - "sepultar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sepultar\xEDa"
+      - "sepultar\xEDas"
+      - "sepultar\xEDa"
+      - "sepultar\xEDamos"
+      - "sepultar\xEDais"
+      - "sepultar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sepulte
+      - sepultes
+      - sepulte
+      - sepultemos
+      - "sepult\xE9is"
+      - sepulten
+      cjid: psub
+    - cjfs:
+      - sepultara
+      - sepultaras
+      - sepultara
+      - "sepult\xE1ramos"
+      - sepultarais
+      - sepultaran
+      cjid: pisb1
+    - cjfs:
+      - sepultase
+      - sepultases
+      - sepultase
+      - "sepult\xE1semos"
+      - sepultaseis
+      - sepultasen
+      cjid: pisb2
+    - cjfs:
+      - sepultare
+      - sepultares
+      - sepultare
+      - "sepult\xE1remos"
+      - sepultareis
+      - sepultaren
+      cjid: fsub
+    - cjfs:
+      - he sepultado
+      - has sepultado
+      - ha sepultado
+      - hemos sepultado
+      - "hab\xE9is sepultado"
+      - han sepultado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sepultado"
+      - "hab\xEDas sepultado"
+      - "hab\xEDa sepultado"
+      - "hab\xEDamos sepultado"
+      - "hab\xEDais sepultado"
+      - "hab\xEDan sepultado"
+      cjid: ppsi
+    - cjfs:
+      - hube sepultado
+      - hubiste sepultado
+      - hubo sepultado
+      - hubimos sepultado
+      - hubisteis sepultado
+      - hubieron sepultado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sepultado"
+      - "habr\xE1s sepultado"
+      - "habr\xE1 sepultado"
+      - habremos sepultado
+      - "habr\xE9is sepultado"
+      - "habr\xE1n sepultado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sepultado"
+      - "habr\xEDas sepultado"
+      - "habr\xEDa sepultado"
+      - "habr\xEDamos sepultado"
+      - "habr\xEDais sepultado"
+      - "habr\xEDan sepultado"
+      cjid: cpef
+    - cjfs:
+      - haya sepultado
+      - hayas sepultado
+      - haya sepultado
+      - hayamos sepultado
+      - "hay\xE1is sepultado"
+      - hayan sepultado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sepultado
+      - hubieras sepultado
+      - hubiera sepultado
+      - "hubi\xE9ramos sepultado"
+      - hubierais sepultado
+      - hubieran sepultado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sepultado
+      - hubieses sepultado
+      - hubiese sepultado
+      - "hubi\xE9semos sepultado"
+      - hubieseis sepultado
+      - hubiesen sepultado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sepultado
+      - hubieres sepultado
+      - hubiere sepultado
+      - "hubi\xE9remos sepultado"
+      - hubiereis sepultado
+      - hubieren sepultado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sepulta
+      - sepulte
+      - sepultemos
+      - sepultad
+      - sepulten
+      cjid: impf

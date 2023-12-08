@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|lloriquear||} {bc}to {a_link|whine}, to {a_link|whimper}'
+  fl: intransitive verb
+  hwi:
+    hw: gimotear
+  meta:
+    id: gimotear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610845000'
+    src: spanish
+    stems:
+    - gimotear
+    uuid: 00e50ae0-6896-4227-ab95-659ae1d96617
+  shortdef:
+  - 'lloriquear : to whine, to whimper'
+  suppl:
+    cjts:
+    - cjfs:
+      - gimoteando
+      - gimoteado
+      cjid: gppt
+    - cjfs:
+      - gimoteo
+      - gimoteas
+      - gimotea
+      - gimoteamos
+      - "gimote\xE1is"
+      - gimotean
+      cjid: pind
+    - cjfs:
+      - gimoteaba
+      - gimoteabas
+      - gimoteaba
+      - "gimote\xE1bamos"
+      - gimoteabais
+      - gimoteaban
+      cjid: pret
+    - cjfs:
+      - "gimote\xE9"
+      - gimoteaste
+      - "gimote\xF3"
+      - gimoteamos
+      - gimoteasteis
+      - gimotearon
+      cjid: pprf
+    - cjfs:
+      - "gimotear\xE9"
+      - "gimotear\xE1s"
+      - "gimotear\xE1"
+      - gimotearemos
+      - "gimotear\xE9is"
+      - "gimotear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gimotear\xEDa"
+      - "gimotear\xEDas"
+      - "gimotear\xEDa"
+      - "gimotear\xEDamos"
+      - "gimotear\xEDais"
+      - "gimotear\xEDan"
+      cjid: cond
+    - cjfs:
+      - gimotee
+      - gimotees
+      - gimotee
+      - gimoteemos
+      - "gimote\xE9is"
+      - gimoteen
+      cjid: psub
+    - cjfs:
+      - gimoteara
+      - gimotearas
+      - gimoteara
+      - "gimote\xE1ramos"
+      - gimotearais
+      - gimotearan
+      cjid: pisb1
+    - cjfs:
+      - gimotease
+      - gimoteases
+      - gimotease
+      - "gimote\xE1semos"
+      - gimoteaseis
+      - gimoteasen
+      cjid: pisb2
+    - cjfs:
+      - gimoteare
+      - gimoteares
+      - gimoteare
+      - "gimote\xE1remos"
+      - gimoteareis
+      - gimotearen
+      cjid: fsub
+    - cjfs:
+      - he gimoteado
+      - has gimoteado
+      - ha gimoteado
+      - hemos gimoteado
+      - "hab\xE9is gimoteado"
+      - han gimoteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gimoteado"
+      - "hab\xEDas gimoteado"
+      - "hab\xEDa gimoteado"
+      - "hab\xEDamos gimoteado"
+      - "hab\xEDais gimoteado"
+      - "hab\xEDan gimoteado"
+      cjid: ppsi
+    - cjfs:
+      - hube gimoteado
+      - hubiste gimoteado
+      - hubo gimoteado
+      - hubimos gimoteado
+      - hubisteis gimoteado
+      - hubieron gimoteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gimoteado"
+      - "habr\xE1s gimoteado"
+      - "habr\xE1 gimoteado"
+      - habremos gimoteado
+      - "habr\xE9is gimoteado"
+      - "habr\xE1n gimoteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gimoteado"
+      - "habr\xEDas gimoteado"
+      - "habr\xEDa gimoteado"
+      - "habr\xEDamos gimoteado"
+      - "habr\xEDais gimoteado"
+      - "habr\xEDan gimoteado"
+      cjid: cpef
+    - cjfs:
+      - haya gimoteado
+      - hayas gimoteado
+      - haya gimoteado
+      - hayamos gimoteado
+      - "hay\xE1is gimoteado"
+      - hayan gimoteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera gimoteado
+      - hubieras gimoteado
+      - hubiera gimoteado
+      - "hubi\xE9ramos gimoteado"
+      - hubierais gimoteado
+      - hubieran gimoteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese gimoteado
+      - hubieses gimoteado
+      - hubiese gimoteado
+      - "hubi\xE9semos gimoteado"
+      - hubieseis gimoteado
+      - hubiesen gimoteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere gimoteado
+      - hubieres gimoteado
+      - hubiere gimoteado
+      - "hubi\xE9remos gimoteado"
+      - hubiereis gimoteado
+      - hubieren gimoteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gimotea
+      - gimotee
+      - gimoteemos
+      - gimotead
+      - gimoteen
+      cjid: impf

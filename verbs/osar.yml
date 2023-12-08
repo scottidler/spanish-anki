@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dare}'
+  fl: intransitive verb
+  hwi:
+    hw: osar
+    prs:
+    - sound:
+        audio: osar001sp
+  meta:
+    id: osar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616369000'
+    src: spanish
+    stems:
+    - osar
+    uuid: 9c3a0f51-cbe6-47dc-9a1d-39838c10800e
+  shortdef:
+  - to dare
+  suppl:
+    cjts:
+    - cjfs:
+      - osando
+      - osado
+      cjid: gppt
+    - cjfs:
+      - oso
+      - osas
+      - osa
+      - osamos
+      - "os\xE1is"
+      - osan
+      cjid: pind
+    - cjfs:
+      - osaba
+      - osabas
+      - osaba
+      - "os\xE1bamos"
+      - osabais
+      - osaban
+      cjid: pret
+    - cjfs:
+      - "os\xE9"
+      - osaste
+      - "os\xF3"
+      - osamos
+      - osasteis
+      - osaron
+      cjid: pprf
+    - cjfs:
+      - "osar\xE9"
+      - "osar\xE1s"
+      - "osar\xE1"
+      - osaremos
+      - "osar\xE9is"
+      - "osar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "osar\xEDa"
+      - "osar\xEDas"
+      - "osar\xEDa"
+      - "osar\xEDamos"
+      - "osar\xEDais"
+      - "osar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ose
+      - oses
+      - ose
+      - osemos
+      - "os\xE9is"
+      - osen
+      cjid: psub
+    - cjfs:
+      - osara
+      - osaras
+      - osara
+      - "os\xE1ramos"
+      - osarais
+      - osaran
+      cjid: pisb1
+    - cjfs:
+      - osase
+      - osases
+      - osase
+      - "os\xE1semos"
+      - osaseis
+      - osasen
+      cjid: pisb2
+    - cjfs:
+      - osare
+      - osares
+      - osare
+      - "os\xE1remos"
+      - osareis
+      - osaren
+      cjid: fsub
+    - cjfs:
+      - he osado
+      - has osado
+      - ha osado
+      - hemos osado
+      - "hab\xE9is osado"
+      - han osado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa osado"
+      - "hab\xEDas osado"
+      - "hab\xEDa osado"
+      - "hab\xEDamos osado"
+      - "hab\xEDais osado"
+      - "hab\xEDan osado"
+      cjid: ppsi
+    - cjfs:
+      - hube osado
+      - hubiste osado
+      - hubo osado
+      - hubimos osado
+      - hubisteis osado
+      - hubieron osado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 osado"
+      - "habr\xE1s osado"
+      - "habr\xE1 osado"
+      - habremos osado
+      - "habr\xE9is osado"
+      - "habr\xE1n osado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa osado"
+      - "habr\xEDas osado"
+      - "habr\xEDa osado"
+      - "habr\xEDamos osado"
+      - "habr\xEDais osado"
+      - "habr\xEDan osado"
+      cjid: cpef
+    - cjfs:
+      - haya osado
+      - hayas osado
+      - haya osado
+      - hayamos osado
+      - "hay\xE1is osado"
+      - hayan osado
+      cjid: ppfs
+    - cjfs:
+      - hubiera osado
+      - hubieras osado
+      - hubiera osado
+      - "hubi\xE9ramos osado"
+      - hubierais osado
+      - hubieran osado
+      cjid: ppss1
+    - cjfs:
+      - hubiese osado
+      - hubieses osado
+      - hubiese osado
+      - "hubi\xE9semos osado"
+      - hubieseis osado
+      - hubiesen osado
+      cjid: ppss2
+    - cjfs:
+      - hubiere osado
+      - hubieres osado
+      - hubiere osado
+      - "hubi\xE9remos osado"
+      - hubiereis osado
+      - hubieren osado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - osa
+      - ose
+      - osemos
+      - osad
+      - osen
+      cjid: impf

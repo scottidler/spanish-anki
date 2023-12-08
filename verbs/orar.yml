@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rezar||} {bc}to {a_link|pray}'
+  fl: intransitive verb
+  hwi:
+    hw: orar
+    prs:
+    - sound:
+        audio: orar001sp
+  meta:
+    id: orar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616266000'
+    src: spanish
+    stems:
+    - orar
+    uuid: 0289d0ca-7194-4610-8a64-4b4b69124aac
+  shortdef:
+  - 'rezar : to pray'
+  suppl:
+    cjts:
+    - cjfs:
+      - orando
+      - orado
+      cjid: gppt
+    - cjfs:
+      - oro
+      - oras
+      - ora
+      - oramos
+      - "or\xE1is"
+      - oran
+      cjid: pind
+    - cjfs:
+      - oraba
+      - orabas
+      - oraba
+      - "or\xE1bamos"
+      - orabais
+      - oraban
+      cjid: pret
+    - cjfs:
+      - "or\xE9"
+      - oraste
+      - "or\xF3"
+      - oramos
+      - orasteis
+      - oraron
+      cjid: pprf
+    - cjfs:
+      - "orar\xE9"
+      - "orar\xE1s"
+      - "orar\xE1"
+      - oraremos
+      - "orar\xE9is"
+      - "orar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "orar\xEDa"
+      - "orar\xEDas"
+      - "orar\xEDa"
+      - "orar\xEDamos"
+      - "orar\xEDais"
+      - "orar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ore
+      - ores
+      - ore
+      - oremos
+      - "or\xE9is"
+      - oren
+      cjid: psub
+    - cjfs:
+      - orara
+      - oraras
+      - orara
+      - "or\xE1ramos"
+      - orarais
+      - oraran
+      cjid: pisb1
+    - cjfs:
+      - orase
+      - orases
+      - orase
+      - "or\xE1semos"
+      - oraseis
+      - orasen
+      cjid: pisb2
+    - cjfs:
+      - orare
+      - orares
+      - orare
+      - "or\xE1remos"
+      - orareis
+      - oraren
+      cjid: fsub
+    - cjfs:
+      - he orado
+      - has orado
+      - ha orado
+      - hemos orado
+      - "hab\xE9is orado"
+      - han orado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa orado"
+      - "hab\xEDas orado"
+      - "hab\xEDa orado"
+      - "hab\xEDamos orado"
+      - "hab\xEDais orado"
+      - "hab\xEDan orado"
+      cjid: ppsi
+    - cjfs:
+      - hube orado
+      - hubiste orado
+      - hubo orado
+      - hubimos orado
+      - hubisteis orado
+      - hubieron orado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 orado"
+      - "habr\xE1s orado"
+      - "habr\xE1 orado"
+      - habremos orado
+      - "habr\xE9is orado"
+      - "habr\xE1n orado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa orado"
+      - "habr\xEDas orado"
+      - "habr\xEDa orado"
+      - "habr\xEDamos orado"
+      - "habr\xEDais orado"
+      - "habr\xEDan orado"
+      cjid: cpef
+    - cjfs:
+      - haya orado
+      - hayas orado
+      - haya orado
+      - hayamos orado
+      - "hay\xE1is orado"
+      - hayan orado
+      cjid: ppfs
+    - cjfs:
+      - hubiera orado
+      - hubieras orado
+      - hubiera orado
+      - "hubi\xE9ramos orado"
+      - hubierais orado
+      - hubieran orado
+      cjid: ppss1
+    - cjfs:
+      - hubiese orado
+      - hubieses orado
+      - hubiese orado
+      - "hubi\xE9semos orado"
+      - hubieseis orado
+      - hubiesen orado
+      cjid: ppss2
+    - cjfs:
+      - hubiere orado
+      - hubieres orado
+      - hubiere orado
+      - "hubi\xE9remos orado"
+      - hubiereis orado
+      - hubieren orado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ora
+      - ore
+      - oremos
+      - orad
+      - oren
+      cjid: impf

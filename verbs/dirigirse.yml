@@ -1,0 +1,227 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run}, to {a_link|manage} (a business, etc.), to {a_link|lead}
+              (a group, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|conduct} (music), to {a_link|direct} (a film)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|address} (a letter, comment, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|aim}, to {a_link|point} '
+          - - vis
+            - - t: dirigir la mirada a/hacia
+                tr: to look at/towards
+              - t: "dirigir la atenci\xF3n hacia"
+                tr: to turn one's attention to
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sen
+          - vrs:
+            - va: dirigirse a
+              vac: ~ a
+        - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go towards}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to speak to, to {a_link|address}'
+            sn: '2'
+    drp: dirigirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: dirigir
+    prs:
+    - sound:
+        audio: dirig02sp
+  meta:
+    id: dirigir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607644000'
+    src: spanish
+    stems:
+    - dirigir
+    - dirigirse
+    - dirigirse a
+    uuid: e7fa1b9f-88b4-4bd5-b9bf-224333663e9c
+  shortdef:
+  - to run, to manage (a business, etc.), to lead (a group, etc.)
+  - to conduct (music), to direct (a film)
+  - to address (a letter, comment, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - dirigiendo
+      - dirigido
+      cjid: gppt
+    - cjfs:
+      - dirijo
+      - diriges
+      - dirige
+      - dirigimos
+      - "dirig\xEDs"
+      - dirigen
+      cjid: pind
+    - cjfs:
+      - "dirig\xEDa"
+      - "dirig\xEDas"
+      - "dirig\xEDa"
+      - "dirig\xEDamos"
+      - "dirig\xEDais"
+      - "dirig\xEDan"
+      cjid: pret
+    - cjfs:
+      - "dirig\xED"
+      - dirigiste
+      - "dirigi\xF3"
+      - dirigimos
+      - dirigisteis
+      - dirigieron
+      cjid: pprf
+    - cjfs:
+      - "dirigir\xE9"
+      - "dirigir\xE1s"
+      - "dirigir\xE1"
+      - dirigiremos
+      - "dirigir\xE9is"
+      - "dirigir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dirigir\xEDa"
+      - "dirigir\xEDas"
+      - "dirigir\xEDa"
+      - "dirigir\xEDamos"
+      - "dirigir\xEDais"
+      - "dirigir\xEDan"
+      cjid: cond
+    - cjfs:
+      - dirija
+      - dirijas
+      - dirija
+      - dirijamos
+      - "dirij\xE1is"
+      - dirijan
+      cjid: psub
+    - cjfs:
+      - dirigiera
+      - dirigieras
+      - dirigiera
+      - "dirigi\xE9ramos"
+      - dirigierais
+      - dirigieran
+      cjid: pisb1
+    - cjfs:
+      - dirigiese
+      - dirigieses
+      - dirigiese
+      - "dirigi\xE9semos"
+      - dirigieseis
+      - dirigiesen
+      cjid: pisb2
+    - cjfs:
+      - dirigiere
+      - dirigieres
+      - dirigiere
+      - "dirigi\xE9remos"
+      - dirigiereis
+      - dirigieren
+      cjid: fsub
+    - cjfs:
+      - he dirigido
+      - has dirigido
+      - ha dirigido
+      - hemos dirigido
+      - "hab\xE9is dirigido"
+      - han dirigido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dirigido"
+      - "hab\xEDas dirigido"
+      - "hab\xEDa dirigido"
+      - "hab\xEDamos dirigido"
+      - "hab\xEDais dirigido"
+      - "hab\xEDan dirigido"
+      cjid: ppsi
+    - cjfs:
+      - hube dirigido
+      - hubiste dirigido
+      - hubo dirigido
+      - hubimos dirigido
+      - hubisteis dirigido
+      - hubieron dirigido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dirigido"
+      - "habr\xE1s dirigido"
+      - "habr\xE1 dirigido"
+      - habremos dirigido
+      - "habr\xE9is dirigido"
+      - "habr\xE1n dirigido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dirigido"
+      - "habr\xEDas dirigido"
+      - "habr\xEDa dirigido"
+      - "habr\xEDamos dirigido"
+      - "habr\xEDais dirigido"
+      - "habr\xEDan dirigido"
+      cjid: cpef
+    - cjfs:
+      - haya dirigido
+      - hayas dirigido
+      - haya dirigido
+      - hayamos dirigido
+      - "hay\xE1is dirigido"
+      - hayan dirigido
+      cjid: ppfs
+    - cjfs:
+      - hubiera dirigido
+      - hubieras dirigido
+      - hubiera dirigido
+      - "hubi\xE9ramos dirigido"
+      - hubierais dirigido
+      - hubieran dirigido
+      cjid: ppss1
+    - cjfs:
+      - hubiese dirigido
+      - hubieses dirigido
+      - hubiese dirigido
+      - "hubi\xE9semos dirigido"
+      - hubieseis dirigido
+      - hubiesen dirigido
+      cjid: ppss2
+    - cjfs:
+      - hubiere dirigido
+      - hubieres dirigido
+      - hubiere dirigido
+      - "hubi\xE9remos dirigido"
+      - hubiereis dirigido
+      - hubieren dirigido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dirige
+      - dirija
+      - dirijamos
+      - dirigid
+      - dirijan
+      cjid: impf

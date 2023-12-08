@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reign}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prevail}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: reinar
+    prs:
+    - sound:
+        audio: reina03sp
+  meta:
+    id: reinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619255000'
+    src: spanish
+    stems:
+    - reinar
+    uuid: 68edfe2f-87b7-4a7d-9c26-6f474f163769
+  shortdef:
+  - to reign
+  - to prevail
+  suppl:
+    cjts:
+    - cjfs:
+      - reinando
+      - reinado
+      cjid: gppt
+    - cjfs:
+      - reino
+      - reinas
+      - reina
+      - reinamos
+      - "rein\xE1is"
+      - reinan
+      cjid: pind
+    - cjfs:
+      - reinaba
+      - reinabas
+      - reinaba
+      - "rein\xE1bamos"
+      - reinabais
+      - reinaban
+      cjid: pret
+    - cjfs:
+      - "rein\xE9"
+      - reinaste
+      - "rein\xF3"
+      - reinamos
+      - reinasteis
+      - reinaron
+      cjid: pprf
+    - cjfs:
+      - "reinar\xE9"
+      - "reinar\xE1s"
+      - "reinar\xE1"
+      - reinaremos
+      - "reinar\xE9is"
+      - "reinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reinar\xEDa"
+      - "reinar\xEDas"
+      - "reinar\xEDa"
+      - "reinar\xEDamos"
+      - "reinar\xEDais"
+      - "reinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reine
+      - reines
+      - reine
+      - reinemos
+      - "rein\xE9is"
+      - reinen
+      cjid: psub
+    - cjfs:
+      - reinara
+      - reinaras
+      - reinara
+      - "rein\xE1ramos"
+      - reinarais
+      - reinaran
+      cjid: pisb1
+    - cjfs:
+      - reinase
+      - reinases
+      - reinase
+      - "rein\xE1semos"
+      - reinaseis
+      - reinasen
+      cjid: pisb2
+    - cjfs:
+      - reinare
+      - reinares
+      - reinare
+      - "rein\xE1remos"
+      - reinareis
+      - reinaren
+      cjid: fsub
+    - cjfs:
+      - he reinado
+      - has reinado
+      - ha reinado
+      - hemos reinado
+      - "hab\xE9is reinado"
+      - han reinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reinado"
+      - "hab\xEDas reinado"
+      - "hab\xEDa reinado"
+      - "hab\xEDamos reinado"
+      - "hab\xEDais reinado"
+      - "hab\xEDan reinado"
+      cjid: ppsi
+    - cjfs:
+      - hube reinado
+      - hubiste reinado
+      - hubo reinado
+      - hubimos reinado
+      - hubisteis reinado
+      - hubieron reinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reinado"
+      - "habr\xE1s reinado"
+      - "habr\xE1 reinado"
+      - habremos reinado
+      - "habr\xE9is reinado"
+      - "habr\xE1n reinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reinado"
+      - "habr\xEDas reinado"
+      - "habr\xEDa reinado"
+      - "habr\xEDamos reinado"
+      - "habr\xEDais reinado"
+      - "habr\xEDan reinado"
+      cjid: cpef
+    - cjfs:
+      - haya reinado
+      - hayas reinado
+      - haya reinado
+      - hayamos reinado
+      - "hay\xE1is reinado"
+      - hayan reinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reinado
+      - hubieras reinado
+      - hubiera reinado
+      - "hubi\xE9ramos reinado"
+      - hubierais reinado
+      - hubieran reinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reinado
+      - hubieses reinado
+      - hubiese reinado
+      - "hubi\xE9semos reinado"
+      - hubieseis reinado
+      - hubiesen reinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reinado
+      - hubieres reinado
+      - hubiere reinado
+      - "hubi\xE9remos reinado"
+      - hubiereis reinado
+      - hubieren reinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reina
+      - reine
+      - reinemos
+      - reinad
+      - reinen
+      cjid: impf

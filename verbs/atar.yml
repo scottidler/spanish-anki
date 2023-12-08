@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|amarrar||} {bc}to {a_link|tie}, to {a_link|tie up}, to tie down'
+  fl: transitive verb
+  hwi:
+    hw: atar
+    prs:
+    - sound:
+        audio: atar001sp
+  meta:
+    id: atar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602259000'
+    src: spanish
+    stems:
+    - atar
+    - atarse
+    uuid: 645cc2f8-ffa4-43a7-9b4f-2e0147114e74
+  shortdef:
+  - 'amarrar : to tie, to tie up, to tie down'
+  suppl:
+    cjts:
+    - cjfs:
+      - atando
+      - atado
+      cjid: gppt
+    - cjfs:
+      - ato
+      - atas
+      - ata
+      - atamos
+      - "at\xE1is"
+      - atan
+      cjid: pind
+    - cjfs:
+      - ataba
+      - atabas
+      - ataba
+      - "at\xE1bamos"
+      - atabais
+      - ataban
+      cjid: pret
+    - cjfs:
+      - "at\xE9"
+      - ataste
+      - "at\xF3"
+      - atamos
+      - atasteis
+      - ataron
+      cjid: pprf
+    - cjfs:
+      - "atar\xE9"
+      - "atar\xE1s"
+      - "atar\xE1"
+      - ataremos
+      - "atar\xE9is"
+      - "atar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atar\xEDa"
+      - "atar\xEDas"
+      - "atar\xEDa"
+      - "atar\xEDamos"
+      - "atar\xEDais"
+      - "atar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ate
+      - ates
+      - ate
+      - atemos
+      - "at\xE9is"
+      - aten
+      cjid: psub
+    - cjfs:
+      - atara
+      - ataras
+      - atara
+      - "at\xE1ramos"
+      - atarais
+      - ataran
+      cjid: pisb1
+    - cjfs:
+      - atase
+      - atases
+      - atase
+      - "at\xE1semos"
+      - ataseis
+      - atasen
+      cjid: pisb2
+    - cjfs:
+      - atare
+      - atares
+      - atare
+      - "at\xE1remos"
+      - atareis
+      - ataren
+      cjid: fsub
+    - cjfs:
+      - he atado
+      - has atado
+      - ha atado
+      - hemos atado
+      - "hab\xE9is atado"
+      - han atado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atado"
+      - "hab\xEDas atado"
+      - "hab\xEDa atado"
+      - "hab\xEDamos atado"
+      - "hab\xEDais atado"
+      - "hab\xEDan atado"
+      cjid: ppsi
+    - cjfs:
+      - hube atado
+      - hubiste atado
+      - hubo atado
+      - hubimos atado
+      - hubisteis atado
+      - hubieron atado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atado"
+      - "habr\xE1s atado"
+      - "habr\xE1 atado"
+      - habremos atado
+      - "habr\xE9is atado"
+      - "habr\xE1n atado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atado"
+      - "habr\xEDas atado"
+      - "habr\xEDa atado"
+      - "habr\xEDamos atado"
+      - "habr\xEDais atado"
+      - "habr\xEDan atado"
+      cjid: cpef
+    - cjfs:
+      - haya atado
+      - hayas atado
+      - haya atado
+      - hayamos atado
+      - "hay\xE1is atado"
+      - hayan atado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atado
+      - hubieras atado
+      - hubiera atado
+      - "hubi\xE9ramos atado"
+      - hubierais atado
+      - hubieran atado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atado
+      - hubieses atado
+      - hubiese atado
+      - "hubi\xE9semos atado"
+      - hubieseis atado
+      - hubiesen atado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atado
+      - hubieres atado
+      - hubiere atado
+      - "hubi\xE9remos atado"
+      - hubiereis atado
+      - hubieren atado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ata
+      - ate
+      - atemos
+      - atad
+      - aten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: atarse

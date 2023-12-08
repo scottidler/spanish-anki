@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to travel through, to {a_link|tour}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cover} (a distance)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go over}, to look over'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: recorrer
+    prs:
+    - sound:
+        audio: recor04sp
+  meta:
+    id: recorrer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619040000'
+    src: spanish
+    stems:
+    - recorrer
+    uuid: dba5b299-cd96-473d-8ac1-13eb11319d08
+  shortdef:
+  - to travel through, to tour
+  - to cover (a distance)
+  - to go over, to look over
+  suppl:
+    cjts:
+    - cjfs:
+      - recorriendo
+      - recorrido
+      cjid: gppt
+    - cjfs:
+      - recorro
+      - recorres
+      - recorre
+      - recorremos
+      - "recorr\xE9is"
+      - recorren
+      cjid: pind
+    - cjfs:
+      - "recorr\xEDa"
+      - "recorr\xEDas"
+      - "recorr\xEDa"
+      - "recorr\xEDamos"
+      - "recorr\xEDais"
+      - "recorr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "recorr\xED"
+      - recorriste
+      - "recorri\xF3"
+      - recorrimos
+      - recorristeis
+      - recorrieron
+      cjid: pprf
+    - cjfs:
+      - "recorrer\xE9"
+      - "recorrer\xE1s"
+      - "recorrer\xE1"
+      - recorreremos
+      - "recorrer\xE9is"
+      - "recorrer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recorrer\xEDa"
+      - "recorrer\xEDas"
+      - "recorrer\xEDa"
+      - "recorrer\xEDamos"
+      - "recorrer\xEDais"
+      - "recorrer\xEDan"
+      cjid: cond
+    - cjfs:
+      - recorra
+      - recorras
+      - recorra
+      - recorramos
+      - "recorr\xE1is"
+      - recorran
+      cjid: psub
+    - cjfs:
+      - recorriera
+      - recorrieras
+      - recorriera
+      - "recorri\xE9ramos"
+      - recorrierais
+      - recorrieran
+      cjid: pisb1
+    - cjfs:
+      - recorriese
+      - recorrieses
+      - recorriese
+      - "recorri\xE9semos"
+      - recorrieseis
+      - recorriesen
+      cjid: pisb2
+    - cjfs:
+      - recorriere
+      - recorrieres
+      - recorriere
+      - "recorri\xE9remos"
+      - recorriereis
+      - recorrieren
+      cjid: fsub
+    - cjfs:
+      - he recorrido
+      - has recorrido
+      - ha recorrido
+      - hemos recorrido
+      - "hab\xE9is recorrido"
+      - han recorrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recorrido"
+      - "hab\xEDas recorrido"
+      - "hab\xEDa recorrido"
+      - "hab\xEDamos recorrido"
+      - "hab\xEDais recorrido"
+      - "hab\xEDan recorrido"
+      cjid: ppsi
+    - cjfs:
+      - hube recorrido
+      - hubiste recorrido
+      - hubo recorrido
+      - hubimos recorrido
+      - hubisteis recorrido
+      - hubieron recorrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recorrido"
+      - "habr\xE1s recorrido"
+      - "habr\xE1 recorrido"
+      - habremos recorrido
+      - "habr\xE9is recorrido"
+      - "habr\xE1n recorrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recorrido"
+      - "habr\xEDas recorrido"
+      - "habr\xEDa recorrido"
+      - "habr\xEDamos recorrido"
+      - "habr\xEDais recorrido"
+      - "habr\xEDan recorrido"
+      cjid: cpef
+    - cjfs:
+      - haya recorrido
+      - hayas recorrido
+      - haya recorrido
+      - hayamos recorrido
+      - "hay\xE1is recorrido"
+      - hayan recorrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera recorrido
+      - hubieras recorrido
+      - hubiera recorrido
+      - "hubi\xE9ramos recorrido"
+      - hubierais recorrido
+      - hubieran recorrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese recorrido
+      - hubieses recorrido
+      - hubiese recorrido
+      - "hubi\xE9semos recorrido"
+      - hubieseis recorrido
+      - hubiesen recorrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere recorrido
+      - hubieres recorrido
+      - hubiere recorrido
+      - "hubi\xE9remos recorrido"
+      - hubiereis recorrido
+      - hubieren recorrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recorre
+      - recorra
+      - recorramos
+      - recorred
+      - recorran
+      cjid: impf

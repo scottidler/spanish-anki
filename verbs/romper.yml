@@ -1,0 +1,257 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break} (a glass, a bone, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rip}, to {a_link|tear} (cloth, paper)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break off} (relations), to {a_link|break} (a contract)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to break through/down (a door, etc.)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|gastar||} {bc}to {a_link|wear out}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break} '
+          - - vis
+            - - t: romper el hielo/silencio
+                tr: to break the ice/silence
+          sn: '6'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break} '
+          - - vis
+            - - t: "al romper del d\xEDa"
+                tr: at the break of day
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to begin to, to burst out with '
+          - - vis
+            - - t: romper a llorar
+                tr: to burst into tears
+          sn: '2'
+          vrs:
+          - va: romper a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to break with (tradition, etc.), to break away from'
+          sn: '3'
+          vrs:
+          - va: romper con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to break up with someone'
+          sn: '4'
+          vrs:
+          - va: romper con alguien
+            vac: ~ con alguien
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: romper
+    prs:
+    - sound:
+        audio: rompe02sp
+  meta:
+    id: romper
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619919000'
+    src: spanish
+    stems:
+    - romper
+    - romper a
+    - romper con
+    - romper con alguien
+    - romperse
+    uuid: 9d1a588f-c181-463f-aec6-a036c78eeae1
+  shortdef:
+  - to break (a glass, a bone, etc.)
+  - to rip, to tear (cloth, paper)
+  - to break off (relations), to break (a contract)
+  suppl:
+    cjts:
+    - cjfs:
+      - rompiendo
+      - roto
+      cjid: gppt
+    - cjfs:
+      - rompo
+      - rompes
+      - rompe
+      - rompemos
+      - "romp\xE9is"
+      - rompen
+      cjid: pind
+    - cjfs:
+      - "romp\xEDa"
+      - "romp\xEDas"
+      - "romp\xEDa"
+      - "romp\xEDamos"
+      - "romp\xEDais"
+      - "romp\xEDan"
+      cjid: pret
+    - cjfs:
+      - "romp\xED"
+      - rompiste
+      - "rompi\xF3"
+      - rompimos
+      - rompisteis
+      - rompieron
+      cjid: pprf
+    - cjfs:
+      - "romper\xE9"
+      - "romper\xE1s"
+      - "romper\xE1"
+      - romperemos
+      - "romper\xE9is"
+      - "romper\xE1n"
+      cjid: futr
+    - cjfs:
+      - "romper\xEDa"
+      - "romper\xEDas"
+      - "romper\xEDa"
+      - "romper\xEDamos"
+      - "romper\xEDais"
+      - "romper\xEDan"
+      cjid: cond
+    - cjfs:
+      - rompa
+      - rompas
+      - rompa
+      - rompamos
+      - "romp\xE1is"
+      - rompan
+      cjid: psub
+    - cjfs:
+      - rompiera
+      - rompieras
+      - rompiera
+      - "rompi\xE9ramos"
+      - rompierais
+      - rompieran
+      cjid: pisb1
+    - cjfs:
+      - rompiese
+      - rompieses
+      - rompiese
+      - "rompi\xE9semos"
+      - rompieseis
+      - rompiesen
+      cjid: pisb2
+    - cjfs:
+      - rompiere
+      - rompieres
+      - rompiere
+      - "rompi\xE9remos"
+      - rompiereis
+      - rompieren
+      cjid: fsub
+    - cjfs:
+      - he roto
+      - has roto
+      - ha roto
+      - hemos roto
+      - "hab\xE9is roto"
+      - han roto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa roto"
+      - "hab\xEDas roto"
+      - "hab\xEDa roto"
+      - "hab\xEDamos roto"
+      - "hab\xEDais roto"
+      - "hab\xEDan roto"
+      cjid: ppsi
+    - cjfs:
+      - hube roto
+      - hubiste roto
+      - hubo roto
+      - hubimos roto
+      - hubisteis roto
+      - hubieron roto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 roto"
+      - "habr\xE1s roto"
+      - "habr\xE1 roto"
+      - habremos roto
+      - "habr\xE9is roto"
+      - "habr\xE1n roto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa roto"
+      - "habr\xEDas roto"
+      - "habr\xEDa roto"
+      - "habr\xEDamos roto"
+      - "habr\xEDais roto"
+      - "habr\xEDan roto"
+      cjid: cpef
+    - cjfs:
+      - haya roto
+      - hayas roto
+      - haya roto
+      - hayamos roto
+      - "hay\xE1is roto"
+      - hayan roto
+      cjid: ppfs
+    - cjfs:
+      - hubiera roto
+      - hubieras roto
+      - hubiera roto
+      - "hubi\xE9ramos roto"
+      - hubierais roto
+      - hubieran roto
+      cjid: ppss1
+    - cjfs:
+      - hubiese roto
+      - hubieses roto
+      - hubiese roto
+      - "hubi\xE9semos roto"
+      - hubieseis roto
+      - hubiesen roto
+      cjid: ppss2
+    - cjfs:
+      - hubiere roto
+      - hubieres roto
+      - hubiere roto
+      - "hubi\xE9remos roto"
+      - hubiereis roto
+      - hubieren roto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rompe
+      - rompa
+      - rompamos
+      - romped
+      - rompan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: romperse

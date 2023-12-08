@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|interest}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be of interest, to be interesting'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: interesar
+    prs:
+    - sound:
+        audio: inter10sp
+  meta:
+    id: interesar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612831000'
+    src: spanish
+    stems:
+    - interesar
+    - interesarse
+    uuid: ba84be32-3270-4aa7-b6e2-710a1da93224
+  shortdef:
+  - to interest
+  - to be of interest, to be interesting
+  suppl:
+    cjts:
+    - cjfs:
+      - interesando
+      - interesado
+      cjid: gppt
+    - cjfs:
+      - intereso
+      - interesas
+      - interesa
+      - interesamos
+      - "interes\xE1is"
+      - interesan
+      cjid: pind
+    - cjfs:
+      - interesaba
+      - interesabas
+      - interesaba
+      - "interes\xE1bamos"
+      - interesabais
+      - interesaban
+      cjid: pret
+    - cjfs:
+      - "interes\xE9"
+      - interesaste
+      - "interes\xF3"
+      - interesamos
+      - interesasteis
+      - interesaron
+      cjid: pprf
+    - cjfs:
+      - "interesar\xE9"
+      - "interesar\xE1s"
+      - "interesar\xE1"
+      - interesaremos
+      - "interesar\xE9is"
+      - "interesar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "interesar\xEDa"
+      - "interesar\xEDas"
+      - "interesar\xEDa"
+      - "interesar\xEDamos"
+      - "interesar\xEDais"
+      - "interesar\xEDan"
+      cjid: cond
+    - cjfs:
+      - interese
+      - intereses
+      - interese
+      - interesemos
+      - "interes\xE9is"
+      - interesen
+      cjid: psub
+    - cjfs:
+      - interesara
+      - interesaras
+      - interesara
+      - "interes\xE1ramos"
+      - interesarais
+      - interesaran
+      cjid: pisb1
+    - cjfs:
+      - interesase
+      - interesases
+      - interesase
+      - "interes\xE1semos"
+      - interesaseis
+      - interesasen
+      cjid: pisb2
+    - cjfs:
+      - interesare
+      - interesares
+      - interesare
+      - "interes\xE1remos"
+      - interesareis
+      - interesaren
+      cjid: fsub
+    - cjfs:
+      - he interesado
+      - has interesado
+      - ha interesado
+      - hemos interesado
+      - "hab\xE9is interesado"
+      - han interesado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa interesado"
+      - "hab\xEDas interesado"
+      - "hab\xEDa interesado"
+      - "hab\xEDamos interesado"
+      - "hab\xEDais interesado"
+      - "hab\xEDan interesado"
+      cjid: ppsi
+    - cjfs:
+      - hube interesado
+      - hubiste interesado
+      - hubo interesado
+      - hubimos interesado
+      - hubisteis interesado
+      - hubieron interesado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 interesado"
+      - "habr\xE1s interesado"
+      - "habr\xE1 interesado"
+      - habremos interesado
+      - "habr\xE9is interesado"
+      - "habr\xE1n interesado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa interesado"
+      - "habr\xEDas interesado"
+      - "habr\xEDa interesado"
+      - "habr\xEDamos interesado"
+      - "habr\xEDais interesado"
+      - "habr\xEDan interesado"
+      cjid: cpef
+    - cjfs:
+      - haya interesado
+      - hayas interesado
+      - haya interesado
+      - hayamos interesado
+      - "hay\xE1is interesado"
+      - hayan interesado
+      cjid: ppfs
+    - cjfs:
+      - hubiera interesado
+      - hubieras interesado
+      - hubiera interesado
+      - "hubi\xE9ramos interesado"
+      - hubierais interesado
+      - hubieran interesado
+      cjid: ppss1
+    - cjfs:
+      - hubiese interesado
+      - hubieses interesado
+      - hubiese interesado
+      - "hubi\xE9semos interesado"
+      - hubieseis interesado
+      - hubiesen interesado
+      cjid: ppss2
+    - cjfs:
+      - hubiere interesado
+      - hubieres interesado
+      - hubiere interesado
+      - "hubi\xE9remos interesado"
+      - hubiereis interesado
+      - hubieren interesado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - interesa
+      - interese
+      - interesemos
+      - interesad
+      - interesen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: interesarse

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to burst forth, to {a_link|break out} '
+          - - vis
+            - - t: "prorrump\xED en l\xE1grimas"
+                tr: I burst into tears
+  fl: intransitive verb
+  hwi:
+    hw: prorrumpir
+  meta:
+    id: prorrumpir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618313000'
+    src: spanish
+    stems:
+    - prorrumpir
+    uuid: 236569d3-8e1c-4127-8bc8-83b6fbf54bef
+  shortdef:
+  - to burst forth, to break out
+  suppl:
+    cjts:
+    - cjfs:
+      - prorrumpiendo
+      - prorrumpido
+      cjid: gppt
+    - cjfs:
+      - prorrumpo
+      - prorrumpes
+      - prorrumpe
+      - prorrumpimos
+      - "prorrump\xEDs"
+      - prorrumpen
+      cjid: pind
+    - cjfs:
+      - "prorrump\xEDa"
+      - "prorrump\xEDas"
+      - "prorrump\xEDa"
+      - "prorrump\xEDamos"
+      - "prorrump\xEDais"
+      - "prorrump\xEDan"
+      cjid: pret
+    - cjfs:
+      - "prorrump\xED"
+      - prorrumpiste
+      - "prorrumpi\xF3"
+      - prorrumpimos
+      - prorrumpisteis
+      - prorrumpieron
+      cjid: pprf
+    - cjfs:
+      - "prorrumpir\xE9"
+      - "prorrumpir\xE1s"
+      - "prorrumpir\xE1"
+      - prorrumpiremos
+      - "prorrumpir\xE9is"
+      - "prorrumpir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prorrumpir\xEDa"
+      - "prorrumpir\xEDas"
+      - "prorrumpir\xEDa"
+      - "prorrumpir\xEDamos"
+      - "prorrumpir\xEDais"
+      - "prorrumpir\xEDan"
+      cjid: cond
+    - cjfs:
+      - prorrumpa
+      - prorrumpas
+      - prorrumpa
+      - prorrumpamos
+      - "prorrump\xE1is"
+      - prorrumpan
+      cjid: psub
+    - cjfs:
+      - prorrumpiera
+      - prorrumpieras
+      - prorrumpiera
+      - "prorrumpi\xE9ramos"
+      - prorrumpierais
+      - prorrumpieran
+      cjid: pisb1
+    - cjfs:
+      - prorrumpiese
+      - prorrumpieses
+      - prorrumpiese
+      - "prorrumpi\xE9semos"
+      - prorrumpieseis
+      - prorrumpiesen
+      cjid: pisb2
+    - cjfs:
+      - prorrumpiere
+      - prorrumpieres
+      - prorrumpiere
+      - "prorrumpi\xE9remos"
+      - prorrumpiereis
+      - prorrumpieren
+      cjid: fsub
+    - cjfs:
+      - he prorrumpido
+      - has prorrumpido
+      - ha prorrumpido
+      - hemos prorrumpido
+      - "hab\xE9is prorrumpido"
+      - han prorrumpido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prorrumpido"
+      - "hab\xEDas prorrumpido"
+      - "hab\xEDa prorrumpido"
+      - "hab\xEDamos prorrumpido"
+      - "hab\xEDais prorrumpido"
+      - "hab\xEDan prorrumpido"
+      cjid: ppsi
+    - cjfs:
+      - hube prorrumpido
+      - hubiste prorrumpido
+      - hubo prorrumpido
+      - hubimos prorrumpido
+      - hubisteis prorrumpido
+      - hubieron prorrumpido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prorrumpido"
+      - "habr\xE1s prorrumpido"
+      - "habr\xE1 prorrumpido"
+      - habremos prorrumpido
+      - "habr\xE9is prorrumpido"
+      - "habr\xE1n prorrumpido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prorrumpido"
+      - "habr\xEDas prorrumpido"
+      - "habr\xEDa prorrumpido"
+      - "habr\xEDamos prorrumpido"
+      - "habr\xEDais prorrumpido"
+      - "habr\xEDan prorrumpido"
+      cjid: cpef
+    - cjfs:
+      - haya prorrumpido
+      - hayas prorrumpido
+      - haya prorrumpido
+      - hayamos prorrumpido
+      - "hay\xE1is prorrumpido"
+      - hayan prorrumpido
+      cjid: ppfs
+    - cjfs:
+      - hubiera prorrumpido
+      - hubieras prorrumpido
+      - hubiera prorrumpido
+      - "hubi\xE9ramos prorrumpido"
+      - hubierais prorrumpido
+      - hubieran prorrumpido
+      cjid: ppss1
+    - cjfs:
+      - hubiese prorrumpido
+      - hubieses prorrumpido
+      - hubiese prorrumpido
+      - "hubi\xE9semos prorrumpido"
+      - hubieseis prorrumpido
+      - hubiesen prorrumpido
+      cjid: ppss2
+    - cjfs:
+      - hubiere prorrumpido
+      - hubieres prorrumpido
+      - hubiere prorrumpido
+      - "hubi\xE9remos prorrumpido"
+      - hubiereis prorrumpido
+      - hubieren prorrumpido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prorrumpe
+      - prorrumpa
+      - prorrumpamos
+      - prorrumpid
+      - prorrumpan
+      cjid: impf

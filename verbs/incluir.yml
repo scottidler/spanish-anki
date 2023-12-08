@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|include}'
+  fl: transitive verb
+  hwi:
+    hw: incluir
+    prs:
+    - sound:
+        audio: inclu01sp
+  meta:
+    id: incluir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612151000'
+    src: spanish
+    stems:
+    - incluir
+    uuid: 749dffdc-197b-48f2-9f20-233a1a8a3e56
+  shortdef:
+  - to include
+  suppl:
+    cjts:
+    - cjfs:
+      - incluyendo
+      - incluido
+      cjid: gppt
+    - cjfs:
+      - incluyo
+      - incluyes
+      - incluye
+      - incluimos
+      - "inclu\xEDs"
+      - incluyen
+      cjid: pind
+    - cjfs:
+      - "inclu\xEDa"
+      - "inclu\xEDas"
+      - "inclu\xEDa"
+      - "inclu\xEDamos"
+      - "inclu\xEDais"
+      - "inclu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "inclu\xED"
+      - incluiste
+      - "incluy\xF3"
+      - incluimos
+      - incluisteis
+      - incluyeron
+      cjid: pprf
+    - cjfs:
+      - "incluir\xE9"
+      - "incluir\xE1s"
+      - "incluir\xE1"
+      - incluiremos
+      - "incluir\xE9is"
+      - "incluir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "incluir\xEDa"
+      - "incluir\xEDas"
+      - "incluir\xEDa"
+      - "incluir\xEDamos"
+      - "incluir\xEDais"
+      - "incluir\xEDan"
+      cjid: cond
+    - cjfs:
+      - incluya
+      - incluyas
+      - incluya
+      - incluyamos
+      - "incluy\xE1is"
+      - incluyan
+      cjid: psub
+    - cjfs:
+      - incluyera
+      - incluyeras
+      - incluyera
+      - "incluy\xE9ramos"
+      - incluyerais
+      - incluyeran
+      cjid: pisb1
+    - cjfs:
+      - incluyese
+      - incluyeses
+      - incluyese
+      - "incluy\xE9semos"
+      - incluyeseis
+      - incluyesen
+      cjid: pisb2
+    - cjfs:
+      - incluyere
+      - incluyeres
+      - incluyere
+      - "incluy\xE9remos"
+      - incluyereis
+      - incluyeren
+      cjid: fsub
+    - cjfs:
+      - he incluido
+      - has incluido
+      - ha incluido
+      - hemos incluido
+      - "hab\xE9is incluido"
+      - han incluido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa incluido"
+      - "hab\xEDas incluido"
+      - "hab\xEDa incluido"
+      - "hab\xEDamos incluido"
+      - "hab\xEDais incluido"
+      - "hab\xEDan incluido"
+      cjid: ppsi
+    - cjfs:
+      - hube incluido
+      - hubiste incluido
+      - hubo incluido
+      - hubimos incluido
+      - hubisteis incluido
+      - hubieron incluido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 incluido"
+      - "habr\xE1s incluido"
+      - "habr\xE1 incluido"
+      - habremos incluido
+      - "habr\xE9is incluido"
+      - "habr\xE1n incluido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa incluido"
+      - "habr\xEDas incluido"
+      - "habr\xEDa incluido"
+      - "habr\xEDamos incluido"
+      - "habr\xEDais incluido"
+      - "habr\xEDan incluido"
+      cjid: cpef
+    - cjfs:
+      - haya incluido
+      - hayas incluido
+      - haya incluido
+      - hayamos incluido
+      - "hay\xE1is incluido"
+      - hayan incluido
+      cjid: ppfs
+    - cjfs:
+      - hubiera incluido
+      - hubieras incluido
+      - hubiera incluido
+      - "hubi\xE9ramos incluido"
+      - hubierais incluido
+      - hubieran incluido
+      cjid: ppss1
+    - cjfs:
+      - hubiese incluido
+      - hubieses incluido
+      - hubiese incluido
+      - "hubi\xE9semos incluido"
+      - hubieseis incluido
+      - hubiesen incluido
+      cjid: ppss2
+    - cjfs:
+      - hubiere incluido
+      - hubieres incluido
+      - hubiere incluido
+      - "hubi\xE9remos incluido"
+      - hubiereis incluido
+      - hubieren incluido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - incluye
+      - incluya
+      - incluyamos
+      - incluid
+      - incluyan
+      cjid: impf

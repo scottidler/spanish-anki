@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shelter}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|acogerse||} {bc}to take refuge'
+    drp: refugiarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: refugiar
+    prs:
+    - sound:
+        audio: refug01sp
+  meta:
+    id: refugiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619173000'
+    src: spanish
+    stems:
+    - refugiar
+    - refugiarse
+    uuid: 276c25f7-d9ed-45e3-8e0d-7ad4e11d143c
+  shortdef:
+  - to shelter
+  suppl:
+    cjts:
+    - cjfs:
+      - refugiando
+      - refugiado
+      cjid: gppt
+    - cjfs:
+      - refugio
+      - refugias
+      - refugia
+      - refugiamos
+      - "refugi\xE1is"
+      - refugian
+      cjid: pind
+    - cjfs:
+      - refugiaba
+      - refugiabas
+      - refugiaba
+      - "refugi\xE1bamos"
+      - refugiabais
+      - refugiaban
+      cjid: pret
+    - cjfs:
+      - "refugi\xE9"
+      - refugiaste
+      - "refugi\xF3"
+      - refugiamos
+      - refugiasteis
+      - refugiaron
+      cjid: pprf
+    - cjfs:
+      - "refugiar\xE9"
+      - "refugiar\xE1s"
+      - "refugiar\xE1"
+      - refugiaremos
+      - "refugiar\xE9is"
+      - "refugiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "refugiar\xEDa"
+      - "refugiar\xEDas"
+      - "refugiar\xEDa"
+      - "refugiar\xEDamos"
+      - "refugiar\xEDais"
+      - "refugiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - refugie
+      - refugies
+      - refugie
+      - refugiemos
+      - "refugi\xE9is"
+      - refugien
+      cjid: psub
+    - cjfs:
+      - refugiara
+      - refugiaras
+      - refugiara
+      - "refugi\xE1ramos"
+      - refugiarais
+      - refugiaran
+      cjid: pisb1
+    - cjfs:
+      - refugiase
+      - refugiases
+      - refugiase
+      - "refugi\xE1semos"
+      - refugiaseis
+      - refugiasen
+      cjid: pisb2
+    - cjfs:
+      - refugiare
+      - refugiares
+      - refugiare
+      - "refugi\xE1remos"
+      - refugiareis
+      - refugiaren
+      cjid: fsub
+    - cjfs:
+      - he refugiado
+      - has refugiado
+      - ha refugiado
+      - hemos refugiado
+      - "hab\xE9is refugiado"
+      - han refugiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa refugiado"
+      - "hab\xEDas refugiado"
+      - "hab\xEDa refugiado"
+      - "hab\xEDamos refugiado"
+      - "hab\xEDais refugiado"
+      - "hab\xEDan refugiado"
+      cjid: ppsi
+    - cjfs:
+      - hube refugiado
+      - hubiste refugiado
+      - hubo refugiado
+      - hubimos refugiado
+      - hubisteis refugiado
+      - hubieron refugiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 refugiado"
+      - "habr\xE1s refugiado"
+      - "habr\xE1 refugiado"
+      - habremos refugiado
+      - "habr\xE9is refugiado"
+      - "habr\xE1n refugiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa refugiado"
+      - "habr\xEDas refugiado"
+      - "habr\xEDa refugiado"
+      - "habr\xEDamos refugiado"
+      - "habr\xEDais refugiado"
+      - "habr\xEDan refugiado"
+      cjid: cpef
+    - cjfs:
+      - haya refugiado
+      - hayas refugiado
+      - haya refugiado
+      - hayamos refugiado
+      - "hay\xE1is refugiado"
+      - hayan refugiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera refugiado
+      - hubieras refugiado
+      - hubiera refugiado
+      - "hubi\xE9ramos refugiado"
+      - hubierais refugiado
+      - hubieran refugiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese refugiado
+      - hubieses refugiado
+      - hubiese refugiado
+      - "hubi\xE9semos refugiado"
+      - hubieseis refugiado
+      - hubiesen refugiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere refugiado
+      - hubieres refugiado
+      - hubiere refugiado
+      - "hubi\xE9remos refugiado"
+      - hubiereis refugiado
+      - hubieren refugiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - refugia
+      - refugie
+      - refugiemos
+      - refugiad
+      - refugien
+      cjid: impf

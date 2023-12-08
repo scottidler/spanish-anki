@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assert}, to {a_link|allege}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|discutir||} {bc}to {a_link|argue}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: alegar
+    prs:
+    - sound:
+        audio: alega01sp
+  meta:
+    id: alegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600935000'
+    src: spanish
+    stems:
+    - alegar
+    uuid: ca2c3ad2-7277-4ecf-933d-408326abc032
+  shortdef:
+  - to assert, to allege
+  - 'discutir : to argue'
+  suppl:
+    cjts:
+    - cjfs:
+      - alegando
+      - alegado
+      cjid: gppt
+    - cjfs:
+      - alego
+      - alegas
+      - alega
+      - alegamos
+      - "aleg\xE1is"
+      - alegan
+      cjid: pind
+    - cjfs:
+      - alegaba
+      - alegabas
+      - alegaba
+      - "aleg\xE1bamos"
+      - alegabais
+      - alegaban
+      cjid: pret
+    - cjfs:
+      - "alegu\xE9"
+      - alegaste
+      - "aleg\xF3"
+      - alegamos
+      - alegasteis
+      - alegaron
+      cjid: pprf
+    - cjfs:
+      - "alegar\xE9"
+      - "alegar\xE1s"
+      - "alegar\xE1"
+      - alegaremos
+      - "alegar\xE9is"
+      - "alegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alegar\xEDa"
+      - "alegar\xEDas"
+      - "alegar\xEDa"
+      - "alegar\xEDamos"
+      - "alegar\xEDais"
+      - "alegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - alegue
+      - alegues
+      - alegue
+      - aleguemos
+      - "alegu\xE9is"
+      - aleguen
+      cjid: psub
+    - cjfs:
+      - alegara
+      - alegaras
+      - alegara
+      - "aleg\xE1ramos"
+      - alegarais
+      - alegaran
+      cjid: pisb1
+    - cjfs:
+      - alegase
+      - alegases
+      - alegase
+      - "aleg\xE1semos"
+      - alegaseis
+      - alegasen
+      cjid: pisb2
+    - cjfs:
+      - alegare
+      - alegares
+      - alegare
+      - "aleg\xE1remos"
+      - alegareis
+      - alegaren
+      cjid: fsub
+    - cjfs:
+      - he alegado
+      - has alegado
+      - ha alegado
+      - hemos alegado
+      - "hab\xE9is alegado"
+      - han alegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa alegado"
+      - "hab\xEDas alegado"
+      - "hab\xEDa alegado"
+      - "hab\xEDamos alegado"
+      - "hab\xEDais alegado"
+      - "hab\xEDan alegado"
+      cjid: ppsi
+    - cjfs:
+      - hube alegado
+      - hubiste alegado
+      - hubo alegado
+      - hubimos alegado
+      - hubisteis alegado
+      - hubieron alegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 alegado"
+      - "habr\xE1s alegado"
+      - "habr\xE1 alegado"
+      - habremos alegado
+      - "habr\xE9is alegado"
+      - "habr\xE1n alegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa alegado"
+      - "habr\xEDas alegado"
+      - "habr\xEDa alegado"
+      - "habr\xEDamos alegado"
+      - "habr\xEDais alegado"
+      - "habr\xEDan alegado"
+      cjid: cpef
+    - cjfs:
+      - haya alegado
+      - hayas alegado
+      - haya alegado
+      - hayamos alegado
+      - "hay\xE1is alegado"
+      - hayan alegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera alegado
+      - hubieras alegado
+      - hubiera alegado
+      - "hubi\xE9ramos alegado"
+      - hubierais alegado
+      - hubieran alegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese alegado
+      - hubieses alegado
+      - hubiese alegado
+      - "hubi\xE9semos alegado"
+      - hubieseis alegado
+      - hubiesen alegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere alegado
+      - hubieres alegado
+      - hubiere alegado
+      - "hubi\xE9remos alegado"
+      - hubiereis alegado
+      - hubieren alegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alega
+      - alegue
+      - aleguemos
+      - alegad
+      - aleguen
+      cjid: impf

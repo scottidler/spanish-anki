@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw}, to {a_link|sketch}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|portray}, to {a_link|depict}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: dibujar
+    prs:
+    - sound:
+        audio: dibuj02sp
+  meta:
+    id: dibujar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607496000'
+    src: spanish
+    stems:
+    - dibujar
+    uuid: 1d9463c7-e4d5-4340-aece-664cf2b91f7f
+  shortdef:
+  - to draw, to sketch
+  - to portray, to depict
+  suppl:
+    cjts:
+    - cjfs:
+      - dibujando
+      - dibujado
+      cjid: gppt
+    - cjfs:
+      - dibujo
+      - dibujas
+      - dibuja
+      - dibujamos
+      - "dibuj\xE1is"
+      - dibujan
+      cjid: pind
+    - cjfs:
+      - dibujaba
+      - dibujabas
+      - dibujaba
+      - "dibuj\xE1bamos"
+      - dibujabais
+      - dibujaban
+      cjid: pret
+    - cjfs:
+      - "dibuj\xE9"
+      - dibujaste
+      - "dibuj\xF3"
+      - dibujamos
+      - dibujasteis
+      - dibujaron
+      cjid: pprf
+    - cjfs:
+      - "dibujar\xE9"
+      - "dibujar\xE1s"
+      - "dibujar\xE1"
+      - dibujaremos
+      - "dibujar\xE9is"
+      - "dibujar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dibujar\xEDa"
+      - "dibujar\xEDas"
+      - "dibujar\xEDa"
+      - "dibujar\xEDamos"
+      - "dibujar\xEDais"
+      - "dibujar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dibuje
+      - dibujes
+      - dibuje
+      - dibujemos
+      - "dibuj\xE9is"
+      - dibujen
+      cjid: psub
+    - cjfs:
+      - dibujara
+      - dibujaras
+      - dibujara
+      - "dibuj\xE1ramos"
+      - dibujarais
+      - dibujaran
+      cjid: pisb1
+    - cjfs:
+      - dibujase
+      - dibujases
+      - dibujase
+      - "dibuj\xE1semos"
+      - dibujaseis
+      - dibujasen
+      cjid: pisb2
+    - cjfs:
+      - dibujare
+      - dibujares
+      - dibujare
+      - "dibuj\xE1remos"
+      - dibujareis
+      - dibujaren
+      cjid: fsub
+    - cjfs:
+      - he dibujado
+      - has dibujado
+      - ha dibujado
+      - hemos dibujado
+      - "hab\xE9is dibujado"
+      - han dibujado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dibujado"
+      - "hab\xEDas dibujado"
+      - "hab\xEDa dibujado"
+      - "hab\xEDamos dibujado"
+      - "hab\xEDais dibujado"
+      - "hab\xEDan dibujado"
+      cjid: ppsi
+    - cjfs:
+      - hube dibujado
+      - hubiste dibujado
+      - hubo dibujado
+      - hubimos dibujado
+      - hubisteis dibujado
+      - hubieron dibujado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dibujado"
+      - "habr\xE1s dibujado"
+      - "habr\xE1 dibujado"
+      - habremos dibujado
+      - "habr\xE9is dibujado"
+      - "habr\xE1n dibujado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dibujado"
+      - "habr\xEDas dibujado"
+      - "habr\xEDa dibujado"
+      - "habr\xEDamos dibujado"
+      - "habr\xEDais dibujado"
+      - "habr\xEDan dibujado"
+      cjid: cpef
+    - cjfs:
+      - haya dibujado
+      - hayas dibujado
+      - haya dibujado
+      - hayamos dibujado
+      - "hay\xE1is dibujado"
+      - hayan dibujado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dibujado
+      - hubieras dibujado
+      - hubiera dibujado
+      - "hubi\xE9ramos dibujado"
+      - hubierais dibujado
+      - hubieran dibujado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dibujado
+      - hubieses dibujado
+      - hubiese dibujado
+      - "hubi\xE9semos dibujado"
+      - hubieseis dibujado
+      - hubiesen dibujado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dibujado
+      - hubieres dibujado
+      - hubiere dibujado
+      - "hubi\xE9remos dibujado"
+      - hubiereis dibujado
+      - hubieren dibujado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dibuja
+      - dibuje
+      - dibujemos
+      - dibujad
+      - dibujen
+      cjid: impf

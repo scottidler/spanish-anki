@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spatter}, to {a_link|splash}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sprinkle}, to scatter about'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: salpicar
+    prs:
+    - sound:
+        audio: salpi01sp
+  meta:
+    id: salpicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620142000'
+    src: spanish
+    stems:
+    - salpicar
+    uuid: 9bc68c93-5d24-46de-a35f-aa07d7fc129a
+  shortdef:
+  - to spatter, to splash
+  - to sprinkle, to scatter about
+  suppl:
+    cjts:
+    - cjfs:
+      - salpicando
+      - salpicado
+      cjid: gppt
+    - cjfs:
+      - salpico
+      - salpicas
+      - salpica
+      - salpicamos
+      - "salpic\xE1is"
+      - salpican
+      cjid: pind
+    - cjfs:
+      - salpicaba
+      - salpicabas
+      - salpicaba
+      - "salpic\xE1bamos"
+      - salpicabais
+      - salpicaban
+      cjid: pret
+    - cjfs:
+      - "salpiqu\xE9"
+      - salpicaste
+      - "salpic\xF3"
+      - salpicamos
+      - salpicasteis
+      - salpicaron
+      cjid: pprf
+    - cjfs:
+      - "salpicar\xE9"
+      - "salpicar\xE1s"
+      - "salpicar\xE1"
+      - salpicaremos
+      - "salpicar\xE9is"
+      - "salpicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "salpicar\xEDa"
+      - "salpicar\xEDas"
+      - "salpicar\xEDa"
+      - "salpicar\xEDamos"
+      - "salpicar\xEDais"
+      - "salpicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - salpique
+      - salpiques
+      - salpique
+      - salpiquemos
+      - "salpiqu\xE9is"
+      - salpiquen
+      cjid: psub
+    - cjfs:
+      - salpicara
+      - salpicaras
+      - salpicara
+      - "salpic\xE1ramos"
+      - salpicarais
+      - salpicaran
+      cjid: pisb1
+    - cjfs:
+      - salpicase
+      - salpicases
+      - salpicase
+      - "salpic\xE1semos"
+      - salpicaseis
+      - salpicasen
+      cjid: pisb2
+    - cjfs:
+      - salpicare
+      - salpicares
+      - salpicare
+      - "salpic\xE1remos"
+      - salpicareis
+      - salpicaren
+      cjid: fsub
+    - cjfs:
+      - he salpicado
+      - has salpicado
+      - ha salpicado
+      - hemos salpicado
+      - "hab\xE9is salpicado"
+      - han salpicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa salpicado"
+      - "hab\xEDas salpicado"
+      - "hab\xEDa salpicado"
+      - "hab\xEDamos salpicado"
+      - "hab\xEDais salpicado"
+      - "hab\xEDan salpicado"
+      cjid: ppsi
+    - cjfs:
+      - hube salpicado
+      - hubiste salpicado
+      - hubo salpicado
+      - hubimos salpicado
+      - hubisteis salpicado
+      - hubieron salpicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 salpicado"
+      - "habr\xE1s salpicado"
+      - "habr\xE1 salpicado"
+      - habremos salpicado
+      - "habr\xE9is salpicado"
+      - "habr\xE1n salpicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa salpicado"
+      - "habr\xEDas salpicado"
+      - "habr\xEDa salpicado"
+      - "habr\xEDamos salpicado"
+      - "habr\xEDais salpicado"
+      - "habr\xEDan salpicado"
+      cjid: cpef
+    - cjfs:
+      - haya salpicado
+      - hayas salpicado
+      - haya salpicado
+      - hayamos salpicado
+      - "hay\xE1is salpicado"
+      - hayan salpicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera salpicado
+      - hubieras salpicado
+      - hubiera salpicado
+      - "hubi\xE9ramos salpicado"
+      - hubierais salpicado
+      - hubieran salpicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese salpicado
+      - hubieses salpicado
+      - hubiese salpicado
+      - "hubi\xE9semos salpicado"
+      - hubieseis salpicado
+      - hubiesen salpicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere salpicado
+      - hubieres salpicado
+      - hubiere salpicado
+      - "hubi\xE9remos salpicado"
+      - hubiereis salpicado
+      - hubieren salpicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - salpica
+      - salpique
+      - salpiquemos
+      - salpicad
+      - salpiquen
+      cjid: impf

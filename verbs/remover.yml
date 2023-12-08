@@ -1,0 +1,306 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|quitaesmalte} '
+          - - gl
+            - masculine
+          sn: '1'
+          vrs:
+          - va: nail polish remover
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|quitamanchas} '
+          - - gl
+            - masculine
+          sn: '2'
+          vrs:
+          - va: stain remover
+  fl: noun
+  hwi:
+    hw: remover
+    prs:
+    - mw: "r\u026A\u02C8mu\u02D0v\u0259r"
+  meta:
+    id: remover
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2620039000'
+    src: spanish
+    stems:
+    - remover
+    - nail polish remover
+    - stain remover
+    uuid: eb0603f2-0aa1-42f6-9966-e72b93dcf8c5
+  shortdef:
+  - quitaesmalte
+  - quitamanchas
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stir}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to move around, to {a_link|turn over}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stir up}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|remove}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dismiss}'
+          sn: '5'
+  fl: transitive verb
+  hwi:
+    hw: remover
+    prs:
+    - sound:
+        audio: remov01sp
+  meta:
+    id: remover
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619372000'
+    src: spanish
+    stems:
+    - remover
+    uuid: 49e64dc3-ff1d-4b86-8687-948ed9161074
+  shortdef:
+  - to stir
+  - to move around, to turn over
+  - to stir up
+  suppl:
+    cjts:
+    - cjfs:
+      - removiendo
+      - removido
+      cjid: gppt
+    - cjfs:
+      - remuevo
+      - remueves
+      - remueve
+      - removemos
+      - "remov\xE9is"
+      - remueven
+      cjid: pind
+    - cjfs:
+      - "remov\xEDa"
+      - "remov\xEDas"
+      - "remov\xEDa"
+      - "remov\xEDamos"
+      - "remov\xEDais"
+      - "remov\xEDan"
+      cjid: pret
+    - cjfs:
+      - "remov\xED"
+      - removiste
+      - "removi\xF3"
+      - removimos
+      - removisteis
+      - removieron
+      cjid: pprf
+    - cjfs:
+      - "remover\xE9"
+      - "remover\xE1s"
+      - "remover\xE1"
+      - removeremos
+      - "remover\xE9is"
+      - "remover\xE1n"
+      cjid: futr
+    - cjfs:
+      - "remover\xEDa"
+      - "remover\xEDas"
+      - "remover\xEDa"
+      - "remover\xEDamos"
+      - "remover\xEDais"
+      - "remover\xEDan"
+      cjid: cond
+    - cjfs:
+      - remueva
+      - remuevas
+      - remueva
+      - removamos
+      - "remov\xE1is"
+      - remuevan
+      cjid: psub
+    - cjfs:
+      - removiera
+      - removieras
+      - removiera
+      - "removi\xE9ramos"
+      - removierais
+      - removieran
+      cjid: pisb1
+    - cjfs:
+      - removiese
+      - removieses
+      - removiese
+      - "removi\xE9semos"
+      - removieseis
+      - removiesen
+      cjid: pisb2
+    - cjfs:
+      - removiere
+      - removieres
+      - removiere
+      - "removi\xE9remos"
+      - removiereis
+      - removieren
+      cjid: fsub
+    - cjfs:
+      - he removido
+      - has removido
+      - ha removido
+      - hemos removido
+      - "hab\xE9is removido"
+      - han removido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa removido"
+      - "hab\xEDas removido"
+      - "hab\xEDa removido"
+      - "hab\xEDamos removido"
+      - "hab\xEDais removido"
+      - "hab\xEDan removido"
+      cjid: ppsi
+    - cjfs:
+      - hube removido
+      - hubiste removido
+      - hubo removido
+      - hubimos removido
+      - hubisteis removido
+      - hubieron removido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 removido"
+      - "habr\xE1s removido"
+      - "habr\xE1 removido"
+      - habremos removido
+      - "habr\xE9is removido"
+      - "habr\xE1n removido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa removido"
+      - "habr\xEDas removido"
+      - "habr\xEDa removido"
+      - "habr\xEDamos removido"
+      - "habr\xEDais removido"
+      - "habr\xEDan removido"
+      cjid: cpef
+    - cjfs:
+      - haya removido
+      - hayas removido
+      - haya removido
+      - hayamos removido
+      - "hay\xE1is removido"
+      - hayan removido
+      cjid: ppfs
+    - cjfs:
+      - hubiera removido
+      - hubieras removido
+      - hubiera removido
+      - "hubi\xE9ramos removido"
+      - hubierais removido
+      - hubieran removido
+      cjid: ppss1
+    - cjfs:
+      - hubiese removido
+      - hubieses removido
+      - hubiese removido
+      - "hubi\xE9semos removido"
+      - hubieseis removido
+      - hubiesen removido
+      cjid: ppss2
+    - cjfs:
+      - hubiere removido
+      - hubieres removido
+      - hubiere removido
+      - "hubi\xE9remos removido"
+      - hubiereis removido
+      - hubieren removido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - remueve
+      - remueva
+      - removamos
+      - removed
+      - remuevan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|quitar}, {a_link|quitarse} '
+          - - vis
+            - - t: remove the lid
+                tr: quite la tapa
+              - t: to remove one's hat
+                tr: quitarse el sombrero
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|extract||} {bc}{a_link|sacar}, {a_link|extraer} '
+          - - vis
+            - - t: to remove the contents of
+                tr: sacar el contenido de
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|eliminate||} {bc}{a_link|eliminar}, {a_link|disipar}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: remove
+    prs:
+    - mw: "r\u026A\u02C8mu\u02D0v"
+  ins:
+  - if: removed
+    ifc: -moved
+  - if: removing
+    ifc: -moving
+  meta:
+    id: remove
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2620038000'
+    src: spanish
+    stems:
+    - remove
+    - removed
+    - removing
+    - removes
+    - removability
+    - removabilities
+    - removable
+    - removeable
+    - removableness
+    - removablenesses
+    - removably
+    - remover
+    - removers
+    uuid: 591ff9c7-b9f5-453e-91c4-065ce6d4e2dd
+  shortdef:
+  - quitar, quitarse
+  - 'extract : sacar, extraer'
+  - 'eliminate : eliminar, disipar'

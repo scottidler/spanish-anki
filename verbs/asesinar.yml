@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|murder}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assassinate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: asesinar
+    prs:
+    - sound:
+        audio: asesi01sp
+  meta:
+    id: asesinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602137000'
+    src: spanish
+    stems:
+    - asesinar
+    uuid: 37c3e843-e0f8-4956-a613-b60b693b5393
+  shortdef:
+  - to murder
+  - to assassinate
+  suppl:
+    cjts:
+    - cjfs:
+      - asesinando
+      - asesinado
+      cjid: gppt
+    - cjfs:
+      - asesino
+      - asesinas
+      - asesina
+      - asesinamos
+      - "asesin\xE1is"
+      - asesinan
+      cjid: pind
+    - cjfs:
+      - asesinaba
+      - asesinabas
+      - asesinaba
+      - "asesin\xE1bamos"
+      - asesinabais
+      - asesinaban
+      cjid: pret
+    - cjfs:
+      - "asesin\xE9"
+      - asesinaste
+      - "asesin\xF3"
+      - asesinamos
+      - asesinasteis
+      - asesinaron
+      cjid: pprf
+    - cjfs:
+      - "asesinar\xE9"
+      - "asesinar\xE1s"
+      - "asesinar\xE1"
+      - asesinaremos
+      - "asesinar\xE9is"
+      - "asesinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asesinar\xEDa"
+      - "asesinar\xEDas"
+      - "asesinar\xEDa"
+      - "asesinar\xEDamos"
+      - "asesinar\xEDais"
+      - "asesinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asesine
+      - asesines
+      - asesine
+      - asesinemos
+      - "asesin\xE9is"
+      - asesinen
+      cjid: psub
+    - cjfs:
+      - asesinara
+      - asesinaras
+      - asesinara
+      - "asesin\xE1ramos"
+      - asesinarais
+      - asesinaran
+      cjid: pisb1
+    - cjfs:
+      - asesinase
+      - asesinases
+      - asesinase
+      - "asesin\xE1semos"
+      - asesinaseis
+      - asesinasen
+      cjid: pisb2
+    - cjfs:
+      - asesinare
+      - asesinares
+      - asesinare
+      - "asesin\xE1remos"
+      - asesinareis
+      - asesinaren
+      cjid: fsub
+    - cjfs:
+      - he asesinado
+      - has asesinado
+      - ha asesinado
+      - hemos asesinado
+      - "hab\xE9is asesinado"
+      - han asesinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asesinado"
+      - "hab\xEDas asesinado"
+      - "hab\xEDa asesinado"
+      - "hab\xEDamos asesinado"
+      - "hab\xEDais asesinado"
+      - "hab\xEDan asesinado"
+      cjid: ppsi
+    - cjfs:
+      - hube asesinado
+      - hubiste asesinado
+      - hubo asesinado
+      - hubimos asesinado
+      - hubisteis asesinado
+      - hubieron asesinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asesinado"
+      - "habr\xE1s asesinado"
+      - "habr\xE1 asesinado"
+      - habremos asesinado
+      - "habr\xE9is asesinado"
+      - "habr\xE1n asesinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asesinado"
+      - "habr\xEDas asesinado"
+      - "habr\xEDa asesinado"
+      - "habr\xEDamos asesinado"
+      - "habr\xEDais asesinado"
+      - "habr\xEDan asesinado"
+      cjid: cpef
+    - cjfs:
+      - haya asesinado
+      - hayas asesinado
+      - haya asesinado
+      - hayamos asesinado
+      - "hay\xE1is asesinado"
+      - hayan asesinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asesinado
+      - hubieras asesinado
+      - hubiera asesinado
+      - "hubi\xE9ramos asesinado"
+      - hubierais asesinado
+      - hubieran asesinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asesinado
+      - hubieses asesinado
+      - hubiese asesinado
+      - "hubi\xE9semos asesinado"
+      - hubieseis asesinado
+      - hubiesen asesinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asesinado
+      - hubieres asesinado
+      - hubiere asesinado
+      - "hubi\xE9remos asesinado"
+      - hubiereis asesinado
+      - hubieren asesinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asesina
+      - asesine
+      - asesinemos
+      - asesinad
+      - asesinen
+      cjid: impf

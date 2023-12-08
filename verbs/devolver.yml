@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|return}, to {a_link|give back}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reembolsar||} {bc}to {a_link|refund}, to {a_link|pay back}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vomit}, to {a_link|bring up}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vomit}, to {a_link|throw up}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|return}, to {a_link|come back}, to {a_link|go back}'
+    drp: devolverse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: devolver
+    prs:
+    - sound:
+        audio: devol02sp
+  meta:
+    id: devolver
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607456000'
+    src: spanish
+    stems:
+    - devolver
+    - devolverse
+    uuid: 8561a386-8bba-4735-b5af-21b59863883f
+  shortdef:
+  - to return, to give back
+  - 'reembolsar : to refund, to pay back'
+  - to vomit, to bring up
+  suppl:
+    cjts:
+    - cjfs:
+      - devolviendo
+      - devuelto
+      cjid: gppt
+    - cjfs:
+      - devuelvo
+      - devuelves
+      - devuelve
+      - devolvemos
+      - "devolv\xE9is"
+      - devuelven
+      cjid: pind
+    - cjfs:
+      - "devolv\xEDa"
+      - "devolv\xEDas"
+      - "devolv\xEDa"
+      - "devolv\xEDamos"
+      - "devolv\xEDais"
+      - "devolv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "devolv\xED"
+      - devolviste
+      - "devolvi\xF3"
+      - devolvimos
+      - devolvisteis
+      - devolvieron
+      cjid: pprf
+    - cjfs:
+      - "devolver\xE9"
+      - "devolver\xE1s"
+      - "devolver\xE1"
+      - devolveremos
+      - "devolver\xE9is"
+      - "devolver\xE1n"
+      cjid: futr
+    - cjfs:
+      - "devolver\xEDa"
+      - "devolver\xEDas"
+      - "devolver\xEDa"
+      - "devolver\xEDamos"
+      - "devolver\xEDais"
+      - "devolver\xEDan"
+      cjid: cond
+    - cjfs:
+      - devuelva
+      - devuelvas
+      - devuelva
+      - devolvamos
+      - "devolv\xE1is"
+      - devuelvan
+      cjid: psub
+    - cjfs:
+      - devolviera
+      - devolvieras
+      - devolviera
+      - "devolvi\xE9ramos"
+      - devolvierais
+      - devolvieran
+      cjid: pisb1
+    - cjfs:
+      - devolviese
+      - devolvieses
+      - devolviese
+      - "devolvi\xE9semos"
+      - devolvieseis
+      - devolviesen
+      cjid: pisb2
+    - cjfs:
+      - devolviere
+      - devolvieres
+      - devolviere
+      - "devolvi\xE9remos"
+      - devolviereis
+      - devolvieren
+      cjid: fsub
+    - cjfs:
+      - he devuelto
+      - has devuelto
+      - ha devuelto
+      - hemos devuelto
+      - "hab\xE9is devuelto"
+      - han devuelto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa devuelto"
+      - "hab\xEDas devuelto"
+      - "hab\xEDa devuelto"
+      - "hab\xEDamos devuelto"
+      - "hab\xEDais devuelto"
+      - "hab\xEDan devuelto"
+      cjid: ppsi
+    - cjfs:
+      - hube devuelto
+      - hubiste devuelto
+      - hubo devuelto
+      - hubimos devuelto
+      - hubisteis devuelto
+      - hubieron devuelto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 devuelto"
+      - "habr\xE1s devuelto"
+      - "habr\xE1 devuelto"
+      - habremos devuelto
+      - "habr\xE9is devuelto"
+      - "habr\xE1n devuelto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa devuelto"
+      - "habr\xEDas devuelto"
+      - "habr\xEDa devuelto"
+      - "habr\xEDamos devuelto"
+      - "habr\xEDais devuelto"
+      - "habr\xEDan devuelto"
+      cjid: cpef
+    - cjfs:
+      - haya devuelto
+      - hayas devuelto
+      - haya devuelto
+      - hayamos devuelto
+      - "hay\xE1is devuelto"
+      - hayan devuelto
+      cjid: ppfs
+    - cjfs:
+      - hubiera devuelto
+      - hubieras devuelto
+      - hubiera devuelto
+      - "hubi\xE9ramos devuelto"
+      - hubierais devuelto
+      - hubieran devuelto
+      cjid: ppss1
+    - cjfs:
+      - hubiese devuelto
+      - hubieses devuelto
+      - hubiese devuelto
+      - "hubi\xE9semos devuelto"
+      - hubieseis devuelto
+      - hubiesen devuelto
+      cjid: ppss2
+    - cjfs:
+      - hubiere devuelto
+      - hubieres devuelto
+      - hubiere devuelto
+      - "hubi\xE9remos devuelto"
+      - hubiereis devuelto
+      - hubieren devuelto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - devuelve
+      - devuelva
+      - devolvamos
+      - devolved
+      - devuelvan
+      cjid: impf

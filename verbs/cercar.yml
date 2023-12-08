@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fence in, to {a_link|enclose}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|surround}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: cercar
+  meta:
+    id: cercar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604360000'
+    src: spanish
+    stems:
+    - cercar
+    uuid: 8cfaeaa8-d835-4dcd-9613-1bb8bc031e8c
+  shortdef:
+  - to fence in, to enclose
+  - to surround
+  suppl:
+    cjts:
+    - cjfs:
+      - cercando
+      - cercado
+      cjid: gppt
+    - cjfs:
+      - cerco
+      - cercas
+      - cerca
+      - cercamos
+      - "cerc\xE1is"
+      - cercan
+      cjid: pind
+    - cjfs:
+      - cercaba
+      - cercabas
+      - cercaba
+      - "cerc\xE1bamos"
+      - cercabais
+      - cercaban
+      cjid: pret
+    - cjfs:
+      - "cerqu\xE9"
+      - cercaste
+      - "cerc\xF3"
+      - cercamos
+      - cercasteis
+      - cercaron
+      cjid: pprf
+    - cjfs:
+      - "cercar\xE9"
+      - "cercar\xE1s"
+      - "cercar\xE1"
+      - cercaremos
+      - "cercar\xE9is"
+      - "cercar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cercar\xEDa"
+      - "cercar\xEDas"
+      - "cercar\xEDa"
+      - "cercar\xEDamos"
+      - "cercar\xEDais"
+      - "cercar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cerque
+      - cerques
+      - cerque
+      - cerquemos
+      - "cerqu\xE9is"
+      - cerquen
+      cjid: psub
+    - cjfs:
+      - cercara
+      - cercaras
+      - cercara
+      - "cerc\xE1ramos"
+      - cercarais
+      - cercaran
+      cjid: pisb1
+    - cjfs:
+      - cercase
+      - cercases
+      - cercase
+      - "cerc\xE1semos"
+      - cercaseis
+      - cercasen
+      cjid: pisb2
+    - cjfs:
+      - cercare
+      - cercares
+      - cercare
+      - "cerc\xE1remos"
+      - cercareis
+      - cercaren
+      cjid: fsub
+    - cjfs:
+      - he cercado
+      - has cercado
+      - ha cercado
+      - hemos cercado
+      - "hab\xE9is cercado"
+      - han cercado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cercado"
+      - "hab\xEDas cercado"
+      - "hab\xEDa cercado"
+      - "hab\xEDamos cercado"
+      - "hab\xEDais cercado"
+      - "hab\xEDan cercado"
+      cjid: ppsi
+    - cjfs:
+      - hube cercado
+      - hubiste cercado
+      - hubo cercado
+      - hubimos cercado
+      - hubisteis cercado
+      - hubieron cercado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cercado"
+      - "habr\xE1s cercado"
+      - "habr\xE1 cercado"
+      - habremos cercado
+      - "habr\xE9is cercado"
+      - "habr\xE1n cercado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cercado"
+      - "habr\xEDas cercado"
+      - "habr\xEDa cercado"
+      - "habr\xEDamos cercado"
+      - "habr\xEDais cercado"
+      - "habr\xEDan cercado"
+      cjid: cpef
+    - cjfs:
+      - haya cercado
+      - hayas cercado
+      - haya cercado
+      - hayamos cercado
+      - "hay\xE1is cercado"
+      - hayan cercado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cercado
+      - hubieras cercado
+      - hubiera cercado
+      - "hubi\xE9ramos cercado"
+      - hubierais cercado
+      - hubieran cercado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cercado
+      - hubieses cercado
+      - hubiese cercado
+      - "hubi\xE9semos cercado"
+      - hubieseis cercado
+      - hubiesen cercado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cercado
+      - hubieres cercado
+      - hubiere cercado
+      - "hubi\xE9remos cercado"
+      - hubiereis cercado
+      - hubieren cercado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cerca
+      - cerque
+      - cerquemos
+      - cercad
+      - cerquen
+      cjid: impf

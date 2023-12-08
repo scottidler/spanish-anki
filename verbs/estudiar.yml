@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|study}'
+  fl: verb
+  hwi:
+    hw: estudiar
+    prs:
+    - sound:
+        audio: estud03sp
+  meta:
+    id: estudiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609483000'
+    src: spanish
+    stems:
+    - estudiar
+    uuid: 4fa1c9a5-1002-4038-90f9-4bf2f7ab4bb2
+  shortdef:
+  - to study
+  suppl:
+    cjts:
+    - cjfs:
+      - estudiando
+      - estudiado
+      cjid: gppt
+    - cjfs:
+      - estudio
+      - estudias
+      - estudia
+      - estudiamos
+      - "estudi\xE1is"
+      - estudian
+      cjid: pind
+    - cjfs:
+      - estudiaba
+      - estudiabas
+      - estudiaba
+      - "estudi\xE1bamos"
+      - estudiabais
+      - estudiaban
+      cjid: pret
+    - cjfs:
+      - "estudi\xE9"
+      - estudiaste
+      - "estudi\xF3"
+      - estudiamos
+      - estudiasteis
+      - estudiaron
+      cjid: pprf
+    - cjfs:
+      - "estudiar\xE9"
+      - "estudiar\xE1s"
+      - "estudiar\xE1"
+      - estudiaremos
+      - "estudiar\xE9is"
+      - "estudiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estudiar\xEDa"
+      - "estudiar\xEDas"
+      - "estudiar\xEDa"
+      - "estudiar\xEDamos"
+      - "estudiar\xEDais"
+      - "estudiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estudie
+      - estudies
+      - estudie
+      - estudiemos
+      - "estudi\xE9is"
+      - estudien
+      cjid: psub
+    - cjfs:
+      - estudiara
+      - estudiaras
+      - estudiara
+      - "estudi\xE1ramos"
+      - estudiarais
+      - estudiaran
+      cjid: pisb1
+    - cjfs:
+      - estudiase
+      - estudiases
+      - estudiase
+      - "estudi\xE1semos"
+      - estudiaseis
+      - estudiasen
+      cjid: pisb2
+    - cjfs:
+      - estudiare
+      - estudiares
+      - estudiare
+      - "estudi\xE1remos"
+      - estudiareis
+      - estudiaren
+      cjid: fsub
+    - cjfs:
+      - he estudiado
+      - has estudiado
+      - ha estudiado
+      - hemos estudiado
+      - "hab\xE9is estudiado"
+      - han estudiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estudiado"
+      - "hab\xEDas estudiado"
+      - "hab\xEDa estudiado"
+      - "hab\xEDamos estudiado"
+      - "hab\xEDais estudiado"
+      - "hab\xEDan estudiado"
+      cjid: ppsi
+    - cjfs:
+      - hube estudiado
+      - hubiste estudiado
+      - hubo estudiado
+      - hubimos estudiado
+      - hubisteis estudiado
+      - hubieron estudiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estudiado"
+      - "habr\xE1s estudiado"
+      - "habr\xE1 estudiado"
+      - habremos estudiado
+      - "habr\xE9is estudiado"
+      - "habr\xE1n estudiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estudiado"
+      - "habr\xEDas estudiado"
+      - "habr\xEDa estudiado"
+      - "habr\xEDamos estudiado"
+      - "habr\xEDais estudiado"
+      - "habr\xEDan estudiado"
+      cjid: cpef
+    - cjfs:
+      - haya estudiado
+      - hayas estudiado
+      - haya estudiado
+      - hayamos estudiado
+      - "hay\xE1is estudiado"
+      - hayan estudiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estudiado
+      - hubieras estudiado
+      - hubiera estudiado
+      - "hubi\xE9ramos estudiado"
+      - hubierais estudiado
+      - hubieran estudiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estudiado
+      - hubieses estudiado
+      - hubiese estudiado
+      - "hubi\xE9semos estudiado"
+      - hubieseis estudiado
+      - hubiesen estudiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estudiado
+      - hubieres estudiado
+      - hubiere estudiado
+      - "hubi\xE9remos estudiado"
+      - hubiereis estudiado
+      - hubieren estudiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estudia
+      - estudie
+      - estudiemos
+      - estudiad
+      - estudien
+      cjid: impf

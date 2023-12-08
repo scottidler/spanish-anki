@@ -1,0 +1,233 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|show}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|exhibir||} {bc}to {a_link|exhibit}, to {a_link|display}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to show oneself, to {a_link|appear}'
+    drp: mostrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: mostrar
+    prs:
+    - sound:
+        audio: mostr02sp
+  meta:
+    id: mostrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615390000'
+    src: spanish
+    stems:
+    - mostrar
+    - mostrarse
+    uuid: e1f54be5-64ff-4e6d-adc7-9ec3486e74a0
+  shortdef:
+  - to show
+  - 'exhibir : to exhibit, to display'
+  suppl:
+    cjts:
+    - cjfs:
+      - mostrando
+      - mostrado
+      cjid: gppt
+    - cjfs:
+      - muestro
+      - muestras
+      - muestra
+      - mostramos
+      - "mostr\xE1is"
+      - muestran
+      cjid: pind
+    - cjfs:
+      - mostraba
+      - mostrabas
+      - mostraba
+      - "mostr\xE1bamos"
+      - mostrabais
+      - mostraban
+      cjid: pret
+    - cjfs:
+      - "mostr\xE9"
+      - mostraste
+      - "mostr\xF3"
+      - mostramos
+      - mostrasteis
+      - mostraron
+      cjid: pprf
+    - cjfs:
+      - "mostrar\xE9"
+      - "mostrar\xE1s"
+      - "mostrar\xE1"
+      - mostraremos
+      - "mostrar\xE9is"
+      - "mostrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mostrar\xEDa"
+      - "mostrar\xEDas"
+      - "mostrar\xEDa"
+      - "mostrar\xEDamos"
+      - "mostrar\xEDais"
+      - "mostrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - muestre
+      - muestres
+      - muestre
+      - mostremos
+      - "mostr\xE9is"
+      - muestren
+      cjid: psub
+    - cjfs:
+      - mostrara
+      - mostraras
+      - mostrara
+      - "mostr\xE1ramos"
+      - mostrarais
+      - mostraran
+      cjid: pisb1
+    - cjfs:
+      - mostrara o mostrase
+      - mostraras o mostrases
+      - mostrara o mostrase
+      - "mostr\xE1ramos o mostr\xE1semos"
+      - mostrarais o mostraseis
+      - mostraran o mostrasen
+      cjid: pisb2
+    - cjfs:
+      - mostrare
+      - mostrares
+      - mostrare
+      - "mostr\xE1remos"
+      - mostrareis
+      - mostraren
+      cjid: fsub
+    - cjfs:
+      - he mostrado
+      - has mostrado
+      - ha mostrado
+      - hemos mostrado
+      - "hab\xE9is mostrado"
+      - han mostrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mostrado"
+      - "hab\xEDas mostrado"
+      - "hab\xEDa mostrado"
+      - "hab\xEDamos mostrado"
+      - "hab\xEDais mostrado"
+      - "hab\xEDan mostrado"
+      cjid: ppsi
+    - cjfs:
+      - hube mostrado
+      - hubiste mostrado
+      - hubo mostrado
+      - hubimos mostrado
+      - hubisteis mostrado
+      - hubieron mostrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mostrado"
+      - "habr\xE1s mostrado"
+      - "habr\xE1 mostrado"
+      - habremos mostrado
+      - "habr\xE9is mostrado"
+      - "habr\xE1n mostrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mostrado"
+      - "habr\xEDas mostrado"
+      - "habr\xEDa mostrado"
+      - "habr\xEDamos mostrado"
+      - "habr\xEDais mostrado"
+      - "habr\xEDan mostrado"
+      cjid: cpef
+    - cjfs:
+      - haya mostrado
+      - hayas mostrado
+      - haya mostrado
+      - hayamos mostrado
+      - "hay\xE1is mostrado"
+      - hayan mostrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera mostrado
+      - hubieras mostrado
+      - hubiera mostrado
+      - "hubi\xE9ramos mostrado"
+      - hubierais mostrado
+      - hubieran mostrado
+      cjid: ppss1
+    - cjfs:
+      - hubiera o hubiese mostrado
+      - hubieras o hubieses mostrado
+      - hubiera o hubiese mostrado
+      - "hubi\xE9ramos o hubi\xE9semos mostrado"
+      - hubierais o hubieseis mostrado
+      - hubieran o hubiesen mostrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere mostrado
+      - hubieres mostrado
+      - hubiere mostrado
+      - "hubi\xE9remos mostrado"
+      - hubiereis mostrado
+      - hubieren mostrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - muestra
+      - muestre
+      - mostremos
+      - mostrad
+      - muestren
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ravel}, loose thread'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to show one''s true colors'
+          sn: '2'
+          vrs:
+          - va: mostrar la hilacha
+  fl: feminine noun
+  hwi:
+    hw: hilacha
+    prs:
+    - sound:
+        audio: hilac01sp
+  meta:
+    id: hilacha
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611469000'
+    src: spanish
+    stems:
+    - hilacha
+    - mostrar la hilacha
+    uuid: 14af5c39-c356-4be0-aded-d5fb3c467730
+  shortdef:
+  - ravel, loose thread
+  - to show one's true colors

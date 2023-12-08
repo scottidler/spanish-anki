@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|alloy}'
+  fl: transitive verb
+  hwi:
+    hw: alear
+  meta:
+    id: alear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600928000'
+    src: spanish
+    stems:
+    - alear
+    uuid: b42c0c9c-9a0d-4ba3-9315-444db27a4aaf
+  shortdef:
+  - to alloy
+  suppl:
+    cjts:
+    - cjfs:
+      - aleando
+      - aleado
+      cjid: gppt
+    - cjfs:
+      - aleo
+      - aleas
+      - alea
+      - aleamos
+      - "ale\xE1is"
+      - alean
+      cjid: pind
+    - cjfs:
+      - aleaba
+      - aleabas
+      - aleaba
+      - "ale\xE1bamos"
+      - aleabais
+      - aleaban
+      cjid: pret
+    - cjfs:
+      - "ale\xE9"
+      - aleaste
+      - "ale\xF3"
+      - aleamos
+      - aleasteis
+      - alearon
+      cjid: pprf
+    - cjfs:
+      - "alear\xE9"
+      - "alear\xE1s"
+      - "alear\xE1"
+      - alearemos
+      - "alear\xE9is"
+      - "alear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "alear\xEDa"
+      - "alear\xEDas"
+      - "alear\xEDa"
+      - "alear\xEDamos"
+      - "alear\xEDais"
+      - "alear\xEDan"
+      cjid: cond
+    - cjfs:
+      - alee
+      - alees
+      - alee
+      - aleemos
+      - "ale\xE9is"
+      - aleen
+      cjid: psub
+    - cjfs:
+      - aleara
+      - alearas
+      - aleara
+      - "ale\xE1ramos"
+      - alearais
+      - alearan
+      cjid: pisb1
+    - cjfs:
+      - alease
+      - aleases
+      - alease
+      - "ale\xE1semos"
+      - aleaseis
+      - aleasen
+      cjid: pisb2
+    - cjfs:
+      - aleare
+      - aleares
+      - aleare
+      - "ale\xE1remos"
+      - aleareis
+      - alearen
+      cjid: fsub
+    - cjfs:
+      - he aleado
+      - has aleado
+      - ha aleado
+      - hemos aleado
+      - "hab\xE9is aleado"
+      - han aleado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aleado"
+      - "hab\xEDas aleado"
+      - "hab\xEDa aleado"
+      - "hab\xEDamos aleado"
+      - "hab\xEDais aleado"
+      - "hab\xEDan aleado"
+      cjid: ppsi
+    - cjfs:
+      - hube aleado
+      - hubiste aleado
+      - hubo aleado
+      - hubimos aleado
+      - hubisteis aleado
+      - hubieron aleado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aleado"
+      - "habr\xE1s aleado"
+      - "habr\xE1 aleado"
+      - habremos aleado
+      - "habr\xE9is aleado"
+      - "habr\xE1n aleado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aleado"
+      - "habr\xEDas aleado"
+      - "habr\xEDa aleado"
+      - "habr\xEDamos aleado"
+      - "habr\xEDais aleado"
+      - "habr\xEDan aleado"
+      cjid: cpef
+    - cjfs:
+      - haya aleado
+      - hayas aleado
+      - haya aleado
+      - hayamos aleado
+      - "hay\xE1is aleado"
+      - hayan aleado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aleado
+      - hubieras aleado
+      - hubiera aleado
+      - "hubi\xE9ramos aleado"
+      - hubierais aleado
+      - hubieran aleado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aleado
+      - hubieses aleado
+      - hubiese aleado
+      - "hubi\xE9semos aleado"
+      - hubieseis aleado
+      - hubiesen aleado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aleado
+      - hubieres aleado
+      - hubiere aleado
+      - "hubi\xE9remos aleado"
+      - hubiereis aleado
+      - hubieren aleado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - alea
+      - alee
+      - aleemos
+      - alead
+      - aleen
+      cjid: impf

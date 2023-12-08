@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|feel}, to {a_link|touch}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - vis
+              - - t: "se palp\xF3 la cabeza"
+                  tr: he felt/touched his head
+    drp: palparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: palpar
+    prs:
+    - sound:
+        audio: palpa01sp
+  meta:
+    id: palpar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616528000'
+    src: spanish
+    stems:
+    - palpar
+    - palparse
+    uuid: 19e7484a-494b-4b8c-a691-a49c101b322e
+  shortdef:
+  - to feel, to touch
+  suppl:
+    cjts:
+    - cjfs:
+      - palpando
+      - palpado
+      cjid: gppt
+    - cjfs:
+      - palpo
+      - palpas
+      - palpa
+      - palpamos
+      - "palp\xE1is"
+      - palpan
+      cjid: pind
+    - cjfs:
+      - palpaba
+      - palpabas
+      - palpaba
+      - "palp\xE1bamos"
+      - palpabais
+      - palpaban
+      cjid: pret
+    - cjfs:
+      - "palp\xE9"
+      - palpaste
+      - "palp\xF3"
+      - palpamos
+      - palpasteis
+      - palparon
+      cjid: pprf
+    - cjfs:
+      - "palpar\xE9"
+      - "palpar\xE1s"
+      - "palpar\xE1"
+      - palparemos
+      - "palpar\xE9is"
+      - "palpar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "palpar\xEDa"
+      - "palpar\xEDas"
+      - "palpar\xEDa"
+      - "palpar\xEDamos"
+      - "palpar\xEDais"
+      - "palpar\xEDan"
+      cjid: cond
+    - cjfs:
+      - palpe
+      - palpes
+      - palpe
+      - palpemos
+      - "palp\xE9is"
+      - palpen
+      cjid: psub
+    - cjfs:
+      - palpara
+      - palparas
+      - palpara
+      - "palp\xE1ramos"
+      - palparais
+      - palparan
+      cjid: pisb1
+    - cjfs:
+      - palpase
+      - palpases
+      - palpase
+      - "palp\xE1semos"
+      - palpaseis
+      - palpasen
+      cjid: pisb2
+    - cjfs:
+      - palpare
+      - palpares
+      - palpare
+      - "palp\xE1remos"
+      - palpareis
+      - palparen
+      cjid: fsub
+    - cjfs:
+      - he palpado
+      - has palpado
+      - ha palpado
+      - hemos palpado
+      - "hab\xE9is palpado"
+      - han palpado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa palpado"
+      - "hab\xEDas palpado"
+      - "hab\xEDa palpado"
+      - "hab\xEDamos palpado"
+      - "hab\xEDais palpado"
+      - "hab\xEDan palpado"
+      cjid: ppsi
+    - cjfs:
+      - hube palpado
+      - hubiste palpado
+      - hubo palpado
+      - hubimos palpado
+      - hubisteis palpado
+      - hubieron palpado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 palpado"
+      - "habr\xE1s palpado"
+      - "habr\xE1 palpado"
+      - habremos palpado
+      - "habr\xE9is palpado"
+      - "habr\xE1n palpado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa palpado"
+      - "habr\xEDas palpado"
+      - "habr\xEDa palpado"
+      - "habr\xEDamos palpado"
+      - "habr\xEDais palpado"
+      - "habr\xEDan palpado"
+      cjid: cpef
+    - cjfs:
+      - haya palpado
+      - hayas palpado
+      - haya palpado
+      - hayamos palpado
+      - "hay\xE1is palpado"
+      - hayan palpado
+      cjid: ppfs
+    - cjfs:
+      - hubiera palpado
+      - hubieras palpado
+      - hubiera palpado
+      - "hubi\xE9ramos palpado"
+      - hubierais palpado
+      - hubieran palpado
+      cjid: ppss1
+    - cjfs:
+      - hubiese palpado
+      - hubieses palpado
+      - hubiese palpado
+      - "hubi\xE9semos palpado"
+      - hubieseis palpado
+      - hubiesen palpado
+      cjid: ppss2
+    - cjfs:
+      - hubiere palpado
+      - hubieres palpado
+      - hubiere palpado
+      - "hubi\xE9remos palpado"
+      - hubiereis palpado
+      - hubieren palpado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - palpa
+      - palpe
+      - palpemos
+      - palpad
+      - palpen
+      cjid: impf

@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|swim}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be swimming in, to be rolling in'
+          sn: '2'
+          vrs:
+          - va: nadar en
+            vac: ~ en
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|swim}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: nadar
+    prs:
+    - sound:
+        audio: nadar01sp
+  meta:
+    id: nadar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615566000'
+    src: spanish
+    stems:
+    - nadar
+    - nadar en
+    uuid: 42733aed-627a-45dc-9829-6cc34fc93f50
+  shortdef:
+  - to swim
+  - to be swimming in, to be rolling in
+  - to swim
+  suppl:
+    cjts:
+    - cjfs:
+      - nadando
+      - nadado
+      cjid: gppt
+    - cjfs:
+      - nado
+      - nadas
+      - nada
+      - nadamos
+      - "nad\xE1is"
+      - nadan
+      cjid: pind
+    - cjfs:
+      - nadaba
+      - nadabas
+      - nadaba
+      - "nad\xE1bamos"
+      - nadabais
+      - nadaban
+      cjid: pret
+    - cjfs:
+      - "nad\xE9"
+      - nadaste
+      - "nad\xF3"
+      - nadamos
+      - nadasteis
+      - nadaron
+      cjid: pprf
+    - cjfs:
+      - "nadar\xE9"
+      - "nadar\xE1s"
+      - "nadar\xE1"
+      - nadaremos
+      - "nadar\xE9is"
+      - "nadar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "nadar\xEDa"
+      - "nadar\xEDas"
+      - "nadar\xEDa"
+      - "nadar\xEDamos"
+      - "nadar\xEDais"
+      - "nadar\xEDan"
+      cjid: cond
+    - cjfs:
+      - nade
+      - nades
+      - nade
+      - nademos
+      - "nad\xE9is"
+      - naden
+      cjid: psub
+    - cjfs:
+      - nadara
+      - nadaras
+      - nadara
+      - "nad\xE1ramos"
+      - nadarais
+      - nadaran
+      cjid: pisb1
+    - cjfs:
+      - nadase
+      - nadases
+      - nadase
+      - "nad\xE1semos"
+      - nadaseis
+      - nadasen
+      cjid: pisb2
+    - cjfs:
+      - nadare
+      - nadares
+      - nadare
+      - "nad\xE1remos"
+      - nadareis
+      - nadaren
+      cjid: fsub
+    - cjfs:
+      - he nadado
+      - has nadado
+      - ha nadado
+      - hemos nadado
+      - "hab\xE9is nadado"
+      - han nadado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa nadado"
+      - "hab\xEDas nadado"
+      - "hab\xEDa nadado"
+      - "hab\xEDamos nadado"
+      - "hab\xEDais nadado"
+      - "hab\xEDan nadado"
+      cjid: ppsi
+    - cjfs:
+      - hube nadado
+      - hubiste nadado
+      - hubo nadado
+      - hubimos nadado
+      - hubisteis nadado
+      - hubieron nadado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 nadado"
+      - "habr\xE1s nadado"
+      - "habr\xE1 nadado"
+      - habremos nadado
+      - "habr\xE9is nadado"
+      - "habr\xE1n nadado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa nadado"
+      - "habr\xEDas nadado"
+      - "habr\xEDa nadado"
+      - "habr\xEDamos nadado"
+      - "habr\xEDais nadado"
+      - "habr\xEDan nadado"
+      cjid: cpef
+    - cjfs:
+      - haya nadado
+      - hayas nadado
+      - haya nadado
+      - hayamos nadado
+      - "hay\xE1is nadado"
+      - hayan nadado
+      cjid: ppfs
+    - cjfs:
+      - hubiera nadado
+      - hubieras nadado
+      - hubiera nadado
+      - "hubi\xE9ramos nadado"
+      - hubierais nadado
+      - hubieran nadado
+      cjid: ppss1
+    - cjfs:
+      - hubiese nadado
+      - hubieses nadado
+      - hubiese nadado
+      - "hubi\xE9semos nadado"
+      - hubieseis nadado
+      - hubiesen nadado
+      cjid: ppss2
+    - cjfs:
+      - hubiere nadado
+      - hubieres nadado
+      - hubiere nadado
+      - "hubi\xE9remos nadado"
+      - hubiereis nadado
+      - hubieren nadado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - nada
+      - nade
+      - nademos
+      - nadad
+      - naden
+      cjid: impf

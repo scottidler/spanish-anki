@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shine}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stand out}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: resplandecer
+  meta:
+    id: resplandecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619599000'
+    src: spanish
+    stems:
+    - resplandecer
+    uuid: b1fe041e-7c3c-47b4-847e-6b9505c023eb
+  shortdef:
+  - to shine
+  - to stand out
+  suppl:
+    cjts:
+    - cjfs:
+      - resplandeciendo
+      - resplandecido
+      cjid: gppt
+    - cjfs:
+      - resplandezco
+      - resplandeces
+      - resplandece
+      - resplandecemos
+      - "resplandec\xE9is"
+      - resplandecen
+      cjid: pind
+    - cjfs:
+      - "resplandec\xEDa"
+      - "resplandec\xEDas"
+      - "resplandec\xEDa"
+      - "resplandec\xEDamos"
+      - "resplandec\xEDais"
+      - "resplandec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "resplandec\xED"
+      - resplandeciste
+      - "resplandeci\xF3"
+      - resplandecimos
+      - resplandecisteis
+      - resplandecieron
+      cjid: pprf
+    - cjfs:
+      - "resplandecer\xE9"
+      - "resplandecer\xE1s"
+      - "resplandecer\xE1"
+      - resplandeceremos
+      - "resplandecer\xE9is"
+      - "resplandecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "resplandecer\xEDa"
+      - "resplandecer\xEDas"
+      - "resplandecer\xEDa"
+      - "resplandecer\xEDamos"
+      - "resplandecer\xEDais"
+      - "resplandecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - resplandezca
+      - resplandezcas
+      - resplandezca
+      - resplandezcamos
+      - "resplandezc\xE1is"
+      - resplandezcan
+      cjid: psub
+    - cjfs:
+      - resplandeciera
+      - resplandecieras
+      - resplandeciera
+      - "resplandeci\xE9ramos"
+      - resplandecierais
+      - resplandecieran
+      cjid: pisb1
+    - cjfs:
+      - resplandeciese
+      - resplandecieses
+      - resplandeciese
+      - "resplandeci\xE9semos"
+      - resplandecieseis
+      - resplandeciesen
+      cjid: pisb2
+    - cjfs:
+      - resplandeciere
+      - resplandecieres
+      - resplandeciere
+      - "resplandeci\xE9remos"
+      - resplandeciereis
+      - resplandecieren
+      cjid: fsub
+    - cjfs:
+      - he resplandecido
+      - has resplandecido
+      - ha resplandecido
+      - hemos resplandecido
+      - "hab\xE9is resplandecido"
+      - han resplandecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa resplandecido"
+      - "hab\xEDas resplandecido"
+      - "hab\xEDa resplandecido"
+      - "hab\xEDamos resplandecido"
+      - "hab\xEDais resplandecido"
+      - "hab\xEDan resplandecido"
+      cjid: ppsi
+    - cjfs:
+      - hube resplandecido
+      - hubiste resplandecido
+      - hubo resplandecido
+      - hubimos resplandecido
+      - hubisteis resplandecido
+      - hubieron resplandecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 resplandecido"
+      - "habr\xE1s resplandecido"
+      - "habr\xE1 resplandecido"
+      - habremos resplandecido
+      - "habr\xE9is resplandecido"
+      - "habr\xE1n resplandecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa resplandecido"
+      - "habr\xEDas resplandecido"
+      - "habr\xEDa resplandecido"
+      - "habr\xEDamos resplandecido"
+      - "habr\xEDais resplandecido"
+      - "habr\xEDan resplandecido"
+      cjid: cpef
+    - cjfs:
+      - haya resplandecido
+      - hayas resplandecido
+      - haya resplandecido
+      - hayamos resplandecido
+      - "hay\xE1is resplandecido"
+      - hayan resplandecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera resplandecido
+      - hubieras resplandecido
+      - hubiera resplandecido
+      - "hubi\xE9ramos resplandecido"
+      - hubierais resplandecido
+      - hubieran resplandecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese resplandecido
+      - hubieses resplandecido
+      - hubiese resplandecido
+      - "hubi\xE9semos resplandecido"
+      - hubieseis resplandecido
+      - hubiesen resplandecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere resplandecido
+      - hubieres resplandecido
+      - hubiere resplandecido
+      - "hubi\xE9remos resplandecido"
+      - hubiereis resplandecido
+      - hubieren resplandecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - resplandece
+      - resplandezca
+      - resplandezcamos
+      - resplandeced
+      - resplandezcan
+      cjid: impf

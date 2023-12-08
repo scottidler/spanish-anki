@@ -1,0 +1,213 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demonstrate}, to {a_link|show}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|declare}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be or become evident'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to state one''s position '
+            - - vis
+              - - t: se han manifestado a favor del acuerdo
+                  tr: they have declared their support for the agreement
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|demonstrate}, to {a_link|rally}'
+            sn: '3'
+    drp: manifestarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: manifestar
+    prs:
+    - sound:
+        audio: manif02sp
+  meta:
+    id: manifestar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614359000'
+    src: spanish
+    stems:
+    - manifestar
+    - manifestarse
+    uuid: 7974a052-d114-4fcd-9b84-a93cd43860f0
+  shortdef:
+  - to demonstrate, to show
+  - to declare
+  suppl:
+    cjts:
+    - cjfs:
+      - manifestando
+      - manifestado
+      cjid: gppt
+    - cjfs:
+      - manifiesto
+      - manifiestas
+      - manifiesta
+      - manifestamos
+      - "manifest\xE1is"
+      - manifiestan
+      cjid: pind
+    - cjfs:
+      - manifestaba
+      - manifestabas
+      - manifestaba
+      - "manifest\xE1bamos"
+      - manifestabais
+      - manifestaban
+      cjid: pret
+    - cjfs:
+      - "manifest\xE9"
+      - manifestaste
+      - "manifest\xF3"
+      - manifestamos
+      - manifestasteis
+      - manifestaron
+      cjid: pprf
+    - cjfs:
+      - "manifestar\xE9"
+      - "manifestar\xE1s"
+      - "manifestar\xE1"
+      - manifestaremos
+      - "manifestar\xE9is"
+      - "manifestar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "manifestar\xEDa"
+      - "manifestar\xEDas"
+      - "manifestar\xEDa"
+      - "manifestar\xEDamos"
+      - "manifestar\xEDais"
+      - "manifestar\xEDan"
+      cjid: cond
+    - cjfs:
+      - manifieste
+      - manifiestes
+      - manifieste
+      - manifestemos
+      - "manifest\xE9is"
+      - manifiesten
+      cjid: psub
+    - cjfs:
+      - manifestara
+      - manifestaras
+      - manifestara
+      - "manifest\xE1ramos"
+      - manifestarais
+      - manifestaran
+      cjid: pisb1
+    - cjfs:
+      - manifestase
+      - manifestases
+      - manifestase
+      - "manifest\xE1semos"
+      - manifestaseis
+      - manifestasen
+      cjid: pisb2
+    - cjfs:
+      - manifestare
+      - manifestares
+      - manifestare
+      - "manifest\xE1remos"
+      - manifestareis
+      - manifestaren
+      cjid: fsub
+    - cjfs:
+      - he manifestado
+      - has manifestado
+      - ha manifestado
+      - hemos manifestado
+      - "hab\xE9is manifestado"
+      - han manifestado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa manifestado"
+      - "hab\xEDas manifestado"
+      - "hab\xEDa manifestado"
+      - "hab\xEDamos manifestado"
+      - "hab\xEDais manifestado"
+      - "hab\xEDan manifestado"
+      cjid: ppsi
+    - cjfs:
+      - hube manifestado
+      - hubiste manifestado
+      - hubo manifestado
+      - hubimos manifestado
+      - hubisteis manifestado
+      - hubieron manifestado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 manifestado"
+      - "habr\xE1s manifestado"
+      - "habr\xE1 manifestado"
+      - habremos manifestado
+      - "habr\xE9is manifestado"
+      - "habr\xE1n manifestado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa manifestado"
+      - "habr\xEDas manifestado"
+      - "habr\xEDa manifestado"
+      - "habr\xEDamos manifestado"
+      - "habr\xEDais manifestado"
+      - "habr\xEDan manifestado"
+      cjid: cpef
+    - cjfs:
+      - haya manifestado
+      - hayas manifestado
+      - haya manifestado
+      - hayamos manifestado
+      - "hay\xE1is manifestado"
+      - hayan manifestado
+      cjid: ppfs
+    - cjfs:
+      - hubiera manifestado
+      - hubieras manifestado
+      - hubiera manifestado
+      - "hubi\xE9ramos manifestado"
+      - hubierais manifestado
+      - hubieran manifestado
+      cjid: ppss1
+    - cjfs:
+      - hubiese manifestado
+      - hubieses manifestado
+      - hubiese manifestado
+      - "hubi\xE9semos manifestado"
+      - hubieseis manifestado
+      - hubiesen manifestado
+      cjid: ppss2
+    - cjfs:
+      - hubiere manifestado
+      - hubieres manifestado
+      - hubiere manifestado
+      - "hubi\xE9remos manifestado"
+      - hubiereis manifestado
+      - hubieren manifestado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - manifiesta
+      - manifieste
+      - manifestemos
+      - manifestad
+      - manifiesten
+      cjid: impf

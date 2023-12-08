@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|heighten}, to {a_link|raise}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|highlight}, to {a_link|enhance}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: realzar
+  meta:
+    id: realzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618882000'
+    src: spanish
+    stems:
+    - realzar
+    uuid: 3ba9c57e-dd31-4c2c-a6c3-616f3fb97d25
+  shortdef:
+  - to heighten, to raise
+  - to highlight, to enhance
+  suppl:
+    cjts:
+    - cjfs:
+      - realzando
+      - realzado
+      cjid: gppt
+    - cjfs:
+      - realzo
+      - realzas
+      - realza
+      - realzamos
+      - "realz\xE1is"
+      - realzan
+      cjid: pind
+    - cjfs:
+      - realzaba
+      - realzabas
+      - realzaba
+      - "realz\xE1bamos"
+      - realzabais
+      - realzaban
+      cjid: pret
+    - cjfs:
+      - "realc\xE9"
+      - realzaste
+      - "realz\xF3"
+      - realzamos
+      - realzasteis
+      - realzaron
+      cjid: pprf
+    - cjfs:
+      - "realzar\xE9"
+      - "realzar\xE1s"
+      - "realzar\xE1"
+      - realzaremos
+      - "realzar\xE9is"
+      - "realzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "realzar\xEDa"
+      - "realzar\xEDas"
+      - "realzar\xEDa"
+      - "realzar\xEDamos"
+      - "realzar\xEDais"
+      - "realzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - realce
+      - realces
+      - realce
+      - realcemos
+      - "realc\xE9is"
+      - realcen
+      cjid: psub
+    - cjfs:
+      - realzara
+      - realzaras
+      - realzara
+      - "realz\xE1ramos"
+      - realzarais
+      - realzaran
+      cjid: pisb1
+    - cjfs:
+      - realzase
+      - realzases
+      - realzase
+      - "realz\xE1semos"
+      - realzaseis
+      - realzasen
+      cjid: pisb2
+    - cjfs:
+      - realzare
+      - realzares
+      - realzare
+      - "realz\xE1remos"
+      - realzareis
+      - realzaren
+      cjid: fsub
+    - cjfs:
+      - he realzado
+      - has realzado
+      - ha realzado
+      - hemos realzado
+      - "hab\xE9is realzado"
+      - han realzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa realzado"
+      - "hab\xEDas realzado"
+      - "hab\xEDa realzado"
+      - "hab\xEDamos realzado"
+      - "hab\xEDais realzado"
+      - "hab\xEDan realzado"
+      cjid: ppsi
+    - cjfs:
+      - hube realzado
+      - hubiste realzado
+      - hubo realzado
+      - hubimos realzado
+      - hubisteis realzado
+      - hubieron realzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 realzado"
+      - "habr\xE1s realzado"
+      - "habr\xE1 realzado"
+      - habremos realzado
+      - "habr\xE9is realzado"
+      - "habr\xE1n realzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa realzado"
+      - "habr\xEDas realzado"
+      - "habr\xEDa realzado"
+      - "habr\xEDamos realzado"
+      - "habr\xEDais realzado"
+      - "habr\xEDan realzado"
+      cjid: cpef
+    - cjfs:
+      - haya realzado
+      - hayas realzado
+      - haya realzado
+      - hayamos realzado
+      - "hay\xE1is realzado"
+      - hayan realzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera realzado
+      - hubieras realzado
+      - hubiera realzado
+      - "hubi\xE9ramos realzado"
+      - hubierais realzado
+      - hubieran realzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese realzado
+      - hubieses realzado
+      - hubiese realzado
+      - "hubi\xE9semos realzado"
+      - hubieseis realzado
+      - hubiesen realzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere realzado
+      - hubieres realzado
+      - hubiere realzado
+      - "hubi\xE9remos realzado"
+      - hubiereis realzado
+      - hubieren realzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - realza
+      - realce
+      - realcemos
+      - realzad
+      - realcen
+      cjid: impf

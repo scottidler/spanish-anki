@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aplacar||} {bc}to {a_link|appease}, to {a_link|pacify}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|calm down}'
+    drp: apaciguarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apaciguar
+    prs:
+    - sound:
+        audio: apaci02sp
+  meta:
+    id: apaciguar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601629000'
+    src: spanish
+    stems:
+    - apaciguar
+    - apaciguarse
+    uuid: bd8a972c-ec2d-406a-a094-a69720a888bf
+  shortdef:
+  - 'aplacar : to appease, to pacify'
+  suppl:
+    cjts:
+    - cjfs:
+      - apaciguando
+      - apaciguado
+      cjid: gppt
+    - cjfs:
+      - apaciguo
+      - apaciguas
+      - apacigua
+      - apaciguamos
+      - "apacigu\xE1is"
+      - apaciguan
+      cjid: pind
+    - cjfs:
+      - apaciguaba
+      - apaciguabas
+      - apaciguaba
+      - "apacigu\xE1bamos"
+      - apaciguabais
+      - apaciguaban
+      cjid: pret
+    - cjfs:
+      - "apacig\xFC\xE9"
+      - apaciguaste
+      - "apacigu\xF3"
+      - apaciguamos
+      - apaciguasteis
+      - apaciguaron
+      cjid: pprf
+    - cjfs:
+      - "apaciguar\xE9"
+      - "apaciguar\xE1s"
+      - "apaciguar\xE1"
+      - apaciguaremos
+      - "apaciguar\xE9is"
+      - "apaciguar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apaciguar\xEDa"
+      - "apaciguar\xEDas"
+      - "apaciguar\xEDa"
+      - "apaciguar\xEDamos"
+      - "apaciguar\xEDais"
+      - "apaciguar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "apacig\xFCe"
+      - "apacig\xFCes"
+      - "apacig\xFCe"
+      - "apacig\xFCemos"
+      - "apacig\xFC\xE9is"
+      - "apacig\xFCen"
+      cjid: psub
+    - cjfs:
+      - apaciguara
+      - apaciguaras
+      - apaciguara
+      - "apacigu\xE1ramos"
+      - apaciguarais
+      - apaciguaran
+      cjid: pisb1
+    - cjfs:
+      - apaciguase
+      - apaciguases
+      - apaciguase
+      - "apacigu\xE1semos"
+      - apaciguaseis
+      - apaciguasen
+      cjid: pisb2
+    - cjfs:
+      - apaciguare
+      - apaciguares
+      - apaciguare
+      - "apacigu\xE1remos"
+      - apaciguareis
+      - apaciguaren
+      cjid: fsub
+    - cjfs:
+      - he apaciguado
+      - has apaciguado
+      - ha apaciguado
+      - hemos apaciguado
+      - "hab\xE9is apaciguado"
+      - han apaciguado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apaciguado"
+      - "hab\xEDas apaciguado"
+      - "hab\xEDa apaciguado"
+      - "hab\xEDamos apaciguado"
+      - "hab\xEDais apaciguado"
+      - "hab\xEDan apaciguado"
+      cjid: ppsi
+    - cjfs:
+      - hube apaciguado
+      - hubiste apaciguado
+      - hubo apaciguado
+      - hubimos apaciguado
+      - hubisteis apaciguado
+      - hubieron apaciguado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apaciguado"
+      - "habr\xE1s apaciguado"
+      - "habr\xE1 apaciguado"
+      - habremos apaciguado
+      - "habr\xE9is apaciguado"
+      - "habr\xE1n apaciguado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apaciguado"
+      - "habr\xEDas apaciguado"
+      - "habr\xEDa apaciguado"
+      - "habr\xEDamos apaciguado"
+      - "habr\xEDais apaciguado"
+      - "habr\xEDan apaciguado"
+      cjid: cpef
+    - cjfs:
+      - haya apaciguado
+      - hayas apaciguado
+      - haya apaciguado
+      - hayamos apaciguado
+      - "hay\xE1is apaciguado"
+      - hayan apaciguado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apaciguado
+      - hubieras apaciguado
+      - hubiera apaciguado
+      - "hubi\xE9ramos apaciguado"
+      - hubierais apaciguado
+      - hubieran apaciguado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apaciguado
+      - hubieses apaciguado
+      - hubiese apaciguado
+      - "hubi\xE9semos apaciguado"
+      - hubieseis apaciguado
+      - hubiesen apaciguado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apaciguado
+      - hubieres apaciguado
+      - hubiere apaciguado
+      - "hubi\xE9remos apaciguado"
+      - hubiereis apaciguado
+      - hubieren apaciguado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apacigua
+      - "apacig\xFCe"
+      - "apacig\xFCemos"
+      - apaciguad
+      - "apacig\xFCen"
+      cjid: impf

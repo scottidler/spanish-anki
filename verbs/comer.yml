@@ -1,0 +1,313 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|eat}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|consume}, to {a_link|eat up}, to {a_link|eat into}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|eat}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cenar||} {bc}to have a meal'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|feed}'
+          sn: '3'
+          vrs:
+          - va: dar de comer
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|eat up}'
+    drp: comerse
+    fl: reflexive verb
+  fl: transitive verb
+  hom: 1
+  hwi:
+    hw: comer
+    prs:
+    - sound:
+        audio: comer01sp
+  meta:
+    id: comer:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605165000'
+    src: spanish
+    stems:
+    - comer
+    - dar de comer
+    - comerse
+    uuid: cc0b85a2-8b11-492c-96bd-530210228fad
+  shortdef:
+  - to eat
+  - to consume, to eat up, to eat into
+  - to eat
+  suppl:
+    cjts:
+    - cjfs:
+      - comiendo
+      - comido
+      cjid: gppt
+    - cjfs:
+      - como
+      - comes
+      - come
+      - comemos
+      - "com\xE9is"
+      - comen
+      cjid: pind
+    - cjfs:
+      - "com\xEDa"
+      - "com\xEDas"
+      - "com\xEDa"
+      - "com\xEDamos"
+      - "com\xEDais"
+      - "com\xEDan"
+      cjid: pret
+    - cjfs:
+      - "com\xED"
+      - comiste
+      - "comi\xF3"
+      - comimos
+      - comisteis
+      - comieron
+      cjid: pprf
+    - cjfs:
+      - "comer\xE9"
+      - "comer\xE1s"
+      - "comer\xE1"
+      - comeremos
+      - "comer\xE9is"
+      - "comer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "comer\xEDa"
+      - "comer\xEDas"
+      - "comer\xEDa"
+      - "comer\xEDamos"
+      - "comer\xEDais"
+      - "comer\xEDan"
+      cjid: cond
+    - cjfs:
+      - coma
+      - comas
+      - coma
+      - comamos
+      - "com\xE1is"
+      - coman
+      cjid: psub
+    - cjfs:
+      - comiera
+      - comieras
+      - comiera
+      - "comi\xE9ramos"
+      - comierais
+      - comieran
+      cjid: pisb1
+    - cjfs:
+      - comiese
+      - comieses
+      - comiese
+      - "comi\xE9semos"
+      - comieseis
+      - comiesen
+      cjid: pisb2
+    - cjfs:
+      - comiere
+      - comieres
+      - comiere
+      - "comi\xE9remos"
+      - comiereis
+      - comieren
+      cjid: fsub
+    - cjfs:
+      - he comido
+      - has comido
+      - ha comido
+      - hemos comido
+      - "hab\xE9is comido"
+      - han comido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa comido"
+      - "hab\xEDas comido"
+      - "hab\xEDa comido"
+      - "hab\xEDamos comido"
+      - "hab\xEDais comido"
+      - "hab\xEDan comido"
+      cjid: ppsi
+    - cjfs:
+      - hube comido
+      - hubiste comido
+      - hubo comido
+      - hubimos comido
+      - hubisteis comido
+      - hubieron comido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 comido"
+      - "habr\xE1s comido"
+      - "habr\xE1 comido"
+      - habremos comido
+      - "habr\xE9is comido"
+      - "habr\xE1n comido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa comido"
+      - "habr\xEDas comido"
+      - "habr\xEDa comido"
+      - "habr\xEDamos comido"
+      - "habr\xEDais comido"
+      - "habr\xEDan comido"
+      cjid: cpef
+    - cjfs:
+      - haya comido
+      - hayas comido
+      - haya comido
+      - hayamos comido
+      - "hay\xE1is comido"
+      - hayan comido
+      cjid: ppfs
+    - cjfs:
+      - hubiera comido
+      - hubieras comido
+      - hubiera comido
+      - "hubi\xE9ramos comido"
+      - hubierais comido
+      - hubieran comido
+      cjid: ppss1
+    - cjfs:
+      - hubiese comido
+      - hubieses comido
+      - hubiese comido
+      - "hubi\xE9semos comido"
+      - hubieseis comido
+      - hubiesen comido
+      cjid: ppss2
+    - cjfs:
+      - hubiere comido
+      - hubieres comido
+      - hubiere comido
+      - "hubi\xE9remos comido"
+      - hubiereis comido
+      - hubieren comido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - come
+      - coma
+      - comamos
+      - comed
+      - coman
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}eating, dining'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: comer
+  meta:
+    id: comer:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605166000'
+    src: spanish
+    stems:
+    - comer
+    uuid: e2141e1a-12de-49d4-a825-ad4dab583614
+  shortdef:
+  - eating, dining
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|prometedor}'
+  fl: adjective
+  hwi:
+    hw: up-and-coming
+  meta:
+    id: up-and-coming
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2625789000'
+    src: spanish
+    stems:
+    - up-and-coming
+    - up-and-comer
+    - up-and-comers
+    uuid: 1fdc5829-c47f-4fde-bd32-5433c1a88ce9
+  shortdef:
+  - prometedor
+- ahws:
+  - hw: pava
+    hwc: -va
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|turkey}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|peacock}'
+          sn: '2'
+          vrs:
+          - va: pavo real
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be a wallflower}'
+          sn: '3'
+          vrs:
+          - va: comer pavo
+  fl: noun
+  hwi:
+    hw: pavo
+    prs:
+    - sound:
+        audio: pavo001sp
+  meta:
+    id: pavo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616880000'
+    src: spanish
+    stems:
+    - pavo
+    - pava
+    - pavo real
+    - comer pavo
+    uuid: e81f3e97-ad4a-4a19-b053-37b17ee009e1
+  shortdef:
+  - turkey
+  - peacock
+  - to be a wallflower

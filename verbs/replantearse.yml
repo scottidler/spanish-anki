@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|redefine}, to {a_link|restate}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|reconsider}'
+    drp: replantearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: replantear
+  meta:
+    id: replantear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619450000'
+    src: spanish
+    stems:
+    - replantear
+    - replantearse
+    uuid: ab8da253-0490-4806-90f0-beb54ce41a5b
+  shortdef:
+  - to redefine, to restate
+  suppl:
+    cjts:
+    - cjfs:
+      - replanteando
+      - replanteado
+      cjid: gppt
+    - cjfs:
+      - replanteo
+      - replanteas
+      - replantea
+      - replanteamos
+      - "replante\xE1is"
+      - replantean
+      cjid: pind
+    - cjfs:
+      - replanteaba
+      - replanteabas
+      - replanteaba
+      - "replante\xE1bamos"
+      - replanteabais
+      - replanteaban
+      cjid: pret
+    - cjfs:
+      - "replante\xE9"
+      - replanteaste
+      - "replante\xF3"
+      - replanteamos
+      - replanteasteis
+      - replantearon
+      cjid: pprf
+    - cjfs:
+      - "replantear\xE9"
+      - "replantear\xE1s"
+      - "replantear\xE1"
+      - replantearemos
+      - "replantear\xE9is"
+      - "replantear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "replantear\xEDa"
+      - "replantear\xEDas"
+      - "replantear\xEDa"
+      - "replantear\xEDamos"
+      - "replantear\xEDais"
+      - "replantear\xEDan"
+      cjid: cond
+    - cjfs:
+      - replantee
+      - replantees
+      - replantee
+      - replanteemos
+      - "replante\xE9is"
+      - replanteen
+      cjid: psub
+    - cjfs:
+      - replanteara
+      - replantearas
+      - replanteara
+      - "replante\xE1ramos"
+      - replantearais
+      - replantearan
+      cjid: pisb1
+    - cjfs:
+      - replantease
+      - replanteases
+      - replantease
+      - "replante\xE1semos"
+      - replanteaseis
+      - replanteasen
+      cjid: pisb2
+    - cjfs:
+      - replanteare
+      - replanteares
+      - replanteare
+      - "replante\xE1remos"
+      - replanteareis
+      - replantearen
+      cjid: fsub
+    - cjfs:
+      - he replanteado
+      - has replanteado
+      - ha replanteado
+      - hemos replanteado
+      - "hab\xE9is replanteado"
+      - han replanteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa replanteado"
+      - "hab\xEDas replanteado"
+      - "hab\xEDa replanteado"
+      - "hab\xEDamos replanteado"
+      - "hab\xEDais replanteado"
+      - "hab\xEDan replanteado"
+      cjid: ppsi
+    - cjfs:
+      - hube replanteado
+      - hubiste replanteado
+      - hubo replanteado
+      - hubimos replanteado
+      - hubisteis replanteado
+      - hubieron replanteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 replanteado"
+      - "habr\xE1s replanteado"
+      - "habr\xE1 replanteado"
+      - habremos replanteado
+      - "habr\xE9is replanteado"
+      - "habr\xE1n replanteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa replanteado"
+      - "habr\xEDas replanteado"
+      - "habr\xEDa replanteado"
+      - "habr\xEDamos replanteado"
+      - "habr\xEDais replanteado"
+      - "habr\xEDan replanteado"
+      cjid: cpef
+    - cjfs:
+      - haya replanteado
+      - hayas replanteado
+      - haya replanteado
+      - hayamos replanteado
+      - "hay\xE1is replanteado"
+      - hayan replanteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera replanteado
+      - hubieras replanteado
+      - hubiera replanteado
+      - "hubi\xE9ramos replanteado"
+      - hubierais replanteado
+      - hubieran replanteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese replanteado
+      - hubieses replanteado
+      - hubiese replanteado
+      - "hubi\xE9semos replanteado"
+      - hubieseis replanteado
+      - hubiesen replanteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere replanteado
+      - hubieres replanteado
+      - hubiere replanteado
+      - "hubi\xE9remos replanteado"
+      - hubiereis replanteado
+      - hubieren replanteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - replantea
+      - replantee
+      - replanteemos
+      - replantead
+      - replanteen
+      cjid: impf

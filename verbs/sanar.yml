@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|heal}, to {a_link|cure}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get well, to {a_link|recover}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: sanar
+    prs:
+    - sound:
+        audio: sanar01sp
+  meta:
+    id: sanar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620188000'
+    src: spanish
+    stems:
+    - sanar
+    uuid: 095e8660-7b10-4274-987f-2f27077b6831
+  shortdef:
+  - to heal, to cure
+  - to get well, to recover
+  suppl:
+    cjts:
+    - cjfs:
+      - sanando
+      - sanado
+      cjid: gppt
+    - cjfs:
+      - sano
+      - sanas
+      - sana
+      - sanamos
+      - "san\xE1is"
+      - sanan
+      cjid: pind
+    - cjfs:
+      - sanaba
+      - sanabas
+      - sanaba
+      - "san\xE1bamos"
+      - sanabais
+      - sanaban
+      cjid: pret
+    - cjfs:
+      - "san\xE9"
+      - sanaste
+      - "san\xF3"
+      - sanamos
+      - sanasteis
+      - sanaron
+      cjid: pprf
+    - cjfs:
+      - "sanar\xE9"
+      - "sanar\xE1s"
+      - "sanar\xE1"
+      - sanaremos
+      - "sanar\xE9is"
+      - "sanar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sanar\xEDa"
+      - "sanar\xEDas"
+      - "sanar\xEDa"
+      - "sanar\xEDamos"
+      - "sanar\xEDais"
+      - "sanar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sane
+      - sanes
+      - sane
+      - sanemos
+      - "san\xE9is"
+      - sanen
+      cjid: psub
+    - cjfs:
+      - sanara
+      - sanaras
+      - sanara
+      - "san\xE1ramos"
+      - sanarais
+      - sanaran
+      cjid: pisb1
+    - cjfs:
+      - sanase
+      - sanases
+      - sanase
+      - "san\xE1semos"
+      - sanaseis
+      - sanasen
+      cjid: pisb2
+    - cjfs:
+      - sanare
+      - sanares
+      - sanare
+      - "san\xE1remos"
+      - sanareis
+      - sanaren
+      cjid: fsub
+    - cjfs:
+      - he sanado
+      - has sanado
+      - ha sanado
+      - hemos sanado
+      - "hab\xE9is sanado"
+      - han sanado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sanado"
+      - "hab\xEDas sanado"
+      - "hab\xEDa sanado"
+      - "hab\xEDamos sanado"
+      - "hab\xEDais sanado"
+      - "hab\xEDan sanado"
+      cjid: ppsi
+    - cjfs:
+      - hube sanado
+      - hubiste sanado
+      - hubo sanado
+      - hubimos sanado
+      - hubisteis sanado
+      - hubieron sanado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sanado"
+      - "habr\xE1s sanado"
+      - "habr\xE1 sanado"
+      - habremos sanado
+      - "habr\xE9is sanado"
+      - "habr\xE1n sanado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sanado"
+      - "habr\xEDas sanado"
+      - "habr\xEDa sanado"
+      - "habr\xEDamos sanado"
+      - "habr\xEDais sanado"
+      - "habr\xEDan sanado"
+      cjid: cpef
+    - cjfs:
+      - haya sanado
+      - hayas sanado
+      - haya sanado
+      - hayamos sanado
+      - "hay\xE1is sanado"
+      - hayan sanado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sanado
+      - hubieras sanado
+      - hubiera sanado
+      - "hubi\xE9ramos sanado"
+      - hubierais sanado
+      - hubieran sanado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sanado
+      - hubieses sanado
+      - hubiese sanado
+      - "hubi\xE9semos sanado"
+      - hubieseis sanado
+      - hubiesen sanado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sanado
+      - hubieres sanado
+      - hubiere sanado
+      - "hubi\xE9remos sanado"
+      - hubiereis sanado
+      - hubieren sanado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sana
+      - sane
+      - sanemos
+      - sanad
+      - sanen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sparkle}, to {a_link|flash}, to {a_link|glint}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|twinkle}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: destellar
+  meta:
+    id: destellar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607342000'
+    src: spanish
+    stems:
+    - destellar
+    uuid: 672a806b-8149-4283-b603-e521f496f675
+  shortdef:
+  - to sparkle, to flash, to glint
+  - to twinkle
+  suppl:
+    cjts:
+    - cjfs:
+      - destellando
+      - destellado
+      cjid: gppt
+    - cjfs:
+      - destello
+      - destellas
+      - destella
+      - destellamos
+      - "destell\xE1is"
+      - destellan
+      cjid: pind
+    - cjfs:
+      - destellaba
+      - destellabas
+      - destellaba
+      - "destell\xE1bamos"
+      - destellabais
+      - destellaban
+      cjid: pret
+    - cjfs:
+      - "destell\xE9"
+      - destellaste
+      - "destell\xF3"
+      - destellamos
+      - destellasteis
+      - destellaron
+      cjid: pprf
+    - cjfs:
+      - "destellar\xE9"
+      - "destellar\xE1s"
+      - "destellar\xE1"
+      - destellaremos
+      - "destellar\xE9is"
+      - "destellar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "destellar\xEDa"
+      - "destellar\xEDas"
+      - "destellar\xEDa"
+      - "destellar\xEDamos"
+      - "destellar\xEDais"
+      - "destellar\xEDan"
+      cjid: cond
+    - cjfs:
+      - destelle
+      - destelles
+      - destelle
+      - destellemos
+      - "destell\xE9is"
+      - destellen
+      cjid: psub
+    - cjfs:
+      - destellara
+      - destellaras
+      - destellara
+      - "destell\xE1ramos"
+      - destellarais
+      - destellaran
+      cjid: pisb1
+    - cjfs:
+      - destellase
+      - destellases
+      - destellase
+      - "destell\xE1semos"
+      - destellaseis
+      - destellasen
+      cjid: pisb2
+    - cjfs:
+      - destellare
+      - destellares
+      - destellare
+      - "destell\xE1remos"
+      - destellareis
+      - destellaren
+      cjid: fsub
+    - cjfs:
+      - he destellado
+      - has destellado
+      - ha destellado
+      - hemos destellado
+      - "hab\xE9is destellado"
+      - han destellado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa destellado"
+      - "hab\xEDas destellado"
+      - "hab\xEDa destellado"
+      - "hab\xEDamos destellado"
+      - "hab\xEDais destellado"
+      - "hab\xEDan destellado"
+      cjid: ppsi
+    - cjfs:
+      - hube destellado
+      - hubiste destellado
+      - hubo destellado
+      - hubimos destellado
+      - hubisteis destellado
+      - hubieron destellado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 destellado"
+      - "habr\xE1s destellado"
+      - "habr\xE1 destellado"
+      - habremos destellado
+      - "habr\xE9is destellado"
+      - "habr\xE1n destellado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa destellado"
+      - "habr\xEDas destellado"
+      - "habr\xEDa destellado"
+      - "habr\xEDamos destellado"
+      - "habr\xEDais destellado"
+      - "habr\xEDan destellado"
+      cjid: cpef
+    - cjfs:
+      - haya destellado
+      - hayas destellado
+      - haya destellado
+      - hayamos destellado
+      - "hay\xE1is destellado"
+      - hayan destellado
+      cjid: ppfs
+    - cjfs:
+      - hubiera destellado
+      - hubieras destellado
+      - hubiera destellado
+      - "hubi\xE9ramos destellado"
+      - hubierais destellado
+      - hubieran destellado
+      cjid: ppss1
+    - cjfs:
+      - hubiese destellado
+      - hubieses destellado
+      - hubiese destellado
+      - "hubi\xE9semos destellado"
+      - hubieseis destellado
+      - hubiesen destellado
+      cjid: ppss2
+    - cjfs:
+      - hubiere destellado
+      - hubieres destellado
+      - hubiere destellado
+      - "hubi\xE9remos destellado"
+      - hubiereis destellado
+      - hubieren destellado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - destella
+      - destelle
+      - destellemos
+      - destellad
+      - destellen
+      cjid: impf

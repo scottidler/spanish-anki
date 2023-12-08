@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|change}, to {a_link|alter}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|diversify}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vary}, to {a_link|change}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|change one''s mind}'
+          sn: '2'
+          vrs:
+          - va: "variar de opini\xF3n"
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: variar
+    prs:
+    - sound:
+        audio: varia04sp
+  meta:
+    id: variar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622718000'
+    src: spanish
+    stems:
+    - variar
+    - "variar de opini\xF3n"
+    uuid: 4217ee16-9c62-41aa-86d8-2892ac10113c
+  shortdef:
+  - to change, to alter
+  - to diversify
+  - to vary, to change
+  suppl:
+    cjts:
+    - cjfs:
+      - variando
+      - variado
+      cjid: gppt
+    - cjfs:
+      - "var\xEDo"
+      - "var\xEDas"
+      - "var\xEDa"
+      - variamos
+      - "vari\xE1is"
+      - "var\xEDan"
+      cjid: pind
+    - cjfs:
+      - variaba
+      - variabas
+      - variaba
+      - "vari\xE1bamos"
+      - variabais
+      - variaban
+      cjid: pret
+    - cjfs:
+      - "vari\xE9"
+      - variaste
+      - "vari\xF3"
+      - variamos
+      - variasteis
+      - variaron
+      cjid: pprf
+    - cjfs:
+      - "variar\xE9"
+      - "variar\xE1s"
+      - "variar\xE1"
+      - variaremos
+      - "variar\xE9is"
+      - "variar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "variar\xEDa"
+      - "variar\xEDas"
+      - "variar\xEDa"
+      - "variar\xEDamos"
+      - "variar\xEDais"
+      - "variar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "var\xEDe"
+      - "var\xEDes"
+      - "var\xEDe"
+      - variemos
+      - "vari\xE9is"
+      - "var\xEDen"
+      cjid: psub
+    - cjfs:
+      - variara
+      - variaras
+      - variara
+      - "vari\xE1ramos"
+      - variarais
+      - variaran
+      cjid: pisb1
+    - cjfs:
+      - variase
+      - variases
+      - variase
+      - "vari\xE1semos"
+      - variaseis
+      - variasen
+      cjid: pisb2
+    - cjfs:
+      - variare
+      - variares
+      - variare
+      - "vari\xE1remos"
+      - variareis
+      - variaren
+      cjid: fsub
+    - cjfs:
+      - he variado
+      - has variado
+      - ha variado
+      - hemos variado
+      - "hab\xE9is variado"
+      - han variado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa variado"
+      - "hab\xEDas variado"
+      - "hab\xEDa variado"
+      - "hab\xEDamos variado"
+      - "hab\xEDais variado"
+      - "hab\xEDan variado"
+      cjid: ppsi
+    - cjfs:
+      - hube variado
+      - hubiste variado
+      - hubo variado
+      - hubimos variado
+      - hubisteis variado
+      - hubieron variado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 variado"
+      - "habr\xE1s variado"
+      - "habr\xE1 variado"
+      - habremos variado
+      - "habr\xE9is variado"
+      - "habr\xE1n variado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa variado"
+      - "habr\xEDas variado"
+      - "habr\xEDa variado"
+      - "habr\xEDamos variado"
+      - "habr\xEDais variado"
+      - "habr\xEDan variado"
+      cjid: cpef
+    - cjfs:
+      - haya variado
+      - hayas variado
+      - haya variado
+      - hayamos variado
+      - "hay\xE1is variado"
+      - hayan variado
+      cjid: ppfs
+    - cjfs:
+      - hubiera variado
+      - hubieras variado
+      - hubiera variado
+      - "hubi\xE9ramos variado"
+      - hubierais variado
+      - hubieran variado
+      cjid: ppss1
+    - cjfs:
+      - hubiese variado
+      - hubieses variado
+      - hubiese variado
+      - "hubi\xE9semos variado"
+      - hubieseis variado
+      - hubiesen variado
+      cjid: ppss2
+    - cjfs:
+      - hubiere variado
+      - hubieres variado
+      - hubiere variado
+      - "hubi\xE9remos variado"
+      - hubiereis variado
+      - hubieren variado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "var\xEDa"
+      - "var\xEDe"
+      - variemos
+      - variad
+      - "var\xEDen"
+      cjid: impf

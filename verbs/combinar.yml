@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|unir||} {bc}to {a_link|combine}, to mix together'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|match}, to {a_link|put together}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get together}, to {a_link|conspire}'
+    drp: combinarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: combinar
+    prs:
+    - sound:
+        audio: combi01sp
+  meta:
+    id: combinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605145000'
+    src: spanish
+    stems:
+    - combinar
+    - combinarse
+    uuid: 848fa43c-e78d-40d0-a147-bba8d18965f6
+  shortdef:
+  - 'unir : to combine, to mix together'
+  - to match, to put together
+  suppl:
+    cjts:
+    - cjfs:
+      - combinando
+      - combinado
+      cjid: gppt
+    - cjfs:
+      - combino
+      - combinas
+      - combina
+      - combinamos
+      - "combin\xE1is"
+      - combinan
+      cjid: pind
+    - cjfs:
+      - combinaba
+      - combinabas
+      - combinaba
+      - "combin\xE1bamos"
+      - combinabais
+      - combinaban
+      cjid: pret
+    - cjfs:
+      - "combin\xE9"
+      - combinaste
+      - "combin\xF3"
+      - combinamos
+      - combinasteis
+      - combinaron
+      cjid: pprf
+    - cjfs:
+      - "combinar\xE9"
+      - "combinar\xE1s"
+      - "combinar\xE1"
+      - combinaremos
+      - "combinar\xE9is"
+      - "combinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "combinar\xEDa"
+      - "combinar\xEDas"
+      - "combinar\xEDa"
+      - "combinar\xEDamos"
+      - "combinar\xEDais"
+      - "combinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - combine
+      - combines
+      - combine
+      - combinemos
+      - "combin\xE9is"
+      - combinen
+      cjid: psub
+    - cjfs:
+      - combinara
+      - combinaras
+      - combinara
+      - "combin\xE1ramos"
+      - combinarais
+      - combinaran
+      cjid: pisb1
+    - cjfs:
+      - combinase
+      - combinases
+      - combinase
+      - "combin\xE1semos"
+      - combinaseis
+      - combinasen
+      cjid: pisb2
+    - cjfs:
+      - combinare
+      - combinares
+      - combinare
+      - "combin\xE1remos"
+      - combinareis
+      - combinaren
+      cjid: fsub
+    - cjfs:
+      - he combinado
+      - has combinado
+      - ha combinado
+      - hemos combinado
+      - "hab\xE9is combinado"
+      - han combinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa combinado"
+      - "hab\xEDas combinado"
+      - "hab\xEDa combinado"
+      - "hab\xEDamos combinado"
+      - "hab\xEDais combinado"
+      - "hab\xEDan combinado"
+      cjid: ppsi
+    - cjfs:
+      - hube combinado
+      - hubiste combinado
+      - hubo combinado
+      - hubimos combinado
+      - hubisteis combinado
+      - hubieron combinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 combinado"
+      - "habr\xE1s combinado"
+      - "habr\xE1 combinado"
+      - habremos combinado
+      - "habr\xE9is combinado"
+      - "habr\xE1n combinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa combinado"
+      - "habr\xEDas combinado"
+      - "habr\xEDa combinado"
+      - "habr\xEDamos combinado"
+      - "habr\xEDais combinado"
+      - "habr\xEDan combinado"
+      cjid: cpef
+    - cjfs:
+      - haya combinado
+      - hayas combinado
+      - haya combinado
+      - hayamos combinado
+      - "hay\xE1is combinado"
+      - hayan combinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera combinado
+      - hubieras combinado
+      - hubiera combinado
+      - "hubi\xE9ramos combinado"
+      - hubierais combinado
+      - hubieran combinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese combinado
+      - hubieses combinado
+      - hubiese combinado
+      - "hubi\xE9semos combinado"
+      - hubieseis combinado
+      - hubiesen combinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere combinado
+      - hubieres combinado
+      - hubiere combinado
+      - "hubi\xE9remos combinado"
+      - hubiereis combinado
+      - hubieren combinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - combina
+      - combine
+      - combinemos
+      - combinad
+      - combinen
+      cjid: impf

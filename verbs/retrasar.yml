@@ -1,0 +1,217 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|demorar||}, {sx|retardar||} {bc}to {a_link|delay}, to {a_link|hold
+              up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put off}, to {a_link|postpone}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn back} (a clock)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be late'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fall behind}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|lose time} (of a clock)'
+            sn: '3'
+    drp: retrasarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: retrasar
+    prs:
+    - sound:
+        audio: retra02sp
+  meta:
+    id: retrasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619699000'
+    src: spanish
+    stems:
+    - retrasar
+    - retrasarse
+    uuid: 7397bfd0-03b6-425b-aa1b-0bb5266bb7b1
+  shortdef:
+  - 'demorar, retardar : to delay, to hold up'
+  - to put off, to postpone
+  - to turn back (a clock)
+  suppl:
+    cjts:
+    - cjfs:
+      - retrasando
+      - retrasado
+      cjid: gppt
+    - cjfs:
+      - retraso
+      - retrasas
+      - retrasa
+      - retrasamos
+      - "retras\xE1is"
+      - retrasan
+      cjid: pind
+    - cjfs:
+      - retrasaba
+      - retrasabas
+      - retrasaba
+      - "retras\xE1bamos"
+      - retrasabais
+      - retrasaban
+      cjid: pret
+    - cjfs:
+      - "retras\xE9"
+      - retrasaste
+      - "retras\xF3"
+      - retrasamos
+      - retrasasteis
+      - retrasaron
+      cjid: pprf
+    - cjfs:
+      - "retrasar\xE9"
+      - "retrasar\xE1s"
+      - "retrasar\xE1"
+      - retrasaremos
+      - "retrasar\xE9is"
+      - "retrasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "retrasar\xEDa"
+      - "retrasar\xEDas"
+      - "retrasar\xEDa"
+      - "retrasar\xEDamos"
+      - "retrasar\xEDais"
+      - "retrasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - retrase
+      - retrases
+      - retrase
+      - retrasemos
+      - "retras\xE9is"
+      - retrasen
+      cjid: psub
+    - cjfs:
+      - retrasara
+      - retrasaras
+      - retrasara
+      - "retras\xE1ramos"
+      - retrasarais
+      - retrasaran
+      cjid: pisb1
+    - cjfs:
+      - retrasase
+      - retrasases
+      - retrasase
+      - "retras\xE1semos"
+      - retrasaseis
+      - retrasasen
+      cjid: pisb2
+    - cjfs:
+      - retrasare
+      - retrasares
+      - retrasare
+      - "retras\xE1remos"
+      - retrasareis
+      - retrasaren
+      cjid: fsub
+    - cjfs:
+      - he retrasado
+      - has retrasado
+      - ha retrasado
+      - hemos retrasado
+      - "hab\xE9is retrasado"
+      - han retrasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa retrasado"
+      - "hab\xEDas retrasado"
+      - "hab\xEDa retrasado"
+      - "hab\xEDamos retrasado"
+      - "hab\xEDais retrasado"
+      - "hab\xEDan retrasado"
+      cjid: ppsi
+    - cjfs:
+      - hube retrasado
+      - hubiste retrasado
+      - hubo retrasado
+      - hubimos retrasado
+      - hubisteis retrasado
+      - hubieron retrasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 retrasado"
+      - "habr\xE1s retrasado"
+      - "habr\xE1 retrasado"
+      - habremos retrasado
+      - "habr\xE9is retrasado"
+      - "habr\xE1n retrasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa retrasado"
+      - "habr\xEDas retrasado"
+      - "habr\xEDa retrasado"
+      - "habr\xEDamos retrasado"
+      - "habr\xEDais retrasado"
+      - "habr\xEDan retrasado"
+      cjid: cpef
+    - cjfs:
+      - haya retrasado
+      - hayas retrasado
+      - haya retrasado
+      - hayamos retrasado
+      - "hay\xE1is retrasado"
+      - hayan retrasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera retrasado
+      - hubieras retrasado
+      - hubiera retrasado
+      - "hubi\xE9ramos retrasado"
+      - hubierais retrasado
+      - hubieran retrasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese retrasado
+      - hubieses retrasado
+      - hubiese retrasado
+      - "hubi\xE9semos retrasado"
+      - hubieseis retrasado
+      - hubiesen retrasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere retrasado
+      - hubieres retrasado
+      - hubiere retrasado
+      - "hubi\xE9remos retrasado"
+      - hubiereis retrasado
+      - hubieren retrasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - retrasa
+      - retrase
+      - retrasemos
+      - retrasad
+      - retrasen
+      cjid: impf

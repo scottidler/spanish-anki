@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|sostener||} {bc}to {a_link|support}, to {a_link|hold up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|resistir||} {bc}to {a_link|withstand}, to {a_link|resist}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aguantar||} {bc}to {a_link|bear}, to {a_link|tolerate}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: soportar
+    prs:
+    - sound:
+        audio: sopor01sp
+  meta:
+    id: soportar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620966000'
+    src: spanish
+    stems:
+    - soportar
+    uuid: f697edaf-1e02-4b6b-800c-287fa0b50aa2
+  shortdef:
+  - 'sostener : to support, to hold up'
+  - 'resistir : to withstand, to resist'
+  - 'aguantar : to bear, to tolerate'
+  suppl:
+    cjts:
+    - cjfs:
+      - soportando
+      - soportado
+      cjid: gppt
+    - cjfs:
+      - soporto
+      - soportas
+      - soporta
+      - soportamos
+      - "soport\xE1is"
+      - soportan
+      cjid: pind
+    - cjfs:
+      - soportaba
+      - soportabas
+      - soportaba
+      - "soport\xE1bamos"
+      - soportabais
+      - soportaban
+      cjid: pret
+    - cjfs:
+      - "soport\xE9"
+      - soportaste
+      - "soport\xF3"
+      - soportamos
+      - soportasteis
+      - soportaron
+      cjid: pprf
+    - cjfs:
+      - "soportar\xE9"
+      - "soportar\xE1s"
+      - "soportar\xE1"
+      - soportaremos
+      - "soportar\xE9is"
+      - "soportar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "soportar\xEDa"
+      - "soportar\xEDas"
+      - "soportar\xEDa"
+      - "soportar\xEDamos"
+      - "soportar\xEDais"
+      - "soportar\xEDan"
+      cjid: cond
+    - cjfs:
+      - soporte
+      - soportes
+      - soporte
+      - soportemos
+      - "soport\xE9is"
+      - soporten
+      cjid: psub
+    - cjfs:
+      - soportara
+      - soportaras
+      - soportara
+      - "soport\xE1ramos"
+      - soportarais
+      - soportaran
+      cjid: pisb1
+    - cjfs:
+      - soportase
+      - soportases
+      - soportase
+      - "soport\xE1semos"
+      - soportaseis
+      - soportasen
+      cjid: pisb2
+    - cjfs:
+      - soportare
+      - soportares
+      - soportare
+      - "soport\xE1remos"
+      - soportareis
+      - soportaren
+      cjid: fsub
+    - cjfs:
+      - he soportado
+      - has soportado
+      - ha soportado
+      - hemos soportado
+      - "hab\xE9is soportado"
+      - han soportado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa soportado"
+      - "hab\xEDas soportado"
+      - "hab\xEDa soportado"
+      - "hab\xEDamos soportado"
+      - "hab\xEDais soportado"
+      - "hab\xEDan soportado"
+      cjid: ppsi
+    - cjfs:
+      - hube soportado
+      - hubiste soportado
+      - hubo soportado
+      - hubimos soportado
+      - hubisteis soportado
+      - hubieron soportado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 soportado"
+      - "habr\xE1s soportado"
+      - "habr\xE1 soportado"
+      - habremos soportado
+      - "habr\xE9is soportado"
+      - "habr\xE1n soportado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa soportado"
+      - "habr\xEDas soportado"
+      - "habr\xEDa soportado"
+      - "habr\xEDamos soportado"
+      - "habr\xEDais soportado"
+      - "habr\xEDan soportado"
+      cjid: cpef
+    - cjfs:
+      - haya soportado
+      - hayas soportado
+      - haya soportado
+      - hayamos soportado
+      - "hay\xE1is soportado"
+      - hayan soportado
+      cjid: ppfs
+    - cjfs:
+      - hubiera soportado
+      - hubieras soportado
+      - hubiera soportado
+      - "hubi\xE9ramos soportado"
+      - hubierais soportado
+      - hubieran soportado
+      cjid: ppss1
+    - cjfs:
+      - hubiese soportado
+      - hubieses soportado
+      - hubiese soportado
+      - "hubi\xE9semos soportado"
+      - hubieseis soportado
+      - hubiesen soportado
+      cjid: ppss2
+    - cjfs:
+      - hubiere soportado
+      - hubieres soportado
+      - hubiere soportado
+      - "hubi\xE9remos soportado"
+      - hubiereis soportado
+      - hubieren soportado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - soporta
+      - soporte
+      - soportemos
+      - soportad
+      - soporten
+      cjid: impf

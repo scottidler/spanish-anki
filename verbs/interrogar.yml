@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|interrogate}, to {a_link|question}'
+  fl: transitive verb
+  hwi:
+    hw: interrogar
+    prs:
+    - sound:
+        audio: inter27sp
+  meta:
+    id: interrogar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612889000'
+    src: spanish
+    stems:
+    - interrogar
+    uuid: 1b634413-3915-4cbe-a1a4-01cd525854b6
+  shortdef:
+  - to interrogate, to question
+  suppl:
+    cjts:
+    - cjfs:
+      - interrogando
+      - interrogado
+      cjid: gppt
+    - cjfs:
+      - interrogo
+      - interrogas
+      - interroga
+      - interrogamos
+      - "interrog\xE1is"
+      - interrogan
+      cjid: pind
+    - cjfs:
+      - interrogaba
+      - interrogabas
+      - interrogaba
+      - "interrog\xE1bamos"
+      - interrogabais
+      - interrogaban
+      cjid: pret
+    - cjfs:
+      - "interrogu\xE9"
+      - interrogaste
+      - "interrog\xF3"
+      - interrogamos
+      - interrogasteis
+      - interrogaron
+      cjid: pprf
+    - cjfs:
+      - "interrogar\xE9"
+      - "interrogar\xE1s"
+      - "interrogar\xE1"
+      - interrogaremos
+      - "interrogar\xE9is"
+      - "interrogar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "interrogar\xEDa"
+      - "interrogar\xEDas"
+      - "interrogar\xEDa"
+      - "interrogar\xEDamos"
+      - "interrogar\xEDais"
+      - "interrogar\xEDan"
+      cjid: cond
+    - cjfs:
+      - interrogue
+      - interrogues
+      - interrogue
+      - interroguemos
+      - "interrogu\xE9is"
+      - interroguen
+      cjid: psub
+    - cjfs:
+      - interrogara
+      - interrogaras
+      - interrogara
+      - "interrog\xE1ramos"
+      - interrogarais
+      - interrogaran
+      cjid: pisb1
+    - cjfs:
+      - interrogase
+      - interrogases
+      - interrogase
+      - "interrog\xE1semos"
+      - interrogaseis
+      - interrogasen
+      cjid: pisb2
+    - cjfs:
+      - interrogare
+      - interrogares
+      - interrogare
+      - "interrog\xE1remos"
+      - interrogareis
+      - interrogaren
+      cjid: fsub
+    - cjfs:
+      - he interrogado
+      - has interrogado
+      - ha interrogado
+      - hemos interrogado
+      - "hab\xE9is interrogado"
+      - han interrogado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa interrogado"
+      - "hab\xEDas interrogado"
+      - "hab\xEDa interrogado"
+      - "hab\xEDamos interrogado"
+      - "hab\xEDais interrogado"
+      - "hab\xEDan interrogado"
+      cjid: ppsi
+    - cjfs:
+      - hube interrogado
+      - hubiste interrogado
+      - hubo interrogado
+      - hubimos interrogado
+      - hubisteis interrogado
+      - hubieron interrogado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 interrogado"
+      - "habr\xE1s interrogado"
+      - "habr\xE1 interrogado"
+      - habremos interrogado
+      - "habr\xE9is interrogado"
+      - "habr\xE1n interrogado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa interrogado"
+      - "habr\xEDas interrogado"
+      - "habr\xEDa interrogado"
+      - "habr\xEDamos interrogado"
+      - "habr\xEDais interrogado"
+      - "habr\xEDan interrogado"
+      cjid: cpef
+    - cjfs:
+      - haya interrogado
+      - hayas interrogado
+      - haya interrogado
+      - hayamos interrogado
+      - "hay\xE1is interrogado"
+      - hayan interrogado
+      cjid: ppfs
+    - cjfs:
+      - hubiera interrogado
+      - hubieras interrogado
+      - hubiera interrogado
+      - "hubi\xE9ramos interrogado"
+      - hubierais interrogado
+      - hubieran interrogado
+      cjid: ppss1
+    - cjfs:
+      - hubiese interrogado
+      - hubieses interrogado
+      - hubiese interrogado
+      - "hubi\xE9semos interrogado"
+      - hubieseis interrogado
+      - hubiesen interrogado
+      cjid: ppss2
+    - cjfs:
+      - hubiere interrogado
+      - hubieres interrogado
+      - hubiere interrogado
+      - "hubi\xE9remos interrogado"
+      - hubiereis interrogado
+      - hubieren interrogado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - interroga
+      - interrogue
+      - interroguemos
+      - interrogad
+      - interroguen
+      cjid: impf

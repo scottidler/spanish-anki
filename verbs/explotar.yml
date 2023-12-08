@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exploit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|operate}, to {a_link|run}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|estallar||}, {sx|reventar||} {bc}to {a_link|explode}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: explotar
+    prs:
+    - sound:
+        audio: explo04sp
+  meta:
+    id: explotar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609700000'
+    src: spanish
+    stems:
+    - explotar
+    - explotable
+    uuid: 88785e8b-73cb-46c2-b379-76ef99c27701
+  shortdef:
+  - to exploit
+  - to operate, to run
+  - 'estallar, reventar : to explode'
+  suppl:
+    cjts:
+    - cjfs:
+      - explotando
+      - explotado
+      cjid: gppt
+    - cjfs:
+      - exploto
+      - explotas
+      - explota
+      - explotamos
+      - "explot\xE1is"
+      - explotan
+      cjid: pind
+    - cjfs:
+      - explotaba
+      - explotabas
+      - explotaba
+      - "explot\xE1bamos"
+      - explotabais
+      - explotaban
+      cjid: pret
+    - cjfs:
+      - "explot\xE9"
+      - explotaste
+      - "explot\xF3"
+      - explotamos
+      - explotasteis
+      - explotaron
+      cjid: pprf
+    - cjfs:
+      - "explotar\xE9"
+      - "explotar\xE1s"
+      - "explotar\xE1"
+      - explotaremos
+      - "explotar\xE9is"
+      - "explotar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "explotar\xEDa"
+      - "explotar\xEDas"
+      - "explotar\xEDa"
+      - "explotar\xEDamos"
+      - "explotar\xEDais"
+      - "explotar\xEDan"
+      cjid: cond
+    - cjfs:
+      - explote
+      - explotes
+      - explote
+      - explotemos
+      - "explot\xE9is"
+      - exploten
+      cjid: psub
+    - cjfs:
+      - explotara
+      - explotaras
+      - explotara
+      - "explot\xE1ramos"
+      - explotarais
+      - explotaran
+      cjid: pisb1
+    - cjfs:
+      - explotase
+      - explotases
+      - explotase
+      - "explot\xE1semos"
+      - explotaseis
+      - explotasen
+      cjid: pisb2
+    - cjfs:
+      - explotare
+      - explotares
+      - explotare
+      - "explot\xE1remos"
+      - explotareis
+      - explotaren
+      cjid: fsub
+    - cjfs:
+      - he explotado
+      - has explotado
+      - ha explotado
+      - hemos explotado
+      - "hab\xE9is explotado"
+      - han explotado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa explotado"
+      - "hab\xEDas explotado"
+      - "hab\xEDa explotado"
+      - "hab\xEDamos explotado"
+      - "hab\xEDais explotado"
+      - "hab\xEDan explotado"
+      cjid: ppsi
+    - cjfs:
+      - hube explotado
+      - hubiste explotado
+      - hubo explotado
+      - hubimos explotado
+      - hubisteis explotado
+      - hubieron explotado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 explotado"
+      - "habr\xE1s explotado"
+      - "habr\xE1 explotado"
+      - habremos explotado
+      - "habr\xE9is explotado"
+      - "habr\xE1n explotado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa explotado"
+      - "habr\xEDas explotado"
+      - "habr\xEDa explotado"
+      - "habr\xEDamos explotado"
+      - "habr\xEDais explotado"
+      - "habr\xEDan explotado"
+      cjid: cpef
+    - cjfs:
+      - haya explotado
+      - hayas explotado
+      - haya explotado
+      - hayamos explotado
+      - "hay\xE1is explotado"
+      - hayan explotado
+      cjid: ppfs
+    - cjfs:
+      - hubiera explotado
+      - hubieras explotado
+      - hubiera explotado
+      - "hubi\xE9ramos explotado"
+      - hubierais explotado
+      - hubieran explotado
+      cjid: ppss1
+    - cjfs:
+      - hubiese explotado
+      - hubieses explotado
+      - hubiese explotado
+      - "hubi\xE9semos explotado"
+      - hubieseis explotado
+      - hubiesen explotado
+      cjid: ppss2
+    - cjfs:
+      - hubiere explotado
+      - hubieres explotado
+      - hubiere explotado
+      - "hubi\xE9remos explotado"
+      - hubiereis explotado
+      - hubieren explotado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - explota
+      - explote
+      - explotemos
+      - explotad
+      - exploten
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: explotable

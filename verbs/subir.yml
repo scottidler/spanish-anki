@@ -1,0 +1,262 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to bring/take/carry up, to lift up'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|climb}, to go/come up (stairs, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|raise} (a blind, etc.), to {a_link|pull up} (a zipper,
+              etc.), to {a_link|take up} (a hem)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aumentar||} {bc}to {a_link|raise} (prices, etc.) '
+          - - vis
+            - - t: subir el volumen
+                tr: to turn up the volume
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cargar||} {bc}to {a_link|upload}'
+          sn: '5'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go/come up'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aumentar||} {bc}to {a_link|rise}, to {a_link|increase}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be promoted'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get on}, to {a_link|mount} '
+          - - vis
+            - - t: subir a un tren
+                tr: to get on a train
+          sn: '4'
+          vrs:
+          - va: subir a
+            vac: ~ a
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|climb} (up)'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|pull up} (clothing)'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to go to one''s head'
+            sn: '3'
+            vrs:
+            - va: subirse a la cabeza
+    drp: subirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: subir
+    prs:
+    - sound:
+        audio: subir01sp
+  meta:
+    id: subir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621069000'
+    src: spanish
+    stems:
+    - subir
+    - subir a
+    - subirse
+    - subirse a la cabeza
+    uuid: db6504de-0cd3-4ab7-8664-304a817ed7a8
+  shortdef:
+  - to bring/take/carry up, to lift up
+  - to climb, to go/come up (stairs, etc.)
+  - to raise (a blind, etc.), to pull up (a zipper, etc.), to take up (a hem)
+  suppl:
+    cjts:
+    - cjfs:
+      - subiendo
+      - subido
+      cjid: gppt
+    - cjfs:
+      - subo
+      - subes
+      - sube
+      - subimos
+      - "sub\xEDs"
+      - suben
+      cjid: pind
+    - cjfs:
+      - "sub\xEDa"
+      - "sub\xEDas"
+      - "sub\xEDa"
+      - "sub\xEDamos"
+      - "sub\xEDais"
+      - "sub\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sub\xED"
+      - subiste
+      - "subi\xF3"
+      - subimos
+      - subisteis
+      - subieron
+      cjid: pprf
+    - cjfs:
+      - "subir\xE9"
+      - "subir\xE1s"
+      - "subir\xE1"
+      - subiremos
+      - "subir\xE9is"
+      - "subir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "subir\xEDa"
+      - "subir\xEDas"
+      - "subir\xEDa"
+      - "subir\xEDamos"
+      - "subir\xEDais"
+      - "subir\xEDan"
+      cjid: cond
+    - cjfs:
+      - suba
+      - subas
+      - suba
+      - subamos
+      - "sub\xE1is"
+      - suban
+      cjid: psub
+    - cjfs:
+      - subiera
+      - subieras
+      - subiera
+      - "subi\xE9ramos"
+      - subierais
+      - subieran
+      cjid: pisb1
+    - cjfs:
+      - subiese
+      - subieses
+      - subiese
+      - "subi\xE9semos"
+      - subieseis
+      - subiesen
+      cjid: pisb2
+    - cjfs:
+      - subiere
+      - subieres
+      - subiere
+      - "subi\xE9remos"
+      - subiereis
+      - subieren
+      cjid: fsub
+    - cjfs:
+      - he subido
+      - has subido
+      - ha subido
+      - hemos subido
+      - "hab\xE9is subido"
+      - han subido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa subido"
+      - "hab\xEDas subido"
+      - "hab\xEDa subido"
+      - "hab\xEDamos subido"
+      - "hab\xEDais subido"
+      - "hab\xEDan subido"
+      cjid: ppsi
+    - cjfs:
+      - hube subido
+      - hubiste subido
+      - hubo subido
+      - hubimos subido
+      - hubisteis subido
+      - hubieron subido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 subido"
+      - "habr\xE1s subido"
+      - "habr\xE1 subido"
+      - habremos subido
+      - "habr\xE9is subido"
+      - "habr\xE1n subido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa subido"
+      - "habr\xEDas subido"
+      - "habr\xEDa subido"
+      - "habr\xEDamos subido"
+      - "habr\xEDais subido"
+      - "habr\xEDan subido"
+      cjid: cpef
+    - cjfs:
+      - haya subido
+      - hayas subido
+      - haya subido
+      - hayamos subido
+      - "hay\xE1is subido"
+      - hayan subido
+      cjid: ppfs
+    - cjfs:
+      - hubiera subido
+      - hubieras subido
+      - hubiera subido
+      - "hubi\xE9ramos subido"
+      - hubierais subido
+      - hubieran subido
+      cjid: ppss1
+    - cjfs:
+      - hubiese subido
+      - hubieses subido
+      - hubiese subido
+      - "hubi\xE9semos subido"
+      - hubieseis subido
+      - hubiesen subido
+      cjid: ppss2
+    - cjfs:
+      - hubiere subido
+      - hubieres subido
+      - hubiere subido
+      - "hubi\xE9remos subido"
+      - hubiereis subido
+      - hubieren subido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sube
+      - suba
+      - subamos
+      - subid
+      - suban
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make difficult, to {a_link|obstruct}'
+  fl: transitive verb
+  hwi:
+    hw: dificultar
+    prs:
+    - sound:
+        audio: dific03sp
+  meta:
+    id: dificultar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607554000'
+    src: spanish
+    stems:
+    - dificultar
+    uuid: 0a480fa6-3dae-4292-903d-291f510450e8
+  shortdef:
+  - to make difficult, to obstruct
+  suppl:
+    cjts:
+    - cjfs:
+      - dificultando
+      - dificultado
+      cjid: gppt
+    - cjfs:
+      - dificulto
+      - dificultas
+      - dificulta
+      - dificultamos
+      - "dificult\xE1is"
+      - dificultan
+      cjid: pind
+    - cjfs:
+      - dificultaba
+      - dificultabas
+      - dificultaba
+      - "dificult\xE1bamos"
+      - dificultabais
+      - dificultaban
+      cjid: pret
+    - cjfs:
+      - "dificult\xE9"
+      - dificultaste
+      - "dificult\xF3"
+      - dificultamos
+      - dificultasteis
+      - dificultaron
+      cjid: pprf
+    - cjfs:
+      - "dificultar\xE9"
+      - "dificultar\xE1s"
+      - "dificultar\xE1"
+      - dificultaremos
+      - "dificultar\xE9is"
+      - "dificultar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dificultar\xEDa"
+      - "dificultar\xEDas"
+      - "dificultar\xEDa"
+      - "dificultar\xEDamos"
+      - "dificultar\xEDais"
+      - "dificultar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dificulte
+      - dificultes
+      - dificulte
+      - dificultemos
+      - "dificult\xE9is"
+      - dificulten
+      cjid: psub
+    - cjfs:
+      - dificultara
+      - dificultaras
+      - dificultara
+      - "dificult\xE1ramos"
+      - dificultarais
+      - dificultaran
+      cjid: pisb1
+    - cjfs:
+      - dificultase
+      - dificultases
+      - dificultase
+      - "dificult\xE1semos"
+      - dificultaseis
+      - dificultasen
+      cjid: pisb2
+    - cjfs:
+      - dificultare
+      - dificultares
+      - dificultare
+      - "dificult\xE1remos"
+      - dificultareis
+      - dificultaren
+      cjid: fsub
+    - cjfs:
+      - he dificultado
+      - has dificultado
+      - ha dificultado
+      - hemos dificultado
+      - "hab\xE9is dificultado"
+      - han dificultado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dificultado"
+      - "hab\xEDas dificultado"
+      - "hab\xEDa dificultado"
+      - "hab\xEDamos dificultado"
+      - "hab\xEDais dificultado"
+      - "hab\xEDan dificultado"
+      cjid: ppsi
+    - cjfs:
+      - hube dificultado
+      - hubiste dificultado
+      - hubo dificultado
+      - hubimos dificultado
+      - hubisteis dificultado
+      - hubieron dificultado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dificultado"
+      - "habr\xE1s dificultado"
+      - "habr\xE1 dificultado"
+      - habremos dificultado
+      - "habr\xE9is dificultado"
+      - "habr\xE1n dificultado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dificultado"
+      - "habr\xEDas dificultado"
+      - "habr\xEDa dificultado"
+      - "habr\xEDamos dificultado"
+      - "habr\xEDais dificultado"
+      - "habr\xEDan dificultado"
+      cjid: cpef
+    - cjfs:
+      - haya dificultado
+      - hayas dificultado
+      - haya dificultado
+      - hayamos dificultado
+      - "hay\xE1is dificultado"
+      - hayan dificultado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dificultado
+      - hubieras dificultado
+      - hubiera dificultado
+      - "hubi\xE9ramos dificultado"
+      - hubierais dificultado
+      - hubieran dificultado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dificultado
+      - hubieses dificultado
+      - hubiese dificultado
+      - "hubi\xE9semos dificultado"
+      - hubieseis dificultado
+      - hubiesen dificultado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dificultado
+      - hubieres dificultado
+      - hubiere dificultado
+      - "hubi\xE9remos dificultado"
+      - hubiereis dificultado
+      - hubieren dificultado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dificulta
+      - dificulte
+      - dificultemos
+      - dificultad
+      - dificulten
+      cjid: impf

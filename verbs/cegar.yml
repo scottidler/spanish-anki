@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blind}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|block}, to {a_link|stop up}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be blinded, to go blind'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: cegar
+  meta:
+    id: cegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604257000'
+    src: spanish
+    stems:
+    - cegar
+    uuid: c436fc59-9e15-4a22-b0f3-9254511b2d8f
+  shortdef:
+  - to blind
+  - to block, to stop up
+  - to be blinded, to go blind
+  suppl:
+    cjts:
+    - cjfs:
+      - cegando
+      - cegado
+      cjid: gppt
+    - cjfs:
+      - ciego
+      - ciegas
+      - ciega
+      - cegamos
+      - "ceg\xE1is"
+      - ciegan
+      cjid: pind
+    - cjfs:
+      - cegaba
+      - cegabas
+      - cegaba
+      - "ceg\xE1bamos"
+      - cegabais
+      - cegaban
+      cjid: pret
+    - cjfs:
+      - "cegu\xE9"
+      - cegaste
+      - "ceg\xF3"
+      - cegamos
+      - cegasteis
+      - cegaron
+      cjid: pprf
+    - cjfs:
+      - "cegar\xE9"
+      - "cegar\xE1s"
+      - "cegar\xE1"
+      - cegaremos
+      - "cegar\xE9is"
+      - "cegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cegar\xEDa"
+      - "cegar\xEDas"
+      - "cegar\xEDa"
+      - "cegar\xEDamos"
+      - "cegar\xEDais"
+      - "cegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ciegue
+      - ciegues
+      - ciegue
+      - ceguemos
+      - "cegu\xE9is"
+      - cieguen
+      cjid: psub
+    - cjfs:
+      - cegara
+      - cegaras
+      - cegara
+      - "ceg\xE1ramos"
+      - cegarais
+      - cegaran
+      cjid: pisb1
+    - cjfs:
+      - cegase
+      - cegases
+      - cegase
+      - "ceg\xE1semos"
+      - cegaseis
+      - cegasen
+      cjid: pisb2
+    - cjfs:
+      - cegare
+      - cegares
+      - cegare
+      - "ceg\xE1remos"
+      - cegareis
+      - cegaren
+      cjid: fsub
+    - cjfs:
+      - he cegado
+      - has cegado
+      - ha cegado
+      - hemos cegado
+      - "hab\xE9is cegado"
+      - han cegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cegado"
+      - "hab\xEDas cegado"
+      - "hab\xEDa cegado"
+      - "hab\xEDamos cegado"
+      - "hab\xEDais cegado"
+      - "hab\xEDan cegado"
+      cjid: ppsi
+    - cjfs:
+      - hube cegado
+      - hubiste cegado
+      - hubo cegado
+      - hubimos cegado
+      - hubisteis cegado
+      - hubieron cegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cegado"
+      - "habr\xE1s cegado"
+      - "habr\xE1 cegado"
+      - habremos cegado
+      - "habr\xE9is cegado"
+      - "habr\xE1n cegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cegado"
+      - "habr\xEDas cegado"
+      - "habr\xEDa cegado"
+      - "habr\xEDamos cegado"
+      - "habr\xEDais cegado"
+      - "habr\xEDan cegado"
+      cjid: cpef
+    - cjfs:
+      - haya cegado
+      - hayas cegado
+      - haya cegado
+      - hayamos cegado
+      - "hay\xE1is cegado"
+      - hayan cegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cegado
+      - hubieras cegado
+      - hubiera cegado
+      - "hubi\xE9ramos cegado"
+      - hubierais cegado
+      - hubieran cegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cegado
+      - hubieses cegado
+      - hubiese cegado
+      - "hubi\xE9semos cegado"
+      - hubieseis cegado
+      - hubiesen cegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cegado
+      - hubieres cegado
+      - hubiere cegado
+      - "hubi\xE9remos cegado"
+      - hubiereis cegado
+      - hubieren cegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ciega
+      - ciegue
+      - ceguemos
+      - cegad
+      - cieguen
+      cjid: impf

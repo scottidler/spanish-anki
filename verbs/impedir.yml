@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prevent}, to {a_link|block}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|impede}, to {a_link|hinder}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: impedir
+    prs:
+    - sound:
+        audio: imped02sp
+  meta:
+    id: impedir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611928000'
+    src: spanish
+    stems:
+    - impedir
+    uuid: eea400fd-20c9-4cf7-a2d3-a9402b620997
+  shortdef:
+  - to prevent, to block
+  - to impede, to hinder
+  suppl:
+    cjts:
+    - cjfs:
+      - impidiendo
+      - impedido
+      cjid: gppt
+    - cjfs:
+      - impido
+      - impides
+      - impide
+      - impedimos
+      - "imped\xEDs"
+      - impiden
+      cjid: pind
+    - cjfs:
+      - "imped\xEDa"
+      - "imped\xEDas"
+      - "imped\xEDa"
+      - "imped\xEDamos"
+      - "imped\xEDais"
+      - "imped\xEDan"
+      cjid: pret
+    - cjfs:
+      - "imped\xED"
+      - impediste
+      - "impidi\xF3"
+      - impedimos
+      - impedisteis
+      - impidieron
+      cjid: pprf
+    - cjfs:
+      - "impedir\xE9"
+      - "impedir\xE1s"
+      - "impedir\xE1"
+      - impediremos
+      - "impedir\xE9is"
+      - "impedir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "impedir\xEDa"
+      - "impedir\xEDas"
+      - "impedir\xEDa"
+      - "impedir\xEDamos"
+      - "impedir\xEDais"
+      - "impedir\xEDan"
+      cjid: cond
+    - cjfs:
+      - impida
+      - impidas
+      - impida
+      - impidamos
+      - "impid\xE1is"
+      - impidan
+      cjid: psub
+    - cjfs:
+      - impidiera
+      - impidieras
+      - impidiera
+      - "impidi\xE9ramos"
+      - impidierais
+      - impidieran
+      cjid: pisb1
+    - cjfs:
+      - impidiese
+      - impidieses
+      - impidiese
+      - "impidi\xE9semos"
+      - impidieseis
+      - impidiesen
+      cjid: pisb2
+    - cjfs:
+      - impidiere
+      - impidieres
+      - impidiere
+      - "impidi\xE9remos"
+      - impidiereis
+      - impidieren
+      cjid: fsub
+    - cjfs:
+      - he impedido
+      - has impedido
+      - ha impedido
+      - hemos impedido
+      - "hab\xE9is impedido"
+      - han impedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa impedido"
+      - "hab\xEDas impedido"
+      - "hab\xEDa impedido"
+      - "hab\xEDamos impedido"
+      - "hab\xEDais impedido"
+      - "hab\xEDan impedido"
+      cjid: ppsi
+    - cjfs:
+      - hube impedido
+      - hubiste impedido
+      - hubo impedido
+      - hubimos impedido
+      - hubisteis impedido
+      - hubieron impedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 impedido"
+      - "habr\xE1s impedido"
+      - "habr\xE1 impedido"
+      - habremos impedido
+      - "habr\xE9is impedido"
+      - "habr\xE1n impedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa impedido"
+      - "habr\xEDas impedido"
+      - "habr\xEDa impedido"
+      - "habr\xEDamos impedido"
+      - "habr\xEDais impedido"
+      - "habr\xEDan impedido"
+      cjid: cpef
+    - cjfs:
+      - haya impedido
+      - hayas impedido
+      - haya impedido
+      - hayamos impedido
+      - "hay\xE1is impedido"
+      - hayan impedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera impedido
+      - hubieras impedido
+      - hubiera impedido
+      - "hubi\xE9ramos impedido"
+      - hubierais impedido
+      - hubieran impedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese impedido
+      - hubieses impedido
+      - hubiese impedido
+      - "hubi\xE9semos impedido"
+      - hubieseis impedido
+      - hubiesen impedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere impedido
+      - hubieres impedido
+      - hubiere impedido
+      - "hubi\xE9remos impedido"
+      - hubiereis impedido
+      - hubieren impedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - impide
+      - impida
+      - impidamos
+      - impedid
+      - impidan
+      cjid: impf

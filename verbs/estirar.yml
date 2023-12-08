@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stretch} (out), to {a_link|extend}'
+  fl: transitive verb
+  hwi:
+    hw: estirar
+    prs:
+    - sound:
+        audio: estir02sp
+  meta:
+    id: estirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609386000'
+    src: spanish
+    stems:
+    - estirar
+    - estirarse
+    uuid: 60b61032-6655-4701-ba63-d05c73f34f5b
+  shortdef:
+  - to stretch (out), to extend
+  suppl:
+    cjts:
+    - cjfs:
+      - estirando
+      - estirado
+      cjid: gppt
+    - cjfs:
+      - estiro
+      - estiras
+      - estira
+      - estiramos
+      - "estir\xE1is"
+      - estiran
+      cjid: pind
+    - cjfs:
+      - estiraba
+      - estirabas
+      - estiraba
+      - "estir\xE1bamos"
+      - estirabais
+      - estiraban
+      cjid: pret
+    - cjfs:
+      - "estir\xE9"
+      - estiraste
+      - "estir\xF3"
+      - estiramos
+      - estirasteis
+      - estiraron
+      cjid: pprf
+    - cjfs:
+      - "estirar\xE9"
+      - "estirar\xE1s"
+      - "estirar\xE1"
+      - estiraremos
+      - "estirar\xE9is"
+      - "estirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estirar\xEDa"
+      - "estirar\xEDas"
+      - "estirar\xEDa"
+      - "estirar\xEDamos"
+      - "estirar\xEDais"
+      - "estirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estire
+      - estires
+      - estire
+      - estiremos
+      - "estir\xE9is"
+      - estiren
+      cjid: psub
+    - cjfs:
+      - estirara
+      - estiraras
+      - estirara
+      - "estir\xE1ramos"
+      - estirarais
+      - estiraran
+      cjid: pisb1
+    - cjfs:
+      - estirase
+      - estirases
+      - estirase
+      - "estir\xE1semos"
+      - estiraseis
+      - estirasen
+      cjid: pisb2
+    - cjfs:
+      - estirare
+      - estirares
+      - estirare
+      - "estir\xE1remos"
+      - estirareis
+      - estiraren
+      cjid: fsub
+    - cjfs:
+      - he estirado
+      - has estirado
+      - ha estirado
+      - hemos estirado
+      - "hab\xE9is estirado"
+      - han estirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estirado"
+      - "hab\xEDas estirado"
+      - "hab\xEDa estirado"
+      - "hab\xEDamos estirado"
+      - "hab\xEDais estirado"
+      - "hab\xEDan estirado"
+      cjid: ppsi
+    - cjfs:
+      - hube estirado
+      - hubiste estirado
+      - hubo estirado
+      - hubimos estirado
+      - hubisteis estirado
+      - hubieron estirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estirado"
+      - "habr\xE1s estirado"
+      - "habr\xE1 estirado"
+      - habremos estirado
+      - "habr\xE9is estirado"
+      - "habr\xE1n estirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estirado"
+      - "habr\xEDas estirado"
+      - "habr\xEDa estirado"
+      - "habr\xEDamos estirado"
+      - "habr\xEDais estirado"
+      - "habr\xEDan estirado"
+      cjid: cpef
+    - cjfs:
+      - haya estirado
+      - hayas estirado
+      - haya estirado
+      - hayamos estirado
+      - "hay\xE1is estirado"
+      - hayan estirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estirado
+      - hubieras estirado
+      - hubiera estirado
+      - "hubi\xE9ramos estirado"
+      - hubierais estirado
+      - hubieran estirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estirado
+      - hubieses estirado
+      - hubiese estirado
+      - "hubi\xE9semos estirado"
+      - hubieseis estirado
+      - hubiesen estirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estirado
+      - hubieres estirado
+      - hubiere estirado
+      - "hubi\xE9remos estirado"
+      - hubiereis estirado
+      - hubieren estirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estira
+      - estire
+      - estiremos
+      - estirad
+      - estiren
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: estirarse

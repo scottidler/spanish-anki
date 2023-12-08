@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|incite}, to {a_link|rouse}'
+  fl: transitive verb
+  hwi:
+    hw: incitar
+    prs:
+    - sound:
+        audio: incit01sp
+  meta:
+    id: incitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612144000'
+    src: spanish
+    stems:
+    - incitar
+    uuid: 6d73c3c2-8972-4256-8b10-675257521d3b
+  shortdef:
+  - to incite, to rouse
+  suppl:
+    cjts:
+    - cjfs:
+      - incitando
+      - incitado
+      cjid: gppt
+    - cjfs:
+      - incito
+      - incitas
+      - incita
+      - incitamos
+      - "incit\xE1is"
+      - incitan
+      cjid: pind
+    - cjfs:
+      - incitaba
+      - incitabas
+      - incitaba
+      - "incit\xE1bamos"
+      - incitabais
+      - incitaban
+      cjid: pret
+    - cjfs:
+      - "incit\xE9"
+      - incitaste
+      - "incit\xF3"
+      - incitamos
+      - incitasteis
+      - incitaron
+      cjid: pprf
+    - cjfs:
+      - "incitar\xE9"
+      - "incitar\xE1s"
+      - "incitar\xE1"
+      - incitaremos
+      - "incitar\xE9is"
+      - "incitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "incitar\xEDa"
+      - "incitar\xEDas"
+      - "incitar\xEDa"
+      - "incitar\xEDamos"
+      - "incitar\xEDais"
+      - "incitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - incite
+      - incites
+      - incite
+      - incitemos
+      - "incit\xE9is"
+      - inciten
+      cjid: psub
+    - cjfs:
+      - incitara
+      - incitaras
+      - incitara
+      - "incit\xE1ramos"
+      - incitarais
+      - incitaran
+      cjid: pisb1
+    - cjfs:
+      - incitase
+      - incitases
+      - incitase
+      - "incit\xE1semos"
+      - incitaseis
+      - incitasen
+      cjid: pisb2
+    - cjfs:
+      - incitare
+      - incitares
+      - incitare
+      - "incit\xE1remos"
+      - incitareis
+      - incitaren
+      cjid: fsub
+    - cjfs:
+      - he incitado
+      - has incitado
+      - ha incitado
+      - hemos incitado
+      - "hab\xE9is incitado"
+      - han incitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa incitado"
+      - "hab\xEDas incitado"
+      - "hab\xEDa incitado"
+      - "hab\xEDamos incitado"
+      - "hab\xEDais incitado"
+      - "hab\xEDan incitado"
+      cjid: ppsi
+    - cjfs:
+      - hube incitado
+      - hubiste incitado
+      - hubo incitado
+      - hubimos incitado
+      - hubisteis incitado
+      - hubieron incitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 incitado"
+      - "habr\xE1s incitado"
+      - "habr\xE1 incitado"
+      - habremos incitado
+      - "habr\xE9is incitado"
+      - "habr\xE1n incitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa incitado"
+      - "habr\xEDas incitado"
+      - "habr\xEDa incitado"
+      - "habr\xEDamos incitado"
+      - "habr\xEDais incitado"
+      - "habr\xEDan incitado"
+      cjid: cpef
+    - cjfs:
+      - haya incitado
+      - hayas incitado
+      - haya incitado
+      - hayamos incitado
+      - "hay\xE1is incitado"
+      - hayan incitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera incitado
+      - hubieras incitado
+      - hubiera incitado
+      - "hubi\xE9ramos incitado"
+      - hubierais incitado
+      - hubieran incitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese incitado
+      - hubieses incitado
+      - hubiese incitado
+      - "hubi\xE9semos incitado"
+      - hubieseis incitado
+      - hubiesen incitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere incitado
+      - hubieres incitado
+      - hubiere incitado
+      - "hubi\xE9remos incitado"
+      - hubiereis incitado
+      - hubieren incitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - incita
+      - incite
+      - incitemos
+      - incitad
+      - inciten
+      cjid: impf

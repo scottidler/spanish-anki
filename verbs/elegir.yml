@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|escoger||}, {sx|seleccionar||} {bc}to {a_link|choose}, to {a_link|select}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|elect}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: elegir
+    prs:
+    - sound:
+        audio: elegi04sp
+  meta:
+    id: elegir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608171000'
+    src: spanish
+    stems:
+    - elegir
+    uuid: 67065d5f-96f9-4143-aae8-3d5480263bcf
+  shortdef:
+  - 'escoger, seleccionar : to choose, to select'
+  - to elect
+  suppl:
+    cjts:
+    - cjfs:
+      - eligiendo
+      - elegido
+      cjid: gppt
+    - cjfs:
+      - elijo
+      - eliges
+      - elige
+      - elegimos
+      - "eleg\xEDs"
+      - eligen
+      cjid: pind
+    - cjfs:
+      - "eleg\xEDa"
+      - "eleg\xEDas"
+      - "eleg\xEDa"
+      - "eleg\xEDamos"
+      - "eleg\xEDais"
+      - "eleg\xEDan"
+      cjid: pret
+    - cjfs:
+      - "eleg\xED"
+      - elegiste
+      - "eligi\xF3"
+      - elegimos
+      - elegisteis
+      - eligieron
+      cjid: pprf
+    - cjfs:
+      - "elegir\xE9"
+      - "elegir\xE1s"
+      - "elegir\xE1"
+      - elegiremos
+      - "elegir\xE9is"
+      - "elegir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "elegir\xEDa"
+      - "elegir\xEDas"
+      - "elegir\xEDa"
+      - "elegir\xEDamos"
+      - "elegir\xEDais"
+      - "elegir\xEDan"
+      cjid: cond
+    - cjfs:
+      - elija
+      - elijas
+      - elija
+      - elijamos
+      - "elij\xE1is"
+      - elijan
+      cjid: psub
+    - cjfs:
+      - eligiera
+      - eligieras
+      - eligiera
+      - "eligi\xE9ramos"
+      - eligierais
+      - eligieran
+      cjid: pisb1
+    - cjfs:
+      - eligiese
+      - eligieses
+      - eligiese
+      - "eligi\xE9semos"
+      - eligieseis
+      - eligiesen
+      cjid: pisb2
+    - cjfs:
+      - eligiere
+      - eligieres
+      - eligiere
+      - "eligi\xE9remos"
+      - eligiereis
+      - eligieren
+      cjid: fsub
+    - cjfs:
+      - he elegido
+      - has elegido
+      - ha elegido
+      - hemos elegido
+      - "hab\xE9is elegido"
+      - han elegido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa elegido"
+      - "hab\xEDas elegido"
+      - "hab\xEDa elegido"
+      - "hab\xEDamos elegido"
+      - "hab\xEDais elegido"
+      - "hab\xEDan elegido"
+      cjid: ppsi
+    - cjfs:
+      - hube elegido
+      - hubiste elegido
+      - hubo elegido
+      - hubimos elegido
+      - hubisteis elegido
+      - hubieron elegido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 elegido"
+      - "habr\xE1s elegido"
+      - "habr\xE1 elegido"
+      - habremos elegido
+      - "habr\xE9is elegido"
+      - "habr\xE1n elegido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa elegido"
+      - "habr\xEDas elegido"
+      - "habr\xEDa elegido"
+      - "habr\xEDamos elegido"
+      - "habr\xEDais elegido"
+      - "habr\xEDan elegido"
+      cjid: cpef
+    - cjfs:
+      - haya elegido
+      - hayas elegido
+      - haya elegido
+      - hayamos elegido
+      - "hay\xE1is elegido"
+      - hayan elegido
+      cjid: ppfs
+    - cjfs:
+      - hubiera elegido
+      - hubieras elegido
+      - hubiera elegido
+      - "hubi\xE9ramos elegido"
+      - hubierais elegido
+      - hubieran elegido
+      cjid: ppss1
+    - cjfs:
+      - hubiese elegido
+      - hubieses elegido
+      - hubiese elegido
+      - "hubi\xE9semos elegido"
+      - hubieseis elegido
+      - hubiesen elegido
+      cjid: ppss2
+    - cjfs:
+      - hubiere elegido
+      - hubieres elegido
+      - hubiere elegido
+      - "hubi\xE9remos elegido"
+      - hubiereis elegido
+      - hubieren elegido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - elige
+      - elija
+      - elijamos
+      - elegid
+      - elijan
+      cjid: impf

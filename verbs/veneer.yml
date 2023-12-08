@@ -1,0 +1,44 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|enchapado} '
+          - - gl
+            - masculine
+          - - text
+            - ', {a_link|chapa} '
+          - - gl
+            - feminine
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|appearance||} {bc}{a_link|apariencia} '
+          - - gl
+            - feminine
+          - - text
+            - ', {a_link|barniz} '
+          - - gl
+            - masculine
+          - - vis
+            - - t: a veneer of culture
+                tr: un barniz de cultura
+          sn: '2'
+  fl: noun
+  hwi:
+    hw: veneer
+  meta:
+    id: veneer
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2626034000'
+    src: spanish
+    stems:
+    - veneer
+    - veneers
+    uuid: e7e882f4-8ec4-4c1d-9402-65486597040c
+  shortdef:
+  - enchapado, chapa
+  - 'appearance : apariencia, barniz'

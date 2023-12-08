@@ -1,0 +1,207 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|narrow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tighten}, to {a_link|strengthen} (a bond)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hug}, to {a_link|embrace}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to shake hands with'
+          sn: '4'
+          vrs:
+          - va: estrechar la mano de
+  fl: transitive verb
+  hwi:
+    hw: estrechar
+    prs:
+    - sound:
+        audio: estre01sp
+  meta:
+    id: estrechar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609434000'
+    src: spanish
+    stems:
+    - estrechar
+    - estrechar la mano de
+    - estrecharse
+    uuid: 9d3fb2ac-c5d4-4d90-b8fc-f8efcdd6f37c
+  shortdef:
+  - to narrow
+  - to tighten, to strengthen (a bond)
+  - to hug, to embrace
+  suppl:
+    cjts:
+    - cjfs:
+      - estrechando
+      - estrechado
+      cjid: gppt
+    - cjfs:
+      - estrecho
+      - estrechas
+      - estrecha
+      - estrechamos
+      - "estrech\xE1is"
+      - estrechan
+      cjid: pind
+    - cjfs:
+      - estrechaba
+      - estrechabas
+      - estrechaba
+      - "estrech\xE1bamos"
+      - estrechabais
+      - estrechaban
+      cjid: pret
+    - cjfs:
+      - "estrech\xE9"
+      - estrechaste
+      - "estrech\xF3"
+      - estrechamos
+      - estrechasteis
+      - estrecharon
+      cjid: pprf
+    - cjfs:
+      - "estrechar\xE9"
+      - "estrechar\xE1s"
+      - "estrechar\xE1"
+      - estrecharemos
+      - "estrechar\xE9is"
+      - "estrechar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estrechar\xEDa"
+      - "estrechar\xEDas"
+      - "estrechar\xEDa"
+      - "estrechar\xEDamos"
+      - "estrechar\xEDais"
+      - "estrechar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estreche
+      - estreches
+      - estreche
+      - estrechemos
+      - "estrech\xE9is"
+      - estrechen
+      cjid: psub
+    - cjfs:
+      - estrechara
+      - estrecharas
+      - estrechara
+      - "estrech\xE1ramos"
+      - estrecharais
+      - estrecharan
+      cjid: pisb1
+    - cjfs:
+      - estrechase
+      - estrechases
+      - estrechase
+      - "estrech\xE1semos"
+      - estrechaseis
+      - estrechasen
+      cjid: pisb2
+    - cjfs:
+      - estrechare
+      - estrechares
+      - estrechare
+      - "estrech\xE1remos"
+      - estrechareis
+      - estrecharen
+      cjid: fsub
+    - cjfs:
+      - he estrechado
+      - has estrechado
+      - ha estrechado
+      - hemos estrechado
+      - "hab\xE9is estrechado"
+      - han estrechado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estrechado"
+      - "hab\xEDas estrechado"
+      - "hab\xEDa estrechado"
+      - "hab\xEDamos estrechado"
+      - "hab\xEDais estrechado"
+      - "hab\xEDan estrechado"
+      cjid: ppsi
+    - cjfs:
+      - hube estrechado
+      - hubiste estrechado
+      - hubo estrechado
+      - hubimos estrechado
+      - hubisteis estrechado
+      - hubieron estrechado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estrechado"
+      - "habr\xE1s estrechado"
+      - "habr\xE1 estrechado"
+      - habremos estrechado
+      - "habr\xE9is estrechado"
+      - "habr\xE1n estrechado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estrechado"
+      - "habr\xEDas estrechado"
+      - "habr\xEDa estrechado"
+      - "habr\xEDamos estrechado"
+      - "habr\xEDais estrechado"
+      - "habr\xEDan estrechado"
+      cjid: cpef
+    - cjfs:
+      - haya estrechado
+      - hayas estrechado
+      - haya estrechado
+      - hayamos estrechado
+      - "hay\xE1is estrechado"
+      - hayan estrechado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estrechado
+      - hubieras estrechado
+      - hubiera estrechado
+      - "hubi\xE9ramos estrechado"
+      - hubierais estrechado
+      - hubieran estrechado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estrechado
+      - hubieses estrechado
+      - hubiese estrechado
+      - "hubi\xE9semos estrechado"
+      - hubieseis estrechado
+      - hubiesen estrechado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estrechado
+      - hubieres estrechado
+      - hubiere estrechado
+      - "hubi\xE9remos estrechado"
+      - hubiereis estrechado
+      - hubieren estrechado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estrecha
+      - estreche
+      - estrechemos
+      - estrechad
+      - estrechen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: estrecharse

@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|poner||} {bc}to {a_link|place}, to {a_link|put}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to find a job for'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|invest}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|situarse||} {bc}to position oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get a job'
+            sn: '2'
+    drp: colocarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: colocar
+    prs:
+    - sound:
+        audio: coloc02sp
+  meta:
+    id: colocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605087000'
+    src: spanish
+    stems:
+    - colocar
+    - colocarse
+    uuid: 9ccadcab-3728-4332-8de8-10b2fffb4d6e
+  shortdef:
+  - 'poner : to place, to put'
+  - to find a job for
+  - to invest
+  suppl:
+    cjts:
+    - cjfs:
+      - colocando
+      - colocado
+      cjid: gppt
+    - cjfs:
+      - coloco
+      - colocas
+      - coloca
+      - colocamos
+      - "coloc\xE1is"
+      - colocan
+      cjid: pind
+    - cjfs:
+      - colocaba
+      - colocabas
+      - colocaba
+      - "coloc\xE1bamos"
+      - colocabais
+      - colocaban
+      cjid: pret
+    - cjfs:
+      - "coloqu\xE9"
+      - colocaste
+      - "coloc\xF3"
+      - colocamos
+      - colocasteis
+      - colocaron
+      cjid: pprf
+    - cjfs:
+      - "colocar\xE9"
+      - "colocar\xE1s"
+      - "colocar\xE1"
+      - colocaremos
+      - "colocar\xE9is"
+      - "colocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "colocar\xEDa"
+      - "colocar\xEDas"
+      - "colocar\xEDa"
+      - "colocar\xEDamos"
+      - "colocar\xEDais"
+      - "colocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - coloque
+      - coloques
+      - coloque
+      - coloquemos
+      - "coloqu\xE9is"
+      - coloquen
+      cjid: psub
+    - cjfs:
+      - colocara
+      - colocaras
+      - colocara
+      - "coloc\xE1ramos"
+      - colocarais
+      - colocaran
+      cjid: pisb1
+    - cjfs:
+      - colocase
+      - colocases
+      - colocase
+      - "coloc\xE1semos"
+      - colocaseis
+      - colocasen
+      cjid: pisb2
+    - cjfs:
+      - colocare
+      - colocares
+      - colocare
+      - "coloc\xE1remos"
+      - colocareis
+      - colocaren
+      cjid: fsub
+    - cjfs:
+      - he colocado
+      - has colocado
+      - ha colocado
+      - hemos colocado
+      - "hab\xE9is colocado"
+      - han colocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa colocado"
+      - "hab\xEDas colocado"
+      - "hab\xEDa colocado"
+      - "hab\xEDamos colocado"
+      - "hab\xEDais colocado"
+      - "hab\xEDan colocado"
+      cjid: ppsi
+    - cjfs:
+      - hube colocado
+      - hubiste colocado
+      - hubo colocado
+      - hubimos colocado
+      - hubisteis colocado
+      - hubieron colocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 colocado"
+      - "habr\xE1s colocado"
+      - "habr\xE1 colocado"
+      - habremos colocado
+      - "habr\xE9is colocado"
+      - "habr\xE1n colocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa colocado"
+      - "habr\xEDas colocado"
+      - "habr\xEDa colocado"
+      - "habr\xEDamos colocado"
+      - "habr\xEDais colocado"
+      - "habr\xEDan colocado"
+      cjid: cpef
+    - cjfs:
+      - haya colocado
+      - hayas colocado
+      - haya colocado
+      - hayamos colocado
+      - "hay\xE1is colocado"
+      - hayan colocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera colocado
+      - hubieras colocado
+      - hubiera colocado
+      - "hubi\xE9ramos colocado"
+      - hubierais colocado
+      - hubieran colocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese colocado
+      - hubieses colocado
+      - hubiese colocado
+      - "hubi\xE9semos colocado"
+      - hubieseis colocado
+      - hubiesen colocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere colocado
+      - hubieres colocado
+      - hubiere colocado
+      - "hubi\xE9remos colocado"
+      - hubiereis colocado
+      - hubieren colocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - coloca
+      - coloque
+      - coloquemos
+      - colocad
+      - coloquen
+      cjid: impf

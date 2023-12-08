@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gurgle}, to {a_link|bubble}'
+  fl: intransitive verb
+  hwi:
+    hw: gorgotear
+  meta:
+    id: gorgotear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610937000'
+    src: spanish
+    stems:
+    - gorgotear
+    uuid: a1730a49-1634-4ed7-8c29-2788b1f70fe5
+  shortdef:
+  - to gurgle, to bubble
+  suppl:
+    cjts:
+    - cjfs:
+      - gorgoteando
+      - gorgoteado
+      cjid: gppt
+    - cjfs:
+      - gorgoteo
+      - gorgoteas
+      - gorgotea
+      - gorgoteamos
+      - "gorgote\xE1is"
+      - gorgotean
+      cjid: pind
+    - cjfs:
+      - gorgoteaba
+      - gorgoteabas
+      - gorgoteaba
+      - "gorgote\xE1bamos"
+      - gorgoteabais
+      - gorgoteaban
+      cjid: pret
+    - cjfs:
+      - "gorgote\xE9"
+      - gorgoteaste
+      - "gorgote\xF3"
+      - gorgoteamos
+      - gorgoteasteis
+      - gorgotearon
+      cjid: pprf
+    - cjfs:
+      - "gorgotear\xE9"
+      - "gorgotear\xE1s"
+      - "gorgotear\xE1"
+      - gorgotearemos
+      - "gorgotear\xE9is"
+      - "gorgotear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gorgotear\xEDa"
+      - "gorgotear\xEDas"
+      - "gorgotear\xEDa"
+      - "gorgotear\xEDamos"
+      - "gorgotear\xEDais"
+      - "gorgotear\xEDan"
+      cjid: cond
+    - cjfs:
+      - gorgotee
+      - gorgotees
+      - gorgotee
+      - gorgoteemos
+      - "gorgote\xE9is"
+      - gorgoteen
+      cjid: psub
+    - cjfs:
+      - gorgoteara
+      - gorgotearas
+      - gorgoteara
+      - "gorgote\xE1ramos"
+      - gorgotearais
+      - gorgotearan
+      cjid: pisb1
+    - cjfs:
+      - gorgotease
+      - gorgoteases
+      - gorgotease
+      - "gorgote\xE1semos"
+      - gorgoteaseis
+      - gorgoteasen
+      cjid: pisb2
+    - cjfs:
+      - gorgoteare
+      - gorgoteares
+      - gorgoteare
+      - "gorgote\xE1remos"
+      - gorgoteareis
+      - gorgotearen
+      cjid: fsub
+    - cjfs:
+      - he gorgoteado
+      - has gorgoteado
+      - ha gorgoteado
+      - hemos gorgoteado
+      - "hab\xE9is gorgoteado"
+      - han gorgoteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gorgoteado"
+      - "hab\xEDas gorgoteado"
+      - "hab\xEDa gorgoteado"
+      - "hab\xEDamos gorgoteado"
+      - "hab\xEDais gorgoteado"
+      - "hab\xEDan gorgoteado"
+      cjid: ppsi
+    - cjfs:
+      - hube gorgoteado
+      - hubiste gorgoteado
+      - hubo gorgoteado
+      - hubimos gorgoteado
+      - hubisteis gorgoteado
+      - hubieron gorgoteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gorgoteado"
+      - "habr\xE1s gorgoteado"
+      - "habr\xE1 gorgoteado"
+      - habremos gorgoteado
+      - "habr\xE9is gorgoteado"
+      - "habr\xE1n gorgoteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gorgoteado"
+      - "habr\xEDas gorgoteado"
+      - "habr\xEDa gorgoteado"
+      - "habr\xEDamos gorgoteado"
+      - "habr\xEDais gorgoteado"
+      - "habr\xEDan gorgoteado"
+      cjid: cpef
+    - cjfs:
+      - haya gorgoteado
+      - hayas gorgoteado
+      - haya gorgoteado
+      - hayamos gorgoteado
+      - "hay\xE1is gorgoteado"
+      - hayan gorgoteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera gorgoteado
+      - hubieras gorgoteado
+      - hubiera gorgoteado
+      - "hubi\xE9ramos gorgoteado"
+      - hubierais gorgoteado
+      - hubieran gorgoteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese gorgoteado
+      - hubieses gorgoteado
+      - hubiese gorgoteado
+      - "hubi\xE9semos gorgoteado"
+      - hubieseis gorgoteado
+      - hubiesen gorgoteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere gorgoteado
+      - hubieres gorgoteado
+      - hubiere gorgoteado
+      - "hubi\xE9remos gorgoteado"
+      - hubiereis gorgoteado
+      - hubieren gorgoteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gorgotea
+      - gorgotee
+      - gorgoteemos
+      - gorgotead
+      - gorgoteen
+      cjid: impf

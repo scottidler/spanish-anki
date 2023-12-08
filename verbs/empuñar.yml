@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|asir||} {bc}to {a_link|grasp}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take up arms'
+          sn: '2'
+          vrs:
+          - va: "empu\xF1ar las armas"
+  fl: transitive verb
+  hwi:
+    hw: "empu\xF1ar"
+  meta:
+    id: empunar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608378000'
+    src: spanish
+    stems:
+    - "empu\xF1ar"
+    - "empu\xF1ar las armas"
+    uuid: f5ace880-6556-4c59-a155-393f6a842b93
+  shortdef:
+  - 'asir : to grasp'
+  - to take up arms
+  suppl:
+    cjts:
+    - cjfs:
+      - "empu\xF1ando"
+      - "empu\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "empu\xF1o"
+      - "empu\xF1as"
+      - "empu\xF1a"
+      - "empu\xF1amos"
+      - "empu\xF1\xE1is"
+      - "empu\xF1an"
+      cjid: pind
+    - cjfs:
+      - "empu\xF1aba"
+      - "empu\xF1abas"
+      - "empu\xF1aba"
+      - "empu\xF1\xE1bamos"
+      - "empu\xF1abais"
+      - "empu\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "empu\xF1\xE9"
+      - "empu\xF1aste"
+      - "empu\xF1\xF3"
+      - "empu\xF1amos"
+      - "empu\xF1asteis"
+      - "empu\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "empu\xF1ar\xE9"
+      - "empu\xF1ar\xE1s"
+      - "empu\xF1ar\xE1"
+      - "empu\xF1aremos"
+      - "empu\xF1ar\xE9is"
+      - "empu\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "empu\xF1ar\xEDa"
+      - "empu\xF1ar\xEDas"
+      - "empu\xF1ar\xEDa"
+      - "empu\xF1ar\xEDamos"
+      - "empu\xF1ar\xEDais"
+      - "empu\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "empu\xF1e"
+      - "empu\xF1es"
+      - "empu\xF1e"
+      - "empu\xF1emos"
+      - "empu\xF1\xE9is"
+      - "empu\xF1en"
+      cjid: psub
+    - cjfs:
+      - "empu\xF1ara"
+      - "empu\xF1aras"
+      - "empu\xF1ara"
+      - "empu\xF1\xE1ramos"
+      - "empu\xF1arais"
+      - "empu\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "empu\xF1ase"
+      - "empu\xF1ases"
+      - "empu\xF1ase"
+      - "empu\xF1\xE1semos"
+      - "empu\xF1aseis"
+      - "empu\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "empu\xF1are"
+      - "empu\xF1ares"
+      - "empu\xF1are"
+      - "empu\xF1\xE1remos"
+      - "empu\xF1areis"
+      - "empu\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he empu\xF1ado"
+      - "has empu\xF1ado"
+      - "ha empu\xF1ado"
+      - "hemos empu\xF1ado"
+      - "hab\xE9is empu\xF1ado"
+      - "han empu\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa empu\xF1ado"
+      - "hab\xEDas empu\xF1ado"
+      - "hab\xEDa empu\xF1ado"
+      - "hab\xEDamos empu\xF1ado"
+      - "hab\xEDais empu\xF1ado"
+      - "hab\xEDan empu\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube empu\xF1ado"
+      - "hubiste empu\xF1ado"
+      - "hubo empu\xF1ado"
+      - "hubimos empu\xF1ado"
+      - "hubisteis empu\xF1ado"
+      - "hubieron empu\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 empu\xF1ado"
+      - "habr\xE1s empu\xF1ado"
+      - "habr\xE1 empu\xF1ado"
+      - "habremos empu\xF1ado"
+      - "habr\xE9is empu\xF1ado"
+      - "habr\xE1n empu\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa empu\xF1ado"
+      - "habr\xEDas empu\xF1ado"
+      - "habr\xEDa empu\xF1ado"
+      - "habr\xEDamos empu\xF1ado"
+      - "habr\xEDais empu\xF1ado"
+      - "habr\xEDan empu\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya empu\xF1ado"
+      - "hayas empu\xF1ado"
+      - "haya empu\xF1ado"
+      - "hayamos empu\xF1ado"
+      - "hay\xE1is empu\xF1ado"
+      - "hayan empu\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera empu\xF1ado"
+      - "hubieras empu\xF1ado"
+      - "hubiera empu\xF1ado"
+      - "hubi\xE9ramos empu\xF1ado"
+      - "hubierais empu\xF1ado"
+      - "hubieran empu\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese empu\xF1ado"
+      - "hubieses empu\xF1ado"
+      - "hubiese empu\xF1ado"
+      - "hubi\xE9semos empu\xF1ado"
+      - "hubieseis empu\xF1ado"
+      - "hubiesen empu\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere empu\xF1ado"
+      - "hubieres empu\xF1ado"
+      - "hubiere empu\xF1ado"
+      - "hubi\xE9remos empu\xF1ado"
+      - "hubiereis empu\xF1ado"
+      - "hubieren empu\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "empu\xF1a"
+      - "empu\xF1e"
+      - "empu\xF1emos"
+      - "empu\xF1ad"
+      - "empu\xF1en"
+      cjid: impf

@@ -1,0 +1,789 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass}, to {a_link|go} '
+          - - vis
+            - - t: la gente que pasa
+                tr: the people who are passing (by), the people who pass by
+              - t: nos dejaron pasar
+                tr: they let us (go) through
+              - t: pasamos por el centro
+                tr: we went through the downtown
+              - t: nunca paso por esa calle
+                tr: I never go down that street
+              - t: "pas\xE9 por delante de la escuela"
+                tr: I went by/past the school
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass} (of time)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass}, to {a_link|pass down} '
+          - - vis
+            - - t: "el trono pas\xF3 a su hijo"
+                tr: the throne passed to his son
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go} (on), to {a_link|move} (on) '
+          - - vis
+            - - t: pasaron a la final
+                tr: they moved on to the finals
+              - t: pasar a ser
+                tr: to go on to become
+              - t: "pasar de \u2026 a \u2026"
+                tr: "to go from \u2026 to \u2026"
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drop by/in}, to {a_link|stop by} '
+          - - vis
+            - - t: pasamos por su casa
+                tr: we dropped by his house
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come in}, to {a_link|enter} '
+          - - vis
+            - - t: "\xBFse puede pasar?"
+                tr: may we come in?
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|caber||} {bc}to {a_link|go through}, to {a_link|fit}'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|happen} '
+          - - vis
+            - - t: "\xBFqu\xE9 pasa?"
+                tr: what's happening?, what's going on?
+              - t: "lo que pasa es que \u2026"
+                tr: "what's happening is that \u2026 , the thing is that \u2026"
+              - t: "\xBFqu\xE9 le pasa?"
+                tr: what's the matter with him?
+              - t: pase lo que pase
+                tr: come what may
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|manage}, to {a_link|get by} '
+          - - vis
+            - - t: pasar sin algo
+                tr: to manage without something
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be acceptable, to {a_link|pass} '
+          - - vis
+            - - t: puede pasar
+                tr: it will do
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass} (in an exam, etc.)'
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|terminar||} {bc}to be over, to {a_link|end}'
+          sn: '12'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exceed}, to {a_link|go beyond}'
+          sn: '13'
+          vrs:
+          - va: pasar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pass as/for '
+          - - vis
+            - - t: "podr\xEDa pasar por tu hermana"
+                tr: she could pass as/for your sister
+          sn: '14'
+          vrs:
+          - va: pasar por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go through}, to {a_link|experience} (difficulties, etc.)'
+          sn: '15'
+          vrs:
+          - va: pasar por
+            vac: ~ por
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass}, to {a_link|give} '
+          - - vis
+            - - t: "\xBFme pasas la sal?"
+                tr: would you pass me the salt?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|pegar||} {bc}to {a_link|give} (an illness)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass} (a test)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cross} (a bridge, river, etc.), to {a_link|go through}
+              (a barrier)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spend} (time) '
+          - - vis
+            - - t: pasamos una semana en Acapulco
+                tr: we spent a week in Acapulco
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|tolerar||} {bc}to {a_link|tolerate}'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|sufrir||} {bc}to {a_link|go through}, to {a_link|suffer}'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|show} (a movie, etc.)'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|adelantar||}, {sx|superar||} {bc}to {a_link|overtake}, to {a_link|pass},
+              to {a_link|surpass}'
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass} (something over something) '
+          - - vis
+            - - t: "le pas\xF3 un trapo"
+                tr: he wiped it with a cloth
+              - t: pasar la aspiradora (por algo)
+                tr: to vacuum (something)
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put} (a caller) through to '
+          - - vis
+            - - t: "p\xE1same con el jefe"
+                tr: put me through to the boss
+          sn: '11'
+          vrs:
+          - va: pasar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go right past (without stopping)'
+          sn: '12'
+          vrs:
+          - va: 'pasar de largo '
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a good time'
+          sn: '13'
+          vrs:
+          - va: pasarlo/pasarla bien
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a bad time, to {a_link|have a hard time}'
+          sn: '14'
+          vrs:
+          - va: pasarlo/pasarla mal
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put through} '
+          - - vis
+            - - t: pasa la sopa por un colador
+                tr: put the soup through a strainer
+          sn: '15'
+          vrs:
+          - va: pasar por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|overlook}, to {a_link|omit}'
+          sn: '16'
+          vrs:
+          - va: pasar por alto
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|pass}, to {a_link|go away} '
+            - - vis
+              - - t: "se me pas\xF3 el mareo"
+                  tr: the/my nausea has passed
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stop by}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|slip one''s mind}, to slip by '
+            - - vis
+              - - t: "la fecha se me pas\xF3"
+                  tr: the date slipped by me
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to go too far '
+            - - vis
+              - - t: se pasa de listo
+                  tr: he's too clever for his own good
+                - t: no te pases con la sal
+                  tr: go easy with/on the salt
+            sn: '4'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go bad}, to {a_link|spoil}'
+            sn: '5'
+    drp: pasarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: pasar
+    prs:
+    - sound:
+        audio: pasar01sp
+  meta:
+    id: pasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616773000'
+    src: spanish
+    stems:
+    - pasar
+    - pasar de
+    - pasar por
+    - pasar con
+    - 'pasar de largo '
+    - pasarlo/pasarla bien
+    - pasarla bien
+    - pasarlo bien
+    - pasarlo/pasarla mal
+    - pasarla mal
+    - pasarlo mal
+    - pasar por alto
+    - pasarse
+    uuid: 7558f763-907b-481b-b1b9-a8c7e011b2fb
+  shortdef:
+  - to pass, to go
+  - to pass (of time)
+  - to pass, to pass down
+  suppl:
+    cjts:
+    - cjfs:
+      - pasando
+      - pasado
+      cjid: gppt
+    - cjfs:
+      - paso
+      - pasas
+      - pasa
+      - pasamos
+      - "pas\xE1is"
+      - pasan
+      cjid: pind
+    - cjfs:
+      - pasaba
+      - pasabas
+      - pasaba
+      - "pas\xE1bamos"
+      - pasabais
+      - pasaban
+      cjid: pret
+    - cjfs:
+      - "pas\xE9"
+      - pasaste
+      - "pas\xF3"
+      - pasamos
+      - pasasteis
+      - pasaron
+      cjid: pprf
+    - cjfs:
+      - "pasar\xE9"
+      - "pasar\xE1s"
+      - "pasar\xE1"
+      - pasaremos
+      - "pasar\xE9is"
+      - "pasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pasar\xEDa"
+      - "pasar\xEDas"
+      - "pasar\xEDa"
+      - "pasar\xEDamos"
+      - "pasar\xEDais"
+      - "pasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pase
+      - pases
+      - pase
+      - pasemos
+      - "pas\xE9is"
+      - pasen
+      cjid: psub
+    - cjfs:
+      - pasara
+      - pasaras
+      - pasara
+      - "pas\xE1ramos"
+      - pasarais
+      - pasaran
+      cjid: pisb1
+    - cjfs:
+      - pasase
+      - pasases
+      - pasase
+      - "pas\xE1semos"
+      - pasaseis
+      - pasasen
+      cjid: pisb2
+    - cjfs:
+      - pasare
+      - pasares
+      - pasare
+      - "pas\xE1remos"
+      - pasareis
+      - pasaren
+      cjid: fsub
+    - cjfs:
+      - he pasado
+      - has pasado
+      - ha pasado
+      - hemos pasado
+      - "hab\xE9is pasado"
+      - han pasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pasado"
+      - "hab\xEDas pasado"
+      - "hab\xEDa pasado"
+      - "hab\xEDamos pasado"
+      - "hab\xEDais pasado"
+      - "hab\xEDan pasado"
+      cjid: ppsi
+    - cjfs:
+      - hube pasado
+      - hubiste pasado
+      - hubo pasado
+      - hubimos pasado
+      - hubisteis pasado
+      - hubieron pasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pasado"
+      - "habr\xE1s pasado"
+      - "habr\xE1 pasado"
+      - habremos pasado
+      - "habr\xE9is pasado"
+      - "habr\xE1n pasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pasado"
+      - "habr\xEDas pasado"
+      - "habr\xEDa pasado"
+      - "habr\xEDamos pasado"
+      - "habr\xEDais pasado"
+      - "habr\xEDan pasado"
+      cjid: cpef
+    - cjfs:
+      - haya pasado
+      - hayas pasado
+      - haya pasado
+      - hayamos pasado
+      - "hay\xE1is pasado"
+      - hayan pasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pasado
+      - hubieras pasado
+      - hubiera pasado
+      - "hubi\xE9ramos pasado"
+      - hubierais pasado
+      - hubieran pasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pasado
+      - hubieses pasado
+      - hubiese pasado
+      - "hubi\xE9semos pasado"
+      - hubieseis pasado
+      - hubiesen pasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pasado
+      - hubieres pasado
+      - hubiere pasado
+      - "hubi\xE9remos pasado"
+      - hubiereis pasado
+      - hubieren pasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pasa
+      - pase
+      - pasemos
+      - pasad
+      - pasen
+      cjid: impf
+- ahws:
+  - hw: blanca
+    hwc: -ca
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|white}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|blank} (of a paper, etc.)'
+          sn: '2'
+          vrs:
+          - va: en blanco
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a sleepless night'
+          sn: '3'
+          vrs:
+          - va: pasar la noche en blanco
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: blanco
+    prs:
+    - sound:
+        audio: blanc01sp
+  meta:
+    id: blanco:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603083000'
+    src: spanish
+    stems:
+    - blanco
+    - blanca
+    - en blanco
+    - pasar la noche en blanco
+    uuid: ad00f602-37ff-42dd-bb7f-5dadbe69b78c
+  shortdef:
+  - white
+  - blank (of a paper, etc.)
+  - to have a sleepless night
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ball}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|head}'
+          sls:
+          - familiar
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|naked}'
+          sls:
+          - familiar
+          sn: '3'
+          vrs:
+          - va: en pelotas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play ball}'
+          sn: '4'
+          vrs:
+          - va: jugar a la pelota
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass the buck}'
+          sls:
+          - familiar
+          sn: '5'
+          vrs:
+          - va: pasar la pelota
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|jai alai}'
+          sn: '6'
+          vrs:
+          - va: pelota vasca
+  fl: feminine noun
+  hwi:
+    hw: pelota
+    prs:
+    - sound:
+        audio: pelot01sp
+  meta:
+    id: pelota
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616984000'
+    src: spanish
+    stems:
+    - pelota
+    - en pelotas
+    - jugar a la pelota
+    - pasar la pelota
+    - pelota vasca
+    uuid: dcfb32d5-cf54-4788-94b3-347d8c582d62
+  shortdef:
+  - ball
+  - head
+  - naked
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cool} '
+          - - gl
+            - familiar
+          - - text
+            - ', {a_link|good}'
+          sls:
+          - Argentina
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go unnoticed'
+          sls:
+          - Chile, Peru
+          sn: '2'
+          vrs:
+          - va: pasar piola
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: piola
+  meta:
+    id: piola:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617408000'
+    src: spanish
+    stems:
+    - piola
+    - pasar piola
+    uuid: 29a05ed3-3f76-4d04-935b-9896c29ea1bc
+  shortdef:
+  - cool, good
+  - to go unnoticed
+  sls:
+  - familiar
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|while}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass the time}'
+          sn: '2'
+          vrs:
+          - va: pasar el rato
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|all the time}, {a_link|constantly} '
+          - - vis
+            - - t: les sacaba dinero a cada rato
+                tr: he was always taking money from them
+          sn: '3'
+          vrs:
+          - va: a cada rato
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|later}, shortly after'
+          sn: '4'
+          vrs:
+          - va: al poco rato
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a bad/hard/tough time'
+          sn: '5'
+          vrs:
+          - va: pasar un mal rato
+  fl: masculine noun
+  hwi:
+    hw: rato
+    prs:
+    - sound:
+        audio: rato001sp
+  meta:
+    id: rato
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618832000'
+    src: spanish
+    stems:
+    - rato
+    - pasar el rato
+    - a cada rato
+    - al poco rato
+    - pasar un mal rato
+    uuid: f2af2873-14c8-4838-ab07-167a59b50fd1
+  shortdef:
+  - while
+  - to pass the time
+  - all the time, constantly
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|magazine}, {a_link|journal}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|revue}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|review}, to {a_link|inspect}'
+          sn: '3'
+          vrs:
+          - va: pasar revista
+  fl: feminine noun
+  hwi:
+    hw: revista
+    prs:
+    - sound:
+        audio: revis04sp
+  meta:
+    id: revista
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619762000'
+    src: spanish
+    stems:
+    - revista
+    - pasar revista
+    uuid: a311e209-68f0-4431-9e32-0a1867da3c87
+  shortdef:
+  - magazine, journal
+  - revue
+  - to review, to inspect
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|watch}, {a_link|vigil}, {a_link|wake}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|candle}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sail}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sailing}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be up all night'
+          sn: '5'
+          vrs:
+          - va: pasar la noche en vela
+  fl: feminine noun
+  hwi:
+    hw: vela
+    prs:
+    - sound:
+        audio: vela001sp
+  meta:
+    id: vela
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622774000'
+    src: spanish
+    stems:
+    - vela
+    - pasar la noche en vela
+    uuid: c8b41525-6454-4e16-aa79-47fc89d02af0
+  shortdef:
+  - watch, vigil, wake
+  - candle
+  - sail

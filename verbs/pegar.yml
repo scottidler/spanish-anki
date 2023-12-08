@@ -1,0 +1,281 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stick}, to {a_link|glue}, to {a_link|paste}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attach}, to sew on'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to infect with, to {a_link|give} '
+          - - vis
+            - - t: "me peg\xF3 el resfriado"
+                tr: he gave me his cold
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a slap, a kick, etc.), to {a_link|deal} (a blow) '
+          - - vis
+            - - t: "le peg\xF3 un tiro/pu\xF1etazo"
+                tr: she shot/punched him
+              - t: "me peg\xF3 un susto"
+                tr: he startled me
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a shout, a jump, etc.) '
+          - - vis
+            - - t: "peg\xF3 un alarido"
+                tr: she let out a scream
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put against, to put near'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to paste (into a computer document)'
+          sn: '7'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|adherirse||} {bc}to {a_link|stick}, to {a_link|adhere}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hit} '
+          - - vis
+            - - t: pegar en algo
+                tr: to hit (against) something
+              - t: pegarle a alguien
+                tr: to hit someone
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|match}, to {a_link|go with}'
+          sn: '3'
+          vrs:
+          - va: pegar con
+            vac: ~ con
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to hit oneself '
+            - - vis
+              - - t: "me pegu\xE9 en el codo"
+                  tr: I hit my elbow
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to hit each other'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stick}, to {a_link|take hold}'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be contagious'
+            sn: '4'
+    drp: pegarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: pegar
+    prs:
+    - sound:
+        audio: pegar01sp
+  meta:
+    id: pegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616945000'
+    src: spanish
+    stems:
+    - pegar
+    - pegar con
+    - pegarse
+    uuid: 7d9751b6-909a-4d7e-a175-47a2dd4092f4
+  shortdef:
+  - to stick, to glue, to paste
+  - to attach, to sew on
+  - to infect with, to give
+  suppl:
+    cjts:
+    - cjfs:
+      - pegando
+      - pegado
+      cjid: gppt
+    - cjfs:
+      - pego
+      - pegas
+      - pega
+      - pegamos
+      - "peg\xE1is"
+      - pegan
+      cjid: pind
+    - cjfs:
+      - pegaba
+      - pegabas
+      - pegaba
+      - "peg\xE1bamos"
+      - pegabais
+      - pegaban
+      cjid: pret
+    - cjfs:
+      - "pegu\xE9"
+      - pegaste
+      - "peg\xF3"
+      - pegamos
+      - pegasteis
+      - pegaron
+      cjid: pprf
+    - cjfs:
+      - "pegar\xE9"
+      - "pegar\xE1s"
+      - "pegar\xE1"
+      - pegaremos
+      - "pegar\xE9is"
+      - "pegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pegar\xEDa"
+      - "pegar\xEDas"
+      - "pegar\xEDa"
+      - "pegar\xEDamos"
+      - "pegar\xEDais"
+      - "pegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pegue
+      - pegues
+      - pegue
+      - peguemos
+      - "pegu\xE9is"
+      - peguen
+      cjid: psub
+    - cjfs:
+      - pegara
+      - pegaras
+      - pegara
+      - "peg\xE1ramos"
+      - pegarais
+      - pegaran
+      cjid: pisb1
+    - cjfs:
+      - pegase
+      - pegases
+      - pegase
+      - "peg\xE1semos"
+      - pegaseis
+      - pegasen
+      cjid: pisb2
+    - cjfs:
+      - pegare
+      - pegares
+      - pegare
+      - "peg\xE1remos"
+      - pegareis
+      - pegaren
+      cjid: fsub
+    - cjfs:
+      - he pegado
+      - has pegado
+      - ha pegado
+      - hemos pegado
+      - "hab\xE9is pegado"
+      - han pegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pegado"
+      - "hab\xEDas pegado"
+      - "hab\xEDa pegado"
+      - "hab\xEDamos pegado"
+      - "hab\xEDais pegado"
+      - "hab\xEDan pegado"
+      cjid: ppsi
+    - cjfs:
+      - hube pegado
+      - hubiste pegado
+      - hubo pegado
+      - hubimos pegado
+      - hubisteis pegado
+      - hubieron pegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pegado"
+      - "habr\xE1s pegado"
+      - "habr\xE1 pegado"
+      - habremos pegado
+      - "habr\xE9is pegado"
+      - "habr\xE1n pegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pegado"
+      - "habr\xEDas pegado"
+      - "habr\xEDa pegado"
+      - "habr\xEDamos pegado"
+      - "habr\xEDais pegado"
+      - "habr\xEDan pegado"
+      cjid: cpef
+    - cjfs:
+      - haya pegado
+      - hayas pegado
+      - haya pegado
+      - hayamos pegado
+      - "hay\xE1is pegado"
+      - hayan pegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pegado
+      - hubieras pegado
+      - hubiera pegado
+      - "hubi\xE9ramos pegado"
+      - hubierais pegado
+      - hubieran pegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pegado
+      - hubieses pegado
+      - hubiese pegado
+      - "hubi\xE9semos pegado"
+      - hubieseis pegado
+      - hubiesen pegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pegado
+      - hubieres pegado
+      - hubiere pegado
+      - "hubi\xE9remos pegado"
+      - hubiereis pegado
+      - hubieren pegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pega
+      - pegue
+      - peguemos
+      - pegad
+      - peguen
+      cjid: impf

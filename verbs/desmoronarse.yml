@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wear away}, to {a_link|erode}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|crumble}, to {a_link|deteriorate}, to {a_link|fall
+                apart}'
+    drp: desmoronarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desmoronar
+  meta:
+    id: desmoronar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607202000'
+    src: spanish
+    stems:
+    - desmoronar
+    - desmoronarse
+    uuid: a606b298-cc46-4efd-83fd-65a67e3527f6
+  shortdef:
+  - to wear away, to erode
+  suppl:
+    cjts:
+    - cjfs:
+      - desmoronando
+      - desmoronado
+      cjid: gppt
+    - cjfs:
+      - desmorono
+      - desmoronas
+      - desmorona
+      - desmoronamos
+      - "desmoron\xE1is"
+      - desmoronan
+      cjid: pind
+    - cjfs:
+      - desmoronaba
+      - desmoronabas
+      - desmoronaba
+      - "desmoron\xE1bamos"
+      - desmoronabais
+      - desmoronaban
+      cjid: pret
+    - cjfs:
+      - "desmoron\xE9"
+      - desmoronaste
+      - "desmoron\xF3"
+      - desmoronamos
+      - desmoronasteis
+      - desmoronaron
+      cjid: pprf
+    - cjfs:
+      - "desmoronar\xE9"
+      - "desmoronar\xE1s"
+      - "desmoronar\xE1"
+      - desmoronaremos
+      - "desmoronar\xE9is"
+      - "desmoronar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desmoronar\xEDa"
+      - "desmoronar\xEDas"
+      - "desmoronar\xEDa"
+      - "desmoronar\xEDamos"
+      - "desmoronar\xEDais"
+      - "desmoronar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desmorone
+      - desmorones
+      - desmorone
+      - desmoronemos
+      - "desmoron\xE9is"
+      - desmoronen
+      cjid: psub
+    - cjfs:
+      - desmoronara
+      - desmoronaras
+      - desmoronara
+      - "desmoron\xE1ramos"
+      - desmoronarais
+      - desmoronaran
+      cjid: pisb1
+    - cjfs:
+      - desmoronase
+      - desmoronases
+      - desmoronase
+      - "desmoron\xE1semos"
+      - desmoronaseis
+      - desmoronasen
+      cjid: pisb2
+    - cjfs:
+      - desmoronare
+      - desmoronares
+      - desmoronare
+      - "desmoron\xE1remos"
+      - desmoronareis
+      - desmoronaren
+      cjid: fsub
+    - cjfs:
+      - he desmoronado
+      - has desmoronado
+      - ha desmoronado
+      - hemos desmoronado
+      - "hab\xE9is desmoronado"
+      - han desmoronado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desmoronado"
+      - "hab\xEDas desmoronado"
+      - "hab\xEDa desmoronado"
+      - "hab\xEDamos desmoronado"
+      - "hab\xEDais desmoronado"
+      - "hab\xEDan desmoronado"
+      cjid: ppsi
+    - cjfs:
+      - hube desmoronado
+      - hubiste desmoronado
+      - hubo desmoronado
+      - hubimos desmoronado
+      - hubisteis desmoronado
+      - hubieron desmoronado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desmoronado"
+      - "habr\xE1s desmoronado"
+      - "habr\xE1 desmoronado"
+      - habremos desmoronado
+      - "habr\xE9is desmoronado"
+      - "habr\xE1n desmoronado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desmoronado"
+      - "habr\xEDas desmoronado"
+      - "habr\xEDa desmoronado"
+      - "habr\xEDamos desmoronado"
+      - "habr\xEDais desmoronado"
+      - "habr\xEDan desmoronado"
+      cjid: cpef
+    - cjfs:
+      - haya desmoronado
+      - hayas desmoronado
+      - haya desmoronado
+      - hayamos desmoronado
+      - "hay\xE1is desmoronado"
+      - hayan desmoronado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desmoronado
+      - hubieras desmoronado
+      - hubiera desmoronado
+      - "hubi\xE9ramos desmoronado"
+      - hubierais desmoronado
+      - hubieran desmoronado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desmoronado
+      - hubieses desmoronado
+      - hubiese desmoronado
+      - "hubi\xE9semos desmoronado"
+      - hubieseis desmoronado
+      - hubiesen desmoronado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desmoronado
+      - hubieres desmoronado
+      - hubiere desmoronado
+      - "hubi\xE9remos desmoronado"
+      - hubiereis desmoronado
+      - hubieren desmoronado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desmorona
+      - desmorone
+      - desmoronemos
+      - desmoronad
+      - desmoronen
+      cjid: impf

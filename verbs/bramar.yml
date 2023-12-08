@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rugir||} {bc}to {a_link|roar}, to {a_link|bellow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|howl} (of the wind)'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: bramar
+  meta:
+    id: bramar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603294000'
+    src: spanish
+    stems:
+    - bramar
+    uuid: a88c5856-1e11-4123-b088-bacb14dd5f56
+  shortdef:
+  - 'rugir : to roar, to bellow'
+  - to howl (of the wind)
+  suppl:
+    cjts:
+    - cjfs:
+      - bramando
+      - bramado
+      cjid: gppt
+    - cjfs:
+      - bramo
+      - bramas
+      - brama
+      - bramamos
+      - "bram\xE1is"
+      - braman
+      cjid: pind
+    - cjfs:
+      - bramaba
+      - bramabas
+      - bramaba
+      - "bram\xE1bamos"
+      - bramabais
+      - bramaban
+      cjid: pret
+    - cjfs:
+      - "bram\xE9"
+      - bramaste
+      - "bram\xF3"
+      - bramamos
+      - bramasteis
+      - bramaron
+      cjid: pprf
+    - cjfs:
+      - "bramar\xE9"
+      - "bramar\xE1s"
+      - "bramar\xE1"
+      - bramaremos
+      - "bramar\xE9is"
+      - "bramar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bramar\xEDa"
+      - "bramar\xEDas"
+      - "bramar\xEDa"
+      - "bramar\xEDamos"
+      - "bramar\xEDais"
+      - "bramar\xEDan"
+      cjid: cond
+    - cjfs:
+      - brame
+      - brames
+      - brame
+      - bramemos
+      - "bram\xE9is"
+      - bramen
+      cjid: psub
+    - cjfs:
+      - bramara
+      - bramaras
+      - bramara
+      - "bram\xE1ramos"
+      - bramarais
+      - bramaran
+      cjid: pisb1
+    - cjfs:
+      - bramase
+      - bramases
+      - bramase
+      - "bram\xE1semos"
+      - bramaseis
+      - bramasen
+      cjid: pisb2
+    - cjfs:
+      - bramare
+      - bramares
+      - bramare
+      - "bram\xE1remos"
+      - bramareis
+      - bramaren
+      cjid: fsub
+    - cjfs:
+      - he bramado
+      - has bramado
+      - ha bramado
+      - hemos bramado
+      - "hab\xE9is bramado"
+      - han bramado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bramado"
+      - "hab\xEDas bramado"
+      - "hab\xEDa bramado"
+      - "hab\xEDamos bramado"
+      - "hab\xEDais bramado"
+      - "hab\xEDan bramado"
+      cjid: ppsi
+    - cjfs:
+      - hube bramado
+      - hubiste bramado
+      - hubo bramado
+      - hubimos bramado
+      - hubisteis bramado
+      - hubieron bramado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bramado"
+      - "habr\xE1s bramado"
+      - "habr\xE1 bramado"
+      - habremos bramado
+      - "habr\xE9is bramado"
+      - "habr\xE1n bramado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bramado"
+      - "habr\xEDas bramado"
+      - "habr\xEDa bramado"
+      - "habr\xEDamos bramado"
+      - "habr\xEDais bramado"
+      - "habr\xEDan bramado"
+      cjid: cpef
+    - cjfs:
+      - haya bramado
+      - hayas bramado
+      - haya bramado
+      - hayamos bramado
+      - "hay\xE1is bramado"
+      - hayan bramado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bramado
+      - hubieras bramado
+      - hubiera bramado
+      - "hubi\xE9ramos bramado"
+      - hubierais bramado
+      - hubieran bramado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bramado
+      - hubieses bramado
+      - hubiese bramado
+      - "hubi\xE9semos bramado"
+      - hubieseis bramado
+      - hubiesen bramado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bramado
+      - hubieres bramado
+      - hubiere bramado
+      - "hubi\xE9remos bramado"
+      - hubiereis bramado
+      - hubieren bramado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - brama
+      - brame
+      - bramemos
+      - bramad
+      - bramen
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|smoke}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|steam}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: humear
+  meta:
+    id: humear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611740000'
+    src: spanish
+    stems:
+    - humear
+    uuid: b6213966-2483-4382-91a3-2eff540249fd
+  shortdef:
+  - to smoke
+  - to steam
+  suppl:
+    cjts:
+    - cjfs:
+      - humeando
+      - humeado
+      cjid: gppt
+    - cjfs:
+      - humeo
+      - humeas
+      - humea
+      - humeamos
+      - "hume\xE1is"
+      - humean
+      cjid: pind
+    - cjfs:
+      - humeaba
+      - humeabas
+      - humeaba
+      - "hume\xE1bamos"
+      - humeabais
+      - humeaban
+      cjid: pret
+    - cjfs:
+      - "hume\xE9"
+      - humeaste
+      - "hume\xF3"
+      - humeamos
+      - humeasteis
+      - humearon
+      cjid: pprf
+    - cjfs:
+      - "humear\xE9"
+      - "humear\xE1s"
+      - "humear\xE1"
+      - humearemos
+      - "humear\xE9is"
+      - "humear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "humear\xEDa"
+      - "humear\xEDas"
+      - "humear\xEDa"
+      - "humear\xEDamos"
+      - "humear\xEDais"
+      - "humear\xEDan"
+      cjid: cond
+    - cjfs:
+      - humee
+      - humees
+      - humee
+      - humeemos
+      - "hume\xE9is"
+      - humeen
+      cjid: psub
+    - cjfs:
+      - humeara
+      - humearas
+      - humeara
+      - "hume\xE1ramos"
+      - humearais
+      - humearan
+      cjid: pisb1
+    - cjfs:
+      - humease
+      - humeases
+      - humease
+      - "hume\xE1semos"
+      - humeaseis
+      - humeasen
+      cjid: pisb2
+    - cjfs:
+      - humeare
+      - humeares
+      - humeare
+      - "hume\xE1remos"
+      - humeareis
+      - humearen
+      cjid: fsub
+    - cjfs:
+      - he humeado
+      - has humeado
+      - ha humeado
+      - hemos humeado
+      - "hab\xE9is humeado"
+      - han humeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa humeado"
+      - "hab\xEDas humeado"
+      - "hab\xEDa humeado"
+      - "hab\xEDamos humeado"
+      - "hab\xEDais humeado"
+      - "hab\xEDan humeado"
+      cjid: ppsi
+    - cjfs:
+      - hube humeado
+      - hubiste humeado
+      - hubo humeado
+      - hubimos humeado
+      - hubisteis humeado
+      - hubieron humeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 humeado"
+      - "habr\xE1s humeado"
+      - "habr\xE1 humeado"
+      - habremos humeado
+      - "habr\xE9is humeado"
+      - "habr\xE1n humeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa humeado"
+      - "habr\xEDas humeado"
+      - "habr\xEDa humeado"
+      - "habr\xEDamos humeado"
+      - "habr\xEDais humeado"
+      - "habr\xEDan humeado"
+      cjid: cpef
+    - cjfs:
+      - haya humeado
+      - hayas humeado
+      - haya humeado
+      - hayamos humeado
+      - "hay\xE1is humeado"
+      - hayan humeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera humeado
+      - hubieras humeado
+      - hubiera humeado
+      - "hubi\xE9ramos humeado"
+      - hubierais humeado
+      - hubieran humeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese humeado
+      - hubieses humeado
+      - hubiese humeado
+      - "hubi\xE9semos humeado"
+      - hubieseis humeado
+      - hubiesen humeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere humeado
+      - hubieres humeado
+      - hubiere humeado
+      - "hubi\xE9remos humeado"
+      - hubiereis humeado
+      - hubieren humeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - humea
+      - humee
+      - humeemos
+      - humead
+      - humeen
+      cjid: impf

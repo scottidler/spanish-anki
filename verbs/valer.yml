@@ -1,0 +1,372 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be worth} '
+          - - vis
+            - - t: valen una fortuna
+                tr: they're worth a fortune
+              - t: no vale protestar
+                tr: there's no point in protesting
+              - t: valer la pena
+                tr: to be worth the trouble
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cost} '
+          - - vis
+            - - t: "\xBFcu\xE1nto vale?"
+                tr: how much does it cost?
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|earn}, to {a_link|gain} '
+          - - vis
+            - - t: "le vali\xF3 una reprimenda"
+                tr: it earned him a reprimand
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|protect}, to {a_link|aid} '
+          - - vis
+            - - t: "\xA1v\xE1lgame Dios!"
+                tr: God help me!
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be equal to'
+          sn: '5'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have value '
+          - - vis
+            - - t: sus consejos no valen para nada
+                tr: his advice is worthless
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be valid, to {a_link|count} '
+          - - vis
+            - - t: "\xA1eso no vale!"
+                tr: that doesn't count!
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assert oneself}'
+          sn: '3'
+          vrs:
+          - va: hacerse valer
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}it''s better '
+          - - vis
+            - - t: "m\xE1s vale que te vayas"
+                tr: you'd better go
+          sn: '4'
+          vrs:
+          - va: "m\xE1s vale"
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take advantage of}'
+            sn: '1'
+            vrs:
+            - va: valerse de
+              vac: ~ de
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to look after oneself'
+            sn: '2'
+            vrs:
+            - va: valerse solo
+            - va: "valerse por s\xED mismo"
+              vl: or
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be fair '
+            - - vis
+              - - t: no se vale
+                  tr: it's not fair
+            sls:
+            - Mexico
+            sn: '3'
+    drp: valerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: valer
+    prs:
+    - sound:
+        audio: valer01sp
+  meta:
+    id: valer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622663000'
+    src: spanish
+    stems:
+    - valer
+    - hacerse valer
+    - "m\xE1s vale"
+    - valerse
+    - valerse de
+    - valerse solo
+    - "valerse por s\xED mismo"
+    uuid: 732ebc07-7a06-4fcf-8fe3-397854c65918
+  shortdef:
+  - to be worth
+  - to cost
+  - to earn, to gain
+  suppl:
+    cjts:
+    - cjfs:
+      - valiendo
+      - valido
+      cjid: gppt
+    - cjfs:
+      - valgo
+      - vales
+      - vale
+      - valemos
+      - "val\xE9is"
+      - valen
+      cjid: pind
+    - cjfs:
+      - "val\xEDa"
+      - "val\xEDas"
+      - "val\xEDa"
+      - "val\xEDamos"
+      - "val\xEDais"
+      - "val\xEDan"
+      cjid: pret
+    - cjfs:
+      - "val\xED"
+      - valiste
+      - "vali\xF3"
+      - valimos
+      - valisteis
+      - valieron
+      cjid: pprf
+    - cjfs:
+      - "valdr\xE9"
+      - "valdr\xE1s"
+      - "valdr\xE1"
+      - valdremos
+      - "valdr\xE9is"
+      - "valdr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "valdr\xEDa"
+      - "valdr\xEDas"
+      - "valdr\xEDa"
+      - "valdr\xEDamos"
+      - "valdr\xEDais"
+      - "valdr\xEDan"
+      cjid: cond
+    - cjfs:
+      - valga
+      - valgas
+      - valga
+      - valgamos
+      - "valg\xE1is"
+      - valgan
+      cjid: psub
+    - cjfs:
+      - valiera
+      - valieras
+      - valiera
+      - "vali\xE9ramos"
+      - valierais
+      - valieran
+      cjid: pisb1
+    - cjfs:
+      - valiese
+      - valieses
+      - valiese
+      - "vali\xE9semos"
+      - valieseis
+      - valiesen
+      cjid: pisb2
+    - cjfs:
+      - valiere
+      - valieres
+      - valiere
+      - "vali\xE9remos"
+      - valiereis
+      - valieren
+      cjid: fsub
+    - cjfs:
+      - he valido
+      - has valido
+      - ha valido
+      - hemos valido
+      - "hab\xE9is valido"
+      - han valido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa valido"
+      - "hab\xEDas valido"
+      - "hab\xEDa valido"
+      - "hab\xEDamos valido"
+      - "hab\xEDais valido"
+      - "hab\xEDan valido"
+      cjid: ppsi
+    - cjfs:
+      - hube valido
+      - hubiste valido
+      - hubo valido
+      - hubimos valido
+      - hubisteis valido
+      - hubieron valido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 valido"
+      - "habr\xE1s valido"
+      - "habr\xE1 valido"
+      - habremos valido
+      - "habr\xE9is valido"
+      - "habr\xE1n valido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa valido"
+      - "habr\xEDas valido"
+      - "habr\xEDa valido"
+      - "habr\xEDamos valido"
+      - "habr\xEDais valido"
+      - "habr\xEDan valido"
+      cjid: cpef
+    - cjfs:
+      - haya valido
+      - hayas valido
+      - haya valido
+      - hayamos valido
+      - "hay\xE1is valido"
+      - hayan valido
+      cjid: ppfs
+    - cjfs:
+      - hubiera valido
+      - hubieras valido
+      - hubiera valido
+      - "hubi\xE9ramos valido"
+      - hubierais valido
+      - hubieran valido
+      cjid: ppss1
+    - cjfs:
+      - hubiese valido
+      - hubieses valido
+      - hubiese valido
+      - "hubi\xE9semos valido"
+      - hubieseis valido
+      - hubiesen valido
+      cjid: ppss2
+    - cjfs:
+      - hubiere valido
+      - hubieres valido
+      - hubiere valido
+      - "hubi\xE9remos valido"
+      - hubiereis valido
+      - hubieren valido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vale
+      - valga
+      - valgamos
+      - valed
+      - valgan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|sentencia||} {bc}{a_link|sentence}, {a_link|penalty} '
+          - - vis
+            - - t: pena de muerte, pena capital
+                tr: death penalty
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|aflicci\xF3n||} {bc}{a_link|sorrow}, {a_link|grief} "
+          - - vis
+            - - t: me da pena
+                tr: it makes me sad
+              - t: morir de pena
+                tr: to die of a broken heart
+              - t: "\xA1qu\xE9 pena!"
+                tr: what a shame!, how sad!
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|verg\xFCenza||} {bc}{a_link|shame}, {a_link|embarrassment}"
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}problems, troubles '
+          - - vis
+            - - t: olvidar tus penas
+                tr: to forget your troubles
+          ins:
+          - if: penas
+            spl: noun feminine plural
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|difficulty}, {a_link|trouble} '
+          - - vis
+            - - t: a duras penas
+                tr: with great difficulty
+          ins:
+          - if: penas
+            spl: noun feminine plural
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be worthwhile'
+          sn: '6'
+          vrs:
+          - va: valer la pena
+  fl: feminine noun
+  hwi:
+    hw: pena
+    prs:
+    - sound:
+        audio: pena001sp
+  meta:
+    id: pena
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616997000'
+    src: spanish
+    stems:
+    - pena
+    - penas
+    - valer la pena
+    uuid: 1a26ab35-581d-41de-9fc6-5a63db7a25a9
+  shortdef:
+  - 'sentencia : sentence, penalty'
+  - "aflicci\xF3n : sorrow, grief"
+  - "verg\xFCenza : shame, embarrassment"

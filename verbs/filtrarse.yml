@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|filter}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to seep through, to {a_link|leak}'
+    drp: filtrarse
+    fl: reflexive verb
+  fl: verb
+  hwi:
+    hw: filtrar
+  meta:
+    id: filtrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610114000'
+    src: spanish
+    stems:
+    - filtrar
+    - filtrarse
+    uuid: 6670e790-e89f-4df5-a10c-d410b3adce66
+  shortdef:
+  - to filter
+  suppl:
+    cjts:
+    - cjfs:
+      - filtrando
+      - filtrado
+      cjid: gppt
+    - cjfs:
+      - filtro
+      - filtras
+      - filtra
+      - filtramos
+      - "filtr\xE1is"
+      - filtran
+      cjid: pind
+    - cjfs:
+      - filtraba
+      - filtrabas
+      - filtraba
+      - "filtr\xE1bamos"
+      - filtrabais
+      - filtraban
+      cjid: pret
+    - cjfs:
+      - "filtr\xE9"
+      - filtraste
+      - "filtr\xF3"
+      - filtramos
+      - filtrasteis
+      - filtraron
+      cjid: pprf
+    - cjfs:
+      - "filtrar\xE9"
+      - "filtrar\xE1s"
+      - "filtrar\xE1"
+      - filtraremos
+      - "filtrar\xE9is"
+      - "filtrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "filtrar\xEDa"
+      - "filtrar\xEDas"
+      - "filtrar\xEDa"
+      - "filtrar\xEDamos"
+      - "filtrar\xEDais"
+      - "filtrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - filtre
+      - filtres
+      - filtre
+      - filtremos
+      - "filtr\xE9is"
+      - filtren
+      cjid: psub
+    - cjfs:
+      - filtrara
+      - filtraras
+      - filtrara
+      - "filtr\xE1ramos"
+      - filtrarais
+      - filtraran
+      cjid: pisb1
+    - cjfs:
+      - filtrase
+      - filtrases
+      - filtrase
+      - "filtr\xE1semos"
+      - filtraseis
+      - filtrasen
+      cjid: pisb2
+    - cjfs:
+      - filtrare
+      - filtrares
+      - filtrare
+      - "filtr\xE1remos"
+      - filtrareis
+      - filtraren
+      cjid: fsub
+    - cjfs:
+      - he filtrado
+      - has filtrado
+      - ha filtrado
+      - hemos filtrado
+      - "hab\xE9is filtrado"
+      - han filtrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa filtrado"
+      - "hab\xEDas filtrado"
+      - "hab\xEDa filtrado"
+      - "hab\xEDamos filtrado"
+      - "hab\xEDais filtrado"
+      - "hab\xEDan filtrado"
+      cjid: ppsi
+    - cjfs:
+      - hube filtrado
+      - hubiste filtrado
+      - hubo filtrado
+      - hubimos filtrado
+      - hubisteis filtrado
+      - hubieron filtrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 filtrado"
+      - "habr\xE1s filtrado"
+      - "habr\xE1 filtrado"
+      - habremos filtrado
+      - "habr\xE9is filtrado"
+      - "habr\xE1n filtrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa filtrado"
+      - "habr\xEDas filtrado"
+      - "habr\xEDa filtrado"
+      - "habr\xEDamos filtrado"
+      - "habr\xEDais filtrado"
+      - "habr\xEDan filtrado"
+      cjid: cpef
+    - cjfs:
+      - haya filtrado
+      - hayas filtrado
+      - haya filtrado
+      - hayamos filtrado
+      - "hay\xE1is filtrado"
+      - hayan filtrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera filtrado
+      - hubieras filtrado
+      - hubiera filtrado
+      - "hubi\xE9ramos filtrado"
+      - hubierais filtrado
+      - hubieran filtrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese filtrado
+      - hubieses filtrado
+      - hubiese filtrado
+      - "hubi\xE9semos filtrado"
+      - hubieseis filtrado
+      - hubiesen filtrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere filtrado
+      - hubieres filtrado
+      - hubiere filtrado
+      - "hubi\xE9remos filtrado"
+      - hubiereis filtrado
+      - hubieren filtrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - filtra
+      - filtre
+      - filtremos
+      - filtrad
+      - filtren
+      cjid: impf

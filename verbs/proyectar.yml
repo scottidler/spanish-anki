@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plan}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|lanzar||} {bc}to {a_link|throw}, to {a_link|hurl}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|project}, to {a_link|cast} (light or shadow)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|show}, to {a_link|screen} (a film)'
+          sn: '4'
+  fl: transitive verb
+  hwi:
+    hw: proyectar
+    prs:
+    - sound:
+        audio: proye02sp
+  meta:
+    id: proyectar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618384000'
+    src: spanish
+    stems:
+    - proyectar
+    uuid: 88e6208d-8147-4fe4-a3d7-0fa503657e6f
+  shortdef:
+  - to plan
+  - 'lanzar : to throw, to hurl'
+  - to project, to cast (light or shadow)
+  suppl:
+    cjts:
+    - cjfs:
+      - proyectando
+      - proyectado
+      cjid: gppt
+    - cjfs:
+      - proyecto
+      - proyectas
+      - proyecta
+      - proyectamos
+      - "proyect\xE1is"
+      - proyectan
+      cjid: pind
+    - cjfs:
+      - proyectaba
+      - proyectabas
+      - proyectaba
+      - "proyect\xE1bamos"
+      - proyectabais
+      - proyectaban
+      cjid: pret
+    - cjfs:
+      - "proyect\xE9"
+      - proyectaste
+      - "proyect\xF3"
+      - proyectamos
+      - proyectasteis
+      - proyectaron
+      cjid: pprf
+    - cjfs:
+      - "proyectar\xE9"
+      - "proyectar\xE1s"
+      - "proyectar\xE1"
+      - proyectaremos
+      - "proyectar\xE9is"
+      - "proyectar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "proyectar\xEDa"
+      - "proyectar\xEDas"
+      - "proyectar\xEDa"
+      - "proyectar\xEDamos"
+      - "proyectar\xEDais"
+      - "proyectar\xEDan"
+      cjid: cond
+    - cjfs:
+      - proyecte
+      - proyectes
+      - proyecte
+      - proyectemos
+      - "proyect\xE9is"
+      - proyecten
+      cjid: psub
+    - cjfs:
+      - proyectara
+      - proyectaras
+      - proyectara
+      - "proyect\xE1ramos"
+      - proyectarais
+      - proyectaran
+      cjid: pisb1
+    - cjfs:
+      - proyectase
+      - proyectases
+      - proyectase
+      - "proyect\xE1semos"
+      - proyectaseis
+      - proyectasen
+      cjid: pisb2
+    - cjfs:
+      - proyectare
+      - proyectares
+      - proyectare
+      - "proyect\xE1remos"
+      - proyectareis
+      - proyectaren
+      cjid: fsub
+    - cjfs:
+      - he proyectado
+      - has proyectado
+      - ha proyectado
+      - hemos proyectado
+      - "hab\xE9is proyectado"
+      - han proyectado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa proyectado"
+      - "hab\xEDas proyectado"
+      - "hab\xEDa proyectado"
+      - "hab\xEDamos proyectado"
+      - "hab\xEDais proyectado"
+      - "hab\xEDan proyectado"
+      cjid: ppsi
+    - cjfs:
+      - hube proyectado
+      - hubiste proyectado
+      - hubo proyectado
+      - hubimos proyectado
+      - hubisteis proyectado
+      - hubieron proyectado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 proyectado"
+      - "habr\xE1s proyectado"
+      - "habr\xE1 proyectado"
+      - habremos proyectado
+      - "habr\xE9is proyectado"
+      - "habr\xE1n proyectado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa proyectado"
+      - "habr\xEDas proyectado"
+      - "habr\xEDa proyectado"
+      - "habr\xEDamos proyectado"
+      - "habr\xEDais proyectado"
+      - "habr\xEDan proyectado"
+      cjid: cpef
+    - cjfs:
+      - haya proyectado
+      - hayas proyectado
+      - haya proyectado
+      - hayamos proyectado
+      - "hay\xE1is proyectado"
+      - hayan proyectado
+      cjid: ppfs
+    - cjfs:
+      - hubiera proyectado
+      - hubieras proyectado
+      - hubiera proyectado
+      - "hubi\xE9ramos proyectado"
+      - hubierais proyectado
+      - hubieran proyectado
+      cjid: ppss1
+    - cjfs:
+      - hubiese proyectado
+      - hubieses proyectado
+      - hubiese proyectado
+      - "hubi\xE9semos proyectado"
+      - hubieseis proyectado
+      - hubiesen proyectado
+      cjid: ppss2
+    - cjfs:
+      - hubiere proyectado
+      - hubieres proyectado
+      - hubiere proyectado
+      - "hubi\xE9remos proyectado"
+      - hubiereis proyectado
+      - hubieren proyectado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - proyecta
+      - proyecte
+      - proyectemos
+      - proyectad
+      - proyecten
+      cjid: impf

@@ -1,0 +1,236 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to let go of, to {a_link|drop} '
+          - - vis
+            - - t: "\xA1su\xE9ltame el brazo!"
+                tr: let go of my arm!
+              - t: "solt\xF3 las riendas"
+                tr: he dropped the reins
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|release}, to set free'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pay out (a rope, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aflojar||} {bc}to {a_link|loosen}, to {a_link|slacken}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|undo}, to {a_link|untie} (a knot, etc.)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give}, to {a_link|let out} (a shout, etc.)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come out with (a swearword, etc.)'
+          sn: '7'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get loose, to break free'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|come undone}'
+            sn: '2'
+    drp: soltarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: soltar
+    prs:
+    - sound:
+        audio: solta01sp
+  meta:
+    id: soltar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620892000'
+    src: spanish
+    stems:
+    - soltar
+    - soltarse
+    uuid: 9b911f80-2a65-4c28-8b14-0ac7fe47f7d8
+  shortdef:
+  - to let go of, to drop
+  - to release, to set free
+  - to pay out (a rope, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - soltando
+      - soltado
+      cjid: gppt
+    - cjfs:
+      - suelto
+      - sueltas
+      - suelta
+      - soltamos
+      - "solt\xE1is"
+      - sueltan
+      cjid: pind
+    - cjfs:
+      - soltaba
+      - soltabas
+      - soltaba
+      - "solt\xE1bamos"
+      - soltabais
+      - soltaban
+      cjid: pret
+    - cjfs:
+      - "solt\xE9"
+      - soltaste
+      - "solt\xF3"
+      - soltamos
+      - soltasteis
+      - soltaron
+      cjid: pprf
+    - cjfs:
+      - "soltar\xE9"
+      - "soltar\xE1s"
+      - "soltar\xE1"
+      - soltaremos
+      - "soltar\xE9is"
+      - "soltar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "soltar\xEDa"
+      - "soltar\xEDas"
+      - "soltar\xEDa"
+      - "soltar\xEDamos"
+      - "soltar\xEDais"
+      - "soltar\xEDan"
+      cjid: cond
+    - cjfs:
+      - suelte
+      - sueltes
+      - suelte
+      - soltemos
+      - "solt\xE9is"
+      - suelten
+      cjid: psub
+    - cjfs:
+      - soltara
+      - soltaras
+      - soltara
+      - "solt\xE1ramos"
+      - soltarais
+      - soltaran
+      cjid: pisb1
+    - cjfs:
+      - soltase
+      - soltases
+      - soltase
+      - "solt\xE1semos"
+      - soltaseis
+      - soltasen
+      cjid: pisb2
+    - cjfs:
+      - soltare
+      - soltares
+      - soltare
+      - "solt\xE1remos"
+      - soltareis
+      - soltaren
+      cjid: fsub
+    - cjfs:
+      - he soltado
+      - has soltado
+      - ha soltado
+      - hemos soltado
+      - "hab\xE9is soltado"
+      - han soltado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa soltado"
+      - "hab\xEDas soltado"
+      - "hab\xEDa soltado"
+      - "hab\xEDamos soltado"
+      - "hab\xEDais soltado"
+      - "hab\xEDan soltado"
+      cjid: ppsi
+    - cjfs:
+      - hube soltado
+      - hubiste soltado
+      - hubo soltado
+      - hubimos soltado
+      - hubisteis soltado
+      - hubieron soltado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 soltado"
+      - "habr\xE1s soltado"
+      - "habr\xE1 soltado"
+      - habremos soltado
+      - "habr\xE9is soltado"
+      - "habr\xE1n soltado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa soltado"
+      - "habr\xEDas soltado"
+      - "habr\xEDa soltado"
+      - "habr\xEDamos soltado"
+      - "habr\xEDais soltado"
+      - "habr\xEDan soltado"
+      cjid: cpef
+    - cjfs:
+      - haya soltado
+      - hayas soltado
+      - haya soltado
+      - hayamos soltado
+      - "hay\xE1is soltado"
+      - hayan soltado
+      cjid: ppfs
+    - cjfs:
+      - hubiera soltado
+      - hubieras soltado
+      - hubiera soltado
+      - "hubi\xE9ramos soltado"
+      - hubierais soltado
+      - hubieran soltado
+      cjid: ppss1
+    - cjfs:
+      - hubiese soltado
+      - hubieses soltado
+      - hubiese soltado
+      - "hubi\xE9semos soltado"
+      - hubieseis soltado
+      - hubiesen soltado
+      cjid: ppss2
+    - cjfs:
+      - hubiere soltado
+      - hubieres soltado
+      - hubiere soltado
+      - "hubi\xE9remos soltado"
+      - hubiereis soltado
+      - hubieren soltado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - suelta
+      - suelte
+      - soltemos
+      - soltad
+      - suelten
+      cjid: impf

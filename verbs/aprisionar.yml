@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|imprison}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trap}, to box in'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: aprisionar
+  meta:
+    id: aprisionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601802000'
+    src: spanish
+    stems:
+    - aprisionar
+    uuid: 0427c705-c9a0-42db-9a2c-ab56268c2eb5
+  shortdef:
+  - to imprison
+  - to trap, to box in
+  suppl:
+    cjts:
+    - cjfs:
+      - aprisionando
+      - aprisionado
+      cjid: gppt
+    - cjfs:
+      - aprisiono
+      - aprisionas
+      - aprisiona
+      - aprisionamos
+      - "aprision\xE1is"
+      - aprisionan
+      cjid: pind
+    - cjfs:
+      - aprisionaba
+      - aprisionabas
+      - aprisionaba
+      - "aprision\xE1bamos"
+      - aprisionabais
+      - aprisionaban
+      cjid: pret
+    - cjfs:
+      - "aprision\xE9"
+      - aprisionaste
+      - "aprision\xF3"
+      - aprisionamos
+      - aprisionasteis
+      - aprisionaron
+      cjid: pprf
+    - cjfs:
+      - "aprisionar\xE9"
+      - "aprisionar\xE1s"
+      - "aprisionar\xE1"
+      - aprisionaremos
+      - "aprisionar\xE9is"
+      - "aprisionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aprisionar\xEDa"
+      - "aprisionar\xEDas"
+      - "aprisionar\xEDa"
+      - "aprisionar\xEDamos"
+      - "aprisionar\xEDais"
+      - "aprisionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aprisione
+      - aprisiones
+      - aprisione
+      - aprisionemos
+      - "aprision\xE9is"
+      - aprisionen
+      cjid: psub
+    - cjfs:
+      - aprisionara
+      - aprisionaras
+      - aprisionara
+      - "aprision\xE1ramos"
+      - aprisionarais
+      - aprisionaran
+      cjid: pisb1
+    - cjfs:
+      - aprisionase
+      - aprisionases
+      - aprisionase
+      - "aprision\xE1semos"
+      - aprisionaseis
+      - aprisionasen
+      cjid: pisb2
+    - cjfs:
+      - aprisionare
+      - aprisionares
+      - aprisionare
+      - "aprision\xE1remos"
+      - aprisionareis
+      - aprisionaren
+      cjid: fsub
+    - cjfs:
+      - he aprisionado
+      - has aprisionado
+      - ha aprisionado
+      - hemos aprisionado
+      - "hab\xE9is aprisionado"
+      - han aprisionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aprisionado"
+      - "hab\xEDas aprisionado"
+      - "hab\xEDa aprisionado"
+      - "hab\xEDamos aprisionado"
+      - "hab\xEDais aprisionado"
+      - "hab\xEDan aprisionado"
+      cjid: ppsi
+    - cjfs:
+      - hube aprisionado
+      - hubiste aprisionado
+      - hubo aprisionado
+      - hubimos aprisionado
+      - hubisteis aprisionado
+      - hubieron aprisionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aprisionado"
+      - "habr\xE1s aprisionado"
+      - "habr\xE1 aprisionado"
+      - habremos aprisionado
+      - "habr\xE9is aprisionado"
+      - "habr\xE1n aprisionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aprisionado"
+      - "habr\xEDas aprisionado"
+      - "habr\xEDa aprisionado"
+      - "habr\xEDamos aprisionado"
+      - "habr\xEDais aprisionado"
+      - "habr\xEDan aprisionado"
+      cjid: cpef
+    - cjfs:
+      - haya aprisionado
+      - hayas aprisionado
+      - haya aprisionado
+      - hayamos aprisionado
+      - "hay\xE1is aprisionado"
+      - hayan aprisionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aprisionado
+      - hubieras aprisionado
+      - hubiera aprisionado
+      - "hubi\xE9ramos aprisionado"
+      - hubierais aprisionado
+      - hubieran aprisionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aprisionado
+      - hubieses aprisionado
+      - hubiese aprisionado
+      - "hubi\xE9semos aprisionado"
+      - hubieseis aprisionado
+      - hubiesen aprisionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aprisionado
+      - hubieres aprisionado
+      - hubiere aprisionado
+      - "hubi\xE9remos aprisionado"
+      - hubiereis aprisionado
+      - hubieren aprisionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aprisiona
+      - aprisione
+      - aprisionemos
+      - aprisionad
+      - aprisionen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disarm}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desmontar||} {bc}to {a_link|disassemble}, to {a_link|take apart}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: desarmar
+    prs:
+    - sound:
+        audio: desar01sp
+  meta:
+    id: desarmar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606857000'
+    src: spanish
+    stems:
+    - desarmar
+    uuid: d3df5f9e-b354-4300-ba39-6d6c6ea93f62
+  shortdef:
+  - to disarm
+  - 'desmontar : to disassemble, to take apart'
+  suppl:
+    cjts:
+    - cjfs:
+      - desarmando
+      - desarmado
+      cjid: gppt
+    - cjfs:
+      - desarmo
+      - desarmas
+      - desarma
+      - desarmamos
+      - "desarm\xE1is"
+      - desarman
+      cjid: pind
+    - cjfs:
+      - desarmaba
+      - desarmabas
+      - desarmaba
+      - "desarm\xE1bamos"
+      - desarmabais
+      - desarmaban
+      cjid: pret
+    - cjfs:
+      - "desarm\xE9"
+      - desarmaste
+      - "desarm\xF3"
+      - desarmamos
+      - desarmasteis
+      - desarmaron
+      cjid: pprf
+    - cjfs:
+      - "desarmar\xE9"
+      - "desarmar\xE1s"
+      - "desarmar\xE1"
+      - desarmaremos
+      - "desarmar\xE9is"
+      - "desarmar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desarmar\xEDa"
+      - "desarmar\xEDas"
+      - "desarmar\xEDa"
+      - "desarmar\xEDamos"
+      - "desarmar\xEDais"
+      - "desarmar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desarme
+      - desarmes
+      - desarme
+      - desarmemos
+      - "desarm\xE9is"
+      - desarmen
+      cjid: psub
+    - cjfs:
+      - desarmara
+      - desarmaras
+      - desarmara
+      - "desarm\xE1ramos"
+      - desarmarais
+      - desarmaran
+      cjid: pisb1
+    - cjfs:
+      - desarmase
+      - desarmases
+      - desarmase
+      - "desarm\xE1semos"
+      - desarmaseis
+      - desarmasen
+      cjid: pisb2
+    - cjfs:
+      - desarmare
+      - desarmares
+      - desarmare
+      - "desarm\xE1remos"
+      - desarmareis
+      - desarmaren
+      cjid: fsub
+    - cjfs:
+      - he desarmado
+      - has desarmado
+      - ha desarmado
+      - hemos desarmado
+      - "hab\xE9is desarmado"
+      - han desarmado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desarmado"
+      - "hab\xEDas desarmado"
+      - "hab\xEDa desarmado"
+      - "hab\xEDamos desarmado"
+      - "hab\xEDais desarmado"
+      - "hab\xEDan desarmado"
+      cjid: ppsi
+    - cjfs:
+      - hube desarmado
+      - hubiste desarmado
+      - hubo desarmado
+      - hubimos desarmado
+      - hubisteis desarmado
+      - hubieron desarmado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desarmado"
+      - "habr\xE1s desarmado"
+      - "habr\xE1 desarmado"
+      - habremos desarmado
+      - "habr\xE9is desarmado"
+      - "habr\xE1n desarmado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desarmado"
+      - "habr\xEDas desarmado"
+      - "habr\xEDa desarmado"
+      - "habr\xEDamos desarmado"
+      - "habr\xEDais desarmado"
+      - "habr\xEDan desarmado"
+      cjid: cpef
+    - cjfs:
+      - haya desarmado
+      - hayas desarmado
+      - haya desarmado
+      - hayamos desarmado
+      - "hay\xE1is desarmado"
+      - hayan desarmado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desarmado
+      - hubieras desarmado
+      - hubiera desarmado
+      - "hubi\xE9ramos desarmado"
+      - hubierais desarmado
+      - hubieran desarmado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desarmado
+      - hubieses desarmado
+      - hubiese desarmado
+      - "hubi\xE9semos desarmado"
+      - hubieseis desarmado
+      - hubiesen desarmado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desarmado
+      - hubieres desarmado
+      - hubiere desarmado
+      - "hubi\xE9remos desarmado"
+      - hubiereis desarmado
+      - hubieren desarmado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desarma
+      - desarme
+      - desarmemos
+      - desarmad
+      - desarmen
+      cjid: impf

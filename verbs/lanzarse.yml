@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|throw}, to {a_link|hurl}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pitch}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|launch}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to throw oneself (at, into)'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to embark upon, to {a_link|undertake}'
+            sn: '2'
+            vrs:
+            - va: lanzarse a
+              vac: ~ a
+    drp: lanzarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: lanzar
+    prs:
+    - sound:
+        audio: lanza04sp
+  meta:
+    id: lanzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613482000'
+    src: spanish
+    stems:
+    - lanzar
+    - lanzarse
+    - lanzarse a
+    uuid: e7252336-ce19-4265-afd1-a4d7c1a9d167
+  shortdef:
+  - to throw, to hurl
+  - to pitch
+  - to launch
+  suppl:
+    cjts:
+    - cjfs:
+      - lanzando
+      - lanzado
+      cjid: gppt
+    - cjfs:
+      - lanzo
+      - lanzas
+      - lanza
+      - lanzamos
+      - "lanz\xE1is"
+      - lanzan
+      cjid: pind
+    - cjfs:
+      - lanzaba
+      - lanzabas
+      - lanzaba
+      - "lanz\xE1bamos"
+      - lanzabais
+      - lanzaban
+      cjid: pret
+    - cjfs:
+      - "lanc\xE9"
+      - lanzaste
+      - "lanz\xF3"
+      - lanzamos
+      - lanzasteis
+      - lanzaron
+      cjid: pprf
+    - cjfs:
+      - "lanzar\xE9"
+      - "lanzar\xE1s"
+      - "lanzar\xE1"
+      - lanzaremos
+      - "lanzar\xE9is"
+      - "lanzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "lanzar\xEDa"
+      - "lanzar\xEDas"
+      - "lanzar\xEDa"
+      - "lanzar\xEDamos"
+      - "lanzar\xEDais"
+      - "lanzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - lance
+      - lances
+      - lance
+      - lancemos
+      - "lanc\xE9is"
+      - lancen
+      cjid: psub
+    - cjfs:
+      - lanzara
+      - lanzaras
+      - lanzara
+      - "lanz\xE1ramos"
+      - lanzarais
+      - lanzaran
+      cjid: pisb1
+    - cjfs:
+      - lanzase
+      - lanzases
+      - lanzase
+      - "lanz\xE1semos"
+      - lanzaseis
+      - lanzasen
+      cjid: pisb2
+    - cjfs:
+      - lanzare
+      - lanzares
+      - lanzare
+      - "lanz\xE1remos"
+      - lanzareis
+      - lanzaren
+      cjid: fsub
+    - cjfs:
+      - he lanzado
+      - has lanzado
+      - ha lanzado
+      - hemos lanzado
+      - "hab\xE9is lanzado"
+      - han lanzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa lanzado"
+      - "hab\xEDas lanzado"
+      - "hab\xEDa lanzado"
+      - "hab\xEDamos lanzado"
+      - "hab\xEDais lanzado"
+      - "hab\xEDan lanzado"
+      cjid: ppsi
+    - cjfs:
+      - hube lanzado
+      - hubiste lanzado
+      - hubo lanzado
+      - hubimos lanzado
+      - hubisteis lanzado
+      - hubieron lanzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 lanzado"
+      - "habr\xE1s lanzado"
+      - "habr\xE1 lanzado"
+      - habremos lanzado
+      - "habr\xE9is lanzado"
+      - "habr\xE1n lanzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa lanzado"
+      - "habr\xEDas lanzado"
+      - "habr\xEDa lanzado"
+      - "habr\xEDamos lanzado"
+      - "habr\xEDais lanzado"
+      - "habr\xEDan lanzado"
+      cjid: cpef
+    - cjfs:
+      - haya lanzado
+      - hayas lanzado
+      - haya lanzado
+      - hayamos lanzado
+      - "hay\xE1is lanzado"
+      - hayan lanzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera lanzado
+      - hubieras lanzado
+      - hubiera lanzado
+      - "hubi\xE9ramos lanzado"
+      - hubierais lanzado
+      - hubieran lanzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese lanzado
+      - hubieses lanzado
+      - hubiese lanzado
+      - "hubi\xE9semos lanzado"
+      - hubieseis lanzado
+      - hubiesen lanzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere lanzado
+      - hubieres lanzado
+      - hubiere lanzado
+      - "hubi\xE9remos lanzado"
+      - hubiereis lanzado
+      - hubieren lanzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - lanza
+      - lance
+      - lancemos
+      - lanzad
+      - lancen
+      cjid: impf

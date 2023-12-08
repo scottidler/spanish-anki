@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snooze}, to {a_link|doze}'
+  fl: intransitive verb
+  hwi:
+    hw: dormitar
+  meta:
+    id: dormitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607918000'
+    src: spanish
+    stems:
+    - dormitar
+    uuid: 6eb30f57-b20d-4b32-87c9-595b1d49e6e8
+  shortdef:
+  - to snooze, to doze
+  suppl:
+    cjts:
+    - cjfs:
+      - dormitando
+      - dormitado
+      cjid: gppt
+    - cjfs:
+      - dormito
+      - dormitas
+      - dormita
+      - dormitamos
+      - "dormit\xE1is"
+      - dormitan
+      cjid: pind
+    - cjfs:
+      - dormitaba
+      - dormitabas
+      - dormitaba
+      - "dormit\xE1bamos"
+      - dormitabais
+      - dormitaban
+      cjid: pret
+    - cjfs:
+      - "dormit\xE9"
+      - dormitaste
+      - "dormit\xF3"
+      - dormitamos
+      - dormitasteis
+      - dormitaron
+      cjid: pprf
+    - cjfs:
+      - "dormitar\xE9"
+      - "dormitar\xE1s"
+      - "dormitar\xE1"
+      - dormitaremos
+      - "dormitar\xE9is"
+      - "dormitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dormitar\xEDa"
+      - "dormitar\xEDas"
+      - "dormitar\xEDa"
+      - "dormitar\xEDamos"
+      - "dormitar\xEDais"
+      - "dormitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - dormite
+      - dormites
+      - dormite
+      - dormitemos
+      - "dormit\xE9is"
+      - dormiten
+      cjid: psub
+    - cjfs:
+      - dormitara
+      - dormitaras
+      - dormitara
+      - "dormit\xE1ramos"
+      - dormitarais
+      - dormitaran
+      cjid: pisb1
+    - cjfs:
+      - dormitase
+      - dormitases
+      - dormitase
+      - "dormit\xE1semos"
+      - dormitaseis
+      - dormitasen
+      cjid: pisb2
+    - cjfs:
+      - dormitare
+      - dormitares
+      - dormitare
+      - "dormit\xE1remos"
+      - dormitareis
+      - dormitaren
+      cjid: fsub
+    - cjfs:
+      - he dormitado
+      - has dormitado
+      - ha dormitado
+      - hemos dormitado
+      - "hab\xE9is dormitado"
+      - han dormitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dormitado"
+      - "hab\xEDas dormitado"
+      - "hab\xEDa dormitado"
+      - "hab\xEDamos dormitado"
+      - "hab\xEDais dormitado"
+      - "hab\xEDan dormitado"
+      cjid: ppsi
+    - cjfs:
+      - hube dormitado
+      - hubiste dormitado
+      - hubo dormitado
+      - hubimos dormitado
+      - hubisteis dormitado
+      - hubieron dormitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dormitado"
+      - "habr\xE1s dormitado"
+      - "habr\xE1 dormitado"
+      - habremos dormitado
+      - "habr\xE9is dormitado"
+      - "habr\xE1n dormitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dormitado"
+      - "habr\xEDas dormitado"
+      - "habr\xEDa dormitado"
+      - "habr\xEDamos dormitado"
+      - "habr\xEDais dormitado"
+      - "habr\xEDan dormitado"
+      cjid: cpef
+    - cjfs:
+      - haya dormitado
+      - hayas dormitado
+      - haya dormitado
+      - hayamos dormitado
+      - "hay\xE1is dormitado"
+      - hayan dormitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dormitado
+      - hubieras dormitado
+      - hubiera dormitado
+      - "hubi\xE9ramos dormitado"
+      - hubierais dormitado
+      - hubieran dormitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dormitado
+      - hubieses dormitado
+      - hubiese dormitado
+      - "hubi\xE9semos dormitado"
+      - hubieseis dormitado
+      - hubiesen dormitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dormitado
+      - hubieres dormitado
+      - hubiere dormitado
+      - "hubi\xE9remos dormitado"
+      - hubiereis dormitado
+      - hubieren dormitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dormita
+      - dormite
+      - dormitemos
+      - dormitad
+      - dormiten
+      cjid: impf

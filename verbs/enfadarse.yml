@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|annoy}, to make angry'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get angry, to get annoyed'
+    drp: enfadarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enfadar
+    prs:
+    - sound:
+        audio: enfad01sp
+  meta:
+    id: enfadar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608545000'
+    src: spanish
+    stems:
+    - enfadar
+    - enfadarse
+    uuid: ed345b90-b458-4cf3-a03b-3c40f4489e50
+  shortdef:
+  - to annoy, to make angry
+  suppl:
+    cjts:
+    - cjfs:
+      - enfadando
+      - enfadado
+      cjid: gppt
+    - cjfs:
+      - enfado
+      - enfadas
+      - enfada
+      - enfadamos
+      - "enfad\xE1is"
+      - enfadan
+      cjid: pind
+    - cjfs:
+      - enfadaba
+      - enfadabas
+      - enfadaba
+      - "enfad\xE1bamos"
+      - enfadabais
+      - enfadaban
+      cjid: pret
+    - cjfs:
+      - "enfad\xE9"
+      - enfadaste
+      - "enfad\xF3"
+      - enfadamos
+      - enfadasteis
+      - enfadaron
+      cjid: pprf
+    - cjfs:
+      - "enfadar\xE9"
+      - "enfadar\xE1s"
+      - "enfadar\xE1"
+      - enfadaremos
+      - "enfadar\xE9is"
+      - "enfadar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enfadar\xEDa"
+      - "enfadar\xEDas"
+      - "enfadar\xEDa"
+      - "enfadar\xEDamos"
+      - "enfadar\xEDais"
+      - "enfadar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enfade
+      - enfades
+      - enfade
+      - enfademos
+      - "enfad\xE9is"
+      - enfaden
+      cjid: psub
+    - cjfs:
+      - enfadara
+      - enfadaras
+      - enfadara
+      - "enfad\xE1ramos"
+      - enfadarais
+      - enfadaran
+      cjid: pisb1
+    - cjfs:
+      - enfadase
+      - enfadases
+      - enfadase
+      - "enfad\xE1semos"
+      - enfadaseis
+      - enfadasen
+      cjid: pisb2
+    - cjfs:
+      - enfadare
+      - enfadares
+      - enfadare
+      - "enfad\xE1remos"
+      - enfadareis
+      - enfadaren
+      cjid: fsub
+    - cjfs:
+      - he enfadado
+      - has enfadado
+      - ha enfadado
+      - hemos enfadado
+      - "hab\xE9is enfadado"
+      - han enfadado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enfadado"
+      - "hab\xEDas enfadado"
+      - "hab\xEDa enfadado"
+      - "hab\xEDamos enfadado"
+      - "hab\xEDais enfadado"
+      - "hab\xEDan enfadado"
+      cjid: ppsi
+    - cjfs:
+      - hube enfadado
+      - hubiste enfadado
+      - hubo enfadado
+      - hubimos enfadado
+      - hubisteis enfadado
+      - hubieron enfadado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enfadado"
+      - "habr\xE1s enfadado"
+      - "habr\xE1 enfadado"
+      - habremos enfadado
+      - "habr\xE9is enfadado"
+      - "habr\xE1n enfadado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enfadado"
+      - "habr\xEDas enfadado"
+      - "habr\xEDa enfadado"
+      - "habr\xEDamos enfadado"
+      - "habr\xEDais enfadado"
+      - "habr\xEDan enfadado"
+      cjid: cpef
+    - cjfs:
+      - haya enfadado
+      - hayas enfadado
+      - haya enfadado
+      - hayamos enfadado
+      - "hay\xE1is enfadado"
+      - hayan enfadado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enfadado
+      - hubieras enfadado
+      - hubiera enfadado
+      - "hubi\xE9ramos enfadado"
+      - hubierais enfadado
+      - hubieran enfadado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enfadado
+      - hubieses enfadado
+      - hubiese enfadado
+      - "hubi\xE9semos enfadado"
+      - hubieseis enfadado
+      - hubiesen enfadado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enfadado
+      - hubieres enfadado
+      - hubiere enfadado
+      - "hubi\xE9remos enfadado"
+      - hubiereis enfadado
+      - hubieren enfadado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enfada
+      - enfade
+      - enfademos
+      - enfadad
+      - enfaden
+      cjid: impf

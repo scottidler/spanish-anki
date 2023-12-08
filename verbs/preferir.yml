@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prefer} '
+          - - vis
+            - - t: prefiero ir
+                tr: I'd rather go
+              - t: prefiero que no vayas
+                tr: I'd rather (that) you didn't go
+              - t: "prefiero \xE9ste a \xE9se"
+                tr: I prefer this one to/over that one
+  fl: transitive verb
+  hwi:
+    hw: preferir
+    prs:
+    - sound:
+        audio: prefe07sp
+  meta:
+    id: preferir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617959000'
+    src: spanish
+    stems:
+    - preferir
+    uuid: f7aec9c6-cfdb-4900-b499-ea470cd0c3fb
+  shortdef:
+  - to prefer
+  suppl:
+    cjts:
+    - cjfs:
+      - prefiriendo
+      - preferido
+      cjid: gppt
+    - cjfs:
+      - prefiero
+      - prefieres
+      - prefiere
+      - preferimos
+      - "prefer\xEDs"
+      - prefieren
+      cjid: pind
+    - cjfs:
+      - "prefer\xEDa"
+      - "prefer\xEDas"
+      - "prefer\xEDa"
+      - "prefer\xEDamos"
+      - "prefer\xEDais"
+      - "prefer\xEDan"
+      cjid: pret
+    - cjfs:
+      - "prefer\xED"
+      - preferiste
+      - "prefiri\xF3"
+      - preferimos
+      - preferisteis
+      - prefirieron
+      cjid: pprf
+    - cjfs:
+      - "preferir\xE9"
+      - "preferir\xE1s"
+      - "preferir\xE1"
+      - preferiremos
+      - "preferir\xE9is"
+      - "preferir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "preferir\xEDa"
+      - "preferir\xEDas"
+      - "preferir\xEDa"
+      - "preferir\xEDamos"
+      - "preferir\xEDais"
+      - "preferir\xEDan"
+      cjid: cond
+    - cjfs:
+      - prefiera
+      - prefieras
+      - prefiera
+      - prefiramos
+      - "prefir\xE1is"
+      - prefieran
+      cjid: psub
+    - cjfs:
+      - prefiriera
+      - prefirieras
+      - prefiriera
+      - "prefiri\xE9ramos"
+      - prefirierais
+      - prefirieran
+      cjid: pisb1
+    - cjfs:
+      - prefiriese
+      - prefirieses
+      - prefiriese
+      - "prefiri\xE9semos"
+      - prefirieseis
+      - prefiriesen
+      cjid: pisb2
+    - cjfs:
+      - prefiriere
+      - prefirieres
+      - prefiriere
+      - "prefiri\xE9remos"
+      - prefiriereis
+      - prefirieren
+      cjid: fsub
+    - cjfs:
+      - he preferido
+      - has preferido
+      - ha preferido
+      - hemos preferido
+      - "hab\xE9is preferido"
+      - han preferido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa preferido"
+      - "hab\xEDas preferido"
+      - "hab\xEDa preferido"
+      - "hab\xEDamos preferido"
+      - "hab\xEDais preferido"
+      - "hab\xEDan preferido"
+      cjid: ppsi
+    - cjfs:
+      - hube preferido
+      - hubiste preferido
+      - hubo preferido
+      - hubimos preferido
+      - hubisteis preferido
+      - hubieron preferido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 preferido"
+      - "habr\xE1s preferido"
+      - "habr\xE1 preferido"
+      - habremos preferido
+      - "habr\xE9is preferido"
+      - "habr\xE1n preferido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa preferido"
+      - "habr\xEDas preferido"
+      - "habr\xEDa preferido"
+      - "habr\xEDamos preferido"
+      - "habr\xEDais preferido"
+      - "habr\xEDan preferido"
+      cjid: cpef
+    - cjfs:
+      - haya preferido
+      - hayas preferido
+      - haya preferido
+      - hayamos preferido
+      - "hay\xE1is preferido"
+      - hayan preferido
+      cjid: ppfs
+    - cjfs:
+      - hubiera preferido
+      - hubieras preferido
+      - hubiera preferido
+      - "hubi\xE9ramos preferido"
+      - hubierais preferido
+      - hubieran preferido
+      cjid: ppss1
+    - cjfs:
+      - hubiese preferido
+      - hubieses preferido
+      - hubiese preferido
+      - "hubi\xE9semos preferido"
+      - hubieseis preferido
+      - hubiesen preferido
+      cjid: ppss2
+    - cjfs:
+      - hubiere preferido
+      - hubieres preferido
+      - hubiere preferido
+      - "hubi\xE9remos preferido"
+      - hubiereis preferido
+      - hubieren preferido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prefiere
+      - prefiera
+      - prefiramos
+      - preferid
+      - prefieran
+      cjid: impf

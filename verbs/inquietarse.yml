@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|preocupar||} {bc}to {a_link|disturb}, to {a_link|upset}, to {a_link|worry}'
+  fl: transitive verb
+  hwi:
+    hw: inquietar
+    prs:
+    - sound:
+        audio: inqui02sp
+  meta:
+    id: inquietar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612651000'
+    src: spanish
+    stems:
+    - inquietar
+    - inquietarse
+    uuid: c8e3bc56-6d68-4527-802d-ba9c9a5f4eba
+  shortdef:
+  - 'preocupar : to disturb, to upset, to worry'
+  suppl:
+    cjts:
+    - cjfs:
+      - inquietando
+      - inquietado
+      cjid: gppt
+    - cjfs:
+      - inquieto
+      - inquietas
+      - inquieta
+      - inquietamos
+      - "inquiet\xE1is"
+      - inquietan
+      cjid: pind
+    - cjfs:
+      - inquietaba
+      - inquietabas
+      - inquietaba
+      - "inquiet\xE1bamos"
+      - inquietabais
+      - inquietaban
+      cjid: pret
+    - cjfs:
+      - "inquiet\xE9"
+      - inquietaste
+      - "inquiet\xF3"
+      - inquietamos
+      - inquietasteis
+      - inquietaron
+      cjid: pprf
+    - cjfs:
+      - "inquietar\xE9"
+      - "inquietar\xE1s"
+      - "inquietar\xE1"
+      - inquietaremos
+      - "inquietar\xE9is"
+      - "inquietar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inquietar\xEDa"
+      - "inquietar\xEDas"
+      - "inquietar\xEDa"
+      - "inquietar\xEDamos"
+      - "inquietar\xEDais"
+      - "inquietar\xEDan"
+      cjid: cond
+    - cjfs:
+      - inquiete
+      - inquietes
+      - inquiete
+      - inquietemos
+      - "inquiet\xE9is"
+      - inquieten
+      cjid: psub
+    - cjfs:
+      - inquietara
+      - inquietaras
+      - inquietara
+      - "inquiet\xE1ramos"
+      - inquietarais
+      - inquietaran
+      cjid: pisb1
+    - cjfs:
+      - inquietase
+      - inquietases
+      - inquietase
+      - "inquiet\xE1semos"
+      - inquietaseis
+      - inquietasen
+      cjid: pisb2
+    - cjfs:
+      - inquietare
+      - inquietares
+      - inquietare
+      - "inquiet\xE1remos"
+      - inquietareis
+      - inquietaren
+      cjid: fsub
+    - cjfs:
+      - he inquietado
+      - has inquietado
+      - ha inquietado
+      - hemos inquietado
+      - "hab\xE9is inquietado"
+      - han inquietado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inquietado"
+      - "hab\xEDas inquietado"
+      - "hab\xEDa inquietado"
+      - "hab\xEDamos inquietado"
+      - "hab\xEDais inquietado"
+      - "hab\xEDan inquietado"
+      cjid: ppsi
+    - cjfs:
+      - hube inquietado
+      - hubiste inquietado
+      - hubo inquietado
+      - hubimos inquietado
+      - hubisteis inquietado
+      - hubieron inquietado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inquietado"
+      - "habr\xE1s inquietado"
+      - "habr\xE1 inquietado"
+      - habremos inquietado
+      - "habr\xE9is inquietado"
+      - "habr\xE1n inquietado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inquietado"
+      - "habr\xEDas inquietado"
+      - "habr\xEDa inquietado"
+      - "habr\xEDamos inquietado"
+      - "habr\xEDais inquietado"
+      - "habr\xEDan inquietado"
+      cjid: cpef
+    - cjfs:
+      - haya inquietado
+      - hayas inquietado
+      - haya inquietado
+      - hayamos inquietado
+      - "hay\xE1is inquietado"
+      - hayan inquietado
+      cjid: ppfs
+    - cjfs:
+      - hubiera inquietado
+      - hubieras inquietado
+      - hubiera inquietado
+      - "hubi\xE9ramos inquietado"
+      - hubierais inquietado
+      - hubieran inquietado
+      cjid: ppss1
+    - cjfs:
+      - hubiese inquietado
+      - hubieses inquietado
+      - hubiese inquietado
+      - "hubi\xE9semos inquietado"
+      - hubieseis inquietado
+      - hubiesen inquietado
+      cjid: ppss2
+    - cjfs:
+      - hubiere inquietado
+      - hubieres inquietado
+      - hubiere inquietado
+      - "hubi\xE9remos inquietado"
+      - hubiereis inquietado
+      - hubieren inquietado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inquieta
+      - inquiete
+      - inquietemos
+      - inquietad
+      - inquieten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: inquietarse

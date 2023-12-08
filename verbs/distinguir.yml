@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|distinguish}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|honor}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|characterize}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: distinguir
+    prs:
+    - sound:
+        audio: disti02sp
+  meta:
+    id: distinguir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607771000'
+    src: spanish
+    stems:
+    - distinguir
+    - distinguirse
+    uuid: 8bd1c92f-f61f-49c0-8b74-4e97c143ea25
+  shortdef:
+  - to distinguish
+  - to honor
+  - to characterize
+  suppl:
+    cjts:
+    - cjfs:
+      - distinguiendo
+      - distinguido
+      cjid: gppt
+    - cjfs:
+      - distingo
+      - distingues
+      - distingue
+      - distinguimos
+      - "distingu\xEDs"
+      - distinguen
+      cjid: pind
+    - cjfs:
+      - "distingu\xEDa"
+      - "distingu\xEDas"
+      - "distingu\xEDa"
+      - "distingu\xEDamos"
+      - "distingu\xEDais"
+      - "distingu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "distingu\xED"
+      - distinguiste
+      - "distingui\xF3"
+      - distinguimos
+      - distinguisteis
+      - distinguieron
+      cjid: pprf
+    - cjfs:
+      - "distinguir\xE9"
+      - "distinguir\xE1s"
+      - "distinguir\xE1"
+      - distinguiremos
+      - "distinguir\xE9is"
+      - "distinguir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "distinguir\xEDa"
+      - "distinguir\xEDas"
+      - "distinguir\xEDa"
+      - "distinguir\xEDamos"
+      - "distinguir\xEDais"
+      - "distinguir\xEDan"
+      cjid: cond
+    - cjfs:
+      - distinga
+      - distingas
+      - distinga
+      - distingamos
+      - "disting\xE1is"
+      - distingan
+      cjid: psub
+    - cjfs:
+      - distinguiera
+      - distinguieras
+      - distinguiera
+      - "distingui\xE9ramos"
+      - distinguierais
+      - distinguieran
+      cjid: pisb1
+    - cjfs:
+      - distinguiese
+      - distinguieses
+      - distinguiese
+      - "distingui\xE9semos"
+      - distinguieseis
+      - distinguiesen
+      cjid: pisb2
+    - cjfs:
+      - distinguiere
+      - distinguieres
+      - distinguiere
+      - "distingui\xE9remos"
+      - distinguiereis
+      - distinguieren
+      cjid: fsub
+    - cjfs:
+      - he distinguido
+      - has distinguido
+      - ha distinguido
+      - hemos distinguido
+      - "hab\xE9is distinguido"
+      - han distinguido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa distinguido"
+      - "hab\xEDas distinguido"
+      - "hab\xEDa distinguido"
+      - "hab\xEDamos distinguido"
+      - "hab\xEDais distinguido"
+      - "hab\xEDan distinguido"
+      cjid: ppsi
+    - cjfs:
+      - hube distinguido
+      - hubiste distinguido
+      - hubo distinguido
+      - hubimos distinguido
+      - hubisteis distinguido
+      - hubieron distinguido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 distinguido"
+      - "habr\xE1s distinguido"
+      - "habr\xE1 distinguido"
+      - habremos distinguido
+      - "habr\xE9is distinguido"
+      - "habr\xE1n distinguido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa distinguido"
+      - "habr\xEDas distinguido"
+      - "habr\xEDa distinguido"
+      - "habr\xEDamos distinguido"
+      - "habr\xEDais distinguido"
+      - "habr\xEDan distinguido"
+      cjid: cpef
+    - cjfs:
+      - haya distinguido
+      - hayas distinguido
+      - haya distinguido
+      - hayamos distinguido
+      - "hay\xE1is distinguido"
+      - hayan distinguido
+      cjid: ppfs
+    - cjfs:
+      - hubiera distinguido
+      - hubieras distinguido
+      - hubiera distinguido
+      - "hubi\xE9ramos distinguido"
+      - hubierais distinguido
+      - hubieran distinguido
+      cjid: ppss1
+    - cjfs:
+      - hubiese distinguido
+      - hubieses distinguido
+      - hubiese distinguido
+      - "hubi\xE9semos distinguido"
+      - hubieseis distinguido
+      - hubiesen distinguido
+      cjid: ppss2
+    - cjfs:
+      - hubiere distinguido
+      - hubieres distinguido
+      - hubiere distinguido
+      - "hubi\xE9remos distinguido"
+      - hubiereis distinguido
+      - hubieren distinguido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - distingue
+      - distinga
+      - distingamos
+      - distinguid
+      - distingan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: distinguirse

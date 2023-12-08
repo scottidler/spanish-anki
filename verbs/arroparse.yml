@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clothe}, to {a_link|cover} (up)'
+  fl: transitive verb
+  hwi:
+    hw: arropar
+  meta:
+    id: arropar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602039000'
+    src: spanish
+    stems:
+    - arropar
+    - arroparse
+    uuid: 74c378e4-164e-4683-9106-8db2bafd72e8
+  shortdef:
+  - to clothe, to cover (up)
+  suppl:
+    cjts:
+    - cjfs:
+      - arropando
+      - arropado
+      cjid: gppt
+    - cjfs:
+      - arropo
+      - arropas
+      - arropa
+      - arropamos
+      - "arrop\xE1is"
+      - arropan
+      cjid: pind
+    - cjfs:
+      - arropaba
+      - arropabas
+      - arropaba
+      - "arrop\xE1bamos"
+      - arropabais
+      - arropaban
+      cjid: pret
+    - cjfs:
+      - "arrop\xE9"
+      - arropaste
+      - "arrop\xF3"
+      - arropamos
+      - arropasteis
+      - arroparon
+      cjid: pprf
+    - cjfs:
+      - "arropar\xE9"
+      - "arropar\xE1s"
+      - "arropar\xE1"
+      - arroparemos
+      - "arropar\xE9is"
+      - "arropar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arropar\xEDa"
+      - "arropar\xEDas"
+      - "arropar\xEDa"
+      - "arropar\xEDamos"
+      - "arropar\xEDais"
+      - "arropar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arrope
+      - arropes
+      - arrope
+      - arropemos
+      - "arrop\xE9is"
+      - arropen
+      cjid: psub
+    - cjfs:
+      - arropara
+      - arroparas
+      - arropara
+      - "arrop\xE1ramos"
+      - arroparais
+      - arroparan
+      cjid: pisb1
+    - cjfs:
+      - arropase
+      - arropases
+      - arropase
+      - "arrop\xE1semos"
+      - arropaseis
+      - arropasen
+      cjid: pisb2
+    - cjfs:
+      - arropare
+      - arropares
+      - arropare
+      - "arrop\xE1remos"
+      - arropareis
+      - arroparen
+      cjid: fsub
+    - cjfs:
+      - he arropado
+      - has arropado
+      - ha arropado
+      - hemos arropado
+      - "hab\xE9is arropado"
+      - han arropado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arropado"
+      - "hab\xEDas arropado"
+      - "hab\xEDa arropado"
+      - "hab\xEDamos arropado"
+      - "hab\xEDais arropado"
+      - "hab\xEDan arropado"
+      cjid: ppsi
+    - cjfs:
+      - hube arropado
+      - hubiste arropado
+      - hubo arropado
+      - hubimos arropado
+      - hubisteis arropado
+      - hubieron arropado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arropado"
+      - "habr\xE1s arropado"
+      - "habr\xE1 arropado"
+      - habremos arropado
+      - "habr\xE9is arropado"
+      - "habr\xE1n arropado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arropado"
+      - "habr\xEDas arropado"
+      - "habr\xEDa arropado"
+      - "habr\xEDamos arropado"
+      - "habr\xEDais arropado"
+      - "habr\xEDan arropado"
+      cjid: cpef
+    - cjfs:
+      - haya arropado
+      - hayas arropado
+      - haya arropado
+      - hayamos arropado
+      - "hay\xE1is arropado"
+      - hayan arropado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arropado
+      - hubieras arropado
+      - hubiera arropado
+      - "hubi\xE9ramos arropado"
+      - hubierais arropado
+      - hubieran arropado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arropado
+      - hubieses arropado
+      - hubiese arropado
+      - "hubi\xE9semos arropado"
+      - hubieseis arropado
+      - hubiesen arropado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arropado
+      - hubieres arropado
+      - hubiere arropado
+      - "hubi\xE9remos arropado"
+      - hubiereis arropado
+      - hubieren arropado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arropa
+      - arrope
+      - arropemos
+      - arropad
+      - arropen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: arroparse

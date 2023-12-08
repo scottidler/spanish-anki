@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|preserve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|guardar||} {bc}to {a_link|keep}, to {a_link|conserve}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: conservar
+    prs:
+    - sound:
+        audio: conse14sp
+  meta:
+    id: conservar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605584000'
+    src: spanish
+    stems:
+    - conservar
+    uuid: 90a6b231-5afd-453d-81f8-a6efdeb1f01d
+  shortdef:
+  - to preserve
+  - 'guardar : to keep, to conserve'
+  suppl:
+    cjts:
+    - cjfs:
+      - conservando
+      - conservado
+      cjid: gppt
+    - cjfs:
+      - conservo
+      - conservas
+      - conserva
+      - conservamos
+      - "conserv\xE1is"
+      - conservan
+      cjid: pind
+    - cjfs:
+      - conservaba
+      - conservabas
+      - conservaba
+      - "conserv\xE1bamos"
+      - conservabais
+      - conservaban
+      cjid: pret
+    - cjfs:
+      - "conserv\xE9"
+      - conservaste
+      - "conserv\xF3"
+      - conservamos
+      - conservasteis
+      - conservaron
+      cjid: pprf
+    - cjfs:
+      - "conservar\xE9"
+      - "conservar\xE1s"
+      - "conservar\xE1"
+      - conservaremos
+      - "conservar\xE9is"
+      - "conservar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "conservar\xEDa"
+      - "conservar\xEDas"
+      - "conservar\xEDa"
+      - "conservar\xEDamos"
+      - "conservar\xEDais"
+      - "conservar\xEDan"
+      cjid: cond
+    - cjfs:
+      - conserve
+      - conserves
+      - conserve
+      - conservemos
+      - "conserv\xE9is"
+      - conserven
+      cjid: psub
+    - cjfs:
+      - conservara
+      - conservaras
+      - conservara
+      - "conserv\xE1ramos"
+      - conservarais
+      - conservaran
+      cjid: pisb1
+    - cjfs:
+      - conservase
+      - conservases
+      - conservase
+      - "conserv\xE1semos"
+      - conservaseis
+      - conservasen
+      cjid: pisb2
+    - cjfs:
+      - conservare
+      - conservares
+      - conservare
+      - "conserv\xE1remos"
+      - conservareis
+      - conservaren
+      cjid: fsub
+    - cjfs:
+      - he conservado
+      - has conservado
+      - ha conservado
+      - hemos conservado
+      - "hab\xE9is conservado"
+      - han conservado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa conservado"
+      - "hab\xEDas conservado"
+      - "hab\xEDa conservado"
+      - "hab\xEDamos conservado"
+      - "hab\xEDais conservado"
+      - "hab\xEDan conservado"
+      cjid: ppsi
+    - cjfs:
+      - hube conservado
+      - hubiste conservado
+      - hubo conservado
+      - hubimos conservado
+      - hubisteis conservado
+      - hubieron conservado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 conservado"
+      - "habr\xE1s conservado"
+      - "habr\xE1 conservado"
+      - habremos conservado
+      - "habr\xE9is conservado"
+      - "habr\xE1n conservado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa conservado"
+      - "habr\xEDas conservado"
+      - "habr\xEDa conservado"
+      - "habr\xEDamos conservado"
+      - "habr\xEDais conservado"
+      - "habr\xEDan conservado"
+      cjid: cpef
+    - cjfs:
+      - haya conservado
+      - hayas conservado
+      - haya conservado
+      - hayamos conservado
+      - "hay\xE1is conservado"
+      - hayan conservado
+      cjid: ppfs
+    - cjfs:
+      - hubiera conservado
+      - hubieras conservado
+      - hubiera conservado
+      - "hubi\xE9ramos conservado"
+      - hubierais conservado
+      - hubieran conservado
+      cjid: ppss1
+    - cjfs:
+      - hubiese conservado
+      - hubieses conservado
+      - hubiese conservado
+      - "hubi\xE9semos conservado"
+      - hubieseis conservado
+      - hubiesen conservado
+      cjid: ppss2
+    - cjfs:
+      - hubiere conservado
+      - hubieres conservado
+      - hubiere conservado
+      - "hubi\xE9remos conservado"
+      - hubiereis conservado
+      - hubieren conservado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - conserva
+      - conserve
+      - conservemos
+      - conservad
+      - conserven
+      cjid: impf

@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tense}, to make taut'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw} (a bow)'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become tense'
+    drp: tensarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tensar
+  meta:
+    id: tensar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621670000'
+    src: spanish
+    stems:
+    - tensar
+    - tensarse
+    uuid: 21aac4f7-5d2f-4eca-b534-ccd80d261270
+  shortdef:
+  - to tense, to make taut
+  - to draw (a bow)
+  suppl:
+    cjts:
+    - cjfs:
+      - tensando
+      - tensado
+      cjid: gppt
+    - cjfs:
+      - tenso
+      - tensas
+      - tensa
+      - tensamos
+      - "tens\xE1is"
+      - tensan
+      cjid: pind
+    - cjfs:
+      - tensaba
+      - tensabas
+      - tensaba
+      - "tens\xE1bamos"
+      - tensabais
+      - tensaban
+      cjid: pret
+    - cjfs:
+      - "tens\xE9"
+      - tensaste
+      - "tens\xF3"
+      - tensamos
+      - tensasteis
+      - tensaron
+      cjid: pprf
+    - cjfs:
+      - "tensar\xE9"
+      - "tensar\xE1s"
+      - "tensar\xE1"
+      - tensaremos
+      - "tensar\xE9is"
+      - "tensar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tensar\xEDa"
+      - "tensar\xEDas"
+      - "tensar\xEDa"
+      - "tensar\xEDamos"
+      - "tensar\xEDais"
+      - "tensar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tense
+      - tenses
+      - tense
+      - tensemos
+      - "tens\xE9is"
+      - tensen
+      cjid: psub
+    - cjfs:
+      - tensara
+      - tensaras
+      - tensara
+      - "tens\xE1ramos"
+      - tensarais
+      - tensaran
+      cjid: pisb1
+    - cjfs:
+      - tensase
+      - tensases
+      - tensase
+      - "tens\xE1semos"
+      - tensaseis
+      - tensasen
+      cjid: pisb2
+    - cjfs:
+      - tensare
+      - tensares
+      - tensare
+      - "tens\xE1remos"
+      - tensareis
+      - tensaren
+      cjid: fsub
+    - cjfs:
+      - he tensado
+      - has tensado
+      - ha tensado
+      - hemos tensado
+      - "hab\xE9is tensado"
+      - han tensado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tensado"
+      - "hab\xEDas tensado"
+      - "hab\xEDa tensado"
+      - "hab\xEDamos tensado"
+      - "hab\xEDais tensado"
+      - "hab\xEDan tensado"
+      cjid: ppsi
+    - cjfs:
+      - hube tensado
+      - hubiste tensado
+      - hubo tensado
+      - hubimos tensado
+      - hubisteis tensado
+      - hubieron tensado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tensado"
+      - "habr\xE1s tensado"
+      - "habr\xE1 tensado"
+      - habremos tensado
+      - "habr\xE9is tensado"
+      - "habr\xE1n tensado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tensado"
+      - "habr\xEDas tensado"
+      - "habr\xEDa tensado"
+      - "habr\xEDamos tensado"
+      - "habr\xEDais tensado"
+      - "habr\xEDan tensado"
+      cjid: cpef
+    - cjfs:
+      - haya tensado
+      - hayas tensado
+      - haya tensado
+      - hayamos tensado
+      - "hay\xE1is tensado"
+      - hayan tensado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tensado
+      - hubieras tensado
+      - hubiera tensado
+      - "hubi\xE9ramos tensado"
+      - hubierais tensado
+      - hubieran tensado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tensado
+      - hubieses tensado
+      - hubiese tensado
+      - "hubi\xE9semos tensado"
+      - hubieseis tensado
+      - hubiesen tensado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tensado
+      - hubieres tensado
+      - hubiere tensado
+      - "hubi\xE9remos tensado"
+      - hubiereis tensado
+      - hubieren tensado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tensa
+      - tense
+      - tensemos
+      - tensad
+      - tensen
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|adornar||} {bc}to {a_link|decorate}, to {a_link|adorn}'
+  fl: transitive verb
+  hwi:
+    hw: decorar
+  meta:
+    id: decorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606530000'
+    src: spanish
+    stems:
+    - decorar
+    uuid: ba602105-f9c1-44ce-b6c3-8aab907c5fbd
+  shortdef:
+  - 'adornar : to decorate, to adorn'
+  suppl:
+    cjts:
+    - cjfs:
+      - decorando
+      - decorado
+      cjid: gppt
+    - cjfs:
+      - decoro
+      - decoras
+      - decora
+      - decoramos
+      - "decor\xE1is"
+      - decoran
+      cjid: pind
+    - cjfs:
+      - decoraba
+      - decorabas
+      - decoraba
+      - "decor\xE1bamos"
+      - decorabais
+      - decoraban
+      cjid: pret
+    - cjfs:
+      - "decor\xE9"
+      - decoraste
+      - "decor\xF3"
+      - decoramos
+      - decorasteis
+      - decoraron
+      cjid: pprf
+    - cjfs:
+      - "decorar\xE9"
+      - "decorar\xE1s"
+      - "decorar\xE1"
+      - decoraremos
+      - "decorar\xE9is"
+      - "decorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "decorar\xEDa"
+      - "decorar\xEDas"
+      - "decorar\xEDa"
+      - "decorar\xEDamos"
+      - "decorar\xEDais"
+      - "decorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - decore
+      - decores
+      - decore
+      - decoremos
+      - "decor\xE9is"
+      - decoren
+      cjid: psub
+    - cjfs:
+      - decorara
+      - decoraras
+      - decorara
+      - "decor\xE1ramos"
+      - decorarais
+      - decoraran
+      cjid: pisb1
+    - cjfs:
+      - decorase
+      - decorases
+      - decorase
+      - "decor\xE1semos"
+      - decoraseis
+      - decorasen
+      cjid: pisb2
+    - cjfs:
+      - decorare
+      - decorares
+      - decorare
+      - "decor\xE1remos"
+      - decorareis
+      - decoraren
+      cjid: fsub
+    - cjfs:
+      - he decorado
+      - has decorado
+      - ha decorado
+      - hemos decorado
+      - "hab\xE9is decorado"
+      - han decorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa decorado"
+      - "hab\xEDas decorado"
+      - "hab\xEDa decorado"
+      - "hab\xEDamos decorado"
+      - "hab\xEDais decorado"
+      - "hab\xEDan decorado"
+      cjid: ppsi
+    - cjfs:
+      - hube decorado
+      - hubiste decorado
+      - hubo decorado
+      - hubimos decorado
+      - hubisteis decorado
+      - hubieron decorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 decorado"
+      - "habr\xE1s decorado"
+      - "habr\xE1 decorado"
+      - habremos decorado
+      - "habr\xE9is decorado"
+      - "habr\xE1n decorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa decorado"
+      - "habr\xEDas decorado"
+      - "habr\xEDa decorado"
+      - "habr\xEDamos decorado"
+      - "habr\xEDais decorado"
+      - "habr\xEDan decorado"
+      cjid: cpef
+    - cjfs:
+      - haya decorado
+      - hayas decorado
+      - haya decorado
+      - hayamos decorado
+      - "hay\xE1is decorado"
+      - hayan decorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera decorado
+      - hubieras decorado
+      - hubiera decorado
+      - "hubi\xE9ramos decorado"
+      - hubierais decorado
+      - hubieran decorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese decorado
+      - hubieses decorado
+      - hubiese decorado
+      - "hubi\xE9semos decorado"
+      - hubieseis decorado
+      - hubiesen decorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere decorado
+      - hubieres decorado
+      - hubiere decorado
+      - "hubi\xE9remos decorado"
+      - hubiereis decorado
+      - hubieren decorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - decora
+      - decore
+      - decoremos
+      - decorad
+      - decoren
+      cjid: impf

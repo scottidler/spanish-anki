@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|debilitar||} {bc}to {a_link|debilitate}, to {a_link|weaken}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|prostrate oneself}'
+    drp: postrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: postrar
+  meta:
+    id: postrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617850000'
+    src: spanish
+    stems:
+    - postrar
+    - postrarse
+    uuid: e6f57c27-4ee6-458e-92bc-1e4c7a3ae859
+  shortdef:
+  - 'debilitar : to debilitate, to weaken'
+  suppl:
+    cjts:
+    - cjfs:
+      - postrando
+      - postrado
+      cjid: gppt
+    - cjfs:
+      - postro
+      - postras
+      - postra
+      - postramos
+      - "postr\xE1is"
+      - postran
+      cjid: pind
+    - cjfs:
+      - postraba
+      - postrabas
+      - postraba
+      - "postr\xE1bamos"
+      - postrabais
+      - postraban
+      cjid: pret
+    - cjfs:
+      - "postr\xE9"
+      - postraste
+      - "postr\xF3"
+      - postramos
+      - postrasteis
+      - postraron
+      cjid: pprf
+    - cjfs:
+      - "postrar\xE9"
+      - "postrar\xE1s"
+      - "postrar\xE1"
+      - postraremos
+      - "postrar\xE9is"
+      - "postrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "postrar\xEDa"
+      - "postrar\xEDas"
+      - "postrar\xEDa"
+      - "postrar\xEDamos"
+      - "postrar\xEDais"
+      - "postrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - postre
+      - postres
+      - postre
+      - postremos
+      - "postr\xE9is"
+      - postren
+      cjid: psub
+    - cjfs:
+      - postrara
+      - postraras
+      - postrara
+      - "postr\xE1ramos"
+      - postrarais
+      - postraran
+      cjid: pisb1
+    - cjfs:
+      - postrase
+      - postrases
+      - postrase
+      - "postr\xE1semos"
+      - postraseis
+      - postrasen
+      cjid: pisb2
+    - cjfs:
+      - postrare
+      - postrares
+      - postrare
+      - "postr\xE1remos"
+      - postrareis
+      - postraren
+      cjid: fsub
+    - cjfs:
+      - he postrado
+      - has postrado
+      - ha postrado
+      - hemos postrado
+      - "hab\xE9is postrado"
+      - han postrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa postrado"
+      - "hab\xEDas postrado"
+      - "hab\xEDa postrado"
+      - "hab\xEDamos postrado"
+      - "hab\xEDais postrado"
+      - "hab\xEDan postrado"
+      cjid: ppsi
+    - cjfs:
+      - hube postrado
+      - hubiste postrado
+      - hubo postrado
+      - hubimos postrado
+      - hubisteis postrado
+      - hubieron postrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 postrado"
+      - "habr\xE1s postrado"
+      - "habr\xE1 postrado"
+      - habremos postrado
+      - "habr\xE9is postrado"
+      - "habr\xE1n postrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa postrado"
+      - "habr\xEDas postrado"
+      - "habr\xEDa postrado"
+      - "habr\xEDamos postrado"
+      - "habr\xEDais postrado"
+      - "habr\xEDan postrado"
+      cjid: cpef
+    - cjfs:
+      - haya postrado
+      - hayas postrado
+      - haya postrado
+      - hayamos postrado
+      - "hay\xE1is postrado"
+      - hayan postrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera postrado
+      - hubieras postrado
+      - hubiera postrado
+      - "hubi\xE9ramos postrado"
+      - hubierais postrado
+      - hubieran postrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese postrado
+      - hubieses postrado
+      - hubiese postrado
+      - "hubi\xE9semos postrado"
+      - hubieseis postrado
+      - hubiesen postrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere postrado
+      - hubieres postrado
+      - hubiere postrado
+      - "hubi\xE9remos postrado"
+      - hubiereis postrado
+      - hubieren postrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - postra
+      - postre
+      - postremos
+      - postrad
+      - postren
+      cjid: impf

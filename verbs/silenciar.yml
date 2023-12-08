@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|silence}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|muffle}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: silenciar
+  meta:
+    id: silenciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620619000'
+    src: spanish
+    stems:
+    - silenciar
+    uuid: 6b0dcd85-7642-417f-be49-caaefbee3877
+  shortdef:
+  - to silence
+  - to muffle
+  suppl:
+    cjts:
+    - cjfs:
+      - silenciando
+      - silenciado
+      cjid: gppt
+    - cjfs:
+      - silencio
+      - silencias
+      - silencia
+      - silenciamos
+      - "silenci\xE1is"
+      - silencian
+      cjid: pind
+    - cjfs:
+      - silenciaba
+      - silenciabas
+      - silenciaba
+      - "silenci\xE1bamos"
+      - silenciabais
+      - silenciaban
+      cjid: pret
+    - cjfs:
+      - "silenci\xE9"
+      - silenciaste
+      - "silenci\xF3"
+      - silenciamos
+      - silenciasteis
+      - silenciaron
+      cjid: pprf
+    - cjfs:
+      - "silenciar\xE9"
+      - "silenciar\xE1s"
+      - "silenciar\xE1"
+      - silenciaremos
+      - "silenciar\xE9is"
+      - "silenciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "silenciar\xEDa"
+      - "silenciar\xEDas"
+      - "silenciar\xEDa"
+      - "silenciar\xEDamos"
+      - "silenciar\xEDais"
+      - "silenciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - silencie
+      - silencies
+      - silencie
+      - silenciemos
+      - "silenci\xE9is"
+      - silencien
+      cjid: psub
+    - cjfs:
+      - silenciara
+      - silenciaras
+      - silenciara
+      - "silenci\xE1ramos"
+      - silenciarais
+      - silenciaran
+      cjid: pisb1
+    - cjfs:
+      - silenciase
+      - silenciases
+      - silenciase
+      - "silenci\xE1semos"
+      - silenciaseis
+      - silenciasen
+      cjid: pisb2
+    - cjfs:
+      - silenciare
+      - silenciares
+      - silenciare
+      - "silenci\xE1remos"
+      - silenciareis
+      - silenciaren
+      cjid: fsub
+    - cjfs:
+      - he silenciado
+      - has silenciado
+      - ha silenciado
+      - hemos silenciado
+      - "hab\xE9is silenciado"
+      - han silenciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa silenciado"
+      - "hab\xEDas silenciado"
+      - "hab\xEDa silenciado"
+      - "hab\xEDamos silenciado"
+      - "hab\xEDais silenciado"
+      - "hab\xEDan silenciado"
+      cjid: ppsi
+    - cjfs:
+      - hube silenciado
+      - hubiste silenciado
+      - hubo silenciado
+      - hubimos silenciado
+      - hubisteis silenciado
+      - hubieron silenciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 silenciado"
+      - "habr\xE1s silenciado"
+      - "habr\xE1 silenciado"
+      - habremos silenciado
+      - "habr\xE9is silenciado"
+      - "habr\xE1n silenciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa silenciado"
+      - "habr\xEDas silenciado"
+      - "habr\xEDa silenciado"
+      - "habr\xEDamos silenciado"
+      - "habr\xEDais silenciado"
+      - "habr\xEDan silenciado"
+      cjid: cpef
+    - cjfs:
+      - haya silenciado
+      - hayas silenciado
+      - haya silenciado
+      - hayamos silenciado
+      - "hay\xE1is silenciado"
+      - hayan silenciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera silenciado
+      - hubieras silenciado
+      - hubiera silenciado
+      - "hubi\xE9ramos silenciado"
+      - hubierais silenciado
+      - hubieran silenciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese silenciado
+      - hubieses silenciado
+      - hubiese silenciado
+      - "hubi\xE9semos silenciado"
+      - hubieseis silenciado
+      - hubiesen silenciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere silenciado
+      - hubieres silenciado
+      - hubiere silenciado
+      - "hubi\xE9remos silenciado"
+      - hubiereis silenciado
+      - hubieren silenciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - silencia
+      - silencie
+      - silenciemos
+      - silenciad
+      - silencien
+      cjid: impf

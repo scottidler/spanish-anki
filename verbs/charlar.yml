@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|chat}, to {a_link|talk}'
+  fl: intransitive verb
+  hwi:
+    hw: charlar
+    prs:
+    - sound:
+        audio: charl02sp
+  meta:
+    id: charlar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604492000'
+    src: spanish
+    stems:
+    - charlar
+    uuid: 698406ba-1e3a-4a08-826b-2b244d6f9a49
+  shortdef:
+  - to chat, to talk
+  suppl:
+    cjts:
+    - cjfs:
+      - charlando
+      - charlado
+      cjid: gppt
+    - cjfs:
+      - charlo
+      - charlas
+      - charla
+      - charlamos
+      - "charl\xE1is"
+      - charlan
+      cjid: pind
+    - cjfs:
+      - charlaba
+      - charlabas
+      - charlaba
+      - "charl\xE1bamos"
+      - charlabais
+      - charlaban
+      cjid: pret
+    - cjfs:
+      - "charl\xE9"
+      - charlaste
+      - "charl\xF3"
+      - charlamos
+      - charlasteis
+      - charlaron
+      cjid: pprf
+    - cjfs:
+      - "charlar\xE9"
+      - "charlar\xE1s"
+      - "charlar\xE1"
+      - charlaremos
+      - "charlar\xE9is"
+      - "charlar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "charlar\xEDa"
+      - "charlar\xEDas"
+      - "charlar\xEDa"
+      - "charlar\xEDamos"
+      - "charlar\xEDais"
+      - "charlar\xEDan"
+      cjid: cond
+    - cjfs:
+      - charle
+      - charles
+      - charle
+      - charlemos
+      - "charl\xE9is"
+      - charlen
+      cjid: psub
+    - cjfs:
+      - charlara
+      - charlaras
+      - charlara
+      - "charl\xE1ramos"
+      - charlarais
+      - charlaran
+      cjid: pisb1
+    - cjfs:
+      - charlase
+      - charlases
+      - charlase
+      - "charl\xE1semos"
+      - charlaseis
+      - charlasen
+      cjid: pisb2
+    - cjfs:
+      - charlare
+      - charlares
+      - charlare
+      - "charl\xE1remos"
+      - charlareis
+      - charlaren
+      cjid: fsub
+    - cjfs:
+      - he charlado
+      - has charlado
+      - ha charlado
+      - hemos charlado
+      - "hab\xE9is charlado"
+      - han charlado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa charlado"
+      - "hab\xEDas charlado"
+      - "hab\xEDa charlado"
+      - "hab\xEDamos charlado"
+      - "hab\xEDais charlado"
+      - "hab\xEDan charlado"
+      cjid: ppsi
+    - cjfs:
+      - hube charlado
+      - hubiste charlado
+      - hubo charlado
+      - hubimos charlado
+      - hubisteis charlado
+      - hubieron charlado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 charlado"
+      - "habr\xE1s charlado"
+      - "habr\xE1 charlado"
+      - habremos charlado
+      - "habr\xE9is charlado"
+      - "habr\xE1n charlado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa charlado"
+      - "habr\xEDas charlado"
+      - "habr\xEDa charlado"
+      - "habr\xEDamos charlado"
+      - "habr\xEDais charlado"
+      - "habr\xEDan charlado"
+      cjid: cpef
+    - cjfs:
+      - haya charlado
+      - hayas charlado
+      - haya charlado
+      - hayamos charlado
+      - "hay\xE1is charlado"
+      - hayan charlado
+      cjid: ppfs
+    - cjfs:
+      - hubiera charlado
+      - hubieras charlado
+      - hubiera charlado
+      - "hubi\xE9ramos charlado"
+      - hubierais charlado
+      - hubieran charlado
+      cjid: ppss1
+    - cjfs:
+      - hubiese charlado
+      - hubieses charlado
+      - hubiese charlado
+      - "hubi\xE9semos charlado"
+      - hubieseis charlado
+      - hubiesen charlado
+      cjid: ppss2
+    - cjfs:
+      - hubiere charlado
+      - hubieres charlado
+      - hubiere charlado
+      - "hubi\xE9remos charlado"
+      - hubiereis charlado
+      - hubieren charlado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - charla
+      - charle
+      - charlemos
+      - charlad
+      - charlen
+      cjid: impf

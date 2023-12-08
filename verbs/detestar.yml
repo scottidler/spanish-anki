@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|detest}'
+  fl: transitive verb
+  hwi:
+    hw: detestar
+  meta:
+    id: detestar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607432000'
+    src: spanish
+    stems:
+    - detestar
+    - detestable
+    uuid: 269ec445-04b2-425b-bdf2-5c2743bd9543
+  shortdef:
+  - to detest
+  suppl:
+    cjts:
+    - cjfs:
+      - detestando
+      - detestado
+      cjid: gppt
+    - cjfs:
+      - detesto
+      - detestas
+      - detesta
+      - detestamos
+      - "detest\xE1is"
+      - detestan
+      cjid: pind
+    - cjfs:
+      - detestaba
+      - detestabas
+      - detestaba
+      - "detest\xE1bamos"
+      - detestabais
+      - detestaban
+      cjid: pret
+    - cjfs:
+      - "detest\xE9"
+      - detestaste
+      - "detest\xF3"
+      - detestamos
+      - detestasteis
+      - detestaron
+      cjid: pprf
+    - cjfs:
+      - "detestar\xE9"
+      - "detestar\xE1s"
+      - "detestar\xE1"
+      - detestaremos
+      - "detestar\xE9is"
+      - "detestar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "detestar\xEDa"
+      - "detestar\xEDas"
+      - "detestar\xEDa"
+      - "detestar\xEDamos"
+      - "detestar\xEDais"
+      - "detestar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deteste
+      - detestes
+      - deteste
+      - detestemos
+      - "detest\xE9is"
+      - detesten
+      cjid: psub
+    - cjfs:
+      - detestara
+      - detestaras
+      - detestara
+      - "detest\xE1ramos"
+      - detestarais
+      - detestaran
+      cjid: pisb1
+    - cjfs:
+      - detestase
+      - detestases
+      - detestase
+      - "detest\xE1semos"
+      - detestaseis
+      - detestasen
+      cjid: pisb2
+    - cjfs:
+      - detestare
+      - detestares
+      - detestare
+      - "detest\xE1remos"
+      - detestareis
+      - detestaren
+      cjid: fsub
+    - cjfs:
+      - he detestado
+      - has detestado
+      - ha detestado
+      - hemos detestado
+      - "hab\xE9is detestado"
+      - han detestado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa detestado"
+      - "hab\xEDas detestado"
+      - "hab\xEDa detestado"
+      - "hab\xEDamos detestado"
+      - "hab\xEDais detestado"
+      - "hab\xEDan detestado"
+      cjid: ppsi
+    - cjfs:
+      - hube detestado
+      - hubiste detestado
+      - hubo detestado
+      - hubimos detestado
+      - hubisteis detestado
+      - hubieron detestado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 detestado"
+      - "habr\xE1s detestado"
+      - "habr\xE1 detestado"
+      - habremos detestado
+      - "habr\xE9is detestado"
+      - "habr\xE1n detestado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa detestado"
+      - "habr\xEDas detestado"
+      - "habr\xEDa detestado"
+      - "habr\xEDamos detestado"
+      - "habr\xEDais detestado"
+      - "habr\xEDan detestado"
+      cjid: cpef
+    - cjfs:
+      - haya detestado
+      - hayas detestado
+      - haya detestado
+      - hayamos detestado
+      - "hay\xE1is detestado"
+      - hayan detestado
+      cjid: ppfs
+    - cjfs:
+      - hubiera detestado
+      - hubieras detestado
+      - hubiera detestado
+      - "hubi\xE9ramos detestado"
+      - hubierais detestado
+      - hubieran detestado
+      cjid: ppss1
+    - cjfs:
+      - hubiese detestado
+      - hubieses detestado
+      - hubiese detestado
+      - "hubi\xE9semos detestado"
+      - hubieseis detestado
+      - hubiesen detestado
+      cjid: ppss2
+    - cjfs:
+      - hubiere detestado
+      - hubieres detestado
+      - hubiere detestado
+      - "hubi\xE9remos detestado"
+      - hubiereis detestado
+      - hubieren detestado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - detesta
+      - deteste
+      - detestemos
+      - detestad
+      - detesten
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: detestable

@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|carry out}, to {a_link|execute}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|produce}, to {a_link|direct} (a film or play)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fulfill}, to {a_link|achieve}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|realize} (a profit)'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to come true'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to fulfill oneself'
+            sn: '2'
+    drp: realizarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: realizar
+    prs:
+    - sound:
+        audio: reali04sp
+  meta:
+    id: realizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618880000'
+    src: spanish
+    stems:
+    - realizar
+    - realizarse
+    uuid: 4e416905-c4e4-4960-8b68-7b153106a0d6
+  shortdef:
+  - to carry out, to execute
+  - to produce, to direct (a film or play)
+  - to fulfill, to achieve
+  suppl:
+    cjts:
+    - cjfs:
+      - realizando
+      - realizado
+      cjid: gppt
+    - cjfs:
+      - realizo
+      - realizas
+      - realiza
+      - realizamos
+      - "realiz\xE1is"
+      - realizan
+      cjid: pind
+    - cjfs:
+      - realizaba
+      - realizabas
+      - realizaba
+      - "realiz\xE1bamos"
+      - realizabais
+      - realizaban
+      cjid: pret
+    - cjfs:
+      - "realic\xE9"
+      - realizaste
+      - "realiz\xF3"
+      - realizamos
+      - realizasteis
+      - realizaron
+      cjid: pprf
+    - cjfs:
+      - "realizar\xE9"
+      - "realizar\xE1s"
+      - "realizar\xE1"
+      - realizaremos
+      - "realizar\xE9is"
+      - "realizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "realizar\xEDa"
+      - "realizar\xEDas"
+      - "realizar\xEDa"
+      - "realizar\xEDamos"
+      - "realizar\xEDais"
+      - "realizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - realice
+      - realices
+      - realice
+      - realicemos
+      - "realic\xE9is"
+      - realicen
+      cjid: psub
+    - cjfs:
+      - realizara
+      - realizaras
+      - realizara
+      - "realiz\xE1ramos"
+      - realizarais
+      - realizaran
+      cjid: pisb1
+    - cjfs:
+      - realizase
+      - realizases
+      - realizase
+      - "realiz\xE1semos"
+      - realizaseis
+      - realizasen
+      cjid: pisb2
+    - cjfs:
+      - realizare
+      - realizares
+      - realizare
+      - "realiz\xE1remos"
+      - realizareis
+      - realizaren
+      cjid: fsub
+    - cjfs:
+      - he realizado
+      - has realizado
+      - ha realizado
+      - hemos realizado
+      - "hab\xE9is realizado"
+      - han realizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa realizado"
+      - "hab\xEDas realizado"
+      - "hab\xEDa realizado"
+      - "hab\xEDamos realizado"
+      - "hab\xEDais realizado"
+      - "hab\xEDan realizado"
+      cjid: ppsi
+    - cjfs:
+      - hube realizado
+      - hubiste realizado
+      - hubo realizado
+      - hubimos realizado
+      - hubisteis realizado
+      - hubieron realizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 realizado"
+      - "habr\xE1s realizado"
+      - "habr\xE1 realizado"
+      - habremos realizado
+      - "habr\xE9is realizado"
+      - "habr\xE1n realizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa realizado"
+      - "habr\xEDas realizado"
+      - "habr\xEDa realizado"
+      - "habr\xEDamos realizado"
+      - "habr\xEDais realizado"
+      - "habr\xEDan realizado"
+      cjid: cpef
+    - cjfs:
+      - haya realizado
+      - hayas realizado
+      - haya realizado
+      - hayamos realizado
+      - "hay\xE1is realizado"
+      - hayan realizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera realizado
+      - hubieras realizado
+      - hubiera realizado
+      - "hubi\xE9ramos realizado"
+      - hubierais realizado
+      - hubieran realizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese realizado
+      - hubieses realizado
+      - hubiese realizado
+      - "hubi\xE9semos realizado"
+      - hubieseis realizado
+      - hubiesen realizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere realizado
+      - hubieres realizado
+      - hubiere realizado
+      - "hubi\xE9remos realizado"
+      - hubiereis realizado
+      - hubieren realizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - realiza
+      - realice
+      - realicemos
+      - realizad
+      - realicen
+      cjid: impf

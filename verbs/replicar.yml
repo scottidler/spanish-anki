@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reply}, to {a_link|retort}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|argue}, to {a_link|answer back}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: replicar
+    prs:
+    - sound:
+        audio: repli02sp
+  meta:
+    id: replicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619455000'
+    src: spanish
+    stems:
+    - replicar
+    uuid: ed0c2daa-24a1-4f23-86ac-a7fae24b1108
+  shortdef:
+  - to reply, to retort
+  - to argue, to answer back
+  suppl:
+    cjts:
+    - cjfs:
+      - replicando
+      - replicado
+      cjid: gppt
+    - cjfs:
+      - replico
+      - replicas
+      - replica
+      - replicamos
+      - "replic\xE1is"
+      - replican
+      cjid: pind
+    - cjfs:
+      - replicaba
+      - replicabas
+      - replicaba
+      - "replic\xE1bamos"
+      - replicabais
+      - replicaban
+      cjid: pret
+    - cjfs:
+      - "repliqu\xE9"
+      - replicaste
+      - "replic\xF3"
+      - replicamos
+      - replicasteis
+      - replicaron
+      cjid: pprf
+    - cjfs:
+      - "replicar\xE9"
+      - "replicar\xE1s"
+      - "replicar\xE1"
+      - replicaremos
+      - "replicar\xE9is"
+      - "replicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "replicar\xEDa"
+      - "replicar\xEDas"
+      - "replicar\xEDa"
+      - "replicar\xEDamos"
+      - "replicar\xEDais"
+      - "replicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - replique
+      - repliques
+      - replique
+      - repliquemos
+      - "repliqu\xE9is"
+      - repliquen
+      cjid: psub
+    - cjfs:
+      - replicara
+      - replicaras
+      - replicara
+      - "replic\xE1ramos"
+      - replicarais
+      - replicaran
+      cjid: pisb1
+    - cjfs:
+      - replicase
+      - replicases
+      - replicase
+      - "replic\xE1semos"
+      - replicaseis
+      - replicasen
+      cjid: pisb2
+    - cjfs:
+      - replicare
+      - replicares
+      - replicare
+      - "replic\xE1remos"
+      - replicareis
+      - replicaren
+      cjid: fsub
+    - cjfs:
+      - he replicado
+      - has replicado
+      - ha replicado
+      - hemos replicado
+      - "hab\xE9is replicado"
+      - han replicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa replicado"
+      - "hab\xEDas replicado"
+      - "hab\xEDa replicado"
+      - "hab\xEDamos replicado"
+      - "hab\xEDais replicado"
+      - "hab\xEDan replicado"
+      cjid: ppsi
+    - cjfs:
+      - hube replicado
+      - hubiste replicado
+      - hubo replicado
+      - hubimos replicado
+      - hubisteis replicado
+      - hubieron replicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 replicado"
+      - "habr\xE1s replicado"
+      - "habr\xE1 replicado"
+      - habremos replicado
+      - "habr\xE9is replicado"
+      - "habr\xE1n replicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa replicado"
+      - "habr\xEDas replicado"
+      - "habr\xEDa replicado"
+      - "habr\xEDamos replicado"
+      - "habr\xEDais replicado"
+      - "habr\xEDan replicado"
+      cjid: cpef
+    - cjfs:
+      - haya replicado
+      - hayas replicado
+      - haya replicado
+      - hayamos replicado
+      - "hay\xE1is replicado"
+      - hayan replicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera replicado
+      - hubieras replicado
+      - hubiera replicado
+      - "hubi\xE9ramos replicado"
+      - hubierais replicado
+      - hubieran replicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese replicado
+      - hubieses replicado
+      - hubiese replicado
+      - "hubi\xE9semos replicado"
+      - hubieseis replicado
+      - hubiesen replicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere replicado
+      - hubieres replicado
+      - hubiere replicado
+      - "hubi\xE9remos replicado"
+      - hubiereis replicado
+      - hubieren replicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - replica
+      - replique
+      - repliquemos
+      - replicad
+      - repliquen
+      cjid: impf

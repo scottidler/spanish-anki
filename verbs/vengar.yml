@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|avenge}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get even}, to revenge oneself'
+    drp: vengarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: vengar
+    prs:
+    - sound:
+        audio: venga03sp
+  meta:
+    id: vengar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622827000'
+    src: spanish
+    stems:
+    - vengar
+    - vengarse
+    uuid: d7e0669b-f70c-46ff-b576-4043db88c5ac
+  shortdef:
+  - to avenge
+  suppl:
+    cjts:
+    - cjfs:
+      - vengando
+      - vengado
+      cjid: gppt
+    - cjfs:
+      - vengo
+      - vengas
+      - venga
+      - vengamos
+      - "veng\xE1is"
+      - vengan
+      cjid: pind
+    - cjfs:
+      - vengaba
+      - vengabas
+      - vengaba
+      - "veng\xE1bamos"
+      - vengabais
+      - vengaban
+      cjid: pret
+    - cjfs:
+      - "vengu\xE9"
+      - vengaste
+      - "veng\xF3"
+      - vengamos
+      - vengasteis
+      - vengaron
+      cjid: pprf
+    - cjfs:
+      - "vengar\xE9"
+      - "vengar\xE1s"
+      - "vengar\xE1"
+      - vengaremos
+      - "vengar\xE9is"
+      - "vengar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vengar\xEDa"
+      - "vengar\xEDas"
+      - "vengar\xEDa"
+      - "vengar\xEDamos"
+      - "vengar\xEDais"
+      - "vengar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vengue
+      - vengues
+      - vengue
+      - venguemos
+      - "vengu\xE9is"
+      - venguen
+      cjid: psub
+    - cjfs:
+      - vengara
+      - vengaras
+      - vengara
+      - "veng\xE1ramos"
+      - vengarais
+      - vengaran
+      cjid: pisb1
+    - cjfs:
+      - vengase
+      - vengases
+      - vengase
+      - "veng\xE1semos"
+      - vengaseis
+      - vengasen
+      cjid: pisb2
+    - cjfs:
+      - vengare
+      - vengares
+      - vengare
+      - "veng\xE1remos"
+      - vengareis
+      - vengaren
+      cjid: fsub
+    - cjfs:
+      - he vengado
+      - has vengado
+      - ha vengado
+      - hemos vengado
+      - "hab\xE9is vengado"
+      - han vengado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vengado"
+      - "hab\xEDas vengado"
+      - "hab\xEDa vengado"
+      - "hab\xEDamos vengado"
+      - "hab\xEDais vengado"
+      - "hab\xEDan vengado"
+      cjid: ppsi
+    - cjfs:
+      - hube vengado
+      - hubiste vengado
+      - hubo vengado
+      - hubimos vengado
+      - hubisteis vengado
+      - hubieron vengado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vengado"
+      - "habr\xE1s vengado"
+      - "habr\xE1 vengado"
+      - habremos vengado
+      - "habr\xE9is vengado"
+      - "habr\xE1n vengado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vengado"
+      - "habr\xEDas vengado"
+      - "habr\xEDa vengado"
+      - "habr\xEDamos vengado"
+      - "habr\xEDais vengado"
+      - "habr\xEDan vengado"
+      cjid: cpef
+    - cjfs:
+      - haya vengado
+      - hayas vengado
+      - haya vengado
+      - hayamos vengado
+      - "hay\xE1is vengado"
+      - hayan vengado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vengado
+      - hubieras vengado
+      - hubiera vengado
+      - "hubi\xE9ramos vengado"
+      - hubierais vengado
+      - hubieran vengado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vengado
+      - hubieses vengado
+      - hubiese vengado
+      - "hubi\xE9semos vengado"
+      - hubieseis vengado
+      - hubiesen vengado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vengado
+      - hubieres vengado
+      - hubiere vengado
+      - "hubi\xE9remos vengado"
+      - hubiereis vengado
+      - hubieren vengado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - venga
+      - vengue
+      - venguemos
+      - vengad
+      - venguen
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|avisar||} {bc}to {a_link|warn}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|notice}, to {a_link|tell} '
+          - - vis
+            - - t: "no advert\xED que estuviera enojada"
+                tr: I couldn't tell she was angry
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: advertir
+    prs:
+    - sound:
+        audio: adver04sp
+  meta:
+    id: advertir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600564000'
+    src: spanish
+    stems:
+    - advertir
+    uuid: 2349258d-f6e7-4dc5-944c-400b11abcf0c
+  shortdef:
+  - 'avisar : to warn'
+  - to notice, to tell
+  suppl:
+    cjts:
+    - cjfs:
+      - advirtiendo
+      - advertido
+      cjid: gppt
+    - cjfs:
+      - advierto
+      - adviertes
+      - advierte
+      - advertimos
+      - "advert\xEDs"
+      - advierten
+      cjid: pind
+    - cjfs:
+      - "advert\xEDa"
+      - "advert\xEDas"
+      - "advert\xEDa"
+      - "advert\xEDamos"
+      - "advert\xEDais"
+      - "advert\xEDan"
+      cjid: pret
+    - cjfs:
+      - "advert\xED"
+      - advertiste
+      - "advirti\xF3"
+      - advertimos
+      - advertisteis
+      - advirtieron
+      cjid: pprf
+    - cjfs:
+      - "advertir\xE9"
+      - "advertir\xE1s"
+      - "advertir\xE1"
+      - advertiremos
+      - "advertir\xE9is"
+      - "advertir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "advertir\xEDa"
+      - "advertir\xEDas"
+      - "advertir\xEDa"
+      - "advertir\xEDamos"
+      - "advertir\xEDais"
+      - "advertir\xEDan"
+      cjid: cond
+    - cjfs:
+      - advierta
+      - adviertas
+      - advierta
+      - advirtamos
+      - "advirt\xE1is"
+      - adviertan
+      cjid: psub
+    - cjfs:
+      - advirtiera
+      - advirtieras
+      - advirtiera
+      - "advirti\xE9ramos"
+      - advirtierais
+      - advirtieran
+      cjid: pisb1
+    - cjfs:
+      - advirtiese
+      - advirtieses
+      - advirtiese
+      - "advirti\xE9semos"
+      - advirtieseis
+      - advirtiesen
+      cjid: pisb2
+    - cjfs:
+      - advirtiere
+      - advirtieres
+      - advirtiere
+      - "advirti\xE9remos"
+      - advirtiereis
+      - advirtieren
+      cjid: fsub
+    - cjfs:
+      - he advertido
+      - has advertido
+      - ha advertido
+      - hemos advertido
+      - "hab\xE9is advertido"
+      - han advertido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa advertido"
+      - "hab\xEDas advertido"
+      - "hab\xEDa advertido"
+      - "hab\xEDamos advertido"
+      - "hab\xEDais advertido"
+      - "hab\xEDan advertido"
+      cjid: ppsi
+    - cjfs:
+      - hube advertido
+      - hubiste advertido
+      - hubo advertido
+      - hubimos advertido
+      - hubisteis advertido
+      - hubieron advertido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 advertido"
+      - "habr\xE1s advertido"
+      - "habr\xE1 advertido"
+      - habremos advertido
+      - "habr\xE9is advertido"
+      - "habr\xE1n advertido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa advertido"
+      - "habr\xEDas advertido"
+      - "habr\xEDa advertido"
+      - "habr\xEDamos advertido"
+      - "habr\xEDais advertido"
+      - "habr\xEDan advertido"
+      cjid: cpef
+    - cjfs:
+      - haya advertido
+      - hayas advertido
+      - haya advertido
+      - hayamos advertido
+      - "hay\xE1is advertido"
+      - hayan advertido
+      cjid: ppfs
+    - cjfs:
+      - hubiera advertido
+      - hubieras advertido
+      - hubiera advertido
+      - "hubi\xE9ramos advertido"
+      - hubierais advertido
+      - hubieran advertido
+      cjid: ppss1
+    - cjfs:
+      - hubiese advertido
+      - hubieses advertido
+      - hubiese advertido
+      - "hubi\xE9semos advertido"
+      - hubieseis advertido
+      - hubiesen advertido
+      cjid: ppss2
+    - cjfs:
+      - hubiere advertido
+      - hubieres advertido
+      - hubiere advertido
+      - "hubi\xE9remos advertido"
+      - hubiereis advertido
+      - hubieren advertido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - advierte
+      - advierta
+      - advirtamos
+      - advertid
+      - adviertan
+      cjid: impf

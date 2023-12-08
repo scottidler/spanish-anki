@@ -1,0 +1,233 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|upset}, to {a_link|knock over}, to {a_link|turn over}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|empty out}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make dizzy'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cause a change of mind in'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|irritate}'
+          sn: '5'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|overturn}, to {a_link|tip over}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|capsize}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|overturn}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to do one''s utmost'
+            sn: '2'
+    drp: volcarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: volcar
+    prs:
+    - sound:
+        audio: volca01sp
+  meta:
+    id: volcar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623187000'
+    src: spanish
+    stems:
+    - volcar
+    - volcarse
+    uuid: 22f96a01-ee9e-46db-8394-379a8c46f65d
+  shortdef:
+  - to upset, to knock over, to turn over
+  - to empty out
+  - to make dizzy
+  suppl:
+    cjts:
+    - cjfs:
+      - volcando
+      - volcado
+      cjid: gppt
+    - cjfs:
+      - vuelco
+      - vuelcas
+      - vuelca
+      - volcamos
+      - "volc\xE1is"
+      - vuelcan
+      cjid: pind
+    - cjfs:
+      - volcaba
+      - volcabas
+      - volcaba
+      - "volc\xE1bamos"
+      - volcabais
+      - volcaban
+      cjid: pret
+    - cjfs:
+      - "volqu\xE9"
+      - volcaste
+      - "volc\xF3"
+      - volcamos
+      - volcasteis
+      - volcaron
+      cjid: pprf
+    - cjfs:
+      - "volcar\xE9"
+      - "volcar\xE1s"
+      - "volcar\xE1"
+      - volcaremos
+      - "volcar\xE9is"
+      - "volcar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "volcar\xEDa"
+      - "volcar\xEDas"
+      - "volcar\xEDa"
+      - "volcar\xEDamos"
+      - "volcar\xEDais"
+      - "volcar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vuelque
+      - vuelques
+      - vuelque
+      - volquemos
+      - "volqu\xE9is"
+      - vuelquen
+      cjid: psub
+    - cjfs:
+      - volcara
+      - volcaras
+      - volcara
+      - "volc\xE1ramos"
+      - volcarais
+      - volcaran
+      cjid: pisb1
+    - cjfs:
+      - volcase
+      - volcases
+      - volcase
+      - "volc\xE1semos"
+      - volcaseis
+      - volcasen
+      cjid: pisb2
+    - cjfs:
+      - volcare
+      - volcares
+      - volcare
+      - "volc\xE1remos"
+      - volcareis
+      - volcaren
+      cjid: fsub
+    - cjfs:
+      - he volcado
+      - has volcado
+      - ha volcado
+      - hemos volcado
+      - "hab\xE9is volcado"
+      - han volcado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa volcado"
+      - "hab\xEDas volcado"
+      - "hab\xEDa volcado"
+      - "hab\xEDamos volcado"
+      - "hab\xEDais volcado"
+      - "hab\xEDan volcado"
+      cjid: ppsi
+    - cjfs:
+      - hube volcado
+      - hubiste volcado
+      - hubo volcado
+      - hubimos volcado
+      - hubisteis volcado
+      - hubieron volcado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 volcado"
+      - "habr\xE1s volcado"
+      - "habr\xE1 volcado"
+      - habremos volcado
+      - "habr\xE9is volcado"
+      - "habr\xE1n volcado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa volcado"
+      - "habr\xEDas volcado"
+      - "habr\xEDa volcado"
+      - "habr\xEDamos volcado"
+      - "habr\xEDais volcado"
+      - "habr\xEDan volcado"
+      cjid: cpef
+    - cjfs:
+      - haya volcado
+      - hayas volcado
+      - haya volcado
+      - hayamos volcado
+      - "hay\xE1is volcado"
+      - hayan volcado
+      cjid: ppfs
+    - cjfs:
+      - hubiera volcado
+      - hubieras volcado
+      - hubiera volcado
+      - "hubi\xE9ramos volcado"
+      - hubierais volcado
+      - hubieran volcado
+      cjid: ppss1
+    - cjfs:
+      - hubiese volcado
+      - hubieses volcado
+      - hubiese volcado
+      - "hubi\xE9semos volcado"
+      - hubieseis volcado
+      - hubiesen volcado
+      cjid: ppss2
+    - cjfs:
+      - hubiere volcado
+      - hubieres volcado
+      - hubiere volcado
+      - "hubi\xE9remos volcado"
+      - hubiereis volcado
+      - hubieren volcado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vuelca
+      - vuelque
+      - volquemos
+      - volcad
+      - vuelquen
+      cjid: impf

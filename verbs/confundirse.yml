@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confuse}, to {a_link|mix up}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to make a mistake, to be confused '
+            - - vis
+              - - t: "confundirse de n\xFAmero"
+                  tr: to get the wrong number
+    drp: confundirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: confundir
+    prs:
+    - sound:
+        audio: confu01sp
+  meta:
+    id: confundir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605490000'
+    src: spanish
+    stems:
+    - confundir
+    - confundirse
+    uuid: 405cd6f4-f50e-4c7c-99fa-de3873af5b65
+  shortdef:
+  - to confuse, to mix up
+  suppl:
+    cjts:
+    - cjfs:
+      - confundiendo
+      - confundido
+      cjid: gppt
+    - cjfs:
+      - confundo
+      - confundes
+      - confunde
+      - confundimos
+      - "confund\xEDs"
+      - confunden
+      cjid: pind
+    - cjfs:
+      - "confund\xEDa"
+      - "confund\xEDas"
+      - "confund\xEDa"
+      - "confund\xEDamos"
+      - "confund\xEDais"
+      - "confund\xEDan"
+      cjid: pret
+    - cjfs:
+      - "confund\xED"
+      - confundiste
+      - "confundi\xF3"
+      - confundimos
+      - confundisteis
+      - confundieron
+      cjid: pprf
+    - cjfs:
+      - "confundir\xE9"
+      - "confundir\xE1s"
+      - "confundir\xE1"
+      - confundiremos
+      - "confundir\xE9is"
+      - "confundir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "confundir\xEDa"
+      - "confundir\xEDas"
+      - "confundir\xEDa"
+      - "confundir\xEDamos"
+      - "confundir\xEDais"
+      - "confundir\xEDan"
+      cjid: cond
+    - cjfs:
+      - confunda
+      - confundas
+      - confunda
+      - confundamos
+      - "confund\xE1is"
+      - confundan
+      cjid: psub
+    - cjfs:
+      - confundiera
+      - confundieras
+      - confundiera
+      - "confundi\xE9ramos"
+      - confundierais
+      - confundieran
+      cjid: pisb1
+    - cjfs:
+      - confundiese
+      - confundieses
+      - confundiese
+      - "confundi\xE9semos"
+      - confundieseis
+      - confundiesen
+      cjid: pisb2
+    - cjfs:
+      - confundiere
+      - confundieres
+      - confundiere
+      - "confundi\xE9remos"
+      - confundiereis
+      - confundieren
+      cjid: fsub
+    - cjfs:
+      - he confundido
+      - has confundido
+      - ha confundido
+      - hemos confundido
+      - "hab\xE9is confundido"
+      - han confundido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa confundido"
+      - "hab\xEDas confundido"
+      - "hab\xEDa confundido"
+      - "hab\xEDamos confundido"
+      - "hab\xEDais confundido"
+      - "hab\xEDan confundido"
+      cjid: ppsi
+    - cjfs:
+      - hube confundido
+      - hubiste confundido
+      - hubo confundido
+      - hubimos confundido
+      - hubisteis confundido
+      - hubieron confundido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 confundido"
+      - "habr\xE1s confundido"
+      - "habr\xE1 confundido"
+      - habremos confundido
+      - "habr\xE9is confundido"
+      - "habr\xE1n confundido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa confundido"
+      - "habr\xEDas confundido"
+      - "habr\xEDa confundido"
+      - "habr\xEDamos confundido"
+      - "habr\xEDais confundido"
+      - "habr\xEDan confundido"
+      cjid: cpef
+    - cjfs:
+      - haya confundido
+      - hayas confundido
+      - haya confundido
+      - hayamos confundido
+      - "hay\xE1is confundido"
+      - hayan confundido
+      cjid: ppfs
+    - cjfs:
+      - hubiera confundido
+      - hubieras confundido
+      - hubiera confundido
+      - "hubi\xE9ramos confundido"
+      - hubierais confundido
+      - hubieran confundido
+      cjid: ppss1
+    - cjfs:
+      - hubiese confundido
+      - hubieses confundido
+      - hubiese confundido
+      - "hubi\xE9semos confundido"
+      - hubieseis confundido
+      - hubiesen confundido
+      cjid: ppss2
+    - cjfs:
+      - hubiere confundido
+      - hubieres confundido
+      - hubiere confundido
+      - "hubi\xE9remos confundido"
+      - hubiereis confundido
+      - hubieren confundido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - confunde
+      - confunda
+      - confundamos
+      - confundid
+      - confundan
+      cjid: impf

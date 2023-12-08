@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|vivir||} {bc}to {a_link|reside}, to {a_link|dwell}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lie in, to consist of'
+          sn: '2'
+          vrs:
+          - va: residir en
+            vac: ~ en
+  fl: intransitive verb
+  hwi:
+    hw: residir
+    prs:
+    - sound:
+        audio: resid03sp
+  meta:
+    id: residir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619561000'
+    src: spanish
+    stems:
+    - residir
+    - residir en
+    uuid: 55211052-392e-4512-b9d6-490ea6f9df99
+  shortdef:
+  - 'vivir : to reside, to dwell'
+  - to lie in, to consist of
+  suppl:
+    cjts:
+    - cjfs:
+      - residiendo
+      - residido
+      cjid: gppt
+    - cjfs:
+      - resido
+      - resides
+      - reside
+      - residimos
+      - "resid\xEDs"
+      - residen
+      cjid: pind
+    - cjfs:
+      - "resid\xEDa"
+      - "resid\xEDas"
+      - "resid\xEDa"
+      - "resid\xEDamos"
+      - "resid\xEDais"
+      - "resid\xEDan"
+      cjid: pret
+    - cjfs:
+      - "resid\xED"
+      - residiste
+      - "residi\xF3"
+      - residimos
+      - residisteis
+      - residieron
+      cjid: pprf
+    - cjfs:
+      - "residir\xE9"
+      - "residir\xE1s"
+      - "residir\xE1"
+      - residiremos
+      - "residir\xE9is"
+      - "residir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "residir\xEDa"
+      - "residir\xEDas"
+      - "residir\xEDa"
+      - "residir\xEDamos"
+      - "residir\xEDais"
+      - "residir\xEDan"
+      cjid: cond
+    - cjfs:
+      - resida
+      - residas
+      - resida
+      - residamos
+      - "resid\xE1is"
+      - residan
+      cjid: psub
+    - cjfs:
+      - residiera
+      - residieras
+      - residiera
+      - "residi\xE9ramos"
+      - residierais
+      - residieran
+      cjid: pisb1
+    - cjfs:
+      - residiese
+      - residieses
+      - residiese
+      - "residi\xE9semos"
+      - residieseis
+      - residiesen
+      cjid: pisb2
+    - cjfs:
+      - residiere
+      - residieres
+      - residiere
+      - "residi\xE9remos"
+      - residiereis
+      - residieren
+      cjid: fsub
+    - cjfs:
+      - he residido
+      - has residido
+      - ha residido
+      - hemos residido
+      - "hab\xE9is residido"
+      - han residido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa residido"
+      - "hab\xEDas residido"
+      - "hab\xEDa residido"
+      - "hab\xEDamos residido"
+      - "hab\xEDais residido"
+      - "hab\xEDan residido"
+      cjid: ppsi
+    - cjfs:
+      - hube residido
+      - hubiste residido
+      - hubo residido
+      - hubimos residido
+      - hubisteis residido
+      - hubieron residido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 residido"
+      - "habr\xE1s residido"
+      - "habr\xE1 residido"
+      - habremos residido
+      - "habr\xE9is residido"
+      - "habr\xE1n residido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa residido"
+      - "habr\xEDas residido"
+      - "habr\xEDa residido"
+      - "habr\xEDamos residido"
+      - "habr\xEDais residido"
+      - "habr\xEDan residido"
+      cjid: cpef
+    - cjfs:
+      - haya residido
+      - hayas residido
+      - haya residido
+      - hayamos residido
+      - "hay\xE1is residido"
+      - hayan residido
+      cjid: ppfs
+    - cjfs:
+      - hubiera residido
+      - hubieras residido
+      - hubiera residido
+      - "hubi\xE9ramos residido"
+      - hubierais residido
+      - hubieran residido
+      cjid: ppss1
+    - cjfs:
+      - hubiese residido
+      - hubieses residido
+      - hubiese residido
+      - "hubi\xE9semos residido"
+      - hubieseis residido
+      - hubiesen residido
+      cjid: ppss2
+    - cjfs:
+      - hubiere residido
+      - hubieres residido
+      - hubiere residido
+      - "hubi\xE9remos residido"
+      - hubiereis residido
+      - hubieren residido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reside
+      - resida
+      - residamos
+      - residid
+      - residan
+      cjid: impf

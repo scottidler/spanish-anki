@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plant}, to {a_link|sow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scatter}, to {a_link|strew} '
+          - - vis
+            - - t: "sembrar el p\xE1nico"
+                tr: to spread panic
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: sembrar
+    prs:
+    - sound:
+        audio: sembr02sp
+  meta:
+    id: sembrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620387000'
+    src: spanish
+    stems:
+    - sembrar
+    uuid: 87be62cb-0b8f-462f-9924-1e95e64687de
+  shortdef:
+  - to plant, to sow
+  - to scatter, to strew
+  suppl:
+    cjts:
+    - cjfs:
+      - sembrando
+      - sembrado
+      cjid: gppt
+    - cjfs:
+      - siembro
+      - siembras
+      - siembra
+      - sembramos
+      - "sembr\xE1is"
+      - siembran
+      cjid: pind
+    - cjfs:
+      - sembraba
+      - sembrabas
+      - sembraba
+      - "sembr\xE1bamos"
+      - sembrabais
+      - sembraban
+      cjid: pret
+    - cjfs:
+      - "sembr\xE9"
+      - sembraste
+      - "sembr\xF3"
+      - sembramos
+      - sembrasteis
+      - sembraron
+      cjid: pprf
+    - cjfs:
+      - "sembrar\xE9"
+      - "sembrar\xE1s"
+      - "sembrar\xE1"
+      - sembraremos
+      - "sembrar\xE9is"
+      - "sembrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sembrar\xEDa"
+      - "sembrar\xEDas"
+      - "sembrar\xEDa"
+      - "sembrar\xEDamos"
+      - "sembrar\xEDais"
+      - "sembrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - siembre
+      - siembres
+      - siembre
+      - sembremos
+      - "sembr\xE9is"
+      - siembren
+      cjid: psub
+    - cjfs:
+      - sembrara
+      - sembraras
+      - sembrara
+      - "sembr\xE1ramos"
+      - sembrarais
+      - sembraran
+      cjid: pisb1
+    - cjfs:
+      - sembrase
+      - sembrases
+      - sembrase
+      - "sembr\xE1semos"
+      - sembraseis
+      - sembrasen
+      cjid: pisb2
+    - cjfs:
+      - sembrare
+      - sembrares
+      - sembrare
+      - "sembr\xE1remos"
+      - sembrareis
+      - sembraren
+      cjid: fsub
+    - cjfs:
+      - he sembrado
+      - has sembrado
+      - ha sembrado
+      - hemos sembrado
+      - "hab\xE9is sembrado"
+      - han sembrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sembrado"
+      - "hab\xEDas sembrado"
+      - "hab\xEDa sembrado"
+      - "hab\xEDamos sembrado"
+      - "hab\xEDais sembrado"
+      - "hab\xEDan sembrado"
+      cjid: ppsi
+    - cjfs:
+      - hube sembrado
+      - hubiste sembrado
+      - hubo sembrado
+      - hubimos sembrado
+      - hubisteis sembrado
+      - hubieron sembrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sembrado"
+      - "habr\xE1s sembrado"
+      - "habr\xE1 sembrado"
+      - habremos sembrado
+      - "habr\xE9is sembrado"
+      - "habr\xE1n sembrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sembrado"
+      - "habr\xEDas sembrado"
+      - "habr\xEDa sembrado"
+      - "habr\xEDamos sembrado"
+      - "habr\xEDais sembrado"
+      - "habr\xEDan sembrado"
+      cjid: cpef
+    - cjfs:
+      - haya sembrado
+      - hayas sembrado
+      - haya sembrado
+      - hayamos sembrado
+      - "hay\xE1is sembrado"
+      - hayan sembrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sembrado
+      - hubieras sembrado
+      - hubiera sembrado
+      - "hubi\xE9ramos sembrado"
+      - hubierais sembrado
+      - hubieran sembrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sembrado
+      - hubieses sembrado
+      - hubiese sembrado
+      - "hubi\xE9semos sembrado"
+      - hubieseis sembrado
+      - hubiesen sembrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sembrado
+      - hubieres sembrado
+      - hubiere sembrado
+      - "hubi\xE9remos sembrado"
+      - hubiereis sembrado
+      - hubieren sembrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - siembra
+      - siembre
+      - sembremos
+      - sembrad
+      - siembren
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sow discord'
+          vrs:
+          - va: "sembrar ciza\xF1a"
+  fl: feminine noun
+  hwi:
+    hw: "ciza\xF1a"
+  meta:
+    id: cizana
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604819000'
+    src: spanish
+    stems:
+    - "ciza\xF1a"
+    - "sembrar ciza\xF1a"
+    uuid: 03623716-7a88-4fde-92e7-a8aca0b6691e
+  shortdef:
+  - to sow discord

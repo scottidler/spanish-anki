@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|develop}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|carry out} (an action, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|explain} (a theory, etc.)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|develop}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take place}, to {a_link|unfold}'
+            sn: '2'
+    drp: desarrollarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desarrollar
+    prs:
+    - sound:
+        audio: desar02sp
+  meta:
+    id: desarrollar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606865000'
+    src: spanish
+    stems:
+    - desarrollar
+    - desarrollarse
+    uuid: 9ea04e83-6b56-4704-86b0-e434b50e9810
+  shortdef:
+  - to develop
+  - to carry out (an action, etc.)
+  - to explain (a theory, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - desarrollando
+      - desarrollado
+      cjid: gppt
+    - cjfs:
+      - desarrollo
+      - desarrollas
+      - desarrolla
+      - desarrollamos
+      - "desarroll\xE1is"
+      - desarrollan
+      cjid: pind
+    - cjfs:
+      - desarrollaba
+      - desarrollabas
+      - desarrollaba
+      - "desarroll\xE1bamos"
+      - desarrollabais
+      - desarrollaban
+      cjid: pret
+    - cjfs:
+      - "desarroll\xE9"
+      - desarrollaste
+      - "desarroll\xF3"
+      - desarrollamos
+      - desarrollasteis
+      - desarrollaron
+      cjid: pprf
+    - cjfs:
+      - "desarrollar\xE9"
+      - "desarrollar\xE1s"
+      - "desarrollar\xE1"
+      - desarrollaremos
+      - "desarrollar\xE9is"
+      - "desarrollar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desarrollar\xEDa"
+      - "desarrollar\xEDas"
+      - "desarrollar\xEDa"
+      - "desarrollar\xEDamos"
+      - "desarrollar\xEDais"
+      - "desarrollar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desarrolle
+      - desarrolles
+      - desarrolle
+      - desarrollemos
+      - "desarroll\xE9is"
+      - desarrollen
+      cjid: psub
+    - cjfs:
+      - desarrollara
+      - desarrollaras
+      - desarrollara
+      - "desarroll\xE1ramos"
+      - desarrollarais
+      - desarrollaran
+      cjid: pisb1
+    - cjfs:
+      - desarrollase
+      - desarrollases
+      - desarrollase
+      - "desarroll\xE1semos"
+      - desarrollaseis
+      - desarrollasen
+      cjid: pisb2
+    - cjfs:
+      - desarrollare
+      - desarrollares
+      - desarrollare
+      - "desarroll\xE1remos"
+      - desarrollareis
+      - desarrollaren
+      cjid: fsub
+    - cjfs:
+      - he desarrollado
+      - has desarrollado
+      - ha desarrollado
+      - hemos desarrollado
+      - "hab\xE9is desarrollado"
+      - han desarrollado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desarrollado"
+      - "hab\xEDas desarrollado"
+      - "hab\xEDa desarrollado"
+      - "hab\xEDamos desarrollado"
+      - "hab\xEDais desarrollado"
+      - "hab\xEDan desarrollado"
+      cjid: ppsi
+    - cjfs:
+      - hube desarrollado
+      - hubiste desarrollado
+      - hubo desarrollado
+      - hubimos desarrollado
+      - hubisteis desarrollado
+      - hubieron desarrollado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desarrollado"
+      - "habr\xE1s desarrollado"
+      - "habr\xE1 desarrollado"
+      - habremos desarrollado
+      - "habr\xE9is desarrollado"
+      - "habr\xE1n desarrollado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desarrollado"
+      - "habr\xEDas desarrollado"
+      - "habr\xEDa desarrollado"
+      - "habr\xEDamos desarrollado"
+      - "habr\xEDais desarrollado"
+      - "habr\xEDan desarrollado"
+      cjid: cpef
+    - cjfs:
+      - haya desarrollado
+      - hayas desarrollado
+      - haya desarrollado
+      - hayamos desarrollado
+      - "hay\xE1is desarrollado"
+      - hayan desarrollado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desarrollado
+      - hubieras desarrollado
+      - hubiera desarrollado
+      - "hubi\xE9ramos desarrollado"
+      - hubierais desarrollado
+      - hubieran desarrollado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desarrollado
+      - hubieses desarrollado
+      - hubiese desarrollado
+      - "hubi\xE9semos desarrollado"
+      - hubieseis desarrollado
+      - hubiesen desarrollado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desarrollado
+      - hubieres desarrollado
+      - hubiere desarrollado
+      - "hubi\xE9remos desarrollado"
+      - hubiereis desarrollado
+      - hubieren desarrollado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desarrolla
+      - desarrolle
+      - desarrollemos
+      - desarrollad
+      - desarrollen
+      cjid: impf

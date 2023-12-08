@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inspire}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|inhalar||} {bc}to {a_link|inhale}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: inspirar
+  meta:
+    id: inspirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612721000'
+    src: spanish
+    stems:
+    - inspirar
+    - inspirarse
+    uuid: e7948e45-6874-48a9-bb2d-025cacdabf2a
+  shortdef:
+  - to inspire
+  - 'inhalar : to inhale'
+  suppl:
+    cjts:
+    - cjfs:
+      - inspirando
+      - inspirado
+      cjid: gppt
+    - cjfs:
+      - inspiro
+      - inspiras
+      - inspira
+      - inspiramos
+      - "inspir\xE1is"
+      - inspiran
+      cjid: pind
+    - cjfs:
+      - inspiraba
+      - inspirabas
+      - inspiraba
+      - "inspir\xE1bamos"
+      - inspirabais
+      - inspiraban
+      cjid: pret
+    - cjfs:
+      - "inspir\xE9"
+      - inspiraste
+      - "inspir\xF3"
+      - inspiramos
+      - inspirasteis
+      - inspiraron
+      cjid: pprf
+    - cjfs:
+      - "inspirar\xE9"
+      - "inspirar\xE1s"
+      - "inspirar\xE1"
+      - inspiraremos
+      - "inspirar\xE9is"
+      - "inspirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inspirar\xEDa"
+      - "inspirar\xEDas"
+      - "inspirar\xEDa"
+      - "inspirar\xEDamos"
+      - "inspirar\xEDais"
+      - "inspirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - inspire
+      - inspires
+      - inspire
+      - inspiremos
+      - "inspir\xE9is"
+      - inspiren
+      cjid: psub
+    - cjfs:
+      - inspirara
+      - inspiraras
+      - inspirara
+      - "inspir\xE1ramos"
+      - inspirarais
+      - inspiraran
+      cjid: pisb1
+    - cjfs:
+      - inspirase
+      - inspirases
+      - inspirase
+      - "inspir\xE1semos"
+      - inspiraseis
+      - inspirasen
+      cjid: pisb2
+    - cjfs:
+      - inspirare
+      - inspirares
+      - inspirare
+      - "inspir\xE1remos"
+      - inspirareis
+      - inspiraren
+      cjid: fsub
+    - cjfs:
+      - he inspirado
+      - has inspirado
+      - ha inspirado
+      - hemos inspirado
+      - "hab\xE9is inspirado"
+      - han inspirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inspirado"
+      - "hab\xEDas inspirado"
+      - "hab\xEDa inspirado"
+      - "hab\xEDamos inspirado"
+      - "hab\xEDais inspirado"
+      - "hab\xEDan inspirado"
+      cjid: ppsi
+    - cjfs:
+      - hube inspirado
+      - hubiste inspirado
+      - hubo inspirado
+      - hubimos inspirado
+      - hubisteis inspirado
+      - hubieron inspirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inspirado"
+      - "habr\xE1s inspirado"
+      - "habr\xE1 inspirado"
+      - habremos inspirado
+      - "habr\xE9is inspirado"
+      - "habr\xE1n inspirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inspirado"
+      - "habr\xEDas inspirado"
+      - "habr\xEDa inspirado"
+      - "habr\xEDamos inspirado"
+      - "habr\xEDais inspirado"
+      - "habr\xEDan inspirado"
+      cjid: cpef
+    - cjfs:
+      - haya inspirado
+      - hayas inspirado
+      - haya inspirado
+      - hayamos inspirado
+      - "hay\xE1is inspirado"
+      - hayan inspirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera inspirado
+      - hubieras inspirado
+      - hubiera inspirado
+      - "hubi\xE9ramos inspirado"
+      - hubierais inspirado
+      - hubieran inspirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese inspirado
+      - hubieses inspirado
+      - hubiese inspirado
+      - "hubi\xE9semos inspirado"
+      - hubieseis inspirado
+      - hubiesen inspirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere inspirado
+      - hubieres inspirado
+      - hubiere inspirado
+      - "hubi\xE9remos inspirado"
+      - hubiereis inspirado
+      - hubieren inspirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inspira
+      - inspire
+      - inspiremos
+      - inspirad
+      - inspiren
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: inspirarse

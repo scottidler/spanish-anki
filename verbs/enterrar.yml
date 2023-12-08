@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bury}'
+  fl: transitive verb
+  hwi:
+    hw: enterrar
+    prs:
+    - sound:
+        audio: enter05sp
+  meta:
+    id: enterrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608719000'
+    src: spanish
+    stems:
+    - enterrar
+    uuid: 63d7b7d6-106f-4908-a651-dd0200ab87d6
+  shortdef:
+  - to bury
+  suppl:
+    cjts:
+    - cjfs:
+      - enterrando
+      - enterrado
+      cjid: gppt
+    - cjfs:
+      - entierro
+      - entierras
+      - entierra
+      - enterramos
+      - "enterr\xE1is"
+      - entierran
+      cjid: pind
+    - cjfs:
+      - enterraba
+      - enterrabas
+      - enterraba
+      - "enterr\xE1bamos"
+      - enterrabais
+      - enterraban
+      cjid: pret
+    - cjfs:
+      - "enterr\xE9"
+      - enterraste
+      - "enterr\xF3"
+      - enterramos
+      - enterrasteis
+      - enterraron
+      cjid: pprf
+    - cjfs:
+      - "enterrar\xE9"
+      - "enterrar\xE1s"
+      - "enterrar\xE1"
+      - enterraremos
+      - "enterrar\xE9is"
+      - "enterrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enterrar\xEDa"
+      - "enterrar\xEDas"
+      - "enterrar\xEDa"
+      - "enterrar\xEDamos"
+      - "enterrar\xEDais"
+      - "enterrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - entierre
+      - entierres
+      - entierre
+      - enterremos
+      - "enterr\xE9is"
+      - entierren
+      cjid: psub
+    - cjfs:
+      - enterrara
+      - enterraras
+      - enterrara
+      - "enterr\xE1ramos"
+      - enterrarais
+      - enterraran
+      cjid: pisb1
+    - cjfs:
+      - enterrase
+      - enterrases
+      - enterrase
+      - "enterr\xE1semos"
+      - enterraseis
+      - enterrasen
+      cjid: pisb2
+    - cjfs:
+      - enterrare
+      - enterrares
+      - enterrare
+      - "enterr\xE1remos"
+      - enterrareis
+      - enterraren
+      cjid: fsub
+    - cjfs:
+      - he enterrado
+      - has enterrado
+      - ha enterrado
+      - hemos enterrado
+      - "hab\xE9is enterrado"
+      - han enterrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enterrado"
+      - "hab\xEDas enterrado"
+      - "hab\xEDa enterrado"
+      - "hab\xEDamos enterrado"
+      - "hab\xEDais enterrado"
+      - "hab\xEDan enterrado"
+      cjid: ppsi
+    - cjfs:
+      - hube enterrado
+      - hubiste enterrado
+      - hubo enterrado
+      - hubimos enterrado
+      - hubisteis enterrado
+      - hubieron enterrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enterrado"
+      - "habr\xE1s enterrado"
+      - "habr\xE1 enterrado"
+      - habremos enterrado
+      - "habr\xE9is enterrado"
+      - "habr\xE1n enterrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enterrado"
+      - "habr\xEDas enterrado"
+      - "habr\xEDa enterrado"
+      - "habr\xEDamos enterrado"
+      - "habr\xEDais enterrado"
+      - "habr\xEDan enterrado"
+      cjid: cpef
+    - cjfs:
+      - haya enterrado
+      - hayas enterrado
+      - haya enterrado
+      - hayamos enterrado
+      - "hay\xE1is enterrado"
+      - hayan enterrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enterrado
+      - hubieras enterrado
+      - hubiera enterrado
+      - "hubi\xE9ramos enterrado"
+      - hubierais enterrado
+      - hubieran enterrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enterrado
+      - hubieses enterrado
+      - hubiese enterrado
+      - "hubi\xE9semos enterrado"
+      - hubieseis enterrado
+      - hubiesen enterrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enterrado
+      - hubieres enterrado
+      - hubiere enterrado
+      - "hubi\xE9remos enterrado"
+      - hubiereis enterrado
+      - hubieren enterrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entierra
+      - entierre
+      - enterremos
+      - enterrad
+      - entierren
+      cjid: impf

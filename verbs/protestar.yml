@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|protest}, to {a_link|object}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to complain about'
+          sn: '2'
+          vrs:
+          - va: protestar por
+            vac: ~ por
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|protest}, to object to'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: protestar
+    prs:
+    - sound:
+        audio: prote05sp
+  meta:
+    id: protestar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618348000'
+    src: spanish
+    stems:
+    - protestar
+    - protestar por
+    uuid: 9af8d968-1a03-4c93-be8b-f7cd73b0f469
+  shortdef:
+  - to protest, to object
+  - to complain about
+  - to protest, to object to
+  suppl:
+    cjts:
+    - cjfs:
+      - protestando
+      - protestado
+      cjid: gppt
+    - cjfs:
+      - protesto
+      - protestas
+      - protesta
+      - protestamos
+      - "protest\xE1is"
+      - protestan
+      cjid: pind
+    - cjfs:
+      - protestaba
+      - protestabas
+      - protestaba
+      - "protest\xE1bamos"
+      - protestabais
+      - protestaban
+      cjid: pret
+    - cjfs:
+      - "protest\xE9"
+      - protestaste
+      - "protest\xF3"
+      - protestamos
+      - protestasteis
+      - protestaron
+      cjid: pprf
+    - cjfs:
+      - "protestar\xE9"
+      - "protestar\xE1s"
+      - "protestar\xE1"
+      - protestaremos
+      - "protestar\xE9is"
+      - "protestar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "protestar\xEDa"
+      - "protestar\xEDas"
+      - "protestar\xEDa"
+      - "protestar\xEDamos"
+      - "protestar\xEDais"
+      - "protestar\xEDan"
+      cjid: cond
+    - cjfs:
+      - proteste
+      - protestes
+      - proteste
+      - protestemos
+      - "protest\xE9is"
+      - protesten
+      cjid: psub
+    - cjfs:
+      - protestara
+      - protestaras
+      - protestara
+      - "protest\xE1ramos"
+      - protestarais
+      - protestaran
+      cjid: pisb1
+    - cjfs:
+      - protestase
+      - protestases
+      - protestase
+      - "protest\xE1semos"
+      - protestaseis
+      - protestasen
+      cjid: pisb2
+    - cjfs:
+      - protestare
+      - protestares
+      - protestare
+      - "protest\xE1remos"
+      - protestareis
+      - protestaren
+      cjid: fsub
+    - cjfs:
+      - he protestado
+      - has protestado
+      - ha protestado
+      - hemos protestado
+      - "hab\xE9is protestado"
+      - han protestado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa protestado"
+      - "hab\xEDas protestado"
+      - "hab\xEDa protestado"
+      - "hab\xEDamos protestado"
+      - "hab\xEDais protestado"
+      - "hab\xEDan protestado"
+      cjid: ppsi
+    - cjfs:
+      - hube protestado
+      - hubiste protestado
+      - hubo protestado
+      - hubimos protestado
+      - hubisteis protestado
+      - hubieron protestado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 protestado"
+      - "habr\xE1s protestado"
+      - "habr\xE1 protestado"
+      - habremos protestado
+      - "habr\xE9is protestado"
+      - "habr\xE1n protestado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa protestado"
+      - "habr\xEDas protestado"
+      - "habr\xEDa protestado"
+      - "habr\xEDamos protestado"
+      - "habr\xEDais protestado"
+      - "habr\xEDan protestado"
+      cjid: cpef
+    - cjfs:
+      - haya protestado
+      - hayas protestado
+      - haya protestado
+      - hayamos protestado
+      - "hay\xE1is protestado"
+      - hayan protestado
+      cjid: ppfs
+    - cjfs:
+      - hubiera protestado
+      - hubieras protestado
+      - hubiera protestado
+      - "hubi\xE9ramos protestado"
+      - hubierais protestado
+      - hubieran protestado
+      cjid: ppss1
+    - cjfs:
+      - hubiese protestado
+      - hubieses protestado
+      - hubiese protestado
+      - "hubi\xE9semos protestado"
+      - hubieseis protestado
+      - hubiesen protestado
+      cjid: ppss2
+    - cjfs:
+      - hubiere protestado
+      - hubieres protestado
+      - hubiere protestado
+      - "hubi\xE9remos protestado"
+      - hubiereis protestado
+      - hubieren protestado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - protesta
+      - proteste
+      - protestemos
+      - protestad
+      - protesten
+      cjid: impf

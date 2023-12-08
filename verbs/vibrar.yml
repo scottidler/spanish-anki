@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|vibrate}'
+  fl: intransitive verb
+  hwi:
+    hw: vibrar
+    prs:
+    - sound:
+        audio: vibra02sp
+  meta:
+    id: vibrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622965000'
+    src: spanish
+    stems:
+    - vibrar
+    uuid: b9ad88b7-d2da-4870-9ba7-4a119f9d1a2e
+  shortdef:
+  - to vibrate
+  suppl:
+    cjts:
+    - cjfs:
+      - vibrando
+      - vibrado
+      cjid: gppt
+    - cjfs:
+      - vibro
+      - vibras
+      - vibra
+      - vibramos
+      - "vibr\xE1is"
+      - vibran
+      cjid: pind
+    - cjfs:
+      - vibraba
+      - vibrabas
+      - vibraba
+      - "vibr\xE1bamos"
+      - vibrabais
+      - vibraban
+      cjid: pret
+    - cjfs:
+      - "vibr\xE9"
+      - vibraste
+      - "vibr\xF3"
+      - vibramos
+      - vibrasteis
+      - vibraron
+      cjid: pprf
+    - cjfs:
+      - "vibrar\xE9"
+      - "vibrar\xE1s"
+      - "vibrar\xE1"
+      - vibraremos
+      - "vibrar\xE9is"
+      - "vibrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vibrar\xEDa"
+      - "vibrar\xEDas"
+      - "vibrar\xEDa"
+      - "vibrar\xEDamos"
+      - "vibrar\xEDais"
+      - "vibrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - vibre
+      - vibres
+      - vibre
+      - vibremos
+      - "vibr\xE9is"
+      - vibren
+      cjid: psub
+    - cjfs:
+      - vibrara
+      - vibraras
+      - vibrara
+      - "vibr\xE1ramos"
+      - vibrarais
+      - vibraran
+      cjid: pisb1
+    - cjfs:
+      - vibrase
+      - vibrases
+      - vibrase
+      - "vibr\xE1semos"
+      - vibraseis
+      - vibrasen
+      cjid: pisb2
+    - cjfs:
+      - vibrare
+      - vibrares
+      - vibrare
+      - "vibr\xE1remos"
+      - vibrareis
+      - vibraren
+      cjid: fsub
+    - cjfs:
+      - he vibrado
+      - has vibrado
+      - ha vibrado
+      - hemos vibrado
+      - "hab\xE9is vibrado"
+      - han vibrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vibrado"
+      - "hab\xEDas vibrado"
+      - "hab\xEDa vibrado"
+      - "hab\xEDamos vibrado"
+      - "hab\xEDais vibrado"
+      - "hab\xEDan vibrado"
+      cjid: ppsi
+    - cjfs:
+      - hube vibrado
+      - hubiste vibrado
+      - hubo vibrado
+      - hubimos vibrado
+      - hubisteis vibrado
+      - hubieron vibrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vibrado"
+      - "habr\xE1s vibrado"
+      - "habr\xE1 vibrado"
+      - habremos vibrado
+      - "habr\xE9is vibrado"
+      - "habr\xE1n vibrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vibrado"
+      - "habr\xEDas vibrado"
+      - "habr\xEDa vibrado"
+      - "habr\xEDamos vibrado"
+      - "habr\xEDais vibrado"
+      - "habr\xEDan vibrado"
+      cjid: cpef
+    - cjfs:
+      - haya vibrado
+      - hayas vibrado
+      - haya vibrado
+      - hayamos vibrado
+      - "hay\xE1is vibrado"
+      - hayan vibrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vibrado
+      - hubieras vibrado
+      - hubiera vibrado
+      - "hubi\xE9ramos vibrado"
+      - hubierais vibrado
+      - hubieran vibrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vibrado
+      - hubieses vibrado
+      - hubiese vibrado
+      - "hubi\xE9semos vibrado"
+      - hubieseis vibrado
+      - hubiesen vibrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vibrado
+      - hubieres vibrado
+      - hubiere vibrado
+      - "hubi\xE9remos vibrado"
+      - hubiereis vibrado
+      - hubieren vibrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vibra
+      - vibre
+      - vibremos
+      - vibrad
+      - vibren
+      cjid: impf

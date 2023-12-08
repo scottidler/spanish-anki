@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fallar||} {bc}to {a_link|fail}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall through}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: fracasar
+    prs:
+    - sound:
+        audio: fraca02sp
+  meta:
+    id: fracasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610364000'
+    src: spanish
+    stems:
+    - fracasar
+    uuid: f9ea869d-418c-4c2a-928e-6f9985c46b04
+  shortdef:
+  - 'fallar : to fail'
+  - to fall through
+  suppl:
+    cjts:
+    - cjfs:
+      - fracasando
+      - fracasado
+      cjid: gppt
+    - cjfs:
+      - fracaso
+      - fracasas
+      - fracasa
+      - fracasamos
+      - "fracas\xE1is"
+      - fracasan
+      cjid: pind
+    - cjfs:
+      - fracasaba
+      - fracasabas
+      - fracasaba
+      - "fracas\xE1bamos"
+      - fracasabais
+      - fracasaban
+      cjid: pret
+    - cjfs:
+      - "fracas\xE9"
+      - fracasaste
+      - "fracas\xF3"
+      - fracasamos
+      - fracasasteis
+      - fracasaron
+      cjid: pprf
+    - cjfs:
+      - "fracasar\xE9"
+      - "fracasar\xE1s"
+      - "fracasar\xE1"
+      - fracasaremos
+      - "fracasar\xE9is"
+      - "fracasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fracasar\xEDa"
+      - "fracasar\xEDas"
+      - "fracasar\xEDa"
+      - "fracasar\xEDamos"
+      - "fracasar\xEDais"
+      - "fracasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - fracase
+      - fracases
+      - fracase
+      - fracasemos
+      - "fracas\xE9is"
+      - fracasen
+      cjid: psub
+    - cjfs:
+      - fracasara
+      - fracasaras
+      - fracasara
+      - "fracas\xE1ramos"
+      - fracasarais
+      - fracasaran
+      cjid: pisb1
+    - cjfs:
+      - fracasase
+      - fracasases
+      - fracasase
+      - "fracas\xE1semos"
+      - fracasaseis
+      - fracasasen
+      cjid: pisb2
+    - cjfs:
+      - fracasare
+      - fracasares
+      - fracasare
+      - "fracas\xE1remos"
+      - fracasareis
+      - fracasaren
+      cjid: fsub
+    - cjfs:
+      - he fracasado
+      - has fracasado
+      - ha fracasado
+      - hemos fracasado
+      - "hab\xE9is fracasado"
+      - han fracasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fracasado"
+      - "hab\xEDas fracasado"
+      - "hab\xEDa fracasado"
+      - "hab\xEDamos fracasado"
+      - "hab\xEDais fracasado"
+      - "hab\xEDan fracasado"
+      cjid: ppsi
+    - cjfs:
+      - hube fracasado
+      - hubiste fracasado
+      - hubo fracasado
+      - hubimos fracasado
+      - hubisteis fracasado
+      - hubieron fracasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fracasado"
+      - "habr\xE1s fracasado"
+      - "habr\xE1 fracasado"
+      - habremos fracasado
+      - "habr\xE9is fracasado"
+      - "habr\xE1n fracasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fracasado"
+      - "habr\xEDas fracasado"
+      - "habr\xEDa fracasado"
+      - "habr\xEDamos fracasado"
+      - "habr\xEDais fracasado"
+      - "habr\xEDan fracasado"
+      cjid: cpef
+    - cjfs:
+      - haya fracasado
+      - hayas fracasado
+      - haya fracasado
+      - hayamos fracasado
+      - "hay\xE1is fracasado"
+      - hayan fracasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fracasado
+      - hubieras fracasado
+      - hubiera fracasado
+      - "hubi\xE9ramos fracasado"
+      - hubierais fracasado
+      - hubieran fracasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fracasado
+      - hubieses fracasado
+      - hubiese fracasado
+      - "hubi\xE9semos fracasado"
+      - hubieseis fracasado
+      - hubiesen fracasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fracasado
+      - hubieres fracasado
+      - hubiere fracasado
+      - "hubi\xE9remos fracasado"
+      - hubiereis fracasado
+      - hubieren fracasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fracasa
+      - fracase
+      - fracasemos
+      - fracasad
+      - fracasen
+      cjid: impf

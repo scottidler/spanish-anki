@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|discard}, to throw away'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rechazar||} {bc}to {a_link|reject}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: desechar
+    prs:
+    - sound:
+        audio: desec02sp
+  meta:
+    id: desechar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607007000'
+    src: spanish
+    stems:
+    - desechar
+    uuid: ea3283a1-0247-4724-b5ec-ab1f52010d45
+  shortdef:
+  - to discard, to throw away
+  - 'rechazar : to reject'
+  suppl:
+    cjts:
+    - cjfs:
+      - desechando
+      - desechado
+      cjid: gppt
+    - cjfs:
+      - desecho
+      - desechas
+      - desecha
+      - desechamos
+      - "desech\xE1is"
+      - desechan
+      cjid: pind
+    - cjfs:
+      - desechaba
+      - desechabas
+      - desechaba
+      - "desech\xE1bamos"
+      - desechabais
+      - desechaban
+      cjid: pret
+    - cjfs:
+      - "desech\xE9"
+      - desechaste
+      - "desech\xF3"
+      - desechamos
+      - desechasteis
+      - desecharon
+      cjid: pprf
+    - cjfs:
+      - "desechar\xE9"
+      - "desechar\xE1s"
+      - "desechar\xE1"
+      - desecharemos
+      - "desechar\xE9is"
+      - "desechar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desechar\xEDa"
+      - "desechar\xEDas"
+      - "desechar\xEDa"
+      - "desechar\xEDamos"
+      - "desechar\xEDais"
+      - "desechar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deseche
+      - deseches
+      - deseche
+      - desechemos
+      - "desech\xE9is"
+      - desechen
+      cjid: psub
+    - cjfs:
+      - desechara
+      - desecharas
+      - desechara
+      - "desech\xE1ramos"
+      - desecharais
+      - desecharan
+      cjid: pisb1
+    - cjfs:
+      - desechase
+      - desechases
+      - desechase
+      - "desech\xE1semos"
+      - desechaseis
+      - desechasen
+      cjid: pisb2
+    - cjfs:
+      - desechare
+      - desechares
+      - desechare
+      - "desech\xE1remos"
+      - desechareis
+      - desecharen
+      cjid: fsub
+    - cjfs:
+      - he desechado
+      - has desechado
+      - ha desechado
+      - hemos desechado
+      - "hab\xE9is desechado"
+      - han desechado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desechado"
+      - "hab\xEDas desechado"
+      - "hab\xEDa desechado"
+      - "hab\xEDamos desechado"
+      - "hab\xEDais desechado"
+      - "hab\xEDan desechado"
+      cjid: ppsi
+    - cjfs:
+      - hube desechado
+      - hubiste desechado
+      - hubo desechado
+      - hubimos desechado
+      - hubisteis desechado
+      - hubieron desechado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desechado"
+      - "habr\xE1s desechado"
+      - "habr\xE1 desechado"
+      - habremos desechado
+      - "habr\xE9is desechado"
+      - "habr\xE1n desechado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desechado"
+      - "habr\xEDas desechado"
+      - "habr\xEDa desechado"
+      - "habr\xEDamos desechado"
+      - "habr\xEDais desechado"
+      - "habr\xEDan desechado"
+      cjid: cpef
+    - cjfs:
+      - haya desechado
+      - hayas desechado
+      - haya desechado
+      - hayamos desechado
+      - "hay\xE1is desechado"
+      - hayan desechado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desechado
+      - hubieras desechado
+      - hubiera desechado
+      - "hubi\xE9ramos desechado"
+      - hubierais desechado
+      - hubieran desechado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desechado
+      - hubieses desechado
+      - hubiese desechado
+      - "hubi\xE9semos desechado"
+      - hubieseis desechado
+      - hubiesen desechado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desechado
+      - hubieres desechado
+      - hubiere desechado
+      - "hubi\xE9remos desechado"
+      - hubiereis desechado
+      - hubieren desechado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desecha
+      - deseche
+      - desechemos
+      - desechad
+      - desechen
+      cjid: impf

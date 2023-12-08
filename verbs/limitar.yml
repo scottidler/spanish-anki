@@ -1,0 +1,207 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|restringir||} {bc}to {a_link|limit}, to {a_link|restrict}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to border on'
+          vrs:
+          - va: limitar con
+            vac: ~ con
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to limit oneself to'
+            vrs:
+            - va: limitarse a
+              vac: ~ a
+    drp: limitarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: limitar
+    prs:
+    - sound:
+        audio: limit02sp
+  meta:
+    id: limitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613804000'
+    src: spanish
+    stems:
+    - limitar
+    - limitar con
+    - limitarse
+    - limitarse a
+    uuid: ad4d5be1-5a94-4087-b231-233f80a76831
+  shortdef:
+  - 'restringir : to limit, to restrict'
+  - to border on
+  suppl:
+    cjts:
+    - cjfs:
+      - limitando
+      - limitado
+      cjid: gppt
+    - cjfs:
+      - limito
+      - limitas
+      - limita
+      - limitamos
+      - "limit\xE1is"
+      - limitan
+      cjid: pind
+    - cjfs:
+      - limitaba
+      - limitabas
+      - limitaba
+      - "limit\xE1bamos"
+      - limitabais
+      - limitaban
+      cjid: pret
+    - cjfs:
+      - "limit\xE9"
+      - limitaste
+      - "limit\xF3"
+      - limitamos
+      - limitasteis
+      - limitaron
+      cjid: pprf
+    - cjfs:
+      - "limitar\xE9"
+      - "limitar\xE1s"
+      - "limitar\xE1"
+      - limitaremos
+      - "limitar\xE9is"
+      - "limitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "limitar\xEDa"
+      - "limitar\xEDas"
+      - "limitar\xEDa"
+      - "limitar\xEDamos"
+      - "limitar\xEDais"
+      - "limitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - limite
+      - limites
+      - limite
+      - limitemos
+      - "limit\xE9is"
+      - limiten
+      cjid: psub
+    - cjfs:
+      - limitara
+      - limitaras
+      - limitara
+      - "limit\xE1ramos"
+      - limitarais
+      - limitaran
+      cjid: pisb1
+    - cjfs:
+      - limitase
+      - limitases
+      - limitase
+      - "limit\xE1semos"
+      - limitaseis
+      - limitasen
+      cjid: pisb2
+    - cjfs:
+      - limitare
+      - limitares
+      - limitare
+      - "limit\xE1remos"
+      - limitareis
+      - limitaren
+      cjid: fsub
+    - cjfs:
+      - he limitado
+      - has limitado
+      - ha limitado
+      - hemos limitado
+      - "hab\xE9is limitado"
+      - han limitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa limitado"
+      - "hab\xEDas limitado"
+      - "hab\xEDa limitado"
+      - "hab\xEDamos limitado"
+      - "hab\xEDais limitado"
+      - "hab\xEDan limitado"
+      cjid: ppsi
+    - cjfs:
+      - hube limitado
+      - hubiste limitado
+      - hubo limitado
+      - hubimos limitado
+      - hubisteis limitado
+      - hubieron limitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 limitado"
+      - "habr\xE1s limitado"
+      - "habr\xE1 limitado"
+      - habremos limitado
+      - "habr\xE9is limitado"
+      - "habr\xE1n limitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa limitado"
+      - "habr\xEDas limitado"
+      - "habr\xEDa limitado"
+      - "habr\xEDamos limitado"
+      - "habr\xEDais limitado"
+      - "habr\xEDan limitado"
+      cjid: cpef
+    - cjfs:
+      - haya limitado
+      - hayas limitado
+      - haya limitado
+      - hayamos limitado
+      - "hay\xE1is limitado"
+      - hayan limitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera limitado
+      - hubieras limitado
+      - hubiera limitado
+      - "hubi\xE9ramos limitado"
+      - hubierais limitado
+      - hubieran limitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese limitado
+      - hubieses limitado
+      - hubiese limitado
+      - "hubi\xE9semos limitado"
+      - hubieseis limitado
+      - hubiesen limitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere limitado
+      - hubieres limitado
+      - hubiere limitado
+      - "hubi\xE9remos limitado"
+      - hubiereis limitado
+      - hubieren limitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - limita
+      - limite
+      - limitemos
+      - limitad
+      - limiten
+      cjid: impf

@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wet}, to {a_link|moisten}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dunk}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get wet'
+    drp: mojarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: mojar
+    prs:
+    - sound:
+        audio: mojar01sp
+  meta:
+    id: mojar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615212000'
+    src: spanish
+    stems:
+    - mojar
+    - mojarse
+    uuid: d30179de-6a3c-4d9b-b0d7-c4d5cec5e0e1
+  shortdef:
+  - to wet, to moisten
+  - to dunk
+  suppl:
+    cjts:
+    - cjfs:
+      - mojando
+      - mojado
+      cjid: gppt
+    - cjfs:
+      - mojo
+      - mojas
+      - moja
+      - mojamos
+      - "moj\xE1is"
+      - mojan
+      cjid: pind
+    - cjfs:
+      - mojaba
+      - mojabas
+      - mojaba
+      - "moj\xE1bamos"
+      - mojabais
+      - mojaban
+      cjid: pret
+    - cjfs:
+      - "moj\xE9"
+      - mojaste
+      - "moj\xF3"
+      - mojamos
+      - mojasteis
+      - mojaron
+      cjid: pprf
+    - cjfs:
+      - "mojar\xE9"
+      - "mojar\xE1s"
+      - "mojar\xE1"
+      - mojaremos
+      - "mojar\xE9is"
+      - "mojar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mojar\xEDa"
+      - "mojar\xEDas"
+      - "mojar\xEDa"
+      - "mojar\xEDamos"
+      - "mojar\xEDais"
+      - "mojar\xEDan"
+      cjid: cond
+    - cjfs:
+      - moje
+      - mojes
+      - moje
+      - mojemos
+      - "moj\xE9is"
+      - mojen
+      cjid: psub
+    - cjfs:
+      - mojara
+      - mojaras
+      - mojara
+      - "moj\xE1ramos"
+      - mojarais
+      - mojaran
+      cjid: pisb1
+    - cjfs:
+      - mojase
+      - mojases
+      - mojase
+      - "moj\xE1semos"
+      - mojaseis
+      - mojasen
+      cjid: pisb2
+    - cjfs:
+      - mojare
+      - mojares
+      - mojare
+      - "moj\xE1remos"
+      - mojareis
+      - mojaren
+      cjid: fsub
+    - cjfs:
+      - he mojado
+      - has mojado
+      - ha mojado
+      - hemos mojado
+      - "hab\xE9is mojado"
+      - han mojado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mojado"
+      - "hab\xEDas mojado"
+      - "hab\xEDa mojado"
+      - "hab\xEDamos mojado"
+      - "hab\xEDais mojado"
+      - "hab\xEDan mojado"
+      cjid: ppsi
+    - cjfs:
+      - hube mojado
+      - hubiste mojado
+      - hubo mojado
+      - hubimos mojado
+      - hubisteis mojado
+      - hubieron mojado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mojado"
+      - "habr\xE1s mojado"
+      - "habr\xE1 mojado"
+      - habremos mojado
+      - "habr\xE9is mojado"
+      - "habr\xE1n mojado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mojado"
+      - "habr\xEDas mojado"
+      - "habr\xEDa mojado"
+      - "habr\xEDamos mojado"
+      - "habr\xEDais mojado"
+      - "habr\xEDan mojado"
+      cjid: cpef
+    - cjfs:
+      - haya mojado
+      - hayas mojado
+      - haya mojado
+      - hayamos mojado
+      - "hay\xE1is mojado"
+      - hayan mojado
+      cjid: ppfs
+    - cjfs:
+      - hubiera mojado
+      - hubieras mojado
+      - hubiera mojado
+      - "hubi\xE9ramos mojado"
+      - hubierais mojado
+      - hubieran mojado
+      cjid: ppss1
+    - cjfs:
+      - hubiese mojado
+      - hubieses mojado
+      - hubiese mojado
+      - "hubi\xE9semos mojado"
+      - hubieseis mojado
+      - hubiesen mojado
+      cjid: ppss2
+    - cjfs:
+      - hubiere mojado
+      - hubieres mojado
+      - hubiere mojado
+      - "hubi\xE9remos mojado"
+      - hubiereis mojado
+      - hubieren mojado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - moja
+      - moje
+      - mojemos
+      - mojad
+      - mojen
+      cjid: impf

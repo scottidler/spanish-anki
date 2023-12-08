@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|curse}, to {a_link|damn}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|curse}, to {a_link|swear}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to speak ill of, to {a_link|slander}, to {a_link|defame}'
+          sn: '2'
+          vrs:
+          - va: maldecir de
+            vac: ~ de
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: maldecir
+    prs:
+    - sound:
+        audio: malde01sp
+  meta:
+    id: maldecir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614206000'
+    src: spanish
+    stems:
+    - maldecir
+    - maldecir de
+    uuid: d52e6052-2922-4880-ab8d-f740adbf2eb7
+  shortdef:
+  - to curse, to damn
+  - to curse, to swear
+  - to speak ill of, to slander, to defame
+  suppl:
+    cjts:
+    - cjfs:
+      - maldeciendo
+      - maldecido
+      cjid: gppt
+    - cjfs:
+      - maldigo
+      - maldices
+      - maldice
+      - maldecimos
+      - "maldec\xEDs"
+      - maldicen
+      cjid: pind
+    - cjfs:
+      - "maldec\xEDa"
+      - "maldec\xEDas"
+      - "maldec\xEDa"
+      - "maldec\xEDamos"
+      - "maldec\xEDais"
+      - "maldec\xEDan"
+      cjid: pret
+    - cjfs:
+      - maldije
+      - maldijiste
+      - maldijo
+      - maldijimos
+      - maldijisteis
+      - maldijeron
+      cjid: pprf
+    - cjfs:
+      - "maldecir\xE9"
+      - "maldecir\xE1s"
+      - "maldecir\xE1"
+      - maldeciremos
+      - "maldecir\xE9is"
+      - "maldecir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "maldecir\xEDa"
+      - "maldecir\xEDas"
+      - "maldecir\xEDa"
+      - "maldecir\xEDamos"
+      - "maldecir\xEDais"
+      - "maldecir\xEDan"
+      cjid: cond
+    - cjfs:
+      - maldiga
+      - maldigas
+      - maldiga
+      - maldigamos
+      - "maldig\xE1is"
+      - maldigan
+      cjid: psub
+    - cjfs:
+      - maldijera
+      - maldijeras
+      - maldijera
+      - "maldij\xE9ramos"
+      - maldijerais
+      - maldijeran
+      cjid: pisb1
+    - cjfs:
+      - maldijese
+      - maldijeses
+      - maldijese
+      - "maldij\xE9semos"
+      - maldijeseis
+      - maldijesen
+      cjid: pisb2
+    - cjfs:
+      - maldijere
+      - maldijeres
+      - maldijere
+      - "maldij\xE9remos"
+      - maldijereis
+      - maldijeren
+      cjid: fsub
+    - cjfs:
+      - he maldecido
+      - has maldecido
+      - ha maldecido
+      - hemos maldecido
+      - "hab\xE9is maldecido"
+      - han maldecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa maldecido"
+      - "hab\xEDas maldecido"
+      - "hab\xEDa maldecido"
+      - "hab\xEDamos maldecido"
+      - "hab\xEDais maldecido"
+      - "hab\xEDan maldecido"
+      cjid: ppsi
+    - cjfs:
+      - hube maldecido
+      - hubiste maldecido
+      - hubo maldecido
+      - hubimos maldecido
+      - hubisteis maldecido
+      - hubieron maldecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 maldecido"
+      - "habr\xE1s maldecido"
+      - "habr\xE1 maldecido"
+      - habremos maldecido
+      - "habr\xE9is maldecido"
+      - "habr\xE1n maldecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa maldecido"
+      - "habr\xEDas maldecido"
+      - "habr\xEDa maldecido"
+      - "habr\xEDamos maldecido"
+      - "habr\xEDais maldecido"
+      - "habr\xEDan maldecido"
+      cjid: cpef
+    - cjfs:
+      - haya maldecido
+      - hayas maldecido
+      - haya maldecido
+      - hayamos maldecido
+      - "hay\xE1is maldecido"
+      - hayan maldecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera maldecido
+      - hubieras maldecido
+      - hubiera maldecido
+      - "hubi\xE9ramos maldecido"
+      - hubierais maldecido
+      - hubieran maldecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese maldecido
+      - hubieses maldecido
+      - hubiese maldecido
+      - "hubi\xE9semos maldecido"
+      - hubieseis maldecido
+      - hubiesen maldecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere maldecido
+      - hubieres maldecido
+      - hubiere maldecido
+      - "hubi\xE9remos maldecido"
+      - hubiereis maldecido
+      - hubieren maldecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - maldice
+      - maldiga
+      - maldigamos
+      - maldecid
+      - maldigan
+      cjid: impf

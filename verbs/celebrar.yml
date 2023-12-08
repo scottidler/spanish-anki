@@ -1,0 +1,222 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|celebrate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold} (a meeting)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|say} (Mass)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|welcome}, to be happy about'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be glad'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be celebrated, to {a_link|fall}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be held, to {a_link|take place}'
+            sn: '2'
+    drp: celebrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: celebrar
+    prs:
+    - sound:
+        audio: celeb02sp
+  meta:
+    id: celebrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604268000'
+    src: spanish
+    stems:
+    - celebrar
+    - celebrarse
+    uuid: 201a3680-9f7f-4b56-87db-4f838db67d96
+  shortdef:
+  - to celebrate
+  - to hold (a meeting)
+  - to say (Mass)
+  suppl:
+    cjts:
+    - cjfs:
+      - celebrando
+      - celebrado
+      cjid: gppt
+    - cjfs:
+      - celebro
+      - celebras
+      - celebra
+      - celebramos
+      - "celebr\xE1is"
+      - celebran
+      cjid: pind
+    - cjfs:
+      - celebraba
+      - celebrabas
+      - celebraba
+      - "celebr\xE1bamos"
+      - celebrabais
+      - celebraban
+      cjid: pret
+    - cjfs:
+      - "celebr\xE9"
+      - celebraste
+      - "celebr\xF3"
+      - celebramos
+      - celebrasteis
+      - celebraron
+      cjid: pprf
+    - cjfs:
+      - "celebrar\xE9"
+      - "celebrar\xE1s"
+      - "celebrar\xE1"
+      - celebraremos
+      - "celebrar\xE9is"
+      - "celebrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "celebrar\xEDa"
+      - "celebrar\xEDas"
+      - "celebrar\xEDa"
+      - "celebrar\xEDamos"
+      - "celebrar\xEDais"
+      - "celebrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - celebre
+      - celebres
+      - celebre
+      - celebremos
+      - "celebr\xE9is"
+      - celebren
+      cjid: psub
+    - cjfs:
+      - celebrara
+      - celebraras
+      - celebrara
+      - "celebr\xE1ramos"
+      - celebrarais
+      - celebraran
+      cjid: pisb1
+    - cjfs:
+      - celebrase
+      - celebrases
+      - celebrase
+      - "celebr\xE1semos"
+      - celebraseis
+      - celebrasen
+      cjid: pisb2
+    - cjfs:
+      - celebrare
+      - celebrares
+      - celebrare
+      - "celebr\xE1remos"
+      - celebrareis
+      - celebraren
+      cjid: fsub
+    - cjfs:
+      - he celebrado
+      - has celebrado
+      - ha celebrado
+      - hemos celebrado
+      - "hab\xE9is celebrado"
+      - han celebrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa celebrado"
+      - "hab\xEDas celebrado"
+      - "hab\xEDa celebrado"
+      - "hab\xEDamos celebrado"
+      - "hab\xEDais celebrado"
+      - "hab\xEDan celebrado"
+      cjid: ppsi
+    - cjfs:
+      - hube celebrado
+      - hubiste celebrado
+      - hubo celebrado
+      - hubimos celebrado
+      - hubisteis celebrado
+      - hubieron celebrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 celebrado"
+      - "habr\xE1s celebrado"
+      - "habr\xE1 celebrado"
+      - habremos celebrado
+      - "habr\xE9is celebrado"
+      - "habr\xE1n celebrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa celebrado"
+      - "habr\xEDas celebrado"
+      - "habr\xEDa celebrado"
+      - "habr\xEDamos celebrado"
+      - "habr\xEDais celebrado"
+      - "habr\xEDan celebrado"
+      cjid: cpef
+    - cjfs:
+      - haya celebrado
+      - hayas celebrado
+      - haya celebrado
+      - hayamos celebrado
+      - "hay\xE1is celebrado"
+      - hayan celebrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera celebrado
+      - hubieras celebrado
+      - hubiera celebrado
+      - "hubi\xE9ramos celebrado"
+      - hubierais celebrado
+      - hubieran celebrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese celebrado
+      - hubieses celebrado
+      - hubiese celebrado
+      - "hubi\xE9semos celebrado"
+      - hubieseis celebrado
+      - hubiesen celebrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere celebrado
+      - hubieres celebrado
+      - hubiere celebrado
+      - "hubi\xE9remos celebrado"
+      - hubiereis celebrado
+      - hubieren celebrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - celebra
+      - celebre
+      - celebremos
+      - celebrad
+      - celebren
+      cjid: impf

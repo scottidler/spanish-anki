@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dissemble}, to {a_link|pretend}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|conceal}, to {a_link|hide}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: disimular
+    prs:
+    - sound:
+        audio: disim04sp
+  meta:
+    id: disimular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607712000'
+    src: spanish
+    stems:
+    - disimular
+    uuid: c37da08e-decf-4052-9f09-e671e86a9251
+  shortdef:
+  - to dissemble, to pretend
+  - to conceal, to hide
+  suppl:
+    cjts:
+    - cjfs:
+      - disimulando
+      - disimulado
+      cjid: gppt
+    - cjfs:
+      - disimulo
+      - disimulas
+      - disimula
+      - disimulamos
+      - "disimul\xE1is"
+      - disimulan
+      cjid: pind
+    - cjfs:
+      - disimulaba
+      - disimulabas
+      - disimulaba
+      - "disimul\xE1bamos"
+      - disimulabais
+      - disimulaban
+      cjid: pret
+    - cjfs:
+      - "disimul\xE9"
+      - disimulaste
+      - "disimul\xF3"
+      - disimulamos
+      - disimulasteis
+      - disimularon
+      cjid: pprf
+    - cjfs:
+      - "disimular\xE9"
+      - "disimular\xE1s"
+      - "disimular\xE1"
+      - disimularemos
+      - "disimular\xE9is"
+      - "disimular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disimular\xEDa"
+      - "disimular\xEDas"
+      - "disimular\xEDa"
+      - "disimular\xEDamos"
+      - "disimular\xEDais"
+      - "disimular\xEDan"
+      cjid: cond
+    - cjfs:
+      - disimule
+      - disimules
+      - disimule
+      - disimulemos
+      - "disimul\xE9is"
+      - disimulen
+      cjid: psub
+    - cjfs:
+      - disimulara
+      - disimularas
+      - disimulara
+      - "disimul\xE1ramos"
+      - disimularais
+      - disimularan
+      cjid: pisb1
+    - cjfs:
+      - disimulase
+      - disimulases
+      - disimulase
+      - "disimul\xE1semos"
+      - disimulaseis
+      - disimulasen
+      cjid: pisb2
+    - cjfs:
+      - disimulare
+      - disimulares
+      - disimulare
+      - "disimul\xE1remos"
+      - disimulareis
+      - disimularen
+      cjid: fsub
+    - cjfs:
+      - he disimulado
+      - has disimulado
+      - ha disimulado
+      - hemos disimulado
+      - "hab\xE9is disimulado"
+      - han disimulado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disimulado"
+      - "hab\xEDas disimulado"
+      - "hab\xEDa disimulado"
+      - "hab\xEDamos disimulado"
+      - "hab\xEDais disimulado"
+      - "hab\xEDan disimulado"
+      cjid: ppsi
+    - cjfs:
+      - hube disimulado
+      - hubiste disimulado
+      - hubo disimulado
+      - hubimos disimulado
+      - hubisteis disimulado
+      - hubieron disimulado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disimulado"
+      - "habr\xE1s disimulado"
+      - "habr\xE1 disimulado"
+      - habremos disimulado
+      - "habr\xE9is disimulado"
+      - "habr\xE1n disimulado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disimulado"
+      - "habr\xEDas disimulado"
+      - "habr\xEDa disimulado"
+      - "habr\xEDamos disimulado"
+      - "habr\xEDais disimulado"
+      - "habr\xEDan disimulado"
+      cjid: cpef
+    - cjfs:
+      - haya disimulado
+      - hayas disimulado
+      - haya disimulado
+      - hayamos disimulado
+      - "hay\xE1is disimulado"
+      - hayan disimulado
+      cjid: ppfs
+    - cjfs:
+      - hubiera disimulado
+      - hubieras disimulado
+      - hubiera disimulado
+      - "hubi\xE9ramos disimulado"
+      - hubierais disimulado
+      - hubieran disimulado
+      cjid: ppss1
+    - cjfs:
+      - hubiese disimulado
+      - hubieses disimulado
+      - hubiese disimulado
+      - "hubi\xE9semos disimulado"
+      - hubieseis disimulado
+      - hubiesen disimulado
+      cjid: ppss2
+    - cjfs:
+      - hubiere disimulado
+      - hubieres disimulado
+      - hubiere disimulado
+      - "hubi\xE9remos disimulado"
+      - hubiereis disimulado
+      - hubieren disimulado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disimula
+      - disimule
+      - disimulemos
+      - disimulad
+      - disimulen
+      cjid: impf

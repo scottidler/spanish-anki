@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snoop}, to {a_link|pry}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|browse}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to look over, to {a_link|check}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: curiosear
+  meta:
+    id: curiosear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606379000'
+    src: spanish
+    stems:
+    - curiosear
+    uuid: 51a394b9-d27a-4880-9e7d-335c7d8d65f8
+  shortdef:
+  - to snoop, to pry
+  - to browse
+  - to look over, to check
+  suppl:
+    cjts:
+    - cjfs:
+      - curioseando
+      - curioseado
+      cjid: gppt
+    - cjfs:
+      - curioseo
+      - curioseas
+      - curiosea
+      - curioseamos
+      - "curiose\xE1is"
+      - curiosean
+      cjid: pind
+    - cjfs:
+      - curioseaba
+      - curioseabas
+      - curioseaba
+      - "curiose\xE1bamos"
+      - curioseabais
+      - curioseaban
+      cjid: pret
+    - cjfs:
+      - "curiose\xE9"
+      - curioseaste
+      - "curiose\xF3"
+      - curioseamos
+      - curioseasteis
+      - curiosearon
+      cjid: pprf
+    - cjfs:
+      - "curiosear\xE9"
+      - "curiosear\xE1s"
+      - "curiosear\xE1"
+      - curiosearemos
+      - "curiosear\xE9is"
+      - "curiosear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "curiosear\xEDa"
+      - "curiosear\xEDas"
+      - "curiosear\xEDa"
+      - "curiosear\xEDamos"
+      - "curiosear\xEDais"
+      - "curiosear\xEDan"
+      cjid: cond
+    - cjfs:
+      - curiosee
+      - curiosees
+      - curiosee
+      - curioseemos
+      - "curiose\xE9is"
+      - curioseen
+      cjid: psub
+    - cjfs:
+      - curioseara
+      - curiosearas
+      - curioseara
+      - "curiose\xE1ramos"
+      - curiosearais
+      - curiosearan
+      cjid: pisb1
+    - cjfs:
+      - curiosease
+      - curioseases
+      - curiosease
+      - "curiose\xE1semos"
+      - curioseaseis
+      - curioseasen
+      cjid: pisb2
+    - cjfs:
+      - curioseare
+      - curioseares
+      - curioseare
+      - "curiose\xE1remos"
+      - curioseareis
+      - curiosearen
+      cjid: fsub
+    - cjfs:
+      - he curioseado
+      - has curioseado
+      - ha curioseado
+      - hemos curioseado
+      - "hab\xE9is curioseado"
+      - han curioseado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa curioseado"
+      - "hab\xEDas curioseado"
+      - "hab\xEDa curioseado"
+      - "hab\xEDamos curioseado"
+      - "hab\xEDais curioseado"
+      - "hab\xEDan curioseado"
+      cjid: ppsi
+    - cjfs:
+      - hube curioseado
+      - hubiste curioseado
+      - hubo curioseado
+      - hubimos curioseado
+      - hubisteis curioseado
+      - hubieron curioseado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 curioseado"
+      - "habr\xE1s curioseado"
+      - "habr\xE1 curioseado"
+      - habremos curioseado
+      - "habr\xE9is curioseado"
+      - "habr\xE1n curioseado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa curioseado"
+      - "habr\xEDas curioseado"
+      - "habr\xEDa curioseado"
+      - "habr\xEDamos curioseado"
+      - "habr\xEDais curioseado"
+      - "habr\xEDan curioseado"
+      cjid: cpef
+    - cjfs:
+      - haya curioseado
+      - hayas curioseado
+      - haya curioseado
+      - hayamos curioseado
+      - "hay\xE1is curioseado"
+      - hayan curioseado
+      cjid: ppfs
+    - cjfs:
+      - hubiera curioseado
+      - hubieras curioseado
+      - hubiera curioseado
+      - "hubi\xE9ramos curioseado"
+      - hubierais curioseado
+      - hubieran curioseado
+      cjid: ppss1
+    - cjfs:
+      - hubiese curioseado
+      - hubieses curioseado
+      - hubiese curioseado
+      - "hubi\xE9semos curioseado"
+      - hubieseis curioseado
+      - hubiesen curioseado
+      cjid: ppss2
+    - cjfs:
+      - hubiere curioseado
+      - hubieres curioseado
+      - hubiere curioseado
+      - "hubi\xE9remos curioseado"
+      - hubiereis curioseado
+      - hubieren curioseado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - curiosea
+      - curiosee
+      - curioseemos
+      - curiosead
+      - curioseen
+      cjid: impf

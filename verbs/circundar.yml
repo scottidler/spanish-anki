@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|surround}'
+  fl: transitive verb
+  hwi:
+    hw: circundar
+  meta:
+    id: circundar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604772000'
+    src: spanish
+    stems:
+    - circundar
+    - circundante
+    uuid: a4492bd6-65ac-4554-9cd8-5935f81eeafe
+  shortdef:
+  - to surround
+  suppl:
+    cjts:
+    - cjfs:
+      - circundando
+      - circundado
+      cjid: gppt
+    - cjfs:
+      - circundo
+      - circundas
+      - circunda
+      - circundamos
+      - "circund\xE1is"
+      - circundan
+      cjid: pind
+    - cjfs:
+      - circundaba
+      - circundabas
+      - circundaba
+      - "circund\xE1bamos"
+      - circundabais
+      - circundaban
+      cjid: pret
+    - cjfs:
+      - "circund\xE9"
+      - circundaste
+      - "circund\xF3"
+      - circundamos
+      - circundasteis
+      - circundaron
+      cjid: pprf
+    - cjfs:
+      - "circundar\xE9"
+      - "circundar\xE1s"
+      - "circundar\xE1"
+      - circundaremos
+      - "circundar\xE9is"
+      - "circundar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "circundar\xEDa"
+      - "circundar\xEDas"
+      - "circundar\xEDa"
+      - "circundar\xEDamos"
+      - "circundar\xEDais"
+      - "circundar\xEDan"
+      cjid: cond
+    - cjfs:
+      - circunde
+      - circundes
+      - circunde
+      - circundemos
+      - "circund\xE9is"
+      - circunden
+      cjid: psub
+    - cjfs:
+      - circundara
+      - circundaras
+      - circundara
+      - "circund\xE1ramos"
+      - circundarais
+      - circundaran
+      cjid: pisb1
+    - cjfs:
+      - circundase
+      - circundases
+      - circundase
+      - "circund\xE1semos"
+      - circundaseis
+      - circundasen
+      cjid: pisb2
+    - cjfs:
+      - circundare
+      - circundares
+      - circundare
+      - "circund\xE1remos"
+      - circundareis
+      - circundaren
+      cjid: fsub
+    - cjfs:
+      - he circundado
+      - has circundado
+      - ha circundado
+      - hemos circundado
+      - "hab\xE9is circundado"
+      - han circundado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa circundado"
+      - "hab\xEDas circundado"
+      - "hab\xEDa circundado"
+      - "hab\xEDamos circundado"
+      - "hab\xEDais circundado"
+      - "hab\xEDan circundado"
+      cjid: ppsi
+    - cjfs:
+      - hube circundado
+      - hubiste circundado
+      - hubo circundado
+      - hubimos circundado
+      - hubisteis circundado
+      - hubieron circundado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 circundado"
+      - "habr\xE1s circundado"
+      - "habr\xE1 circundado"
+      - habremos circundado
+      - "habr\xE9is circundado"
+      - "habr\xE1n circundado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa circundado"
+      - "habr\xEDas circundado"
+      - "habr\xEDa circundado"
+      - "habr\xEDamos circundado"
+      - "habr\xEDais circundado"
+      - "habr\xEDan circundado"
+      cjid: cpef
+    - cjfs:
+      - haya circundado
+      - hayas circundado
+      - haya circundado
+      - hayamos circundado
+      - "hay\xE1is circundado"
+      - hayan circundado
+      cjid: ppfs
+    - cjfs:
+      - hubiera circundado
+      - hubieras circundado
+      - hubiera circundado
+      - "hubi\xE9ramos circundado"
+      - hubierais circundado
+      - hubieran circundado
+      cjid: ppss1
+    - cjfs:
+      - hubiese circundado
+      - hubieses circundado
+      - hubiese circundado
+      - "hubi\xE9semos circundado"
+      - hubieseis circundado
+      - hubiesen circundado
+      cjid: ppss2
+    - cjfs:
+      - hubiere circundado
+      - hubieres circundado
+      - hubiere circundado
+      - "hubi\xE9remos circundado"
+      - hubiereis circundado
+      - hubieren circundado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - circunda
+      - circunde
+      - circundemos
+      - circundad
+      - circunden
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: circundante

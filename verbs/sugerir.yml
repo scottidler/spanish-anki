@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|proponer||}, {sx|recomendar||} {bc}to {a_link|suggest}, to {a_link|recommend},
+              to {a_link|propose}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suggest}, to bring to mind'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: sugerir
+    prs:
+    - sound:
+        audio: suger02sp
+  meta:
+    id: sugerir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621177000'
+    src: spanish
+    stems:
+    - sugerir
+    uuid: 423cd02c-26e7-44f4-be60-bced6fd9f557
+  shortdef:
+  - 'proponer, recomendar : to suggest, to recommend, to propose'
+  - to suggest, to bring to mind
+  suppl:
+    cjts:
+    - cjfs:
+      - sugiriendo
+      - sugerido
+      cjid: gppt
+    - cjfs:
+      - sugiero
+      - sugieres
+      - sugiere
+      - sugerimos
+      - "suger\xEDs"
+      - sugieren
+      cjid: pind
+    - cjfs:
+      - "suger\xEDa"
+      - "suger\xEDas"
+      - "suger\xEDa"
+      - "suger\xEDamos"
+      - "suger\xEDais"
+      - "suger\xEDan"
+      cjid: pret
+    - cjfs:
+      - "suger\xED"
+      - sugeriste
+      - "sugiri\xF3"
+      - sugerimos
+      - sugeristeis
+      - sugirieron
+      cjid: pprf
+    - cjfs:
+      - "sugerir\xE9"
+      - "sugerir\xE1s"
+      - "sugerir\xE1"
+      - sugeriremos
+      - "sugerir\xE9is"
+      - "sugerir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sugerir\xEDa"
+      - "sugerir\xEDas"
+      - "sugerir\xEDa"
+      - "sugerir\xEDamos"
+      - "sugerir\xEDais"
+      - "sugerir\xEDan"
+      cjid: cond
+    - cjfs:
+      - sugiera
+      - sugieras
+      - sugiera
+      - sugiramos
+      - "sugir\xE1is"
+      - sugieran
+      cjid: psub
+    - cjfs:
+      - sugiriera
+      - sugirieras
+      - sugiriera
+      - "sugiri\xE9ramos"
+      - sugirierais
+      - sugirieran
+      cjid: pisb1
+    - cjfs:
+      - sugiriese
+      - sugirieses
+      - sugiriese
+      - "sugiri\xE9semos"
+      - sugirieseis
+      - sugiriesen
+      cjid: pisb2
+    - cjfs:
+      - sugiriere
+      - sugirieres
+      - sugiriere
+      - "sugiri\xE9remos"
+      - sugiriereis
+      - sugirieren
+      cjid: fsub
+    - cjfs:
+      - he sugerido
+      - has sugerido
+      - ha sugerido
+      - hemos sugerido
+      - "hab\xE9is sugerido"
+      - han sugerido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sugerido"
+      - "hab\xEDas sugerido"
+      - "hab\xEDa sugerido"
+      - "hab\xEDamos sugerido"
+      - "hab\xEDais sugerido"
+      - "hab\xEDan sugerido"
+      cjid: ppsi
+    - cjfs:
+      - hube sugerido
+      - hubiste sugerido
+      - hubo sugerido
+      - hubimos sugerido
+      - hubisteis sugerido
+      - hubieron sugerido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sugerido"
+      - "habr\xE1s sugerido"
+      - "habr\xE1 sugerido"
+      - habremos sugerido
+      - "habr\xE9is sugerido"
+      - "habr\xE1n sugerido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sugerido"
+      - "habr\xEDas sugerido"
+      - "habr\xEDa sugerido"
+      - "habr\xEDamos sugerido"
+      - "habr\xEDais sugerido"
+      - "habr\xEDan sugerido"
+      cjid: cpef
+    - cjfs:
+      - haya sugerido
+      - hayas sugerido
+      - haya sugerido
+      - hayamos sugerido
+      - "hay\xE1is sugerido"
+      - hayan sugerido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sugerido
+      - hubieras sugerido
+      - hubiera sugerido
+      - "hubi\xE9ramos sugerido"
+      - hubierais sugerido
+      - hubieran sugerido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sugerido
+      - hubieses sugerido
+      - hubiese sugerido
+      - "hubi\xE9semos sugerido"
+      - hubieseis sugerido
+      - hubiesen sugerido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sugerido
+      - hubieres sugerido
+      - hubiere sugerido
+      - "hubi\xE9remos sugerido"
+      - hubiereis sugerido
+      - hubieren sugerido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sugiere
+      - sugiera
+      - sugiramos
+      - sugerid
+      - sugieran
+      cjid: impf

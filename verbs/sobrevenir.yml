@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|acaecer||} {bc}to {a_link|take place}, to {a_link|come about} '
+          - - vis
+            - - t: "podr\xEDan sobrevenir complicaciones"
+                tr: complications could occur
+  fl: intransitive verb
+  hwi:
+    hw: sobrevenir
+  meta:
+    id: sobrevenir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620799000'
+    src: spanish
+    stems:
+    - sobrevenir
+    uuid: f4609972-5fe2-4ba1-b1eb-6a74d6c533db
+  shortdef:
+  - 'acaecer : to take place, to come about'
+  suppl:
+    cjts:
+    - cjfs:
+      - sobreviniendo
+      - sobrevenido
+      cjid: gppt
+    - cjfs:
+      - sobrevengo
+      - sobrevienes
+      - sobreviene
+      - sobrevenimos
+      - "sobreven\xEDs"
+      - sobrevienen
+      cjid: pind
+    - cjfs:
+      - "sobreven\xEDa"
+      - "sobreven\xEDas"
+      - "sobreven\xEDa"
+      - "sobreven\xEDamos"
+      - "sobreven\xEDais"
+      - "sobreven\xEDan"
+      cjid: pret
+    - cjfs:
+      - sobrevine
+      - sobreviniste
+      - sobrevino
+      - sobrevinimos
+      - sobrevinisteis
+      - sobrevinieron
+      cjid: pprf
+    - cjfs:
+      - "sobrevendr\xE9"
+      - "sobrevendr\xE1s"
+      - "sobrevendr\xE1"
+      - sobrevendremos
+      - "sobrevendr\xE9is"
+      - "sobrevendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sobrevendr\xEDa"
+      - "sobrevendr\xEDas"
+      - "sobrevendr\xEDa"
+      - "sobrevendr\xEDamos"
+      - "sobrevendr\xEDais"
+      - "sobrevendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - sobrevenga
+      - sobrevengas
+      - sobrevenga
+      - sobrevengamos
+      - "sobreveng\xE1is"
+      - sobrevengan
+      cjid: psub
+    - cjfs:
+      - sobreviniera
+      - sobrevinieras
+      - sobreviniera
+      - "sobrevini\xE9ramos"
+      - sobrevinierais
+      - sobrevinieran
+      cjid: pisb1
+    - cjfs:
+      - sobreviniese
+      - sobrevinieses
+      - sobreviniese
+      - "sobrevini\xE9semos"
+      - sobrevinieseis
+      - sobreviniesen
+      cjid: pisb2
+    - cjfs:
+      - sobreviniere
+      - sobrevinieres
+      - sobreviniere
+      - "sobrevini\xE9remos"
+      - sobreviniereis
+      - sobrevinieren
+      cjid: fsub
+    - cjfs:
+      - he sobrevenido
+      - has sobrevenido
+      - ha sobrevenido
+      - hemos sobrevenido
+      - "hab\xE9is sobrevenido"
+      - han sobrevenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sobrevenido"
+      - "hab\xEDas sobrevenido"
+      - "hab\xEDa sobrevenido"
+      - "hab\xEDamos sobrevenido"
+      - "hab\xEDais sobrevenido"
+      - "hab\xEDan sobrevenido"
+      cjid: ppsi
+    - cjfs:
+      - hube sobrevenido
+      - hubiste sobrevenido
+      - hubo sobrevenido
+      - hubimos sobrevenido
+      - hubisteis sobrevenido
+      - hubieron sobrevenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sobrevenido"
+      - "habr\xE1s sobrevenido"
+      - "habr\xE1 sobrevenido"
+      - habremos sobrevenido
+      - "habr\xE9is sobrevenido"
+      - "habr\xE1n sobrevenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sobrevenido"
+      - "habr\xEDas sobrevenido"
+      - "habr\xEDa sobrevenido"
+      - "habr\xEDamos sobrevenido"
+      - "habr\xEDais sobrevenido"
+      - "habr\xEDan sobrevenido"
+      cjid: cpef
+    - cjfs:
+      - haya sobrevenido
+      - hayas sobrevenido
+      - haya sobrevenido
+      - hayamos sobrevenido
+      - "hay\xE1is sobrevenido"
+      - hayan sobrevenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sobrevenido
+      - hubieras sobrevenido
+      - hubiera sobrevenido
+      - "hubi\xE9ramos sobrevenido"
+      - hubierais sobrevenido
+      - hubieran sobrevenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sobrevenido
+      - hubieses sobrevenido
+      - hubiese sobrevenido
+      - "hubi\xE9semos sobrevenido"
+      - hubieseis sobrevenido
+      - hubiesen sobrevenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sobrevenido
+      - hubieres sobrevenido
+      - hubiere sobrevenido
+      - "hubi\xE9remos sobrevenido"
+      - hubiereis sobrevenido
+      - hubieren sobrevenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "sobrev\xE9n"
+      - sobrevenga
+      - sobrevengamos
+      - sobrevenid
+      - sobrevengan
+      cjid: impf

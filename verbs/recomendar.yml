@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recommend}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|aconsejar||} {bc}to {a_link|advise}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: recomendar
+    prs:
+    - sound:
+        audio: recom03sp
+  meta:
+    id: recomendar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619015000'
+    src: spanish
+    stems:
+    - recomendar
+    uuid: 5fd8129a-9f7c-4cf8-804c-842fd7d4c403
+  shortdef:
+  - to recommend
+  - 'aconsejar : to advise'
+  suppl:
+    cjts:
+    - cjfs:
+      - recomendando
+      - recomendado
+      cjid: gppt
+    - cjfs:
+      - recomiendo
+      - recomiendas
+      - recomienda
+      - recomendamos
+      - "recomend\xE1is"
+      - recomiendan
+      cjid: pind
+    - cjfs:
+      - recomendaba
+      - recomendabas
+      - recomendaba
+      - "recomend\xE1bamos"
+      - recomendabais
+      - recomendaban
+      cjid: pret
+    - cjfs:
+      - "recomend\xE9"
+      - recomendaste
+      - "recomend\xF3"
+      - recomendamos
+      - recomendasteis
+      - recomendaron
+      cjid: pprf
+    - cjfs:
+      - "recomendar\xE9"
+      - "recomendar\xE1s"
+      - "recomendar\xE1"
+      - recomendaremos
+      - "recomendar\xE9is"
+      - "recomendar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recomendar\xEDa"
+      - "recomendar\xEDas"
+      - "recomendar\xEDa"
+      - "recomendar\xEDamos"
+      - "recomendar\xEDais"
+      - "recomendar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recomiende
+      - recomiendes
+      - recomiende
+      - recomendemos
+      - "recomend\xE9is"
+      - recomienden
+      cjid: psub
+    - cjfs:
+      - recomendara
+      - recomendaras
+      - recomendara
+      - "recomend\xE1ramos"
+      - recomendarais
+      - recomendaran
+      cjid: pisb1
+    - cjfs:
+      - recomendase
+      - recomendases
+      - recomendase
+      - "recomend\xE1semos"
+      - recomendaseis
+      - recomendasen
+      cjid: pisb2
+    - cjfs:
+      - recomendare
+      - recomendares
+      - recomendare
+      - "recomend\xE1remos"
+      - recomendareis
+      - recomendaren
+      cjid: fsub
+    - cjfs:
+      - he recomendado
+      - has recomendado
+      - ha recomendado
+      - hemos recomendado
+      - "hab\xE9is recomendado"
+      - han recomendado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recomendado"
+      - "hab\xEDas recomendado"
+      - "hab\xEDa recomendado"
+      - "hab\xEDamos recomendado"
+      - "hab\xEDais recomendado"
+      - "hab\xEDan recomendado"
+      cjid: ppsi
+    - cjfs:
+      - hube recomendado
+      - hubiste recomendado
+      - hubo recomendado
+      - hubimos recomendado
+      - hubisteis recomendado
+      - hubieron recomendado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recomendado"
+      - "habr\xE1s recomendado"
+      - "habr\xE1 recomendado"
+      - habremos recomendado
+      - "habr\xE9is recomendado"
+      - "habr\xE1n recomendado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recomendado"
+      - "habr\xEDas recomendado"
+      - "habr\xEDa recomendado"
+      - "habr\xEDamos recomendado"
+      - "habr\xEDais recomendado"
+      - "habr\xEDan recomendado"
+      cjid: cpef
+    - cjfs:
+      - haya recomendado
+      - hayas recomendado
+      - haya recomendado
+      - hayamos recomendado
+      - "hay\xE1is recomendado"
+      - hayan recomendado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recomendado
+      - hubieras recomendado
+      - hubiera recomendado
+      - "hubi\xE9ramos recomendado"
+      - hubierais recomendado
+      - hubieran recomendado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recomendado
+      - hubieses recomendado
+      - hubiese recomendado
+      - "hubi\xE9semos recomendado"
+      - hubieseis recomendado
+      - hubiesen recomendado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recomendado
+      - hubieres recomendado
+      - hubiere recomendado
+      - "hubi\xE9remos recomendado"
+      - hubiereis recomendado
+      - hubieren recomendado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recomienda
+      - recomiende
+      - recomendemos
+      - recomendad
+      - recomienden
+      cjid: impf

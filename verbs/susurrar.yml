@@ -1,0 +1,201 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|whisper}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|murmur}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rustle} (leaves, etc.)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|whisper}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: susurrar
+    prs:
+    - sound:
+        audio: susur01sp
+  meta:
+    id: susurrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621333000'
+    src: spanish
+    stems:
+    - susurrar
+    uuid: 34da7a1e-24f4-4e02-bbe0-16b7a2144e20
+  shortdef:
+  - to whisper
+  - to murmur
+  - to rustle (leaves, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - susurrando
+      - susurrado
+      cjid: gppt
+    - cjfs:
+      - susurro
+      - susurras
+      - susurra
+      - susurramos
+      - "susurr\xE1is"
+      - susurran
+      cjid: pind
+    - cjfs:
+      - susurraba
+      - susurrabas
+      - susurraba
+      - "susurr\xE1bamos"
+      - susurrabais
+      - susurraban
+      cjid: pret
+    - cjfs:
+      - "susurr\xE9"
+      - susurraste
+      - "susurr\xF3"
+      - susurramos
+      - susurrasteis
+      - susurraron
+      cjid: pprf
+    - cjfs:
+      - "susurrar\xE9"
+      - "susurrar\xE1s"
+      - "susurrar\xE1"
+      - susurraremos
+      - "susurrar\xE9is"
+      - "susurrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "susurrar\xEDa"
+      - "susurrar\xEDas"
+      - "susurrar\xEDa"
+      - "susurrar\xEDamos"
+      - "susurrar\xEDais"
+      - "susurrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - susurre
+      - susurres
+      - susurre
+      - susurremos
+      - "susurr\xE9is"
+      - susurren
+      cjid: psub
+    - cjfs:
+      - susurrara
+      - susurraras
+      - susurrara
+      - "susurr\xE1ramos"
+      - susurrarais
+      - susurraran
+      cjid: pisb1
+    - cjfs:
+      - susurrase
+      - susurrases
+      - susurrase
+      - "susurr\xE1semos"
+      - susurraseis
+      - susurrasen
+      cjid: pisb2
+    - cjfs:
+      - susurrare
+      - susurrares
+      - susurrare
+      - "susurr\xE1remos"
+      - susurrareis
+      - susurraren
+      cjid: fsub
+    - cjfs:
+      - he susurrado
+      - has susurrado
+      - ha susurrado
+      - hemos susurrado
+      - "hab\xE9is susurrado"
+      - han susurrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa susurrado"
+      - "hab\xEDas susurrado"
+      - "hab\xEDa susurrado"
+      - "hab\xEDamos susurrado"
+      - "hab\xEDais susurrado"
+      - "hab\xEDan susurrado"
+      cjid: ppsi
+    - cjfs:
+      - hube susurrado
+      - hubiste susurrado
+      - hubo susurrado
+      - hubimos susurrado
+      - hubisteis susurrado
+      - hubieron susurrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 susurrado"
+      - "habr\xE1s susurrado"
+      - "habr\xE1 susurrado"
+      - habremos susurrado
+      - "habr\xE9is susurrado"
+      - "habr\xE1n susurrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa susurrado"
+      - "habr\xEDas susurrado"
+      - "habr\xEDa susurrado"
+      - "habr\xEDamos susurrado"
+      - "habr\xEDais susurrado"
+      - "habr\xEDan susurrado"
+      cjid: cpef
+    - cjfs:
+      - haya susurrado
+      - hayas susurrado
+      - haya susurrado
+      - hayamos susurrado
+      - "hay\xE1is susurrado"
+      - hayan susurrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera susurrado
+      - hubieras susurrado
+      - hubiera susurrado
+      - "hubi\xE9ramos susurrado"
+      - hubierais susurrado
+      - hubieran susurrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese susurrado
+      - hubieses susurrado
+      - hubiese susurrado
+      - "hubi\xE9semos susurrado"
+      - hubieseis susurrado
+      - hubiesen susurrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere susurrado
+      - hubieres susurrado
+      - hubiere susurrado
+      - "hubi\xE9remos susurrado"
+      - hubiereis susurrado
+      - hubieren susurrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - susurra
+      - susurre
+      - susurremos
+      - susurrad
+      - susurren
+      cjid: impf

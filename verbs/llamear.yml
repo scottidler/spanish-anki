@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flame}, to {a_link|blaze}'
+  fl: intransitive verb
+  hwi:
+    hw: llamear
+  meta:
+    id: llamear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613918000'
+    src: spanish
+    stems:
+    - llamear
+    uuid: da65d42c-e60f-4878-be3f-17cf2516c801
+  shortdef:
+  - to flame, to blaze
+  suppl:
+    cjts:
+    - cjfs:
+      - llameando
+      - llameado
+      cjid: gppt
+    - cjfs:
+      - llameo
+      - llameas
+      - llamea
+      - llameamos
+      - "llame\xE1is"
+      - llamean
+      cjid: pind
+    - cjfs:
+      - llameaba
+      - llameabas
+      - llameaba
+      - "llame\xE1bamos"
+      - llameabais
+      - llameaban
+      cjid: pret
+    - cjfs:
+      - "llame\xE9"
+      - llameaste
+      - "llame\xF3"
+      - llameamos
+      - llameasteis
+      - llamearon
+      cjid: pprf
+    - cjfs:
+      - "llamear\xE9"
+      - "llamear\xE1s"
+      - "llamear\xE1"
+      - llamearemos
+      - "llamear\xE9is"
+      - "llamear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "llamear\xEDa"
+      - "llamear\xEDas"
+      - "llamear\xEDa"
+      - "llamear\xEDamos"
+      - "llamear\xEDais"
+      - "llamear\xEDan"
+      cjid: cond
+    - cjfs:
+      - llamee
+      - llamees
+      - llamee
+      - llameemos
+      - "llame\xE9is"
+      - llameen
+      cjid: psub
+    - cjfs:
+      - llameara
+      - llamearas
+      - llameara
+      - "llame\xE1ramos"
+      - llamearais
+      - llamearan
+      cjid: pisb1
+    - cjfs:
+      - llamease
+      - llameases
+      - llamease
+      - "llame\xE1semos"
+      - llameaseis
+      - llameasen
+      cjid: pisb2
+    - cjfs:
+      - llameare
+      - llameares
+      - llameare
+      - "llame\xE1remos"
+      - llameareis
+      - llamearen
+      cjid: fsub
+    - cjfs:
+      - he llameado
+      - has llameado
+      - ha llameado
+      - hemos llameado
+      - "hab\xE9is llameado"
+      - han llameado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa llameado"
+      - "hab\xEDas llameado"
+      - "hab\xEDa llameado"
+      - "hab\xEDamos llameado"
+      - "hab\xEDais llameado"
+      - "hab\xEDan llameado"
+      cjid: ppsi
+    - cjfs:
+      - hube llameado
+      - hubiste llameado
+      - hubo llameado
+      - hubimos llameado
+      - hubisteis llameado
+      - hubieron llameado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 llameado"
+      - "habr\xE1s llameado"
+      - "habr\xE1 llameado"
+      - habremos llameado
+      - "habr\xE9is llameado"
+      - "habr\xE1n llameado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa llameado"
+      - "habr\xEDas llameado"
+      - "habr\xEDa llameado"
+      - "habr\xEDamos llameado"
+      - "habr\xEDais llameado"
+      - "habr\xEDan llameado"
+      cjid: cpef
+    - cjfs:
+      - haya llameado
+      - hayas llameado
+      - haya llameado
+      - hayamos llameado
+      - "hay\xE1is llameado"
+      - hayan llameado
+      cjid: ppfs
+    - cjfs:
+      - hubiera llameado
+      - hubieras llameado
+      - hubiera llameado
+      - "hubi\xE9ramos llameado"
+      - hubierais llameado
+      - hubieran llameado
+      cjid: ppss1
+    - cjfs:
+      - hubiese llameado
+      - hubieses llameado
+      - hubiese llameado
+      - "hubi\xE9semos llameado"
+      - hubieseis llameado
+      - hubiesen llameado
+      cjid: ppss2
+    - cjfs:
+      - hubiere llameado
+      - hubieres llameado
+      - hubiere llameado
+      - "hubi\xE9remos llameado"
+      - hubiereis llameado
+      - hubieren llameado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - llamea
+      - llamee
+      - llameemos
+      - llamead
+      - llameen
+      cjid: impf

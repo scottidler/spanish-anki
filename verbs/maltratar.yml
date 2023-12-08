@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mistreat}, to {a_link|abuse}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|damage}, to {a_link|spoil}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: maltratar
+    prs:
+    - sound:
+        audio: maltr01sp
+  meta:
+    id: maltratar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614265000'
+    src: spanish
+    stems:
+    - maltratar
+    uuid: b0bbc3de-69c1-4f3a-81a3-d78953bd06eb
+  shortdef:
+  - to mistreat, to abuse
+  - to damage, to spoil
+  suppl:
+    cjts:
+    - cjfs:
+      - maltratando
+      - maltratado
+      cjid: gppt
+    - cjfs:
+      - maltrato
+      - maltratas
+      - maltrata
+      - maltratamos
+      - "maltrat\xE1is"
+      - maltratan
+      cjid: pind
+    - cjfs:
+      - maltrataba
+      - maltratabas
+      - maltrataba
+      - "maltrat\xE1bamos"
+      - maltratabais
+      - maltrataban
+      cjid: pret
+    - cjfs:
+      - "maltrat\xE9"
+      - maltrataste
+      - "maltrat\xF3"
+      - maltratamos
+      - maltratasteis
+      - maltrataron
+      cjid: pprf
+    - cjfs:
+      - "maltratar\xE9"
+      - "maltratar\xE1s"
+      - "maltratar\xE1"
+      - maltrataremos
+      - "maltratar\xE9is"
+      - "maltratar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "maltratar\xEDa"
+      - "maltratar\xEDas"
+      - "maltratar\xEDa"
+      - "maltratar\xEDamos"
+      - "maltratar\xEDais"
+      - "maltratar\xEDan"
+      cjid: cond
+    - cjfs:
+      - maltrate
+      - maltrates
+      - maltrate
+      - maltratemos
+      - "maltrat\xE9is"
+      - maltraten
+      cjid: psub
+    - cjfs:
+      - maltratara
+      - maltrataras
+      - maltratara
+      - "maltrat\xE1ramos"
+      - maltratarais
+      - maltrataran
+      cjid: pisb1
+    - cjfs:
+      - maltratase
+      - maltratases
+      - maltratase
+      - "maltrat\xE1semos"
+      - maltrataseis
+      - maltratasen
+      cjid: pisb2
+    - cjfs:
+      - maltratare
+      - maltratares
+      - maltratare
+      - "maltrat\xE1remos"
+      - maltratareis
+      - maltrataren
+      cjid: fsub
+    - cjfs:
+      - he maltratado
+      - has maltratado
+      - ha maltratado
+      - hemos maltratado
+      - "hab\xE9is maltratado"
+      - han maltratado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa maltratado"
+      - "hab\xEDas maltratado"
+      - "hab\xEDa maltratado"
+      - "hab\xEDamos maltratado"
+      - "hab\xEDais maltratado"
+      - "hab\xEDan maltratado"
+      cjid: ppsi
+    - cjfs:
+      - hube maltratado
+      - hubiste maltratado
+      - hubo maltratado
+      - hubimos maltratado
+      - hubisteis maltratado
+      - hubieron maltratado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 maltratado"
+      - "habr\xE1s maltratado"
+      - "habr\xE1 maltratado"
+      - habremos maltratado
+      - "habr\xE9is maltratado"
+      - "habr\xE1n maltratado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa maltratado"
+      - "habr\xEDas maltratado"
+      - "habr\xEDa maltratado"
+      - "habr\xEDamos maltratado"
+      - "habr\xEDais maltratado"
+      - "habr\xEDan maltratado"
+      cjid: cpef
+    - cjfs:
+      - haya maltratado
+      - hayas maltratado
+      - haya maltratado
+      - hayamos maltratado
+      - "hay\xE1is maltratado"
+      - hayan maltratado
+      cjid: ppfs
+    - cjfs:
+      - hubiera maltratado
+      - hubieras maltratado
+      - hubiera maltratado
+      - "hubi\xE9ramos maltratado"
+      - hubierais maltratado
+      - hubieran maltratado
+      cjid: ppss1
+    - cjfs:
+      - hubiese maltratado
+      - hubieses maltratado
+      - hubiese maltratado
+      - "hubi\xE9semos maltratado"
+      - hubieseis maltratado
+      - hubiesen maltratado
+      cjid: ppss2
+    - cjfs:
+      - hubiere maltratado
+      - hubieres maltratado
+      - hubiere maltratado
+      - "hubi\xE9remos maltratado"
+      - hubiereis maltratado
+      - hubieren maltratado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - maltrata
+      - maltrate
+      - maltratemos
+      - maltratad
+      - maltraten
+      cjid: impf

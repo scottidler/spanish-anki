@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|anger}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|annoy}, to {a_link|upset}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: enojar
+    prs:
+    - sound:
+        audio: enoja02sp
+  meta:
+    id: enojar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608641000'
+    src: spanish
+    stems:
+    - enojar
+    - enojarse
+    uuid: f704ede3-3478-40da-985f-032ab1944332
+  shortdef:
+  - to anger
+  - to annoy, to upset
+  suppl:
+    cjts:
+    - cjfs:
+      - enojando
+      - enojado
+      cjid: gppt
+    - cjfs:
+      - enojo
+      - enojas
+      - enoja
+      - enojamos
+      - "enoj\xE1is"
+      - enojan
+      cjid: pind
+    - cjfs:
+      - enojaba
+      - enojabas
+      - enojaba
+      - "enoj\xE1bamos"
+      - enojabais
+      - enojaban
+      cjid: pret
+    - cjfs:
+      - "enoj\xE9"
+      - enojaste
+      - "enoj\xF3"
+      - enojamos
+      - enojasteis
+      - enojaron
+      cjid: pprf
+    - cjfs:
+      - "enojar\xE9"
+      - "enojar\xE1s"
+      - "enojar\xE1"
+      - enojaremos
+      - "enojar\xE9is"
+      - "enojar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enojar\xEDa"
+      - "enojar\xEDas"
+      - "enojar\xEDa"
+      - "enojar\xEDamos"
+      - "enojar\xEDais"
+      - "enojar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enoje
+      - enojes
+      - enoje
+      - enojemos
+      - "enoj\xE9is"
+      - enojen
+      cjid: psub
+    - cjfs:
+      - enojara
+      - enojaras
+      - enojara
+      - "enoj\xE1ramos"
+      - enojarais
+      - enojaran
+      cjid: pisb1
+    - cjfs:
+      - enojase
+      - enojases
+      - enojase
+      - "enoj\xE1semos"
+      - enojaseis
+      - enojasen
+      cjid: pisb2
+    - cjfs:
+      - enojare
+      - enojares
+      - enojare
+      - "enoj\xE1remos"
+      - enojareis
+      - enojaren
+      cjid: fsub
+    - cjfs:
+      - he enojado
+      - has enojado
+      - ha enojado
+      - hemos enojado
+      - "hab\xE9is enojado"
+      - han enojado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enojado"
+      - "hab\xEDas enojado"
+      - "hab\xEDa enojado"
+      - "hab\xEDamos enojado"
+      - "hab\xEDais enojado"
+      - "hab\xEDan enojado"
+      cjid: ppsi
+    - cjfs:
+      - hube enojado
+      - hubiste enojado
+      - hubo enojado
+      - hubimos enojado
+      - hubisteis enojado
+      - hubieron enojado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enojado"
+      - "habr\xE1s enojado"
+      - "habr\xE1 enojado"
+      - habremos enojado
+      - "habr\xE9is enojado"
+      - "habr\xE1n enojado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enojado"
+      - "habr\xEDas enojado"
+      - "habr\xEDa enojado"
+      - "habr\xEDamos enojado"
+      - "habr\xEDais enojado"
+      - "habr\xEDan enojado"
+      cjid: cpef
+    - cjfs:
+      - haya enojado
+      - hayas enojado
+      - haya enojado
+      - hayamos enojado
+      - "hay\xE1is enojado"
+      - hayan enojado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enojado
+      - hubieras enojado
+      - hubiera enojado
+      - "hubi\xE9ramos enojado"
+      - hubierais enojado
+      - hubieran enojado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enojado
+      - hubieses enojado
+      - hubiese enojado
+      - "hubi\xE9semos enojado"
+      - hubieseis enojado
+      - hubiesen enojado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enojado
+      - hubieres enojado
+      - hubiere enojado
+      - "hubi\xE9remos enojado"
+      - hubiereis enojado
+      - hubieren enojado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enoja
+      - enoje
+      - enojemos
+      - enojad
+      - enojen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: enojarse

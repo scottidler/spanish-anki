@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disturb}, to {a_link|trouble}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disrupt}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: perturbar
+    prs:
+    - sound:
+        audio: pertu02sp
+  meta:
+    id: perturbar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617221000'
+    src: spanish
+    stems:
+    - perturbar
+    uuid: 3d1c9b9d-91fc-478b-bd91-511d55b002cb
+  shortdef:
+  - to disturb, to trouble
+  - to disrupt
+  suppl:
+    cjts:
+    - cjfs:
+      - perturbando
+      - perturbado
+      cjid: gppt
+    - cjfs:
+      - perturbo
+      - perturbas
+      - perturba
+      - perturbamos
+      - "perturb\xE1is"
+      - perturban
+      cjid: pind
+    - cjfs:
+      - perturbaba
+      - perturbabas
+      - perturbaba
+      - "perturb\xE1bamos"
+      - perturbabais
+      - perturbaban
+      cjid: pret
+    - cjfs:
+      - "perturb\xE9"
+      - perturbaste
+      - "perturb\xF3"
+      - perturbamos
+      - perturbasteis
+      - perturbaron
+      cjid: pprf
+    - cjfs:
+      - "perturbar\xE9"
+      - "perturbar\xE1s"
+      - "perturbar\xE1"
+      - perturbaremos
+      - "perturbar\xE9is"
+      - "perturbar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perturbar\xEDa"
+      - "perturbar\xEDas"
+      - "perturbar\xEDa"
+      - "perturbar\xEDamos"
+      - "perturbar\xEDais"
+      - "perturbar\xEDan"
+      cjid: cond
+    - cjfs:
+      - perturbe
+      - perturbes
+      - perturbe
+      - perturbemos
+      - "perturb\xE9is"
+      - perturben
+      cjid: psub
+    - cjfs:
+      - perturbara
+      - perturbaras
+      - perturbara
+      - "perturb\xE1ramos"
+      - perturbarais
+      - perturbaran
+      cjid: pisb1
+    - cjfs:
+      - perturbase
+      - perturbases
+      - perturbase
+      - "perturb\xE1semos"
+      - perturbaseis
+      - perturbasen
+      cjid: pisb2
+    - cjfs:
+      - perturbare
+      - perturbares
+      - perturbare
+      - "perturb\xE1remos"
+      - perturbareis
+      - perturbaren
+      cjid: fsub
+    - cjfs:
+      - he perturbado
+      - has perturbado
+      - ha perturbado
+      - hemos perturbado
+      - "hab\xE9is perturbado"
+      - han perturbado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perturbado"
+      - "hab\xEDas perturbado"
+      - "hab\xEDa perturbado"
+      - "hab\xEDamos perturbado"
+      - "hab\xEDais perturbado"
+      - "hab\xEDan perturbado"
+      cjid: ppsi
+    - cjfs:
+      - hube perturbado
+      - hubiste perturbado
+      - hubo perturbado
+      - hubimos perturbado
+      - hubisteis perturbado
+      - hubieron perturbado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perturbado"
+      - "habr\xE1s perturbado"
+      - "habr\xE1 perturbado"
+      - habremos perturbado
+      - "habr\xE9is perturbado"
+      - "habr\xE1n perturbado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perturbado"
+      - "habr\xEDas perturbado"
+      - "habr\xEDa perturbado"
+      - "habr\xEDamos perturbado"
+      - "habr\xEDais perturbado"
+      - "habr\xEDan perturbado"
+      cjid: cpef
+    - cjfs:
+      - haya perturbado
+      - hayas perturbado
+      - haya perturbado
+      - hayamos perturbado
+      - "hay\xE1is perturbado"
+      - hayan perturbado
+      cjid: ppfs
+    - cjfs:
+      - hubiera perturbado
+      - hubieras perturbado
+      - hubiera perturbado
+      - "hubi\xE9ramos perturbado"
+      - hubierais perturbado
+      - hubieran perturbado
+      cjid: ppss1
+    - cjfs:
+      - hubiese perturbado
+      - hubieses perturbado
+      - hubiese perturbado
+      - "hubi\xE9semos perturbado"
+      - hubieseis perturbado
+      - hubiesen perturbado
+      cjid: ppss2
+    - cjfs:
+      - hubiere perturbado
+      - hubieres perturbado
+      - hubiere perturbado
+      - "hubi\xE9remos perturbado"
+      - hubiereis perturbado
+      - hubieren perturbado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - perturba
+      - perturbe
+      - perturbemos
+      - perturbad
+      - perturben
+      cjid: impf

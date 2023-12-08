@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shelter}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take shelter'
+    drp: cobijarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: cobijar
+  meta:
+    id: cobijar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604931000'
+    src: spanish
+    stems:
+    - cobijar
+    - cobijarse
+    uuid: b0f0e80f-d021-4c4a-805d-78a356c5fb58
+  shortdef:
+  - to shelter
+  suppl:
+    cjts:
+    - cjfs:
+      - cobijando
+      - cobijado
+      cjid: gppt
+    - cjfs:
+      - cobijo
+      - cobijas
+      - cobija
+      - cobijamos
+      - "cobij\xE1is"
+      - cobijan
+      cjid: pind
+    - cjfs:
+      - cobijaba
+      - cobijabas
+      - cobijaba
+      - "cobij\xE1bamos"
+      - cobijabais
+      - cobijaban
+      cjid: pret
+    - cjfs:
+      - "cobij\xE9"
+      - cobijaste
+      - "cobij\xF3"
+      - cobijamos
+      - cobijasteis
+      - cobijaron
+      cjid: pprf
+    - cjfs:
+      - "cobijar\xE9"
+      - "cobijar\xE1s"
+      - "cobijar\xE1"
+      - cobijaremos
+      - "cobijar\xE9is"
+      - "cobijar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cobijar\xEDa"
+      - "cobijar\xEDas"
+      - "cobijar\xEDa"
+      - "cobijar\xEDamos"
+      - "cobijar\xEDais"
+      - "cobijar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cobije
+      - cobijes
+      - cobije
+      - cobijemos
+      - "cobij\xE9is"
+      - cobijen
+      cjid: psub
+    - cjfs:
+      - cobijara
+      - cobijaras
+      - cobijara
+      - "cobij\xE1ramos"
+      - cobijarais
+      - cobijaran
+      cjid: pisb1
+    - cjfs:
+      - cobijase
+      - cobijases
+      - cobijase
+      - "cobij\xE1semos"
+      - cobijaseis
+      - cobijasen
+      cjid: pisb2
+    - cjfs:
+      - cobijare
+      - cobijares
+      - cobijare
+      - "cobij\xE1remos"
+      - cobijareis
+      - cobijaren
+      cjid: fsub
+    - cjfs:
+      - he cobijado
+      - has cobijado
+      - ha cobijado
+      - hemos cobijado
+      - "hab\xE9is cobijado"
+      - han cobijado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cobijado"
+      - "hab\xEDas cobijado"
+      - "hab\xEDa cobijado"
+      - "hab\xEDamos cobijado"
+      - "hab\xEDais cobijado"
+      - "hab\xEDan cobijado"
+      cjid: ppsi
+    - cjfs:
+      - hube cobijado
+      - hubiste cobijado
+      - hubo cobijado
+      - hubimos cobijado
+      - hubisteis cobijado
+      - hubieron cobijado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cobijado"
+      - "habr\xE1s cobijado"
+      - "habr\xE1 cobijado"
+      - habremos cobijado
+      - "habr\xE9is cobijado"
+      - "habr\xE1n cobijado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cobijado"
+      - "habr\xEDas cobijado"
+      - "habr\xEDa cobijado"
+      - "habr\xEDamos cobijado"
+      - "habr\xEDais cobijado"
+      - "habr\xEDan cobijado"
+      cjid: cpef
+    - cjfs:
+      - haya cobijado
+      - hayas cobijado
+      - haya cobijado
+      - hayamos cobijado
+      - "hay\xE1is cobijado"
+      - hayan cobijado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cobijado
+      - hubieras cobijado
+      - hubiera cobijado
+      - "hubi\xE9ramos cobijado"
+      - hubierais cobijado
+      - hubieran cobijado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cobijado
+      - hubieses cobijado
+      - hubiese cobijado
+      - "hubi\xE9semos cobijado"
+      - hubieseis cobijado
+      - hubiesen cobijado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cobijado
+      - hubieres cobijado
+      - hubiere cobijado
+      - "hubi\xE9remos cobijado"
+      - hubiereis cobijado
+      - hubieren cobijado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cobija
+      - cobije
+      - cobijemos
+      - cobijad
+      - cobijen
+      cjid: impf

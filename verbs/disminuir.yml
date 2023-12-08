@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|reducir||} {bc}to {a_link|reduce}, to {a_link|decrease}, to {a_link|lower}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lower}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drop}, to {a_link|fall}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: disminuir
+    prs:
+    - sound:
+        audio: dismi02sp
+  meta:
+    id: disminuir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607719000'
+    src: spanish
+    stems:
+    - disminuir
+    uuid: be25427b-d28c-48ec-a2b6-bf67ba564654
+  shortdef:
+  - 'reducir : to reduce, to decrease, to lower'
+  - to lower
+  - to drop, to fall
+  suppl:
+    cjts:
+    - cjfs:
+      - disminuyendo
+      - disminuido
+      cjid: gppt
+    - cjfs:
+      - disminuyo
+      - disminuyes
+      - disminuye
+      - disminuimos
+      - "disminu\xEDs"
+      - disminuyen
+      cjid: pind
+    - cjfs:
+      - "disminu\xEDa"
+      - "disminu\xEDas"
+      - "disminu\xEDa"
+      - "disminu\xEDamos"
+      - "disminu\xEDais"
+      - "disminu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "disminu\xED"
+      - disminuiste
+      - "disminuy\xF3"
+      - disminuimos
+      - disminuisteis
+      - disminuyeron
+      cjid: pprf
+    - cjfs:
+      - "disminuir\xE9"
+      - "disminuir\xE1s"
+      - "disminuir\xE1"
+      - disminuiremos
+      - "disminuir\xE9is"
+      - "disminuir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disminuir\xEDa"
+      - "disminuir\xEDas"
+      - "disminuir\xEDa"
+      - "disminuir\xEDamos"
+      - "disminuir\xEDais"
+      - "disminuir\xEDan"
+      cjid: cond
+    - cjfs:
+      - disminuya
+      - disminuyas
+      - disminuya
+      - disminuyamos
+      - "disminuy\xE1is"
+      - disminuyan
+      cjid: psub
+    - cjfs:
+      - disminuyera
+      - disminuyeras
+      - disminuyera
+      - "disminuy\xE9ramos"
+      - disminuyerais
+      - disminuyeran
+      cjid: pisb1
+    - cjfs:
+      - disminuyese
+      - disminuyeses
+      - disminuyese
+      - "disminuy\xE9semos"
+      - disminuyeseis
+      - disminuyesen
+      cjid: pisb2
+    - cjfs:
+      - disminuyere
+      - disminuyeres
+      - disminuyere
+      - "disminuy\xE9remos"
+      - disminuyereis
+      - disminuyeren
+      cjid: fsub
+    - cjfs:
+      - he disminuido
+      - has disminuido
+      - ha disminuido
+      - hemos disminuido
+      - "hab\xE9is disminuido"
+      - han disminuido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disminuido"
+      - "hab\xEDas disminuido"
+      - "hab\xEDa disminuido"
+      - "hab\xEDamos disminuido"
+      - "hab\xEDais disminuido"
+      - "hab\xEDan disminuido"
+      cjid: ppsi
+    - cjfs:
+      - hube disminuido
+      - hubiste disminuido
+      - hubo disminuido
+      - hubimos disminuido
+      - hubisteis disminuido
+      - hubieron disminuido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disminuido"
+      - "habr\xE1s disminuido"
+      - "habr\xE1 disminuido"
+      - habremos disminuido
+      - "habr\xE9is disminuido"
+      - "habr\xE1n disminuido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disminuido"
+      - "habr\xEDas disminuido"
+      - "habr\xEDa disminuido"
+      - "habr\xEDamos disminuido"
+      - "habr\xEDais disminuido"
+      - "habr\xEDan disminuido"
+      cjid: cpef
+    - cjfs:
+      - haya disminuido
+      - hayas disminuido
+      - haya disminuido
+      - hayamos disminuido
+      - "hay\xE1is disminuido"
+      - hayan disminuido
+      cjid: ppfs
+    - cjfs:
+      - hubiera disminuido
+      - hubieras disminuido
+      - hubiera disminuido
+      - "hubi\xE9ramos disminuido"
+      - hubierais disminuido
+      - hubieran disminuido
+      cjid: ppss1
+    - cjfs:
+      - hubiese disminuido
+      - hubieses disminuido
+      - hubiese disminuido
+      - "hubi\xE9semos disminuido"
+      - hubieseis disminuido
+      - hubiesen disminuido
+      cjid: ppss2
+    - cjfs:
+      - hubiere disminuido
+      - hubieres disminuido
+      - hubiere disminuido
+      - "hubi\xE9remos disminuido"
+      - hubiereis disminuido
+      - hubieren disminuido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disminuye
+      - disminuya
+      - disminuyamos
+      - disminuid
+      - disminuyan
+      cjid: impf

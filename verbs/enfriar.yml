@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|chill}, to {a_link|cool}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cool down, to {a_link|dampen}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get cold'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get chilled, to catch a cold'
+    drp: enfriarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enfriar
+    prs:
+    - sound:
+        audio: enfri01sp
+  meta:
+    id: enfriar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608567000'
+    src: spanish
+    stems:
+    - enfriar
+    - enfriarse
+    uuid: c2586ae2-79dd-42d1-8236-9a67c8e36e3d
+  shortdef:
+  - to chill, to cool
+  - to cool down, to dampen
+  - to get cold
+  suppl:
+    cjts:
+    - cjfs:
+      - enfriando
+      - enfriado
+      cjid: gppt
+    - cjfs:
+      - "enfr\xEDo"
+      - "enfr\xEDas"
+      - "enfr\xEDa"
+      - enfriamos
+      - "enfri\xE1is"
+      - "enfr\xEDan"
+      cjid: pind
+    - cjfs:
+      - enfriaba
+      - enfriabas
+      - enfriaba
+      - "enfri\xE1bamos"
+      - enfriabais
+      - enfriaban
+      cjid: pret
+    - cjfs:
+      - "enfri\xE9"
+      - enfriaste
+      - "enfri\xF3"
+      - enfriamos
+      - enfriasteis
+      - enfriaron
+      cjid: pprf
+    - cjfs:
+      - "enfriar\xE9"
+      - "enfriar\xE1s"
+      - "enfriar\xE1"
+      - enfriaremos
+      - "enfriar\xE9is"
+      - "enfriar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enfriar\xEDa"
+      - "enfriar\xEDas"
+      - "enfriar\xEDa"
+      - "enfriar\xEDamos"
+      - "enfriar\xEDais"
+      - "enfriar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "enfr\xEDe"
+      - "enfr\xEDes"
+      - "enfr\xEDe"
+      - enfriemos
+      - "enfri\xE9is"
+      - "enfr\xEDen"
+      cjid: psub
+    - cjfs:
+      - enfriara
+      - enfriaras
+      - enfriara
+      - "enfri\xE1ramos"
+      - enfriarais
+      - enfriaran
+      cjid: pisb1
+    - cjfs:
+      - enfriase
+      - enfriases
+      - enfriase
+      - "enfri\xE1semos"
+      - enfriaseis
+      - enfriasen
+      cjid: pisb2
+    - cjfs:
+      - enfriare
+      - enfriares
+      - enfriare
+      - "enfri\xE1remos"
+      - enfriareis
+      - enfriaren
+      cjid: fsub
+    - cjfs:
+      - he enfriado
+      - has enfriado
+      - ha enfriado
+      - hemos enfriado
+      - "hab\xE9is enfriado"
+      - han enfriado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enfriado"
+      - "hab\xEDas enfriado"
+      - "hab\xEDa enfriado"
+      - "hab\xEDamos enfriado"
+      - "hab\xEDais enfriado"
+      - "hab\xEDan enfriado"
+      cjid: ppsi
+    - cjfs:
+      - hube enfriado
+      - hubiste enfriado
+      - hubo enfriado
+      - hubimos enfriado
+      - hubisteis enfriado
+      - hubieron enfriado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enfriado"
+      - "habr\xE1s enfriado"
+      - "habr\xE1 enfriado"
+      - habremos enfriado
+      - "habr\xE9is enfriado"
+      - "habr\xE1n enfriado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enfriado"
+      - "habr\xEDas enfriado"
+      - "habr\xEDa enfriado"
+      - "habr\xEDamos enfriado"
+      - "habr\xEDais enfriado"
+      - "habr\xEDan enfriado"
+      cjid: cpef
+    - cjfs:
+      - haya enfriado
+      - hayas enfriado
+      - haya enfriado
+      - hayamos enfriado
+      - "hay\xE1is enfriado"
+      - hayan enfriado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enfriado
+      - hubieras enfriado
+      - hubiera enfriado
+      - "hubi\xE9ramos enfriado"
+      - hubierais enfriado
+      - hubieran enfriado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enfriado
+      - hubieses enfriado
+      - hubiese enfriado
+      - "hubi\xE9semos enfriado"
+      - hubieseis enfriado
+      - hubiesen enfriado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enfriado
+      - hubieres enfriado
+      - hubiere enfriado
+      - "hubi\xE9remos enfriado"
+      - hubiereis enfriado
+      - hubieren enfriado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "enfr\xEDa"
+      - "enfr\xEDe"
+      - enfriemos
+      - enfriad
+      - "enfr\xEDen"
+      cjid: impf

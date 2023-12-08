@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cook}'
+  fl: verb
+  hwi:
+    hw: cocinar
+    prs:
+    - sound:
+        audio: cocin02sp
+  meta:
+    id: cocinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604960000'
+    src: spanish
+    stems:
+    - cocinar
+    uuid: f966dd29-9fb8-4da3-b967-bd9f2905b3f9
+  shortdef:
+  - to cook
+  suppl:
+    cjts:
+    - cjfs:
+      - cocinando
+      - cocinado
+      cjid: gppt
+    - cjfs:
+      - cocino
+      - cocinas
+      - cocina
+      - cocinamos
+      - "cocin\xE1is"
+      - cocinan
+      cjid: pind
+    - cjfs:
+      - cocinaba
+      - cocinabas
+      - cocinaba
+      - "cocin\xE1bamos"
+      - cocinabais
+      - cocinaban
+      cjid: pret
+    - cjfs:
+      - "cocin\xE9"
+      - cocinaste
+      - "cocin\xF3"
+      - cocinamos
+      - cocinasteis
+      - cocinaron
+      cjid: pprf
+    - cjfs:
+      - "cocinar\xE9"
+      - "cocinar\xE1s"
+      - "cocinar\xE1"
+      - cocinaremos
+      - "cocinar\xE9is"
+      - "cocinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cocinar\xEDa"
+      - "cocinar\xEDas"
+      - "cocinar\xEDa"
+      - "cocinar\xEDamos"
+      - "cocinar\xEDais"
+      - "cocinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cocine
+      - cocines
+      - cocine
+      - cocinemos
+      - "cocin\xE9is"
+      - cocinen
+      cjid: psub
+    - cjfs:
+      - cocinara
+      - cocinaras
+      - cocinara
+      - "cocin\xE1ramos"
+      - cocinarais
+      - cocinaran
+      cjid: pisb1
+    - cjfs:
+      - cocinase
+      - cocinases
+      - cocinase
+      - "cocin\xE1semos"
+      - cocinaseis
+      - cocinasen
+      cjid: pisb2
+    - cjfs:
+      - cocinare
+      - cocinares
+      - cocinare
+      - "cocin\xE1remos"
+      - cocinareis
+      - cocinaren
+      cjid: fsub
+    - cjfs:
+      - he cocinado
+      - has cocinado
+      - ha cocinado
+      - hemos cocinado
+      - "hab\xE9is cocinado"
+      - han cocinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cocinado"
+      - "hab\xEDas cocinado"
+      - "hab\xEDa cocinado"
+      - "hab\xEDamos cocinado"
+      - "hab\xEDais cocinado"
+      - "hab\xEDan cocinado"
+      cjid: ppsi
+    - cjfs:
+      - hube cocinado
+      - hubiste cocinado
+      - hubo cocinado
+      - hubimos cocinado
+      - hubisteis cocinado
+      - hubieron cocinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cocinado"
+      - "habr\xE1s cocinado"
+      - "habr\xE1 cocinado"
+      - habremos cocinado
+      - "habr\xE9is cocinado"
+      - "habr\xE1n cocinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cocinado"
+      - "habr\xEDas cocinado"
+      - "habr\xEDa cocinado"
+      - "habr\xEDamos cocinado"
+      - "habr\xEDais cocinado"
+      - "habr\xEDan cocinado"
+      cjid: cpef
+    - cjfs:
+      - haya cocinado
+      - hayas cocinado
+      - haya cocinado
+      - hayamos cocinado
+      - "hay\xE1is cocinado"
+      - hayan cocinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cocinado
+      - hubieras cocinado
+      - hubiera cocinado
+      - "hubi\xE9ramos cocinado"
+      - hubierais cocinado
+      - hubieran cocinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cocinado
+      - hubieses cocinado
+      - hubiese cocinado
+      - "hubi\xE9semos cocinado"
+      - hubieseis cocinado
+      - hubiesen cocinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cocinado
+      - hubieres cocinado
+      - hubiere cocinado
+      - "hubi\xE9remos cocinado"
+      - hubiereis cocinado
+      - hubieren cocinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cocina
+      - cocine
+      - cocinemos
+      - cocinad
+      - cocinen
+      cjid: impf

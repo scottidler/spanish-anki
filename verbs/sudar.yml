@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|transpirar||} {bc}to {a_link|sweat}, to {a_link|perspire}'
+  fl: intransitive verb
+  hwi:
+    hw: sudar
+    prs:
+    - sound:
+        audio: sudar01sp
+  meta:
+    id: sudar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621139000'
+    src: spanish
+    stems:
+    - sudar
+    uuid: 1182e748-1aa2-4037-bf47-efa7ac98600f
+  shortdef:
+  - 'transpirar : to sweat, to perspire'
+  suppl:
+    cjts:
+    - cjfs:
+      - sudando
+      - sudado
+      cjid: gppt
+    - cjfs:
+      - sudo
+      - sudas
+      - suda
+      - sudamos
+      - "sud\xE1is"
+      - sudan
+      cjid: pind
+    - cjfs:
+      - sudaba
+      - sudabas
+      - sudaba
+      - "sud\xE1bamos"
+      - sudabais
+      - sudaban
+      cjid: pret
+    - cjfs:
+      - "sud\xE9"
+      - sudaste
+      - "sud\xF3"
+      - sudamos
+      - sudasteis
+      - sudaron
+      cjid: pprf
+    - cjfs:
+      - "sudar\xE9"
+      - "sudar\xE1s"
+      - "sudar\xE1"
+      - sudaremos
+      - "sudar\xE9is"
+      - "sudar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sudar\xEDa"
+      - "sudar\xEDas"
+      - "sudar\xEDa"
+      - "sudar\xEDamos"
+      - "sudar\xEDais"
+      - "sudar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sude
+      - sudes
+      - sude
+      - sudemos
+      - "sud\xE9is"
+      - suden
+      cjid: psub
+    - cjfs:
+      - sudara
+      - sudaras
+      - sudara
+      - "sud\xE1ramos"
+      - sudarais
+      - sudaran
+      cjid: pisb1
+    - cjfs:
+      - sudase
+      - sudases
+      - sudase
+      - "sud\xE1semos"
+      - sudaseis
+      - sudasen
+      cjid: pisb2
+    - cjfs:
+      - sudare
+      - sudares
+      - sudare
+      - "sud\xE1remos"
+      - sudareis
+      - sudaren
+      cjid: fsub
+    - cjfs:
+      - he sudado
+      - has sudado
+      - ha sudado
+      - hemos sudado
+      - "hab\xE9is sudado"
+      - han sudado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sudado"
+      - "hab\xEDas sudado"
+      - "hab\xEDa sudado"
+      - "hab\xEDamos sudado"
+      - "hab\xEDais sudado"
+      - "hab\xEDan sudado"
+      cjid: ppsi
+    - cjfs:
+      - hube sudado
+      - hubiste sudado
+      - hubo sudado
+      - hubimos sudado
+      - hubisteis sudado
+      - hubieron sudado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sudado"
+      - "habr\xE1s sudado"
+      - "habr\xE1 sudado"
+      - habremos sudado
+      - "habr\xE9is sudado"
+      - "habr\xE1n sudado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sudado"
+      - "habr\xEDas sudado"
+      - "habr\xEDa sudado"
+      - "habr\xEDamos sudado"
+      - "habr\xEDais sudado"
+      - "habr\xEDan sudado"
+      cjid: cpef
+    - cjfs:
+      - haya sudado
+      - hayas sudado
+      - haya sudado
+      - hayamos sudado
+      - "hay\xE1is sudado"
+      - hayan sudado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sudado
+      - hubieras sudado
+      - hubiera sudado
+      - "hubi\xE9ramos sudado"
+      - hubierais sudado
+      - hubieran sudado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sudado
+      - hubieses sudado
+      - hubiese sudado
+      - "hubi\xE9semos sudado"
+      - hubieseis sudado
+      - hubiesen sudado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sudado
+      - hubieres sudado
+      - hubiere sudado
+      - "hubi\xE9remos sudado"
+      - hubiereis sudado
+      - hubieren sudado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - suda
+      - sude
+      - sudemos
+      - sudad
+      - suden
+      cjid: impf

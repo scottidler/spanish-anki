@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|complicate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|involve}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: complicar
+  meta:
+    id: complicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605271000'
+    src: spanish
+    stems:
+    - complicar
+    - complicarse
+    uuid: dae59689-66b9-4cc5-94f2-57f23d433536
+  shortdef:
+  - to complicate
+  - to involve
+  suppl:
+    cjts:
+    - cjfs:
+      - complicando
+      - complicado
+      cjid: gppt
+    - cjfs:
+      - complico
+      - complicas
+      - complica
+      - complicamos
+      - "complic\xE1is"
+      - complican
+      cjid: pind
+    - cjfs:
+      - complicaba
+      - complicabas
+      - complicaba
+      - "complic\xE1bamos"
+      - complicabais
+      - complicaban
+      cjid: pret
+    - cjfs:
+      - "compliqu\xE9"
+      - complicaste
+      - "complic\xF3"
+      - complicamos
+      - complicasteis
+      - complicaron
+      cjid: pprf
+    - cjfs:
+      - "complicar\xE9"
+      - "complicar\xE1s"
+      - "complicar\xE1"
+      - complicaremos
+      - "complicar\xE9is"
+      - "complicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "complicar\xEDa"
+      - "complicar\xEDas"
+      - "complicar\xEDa"
+      - "complicar\xEDamos"
+      - "complicar\xEDais"
+      - "complicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - complique
+      - compliques
+      - complique
+      - compliquemos
+      - "compliqu\xE9is"
+      - compliquen
+      cjid: psub
+    - cjfs:
+      - complicara
+      - complicaras
+      - complicara
+      - "complic\xE1ramos"
+      - complicarais
+      - complicaran
+      cjid: pisb1
+    - cjfs:
+      - complicase
+      - complicases
+      - complicase
+      - "complic\xE1semos"
+      - complicaseis
+      - complicasen
+      cjid: pisb2
+    - cjfs:
+      - complicare
+      - complicares
+      - complicare
+      - "complic\xE1remos"
+      - complicareis
+      - complicaren
+      cjid: fsub
+    - cjfs:
+      - he complicado
+      - has complicado
+      - ha complicado
+      - hemos complicado
+      - "hab\xE9is complicado"
+      - han complicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa complicado"
+      - "hab\xEDas complicado"
+      - "hab\xEDa complicado"
+      - "hab\xEDamos complicado"
+      - "hab\xEDais complicado"
+      - "hab\xEDan complicado"
+      cjid: ppsi
+    - cjfs:
+      - hube complicado
+      - hubiste complicado
+      - hubo complicado
+      - hubimos complicado
+      - hubisteis complicado
+      - hubieron complicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 complicado"
+      - "habr\xE1s complicado"
+      - "habr\xE1 complicado"
+      - habremos complicado
+      - "habr\xE9is complicado"
+      - "habr\xE1n complicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa complicado"
+      - "habr\xEDas complicado"
+      - "habr\xEDa complicado"
+      - "habr\xEDamos complicado"
+      - "habr\xEDais complicado"
+      - "habr\xEDan complicado"
+      cjid: cpef
+    - cjfs:
+      - haya complicado
+      - hayas complicado
+      - haya complicado
+      - hayamos complicado
+      - "hay\xE1is complicado"
+      - hayan complicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera complicado
+      - hubieras complicado
+      - hubiera complicado
+      - "hubi\xE9ramos complicado"
+      - hubierais complicado
+      - hubieran complicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese complicado
+      - hubieses complicado
+      - hubiese complicado
+      - "hubi\xE9semos complicado"
+      - hubieseis complicado
+      - hubiesen complicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere complicado
+      - hubieres complicado
+      - hubiere complicado
+      - "hubi\xE9remos complicado"
+      - hubiereis complicado
+      - hubieren complicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - complica
+      - complique
+      - compliquemos
+      - complicad
+      - compliquen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: complicarse

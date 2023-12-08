@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|outline}, to {a_link|define}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be outlined, to be silhouetted'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take shape'
+            sn: '2'
+    drp: perfilarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: perfilar
+    prs:
+    - sound:
+        audio: perfi03sp
+  meta:
+    id: perfilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617112000'
+    src: spanish
+    stems:
+    - perfilar
+    - perfilarse
+    uuid: 794e2382-045b-4ce2-bd62-7d18f44420c6
+  shortdef:
+  - to outline, to define
+  suppl:
+    cjts:
+    - cjfs:
+      - perfilando
+      - perfilado
+      cjid: gppt
+    - cjfs:
+      - perfilo
+      - perfilas
+      - perfila
+      - perfilamos
+      - "perfil\xE1is"
+      - perfilan
+      cjid: pind
+    - cjfs:
+      - perfilaba
+      - perfilabas
+      - perfilaba
+      - "perfil\xE1bamos"
+      - perfilabais
+      - perfilaban
+      cjid: pret
+    - cjfs:
+      - "perfil\xE9"
+      - perfilaste
+      - "perfil\xF3"
+      - perfilamos
+      - perfilasteis
+      - perfilaron
+      cjid: pprf
+    - cjfs:
+      - "perfilar\xE9"
+      - "perfilar\xE1s"
+      - "perfilar\xE1"
+      - perfilaremos
+      - "perfilar\xE9is"
+      - "perfilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perfilar\xEDa"
+      - "perfilar\xEDas"
+      - "perfilar\xEDa"
+      - "perfilar\xEDamos"
+      - "perfilar\xEDais"
+      - "perfilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - perfile
+      - perfiles
+      - perfile
+      - perfilemos
+      - "perfil\xE9is"
+      - perfilen
+      cjid: psub
+    - cjfs:
+      - perfilara
+      - perfilaras
+      - perfilara
+      - "perfil\xE1ramos"
+      - perfilarais
+      - perfilaran
+      cjid: pisb1
+    - cjfs:
+      - perfilase
+      - perfilases
+      - perfilase
+      - "perfil\xE1semos"
+      - perfilaseis
+      - perfilasen
+      cjid: pisb2
+    - cjfs:
+      - perfilare
+      - perfilares
+      - perfilare
+      - "perfil\xE1remos"
+      - perfilareis
+      - perfilaren
+      cjid: fsub
+    - cjfs:
+      - he perfilado
+      - has perfilado
+      - ha perfilado
+      - hemos perfilado
+      - "hab\xE9is perfilado"
+      - han perfilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perfilado"
+      - "hab\xEDas perfilado"
+      - "hab\xEDa perfilado"
+      - "hab\xEDamos perfilado"
+      - "hab\xEDais perfilado"
+      - "hab\xEDan perfilado"
+      cjid: ppsi
+    - cjfs:
+      - hube perfilado
+      - hubiste perfilado
+      - hubo perfilado
+      - hubimos perfilado
+      - hubisteis perfilado
+      - hubieron perfilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perfilado"
+      - "habr\xE1s perfilado"
+      - "habr\xE1 perfilado"
+      - habremos perfilado
+      - "habr\xE9is perfilado"
+      - "habr\xE1n perfilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perfilado"
+      - "habr\xEDas perfilado"
+      - "habr\xEDa perfilado"
+      - "habr\xEDamos perfilado"
+      - "habr\xEDais perfilado"
+      - "habr\xEDan perfilado"
+      cjid: cpef
+    - cjfs:
+      - haya perfilado
+      - hayas perfilado
+      - haya perfilado
+      - hayamos perfilado
+      - "hay\xE1is perfilado"
+      - hayan perfilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera perfilado
+      - hubieras perfilado
+      - hubiera perfilado
+      - "hubi\xE9ramos perfilado"
+      - hubierais perfilado
+      - hubieran perfilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese perfilado
+      - hubieses perfilado
+      - hubiese perfilado
+      - "hubi\xE9semos perfilado"
+      - hubieseis perfilado
+      - hubiesen perfilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere perfilado
+      - hubieres perfilado
+      - hubiere perfilado
+      - "hubi\xE9remos perfilado"
+      - hubiereis perfilado
+      - hubieren perfilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - perfila
+      - perfile
+      - perfilemos
+      - perfilad
+      - perfilen
+      cjid: impf

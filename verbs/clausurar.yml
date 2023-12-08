@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|close}, to bring to a close'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|close down}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: clausurar
+    prs:
+    - sound:
+        audio: claus04sp
+  meta:
+    id: clausurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604856000'
+    src: spanish
+    stems:
+    - clausurar
+    uuid: e1238d2e-e581-4254-aa33-a47e7c25f773
+  shortdef:
+  - to close, to bring to a close
+  - to close down
+  suppl:
+    cjts:
+    - cjfs:
+      - clausurando
+      - clausurado
+      cjid: gppt
+    - cjfs:
+      - clausuro
+      - clausuras
+      - clausura
+      - clausuramos
+      - "clausur\xE1is"
+      - clausuran
+      cjid: pind
+    - cjfs:
+      - clausuraba
+      - clausurabas
+      - clausuraba
+      - "clausur\xE1bamos"
+      - clausurabais
+      - clausuraban
+      cjid: pret
+    - cjfs:
+      - "clausur\xE9"
+      - clausuraste
+      - "clausur\xF3"
+      - clausuramos
+      - clausurasteis
+      - clausuraron
+      cjid: pprf
+    - cjfs:
+      - "clausurar\xE9"
+      - "clausurar\xE1s"
+      - "clausurar\xE1"
+      - clausuraremos
+      - "clausurar\xE9is"
+      - "clausurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "clausurar\xEDa"
+      - "clausurar\xEDas"
+      - "clausurar\xEDa"
+      - "clausurar\xEDamos"
+      - "clausurar\xEDais"
+      - "clausurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - clausure
+      - clausures
+      - clausure
+      - clausuremos
+      - "clausur\xE9is"
+      - clausuren
+      cjid: psub
+    - cjfs:
+      - clausurara
+      - clausuraras
+      - clausurara
+      - "clausur\xE1ramos"
+      - clausurarais
+      - clausuraran
+      cjid: pisb1
+    - cjfs:
+      - clausurase
+      - clausurases
+      - clausurase
+      - "clausur\xE1semos"
+      - clausuraseis
+      - clausurasen
+      cjid: pisb2
+    - cjfs:
+      - clausurare
+      - clausurares
+      - clausurare
+      - "clausur\xE1remos"
+      - clausurareis
+      - clausuraren
+      cjid: fsub
+    - cjfs:
+      - he clausurado
+      - has clausurado
+      - ha clausurado
+      - hemos clausurado
+      - "hab\xE9is clausurado"
+      - han clausurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa clausurado"
+      - "hab\xEDas clausurado"
+      - "hab\xEDa clausurado"
+      - "hab\xEDamos clausurado"
+      - "hab\xEDais clausurado"
+      - "hab\xEDan clausurado"
+      cjid: ppsi
+    - cjfs:
+      - hube clausurado
+      - hubiste clausurado
+      - hubo clausurado
+      - hubimos clausurado
+      - hubisteis clausurado
+      - hubieron clausurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 clausurado"
+      - "habr\xE1s clausurado"
+      - "habr\xE1 clausurado"
+      - habremos clausurado
+      - "habr\xE9is clausurado"
+      - "habr\xE1n clausurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa clausurado"
+      - "habr\xEDas clausurado"
+      - "habr\xEDa clausurado"
+      - "habr\xEDamos clausurado"
+      - "habr\xEDais clausurado"
+      - "habr\xEDan clausurado"
+      cjid: cpef
+    - cjfs:
+      - haya clausurado
+      - hayas clausurado
+      - haya clausurado
+      - hayamos clausurado
+      - "hay\xE1is clausurado"
+      - hayan clausurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera clausurado
+      - hubieras clausurado
+      - hubiera clausurado
+      - "hubi\xE9ramos clausurado"
+      - hubierais clausurado
+      - hubieran clausurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese clausurado
+      - hubieses clausurado
+      - hubiese clausurado
+      - "hubi\xE9semos clausurado"
+      - hubieseis clausurado
+      - hubiesen clausurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere clausurado
+      - hubieres clausurado
+      - hubiere clausurado
+      - "hubi\xE9remos clausurado"
+      - hubiereis clausurado
+      - hubieren clausurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - clausura
+      - clausure
+      - clausuremos
+      - clausurad
+      - clausuren
+      cjid: impf

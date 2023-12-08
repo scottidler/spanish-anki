@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|perforate}, to {a_link|pierce}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drill}, to {a_link|bore}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: perforar
+  meta:
+    id: perforar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617115000'
+    src: spanish
+    stems:
+    - perforar
+    uuid: 03f4bf0d-663e-4e35-8e19-e08290cb034a
+  shortdef:
+  - to perforate, to pierce
+  - to drill, to bore
+  suppl:
+    cjts:
+    - cjfs:
+      - perforando
+      - perforado
+      cjid: gppt
+    - cjfs:
+      - perforo
+      - perforas
+      - perfora
+      - perforamos
+      - "perfor\xE1is"
+      - perforan
+      cjid: pind
+    - cjfs:
+      - perforaba
+      - perforabas
+      - perforaba
+      - "perfor\xE1bamos"
+      - perforabais
+      - perforaban
+      cjid: pret
+    - cjfs:
+      - "perfor\xE9"
+      - perforaste
+      - "perfor\xF3"
+      - perforamos
+      - perforasteis
+      - perforaron
+      cjid: pprf
+    - cjfs:
+      - "perforar\xE9"
+      - "perforar\xE1s"
+      - "perforar\xE1"
+      - perforaremos
+      - "perforar\xE9is"
+      - "perforar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perforar\xEDa"
+      - "perforar\xEDas"
+      - "perforar\xEDa"
+      - "perforar\xEDamos"
+      - "perforar\xEDais"
+      - "perforar\xEDan"
+      cjid: cond
+    - cjfs:
+      - perfore
+      - perfores
+      - perfore
+      - perforemos
+      - "perfor\xE9is"
+      - perforen
+      cjid: psub
+    - cjfs:
+      - perforara
+      - perforaras
+      - perforara
+      - "perfor\xE1ramos"
+      - perforarais
+      - perforaran
+      cjid: pisb1
+    - cjfs:
+      - perforase
+      - perforases
+      - perforase
+      - "perfor\xE1semos"
+      - perforaseis
+      - perforasen
+      cjid: pisb2
+    - cjfs:
+      - perforare
+      - perforares
+      - perforare
+      - "perfor\xE1remos"
+      - perforareis
+      - perforaren
+      cjid: fsub
+    - cjfs:
+      - he perforado
+      - has perforado
+      - ha perforado
+      - hemos perforado
+      - "hab\xE9is perforado"
+      - han perforado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perforado"
+      - "hab\xEDas perforado"
+      - "hab\xEDa perforado"
+      - "hab\xEDamos perforado"
+      - "hab\xEDais perforado"
+      - "hab\xEDan perforado"
+      cjid: ppsi
+    - cjfs:
+      - hube perforado
+      - hubiste perforado
+      - hubo perforado
+      - hubimos perforado
+      - hubisteis perforado
+      - hubieron perforado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perforado"
+      - "habr\xE1s perforado"
+      - "habr\xE1 perforado"
+      - habremos perforado
+      - "habr\xE9is perforado"
+      - "habr\xE1n perforado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perforado"
+      - "habr\xEDas perforado"
+      - "habr\xEDa perforado"
+      - "habr\xEDamos perforado"
+      - "habr\xEDais perforado"
+      - "habr\xEDan perforado"
+      cjid: cpef
+    - cjfs:
+      - haya perforado
+      - hayas perforado
+      - haya perforado
+      - hayamos perforado
+      - "hay\xE1is perforado"
+      - hayan perforado
+      cjid: ppfs
+    - cjfs:
+      - hubiera perforado
+      - hubieras perforado
+      - hubiera perforado
+      - "hubi\xE9ramos perforado"
+      - hubierais perforado
+      - hubieran perforado
+      cjid: ppss1
+    - cjfs:
+      - hubiese perforado
+      - hubieses perforado
+      - hubiese perforado
+      - "hubi\xE9semos perforado"
+      - hubieseis perforado
+      - hubiesen perforado
+      cjid: ppss2
+    - cjfs:
+      - hubiere perforado
+      - hubieres perforado
+      - hubiere perforado
+      - "hubi\xE9remos perforado"
+      - hubiereis perforado
+      - hubieren perforado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - perfora
+      - perfore
+      - perforemos
+      - perforad
+      - perforen
+      cjid: impf

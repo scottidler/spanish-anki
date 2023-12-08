@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fight}, to {a_link|struggle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wrestle}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: luchar
+    prs:
+    - sound:
+        audio: lucha03sp
+  meta:
+    id: luchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614034000'
+    src: spanish
+    stems:
+    - luchar
+    uuid: e12c2fd3-4857-4b77-9b20-3e4fc9057b66
+  shortdef:
+  - to fight, to struggle
+  - to wrestle
+  suppl:
+    cjts:
+    - cjfs:
+      - luchando
+      - luchado
+      cjid: gppt
+    - cjfs:
+      - lucho
+      - luchas
+      - lucha
+      - luchamos
+      - "luch\xE1is"
+      - luchan
+      cjid: pind
+    - cjfs:
+      - luchaba
+      - luchabas
+      - luchaba
+      - "luch\xE1bamos"
+      - luchabais
+      - luchaban
+      cjid: pret
+    - cjfs:
+      - "luch\xE9"
+      - luchaste
+      - "luch\xF3"
+      - luchamos
+      - luchasteis
+      - lucharon
+      cjid: pprf
+    - cjfs:
+      - "luchar\xE9"
+      - "luchar\xE1s"
+      - "luchar\xE1"
+      - lucharemos
+      - "luchar\xE9is"
+      - "luchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "luchar\xEDa"
+      - "luchar\xEDas"
+      - "luchar\xEDa"
+      - "luchar\xEDamos"
+      - "luchar\xEDais"
+      - "luchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - luche
+      - luches
+      - luche
+      - luchemos
+      - "luch\xE9is"
+      - luchen
+      cjid: psub
+    - cjfs:
+      - luchara
+      - lucharas
+      - luchara
+      - "luch\xE1ramos"
+      - lucharais
+      - lucharan
+      cjid: pisb1
+    - cjfs:
+      - luchase
+      - luchases
+      - luchase
+      - "luch\xE1semos"
+      - luchaseis
+      - luchasen
+      cjid: pisb2
+    - cjfs:
+      - luchare
+      - luchares
+      - luchare
+      - "luch\xE1remos"
+      - luchareis
+      - lucharen
+      cjid: fsub
+    - cjfs:
+      - he luchado
+      - has luchado
+      - ha luchado
+      - hemos luchado
+      - "hab\xE9is luchado"
+      - han luchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa luchado"
+      - "hab\xEDas luchado"
+      - "hab\xEDa luchado"
+      - "hab\xEDamos luchado"
+      - "hab\xEDais luchado"
+      - "hab\xEDan luchado"
+      cjid: ppsi
+    - cjfs:
+      - hube luchado
+      - hubiste luchado
+      - hubo luchado
+      - hubimos luchado
+      - hubisteis luchado
+      - hubieron luchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 luchado"
+      - "habr\xE1s luchado"
+      - "habr\xE1 luchado"
+      - habremos luchado
+      - "habr\xE9is luchado"
+      - "habr\xE1n luchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa luchado"
+      - "habr\xEDas luchado"
+      - "habr\xEDa luchado"
+      - "habr\xEDamos luchado"
+      - "habr\xEDais luchado"
+      - "habr\xEDan luchado"
+      cjid: cpef
+    - cjfs:
+      - haya luchado
+      - hayas luchado
+      - haya luchado
+      - hayamos luchado
+      - "hay\xE1is luchado"
+      - hayan luchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera luchado
+      - hubieras luchado
+      - hubiera luchado
+      - "hubi\xE9ramos luchado"
+      - hubierais luchado
+      - hubieran luchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese luchado
+      - hubieses luchado
+      - hubiese luchado
+      - "hubi\xE9semos luchado"
+      - hubieseis luchado
+      - hubiesen luchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere luchado
+      - hubieres luchado
+      - hubiere luchado
+      - "hubi\xE9remos luchado"
+      - hubiereis luchado
+      - hubieren luchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - lucha
+      - luche
+      - luchemos
+      - luchad
+      - luchen
+      cjid: impf

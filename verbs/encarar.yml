@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|confrontar||} {bc}to {a_link|face}, to {a_link|confront}'
+  fl: transitive verb
+  hwi:
+    hw: encarar
+    prs:
+    - sound:
+        audio: encar01sp
+  meta:
+    id: encarar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608429000'
+    src: spanish
+    stems:
+    - encarar
+    uuid: 2dda080d-e9cc-452f-ab6f-6d2ca90b1816
+  shortdef:
+  - 'confrontar : to face, to confront'
+  suppl:
+    cjts:
+    - cjfs:
+      - encarando
+      - encarado
+      cjid: gppt
+    - cjfs:
+      - encaro
+      - encaras
+      - encara
+      - encaramos
+      - "encar\xE1is"
+      - encaran
+      cjid: pind
+    - cjfs:
+      - encaraba
+      - encarabas
+      - encaraba
+      - "encar\xE1bamos"
+      - encarabais
+      - encaraban
+      cjid: pret
+    - cjfs:
+      - "encar\xE9"
+      - encaraste
+      - "encar\xF3"
+      - encaramos
+      - encarasteis
+      - encararon
+      cjid: pprf
+    - cjfs:
+      - "encarar\xE9"
+      - "encarar\xE1s"
+      - "encarar\xE1"
+      - encararemos
+      - "encarar\xE9is"
+      - "encarar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encarar\xEDa"
+      - "encarar\xEDas"
+      - "encarar\xEDa"
+      - "encarar\xEDamos"
+      - "encarar\xEDais"
+      - "encarar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encare
+      - encares
+      - encare
+      - encaremos
+      - "encar\xE9is"
+      - encaren
+      cjid: psub
+    - cjfs:
+      - encarara
+      - encararas
+      - encarara
+      - "encar\xE1ramos"
+      - encararais
+      - encararan
+      cjid: pisb1
+    - cjfs:
+      - encarase
+      - encarases
+      - encarase
+      - "encar\xE1semos"
+      - encaraseis
+      - encarasen
+      cjid: pisb2
+    - cjfs:
+      - encarare
+      - encarares
+      - encarare
+      - "encar\xE1remos"
+      - encarareis
+      - encararen
+      cjid: fsub
+    - cjfs:
+      - he encarado
+      - has encarado
+      - ha encarado
+      - hemos encarado
+      - "hab\xE9is encarado"
+      - han encarado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encarado"
+      - "hab\xEDas encarado"
+      - "hab\xEDa encarado"
+      - "hab\xEDamos encarado"
+      - "hab\xEDais encarado"
+      - "hab\xEDan encarado"
+      cjid: ppsi
+    - cjfs:
+      - hube encarado
+      - hubiste encarado
+      - hubo encarado
+      - hubimos encarado
+      - hubisteis encarado
+      - hubieron encarado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encarado"
+      - "habr\xE1s encarado"
+      - "habr\xE1 encarado"
+      - habremos encarado
+      - "habr\xE9is encarado"
+      - "habr\xE1n encarado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encarado"
+      - "habr\xEDas encarado"
+      - "habr\xEDa encarado"
+      - "habr\xEDamos encarado"
+      - "habr\xEDais encarado"
+      - "habr\xEDan encarado"
+      cjid: cpef
+    - cjfs:
+      - haya encarado
+      - hayas encarado
+      - haya encarado
+      - hayamos encarado
+      - "hay\xE1is encarado"
+      - hayan encarado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encarado
+      - hubieras encarado
+      - hubiera encarado
+      - "hubi\xE9ramos encarado"
+      - hubierais encarado
+      - hubieran encarado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encarado
+      - hubieses encarado
+      - hubiese encarado
+      - "hubi\xE9semos encarado"
+      - hubieseis encarado
+      - hubiesen encarado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encarado
+      - hubieres encarado
+      - hubiere encarado
+      - "hubi\xE9remos encarado"
+      - hubiereis encarado
+      - hubieren encarado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encara
+      - encare
+      - encaremos
+      - encarad
+      - encaren
+      cjid: impf

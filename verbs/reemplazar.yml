@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|replace}, to {a_link|substitute}'
+  fl: transitive verb
+  hwi:
+    hw: reemplazar
+    prs:
+    - sound:
+        audio: reemp01sp
+  meta:
+    id: reemplazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619116000'
+    src: spanish
+    stems:
+    - reemplazar
+    uuid: 6b0d0bc8-bca1-4c3a-85bb-c6d41b206736
+  shortdef:
+  - to replace, to substitute
+  suppl:
+    cjts:
+    - cjfs:
+      - reemplazando
+      - reemplazado
+      cjid: gppt
+    - cjfs:
+      - reemplazo
+      - reemplazas
+      - reemplaza
+      - reemplazamos
+      - "reemplaz\xE1is"
+      - reemplazan
+      cjid: pind
+    - cjfs:
+      - reemplazaba
+      - reemplazabas
+      - reemplazaba
+      - "reemplaz\xE1bamos"
+      - reemplazabais
+      - reemplazaban
+      cjid: pret
+    - cjfs:
+      - "reemplac\xE9"
+      - reemplazaste
+      - "reemplaz\xF3"
+      - reemplazamos
+      - reemplazasteis
+      - reemplazaron
+      cjid: pprf
+    - cjfs:
+      - "reemplazar\xE9"
+      - "reemplazar\xE1s"
+      - "reemplazar\xE1"
+      - reemplazaremos
+      - "reemplazar\xE9is"
+      - "reemplazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reemplazar\xEDa"
+      - "reemplazar\xEDas"
+      - "reemplazar\xEDa"
+      - "reemplazar\xEDamos"
+      - "reemplazar\xEDais"
+      - "reemplazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - reemplace
+      - reemplaces
+      - reemplace
+      - reemplacemos
+      - "reemplac\xE9is"
+      - reemplacen
+      cjid: psub
+    - cjfs:
+      - reemplazara
+      - reemplazaras
+      - reemplazara
+      - "reemplaz\xE1ramos"
+      - reemplazarais
+      - reemplazaran
+      cjid: pisb1
+    - cjfs:
+      - reemplazase
+      - reemplazases
+      - reemplazase
+      - "reemplaz\xE1semos"
+      - reemplazaseis
+      - reemplazasen
+      cjid: pisb2
+    - cjfs:
+      - reemplazare
+      - reemplazares
+      - reemplazare
+      - "reemplaz\xE1remos"
+      - reemplazareis
+      - reemplazaren
+      cjid: fsub
+    - cjfs:
+      - he reemplazado
+      - has reemplazado
+      - ha reemplazado
+      - hemos reemplazado
+      - "hab\xE9is reemplazado"
+      - han reemplazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reemplazado"
+      - "hab\xEDas reemplazado"
+      - "hab\xEDa reemplazado"
+      - "hab\xEDamos reemplazado"
+      - "hab\xEDais reemplazado"
+      - "hab\xEDan reemplazado"
+      cjid: ppsi
+    - cjfs:
+      - hube reemplazado
+      - hubiste reemplazado
+      - hubo reemplazado
+      - hubimos reemplazado
+      - hubisteis reemplazado
+      - hubieron reemplazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reemplazado"
+      - "habr\xE1s reemplazado"
+      - "habr\xE1 reemplazado"
+      - habremos reemplazado
+      - "habr\xE9is reemplazado"
+      - "habr\xE1n reemplazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reemplazado"
+      - "habr\xEDas reemplazado"
+      - "habr\xEDa reemplazado"
+      - "habr\xEDamos reemplazado"
+      - "habr\xEDais reemplazado"
+      - "habr\xEDan reemplazado"
+      cjid: cpef
+    - cjfs:
+      - haya reemplazado
+      - hayas reemplazado
+      - haya reemplazado
+      - hayamos reemplazado
+      - "hay\xE1is reemplazado"
+      - hayan reemplazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera reemplazado
+      - hubieras reemplazado
+      - hubiera reemplazado
+      - "hubi\xE9ramos reemplazado"
+      - hubierais reemplazado
+      - hubieran reemplazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese reemplazado
+      - hubieses reemplazado
+      - hubiese reemplazado
+      - "hubi\xE9semos reemplazado"
+      - hubieseis reemplazado
+      - hubiesen reemplazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere reemplazado
+      - hubieres reemplazado
+      - hubiere reemplazado
+      - "hubi\xE9remos reemplazado"
+      - hubiereis reemplazado
+      - hubieren reemplazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reemplaza
+      - reemplace
+      - reemplacemos
+      - reemplazad
+      - reemplacen
+      cjid: impf

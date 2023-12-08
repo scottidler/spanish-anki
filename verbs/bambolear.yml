@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sway}, to {a_link|swing}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wobble}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: bambolear
+  meta:
+    id: bambolear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602718000'
+    src: spanish
+    stems:
+    - bambolear
+    - bambolearse
+    uuid: c78003ea-1bbd-413e-903d-0d70e01573fc
+  shortdef:
+  - to sway, to swing
+  - to wobble
+  suppl:
+    cjts:
+    - cjfs:
+      - bamboleando
+      - bamboleado
+      cjid: gppt
+    - cjfs:
+      - bamboleo
+      - bamboleas
+      - bambolea
+      - bamboleamos
+      - "bambole\xE1is"
+      - bambolean
+      cjid: pind
+    - cjfs:
+      - bamboleaba
+      - bamboleabas
+      - bamboleaba
+      - "bambole\xE1bamos"
+      - bamboleabais
+      - bamboleaban
+      cjid: pret
+    - cjfs:
+      - "bambole\xE9"
+      - bamboleaste
+      - "bambole\xF3"
+      - bamboleamos
+      - bamboleasteis
+      - bambolearon
+      cjid: pprf
+    - cjfs:
+      - "bambolear\xE9"
+      - "bambolear\xE1s"
+      - "bambolear\xE1"
+      - bambolearemos
+      - "bambolear\xE9is"
+      - "bambolear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bambolear\xEDa"
+      - "bambolear\xEDas"
+      - "bambolear\xEDa"
+      - "bambolear\xEDamos"
+      - "bambolear\xEDais"
+      - "bambolear\xEDan"
+      cjid: cond
+    - cjfs:
+      - bambolee
+      - bambolees
+      - bambolee
+      - bamboleemos
+      - "bambole\xE9is"
+      - bamboleen
+      cjid: psub
+    - cjfs:
+      - bamboleara
+      - bambolearas
+      - bamboleara
+      - "bambole\xE1ramos"
+      - bambolearais
+      - bambolearan
+      cjid: pisb1
+    - cjfs:
+      - bambolease
+      - bamboleases
+      - bambolease
+      - "bambole\xE1semos"
+      - bamboleaseis
+      - bamboleasen
+      cjid: pisb2
+    - cjfs:
+      - bamboleare
+      - bamboleares
+      - bamboleare
+      - "bambole\xE1remos"
+      - bamboleareis
+      - bambolearen
+      cjid: fsub
+    - cjfs:
+      - he bamboleado
+      - has bamboleado
+      - ha bamboleado
+      - hemos bamboleado
+      - "hab\xE9is bamboleado"
+      - han bamboleado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bamboleado"
+      - "hab\xEDas bamboleado"
+      - "hab\xEDa bamboleado"
+      - "hab\xEDamos bamboleado"
+      - "hab\xEDais bamboleado"
+      - "hab\xEDan bamboleado"
+      cjid: ppsi
+    - cjfs:
+      - hube bamboleado
+      - hubiste bamboleado
+      - hubo bamboleado
+      - hubimos bamboleado
+      - hubisteis bamboleado
+      - hubieron bamboleado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bamboleado"
+      - "habr\xE1s bamboleado"
+      - "habr\xE1 bamboleado"
+      - habremos bamboleado
+      - "habr\xE9is bamboleado"
+      - "habr\xE1n bamboleado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bamboleado"
+      - "habr\xEDas bamboleado"
+      - "habr\xEDa bamboleado"
+      - "habr\xEDamos bamboleado"
+      - "habr\xEDais bamboleado"
+      - "habr\xEDan bamboleado"
+      cjid: cpef
+    - cjfs:
+      - haya bamboleado
+      - hayas bamboleado
+      - haya bamboleado
+      - hayamos bamboleado
+      - "hay\xE1is bamboleado"
+      - hayan bamboleado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bamboleado
+      - hubieras bamboleado
+      - hubiera bamboleado
+      - "hubi\xE9ramos bamboleado"
+      - hubierais bamboleado
+      - hubieran bamboleado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bamboleado
+      - hubieses bamboleado
+      - hubiese bamboleado
+      - "hubi\xE9semos bamboleado"
+      - hubieseis bamboleado
+      - hubiesen bamboleado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bamboleado
+      - hubieres bamboleado
+      - hubiere bamboleado
+      - "hubi\xE9remos bamboleado"
+      - hubiereis bamboleado
+      - hubieren bamboleado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bambolea
+      - bambolee
+      - bamboleemos
+      - bambolead
+      - bamboleen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: bambolearse

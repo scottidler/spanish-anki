@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to spy on, to {a_link|observe}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spy}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: espiar
+    prs:
+    - sound:
+        audio: espia01sp
+  meta:
+    id: espiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609191000'
+    src: spanish
+    stems:
+    - espiar
+    uuid: a95debdb-b694-4a1d-a7ba-4eae25022b09
+  shortdef:
+  - to spy on, to observe
+  - to spy
+  suppl:
+    cjts:
+    - cjfs:
+      - espiando
+      - espiado
+      cjid: gppt
+    - cjfs:
+      - "esp\xEDo"
+      - "esp\xEDas"
+      - "esp\xEDa"
+      - espiamos
+      - "espi\xE1is"
+      - "esp\xEDan"
+      cjid: pind
+    - cjfs:
+      - espiaba
+      - espiabas
+      - espiaba
+      - "espi\xE1bamos"
+      - espiabais
+      - espiaban
+      cjid: pret
+    - cjfs:
+      - "espi\xE9"
+      - espiaste
+      - "espi\xF3"
+      - espiamos
+      - espiasteis
+      - espiaron
+      cjid: pprf
+    - cjfs:
+      - "espiar\xE9"
+      - "espiar\xE1s"
+      - "espiar\xE1"
+      - espiaremos
+      - "espiar\xE9is"
+      - "espiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "espiar\xEDa"
+      - "espiar\xEDas"
+      - "espiar\xEDa"
+      - "espiar\xEDamos"
+      - "espiar\xEDais"
+      - "espiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "esp\xEDe"
+      - "esp\xEDes"
+      - "esp\xEDe"
+      - espiemos
+      - "espi\xE9is"
+      - "esp\xEDen"
+      cjid: psub
+    - cjfs:
+      - espiara
+      - espiaras
+      - espiara
+      - "espi\xE1ramos"
+      - espiarais
+      - espiaran
+      cjid: pisb1
+    - cjfs:
+      - espiase
+      - espiases
+      - espiase
+      - "espi\xE1semos"
+      - espiaseis
+      - espiasen
+      cjid: pisb2
+    - cjfs:
+      - espiare
+      - espiares
+      - espiare
+      - "espi\xE1remos"
+      - espiareis
+      - espiaren
+      cjid: fsub
+    - cjfs:
+      - he espiado
+      - has espiado
+      - ha espiado
+      - hemos espiado
+      - "hab\xE9is espiado"
+      - han espiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa espiado"
+      - "hab\xEDas espiado"
+      - "hab\xEDa espiado"
+      - "hab\xEDamos espiado"
+      - "hab\xEDais espiado"
+      - "hab\xEDan espiado"
+      cjid: ppsi
+    - cjfs:
+      - hube espiado
+      - hubiste espiado
+      - hubo espiado
+      - hubimos espiado
+      - hubisteis espiado
+      - hubieron espiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 espiado"
+      - "habr\xE1s espiado"
+      - "habr\xE1 espiado"
+      - habremos espiado
+      - "habr\xE9is espiado"
+      - "habr\xE1n espiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa espiado"
+      - "habr\xEDas espiado"
+      - "habr\xEDa espiado"
+      - "habr\xEDamos espiado"
+      - "habr\xEDais espiado"
+      - "habr\xEDan espiado"
+      cjid: cpef
+    - cjfs:
+      - haya espiado
+      - hayas espiado
+      - haya espiado
+      - hayamos espiado
+      - "hay\xE1is espiado"
+      - hayan espiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera espiado
+      - hubieras espiado
+      - hubiera espiado
+      - "hubi\xE9ramos espiado"
+      - hubierais espiado
+      - hubieran espiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese espiado
+      - hubieses espiado
+      - hubiese espiado
+      - "hubi\xE9semos espiado"
+      - hubieseis espiado
+      - hubiesen espiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere espiado
+      - hubieres espiado
+      - hubiere espiado
+      - "hubi\xE9remos espiado"
+      - hubiereis espiado
+      - hubieren espiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "esp\xEDa"
+      - "esp\xEDe"
+      - espiemos
+      - espiad
+      - "esp\xEDen"
+      cjid: impf

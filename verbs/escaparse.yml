@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|huir||} {bc}to {a_link|escape}, to {a_link|flee}, to {a_link|run
+              away}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to escape notice, to leak out'
+    drp: escaparse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: escapar
+    prs:
+    - sound:
+        audio: escap01sp
+  meta:
+    id: escapar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608958000'
+    src: spanish
+    stems:
+    - escapar
+    - escaparse
+    uuid: 4f854f35-52de-42f0-b7b7-d2f2a4f4d998
+  shortdef:
+  - 'huir : to escape, to flee, to run away'
+  suppl:
+    cjts:
+    - cjfs:
+      - escapando
+      - escapado
+      cjid: gppt
+    - cjfs:
+      - escapo
+      - escapas
+      - escapa
+      - escapamos
+      - "escap\xE1is"
+      - escapan
+      cjid: pind
+    - cjfs:
+      - escapaba
+      - escapabas
+      - escapaba
+      - "escap\xE1bamos"
+      - escapabais
+      - escapaban
+      cjid: pret
+    - cjfs:
+      - "escap\xE9"
+      - escapaste
+      - "escap\xF3"
+      - escapamos
+      - escapasteis
+      - escaparon
+      cjid: pprf
+    - cjfs:
+      - "escapar\xE9"
+      - "escapar\xE1s"
+      - "escapar\xE1"
+      - escaparemos
+      - "escapar\xE9is"
+      - "escapar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escapar\xEDa"
+      - "escapar\xEDas"
+      - "escapar\xEDa"
+      - "escapar\xEDamos"
+      - "escapar\xEDais"
+      - "escapar\xEDan"
+      cjid: cond
+    - cjfs:
+      - escape
+      - escapes
+      - escape
+      - escapemos
+      - "escap\xE9is"
+      - escapen
+      cjid: psub
+    - cjfs:
+      - escapara
+      - escaparas
+      - escapara
+      - "escap\xE1ramos"
+      - escaparais
+      - escaparan
+      cjid: pisb1
+    - cjfs:
+      - escapase
+      - escapases
+      - escapase
+      - "escap\xE1semos"
+      - escapaseis
+      - escapasen
+      cjid: pisb2
+    - cjfs:
+      - escapare
+      - escapares
+      - escapare
+      - "escap\xE1remos"
+      - escapareis
+      - escaparen
+      cjid: fsub
+    - cjfs:
+      - he escapado
+      - has escapado
+      - ha escapado
+      - hemos escapado
+      - "hab\xE9is escapado"
+      - han escapado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escapado"
+      - "hab\xEDas escapado"
+      - "hab\xEDa escapado"
+      - "hab\xEDamos escapado"
+      - "hab\xEDais escapado"
+      - "hab\xEDan escapado"
+      cjid: ppsi
+    - cjfs:
+      - hube escapado
+      - hubiste escapado
+      - hubo escapado
+      - hubimos escapado
+      - hubisteis escapado
+      - hubieron escapado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escapado"
+      - "habr\xE1s escapado"
+      - "habr\xE1 escapado"
+      - habremos escapado
+      - "habr\xE9is escapado"
+      - "habr\xE1n escapado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escapado"
+      - "habr\xEDas escapado"
+      - "habr\xEDa escapado"
+      - "habr\xEDamos escapado"
+      - "habr\xEDais escapado"
+      - "habr\xEDan escapado"
+      cjid: cpef
+    - cjfs:
+      - haya escapado
+      - hayas escapado
+      - haya escapado
+      - hayamos escapado
+      - "hay\xE1is escapado"
+      - hayan escapado
+      cjid: ppfs
+    - cjfs:
+      - hubiera escapado
+      - hubieras escapado
+      - hubiera escapado
+      - "hubi\xE9ramos escapado"
+      - hubierais escapado
+      - hubieran escapado
+      cjid: ppss1
+    - cjfs:
+      - hubiese escapado
+      - hubieses escapado
+      - hubiese escapado
+      - "hubi\xE9semos escapado"
+      - hubieseis escapado
+      - hubiesen escapado
+      cjid: ppss2
+    - cjfs:
+      - hubiere escapado
+      - hubieres escapado
+      - hubiere escapado
+      - "hubi\xE9remos escapado"
+      - hubiereis escapado
+      - hubieren escapado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escapa
+      - escape
+      - escapemos
+      - escapad
+      - escapen
+      cjid: impf

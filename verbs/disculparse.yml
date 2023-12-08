@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|excuse}, to {a_link|pardon}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|apologize}'
+    drp: disculparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: disculpar
+    prs:
+    - sound:
+        audio: discu02sp
+  meta:
+    id: disculpar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607677000'
+    src: spanish
+    stems:
+    - disculpar
+    - disculparse
+    uuid: cfa7f1cd-58be-46fe-8b4a-e9ae1fcb29e9
+  shortdef:
+  - to excuse, to pardon
+  suppl:
+    cjts:
+    - cjfs:
+      - disculpando
+      - disculpado
+      cjid: gppt
+    - cjfs:
+      - disculpo
+      - disculpas
+      - disculpa
+      - disculpamos
+      - "disculp\xE1is"
+      - disculpan
+      cjid: pind
+    - cjfs:
+      - disculpaba
+      - disculpabas
+      - disculpaba
+      - "disculp\xE1bamos"
+      - disculpabais
+      - disculpaban
+      cjid: pret
+    - cjfs:
+      - "disculp\xE9"
+      - disculpaste
+      - "disculp\xF3"
+      - disculpamos
+      - disculpasteis
+      - disculparon
+      cjid: pprf
+    - cjfs:
+      - "disculpar\xE9"
+      - "disculpar\xE1s"
+      - "disculpar\xE1"
+      - disculparemos
+      - "disculpar\xE9is"
+      - "disculpar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disculpar\xEDa"
+      - "disculpar\xEDas"
+      - "disculpar\xEDa"
+      - "disculpar\xEDamos"
+      - "disculpar\xEDais"
+      - "disculpar\xEDan"
+      cjid: cond
+    - cjfs:
+      - disculpe
+      - disculpes
+      - disculpe
+      - disculpemos
+      - "disculp\xE9is"
+      - disculpen
+      cjid: psub
+    - cjfs:
+      - disculpara
+      - disculparas
+      - disculpara
+      - "disculp\xE1ramos"
+      - disculparais
+      - disculparan
+      cjid: pisb1
+    - cjfs:
+      - disculpase
+      - disculpases
+      - disculpase
+      - "disculp\xE1semos"
+      - disculpaseis
+      - disculpasen
+      cjid: pisb2
+    - cjfs:
+      - disculpare
+      - disculpares
+      - disculpare
+      - "disculp\xE1remos"
+      - disculpareis
+      - disculparen
+      cjid: fsub
+    - cjfs:
+      - he disculpado
+      - has disculpado
+      - ha disculpado
+      - hemos disculpado
+      - "hab\xE9is disculpado"
+      - han disculpado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disculpado"
+      - "hab\xEDas disculpado"
+      - "hab\xEDa disculpado"
+      - "hab\xEDamos disculpado"
+      - "hab\xEDais disculpado"
+      - "hab\xEDan disculpado"
+      cjid: ppsi
+    - cjfs:
+      - hube disculpado
+      - hubiste disculpado
+      - hubo disculpado
+      - hubimos disculpado
+      - hubisteis disculpado
+      - hubieron disculpado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disculpado"
+      - "habr\xE1s disculpado"
+      - "habr\xE1 disculpado"
+      - habremos disculpado
+      - "habr\xE9is disculpado"
+      - "habr\xE1n disculpado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disculpado"
+      - "habr\xEDas disculpado"
+      - "habr\xEDa disculpado"
+      - "habr\xEDamos disculpado"
+      - "habr\xEDais disculpado"
+      - "habr\xEDan disculpado"
+      cjid: cpef
+    - cjfs:
+      - haya disculpado
+      - hayas disculpado
+      - haya disculpado
+      - hayamos disculpado
+      - "hay\xE1is disculpado"
+      - hayan disculpado
+      cjid: ppfs
+    - cjfs:
+      - hubiera disculpado
+      - hubieras disculpado
+      - hubiera disculpado
+      - "hubi\xE9ramos disculpado"
+      - hubierais disculpado
+      - hubieran disculpado
+      cjid: ppss1
+    - cjfs:
+      - hubiese disculpado
+      - hubieses disculpado
+      - hubiese disculpado
+      - "hubi\xE9semos disculpado"
+      - hubieseis disculpado
+      - hubiesen disculpado
+      cjid: ppss2
+    - cjfs:
+      - hubiere disculpado
+      - hubieres disculpado
+      - hubiere disculpado
+      - "hubi\xE9remos disculpado"
+      - hubiereis disculpado
+      - hubieren disculpado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disculpa
+      - disculpe
+      - disculpemos
+      - disculpad
+      - disculpen
+      cjid: impf

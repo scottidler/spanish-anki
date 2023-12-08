@@ -1,0 +1,345 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|permanecer||} {bc}to {a_link|remain}, to {a_link|stay} '
+          - - vis
+            - - t: queda abierto hasta el 31
+                tr: it will remain open until the 31st
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be}, to end up being '
+          - - vis
+            - - t: quedamos contentos con las mejoras
+                tr: we were pleased with the improvements
+              - t: "el partido qued\xF3 empatado"
+                tr: the game ended in a tie
+              - t: "el pastel qued\xF3 muy rico"
+                tr: the cake came out really well, the cake was delicious
+              - t: "queda claro que \u2026"
+                tr: "it's clear that \u2026"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be situated '
+          - - vis
+            - - t: queda muy lejos
+                tr: it's very far, it's too far away
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be left} '
+          - - vis
+            - - t: "quedan s\xF3lo dos alternativas"
+                tr: there are only two options left
+              - t: no me queda mucho dinero
+                tr: I don't have much money left
+              - t: queda mucho por hacer
+                tr: there's still a lot left to do
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit}, to {a_link|suit} '
+          - - vis
+            - - t: estos zapatos no me quedan
+                tr: these shoes don't fit
+              - t: me queda grande
+                tr: it's big on me
+              - t: ese color te queda bien
+                tr: that color looks good on you
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to agree to meet '
+          - - vis
+            - - t: "\xBFa qu\xE9 hora quedamos?"
+                tr: what time are we meeting?
+              - t: "qued\xE9 con un amigo para cenar"
+                tr: I arranged to have dinner with a friend
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make a good/bad impression on someone'
+          sn: '7'
+          vrs:
+          - va: quedar bien/mal con alguien
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree}, to {a_link|arrange} '
+          - - vis
+            - - t: "\xBFen qu\xE9 quedamos?"
+                tr: what's the plan?, what are we doing?
+          sn: '8'
+          vrs:
+          - va: quedar en
+            vac: ~ en
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stay} '
+            - - vis
+              - - t: "se qued\xF3 en casa"
+                  tr: she stayed at home
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|keep on} '
+            - - vis
+              - - t: "se qued\xF3 esperando"
+                  tr: he kept on waiting
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to stay behind, to get left behind '
+            - - vis
+              - - t: "no quedarse atr\xE1s"
+                  tr: to be no slouch
+            sn: '3'
+            vrs:
+            - va: "quedarse atr\xE1s"
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|remain} '
+            - - vis
+              - - t: "me qued\xE9 con hambre despu\xE9s de comer"
+                  tr: I was still hungry after I ate
+            sn: '4'
+            vrs:
+            - va: quedarse con
+              vac: ~ con
+    drp: quedarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: quedar
+    prs:
+    - sound:
+        audio: queda02sp
+  meta:
+    id: quedar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618576000'
+    src: spanish
+    stems:
+    - quedar
+    - quedar bien/mal con alguien
+    - quedar bien con alguien
+    - quedar mal con alguien
+    - quedar en
+    - quedarse
+    - "quedarse atr\xE1s"
+    - quedarse con
+    uuid: 786a9a42-a1bd-4819-9999-6a48e9bcb28e
+  shortdef:
+  - 'permanecer : to remain, to stay'
+  - to be, to end up being
+  - to be situated
+  suppl:
+    cjts:
+    - cjfs:
+      - quedando
+      - quedado
+      cjid: gppt
+    - cjfs:
+      - quedo
+      - quedas
+      - queda
+      - quedamos
+      - "qued\xE1is"
+      - quedan
+      cjid: pind
+    - cjfs:
+      - quedaba
+      - quedabas
+      - quedaba
+      - "qued\xE1bamos"
+      - quedabais
+      - quedaban
+      cjid: pret
+    - cjfs:
+      - "qued\xE9"
+      - quedaste
+      - "qued\xF3"
+      - quedamos
+      - quedasteis
+      - quedaron
+      cjid: pprf
+    - cjfs:
+      - "quedar\xE9"
+      - "quedar\xE1s"
+      - "quedar\xE1"
+      - quedaremos
+      - "quedar\xE9is"
+      - "quedar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "quedar\xEDa"
+      - "quedar\xEDas"
+      - "quedar\xEDa"
+      - "quedar\xEDamos"
+      - "quedar\xEDais"
+      - "quedar\xEDan"
+      cjid: cond
+    - cjfs:
+      - quede
+      - quedes
+      - quede
+      - quedemos
+      - "qued\xE9is"
+      - queden
+      cjid: psub
+    - cjfs:
+      - quedara
+      - quedaras
+      - quedara
+      - "qued\xE1ramos"
+      - quedarais
+      - quedaran
+      cjid: pisb1
+    - cjfs:
+      - quedase
+      - quedases
+      - quedase
+      - "qued\xE1semos"
+      - quedaseis
+      - quedasen
+      cjid: pisb2
+    - cjfs:
+      - quedare
+      - quedares
+      - quedare
+      - "qued\xE1remos"
+      - quedareis
+      - quedaren
+      cjid: fsub
+    - cjfs:
+      - he quedado
+      - has quedado
+      - ha quedado
+      - hemos quedado
+      - "hab\xE9is quedado"
+      - han quedado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa quedado"
+      - "hab\xEDas quedado"
+      - "hab\xEDa quedado"
+      - "hab\xEDamos quedado"
+      - "hab\xEDais quedado"
+      - "hab\xEDan quedado"
+      cjid: ppsi
+    - cjfs:
+      - hube quedado
+      - hubiste quedado
+      - hubo quedado
+      - hubimos quedado
+      - hubisteis quedado
+      - hubieron quedado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 quedado"
+      - "habr\xE1s quedado"
+      - "habr\xE1 quedado"
+      - habremos quedado
+      - "habr\xE9is quedado"
+      - "habr\xE1n quedado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa quedado"
+      - "habr\xEDas quedado"
+      - "habr\xEDa quedado"
+      - "habr\xEDamos quedado"
+      - "habr\xEDais quedado"
+      - "habr\xEDan quedado"
+      cjid: cpef
+    - cjfs:
+      - haya quedado
+      - hayas quedado
+      - haya quedado
+      - hayamos quedado
+      - "hay\xE1is quedado"
+      - hayan quedado
+      cjid: ppfs
+    - cjfs:
+      - hubiera quedado
+      - hubieras quedado
+      - hubiera quedado
+      - "hubi\xE9ramos quedado"
+      - hubierais quedado
+      - hubieran quedado
+      cjid: ppss1
+    - cjfs:
+      - hubiese quedado
+      - hubieses quedado
+      - hubiese quedado
+      - "hubi\xE9semos quedado"
+      - hubieseis quedado
+      - hubiesen quedado
+      cjid: ppss2
+    - cjfs:
+      - hubiere quedado
+      - hubieres quedado
+      - hubiere quedado
+      - "hubi\xE9remos quedado"
+      - hubiereis quedado
+      - hubieren quedado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - queda
+      - quede
+      - quedemos
+      - quedad
+      - queden
+      cjid: impf
+- ahws:
+  - hw: malparada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to come out of (something) {a_link|badly}, to end up in a bad state'
+          vrs:
+          - va: salir malparado
+          - va: quedar malparado
+            vl: or
+  fl: adjective
+  hwi:
+    hw: malparado
+    prs:
+    - sound:
+        audio: malpa01sp
+  meta:
+    id: malparado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614256000'
+    src: spanish
+    stems:
+    - malparado
+    - malparada
+    - salir malparado
+    - quedar malparado
+    uuid: 1e9124fe-3770-4ca4-87f3-fc605ad0bae0
+  shortdef:
+  - to come out of (something) badly, to end up in a bad state

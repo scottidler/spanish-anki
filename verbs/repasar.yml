@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pass by again'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|review}, to {a_link|go over}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mend}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: repasar
+    prs:
+    - sound:
+        audio: repas01sp
+  meta:
+    id: repasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619428000'
+    src: spanish
+    stems:
+    - repasar
+    uuid: 525e0c36-0004-4fa4-b067-860ca5ec3399
+  shortdef:
+  - to pass by again
+  - to review, to go over
+  - to mend
+  suppl:
+    cjts:
+    - cjfs:
+      - repasando
+      - repasado
+      cjid: gppt
+    - cjfs:
+      - repaso
+      - repasas
+      - repasa
+      - repasamos
+      - "repas\xE1is"
+      - repasan
+      cjid: pind
+    - cjfs:
+      - repasaba
+      - repasabas
+      - repasaba
+      - "repas\xE1bamos"
+      - repasabais
+      - repasaban
+      cjid: pret
+    - cjfs:
+      - "repas\xE9"
+      - repasaste
+      - "repas\xF3"
+      - repasamos
+      - repasasteis
+      - repasaron
+      cjid: pprf
+    - cjfs:
+      - "repasar\xE9"
+      - "repasar\xE1s"
+      - "repasar\xE1"
+      - repasaremos
+      - "repasar\xE9is"
+      - "repasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "repasar\xEDa"
+      - "repasar\xEDas"
+      - "repasar\xEDa"
+      - "repasar\xEDamos"
+      - "repasar\xEDais"
+      - "repasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - repase
+      - repases
+      - repase
+      - repasemos
+      - "repas\xE9is"
+      - repasen
+      cjid: psub
+    - cjfs:
+      - repasara
+      - repasaras
+      - repasara
+      - "repas\xE1ramos"
+      - repasarais
+      - repasaran
+      cjid: pisb1
+    - cjfs:
+      - repasase
+      - repasases
+      - repasase
+      - "repas\xE1semos"
+      - repasaseis
+      - repasasen
+      cjid: pisb2
+    - cjfs:
+      - repasare
+      - repasares
+      - repasare
+      - "repas\xE1remos"
+      - repasareis
+      - repasaren
+      cjid: fsub
+    - cjfs:
+      - he repasado
+      - has repasado
+      - ha repasado
+      - hemos repasado
+      - "hab\xE9is repasado"
+      - han repasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa repasado"
+      - "hab\xEDas repasado"
+      - "hab\xEDa repasado"
+      - "hab\xEDamos repasado"
+      - "hab\xEDais repasado"
+      - "hab\xEDan repasado"
+      cjid: ppsi
+    - cjfs:
+      - hube repasado
+      - hubiste repasado
+      - hubo repasado
+      - hubimos repasado
+      - hubisteis repasado
+      - hubieron repasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 repasado"
+      - "habr\xE1s repasado"
+      - "habr\xE1 repasado"
+      - habremos repasado
+      - "habr\xE9is repasado"
+      - "habr\xE1n repasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa repasado"
+      - "habr\xEDas repasado"
+      - "habr\xEDa repasado"
+      - "habr\xEDamos repasado"
+      - "habr\xEDais repasado"
+      - "habr\xEDan repasado"
+      cjid: cpef
+    - cjfs:
+      - haya repasado
+      - hayas repasado
+      - haya repasado
+      - hayamos repasado
+      - "hay\xE1is repasado"
+      - hayan repasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera repasado
+      - hubieras repasado
+      - hubiera repasado
+      - "hubi\xE9ramos repasado"
+      - hubierais repasado
+      - hubieran repasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese repasado
+      - hubieses repasado
+      - hubiese repasado
+      - "hubi\xE9semos repasado"
+      - hubieseis repasado
+      - hubiesen repasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere repasado
+      - hubieres repasado
+      - hubiere repasado
+      - "hubi\xE9remos repasado"
+      - hubiereis repasado
+      - hubieren repasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - repasa
+      - repase
+      - repasemos
+      - repasad
+      - repasen
+      cjid: impf

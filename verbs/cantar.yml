@@ -1,0 +1,233 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sing}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cacarear||} {bc}to {a_link|crow}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|chirriar||} {bc}to {a_link|chirp} (of insects)'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sing}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to call out, to {a_link|recite} '
+          - - vis
+            - - t: cantar victoria
+                tr: to claim victory
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hom: 1
+  hwi:
+    hw: cantar
+    prs:
+    - sound:
+        audio: canta02sp
+  meta:
+    id: cantar:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603857000'
+    src: spanish
+    stems:
+    - cantar
+    uuid: 6e96bd73-5f62-492c-92ad-42947c2b7e05
+  shortdef:
+  - to sing
+  - 'cacarear : to crow'
+  - 'chirriar : to chirp (of insects)'
+  suppl:
+    cjts:
+    - cjfs:
+      - cantando
+      - cantado
+      cjid: gppt
+    - cjfs:
+      - canto
+      - cantas
+      - canta
+      - cantamos
+      - "cant\xE1is"
+      - cantan
+      cjid: pind
+    - cjfs:
+      - cantaba
+      - cantabas
+      - cantaba
+      - "cant\xE1bamos"
+      - cantabais
+      - cantaban
+      cjid: pret
+    - cjfs:
+      - "cant\xE9"
+      - cantaste
+      - "cant\xF3"
+      - cantamos
+      - cantasteis
+      - cantaron
+      cjid: pprf
+    - cjfs:
+      - "cantar\xE9"
+      - "cantar\xE1s"
+      - "cantar\xE1"
+      - cantaremos
+      - "cantar\xE9is"
+      - "cantar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cantar\xEDa"
+      - "cantar\xEDas"
+      - "cantar\xEDa"
+      - "cantar\xEDamos"
+      - "cantar\xEDais"
+      - "cantar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cante
+      - cantes
+      - cante
+      - cantemos
+      - "cant\xE9is"
+      - canten
+      cjid: psub
+    - cjfs:
+      - cantara
+      - cantaras
+      - cantara
+      - "cant\xE1ramos"
+      - cantarais
+      - cantaran
+      cjid: pisb1
+    - cjfs:
+      - cantase
+      - cantases
+      - cantase
+      - "cant\xE1semos"
+      - cantaseis
+      - cantasen
+      cjid: pisb2
+    - cjfs:
+      - cantare
+      - cantares
+      - cantare
+      - "cant\xE1remos"
+      - cantareis
+      - cantaren
+      cjid: fsub
+    - cjfs:
+      - he cantado
+      - has cantado
+      - ha cantado
+      - hemos cantado
+      - "hab\xE9is cantado"
+      - han cantado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cantado"
+      - "hab\xEDas cantado"
+      - "hab\xEDa cantado"
+      - "hab\xEDamos cantado"
+      - "hab\xEDais cantado"
+      - "hab\xEDan cantado"
+      cjid: ppsi
+    - cjfs:
+      - hube cantado
+      - hubiste cantado
+      - hubo cantado
+      - hubimos cantado
+      - hubisteis cantado
+      - hubieron cantado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cantado"
+      - "habr\xE1s cantado"
+      - "habr\xE1 cantado"
+      - habremos cantado
+      - "habr\xE9is cantado"
+      - "habr\xE1n cantado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cantado"
+      - "habr\xEDas cantado"
+      - "habr\xEDa cantado"
+      - "habr\xEDamos cantado"
+      - "habr\xEDais cantado"
+      - "habr\xEDan cantado"
+      cjid: cpef
+    - cjfs:
+      - haya cantado
+      - hayas cantado
+      - haya cantado
+      - hayamos cantado
+      - "hay\xE1is cantado"
+      - hayan cantado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cantado
+      - hubieras cantado
+      - hubiera cantado
+      - "hubi\xE9ramos cantado"
+      - hubierais cantado
+      - hubieran cantado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cantado
+      - hubieses cantado
+      - hubiese cantado
+      - "hubi\xE9semos cantado"
+      - hubieseis cantado
+      - hubiesen cantado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cantado
+      - hubieres cantado
+      - hubiere cantado
+      - "hubi\xE9remos cantado"
+      - hubiereis cantado
+      - hubieren cantado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - canta
+      - cante
+      - cantemos
+      - cantad
+      - canten
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|song}, {a_link|ballad}'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: cantar
+  meta:
+    id: cantar:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603858000'
+    src: spanish
+    stems:
+    - cantar
+    uuid: c0a8c2b9-22e3-4640-8f93-da25b69f2fb8
+  shortdef:
+  - song, ballad

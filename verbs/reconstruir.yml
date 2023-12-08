@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rebuild}, to {a_link|reconstruct}'
+  fl: transitive verb
+  hwi:
+    hw: reconstruir
+  meta:
+    id: reconstruir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619031000'
+    src: spanish
+    stems:
+    - reconstruir
+    uuid: 57d89718-36b6-4180-acaa-2a36f4103430
+  shortdef:
+  - to rebuild, to reconstruct
+  suppl:
+    cjts:
+    - cjfs:
+      - reconstruyendo
+      - reconstruido
+      cjid: gppt
+    - cjfs:
+      - reconstruyo
+      - reconstruyes
+      - reconstruye
+      - reconstruimos
+      - "reconstru\xEDs"
+      - reconstruyen
+      cjid: pind
+    - cjfs:
+      - "reconstru\xEDa"
+      - "reconstru\xEDas"
+      - "reconstru\xEDa"
+      - "reconstru\xEDamos"
+      - "reconstru\xEDais"
+      - "reconstru\xEDan"
+      cjid: pret
+    - cjfs:
+      - "reconstru\xED"
+      - reconstruiste
+      - "reconstruy\xF3"
+      - reconstruimos
+      - reconstruisteis
+      - reconstruyeron
+      cjid: pprf
+    - cjfs:
+      - "reconstruir\xE9"
+      - "reconstruir\xE1s"
+      - "reconstruir\xE1"
+      - reconstruiremos
+      - "reconstruir\xE9is"
+      - "reconstruir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "reconstruir\xEDa"
+      - "reconstruir\xEDas"
+      - "reconstruir\xEDa"
+      - "reconstruir\xEDamos"
+      - "reconstruir\xEDais"
+      - "reconstruir\xEDan"
+      cjid: cond
+    - cjfs:
+      - reconstruya
+      - reconstruyas
+      - reconstruya
+      - reconstruyamos
+      - "reconstruy\xE1is"
+      - reconstruyan
+      cjid: psub
+    - cjfs:
+      - reconstruyera
+      - reconstruyeras
+      - reconstruyera
+      - "reconstruy\xE9ramos"
+      - reconstruyerais
+      - reconstruyeran
+      cjid: pisb1
+    - cjfs:
+      - reconstruyese
+      - reconstruyeses
+      - reconstruyese
+      - "reconstruy\xE9semos"
+      - reconstruyeseis
+      - reconstruyesen
+      cjid: pisb2
+    - cjfs:
+      - reconstruyere
+      - reconstruyeres
+      - reconstruyere
+      - "reconstruy\xE9remos"
+      - reconstruyereis
+      - reconstruyeren
+      cjid: fsub
+    - cjfs:
+      - he reconstruido
+      - has reconstruido
+      - ha reconstruido
+      - hemos reconstruido
+      - "hab\xE9is reconstruido"
+      - han reconstruido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa reconstruido"
+      - "hab\xEDas reconstruido"
+      - "hab\xEDa reconstruido"
+      - "hab\xEDamos reconstruido"
+      - "hab\xEDais reconstruido"
+      - "hab\xEDan reconstruido"
+      cjid: ppsi
+    - cjfs:
+      - hube reconstruido
+      - hubiste reconstruido
+      - hubo reconstruido
+      - hubimos reconstruido
+      - hubisteis reconstruido
+      - hubieron reconstruido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 reconstruido"
+      - "habr\xE1s reconstruido"
+      - "habr\xE1 reconstruido"
+      - habremos reconstruido
+      - "habr\xE9is reconstruido"
+      - "habr\xE1n reconstruido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa reconstruido"
+      - "habr\xEDas reconstruido"
+      - "habr\xEDa reconstruido"
+      - "habr\xEDamos reconstruido"
+      - "habr\xEDais reconstruido"
+      - "habr\xEDan reconstruido"
+      cjid: cpef
+    - cjfs:
+      - haya reconstruido
+      - hayas reconstruido
+      - haya reconstruido
+      - hayamos reconstruido
+      - "hay\xE1is reconstruido"
+      - hayan reconstruido
+      cjid: ppfs
+    - cjfs:
+      - hubiera reconstruido
+      - hubieras reconstruido
+      - hubiera reconstruido
+      - "hubi\xE9ramos reconstruido"
+      - hubierais reconstruido
+      - hubieran reconstruido
+      cjid: ppss1
+    - cjfs:
+      - hubiese reconstruido
+      - hubieses reconstruido
+      - hubiese reconstruido
+      - "hubi\xE9semos reconstruido"
+      - hubieseis reconstruido
+      - hubiesen reconstruido
+      cjid: ppss2
+    - cjfs:
+      - hubiere reconstruido
+      - hubieres reconstruido
+      - hubiere reconstruido
+      - "hubi\xE9remos reconstruido"
+      - hubiereis reconstruido
+      - hubieren reconstruido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - reconstruye
+      - reconstruya
+      - reconstruyamos
+      - reconstruid
+      - reconstruyan
+      cjid: impf

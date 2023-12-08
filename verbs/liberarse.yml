@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|liberate}, to {a_link|free}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get free of'
+    drp: liberarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: liberar
+    prs:
+    - sound:
+        audio: liber02sp
+  meta:
+    id: liberar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613721000'
+    src: spanish
+    stems:
+    - liberar
+    - liberarse
+    uuid: 424ed4e1-fa74-4ea8-8fa8-fa3c738061fe
+  shortdef:
+  - to liberate, to free
+  suppl:
+    cjts:
+    - cjfs:
+      - liberando
+      - liberado
+      cjid: gppt
+    - cjfs:
+      - libero
+      - liberas
+      - libera
+      - liberamos
+      - "liber\xE1is"
+      - liberan
+      cjid: pind
+    - cjfs:
+      - liberaba
+      - liberabas
+      - liberaba
+      - "liber\xE1bamos"
+      - liberabais
+      - liberaban
+      cjid: pret
+    - cjfs:
+      - "liber\xE9"
+      - liberaste
+      - "liber\xF3"
+      - liberamos
+      - liberasteis
+      - liberaron
+      cjid: pprf
+    - cjfs:
+      - "liberar\xE9"
+      - "liberar\xE1s"
+      - "liberar\xE1"
+      - liberaremos
+      - "liberar\xE9is"
+      - "liberar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "liberar\xEDa"
+      - "liberar\xEDas"
+      - "liberar\xEDa"
+      - "liberar\xEDamos"
+      - "liberar\xEDais"
+      - "liberar\xEDan"
+      cjid: cond
+    - cjfs:
+      - libere
+      - liberes
+      - libere
+      - liberemos
+      - "liber\xE9is"
+      - liberen
+      cjid: psub
+    - cjfs:
+      - liberara
+      - liberaras
+      - liberara
+      - "liber\xE1ramos"
+      - liberarais
+      - liberaran
+      cjid: pisb1
+    - cjfs:
+      - liberase
+      - liberases
+      - liberase
+      - "liber\xE1semos"
+      - liberaseis
+      - liberasen
+      cjid: pisb2
+    - cjfs:
+      - liberare
+      - liberares
+      - liberare
+      - "liber\xE1remos"
+      - liberareis
+      - liberaren
+      cjid: fsub
+    - cjfs:
+      - he liberado
+      - has liberado
+      - ha liberado
+      - hemos liberado
+      - "hab\xE9is liberado"
+      - han liberado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa liberado"
+      - "hab\xEDas liberado"
+      - "hab\xEDa liberado"
+      - "hab\xEDamos liberado"
+      - "hab\xEDais liberado"
+      - "hab\xEDan liberado"
+      cjid: ppsi
+    - cjfs:
+      - hube liberado
+      - hubiste liberado
+      - hubo liberado
+      - hubimos liberado
+      - hubisteis liberado
+      - hubieron liberado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 liberado"
+      - "habr\xE1s liberado"
+      - "habr\xE1 liberado"
+      - habremos liberado
+      - "habr\xE9is liberado"
+      - "habr\xE1n liberado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa liberado"
+      - "habr\xEDas liberado"
+      - "habr\xEDa liberado"
+      - "habr\xEDamos liberado"
+      - "habr\xEDais liberado"
+      - "habr\xEDan liberado"
+      cjid: cpef
+    - cjfs:
+      - haya liberado
+      - hayas liberado
+      - haya liberado
+      - hayamos liberado
+      - "hay\xE1is liberado"
+      - hayan liberado
+      cjid: ppfs
+    - cjfs:
+      - hubiera liberado
+      - hubieras liberado
+      - hubiera liberado
+      - "hubi\xE9ramos liberado"
+      - hubierais liberado
+      - hubieran liberado
+      cjid: ppss1
+    - cjfs:
+      - hubiese liberado
+      - hubieses liberado
+      - hubiese liberado
+      - "hubi\xE9semos liberado"
+      - hubieseis liberado
+      - hubiesen liberado
+      cjid: ppss2
+    - cjfs:
+      - hubiere liberado
+      - hubieres liberado
+      - hubiere liberado
+      - "hubi\xE9remos liberado"
+      - hubiereis liberado
+      - hubieren liberado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - libera
+      - libere
+      - liberemos
+      - liberad
+      - liberen
+      cjid: impf

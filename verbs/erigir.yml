@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|build}, to {a_link|erect}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to set oneself up as'
+            vrs:
+            - va: erigirse en
+              vac: ~ en
+    drp: erigirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: erigir
+  meta:
+    id: erigir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608889000'
+    src: spanish
+    stems:
+    - erigir
+    - erigirse
+    - erigirse en
+    uuid: 6d7c730c-ee75-47b2-be2a-028f7aa573e1
+  shortdef:
+  - to build, to erect
+  suppl:
+    cjts:
+    - cjfs:
+      - erigiendo
+      - erigido
+      cjid: gppt
+    - cjfs:
+      - erijo
+      - eriges
+      - erige
+      - erigimos
+      - "erig\xEDs"
+      - erigen
+      cjid: pind
+    - cjfs:
+      - "erig\xEDa"
+      - "erig\xEDas"
+      - "erig\xEDa"
+      - "erig\xEDamos"
+      - "erig\xEDais"
+      - "erig\xEDan"
+      cjid: pret
+    - cjfs:
+      - "erig\xED"
+      - erigiste
+      - "erigi\xF3"
+      - erigimos
+      - erigisteis
+      - erigieron
+      cjid: pprf
+    - cjfs:
+      - "erigir\xE9"
+      - "erigir\xE1s"
+      - "erigir\xE1"
+      - erigiremos
+      - "erigir\xE9is"
+      - "erigir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "erigir\xEDa"
+      - "erigir\xEDas"
+      - "erigir\xEDa"
+      - "erigir\xEDamos"
+      - "erigir\xEDais"
+      - "erigir\xEDan"
+      cjid: cond
+    - cjfs:
+      - erija
+      - erijas
+      - erija
+      - erijamos
+      - "erij\xE1is"
+      - erijan
+      cjid: psub
+    - cjfs:
+      - erigiera
+      - erigieras
+      - erigiera
+      - "erigi\xE9ramos"
+      - erigierais
+      - erigieran
+      cjid: pisb1
+    - cjfs:
+      - erigiese
+      - erigieses
+      - erigiese
+      - "erigi\xE9semos"
+      - erigieseis
+      - erigiesen
+      cjid: pisb2
+    - cjfs:
+      - erigiere
+      - erigieres
+      - erigiere
+      - "erigi\xE9remos"
+      - erigiereis
+      - erigieren
+      cjid: fsub
+    - cjfs:
+      - he erigido
+      - has erigido
+      - ha erigido
+      - hemos erigido
+      - "hab\xE9is erigido"
+      - han erigido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa erigido"
+      - "hab\xEDas erigido"
+      - "hab\xEDa erigido"
+      - "hab\xEDamos erigido"
+      - "hab\xEDais erigido"
+      - "hab\xEDan erigido"
+      cjid: ppsi
+    - cjfs:
+      - hube erigido
+      - hubiste erigido
+      - hubo erigido
+      - hubimos erigido
+      - hubisteis erigido
+      - hubieron erigido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 erigido"
+      - "habr\xE1s erigido"
+      - "habr\xE1 erigido"
+      - habremos erigido
+      - "habr\xE9is erigido"
+      - "habr\xE1n erigido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa erigido"
+      - "habr\xEDas erigido"
+      - "habr\xEDa erigido"
+      - "habr\xEDamos erigido"
+      - "habr\xEDais erigido"
+      - "habr\xEDan erigido"
+      cjid: cpef
+    - cjfs:
+      - haya erigido
+      - hayas erigido
+      - haya erigido
+      - hayamos erigido
+      - "hay\xE1is erigido"
+      - hayan erigido
+      cjid: ppfs
+    - cjfs:
+      - hubiera erigido
+      - hubieras erigido
+      - hubiera erigido
+      - "hubi\xE9ramos erigido"
+      - hubierais erigido
+      - hubieran erigido
+      cjid: ppss1
+    - cjfs:
+      - hubiese erigido
+      - hubieses erigido
+      - hubiese erigido
+      - "hubi\xE9semos erigido"
+      - hubieseis erigido
+      - hubiesen erigido
+      cjid: ppss2
+    - cjfs:
+      - hubiere erigido
+      - hubieres erigido
+      - hubiere erigido
+      - "hubi\xE9remos erigido"
+      - hubiereis erigido
+      - hubieren erigido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - erige
+      - erija
+      - erijamos
+      - erigid
+      - erijan
+      cjid: impf

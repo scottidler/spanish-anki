@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|argue}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fall out with, to go up against'
+          sn: '2'
+          vrs:
+          - va: "re\xF1ir con"
+            vac: ~ con
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scold}, to {a_link|reprimand}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: "re\xF1ir"
+    prs:
+    - sound:
+        audio: renir01sp
+  meta:
+    id: renir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619412000'
+    src: spanish
+    stems:
+    - "re\xF1ir"
+    - "re\xF1ir con"
+    uuid: 1e96038a-6228-4866-9c7d-ebeda9e23b52
+  shortdef:
+  - to argue
+  - to fall out with, to go up against
+  - to scold, to reprimand
+  suppl:
+    cjts:
+    - cjfs:
+      - "ri\xF1endo"
+      - "re\xF1ido"
+      cjid: gppt
+    - cjfs:
+      - "ri\xF1o"
+      - "ri\xF1es"
+      - "ri\xF1e"
+      - "re\xF1imos"
+      - "re\xF1\xEDs"
+      - "ri\xF1en"
+      cjid: pind
+    - cjfs:
+      - "re\xF1\xEDa"
+      - "re\xF1\xEDas"
+      - "re\xF1\xEDa"
+      - "re\xF1\xEDamos"
+      - "re\xF1\xEDais"
+      - "re\xF1\xEDan"
+      cjid: pret
+    - cjfs:
+      - "re\xF1\xED"
+      - "re\xF1iste"
+      - "ri\xF1\xF3"
+      - "re\xF1imos"
+      - "re\xF1isteis"
+      - "ri\xF1eron"
+      cjid: pprf
+    - cjfs:
+      - "re\xF1ir\xE9"
+      - "re\xF1ir\xE1s"
+      - "re\xF1ir\xE1"
+      - "re\xF1iremos"
+      - "re\xF1ir\xE9is"
+      - "re\xF1ir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "re\xF1ir\xEDa"
+      - "re\xF1ir\xEDas"
+      - "re\xF1ir\xEDa"
+      - "re\xF1ir\xEDamos"
+      - "re\xF1ir\xEDais"
+      - "re\xF1ir\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ri\xF1a"
+      - "ri\xF1as"
+      - "ri\xF1a"
+      - "ri\xF1amos"
+      - "ri\xF1\xE1is"
+      - "ri\xF1an"
+      cjid: psub
+    - cjfs:
+      - "ri\xF1era"
+      - "ri\xF1eras"
+      - "ri\xF1era"
+      - "ri\xF1\xE9ramos"
+      - "ri\xF1erais"
+      - "ri\xF1eran"
+      cjid: pisb1
+    - cjfs:
+      - "ri\xF1ese"
+      - "ri\xF1eses"
+      - "ri\xF1ese"
+      - "ri\xF1\xE9semos"
+      - "ri\xF1eseis"
+      - "ri\xF1esen"
+      cjid: pisb2
+    - cjfs:
+      - "ri\xF1ere"
+      - "ri\xF1eres"
+      - "ri\xF1ere"
+      - "ri\xF1\xE9remos"
+      - "ri\xF1ereis"
+      - "ri\xF1eren"
+      cjid: fsub
+    - cjfs:
+      - "he re\xF1ido"
+      - "has re\xF1ido"
+      - "ha re\xF1ido"
+      - "hemos re\xF1ido"
+      - "hab\xE9is re\xF1ido"
+      - "han re\xF1ido"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa re\xF1ido"
+      - "hab\xEDas re\xF1ido"
+      - "hab\xEDa re\xF1ido"
+      - "hab\xEDamos re\xF1ido"
+      - "hab\xEDais re\xF1ido"
+      - "hab\xEDan re\xF1ido"
+      cjid: ppsi
+    - cjfs:
+      - "hube re\xF1ido"
+      - "hubiste re\xF1ido"
+      - "hubo re\xF1ido"
+      - "hubimos re\xF1ido"
+      - "hubisteis re\xF1ido"
+      - "hubieron re\xF1ido"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 re\xF1ido"
+      - "habr\xE1s re\xF1ido"
+      - "habr\xE1 re\xF1ido"
+      - "habremos re\xF1ido"
+      - "habr\xE9is re\xF1ido"
+      - "habr\xE1n re\xF1ido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa re\xF1ido"
+      - "habr\xEDas re\xF1ido"
+      - "habr\xEDa re\xF1ido"
+      - "habr\xEDamos re\xF1ido"
+      - "habr\xEDais re\xF1ido"
+      - "habr\xEDan re\xF1ido"
+      cjid: cpef
+    - cjfs:
+      - "haya re\xF1ido"
+      - "hayas re\xF1ido"
+      - "haya re\xF1ido"
+      - "hayamos re\xF1ido"
+      - "hay\xE1is re\xF1ido"
+      - "hayan re\xF1ido"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera re\xF1ido"
+      - "hubieras re\xF1ido"
+      - "hubiera re\xF1ido"
+      - "hubi\xE9ramos re\xF1ido"
+      - "hubierais re\xF1ido"
+      - "hubieran re\xF1ido"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese re\xF1ido"
+      - "hubieses re\xF1ido"
+      - "hubiese re\xF1ido"
+      - "hubi\xE9semos re\xF1ido"
+      - "hubieseis re\xF1ido"
+      - "hubiesen re\xF1ido"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere re\xF1ido"
+      - "hubieres re\xF1ido"
+      - "hubiere re\xF1ido"
+      - "hubi\xE9remos re\xF1ido"
+      - "hubiereis re\xF1ido"
+      - "hubieren re\xF1ido"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ri\xF1e"
+      - "ri\xF1a"
+      - "ri\xF1amos"
+      - "re\xF1id"
+      - "ri\xF1an"
+      cjid: impf

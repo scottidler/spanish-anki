@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sen
+        - vrs:
+          - va: prescindir de
+            vac: ~ de
+      - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|do without}, to {a_link|dispense with}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desatender||} {bc}to {a_link|ignore}, to {a_link|disregard}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|omitir||} {bc}to {a_link|omit}, to {a_link|skip}'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: prescindir
+    prs:
+    - sound:
+        audio: presc02sp
+  meta:
+    id: prescindir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618019000'
+    src: spanish
+    stems:
+    - prescindir
+    - prescindir de
+    uuid: 45c6fc8c-30d0-4346-97b2-d8fd2a480970
+  shortdef:
+  - to do without, to dispense with
+  - 'desatender : to ignore, to disregard'
+  - 'omitir : to omit, to skip'
+  suppl:
+    cjts:
+    - cjfs:
+      - prescindiendo
+      - prescindido
+      cjid: gppt
+    - cjfs:
+      - prescindo
+      - prescindes
+      - prescinde
+      - prescindimos
+      - "prescind\xEDs"
+      - prescinden
+      cjid: pind
+    - cjfs:
+      - "prescind\xEDa"
+      - "prescind\xEDas"
+      - "prescind\xEDa"
+      - "prescind\xEDamos"
+      - "prescind\xEDais"
+      - "prescind\xEDan"
+      cjid: pret
+    - cjfs:
+      - "prescind\xED"
+      - prescindiste
+      - "prescindi\xF3"
+      - prescindimos
+      - prescindisteis
+      - prescindieron
+      cjid: pprf
+    - cjfs:
+      - "prescindir\xE9"
+      - "prescindir\xE1s"
+      - "prescindir\xE1"
+      - prescindiremos
+      - "prescindir\xE9is"
+      - "prescindir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prescindir\xEDa"
+      - "prescindir\xEDas"
+      - "prescindir\xEDa"
+      - "prescindir\xEDamos"
+      - "prescindir\xEDais"
+      - "prescindir\xEDan"
+      cjid: cond
+    - cjfs:
+      - prescinda
+      - prescindas
+      - prescinda
+      - prescindamos
+      - "prescind\xE1is"
+      - prescindan
+      cjid: psub
+    - cjfs:
+      - prescindiera
+      - prescindieras
+      - prescindiera
+      - "prescindi\xE9ramos"
+      - prescindierais
+      - prescindieran
+      cjid: pisb1
+    - cjfs:
+      - prescindiese
+      - prescindieses
+      - prescindiese
+      - "prescindi\xE9semos"
+      - prescindieseis
+      - prescindiesen
+      cjid: pisb2
+    - cjfs:
+      - prescindiere
+      - prescindieres
+      - prescindiere
+      - "prescindi\xE9remos"
+      - prescindiereis
+      - prescindieren
+      cjid: fsub
+    - cjfs:
+      - he prescindido
+      - has prescindido
+      - ha prescindido
+      - hemos prescindido
+      - "hab\xE9is prescindido"
+      - han prescindido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prescindido"
+      - "hab\xEDas prescindido"
+      - "hab\xEDa prescindido"
+      - "hab\xEDamos prescindido"
+      - "hab\xEDais prescindido"
+      - "hab\xEDan prescindido"
+      cjid: ppsi
+    - cjfs:
+      - hube prescindido
+      - hubiste prescindido
+      - hubo prescindido
+      - hubimos prescindido
+      - hubisteis prescindido
+      - hubieron prescindido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prescindido"
+      - "habr\xE1s prescindido"
+      - "habr\xE1 prescindido"
+      - habremos prescindido
+      - "habr\xE9is prescindido"
+      - "habr\xE1n prescindido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prescindido"
+      - "habr\xEDas prescindido"
+      - "habr\xEDa prescindido"
+      - "habr\xEDamos prescindido"
+      - "habr\xEDais prescindido"
+      - "habr\xEDan prescindido"
+      cjid: cpef
+    - cjfs:
+      - haya prescindido
+      - hayas prescindido
+      - haya prescindido
+      - hayamos prescindido
+      - "hay\xE1is prescindido"
+      - hayan prescindido
+      cjid: ppfs
+    - cjfs:
+      - hubiera prescindido
+      - hubieras prescindido
+      - hubiera prescindido
+      - "hubi\xE9ramos prescindido"
+      - hubierais prescindido
+      - hubieran prescindido
+      cjid: ppss1
+    - cjfs:
+      - hubiese prescindido
+      - hubieses prescindido
+      - hubiese prescindido
+      - "hubi\xE9semos prescindido"
+      - hubieseis prescindido
+      - hubiesen prescindido
+      cjid: ppss2
+    - cjfs:
+      - hubiere prescindido
+      - hubieres prescindido
+      - hubiere prescindido
+      - "hubi\xE9remos prescindido"
+      - hubiereis prescindido
+      - hubieren prescindido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prescinde
+      - prescinda
+      - prescindamos
+      - prescindid
+      - prescindan
+      cjid: impf

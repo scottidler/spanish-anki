@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disappoint}, to {a_link|let down}'
+  fl: transitive verb
+  hwi:
+    hw: decepcionar
+    prs:
+    - sound:
+        audio: decep02sp
+  meta:
+    id: decepcionar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606488000'
+    src: spanish
+    stems:
+    - decepcionar
+    - decepcionarse
+    uuid: f17572c1-10d4-47f9-b77b-93148258931b
+  shortdef:
+  - to disappoint, to let down
+  suppl:
+    cjts:
+    - cjfs:
+      - decepcionando
+      - decepcionado
+      cjid: gppt
+    - cjfs:
+      - decepciono
+      - decepcionas
+      - decepciona
+      - decepcionamos
+      - "decepcion\xE1is"
+      - decepcionan
+      cjid: pind
+    - cjfs:
+      - decepcionaba
+      - decepcionabas
+      - decepcionaba
+      - "decepcion\xE1bamos"
+      - decepcionabais
+      - decepcionaban
+      cjid: pret
+    - cjfs:
+      - "decepcion\xE9"
+      - decepcionaste
+      - "decepcion\xF3"
+      - decepcionamos
+      - decepcionasteis
+      - decepcionaron
+      cjid: pprf
+    - cjfs:
+      - "decepcionar\xE9"
+      - "decepcionar\xE1s"
+      - "decepcionar\xE1"
+      - decepcionaremos
+      - "decepcionar\xE9is"
+      - "decepcionar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "decepcionar\xEDa"
+      - "decepcionar\xEDas"
+      - "decepcionar\xEDa"
+      - "decepcionar\xEDamos"
+      - "decepcionar\xEDais"
+      - "decepcionar\xEDan"
+      cjid: cond
+    - cjfs:
+      - decepcione
+      - decepciones
+      - decepcione
+      - decepcionemos
+      - "decepcion\xE9is"
+      - decepcionen
+      cjid: psub
+    - cjfs:
+      - decepcionara
+      - decepcionaras
+      - decepcionara
+      - "decepcion\xE1ramos"
+      - decepcionarais
+      - decepcionaran
+      cjid: pisb1
+    - cjfs:
+      - decepcionase
+      - decepcionases
+      - decepcionase
+      - "decepcion\xE1semos"
+      - decepcionaseis
+      - decepcionasen
+      cjid: pisb2
+    - cjfs:
+      - decepcionare
+      - decepcionares
+      - decepcionare
+      - "decepcion\xE1remos"
+      - decepcionareis
+      - decepcionaren
+      cjid: fsub
+    - cjfs:
+      - he decepcionado
+      - has decepcionado
+      - ha decepcionado
+      - hemos decepcionado
+      - "hab\xE9is decepcionado"
+      - han decepcionado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa decepcionado"
+      - "hab\xEDas decepcionado"
+      - "hab\xEDa decepcionado"
+      - "hab\xEDamos decepcionado"
+      - "hab\xEDais decepcionado"
+      - "hab\xEDan decepcionado"
+      cjid: ppsi
+    - cjfs:
+      - hube decepcionado
+      - hubiste decepcionado
+      - hubo decepcionado
+      - hubimos decepcionado
+      - hubisteis decepcionado
+      - hubieron decepcionado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 decepcionado"
+      - "habr\xE1s decepcionado"
+      - "habr\xE1 decepcionado"
+      - habremos decepcionado
+      - "habr\xE9is decepcionado"
+      - "habr\xE1n decepcionado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa decepcionado"
+      - "habr\xEDas decepcionado"
+      - "habr\xEDa decepcionado"
+      - "habr\xEDamos decepcionado"
+      - "habr\xEDais decepcionado"
+      - "habr\xEDan decepcionado"
+      cjid: cpef
+    - cjfs:
+      - haya decepcionado
+      - hayas decepcionado
+      - haya decepcionado
+      - hayamos decepcionado
+      - "hay\xE1is decepcionado"
+      - hayan decepcionado
+      cjid: ppfs
+    - cjfs:
+      - hubiera decepcionado
+      - hubieras decepcionado
+      - hubiera decepcionado
+      - "hubi\xE9ramos decepcionado"
+      - hubierais decepcionado
+      - hubieran decepcionado
+      cjid: ppss1
+    - cjfs:
+      - hubiese decepcionado
+      - hubieses decepcionado
+      - hubiese decepcionado
+      - "hubi\xE9semos decepcionado"
+      - hubieseis decepcionado
+      - hubiesen decepcionado
+      cjid: ppss2
+    - cjfs:
+      - hubiere decepcionado
+      - hubieres decepcionado
+      - hubiere decepcionado
+      - "hubi\xE9remos decepcionado"
+      - hubiereis decepcionado
+      - hubieren decepcionado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - decepciona
+      - decepcione
+      - decepcionemos
+      - decepcionad
+      - decepcionen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: decepcionarse

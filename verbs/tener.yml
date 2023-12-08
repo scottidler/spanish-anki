@@ -1,0 +1,895 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have} '
+          - - vis
+            - - t: tiene un coche azul
+                tr: he has a blue car
+              - t: "\xBFlo tienes contigo?"
+                tr: do you have it with you?
+              - t: tienen tres hijos
+                tr: they have three children
+              - t: tiene ojos verdes
+                tr: she has green eyes
+              - t: tiene mucha experiencia
+                tr: she has a lot of experience
+              - t: "\xBFtiene hora?"
+                tr: do you have the time?, can you tell me what time it is?
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have} (available) '
+          - - vis
+            - - t: tener dinero/tiempo para
+                tr: to have money/time for
+              - t: "no tuve m\xE1s remedio"
+                tr: I had no choice
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have} (plans, etc.) '
+          - - vis
+            - - t: tengo mucho que hacer
+                tr: I have a lot to do
+              - t: hoy tiene clase
+                tr: he has class today
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have}, to {a_link|cause} (consequences, etc.)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "tiene veinte a\xF1os"
+                tr: he's twenty years old
+          sls:
+          - (indicating age)
+          sn: '5'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: tiene un metro de largo
+                tr: it's one meter long
+          sls:
+          - (indicating dimensions)
+          sn: '6'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "tengo fr\xEDo/hambre/miedo"
+                tr: I'm cold/hungry/scared
+              - t: no tengo ni idea
+                tr: I have no idea
+              - t: tengo confianza en ti
+                tr: I have confidence in you
+              - t: eso nos tiene contentos
+                tr: that makes us happy
+          sls:
+          - (expressing thoughts, feelings, or sensations)
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have} (an illness or injury)'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have}, to {a_link|experience} (problems, etc.) '
+          - - vis
+            - - t: "tuve un buen d\xEDa"
+                tr: I had a good day
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have}, to {a_link|receive} (news, etc.)'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have}, to {a_link|show} (a quality) '
+          - - vis
+            - - t: "tienes raz\xF3n"
+                tr: you're right
+              - t: eso no tiene sentido
+                tr: that doesn't make sense
+              - t: no tiene nada de malo/raro
+                tr: there's nothing bad/strange about it
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have}, to {a_link|include} '
+          - - vis
+            - - t: "el libro tiene 500 p\xE1ginas"
+                tr: the book has 500 pages
+          sn: '12'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|use}, to {a_link|exercise} '
+          - - vis
+            - - t: tener cuidado
+                tr: to be careful
+          sn: '13'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "ten\xEDa la camisa manchada"
+                tr: his shirt was stained
+          sls:
+          - (indicating condition)
+          sn: '14'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "ten\xEDa las manos en los bolsillos"
+                tr: she had her hands in her pockets
+          sls:
+          - (indicating position)
+          sn: '15'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hold} '
+          - - vis
+            - - t: ten esto
+                tr: hold this
+          sn: '16'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have}, to give birth to'
+          sn: '17'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|think}, to {a_link|consider} '
+          - - vis
+            - - t: me tienes por loco
+                tr: you think I'm crazy
+          sn: '18'
+          vrs:
+          - va: tener por
+            vac: ~ por
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have to} '
+          - - vis
+            - - t: tengo que salir
+                tr: I have to leave
+              - t: "tiene que estar aqu\xED"
+                tr: it has to be here, it must be here
+          sn: '1'
+          vrs:
+          - va: tener que
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "ten\xEDa pensado escribirte"
+                tr: I've been thinking of writing to you
+          sls:
+          - (with past participle)
+          sn: '2'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "tengo diez a\xF1os haciendo esto"
+                tr: I have been doing this for ten years
+              - t: "tiene a\xF1os de estar aqu\xED"
+                tr: it's been here for years
+          sls:
+          - (in expressions of time)
+          sn: '3'
+    vd: auxiliary verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stand up}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to consider oneself '
+            - - vis
+              - - t: me tengo por afortunado
+                  tr: I consider myself lucky
+            sn: '2'
+            vrs:
+            - va: tenerse por
+              vac: ~ por
+    drp: tenerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tener
+    prs:
+    - sound:
+        audio: tener01sp
+  meta:
+    id: tener
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621662000'
+    src: spanish
+    stems:
+    - tener
+    - tener por
+    - tener que
+    - tenerse
+    - tenerse por
+    uuid: 4de5e98f-d04c-46d8-89dd-42aa6a5078ac
+  shortdef:
+  - to have
+  - to have (available)
+  - to have (plans, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - teniendo
+      - tenido
+      cjid: gppt
+    - cjfs:
+      - tengo
+      - tienes
+      - tiene
+      - tenemos
+      - "ten\xE9is"
+      - tienen
+      cjid: pind
+    - cjfs:
+      - "ten\xEDa"
+      - "ten\xEDas"
+      - "ten\xEDa"
+      - "ten\xEDamos"
+      - "ten\xEDais"
+      - "ten\xEDan"
+      cjid: pret
+    - cjfs:
+      - tuve
+      - tuviste
+      - tuvo
+      - tuvimos
+      - tuvisteis
+      - tuvieron
+      cjid: pprf
+    - cjfs:
+      - "tendr\xE9"
+      - "tendr\xE1s"
+      - "tendr\xE1"
+      - tendremos
+      - "tendr\xE9is"
+      - "tendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tendr\xEDa"
+      - "tendr\xEDas"
+      - "tendr\xEDa"
+      - "tendr\xEDamos"
+      - "tendr\xEDais"
+      - "tendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - tenga
+      - tengas
+      - tenga
+      - tengamos
+      - "teng\xE1is"
+      - tengan
+      cjid: psub
+    - cjfs:
+      - tuviera
+      - tuvieras
+      - tuviera
+      - "tuvi\xE9ramos"
+      - tuvierais
+      - tuvieran
+      cjid: pisb1
+    - cjfs:
+      - tuviese
+      - tuvieses
+      - tuviese
+      - "tuvi\xE9semos"
+      - tuvieseis
+      - tuviesen
+      cjid: pisb2
+    - cjfs:
+      - tuviere
+      - tuvieres
+      - tuviere
+      - "tuvi\xE9remos"
+      - tuviereis
+      - tuvieren
+      cjid: fsub
+    - cjfs:
+      - he tenido
+      - has tenido
+      - ha tenido
+      - hemos tenido
+      - "hab\xE9is tenido"
+      - han tenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tenido"
+      - "hab\xEDas tenido"
+      - "hab\xEDa tenido"
+      - "hab\xEDamos tenido"
+      - "hab\xEDais tenido"
+      - "hab\xEDan tenido"
+      cjid: ppsi
+    - cjfs:
+      - hube tenido
+      - hubiste tenido
+      - hubo tenido
+      - hubimos tenido
+      - hubisteis tenido
+      - hubieron tenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tenido"
+      - "habr\xE1s tenido"
+      - "habr\xE1 tenido"
+      - habremos tenido
+      - "habr\xE9is tenido"
+      - "habr\xE1n tenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tenido"
+      - "habr\xEDas tenido"
+      - "habr\xEDa tenido"
+      - "habr\xEDamos tenido"
+      - "habr\xEDais tenido"
+      - "habr\xEDan tenido"
+      cjid: cpef
+    - cjfs:
+      - haya tenido
+      - hayas tenido
+      - haya tenido
+      - hayamos tenido
+      - "hay\xE1is tenido"
+      - hayan tenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera tenido
+      - hubieras tenido
+      - hubiera tenido
+      - "hubi\xE9ramos tenido"
+      - hubierais tenido
+      - hubieran tenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese tenido
+      - hubieses tenido
+      - hubiese tenido
+      - "hubi\xE9semos tenido"
+      - hubieseis tenido
+      - hubiesen tenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere tenido
+      - hubieres tenido
+      - hubiere tenido
+      - "hubi\xE9remos tenido"
+      - hubiereis tenido
+      - hubieren tenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ten
+      - tenga
+      - tengamos
+      - tened
+      - tengan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|branquia||} {bc}{a_link|gill}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have guts, to have courage'
+          sls:
+          - familiar
+          sn: '2'
+          vrs:
+          - va: tener agallas
+  fl: feminine noun
+  hwi:
+    hw: agalla
+  meta:
+    id: agalla
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600666000'
+    src: spanish
+    stems:
+    - agalla
+    - tener agallas
+    uuid: 827d684e-866c-44f9-8ab7-f013b956adb1
+  shortdef:
+  - 'branquia : gill'
+  - to have guts, to have courage
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|soul}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|person}, {a_link|human being}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be pitiless'
+          sn: '3'
+          vrs:
+          - va: no tener alma
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have one''s heart in one''s mouth'
+          sn: '4'
+          vrs:
+          - va: tener el alma en un hilo
+  fl: feminine noun
+  hwi:
+    hw: alma
+    prs:
+    - sound:
+        audio: alma001sp
+  meta:
+    id: alma
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601056000'
+    src: spanish
+    stems:
+    - alma
+    - no tener alma
+    - tener el alma en un hilo
+    uuid: a734cf6c-d5f3-480e-98be-8d1a4015cdac
+  shortdef:
+  - soul
+  - person, human being
+  - to be pitiless
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|joke}, funny story'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be funny'
+          sn: '2'
+          vrs:
+          - va: tener chiste
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be tricky'
+          sls:
+          - Mexico
+          sn: '3'
+          vrs:
+          - va: tener su chiste
+  fl: masculine noun
+  hwi:
+    hw: chiste
+    prs:
+    - sound:
+        audio: chist01sp
+  meta:
+    id: chiste
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604619000'
+    src: spanish
+    stems:
+    - chiste
+    - tener chiste
+    - tener su chiste
+    uuid: 7093e32d-d1d0-4512-b892-191a57abfe1a
+  shortdef:
+  - joke, funny story
+  - to be funny
+  - to be tricky
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|calculation}, {a_link|count}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|account} '
+          - - vis
+            - - t: cuenta corriente
+                tr: checking account
+              - t: cuenta de ahorro(s)
+                tr: savings account
+              - t: "cuenta de correo(s) electr\xF3nico(s), cuenta de email"
+                tr: e-mail account
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|responsibility}, {a_link|liability} '
+          - - vis
+            - - t: corre por cuenta del gobierno
+                tr: the government is footing the bill
+              - t: trabajar por cuenta propia
+                tr: to be self-employed
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|check}, {a_link|bill}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in the end}'
+          sn: '5'
+          vrs:
+          - va: a fin de cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|realize}'
+          sn: '6'
+          vrs:
+          - va: darse cuenta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in short}'
+          sls:
+          - Chile
+          sn: '7'
+          vrs:
+          - va: en buenas cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|on account of}, {a_link|because of}'
+          sn: '8'
+          vrs:
+          - va: por cuenta de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be held accountable'
+          sn: '9'
+          vrs:
+          - va: rendir cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to bear in mind'
+          sn: '10'
+          vrs:
+          - va: tener en cuenta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take into account}'
+          sn: '11'
+          vrs:
+          - va: tomar en cuenta
+  fl: feminine noun
+  hom: 2
+  hwi:
+    hw: cuenta
+    prs:
+    - sound:
+        audio: cuent02sp
+  meta:
+    id: cuenta:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606303000'
+    src: spanish
+    stems:
+    - cuenta
+    - a fin de cuentas
+    - darse cuenta
+    - en buenas cuentas
+    - por cuenta de
+    - rendir cuentas
+    - tener en cuenta
+    - tomar en cuenta
+    uuid: 0e3c2d31-6bd9-490f-8e43-cbbad91d7815
+  shortdef:
+  - calculation, count
+  - account
+  - responsibility, liability
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|care} '
+          - - vis
+            - - t: cuidado personal
+                tr: self-care
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|worry}, {a_link|concern}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be careful'
+          sn: '3'
+          vrs:
+          - va: tener cuidado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}watch out!, be careful!'
+          sn: '4'
+          vrs:
+          - va: "\xA1cuidado!"
+  fl: masculine noun
+  hwi:
+    hw: cuidado
+    prs:
+    - sound:
+        audio: cuida01sp
+  meta:
+    id: cuidado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606322000'
+    src: spanish
+    stems:
+    - cuidado
+    - tener cuidado
+    - "\xA1cuidado!"
+    uuid: bd0853fb-3577-42b1-ac5f-fef00bcde455
+  shortdef:
+  - care
+  - worry, concern
+  - to be careful
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|indigesti\xF3n||} {bc}{a_link|indigestion}"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|verg\xFCenza||} {bc}{a_link|embarrassment}"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have no qualms about'
+          sn: '3'
+          vrs:
+          - va: no tener empacho en
+  fl: masculine noun
+  hwi:
+    hw: empacho
+    prs:
+    - sound:
+        audio: empac02sp
+  meta:
+    id: empacho
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608301000'
+    src: spanish
+    stems:
+    - empacho
+    - no tener empacho en
+    uuid: 1d74aaa4-0fee-4378-a801-367e6bce6bc6
+  shortdef:
+  - "indigesti\xF3n : indigestion"
+  - "verg\xFCenza : embarrassment"
+  - to have no qualms about
+- ahws:
+  - hw: entendida
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|skilled}, {a_link|expert}, {a_link|knowledgeable}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|understand}, to be under the impression '
+          - - vis
+            - - t: "ten\xEDamos entendido que vendr\xEDas"
+                tr: we were under the impression you would come
+          sn: '2'
+          vrs:
+          - va: tener entendido
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go without saying'
+          sn: '3'
+          vrs:
+          - va: darse por entendido
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: entendido
+    prs:
+    - sound:
+        audio: enten04sp
+  meta:
+    id: entendido:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608707000'
+    src: spanish
+    stems:
+    - entendido
+    - entendida
+    - tener entendido
+    - darse por entendido
+    uuid: 5928f30b-0d7c-4c99-8101-c27cf55b0ad6
+  shortdef:
+  - skilled, expert, knowledgeable
+  - to understand, to be under the impression
+  - to go without saying
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|entrance}, {a_link|entry} '
+          - - vis
+            - - t: prohibida la entrada
+                tr: do not enter
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|entrance} '
+          - - vis
+            - - t: entrada principal
+                tr: main entrance
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ticket}, {a_link|admission} '
+          - - vis
+            - - t: entrada gratuita/libre
+                tr: free admission
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|beginning}, {a_link|onset} '
+          - - vis
+            - - t: de entrada
+                tr: from the start
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}{a_link|entr\xE9e}"
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cue} (in music)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|income} '
+          - - vis
+            - - t: entradas y salidas
+                tr: income and expenditures
+          ins:
+          - if: entradas
+            spl: noun feminine plural
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have a receding hairline}'
+          sn: '8'
+          vrs:
+          - va: tener entradas
+  fl: feminine noun
+  hwi:
+    hw: entrada
+    prs:
+    - sound:
+        audio: entra01sp
+  meta:
+    id: entrada
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608734000'
+    src: spanish
+    stems:
+    - entrada
+    - entradas
+    - tener entradas
+    uuid: 49643ab7-3ebe-437f-810d-15a328d41f46
+  shortdef:
+  - entrance, entry
+  - entrance
+  - ticket, admission
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|triunfo||} {bc}{a_link|success}, {a_link|hit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be successful'
+          sn: '2'
+          vrs:
+          - va: "tener \xE9xito"
+  fl: masculine noun
+  hwi:
+    hw: "\xE9xito"
+    prs:
+    - sound:
+        audio: exito01sp
+  meta:
+    id: exito
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609647000'
+    src: spanish
+    stems:
+    - exito
+    - tener exito
+    uuid: 370b9dfd-6ede-4037-ba80-b64d3b283d8d
+  shortdef:
+  - 'triunfo : success, hit'
+  - to be successful

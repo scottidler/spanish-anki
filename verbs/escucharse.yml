@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|listen to}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hear}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|listen}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: escuchar
+    prs:
+    - sound:
+        audio: escuc01sp
+  meta:
+    id: escuchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609060000'
+    src: spanish
+    stems:
+    - escuchar
+    - escucharse
+    uuid: dd7d2d02-75bc-42ab-9e65-fa414b4d4201
+  shortdef:
+  - to listen to
+  - to hear
+  - to listen
+  suppl:
+    cjts:
+    - cjfs:
+      - escuchando
+      - escuchado
+      cjid: gppt
+    - cjfs:
+      - escucho
+      - escuchas
+      - escucha
+      - escuchamos
+      - "escuch\xE1is"
+      - escuchan
+      cjid: pind
+    - cjfs:
+      - escuchaba
+      - escuchabas
+      - escuchaba
+      - "escuch\xE1bamos"
+      - escuchabais
+      - escuchaban
+      cjid: pret
+    - cjfs:
+      - "escuch\xE9"
+      - escuchaste
+      - "escuch\xF3"
+      - escuchamos
+      - escuchasteis
+      - escucharon
+      cjid: pprf
+    - cjfs:
+      - "escuchar\xE9"
+      - "escuchar\xE1s"
+      - "escuchar\xE1"
+      - escucharemos
+      - "escuchar\xE9is"
+      - "escuchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escuchar\xEDa"
+      - "escuchar\xEDas"
+      - "escuchar\xEDa"
+      - "escuchar\xEDamos"
+      - "escuchar\xEDais"
+      - "escuchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - escuche
+      - escuches
+      - escuche
+      - escuchemos
+      - "escuch\xE9is"
+      - escuchen
+      cjid: psub
+    - cjfs:
+      - escuchara
+      - escucharas
+      - escuchara
+      - "escuch\xE1ramos"
+      - escucharais
+      - escucharan
+      cjid: pisb1
+    - cjfs:
+      - escuchase
+      - escuchases
+      - escuchase
+      - "escuch\xE1semos"
+      - escuchaseis
+      - escuchasen
+      cjid: pisb2
+    - cjfs:
+      - escuchare
+      - escuchares
+      - escuchare
+      - "escuch\xE1remos"
+      - escuchareis
+      - escucharen
+      cjid: fsub
+    - cjfs:
+      - he escuchado
+      - has escuchado
+      - ha escuchado
+      - hemos escuchado
+      - "hab\xE9is escuchado"
+      - han escuchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escuchado"
+      - "hab\xEDas escuchado"
+      - "hab\xEDa escuchado"
+      - "hab\xEDamos escuchado"
+      - "hab\xEDais escuchado"
+      - "hab\xEDan escuchado"
+      cjid: ppsi
+    - cjfs:
+      - hube escuchado
+      - hubiste escuchado
+      - hubo escuchado
+      - hubimos escuchado
+      - hubisteis escuchado
+      - hubieron escuchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escuchado"
+      - "habr\xE1s escuchado"
+      - "habr\xE1 escuchado"
+      - habremos escuchado
+      - "habr\xE9is escuchado"
+      - "habr\xE1n escuchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escuchado"
+      - "habr\xEDas escuchado"
+      - "habr\xEDa escuchado"
+      - "habr\xEDamos escuchado"
+      - "habr\xEDais escuchado"
+      - "habr\xEDan escuchado"
+      cjid: cpef
+    - cjfs:
+      - haya escuchado
+      - hayas escuchado
+      - haya escuchado
+      - hayamos escuchado
+      - "hay\xE1is escuchado"
+      - hayan escuchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera escuchado
+      - hubieras escuchado
+      - hubiera escuchado
+      - "hubi\xE9ramos escuchado"
+      - hubierais escuchado
+      - hubieran escuchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese escuchado
+      - hubieses escuchado
+      - hubiese escuchado
+      - "hubi\xE9semos escuchado"
+      - hubieseis escuchado
+      - hubiesen escuchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere escuchado
+      - hubieres escuchado
+      - hubiere escuchado
+      - "hubi\xE9remos escuchado"
+      - hubiereis escuchado
+      - hubieren escuchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escucha
+      - escuche
+      - escuchemos
+      - escuchad
+      - escuchen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: escucharse

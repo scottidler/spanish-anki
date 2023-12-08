@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|forge}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|conceive}, to {a_link|concoct}, to {a_link|hatch}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|set}, to {a_link|solidify}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: fraguar
+    prs:
+    - sound:
+        audio: fragu02sp
+  meta:
+    id: fraguar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610384000'
+    src: spanish
+    stems:
+    - fraguar
+    uuid: c0ea53ce-0093-4c2d-938f-7127589f8249
+  shortdef:
+  - to forge
+  - to conceive, to concoct, to hatch
+  - to set, to solidify
+  suppl:
+    cjts:
+    - cjfs:
+      - fraguando
+      - fraguado
+      cjid: gppt
+    - cjfs:
+      - fraguo
+      - fraguas
+      - fragua
+      - fraguamos
+      - "fragu\xE1is"
+      - fraguan
+      cjid: pind
+    - cjfs:
+      - fraguaba
+      - fraguabas
+      - fraguaba
+      - "fragu\xE1bamos"
+      - fraguabais
+      - fraguaban
+      cjid: pret
+    - cjfs:
+      - "frag\xFC\xE9"
+      - fraguaste
+      - "fragu\xF3"
+      - fraguamos
+      - fraguasteis
+      - fraguaron
+      cjid: pprf
+    - cjfs:
+      - "fraguar\xE9"
+      - "fraguar\xE1s"
+      - "fraguar\xE1"
+      - fraguaremos
+      - "fraguar\xE9is"
+      - "fraguar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fraguar\xEDa"
+      - "fraguar\xEDas"
+      - "fraguar\xEDa"
+      - "fraguar\xEDamos"
+      - "fraguar\xEDais"
+      - "fraguar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "frag\xFCe"
+      - "frag\xFCes"
+      - "frag\xFCe"
+      - "frag\xFCemos"
+      - "frag\xFC\xE9is"
+      - "frag\xFCen"
+      cjid: psub
+    - cjfs:
+      - fraguara
+      - fraguaras
+      - fraguara
+      - "fragu\xE1ramos"
+      - fraguarais
+      - fraguaran
+      cjid: pisb1
+    - cjfs:
+      - fraguase
+      - fraguases
+      - fraguase
+      - "fragu\xE1semos"
+      - fraguaseis
+      - fraguasen
+      cjid: pisb2
+    - cjfs:
+      - fraguare
+      - fraguares
+      - fraguare
+      - "fragu\xE1remos"
+      - fraguareis
+      - fraguaren
+      cjid: fsub
+    - cjfs:
+      - he fraguado
+      - has fraguado
+      - ha fraguado
+      - hemos fraguado
+      - "hab\xE9is fraguado"
+      - han fraguado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fraguado"
+      - "hab\xEDas fraguado"
+      - "hab\xEDa fraguado"
+      - "hab\xEDamos fraguado"
+      - "hab\xEDais fraguado"
+      - "hab\xEDan fraguado"
+      cjid: ppsi
+    - cjfs:
+      - hube fraguado
+      - hubiste fraguado
+      - hubo fraguado
+      - hubimos fraguado
+      - hubisteis fraguado
+      - hubieron fraguado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fraguado"
+      - "habr\xE1s fraguado"
+      - "habr\xE1 fraguado"
+      - habremos fraguado
+      - "habr\xE9is fraguado"
+      - "habr\xE1n fraguado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fraguado"
+      - "habr\xEDas fraguado"
+      - "habr\xEDa fraguado"
+      - "habr\xEDamos fraguado"
+      - "habr\xEDais fraguado"
+      - "habr\xEDan fraguado"
+      cjid: cpef
+    - cjfs:
+      - haya fraguado
+      - hayas fraguado
+      - haya fraguado
+      - hayamos fraguado
+      - "hay\xE1is fraguado"
+      - hayan fraguado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fraguado
+      - hubieras fraguado
+      - hubiera fraguado
+      - "hubi\xE9ramos fraguado"
+      - hubierais fraguado
+      - hubieran fraguado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fraguado
+      - hubieses fraguado
+      - hubiese fraguado
+      - "hubi\xE9semos fraguado"
+      - hubieseis fraguado
+      - hubiesen fraguado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fraguado
+      - hubieres fraguado
+      - hubiere fraguado
+      - "hubi\xE9remos fraguado"
+      - hubiereis fraguado
+      - hubieren fraguado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fragua
+      - "frag\xFCe"
+      - "frag\xFCemos"
+      - fraguad
+      - "frag\xFCen"
+      cjid: impf

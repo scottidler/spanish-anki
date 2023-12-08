@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|concern}, to {a_link|relate to} '
+          - - vis
+            - - t: "por lo que a m\xED respecta"
+                tr: as far as I'm concerned
+  fl: transitive verb
+  hwi:
+    hw: respectar
+  meta:
+    id: respectar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619583000'
+    src: spanish
+    stems:
+    - respectar
+    uuid: e1825505-b883-40fb-a0a4-262bfd0c84ac
+  shortdef:
+  - to concern, to relate to
+  suppl:
+    cjts:
+    - cjfs:
+      - respectando
+      - respectado
+      cjid: gppt
+    - cjfs:
+      - respecto
+      - respectas
+      - respecta
+      - respectamos
+      - "respect\xE1is"
+      - respectan
+      cjid: pind
+    - cjfs:
+      - respectaba
+      - respectabas
+      - respectaba
+      - "respect\xE1bamos"
+      - respectabais
+      - respectaban
+      cjid: pret
+    - cjfs:
+      - "respect\xE9"
+      - respectaste
+      - "respect\xF3"
+      - respectamos
+      - respectasteis
+      - respectaron
+      cjid: pprf
+    - cjfs:
+      - "respectar\xE9"
+      - "respectar\xE1s"
+      - "respectar\xE1"
+      - respectaremos
+      - "respectar\xE9is"
+      - "respectar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "respectar\xEDa"
+      - "respectar\xEDas"
+      - "respectar\xEDa"
+      - "respectar\xEDamos"
+      - "respectar\xEDais"
+      - "respectar\xEDan"
+      cjid: cond
+    - cjfs:
+      - respecte
+      - respectes
+      - respecte
+      - respectemos
+      - "respect\xE9is"
+      - respecten
+      cjid: psub
+    - cjfs:
+      - respectara
+      - respectaras
+      - respectara
+      - "respect\xE1ramos"
+      - respectarais
+      - respectaran
+      cjid: pisb1
+    - cjfs:
+      - respectase
+      - respectases
+      - respectase
+      - "respect\xE1semos"
+      - respectaseis
+      - respectasen
+      cjid: pisb2
+    - cjfs:
+      - respectare
+      - respectares
+      - respectare
+      - "respect\xE1remos"
+      - respectareis
+      - respectaren
+      cjid: fsub
+    - cjfs:
+      - he respectado
+      - has respectado
+      - ha respectado
+      - hemos respectado
+      - "hab\xE9is respectado"
+      - han respectado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa respectado"
+      - "hab\xEDas respectado"
+      - "hab\xEDa respectado"
+      - "hab\xEDamos respectado"
+      - "hab\xEDais respectado"
+      - "hab\xEDan respectado"
+      cjid: ppsi
+    - cjfs:
+      - hube respectado
+      - hubiste respectado
+      - hubo respectado
+      - hubimos respectado
+      - hubisteis respectado
+      - hubieron respectado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 respectado"
+      - "habr\xE1s respectado"
+      - "habr\xE1 respectado"
+      - habremos respectado
+      - "habr\xE9is respectado"
+      - "habr\xE1n respectado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa respectado"
+      - "habr\xEDas respectado"
+      - "habr\xEDa respectado"
+      - "habr\xEDamos respectado"
+      - "habr\xEDais respectado"
+      - "habr\xEDan respectado"
+      cjid: cpef
+    - cjfs:
+      - haya respectado
+      - hayas respectado
+      - haya respectado
+      - hayamos respectado
+      - "hay\xE1is respectado"
+      - hayan respectado
+      cjid: ppfs
+    - cjfs:
+      - hubiera respectado
+      - hubieras respectado
+      - hubiera respectado
+      - "hubi\xE9ramos respectado"
+      - hubierais respectado
+      - hubieran respectado
+      cjid: ppss1
+    - cjfs:
+      - hubiese respectado
+      - hubieses respectado
+      - hubiese respectado
+      - "hubi\xE9semos respectado"
+      - hubieseis respectado
+      - hubiesen respectado
+      cjid: ppss2
+    - cjfs:
+      - hubiere respectado
+      - hubieres respectado
+      - hubiere respectado
+      - "hubi\xE9remos respectado"
+      - hubiereis respectado
+      - hubieren respectado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - respecta
+      - respecte
+      - respectemos
+      - respectad
+      - respecten
+      cjid: impf

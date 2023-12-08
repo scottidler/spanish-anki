@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rival}, to compete with'
+          vrs:
+          - va: rivalizar con
+            vac: ~ con
+  fl: intransitive verb
+  hwi:
+    hw: rivalizar
+  meta:
+    id: rivalizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619855000'
+    src: spanish
+    stems:
+    - rivalizar
+    - rivalizar con
+    uuid: f70b9794-69dd-4076-90cd-d7f8c7ae4a43
+  shortdef:
+  - to rival, to compete with
+  suppl:
+    cjts:
+    - cjfs:
+      - rivalizando
+      - rivalizado
+      cjid: gppt
+    - cjfs:
+      - rivalizo
+      - rivalizas
+      - rivaliza
+      - rivalizamos
+      - "rivaliz\xE1is"
+      - rivalizan
+      cjid: pind
+    - cjfs:
+      - rivalizaba
+      - rivalizabas
+      - rivalizaba
+      - "rivaliz\xE1bamos"
+      - rivalizabais
+      - rivalizaban
+      cjid: pret
+    - cjfs:
+      - "rivalic\xE9"
+      - rivalizaste
+      - "rivaliz\xF3"
+      - rivalizamos
+      - rivalizasteis
+      - rivalizaron
+      cjid: pprf
+    - cjfs:
+      - "rivalizar\xE9"
+      - "rivalizar\xE1s"
+      - "rivalizar\xE1"
+      - rivalizaremos
+      - "rivalizar\xE9is"
+      - "rivalizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rivalizar\xEDa"
+      - "rivalizar\xEDas"
+      - "rivalizar\xEDa"
+      - "rivalizar\xEDamos"
+      - "rivalizar\xEDais"
+      - "rivalizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rivalice
+      - rivalices
+      - rivalice
+      - rivalicemos
+      - "rivalic\xE9is"
+      - rivalicen
+      cjid: psub
+    - cjfs:
+      - rivalizara
+      - rivalizaras
+      - rivalizara
+      - "rivaliz\xE1ramos"
+      - rivalizarais
+      - rivalizaran
+      cjid: pisb1
+    - cjfs:
+      - rivalizase
+      - rivalizases
+      - rivalizase
+      - "rivaliz\xE1semos"
+      - rivalizaseis
+      - rivalizasen
+      cjid: pisb2
+    - cjfs:
+      - rivalizare
+      - rivalizares
+      - rivalizare
+      - "rivaliz\xE1remos"
+      - rivalizareis
+      - rivalizaren
+      cjid: fsub
+    - cjfs:
+      - he rivalizado
+      - has rivalizado
+      - ha rivalizado
+      - hemos rivalizado
+      - "hab\xE9is rivalizado"
+      - han rivalizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rivalizado"
+      - "hab\xEDas rivalizado"
+      - "hab\xEDa rivalizado"
+      - "hab\xEDamos rivalizado"
+      - "hab\xEDais rivalizado"
+      - "hab\xEDan rivalizado"
+      cjid: ppsi
+    - cjfs:
+      - hube rivalizado
+      - hubiste rivalizado
+      - hubo rivalizado
+      - hubimos rivalizado
+      - hubisteis rivalizado
+      - hubieron rivalizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rivalizado"
+      - "habr\xE1s rivalizado"
+      - "habr\xE1 rivalizado"
+      - habremos rivalizado
+      - "habr\xE9is rivalizado"
+      - "habr\xE1n rivalizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rivalizado"
+      - "habr\xEDas rivalizado"
+      - "habr\xEDa rivalizado"
+      - "habr\xEDamos rivalizado"
+      - "habr\xEDais rivalizado"
+      - "habr\xEDan rivalizado"
+      cjid: cpef
+    - cjfs:
+      - haya rivalizado
+      - hayas rivalizado
+      - haya rivalizado
+      - hayamos rivalizado
+      - "hay\xE1is rivalizado"
+      - hayan rivalizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rivalizado
+      - hubieras rivalizado
+      - hubiera rivalizado
+      - "hubi\xE9ramos rivalizado"
+      - hubierais rivalizado
+      - hubieran rivalizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rivalizado
+      - hubieses rivalizado
+      - hubiese rivalizado
+      - "hubi\xE9semos rivalizado"
+      - hubieseis rivalizado
+      - hubiesen rivalizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rivalizado
+      - hubieres rivalizado
+      - hubiere rivalizado
+      - "hubi\xE9remos rivalizado"
+      - hubiereis rivalizado
+      - hubieren rivalizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rivaliza
+      - rivalice
+      - rivalicemos
+      - rivalizad
+      - rivalicen
+      cjid: impf

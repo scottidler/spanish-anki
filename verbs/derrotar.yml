@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|defeat}'
+  fl: transitive verb
+  hwi:
+    hw: derrotar
+    prs:
+    - sound:
+        audio: derro03sp
+  meta:
+    id: derrotar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606772000'
+    src: spanish
+    stems:
+    - derrotar
+    uuid: 949f2ac4-a110-4370-8a9f-84a808f52042
+  shortdef:
+  - to defeat
+  suppl:
+    cjts:
+    - cjfs:
+      - derrotando
+      - derrotado
+      cjid: gppt
+    - cjfs:
+      - derroto
+      - derrotas
+      - derrota
+      - derrotamos
+      - "derrot\xE1is"
+      - derrotan
+      cjid: pind
+    - cjfs:
+      - derrotaba
+      - derrotabas
+      - derrotaba
+      - "derrot\xE1bamos"
+      - derrotabais
+      - derrotaban
+      cjid: pret
+    - cjfs:
+      - "derrot\xE9"
+      - derrotaste
+      - "derrot\xF3"
+      - derrotamos
+      - derrotasteis
+      - derrotaron
+      cjid: pprf
+    - cjfs:
+      - "derrotar\xE9"
+      - "derrotar\xE1s"
+      - "derrotar\xE1"
+      - derrotaremos
+      - "derrotar\xE9is"
+      - "derrotar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "derrotar\xEDa"
+      - "derrotar\xEDas"
+      - "derrotar\xEDa"
+      - "derrotar\xEDamos"
+      - "derrotar\xEDais"
+      - "derrotar\xEDan"
+      cjid: cond
+    - cjfs:
+      - derrote
+      - derrotes
+      - derrote
+      - derrotemos
+      - "derrot\xE9is"
+      - derroten
+      cjid: psub
+    - cjfs:
+      - derrotara
+      - derrotaras
+      - derrotara
+      - "derrot\xE1ramos"
+      - derrotarais
+      - derrotaran
+      cjid: pisb1
+    - cjfs:
+      - derrotase
+      - derrotases
+      - derrotase
+      - "derrot\xE1semos"
+      - derrotaseis
+      - derrotasen
+      cjid: pisb2
+    - cjfs:
+      - derrotare
+      - derrotares
+      - derrotare
+      - "derrot\xE1remos"
+      - derrotareis
+      - derrotaren
+      cjid: fsub
+    - cjfs:
+      - he derrotado
+      - has derrotado
+      - ha derrotado
+      - hemos derrotado
+      - "hab\xE9is derrotado"
+      - han derrotado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa derrotado"
+      - "hab\xEDas derrotado"
+      - "hab\xEDa derrotado"
+      - "hab\xEDamos derrotado"
+      - "hab\xEDais derrotado"
+      - "hab\xEDan derrotado"
+      cjid: ppsi
+    - cjfs:
+      - hube derrotado
+      - hubiste derrotado
+      - hubo derrotado
+      - hubimos derrotado
+      - hubisteis derrotado
+      - hubieron derrotado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 derrotado"
+      - "habr\xE1s derrotado"
+      - "habr\xE1 derrotado"
+      - habremos derrotado
+      - "habr\xE9is derrotado"
+      - "habr\xE1n derrotado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa derrotado"
+      - "habr\xEDas derrotado"
+      - "habr\xEDa derrotado"
+      - "habr\xEDamos derrotado"
+      - "habr\xEDais derrotado"
+      - "habr\xEDan derrotado"
+      cjid: cpef
+    - cjfs:
+      - haya derrotado
+      - hayas derrotado
+      - haya derrotado
+      - hayamos derrotado
+      - "hay\xE1is derrotado"
+      - hayan derrotado
+      cjid: ppfs
+    - cjfs:
+      - hubiera derrotado
+      - hubieras derrotado
+      - hubiera derrotado
+      - "hubi\xE9ramos derrotado"
+      - hubierais derrotado
+      - hubieran derrotado
+      cjid: ppss1
+    - cjfs:
+      - hubiese derrotado
+      - hubieses derrotado
+      - hubiese derrotado
+      - "hubi\xE9semos derrotado"
+      - hubieseis derrotado
+      - hubiesen derrotado
+      cjid: ppss2
+    - cjfs:
+      - hubiere derrotado
+      - hubieres derrotado
+      - hubiere derrotado
+      - "hubi\xE9remos derrotado"
+      - hubiereis derrotado
+      - hubieren derrotado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - derrota
+      - derrote
+      - derrotemos
+      - derrotad
+      - derroten
+      cjid: impf

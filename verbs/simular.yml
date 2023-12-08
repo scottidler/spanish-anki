@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|simulate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|feign}, to {a_link|pretend}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: simular
+    prs:
+    - sound:
+        audio: simul02sp
+  meta:
+    id: simular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620658000'
+    src: spanish
+    stems:
+    - simular
+    uuid: 51c24701-8036-442b-9900-a1147a88b339
+  shortdef:
+  - to simulate
+  - to feign, to pretend
+  suppl:
+    cjts:
+    - cjfs:
+      - simulando
+      - simulado
+      cjid: gppt
+    - cjfs:
+      - simulo
+      - simulas
+      - simula
+      - simulamos
+      - "simul\xE1is"
+      - simulan
+      cjid: pind
+    - cjfs:
+      - simulaba
+      - simulabas
+      - simulaba
+      - "simul\xE1bamos"
+      - simulabais
+      - simulaban
+      cjid: pret
+    - cjfs:
+      - "simul\xE9"
+      - simulaste
+      - "simul\xF3"
+      - simulamos
+      - simulasteis
+      - simularon
+      cjid: pprf
+    - cjfs:
+      - "simular\xE9"
+      - "simular\xE1s"
+      - "simular\xE1"
+      - simularemos
+      - "simular\xE9is"
+      - "simular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "simular\xEDa"
+      - "simular\xEDas"
+      - "simular\xEDa"
+      - "simular\xEDamos"
+      - "simular\xEDais"
+      - "simular\xEDan"
+      cjid: cond
+    - cjfs:
+      - simule
+      - simules
+      - simule
+      - simulemos
+      - "simul\xE9is"
+      - simulen
+      cjid: psub
+    - cjfs:
+      - simulara
+      - simularas
+      - simulara
+      - "simul\xE1ramos"
+      - simularais
+      - simularan
+      cjid: pisb1
+    - cjfs:
+      - simulase
+      - simulases
+      - simulase
+      - "simul\xE1semos"
+      - simulaseis
+      - simulasen
+      cjid: pisb2
+    - cjfs:
+      - simulare
+      - simulares
+      - simulare
+      - "simul\xE1remos"
+      - simulareis
+      - simularen
+      cjid: fsub
+    - cjfs:
+      - he simulado
+      - has simulado
+      - ha simulado
+      - hemos simulado
+      - "hab\xE9is simulado"
+      - han simulado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa simulado"
+      - "hab\xEDas simulado"
+      - "hab\xEDa simulado"
+      - "hab\xEDamos simulado"
+      - "hab\xEDais simulado"
+      - "hab\xEDan simulado"
+      cjid: ppsi
+    - cjfs:
+      - hube simulado
+      - hubiste simulado
+      - hubo simulado
+      - hubimos simulado
+      - hubisteis simulado
+      - hubieron simulado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 simulado"
+      - "habr\xE1s simulado"
+      - "habr\xE1 simulado"
+      - habremos simulado
+      - "habr\xE9is simulado"
+      - "habr\xE1n simulado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa simulado"
+      - "habr\xEDas simulado"
+      - "habr\xEDa simulado"
+      - "habr\xEDamos simulado"
+      - "habr\xEDais simulado"
+      - "habr\xEDan simulado"
+      cjid: cpef
+    - cjfs:
+      - haya simulado
+      - hayas simulado
+      - haya simulado
+      - hayamos simulado
+      - "hay\xE1is simulado"
+      - hayan simulado
+      cjid: ppfs
+    - cjfs:
+      - hubiera simulado
+      - hubieras simulado
+      - hubiera simulado
+      - "hubi\xE9ramos simulado"
+      - hubierais simulado
+      - hubieran simulado
+      cjid: ppss1
+    - cjfs:
+      - hubiese simulado
+      - hubieses simulado
+      - hubiese simulado
+      - "hubi\xE9semos simulado"
+      - hubieseis simulado
+      - hubiesen simulado
+      cjid: ppss2
+    - cjfs:
+      - hubiere simulado
+      - hubieres simulado
+      - hubiere simulado
+      - "hubi\xE9remos simulado"
+      - hubiereis simulado
+      - hubieren simulado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - simula
+      - simule
+      - simulemos
+      - simulad
+      - simulen
+      cjid: impf

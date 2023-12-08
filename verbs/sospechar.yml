@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suspect}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be suspicious'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: sospechar
+    prs:
+    - sound:
+        audio: sospe02sp
+  meta:
+    id: sospechar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620998000'
+    src: spanish
+    stems:
+    - sospechar
+    uuid: ccfe6615-6cad-45d1-a20d-d0837822739d
+  shortdef:
+  - to suspect
+  - to be suspicious
+  suppl:
+    cjts:
+    - cjfs:
+      - sospechando
+      - sospechado
+      cjid: gppt
+    - cjfs:
+      - sospecho
+      - sospechas
+      - sospecha
+      - sospechamos
+      - "sospech\xE1is"
+      - sospechan
+      cjid: pind
+    - cjfs:
+      - sospechaba
+      - sospechabas
+      - sospechaba
+      - "sospech\xE1bamos"
+      - sospechabais
+      - sospechaban
+      cjid: pret
+    - cjfs:
+      - "sospech\xE9"
+      - sospechaste
+      - "sospech\xF3"
+      - sospechamos
+      - sospechasteis
+      - sospecharon
+      cjid: pprf
+    - cjfs:
+      - "sospechar\xE9"
+      - "sospechar\xE1s"
+      - "sospechar\xE1"
+      - sospecharemos
+      - "sospechar\xE9is"
+      - "sospechar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sospechar\xEDa"
+      - "sospechar\xEDas"
+      - "sospechar\xEDa"
+      - "sospechar\xEDamos"
+      - "sospechar\xEDais"
+      - "sospechar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sospeche
+      - sospeches
+      - sospeche
+      - sospechemos
+      - "sospech\xE9is"
+      - sospechen
+      cjid: psub
+    - cjfs:
+      - sospechara
+      - sospecharas
+      - sospechara
+      - "sospech\xE1ramos"
+      - sospecharais
+      - sospecharan
+      cjid: pisb1
+    - cjfs:
+      - sospechase
+      - sospechases
+      - sospechase
+      - "sospech\xE1semos"
+      - sospechaseis
+      - sospechasen
+      cjid: pisb2
+    - cjfs:
+      - sospechare
+      - sospechares
+      - sospechare
+      - "sospech\xE1remos"
+      - sospechareis
+      - sospecharen
+      cjid: fsub
+    - cjfs:
+      - he sospechado
+      - has sospechado
+      - ha sospechado
+      - hemos sospechado
+      - "hab\xE9is sospechado"
+      - han sospechado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sospechado"
+      - "hab\xEDas sospechado"
+      - "hab\xEDa sospechado"
+      - "hab\xEDamos sospechado"
+      - "hab\xEDais sospechado"
+      - "hab\xEDan sospechado"
+      cjid: ppsi
+    - cjfs:
+      - hube sospechado
+      - hubiste sospechado
+      - hubo sospechado
+      - hubimos sospechado
+      - hubisteis sospechado
+      - hubieron sospechado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sospechado"
+      - "habr\xE1s sospechado"
+      - "habr\xE1 sospechado"
+      - habremos sospechado
+      - "habr\xE9is sospechado"
+      - "habr\xE1n sospechado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sospechado"
+      - "habr\xEDas sospechado"
+      - "habr\xEDa sospechado"
+      - "habr\xEDamos sospechado"
+      - "habr\xEDais sospechado"
+      - "habr\xEDan sospechado"
+      cjid: cpef
+    - cjfs:
+      - haya sospechado
+      - hayas sospechado
+      - haya sospechado
+      - hayamos sospechado
+      - "hay\xE1is sospechado"
+      - hayan sospechado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sospechado
+      - hubieras sospechado
+      - hubiera sospechado
+      - "hubi\xE9ramos sospechado"
+      - hubierais sospechado
+      - hubieran sospechado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sospechado
+      - hubieses sospechado
+      - hubiese sospechado
+      - "hubi\xE9semos sospechado"
+      - hubieseis sospechado
+      - hubiesen sospechado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sospechado
+      - hubieres sospechado
+      - hubiere sospechado
+      - "hubi\xE9remos sospechado"
+      - hubiereis sospechado
+      - hubieren sospechado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sospecha
+      - sospeche
+      - sospechemos
+      - sospechad
+      - sospechen
+      cjid: impf

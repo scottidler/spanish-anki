@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|handcuff}'
+  fl: transitive verb
+  hwi:
+    hw: esposar
+  meta:
+    id: esposar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609230000'
+    src: spanish
+    stems:
+    - esposar
+    uuid: 93d04c75-1fd8-48f7-ac66-5ecbf0bac536
+  shortdef:
+  - to handcuff
+  suppl:
+    cjts:
+    - cjfs:
+      - esposando
+      - esposado
+      cjid: gppt
+    - cjfs:
+      - esposo
+      - esposas
+      - esposa
+      - esposamos
+      - "espos\xE1is"
+      - esposan
+      cjid: pind
+    - cjfs:
+      - esposaba
+      - esposabas
+      - esposaba
+      - "espos\xE1bamos"
+      - esposabais
+      - esposaban
+      cjid: pret
+    - cjfs:
+      - "espos\xE9"
+      - esposaste
+      - "espos\xF3"
+      - esposamos
+      - esposasteis
+      - esposaron
+      cjid: pprf
+    - cjfs:
+      - "esposar\xE9"
+      - "esposar\xE1s"
+      - "esposar\xE1"
+      - esposaremos
+      - "esposar\xE9is"
+      - "esposar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "esposar\xEDa"
+      - "esposar\xEDas"
+      - "esposar\xEDa"
+      - "esposar\xEDamos"
+      - "esposar\xEDais"
+      - "esposar\xEDan"
+      cjid: cond
+    - cjfs:
+      - espose
+      - esposes
+      - espose
+      - esposemos
+      - "espos\xE9is"
+      - esposen
+      cjid: psub
+    - cjfs:
+      - esposara
+      - esposaras
+      - esposara
+      - "espos\xE1ramos"
+      - esposarais
+      - esposaran
+      cjid: pisb1
+    - cjfs:
+      - esposase
+      - esposases
+      - esposase
+      - "espos\xE1semos"
+      - esposaseis
+      - esposasen
+      cjid: pisb2
+    - cjfs:
+      - esposare
+      - esposares
+      - esposare
+      - "espos\xE1remos"
+      - esposareis
+      - esposaren
+      cjid: fsub
+    - cjfs:
+      - he esposado
+      - has esposado
+      - ha esposado
+      - hemos esposado
+      - "hab\xE9is esposado"
+      - han esposado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa esposado"
+      - "hab\xEDas esposado"
+      - "hab\xEDa esposado"
+      - "hab\xEDamos esposado"
+      - "hab\xEDais esposado"
+      - "hab\xEDan esposado"
+      cjid: ppsi
+    - cjfs:
+      - hube esposado
+      - hubiste esposado
+      - hubo esposado
+      - hubimos esposado
+      - hubisteis esposado
+      - hubieron esposado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 esposado"
+      - "habr\xE1s esposado"
+      - "habr\xE1 esposado"
+      - habremos esposado
+      - "habr\xE9is esposado"
+      - "habr\xE1n esposado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa esposado"
+      - "habr\xEDas esposado"
+      - "habr\xEDa esposado"
+      - "habr\xEDamos esposado"
+      - "habr\xEDais esposado"
+      - "habr\xEDan esposado"
+      cjid: cpef
+    - cjfs:
+      - haya esposado
+      - hayas esposado
+      - haya esposado
+      - hayamos esposado
+      - "hay\xE1is esposado"
+      - hayan esposado
+      cjid: ppfs
+    - cjfs:
+      - hubiera esposado
+      - hubieras esposado
+      - hubiera esposado
+      - "hubi\xE9ramos esposado"
+      - hubierais esposado
+      - hubieran esposado
+      cjid: ppss1
+    - cjfs:
+      - hubiese esposado
+      - hubieses esposado
+      - hubiese esposado
+      - "hubi\xE9semos esposado"
+      - hubieseis esposado
+      - hubiesen esposado
+      cjid: ppss2
+    - cjfs:
+      - hubiere esposado
+      - hubieres esposado
+      - hubiere esposado
+      - "hubi\xE9remos esposado"
+      - hubiereis esposado
+      - hubieren esposado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - esposa
+      - espose
+      - esposemos
+      - esposad
+      - esposen
+      cjid: impf

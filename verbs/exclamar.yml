@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exclaim}'
+  fl: verb
+  hwi:
+    hw: exclamar
+    prs:
+    - sound:
+        audio: excla01sp
+  meta:
+    id: exclamar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609602000'
+    src: spanish
+    stems:
+    - exclamar
+    uuid: a5b2469a-0e71-4d9a-8343-deb2023187a2
+  shortdef:
+  - to exclaim
+  suppl:
+    cjts:
+    - cjfs:
+      - exclamando
+      - exclamado
+      cjid: gppt
+    - cjfs:
+      - exclamo
+      - exclamas
+      - exclama
+      - exclamamos
+      - "exclam\xE1is"
+      - exclaman
+      cjid: pind
+    - cjfs:
+      - exclamaba
+      - exclamabas
+      - exclamaba
+      - "exclam\xE1bamos"
+      - exclamabais
+      - exclamaban
+      cjid: pret
+    - cjfs:
+      - "exclam\xE9"
+      - exclamaste
+      - "exclam\xF3"
+      - exclamamos
+      - exclamasteis
+      - exclamaron
+      cjid: pprf
+    - cjfs:
+      - "exclamar\xE9"
+      - "exclamar\xE1s"
+      - "exclamar\xE1"
+      - exclamaremos
+      - "exclamar\xE9is"
+      - "exclamar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "exclamar\xEDa"
+      - "exclamar\xEDas"
+      - "exclamar\xEDa"
+      - "exclamar\xEDamos"
+      - "exclamar\xEDais"
+      - "exclamar\xEDan"
+      cjid: cond
+    - cjfs:
+      - exclame
+      - exclames
+      - exclame
+      - exclamemos
+      - "exclam\xE9is"
+      - exclamen
+      cjid: psub
+    - cjfs:
+      - exclamara
+      - exclamaras
+      - exclamara
+      - "exclam\xE1ramos"
+      - exclamarais
+      - exclamaran
+      cjid: pisb1
+    - cjfs:
+      - exclamase
+      - exclamases
+      - exclamase
+      - "exclam\xE1semos"
+      - exclamaseis
+      - exclamasen
+      cjid: pisb2
+    - cjfs:
+      - exclamare
+      - exclamares
+      - exclamare
+      - "exclam\xE1remos"
+      - exclamareis
+      - exclamaren
+      cjid: fsub
+    - cjfs:
+      - he exclamado
+      - has exclamado
+      - ha exclamado
+      - hemos exclamado
+      - "hab\xE9is exclamado"
+      - han exclamado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa exclamado"
+      - "hab\xEDas exclamado"
+      - "hab\xEDa exclamado"
+      - "hab\xEDamos exclamado"
+      - "hab\xEDais exclamado"
+      - "hab\xEDan exclamado"
+      cjid: ppsi
+    - cjfs:
+      - hube exclamado
+      - hubiste exclamado
+      - hubo exclamado
+      - hubimos exclamado
+      - hubisteis exclamado
+      - hubieron exclamado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 exclamado"
+      - "habr\xE1s exclamado"
+      - "habr\xE1 exclamado"
+      - habremos exclamado
+      - "habr\xE9is exclamado"
+      - "habr\xE1n exclamado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa exclamado"
+      - "habr\xEDas exclamado"
+      - "habr\xEDa exclamado"
+      - "habr\xEDamos exclamado"
+      - "habr\xEDais exclamado"
+      - "habr\xEDan exclamado"
+      cjid: cpef
+    - cjfs:
+      - haya exclamado
+      - hayas exclamado
+      - haya exclamado
+      - hayamos exclamado
+      - "hay\xE1is exclamado"
+      - hayan exclamado
+      cjid: ppfs
+    - cjfs:
+      - hubiera exclamado
+      - hubieras exclamado
+      - hubiera exclamado
+      - "hubi\xE9ramos exclamado"
+      - hubierais exclamado
+      - hubieran exclamado
+      cjid: ppss1
+    - cjfs:
+      - hubiese exclamado
+      - hubieses exclamado
+      - hubiese exclamado
+      - "hubi\xE9semos exclamado"
+      - hubieseis exclamado
+      - hubiesen exclamado
+      cjid: ppss2
+    - cjfs:
+      - hubiere exclamado
+      - hubieres exclamado
+      - hubiere exclamado
+      - "hubi\xE9remos exclamado"
+      - hubiereis exclamado
+      - hubieren exclamado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - exclama
+      - exclame
+      - exclamemos
+      - exclamad
+      - exclamen
+      cjid: impf

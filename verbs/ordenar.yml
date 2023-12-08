@@ -1,0 +1,387 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mandar||} {bc}to {a_link|order}, to {a_link|command}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|arreglar||} {bc}to put in order, to {a_link|arrange}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ordain} (a priest)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be ordained'
+    drp: ordenarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ordenar
+    prs:
+    - sound:
+        audio: orden05sp
+  meta:
+    id: ordenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616283000'
+    src: spanish
+    stems:
+    - ordenar
+    - ordenarse
+    uuid: 416966b3-720a-4542-b4d2-b541f5865e3b
+  shortdef:
+  - 'mandar : to order, to command'
+  - 'arreglar : to put in order, to arrange'
+  - to ordain (a priest)
+  suppl:
+    cjts:
+    - cjfs:
+      - ordenando
+      - ordenado
+      cjid: gppt
+    - cjfs:
+      - ordeno
+      - ordenas
+      - ordena
+      - ordenamos
+      - "orden\xE1is"
+      - ordenan
+      cjid: pind
+    - cjfs:
+      - ordenaba
+      - ordenabas
+      - ordenaba
+      - "orden\xE1bamos"
+      - ordenabais
+      - ordenaban
+      cjid: pret
+    - cjfs:
+      - "orden\xE9"
+      - ordenaste
+      - "orden\xF3"
+      - ordenamos
+      - ordenasteis
+      - ordenaron
+      cjid: pprf
+    - cjfs:
+      - "ordenar\xE9"
+      - "ordenar\xE1s"
+      - "ordenar\xE1"
+      - ordenaremos
+      - "ordenar\xE9is"
+      - "ordenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ordenar\xEDa"
+      - "ordenar\xEDas"
+      - "ordenar\xEDa"
+      - "ordenar\xEDamos"
+      - "ordenar\xEDais"
+      - "ordenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ordene
+      - ordenes
+      - ordene
+      - ordenemos
+      - "orden\xE9is"
+      - ordenen
+      cjid: psub
+    - cjfs:
+      - ordenara
+      - ordenaras
+      - ordenara
+      - "orden\xE1ramos"
+      - ordenarais
+      - ordenaran
+      cjid: pisb1
+    - cjfs:
+      - ordenase
+      - ordenases
+      - ordenase
+      - "orden\xE1semos"
+      - ordenaseis
+      - ordenasen
+      cjid: pisb2
+    - cjfs:
+      - ordenare
+      - ordenares
+      - ordenare
+      - "orden\xE1remos"
+      - ordenareis
+      - ordenaren
+      cjid: fsub
+    - cjfs:
+      - he ordenado
+      - has ordenado
+      - ha ordenado
+      - hemos ordenado
+      - "hab\xE9is ordenado"
+      - han ordenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ordenado"
+      - "hab\xEDas ordenado"
+      - "hab\xEDa ordenado"
+      - "hab\xEDamos ordenado"
+      - "hab\xEDais ordenado"
+      - "hab\xEDan ordenado"
+      cjid: ppsi
+    - cjfs:
+      - hube ordenado
+      - hubiste ordenado
+      - hubo ordenado
+      - hubimos ordenado
+      - hubisteis ordenado
+      - hubieron ordenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ordenado"
+      - "habr\xE1s ordenado"
+      - "habr\xE1 ordenado"
+      - habremos ordenado
+      - "habr\xE9is ordenado"
+      - "habr\xE1n ordenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ordenado"
+      - "habr\xEDas ordenado"
+      - "habr\xEDa ordenado"
+      - "habr\xEDamos ordenado"
+      - "habr\xEDais ordenado"
+      - "habr\xEDan ordenado"
+      cjid: cpef
+    - cjfs:
+      - haya ordenado
+      - hayas ordenado
+      - haya ordenado
+      - hayamos ordenado
+      - "hay\xE1is ordenado"
+      - hayan ordenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ordenado
+      - hubieras ordenado
+      - hubiera ordenado
+      - "hubi\xE9ramos ordenado"
+      - hubierais ordenado
+      - hubieran ordenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ordenado
+      - hubieses ordenado
+      - hubiese ordenado
+      - "hubi\xE9semos ordenado"
+      - hubieseis ordenado
+      - hubiesen ordenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ordenado
+      - hubieres ordenado
+      - hubiere ordenado
+      - "hubi\xE9remos ordenado"
+      - hubiereis ordenado
+      - hubieren ordenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ordena
+      - ordene
+      - ordenemos
+      - ordenad
+      - ordenen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|milk}'
+  fl: transitive verb
+  hwi:
+    hw: "orde\xF1ar"
+    prs:
+    - sound:
+        audio: orden06sp
+  meta:
+    id: orden~ar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616284000'
+    src: spanish
+    stems:
+    - "orde\xF1ar"
+    uuid: 448b56c9-2f42-4265-941e-85ff895b8653
+  shortdef:
+  - to milk
+  suppl:
+    cjts:
+    - cjfs:
+      - "orde\xF1ando"
+      - "orde\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "orde\xF1o"
+      - "orde\xF1as"
+      - "orde\xF1a"
+      - "orde\xF1amos"
+      - "orde\xF1\xE1is"
+      - "orde\xF1an"
+      cjid: pind
+    - cjfs:
+      - "orde\xF1aba"
+      - "orde\xF1abas"
+      - "orde\xF1aba"
+      - "orde\xF1\xE1bamos"
+      - "orde\xF1abais"
+      - "orde\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "orde\xF1\xE9"
+      - "orde\xF1aste"
+      - "orde\xF1\xF3"
+      - "orde\xF1amos"
+      - "orde\xF1asteis"
+      - "orde\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "orde\xF1ar\xE9"
+      - "orde\xF1ar\xE1s"
+      - "orde\xF1ar\xE1"
+      - "orde\xF1aremos"
+      - "orde\xF1ar\xE9is"
+      - "orde\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "orde\xF1ar\xEDa"
+      - "orde\xF1ar\xEDas"
+      - "orde\xF1ar\xEDa"
+      - "orde\xF1ar\xEDamos"
+      - "orde\xF1ar\xEDais"
+      - "orde\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "orde\xF1e"
+      - "orde\xF1es"
+      - "orde\xF1e"
+      - "orde\xF1emos"
+      - "orde\xF1\xE9is"
+      - "orde\xF1en"
+      cjid: psub
+    - cjfs:
+      - "orde\xF1ara"
+      - "orde\xF1aras"
+      - "orde\xF1ara"
+      - "orde\xF1\xE1ramos"
+      - "orde\xF1arais"
+      - "orde\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "orde\xF1ase"
+      - "orde\xF1ases"
+      - "orde\xF1ase"
+      - "orde\xF1\xE1semos"
+      - "orde\xF1aseis"
+      - "orde\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "orde\xF1are"
+      - "orde\xF1ares"
+      - "orde\xF1are"
+      - "orde\xF1\xE1remos"
+      - "orde\xF1areis"
+      - "orde\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he orde\xF1ado"
+      - "has orde\xF1ado"
+      - "ha orde\xF1ado"
+      - "hemos orde\xF1ado"
+      - "hab\xE9is orde\xF1ado"
+      - "han orde\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa orde\xF1ado"
+      - "hab\xEDas orde\xF1ado"
+      - "hab\xEDa orde\xF1ado"
+      - "hab\xEDamos orde\xF1ado"
+      - "hab\xEDais orde\xF1ado"
+      - "hab\xEDan orde\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube orde\xF1ado"
+      - "hubiste orde\xF1ado"
+      - "hubo orde\xF1ado"
+      - "hubimos orde\xF1ado"
+      - "hubisteis orde\xF1ado"
+      - "hubieron orde\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 orde\xF1ado"
+      - "habr\xE1s orde\xF1ado"
+      - "habr\xE1 orde\xF1ado"
+      - "habremos orde\xF1ado"
+      - "habr\xE9is orde\xF1ado"
+      - "habr\xE1n orde\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa orde\xF1ado"
+      - "habr\xEDas orde\xF1ado"
+      - "habr\xEDa orde\xF1ado"
+      - "habr\xEDamos orde\xF1ado"
+      - "habr\xEDais orde\xF1ado"
+      - "habr\xEDan orde\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya orde\xF1ado"
+      - "hayas orde\xF1ado"
+      - "haya orde\xF1ado"
+      - "hayamos orde\xF1ado"
+      - "hay\xE1is orde\xF1ado"
+      - "hayan orde\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera orde\xF1ado"
+      - "hubieras orde\xF1ado"
+      - "hubiera orde\xF1ado"
+      - "hubi\xE9ramos orde\xF1ado"
+      - "hubierais orde\xF1ado"
+      - "hubieran orde\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese orde\xF1ado"
+      - "hubieses orde\xF1ado"
+      - "hubiese orde\xF1ado"
+      - "hubi\xE9semos orde\xF1ado"
+      - "hubieseis orde\xF1ado"
+      - "hubiesen orde\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere orde\xF1ado"
+      - "hubieres orde\xF1ado"
+      - "hubiere orde\xF1ado"
+      - "hubi\xE9remos orde\xF1ado"
+      - "hubiereis orde\xF1ado"
+      - "hubieren orde\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "orde\xF1a"
+      - "orde\xF1e"
+      - "orde\xF1emos"
+      - "orde\xF1ad"
+      - "orde\xF1en"
+      cjid: impf

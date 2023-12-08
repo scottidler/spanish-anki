@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exceed}, to {a_link|surpass}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to go too far'
+    drp: excederse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: exceder
+    prs:
+    - sound:
+        audio: exced02sp
+  meta:
+    id: exceder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609585000'
+    src: spanish
+    stems:
+    - exceder
+    - excederse
+    uuid: 19c0aa5d-64af-4aa5-90ce-783dd159b49a
+  shortdef:
+  - to exceed, to surpass
+  suppl:
+    cjts:
+    - cjfs:
+      - excediendo
+      - excedido
+      cjid: gppt
+    - cjfs:
+      - excedo
+      - excedes
+      - excede
+      - excedemos
+      - "exced\xE9is"
+      - exceden
+      cjid: pind
+    - cjfs:
+      - "exced\xEDa"
+      - "exced\xEDas"
+      - "exced\xEDa"
+      - "exced\xEDamos"
+      - "exced\xEDais"
+      - "exced\xEDan"
+      cjid: pret
+    - cjfs:
+      - "exced\xED"
+      - excediste
+      - "excedi\xF3"
+      - excedimos
+      - excedisteis
+      - excedieron
+      cjid: pprf
+    - cjfs:
+      - "exceder\xE9"
+      - "exceder\xE1s"
+      - "exceder\xE1"
+      - excederemos
+      - "exceder\xE9is"
+      - "exceder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "exceder\xEDa"
+      - "exceder\xEDas"
+      - "exceder\xEDa"
+      - "exceder\xEDamos"
+      - "exceder\xEDais"
+      - "exceder\xEDan"
+      cjid: cond
+    - cjfs:
+      - exceda
+      - excedas
+      - exceda
+      - excedamos
+      - "exced\xE1is"
+      - excedan
+      cjid: psub
+    - cjfs:
+      - excediera
+      - excedieras
+      - excediera
+      - "excedi\xE9ramos"
+      - excedierais
+      - excedieran
+      cjid: pisb1
+    - cjfs:
+      - excediese
+      - excedieses
+      - excediese
+      - "excedi\xE9semos"
+      - excedieseis
+      - excediesen
+      cjid: pisb2
+    - cjfs:
+      - excediere
+      - excedieres
+      - excediere
+      - "excedi\xE9remos"
+      - excediereis
+      - excedieren
+      cjid: fsub
+    - cjfs:
+      - he excedido
+      - has excedido
+      - ha excedido
+      - hemos excedido
+      - "hab\xE9is excedido"
+      - han excedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa excedido"
+      - "hab\xEDas excedido"
+      - "hab\xEDa excedido"
+      - "hab\xEDamos excedido"
+      - "hab\xEDais excedido"
+      - "hab\xEDan excedido"
+      cjid: ppsi
+    - cjfs:
+      - hube excedido
+      - hubiste excedido
+      - hubo excedido
+      - hubimos excedido
+      - hubisteis excedido
+      - hubieron excedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 excedido"
+      - "habr\xE1s excedido"
+      - "habr\xE1 excedido"
+      - habremos excedido
+      - "habr\xE9is excedido"
+      - "habr\xE1n excedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa excedido"
+      - "habr\xEDas excedido"
+      - "habr\xEDa excedido"
+      - "habr\xEDamos excedido"
+      - "habr\xEDais excedido"
+      - "habr\xEDan excedido"
+      cjid: cpef
+    - cjfs:
+      - haya excedido
+      - hayas excedido
+      - haya excedido
+      - hayamos excedido
+      - "hay\xE1is excedido"
+      - hayan excedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera excedido
+      - hubieras excedido
+      - hubiera excedido
+      - "hubi\xE9ramos excedido"
+      - hubierais excedido
+      - hubieran excedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese excedido
+      - hubieses excedido
+      - hubiese excedido
+      - "hubi\xE9semos excedido"
+      - hubieseis excedido
+      - hubiesen excedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere excedido
+      - hubieres excedido
+      - hubiere excedido
+      - "hubi\xE9remos excedido"
+      - hubiereis excedido
+      - hubieren excedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - excede
+      - exceda
+      - excedamos
+      - exceded
+      - excedan
+      cjid: impf

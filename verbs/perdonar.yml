@@ -1,0 +1,207 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|disculpar||} {bc}to {a_link|forgive}, to {a_link|pardon} '
+          - - vis
+            - - t: "\xBFme perdonas?"
+                tr: do you forgive me?
+              - t: perdona que te interrumpa
+                tr: pardon me for interrupting
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to excuse from (a task, etc.), to {a_link|write off} (a debt) '
+          - - vis
+            - - t: perdonarle la vida a alguien
+                tr: to spare someone's life
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|excuse}, to {a_link|pardon} '
+          - - vis
+            - - t: "perdona, pero \u2026"
+                tr: "excuse/pardon me, but \u2026"
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: perdonar
+    prs:
+    - sound:
+        audio: perdo02sp
+  meta:
+    id: perdonar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617088000'
+    src: spanish
+    stems:
+    - perdonar
+    uuid: 2517a6d5-c062-4bac-9b90-844259213c05
+  shortdef:
+  - 'disculpar : to forgive, to pardon'
+  - to excuse from (a task, etc.), to write off (a debt)
+  - to excuse, to pardon
+  suppl:
+    cjts:
+    - cjfs:
+      - perdonando
+      - perdonado
+      cjid: gppt
+    - cjfs:
+      - perdono
+      - perdonas
+      - perdona
+      - perdonamos
+      - "perdon\xE1is"
+      - perdonan
+      cjid: pind
+    - cjfs:
+      - perdonaba
+      - perdonabas
+      - perdonaba
+      - "perdon\xE1bamos"
+      - perdonabais
+      - perdonaban
+      cjid: pret
+    - cjfs:
+      - "perdon\xE9"
+      - perdonaste
+      - "perdon\xF3"
+      - perdonamos
+      - perdonasteis
+      - perdonaron
+      cjid: pprf
+    - cjfs:
+      - "perdonar\xE9"
+      - "perdonar\xE1s"
+      - "perdonar\xE1"
+      - perdonaremos
+      - "perdonar\xE9is"
+      - "perdonar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perdonar\xEDa"
+      - "perdonar\xEDas"
+      - "perdonar\xEDa"
+      - "perdonar\xEDamos"
+      - "perdonar\xEDais"
+      - "perdonar\xEDan"
+      cjid: cond
+    - cjfs:
+      - perdone
+      - perdones
+      - perdone
+      - perdonemos
+      - "perdon\xE9is"
+      - perdonen
+      cjid: psub
+    - cjfs:
+      - perdonara
+      - perdonaras
+      - perdonara
+      - "perdon\xE1ramos"
+      - perdonarais
+      - perdonaran
+      cjid: pisb1
+    - cjfs:
+      - perdonase
+      - perdonases
+      - perdonase
+      - "perdon\xE1semos"
+      - perdonaseis
+      - perdonasen
+      cjid: pisb2
+    - cjfs:
+      - perdonare
+      - perdonares
+      - perdonare
+      - "perdon\xE1remos"
+      - perdonareis
+      - perdonaren
+      cjid: fsub
+    - cjfs:
+      - he perdonado
+      - has perdonado
+      - ha perdonado
+      - hemos perdonado
+      - "hab\xE9is perdonado"
+      - han perdonado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perdonado"
+      - "hab\xEDas perdonado"
+      - "hab\xEDa perdonado"
+      - "hab\xEDamos perdonado"
+      - "hab\xEDais perdonado"
+      - "hab\xEDan perdonado"
+      cjid: ppsi
+    - cjfs:
+      - hube perdonado
+      - hubiste perdonado
+      - hubo perdonado
+      - hubimos perdonado
+      - hubisteis perdonado
+      - hubieron perdonado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perdonado"
+      - "habr\xE1s perdonado"
+      - "habr\xE1 perdonado"
+      - habremos perdonado
+      - "habr\xE9is perdonado"
+      - "habr\xE1n perdonado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perdonado"
+      - "habr\xEDas perdonado"
+      - "habr\xEDa perdonado"
+      - "habr\xEDamos perdonado"
+      - "habr\xEDais perdonado"
+      - "habr\xEDan perdonado"
+      cjid: cpef
+    - cjfs:
+      - haya perdonado
+      - hayas perdonado
+      - haya perdonado
+      - hayamos perdonado
+      - "hay\xE1is perdonado"
+      - hayan perdonado
+      cjid: ppfs
+    - cjfs:
+      - hubiera perdonado
+      - hubieras perdonado
+      - hubiera perdonado
+      - "hubi\xE9ramos perdonado"
+      - hubierais perdonado
+      - hubieran perdonado
+      cjid: ppss1
+    - cjfs:
+      - hubiese perdonado
+      - hubieses perdonado
+      - hubiese perdonado
+      - "hubi\xE9semos perdonado"
+      - hubieseis perdonado
+      - hubiesen perdonado
+      cjid: ppss2
+    - cjfs:
+      - hubiere perdonado
+      - hubieres perdonado
+      - hubiere perdonado
+      - "hubi\xE9remos perdonado"
+      - hubiereis perdonado
+      - hubieren perdonado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - perdona
+      - perdone
+      - perdonemos
+      - perdonad
+      - perdonen
+      cjid: impf

@@ -1,0 +1,241 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}mirar con lascivia'
+  fl: intransitive verb
+  hom: 1
+  hwi:
+    hw: leer
+    prs:
+    - mw: "\u02C8l\u026Ar"
+      sound:
+        audio: leer0001
+  meta:
+    id: leer:1
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2613917000'
+    src: spanish
+    stems:
+    - leer
+    - leered
+    - leering
+    - leers
+    - leeringly
+    uuid: 123c20b0-4373-4b46-b460-438ce2d572af
+  shortdef:
+  - mirar con lascivia
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|mirada} '
+          - - gl
+            - feminine
+          - - text
+            - ' {a_link|lasciva}'
+  fl: noun
+  hom: 2
+  hwi:
+    hw: leer
+  meta:
+    id: leer:2
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2613918000'
+    src: spanish
+    stems:
+    - leer
+    - leers
+    uuid: 4dc2a00b-c1a1-4c1c-86c4-21f6271fe03b
+  shortdef:
+  - mirada lasciva
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|read} '
+          - - vis
+            - - t: leer los labios
+                tr: to lip-read, to read lips
+              - t: "leer entre las l\xEDneas"
+                tr: to read between the lines
+  fl: verb
+  hwi:
+    hw: leer
+  meta:
+    id: leer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613596000'
+    src: spanish
+    stems:
+    - leer
+    uuid: 6402325d-4a1a-44dd-9700-4812900b1311
+  shortdef:
+  - to read
+  suppl:
+    cjts:
+    - cjfs:
+      - leyendo
+      - "le\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - leo
+      - lees
+      - lee
+      - leemos
+      - "le\xE9is"
+      - leen
+      cjid: pind
+    - cjfs:
+      - "le\xEDa"
+      - "le\xEDas"
+      - "le\xEDa"
+      - "le\xEDamos"
+      - "le\xEDais"
+      - "le\xEDan"
+      cjid: pret
+    - cjfs:
+      - "le\xED"
+      - "le\xEDste"
+      - "ley\xF3"
+      - "le\xEDmos"
+      - "le\xEDsteis"
+      - leyeron
+      cjid: pprf
+    - cjfs:
+      - "leer\xE9"
+      - "leer\xE1s"
+      - "leer\xE1"
+      - leeremos
+      - "leer\xE9is"
+      - "leer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "leer\xEDa"
+      - "leer\xEDas"
+      - "leer\xEDa"
+      - "leer\xEDamos"
+      - "leer\xEDais"
+      - "leer\xEDan"
+      cjid: cond
+    - cjfs:
+      - lea
+      - leas
+      - lea
+      - leamos
+      - "le\xE1is"
+      - lean
+      cjid: psub
+    - cjfs:
+      - leyera
+      - leyeras
+      - leyera
+      - "ley\xE9ramos"
+      - leyerais
+      - leyeran
+      cjid: pisb1
+    - cjfs:
+      - leyese
+      - leyeses
+      - leyese
+      - "ley\xE9semos"
+      - leyeseis
+      - leyesen
+      cjid: pisb2
+    - cjfs:
+      - leyere
+      - leyeres
+      - leyere
+      - "ley\xE9remos"
+      - leyereis
+      - leyeren
+      cjid: fsub
+    - cjfs:
+      - "he le\xEDdo"
+      - "has le\xEDdo"
+      - "ha le\xEDdo"
+      - "hemos le\xEDdo"
+      - "hab\xE9is le\xEDdo"
+      - "han le\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa le\xEDdo"
+      - "hab\xEDas le\xEDdo"
+      - "hab\xEDa le\xEDdo"
+      - "hab\xEDamos le\xEDdo"
+      - "hab\xEDais le\xEDdo"
+      - "hab\xEDan le\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube le\xEDdo"
+      - "hubiste le\xEDdo"
+      - "hubo le\xEDdo"
+      - "hubimos le\xEDdo"
+      - "hubisteis le\xEDdo"
+      - "hubieron le\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 le\xEDdo"
+      - "habr\xE1s le\xEDdo"
+      - "habr\xE1 le\xEDdo"
+      - "habremos le\xEDdo"
+      - "habr\xE9is le\xEDdo"
+      - "habr\xE1n le\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa le\xEDdo"
+      - "habr\xEDas le\xEDdo"
+      - "habr\xEDa le\xEDdo"
+      - "habr\xEDamos le\xEDdo"
+      - "habr\xEDais le\xEDdo"
+      - "habr\xEDan le\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya le\xEDdo"
+      - "hayas le\xEDdo"
+      - "haya le\xEDdo"
+      - "hayamos le\xEDdo"
+      - "hay\xE1is le\xEDdo"
+      - "hayan le\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera le\xEDdo"
+      - "hubieras le\xEDdo"
+      - "hubiera le\xEDdo"
+      - "hubi\xE9ramos le\xEDdo"
+      - "hubierais le\xEDdo"
+      - "hubieran le\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese le\xEDdo"
+      - "hubieses le\xEDdo"
+      - "hubiese le\xEDdo"
+      - "hubi\xE9semos le\xEDdo"
+      - "hubieseis le\xEDdo"
+      - "hubiesen le\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere le\xEDdo"
+      - "hubieres le\xEDdo"
+      - "hubiere le\xEDdo"
+      - "hubi\xE9remos le\xEDdo"
+      - "hubiereis le\xEDdo"
+      - "hubieren le\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - lee
+      - lea
+      - leamos
+      - leed
+      - lean
+      cjid: impf

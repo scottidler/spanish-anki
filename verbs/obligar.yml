@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|force}, to {a_link|require}, to {a_link|oblige}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|commit oneself}, to {a_link|undertake} (to do something)'
+    drp: obligarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: obligar
+    prs:
+    - sound:
+        audio: oblig03sp
+  meta:
+    id: obligar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615989000'
+    src: spanish
+    stems:
+    - obligar
+    - obligarse
+    uuid: 06484760-8241-4f74-8f2f-be8b94e65c81
+  shortdef:
+  - to force, to require, to oblige
+  suppl:
+    cjts:
+    - cjfs:
+      - obligando
+      - obligado
+      cjid: gppt
+    - cjfs:
+      - obligo
+      - obligas
+      - obliga
+      - obligamos
+      - "oblig\xE1is"
+      - obligan
+      cjid: pind
+    - cjfs:
+      - obligaba
+      - obligabas
+      - obligaba
+      - "oblig\xE1bamos"
+      - obligabais
+      - obligaban
+      cjid: pret
+    - cjfs:
+      - "obligu\xE9"
+      - obligaste
+      - "oblig\xF3"
+      - obligamos
+      - obligasteis
+      - obligaron
+      cjid: pprf
+    - cjfs:
+      - "obligar\xE9"
+      - "obligar\xE1s"
+      - "obligar\xE1"
+      - obligaremos
+      - "obligar\xE9is"
+      - "obligar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "obligar\xEDa"
+      - "obligar\xEDas"
+      - "obligar\xEDa"
+      - "obligar\xEDamos"
+      - "obligar\xEDais"
+      - "obligar\xEDan"
+      cjid: cond
+    - cjfs:
+      - obligue
+      - obligues
+      - obligue
+      - obliguemos
+      - "obligu\xE9is"
+      - obliguen
+      cjid: psub
+    - cjfs:
+      - obligara
+      - obligaras
+      - obligara
+      - "oblig\xE1ramos"
+      - obligarais
+      - obligaran
+      cjid: pisb1
+    - cjfs:
+      - obligase
+      - obligases
+      - obligase
+      - "oblig\xE1semos"
+      - obligaseis
+      - obligasen
+      cjid: pisb2
+    - cjfs:
+      - obligare
+      - obligares
+      - obligare
+      - "oblig\xE1remos"
+      - obligareis
+      - obligaren
+      cjid: fsub
+    - cjfs:
+      - he obligado
+      - has obligado
+      - ha obligado
+      - hemos obligado
+      - "hab\xE9is obligado"
+      - han obligado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa obligado"
+      - "hab\xEDas obligado"
+      - "hab\xEDa obligado"
+      - "hab\xEDamos obligado"
+      - "hab\xEDais obligado"
+      - "hab\xEDan obligado"
+      cjid: ppsi
+    - cjfs:
+      - hube obligado
+      - hubiste obligado
+      - hubo obligado
+      - hubimos obligado
+      - hubisteis obligado
+      - hubieron obligado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 obligado"
+      - "habr\xE1s obligado"
+      - "habr\xE1 obligado"
+      - habremos obligado
+      - "habr\xE9is obligado"
+      - "habr\xE1n obligado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa obligado"
+      - "habr\xEDas obligado"
+      - "habr\xEDa obligado"
+      - "habr\xEDamos obligado"
+      - "habr\xEDais obligado"
+      - "habr\xEDan obligado"
+      cjid: cpef
+    - cjfs:
+      - haya obligado
+      - hayas obligado
+      - haya obligado
+      - hayamos obligado
+      - "hay\xE1is obligado"
+      - hayan obligado
+      cjid: ppfs
+    - cjfs:
+      - hubiera obligado
+      - hubieras obligado
+      - hubiera obligado
+      - "hubi\xE9ramos obligado"
+      - hubierais obligado
+      - hubieran obligado
+      cjid: ppss1
+    - cjfs:
+      - hubiese obligado
+      - hubieses obligado
+      - hubiese obligado
+      - "hubi\xE9semos obligado"
+      - hubieseis obligado
+      - hubiesen obligado
+      cjid: ppss2
+    - cjfs:
+      - hubiere obligado
+      - hubieres obligado
+      - hubiere obligado
+      - "hubi\xE9remos obligado"
+      - hubiereis obligado
+      - hubieren obligado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - obliga
+      - obligue
+      - obliguemos
+      - obligad
+      - obliguen
+      cjid: impf

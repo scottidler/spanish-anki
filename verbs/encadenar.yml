@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|chain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|connect}, to {a_link|link}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|inmovilizar||} {bc}to {a_link|immobilize}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: encadenar
+  meta:
+    id: encadenar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608404000'
+    src: spanish
+    stems:
+    - encadenar
+    uuid: a780439f-69ba-485d-9942-f556a7a18d1a
+  shortdef:
+  - to chain
+  - to connect, to link
+  - 'inmovilizar : to immobilize'
+  suppl:
+    cjts:
+    - cjfs:
+      - encadenando
+      - encadenado
+      cjid: gppt
+    - cjfs:
+      - encadeno
+      - encadenas
+      - encadena
+      - encadenamos
+      - "encaden\xE1is"
+      - encadenan
+      cjid: pind
+    - cjfs:
+      - encadenaba
+      - encadenabas
+      - encadenaba
+      - "encaden\xE1bamos"
+      - encadenabais
+      - encadenaban
+      cjid: pret
+    - cjfs:
+      - "encaden\xE9"
+      - encadenaste
+      - "encaden\xF3"
+      - encadenamos
+      - encadenasteis
+      - encadenaron
+      cjid: pprf
+    - cjfs:
+      - "encadenar\xE9"
+      - "encadenar\xE1s"
+      - "encadenar\xE1"
+      - encadenaremos
+      - "encadenar\xE9is"
+      - "encadenar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encadenar\xEDa"
+      - "encadenar\xEDas"
+      - "encadenar\xEDa"
+      - "encadenar\xEDamos"
+      - "encadenar\xEDais"
+      - "encadenar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encadene
+      - encadenes
+      - encadene
+      - encadenemos
+      - "encaden\xE9is"
+      - encadenen
+      cjid: psub
+    - cjfs:
+      - encadenara
+      - encadenaras
+      - encadenara
+      - "encaden\xE1ramos"
+      - encadenarais
+      - encadenaran
+      cjid: pisb1
+    - cjfs:
+      - encadenase
+      - encadenases
+      - encadenase
+      - "encaden\xE1semos"
+      - encadenaseis
+      - encadenasen
+      cjid: pisb2
+    - cjfs:
+      - encadenare
+      - encadenares
+      - encadenare
+      - "encaden\xE1remos"
+      - encadenareis
+      - encadenaren
+      cjid: fsub
+    - cjfs:
+      - he encadenado
+      - has encadenado
+      - ha encadenado
+      - hemos encadenado
+      - "hab\xE9is encadenado"
+      - han encadenado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encadenado"
+      - "hab\xEDas encadenado"
+      - "hab\xEDa encadenado"
+      - "hab\xEDamos encadenado"
+      - "hab\xEDais encadenado"
+      - "hab\xEDan encadenado"
+      cjid: ppsi
+    - cjfs:
+      - hube encadenado
+      - hubiste encadenado
+      - hubo encadenado
+      - hubimos encadenado
+      - hubisteis encadenado
+      - hubieron encadenado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encadenado"
+      - "habr\xE1s encadenado"
+      - "habr\xE1 encadenado"
+      - habremos encadenado
+      - "habr\xE9is encadenado"
+      - "habr\xE1n encadenado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encadenado"
+      - "habr\xEDas encadenado"
+      - "habr\xEDa encadenado"
+      - "habr\xEDamos encadenado"
+      - "habr\xEDais encadenado"
+      - "habr\xEDan encadenado"
+      cjid: cpef
+    - cjfs:
+      - haya encadenado
+      - hayas encadenado
+      - haya encadenado
+      - hayamos encadenado
+      - "hay\xE1is encadenado"
+      - hayan encadenado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encadenado
+      - hubieras encadenado
+      - hubiera encadenado
+      - "hubi\xE9ramos encadenado"
+      - hubierais encadenado
+      - hubieran encadenado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encadenado
+      - hubieses encadenado
+      - hubiese encadenado
+      - "hubi\xE9semos encadenado"
+      - hubieseis encadenado
+      - hubiesen encadenado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encadenado
+      - hubieres encadenado
+      - hubiere encadenado
+      - "hubi\xE9remos encadenado"
+      - hubiereis encadenado
+      - hubieren encadenado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encadena
+      - encadene
+      - encadenemos
+      - encadenad
+      - encadenen
+      cjid: impf

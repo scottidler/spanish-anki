@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|coexist}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|live together}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: convivir
+    prs:
+    - sound:
+        audio: convi03sp
+  meta:
+    id: convivir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605826000'
+    src: spanish
+    stems:
+    - convivir
+    uuid: ccd77bb2-f6bb-48d9-8695-6cbbf65be32c
+  shortdef:
+  - to coexist
+  - to live together
+  suppl:
+    cjts:
+    - cjfs:
+      - conviviendo
+      - convivido
+      cjid: gppt
+    - cjfs:
+      - convivo
+      - convives
+      - convive
+      - convivimos
+      - "conviv\xEDs"
+      - conviven
+      cjid: pind
+    - cjfs:
+      - "conviv\xEDa"
+      - "conviv\xEDas"
+      - "conviv\xEDa"
+      - "conviv\xEDamos"
+      - "conviv\xEDais"
+      - "conviv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "conviv\xED"
+      - conviviste
+      - "convivi\xF3"
+      - convivimos
+      - convivisteis
+      - convivieron
+      cjid: pprf
+    - cjfs:
+      - "convivir\xE9"
+      - "convivir\xE1s"
+      - "convivir\xE1"
+      - conviviremos
+      - "convivir\xE9is"
+      - "convivir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "convivir\xEDa"
+      - "convivir\xEDas"
+      - "convivir\xEDa"
+      - "convivir\xEDamos"
+      - "convivir\xEDais"
+      - "convivir\xEDan"
+      cjid: cond
+    - cjfs:
+      - conviva
+      - convivas
+      - conviva
+      - convivamos
+      - "conviv\xE1is"
+      - convivan
+      cjid: psub
+    - cjfs:
+      - conviviera
+      - convivieras
+      - conviviera
+      - "convivi\xE9ramos"
+      - convivierais
+      - convivieran
+      cjid: pisb1
+    - cjfs:
+      - conviviese
+      - convivieses
+      - conviviese
+      - "convivi\xE9semos"
+      - convivieseis
+      - conviviesen
+      cjid: pisb2
+    - cjfs:
+      - conviviere
+      - convivieres
+      - conviviere
+      - "convivi\xE9remos"
+      - conviviereis
+      - convivieren
+      cjid: fsub
+    - cjfs:
+      - he convivido
+      - has convivido
+      - ha convivido
+      - hemos convivido
+      - "hab\xE9is convivido"
+      - han convivido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa convivido"
+      - "hab\xEDas convivido"
+      - "hab\xEDa convivido"
+      - "hab\xEDamos convivido"
+      - "hab\xEDais convivido"
+      - "hab\xEDan convivido"
+      cjid: ppsi
+    - cjfs:
+      - hube convivido
+      - hubiste convivido
+      - hubo convivido
+      - hubimos convivido
+      - hubisteis convivido
+      - hubieron convivido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 convivido"
+      - "habr\xE1s convivido"
+      - "habr\xE1 convivido"
+      - habremos convivido
+      - "habr\xE9is convivido"
+      - "habr\xE1n convivido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa convivido"
+      - "habr\xEDas convivido"
+      - "habr\xEDa convivido"
+      - "habr\xEDamos convivido"
+      - "habr\xEDais convivido"
+      - "habr\xEDan convivido"
+      cjid: cpef
+    - cjfs:
+      - haya convivido
+      - hayas convivido
+      - haya convivido
+      - hayamos convivido
+      - "hay\xE1is convivido"
+      - hayan convivido
+      cjid: ppfs
+    - cjfs:
+      - hubiera convivido
+      - hubieras convivido
+      - hubiera convivido
+      - "hubi\xE9ramos convivido"
+      - hubierais convivido
+      - hubieran convivido
+      cjid: ppss1
+    - cjfs:
+      - hubiese convivido
+      - hubieses convivido
+      - hubiese convivido
+      - "hubi\xE9semos convivido"
+      - hubieseis convivido
+      - hubiesen convivido
+      cjid: ppss2
+    - cjfs:
+      - hubiere convivido
+      - hubieres convivido
+      - hubiere convivido
+      - "hubi\xE9remos convivido"
+      - hubiereis convivido
+      - hubieren convivido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - convive
+      - conviva
+      - convivamos
+      - convivid
+      - convivan
+      cjid: impf

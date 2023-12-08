@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apretar||} {bc}to {a_link|press}, to {a_link|squeeze}'
+  fl: transitive verb
+  hwi:
+    hw: estrujar
+  meta:
+    id: estrujar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609475000'
+    src: spanish
+    stems:
+    - estrujar
+    uuid: f3aeb7cc-fa27-4e8d-af8f-690e5c90952a
+  shortdef:
+  - 'apretar : to press, to squeeze'
+  suppl:
+    cjts:
+    - cjfs:
+      - estrujando
+      - estrujado
+      cjid: gppt
+    - cjfs:
+      - estrujo
+      - estrujas
+      - estruja
+      - estrujamos
+      - "estruj\xE1is"
+      - estrujan
+      cjid: pind
+    - cjfs:
+      - estrujaba
+      - estrujabas
+      - estrujaba
+      - "estruj\xE1bamos"
+      - estrujabais
+      - estrujaban
+      cjid: pret
+    - cjfs:
+      - "estruj\xE9"
+      - estrujaste
+      - "estruj\xF3"
+      - estrujamos
+      - estrujasteis
+      - estrujaron
+      cjid: pprf
+    - cjfs:
+      - "estrujar\xE9"
+      - "estrujar\xE1s"
+      - "estrujar\xE1"
+      - estrujaremos
+      - "estrujar\xE9is"
+      - "estrujar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estrujar\xEDa"
+      - "estrujar\xEDas"
+      - "estrujar\xEDa"
+      - "estrujar\xEDamos"
+      - "estrujar\xEDais"
+      - "estrujar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estruje
+      - estrujes
+      - estruje
+      - estrujemos
+      - "estruj\xE9is"
+      - estrujen
+      cjid: psub
+    - cjfs:
+      - estrujara
+      - estrujaras
+      - estrujara
+      - "estruj\xE1ramos"
+      - estrujarais
+      - estrujaran
+      cjid: pisb1
+    - cjfs:
+      - estrujase
+      - estrujases
+      - estrujase
+      - "estruj\xE1semos"
+      - estrujaseis
+      - estrujasen
+      cjid: pisb2
+    - cjfs:
+      - estrujare
+      - estrujares
+      - estrujare
+      - "estruj\xE1remos"
+      - estrujareis
+      - estrujaren
+      cjid: fsub
+    - cjfs:
+      - he estrujado
+      - has estrujado
+      - ha estrujado
+      - hemos estrujado
+      - "hab\xE9is estrujado"
+      - han estrujado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estrujado"
+      - "hab\xEDas estrujado"
+      - "hab\xEDa estrujado"
+      - "hab\xEDamos estrujado"
+      - "hab\xEDais estrujado"
+      - "hab\xEDan estrujado"
+      cjid: ppsi
+    - cjfs:
+      - hube estrujado
+      - hubiste estrujado
+      - hubo estrujado
+      - hubimos estrujado
+      - hubisteis estrujado
+      - hubieron estrujado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estrujado"
+      - "habr\xE1s estrujado"
+      - "habr\xE1 estrujado"
+      - habremos estrujado
+      - "habr\xE9is estrujado"
+      - "habr\xE1n estrujado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estrujado"
+      - "habr\xEDas estrujado"
+      - "habr\xEDa estrujado"
+      - "habr\xEDamos estrujado"
+      - "habr\xEDais estrujado"
+      - "habr\xEDan estrujado"
+      cjid: cpef
+    - cjfs:
+      - haya estrujado
+      - hayas estrujado
+      - haya estrujado
+      - hayamos estrujado
+      - "hay\xE1is estrujado"
+      - hayan estrujado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estrujado
+      - hubieras estrujado
+      - hubiera estrujado
+      - "hubi\xE9ramos estrujado"
+      - hubierais estrujado
+      - hubieran estrujado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estrujado
+      - hubieses estrujado
+      - hubiese estrujado
+      - "hubi\xE9semos estrujado"
+      - hubieseis estrujado
+      - hubiesen estrujado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estrujado
+      - hubieres estrujado
+      - hubiere estrujado
+      - "hubi\xE9remos estrujado"
+      - hubiereis estrujado
+      - hubieren estrujado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estruja
+      - estruje
+      - estrujemos
+      - estrujad
+      - estrujen
+      cjid: impf

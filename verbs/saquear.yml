@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sack}, to {a_link|plunder}, to {a_link|loot}'
+  fl: transitive verb
+  hwi:
+    hw: saquear
+  meta:
+    id: saquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620228000'
+    src: spanish
+    stems:
+    - saquear
+    uuid: dc9e27d7-73b9-4bd8-8281-42374a329c28
+  shortdef:
+  - to sack, to plunder, to loot
+  suppl:
+    cjts:
+    - cjfs:
+      - saqueando
+      - saqueado
+      cjid: gppt
+    - cjfs:
+      - saqueo
+      - saqueas
+      - saquea
+      - saqueamos
+      - "saque\xE1is"
+      - saquean
+      cjid: pind
+    - cjfs:
+      - saqueaba
+      - saqueabas
+      - saqueaba
+      - "saque\xE1bamos"
+      - saqueabais
+      - saqueaban
+      cjid: pret
+    - cjfs:
+      - "saque\xE9"
+      - saqueaste
+      - "saque\xF3"
+      - saqueamos
+      - saqueasteis
+      - saquearon
+      cjid: pprf
+    - cjfs:
+      - "saquear\xE9"
+      - "saquear\xE1s"
+      - "saquear\xE1"
+      - saquearemos
+      - "saquear\xE9is"
+      - "saquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "saquear\xEDa"
+      - "saquear\xEDas"
+      - "saquear\xEDa"
+      - "saquear\xEDamos"
+      - "saquear\xEDais"
+      - "saquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - saquee
+      - saquees
+      - saquee
+      - saqueemos
+      - "saque\xE9is"
+      - saqueen
+      cjid: psub
+    - cjfs:
+      - saqueara
+      - saquearas
+      - saqueara
+      - "saque\xE1ramos"
+      - saquearais
+      - saquearan
+      cjid: pisb1
+    - cjfs:
+      - saquease
+      - saqueases
+      - saquease
+      - "saque\xE1semos"
+      - saqueaseis
+      - saqueasen
+      cjid: pisb2
+    - cjfs:
+      - saqueare
+      - saqueares
+      - saqueare
+      - "saque\xE1remos"
+      - saqueareis
+      - saquearen
+      cjid: fsub
+    - cjfs:
+      - he saqueado
+      - has saqueado
+      - ha saqueado
+      - hemos saqueado
+      - "hab\xE9is saqueado"
+      - han saqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa saqueado"
+      - "hab\xEDas saqueado"
+      - "hab\xEDa saqueado"
+      - "hab\xEDamos saqueado"
+      - "hab\xEDais saqueado"
+      - "hab\xEDan saqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube saqueado
+      - hubiste saqueado
+      - hubo saqueado
+      - hubimos saqueado
+      - hubisteis saqueado
+      - hubieron saqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 saqueado"
+      - "habr\xE1s saqueado"
+      - "habr\xE1 saqueado"
+      - habremos saqueado
+      - "habr\xE9is saqueado"
+      - "habr\xE1n saqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa saqueado"
+      - "habr\xEDas saqueado"
+      - "habr\xEDa saqueado"
+      - "habr\xEDamos saqueado"
+      - "habr\xEDais saqueado"
+      - "habr\xEDan saqueado"
+      cjid: cpef
+    - cjfs:
+      - haya saqueado
+      - hayas saqueado
+      - haya saqueado
+      - hayamos saqueado
+      - "hay\xE1is saqueado"
+      - hayan saqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera saqueado
+      - hubieras saqueado
+      - hubiera saqueado
+      - "hubi\xE9ramos saqueado"
+      - hubierais saqueado
+      - hubieran saqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese saqueado
+      - hubieses saqueado
+      - hubiese saqueado
+      - "hubi\xE9semos saqueado"
+      - hubieseis saqueado
+      - hubiesen saqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere saqueado
+      - hubieres saqueado
+      - hubiere saqueado
+      - "hubi\xE9remos saqueado"
+      - hubiereis saqueado
+      - hubieren saqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - saquea
+      - saquee
+      - saqueemos
+      - saquead
+      - saqueen
+      cjid: impf

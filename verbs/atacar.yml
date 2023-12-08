@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attack}'
+  fl: verb
+  hwi:
+    hw: atacar
+    prs:
+    - sound:
+        audio: ataca01sp
+  meta:
+    id: atacar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602249000'
+    src: spanish
+    stems:
+    - atacar
+    uuid: 70600fa8-f219-43ae-afb4-24b6891e708b
+  shortdef:
+  - to attack
+  suppl:
+    cjts:
+    - cjfs:
+      - atacando
+      - atacado
+      cjid: gppt
+    - cjfs:
+      - ataco
+      - atacas
+      - ataca
+      - atacamos
+      - "atac\xE1is"
+      - atacan
+      cjid: pind
+    - cjfs:
+      - atacaba
+      - atacabas
+      - atacaba
+      - "atac\xE1bamos"
+      - atacabais
+      - atacaban
+      cjid: pret
+    - cjfs:
+      - "ataqu\xE9"
+      - atacaste
+      - "atac\xF3"
+      - atacamos
+      - atacasteis
+      - atacaron
+      cjid: pprf
+    - cjfs:
+      - "atacar\xE9"
+      - "atacar\xE1s"
+      - "atacar\xE1"
+      - atacaremos
+      - "atacar\xE9is"
+      - "atacar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atacar\xEDa"
+      - "atacar\xEDas"
+      - "atacar\xEDa"
+      - "atacar\xEDamos"
+      - "atacar\xEDais"
+      - "atacar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ataque
+      - ataques
+      - ataque
+      - ataquemos
+      - "ataqu\xE9is"
+      - ataquen
+      cjid: psub
+    - cjfs:
+      - atacara
+      - atacaras
+      - atacara
+      - "atac\xE1ramos"
+      - atacarais
+      - atacaran
+      cjid: pisb1
+    - cjfs:
+      - atacase
+      - atacases
+      - atacase
+      - "atac\xE1semos"
+      - atacaseis
+      - atacasen
+      cjid: pisb2
+    - cjfs:
+      - atacare
+      - atacares
+      - atacare
+      - "atac\xE1remos"
+      - atacareis
+      - atacaren
+      cjid: fsub
+    - cjfs:
+      - he atacado
+      - has atacado
+      - ha atacado
+      - hemos atacado
+      - "hab\xE9is atacado"
+      - han atacado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atacado"
+      - "hab\xEDas atacado"
+      - "hab\xEDa atacado"
+      - "hab\xEDamos atacado"
+      - "hab\xEDais atacado"
+      - "hab\xEDan atacado"
+      cjid: ppsi
+    - cjfs:
+      - hube atacado
+      - hubiste atacado
+      - hubo atacado
+      - hubimos atacado
+      - hubisteis atacado
+      - hubieron atacado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atacado"
+      - "habr\xE1s atacado"
+      - "habr\xE1 atacado"
+      - habremos atacado
+      - "habr\xE9is atacado"
+      - "habr\xE1n atacado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atacado"
+      - "habr\xEDas atacado"
+      - "habr\xEDa atacado"
+      - "habr\xEDamos atacado"
+      - "habr\xEDais atacado"
+      - "habr\xEDan atacado"
+      cjid: cpef
+    - cjfs:
+      - haya atacado
+      - hayas atacado
+      - haya atacado
+      - hayamos atacado
+      - "hay\xE1is atacado"
+      - hayan atacado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atacado
+      - hubieras atacado
+      - hubiera atacado
+      - "hubi\xE9ramos atacado"
+      - hubierais atacado
+      - hubieran atacado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atacado
+      - hubieses atacado
+      - hubiese atacado
+      - "hubi\xE9semos atacado"
+      - hubieseis atacado
+      - hubiesen atacado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atacado
+      - hubieres atacado
+      - hubiere atacado
+      - "hubi\xE9remos atacado"
+      - hubiereis atacado
+      - hubieren atacado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ataca
+      - ataque
+      - ataquemos
+      - atacad
+      - ataquen
+      cjid: impf

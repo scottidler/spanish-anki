@@ -1,0 +1,229 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|heat}, to {a_link|warm}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|annoy}, to {a_link|anger}'
+          sls:
+          - familiar
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|excite}, to {a_link|turn on}'
+          sls:
+          - familiar
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get warm, to heat up'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|warm up} (in sports)'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become sexually aroused'
+            sls:
+            - familiar
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get mad'
+            sls:
+            - familiar
+            sn: '4'
+    drp: calentarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: calentar
+    prs:
+    - sound:
+        audio: calen02sp
+  meta:
+    id: calentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603651000'
+    src: spanish
+    stems:
+    - calentar
+    - calentarse
+    uuid: 0f2f04c1-59a8-4bd6-8cac-fb501975c7f8
+  shortdef:
+  - to heat, to warm
+  - to annoy, to anger
+  - to excite, to turn on
+  suppl:
+    cjts:
+    - cjfs:
+      - calentando
+      - calentado
+      cjid: gppt
+    - cjfs:
+      - caliento
+      - calientas
+      - calienta
+      - calentamos
+      - "calent\xE1is"
+      - calientan
+      cjid: pind
+    - cjfs:
+      - calentaba
+      - calentabas
+      - calentaba
+      - "calent\xE1bamos"
+      - calentabais
+      - calentaban
+      cjid: pret
+    - cjfs:
+      - "calent\xE9"
+      - calentaste
+      - "calent\xF3"
+      - calentamos
+      - calentasteis
+      - calentaron
+      cjid: pprf
+    - cjfs:
+      - "calentar\xE9"
+      - "calentar\xE1s"
+      - "calentar\xE1"
+      - calentaremos
+      - "calentar\xE9is"
+      - "calentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "calentar\xEDa"
+      - "calentar\xEDas"
+      - "calentar\xEDa"
+      - "calentar\xEDamos"
+      - "calentar\xEDais"
+      - "calentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - caliente
+      - calientes
+      - caliente
+      - calentemos
+      - "calent\xE9is"
+      - calienten
+      cjid: psub
+    - cjfs:
+      - calentara
+      - calentaras
+      - calentara
+      - "calent\xE1ramos"
+      - calentarais
+      - calentaran
+      cjid: pisb1
+    - cjfs:
+      - calentase
+      - calentases
+      - calentase
+      - "calent\xE1semos"
+      - calentaseis
+      - calentasen
+      cjid: pisb2
+    - cjfs:
+      - calentare
+      - calentares
+      - calentare
+      - "calent\xE1remos"
+      - calentareis
+      - calentaren
+      cjid: fsub
+    - cjfs:
+      - he calentado
+      - has calentado
+      - ha calentado
+      - hemos calentado
+      - "hab\xE9is calentado"
+      - han calentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa calentado"
+      - "hab\xEDas calentado"
+      - "hab\xEDa calentado"
+      - "hab\xEDamos calentado"
+      - "hab\xEDais calentado"
+      - "hab\xEDan calentado"
+      cjid: ppsi
+    - cjfs:
+      - hube calentado
+      - hubiste calentado
+      - hubo calentado
+      - hubimos calentado
+      - hubisteis calentado
+      - hubieron calentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 calentado"
+      - "habr\xE1s calentado"
+      - "habr\xE1 calentado"
+      - habremos calentado
+      - "habr\xE9is calentado"
+      - "habr\xE1n calentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa calentado"
+      - "habr\xEDas calentado"
+      - "habr\xEDa calentado"
+      - "habr\xEDamos calentado"
+      - "habr\xEDais calentado"
+      - "habr\xEDan calentado"
+      cjid: cpef
+    - cjfs:
+      - haya calentado
+      - hayas calentado
+      - haya calentado
+      - hayamos calentado
+      - "hay\xE1is calentado"
+      - hayan calentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera calentado
+      - hubieras calentado
+      - hubiera calentado
+      - "hubi\xE9ramos calentado"
+      - hubierais calentado
+      - hubieran calentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese calentado
+      - hubieses calentado
+      - hubiese calentado
+      - "hubi\xE9semos calentado"
+      - hubieseis calentado
+      - hubiesen calentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere calentado
+      - hubieres calentado
+      - hubiere calentado
+      - "hubi\xE9remos calentado"
+      - hubiereis calentado
+      - hubieren calentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - calienta
+      - caliente
+      - calentemos
+      - calentad
+      - calienten
+      cjid: impf

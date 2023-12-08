@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|calm}, to {a_link|pacify}'
+  fl: transitive verb
+  hwi:
+    hw: sosegar
+    prs:
+    - sound:
+        audio: soseg02sp
+  meta:
+    id: sosegar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620992000'
+    src: spanish
+    stems:
+    - sosegar
+    - sosegarse
+    uuid: ccb7ef21-e279-486b-b08f-2e504ba21282
+  shortdef:
+  - to calm, to pacify
+  suppl:
+    cjts:
+    - cjfs:
+      - sosegando
+      - sosegado
+      cjid: gppt
+    - cjfs:
+      - sosiego
+      - sosiegas
+      - sosiega
+      - sosegamos
+      - "soseg\xE1is"
+      - sosiegan
+      cjid: pind
+    - cjfs:
+      - sosegaba
+      - sosegabas
+      - sosegaba
+      - "soseg\xE1bamos"
+      - sosegabais
+      - sosegaban
+      cjid: pret
+    - cjfs:
+      - "sosegu\xE9"
+      - sosegaste
+      - "soseg\xF3"
+      - sosegamos
+      - sosegasteis
+      - sosegaron
+      cjid: pprf
+    - cjfs:
+      - "sosegar\xE9"
+      - "sosegar\xE1s"
+      - "sosegar\xE1"
+      - sosegaremos
+      - "sosegar\xE9is"
+      - "sosegar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sosegar\xEDa"
+      - "sosegar\xEDas"
+      - "sosegar\xEDa"
+      - "sosegar\xEDamos"
+      - "sosegar\xEDais"
+      - "sosegar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sosiegue
+      - sosiegues
+      - sosiegue
+      - soseguemos
+      - "sosegu\xE9is"
+      - sosieguen
+      cjid: psub
+    - cjfs:
+      - sosegara
+      - sosegaras
+      - sosegara
+      - "soseg\xE1ramos"
+      - sosegarais
+      - sosegaran
+      cjid: pisb1
+    - cjfs:
+      - sosegase
+      - sosegases
+      - sosegase
+      - "soseg\xE1semos"
+      - sosegaseis
+      - sosegasen
+      cjid: pisb2
+    - cjfs:
+      - sosegare
+      - sosegares
+      - sosegare
+      - "soseg\xE1remos"
+      - sosegareis
+      - sosegaren
+      cjid: fsub
+    - cjfs:
+      - he sosegado
+      - has sosegado
+      - ha sosegado
+      - hemos sosegado
+      - "hab\xE9is sosegado"
+      - han sosegado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sosegado"
+      - "hab\xEDas sosegado"
+      - "hab\xEDa sosegado"
+      - "hab\xEDamos sosegado"
+      - "hab\xEDais sosegado"
+      - "hab\xEDan sosegado"
+      cjid: ppsi
+    - cjfs:
+      - hube sosegado
+      - hubiste sosegado
+      - hubo sosegado
+      - hubimos sosegado
+      - hubisteis sosegado
+      - hubieron sosegado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sosegado"
+      - "habr\xE1s sosegado"
+      - "habr\xE1 sosegado"
+      - habremos sosegado
+      - "habr\xE9is sosegado"
+      - "habr\xE1n sosegado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sosegado"
+      - "habr\xEDas sosegado"
+      - "habr\xEDa sosegado"
+      - "habr\xEDamos sosegado"
+      - "habr\xEDais sosegado"
+      - "habr\xEDan sosegado"
+      cjid: cpef
+    - cjfs:
+      - haya sosegado
+      - hayas sosegado
+      - haya sosegado
+      - hayamos sosegado
+      - "hay\xE1is sosegado"
+      - hayan sosegado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sosegado
+      - hubieras sosegado
+      - hubiera sosegado
+      - "hubi\xE9ramos sosegado"
+      - hubierais sosegado
+      - hubieran sosegado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sosegado
+      - hubieses sosegado
+      - hubiese sosegado
+      - "hubi\xE9semos sosegado"
+      - hubieseis sosegado
+      - hubiesen sosegado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sosegado
+      - hubieres sosegado
+      - hubiere sosegado
+      - "hubi\xE9remos sosegado"
+      - hubiereis sosegado
+      - hubieren sosegado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sosiega
+      - sosiegue
+      - soseguemos
+      - sosegad
+      - sosieguen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: sosegarse

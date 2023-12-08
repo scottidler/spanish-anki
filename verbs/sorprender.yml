@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|surprise}'
+  fl: transitive verb
+  hwi:
+    hw: sorprender
+    prs:
+    - sound:
+        audio: sorpr02sp
+  meta:
+    id: sorprender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620983000'
+    src: spanish
+    stems:
+    - sorprender
+    - sorprenderse
+    uuid: 21694cba-2bce-433d-8c18-996cb47895a1
+  shortdef:
+  - to surprise
+  suppl:
+    cjts:
+    - cjfs:
+      - sorprendiendo
+      - sorprendido
+      cjid: gppt
+    - cjfs:
+      - sorprendo
+      - sorprendes
+      - sorprende
+      - sorprendemos
+      - "sorprend\xE9is"
+      - sorprenden
+      cjid: pind
+    - cjfs:
+      - "sorprend\xEDa"
+      - "sorprend\xEDas"
+      - "sorprend\xEDa"
+      - "sorprend\xEDamos"
+      - "sorprend\xEDais"
+      - "sorprend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sorprend\xED"
+      - sorprendiste
+      - "sorprendi\xF3"
+      - sorprendimos
+      - sorprendisteis
+      - sorprendieron
+      cjid: pprf
+    - cjfs:
+      - "sorprender\xE9"
+      - "sorprender\xE1s"
+      - "sorprender\xE1"
+      - sorprenderemos
+      - "sorprender\xE9is"
+      - "sorprender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sorprender\xEDa"
+      - "sorprender\xEDas"
+      - "sorprender\xEDa"
+      - "sorprender\xEDamos"
+      - "sorprender\xEDais"
+      - "sorprender\xEDan"
+      cjid: cond
+    - cjfs:
+      - sorprenda
+      - sorprendas
+      - sorprenda
+      - sorprendamos
+      - "sorprend\xE1is"
+      - sorprendan
+      cjid: psub
+    - cjfs:
+      - sorprendiera
+      - sorprendieras
+      - sorprendiera
+      - "sorprendi\xE9ramos"
+      - sorprendierais
+      - sorprendieran
+      cjid: pisb1
+    - cjfs:
+      - sorprendiese
+      - sorprendieses
+      - sorprendiese
+      - "sorprendi\xE9semos"
+      - sorprendieseis
+      - sorprendiesen
+      cjid: pisb2
+    - cjfs:
+      - sorprendiere
+      - sorprendieres
+      - sorprendiere
+      - "sorprendi\xE9remos"
+      - sorprendiereis
+      - sorprendieren
+      cjid: fsub
+    - cjfs:
+      - he sorprendido
+      - has sorprendido
+      - ha sorprendido
+      - hemos sorprendido
+      - "hab\xE9is sorprendido"
+      - han sorprendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sorprendido"
+      - "hab\xEDas sorprendido"
+      - "hab\xEDa sorprendido"
+      - "hab\xEDamos sorprendido"
+      - "hab\xEDais sorprendido"
+      - "hab\xEDan sorprendido"
+      cjid: ppsi
+    - cjfs:
+      - hube sorprendido
+      - hubiste sorprendido
+      - hubo sorprendido
+      - hubimos sorprendido
+      - hubisteis sorprendido
+      - hubieron sorprendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sorprendido"
+      - "habr\xE1s sorprendido"
+      - "habr\xE1 sorprendido"
+      - habremos sorprendido
+      - "habr\xE9is sorprendido"
+      - "habr\xE1n sorprendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sorprendido"
+      - "habr\xEDas sorprendido"
+      - "habr\xEDa sorprendido"
+      - "habr\xEDamos sorprendido"
+      - "habr\xEDais sorprendido"
+      - "habr\xEDan sorprendido"
+      cjid: cpef
+    - cjfs:
+      - haya sorprendido
+      - hayas sorprendido
+      - haya sorprendido
+      - hayamos sorprendido
+      - "hay\xE1is sorprendido"
+      - hayan sorprendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera sorprendido
+      - hubieras sorprendido
+      - hubiera sorprendido
+      - "hubi\xE9ramos sorprendido"
+      - hubierais sorprendido
+      - hubieran sorprendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese sorprendido
+      - hubieses sorprendido
+      - hubiese sorprendido
+      - "hubi\xE9semos sorprendido"
+      - hubieseis sorprendido
+      - hubiesen sorprendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere sorprendido
+      - hubieres sorprendido
+      - hubiere sorprendido
+      - "hubi\xE9remos sorprendido"
+      - hubiereis sorprendido
+      - hubieren sorprendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sorprende
+      - sorprenda
+      - sorprendamos
+      - sorprended
+      - sorprendan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: sorprenderse

@@ -1,0 +1,198 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ubicar||} {bc}to {a_link|place}, to {a_link|locate}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be placed, to be located'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to make a place for oneself, to do well'
+            sn: '2'
+    drp: situarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: situar
+    prs:
+    - sound:
+        audio: situa03sp
+  meta:
+    id: situar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620730000'
+    src: spanish
+    stems:
+    - situar
+    - situarse
+    uuid: 749504f2-0ba5-43c4-a959-d069459e0258
+  shortdef:
+  - 'ubicar : to place, to locate'
+  suppl:
+    cjts:
+    - cjfs:
+      - situando
+      - situado
+      cjid: gppt
+    - cjfs:
+      - "sit\xFAo"
+      - "sit\xFAas"
+      - "sit\xFAa"
+      - situamos
+      - "situ\xE1is"
+      - "sit\xFAan"
+      cjid: pind
+    - cjfs:
+      - situaba
+      - situabas
+      - situaba
+      - "situ\xE1bamos"
+      - situabais
+      - situaban
+      cjid: pret
+    - cjfs:
+      - "situ\xE9"
+      - situaste
+      - "situ\xF3"
+      - situamos
+      - situasteis
+      - situaron
+      cjid: pprf
+    - cjfs:
+      - "situar\xE9"
+      - "situar\xE1s"
+      - "situar\xE1"
+      - situaremos
+      - "situar\xE9is"
+      - "situar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "situar\xEDa"
+      - "situar\xEDas"
+      - "situar\xEDa"
+      - "situar\xEDamos"
+      - "situar\xEDais"
+      - "situar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "sit\xFAe"
+      - "sit\xFAes"
+      - "sit\xFAe"
+      - situemos
+      - "situ\xE9is"
+      - "sit\xFAen"
+      cjid: psub
+    - cjfs:
+      - situara
+      - situaras
+      - situara
+      - "situ\xE1ramos"
+      - situarais
+      - situaran
+      cjid: pisb1
+    - cjfs:
+      - situase
+      - situases
+      - situase
+      - "situ\xE1semos"
+      - situaseis
+      - situasen
+      cjid: pisb2
+    - cjfs:
+      - situare
+      - situares
+      - situare
+      - "situ\xE1remos"
+      - situareis
+      - situaren
+      cjid: fsub
+    - cjfs:
+      - he situado
+      - has situado
+      - ha situado
+      - hemos situado
+      - "hab\xE9is situado"
+      - han situado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa situado"
+      - "hab\xEDas situado"
+      - "hab\xEDa situado"
+      - "hab\xEDamos situado"
+      - "hab\xEDais situado"
+      - "hab\xEDan situado"
+      cjid: ppsi
+    - cjfs:
+      - hube situado
+      - hubiste situado
+      - hubo situado
+      - hubimos situado
+      - hubisteis situado
+      - hubieron situado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 situado"
+      - "habr\xE1s situado"
+      - "habr\xE1 situado"
+      - habremos situado
+      - "habr\xE9is situado"
+      - "habr\xE1n situado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa situado"
+      - "habr\xEDas situado"
+      - "habr\xEDa situado"
+      - "habr\xEDamos situado"
+      - "habr\xEDais situado"
+      - "habr\xEDan situado"
+      cjid: cpef
+    - cjfs:
+      - haya situado
+      - hayas situado
+      - haya situado
+      - hayamos situado
+      - "hay\xE1is situado"
+      - hayan situado
+      cjid: ppfs
+    - cjfs:
+      - hubiera situado
+      - hubieras situado
+      - hubiera situado
+      - "hubi\xE9ramos situado"
+      - hubierais situado
+      - hubieran situado
+      cjid: ppss1
+    - cjfs:
+      - hubiese situado
+      - hubieses situado
+      - hubiese situado
+      - "hubi\xE9semos situado"
+      - hubieseis situado
+      - hubiesen situado
+      cjid: ppss2
+    - cjfs:
+      - hubiere situado
+      - hubieres situado
+      - hubiere situado
+      - "hubi\xE9remos situado"
+      - hubiereis situado
+      - hubieren situado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "sit\xFAa"
+      - "sit\xFAe"
+      - situemos
+      - situad
+      - "sit\xFAen"
+      cjid: impf

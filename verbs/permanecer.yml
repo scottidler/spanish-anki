@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|quedarse||} {bc}to {a_link|remain}, to {a_link|stay}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|seguir||} {bc}to {a_link|remain}, to continue to be'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: permanecer
+    prs:
+    - sound:
+        audio: perma01sp
+  meta:
+    id: permanecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617146000'
+    src: spanish
+    stems:
+    - permanecer
+    uuid: 38945399-ac3f-4931-8fd9-e1a67e11adee
+  shortdef:
+  - 'quedarse : to remain, to stay'
+  - 'seguir : to remain, to continue to be'
+  suppl:
+    cjts:
+    - cjfs:
+      - permaneciendo
+      - permanecido
+      cjid: gppt
+    - cjfs:
+      - permanezco
+      - permaneces
+      - permanece
+      - permanecemos
+      - "permanec\xE9is"
+      - permanecen
+      cjid: pind
+    - cjfs:
+      - "permanec\xEDa"
+      - "permanec\xEDas"
+      - "permanec\xEDa"
+      - "permanec\xEDamos"
+      - "permanec\xEDais"
+      - "permanec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "permanec\xED"
+      - permaneciste
+      - "permaneci\xF3"
+      - permanecimos
+      - permanecisteis
+      - permanecieron
+      cjid: pprf
+    - cjfs:
+      - "permanecer\xE9"
+      - "permanecer\xE1s"
+      - "permanecer\xE1"
+      - permaneceremos
+      - "permanecer\xE9is"
+      - "permanecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "permanecer\xEDa"
+      - "permanecer\xEDas"
+      - "permanecer\xEDa"
+      - "permanecer\xEDamos"
+      - "permanecer\xEDais"
+      - "permanecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - permanezca
+      - permanezcas
+      - permanezca
+      - permanezcamos
+      - "permanezc\xE1is"
+      - permanezcan
+      cjid: psub
+    - cjfs:
+      - permaneciera
+      - permanecieras
+      - permaneciera
+      - "permaneci\xE9ramos"
+      - permanecierais
+      - permanecieran
+      cjid: pisb1
+    - cjfs:
+      - permaneciese
+      - permanecieses
+      - permaneciese
+      - "permaneci\xE9semos"
+      - permanecieseis
+      - permaneciesen
+      cjid: pisb2
+    - cjfs:
+      - permaneciere
+      - permanecieres
+      - permaneciere
+      - "permaneci\xE9remos"
+      - permaneciereis
+      - permanecieren
+      cjid: fsub
+    - cjfs:
+      - he permanecido
+      - has permanecido
+      - ha permanecido
+      - hemos permanecido
+      - "hab\xE9is permanecido"
+      - han permanecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa permanecido"
+      - "hab\xEDas permanecido"
+      - "hab\xEDa permanecido"
+      - "hab\xEDamos permanecido"
+      - "hab\xEDais permanecido"
+      - "hab\xEDan permanecido"
+      cjid: ppsi
+    - cjfs:
+      - hube permanecido
+      - hubiste permanecido
+      - hubo permanecido
+      - hubimos permanecido
+      - hubisteis permanecido
+      - hubieron permanecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 permanecido"
+      - "habr\xE1s permanecido"
+      - "habr\xE1 permanecido"
+      - habremos permanecido
+      - "habr\xE9is permanecido"
+      - "habr\xE1n permanecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa permanecido"
+      - "habr\xEDas permanecido"
+      - "habr\xEDa permanecido"
+      - "habr\xEDamos permanecido"
+      - "habr\xEDais permanecido"
+      - "habr\xEDan permanecido"
+      cjid: cpef
+    - cjfs:
+      - haya permanecido
+      - hayas permanecido
+      - haya permanecido
+      - hayamos permanecido
+      - "hay\xE1is permanecido"
+      - hayan permanecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera permanecido
+      - hubieras permanecido
+      - hubiera permanecido
+      - "hubi\xE9ramos permanecido"
+      - hubierais permanecido
+      - hubieran permanecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese permanecido
+      - hubieses permanecido
+      - hubiese permanecido
+      - "hubi\xE9semos permanecido"
+      - hubieseis permanecido
+      - hubiesen permanecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere permanecido
+      - hubieres permanecido
+      - hubiere permanecido
+      - "hubi\xE9remos permanecido"
+      - hubiereis permanecido
+      - hubieren permanecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - permanece
+      - permanezca
+      - permanezcamos
+      - permaneced
+      - permanezcan
+      cjid: impf

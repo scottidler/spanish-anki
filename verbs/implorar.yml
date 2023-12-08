@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|implore}'
+  fl: transitive verb
+  hwi:
+    hw: implorar
+  meta:
+    id: implorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611976000'
+    src: spanish
+    stems:
+    - implorar
+    uuid: 957d29d4-70a5-4352-b3e2-47b807a532d2
+  shortdef:
+  - to implore
+  suppl:
+    cjts:
+    - cjfs:
+      - implorando
+      - implorado
+      cjid: gppt
+    - cjfs:
+      - imploro
+      - imploras
+      - implora
+      - imploramos
+      - "implor\xE1is"
+      - imploran
+      cjid: pind
+    - cjfs:
+      - imploraba
+      - implorabas
+      - imploraba
+      - "implor\xE1bamos"
+      - implorabais
+      - imploraban
+      cjid: pret
+    - cjfs:
+      - "implor\xE9"
+      - imploraste
+      - "implor\xF3"
+      - imploramos
+      - implorasteis
+      - imploraron
+      cjid: pprf
+    - cjfs:
+      - "implorar\xE9"
+      - "implorar\xE1s"
+      - "implorar\xE1"
+      - imploraremos
+      - "implorar\xE9is"
+      - "implorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "implorar\xEDa"
+      - "implorar\xEDas"
+      - "implorar\xEDa"
+      - "implorar\xEDamos"
+      - "implorar\xEDais"
+      - "implorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - implore
+      - implores
+      - implore
+      - imploremos
+      - "implor\xE9is"
+      - imploren
+      cjid: psub
+    - cjfs:
+      - implorara
+      - imploraras
+      - implorara
+      - "implor\xE1ramos"
+      - implorarais
+      - imploraran
+      cjid: pisb1
+    - cjfs:
+      - implorase
+      - implorases
+      - implorase
+      - "implor\xE1semos"
+      - imploraseis
+      - implorasen
+      cjid: pisb2
+    - cjfs:
+      - implorare
+      - implorares
+      - implorare
+      - "implor\xE1remos"
+      - implorareis
+      - imploraren
+      cjid: fsub
+    - cjfs:
+      - he implorado
+      - has implorado
+      - ha implorado
+      - hemos implorado
+      - "hab\xE9is implorado"
+      - han implorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa implorado"
+      - "hab\xEDas implorado"
+      - "hab\xEDa implorado"
+      - "hab\xEDamos implorado"
+      - "hab\xEDais implorado"
+      - "hab\xEDan implorado"
+      cjid: ppsi
+    - cjfs:
+      - hube implorado
+      - hubiste implorado
+      - hubo implorado
+      - hubimos implorado
+      - hubisteis implorado
+      - hubieron implorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 implorado"
+      - "habr\xE1s implorado"
+      - "habr\xE1 implorado"
+      - habremos implorado
+      - "habr\xE9is implorado"
+      - "habr\xE1n implorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa implorado"
+      - "habr\xEDas implorado"
+      - "habr\xEDa implorado"
+      - "habr\xEDamos implorado"
+      - "habr\xEDais implorado"
+      - "habr\xEDan implorado"
+      cjid: cpef
+    - cjfs:
+      - haya implorado
+      - hayas implorado
+      - haya implorado
+      - hayamos implorado
+      - "hay\xE1is implorado"
+      - hayan implorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera implorado
+      - hubieras implorado
+      - hubiera implorado
+      - "hubi\xE9ramos implorado"
+      - hubierais implorado
+      - hubieran implorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese implorado
+      - hubieses implorado
+      - hubiese implorado
+      - "hubi\xE9semos implorado"
+      - hubieseis implorado
+      - hubiesen implorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere implorado
+      - hubieres implorado
+      - hubiere implorado
+      - "hubi\xE9remos implorado"
+      - hubiereis implorado
+      - hubieren implorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - implora
+      - implore
+      - imploremos
+      - implorad
+      - imploren
+      cjid: impf

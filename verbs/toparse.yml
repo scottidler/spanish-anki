@@ -1,0 +1,31 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bump into}, to {a_link|run into}, to {a_link|come across} '
+          - - vis
+            - - t: "me top\xE9 con algunas dificultades"
+                tr: I ran into some problems
+          vrs:
+          - va: toparse con
+            vac: ~ con
+  fl: reflexive verb
+  hwi:
+    hw: toparse
+    prs:
+    - sound:
+        audio: topar01sp
+  meta:
+    id: toparse
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621967000'
+    src: spanish
+    stems:
+    - toparse
+    - toparse con
+    uuid: 50c6f4f0-d346-4b8a-a175-5d742e58c770
+  shortdef:
+  - to bump into, to run into, to come across

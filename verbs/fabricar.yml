@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|manufacturar||} {bc}to {a_link|manufacture}, to {a_link|make}'
+  fl: transitive verb
+  hwi:
+    hw: fabricar
+    prs:
+    - sound:
+        audio: fabri04sp
+  meta:
+    id: fabricar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609824000'
+    src: spanish
+    stems:
+    - fabricar
+    uuid: 5e845a95-92ec-4e93-aec8-38cd95bcb8d5
+  shortdef:
+  - 'manufacturar : to manufacture, to make'
+  suppl:
+    cjts:
+    - cjfs:
+      - fabricando
+      - fabricado
+      cjid: gppt
+    - cjfs:
+      - fabrico
+      - fabricas
+      - fabrica
+      - fabricamos
+      - "fabric\xE1is"
+      - fabrican
+      cjid: pind
+    - cjfs:
+      - fabricaba
+      - fabricabas
+      - fabricaba
+      - "fabric\xE1bamos"
+      - fabricabais
+      - fabricaban
+      cjid: pret
+    - cjfs:
+      - "fabriqu\xE9"
+      - fabricaste
+      - "fabric\xF3"
+      - fabricamos
+      - fabricasteis
+      - fabricaron
+      cjid: pprf
+    - cjfs:
+      - "fabricar\xE9"
+      - "fabricar\xE1s"
+      - "fabricar\xE1"
+      - fabricaremos
+      - "fabricar\xE9is"
+      - "fabricar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fabricar\xEDa"
+      - "fabricar\xEDas"
+      - "fabricar\xEDa"
+      - "fabricar\xEDamos"
+      - "fabricar\xEDais"
+      - "fabricar\xEDan"
+      cjid: cond
+    - cjfs:
+      - fabrique
+      - fabriques
+      - fabrique
+      - fabriquemos
+      - "fabriqu\xE9is"
+      - fabriquen
+      cjid: psub
+    - cjfs:
+      - fabricara
+      - fabricaras
+      - fabricara
+      - "fabric\xE1ramos"
+      - fabricarais
+      - fabricaran
+      cjid: pisb1
+    - cjfs:
+      - fabricase
+      - fabricases
+      - fabricase
+      - "fabric\xE1semos"
+      - fabricaseis
+      - fabricasen
+      cjid: pisb2
+    - cjfs:
+      - fabricare
+      - fabricares
+      - fabricare
+      - "fabric\xE1remos"
+      - fabricareis
+      - fabricaren
+      cjid: fsub
+    - cjfs:
+      - he fabricado
+      - has fabricado
+      - ha fabricado
+      - hemos fabricado
+      - "hab\xE9is fabricado"
+      - han fabricado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fabricado"
+      - "hab\xEDas fabricado"
+      - "hab\xEDa fabricado"
+      - "hab\xEDamos fabricado"
+      - "hab\xEDais fabricado"
+      - "hab\xEDan fabricado"
+      cjid: ppsi
+    - cjfs:
+      - hube fabricado
+      - hubiste fabricado
+      - hubo fabricado
+      - hubimos fabricado
+      - hubisteis fabricado
+      - hubieron fabricado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fabricado"
+      - "habr\xE1s fabricado"
+      - "habr\xE1 fabricado"
+      - habremos fabricado
+      - "habr\xE9is fabricado"
+      - "habr\xE1n fabricado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fabricado"
+      - "habr\xEDas fabricado"
+      - "habr\xEDa fabricado"
+      - "habr\xEDamos fabricado"
+      - "habr\xEDais fabricado"
+      - "habr\xEDan fabricado"
+      cjid: cpef
+    - cjfs:
+      - haya fabricado
+      - hayas fabricado
+      - haya fabricado
+      - hayamos fabricado
+      - "hay\xE1is fabricado"
+      - hayan fabricado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fabricado
+      - hubieras fabricado
+      - hubiera fabricado
+      - "hubi\xE9ramos fabricado"
+      - hubierais fabricado
+      - hubieran fabricado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fabricado
+      - hubieses fabricado
+      - hubiese fabricado
+      - "hubi\xE9semos fabricado"
+      - hubieseis fabricado
+      - hubiesen fabricado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fabricado
+      - hubieres fabricado
+      - hubiere fabricado
+      - "hubi\xE9remos fabricado"
+      - hubiereis fabricado
+      - hubieren fabricado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fabrica
+      - fabrique
+      - fabriquemos
+      - fabricad
+      - fabriquen
+      cjid: impf

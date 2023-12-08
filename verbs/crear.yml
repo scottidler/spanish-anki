@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|create}, to {a_link|cause}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|originate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: crear
+    prs:
+    - sound:
+        audio: crear01sp
+  meta:
+    id: crear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606063000'
+    src: spanish
+    stems:
+    - crear
+    uuid: 86f935e2-755d-4b60-a51a-7e04057ef37d
+  shortdef:
+  - to create, to cause
+  - to originate
+  suppl:
+    cjts:
+    - cjfs:
+      - creando
+      - creado
+      cjid: gppt
+    - cjfs:
+      - creo
+      - creas
+      - crea
+      - creamos
+      - "cre\xE1is"
+      - crean
+      cjid: pind
+    - cjfs:
+      - creaba
+      - creabas
+      - creaba
+      - "cre\xE1bamos"
+      - creabais
+      - creaban
+      cjid: pret
+    - cjfs:
+      - "cre\xE9"
+      - creaste
+      - "cre\xF3"
+      - creamos
+      - creasteis
+      - crearon
+      cjid: pprf
+    - cjfs:
+      - "crear\xE9"
+      - "crear\xE1s"
+      - "crear\xE1"
+      - crearemos
+      - "crear\xE9is"
+      - "crear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "crear\xEDa"
+      - "crear\xEDas"
+      - "crear\xEDa"
+      - "crear\xEDamos"
+      - "crear\xEDais"
+      - "crear\xEDan"
+      cjid: cond
+    - cjfs:
+      - cree
+      - crees
+      - cree
+      - creemos
+      - "cre\xE9is"
+      - creen
+      cjid: psub
+    - cjfs:
+      - creara
+      - crearas
+      - creara
+      - "cre\xE1ramos"
+      - crearais
+      - crearan
+      cjid: pisb1
+    - cjfs:
+      - crease
+      - creases
+      - crease
+      - "cre\xE1semos"
+      - creaseis
+      - creasen
+      cjid: pisb2
+    - cjfs:
+      - creare
+      - creares
+      - creare
+      - "cre\xE1remos"
+      - creareis
+      - crearen
+      cjid: fsub
+    - cjfs:
+      - he creado
+      - has creado
+      - ha creado
+      - hemos creado
+      - "hab\xE9is creado"
+      - han creado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa creado"
+      - "hab\xEDas creado"
+      - "hab\xEDa creado"
+      - "hab\xEDamos creado"
+      - "hab\xEDais creado"
+      - "hab\xEDan creado"
+      cjid: ppsi
+    - cjfs:
+      - hube creado
+      - hubiste creado
+      - hubo creado
+      - hubimos creado
+      - hubisteis creado
+      - hubieron creado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 creado"
+      - "habr\xE1s creado"
+      - "habr\xE1 creado"
+      - habremos creado
+      - "habr\xE9is creado"
+      - "habr\xE1n creado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa creado"
+      - "habr\xEDas creado"
+      - "habr\xEDa creado"
+      - "habr\xEDamos creado"
+      - "habr\xEDais creado"
+      - "habr\xEDan creado"
+      cjid: cpef
+    - cjfs:
+      - haya creado
+      - hayas creado
+      - haya creado
+      - hayamos creado
+      - "hay\xE1is creado"
+      - hayan creado
+      cjid: ppfs
+    - cjfs:
+      - hubiera creado
+      - hubieras creado
+      - hubiera creado
+      - "hubi\xE9ramos creado"
+      - hubierais creado
+      - hubieran creado
+      cjid: ppss1
+    - cjfs:
+      - hubiese creado
+      - hubieses creado
+      - hubiese creado
+      - "hubi\xE9semos creado"
+      - hubieseis creado
+      - hubiesen creado
+      cjid: ppss2
+    - cjfs:
+      - hubiere creado
+      - hubieres creado
+      - hubiere creado
+      - "hubi\xE9remos creado"
+      - hubiereis creado
+      - hubieren creado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - crea
+      - cree
+      - creemos
+      - cread
+      - creen
+      cjid: impf

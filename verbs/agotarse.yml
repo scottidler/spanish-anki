@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exhaust}, to {a_link|use up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|weary}, to {a_link|wear out}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: agotar
+    prs:
+    - sound:
+        audio: agota03sp
+  meta:
+    id: agotar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600708000'
+    src: spanish
+    stems:
+    - agotar
+    - agotarse
+    uuid: e398be8c-7c9e-40d5-80f8-24daeefe5f24
+  shortdef:
+  - to exhaust, to use up
+  - to weary, to wear out
+  suppl:
+    cjts:
+    - cjfs:
+      - agotando
+      - agotado
+      cjid: gppt
+    - cjfs:
+      - agoto
+      - agotas
+      - agota
+      - agotamos
+      - "agot\xE1is"
+      - agotan
+      cjid: pind
+    - cjfs:
+      - agotaba
+      - agotabas
+      - agotaba
+      - "agot\xE1bamos"
+      - agotabais
+      - agotaban
+      cjid: pret
+    - cjfs:
+      - "agot\xE9"
+      - agotaste
+      - "agot\xF3"
+      - agotamos
+      - agotasteis
+      - agotaron
+      cjid: pprf
+    - cjfs:
+      - "agotar\xE9"
+      - "agotar\xE1s"
+      - "agotar\xE1"
+      - agotaremos
+      - "agotar\xE9is"
+      - "agotar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agotar\xEDa"
+      - "agotar\xEDas"
+      - "agotar\xEDa"
+      - "agotar\xEDamos"
+      - "agotar\xEDais"
+      - "agotar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agote
+      - agotes
+      - agote
+      - agotemos
+      - "agot\xE9is"
+      - agoten
+      cjid: psub
+    - cjfs:
+      - agotara
+      - agotaras
+      - agotara
+      - "agot\xE1ramos"
+      - agotarais
+      - agotaran
+      cjid: pisb1
+    - cjfs:
+      - agotase
+      - agotases
+      - agotase
+      - "agot\xE1semos"
+      - agotaseis
+      - agotasen
+      cjid: pisb2
+    - cjfs:
+      - agotare
+      - agotares
+      - agotare
+      - "agot\xE1remos"
+      - agotareis
+      - agotaren
+      cjid: fsub
+    - cjfs:
+      - he agotado
+      - has agotado
+      - ha agotado
+      - hemos agotado
+      - "hab\xE9is agotado"
+      - han agotado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agotado"
+      - "hab\xEDas agotado"
+      - "hab\xEDa agotado"
+      - "hab\xEDamos agotado"
+      - "hab\xEDais agotado"
+      - "hab\xEDan agotado"
+      cjid: ppsi
+    - cjfs:
+      - hube agotado
+      - hubiste agotado
+      - hubo agotado
+      - hubimos agotado
+      - hubisteis agotado
+      - hubieron agotado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agotado"
+      - "habr\xE1s agotado"
+      - "habr\xE1 agotado"
+      - habremos agotado
+      - "habr\xE9is agotado"
+      - "habr\xE1n agotado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agotado"
+      - "habr\xEDas agotado"
+      - "habr\xEDa agotado"
+      - "habr\xEDamos agotado"
+      - "habr\xEDais agotado"
+      - "habr\xEDan agotado"
+      cjid: cpef
+    - cjfs:
+      - haya agotado
+      - hayas agotado
+      - haya agotado
+      - hayamos agotado
+      - "hay\xE1is agotado"
+      - hayan agotado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agotado
+      - hubieras agotado
+      - hubiera agotado
+      - "hubi\xE9ramos agotado"
+      - hubierais agotado
+      - hubieran agotado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agotado
+      - hubieses agotado
+      - hubiese agotado
+      - "hubi\xE9semos agotado"
+      - hubieseis agotado
+      - hubiesen agotado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agotado
+      - hubieres agotado
+      - hubiere agotado
+      - "hubi\xE9remos agotado"
+      - hubiereis agotado
+      - hubieren agotado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agota
+      - agote
+      - agotemos
+      - agotad
+      - agoten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: agotarse

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|increase}, to {a_link|grow} (in number, etc.)'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: crecer
+    prs:
+    - sound:
+        audio: crece01sp
+  meta:
+    id: crecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606067000'
+    src: spanish
+    stems:
+    - crecer
+    uuid: 450a9a9b-7f52-4760-bbe6-ccfd4a059779
+  shortdef:
+  - to grow
+  - to increase, to grow (in number, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - creciendo
+      - crecido
+      cjid: gppt
+    - cjfs:
+      - crezco
+      - creces
+      - crece
+      - crecemos
+      - "crec\xE9is"
+      - crecen
+      cjid: pind
+    - cjfs:
+      - "crec\xEDa"
+      - "crec\xEDas"
+      - "crec\xEDa"
+      - "crec\xEDamos"
+      - "crec\xEDais"
+      - "crec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "crec\xED"
+      - creciste
+      - "creci\xF3"
+      - crecimos
+      - crecisteis
+      - crecieron
+      cjid: pprf
+    - cjfs:
+      - "crecer\xE9"
+      - "crecer\xE1s"
+      - "crecer\xE1"
+      - creceremos
+      - "crecer\xE9is"
+      - "crecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "crecer\xEDa"
+      - "crecer\xEDas"
+      - "crecer\xEDa"
+      - "crecer\xEDamos"
+      - "crecer\xEDais"
+      - "crecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - crezca
+      - crezcas
+      - crezca
+      - crezcamos
+      - "crezc\xE1is"
+      - crezcan
+      cjid: psub
+    - cjfs:
+      - creciera
+      - crecieras
+      - creciera
+      - "creci\xE9ramos"
+      - crecierais
+      - crecieran
+      cjid: pisb1
+    - cjfs:
+      - creciese
+      - crecieses
+      - creciese
+      - "creci\xE9semos"
+      - crecieseis
+      - creciesen
+      cjid: pisb2
+    - cjfs:
+      - creciere
+      - crecieres
+      - creciere
+      - "creci\xE9remos"
+      - creciereis
+      - crecieren
+      cjid: fsub
+    - cjfs:
+      - he crecido
+      - has crecido
+      - ha crecido
+      - hemos crecido
+      - "hab\xE9is crecido"
+      - han crecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa crecido"
+      - "hab\xEDas crecido"
+      - "hab\xEDa crecido"
+      - "hab\xEDamos crecido"
+      - "hab\xEDais crecido"
+      - "hab\xEDan crecido"
+      cjid: ppsi
+    - cjfs:
+      - hube crecido
+      - hubiste crecido
+      - hubo crecido
+      - hubimos crecido
+      - hubisteis crecido
+      - hubieron crecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 crecido"
+      - "habr\xE1s crecido"
+      - "habr\xE1 crecido"
+      - habremos crecido
+      - "habr\xE9is crecido"
+      - "habr\xE1n crecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa crecido"
+      - "habr\xEDas crecido"
+      - "habr\xEDa crecido"
+      - "habr\xEDamos crecido"
+      - "habr\xEDais crecido"
+      - "habr\xEDan crecido"
+      cjid: cpef
+    - cjfs:
+      - haya crecido
+      - hayas crecido
+      - haya crecido
+      - hayamos crecido
+      - "hay\xE1is crecido"
+      - hayan crecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera crecido
+      - hubieras crecido
+      - hubiera crecido
+      - "hubi\xE9ramos crecido"
+      - hubierais crecido
+      - hubieran crecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese crecido
+      - hubieses crecido
+      - hubiese crecido
+      - "hubi\xE9semos crecido"
+      - hubieseis crecido
+      - hubiesen crecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere crecido
+      - hubieres crecido
+      - hubiere crecido
+      - "hubi\xE9remos crecido"
+      - hubiereis crecido
+      - hubieren crecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - crece
+      - crezca
+      - crezcamos
+      - creced
+      - crezcan
+      cjid: impf

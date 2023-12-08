@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|baptize}, to {a_link|christen}'
+  fl: transitive verb
+  hwi:
+    hw: bautizar
+    prs:
+    - sound:
+        audio: bauti02sp
+  meta:
+    id: bautizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602881000'
+    src: spanish
+    stems:
+    - bautizar
+    uuid: d1e7e319-b097-4d3c-9d86-6c0767727503
+  shortdef:
+  - to baptize, to christen
+  suppl:
+    cjts:
+    - cjfs:
+      - bautizando
+      - bautizado
+      cjid: gppt
+    - cjfs:
+      - bautizo
+      - bautizas
+      - bautiza
+      - bautizamos
+      - "bautiz\xE1is"
+      - bautizan
+      cjid: pind
+    - cjfs:
+      - bautizaba
+      - bautizabas
+      - bautizaba
+      - "bautiz\xE1bamos"
+      - bautizabais
+      - bautizaban
+      cjid: pret
+    - cjfs:
+      - "bautic\xE9"
+      - bautizaste
+      - "bautiz\xF3"
+      - bautizamos
+      - bautizasteis
+      - bautizaron
+      cjid: pprf
+    - cjfs:
+      - "bautizar\xE9"
+      - "bautizar\xE1s"
+      - "bautizar\xE1"
+      - bautizaremos
+      - "bautizar\xE9is"
+      - "bautizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bautizar\xEDa"
+      - "bautizar\xEDas"
+      - "bautizar\xEDa"
+      - "bautizar\xEDamos"
+      - "bautizar\xEDais"
+      - "bautizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - bautice
+      - bautices
+      - bautice
+      - bauticemos
+      - "bautic\xE9is"
+      - bauticen
+      cjid: psub
+    - cjfs:
+      - bautizara
+      - bautizaras
+      - bautizara
+      - "bautiz\xE1ramos"
+      - bautizarais
+      - bautizaran
+      cjid: pisb1
+    - cjfs:
+      - bautizase
+      - bautizases
+      - bautizase
+      - "bautiz\xE1semos"
+      - bautizaseis
+      - bautizasen
+      cjid: pisb2
+    - cjfs:
+      - bautizare
+      - bautizares
+      - bautizare
+      - "bautiz\xE1remos"
+      - bautizareis
+      - bautizaren
+      cjid: fsub
+    - cjfs:
+      - he bautizado
+      - has bautizado
+      - ha bautizado
+      - hemos bautizado
+      - "hab\xE9is bautizado"
+      - han bautizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bautizado"
+      - "hab\xEDas bautizado"
+      - "hab\xEDa bautizado"
+      - "hab\xEDamos bautizado"
+      - "hab\xEDais bautizado"
+      - "hab\xEDan bautizado"
+      cjid: ppsi
+    - cjfs:
+      - hube bautizado
+      - hubiste bautizado
+      - hubo bautizado
+      - hubimos bautizado
+      - hubisteis bautizado
+      - hubieron bautizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bautizado"
+      - "habr\xE1s bautizado"
+      - "habr\xE1 bautizado"
+      - habremos bautizado
+      - "habr\xE9is bautizado"
+      - "habr\xE1n bautizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bautizado"
+      - "habr\xEDas bautizado"
+      - "habr\xEDa bautizado"
+      - "habr\xEDamos bautizado"
+      - "habr\xEDais bautizado"
+      - "habr\xEDan bautizado"
+      cjid: cpef
+    - cjfs:
+      - haya bautizado
+      - hayas bautizado
+      - haya bautizado
+      - hayamos bautizado
+      - "hay\xE1is bautizado"
+      - hayan bautizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera bautizado
+      - hubieras bautizado
+      - hubiera bautizado
+      - "hubi\xE9ramos bautizado"
+      - hubierais bautizado
+      - hubieran bautizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese bautizado
+      - hubieses bautizado
+      - hubiese bautizado
+      - "hubi\xE9semos bautizado"
+      - hubieseis bautizado
+      - hubiesen bautizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere bautizado
+      - hubieres bautizado
+      - hubiere bautizado
+      - "hubi\xE9remos bautizado"
+      - hubiereis bautizado
+      - hubieren bautizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bautiza
+      - bautice
+      - bauticemos
+      - bautizad
+      - bauticen
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rectify}, to {a_link|correct}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|straighten} (out)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: rectificar
+    prs:
+    - sound:
+        audio: recti01sp
+  meta:
+    id: rectificar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619058000'
+    src: spanish
+    stems:
+    - rectificar
+    uuid: df72824c-baf4-4f6c-8c9e-4b107e9bce07
+  shortdef:
+  - to rectify, to correct
+  - to straighten (out)
+  suppl:
+    cjts:
+    - cjfs:
+      - rectificando
+      - rectificado
+      cjid: gppt
+    - cjfs:
+      - rectifico
+      - rectificas
+      - rectifica
+      - rectificamos
+      - "rectific\xE1is"
+      - rectifican
+      cjid: pind
+    - cjfs:
+      - rectificaba
+      - rectificabas
+      - rectificaba
+      - "rectific\xE1bamos"
+      - rectificabais
+      - rectificaban
+      cjid: pret
+    - cjfs:
+      - "rectifiqu\xE9"
+      - rectificaste
+      - "rectific\xF3"
+      - rectificamos
+      - rectificasteis
+      - rectificaron
+      cjid: pprf
+    - cjfs:
+      - "rectificar\xE9"
+      - "rectificar\xE1s"
+      - "rectificar\xE1"
+      - rectificaremos
+      - "rectificar\xE9is"
+      - "rectificar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rectificar\xEDa"
+      - "rectificar\xEDas"
+      - "rectificar\xEDa"
+      - "rectificar\xEDamos"
+      - "rectificar\xEDais"
+      - "rectificar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rectifique
+      - rectifiques
+      - rectifique
+      - rectifiquemos
+      - "rectifiqu\xE9is"
+      - rectifiquen
+      cjid: psub
+    - cjfs:
+      - rectificara
+      - rectificaras
+      - rectificara
+      - "rectific\xE1ramos"
+      - rectificarais
+      - rectificaran
+      cjid: pisb1
+    - cjfs:
+      - rectificase
+      - rectificases
+      - rectificase
+      - "rectific\xE1semos"
+      - rectificaseis
+      - rectificasen
+      cjid: pisb2
+    - cjfs:
+      - rectificare
+      - rectificares
+      - rectificare
+      - "rectific\xE1remos"
+      - rectificareis
+      - rectificaren
+      cjid: fsub
+    - cjfs:
+      - he rectificado
+      - has rectificado
+      - ha rectificado
+      - hemos rectificado
+      - "hab\xE9is rectificado"
+      - han rectificado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rectificado"
+      - "hab\xEDas rectificado"
+      - "hab\xEDa rectificado"
+      - "hab\xEDamos rectificado"
+      - "hab\xEDais rectificado"
+      - "hab\xEDan rectificado"
+      cjid: ppsi
+    - cjfs:
+      - hube rectificado
+      - hubiste rectificado
+      - hubo rectificado
+      - hubimos rectificado
+      - hubisteis rectificado
+      - hubieron rectificado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rectificado"
+      - "habr\xE1s rectificado"
+      - "habr\xE1 rectificado"
+      - habremos rectificado
+      - "habr\xE9is rectificado"
+      - "habr\xE1n rectificado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rectificado"
+      - "habr\xEDas rectificado"
+      - "habr\xEDa rectificado"
+      - "habr\xEDamos rectificado"
+      - "habr\xEDais rectificado"
+      - "habr\xEDan rectificado"
+      cjid: cpef
+    - cjfs:
+      - haya rectificado
+      - hayas rectificado
+      - haya rectificado
+      - hayamos rectificado
+      - "hay\xE1is rectificado"
+      - hayan rectificado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rectificado
+      - hubieras rectificado
+      - hubiera rectificado
+      - "hubi\xE9ramos rectificado"
+      - hubierais rectificado
+      - hubieran rectificado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rectificado
+      - hubieses rectificado
+      - hubiese rectificado
+      - "hubi\xE9semos rectificado"
+      - hubieseis rectificado
+      - hubiesen rectificado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rectificado
+      - hubieres rectificado
+      - hubiere rectificado
+      - "hubi\xE9remos rectificado"
+      - hubiereis rectificado
+      - hubieren rectificado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rectifica
+      - rectifique
+      - rectifiquemos
+      - rectificad
+      - rectifiquen
+      cjid: impf

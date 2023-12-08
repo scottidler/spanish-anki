@@ -1,0 +1,216 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to set forth (an argument, etc.), to {a_link|bring up} (a topic,
+              possibility, etc.), to {a_link|suggest} (an idea, etc.) '
+          - - vis
+            - - t: "no lo plantear\xEDa as\xED"
+                tr: I wouldn't describe/explain it like that
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|establish}, to {a_link|set up}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|create}, to {a_link|pose} (a problem)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to think about'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|arise}'
+            sn: '2'
+    drp: plantearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: plantear
+    prs:
+    - sound:
+        audio: plant05sp
+  meta:
+    id: plantear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617517000'
+    src: spanish
+    stems:
+    - plantear
+    - plantearse
+    uuid: 2d5e5bc9-e58e-4e65-bb93-f170d6932433
+  shortdef:
+  - to set forth (an argument, etc.), to bring up (a topic, possibility, etc.), to
+    suggest (an idea, etc.)
+  - to establish, to set up
+  - to create, to pose (a problem)
+  suppl:
+    cjts:
+    - cjfs:
+      - planteando
+      - planteado
+      cjid: gppt
+    - cjfs:
+      - planteo
+      - planteas
+      - plantea
+      - planteamos
+      - "plante\xE1is"
+      - plantean
+      cjid: pind
+    - cjfs:
+      - planteaba
+      - planteabas
+      - planteaba
+      - "plante\xE1bamos"
+      - planteabais
+      - planteaban
+      cjid: pret
+    - cjfs:
+      - "plante\xE9"
+      - planteaste
+      - "plante\xF3"
+      - planteamos
+      - planteasteis
+      - plantearon
+      cjid: pprf
+    - cjfs:
+      - "plantear\xE9"
+      - "plantear\xE1s"
+      - "plantear\xE1"
+      - plantearemos
+      - "plantear\xE9is"
+      - "plantear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "plantear\xEDa"
+      - "plantear\xEDas"
+      - "plantear\xEDa"
+      - "plantear\xEDamos"
+      - "plantear\xEDais"
+      - "plantear\xEDan"
+      cjid: cond
+    - cjfs:
+      - plantee
+      - plantees
+      - plantee
+      - planteemos
+      - "plante\xE9is"
+      - planteen
+      cjid: psub
+    - cjfs:
+      - planteara
+      - plantearas
+      - planteara
+      - "plante\xE1ramos"
+      - plantearais
+      - plantearan
+      cjid: pisb1
+    - cjfs:
+      - plantease
+      - planteases
+      - plantease
+      - "plante\xE1semos"
+      - planteaseis
+      - planteasen
+      cjid: pisb2
+    - cjfs:
+      - planteare
+      - planteares
+      - planteare
+      - "plante\xE1remos"
+      - planteareis
+      - plantearen
+      cjid: fsub
+    - cjfs:
+      - he planteado
+      - has planteado
+      - ha planteado
+      - hemos planteado
+      - "hab\xE9is planteado"
+      - han planteado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa planteado"
+      - "hab\xEDas planteado"
+      - "hab\xEDa planteado"
+      - "hab\xEDamos planteado"
+      - "hab\xEDais planteado"
+      - "hab\xEDan planteado"
+      cjid: ppsi
+    - cjfs:
+      - hube planteado
+      - hubiste planteado
+      - hubo planteado
+      - hubimos planteado
+      - hubisteis planteado
+      - hubieron planteado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 planteado"
+      - "habr\xE1s planteado"
+      - "habr\xE1 planteado"
+      - habremos planteado
+      - "habr\xE9is planteado"
+      - "habr\xE1n planteado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa planteado"
+      - "habr\xEDas planteado"
+      - "habr\xEDa planteado"
+      - "habr\xEDamos planteado"
+      - "habr\xEDais planteado"
+      - "habr\xEDan planteado"
+      cjid: cpef
+    - cjfs:
+      - haya planteado
+      - hayas planteado
+      - haya planteado
+      - hayamos planteado
+      - "hay\xE1is planteado"
+      - hayan planteado
+      cjid: ppfs
+    - cjfs:
+      - hubiera planteado
+      - hubieras planteado
+      - hubiera planteado
+      - "hubi\xE9ramos planteado"
+      - hubierais planteado
+      - hubieran planteado
+      cjid: ppss1
+    - cjfs:
+      - hubiese planteado
+      - hubieses planteado
+      - hubiese planteado
+      - "hubi\xE9semos planteado"
+      - hubieseis planteado
+      - hubiesen planteado
+      cjid: ppss2
+    - cjfs:
+      - hubiere planteado
+      - hubieres planteado
+      - hubiere planteado
+      - "hubi\xE9remos planteado"
+      - hubiereis planteado
+      - hubieren planteado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - plantea
+      - plantee
+      - planteemos
+      - plantead
+      - planteen
+      cjid: impf

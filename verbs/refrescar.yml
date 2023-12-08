@@ -1,0 +1,201 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|refresh}, to {a_link|cool}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to brush up (on)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to refresh one''s memory'
+          sn: '3'
+          vrs:
+          - va: refrescar la memoria
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to turn cooler'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: refrescar
+  meta:
+    id: refrescar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619160000'
+    src: spanish
+    stems:
+    - refrescar
+    - refrescar la memoria
+    uuid: 3477076f-7559-400f-a5b6-f503378412a4
+  shortdef:
+  - to refresh, to cool
+  - to brush up (on)
+  - to refresh one's memory
+  suppl:
+    cjts:
+    - cjfs:
+      - refrescando
+      - refrescado
+      cjid: gppt
+    - cjfs:
+      - refresco
+      - refrescas
+      - refresca
+      - refrescamos
+      - "refresc\xE1is"
+      - refrescan
+      cjid: pind
+    - cjfs:
+      - refrescaba
+      - refrescabas
+      - refrescaba
+      - "refresc\xE1bamos"
+      - refrescabais
+      - refrescaban
+      cjid: pret
+    - cjfs:
+      - "refresqu\xE9"
+      - refrescaste
+      - "refresc\xF3"
+      - refrescamos
+      - refrescasteis
+      - refrescaron
+      cjid: pprf
+    - cjfs:
+      - "refrescar\xE9"
+      - "refrescar\xE1s"
+      - "refrescar\xE1"
+      - refrescaremos
+      - "refrescar\xE9is"
+      - "refrescar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "refrescar\xEDa"
+      - "refrescar\xEDas"
+      - "refrescar\xEDa"
+      - "refrescar\xEDamos"
+      - "refrescar\xEDais"
+      - "refrescar\xEDan"
+      cjid: cond
+    - cjfs:
+      - refresque
+      - refresques
+      - refresque
+      - refresquemos
+      - "refresqu\xE9is"
+      - refresquen
+      cjid: psub
+    - cjfs:
+      - refrescara
+      - refrescaras
+      - refrescara
+      - "refresc\xE1ramos"
+      - refrescarais
+      - refrescaran
+      cjid: pisb1
+    - cjfs:
+      - refrescase
+      - refrescases
+      - refrescase
+      - "refresc\xE1semos"
+      - refrescaseis
+      - refrescasen
+      cjid: pisb2
+    - cjfs:
+      - refrescare
+      - refrescares
+      - refrescare
+      - "refresc\xE1remos"
+      - refrescareis
+      - refrescaren
+      cjid: fsub
+    - cjfs:
+      - he refrescado
+      - has refrescado
+      - ha refrescado
+      - hemos refrescado
+      - "hab\xE9is refrescado"
+      - han refrescado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa refrescado"
+      - "hab\xEDas refrescado"
+      - "hab\xEDa refrescado"
+      - "hab\xEDamos refrescado"
+      - "hab\xEDais refrescado"
+      - "hab\xEDan refrescado"
+      cjid: ppsi
+    - cjfs:
+      - hube refrescado
+      - hubiste refrescado
+      - hubo refrescado
+      - hubimos refrescado
+      - hubisteis refrescado
+      - hubieron refrescado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 refrescado"
+      - "habr\xE1s refrescado"
+      - "habr\xE1 refrescado"
+      - habremos refrescado
+      - "habr\xE9is refrescado"
+      - "habr\xE1n refrescado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa refrescado"
+      - "habr\xEDas refrescado"
+      - "habr\xEDa refrescado"
+      - "habr\xEDamos refrescado"
+      - "habr\xEDais refrescado"
+      - "habr\xEDan refrescado"
+      cjid: cpef
+    - cjfs:
+      - haya refrescado
+      - hayas refrescado
+      - haya refrescado
+      - hayamos refrescado
+      - "hay\xE1is refrescado"
+      - hayan refrescado
+      cjid: ppfs
+    - cjfs:
+      - hubiera refrescado
+      - hubieras refrescado
+      - hubiera refrescado
+      - "hubi\xE9ramos refrescado"
+      - hubierais refrescado
+      - hubieran refrescado
+      cjid: ppss1
+    - cjfs:
+      - hubiese refrescado
+      - hubieses refrescado
+      - hubiese refrescado
+      - "hubi\xE9semos refrescado"
+      - hubieseis refrescado
+      - hubiesen refrescado
+      cjid: ppss2
+    - cjfs:
+      - hubiere refrescado
+      - hubieres refrescado
+      - hubiere refrescado
+      - "hubi\xE9remos refrescado"
+      - hubiereis refrescado
+      - hubieren refrescado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - refresca
+      - refresque
+      - refresquemos
+      - refrescad
+      - refresquen
+      cjid: impf

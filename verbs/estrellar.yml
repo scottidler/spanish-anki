@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|smash}, to {a_link|crash}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|crash}, to {a_link|collide}'
+    drp: estrellarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: estrellar
+    prs:
+    - sound:
+        audio: estre05sp
+  meta:
+    id: estrellar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609441000'
+    src: spanish
+    stems:
+    - estrellar
+    - estrellarse
+    uuid: f96a8835-1ba2-4cd0-a396-5d33ba9039e5
+  shortdef:
+  - to smash, to crash
+  suppl:
+    cjts:
+    - cjfs:
+      - estrellando
+      - estrellado
+      cjid: gppt
+    - cjfs:
+      - estrello
+      - estrellas
+      - estrella
+      - estrellamos
+      - "estrell\xE1is"
+      - estrellan
+      cjid: pind
+    - cjfs:
+      - estrellaba
+      - estrellabas
+      - estrellaba
+      - "estrell\xE1bamos"
+      - estrellabais
+      - estrellaban
+      cjid: pret
+    - cjfs:
+      - "estrell\xE9"
+      - estrellaste
+      - "estrell\xF3"
+      - estrellamos
+      - estrellasteis
+      - estrellaron
+      cjid: pprf
+    - cjfs:
+      - "estrellar\xE9"
+      - "estrellar\xE1s"
+      - "estrellar\xE1"
+      - estrellaremos
+      - "estrellar\xE9is"
+      - "estrellar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estrellar\xEDa"
+      - "estrellar\xEDas"
+      - "estrellar\xEDa"
+      - "estrellar\xEDamos"
+      - "estrellar\xEDais"
+      - "estrellar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estrelle
+      - estrelles
+      - estrelle
+      - estrellemos
+      - "estrell\xE9is"
+      - estrellen
+      cjid: psub
+    - cjfs:
+      - estrellara
+      - estrellaras
+      - estrellara
+      - "estrell\xE1ramos"
+      - estrellarais
+      - estrellaran
+      cjid: pisb1
+    - cjfs:
+      - estrellase
+      - estrellases
+      - estrellase
+      - "estrell\xE1semos"
+      - estrellaseis
+      - estrellasen
+      cjid: pisb2
+    - cjfs:
+      - estrellare
+      - estrellares
+      - estrellare
+      - "estrell\xE1remos"
+      - estrellareis
+      - estrellaren
+      cjid: fsub
+    - cjfs:
+      - he estrellado
+      - has estrellado
+      - ha estrellado
+      - hemos estrellado
+      - "hab\xE9is estrellado"
+      - han estrellado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estrellado"
+      - "hab\xEDas estrellado"
+      - "hab\xEDa estrellado"
+      - "hab\xEDamos estrellado"
+      - "hab\xEDais estrellado"
+      - "hab\xEDan estrellado"
+      cjid: ppsi
+    - cjfs:
+      - hube estrellado
+      - hubiste estrellado
+      - hubo estrellado
+      - hubimos estrellado
+      - hubisteis estrellado
+      - hubieron estrellado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estrellado"
+      - "habr\xE1s estrellado"
+      - "habr\xE1 estrellado"
+      - habremos estrellado
+      - "habr\xE9is estrellado"
+      - "habr\xE1n estrellado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estrellado"
+      - "habr\xEDas estrellado"
+      - "habr\xEDa estrellado"
+      - "habr\xEDamos estrellado"
+      - "habr\xEDais estrellado"
+      - "habr\xEDan estrellado"
+      cjid: cpef
+    - cjfs:
+      - haya estrellado
+      - hayas estrellado
+      - haya estrellado
+      - hayamos estrellado
+      - "hay\xE1is estrellado"
+      - hayan estrellado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estrellado
+      - hubieras estrellado
+      - hubiera estrellado
+      - "hubi\xE9ramos estrellado"
+      - hubierais estrellado
+      - hubieran estrellado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estrellado
+      - hubieses estrellado
+      - hubiese estrellado
+      - "hubi\xE9semos estrellado"
+      - hubieseis estrellado
+      - hubiesen estrellado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estrellado
+      - hubieres estrellado
+      - hubiere estrellado
+      - "hubi\xE9remos estrellado"
+      - hubiereis estrellado
+      - hubieren estrellado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estrella
+      - estrelle
+      - estrellemos
+      - estrellad
+      - estrellen
+      cjid: impf

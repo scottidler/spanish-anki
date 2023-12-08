@@ -1,0 +1,259 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gather} (fabric)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to knit one''s brow, to {a_link|frown}'
+          sn: '2'
+          vrs:
+          - va: "fruncir el ce\xF1o"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pucker up, to purse one''s lips'
+          sn: '3'
+          vrs:
+          - va: fruncir la boca
+  fl: transitive verb
+  hwi:
+    hw: fruncir
+    prs:
+    - sound:
+        audio: frunc01sp
+  meta:
+    id: fruncir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610476000'
+    src: spanish
+    stems:
+    - fruncir
+    - "fruncir el ce\xF1o"
+    - fruncir la boca
+    uuid: ae2cae15-1102-4ab7-aaeb-5d5bf89772bf
+  shortdef:
+  - to gather (fabric)
+  - to knit one's brow, to frown
+  - to pucker up, to purse one's lips
+  suppl:
+    cjts:
+    - cjfs:
+      - frunciendo
+      - fruncido
+      cjid: gppt
+    - cjfs:
+      - frunzo
+      - frunces
+      - frunce
+      - fruncimos
+      - "frunc\xEDs"
+      - fruncen
+      cjid: pind
+    - cjfs:
+      - "frunc\xEDa"
+      - "frunc\xEDas"
+      - "frunc\xEDa"
+      - "frunc\xEDamos"
+      - "frunc\xEDais"
+      - "frunc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "frunc\xED"
+      - frunciste
+      - "frunci\xF3"
+      - fruncimos
+      - fruncisteis
+      - fruncieron
+      cjid: pprf
+    - cjfs:
+      - "fruncir\xE9"
+      - "fruncir\xE1s"
+      - "fruncir\xE1"
+      - frunciremos
+      - "fruncir\xE9is"
+      - "fruncir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fruncir\xEDa"
+      - "fruncir\xEDas"
+      - "fruncir\xEDa"
+      - "fruncir\xEDamos"
+      - "fruncir\xEDais"
+      - "fruncir\xEDan"
+      cjid: cond
+    - cjfs:
+      - frunza
+      - frunzas
+      - frunza
+      - frunzamos
+      - "frunz\xE1is"
+      - frunzan
+      cjid: psub
+    - cjfs:
+      - frunciera
+      - fruncieras
+      - frunciera
+      - "frunci\xE9ramos"
+      - fruncierais
+      - fruncieran
+      cjid: pisb1
+    - cjfs:
+      - frunciese
+      - fruncieses
+      - frunciese
+      - "frunci\xE9semos"
+      - fruncieseis
+      - frunciesen
+      cjid: pisb2
+    - cjfs:
+      - frunciere
+      - fruncieres
+      - frunciere
+      - "frunci\xE9remos"
+      - frunciereis
+      - fruncieren
+      cjid: fsub
+    - cjfs:
+      - he fruncido
+      - has fruncido
+      - ha fruncido
+      - hemos fruncido
+      - "hab\xE9is fruncido"
+      - han fruncido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fruncido"
+      - "hab\xEDas fruncido"
+      - "hab\xEDa fruncido"
+      - "hab\xEDamos fruncido"
+      - "hab\xEDais fruncido"
+      - "hab\xEDan fruncido"
+      cjid: ppsi
+    - cjfs:
+      - hube fruncido
+      - hubiste fruncido
+      - hubo fruncido
+      - hubimos fruncido
+      - hubisteis fruncido
+      - hubieron fruncido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fruncido"
+      - "habr\xE1s fruncido"
+      - "habr\xE1 fruncido"
+      - habremos fruncido
+      - "habr\xE9is fruncido"
+      - "habr\xE1n fruncido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fruncido"
+      - "habr\xEDas fruncido"
+      - "habr\xEDa fruncido"
+      - "habr\xEDamos fruncido"
+      - "habr\xEDais fruncido"
+      - "habr\xEDan fruncido"
+      cjid: cpef
+    - cjfs:
+      - haya fruncido
+      - hayas fruncido
+      - haya fruncido
+      - hayamos fruncido
+      - "hay\xE1is fruncido"
+      - hayan fruncido
+      cjid: ppfs
+    - cjfs:
+      - hubiera fruncido
+      - hubieras fruncido
+      - hubiera fruncido
+      - "hubi\xE9ramos fruncido"
+      - hubierais fruncido
+      - hubieran fruncido
+      cjid: ppss1
+    - cjfs:
+      - hubiese fruncido
+      - hubieses fruncido
+      - hubiese fruncido
+      - "hubi\xE9semos fruncido"
+      - hubieseis fruncido
+      - hubiesen fruncido
+      cjid: ppss2
+    - cjfs:
+      - hubiere fruncido
+      - hubieres fruncido
+      - hubiere fruncido
+      - "hubi\xE9remos fruncido"
+      - hubiereis fruncido
+      - hubieren fruncido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - frunce
+      - frunza
+      - frunzamos
+      - fruncid
+      - frunzan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|frown}, {a_link|scowl}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|frown}, to {a_link|knit one''s brows}'
+          sn: '2'
+          vrs:
+          - va: "fruncir el ce\xF1o"
+  fl: masculine noun
+  hwi:
+    hw: "ce\xF1o"
+    prs:
+    - sound:
+        audio: ceno001sp
+  meta:
+    id: ceno
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604346000'
+    src: spanish
+    stems:
+    - "ce\xF1o"
+    - "fruncir el ce\xF1o"
+    uuid: 202df1ee-8fe7-48bd-87e3-e2954c3a1541
+  shortdef:
+  - frown, scowl
+  - to frown, to knit one's brows
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knit one''s brows}'
+          vrs:
+          - va: fruncir el entrecejo
+  fl: masculine noun
+  hwi:
+    hw: entrecejo
+  meta:
+    id: entrecejo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608749000'
+    src: spanish
+    stems:
+    - entrecejo
+    - fruncir el entrecejo
+    uuid: 6e6e1f52-a754-4d86-a78d-8fb40c0f1416
+  shortdef:
+  - to knit one's brows

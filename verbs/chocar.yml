@@ -1,0 +1,220 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crash}, to {a_link|collide}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clash}, to {a_link|conflict}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be shocking '
+          - - vis
+            - - t: "le choc\xF3"
+                tr: he was shocked
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be unpleasant or obnoxious '
+          - - vis
+            - - t: me choca tu jefe
+                tr: I can't stand your boss
+          sls:
+          - Mexico, Venezuela familiar
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shake} (hands)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to clink glasses'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: chocar
+    prs:
+    - sound:
+        audio: choca02sp
+  meta:
+    id: chocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604628000'
+    src: spanish
+    stems:
+    - chocar
+    uuid: e5c0cec4-a796-4fe4-877f-7320399d73f8
+  shortdef:
+  - to crash, to collide
+  - to clash, to conflict
+  - to be shocking
+  suppl:
+    cjts:
+    - cjfs:
+      - chocando
+      - chocado
+      cjid: gppt
+    - cjfs:
+      - choco
+      - chocas
+      - choca
+      - chocamos
+      - "choc\xE1is"
+      - chocan
+      cjid: pind
+    - cjfs:
+      - chocaba
+      - chocabas
+      - chocaba
+      - "choc\xE1bamos"
+      - chocabais
+      - chocaban
+      cjid: pret
+    - cjfs:
+      - "choqu\xE9"
+      - chocaste
+      - "choc\xF3"
+      - chocamos
+      - chocasteis
+      - chocaron
+      cjid: pprf
+    - cjfs:
+      - "chocar\xE9"
+      - "chocar\xE1s"
+      - "chocar\xE1"
+      - chocaremos
+      - "chocar\xE9is"
+      - "chocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "chocar\xEDa"
+      - "chocar\xEDas"
+      - "chocar\xEDa"
+      - "chocar\xEDamos"
+      - "chocar\xEDais"
+      - "chocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - choque
+      - choques
+      - choque
+      - choquemos
+      - "choqu\xE9is"
+      - choquen
+      cjid: psub
+    - cjfs:
+      - chocara
+      - chocaras
+      - chocara
+      - "choc\xE1ramos"
+      - chocarais
+      - chocaran
+      cjid: pisb1
+    - cjfs:
+      - chocase
+      - chocases
+      - chocase
+      - "choc\xE1semos"
+      - chocaseis
+      - chocasen
+      cjid: pisb2
+    - cjfs:
+      - chocare
+      - chocares
+      - chocare
+      - "choc\xE1remos"
+      - chocareis
+      - chocaren
+      cjid: fsub
+    - cjfs:
+      - he chocado
+      - has chocado
+      - ha chocado
+      - hemos chocado
+      - "hab\xE9is chocado"
+      - han chocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa chocado"
+      - "hab\xEDas chocado"
+      - "hab\xEDa chocado"
+      - "hab\xEDamos chocado"
+      - "hab\xEDais chocado"
+      - "hab\xEDan chocado"
+      cjid: ppsi
+    - cjfs:
+      - hube chocado
+      - hubiste chocado
+      - hubo chocado
+      - hubimos chocado
+      - hubisteis chocado
+      - hubieron chocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 chocado"
+      - "habr\xE1s chocado"
+      - "habr\xE1 chocado"
+      - habremos chocado
+      - "habr\xE9is chocado"
+      - "habr\xE1n chocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa chocado"
+      - "habr\xEDas chocado"
+      - "habr\xEDa chocado"
+      - "habr\xEDamos chocado"
+      - "habr\xEDais chocado"
+      - "habr\xEDan chocado"
+      cjid: cpef
+    - cjfs:
+      - haya chocado
+      - hayas chocado
+      - haya chocado
+      - hayamos chocado
+      - "hay\xE1is chocado"
+      - hayan chocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera chocado
+      - hubieras chocado
+      - hubiera chocado
+      - "hubi\xE9ramos chocado"
+      - hubierais chocado
+      - hubieran chocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese chocado
+      - hubieses chocado
+      - hubiese chocado
+      - "hubi\xE9semos chocado"
+      - hubieseis chocado
+      - hubiesen chocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere chocado
+      - hubieres chocado
+      - hubiere chocado
+      - "hubi\xE9remos chocado"
+      - hubiereis chocado
+      - hubieren chocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - choca
+      - choque
+      - choquemos
+      - chocad
+      - choquen
+      cjid: impf

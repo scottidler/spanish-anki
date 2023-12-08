@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|evoke}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|recordar||} {bc}to {a_link|recall}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: evocar
+    prs:
+    - sound:
+        audio: evoca01sp
+  meta:
+    id: evocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609556000'
+    src: spanish
+    stems:
+    - evocar
+    uuid: 564a0610-964e-48a1-aa08-95d4381798d6
+  shortdef:
+  - to evoke
+  - 'recordar : to recall'
+  suppl:
+    cjts:
+    - cjfs:
+      - evocando
+      - evocado
+      cjid: gppt
+    - cjfs:
+      - evoco
+      - evocas
+      - evoca
+      - evocamos
+      - "evoc\xE1is"
+      - evocan
+      cjid: pind
+    - cjfs:
+      - evocaba
+      - evocabas
+      - evocaba
+      - "evoc\xE1bamos"
+      - evocabais
+      - evocaban
+      cjid: pret
+    - cjfs:
+      - "evoqu\xE9"
+      - evocaste
+      - "evoc\xF3"
+      - evocamos
+      - evocasteis
+      - evocaron
+      cjid: pprf
+    - cjfs:
+      - "evocar\xE9"
+      - "evocar\xE1s"
+      - "evocar\xE1"
+      - evocaremos
+      - "evocar\xE9is"
+      - "evocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "evocar\xEDa"
+      - "evocar\xEDas"
+      - "evocar\xEDa"
+      - "evocar\xEDamos"
+      - "evocar\xEDais"
+      - "evocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - evoque
+      - evoques
+      - evoque
+      - evoquemos
+      - "evoqu\xE9is"
+      - evoquen
+      cjid: psub
+    - cjfs:
+      - evocara
+      - evocaras
+      - evocara
+      - "evoc\xE1ramos"
+      - evocarais
+      - evocaran
+      cjid: pisb1
+    - cjfs:
+      - evocase
+      - evocases
+      - evocase
+      - "evoc\xE1semos"
+      - evocaseis
+      - evocasen
+      cjid: pisb2
+    - cjfs:
+      - evocare
+      - evocares
+      - evocare
+      - "evoc\xE1remos"
+      - evocareis
+      - evocaren
+      cjid: fsub
+    - cjfs:
+      - he evocado
+      - has evocado
+      - ha evocado
+      - hemos evocado
+      - "hab\xE9is evocado"
+      - han evocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa evocado"
+      - "hab\xEDas evocado"
+      - "hab\xEDa evocado"
+      - "hab\xEDamos evocado"
+      - "hab\xEDais evocado"
+      - "hab\xEDan evocado"
+      cjid: ppsi
+    - cjfs:
+      - hube evocado
+      - hubiste evocado
+      - hubo evocado
+      - hubimos evocado
+      - hubisteis evocado
+      - hubieron evocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 evocado"
+      - "habr\xE1s evocado"
+      - "habr\xE1 evocado"
+      - habremos evocado
+      - "habr\xE9is evocado"
+      - "habr\xE1n evocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa evocado"
+      - "habr\xEDas evocado"
+      - "habr\xEDa evocado"
+      - "habr\xEDamos evocado"
+      - "habr\xEDais evocado"
+      - "habr\xEDan evocado"
+      cjid: cpef
+    - cjfs:
+      - haya evocado
+      - hayas evocado
+      - haya evocado
+      - hayamos evocado
+      - "hay\xE1is evocado"
+      - hayan evocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera evocado
+      - hubieras evocado
+      - hubiera evocado
+      - "hubi\xE9ramos evocado"
+      - hubierais evocado
+      - hubieran evocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese evocado
+      - hubieses evocado
+      - hubiese evocado
+      - "hubi\xE9semos evocado"
+      - hubieseis evocado
+      - hubiesen evocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere evocado
+      - hubieres evocado
+      - hubiere evocado
+      - "hubi\xE9remos evocado"
+      - hubiereis evocado
+      - hubieren evocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - evoca
+      - evoque
+      - evoquemos
+      - evocad
+      - evoquen
+      cjid: impf

@@ -1,0 +1,191 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|upset}, to {a_link|displease}, to make angry '
+          - - vis
+            - - t: darle un disgusto a alguien
+                tr: to upset someone
+              - t: llevarse un disgusto
+                tr: to be upset
+  fl: transitive verb
+  hwi:
+    hw: disgustar
+    prs:
+    - sound:
+        audio: disgu01sp
+  meta:
+    id: disgustar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607704000'
+    src: spanish
+    stems:
+    - disgustar
+    - disgustarse
+    uuid: 4ceca670-183a-4bc0-8506-65078160b7cd
+  shortdef:
+  - to upset, to displease, to make angry
+  suppl:
+    cjts:
+    - cjfs:
+      - disgustando
+      - disgustado
+      cjid: gppt
+    - cjfs:
+      - disgusto
+      - disgustas
+      - disgusta
+      - disgustamos
+      - "disgust\xE1is"
+      - disgustan
+      cjid: pind
+    - cjfs:
+      - disgustaba
+      - disgustabas
+      - disgustaba
+      - "disgust\xE1bamos"
+      - disgustabais
+      - disgustaban
+      cjid: pret
+    - cjfs:
+      - "disgust\xE9"
+      - disgustaste
+      - "disgust\xF3"
+      - disgustamos
+      - disgustasteis
+      - disgustaron
+      cjid: pprf
+    - cjfs:
+      - "disgustar\xE9"
+      - "disgustar\xE1s"
+      - "disgustar\xE1"
+      - disgustaremos
+      - "disgustar\xE9is"
+      - "disgustar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disgustar\xEDa"
+      - "disgustar\xEDas"
+      - "disgustar\xEDa"
+      - "disgustar\xEDamos"
+      - "disgustar\xEDais"
+      - "disgustar\xEDan"
+      cjid: cond
+    - cjfs:
+      - disguste
+      - disgustes
+      - disguste
+      - disgustemos
+      - "disgust\xE9is"
+      - disgusten
+      cjid: psub
+    - cjfs:
+      - disgustara
+      - disgustaras
+      - disgustara
+      - "disgust\xE1ramos"
+      - disgustarais
+      - disgustaran
+      cjid: pisb1
+    - cjfs:
+      - disgustase
+      - disgustases
+      - disgustase
+      - "disgust\xE1semos"
+      - disgustaseis
+      - disgustasen
+      cjid: pisb2
+    - cjfs:
+      - disgustare
+      - disgustares
+      - disgustare
+      - "disgust\xE1remos"
+      - disgustareis
+      - disgustaren
+      cjid: fsub
+    - cjfs:
+      - he disgustado
+      - has disgustado
+      - ha disgustado
+      - hemos disgustado
+      - "hab\xE9is disgustado"
+      - han disgustado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disgustado"
+      - "hab\xEDas disgustado"
+      - "hab\xEDa disgustado"
+      - "hab\xEDamos disgustado"
+      - "hab\xEDais disgustado"
+      - "hab\xEDan disgustado"
+      cjid: ppsi
+    - cjfs:
+      - hube disgustado
+      - hubiste disgustado
+      - hubo disgustado
+      - hubimos disgustado
+      - hubisteis disgustado
+      - hubieron disgustado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disgustado"
+      - "habr\xE1s disgustado"
+      - "habr\xE1 disgustado"
+      - habremos disgustado
+      - "habr\xE9is disgustado"
+      - "habr\xE1n disgustado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disgustado"
+      - "habr\xEDas disgustado"
+      - "habr\xEDa disgustado"
+      - "habr\xEDamos disgustado"
+      - "habr\xEDais disgustado"
+      - "habr\xEDan disgustado"
+      cjid: cpef
+    - cjfs:
+      - haya disgustado
+      - hayas disgustado
+      - haya disgustado
+      - hayamos disgustado
+      - "hay\xE1is disgustado"
+      - hayan disgustado
+      cjid: ppfs
+    - cjfs:
+      - hubiera disgustado
+      - hubieras disgustado
+      - hubiera disgustado
+      - "hubi\xE9ramos disgustado"
+      - hubierais disgustado
+      - hubieran disgustado
+      cjid: ppss1
+    - cjfs:
+      - hubiese disgustado
+      - hubieses disgustado
+      - hubiese disgustado
+      - "hubi\xE9semos disgustado"
+      - hubieseis disgustado
+      - hubiesen disgustado
+      cjid: ppss2
+    - cjfs:
+      - hubiere disgustado
+      - hubieres disgustado
+      - hubiere disgustado
+      - "hubi\xE9remos disgustado"
+      - hubiereis disgustado
+      - hubieren disgustado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disgusta
+      - disguste
+      - disgustemos
+      - disgustad
+      - disgusten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: disgustarse

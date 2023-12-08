@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|anguish}, to {a_link|distress}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|worry}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: angustiar
+  meta:
+    id: angustiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601411000'
+    src: spanish
+    stems:
+    - angustiar
+    - angustiarse
+    uuid: 90313e7d-9efc-4cf5-83c9-2152b6a46e53
+  shortdef:
+  - to anguish, to distress
+  - to worry
+  suppl:
+    cjts:
+    - cjfs:
+      - angustiando
+      - angustiado
+      cjid: gppt
+    - cjfs:
+      - angustio
+      - angustias
+      - angustia
+      - angustiamos
+      - "angusti\xE1is"
+      - angustian
+      cjid: pind
+    - cjfs:
+      - angustiaba
+      - angustiabas
+      - angustiaba
+      - "angusti\xE1bamos"
+      - angustiabais
+      - angustiaban
+      cjid: pret
+    - cjfs:
+      - "angusti\xE9"
+      - angustiaste
+      - "angusti\xF3"
+      - angustiamos
+      - angustiasteis
+      - angustiaron
+      cjid: pprf
+    - cjfs:
+      - "angustiar\xE9"
+      - "angustiar\xE1s"
+      - "angustiar\xE1"
+      - angustiaremos
+      - "angustiar\xE9is"
+      - "angustiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "angustiar\xEDa"
+      - "angustiar\xEDas"
+      - "angustiar\xEDa"
+      - "angustiar\xEDamos"
+      - "angustiar\xEDais"
+      - "angustiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - angustie
+      - angusties
+      - angustie
+      - angustiemos
+      - "angusti\xE9is"
+      - angustien
+      cjid: psub
+    - cjfs:
+      - angustiara
+      - angustiaras
+      - angustiara
+      - "angusti\xE1ramos"
+      - angustiarais
+      - angustiaran
+      cjid: pisb1
+    - cjfs:
+      - angustiase
+      - angustiases
+      - angustiase
+      - "angusti\xE1semos"
+      - angustiaseis
+      - angustiasen
+      cjid: pisb2
+    - cjfs:
+      - angustiare
+      - angustiares
+      - angustiare
+      - "angusti\xE1remos"
+      - angustiareis
+      - angustiaren
+      cjid: fsub
+    - cjfs:
+      - he angustiado
+      - has angustiado
+      - ha angustiado
+      - hemos angustiado
+      - "hab\xE9is angustiado"
+      - han angustiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa angustiado"
+      - "hab\xEDas angustiado"
+      - "hab\xEDa angustiado"
+      - "hab\xEDamos angustiado"
+      - "hab\xEDais angustiado"
+      - "hab\xEDan angustiado"
+      cjid: ppsi
+    - cjfs:
+      - hube angustiado
+      - hubiste angustiado
+      - hubo angustiado
+      - hubimos angustiado
+      - hubisteis angustiado
+      - hubieron angustiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 angustiado"
+      - "habr\xE1s angustiado"
+      - "habr\xE1 angustiado"
+      - habremos angustiado
+      - "habr\xE9is angustiado"
+      - "habr\xE1n angustiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa angustiado"
+      - "habr\xEDas angustiado"
+      - "habr\xEDa angustiado"
+      - "habr\xEDamos angustiado"
+      - "habr\xEDais angustiado"
+      - "habr\xEDan angustiado"
+      cjid: cpef
+    - cjfs:
+      - haya angustiado
+      - hayas angustiado
+      - haya angustiado
+      - hayamos angustiado
+      - "hay\xE1is angustiado"
+      - hayan angustiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera angustiado
+      - hubieras angustiado
+      - hubiera angustiado
+      - "hubi\xE9ramos angustiado"
+      - hubierais angustiado
+      - hubieran angustiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese angustiado
+      - hubieses angustiado
+      - hubiese angustiado
+      - "hubi\xE9semos angustiado"
+      - hubieseis angustiado
+      - hubiesen angustiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere angustiado
+      - hubieres angustiado
+      - hubiere angustiado
+      - "hubi\xE9remos angustiado"
+      - hubiereis angustiado
+      - hubieren angustiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - angustia
+      - angustie
+      - angustiemos
+      - angustiad
+      - angustien
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: angustiarse

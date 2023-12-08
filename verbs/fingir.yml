@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|feign}, to {a_link|pretend}'
+  fl: verb
+  hwi:
+    hw: fingir
+    prs:
+    - sound:
+        audio: fingi01sp
+  meta:
+    id: fingir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610136000'
+    src: spanish
+    stems:
+    - fingir
+    uuid: e2243e5d-50fb-4296-8fec-69dd841477e1
+  shortdef:
+  - to feign, to pretend
+  suppl:
+    cjts:
+    - cjfs:
+      - fingiendo
+      - fingido
+      cjid: gppt
+    - cjfs:
+      - finjo
+      - finges
+      - finge
+      - fingimos
+      - "fing\xEDs"
+      - fingen
+      cjid: pind
+    - cjfs:
+      - "fing\xEDa"
+      - "fing\xEDas"
+      - "fing\xEDa"
+      - "fing\xEDamos"
+      - "fing\xEDais"
+      - "fing\xEDan"
+      cjid: pret
+    - cjfs:
+      - "fing\xED"
+      - fingiste
+      - "fingi\xF3"
+      - fingimos
+      - fingisteis
+      - fingieron
+      cjid: pprf
+    - cjfs:
+      - "fingir\xE9"
+      - "fingir\xE1s"
+      - "fingir\xE1"
+      - fingiremos
+      - "fingir\xE9is"
+      - "fingir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fingir\xEDa"
+      - "fingir\xEDas"
+      - "fingir\xEDa"
+      - "fingir\xEDamos"
+      - "fingir\xEDais"
+      - "fingir\xEDan"
+      cjid: cond
+    - cjfs:
+      - finja
+      - finjas
+      - finja
+      - finjamos
+      - "finj\xE1is"
+      - finjan
+      cjid: psub
+    - cjfs:
+      - fingiera
+      - fingieras
+      - fingiera
+      - "fingi\xE9ramos"
+      - fingierais
+      - fingieran
+      cjid: pisb1
+    - cjfs:
+      - fingiese
+      - fingieses
+      - fingiese
+      - "fingi\xE9semos"
+      - fingieseis
+      - fingiesen
+      cjid: pisb2
+    - cjfs:
+      - fingiere
+      - fingieres
+      - fingiere
+      - "fingi\xE9remos"
+      - fingiereis
+      - fingieren
+      cjid: fsub
+    - cjfs:
+      - he fingido
+      - has fingido
+      - ha fingido
+      - hemos fingido
+      - "hab\xE9is fingido"
+      - han fingido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fingido"
+      - "hab\xEDas fingido"
+      - "hab\xEDa fingido"
+      - "hab\xEDamos fingido"
+      - "hab\xEDais fingido"
+      - "hab\xEDan fingido"
+      cjid: ppsi
+    - cjfs:
+      - hube fingido
+      - hubiste fingido
+      - hubo fingido
+      - hubimos fingido
+      - hubisteis fingido
+      - hubieron fingido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fingido"
+      - "habr\xE1s fingido"
+      - "habr\xE1 fingido"
+      - habremos fingido
+      - "habr\xE9is fingido"
+      - "habr\xE1n fingido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fingido"
+      - "habr\xEDas fingido"
+      - "habr\xEDa fingido"
+      - "habr\xEDamos fingido"
+      - "habr\xEDais fingido"
+      - "habr\xEDan fingido"
+      cjid: cpef
+    - cjfs:
+      - haya fingido
+      - hayas fingido
+      - haya fingido
+      - hayamos fingido
+      - "hay\xE1is fingido"
+      - hayan fingido
+      cjid: ppfs
+    - cjfs:
+      - hubiera fingido
+      - hubieras fingido
+      - hubiera fingido
+      - "hubi\xE9ramos fingido"
+      - hubierais fingido
+      - hubieran fingido
+      cjid: ppss1
+    - cjfs:
+      - hubiese fingido
+      - hubieses fingido
+      - hubiese fingido
+      - "hubi\xE9semos fingido"
+      - hubieseis fingido
+      - hubiesen fingido
+      cjid: ppss2
+    - cjfs:
+      - hubiere fingido
+      - hubieres fingido
+      - hubiere fingido
+      - "hubi\xE9remos fingido"
+      - hubiereis fingido
+      - hubieren fingido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - finge
+      - finja
+      - finjamos
+      - fingid
+      - finjan
+      cjid: impf

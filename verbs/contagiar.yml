@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|infect}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|transmit} (a disease)'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be contagious'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become infected'
+            sn: '2'
+    drp: contagiarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: contagiar
+    prs:
+    - sound:
+        audio: conta08sp
+  meta:
+    id: contagiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605668000'
+    src: spanish
+    stems:
+    - contagiar
+    - contagiarse
+    uuid: f32ddca2-7e46-4d99-9c40-054e1f4b5fd3
+  shortdef:
+  - to infect
+  - to transmit (a disease)
+  suppl:
+    cjts:
+    - cjfs:
+      - contagiando
+      - contagiado
+      cjid: gppt
+    - cjfs:
+      - contagio
+      - contagias
+      - contagia
+      - contagiamos
+      - "contagi\xE1is"
+      - contagian
+      cjid: pind
+    - cjfs:
+      - contagiaba
+      - contagiabas
+      - contagiaba
+      - "contagi\xE1bamos"
+      - contagiabais
+      - contagiaban
+      cjid: pret
+    - cjfs:
+      - "contagi\xE9"
+      - contagiaste
+      - "contagi\xF3"
+      - contagiamos
+      - contagiasteis
+      - contagiaron
+      cjid: pprf
+    - cjfs:
+      - "contagiar\xE9"
+      - "contagiar\xE1s"
+      - "contagiar\xE1"
+      - contagiaremos
+      - "contagiar\xE9is"
+      - "contagiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contagiar\xEDa"
+      - "contagiar\xEDas"
+      - "contagiar\xEDa"
+      - "contagiar\xEDamos"
+      - "contagiar\xEDais"
+      - "contagiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - contagie
+      - contagies
+      - contagie
+      - contagiemos
+      - "contagi\xE9is"
+      - contagien
+      cjid: psub
+    - cjfs:
+      - contagiara
+      - contagiaras
+      - contagiara
+      - "contagi\xE1ramos"
+      - contagiarais
+      - contagiaran
+      cjid: pisb1
+    - cjfs:
+      - contagiase
+      - contagiases
+      - contagiase
+      - "contagi\xE1semos"
+      - contagiaseis
+      - contagiasen
+      cjid: pisb2
+    - cjfs:
+      - contagiare
+      - contagiares
+      - contagiare
+      - "contagi\xE1remos"
+      - contagiareis
+      - contagiaren
+      cjid: fsub
+    - cjfs:
+      - he contagiado
+      - has contagiado
+      - ha contagiado
+      - hemos contagiado
+      - "hab\xE9is contagiado"
+      - han contagiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contagiado"
+      - "hab\xEDas contagiado"
+      - "hab\xEDa contagiado"
+      - "hab\xEDamos contagiado"
+      - "hab\xEDais contagiado"
+      - "hab\xEDan contagiado"
+      cjid: ppsi
+    - cjfs:
+      - hube contagiado
+      - hubiste contagiado
+      - hubo contagiado
+      - hubimos contagiado
+      - hubisteis contagiado
+      - hubieron contagiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contagiado"
+      - "habr\xE1s contagiado"
+      - "habr\xE1 contagiado"
+      - habremos contagiado
+      - "habr\xE9is contagiado"
+      - "habr\xE1n contagiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contagiado"
+      - "habr\xEDas contagiado"
+      - "habr\xEDa contagiado"
+      - "habr\xEDamos contagiado"
+      - "habr\xEDais contagiado"
+      - "habr\xEDan contagiado"
+      cjid: cpef
+    - cjfs:
+      - haya contagiado
+      - hayas contagiado
+      - haya contagiado
+      - hayamos contagiado
+      - "hay\xE1is contagiado"
+      - hayan contagiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera contagiado
+      - hubieras contagiado
+      - hubiera contagiado
+      - "hubi\xE9ramos contagiado"
+      - hubierais contagiado
+      - hubieran contagiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese contagiado
+      - hubieses contagiado
+      - hubiese contagiado
+      - "hubi\xE9semos contagiado"
+      - hubieseis contagiado
+      - hubiesen contagiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere contagiado
+      - hubieres contagiado
+      - hubiere contagiado
+      - "hubi\xE9remos contagiado"
+      - hubiereis contagiado
+      - hubieren contagiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - contagia
+      - contagie
+      - contagiemos
+      - contagiad
+      - contagien
+      cjid: impf

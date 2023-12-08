@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|threaten} '
+          - - vis
+            - - t: "me amenaz\xF3 con demandarme"
+                tr: she threatened to sue me
+              - t: fue amenazado de muerte
+                tr: he received death threats
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|threaten} '
+          - - vis
+            - - t: amenazan con sanciones
+                tr: they're threatening sanctions
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: amenazar
+    prs:
+    - sound:
+        audio: amena02sp
+  meta:
+    id: amenazar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601233000'
+    src: spanish
+    stems:
+    - amenazar
+    uuid: 4f9da430-e7bc-4a43-8738-061dcfb6fbae
+  shortdef:
+  - to threaten
+  - to threaten
+  suppl:
+    cjts:
+    - cjfs:
+      - amenazando
+      - amenazado
+      cjid: gppt
+    - cjfs:
+      - amenazo
+      - amenazas
+      - amenaza
+      - amenazamos
+      - "amenaz\xE1is"
+      - amenazan
+      cjid: pind
+    - cjfs:
+      - amenazaba
+      - amenazabas
+      - amenazaba
+      - "amenaz\xE1bamos"
+      - amenazabais
+      - amenazaban
+      cjid: pret
+    - cjfs:
+      - "amenac\xE9"
+      - amenazaste
+      - "amenaz\xF3"
+      - amenazamos
+      - amenazasteis
+      - amenazaron
+      cjid: pprf
+    - cjfs:
+      - "amenazar\xE9"
+      - "amenazar\xE1s"
+      - "amenazar\xE1"
+      - amenazaremos
+      - "amenazar\xE9is"
+      - "amenazar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amenazar\xEDa"
+      - "amenazar\xEDas"
+      - "amenazar\xEDa"
+      - "amenazar\xEDamos"
+      - "amenazar\xEDais"
+      - "amenazar\xEDan"
+      cjid: cond
+    - cjfs:
+      - amenace
+      - amenaces
+      - amenace
+      - amenacemos
+      - "amenac\xE9is"
+      - amenacen
+      cjid: psub
+    - cjfs:
+      - amenazara
+      - amenazaras
+      - amenazara
+      - "amenaz\xE1ramos"
+      - amenazarais
+      - amenazaran
+      cjid: pisb1
+    - cjfs:
+      - amenazase
+      - amenazases
+      - amenazase
+      - "amenaz\xE1semos"
+      - amenazaseis
+      - amenazasen
+      cjid: pisb2
+    - cjfs:
+      - amenazare
+      - amenazares
+      - amenazare
+      - "amenaz\xE1remos"
+      - amenazareis
+      - amenazaren
+      cjid: fsub
+    - cjfs:
+      - he amenazado
+      - has amenazado
+      - ha amenazado
+      - hemos amenazado
+      - "hab\xE9is amenazado"
+      - han amenazado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amenazado"
+      - "hab\xEDas amenazado"
+      - "hab\xEDa amenazado"
+      - "hab\xEDamos amenazado"
+      - "hab\xEDais amenazado"
+      - "hab\xEDan amenazado"
+      cjid: ppsi
+    - cjfs:
+      - hube amenazado
+      - hubiste amenazado
+      - hubo amenazado
+      - hubimos amenazado
+      - hubisteis amenazado
+      - hubieron amenazado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amenazado"
+      - "habr\xE1s amenazado"
+      - "habr\xE1 amenazado"
+      - habremos amenazado
+      - "habr\xE9is amenazado"
+      - "habr\xE1n amenazado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amenazado"
+      - "habr\xEDas amenazado"
+      - "habr\xEDa amenazado"
+      - "habr\xEDamos amenazado"
+      - "habr\xEDais amenazado"
+      - "habr\xEDan amenazado"
+      cjid: cpef
+    - cjfs:
+      - haya amenazado
+      - hayas amenazado
+      - haya amenazado
+      - hayamos amenazado
+      - "hay\xE1is amenazado"
+      - hayan amenazado
+      cjid: ppfs
+    - cjfs:
+      - hubiera amenazado
+      - hubieras amenazado
+      - hubiera amenazado
+      - "hubi\xE9ramos amenazado"
+      - hubierais amenazado
+      - hubieran amenazado
+      cjid: ppss1
+    - cjfs:
+      - hubiese amenazado
+      - hubieses amenazado
+      - hubiese amenazado
+      - "hubi\xE9semos amenazado"
+      - hubieseis amenazado
+      - hubiesen amenazado
+      cjid: ppss2
+    - cjfs:
+      - hubiere amenazado
+      - hubieres amenazado
+      - hubiere amenazado
+      - "hubi\xE9remos amenazado"
+      - hubiereis amenazado
+      - hubieren amenazado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - amenaza
+      - amenace
+      - amenacemos
+      - amenazad
+      - amenacen
+      cjid: impf

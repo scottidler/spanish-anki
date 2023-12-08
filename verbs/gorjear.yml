@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|chirp}, to {a_link|tweet}, to {a_link|warble}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|gurgle}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: gorjear
+  meta:
+    id: gorjear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610940000'
+    src: spanish
+    stems:
+    - gorjear
+    uuid: cf76a75b-3c0e-4f46-8bfa-4e9b1326b273
+  shortdef:
+  - to chirp, to tweet, to warble
+  - to gurgle
+  suppl:
+    cjts:
+    - cjfs:
+      - gorjeando
+      - gorjeado
+      cjid: gppt
+    - cjfs:
+      - gorjeo
+      - gorjeas
+      - gorjea
+      - gorjeamos
+      - "gorje\xE1is"
+      - gorjean
+      cjid: pind
+    - cjfs:
+      - gorjeaba
+      - gorjeabas
+      - gorjeaba
+      - "gorje\xE1bamos"
+      - gorjeabais
+      - gorjeaban
+      cjid: pret
+    - cjfs:
+      - "gorje\xE9"
+      - gorjeaste
+      - "gorje\xF3"
+      - gorjeamos
+      - gorjeasteis
+      - gorjearon
+      cjid: pprf
+    - cjfs:
+      - "gorjear\xE9"
+      - "gorjear\xE1s"
+      - "gorjear\xE1"
+      - gorjearemos
+      - "gorjear\xE9is"
+      - "gorjear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gorjear\xEDa"
+      - "gorjear\xEDas"
+      - "gorjear\xEDa"
+      - "gorjear\xEDamos"
+      - "gorjear\xEDais"
+      - "gorjear\xEDan"
+      cjid: cond
+    - cjfs:
+      - gorjee
+      - gorjees
+      - gorjee
+      - gorjeemos
+      - "gorje\xE9is"
+      - gorjeen
+      cjid: psub
+    - cjfs:
+      - gorjeara
+      - gorjearas
+      - gorjeara
+      - "gorje\xE1ramos"
+      - gorjearais
+      - gorjearan
+      cjid: pisb1
+    - cjfs:
+      - gorjease
+      - gorjeases
+      - gorjease
+      - "gorje\xE1semos"
+      - gorjeaseis
+      - gorjeasen
+      cjid: pisb2
+    - cjfs:
+      - gorjeare
+      - gorjeares
+      - gorjeare
+      - "gorje\xE1remos"
+      - gorjeareis
+      - gorjearen
+      cjid: fsub
+    - cjfs:
+      - he gorjeado
+      - has gorjeado
+      - ha gorjeado
+      - hemos gorjeado
+      - "hab\xE9is gorjeado"
+      - han gorjeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gorjeado"
+      - "hab\xEDas gorjeado"
+      - "hab\xEDa gorjeado"
+      - "hab\xEDamos gorjeado"
+      - "hab\xEDais gorjeado"
+      - "hab\xEDan gorjeado"
+      cjid: ppsi
+    - cjfs:
+      - hube gorjeado
+      - hubiste gorjeado
+      - hubo gorjeado
+      - hubimos gorjeado
+      - hubisteis gorjeado
+      - hubieron gorjeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gorjeado"
+      - "habr\xE1s gorjeado"
+      - "habr\xE1 gorjeado"
+      - habremos gorjeado
+      - "habr\xE9is gorjeado"
+      - "habr\xE1n gorjeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gorjeado"
+      - "habr\xEDas gorjeado"
+      - "habr\xEDa gorjeado"
+      - "habr\xEDamos gorjeado"
+      - "habr\xEDais gorjeado"
+      - "habr\xEDan gorjeado"
+      cjid: cpef
+    - cjfs:
+      - haya gorjeado
+      - hayas gorjeado
+      - haya gorjeado
+      - hayamos gorjeado
+      - "hay\xE1is gorjeado"
+      - hayan gorjeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera gorjeado
+      - hubieras gorjeado
+      - hubiera gorjeado
+      - "hubi\xE9ramos gorjeado"
+      - hubierais gorjeado
+      - hubieran gorjeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese gorjeado
+      - hubieses gorjeado
+      - hubiese gorjeado
+      - "hubi\xE9semos gorjeado"
+      - hubieseis gorjeado
+      - hubiesen gorjeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere gorjeado
+      - hubieres gorjeado
+      - hubiere gorjeado
+      - "hubi\xE9remos gorjeado"
+      - hubiereis gorjeado
+      - hubieren gorjeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - gorjea
+      - gorjee
+      - gorjeemos
+      - gorjead
+      - gorjeen
+      cjid: impf

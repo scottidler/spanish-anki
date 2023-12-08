@@ -1,0 +1,222 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|light}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|light}, to set fire to'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|prender||} {bc}to {a_link|switch on}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|start} (a motor)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|arouse}, to {a_link|kindle}'
+          sn: '4'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get excited'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|blush}'
+            sn: '2'
+    drp: encenderse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: encender
+    prs:
+    - sound:
+        audio: encen01sp
+  meta:
+    id: encender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608455000'
+    src: spanish
+    stems:
+    - encender
+    - encenderse
+    uuid: 27c9b5f8-f65c-4cc0-829a-4491d0c2f48d
+  shortdef:
+  - to light
+  - to light, to set fire to
+  - 'prender : to switch on'
+  suppl:
+    cjts:
+    - cjfs:
+      - encendiendo
+      - encendido
+      cjid: gppt
+    - cjfs:
+      - enciendo
+      - enciendes
+      - enciende
+      - encendemos
+      - "encend\xE9is"
+      - encienden
+      cjid: pind
+    - cjfs:
+      - "encend\xEDa"
+      - "encend\xEDas"
+      - "encend\xEDa"
+      - "encend\xEDamos"
+      - "encend\xEDais"
+      - "encend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "encend\xED"
+      - encendiste
+      - "encendi\xF3"
+      - encendimos
+      - encendisteis
+      - encendieron
+      cjid: pprf
+    - cjfs:
+      - "encender\xE9"
+      - "encender\xE1s"
+      - "encender\xE1"
+      - encenderemos
+      - "encender\xE9is"
+      - "encender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encender\xEDa"
+      - "encender\xEDas"
+      - "encender\xEDa"
+      - "encender\xEDamos"
+      - "encender\xEDais"
+      - "encender\xEDan"
+      cjid: cond
+    - cjfs:
+      - encienda
+      - enciendas
+      - encienda
+      - encendamos
+      - "encend\xE1is"
+      - enciendan
+      cjid: psub
+    - cjfs:
+      - encendiera
+      - encendieras
+      - encendiera
+      - "encendi\xE9ramos"
+      - encendierais
+      - encendieran
+      cjid: pisb1
+    - cjfs:
+      - encendiese
+      - encendieses
+      - encendiese
+      - "encendi\xE9semos"
+      - encendieseis
+      - encendiesen
+      cjid: pisb2
+    - cjfs:
+      - encendiere
+      - encendieres
+      - encendiere
+      - "encendi\xE9remos"
+      - encendiereis
+      - encendieren
+      cjid: fsub
+    - cjfs:
+      - he encendido
+      - has encendido
+      - ha encendido
+      - hemos encendido
+      - "hab\xE9is encendido"
+      - han encendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encendido"
+      - "hab\xEDas encendido"
+      - "hab\xEDa encendido"
+      - "hab\xEDamos encendido"
+      - "hab\xEDais encendido"
+      - "hab\xEDan encendido"
+      cjid: ppsi
+    - cjfs:
+      - hube encendido
+      - hubiste encendido
+      - hubo encendido
+      - hubimos encendido
+      - hubisteis encendido
+      - hubieron encendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encendido"
+      - "habr\xE1s encendido"
+      - "habr\xE1 encendido"
+      - habremos encendido
+      - "habr\xE9is encendido"
+      - "habr\xE1n encendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encendido"
+      - "habr\xEDas encendido"
+      - "habr\xEDa encendido"
+      - "habr\xEDamos encendido"
+      - "habr\xEDais encendido"
+      - "habr\xEDan encendido"
+      cjid: cpef
+    - cjfs:
+      - haya encendido
+      - hayas encendido
+      - haya encendido
+      - hayamos encendido
+      - "hay\xE1is encendido"
+      - hayan encendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera encendido
+      - hubieras encendido
+      - hubiera encendido
+      - "hubi\xE9ramos encendido"
+      - hubierais encendido
+      - hubieran encendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese encendido
+      - hubieses encendido
+      - hubiese encendido
+      - "hubi\xE9semos encendido"
+      - hubieseis encendido
+      - hubiesen encendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere encendido
+      - hubieres encendido
+      - hubiere encendido
+      - "hubi\xE9remos encendido"
+      - hubiereis encendido
+      - hubieren encendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enciende
+      - encienda
+      - encendamos
+      - encended
+      - enciendan
+      cjid: impf

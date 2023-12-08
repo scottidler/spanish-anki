@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ford}, to {a_link|wade across}'
+  fl: transitive verb
+  hwi:
+    hw: vadear
+  meta:
+    id: vadear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622638000'
+    src: spanish
+    stems:
+    - vadear
+    uuid: c8d1dc00-c0e5-4630-8854-4573ca48bb10
+  shortdef:
+  - to ford, to wade across
+  suppl:
+    cjts:
+    - cjfs:
+      - vadeando
+      - vadeado
+      cjid: gppt
+    - cjfs:
+      - vadeo
+      - vadeas
+      - vadea
+      - vadeamos
+      - "vade\xE1is"
+      - vadean
+      cjid: pind
+    - cjfs:
+      - vadeaba
+      - vadeabas
+      - vadeaba
+      - "vade\xE1bamos"
+      - vadeabais
+      - vadeaban
+      cjid: pret
+    - cjfs:
+      - "vade\xE9"
+      - vadeaste
+      - "vade\xF3"
+      - vadeamos
+      - vadeasteis
+      - vadearon
+      cjid: pprf
+    - cjfs:
+      - "vadear\xE9"
+      - "vadear\xE1s"
+      - "vadear\xE1"
+      - vadearemos
+      - "vadear\xE9is"
+      - "vadear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vadear\xEDa"
+      - "vadear\xEDas"
+      - "vadear\xEDa"
+      - "vadear\xEDamos"
+      - "vadear\xEDais"
+      - "vadear\xEDan"
+      cjid: cond
+    - cjfs:
+      - vadee
+      - vadees
+      - vadee
+      - vadeemos
+      - "vade\xE9is"
+      - vadeen
+      cjid: psub
+    - cjfs:
+      - vadeara
+      - vadearas
+      - vadeara
+      - "vade\xE1ramos"
+      - vadearais
+      - vadearan
+      cjid: pisb1
+    - cjfs:
+      - vadease
+      - vadeases
+      - vadease
+      - "vade\xE1semos"
+      - vadeaseis
+      - vadeasen
+      cjid: pisb2
+    - cjfs:
+      - vadeare
+      - vadeares
+      - vadeare
+      - "vade\xE1remos"
+      - vadeareis
+      - vadearen
+      cjid: fsub
+    - cjfs:
+      - he vadeado
+      - has vadeado
+      - ha vadeado
+      - hemos vadeado
+      - "hab\xE9is vadeado"
+      - han vadeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vadeado"
+      - "hab\xEDas vadeado"
+      - "hab\xEDa vadeado"
+      - "hab\xEDamos vadeado"
+      - "hab\xEDais vadeado"
+      - "hab\xEDan vadeado"
+      cjid: ppsi
+    - cjfs:
+      - hube vadeado
+      - hubiste vadeado
+      - hubo vadeado
+      - hubimos vadeado
+      - hubisteis vadeado
+      - hubieron vadeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vadeado"
+      - "habr\xE1s vadeado"
+      - "habr\xE1 vadeado"
+      - habremos vadeado
+      - "habr\xE9is vadeado"
+      - "habr\xE1n vadeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vadeado"
+      - "habr\xEDas vadeado"
+      - "habr\xEDa vadeado"
+      - "habr\xEDamos vadeado"
+      - "habr\xEDais vadeado"
+      - "habr\xEDan vadeado"
+      cjid: cpef
+    - cjfs:
+      - haya vadeado
+      - hayas vadeado
+      - haya vadeado
+      - hayamos vadeado
+      - "hay\xE1is vadeado"
+      - hayan vadeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera vadeado
+      - hubieras vadeado
+      - hubiera vadeado
+      - "hubi\xE9ramos vadeado"
+      - hubierais vadeado
+      - hubieran vadeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese vadeado
+      - hubieses vadeado
+      - hubiese vadeado
+      - "hubi\xE9semos vadeado"
+      - hubieseis vadeado
+      - hubiesen vadeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere vadeado
+      - hubieres vadeado
+      - hubiere vadeado
+      - "hubi\xE9remos vadeado"
+      - hubiereis vadeado
+      - hubieren vadeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vadea
+      - vadee
+      - vadeemos
+      - vadead
+      - vadeen
+      cjid: impf

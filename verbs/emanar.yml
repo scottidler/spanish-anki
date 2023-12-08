@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to emanate from'
+          vrs:
+          - va: emanar de
+            vac: ~ de
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exude}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: emanar
+    prs:
+    - sound:
+        audio: emana01sp
+  meta:
+    id: emanar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608205000'
+    src: spanish
+    stems:
+    - emanar
+    - emanar de
+    uuid: 675749bc-152f-43a4-91c7-a274ca35e3ee
+  shortdef:
+  - to emanate from
+  - to exude
+  suppl:
+    cjts:
+    - cjfs:
+      - emanando
+      - emanado
+      cjid: gppt
+    - cjfs:
+      - emano
+      - emanas
+      - emana
+      - emanamos
+      - "eman\xE1is"
+      - emanan
+      cjid: pind
+    - cjfs:
+      - emanaba
+      - emanabas
+      - emanaba
+      - "eman\xE1bamos"
+      - emanabais
+      - emanaban
+      cjid: pret
+    - cjfs:
+      - "eman\xE9"
+      - emanaste
+      - "eman\xF3"
+      - emanamos
+      - emanasteis
+      - emanaron
+      cjid: pprf
+    - cjfs:
+      - "emanar\xE9"
+      - "emanar\xE1s"
+      - "emanar\xE1"
+      - emanaremos
+      - "emanar\xE9is"
+      - "emanar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "emanar\xEDa"
+      - "emanar\xEDas"
+      - "emanar\xEDa"
+      - "emanar\xEDamos"
+      - "emanar\xEDais"
+      - "emanar\xEDan"
+      cjid: cond
+    - cjfs:
+      - emane
+      - emanes
+      - emane
+      - emanemos
+      - "eman\xE9is"
+      - emanen
+      cjid: psub
+    - cjfs:
+      - emanara
+      - emanaras
+      - emanara
+      - "eman\xE1ramos"
+      - emanarais
+      - emanaran
+      cjid: pisb1
+    - cjfs:
+      - emanase
+      - emanases
+      - emanase
+      - "eman\xE1semos"
+      - emanaseis
+      - emanasen
+      cjid: pisb2
+    - cjfs:
+      - emanare
+      - emanares
+      - emanare
+      - "eman\xE1remos"
+      - emanareis
+      - emanaren
+      cjid: fsub
+    - cjfs:
+      - he emanado
+      - has emanado
+      - ha emanado
+      - hemos emanado
+      - "hab\xE9is emanado"
+      - han emanado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa emanado"
+      - "hab\xEDas emanado"
+      - "hab\xEDa emanado"
+      - "hab\xEDamos emanado"
+      - "hab\xEDais emanado"
+      - "hab\xEDan emanado"
+      cjid: ppsi
+    - cjfs:
+      - hube emanado
+      - hubiste emanado
+      - hubo emanado
+      - hubimos emanado
+      - hubisteis emanado
+      - hubieron emanado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 emanado"
+      - "habr\xE1s emanado"
+      - "habr\xE1 emanado"
+      - habremos emanado
+      - "habr\xE9is emanado"
+      - "habr\xE1n emanado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa emanado"
+      - "habr\xEDas emanado"
+      - "habr\xEDa emanado"
+      - "habr\xEDamos emanado"
+      - "habr\xEDais emanado"
+      - "habr\xEDan emanado"
+      cjid: cpef
+    - cjfs:
+      - haya emanado
+      - hayas emanado
+      - haya emanado
+      - hayamos emanado
+      - "hay\xE1is emanado"
+      - hayan emanado
+      cjid: ppfs
+    - cjfs:
+      - hubiera emanado
+      - hubieras emanado
+      - hubiera emanado
+      - "hubi\xE9ramos emanado"
+      - hubierais emanado
+      - hubieran emanado
+      cjid: ppss1
+    - cjfs:
+      - hubiese emanado
+      - hubieses emanado
+      - hubiese emanado
+      - "hubi\xE9semos emanado"
+      - hubieseis emanado
+      - hubiesen emanado
+      cjid: ppss2
+    - cjfs:
+      - hubiere emanado
+      - hubieres emanado
+      - hubiere emanado
+      - "hubi\xE9remos emanado"
+      - hubiereis emanado
+      - hubieren emanado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - emana
+      - emane
+      - emanemos
+      - emanad
+      - emanen
+      cjid: impf

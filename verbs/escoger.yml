@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|elegir||}, {sx|seleccionar||} {bc}to {a_link|choose}, to {a_link|select}'
+  fl: transitive verb
+  hwi:
+    hw: escoger
+    prs:
+    - sound:
+        audio: escog01sp
+  meta:
+    id: escoger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609012000'
+    src: spanish
+    stems:
+    - escoger
+    uuid: 7fd37933-392f-459e-a727-6fc0c5e5bd47
+  shortdef:
+  - 'elegir, seleccionar : to choose, to select'
+  suppl:
+    cjts:
+    - cjfs:
+      - escogiendo
+      - escogido
+      cjid: gppt
+    - cjfs:
+      - escojo
+      - escoges
+      - escoge
+      - escogemos
+      - "escog\xE9is"
+      - escogen
+      cjid: pind
+    - cjfs:
+      - "escog\xEDa"
+      - "escog\xEDas"
+      - "escog\xEDa"
+      - "escog\xEDamos"
+      - "escog\xEDais"
+      - "escog\xEDan"
+      cjid: pret
+    - cjfs:
+      - "escog\xED"
+      - escogiste
+      - "escogi\xF3"
+      - escogimos
+      - escogisteis
+      - escogieron
+      cjid: pprf
+    - cjfs:
+      - "escoger\xE9"
+      - "escoger\xE1s"
+      - "escoger\xE1"
+      - escogeremos
+      - "escoger\xE9is"
+      - "escoger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escoger\xEDa"
+      - "escoger\xEDas"
+      - "escoger\xEDa"
+      - "escoger\xEDamos"
+      - "escoger\xEDais"
+      - "escoger\xEDan"
+      cjid: cond
+    - cjfs:
+      - escoja
+      - escojas
+      - escoja
+      - escojamos
+      - "escoj\xE1is"
+      - escojan
+      cjid: psub
+    - cjfs:
+      - escogiera
+      - escogieras
+      - escogiera
+      - "escogi\xE9ramos"
+      - escogierais
+      - escogieran
+      cjid: pisb1
+    - cjfs:
+      - escogiese
+      - escogieses
+      - escogiese
+      - "escogi\xE9semos"
+      - escogieseis
+      - escogiesen
+      cjid: pisb2
+    - cjfs:
+      - escogiere
+      - escogieres
+      - escogiere
+      - "escogi\xE9remos"
+      - escogiereis
+      - escogieren
+      cjid: fsub
+    - cjfs:
+      - he escogido
+      - has escogido
+      - ha escogido
+      - hemos escogido
+      - "hab\xE9is escogido"
+      - han escogido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escogido"
+      - "hab\xEDas escogido"
+      - "hab\xEDa escogido"
+      - "hab\xEDamos escogido"
+      - "hab\xEDais escogido"
+      - "hab\xEDan escogido"
+      cjid: ppsi
+    - cjfs:
+      - hube escogido
+      - hubiste escogido
+      - hubo escogido
+      - hubimos escogido
+      - hubisteis escogido
+      - hubieron escogido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escogido"
+      - "habr\xE1s escogido"
+      - "habr\xE1 escogido"
+      - habremos escogido
+      - "habr\xE9is escogido"
+      - "habr\xE1n escogido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escogido"
+      - "habr\xEDas escogido"
+      - "habr\xEDa escogido"
+      - "habr\xEDamos escogido"
+      - "habr\xEDais escogido"
+      - "habr\xEDan escogido"
+      cjid: cpef
+    - cjfs:
+      - haya escogido
+      - hayas escogido
+      - haya escogido
+      - hayamos escogido
+      - "hay\xE1is escogido"
+      - hayan escogido
+      cjid: ppfs
+    - cjfs:
+      - hubiera escogido
+      - hubieras escogido
+      - hubiera escogido
+      - "hubi\xE9ramos escogido"
+      - hubierais escogido
+      - hubieran escogido
+      cjid: ppss1
+    - cjfs:
+      - hubiese escogido
+      - hubieses escogido
+      - hubiese escogido
+      - "hubi\xE9semos escogido"
+      - hubieseis escogido
+      - hubiesen escogido
+      cjid: ppss2
+    - cjfs:
+      - hubiere escogido
+      - hubieres escogido
+      - hubiere escogido
+      - "hubi\xE9remos escogido"
+      - hubiereis escogido
+      - hubieren escogido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escoge
+      - escoja
+      - escojamos
+      - escoged
+      - escojan
+      cjid: impf

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|escudri\xF1ar||} {bc}to {a_link|scrutinize}, to examine closely"
+  fl: transitive verb
+  hwi:
+    hw: escrutar
+    prs:
+    - sound:
+        audio: escru02sp
+  meta:
+    id: escrutar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609054000'
+    src: spanish
+    stems:
+    - escrutar
+    uuid: 6aff5f36-b989-4f89-b5f7-6804bf513984
+  shortdef:
+  - "escudri\xF1ar : to scrutinize, to examine closely"
+  suppl:
+    cjts:
+    - cjfs:
+      - escrutando
+      - escrutado
+      cjid: gppt
+    - cjfs:
+      - escruto
+      - escrutas
+      - escruta
+      - escrutamos
+      - "escrut\xE1is"
+      - escrutan
+      cjid: pind
+    - cjfs:
+      - escrutaba
+      - escrutabas
+      - escrutaba
+      - "escrut\xE1bamos"
+      - escrutabais
+      - escrutaban
+      cjid: pret
+    - cjfs:
+      - "escrut\xE9"
+      - escrutaste
+      - "escrut\xF3"
+      - escrutamos
+      - escrutasteis
+      - escrutaron
+      cjid: pprf
+    - cjfs:
+      - "escrutar\xE9"
+      - "escrutar\xE1s"
+      - "escrutar\xE1"
+      - escrutaremos
+      - "escrutar\xE9is"
+      - "escrutar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escrutar\xEDa"
+      - "escrutar\xEDas"
+      - "escrutar\xEDa"
+      - "escrutar\xEDamos"
+      - "escrutar\xEDais"
+      - "escrutar\xEDan"
+      cjid: cond
+    - cjfs:
+      - escrute
+      - escrutes
+      - escrute
+      - escrutemos
+      - "escrut\xE9is"
+      - escruten
+      cjid: psub
+    - cjfs:
+      - escrutara
+      - escrutaras
+      - escrutara
+      - "escrut\xE1ramos"
+      - escrutarais
+      - escrutaran
+      cjid: pisb1
+    - cjfs:
+      - escrutase
+      - escrutases
+      - escrutase
+      - "escrut\xE1semos"
+      - escrutaseis
+      - escrutasen
+      cjid: pisb2
+    - cjfs:
+      - escrutare
+      - escrutares
+      - escrutare
+      - "escrut\xE1remos"
+      - escrutareis
+      - escrutaren
+      cjid: fsub
+    - cjfs:
+      - he escrutado
+      - has escrutado
+      - ha escrutado
+      - hemos escrutado
+      - "hab\xE9is escrutado"
+      - han escrutado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escrutado"
+      - "hab\xEDas escrutado"
+      - "hab\xEDa escrutado"
+      - "hab\xEDamos escrutado"
+      - "hab\xEDais escrutado"
+      - "hab\xEDan escrutado"
+      cjid: ppsi
+    - cjfs:
+      - hube escrutado
+      - hubiste escrutado
+      - hubo escrutado
+      - hubimos escrutado
+      - hubisteis escrutado
+      - hubieron escrutado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escrutado"
+      - "habr\xE1s escrutado"
+      - "habr\xE1 escrutado"
+      - habremos escrutado
+      - "habr\xE9is escrutado"
+      - "habr\xE1n escrutado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escrutado"
+      - "habr\xEDas escrutado"
+      - "habr\xEDa escrutado"
+      - "habr\xEDamos escrutado"
+      - "habr\xEDais escrutado"
+      - "habr\xEDan escrutado"
+      cjid: cpef
+    - cjfs:
+      - haya escrutado
+      - hayas escrutado
+      - haya escrutado
+      - hayamos escrutado
+      - "hay\xE1is escrutado"
+      - hayan escrutado
+      cjid: ppfs
+    - cjfs:
+      - hubiera escrutado
+      - hubieras escrutado
+      - hubiera escrutado
+      - "hubi\xE9ramos escrutado"
+      - hubierais escrutado
+      - hubieran escrutado
+      cjid: ppss1
+    - cjfs:
+      - hubiese escrutado
+      - hubieses escrutado
+      - hubiese escrutado
+      - "hubi\xE9semos escrutado"
+      - hubieseis escrutado
+      - hubiesen escrutado
+      cjid: ppss2
+    - cjfs:
+      - hubiere escrutado
+      - hubieres escrutado
+      - hubiere escrutado
+      - "hubi\xE9remos escrutado"
+      - hubiereis escrutado
+      - hubieren escrutado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escruta
+      - escrute
+      - escrutemos
+      - escrutad
+      - escruten
+      cjid: impf

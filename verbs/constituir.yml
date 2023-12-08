@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|formar||} {bc}to {a_link|constitute}, to {a_link|make up}, to {a_link|form}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fundar||} {bc}to {a_link|establish}, to {a_link|set up}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to set oneself up as, to {a_link|become}'
+            vrs:
+            - va: constituirse en
+              vac: ~ en
+    drp: constituirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: constituir
+    prs:
+    - sound:
+        audio: const07sp
+  meta:
+    id: constituir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605627000'
+    src: spanish
+    stems:
+    - constituir
+    - constituirse
+    - constituirse en
+    uuid: 694347d4-0cfc-441c-92f6-6da7ab3d3096
+  shortdef:
+  - 'formar : to constitute, to make up, to form'
+  - 'fundar : to establish, to set up'
+  suppl:
+    cjts:
+    - cjfs:
+      - constituyendo
+      - constituido
+      cjid: gppt
+    - cjfs:
+      - constituyo
+      - constituyes
+      - constituye
+      - constituimos
+      - "constitu\xEDs"
+      - constituyen
+      cjid: pind
+    - cjfs:
+      - "constitu\xEDa"
+      - "constitu\xEDas"
+      - "constitu\xEDa"
+      - "constitu\xEDamos"
+      - "constitu\xEDais"
+      - "constitu\xEDan"
+      cjid: pret
+    - cjfs:
+      - "constitu\xED"
+      - constituiste
+      - "constituy\xF3"
+      - constituimos
+      - constituisteis
+      - constituyeron
+      cjid: pprf
+    - cjfs:
+      - "constituir\xE9"
+      - "constituir\xE1s"
+      - "constituir\xE1"
+      - constituiremos
+      - "constituir\xE9is"
+      - "constituir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "constituir\xEDa"
+      - "constituir\xEDas"
+      - "constituir\xEDa"
+      - "constituir\xEDamos"
+      - "constituir\xEDais"
+      - "constituir\xEDan"
+      cjid: cond
+    - cjfs:
+      - constituya
+      - constituyas
+      - constituya
+      - constituyamos
+      - "constituy\xE1is"
+      - constituyan
+      cjid: psub
+    - cjfs:
+      - constituyera
+      - constituyeras
+      - constituyera
+      - "constituy\xE9ramos"
+      - constituyerais
+      - constituyeran
+      cjid: pisb1
+    - cjfs:
+      - constituyese
+      - constituyeses
+      - constituyese
+      - "constituy\xE9semos"
+      - constituyeseis
+      - constituyesen
+      cjid: pisb2
+    - cjfs:
+      - constituyere
+      - constituyeres
+      - constituyere
+      - "constituy\xE9remos"
+      - constituyereis
+      - constituyeren
+      cjid: fsub
+    - cjfs:
+      - he constituido
+      - has constituido
+      - ha constituido
+      - hemos constituido
+      - "hab\xE9is constituido"
+      - han constituido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa constituido"
+      - "hab\xEDas constituido"
+      - "hab\xEDa constituido"
+      - "hab\xEDamos constituido"
+      - "hab\xEDais constituido"
+      - "hab\xEDan constituido"
+      cjid: ppsi
+    - cjfs:
+      - hube constituido
+      - hubiste constituido
+      - hubo constituido
+      - hubimos constituido
+      - hubisteis constituido
+      - hubieron constituido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 constituido"
+      - "habr\xE1s constituido"
+      - "habr\xE1 constituido"
+      - habremos constituido
+      - "habr\xE9is constituido"
+      - "habr\xE1n constituido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa constituido"
+      - "habr\xEDas constituido"
+      - "habr\xEDa constituido"
+      - "habr\xEDamos constituido"
+      - "habr\xEDais constituido"
+      - "habr\xEDan constituido"
+      cjid: cpef
+    - cjfs:
+      - haya constituido
+      - hayas constituido
+      - haya constituido
+      - hayamos constituido
+      - "hay\xE1is constituido"
+      - hayan constituido
+      cjid: ppfs
+    - cjfs:
+      - hubiera constituido
+      - hubieras constituido
+      - hubiera constituido
+      - "hubi\xE9ramos constituido"
+      - hubierais constituido
+      - hubieran constituido
+      cjid: ppss1
+    - cjfs:
+      - hubiese constituido
+      - hubieses constituido
+      - hubiese constituido
+      - "hubi\xE9semos constituido"
+      - hubieseis constituido
+      - hubiesen constituido
+      cjid: ppss2
+    - cjfs:
+      - hubiere constituido
+      - hubieres constituido
+      - hubiere constituido
+      - "hubi\xE9remos constituido"
+      - hubiereis constituido
+      - hubieren constituido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - constituye
+      - constituya
+      - constituyamos
+      - constituid
+      - constituyan
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|emerge}, to {a_link|surface}'
+  fl: intransitive verb
+  hwi:
+    hw: emerger
+  meta:
+    id: emerger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608278000'
+    src: spanish
+    stems:
+    - emerger
+    uuid: 48de2f2b-bb33-4b35-805c-5dabe85aff49
+  shortdef:
+  - to emerge, to surface
+  suppl:
+    cjts:
+    - cjfs:
+      - emergiendo
+      - emergido
+      cjid: gppt
+    - cjfs:
+      - emerjo
+      - emerges
+      - emerge
+      - emergemos
+      - "emerg\xE9is"
+      - emergen
+      cjid: pind
+    - cjfs:
+      - "emerg\xEDa"
+      - "emerg\xEDas"
+      - "emerg\xEDa"
+      - "emerg\xEDamos"
+      - "emerg\xEDais"
+      - "emerg\xEDan"
+      cjid: pret
+    - cjfs:
+      - "emerg\xED"
+      - emergiste
+      - "emergi\xF3"
+      - emergimos
+      - emergisteis
+      - emergieron
+      cjid: pprf
+    - cjfs:
+      - "emerger\xE9"
+      - "emerger\xE1s"
+      - "emerger\xE1"
+      - emergeremos
+      - "emerger\xE9is"
+      - "emerger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "emerger\xEDa"
+      - "emerger\xEDas"
+      - "emerger\xEDa"
+      - "emerger\xEDamos"
+      - "emerger\xEDais"
+      - "emerger\xEDan"
+      cjid: cond
+    - cjfs:
+      - emerja
+      - emerjas
+      - emerja
+      - emerjamos
+      - "emerj\xE1is"
+      - emerjan
+      cjid: psub
+    - cjfs:
+      - emergiera
+      - emergieras
+      - emergiera
+      - "emergi\xE9ramos"
+      - emergierais
+      - emergieran
+      cjid: pisb1
+    - cjfs:
+      - emergiese
+      - emergieses
+      - emergiese
+      - "emergi\xE9semos"
+      - emergieseis
+      - emergiesen
+      cjid: pisb2
+    - cjfs:
+      - emergiere
+      - emergieres
+      - emergiere
+      - "emergi\xE9remos"
+      - emergiereis
+      - emergieren
+      cjid: fsub
+    - cjfs:
+      - he emergido
+      - has emergido
+      - ha emergido
+      - hemos emergido
+      - "hab\xE9is emergido"
+      - han emergido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa emergido"
+      - "hab\xEDas emergido"
+      - "hab\xEDa emergido"
+      - "hab\xEDamos emergido"
+      - "hab\xEDais emergido"
+      - "hab\xEDan emergido"
+      cjid: ppsi
+    - cjfs:
+      - hube emergido
+      - hubiste emergido
+      - hubo emergido
+      - hubimos emergido
+      - hubisteis emergido
+      - hubieron emergido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 emergido"
+      - "habr\xE1s emergido"
+      - "habr\xE1 emergido"
+      - habremos emergido
+      - "habr\xE9is emergido"
+      - "habr\xE1n emergido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa emergido"
+      - "habr\xEDas emergido"
+      - "habr\xEDa emergido"
+      - "habr\xEDamos emergido"
+      - "habr\xEDais emergido"
+      - "habr\xEDan emergido"
+      cjid: cpef
+    - cjfs:
+      - haya emergido
+      - hayas emergido
+      - haya emergido
+      - hayamos emergido
+      - "hay\xE1is emergido"
+      - hayan emergido
+      cjid: ppfs
+    - cjfs:
+      - hubiera emergido
+      - hubieras emergido
+      - hubiera emergido
+      - "hubi\xE9ramos emergido"
+      - hubierais emergido
+      - hubieran emergido
+      cjid: ppss1
+    - cjfs:
+      - hubiese emergido
+      - hubieses emergido
+      - hubiese emergido
+      - "hubi\xE9semos emergido"
+      - hubieseis emergido
+      - hubiesen emergido
+      cjid: ppss2
+    - cjfs:
+      - hubiere emergido
+      - hubieres emergido
+      - hubiere emergido
+      - "hubi\xE9remos emergido"
+      - hubiereis emergido
+      - hubieren emergido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - emerge
+      - emerja
+      - emerjamos
+      - emerged
+      - emerjan
+      cjid: impf

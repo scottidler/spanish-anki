@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|twist}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wring}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get twisted, to get tangled up'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|squirm}, to {a_link|writhe}, to wiggle about'
+            sn: '2'
+    drp: retorcerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: retorcer
+  meta:
+    id: retorcer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619678000'
+    src: spanish
+    stems:
+    - retorcer
+    - retorcerse
+    uuid: bc46f92b-6785-4288-8f1d-32785857495e
+  shortdef:
+  - to twist
+  - to wring
+  suppl:
+    cjts:
+    - cjfs:
+      - retorciendo
+      - retorcido
+      cjid: gppt
+    - cjfs:
+      - retuerzo
+      - retuerces
+      - retuerce
+      - retorcemos
+      - "retorc\xE9is"
+      - retuercen
+      cjid: pind
+    - cjfs:
+      - "retorc\xEDa"
+      - "retorc\xEDas"
+      - "retorc\xEDa"
+      - "retorc\xEDamos"
+      - "retorc\xEDais"
+      - "retorc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "retorc\xED"
+      - retorciste
+      - "retorci\xF3"
+      - retorcimos
+      - retorcisteis
+      - retorcieron
+      cjid: pprf
+    - cjfs:
+      - "retorcer\xE9"
+      - "retorcer\xE1s"
+      - "retorcer\xE1"
+      - retorceremos
+      - "retorcer\xE9is"
+      - "retorcer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "retorcer\xEDa"
+      - "retorcer\xEDas"
+      - "retorcer\xEDa"
+      - "retorcer\xEDamos"
+      - "retorcer\xEDais"
+      - "retorcer\xEDan"
+      cjid: cond
+    - cjfs:
+      - retuerza
+      - retuerzas
+      - retuerza
+      - retorzamos
+      - "retorz\xE1is"
+      - retuerzan
+      cjid: psub
+    - cjfs:
+      - retorciera
+      - retorcieras
+      - retorciera
+      - "retorci\xE9ramos"
+      - retorcierais
+      - retorcieran
+      cjid: pisb1
+    - cjfs:
+      - retorciese
+      - retorcieses
+      - retorciese
+      - "retorci\xE9semos"
+      - retorcieseis
+      - retorciesen
+      cjid: pisb2
+    - cjfs:
+      - retorciere
+      - retorcieres
+      - retorciere
+      - "retorci\xE9remos"
+      - retorciereis
+      - retorcieren
+      cjid: fsub
+    - cjfs:
+      - he retorcido
+      - has retorcido
+      - ha retorcido
+      - hemos retorcido
+      - "hab\xE9is retorcido"
+      - han retorcido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa retorcido"
+      - "hab\xEDas retorcido"
+      - "hab\xEDa retorcido"
+      - "hab\xEDamos retorcido"
+      - "hab\xEDais retorcido"
+      - "hab\xEDan retorcido"
+      cjid: ppsi
+    - cjfs:
+      - hube retorcido
+      - hubiste retorcido
+      - hubo retorcido
+      - hubimos retorcido
+      - hubisteis retorcido
+      - hubieron retorcido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 retorcido"
+      - "habr\xE1s retorcido"
+      - "habr\xE1 retorcido"
+      - habremos retorcido
+      - "habr\xE9is retorcido"
+      - "habr\xE1n retorcido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa retorcido"
+      - "habr\xEDas retorcido"
+      - "habr\xEDa retorcido"
+      - "habr\xEDamos retorcido"
+      - "habr\xEDais retorcido"
+      - "habr\xEDan retorcido"
+      cjid: cpef
+    - cjfs:
+      - haya retorcido
+      - hayas retorcido
+      - haya retorcido
+      - hayamos retorcido
+      - "hay\xE1is retorcido"
+      - hayan retorcido
+      cjid: ppfs
+    - cjfs:
+      - hubiera retorcido
+      - hubieras retorcido
+      - hubiera retorcido
+      - "hubi\xE9ramos retorcido"
+      - hubierais retorcido
+      - hubieran retorcido
+      cjid: ppss1
+    - cjfs:
+      - hubiese retorcido
+      - hubieses retorcido
+      - hubiese retorcido
+      - "hubi\xE9semos retorcido"
+      - hubieseis retorcido
+      - hubiesen retorcido
+      cjid: ppss2
+    - cjfs:
+      - hubiere retorcido
+      - hubieres retorcido
+      - hubiere retorcido
+      - "hubi\xE9remos retorcido"
+      - hubiereis retorcido
+      - hubieren retorcido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - retuerce
+      - retuerza
+      - retorzamos
+      - retorced
+      - retuerzan
+      cjid: impf

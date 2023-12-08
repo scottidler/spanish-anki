@@ -1,0 +1,278 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall} '
+          - - vis
+            - - t: "cay\xF3 al suelo"
+                tr: he fell on the floor/ground
+              - t: "lo dej\xF3 caer"
+                tr: she dropped it
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to drop away, to {a_link|slope}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall} (of night)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|collapse}, to {a_link|fall}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hang} (down)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|realize}, to {a_link|understand} '
+          - - vis
+            - - t: "caer (en) que \u2026"
+                tr: "to realize that \u2026"
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fall into (a trap, etc.) '
+          - - vis
+            - - t: caer en el error de
+                tr: to make the mistake of
+              - t: caer en manos de
+                tr: to fall into the hands of
+              - t: "caer en la tentaci\xF3n"
+                tr: to give in to temptation
+          sn: '7'
+          vrs:
+          - va: caer en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall out of favor}'
+          sn: '8'
+          vrs:
+          - va: caer en desgracia
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fall ill'
+          sn: '9'
+          vrs:
+          - va: caer enfermo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to sit well/poorly with someone '
+          - - vis
+            - - t: me caes bien
+                tr: I like you
+          sls:
+          - familiar
+          sn: '10'
+          vrs:
+          - va: caerle bien/mal a alguien
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fall} (down) '
+            - - vis
+              - - t: "se cay\xF3 de rodillas"
+                  tr: she fell to her knees
+    drp: caerse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: caer
+    prs:
+    - sound:
+        audio: caer001sp
+  meta:
+    id: caer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603583000'
+    src: spanish
+    stems:
+    - caer
+    - caer en
+    - caer en desgracia
+    - caer enfermo
+    - caerle bien/mal a alguien
+    - caerle bien a alguien
+    - caerle mal a alguien
+    - caerse
+    uuid: aac40ca2-64b3-4515-8a3d-91f11127a5b1
+  shortdef:
+  - to fall
+  - to drop away, to slope
+  - to fall (of night)
+  suppl:
+    cjts:
+    - cjfs:
+      - cayendo
+      - "ca\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - caigo
+      - caes
+      - cae
+      - caemos
+      - "ca\xE9is"
+      - caen
+      cjid: pind
+    - cjfs:
+      - "ca\xEDa"
+      - "ca\xEDas"
+      - "ca\xEDa"
+      - "ca\xEDamos"
+      - "ca\xEDais"
+      - "ca\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ca\xED"
+      - "ca\xEDste"
+      - "cay\xF3"
+      - "ca\xEDmos"
+      - "ca\xEDsteis"
+      - cayeron
+      cjid: pprf
+    - cjfs:
+      - "caer\xE9"
+      - "caer\xE1s"
+      - "caer\xE1"
+      - caeremos
+      - "caer\xE9is"
+      - "caer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "caer\xEDa"
+      - "caer\xEDas"
+      - "caer\xEDa"
+      - "caer\xEDamos"
+      - "caer\xEDais"
+      - "caer\xEDan"
+      cjid: cond
+    - cjfs:
+      - caiga
+      - caigas
+      - caiga
+      - caigamos
+      - "caig\xE1is"
+      - caigan
+      cjid: psub
+    - cjfs:
+      - cayera
+      - cayeras
+      - cayera
+      - "cay\xE9ramos"
+      - cayerais
+      - cayeran
+      cjid: pisb1
+    - cjfs:
+      - cayese
+      - cayeses
+      - cayese
+      - "cay\xE9semos"
+      - cayeseis
+      - cayesen
+      cjid: pisb2
+    - cjfs:
+      - cayere
+      - cayeres
+      - cayere
+      - "cay\xE9remos"
+      - cayereis
+      - cayeren
+      cjid: fsub
+    - cjfs:
+      - "he ca\xEDdo"
+      - "has ca\xEDdo"
+      - "ha ca\xEDdo"
+      - "hemos ca\xEDdo"
+      - "hab\xE9is ca\xEDdo"
+      - "han ca\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ca\xEDdo"
+      - "hab\xEDas ca\xEDdo"
+      - "hab\xEDa ca\xEDdo"
+      - "hab\xEDamos ca\xEDdo"
+      - "hab\xEDais ca\xEDdo"
+      - "hab\xEDan ca\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube ca\xEDdo"
+      - "hubiste ca\xEDdo"
+      - "hubo ca\xEDdo"
+      - "hubimos ca\xEDdo"
+      - "hubisteis ca\xEDdo"
+      - "hubieron ca\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ca\xEDdo"
+      - "habr\xE1s ca\xEDdo"
+      - "habr\xE1 ca\xEDdo"
+      - "habremos ca\xEDdo"
+      - "habr\xE9is ca\xEDdo"
+      - "habr\xE1n ca\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ca\xEDdo"
+      - "habr\xEDas ca\xEDdo"
+      - "habr\xEDa ca\xEDdo"
+      - "habr\xEDamos ca\xEDdo"
+      - "habr\xEDais ca\xEDdo"
+      - "habr\xEDan ca\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya ca\xEDdo"
+      - "hayas ca\xEDdo"
+      - "haya ca\xEDdo"
+      - "hayamos ca\xEDdo"
+      - "hay\xE1is ca\xEDdo"
+      - "hayan ca\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera ca\xEDdo"
+      - "hubieras ca\xEDdo"
+      - "hubiera ca\xEDdo"
+      - "hubi\xE9ramos ca\xEDdo"
+      - "hubierais ca\xEDdo"
+      - "hubieran ca\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese ca\xEDdo"
+      - "hubieses ca\xEDdo"
+      - "hubiese ca\xEDdo"
+      - "hubi\xE9semos ca\xEDdo"
+      - "hubieseis ca\xEDdo"
+      - "hubiesen ca\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere ca\xEDdo"
+      - "hubieres ca\xEDdo"
+      - "hubiere ca\xEDdo"
+      - "hubi\xE9remos ca\xEDdo"
+      - "hubiereis ca\xEDdo"
+      - "hubieren ca\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cae
+      - caiga
+      - caigamos
+      - caed
+      - caigan
+      cjid: impf

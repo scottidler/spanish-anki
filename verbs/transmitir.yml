@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|transmit}, to {a_link|broadcast}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass on}, to {a_link|transfer}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|transmit}, to {a_link|broadcast}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: transmitir
+    prs:
+    - sound:
+        audio: trans18sp
+  meta:
+    id: transmitir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622169000'
+    src: spanish
+    stems:
+    - transmitir
+    uuid: ddd0ee5f-bbcf-473c-aa2e-e1fd29f5f0c5
+  shortdef:
+  - to transmit, to broadcast
+  - to pass on, to transfer
+  - to transmit, to broadcast
+  suppl:
+    cjts:
+    - cjfs:
+      - transmitiendo
+      - transmitido
+      cjid: gppt
+    - cjfs:
+      - transmito
+      - transmites
+      - transmite
+      - transmitimos
+      - "transmit\xEDs"
+      - transmiten
+      cjid: pind
+    - cjfs:
+      - "transmit\xEDa"
+      - "transmit\xEDas"
+      - "transmit\xEDa"
+      - "transmit\xEDamos"
+      - "transmit\xEDais"
+      - "transmit\xEDan"
+      cjid: pret
+    - cjfs:
+      - "transmit\xED"
+      - transmitiste
+      - "transmiti\xF3"
+      - transmitimos
+      - transmitisteis
+      - transmitieron
+      cjid: pprf
+    - cjfs:
+      - "transmitir\xE9"
+      - "transmitir\xE1s"
+      - "transmitir\xE1"
+      - transmitiremos
+      - "transmitir\xE9is"
+      - "transmitir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "transmitir\xEDa"
+      - "transmitir\xEDas"
+      - "transmitir\xEDa"
+      - "transmitir\xEDamos"
+      - "transmitir\xEDais"
+      - "transmitir\xEDan"
+      cjid: cond
+    - cjfs:
+      - transmita
+      - transmitas
+      - transmita
+      - transmitamos
+      - "transmit\xE1is"
+      - transmitan
+      cjid: psub
+    - cjfs:
+      - transmitiera
+      - transmitieras
+      - transmitiera
+      - "transmiti\xE9ramos"
+      - transmitierais
+      - transmitieran
+      cjid: pisb1
+    - cjfs:
+      - transmitiese
+      - transmitieses
+      - transmitiese
+      - "transmiti\xE9semos"
+      - transmitieseis
+      - transmitiesen
+      cjid: pisb2
+    - cjfs:
+      - transmitiere
+      - transmitieres
+      - transmitiere
+      - "transmiti\xE9remos"
+      - transmitiereis
+      - transmitieren
+      cjid: fsub
+    - cjfs:
+      - he transmitido
+      - has transmitido
+      - ha transmitido
+      - hemos transmitido
+      - "hab\xE9is transmitido"
+      - han transmitido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa transmitido"
+      - "hab\xEDas transmitido"
+      - "hab\xEDa transmitido"
+      - "hab\xEDamos transmitido"
+      - "hab\xEDais transmitido"
+      - "hab\xEDan transmitido"
+      cjid: ppsi
+    - cjfs:
+      - hube transmitido
+      - hubiste transmitido
+      - hubo transmitido
+      - hubimos transmitido
+      - hubisteis transmitido
+      - hubieron transmitido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 transmitido"
+      - "habr\xE1s transmitido"
+      - "habr\xE1 transmitido"
+      - habremos transmitido
+      - "habr\xE9is transmitido"
+      - "habr\xE1n transmitido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa transmitido"
+      - "habr\xEDas transmitido"
+      - "habr\xEDa transmitido"
+      - "habr\xEDamos transmitido"
+      - "habr\xEDais transmitido"
+      - "habr\xEDan transmitido"
+      cjid: cpef
+    - cjfs:
+      - haya transmitido
+      - hayas transmitido
+      - haya transmitido
+      - hayamos transmitido
+      - "hay\xE1is transmitido"
+      - hayan transmitido
+      cjid: ppfs
+    - cjfs:
+      - hubiera transmitido
+      - hubieras transmitido
+      - hubiera transmitido
+      - "hubi\xE9ramos transmitido"
+      - hubierais transmitido
+      - hubieran transmitido
+      cjid: ppss1
+    - cjfs:
+      - hubiese transmitido
+      - hubieses transmitido
+      - hubiese transmitido
+      - "hubi\xE9semos transmitido"
+      - hubieseis transmitido
+      - hubiesen transmitido
+      cjid: ppss2
+    - cjfs:
+      - hubiere transmitido
+      - hubieres transmitido
+      - hubiere transmitido
+      - "hubi\xE9remos transmitido"
+      - hubiereis transmitido
+      - hubieren transmitido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - transmite
+      - transmita
+      - transmitamos
+      - transmitid
+      - transmitan
+      cjid: impf

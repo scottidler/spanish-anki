@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|collect}, to {a_link|gather}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get}, to {a_link|pick up}, to {a_link|retrieve}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clean up}, to {a_link|tidy} (up)'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: recoger
+    prs:
+    - sound:
+        audio: recog01sp
+  meta:
+    id: recoger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619008000'
+    src: spanish
+    stems:
+    - recoger
+    uuid: 4a1d2297-0c23-4aec-b6fb-9599f231e5ce
+  shortdef:
+  - to collect, to gather
+  - to get, to pick up, to retrieve
+  - to clean up, to tidy (up)
+  suppl:
+    cjts:
+    - cjfs:
+      - recogiendo
+      - recogido
+      cjid: gppt
+    - cjfs:
+      - recojo
+      - recoges
+      - recoge
+      - recogemos
+      - "recog\xE9is"
+      - recogen
+      cjid: pind
+    - cjfs:
+      - "recog\xEDa"
+      - "recog\xEDas"
+      - "recog\xEDa"
+      - "recog\xEDamos"
+      - "recog\xEDais"
+      - "recog\xEDan"
+      cjid: pret
+    - cjfs:
+      - "recog\xED"
+      - recogiste
+      - "recogi\xF3"
+      - recogimos
+      - recogisteis
+      - recogieron
+      cjid: pprf
+    - cjfs:
+      - "recoger\xE9"
+      - "recoger\xE1s"
+      - "recoger\xE1"
+      - recogeremos
+      - "recoger\xE9is"
+      - "recoger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recoger\xEDa"
+      - "recoger\xEDas"
+      - "recoger\xEDa"
+      - "recoger\xEDamos"
+      - "recoger\xEDais"
+      - "recoger\xEDan"
+      cjid: cond
+    - cjfs:
+      - recoja
+      - recojas
+      - recoja
+      - recojamos
+      - "recoj\xE1is"
+      - recojan
+      cjid: psub
+    - cjfs:
+      - recogiera
+      - recogieras
+      - recogiera
+      - "recogi\xE9ramos"
+      - recogierais
+      - recogieran
+      cjid: pisb1
+    - cjfs:
+      - recogiese
+      - recogieses
+      - recogiese
+      - "recogi\xE9semos"
+      - recogieseis
+      - recogiesen
+      cjid: pisb2
+    - cjfs:
+      - recogiere
+      - recogieres
+      - recogiere
+      - "recogi\xE9remos"
+      - recogiereis
+      - recogieren
+      cjid: fsub
+    - cjfs:
+      - he recogido
+      - has recogido
+      - ha recogido
+      - hemos recogido
+      - "hab\xE9is recogido"
+      - han recogido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recogido"
+      - "hab\xEDas recogido"
+      - "hab\xEDa recogido"
+      - "hab\xEDamos recogido"
+      - "hab\xEDais recogido"
+      - "hab\xEDan recogido"
+      cjid: ppsi
+    - cjfs:
+      - hube recogido
+      - hubiste recogido
+      - hubo recogido
+      - hubimos recogido
+      - hubisteis recogido
+      - hubieron recogido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recogido"
+      - "habr\xE1s recogido"
+      - "habr\xE1 recogido"
+      - habremos recogido
+      - "habr\xE9is recogido"
+      - "habr\xE1n recogido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recogido"
+      - "habr\xEDas recogido"
+      - "habr\xEDa recogido"
+      - "habr\xEDamos recogido"
+      - "habr\xEDais recogido"
+      - "habr\xEDan recogido"
+      cjid: cpef
+    - cjfs:
+      - haya recogido
+      - hayas recogido
+      - haya recogido
+      - hayamos recogido
+      - "hay\xE1is recogido"
+      - hayan recogido
+      cjid: ppfs
+    - cjfs:
+      - hubiera recogido
+      - hubieras recogido
+      - hubiera recogido
+      - "hubi\xE9ramos recogido"
+      - hubierais recogido
+      - hubieran recogido
+      cjid: ppss1
+    - cjfs:
+      - hubiese recogido
+      - hubieses recogido
+      - hubiese recogido
+      - "hubi\xE9semos recogido"
+      - hubieseis recogido
+      - hubiesen recogido
+      cjid: ppss2
+    - cjfs:
+      - hubiere recogido
+      - hubieres recogido
+      - hubiere recogido
+      - "hubi\xE9remos recogido"
+      - hubiereis recogido
+      - hubieren recogido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recoge
+      - recoja
+      - recojamos
+      - recoged
+      - recojan
+      cjid: impf

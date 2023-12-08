@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|visit}'
+  fl: transitive verb
+  hwi:
+    hw: visitar
+    prs:
+    - sound:
+        audio: visit04sp
+  meta:
+    id: visitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623107000'
+    src: spanish
+    stems:
+    - visitar
+    uuid: efd2e07d-a9d1-4f58-8047-40d1a8cb2e2c
+  shortdef:
+  - to visit
+  suppl:
+    cjts:
+    - cjfs:
+      - visitando
+      - visitado
+      cjid: gppt
+    - cjfs:
+      - visito
+      - visitas
+      - visita
+      - visitamos
+      - "visit\xE1is"
+      - visitan
+      cjid: pind
+    - cjfs:
+      - visitaba
+      - visitabas
+      - visitaba
+      - "visit\xE1bamos"
+      - visitabais
+      - visitaban
+      cjid: pret
+    - cjfs:
+      - "visit\xE9"
+      - visitaste
+      - "visit\xF3"
+      - visitamos
+      - visitasteis
+      - visitaron
+      cjid: pprf
+    - cjfs:
+      - "visitar\xE9"
+      - "visitar\xE1s"
+      - "visitar\xE1"
+      - visitaremos
+      - "visitar\xE9is"
+      - "visitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "visitar\xEDa"
+      - "visitar\xEDas"
+      - "visitar\xEDa"
+      - "visitar\xEDamos"
+      - "visitar\xEDais"
+      - "visitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - visite
+      - visites
+      - visite
+      - visitemos
+      - "visit\xE9is"
+      - visiten
+      cjid: psub
+    - cjfs:
+      - visitara
+      - visitaras
+      - visitara
+      - "visit\xE1ramos"
+      - visitarais
+      - visitaran
+      cjid: pisb1
+    - cjfs:
+      - visitase
+      - visitases
+      - visitase
+      - "visit\xE1semos"
+      - visitaseis
+      - visitasen
+      cjid: pisb2
+    - cjfs:
+      - visitare
+      - visitares
+      - visitare
+      - "visit\xE1remos"
+      - visitareis
+      - visitaren
+      cjid: fsub
+    - cjfs:
+      - he visitado
+      - has visitado
+      - ha visitado
+      - hemos visitado
+      - "hab\xE9is visitado"
+      - han visitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa visitado"
+      - "hab\xEDas visitado"
+      - "hab\xEDa visitado"
+      - "hab\xEDamos visitado"
+      - "hab\xEDais visitado"
+      - "hab\xEDan visitado"
+      cjid: ppsi
+    - cjfs:
+      - hube visitado
+      - hubiste visitado
+      - hubo visitado
+      - hubimos visitado
+      - hubisteis visitado
+      - hubieron visitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 visitado"
+      - "habr\xE1s visitado"
+      - "habr\xE1 visitado"
+      - habremos visitado
+      - "habr\xE9is visitado"
+      - "habr\xE1n visitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa visitado"
+      - "habr\xEDas visitado"
+      - "habr\xEDa visitado"
+      - "habr\xEDamos visitado"
+      - "habr\xEDais visitado"
+      - "habr\xEDan visitado"
+      cjid: cpef
+    - cjfs:
+      - haya visitado
+      - hayas visitado
+      - haya visitado
+      - hayamos visitado
+      - "hay\xE1is visitado"
+      - hayan visitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera visitado
+      - hubieras visitado
+      - hubiera visitado
+      - "hubi\xE9ramos visitado"
+      - hubierais visitado
+      - hubieran visitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese visitado
+      - hubieses visitado
+      - hubiese visitado
+      - "hubi\xE9semos visitado"
+      - hubieseis visitado
+      - hubiesen visitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere visitado
+      - hubieres visitado
+      - hubiere visitado
+      - "hubi\xE9remos visitado"
+      - hubiereis visitado
+      - hubieren visitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - visita
+      - visite
+      - visitemos
+      - visitad
+      - visiten
+      cjid: impf

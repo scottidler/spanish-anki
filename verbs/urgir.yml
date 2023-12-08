@@ -1,0 +1,187 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be urgent}, to be pressing '
+          - - vis
+            - - t: me urge localizarlo
+                tr: I urgently need to find him
+              - t: el tiempo urge
+                tr: time is running out
+  fl: impersonal verb
+  hwi:
+    hw: urgir
+    prs:
+    - sound:
+        audio: urgir01sp
+  meta:
+    id: urgir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622579000'
+    src: spanish
+    stems:
+    - urgir
+    uuid: e9707eee-bf47-40ff-8cc7-cae096ccee1e
+  shortdef:
+  - to be urgent, to be pressing
+  suppl:
+    cjts:
+    - cjfs:
+      - urgiendo
+      - urgido
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - urge
+      - '-'
+      - '-'
+      - urgen
+      cjid: pind
+    - cjfs:
+      - '-'
+      - '-'
+      - "urg\xEDa"
+      - '-'
+      - '-'
+      - "urg\xEDan"
+      cjid: pret
+    - cjfs:
+      - '-'
+      - '-'
+      - "urgi\xF3"
+      - '-'
+      - '-'
+      - urgieron
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - "urgir\xE1"
+      - '-'
+      - '-'
+      - "urgir\xE1n"
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - "urgir\xEDa"
+      - '-'
+      - '-'
+      - "urgir\xEDan"
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - urja
+      - '-'
+      - '-'
+      - urjan
+      cjid: psub
+    - cjfs:
+      - '-'
+      - '-'
+      - urgiera
+      - '-'
+      - '-'
+      - urgieran
+      cjid: pisb1
+    - cjfs:
+      - '-'
+      - '-'
+      - urgiese
+      - '-'
+      - '-'
+      - urgiesen
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - urgiere
+      - '-'
+      - '-'
+      - urgieren
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - ha urgido
+      - '-'
+      - '-'
+      - han urgido
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - "hab\xEDa urgido"
+      - '-'
+      - '-'
+      - "hab\xEDan urgido"
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - hubo urgido
+      - '-'
+      - '-'
+      - hubieron urgido
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xE1 urgido"
+      - '-'
+      - '-'
+      - "habr\xE1n urgido"
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - "habr\xEDa urgido"
+      - '-'
+      - '-'
+      - "habr\xEDan urgido"
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - haya urgido
+      - '-'
+      - '-'
+      - hayan urgido
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiera urgido
+      - '-'
+      - '-'
+      - hubieran urgido
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiese urgido
+      - '-'
+      - '-'
+      - hubiesen urgido
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - hubiere urgido
+      - '-'
+      - '-'
+      - hubieren urgido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

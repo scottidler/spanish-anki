@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|presumir||} {bc}to {a_link|suppose}, to {a_link|assume} '
+          - - vis
+            - - t: "supongo que s\xED"
+                tr: I guess so, I suppose so
+              - t: "se supone que van a llegar ma\xF1ana"
+                tr: they're supposed to arrive tomorrow
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|imply}, to {a_link|suggest}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|involve}, to {a_link|entail} '
+          - - vis
+            - - t: "el \xE9xito supone mucho trabajo"
+                tr: success involves a lot of work
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: suponer
+    prs:
+    - sound:
+        audio: supon01sp
+  meta:
+    id: suponer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621267000'
+    src: spanish
+    stems:
+    - suponer
+    uuid: 971486ec-0106-42c1-ae72-0007a994eea1
+  shortdef:
+  - 'presumir : to suppose, to assume'
+  - to imply, to suggest
+  - to involve, to entail
+  suppl:
+    cjts:
+    - cjfs:
+      - suponiendo
+      - supuesto
+      cjid: gppt
+    - cjfs:
+      - supongo
+      - supones
+      - supone
+      - suponemos
+      - "supon\xE9is"
+      - suponen
+      cjid: pind
+    - cjfs:
+      - "supon\xEDa"
+      - "supon\xEDas"
+      - "supon\xEDa"
+      - "supon\xEDamos"
+      - "supon\xEDais"
+      - "supon\xEDan"
+      cjid: pret
+    - cjfs:
+      - supuse
+      - supusiste
+      - supuso
+      - supusimos
+      - supusisteis
+      - supusieron
+      cjid: pprf
+    - cjfs:
+      - "supondr\xE9"
+      - "supondr\xE1s"
+      - "supondr\xE1"
+      - supondremos
+      - "supondr\xE9is"
+      - "supondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "supondr\xEDa"
+      - "supondr\xEDas"
+      - "supondr\xEDa"
+      - "supondr\xEDamos"
+      - "supondr\xEDais"
+      - "supondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - suponga
+      - supongas
+      - suponga
+      - supongamos
+      - "supong\xE1is"
+      - supongan
+      cjid: psub
+    - cjfs:
+      - supusiera
+      - supusieras
+      - supusiera
+      - "supusi\xE9ramos"
+      - supusierais
+      - supusieran
+      cjid: pisb1
+    - cjfs:
+      - supusiese
+      - supusieses
+      - supusiese
+      - "supusi\xE9semos"
+      - supusieseis
+      - supusiesen
+      cjid: pisb2
+    - cjfs:
+      - supusiere
+      - supusieres
+      - supusiere
+      - "supusi\xE9remos"
+      - supusiereis
+      - supusieren
+      cjid: fsub
+    - cjfs:
+      - he supuesto
+      - has supuesto
+      - ha supuesto
+      - hemos supuesto
+      - "hab\xE9is supuesto"
+      - han supuesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa supuesto"
+      - "hab\xEDas supuesto"
+      - "hab\xEDa supuesto"
+      - "hab\xEDamos supuesto"
+      - "hab\xEDais supuesto"
+      - "hab\xEDan supuesto"
+      cjid: ppsi
+    - cjfs:
+      - hube supuesto
+      - hubiste supuesto
+      - hubo supuesto
+      - hubimos supuesto
+      - hubisteis supuesto
+      - hubieron supuesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 supuesto"
+      - "habr\xE1s supuesto"
+      - "habr\xE1 supuesto"
+      - habremos supuesto
+      - "habr\xE9is supuesto"
+      - "habr\xE1n supuesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa supuesto"
+      - "habr\xEDas supuesto"
+      - "habr\xEDa supuesto"
+      - "habr\xEDamos supuesto"
+      - "habr\xEDais supuesto"
+      - "habr\xEDan supuesto"
+      cjid: cpef
+    - cjfs:
+      - haya supuesto
+      - hayas supuesto
+      - haya supuesto
+      - hayamos supuesto
+      - "hay\xE1is supuesto"
+      - hayan supuesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera supuesto
+      - hubieras supuesto
+      - hubiera supuesto
+      - "hubi\xE9ramos supuesto"
+      - hubierais supuesto
+      - hubieran supuesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese supuesto
+      - hubieses supuesto
+      - hubiese supuesto
+      - "hubi\xE9semos supuesto"
+      - hubieseis supuesto
+      - hubiesen supuesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere supuesto
+      - hubieres supuesto
+      - hubiere supuesto
+      - "hubi\xE9remos supuesto"
+      - hubiereis supuesto
+      - hubieren supuesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "sup\xF3n"
+      - suponga
+      - supongamos
+      - suponed
+      - supongan
+      cjid: impf

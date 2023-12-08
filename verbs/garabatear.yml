@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scribble}, to {a_link|scrawl}, to {a_link|doodle}'
+  fl: verb
+  hwi:
+    hw: garabatear
+  meta:
+    id: garabatear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610665000'
+    src: spanish
+    stems:
+    - garabatear
+    uuid: cf745235-d44c-4be1-b19f-2a1a1ef1c7d2
+  shortdef:
+  - to scribble, to scrawl, to doodle
+  suppl:
+    cjts:
+    - cjfs:
+      - garabateando
+      - garabateado
+      cjid: gppt
+    - cjfs:
+      - garabateo
+      - garabateas
+      - garabatea
+      - garabateamos
+      - "garabate\xE1is"
+      - garabatean
+      cjid: pind
+    - cjfs:
+      - garabateaba
+      - garabateabas
+      - garabateaba
+      - "garabate\xE1bamos"
+      - garabateabais
+      - garabateaban
+      cjid: pret
+    - cjfs:
+      - "garabate\xE9"
+      - garabateaste
+      - "garabate\xF3"
+      - garabateamos
+      - garabateasteis
+      - garabatearon
+      cjid: pprf
+    - cjfs:
+      - "garabatear\xE9"
+      - "garabatear\xE1s"
+      - "garabatear\xE1"
+      - garabatearemos
+      - "garabatear\xE9is"
+      - "garabatear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "garabatear\xEDa"
+      - "garabatear\xEDas"
+      - "garabatear\xEDa"
+      - "garabatear\xEDamos"
+      - "garabatear\xEDais"
+      - "garabatear\xEDan"
+      cjid: cond
+    - cjfs:
+      - garabatee
+      - garabatees
+      - garabatee
+      - garabateemos
+      - "garabate\xE9is"
+      - garabateen
+      cjid: psub
+    - cjfs:
+      - garabateara
+      - garabatearas
+      - garabateara
+      - "garabate\xE1ramos"
+      - garabatearais
+      - garabatearan
+      cjid: pisb1
+    - cjfs:
+      - garabatease
+      - garabateases
+      - garabatease
+      - "garabate\xE1semos"
+      - garabateaseis
+      - garabateasen
+      cjid: pisb2
+    - cjfs:
+      - garabateare
+      - garabateares
+      - garabateare
+      - "garabate\xE1remos"
+      - garabateareis
+      - garabatearen
+      cjid: fsub
+    - cjfs:
+      - he garabateado
+      - has garabateado
+      - ha garabateado
+      - hemos garabateado
+      - "hab\xE9is garabateado"
+      - han garabateado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa garabateado"
+      - "hab\xEDas garabateado"
+      - "hab\xEDa garabateado"
+      - "hab\xEDamos garabateado"
+      - "hab\xEDais garabateado"
+      - "hab\xEDan garabateado"
+      cjid: ppsi
+    - cjfs:
+      - hube garabateado
+      - hubiste garabateado
+      - hubo garabateado
+      - hubimos garabateado
+      - hubisteis garabateado
+      - hubieron garabateado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 garabateado"
+      - "habr\xE1s garabateado"
+      - "habr\xE1 garabateado"
+      - habremos garabateado
+      - "habr\xE9is garabateado"
+      - "habr\xE1n garabateado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa garabateado"
+      - "habr\xEDas garabateado"
+      - "habr\xEDa garabateado"
+      - "habr\xEDamos garabateado"
+      - "habr\xEDais garabateado"
+      - "habr\xEDan garabateado"
+      cjid: cpef
+    - cjfs:
+      - haya garabateado
+      - hayas garabateado
+      - haya garabateado
+      - hayamos garabateado
+      - "hay\xE1is garabateado"
+      - hayan garabateado
+      cjid: ppfs
+    - cjfs:
+      - hubiera garabateado
+      - hubieras garabateado
+      - hubiera garabateado
+      - "hubi\xE9ramos garabateado"
+      - hubierais garabateado
+      - hubieran garabateado
+      cjid: ppss1
+    - cjfs:
+      - hubiese garabateado
+      - hubieses garabateado
+      - hubiese garabateado
+      - "hubi\xE9semos garabateado"
+      - hubieseis garabateado
+      - hubiesen garabateado
+      cjid: ppss2
+    - cjfs:
+      - hubiere garabateado
+      - hubieres garabateado
+      - hubiere garabateado
+      - "hubi\xE9remos garabateado"
+      - hubiereis garabateado
+      - hubieren garabateado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - garabatea
+      - garabatee
+      - garabateemos
+      - garabatead
+      - garabateen
+      cjid: impf

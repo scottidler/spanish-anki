@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|replace}, to put back'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reinstate}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reply}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|recover}'
+    drp: reponerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: reponer
+    prs:
+    - sound:
+        audio: repon01sp
+  meta:
+    id: reponer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619458000'
+    src: spanish
+    stems:
+    - reponer
+    - reponerse
+    uuid: 615b6d4c-4d82-4d37-9187-3328829185c5
+  shortdef:
+  - to replace, to put back
+  - to reinstate
+  - to reply
+  suppl:
+    cjts:
+    - cjfs:
+      - reponiendo
+      - repuesto
+      cjid: gppt
+    - cjfs:
+      - repongo
+      - repones
+      - repone
+      - reponemos
+      - "repon\xE9is"
+      - reponen
+      cjid: pind
+    - cjfs:
+      - "repon\xEDa"
+      - "repon\xEDas"
+      - "repon\xEDa"
+      - "repon\xEDamos"
+      - "repon\xEDais"
+      - "repon\xEDan"
+      cjid: pret
+    - cjfs:
+      - repuse
+      - repusiste
+      - repuso
+      - repusimos
+      - repusisteis
+      - repusieron
+      cjid: pprf
+    - cjfs:
+      - "repondr\xE9"
+      - "repondr\xE1s"
+      - "repondr\xE1"
+      - repondremos
+      - "repondr\xE9is"
+      - "repondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "repondr\xEDa"
+      - "repondr\xEDas"
+      - "repondr\xEDa"
+      - "repondr\xEDamos"
+      - "repondr\xEDais"
+      - "repondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - reponga
+      - repongas
+      - reponga
+      - repongamos
+      - "repong\xE1is"
+      - repongan
+      cjid: psub
+    - cjfs:
+      - repusiera
+      - repusieras
+      - repusiera
+      - "repusi\xE9ramos"
+      - repusierais
+      - repusieran
+      cjid: pisb1
+    - cjfs:
+      - repusiese
+      - repusieses
+      - repusiese
+      - "repusi\xE9semos"
+      - repusieseis
+      - repusiesen
+      cjid: pisb2
+    - cjfs:
+      - repusiere
+      - repusieres
+      - repusiere
+      - "repusi\xE9remos"
+      - repusiereis
+      - repusieren
+      cjid: fsub
+    - cjfs:
+      - he repuesto
+      - has repuesto
+      - ha repuesto
+      - hemos repuesto
+      - "hab\xE9is repuesto"
+      - han repuesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa repuesto"
+      - "hab\xEDas repuesto"
+      - "hab\xEDa repuesto"
+      - "hab\xEDamos repuesto"
+      - "hab\xEDais repuesto"
+      - "hab\xEDan repuesto"
+      cjid: ppsi
+    - cjfs:
+      - hube repuesto
+      - hubiste repuesto
+      - hubo repuesto
+      - hubimos repuesto
+      - hubisteis repuesto
+      - hubieron repuesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 repuesto"
+      - "habr\xE1s repuesto"
+      - "habr\xE1 repuesto"
+      - habremos repuesto
+      - "habr\xE9is repuesto"
+      - "habr\xE1n repuesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa repuesto"
+      - "habr\xEDas repuesto"
+      - "habr\xEDa repuesto"
+      - "habr\xEDamos repuesto"
+      - "habr\xEDais repuesto"
+      - "habr\xEDan repuesto"
+      cjid: cpef
+    - cjfs:
+      - haya repuesto
+      - hayas repuesto
+      - haya repuesto
+      - hayamos repuesto
+      - "hay\xE1is repuesto"
+      - hayan repuesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera repuesto
+      - hubieras repuesto
+      - hubiera repuesto
+      - "hubi\xE9ramos repuesto"
+      - hubierais repuesto
+      - hubieran repuesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese repuesto
+      - hubieses repuesto
+      - hubiese repuesto
+      - "hubi\xE9semos repuesto"
+      - hubieseis repuesto
+      - hubiesen repuesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere repuesto
+      - hubieres repuesto
+      - hubiere repuesto
+      - "hubi\xE9remos repuesto"
+      - hubiereis repuesto
+      - hubieren repuesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "rep\xF3n"
+      - reponga
+      - repongamos
+      - reponed
+      - repongan
+      cjid: impf

@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rip}, to {a_link|tear}'
+  fl: transitive verb
+  hwi:
+    hw: rasgar
+    prs:
+    - sound:
+        audio: rasga01sp
+  meta:
+    id: rasgar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618803000'
+    src: spanish
+    stems:
+    - rasgar
+    - rasgarse
+    uuid: 5f09f137-61dd-4897-bf09-1a7d69fe6564
+  shortdef:
+  - to rip, to tear
+  suppl:
+    cjts:
+    - cjfs:
+      - rasgando
+      - rasgado
+      cjid: gppt
+    - cjfs:
+      - rasgo
+      - rasgas
+      - rasga
+      - rasgamos
+      - "rasg\xE1is"
+      - rasgan
+      cjid: pind
+    - cjfs:
+      - rasgaba
+      - rasgabas
+      - rasgaba
+      - "rasg\xE1bamos"
+      - rasgabais
+      - rasgaban
+      cjid: pret
+    - cjfs:
+      - "rasgu\xE9"
+      - rasgaste
+      - "rasg\xF3"
+      - rasgamos
+      - rasgasteis
+      - rasgaron
+      cjid: pprf
+    - cjfs:
+      - "rasgar\xE9"
+      - "rasgar\xE1s"
+      - "rasgar\xE1"
+      - rasgaremos
+      - "rasgar\xE9is"
+      - "rasgar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rasgar\xEDa"
+      - "rasgar\xEDas"
+      - "rasgar\xEDa"
+      - "rasgar\xEDamos"
+      - "rasgar\xEDais"
+      - "rasgar\xEDan"
+      cjid: cond
+    - cjfs:
+      - rasgue
+      - rasgues
+      - rasgue
+      - rasguemos
+      - "rasgu\xE9is"
+      - rasguen
+      cjid: psub
+    - cjfs:
+      - rasgara
+      - rasgaras
+      - rasgara
+      - "rasg\xE1ramos"
+      - rasgarais
+      - rasgaran
+      cjid: pisb1
+    - cjfs:
+      - rasgase
+      - rasgases
+      - rasgase
+      - "rasg\xE1semos"
+      - rasgaseis
+      - rasgasen
+      cjid: pisb2
+    - cjfs:
+      - rasgare
+      - rasgares
+      - rasgare
+      - "rasg\xE1remos"
+      - rasgareis
+      - rasgaren
+      cjid: fsub
+    - cjfs:
+      - he rasgado
+      - has rasgado
+      - ha rasgado
+      - hemos rasgado
+      - "hab\xE9is rasgado"
+      - han rasgado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rasgado"
+      - "hab\xEDas rasgado"
+      - "hab\xEDa rasgado"
+      - "hab\xEDamos rasgado"
+      - "hab\xEDais rasgado"
+      - "hab\xEDan rasgado"
+      cjid: ppsi
+    - cjfs:
+      - hube rasgado
+      - hubiste rasgado
+      - hubo rasgado
+      - hubimos rasgado
+      - hubisteis rasgado
+      - hubieron rasgado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rasgado"
+      - "habr\xE1s rasgado"
+      - "habr\xE1 rasgado"
+      - habremos rasgado
+      - "habr\xE9is rasgado"
+      - "habr\xE1n rasgado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rasgado"
+      - "habr\xEDas rasgado"
+      - "habr\xEDa rasgado"
+      - "habr\xEDamos rasgado"
+      - "habr\xEDais rasgado"
+      - "habr\xEDan rasgado"
+      cjid: cpef
+    - cjfs:
+      - haya rasgado
+      - hayas rasgado
+      - haya rasgado
+      - hayamos rasgado
+      - "hay\xE1is rasgado"
+      - hayan rasgado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rasgado
+      - hubieras rasgado
+      - hubiera rasgado
+      - "hubi\xE9ramos rasgado"
+      - hubierais rasgado
+      - hubieran rasgado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rasgado
+      - hubieses rasgado
+      - hubiese rasgado
+      - "hubi\xE9semos rasgado"
+      - hubieseis rasgado
+      - hubiesen rasgado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rasgado
+      - hubieres rasgado
+      - hubiere rasgado
+      - "hubi\xE9remos rasgado"
+      - hubiereis rasgado
+      - hubieren rasgado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rasga
+      - rasgue
+      - rasguemos
+      - rasgad
+      - rasguen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: rasgarse

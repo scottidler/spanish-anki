@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|paralyze}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|paralyze}, to bring to a standstill'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: paralizar
+  meta:
+    id: paralizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616652000'
+    src: spanish
+    stems:
+    - paralizar
+    - paralizarse
+    uuid: f86ce059-c3a8-4865-bfba-0d9643c6f7de
+  shortdef:
+  - to paralyze
+  - to paralyze, to bring to a standstill
+  suppl:
+    cjts:
+    - cjfs:
+      - paralizando
+      - paralizado
+      cjid: gppt
+    - cjfs:
+      - paralizo
+      - paralizas
+      - paraliza
+      - paralizamos
+      - "paraliz\xE1is"
+      - paralizan
+      cjid: pind
+    - cjfs:
+      - paralizaba
+      - paralizabas
+      - paralizaba
+      - "paraliz\xE1bamos"
+      - paralizabais
+      - paralizaban
+      cjid: pret
+    - cjfs:
+      - "paralic\xE9"
+      - paralizaste
+      - "paraliz\xF3"
+      - paralizamos
+      - paralizasteis
+      - paralizaron
+      cjid: pprf
+    - cjfs:
+      - "paralizar\xE9"
+      - "paralizar\xE1s"
+      - "paralizar\xE1"
+      - paralizaremos
+      - "paralizar\xE9is"
+      - "paralizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "paralizar\xEDa"
+      - "paralizar\xEDas"
+      - "paralizar\xEDa"
+      - "paralizar\xEDamos"
+      - "paralizar\xEDais"
+      - "paralizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - paralice
+      - paralices
+      - paralice
+      - paralicemos
+      - "paralic\xE9is"
+      - paralicen
+      cjid: psub
+    - cjfs:
+      - paralizara
+      - paralizaras
+      - paralizara
+      - "paraliz\xE1ramos"
+      - paralizarais
+      - paralizaran
+      cjid: pisb1
+    - cjfs:
+      - paralizase
+      - paralizases
+      - paralizase
+      - "paraliz\xE1semos"
+      - paralizaseis
+      - paralizasen
+      cjid: pisb2
+    - cjfs:
+      - paralizare
+      - paralizares
+      - paralizare
+      - "paraliz\xE1remos"
+      - paralizareis
+      - paralizaren
+      cjid: fsub
+    - cjfs:
+      - he paralizado
+      - has paralizado
+      - ha paralizado
+      - hemos paralizado
+      - "hab\xE9is paralizado"
+      - han paralizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa paralizado"
+      - "hab\xEDas paralizado"
+      - "hab\xEDa paralizado"
+      - "hab\xEDamos paralizado"
+      - "hab\xEDais paralizado"
+      - "hab\xEDan paralizado"
+      cjid: ppsi
+    - cjfs:
+      - hube paralizado
+      - hubiste paralizado
+      - hubo paralizado
+      - hubimos paralizado
+      - hubisteis paralizado
+      - hubieron paralizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 paralizado"
+      - "habr\xE1s paralizado"
+      - "habr\xE1 paralizado"
+      - habremos paralizado
+      - "habr\xE9is paralizado"
+      - "habr\xE1n paralizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa paralizado"
+      - "habr\xEDas paralizado"
+      - "habr\xEDa paralizado"
+      - "habr\xEDamos paralizado"
+      - "habr\xEDais paralizado"
+      - "habr\xEDan paralizado"
+      cjid: cpef
+    - cjfs:
+      - haya paralizado
+      - hayas paralizado
+      - haya paralizado
+      - hayamos paralizado
+      - "hay\xE1is paralizado"
+      - hayan paralizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera paralizado
+      - hubieras paralizado
+      - hubiera paralizado
+      - "hubi\xE9ramos paralizado"
+      - hubierais paralizado
+      - hubieran paralizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese paralizado
+      - hubieses paralizado
+      - hubiese paralizado
+      - "hubi\xE9semos paralizado"
+      - hubieseis paralizado
+      - hubiesen paralizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere paralizado
+      - hubieres paralizado
+      - hubiere paralizado
+      - "hubi\xE9remos paralizado"
+      - hubiereis paralizado
+      - hubieren paralizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - paraliza
+      - paralice
+      - paralicemos
+      - paralizad
+      - paralicen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: paralizarse

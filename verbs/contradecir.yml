@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desmentir||} {bc}to {a_link|contradict}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|desdecirse||} {bc}to contradict oneself'
+    drp: contradecirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: contradecir
+  meta:
+    id: contradecir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605727000'
+    src: spanish
+    stems:
+    - contradecir
+    - contradecirse
+    uuid: 7ebbdd82-2d1f-4c0a-a693-826fa205a230
+  shortdef:
+  - 'desmentir : to contradict'
+  suppl:
+    cjts:
+    - cjfs:
+      - contradiciendo
+      - contradicho
+      cjid: gppt
+    - cjfs:
+      - contradigo
+      - contradices
+      - contradice
+      - contradecimos
+      - "contradec\xEDs"
+      - contradicen
+      cjid: pind
+    - cjfs:
+      - "contradec\xEDa"
+      - "contradec\xEDas"
+      - "contradec\xEDa"
+      - "contradec\xEDamos"
+      - "contradec\xEDais"
+      - "contradec\xEDan"
+      cjid: pret
+    - cjfs:
+      - contradije
+      - contradijiste
+      - contradijo
+      - contradijimos
+      - contradijisteis
+      - contradijeron
+      cjid: pprf
+    - cjfs:
+      - "contradir\xE9"
+      - "contradir\xE1s"
+      - "contradir\xE1"
+      - contradiremos
+      - "contradir\xE9is"
+      - "contradir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "contradir\xEDa"
+      - "contradir\xEDas"
+      - "contradir\xEDa"
+      - "contradir\xEDamos"
+      - "contradir\xEDais"
+      - "contradir\xEDan"
+      cjid: cond
+    - cjfs:
+      - contradiga
+      - contradigas
+      - contradiga
+      - contradigamos
+      - "contradig\xE1is"
+      - contradigan
+      cjid: psub
+    - cjfs:
+      - contradijera
+      - contradijeras
+      - contradijera
+      - "contradij\xE9ramos"
+      - contradijerais
+      - contradijeran
+      cjid: pisb1
+    - cjfs:
+      - contradijese
+      - contradijeses
+      - contradijese
+      - "contradij\xE9semos"
+      - contradijeseis
+      - contradijesen
+      cjid: pisb2
+    - cjfs:
+      - contradijere
+      - contradijeres
+      - contradijere
+      - "contradij\xE9remos"
+      - contradijereis
+      - contradijeren
+      cjid: fsub
+    - cjfs:
+      - he contradicho
+      - has contradicho
+      - ha contradicho
+      - hemos contradicho
+      - "hab\xE9is contradicho"
+      - han contradicho
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa contradicho"
+      - "hab\xEDas contradicho"
+      - "hab\xEDa contradicho"
+      - "hab\xEDamos contradicho"
+      - "hab\xEDais contradicho"
+      - "hab\xEDan contradicho"
+      cjid: ppsi
+    - cjfs:
+      - hube contradicho
+      - hubiste contradicho
+      - hubo contradicho
+      - hubimos contradicho
+      - hubisteis contradicho
+      - hubieron contradicho
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 contradicho"
+      - "habr\xE1s contradicho"
+      - "habr\xE1 contradicho"
+      - habremos contradicho
+      - "habr\xE9is contradicho"
+      - "habr\xE1n contradicho"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa contradicho"
+      - "habr\xEDas contradicho"
+      - "habr\xEDa contradicho"
+      - "habr\xEDamos contradicho"
+      - "habr\xEDais contradicho"
+      - "habr\xEDan contradicho"
+      cjid: cpef
+    - cjfs:
+      - haya contradicho
+      - hayas contradicho
+      - haya contradicho
+      - hayamos contradicho
+      - "hay\xE1is contradicho"
+      - hayan contradicho
+      cjid: ppfs
+    - cjfs:
+      - hubiera contradicho
+      - hubieras contradicho
+      - hubiera contradicho
+      - "hubi\xE9ramos contradicho"
+      - hubierais contradicho
+      - hubieran contradicho
+      cjid: ppss1
+    - cjfs:
+      - hubiese contradicho
+      - hubieses contradicho
+      - hubiese contradicho
+      - "hubi\xE9semos contradicho"
+      - hubieseis contradicho
+      - hubiesen contradicho
+      cjid: ppss2
+    - cjfs:
+      - hubiere contradicho
+      - hubieres contradicho
+      - hubiere contradicho
+      - "hubi\xE9remos contradicho"
+      - hubiereis contradicho
+      - hubieren contradicho
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - contradice
+      - contradiga
+      - contradigamos
+      - contradecid
+      - contradigan
+      cjid: impf

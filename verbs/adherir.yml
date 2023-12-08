@@ -1,0 +1,31 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stick to}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|adhere}, to {a_link|stick}'
+    drp: adherirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: adherir
+  meta:
+    id: adherir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600456000'
+    src: spanish
+    stems:
+    - adherir
+    - adherirse
+    uuid: e079896f-531a-44cf-a83c-3b452dc87277
+  shortdef:
+  - to stick to

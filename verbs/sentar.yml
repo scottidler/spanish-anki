@@ -1,0 +1,229 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|seat}, to {a_link|sit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|establish}, to {a_link|set}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|suit} '
+          - - vis
+            - - t: ese color te sienta
+                tr: that color suits you
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree with} (of food or drink) '
+          - - vis
+            - - t: las cebollas no me sientan
+                tr: onions don't agree with me
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|please} '
+          - - vis
+            - - t: "le sent\xF3 mal el paseo"
+                tr: she didn't enjoy the trip
+          sn: '3'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|sit}, to {a_link|sit down} '
+            - - vis
+              - - t: "si\xE9ntese, por favor"
+                  tr: please have a seat
+    drp: sentarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sentar
+    prs:
+    - sound:
+        audio: senta02sp
+  meta:
+    id: sentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620440000'
+    src: spanish
+    stems:
+    - sentar
+    - sentarse
+    uuid: 8bd728fd-350f-4856-83d6-7db0f609bd33
+  shortdef:
+  - to seat, to sit
+  - to establish, to set
+  - to suit
+  suppl:
+    cjts:
+    - cjfs:
+      - sentando
+      - sentado
+      cjid: gppt
+    - cjfs:
+      - siento
+      - sientas
+      - sienta
+      - sentamos
+      - "sent\xE1is"
+      - sientan
+      cjid: pind
+    - cjfs:
+      - sentaba
+      - sentabas
+      - sentaba
+      - "sent\xE1bamos"
+      - sentabais
+      - sentaban
+      cjid: pret
+    - cjfs:
+      - "sent\xE9"
+      - sentaste
+      - "sent\xF3"
+      - sentamos
+      - sentasteis
+      - sentaron
+      cjid: pprf
+    - cjfs:
+      - "sentar\xE9"
+      - "sentar\xE1s"
+      - "sentar\xE1"
+      - sentaremos
+      - "sentar\xE9is"
+      - "sentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sentar\xEDa"
+      - "sentar\xEDas"
+      - "sentar\xEDa"
+      - "sentar\xEDamos"
+      - "sentar\xEDais"
+      - "sentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - siente
+      - sientes
+      - siente
+      - sentemos
+      - "sent\xE9is"
+      - sienten
+      cjid: psub
+    - cjfs:
+      - sentara
+      - sentaras
+      - sentara
+      - "sent\xE1ramos"
+      - sentarais
+      - sentaran
+      cjid: pisb1
+    - cjfs:
+      - sentase
+      - sentases
+      - sentase
+      - "sent\xE1semos"
+      - sentaseis
+      - sentasen
+      cjid: pisb2
+    - cjfs:
+      - sentare
+      - sentares
+      - sentare
+      - "sent\xE1remos"
+      - sentareis
+      - sentaren
+      cjid: fsub
+    - cjfs:
+      - he sentado
+      - has sentado
+      - ha sentado
+      - hemos sentado
+      - "hab\xE9is sentado"
+      - han sentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sentado"
+      - "hab\xEDas sentado"
+      - "hab\xEDa sentado"
+      - "hab\xEDamos sentado"
+      - "hab\xEDais sentado"
+      - "hab\xEDan sentado"
+      cjid: ppsi
+    - cjfs:
+      - hube sentado
+      - hubiste sentado
+      - hubo sentado
+      - hubimos sentado
+      - hubisteis sentado
+      - hubieron sentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sentado"
+      - "habr\xE1s sentado"
+      - "habr\xE1 sentado"
+      - habremos sentado
+      - "habr\xE9is sentado"
+      - "habr\xE1n sentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sentado"
+      - "habr\xEDas sentado"
+      - "habr\xEDa sentado"
+      - "habr\xEDamos sentado"
+      - "habr\xEDais sentado"
+      - "habr\xEDan sentado"
+      cjid: cpef
+    - cjfs:
+      - haya sentado
+      - hayas sentado
+      - haya sentado
+      - hayamos sentado
+      - "hay\xE1is sentado"
+      - hayan sentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sentado
+      - hubieras sentado
+      - hubiera sentado
+      - "hubi\xE9ramos sentado"
+      - hubierais sentado
+      - hubieran sentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sentado
+      - hubieses sentado
+      - hubiese sentado
+      - "hubi\xE9semos sentado"
+      - hubieseis sentado
+      - hubiesen sentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sentado
+      - hubieres sentado
+      - hubiere sentado
+      - "hubi\xE9remos sentado"
+      - hubiereis sentado
+      - hubieren sentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sienta
+      - siente
+      - sentemos
+      - sentad
+      - sienten
+      cjid: impf

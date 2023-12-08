@@ -1,0 +1,361 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rock}, to {a_link|cradle}'
+  fl: transitive verb
+  hwi:
+    hw: acunar
+    prs:
+    - sound:
+        audio: acuna01sp
+  meta:
+    id: acunar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600407000'
+    src: spanish
+    stems:
+    - acunar
+    uuid: 146bece0-b134-4694-ae97-f71b6b2e20ca
+  shortdef:
+  - to rock, to cradle
+  suppl:
+    cjts:
+    - cjfs:
+      - acunando
+      - acunado
+      cjid: gppt
+    - cjfs:
+      - acuno
+      - acunas
+      - acuna
+      - acunamos
+      - "acun\xE1is"
+      - acunan
+      cjid: pind
+    - cjfs:
+      - acunaba
+      - acunabas
+      - acunaba
+      - "acun\xE1bamos"
+      - acunabais
+      - acunaban
+      cjid: pret
+    - cjfs:
+      - "acun\xE9"
+      - acunaste
+      - "acun\xF3"
+      - acunamos
+      - acunasteis
+      - acunaron
+      cjid: pprf
+    - cjfs:
+      - "acunar\xE9"
+      - "acunar\xE1s"
+      - "acunar\xE1"
+      - acunaremos
+      - "acunar\xE9is"
+      - "acunar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acunar\xEDa"
+      - "acunar\xEDas"
+      - "acunar\xEDa"
+      - "acunar\xEDamos"
+      - "acunar\xEDais"
+      - "acunar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acune
+      - acunes
+      - acune
+      - acunemos
+      - "acun\xE9is"
+      - acunen
+      cjid: psub
+    - cjfs:
+      - acunara
+      - acunaras
+      - acunara
+      - "acun\xE1ramos"
+      - acunarais
+      - acunaran
+      cjid: pisb1
+    - cjfs:
+      - acunase
+      - acunases
+      - acunase
+      - "acun\xE1semos"
+      - acunaseis
+      - acunasen
+      cjid: pisb2
+    - cjfs:
+      - acunare
+      - acunares
+      - acunare
+      - "acun\xE1remos"
+      - acunareis
+      - acunaren
+      cjid: fsub
+    - cjfs:
+      - he acunado
+      - has acunado
+      - ha acunado
+      - hemos acunado
+      - "hab\xE9is acunado"
+      - han acunado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acunado"
+      - "hab\xEDas acunado"
+      - "hab\xEDa acunado"
+      - "hab\xEDamos acunado"
+      - "hab\xEDais acunado"
+      - "hab\xEDan acunado"
+      cjid: ppsi
+    - cjfs:
+      - hube acunado
+      - hubiste acunado
+      - hubo acunado
+      - hubimos acunado
+      - hubisteis acunado
+      - hubieron acunado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acunado"
+      - "habr\xE1s acunado"
+      - "habr\xE1 acunado"
+      - habremos acunado
+      - "habr\xE9is acunado"
+      - "habr\xE1n acunado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acunado"
+      - "habr\xEDas acunado"
+      - "habr\xEDa acunado"
+      - "habr\xEDamos acunado"
+      - "habr\xEDais acunado"
+      - "habr\xEDan acunado"
+      cjid: cpef
+    - cjfs:
+      - haya acunado
+      - hayas acunado
+      - haya acunado
+      - hayamos acunado
+      - "hay\xE1is acunado"
+      - hayan acunado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acunado
+      - hubieras acunado
+      - hubiera acunado
+      - "hubi\xE9ramos acunado"
+      - hubierais acunado
+      - hubieran acunado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acunado
+      - hubieses acunado
+      - hubiese acunado
+      - "hubi\xE9semos acunado"
+      - hubieseis acunado
+      - hubiesen acunado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acunado
+      - hubieres acunado
+      - hubiere acunado
+      - "hubi\xE9remos acunado"
+      - hubiereis acunado
+      - hubieren acunado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acuna
+      - acune
+      - acunemos
+      - acunad
+      - acunen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|coin}, to {a_link|mint}'
+  fl: transitive verb
+  hwi:
+    hw: "acu\xF1ar"
+  meta:
+    id: acun~ar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600408000'
+    src: spanish
+    stems:
+    - "acu\xF1ar"
+    uuid: 266614c8-db69-47ee-b5ec-874715c0e41d
+  shortdef:
+  - to coin, to mint
+  suppl:
+    cjts:
+    - cjfs:
+      - "acu\xF1ando"
+      - "acu\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "acu\xF1o"
+      - "acu\xF1as"
+      - "acu\xF1a"
+      - "acu\xF1amos"
+      - "acu\xF1\xE1is"
+      - "acu\xF1an"
+      cjid: pind
+    - cjfs:
+      - "acu\xF1aba"
+      - "acu\xF1abas"
+      - "acu\xF1aba"
+      - "acu\xF1\xE1bamos"
+      - "acu\xF1abais"
+      - "acu\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "acu\xF1\xE9"
+      - "acu\xF1aste"
+      - "acu\xF1\xF3"
+      - "acu\xF1amos"
+      - "acu\xF1asteis"
+      - "acu\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "acu\xF1ar\xE9"
+      - "acu\xF1ar\xE1s"
+      - "acu\xF1ar\xE1"
+      - "acu\xF1aremos"
+      - "acu\xF1ar\xE9is"
+      - "acu\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acu\xF1ar\xEDa"
+      - "acu\xF1ar\xEDas"
+      - "acu\xF1ar\xEDa"
+      - "acu\xF1ar\xEDamos"
+      - "acu\xF1ar\xEDais"
+      - "acu\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "acu\xF1e"
+      - "acu\xF1es"
+      - "acu\xF1e"
+      - "acu\xF1emos"
+      - "acu\xF1\xE9is"
+      - "acu\xF1en"
+      cjid: psub
+    - cjfs:
+      - "acu\xF1ara"
+      - "acu\xF1aras"
+      - "acu\xF1ara"
+      - "acu\xF1\xE1ramos"
+      - "acu\xF1arais"
+      - "acu\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "acu\xF1ase"
+      - "acu\xF1ases"
+      - "acu\xF1ase"
+      - "acu\xF1\xE1semos"
+      - "acu\xF1aseis"
+      - "acu\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "acu\xF1are"
+      - "acu\xF1ares"
+      - "acu\xF1are"
+      - "acu\xF1\xE1remos"
+      - "acu\xF1areis"
+      - "acu\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he acu\xF1ado"
+      - "has acu\xF1ado"
+      - "ha acu\xF1ado"
+      - "hemos acu\xF1ado"
+      - "hab\xE9is acu\xF1ado"
+      - "han acu\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acu\xF1ado"
+      - "hab\xEDas acu\xF1ado"
+      - "hab\xEDa acu\xF1ado"
+      - "hab\xEDamos acu\xF1ado"
+      - "hab\xEDais acu\xF1ado"
+      - "hab\xEDan acu\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube acu\xF1ado"
+      - "hubiste acu\xF1ado"
+      - "hubo acu\xF1ado"
+      - "hubimos acu\xF1ado"
+      - "hubisteis acu\xF1ado"
+      - "hubieron acu\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acu\xF1ado"
+      - "habr\xE1s acu\xF1ado"
+      - "habr\xE1 acu\xF1ado"
+      - "habremos acu\xF1ado"
+      - "habr\xE9is acu\xF1ado"
+      - "habr\xE1n acu\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acu\xF1ado"
+      - "habr\xEDas acu\xF1ado"
+      - "habr\xEDa acu\xF1ado"
+      - "habr\xEDamos acu\xF1ado"
+      - "habr\xEDais acu\xF1ado"
+      - "habr\xEDan acu\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya acu\xF1ado"
+      - "hayas acu\xF1ado"
+      - "haya acu\xF1ado"
+      - "hayamos acu\xF1ado"
+      - "hay\xE1is acu\xF1ado"
+      - "hayan acu\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera acu\xF1ado"
+      - "hubieras acu\xF1ado"
+      - "hubiera acu\xF1ado"
+      - "hubi\xE9ramos acu\xF1ado"
+      - "hubierais acu\xF1ado"
+      - "hubieran acu\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese acu\xF1ado"
+      - "hubieses acu\xF1ado"
+      - "hubiese acu\xF1ado"
+      - "hubi\xE9semos acu\xF1ado"
+      - "hubieseis acu\xF1ado"
+      - "hubiesen acu\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere acu\xF1ado"
+      - "hubieres acu\xF1ado"
+      - "hubiere acu\xF1ado"
+      - "hubi\xE9remos acu\xF1ado"
+      - "hubiereis acu\xF1ado"
+      - "hubieren acu\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "acu\xF1a"
+      - "acu\xF1e"
+      - "acu\xF1emos"
+      - "acu\xF1ad"
+      - "acu\xF1en"
+      cjid: impf

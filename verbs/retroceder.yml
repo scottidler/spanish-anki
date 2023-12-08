@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to move back, to {a_link|turn back}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|back off}, to back down'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recoil} (of a firearm)'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: retroceder
+    prs:
+    - sound:
+        audio: retro01sp
+  meta:
+    id: retroceder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619708000'
+    src: spanish
+    stems:
+    - retroceder
+    uuid: 0304014e-1cc4-46fc-a60e-7ae4586610c6
+  shortdef:
+  - to move back, to turn back
+  - to back off, to back down
+  - to recoil (of a firearm)
+  suppl:
+    cjts:
+    - cjfs:
+      - retrocediendo
+      - retrocedido
+      cjid: gppt
+    - cjfs:
+      - retrocedo
+      - retrocedes
+      - retrocede
+      - retrocedemos
+      - "retroced\xE9is"
+      - retroceden
+      cjid: pind
+    - cjfs:
+      - "retroced\xEDa"
+      - "retroced\xEDas"
+      - "retroced\xEDa"
+      - "retroced\xEDamos"
+      - "retroced\xEDais"
+      - "retroced\xEDan"
+      cjid: pret
+    - cjfs:
+      - "retroced\xED"
+      - retrocediste
+      - "retrocedi\xF3"
+      - retrocedimos
+      - retrocedisteis
+      - retrocedieron
+      cjid: pprf
+    - cjfs:
+      - "retroceder\xE9"
+      - "retroceder\xE1s"
+      - "retroceder\xE1"
+      - retrocederemos
+      - "retroceder\xE9is"
+      - "retroceder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "retroceder\xEDa"
+      - "retroceder\xEDas"
+      - "retroceder\xEDa"
+      - "retroceder\xEDamos"
+      - "retroceder\xEDais"
+      - "retroceder\xEDan"
+      cjid: cond
+    - cjfs:
+      - retroceda
+      - retrocedas
+      - retroceda
+      - retrocedamos
+      - "retroced\xE1is"
+      - retrocedan
+      cjid: psub
+    - cjfs:
+      - retrocediera
+      - retrocedieras
+      - retrocediera
+      - "retrocedi\xE9ramos"
+      - retrocedierais
+      - retrocedieran
+      cjid: pisb1
+    - cjfs:
+      - retrocediese
+      - retrocedieses
+      - retrocediese
+      - "retrocedi\xE9semos"
+      - retrocedieseis
+      - retrocediesen
+      cjid: pisb2
+    - cjfs:
+      - retrocediere
+      - retrocedieres
+      - retrocediere
+      - "retrocedi\xE9remos"
+      - retrocediereis
+      - retrocedieren
+      cjid: fsub
+    - cjfs:
+      - he retrocedido
+      - has retrocedido
+      - ha retrocedido
+      - hemos retrocedido
+      - "hab\xE9is retrocedido"
+      - han retrocedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa retrocedido"
+      - "hab\xEDas retrocedido"
+      - "hab\xEDa retrocedido"
+      - "hab\xEDamos retrocedido"
+      - "hab\xEDais retrocedido"
+      - "hab\xEDan retrocedido"
+      cjid: ppsi
+    - cjfs:
+      - hube retrocedido
+      - hubiste retrocedido
+      - hubo retrocedido
+      - hubimos retrocedido
+      - hubisteis retrocedido
+      - hubieron retrocedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 retrocedido"
+      - "habr\xE1s retrocedido"
+      - "habr\xE1 retrocedido"
+      - habremos retrocedido
+      - "habr\xE9is retrocedido"
+      - "habr\xE1n retrocedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa retrocedido"
+      - "habr\xEDas retrocedido"
+      - "habr\xEDa retrocedido"
+      - "habr\xEDamos retrocedido"
+      - "habr\xEDais retrocedido"
+      - "habr\xEDan retrocedido"
+      cjid: cpef
+    - cjfs:
+      - haya retrocedido
+      - hayas retrocedido
+      - haya retrocedido
+      - hayamos retrocedido
+      - "hay\xE1is retrocedido"
+      - hayan retrocedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera retrocedido
+      - hubieras retrocedido
+      - hubiera retrocedido
+      - "hubi\xE9ramos retrocedido"
+      - hubierais retrocedido
+      - hubieran retrocedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese retrocedido
+      - hubieses retrocedido
+      - hubiese retrocedido
+      - "hubi\xE9semos retrocedido"
+      - hubieseis retrocedido
+      - hubiesen retrocedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere retrocedido
+      - hubieres retrocedido
+      - hubiere retrocedido
+      - "hubi\xE9remos retrocedido"
+      - hubiereis retrocedido
+      - hubieren retrocedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - retrocede
+      - retroceda
+      - retrocedamos
+      - retroceded
+      - retrocedan
+      cjid: impf

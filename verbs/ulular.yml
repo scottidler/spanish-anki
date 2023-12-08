@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hoot}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|howl}, to {a_link|wail}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: ulular
+  meta:
+    id: ulular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622522000'
+    src: spanish
+    stems:
+    - ulular
+    uuid: 1d7babac-8210-48a4-aa2f-e8a47674a971
+  shortdef:
+  - to hoot
+  - to howl, to wail
+  suppl:
+    cjts:
+    - cjfs:
+      - ululando
+      - ululado
+      cjid: gppt
+    - cjfs:
+      - ululo
+      - ululas
+      - ulula
+      - ululamos
+      - "ulul\xE1is"
+      - ululan
+      cjid: pind
+    - cjfs:
+      - ululaba
+      - ululabas
+      - ululaba
+      - "ulul\xE1bamos"
+      - ululabais
+      - ululaban
+      cjid: pret
+    - cjfs:
+      - "ulul\xE9"
+      - ululaste
+      - "ulul\xF3"
+      - ululamos
+      - ululasteis
+      - ulularon
+      cjid: pprf
+    - cjfs:
+      - "ulular\xE9"
+      - "ulular\xE1s"
+      - "ulular\xE1"
+      - ulularemos
+      - "ulular\xE9is"
+      - "ulular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ulular\xEDa"
+      - "ulular\xEDas"
+      - "ulular\xEDa"
+      - "ulular\xEDamos"
+      - "ulular\xEDais"
+      - "ulular\xEDan"
+      cjid: cond
+    - cjfs:
+      - ulule
+      - ulules
+      - ulule
+      - ululemos
+      - "ulul\xE9is"
+      - ululen
+      cjid: psub
+    - cjfs:
+      - ululara
+      - ulularas
+      - ululara
+      - "ulul\xE1ramos"
+      - ulularais
+      - ulularan
+      cjid: pisb1
+    - cjfs:
+      - ululase
+      - ululases
+      - ululase
+      - "ulul\xE1semos"
+      - ululaseis
+      - ululasen
+      cjid: pisb2
+    - cjfs:
+      - ululare
+      - ululares
+      - ululare
+      - "ulul\xE1remos"
+      - ululareis
+      - ulularen
+      cjid: fsub
+    - cjfs:
+      - he ululado
+      - has ululado
+      - ha ululado
+      - hemos ululado
+      - "hab\xE9is ululado"
+      - han ululado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ululado"
+      - "hab\xEDas ululado"
+      - "hab\xEDa ululado"
+      - "hab\xEDamos ululado"
+      - "hab\xEDais ululado"
+      - "hab\xEDan ululado"
+      cjid: ppsi
+    - cjfs:
+      - hube ululado
+      - hubiste ululado
+      - hubo ululado
+      - hubimos ululado
+      - hubisteis ululado
+      - hubieron ululado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ululado"
+      - "habr\xE1s ululado"
+      - "habr\xE1 ululado"
+      - habremos ululado
+      - "habr\xE9is ululado"
+      - "habr\xE1n ululado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ululado"
+      - "habr\xEDas ululado"
+      - "habr\xEDa ululado"
+      - "habr\xEDamos ululado"
+      - "habr\xEDais ululado"
+      - "habr\xEDan ululado"
+      cjid: cpef
+    - cjfs:
+      - haya ululado
+      - hayas ululado
+      - haya ululado
+      - hayamos ululado
+      - "hay\xE1is ululado"
+      - hayan ululado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ululado
+      - hubieras ululado
+      - hubiera ululado
+      - "hubi\xE9ramos ululado"
+      - hubierais ululado
+      - hubieran ululado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ululado
+      - hubieses ululado
+      - hubiese ululado
+      - "hubi\xE9semos ululado"
+      - hubieseis ululado
+      - hubiesen ululado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ululado
+      - hubieres ululado
+      - hubiere ululado
+      - "hubi\xE9remos ululado"
+      - hubiereis ululado
+      - hubieren ululado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ulula
+      - ulule
+      - ululemos
+      - ululad
+      - ululen
+      cjid: impf

@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lament}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|regret} '
+          - - vis
+            - - t: lo lamento
+                tr: I'm sorry
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|grumble}, to {a_link|complain}'
+    drp: lamentarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: lamentar
+    prs:
+    - sound:
+        audio: lamen02sp
+  meta:
+    id: lamentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613453000'
+    src: spanish
+    stems:
+    - lamentar
+    - lamentarse
+    uuid: 188e3704-7b27-4b82-ae0e-30575f5e5905
+  shortdef:
+  - to lament
+  - to regret
+  suppl:
+    cjts:
+    - cjfs:
+      - lamentando
+      - lamentado
+      cjid: gppt
+    - cjfs:
+      - lamento
+      - lamentas
+      - lamenta
+      - lamentamos
+      - "lament\xE1is"
+      - lamentan
+      cjid: pind
+    - cjfs:
+      - lamentaba
+      - lamentabas
+      - lamentaba
+      - "lament\xE1bamos"
+      - lamentabais
+      - lamentaban
+      cjid: pret
+    - cjfs:
+      - "lament\xE9"
+      - lamentaste
+      - "lament\xF3"
+      - lamentamos
+      - lamentasteis
+      - lamentaron
+      cjid: pprf
+    - cjfs:
+      - "lamentar\xE9"
+      - "lamentar\xE1s"
+      - "lamentar\xE1"
+      - lamentaremos
+      - "lamentar\xE9is"
+      - "lamentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "lamentar\xEDa"
+      - "lamentar\xEDas"
+      - "lamentar\xEDa"
+      - "lamentar\xEDamos"
+      - "lamentar\xEDais"
+      - "lamentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - lamente
+      - lamentes
+      - lamente
+      - lamentemos
+      - "lament\xE9is"
+      - lamenten
+      cjid: psub
+    - cjfs:
+      - lamentara
+      - lamentaras
+      - lamentara
+      - "lament\xE1ramos"
+      - lamentarais
+      - lamentaran
+      cjid: pisb1
+    - cjfs:
+      - lamentase
+      - lamentases
+      - lamentase
+      - "lament\xE1semos"
+      - lamentaseis
+      - lamentasen
+      cjid: pisb2
+    - cjfs:
+      - lamentare
+      - lamentares
+      - lamentare
+      - "lament\xE1remos"
+      - lamentareis
+      - lamentaren
+      cjid: fsub
+    - cjfs:
+      - he lamentado
+      - has lamentado
+      - ha lamentado
+      - hemos lamentado
+      - "hab\xE9is lamentado"
+      - han lamentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa lamentado"
+      - "hab\xEDas lamentado"
+      - "hab\xEDa lamentado"
+      - "hab\xEDamos lamentado"
+      - "hab\xEDais lamentado"
+      - "hab\xEDan lamentado"
+      cjid: ppsi
+    - cjfs:
+      - hube lamentado
+      - hubiste lamentado
+      - hubo lamentado
+      - hubimos lamentado
+      - hubisteis lamentado
+      - hubieron lamentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 lamentado"
+      - "habr\xE1s lamentado"
+      - "habr\xE1 lamentado"
+      - habremos lamentado
+      - "habr\xE9is lamentado"
+      - "habr\xE1n lamentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa lamentado"
+      - "habr\xEDas lamentado"
+      - "habr\xEDa lamentado"
+      - "habr\xEDamos lamentado"
+      - "habr\xEDais lamentado"
+      - "habr\xEDan lamentado"
+      cjid: cpef
+    - cjfs:
+      - haya lamentado
+      - hayas lamentado
+      - haya lamentado
+      - hayamos lamentado
+      - "hay\xE1is lamentado"
+      - hayan lamentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera lamentado
+      - hubieras lamentado
+      - hubiera lamentado
+      - "hubi\xE9ramos lamentado"
+      - hubierais lamentado
+      - hubieran lamentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese lamentado
+      - hubieses lamentado
+      - hubiese lamentado
+      - "hubi\xE9semos lamentado"
+      - hubieseis lamentado
+      - hubiesen lamentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere lamentado
+      - hubieres lamentado
+      - hubiere lamentado
+      - "hubi\xE9remos lamentado"
+      - hubiereis lamentado
+      - hubieren lamentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - lamenta
+      - lamente
+      - lamentemos
+      - lamentad
+      - lamenten
+      cjid: impf

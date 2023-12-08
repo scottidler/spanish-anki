@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fallar||} {bc}to {a_link|miss}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|desacertar||} {bc}to {a_link|be wrong}, to be mistaken'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|vagar||} {bc}to {a_link|wander}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: errar
+    prs:
+    - sound:
+        audio: errar01sp
+  meta:
+    id: errar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608904000'
+    src: spanish
+    stems:
+    - errar
+    uuid: 1ade4251-7695-43ec-bb22-007ac7c142b5
+  shortdef:
+  - 'fallar : to miss'
+  - 'desacertar : to be wrong, to be mistaken'
+  - 'vagar : to wander'
+  suppl:
+    cjts:
+    - cjfs:
+      - errando
+      - errado
+      cjid: gppt
+    - cjfs:
+      - yerro
+      - yerras
+      - yerra
+      - erramos
+      - "err\xE1is"
+      - yerran
+      cjid: pind
+    - cjfs:
+      - erraba
+      - errabas
+      - erraba
+      - "err\xE1bamos"
+      - errabais
+      - erraban
+      cjid: pret
+    - cjfs:
+      - "err\xE9"
+      - erraste
+      - "err\xF3"
+      - erramos
+      - errasteis
+      - erraron
+      cjid: pprf
+    - cjfs:
+      - "errar\xE9"
+      - "errar\xE1s"
+      - "errar\xE1"
+      - erraremos
+      - "errar\xE9is"
+      - "errar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "errar\xEDa"
+      - "errar\xEDas"
+      - "errar\xEDa"
+      - "errar\xEDamos"
+      - "errar\xEDais"
+      - "errar\xEDan"
+      cjid: cond
+    - cjfs:
+      - yerre
+      - yerres
+      - yerre
+      - erremos
+      - "err\xE9is"
+      - yerren
+      cjid: psub
+    - cjfs:
+      - errara
+      - erraras
+      - errara
+      - "err\xE1ramos"
+      - errarais
+      - erraran
+      cjid: pisb1
+    - cjfs:
+      - errase
+      - errases
+      - errase
+      - "err\xE1semos"
+      - erraseis
+      - errasen
+      cjid: pisb2
+    - cjfs:
+      - errare
+      - errares
+      - errare
+      - "err\xE1remos"
+      - errareis
+      - erraren
+      cjid: fsub
+    - cjfs:
+      - he errado
+      - has errado
+      - ha errado
+      - hemos errado
+      - "hab\xE9is errado"
+      - han errado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa errado"
+      - "hab\xEDas errado"
+      - "hab\xEDa errado"
+      - "hab\xEDamos errado"
+      - "hab\xEDais errado"
+      - "hab\xEDan errado"
+      cjid: ppsi
+    - cjfs:
+      - hube errado
+      - hubiste errado
+      - hubo errado
+      - hubimos errado
+      - hubisteis errado
+      - hubieron errado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 errado"
+      - "habr\xE1s errado"
+      - "habr\xE1 errado"
+      - habremos errado
+      - "habr\xE9is errado"
+      - "habr\xE1n errado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa errado"
+      - "habr\xEDas errado"
+      - "habr\xEDa errado"
+      - "habr\xEDamos errado"
+      - "habr\xEDais errado"
+      - "habr\xEDan errado"
+      cjid: cpef
+    - cjfs:
+      - haya errado
+      - hayas errado
+      - haya errado
+      - hayamos errado
+      - "hay\xE1is errado"
+      - hayan errado
+      cjid: ppfs
+    - cjfs:
+      - hubiera errado
+      - hubieras errado
+      - hubiera errado
+      - "hubi\xE9ramos errado"
+      - hubierais errado
+      - hubieran errado
+      cjid: ppss1
+    - cjfs:
+      - hubiese errado
+      - hubieses errado
+      - hubiese errado
+      - "hubi\xE9semos errado"
+      - hubieseis errado
+      - hubiesen errado
+      cjid: ppss2
+    - cjfs:
+      - hubiere errado
+      - hubieres errado
+      - hubiere errado
+      - "hubi\xE9remos errado"
+      - hubiereis errado
+      - hubieren errado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - yerra
+      - yerre
+      - erremos
+      - errad
+      - yerren
+      cjid: impf

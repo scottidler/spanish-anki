@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|examine}, to {a_link|inspect}, to {a_link|check}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to check over, to {a_link|overhaul} (machinery)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|revise}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: revisar
+    prs:
+    - sound:
+        audio: revis01sp
+  meta:
+    id: revisar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619759000'
+    src: spanish
+    stems:
+    - revisar
+    uuid: 30219cf3-01a5-42ed-89b4-a0737969f66b
+  shortdef:
+  - to examine, to inspect, to check
+  - to check over, to overhaul (machinery)
+  - to revise
+  suppl:
+    cjts:
+    - cjfs:
+      - revisando
+      - revisado
+      cjid: gppt
+    - cjfs:
+      - reviso
+      - revisas
+      - revisa
+      - revisamos
+      - "revis\xE1is"
+      - revisan
+      cjid: pind
+    - cjfs:
+      - revisaba
+      - revisabas
+      - revisaba
+      - "revis\xE1bamos"
+      - revisabais
+      - revisaban
+      cjid: pret
+    - cjfs:
+      - "revis\xE9"
+      - revisaste
+      - "revis\xF3"
+      - revisamos
+      - revisasteis
+      - revisaron
+      cjid: pprf
+    - cjfs:
+      - "revisar\xE9"
+      - "revisar\xE1s"
+      - "revisar\xE1"
+      - revisaremos
+      - "revisar\xE9is"
+      - "revisar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "revisar\xEDa"
+      - "revisar\xEDas"
+      - "revisar\xEDa"
+      - "revisar\xEDamos"
+      - "revisar\xEDais"
+      - "revisar\xEDan"
+      cjid: cond
+    - cjfs:
+      - revise
+      - revises
+      - revise
+      - revisemos
+      - "revis\xE9is"
+      - revisen
+      cjid: psub
+    - cjfs:
+      - revisara
+      - revisaras
+      - revisara
+      - "revis\xE1ramos"
+      - revisarais
+      - revisaran
+      cjid: pisb1
+    - cjfs:
+      - revisase
+      - revisases
+      - revisase
+      - "revis\xE1semos"
+      - revisaseis
+      - revisasen
+      cjid: pisb2
+    - cjfs:
+      - revisare
+      - revisares
+      - revisare
+      - "revis\xE1remos"
+      - revisareis
+      - revisaren
+      cjid: fsub
+    - cjfs:
+      - he revisado
+      - has revisado
+      - ha revisado
+      - hemos revisado
+      - "hab\xE9is revisado"
+      - han revisado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa revisado"
+      - "hab\xEDas revisado"
+      - "hab\xEDa revisado"
+      - "hab\xEDamos revisado"
+      - "hab\xEDais revisado"
+      - "hab\xEDan revisado"
+      cjid: ppsi
+    - cjfs:
+      - hube revisado
+      - hubiste revisado
+      - hubo revisado
+      - hubimos revisado
+      - hubisteis revisado
+      - hubieron revisado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 revisado"
+      - "habr\xE1s revisado"
+      - "habr\xE1 revisado"
+      - habremos revisado
+      - "habr\xE9is revisado"
+      - "habr\xE1n revisado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa revisado"
+      - "habr\xEDas revisado"
+      - "habr\xEDa revisado"
+      - "habr\xEDamos revisado"
+      - "habr\xEDais revisado"
+      - "habr\xEDan revisado"
+      cjid: cpef
+    - cjfs:
+      - haya revisado
+      - hayas revisado
+      - haya revisado
+      - hayamos revisado
+      - "hay\xE1is revisado"
+      - hayan revisado
+      cjid: ppfs
+    - cjfs:
+      - hubiera revisado
+      - hubieras revisado
+      - hubiera revisado
+      - "hubi\xE9ramos revisado"
+      - hubierais revisado
+      - hubieran revisado
+      cjid: ppss1
+    - cjfs:
+      - hubiese revisado
+      - hubieses revisado
+      - hubiese revisado
+      - "hubi\xE9semos revisado"
+      - hubieseis revisado
+      - hubiesen revisado
+      cjid: ppss2
+    - cjfs:
+      - hubiere revisado
+      - hubieres revisado
+      - hubiere revisado
+      - "hubi\xE9remos revisado"
+      - hubiereis revisado
+      - hubieren revisado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - revisa
+      - revise
+      - revisemos
+      - revisad
+      - revisen
+      cjid: impf

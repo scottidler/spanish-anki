@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cease}, to {a_link|stop}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dismiss}, to {a_link|lay off}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: cesar
+    prs:
+    - sound:
+        audio: cesar01sp
+  meta:
+    id: cesar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604413000'
+    src: spanish
+    stems:
+    - cesar
+    uuid: 83444667-ff0f-4efc-b37a-0e0cf9d3768a
+  shortdef:
+  - to cease, to stop
+  - to dismiss, to lay off
+  suppl:
+    cjts:
+    - cjfs:
+      - cesando
+      - cesado
+      cjid: gppt
+    - cjfs:
+      - ceso
+      - cesas
+      - cesa
+      - cesamos
+      - "ces\xE1is"
+      - cesan
+      cjid: pind
+    - cjfs:
+      - cesaba
+      - cesabas
+      - cesaba
+      - "ces\xE1bamos"
+      - cesabais
+      - cesaban
+      cjid: pret
+    - cjfs:
+      - "ces\xE9"
+      - cesaste
+      - "ces\xF3"
+      - cesamos
+      - cesasteis
+      - cesaron
+      cjid: pprf
+    - cjfs:
+      - "cesar\xE9"
+      - "cesar\xE1s"
+      - "cesar\xE1"
+      - cesaremos
+      - "cesar\xE9is"
+      - "cesar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cesar\xEDa"
+      - "cesar\xEDas"
+      - "cesar\xEDa"
+      - "cesar\xEDamos"
+      - "cesar\xEDais"
+      - "cesar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cese
+      - ceses
+      - cese
+      - cesemos
+      - "ces\xE9is"
+      - cesen
+      cjid: psub
+    - cjfs:
+      - cesara
+      - cesaras
+      - cesara
+      - "ces\xE1ramos"
+      - cesarais
+      - cesaran
+      cjid: pisb1
+    - cjfs:
+      - cesase
+      - cesases
+      - cesase
+      - "ces\xE1semos"
+      - cesaseis
+      - cesasen
+      cjid: pisb2
+    - cjfs:
+      - cesare
+      - cesares
+      - cesare
+      - "ces\xE1remos"
+      - cesareis
+      - cesaren
+      cjid: fsub
+    - cjfs:
+      - he cesado
+      - has cesado
+      - ha cesado
+      - hemos cesado
+      - "hab\xE9is cesado"
+      - han cesado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cesado"
+      - "hab\xEDas cesado"
+      - "hab\xEDa cesado"
+      - "hab\xEDamos cesado"
+      - "hab\xEDais cesado"
+      - "hab\xEDan cesado"
+      cjid: ppsi
+    - cjfs:
+      - hube cesado
+      - hubiste cesado
+      - hubo cesado
+      - hubimos cesado
+      - hubisteis cesado
+      - hubieron cesado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cesado"
+      - "habr\xE1s cesado"
+      - "habr\xE1 cesado"
+      - habremos cesado
+      - "habr\xE9is cesado"
+      - "habr\xE1n cesado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cesado"
+      - "habr\xEDas cesado"
+      - "habr\xEDa cesado"
+      - "habr\xEDamos cesado"
+      - "habr\xEDais cesado"
+      - "habr\xEDan cesado"
+      cjid: cpef
+    - cjfs:
+      - haya cesado
+      - hayas cesado
+      - haya cesado
+      - hayamos cesado
+      - "hay\xE1is cesado"
+      - hayan cesado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cesado
+      - hubieras cesado
+      - hubiera cesado
+      - "hubi\xE9ramos cesado"
+      - hubierais cesado
+      - hubieran cesado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cesado
+      - hubieses cesado
+      - hubiese cesado
+      - "hubi\xE9semos cesado"
+      - hubieseis cesado
+      - hubiesen cesado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cesado
+      - hubieres cesado
+      - hubiere cesado
+      - "hubi\xE9remos cesado"
+      - hubiereis cesado
+      - hubieren cesado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cesa
+      - cese
+      - cesemos
+      - cesad
+      - cesen
+      cjid: impf

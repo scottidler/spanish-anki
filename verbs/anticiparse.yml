@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|anticipate}, to {a_link|forestall}, to deal with in
+              advance'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pay in advance'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be early'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|adelantarse||} {bc}to {a_link|get ahead}'
+            sn: '2'
+    drp: anticiparse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: anticipar
+    prs:
+    - sound:
+        audio: antic03sp
+  meta:
+    id: anticipar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601514000'
+    src: spanish
+    stems:
+    - anticipar
+    - anticiparse
+    uuid: 17c779a8-169f-4d17-8cca-d0e506f95d7f
+  shortdef:
+  - to anticipate, to forestall, to deal with in advance
+  - to pay in advance
+  suppl:
+    cjts:
+    - cjfs:
+      - anticipando
+      - anticipado
+      cjid: gppt
+    - cjfs:
+      - anticipo
+      - anticipas
+      - anticipa
+      - anticipamos
+      - "anticip\xE1is"
+      - anticipan
+      cjid: pind
+    - cjfs:
+      - anticipaba
+      - anticipabas
+      - anticipaba
+      - "anticip\xE1bamos"
+      - anticipabais
+      - anticipaban
+      cjid: pret
+    - cjfs:
+      - "anticip\xE9"
+      - anticipaste
+      - "anticip\xF3"
+      - anticipamos
+      - anticipasteis
+      - anticiparon
+      cjid: pprf
+    - cjfs:
+      - "anticipar\xE9"
+      - "anticipar\xE1s"
+      - "anticipar\xE1"
+      - anticiparemos
+      - "anticipar\xE9is"
+      - "anticipar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "anticipar\xEDa"
+      - "anticipar\xEDas"
+      - "anticipar\xEDa"
+      - "anticipar\xEDamos"
+      - "anticipar\xEDais"
+      - "anticipar\xEDan"
+      cjid: cond
+    - cjfs:
+      - anticipe
+      - anticipes
+      - anticipe
+      - anticipemos
+      - "anticip\xE9is"
+      - anticipen
+      cjid: psub
+    - cjfs:
+      - anticipara
+      - anticiparas
+      - anticipara
+      - "anticip\xE1ramos"
+      - anticiparais
+      - anticiparan
+      cjid: pisb1
+    - cjfs:
+      - anticipase
+      - anticipases
+      - anticipase
+      - "anticip\xE1semos"
+      - anticipaseis
+      - anticipasen
+      cjid: pisb2
+    - cjfs:
+      - anticipare
+      - anticipares
+      - anticipare
+      - "anticip\xE1remos"
+      - anticipareis
+      - anticiparen
+      cjid: fsub
+    - cjfs:
+      - he anticipado
+      - has anticipado
+      - ha anticipado
+      - hemos anticipado
+      - "hab\xE9is anticipado"
+      - han anticipado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa anticipado"
+      - "hab\xEDas anticipado"
+      - "hab\xEDa anticipado"
+      - "hab\xEDamos anticipado"
+      - "hab\xEDais anticipado"
+      - "hab\xEDan anticipado"
+      cjid: ppsi
+    - cjfs:
+      - hube anticipado
+      - hubiste anticipado
+      - hubo anticipado
+      - hubimos anticipado
+      - hubisteis anticipado
+      - hubieron anticipado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 anticipado"
+      - "habr\xE1s anticipado"
+      - "habr\xE1 anticipado"
+      - habremos anticipado
+      - "habr\xE9is anticipado"
+      - "habr\xE1n anticipado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa anticipado"
+      - "habr\xEDas anticipado"
+      - "habr\xEDa anticipado"
+      - "habr\xEDamos anticipado"
+      - "habr\xEDais anticipado"
+      - "habr\xEDan anticipado"
+      cjid: cpef
+    - cjfs:
+      - haya anticipado
+      - hayas anticipado
+      - haya anticipado
+      - hayamos anticipado
+      - "hay\xE1is anticipado"
+      - hayan anticipado
+      cjid: ppfs
+    - cjfs:
+      - hubiera anticipado
+      - hubieras anticipado
+      - hubiera anticipado
+      - "hubi\xE9ramos anticipado"
+      - hubierais anticipado
+      - hubieran anticipado
+      cjid: ppss1
+    - cjfs:
+      - hubiese anticipado
+      - hubieses anticipado
+      - hubiese anticipado
+      - "hubi\xE9semos anticipado"
+      - hubieseis anticipado
+      - hubiesen anticipado
+      cjid: ppss2
+    - cjfs:
+      - hubiere anticipado
+      - hubieres anticipado
+      - hubiere anticipado
+      - "hubi\xE9remos anticipado"
+      - hubiereis anticipado
+      - hubieren anticipado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - anticipa
+      - anticipe
+      - anticipemos
+      - anticipad
+      - anticipen
+      cjid: impf

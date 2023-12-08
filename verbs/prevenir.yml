@@ -1,0 +1,207 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prevent}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|warn}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take precautions against'
+            vrs:
+            - va: prevenirse contra
+              vac: ~ contra
+            - va: prevenirse de
+              vac: ~ de
+              vl: or
+    drp: prevenirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: prevenir
+    prs:
+    - sound:
+        audio: preve02sp
+  meta:
+    id: prevenir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618089000'
+    src: spanish
+    stems:
+    - prevenir
+    - prevenirse
+    - prevenirse contra
+    - prevenirse de
+    uuid: c353b853-d35e-4618-991f-408ceb65a235
+  shortdef:
+  - to prevent
+  - to warn
+  suppl:
+    cjts:
+    - cjfs:
+      - previniendo
+      - prevenido
+      cjid: gppt
+    - cjfs:
+      - prevengo
+      - previenes
+      - previene
+      - prevenimos
+      - "preven\xEDs"
+      - previenen
+      cjid: pind
+    - cjfs:
+      - "preven\xEDa"
+      - "preven\xEDas"
+      - "preven\xEDa"
+      - "preven\xEDamos"
+      - "preven\xEDais"
+      - "preven\xEDan"
+      cjid: pret
+    - cjfs:
+      - previne
+      - previniste
+      - previno
+      - previnimos
+      - previnisteis
+      - previnieron
+      cjid: pprf
+    - cjfs:
+      - "prevendr\xE9"
+      - "prevendr\xE1s"
+      - "prevendr\xE1"
+      - prevendremos
+      - "prevendr\xE9is"
+      - "prevendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prevendr\xEDa"
+      - "prevendr\xEDas"
+      - "prevendr\xEDa"
+      - "prevendr\xEDamos"
+      - "prevendr\xEDais"
+      - "prevendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - prevenga
+      - prevengas
+      - prevenga
+      - prevengamos
+      - "preveng\xE1is"
+      - prevengan
+      cjid: psub
+    - cjfs:
+      - previniera
+      - previnieras
+      - previniera
+      - "previni\xE9ramos"
+      - previnierais
+      - previnieran
+      cjid: pisb1
+    - cjfs:
+      - previniese
+      - previnieses
+      - previniese
+      - "previni\xE9semos"
+      - previnieseis
+      - previniesen
+      cjid: pisb2
+    - cjfs:
+      - previniere
+      - previnieres
+      - previniere
+      - "previni\xE9remos"
+      - previniereis
+      - previnieren
+      cjid: fsub
+    - cjfs:
+      - he prevenido
+      - has prevenido
+      - ha prevenido
+      - hemos prevenido
+      - "hab\xE9is prevenido"
+      - han prevenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prevenido"
+      - "hab\xEDas prevenido"
+      - "hab\xEDa prevenido"
+      - "hab\xEDamos prevenido"
+      - "hab\xEDais prevenido"
+      - "hab\xEDan prevenido"
+      cjid: ppsi
+    - cjfs:
+      - hube prevenido
+      - hubiste prevenido
+      - hubo prevenido
+      - hubimos prevenido
+      - hubisteis prevenido
+      - hubieron prevenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prevenido"
+      - "habr\xE1s prevenido"
+      - "habr\xE1 prevenido"
+      - habremos prevenido
+      - "habr\xE9is prevenido"
+      - "habr\xE1n prevenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prevenido"
+      - "habr\xEDas prevenido"
+      - "habr\xEDa prevenido"
+      - "habr\xEDamos prevenido"
+      - "habr\xEDais prevenido"
+      - "habr\xEDan prevenido"
+      cjid: cpef
+    - cjfs:
+      - haya prevenido
+      - hayas prevenido
+      - haya prevenido
+      - hayamos prevenido
+      - "hay\xE1is prevenido"
+      - hayan prevenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera prevenido
+      - hubieras prevenido
+      - hubiera prevenido
+      - "hubi\xE9ramos prevenido"
+      - hubierais prevenido
+      - hubieran prevenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese prevenido
+      - hubieses prevenido
+      - hubiese prevenido
+      - "hubi\xE9semos prevenido"
+      - hubieseis prevenido
+      - hubiesen prevenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere prevenido
+      - hubieres prevenido
+      - hubiere prevenido
+      - "hubi\xE9remos prevenido"
+      - hubiereis prevenido
+      - hubieren prevenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "prev\xE9n"
+      - prevenga
+      - prevengamos
+      - prevenid
+      - prevengan
+      cjid: impf

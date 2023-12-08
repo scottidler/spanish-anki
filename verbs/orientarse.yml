@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|orient}, to {a_link|position}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|guide}, to {a_link|direct}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to orient oneself, to get one''s bearings'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to turn towards, to lean towards'
+            sn: '2'
+            vrs:
+            - va: orientarse hacia
+              vac: ~ hacia
+    drp: orientarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: orientar
+    prs:
+    - sound:
+        audio: orien02sp
+  meta:
+    id: orientar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616316000'
+    src: spanish
+    stems:
+    - orientar
+    - orientarse
+    - orientarse hacia
+    uuid: 4917014d-31b3-4644-af56-7dd8d9e9ed87
+  shortdef:
+  - to orient, to position
+  - to guide, to direct
+  suppl:
+    cjts:
+    - cjfs:
+      - orientando
+      - orientado
+      cjid: gppt
+    - cjfs:
+      - oriento
+      - orientas
+      - orienta
+      - orientamos
+      - "orient\xE1is"
+      - orientan
+      cjid: pind
+    - cjfs:
+      - orientaba
+      - orientabas
+      - orientaba
+      - "orient\xE1bamos"
+      - orientabais
+      - orientaban
+      cjid: pret
+    - cjfs:
+      - "orient\xE9"
+      - orientaste
+      - "orient\xF3"
+      - orientamos
+      - orientasteis
+      - orientaron
+      cjid: pprf
+    - cjfs:
+      - "orientar\xE9"
+      - "orientar\xE1s"
+      - "orientar\xE1"
+      - orientaremos
+      - "orientar\xE9is"
+      - "orientar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "orientar\xEDa"
+      - "orientar\xEDas"
+      - "orientar\xEDa"
+      - "orientar\xEDamos"
+      - "orientar\xEDais"
+      - "orientar\xEDan"
+      cjid: cond
+    - cjfs:
+      - oriente
+      - orientes
+      - oriente
+      - orientemos
+      - "orient\xE9is"
+      - orienten
+      cjid: psub
+    - cjfs:
+      - orientara
+      - orientaras
+      - orientara
+      - "orient\xE1ramos"
+      - orientarais
+      - orientaran
+      cjid: pisb1
+    - cjfs:
+      - orientase
+      - orientases
+      - orientase
+      - "orient\xE1semos"
+      - orientaseis
+      - orientasen
+      cjid: pisb2
+    - cjfs:
+      - orientare
+      - orientares
+      - orientare
+      - "orient\xE1remos"
+      - orientareis
+      - orientaren
+      cjid: fsub
+    - cjfs:
+      - he orientado
+      - has orientado
+      - ha orientado
+      - hemos orientado
+      - "hab\xE9is orientado"
+      - han orientado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa orientado"
+      - "hab\xEDas orientado"
+      - "hab\xEDa orientado"
+      - "hab\xEDamos orientado"
+      - "hab\xEDais orientado"
+      - "hab\xEDan orientado"
+      cjid: ppsi
+    - cjfs:
+      - hube orientado
+      - hubiste orientado
+      - hubo orientado
+      - hubimos orientado
+      - hubisteis orientado
+      - hubieron orientado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 orientado"
+      - "habr\xE1s orientado"
+      - "habr\xE1 orientado"
+      - habremos orientado
+      - "habr\xE9is orientado"
+      - "habr\xE1n orientado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa orientado"
+      - "habr\xEDas orientado"
+      - "habr\xEDa orientado"
+      - "habr\xEDamos orientado"
+      - "habr\xEDais orientado"
+      - "habr\xEDan orientado"
+      cjid: cpef
+    - cjfs:
+      - haya orientado
+      - hayas orientado
+      - haya orientado
+      - hayamos orientado
+      - "hay\xE1is orientado"
+      - hayan orientado
+      cjid: ppfs
+    - cjfs:
+      - hubiera orientado
+      - hubieras orientado
+      - hubiera orientado
+      - "hubi\xE9ramos orientado"
+      - hubierais orientado
+      - hubieran orientado
+      cjid: ppss1
+    - cjfs:
+      - hubiese orientado
+      - hubieses orientado
+      - hubiese orientado
+      - "hubi\xE9semos orientado"
+      - hubieseis orientado
+      - hubiesen orientado
+      cjid: ppss2
+    - cjfs:
+      - hubiere orientado
+      - hubieres orientado
+      - hubiere orientado
+      - "hubi\xE9remos orientado"
+      - hubiereis orientado
+      - hubieren orientado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - orienta
+      - oriente
+      - orientemos
+      - orientad
+      - orienten
+      cjid: impf

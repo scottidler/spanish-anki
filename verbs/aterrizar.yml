@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|land}, to {a_link|touch down}'
+  fl: transitive verb
+  hwi:
+    hw: aterrizar
+    prs:
+    - sound:
+        audio: aterr02sp
+  meta:
+    id: aterrizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602293000'
+    src: spanish
+    stems:
+    - aterrizar
+    uuid: e3724f2c-135a-47cb-b1e0-803913366583
+  shortdef:
+  - to land, to touch down
+  suppl:
+    cjts:
+    - cjfs:
+      - aterrizando
+      - aterrizado
+      cjid: gppt
+    - cjfs:
+      - aterrizo
+      - aterrizas
+      - aterriza
+      - aterrizamos
+      - "aterriz\xE1is"
+      - aterrizan
+      cjid: pind
+    - cjfs:
+      - aterrizaba
+      - aterrizabas
+      - aterrizaba
+      - "aterriz\xE1bamos"
+      - aterrizabais
+      - aterrizaban
+      cjid: pret
+    - cjfs:
+      - "aterric\xE9"
+      - aterrizaste
+      - "aterriz\xF3"
+      - aterrizamos
+      - aterrizasteis
+      - aterrizaron
+      cjid: pprf
+    - cjfs:
+      - "aterrizar\xE9"
+      - "aterrizar\xE1s"
+      - "aterrizar\xE1"
+      - aterrizaremos
+      - "aterrizar\xE9is"
+      - "aterrizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aterrizar\xEDa"
+      - "aterrizar\xEDas"
+      - "aterrizar\xEDa"
+      - "aterrizar\xEDamos"
+      - "aterrizar\xEDais"
+      - "aterrizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aterrice
+      - aterrices
+      - aterrice
+      - aterricemos
+      - "aterric\xE9is"
+      - aterricen
+      cjid: psub
+    - cjfs:
+      - aterrizara
+      - aterrizaras
+      - aterrizara
+      - "aterriz\xE1ramos"
+      - aterrizarais
+      - aterrizaran
+      cjid: pisb1
+    - cjfs:
+      - aterrizase
+      - aterrizases
+      - aterrizase
+      - "aterriz\xE1semos"
+      - aterrizaseis
+      - aterrizasen
+      cjid: pisb2
+    - cjfs:
+      - aterrizare
+      - aterrizares
+      - aterrizare
+      - "aterriz\xE1remos"
+      - aterrizareis
+      - aterrizaren
+      cjid: fsub
+    - cjfs:
+      - he aterrizado
+      - has aterrizado
+      - ha aterrizado
+      - hemos aterrizado
+      - "hab\xE9is aterrizado"
+      - han aterrizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aterrizado"
+      - "hab\xEDas aterrizado"
+      - "hab\xEDa aterrizado"
+      - "hab\xEDamos aterrizado"
+      - "hab\xEDais aterrizado"
+      - "hab\xEDan aterrizado"
+      cjid: ppsi
+    - cjfs:
+      - hube aterrizado
+      - hubiste aterrizado
+      - hubo aterrizado
+      - hubimos aterrizado
+      - hubisteis aterrizado
+      - hubieron aterrizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aterrizado"
+      - "habr\xE1s aterrizado"
+      - "habr\xE1 aterrizado"
+      - habremos aterrizado
+      - "habr\xE9is aterrizado"
+      - "habr\xE1n aterrizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aterrizado"
+      - "habr\xEDas aterrizado"
+      - "habr\xEDa aterrizado"
+      - "habr\xEDamos aterrizado"
+      - "habr\xEDais aterrizado"
+      - "habr\xEDan aterrizado"
+      cjid: cpef
+    - cjfs:
+      - haya aterrizado
+      - hayas aterrizado
+      - haya aterrizado
+      - hayamos aterrizado
+      - "hay\xE1is aterrizado"
+      - hayan aterrizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aterrizado
+      - hubieras aterrizado
+      - hubiera aterrizado
+      - "hubi\xE9ramos aterrizado"
+      - hubierais aterrizado
+      - hubieran aterrizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aterrizado
+      - hubieses aterrizado
+      - hubiese aterrizado
+      - "hubi\xE9semos aterrizado"
+      - hubieseis aterrizado
+      - hubiesen aterrizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aterrizado
+      - hubieres aterrizado
+      - hubiere aterrizado
+      - "hubi\xE9remos aterrizado"
+      - hubiereis aterrizado
+      - hubieren aterrizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aterriza
+      - aterrice
+      - aterricemos
+      - aterrizad
+      - aterricen
+      cjid: impf

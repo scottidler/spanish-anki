@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tear}, to {a_link|rip}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break} (one''s heart)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: desgarrar
+    prs:
+    - sound:
+        audio: desga01sp
+  meta:
+    id: desgarrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607093000'
+    src: spanish
+    stems:
+    - desgarrar
+    - desgarrarse
+    uuid: 5af4d243-f0f7-4f39-9015-1a5637d25527
+  shortdef:
+  - to tear, to rip
+  - to break (one's heart)
+  suppl:
+    cjts:
+    - cjfs:
+      - desgarrando
+      - desgarrado
+      cjid: gppt
+    - cjfs:
+      - desgarro
+      - desgarras
+      - desgarra
+      - desgarramos
+      - "desgarr\xE1is"
+      - desgarran
+      cjid: pind
+    - cjfs:
+      - desgarraba
+      - desgarrabas
+      - desgarraba
+      - "desgarr\xE1bamos"
+      - desgarrabais
+      - desgarraban
+      cjid: pret
+    - cjfs:
+      - "desgarr\xE9"
+      - desgarraste
+      - "desgarr\xF3"
+      - desgarramos
+      - desgarrasteis
+      - desgarraron
+      cjid: pprf
+    - cjfs:
+      - "desgarrar\xE9"
+      - "desgarrar\xE1s"
+      - "desgarrar\xE1"
+      - desgarraremos
+      - "desgarrar\xE9is"
+      - "desgarrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desgarrar\xEDa"
+      - "desgarrar\xEDas"
+      - "desgarrar\xEDa"
+      - "desgarrar\xEDamos"
+      - "desgarrar\xEDais"
+      - "desgarrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desgarre
+      - desgarres
+      - desgarre
+      - desgarremos
+      - "desgarr\xE9is"
+      - desgarren
+      cjid: psub
+    - cjfs:
+      - desgarrara
+      - desgarraras
+      - desgarrara
+      - "desgarr\xE1ramos"
+      - desgarrarais
+      - desgarraran
+      cjid: pisb1
+    - cjfs:
+      - desgarrase
+      - desgarrases
+      - desgarrase
+      - "desgarr\xE1semos"
+      - desgarraseis
+      - desgarrasen
+      cjid: pisb2
+    - cjfs:
+      - desgarrare
+      - desgarrares
+      - desgarrare
+      - "desgarr\xE1remos"
+      - desgarrareis
+      - desgarraren
+      cjid: fsub
+    - cjfs:
+      - he desgarrado
+      - has desgarrado
+      - ha desgarrado
+      - hemos desgarrado
+      - "hab\xE9is desgarrado"
+      - han desgarrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desgarrado"
+      - "hab\xEDas desgarrado"
+      - "hab\xEDa desgarrado"
+      - "hab\xEDamos desgarrado"
+      - "hab\xEDais desgarrado"
+      - "hab\xEDan desgarrado"
+      cjid: ppsi
+    - cjfs:
+      - hube desgarrado
+      - hubiste desgarrado
+      - hubo desgarrado
+      - hubimos desgarrado
+      - hubisteis desgarrado
+      - hubieron desgarrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desgarrado"
+      - "habr\xE1s desgarrado"
+      - "habr\xE1 desgarrado"
+      - habremos desgarrado
+      - "habr\xE9is desgarrado"
+      - "habr\xE1n desgarrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desgarrado"
+      - "habr\xEDas desgarrado"
+      - "habr\xEDa desgarrado"
+      - "habr\xEDamos desgarrado"
+      - "habr\xEDais desgarrado"
+      - "habr\xEDan desgarrado"
+      cjid: cpef
+    - cjfs:
+      - haya desgarrado
+      - hayas desgarrado
+      - haya desgarrado
+      - hayamos desgarrado
+      - "hay\xE1is desgarrado"
+      - hayan desgarrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desgarrado
+      - hubieras desgarrado
+      - hubiera desgarrado
+      - "hubi\xE9ramos desgarrado"
+      - hubierais desgarrado
+      - hubieran desgarrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desgarrado
+      - hubieses desgarrado
+      - hubiese desgarrado
+      - "hubi\xE9semos desgarrado"
+      - hubieseis desgarrado
+      - hubiesen desgarrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desgarrado
+      - hubieres desgarrado
+      - hubiere desgarrado
+      - "hubi\xE9remos desgarrado"
+      - hubiereis desgarrado
+      - hubieren desgarrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desgarra
+      - desgarre
+      - desgarremos
+      - desgarrad
+      - desgarren
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: desgarrarse

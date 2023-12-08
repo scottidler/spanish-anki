@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|employ}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|usar||} {bc}to {a_link|use}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get a job'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to occupy oneself'
+            sn: '2'
+    drp: emplearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: emplear
+    prs:
+    - sound:
+        audio: emple03sp
+  meta:
+    id: emplear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608356000'
+    src: spanish
+    stems:
+    - emplear
+    - emplearse
+    uuid: d4890cfc-7e10-4692-8067-ba8aaff8041d
+  shortdef:
+  - to employ
+  - 'usar : to use'
+  suppl:
+    cjts:
+    - cjfs:
+      - empleando
+      - empleado
+      cjid: gppt
+    - cjfs:
+      - empleo
+      - empleas
+      - emplea
+      - empleamos
+      - "emple\xE1is"
+      - emplean
+      cjid: pind
+    - cjfs:
+      - empleaba
+      - empleabas
+      - empleaba
+      - "emple\xE1bamos"
+      - empleabais
+      - empleaban
+      cjid: pret
+    - cjfs:
+      - "emple\xE9"
+      - empleaste
+      - "emple\xF3"
+      - empleamos
+      - empleasteis
+      - emplearon
+      cjid: pprf
+    - cjfs:
+      - "emplear\xE9"
+      - "emplear\xE1s"
+      - "emplear\xE1"
+      - emplearemos
+      - "emplear\xE9is"
+      - "emplear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "emplear\xEDa"
+      - "emplear\xEDas"
+      - "emplear\xEDa"
+      - "emplear\xEDamos"
+      - "emplear\xEDais"
+      - "emplear\xEDan"
+      cjid: cond
+    - cjfs:
+      - emplee
+      - emplees
+      - emplee
+      - empleemos
+      - "emple\xE9is"
+      - empleen
+      cjid: psub
+    - cjfs:
+      - empleara
+      - emplearas
+      - empleara
+      - "emple\xE1ramos"
+      - emplearais
+      - emplearan
+      cjid: pisb1
+    - cjfs:
+      - emplease
+      - empleases
+      - emplease
+      - "emple\xE1semos"
+      - empleaseis
+      - empleasen
+      cjid: pisb2
+    - cjfs:
+      - empleare
+      - empleares
+      - empleare
+      - "emple\xE1remos"
+      - empleareis
+      - emplearen
+      cjid: fsub
+    - cjfs:
+      - he empleado
+      - has empleado
+      - ha empleado
+      - hemos empleado
+      - "hab\xE9is empleado"
+      - han empleado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa empleado"
+      - "hab\xEDas empleado"
+      - "hab\xEDa empleado"
+      - "hab\xEDamos empleado"
+      - "hab\xEDais empleado"
+      - "hab\xEDan empleado"
+      cjid: ppsi
+    - cjfs:
+      - hube empleado
+      - hubiste empleado
+      - hubo empleado
+      - hubimos empleado
+      - hubisteis empleado
+      - hubieron empleado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 empleado"
+      - "habr\xE1s empleado"
+      - "habr\xE1 empleado"
+      - habremos empleado
+      - "habr\xE9is empleado"
+      - "habr\xE1n empleado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa empleado"
+      - "habr\xEDas empleado"
+      - "habr\xEDa empleado"
+      - "habr\xEDamos empleado"
+      - "habr\xEDais empleado"
+      - "habr\xEDan empleado"
+      cjid: cpef
+    - cjfs:
+      - haya empleado
+      - hayas empleado
+      - haya empleado
+      - hayamos empleado
+      - "hay\xE1is empleado"
+      - hayan empleado
+      cjid: ppfs
+    - cjfs:
+      - hubiera empleado
+      - hubieras empleado
+      - hubiera empleado
+      - "hubi\xE9ramos empleado"
+      - hubierais empleado
+      - hubieran empleado
+      cjid: ppss1
+    - cjfs:
+      - hubiese empleado
+      - hubieses empleado
+      - hubiese empleado
+      - "hubi\xE9semos empleado"
+      - hubieseis empleado
+      - hubiesen empleado
+      cjid: ppss2
+    - cjfs:
+      - hubiere empleado
+      - hubieres empleado
+      - hubiere empleado
+      - "hubi\xE9remos empleado"
+      - hubiereis empleado
+      - hubieren empleado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - emplea
+      - emplee
+      - empleemos
+      - emplead
+      - empleen
+      cjid: impf

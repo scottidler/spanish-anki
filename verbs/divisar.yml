@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|discern}, to {a_link|make out}'
+  fl: transitive verb
+  hwi:
+    hw: divisar
+    prs:
+    - sound:
+        audio: divis02sp
+  meta:
+    id: divisar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607815000'
+    src: spanish
+    stems:
+    - divisar
+    uuid: 5ec9b9a8-be8c-4a84-93d4-8756ce198913
+  shortdef:
+  - to discern, to make out
+  suppl:
+    cjts:
+    - cjfs:
+      - divisando
+      - divisado
+      cjid: gppt
+    - cjfs:
+      - diviso
+      - divisas
+      - divisa
+      - divisamos
+      - "divis\xE1is"
+      - divisan
+      cjid: pind
+    - cjfs:
+      - divisaba
+      - divisabas
+      - divisaba
+      - "divis\xE1bamos"
+      - divisabais
+      - divisaban
+      cjid: pret
+    - cjfs:
+      - "divis\xE9"
+      - divisaste
+      - "divis\xF3"
+      - divisamos
+      - divisasteis
+      - divisaron
+      cjid: pprf
+    - cjfs:
+      - "divisar\xE9"
+      - "divisar\xE1s"
+      - "divisar\xE1"
+      - divisaremos
+      - "divisar\xE9is"
+      - "divisar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "divisar\xEDa"
+      - "divisar\xEDas"
+      - "divisar\xEDa"
+      - "divisar\xEDamos"
+      - "divisar\xEDais"
+      - "divisar\xEDan"
+      cjid: cond
+    - cjfs:
+      - divise
+      - divises
+      - divise
+      - divisemos
+      - "divis\xE9is"
+      - divisen
+      cjid: psub
+    - cjfs:
+      - divisara
+      - divisaras
+      - divisara
+      - "divis\xE1ramos"
+      - divisarais
+      - divisaran
+      cjid: pisb1
+    - cjfs:
+      - divisase
+      - divisases
+      - divisase
+      - "divis\xE1semos"
+      - divisaseis
+      - divisasen
+      cjid: pisb2
+    - cjfs:
+      - divisare
+      - divisares
+      - divisare
+      - "divis\xE1remos"
+      - divisareis
+      - divisaren
+      cjid: fsub
+    - cjfs:
+      - he divisado
+      - has divisado
+      - ha divisado
+      - hemos divisado
+      - "hab\xE9is divisado"
+      - han divisado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa divisado"
+      - "hab\xEDas divisado"
+      - "hab\xEDa divisado"
+      - "hab\xEDamos divisado"
+      - "hab\xEDais divisado"
+      - "hab\xEDan divisado"
+      cjid: ppsi
+    - cjfs:
+      - hube divisado
+      - hubiste divisado
+      - hubo divisado
+      - hubimos divisado
+      - hubisteis divisado
+      - hubieron divisado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 divisado"
+      - "habr\xE1s divisado"
+      - "habr\xE1 divisado"
+      - habremos divisado
+      - "habr\xE9is divisado"
+      - "habr\xE1n divisado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa divisado"
+      - "habr\xEDas divisado"
+      - "habr\xEDa divisado"
+      - "habr\xEDamos divisado"
+      - "habr\xEDais divisado"
+      - "habr\xEDan divisado"
+      cjid: cpef
+    - cjfs:
+      - haya divisado
+      - hayas divisado
+      - haya divisado
+      - hayamos divisado
+      - "hay\xE1is divisado"
+      - hayan divisado
+      cjid: ppfs
+    - cjfs:
+      - hubiera divisado
+      - hubieras divisado
+      - hubiera divisado
+      - "hubi\xE9ramos divisado"
+      - hubierais divisado
+      - hubieran divisado
+      cjid: ppss1
+    - cjfs:
+      - hubiese divisado
+      - hubieses divisado
+      - hubiese divisado
+      - "hubi\xE9semos divisado"
+      - hubieseis divisado
+      - hubiesen divisado
+      cjid: ppss2
+    - cjfs:
+      - hubiere divisado
+      - hubieres divisado
+      - hubiere divisado
+      - "hubi\xE9remos divisado"
+      - hubiereis divisado
+      - hubieren divisado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - divisa
+      - divise
+      - divisemos
+      - divisad
+      - divisen
+      cjid: impf

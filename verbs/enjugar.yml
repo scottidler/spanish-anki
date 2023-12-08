@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wipe away} (tears)'
+  fl: transitive verb
+  hwi:
+    hw: enjugar
+  meta:
+    id: enjugar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608617000'
+    src: spanish
+    stems:
+    - enjugar
+    uuid: 4c8ef31b-09b8-4d09-9893-482a7c24fc7b
+  shortdef:
+  - to wipe away (tears)
+  suppl:
+    cjts:
+    - cjfs:
+      - enjugando
+      - enjugado
+      cjid: gppt
+    - cjfs:
+      - enjugo
+      - enjugas
+      - enjuga
+      - enjugamos
+      - "enjug\xE1is"
+      - enjugan
+      cjid: pind
+    - cjfs:
+      - enjugaba
+      - enjugabas
+      - enjugaba
+      - "enjug\xE1bamos"
+      - enjugabais
+      - enjugaban
+      cjid: pret
+    - cjfs:
+      - "enjugu\xE9"
+      - enjugaste
+      - "enjug\xF3"
+      - enjugamos
+      - enjugasteis
+      - enjugaron
+      cjid: pprf
+    - cjfs:
+      - "enjugar\xE9"
+      - "enjugar\xE1s"
+      - "enjugar\xE1"
+      - enjugaremos
+      - "enjugar\xE9is"
+      - "enjugar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enjugar\xEDa"
+      - "enjugar\xEDas"
+      - "enjugar\xEDa"
+      - "enjugar\xEDamos"
+      - "enjugar\xEDais"
+      - "enjugar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enjugue
+      - enjugues
+      - enjugue
+      - enjuguemos
+      - "enjugu\xE9is"
+      - enjuguen
+      cjid: psub
+    - cjfs:
+      - enjugara
+      - enjugaras
+      - enjugara
+      - "enjug\xE1ramos"
+      - enjugarais
+      - enjugaran
+      cjid: pisb1
+    - cjfs:
+      - enjugase
+      - enjugases
+      - enjugase
+      - "enjug\xE1semos"
+      - enjugaseis
+      - enjugasen
+      cjid: pisb2
+    - cjfs:
+      - enjugare
+      - enjugares
+      - enjugare
+      - "enjug\xE1remos"
+      - enjugareis
+      - enjugaren
+      cjid: fsub
+    - cjfs:
+      - he enjugado
+      - has enjugado
+      - ha enjugado
+      - hemos enjugado
+      - "hab\xE9is enjugado"
+      - han enjugado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enjugado"
+      - "hab\xEDas enjugado"
+      - "hab\xEDa enjugado"
+      - "hab\xEDamos enjugado"
+      - "hab\xEDais enjugado"
+      - "hab\xEDan enjugado"
+      cjid: ppsi
+    - cjfs:
+      - hube enjugado
+      - hubiste enjugado
+      - hubo enjugado
+      - hubimos enjugado
+      - hubisteis enjugado
+      - hubieron enjugado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enjugado"
+      - "habr\xE1s enjugado"
+      - "habr\xE1 enjugado"
+      - habremos enjugado
+      - "habr\xE9is enjugado"
+      - "habr\xE1n enjugado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enjugado"
+      - "habr\xEDas enjugado"
+      - "habr\xEDa enjugado"
+      - "habr\xEDamos enjugado"
+      - "habr\xEDais enjugado"
+      - "habr\xEDan enjugado"
+      cjid: cpef
+    - cjfs:
+      - haya enjugado
+      - hayas enjugado
+      - haya enjugado
+      - hayamos enjugado
+      - "hay\xE1is enjugado"
+      - hayan enjugado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enjugado
+      - hubieras enjugado
+      - hubiera enjugado
+      - "hubi\xE9ramos enjugado"
+      - hubierais enjugado
+      - hubieran enjugado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enjugado
+      - hubieses enjugado
+      - hubiese enjugado
+      - "hubi\xE9semos enjugado"
+      - hubieseis enjugado
+      - hubiesen enjugado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enjugado
+      - hubieres enjugado
+      - hubiere enjugado
+      - "hubi\xE9remos enjugado"
+      - hubiereis enjugado
+      - hubieren enjugado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enjuga
+      - enjugue
+      - enjuguemos
+      - enjugad
+      - enjuguen
+      cjid: impf

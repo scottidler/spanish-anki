@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drown}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|smother}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to choke back, to {a_link|stifle}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: ahogar
+    prs:
+    - sound:
+        audio: ahoga01sp
+  meta:
+    id: ahogar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600786000'
+    src: spanish
+    stems:
+    - ahogar
+    - ahogarse
+    uuid: 90df869c-dc88-475a-881e-fa35fb3f6127
+  shortdef:
+  - to drown
+  - to smother
+  - to choke back, to stifle
+  suppl:
+    cjts:
+    - cjfs:
+      - ahogando
+      - ahogado
+      cjid: gppt
+    - cjfs:
+      - ahogo
+      - ahogas
+      - ahoga
+      - ahogamos
+      - "ahog\xE1is"
+      - ahogan
+      cjid: pind
+    - cjfs:
+      - ahogaba
+      - ahogabas
+      - ahogaba
+      - "ahog\xE1bamos"
+      - ahogabais
+      - ahogaban
+      cjid: pret
+    - cjfs:
+      - "ahogu\xE9"
+      - ahogaste
+      - "ahog\xF3"
+      - ahogamos
+      - ahogasteis
+      - ahogaron
+      cjid: pprf
+    - cjfs:
+      - "ahogar\xE9"
+      - "ahogar\xE1s"
+      - "ahogar\xE1"
+      - ahogaremos
+      - "ahogar\xE9is"
+      - "ahogar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ahogar\xEDa"
+      - "ahogar\xEDas"
+      - "ahogar\xEDa"
+      - "ahogar\xEDamos"
+      - "ahogar\xEDais"
+      - "ahogar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ahogue
+      - ahogues
+      - ahogue
+      - ahoguemos
+      - "ahogu\xE9is"
+      - ahoguen
+      cjid: psub
+    - cjfs:
+      - ahogara
+      - ahogaras
+      - ahogara
+      - "ahog\xE1ramos"
+      - ahogarais
+      - ahogaran
+      cjid: pisb1
+    - cjfs:
+      - ahogase
+      - ahogases
+      - ahogase
+      - "ahog\xE1semos"
+      - ahogaseis
+      - ahogasen
+      cjid: pisb2
+    - cjfs:
+      - ahogare
+      - ahogares
+      - ahogare
+      - "ahog\xE1remos"
+      - ahogareis
+      - ahogaren
+      cjid: fsub
+    - cjfs:
+      - he ahogado
+      - has ahogado
+      - ha ahogado
+      - hemos ahogado
+      - "hab\xE9is ahogado"
+      - han ahogado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ahogado"
+      - "hab\xEDas ahogado"
+      - "hab\xEDa ahogado"
+      - "hab\xEDamos ahogado"
+      - "hab\xEDais ahogado"
+      - "hab\xEDan ahogado"
+      cjid: ppsi
+    - cjfs:
+      - hube ahogado
+      - hubiste ahogado
+      - hubo ahogado
+      - hubimos ahogado
+      - hubisteis ahogado
+      - hubieron ahogado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ahogado"
+      - "habr\xE1s ahogado"
+      - "habr\xE1 ahogado"
+      - habremos ahogado
+      - "habr\xE9is ahogado"
+      - "habr\xE1n ahogado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ahogado"
+      - "habr\xEDas ahogado"
+      - "habr\xEDa ahogado"
+      - "habr\xEDamos ahogado"
+      - "habr\xEDais ahogado"
+      - "habr\xEDan ahogado"
+      cjid: cpef
+    - cjfs:
+      - haya ahogado
+      - hayas ahogado
+      - haya ahogado
+      - hayamos ahogado
+      - "hay\xE1is ahogado"
+      - hayan ahogado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ahogado
+      - hubieras ahogado
+      - hubiera ahogado
+      - "hubi\xE9ramos ahogado"
+      - hubierais ahogado
+      - hubieran ahogado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ahogado
+      - hubieses ahogado
+      - hubiese ahogado
+      - "hubi\xE9semos ahogado"
+      - hubieseis ahogado
+      - hubiesen ahogado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ahogado
+      - hubieres ahogado
+      - hubiere ahogado
+      - "hubi\xE9remos ahogado"
+      - hubiereis ahogado
+      - hubieren ahogado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ahoga
+      - ahogue
+      - ahoguemos
+      - ahogad
+      - ahoguen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: ahogarse

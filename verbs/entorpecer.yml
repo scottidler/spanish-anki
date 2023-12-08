@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hinder}, to {a_link|obstruct}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dull}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to dull the senses'
+    drp: entorpecerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: entorpecer
+    prs:
+    - sound:
+        audio: entor02sp
+  meta:
+    id: entorpecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608733000'
+    src: spanish
+    stems:
+    - entorpecer
+    - entorpecerse
+    uuid: 16265ff4-3b36-43c3-ad48-c71edf0fa1f2
+  shortdef:
+  - to hinder, to obstruct
+  - to dull
+  suppl:
+    cjts:
+    - cjfs:
+      - entorpeciendo
+      - entorpecido
+      cjid: gppt
+    - cjfs:
+      - entorpezco
+      - entorpeces
+      - entorpece
+      - entorpecemos
+      - "entorpec\xE9is"
+      - entorpecen
+      cjid: pind
+    - cjfs:
+      - "entorpec\xEDa"
+      - "entorpec\xEDas"
+      - "entorpec\xEDa"
+      - "entorpec\xEDamos"
+      - "entorpec\xEDais"
+      - "entorpec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "entorpec\xED"
+      - entorpeciste
+      - "entorpeci\xF3"
+      - entorpecimos
+      - entorpecisteis
+      - entorpecieron
+      cjid: pprf
+    - cjfs:
+      - "entorpecer\xE9"
+      - "entorpecer\xE1s"
+      - "entorpecer\xE1"
+      - entorpeceremos
+      - "entorpecer\xE9is"
+      - "entorpecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entorpecer\xEDa"
+      - "entorpecer\xEDas"
+      - "entorpecer\xEDa"
+      - "entorpecer\xEDamos"
+      - "entorpecer\xEDais"
+      - "entorpecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - entorpezca
+      - entorpezcas
+      - entorpezca
+      - entorpezcamos
+      - "entorpezc\xE1is"
+      - entorpezcan
+      cjid: psub
+    - cjfs:
+      - entorpeciera
+      - entorpecieras
+      - entorpeciera
+      - "entorpeci\xE9ramos"
+      - entorpecierais
+      - entorpecieran
+      cjid: pisb1
+    - cjfs:
+      - entorpeciese
+      - entorpecieses
+      - entorpeciese
+      - "entorpeci\xE9semos"
+      - entorpecieseis
+      - entorpeciesen
+      cjid: pisb2
+    - cjfs:
+      - entorpeciere
+      - entorpecieres
+      - entorpeciere
+      - "entorpeci\xE9remos"
+      - entorpeciereis
+      - entorpecieren
+      cjid: fsub
+    - cjfs:
+      - he entorpecido
+      - has entorpecido
+      - ha entorpecido
+      - hemos entorpecido
+      - "hab\xE9is entorpecido"
+      - han entorpecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entorpecido"
+      - "hab\xEDas entorpecido"
+      - "hab\xEDa entorpecido"
+      - "hab\xEDamos entorpecido"
+      - "hab\xEDais entorpecido"
+      - "hab\xEDan entorpecido"
+      cjid: ppsi
+    - cjfs:
+      - hube entorpecido
+      - hubiste entorpecido
+      - hubo entorpecido
+      - hubimos entorpecido
+      - hubisteis entorpecido
+      - hubieron entorpecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entorpecido"
+      - "habr\xE1s entorpecido"
+      - "habr\xE1 entorpecido"
+      - habremos entorpecido
+      - "habr\xE9is entorpecido"
+      - "habr\xE1n entorpecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entorpecido"
+      - "habr\xEDas entorpecido"
+      - "habr\xEDa entorpecido"
+      - "habr\xEDamos entorpecido"
+      - "habr\xEDais entorpecido"
+      - "habr\xEDan entorpecido"
+      cjid: cpef
+    - cjfs:
+      - haya entorpecido
+      - hayas entorpecido
+      - haya entorpecido
+      - hayamos entorpecido
+      - "hay\xE1is entorpecido"
+      - hayan entorpecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera entorpecido
+      - hubieras entorpecido
+      - hubiera entorpecido
+      - "hubi\xE9ramos entorpecido"
+      - hubierais entorpecido
+      - hubieran entorpecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese entorpecido
+      - hubieses entorpecido
+      - hubiese entorpecido
+      - "hubi\xE9semos entorpecido"
+      - hubieseis entorpecido
+      - hubiesen entorpecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere entorpecido
+      - hubieres entorpecido
+      - hubiere entorpecido
+      - "hubi\xE9remos entorpecido"
+      - hubiereis entorpecido
+      - hubieren entorpecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entorpece
+      - entorpezca
+      - entorpezcamos
+      - entorpeced
+      - entorpezcan
+      cjid: impf

@@ -1,0 +1,202 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|identify}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to identify oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|identify with}'
+            sn: '2'
+            vrs:
+            - va: identificarse con
+              vac: ~ con
+    drp: identificarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: identificar
+    prs:
+    - sound:
+        audio: ident02sp
+  meta:
+    id: identificar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611810000'
+    src: spanish
+    stems:
+    - identificar
+    - identificarse
+    - identificarse con
+    uuid: f672a73c-8c0a-47e7-a132-30fb5aa5e682
+  shortdef:
+  - to identify
+  suppl:
+    cjts:
+    - cjfs:
+      - identificando
+      - identificado
+      cjid: gppt
+    - cjfs:
+      - identifico
+      - identificas
+      - identifica
+      - identificamos
+      - "identific\xE1is"
+      - identifican
+      cjid: pind
+    - cjfs:
+      - identificaba
+      - identificabas
+      - identificaba
+      - "identific\xE1bamos"
+      - identificabais
+      - identificaban
+      cjid: pret
+    - cjfs:
+      - "identifiqu\xE9"
+      - identificaste
+      - "identific\xF3"
+      - identificamos
+      - identificasteis
+      - identificaron
+      cjid: pprf
+    - cjfs:
+      - "identificar\xE9"
+      - "identificar\xE1s"
+      - "identificar\xE1"
+      - identificaremos
+      - "identificar\xE9is"
+      - "identificar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "identificar\xEDa"
+      - "identificar\xEDas"
+      - "identificar\xEDa"
+      - "identificar\xEDamos"
+      - "identificar\xEDais"
+      - "identificar\xEDan"
+      cjid: cond
+    - cjfs:
+      - identifique
+      - identifiques
+      - identifique
+      - identifiquemos
+      - "identifiqu\xE9is"
+      - identifiquen
+      cjid: psub
+    - cjfs:
+      - identificara
+      - identificaras
+      - identificara
+      - "identific\xE1ramos"
+      - identificarais
+      - identificaran
+      cjid: pisb1
+    - cjfs:
+      - identificase
+      - identificases
+      - identificase
+      - "identific\xE1semos"
+      - identificaseis
+      - identificasen
+      cjid: pisb2
+    - cjfs:
+      - identificare
+      - identificares
+      - identificare
+      - "identific\xE1remos"
+      - identificareis
+      - identificaren
+      cjid: fsub
+    - cjfs:
+      - he identificado
+      - has identificado
+      - ha identificado
+      - hemos identificado
+      - "hab\xE9is identificado"
+      - han identificado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa identificado"
+      - "hab\xEDas identificado"
+      - "hab\xEDa identificado"
+      - "hab\xEDamos identificado"
+      - "hab\xEDais identificado"
+      - "hab\xEDan identificado"
+      cjid: ppsi
+    - cjfs:
+      - hube identificado
+      - hubiste identificado
+      - hubo identificado
+      - hubimos identificado
+      - hubisteis identificado
+      - hubieron identificado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 identificado"
+      - "habr\xE1s identificado"
+      - "habr\xE1 identificado"
+      - habremos identificado
+      - "habr\xE9is identificado"
+      - "habr\xE1n identificado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa identificado"
+      - "habr\xEDas identificado"
+      - "habr\xEDa identificado"
+      - "habr\xEDamos identificado"
+      - "habr\xEDais identificado"
+      - "habr\xEDan identificado"
+      cjid: cpef
+    - cjfs:
+      - haya identificado
+      - hayas identificado
+      - haya identificado
+      - hayamos identificado
+      - "hay\xE1is identificado"
+      - hayan identificado
+      cjid: ppfs
+    - cjfs:
+      - hubiera identificado
+      - hubieras identificado
+      - hubiera identificado
+      - "hubi\xE9ramos identificado"
+      - hubierais identificado
+      - hubieran identificado
+      cjid: ppss1
+    - cjfs:
+      - hubiese identificado
+      - hubieses identificado
+      - hubiese identificado
+      - "hubi\xE9semos identificado"
+      - hubieseis identificado
+      - hubiesen identificado
+      cjid: ppss2
+    - cjfs:
+      - hubiere identificado
+      - hubieres identificado
+      - hubiere identificado
+      - "hubi\xE9remos identificado"
+      - hubiereis identificado
+      - hubieren identificado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - identifica
+      - identifique
+      - identifiquemos
+      - identificad
+      - identifiquen
+      cjid: impf

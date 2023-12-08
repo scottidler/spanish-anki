@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|espirar||} {bc}to {a_link|exhale}, to {a_link|give off}'
+  fl: transitive verb
+  hwi:
+    hw: exhalar
+  meta:
+    id: exhalar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609625000'
+    src: spanish
+    stems:
+    - exhalar
+    uuid: 919da0d3-8941-487f-9eeb-6efdb643eef4
+  shortdef:
+  - 'espirar : to exhale, to give off'
+  suppl:
+    cjts:
+    - cjfs:
+      - exhalando
+      - exhalado
+      cjid: gppt
+    - cjfs:
+      - exhalo
+      - exhalas
+      - exhala
+      - exhalamos
+      - "exhal\xE1is"
+      - exhalan
+      cjid: pind
+    - cjfs:
+      - exhalaba
+      - exhalabas
+      - exhalaba
+      - "exhal\xE1bamos"
+      - exhalabais
+      - exhalaban
+      cjid: pret
+    - cjfs:
+      - "exhal\xE9"
+      - exhalaste
+      - "exhal\xF3"
+      - exhalamos
+      - exhalasteis
+      - exhalaron
+      cjid: pprf
+    - cjfs:
+      - "exhalar\xE9"
+      - "exhalar\xE1s"
+      - "exhalar\xE1"
+      - exhalaremos
+      - "exhalar\xE9is"
+      - "exhalar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "exhalar\xEDa"
+      - "exhalar\xEDas"
+      - "exhalar\xEDa"
+      - "exhalar\xEDamos"
+      - "exhalar\xEDais"
+      - "exhalar\xEDan"
+      cjid: cond
+    - cjfs:
+      - exhale
+      - exhales
+      - exhale
+      - exhalemos
+      - "exhal\xE9is"
+      - exhalen
+      cjid: psub
+    - cjfs:
+      - exhalara
+      - exhalaras
+      - exhalara
+      - "exhal\xE1ramos"
+      - exhalarais
+      - exhalaran
+      cjid: pisb1
+    - cjfs:
+      - exhalase
+      - exhalases
+      - exhalase
+      - "exhal\xE1semos"
+      - exhalaseis
+      - exhalasen
+      cjid: pisb2
+    - cjfs:
+      - exhalare
+      - exhalares
+      - exhalare
+      - "exhal\xE1remos"
+      - exhalareis
+      - exhalaren
+      cjid: fsub
+    - cjfs:
+      - he exhalado
+      - has exhalado
+      - ha exhalado
+      - hemos exhalado
+      - "hab\xE9is exhalado"
+      - han exhalado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa exhalado"
+      - "hab\xEDas exhalado"
+      - "hab\xEDa exhalado"
+      - "hab\xEDamos exhalado"
+      - "hab\xEDais exhalado"
+      - "hab\xEDan exhalado"
+      cjid: ppsi
+    - cjfs:
+      - hube exhalado
+      - hubiste exhalado
+      - hubo exhalado
+      - hubimos exhalado
+      - hubisteis exhalado
+      - hubieron exhalado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 exhalado"
+      - "habr\xE1s exhalado"
+      - "habr\xE1 exhalado"
+      - habremos exhalado
+      - "habr\xE9is exhalado"
+      - "habr\xE1n exhalado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa exhalado"
+      - "habr\xEDas exhalado"
+      - "habr\xEDa exhalado"
+      - "habr\xEDamos exhalado"
+      - "habr\xEDais exhalado"
+      - "habr\xEDan exhalado"
+      cjid: cpef
+    - cjfs:
+      - haya exhalado
+      - hayas exhalado
+      - haya exhalado
+      - hayamos exhalado
+      - "hay\xE1is exhalado"
+      - hayan exhalado
+      cjid: ppfs
+    - cjfs:
+      - hubiera exhalado
+      - hubieras exhalado
+      - hubiera exhalado
+      - "hubi\xE9ramos exhalado"
+      - hubierais exhalado
+      - hubieran exhalado
+      cjid: ppss1
+    - cjfs:
+      - hubiese exhalado
+      - hubieses exhalado
+      - hubiese exhalado
+      - "hubi\xE9semos exhalado"
+      - hubieseis exhalado
+      - hubiesen exhalado
+      cjid: ppss2
+    - cjfs:
+      - hubiere exhalado
+      - hubieres exhalado
+      - hubiere exhalado
+      - "hubi\xE9remos exhalado"
+      - hubiereis exhalado
+      - hubieren exhalado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - exhala
+      - exhale
+      - exhalemos
+      - exhalad
+      - exhalen
+      cjid: impf

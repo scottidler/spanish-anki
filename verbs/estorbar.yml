@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|obstruir||} {bc}to {a_link|obstruct}, to {a_link|hinder}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get in the way'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: estorbar
+  meta:
+    id: estorbar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609407000'
+    src: spanish
+    stems:
+    - estorbar
+    uuid: f70a50f2-29a4-4693-a296-81b1c615f03a
+  shortdef:
+  - 'obstruir : to obstruct, to hinder'
+  - to get in the way
+  suppl:
+    cjts:
+    - cjfs:
+      - estorbando
+      - estorbado
+      cjid: gppt
+    - cjfs:
+      - estorbo
+      - estorbas
+      - estorba
+      - estorbamos
+      - "estorb\xE1is"
+      - estorban
+      cjid: pind
+    - cjfs:
+      - estorbaba
+      - estorbabas
+      - estorbaba
+      - "estorb\xE1bamos"
+      - estorbabais
+      - estorbaban
+      cjid: pret
+    - cjfs:
+      - "estorb\xE9"
+      - estorbaste
+      - "estorb\xF3"
+      - estorbamos
+      - estorbasteis
+      - estorbaron
+      cjid: pprf
+    - cjfs:
+      - "estorbar\xE9"
+      - "estorbar\xE1s"
+      - "estorbar\xE1"
+      - estorbaremos
+      - "estorbar\xE9is"
+      - "estorbar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "estorbar\xEDa"
+      - "estorbar\xEDas"
+      - "estorbar\xEDa"
+      - "estorbar\xEDamos"
+      - "estorbar\xEDais"
+      - "estorbar\xEDan"
+      cjid: cond
+    - cjfs:
+      - estorbe
+      - estorbes
+      - estorbe
+      - estorbemos
+      - "estorb\xE9is"
+      - estorben
+      cjid: psub
+    - cjfs:
+      - estorbara
+      - estorbaras
+      - estorbara
+      - "estorb\xE1ramos"
+      - estorbarais
+      - estorbaran
+      cjid: pisb1
+    - cjfs:
+      - estorbase
+      - estorbases
+      - estorbase
+      - "estorb\xE1semos"
+      - estorbaseis
+      - estorbasen
+      cjid: pisb2
+    - cjfs:
+      - estorbare
+      - estorbares
+      - estorbare
+      - "estorb\xE1remos"
+      - estorbareis
+      - estorbaren
+      cjid: fsub
+    - cjfs:
+      - he estorbado
+      - has estorbado
+      - ha estorbado
+      - hemos estorbado
+      - "hab\xE9is estorbado"
+      - han estorbado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa estorbado"
+      - "hab\xEDas estorbado"
+      - "hab\xEDa estorbado"
+      - "hab\xEDamos estorbado"
+      - "hab\xEDais estorbado"
+      - "hab\xEDan estorbado"
+      cjid: ppsi
+    - cjfs:
+      - hube estorbado
+      - hubiste estorbado
+      - hubo estorbado
+      - hubimos estorbado
+      - hubisteis estorbado
+      - hubieron estorbado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 estorbado"
+      - "habr\xE1s estorbado"
+      - "habr\xE1 estorbado"
+      - habremos estorbado
+      - "habr\xE9is estorbado"
+      - "habr\xE1n estorbado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa estorbado"
+      - "habr\xEDas estorbado"
+      - "habr\xEDa estorbado"
+      - "habr\xEDamos estorbado"
+      - "habr\xEDais estorbado"
+      - "habr\xEDan estorbado"
+      cjid: cpef
+    - cjfs:
+      - haya estorbado
+      - hayas estorbado
+      - haya estorbado
+      - hayamos estorbado
+      - "hay\xE1is estorbado"
+      - hayan estorbado
+      cjid: ppfs
+    - cjfs:
+      - hubiera estorbado
+      - hubieras estorbado
+      - hubiera estorbado
+      - "hubi\xE9ramos estorbado"
+      - hubierais estorbado
+      - hubieran estorbado
+      cjid: ppss1
+    - cjfs:
+      - hubiese estorbado
+      - hubieses estorbado
+      - hubiese estorbado
+      - "hubi\xE9semos estorbado"
+      - hubieseis estorbado
+      - hubiesen estorbado
+      cjid: ppss2
+    - cjfs:
+      - hubiere estorbado
+      - hubieres estorbado
+      - hubiere estorbado
+      - "hubi\xE9remos estorbado"
+      - hubiereis estorbado
+      - hubieren estorbado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - estorba
+      - estorbe
+      - estorbemos
+      - estorbad
+      - estorben
+      cjid: impf

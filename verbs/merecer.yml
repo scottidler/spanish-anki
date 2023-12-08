@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deserve}, to {a_link|merit}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be worthy'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: merecer
+    prs:
+    - sound:
+        audio: merec01sp
+  meta:
+    id: merecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614879000'
+    src: spanish
+    stems:
+    - merecer
+    uuid: 34c97857-173f-4701-ab78-e0d5094c384f
+  shortdef:
+  - to deserve, to merit
+  - to be worthy
+  suppl:
+    cjts:
+    - cjfs:
+      - mereciendo
+      - merecido
+      cjid: gppt
+    - cjfs:
+      - merezco
+      - mereces
+      - merece
+      - merecemos
+      - "merec\xE9is"
+      - merecen
+      cjid: pind
+    - cjfs:
+      - "merec\xEDa"
+      - "merec\xEDas"
+      - "merec\xEDa"
+      - "merec\xEDamos"
+      - "merec\xEDais"
+      - "merec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "merec\xED"
+      - mereciste
+      - "mereci\xF3"
+      - merecimos
+      - merecisteis
+      - merecieron
+      cjid: pprf
+    - cjfs:
+      - "merecer\xE9"
+      - "merecer\xE1s"
+      - "merecer\xE1"
+      - mereceremos
+      - "merecer\xE9is"
+      - "merecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "merecer\xEDa"
+      - "merecer\xEDas"
+      - "merecer\xEDa"
+      - "merecer\xEDamos"
+      - "merecer\xEDais"
+      - "merecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - merezca
+      - merezcas
+      - merezca
+      - merezcamos
+      - "merezc\xE1is"
+      - merezcan
+      cjid: psub
+    - cjfs:
+      - mereciera
+      - merecieras
+      - mereciera
+      - "mereci\xE9ramos"
+      - merecierais
+      - merecieran
+      cjid: pisb1
+    - cjfs:
+      - mereciese
+      - merecieses
+      - mereciese
+      - "mereci\xE9semos"
+      - merecieseis
+      - mereciesen
+      cjid: pisb2
+    - cjfs:
+      - mereciere
+      - merecieres
+      - mereciere
+      - "mereci\xE9remos"
+      - mereciereis
+      - merecieren
+      cjid: fsub
+    - cjfs:
+      - he merecido
+      - has merecido
+      - ha merecido
+      - hemos merecido
+      - "hab\xE9is merecido"
+      - han merecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa merecido"
+      - "hab\xEDas merecido"
+      - "hab\xEDa merecido"
+      - "hab\xEDamos merecido"
+      - "hab\xEDais merecido"
+      - "hab\xEDan merecido"
+      cjid: ppsi
+    - cjfs:
+      - hube merecido
+      - hubiste merecido
+      - hubo merecido
+      - hubimos merecido
+      - hubisteis merecido
+      - hubieron merecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 merecido"
+      - "habr\xE1s merecido"
+      - "habr\xE1 merecido"
+      - habremos merecido
+      - "habr\xE9is merecido"
+      - "habr\xE1n merecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa merecido"
+      - "habr\xEDas merecido"
+      - "habr\xEDa merecido"
+      - "habr\xEDamos merecido"
+      - "habr\xEDais merecido"
+      - "habr\xEDan merecido"
+      cjid: cpef
+    - cjfs:
+      - haya merecido
+      - hayas merecido
+      - haya merecido
+      - hayamos merecido
+      - "hay\xE1is merecido"
+      - hayan merecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera merecido
+      - hubieras merecido
+      - hubiera merecido
+      - "hubi\xE9ramos merecido"
+      - hubierais merecido
+      - hubieran merecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese merecido
+      - hubieses merecido
+      - hubiese merecido
+      - "hubi\xE9semos merecido"
+      - hubieseis merecido
+      - hubiesen merecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere merecido
+      - hubieres merecido
+      - hubiere merecido
+      - "hubi\xE9remos merecido"
+      - hubiereis merecido
+      - hubieren merecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - merece
+      - merezca
+      - merezcamos
+      - mereced
+      - merezcan
+      cjid: impf

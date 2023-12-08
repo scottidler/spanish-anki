@@ -1,0 +1,229 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pull out} (hair), to {a_link|tear out} (a page), to
+              {a_link|pull up} (a weed), to {a_link|pull off} (a piece)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pick} (a flower)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw} (applause, tears)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|start} (a car, etc.), to {a_link|boot} (a computer)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|arrebatar||} {bc}to {a_link|snatch}'
+          sn: '5'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|start}, to {a_link|boot} (of a computer)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get going}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|pull out}, to {a_link|pull off}'
+    drp: arrancarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: arrancar
+    prs:
+    - sound:
+        audio: arran01sp
+  meta:
+    id: arrancar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601979000'
+    src: spanish
+    stems:
+    - arrancar
+    - arrancarse
+    uuid: 5d5e03d0-98e3-4ca7-895d-e6c7ec14fef5
+  shortdef:
+  - to pull out (hair), to tear out (a page), to pull up (a weed), to pull off (a
+    piece)
+  - to pick (a flower)
+  - to draw (applause, tears)
+  suppl:
+    cjts:
+    - cjfs:
+      - arrancando
+      - arrancado
+      cjid: gppt
+    - cjfs:
+      - arranco
+      - arrancas
+      - arranca
+      - arrancamos
+      - "arranc\xE1is"
+      - arrancan
+      cjid: pind
+    - cjfs:
+      - arrancaba
+      - arrancabas
+      - arrancaba
+      - "arranc\xE1bamos"
+      - arrancabais
+      - arrancaban
+      cjid: pret
+    - cjfs:
+      - "arranqu\xE9"
+      - arrancaste
+      - "arranc\xF3"
+      - arrancamos
+      - arrancasteis
+      - arrancaron
+      cjid: pprf
+    - cjfs:
+      - "arrancar\xE9"
+      - "arrancar\xE1s"
+      - "arrancar\xE1"
+      - arrancaremos
+      - "arrancar\xE9is"
+      - "arrancar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrancar\xEDa"
+      - "arrancar\xEDas"
+      - "arrancar\xEDa"
+      - "arrancar\xEDamos"
+      - "arrancar\xEDais"
+      - "arrancar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arranque
+      - arranques
+      - arranque
+      - arranquemos
+      - "arranqu\xE9is"
+      - arranquen
+      cjid: psub
+    - cjfs:
+      - arrancara
+      - arrancaras
+      - arrancara
+      - "arranc\xE1ramos"
+      - arrancarais
+      - arrancaran
+      cjid: pisb1
+    - cjfs:
+      - arrancase
+      - arrancases
+      - arrancase
+      - "arranc\xE1semos"
+      - arrancaseis
+      - arrancasen
+      cjid: pisb2
+    - cjfs:
+      - arrancare
+      - arrancares
+      - arrancare
+      - "arranc\xE1remos"
+      - arrancareis
+      - arrancaren
+      cjid: fsub
+    - cjfs:
+      - he arrancado
+      - has arrancado
+      - ha arrancado
+      - hemos arrancado
+      - "hab\xE9is arrancado"
+      - han arrancado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrancado"
+      - "hab\xEDas arrancado"
+      - "hab\xEDa arrancado"
+      - "hab\xEDamos arrancado"
+      - "hab\xEDais arrancado"
+      - "hab\xEDan arrancado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrancado
+      - hubiste arrancado
+      - hubo arrancado
+      - hubimos arrancado
+      - hubisteis arrancado
+      - hubieron arrancado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrancado"
+      - "habr\xE1s arrancado"
+      - "habr\xE1 arrancado"
+      - habremos arrancado
+      - "habr\xE9is arrancado"
+      - "habr\xE1n arrancado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrancado"
+      - "habr\xEDas arrancado"
+      - "habr\xEDa arrancado"
+      - "habr\xEDamos arrancado"
+      - "habr\xEDais arrancado"
+      - "habr\xEDan arrancado"
+      cjid: cpef
+    - cjfs:
+      - haya arrancado
+      - hayas arrancado
+      - haya arrancado
+      - hayamos arrancado
+      - "hay\xE1is arrancado"
+      - hayan arrancado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrancado
+      - hubieras arrancado
+      - hubiera arrancado
+      - "hubi\xE9ramos arrancado"
+      - hubierais arrancado
+      - hubieran arrancado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrancado
+      - hubieses arrancado
+      - hubiese arrancado
+      - "hubi\xE9semos arrancado"
+      - hubieseis arrancado
+      - hubiesen arrancado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrancado
+      - hubieres arrancado
+      - hubiere arrancado
+      - "hubi\xE9remos arrancado"
+      - hubiereis arrancado
+      - hubieren arrancado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arranca
+      - arranque
+      - arranquemos
+      - arrancad
+      - arranquen
+      cjid: impf

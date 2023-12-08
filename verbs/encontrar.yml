@@ -1,0 +1,231 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|hallar||} {bc}to {a_link|find} '
+          - - vis
+            - - t: "encontr\xE9 el libro"
+                tr: I found the book
+              - t: encontraron al culpable
+                tr: they found the culprit
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|encounter}, to {a_link|meet}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|find} '
+          - - vis
+            - - t: lo encuentro muy interesante
+                tr: I find it very interesting
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|clash}, to {a_link|conflict}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|be}, to {a_link|feel} '
+            - - vis
+              - - t: su padre se encuentra mejor
+                  tr: her father is (feeling/doing) better
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|meet}, to {a_link|bump into}'
+            sn: '3'
+            vrs:
+            - va: encontrarse con
+              vac: ~ con
+    drp: encontrarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: encontrar
+    prs:
+    - sound:
+        audio: encon02sp
+  meta:
+    id: encontrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608493000'
+    src: spanish
+    stems:
+    - encontrar
+    - encontrarse
+    - encontrarse con
+    uuid: d0fb4f70-07cc-4e19-b6ac-3f790865820f
+  shortdef:
+  - 'hallar : to find'
+  - to encounter, to meet
+  - to find
+  suppl:
+    cjts:
+    - cjfs:
+      - encontrando
+      - encontrado
+      cjid: gppt
+    - cjfs:
+      - encuentro
+      - encuentras
+      - encuentra
+      - encontramos
+      - "encontr\xE1is"
+      - encuentran
+      cjid: pind
+    - cjfs:
+      - encontraba
+      - encontrabas
+      - encontraba
+      - "encontr\xE1bamos"
+      - encontrabais
+      - encontraban
+      cjid: pret
+    - cjfs:
+      - "encontr\xE9"
+      - encontraste
+      - "encontr\xF3"
+      - encontramos
+      - encontrasteis
+      - encontraron
+      cjid: pprf
+    - cjfs:
+      - "encontrar\xE9"
+      - "encontrar\xE1s"
+      - "encontrar\xE1"
+      - encontraremos
+      - "encontrar\xE9is"
+      - "encontrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encontrar\xEDa"
+      - "encontrar\xEDas"
+      - "encontrar\xEDa"
+      - "encontrar\xEDamos"
+      - "encontrar\xEDais"
+      - "encontrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encuentre
+      - encuentres
+      - encuentre
+      - encontremos
+      - "encontr\xE9is"
+      - encuentren
+      cjid: psub
+    - cjfs:
+      - encontrara
+      - encontraras
+      - encontrara
+      - "encontr\xE1ramos"
+      - encontrarais
+      - encontraran
+      cjid: pisb1
+    - cjfs:
+      - encontrase
+      - encontrases
+      - encontrase
+      - "encontr\xE1semos"
+      - encontraseis
+      - encontrasen
+      cjid: pisb2
+    - cjfs:
+      - encontrare
+      - encontrares
+      - encontrare
+      - "encontr\xE1remos"
+      - encontrareis
+      - encontraren
+      cjid: fsub
+    - cjfs:
+      - he encontrado
+      - has encontrado
+      - ha encontrado
+      - hemos encontrado
+      - "hab\xE9is encontrado"
+      - han encontrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encontrado"
+      - "hab\xEDas encontrado"
+      - "hab\xEDa encontrado"
+      - "hab\xEDamos encontrado"
+      - "hab\xEDais encontrado"
+      - "hab\xEDan encontrado"
+      cjid: ppsi
+    - cjfs:
+      - hube encontrado
+      - hubiste encontrado
+      - hubo encontrado
+      - hubimos encontrado
+      - hubisteis encontrado
+      - hubieron encontrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encontrado"
+      - "habr\xE1s encontrado"
+      - "habr\xE1 encontrado"
+      - habremos encontrado
+      - "habr\xE9is encontrado"
+      - "habr\xE1n encontrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encontrado"
+      - "habr\xEDas encontrado"
+      - "habr\xEDa encontrado"
+      - "habr\xEDamos encontrado"
+      - "habr\xEDais encontrado"
+      - "habr\xEDan encontrado"
+      cjid: cpef
+    - cjfs:
+      - haya encontrado
+      - hayas encontrado
+      - haya encontrado
+      - hayamos encontrado
+      - "hay\xE1is encontrado"
+      - hayan encontrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encontrado
+      - hubieras encontrado
+      - hubiera encontrado
+      - "hubi\xE9ramos encontrado"
+      - hubierais encontrado
+      - hubieran encontrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encontrado
+      - hubieses encontrado
+      - hubiese encontrado
+      - "hubi\xE9semos encontrado"
+      - hubieseis encontrado
+      - hubiesen encontrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encontrado
+      - hubieres encontrado
+      - hubiere encontrado
+      - "hubi\xE9remos encontrado"
+      - hubiereis encontrado
+      - hubieren encontrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encuentra
+      - encuentre
+      - encontremos
+      - encontrad
+      - encuentren
+      cjid: impf

@@ -1,0 +1,455 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|lanzar||} {bc}to {a_link|throw}, to {a_link|toss} (a coin), to
+              {a_link|cast} (an anchor, a net) '
+          - - vis
+            - - t: "lo ech\xF3 a la basura"
+                tr: she threw it away
+              - t: "echar la cabeza hacia atr\xE1s"
+                tr: to throw one's head back
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|throw out} (of a place), to {a_link|expel} (from school) '
+          - - vis
+            - - t: me echaron de la casa
+                tr: they threw me out of the house
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|despedir||} {bc}to {a_link|fire}, to {a_link|dismiss}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|emitir||} {bc}to {a_link|emit}, to {a_link|give off}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|brotar||} {bc}to {a_link|sprout}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put in}, to {a_link|add}'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|have} (a look)'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mail}'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pour}'
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a blessing, etc.), to {a_link|put} (a curse)
+              {a_link|on}'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn} (a key), to {a_link|slide} (a bolt) '
+          - - vis
+            - - t: echarle (la) llave (a la puerta)
+                tr: to lock the door
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demolish}'
+          sn: '12'
+          vrs:
+          - va: echar abajo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spoil}, to {a_link|ruin}'
+          sn: '13'
+          vrs:
+          - va: echar a perder
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|miss} '
+          - - vis
+            - - t: echan de menos a su madre
+                tr: they miss their mother
+          sn: '14'
+          vrs:
+          - va: echar de menos
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to start off'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to begin to '
+          - - vis
+            - - t: "se ech\xF3 a llorar"
+                tr: he began to cry
+          sn: '2'
+          vrs:
+          - va: echar a
+            vac: ~ a
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to throw oneself '
+            - - vis
+              - - t: "se ech\xF3 en sus brazos"
+                  tr: she threw herself into his arms
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|lie down}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|put on}'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to begin to'
+            sn: '4'
+            vrs:
+            - va: echarse a
+              vac: ~ a
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go bad}, to {a_link|spoil}'
+            sn: '5'
+            vrs:
+            - va: echarse a perder
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|pose as}'
+            sn: '6'
+            vrs:
+            - va: "ech\xE1rselas de"
+    drp: echarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: echar
+    prs:
+    - sound:
+        audio: echar01sp
+  meta:
+    id: echar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608019000'
+    src: spanish
+    stems:
+    - echar
+    - echar abajo
+    - echar a perder
+    - echar de menos
+    - echar a
+    - echarse
+    - echarse a
+    - echarse a perder
+    - "ech\xE1rselas de"
+    uuid: ec062529-4c05-4fb3-9b21-159ee0a452da
+  shortdef:
+  - 'lanzar : to throw, to toss (a coin), to cast (an anchor, a net)'
+  - to throw out (of a place), to expel (from school)
+  - 'despedir : to fire, to dismiss'
+  suppl:
+    cjts:
+    - cjfs:
+      - echando
+      - echado
+      cjid: gppt
+    - cjfs:
+      - echo
+      - echas
+      - echa
+      - echamos
+      - "ech\xE1is"
+      - echan
+      cjid: pind
+    - cjfs:
+      - echaba
+      - echabas
+      - echaba
+      - "ech\xE1bamos"
+      - echabais
+      - echaban
+      cjid: pret
+    - cjfs:
+      - "ech\xE9"
+      - echaste
+      - "ech\xF3"
+      - echamos
+      - echasteis
+      - echaron
+      cjid: pprf
+    - cjfs:
+      - "echar\xE9"
+      - "echar\xE1s"
+      - "echar\xE1"
+      - echaremos
+      - "echar\xE9is"
+      - "echar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "echar\xEDa"
+      - "echar\xEDas"
+      - "echar\xEDa"
+      - "echar\xEDamos"
+      - "echar\xEDais"
+      - "echar\xEDan"
+      cjid: cond
+    - cjfs:
+      - eche
+      - eches
+      - eche
+      - echemos
+      - "ech\xE9is"
+      - echen
+      cjid: psub
+    - cjfs:
+      - echara
+      - echaras
+      - echara
+      - "ech\xE1ramos"
+      - echarais
+      - echaran
+      cjid: pisb1
+    - cjfs:
+      - echase
+      - echases
+      - echase
+      - "ech\xE1semos"
+      - echaseis
+      - echasen
+      cjid: pisb2
+    - cjfs:
+      - echare
+      - echares
+      - echare
+      - "ech\xE1remos"
+      - echareis
+      - echaren
+      cjid: fsub
+    - cjfs:
+      - he echado
+      - has echado
+      - ha echado
+      - hemos echado
+      - "hab\xE9is echado"
+      - han echado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa echado"
+      - "hab\xEDas echado"
+      - "hab\xEDa echado"
+      - "hab\xEDamos echado"
+      - "hab\xEDais echado"
+      - "hab\xEDan echado"
+      cjid: ppsi
+    - cjfs:
+      - hube echado
+      - hubiste echado
+      - hubo echado
+      - hubimos echado
+      - hubisteis echado
+      - hubieron echado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 echado"
+      - "habr\xE1s echado"
+      - "habr\xE1 echado"
+      - habremos echado
+      - "habr\xE9is echado"
+      - "habr\xE1n echado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa echado"
+      - "habr\xEDas echado"
+      - "habr\xEDa echado"
+      - "habr\xEDamos echado"
+      - "habr\xEDais echado"
+      - "habr\xEDan echado"
+      cjid: cpef
+    - cjfs:
+      - haya echado
+      - hayas echado
+      - haya echado
+      - hayamos echado
+      - "hay\xE1is echado"
+      - hayan echado
+      cjid: ppfs
+    - cjfs:
+      - hubiera echado
+      - hubieras echado
+      - hubiera echado
+      - "hubi\xE9ramos echado"
+      - hubierais echado
+      - hubieran echado
+      cjid: ppss1
+    - cjfs:
+      - hubiese echado
+      - hubieses echado
+      - hubiese echado
+      - "hubi\xE9semos echado"
+      - hubieseis echado
+      - hubiesen echado
+      cjid: ppss2
+    - cjfs:
+      - hubiere echado
+      - hubieres echado
+      - hubiere echado
+      - "hubi\xE9remos echado"
+      - hubiereis echado
+      - hubieren echado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - echa
+      - eche
+      - echemos
+      - echad
+      - echen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|on}, on top (of) '
+          - - vis
+            - - t: "se me cay\xF3 encima"
+                tr: it fell on (top of) me
+              - t: con queso (por) encima
+                tr: with cheese on top
+              - t: no llevo dinero encima
+                tr: I don't have any money on me
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|adem\xE1s||} {bc}{a_link|as well}, {a_link|besides} "
+          - - vis
+            - - t: y encima
+                tr: and on top of that
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|on}, {a_link|on top of}, {a_link|over}, {a_link|above} '
+          - - vis
+            - - t: encima de la mesa
+                tr: on (top of) the table
+              - t: encima de las nubes
+                tr: above the clouds
+              - t: "viven encima de la librer\xEDa"
+                tr: they live above the bookstore
+              - t: "mir\xF3 por encima del hombro"
+                tr: he looked over his shoulder
+          sn: '3'
+          vrs:
+          - va: encima de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|superficially}'
+          sn: '4'
+          vrs:
+          - va: por encima
+            vac: por ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|above}, {a_link|beyond} '
+          - - vis
+            - - t: por encima de la ley
+                tr: above the law
+              - t: por encima de la media
+                tr: above average
+              - t: por encima de todo
+                tr: above all
+              - t: vive por encima de sus posibilidades
+                tr: she lives above her means
+          sn: '5'
+          vrs:
+          - va: por encima de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take upon oneself'
+          sn: '6'
+          vrs:
+          - va: echarse encima
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|nag}, to {a_link|criticize}'
+          sls:
+          - familiar
+          sn: '7'
+          vrs:
+          - va: estar encima de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get rid of}'
+          sn: '8'
+          vrs:
+          - va: quitarse de encima
+  fl: adverb
+  hwi:
+    hw: encima
+    prs:
+    - sound:
+        audio: encim01sp
+  meta:
+    id: encima
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608475000'
+    src: spanish
+    stems:
+    - encima
+    - encima de
+    - por encima
+    - por encima de
+    - echarse encima
+    - estar encima de
+    - quitarse de encima
+    uuid: bd6ef77d-435c-42cb-838a-fb4622cfea0b
+  shortdef:
+  - on, on top (of)
+  - "adem\xE1s : as well, besides"
+  - on, on top of, over, above

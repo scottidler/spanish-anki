@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mobilize}'
+  fl: transitive verb
+  hwi:
+    hw: movilizar
+    prs:
+    - sound:
+        audio: movil02sp
+  meta:
+    id: movilizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615420000'
+    src: spanish
+    stems:
+    - movilizar
+    - "movilizaci\xF3n"
+    uuid: 6b3ce4cf-7dfc-48d2-a965-57453a1774c1
+  shortdef:
+  - to mobilize
+  suppl:
+    cjts:
+    - cjfs:
+      - movilizando
+      - movilizado
+      cjid: gppt
+    - cjfs:
+      - movilizo
+      - movilizas
+      - moviliza
+      - movilizamos
+      - "moviliz\xE1is"
+      - movilizan
+      cjid: pind
+    - cjfs:
+      - movilizaba
+      - movilizabas
+      - movilizaba
+      - "moviliz\xE1bamos"
+      - movilizabais
+      - movilizaban
+      cjid: pret
+    - cjfs:
+      - "movilic\xE9"
+      - movilizaste
+      - "moviliz\xF3"
+      - movilizamos
+      - movilizasteis
+      - movilizaron
+      cjid: pprf
+    - cjfs:
+      - "movilizar\xE9"
+      - "movilizar\xE1s"
+      - "movilizar\xE1"
+      - movilizaremos
+      - "movilizar\xE9is"
+      - "movilizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "movilizar\xEDa"
+      - "movilizar\xEDas"
+      - "movilizar\xEDa"
+      - "movilizar\xEDamos"
+      - "movilizar\xEDais"
+      - "movilizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - movilice
+      - movilices
+      - movilice
+      - movilicemos
+      - "movilic\xE9is"
+      - movilicen
+      cjid: psub
+    - cjfs:
+      - movilizara
+      - movilizaras
+      - movilizara
+      - "moviliz\xE1ramos"
+      - movilizarais
+      - movilizaran
+      cjid: pisb1
+    - cjfs:
+      - movilizase
+      - movilizases
+      - movilizase
+      - "moviliz\xE1semos"
+      - movilizaseis
+      - movilizasen
+      cjid: pisb2
+    - cjfs:
+      - movilizare
+      - movilizares
+      - movilizare
+      - "moviliz\xE1remos"
+      - movilizareis
+      - movilizaren
+      cjid: fsub
+    - cjfs:
+      - he movilizado
+      - has movilizado
+      - ha movilizado
+      - hemos movilizado
+      - "hab\xE9is movilizado"
+      - han movilizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa movilizado"
+      - "hab\xEDas movilizado"
+      - "hab\xEDa movilizado"
+      - "hab\xEDamos movilizado"
+      - "hab\xEDais movilizado"
+      - "hab\xEDan movilizado"
+      cjid: ppsi
+    - cjfs:
+      - hube movilizado
+      - hubiste movilizado
+      - hubo movilizado
+      - hubimos movilizado
+      - hubisteis movilizado
+      - hubieron movilizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 movilizado"
+      - "habr\xE1s movilizado"
+      - "habr\xE1 movilizado"
+      - habremos movilizado
+      - "habr\xE9is movilizado"
+      - "habr\xE1n movilizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa movilizado"
+      - "habr\xEDas movilizado"
+      - "habr\xEDa movilizado"
+      - "habr\xEDamos movilizado"
+      - "habr\xEDais movilizado"
+      - "habr\xEDan movilizado"
+      cjid: cpef
+    - cjfs:
+      - haya movilizado
+      - hayas movilizado
+      - haya movilizado
+      - hayamos movilizado
+      - "hay\xE1is movilizado"
+      - hayan movilizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera movilizado
+      - hubieras movilizado
+      - hubiera movilizado
+      - "hubi\xE9ramos movilizado"
+      - hubierais movilizado
+      - hubieran movilizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese movilizado
+      - hubieses movilizado
+      - hubiese movilizado
+      - "hubi\xE9semos movilizado"
+      - hubieseis movilizado
+      - hubiesen movilizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere movilizado
+      - hubieres movilizado
+      - hubiere movilizado
+      - "hubi\xE9remos movilizado"
+      - hubiereis movilizado
+      - hubieren movilizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - moviliza
+      - movilice
+      - movilicemos
+      - movilizad
+      - movilicen
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "movilizaci\xF3n"

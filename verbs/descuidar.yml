@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|neglect}, to {a_link|overlook}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be careless'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be careless, to drop one''s guard'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|let oneself go}'
+            sn: '2'
+    drp: descuidarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: descuidar
+    prs:
+    - sound:
+        audio: descu06sp
+  meta:
+    id: descuidar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606988000'
+    src: spanish
+    stems:
+    - descuidar
+    - descuidarse
+    uuid: 0ab108da-6a66-4789-af08-4caffe067edb
+  shortdef:
+  - to neglect, to overlook
+  - to be careless
+  suppl:
+    cjts:
+    - cjfs:
+      - descuidando
+      - descuidado
+      cjid: gppt
+    - cjfs:
+      - descuido
+      - descuidas
+      - descuida
+      - descuidamos
+      - "descuid\xE1is"
+      - descuidan
+      cjid: pind
+    - cjfs:
+      - descuidaba
+      - descuidabas
+      - descuidaba
+      - "descuid\xE1bamos"
+      - descuidabais
+      - descuidaban
+      cjid: pret
+    - cjfs:
+      - "descuid\xE9"
+      - descuidaste
+      - "descuid\xF3"
+      - descuidamos
+      - descuidasteis
+      - descuidaron
+      cjid: pprf
+    - cjfs:
+      - "descuidar\xE9"
+      - "descuidar\xE1s"
+      - "descuidar\xE1"
+      - descuidaremos
+      - "descuidar\xE9is"
+      - "descuidar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "descuidar\xEDa"
+      - "descuidar\xEDas"
+      - "descuidar\xEDa"
+      - "descuidar\xEDamos"
+      - "descuidar\xEDais"
+      - "descuidar\xEDan"
+      cjid: cond
+    - cjfs:
+      - descuide
+      - descuides
+      - descuide
+      - descuidemos
+      - "descuid\xE9is"
+      - descuiden
+      cjid: psub
+    - cjfs:
+      - descuidara
+      - descuidaras
+      - descuidara
+      - "descuid\xE1ramos"
+      - descuidarais
+      - descuidaran
+      cjid: pisb1
+    - cjfs:
+      - descuidase
+      - descuidases
+      - descuidase
+      - "descuid\xE1semos"
+      - descuidaseis
+      - descuidasen
+      cjid: pisb2
+    - cjfs:
+      - descuidare
+      - descuidares
+      - descuidare
+      - "descuid\xE1remos"
+      - descuidareis
+      - descuidaren
+      cjid: fsub
+    - cjfs:
+      - he descuidado
+      - has descuidado
+      - ha descuidado
+      - hemos descuidado
+      - "hab\xE9is descuidado"
+      - han descuidado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa descuidado"
+      - "hab\xEDas descuidado"
+      - "hab\xEDa descuidado"
+      - "hab\xEDamos descuidado"
+      - "hab\xEDais descuidado"
+      - "hab\xEDan descuidado"
+      cjid: ppsi
+    - cjfs:
+      - hube descuidado
+      - hubiste descuidado
+      - hubo descuidado
+      - hubimos descuidado
+      - hubisteis descuidado
+      - hubieron descuidado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 descuidado"
+      - "habr\xE1s descuidado"
+      - "habr\xE1 descuidado"
+      - habremos descuidado
+      - "habr\xE9is descuidado"
+      - "habr\xE1n descuidado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa descuidado"
+      - "habr\xEDas descuidado"
+      - "habr\xEDa descuidado"
+      - "habr\xEDamos descuidado"
+      - "habr\xEDais descuidado"
+      - "habr\xEDan descuidado"
+      cjid: cpef
+    - cjfs:
+      - haya descuidado
+      - hayas descuidado
+      - haya descuidado
+      - hayamos descuidado
+      - "hay\xE1is descuidado"
+      - hayan descuidado
+      cjid: ppfs
+    - cjfs:
+      - hubiera descuidado
+      - hubieras descuidado
+      - hubiera descuidado
+      - "hubi\xE9ramos descuidado"
+      - hubierais descuidado
+      - hubieran descuidado
+      cjid: ppss1
+    - cjfs:
+      - hubiese descuidado
+      - hubieses descuidado
+      - hubiese descuidado
+      - "hubi\xE9semos descuidado"
+      - hubieseis descuidado
+      - hubiesen descuidado
+      cjid: ppss2
+    - cjfs:
+      - hubiere descuidado
+      - hubieres descuidado
+      - hubiere descuidado
+      - "hubi\xE9remos descuidado"
+      - hubiereis descuidado
+      - hubieren descuidado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - descuida
+      - descuide
+      - descuidemos
+      - descuidad
+      - descuiden
+      cjid: impf

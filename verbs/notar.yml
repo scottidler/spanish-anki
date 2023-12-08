@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|notice} '
+          - - vis
+            - - t: hacer notar algo
+                tr: to point out something
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tell} '
+          - - vis
+            - - t: la diferencia se nota inmediatamente
+                tr: you can tell the difference right away
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be evident, to {a_link|show}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|feel}, to {a_link|seem}'
+            sn: '2'
+    drp: notarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: notar
+    prs:
+    - sound:
+        audio: notar01sp
+  meta:
+    id: notar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615865000'
+    src: spanish
+    stems:
+    - notar
+    - notarse
+    uuid: 961be39e-e8a4-4af9-9346-b7ac893821d9
+  shortdef:
+  - to notice
+  - to tell
+  suppl:
+    cjts:
+    - cjfs:
+      - notando
+      - notado
+      cjid: gppt
+    - cjfs:
+      - noto
+      - notas
+      - nota
+      - notamos
+      - "not\xE1is"
+      - notan
+      cjid: pind
+    - cjfs:
+      - notaba
+      - notabas
+      - notaba
+      - "not\xE1bamos"
+      - notabais
+      - notaban
+      cjid: pret
+    - cjfs:
+      - "not\xE9"
+      - notaste
+      - "not\xF3"
+      - notamos
+      - notasteis
+      - notaron
+      cjid: pprf
+    - cjfs:
+      - "notar\xE9"
+      - "notar\xE1s"
+      - "notar\xE1"
+      - notaremos
+      - "notar\xE9is"
+      - "notar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "notar\xEDa"
+      - "notar\xEDas"
+      - "notar\xEDa"
+      - "notar\xEDamos"
+      - "notar\xEDais"
+      - "notar\xEDan"
+      cjid: cond
+    - cjfs:
+      - note
+      - notes
+      - note
+      - notemos
+      - "not\xE9is"
+      - noten
+      cjid: psub
+    - cjfs:
+      - notara
+      - notaras
+      - notara
+      - "not\xE1ramos"
+      - notarais
+      - notaran
+      cjid: pisb1
+    - cjfs:
+      - notase
+      - notases
+      - notase
+      - "not\xE1semos"
+      - notaseis
+      - notasen
+      cjid: pisb2
+    - cjfs:
+      - notare
+      - notares
+      - notare
+      - "not\xE1remos"
+      - notareis
+      - notaren
+      cjid: fsub
+    - cjfs:
+      - he notado
+      - has notado
+      - ha notado
+      - hemos notado
+      - "hab\xE9is notado"
+      - han notado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa notado"
+      - "hab\xEDas notado"
+      - "hab\xEDa notado"
+      - "hab\xEDamos notado"
+      - "hab\xEDais notado"
+      - "hab\xEDan notado"
+      cjid: ppsi
+    - cjfs:
+      - hube notado
+      - hubiste notado
+      - hubo notado
+      - hubimos notado
+      - hubisteis notado
+      - hubieron notado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 notado"
+      - "habr\xE1s notado"
+      - "habr\xE1 notado"
+      - habremos notado
+      - "habr\xE9is notado"
+      - "habr\xE1n notado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa notado"
+      - "habr\xEDas notado"
+      - "habr\xEDa notado"
+      - "habr\xEDamos notado"
+      - "habr\xEDais notado"
+      - "habr\xEDan notado"
+      cjid: cpef
+    - cjfs:
+      - haya notado
+      - hayas notado
+      - haya notado
+      - hayamos notado
+      - "hay\xE1is notado"
+      - hayan notado
+      cjid: ppfs
+    - cjfs:
+      - hubiera notado
+      - hubieras notado
+      - hubiera notado
+      - "hubi\xE9ramos notado"
+      - hubierais notado
+      - hubieran notado
+      cjid: ppss1
+    - cjfs:
+      - hubiese notado
+      - hubieses notado
+      - hubiese notado
+      - "hubi\xE9semos notado"
+      - hubieseis notado
+      - hubiesen notado
+      cjid: ppss2
+    - cjfs:
+      - hubiere notado
+      - hubieres notado
+      - hubiere notado
+      - "hubi\xE9remos notado"
+      - hubiereis notado
+      - hubieren notado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - nota
+      - note
+      - notemos
+      - notad
+      - noten
+      cjid: impf

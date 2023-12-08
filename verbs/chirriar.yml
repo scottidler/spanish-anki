@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|squeak}, to {a_link|creak}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|screech}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: chirriar
+  meta:
+    id: chirriar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604604000'
+    src: spanish
+    stems:
+    - chirriar
+    - chirriante
+    uuid: d29db29c-2ce3-4ee2-8551-b7e97a7417b6
+  shortdef:
+  - to squeak, to creak
+  - to screech
+  suppl:
+    cjts:
+    - cjfs:
+      - chirriando
+      - chirriado
+      cjid: gppt
+    - cjfs:
+      - "chirr\xEDo"
+      - "chirr\xEDas"
+      - "chirr\xEDa"
+      - chirriamos
+      - "chirri\xE1is"
+      - "chirr\xEDan"
+      cjid: pind
+    - cjfs:
+      - chirriaba
+      - chirriabas
+      - chirriaba
+      - "chirri\xE1bamos"
+      - chirriabais
+      - chirriaban
+      cjid: pret
+    - cjfs:
+      - "chirri\xE9"
+      - chirriaste
+      - "chirri\xF3"
+      - chirriamos
+      - chirriasteis
+      - chirriaron
+      cjid: pprf
+    - cjfs:
+      - "chirriar\xE9"
+      - "chirriar\xE1s"
+      - "chirriar\xE1"
+      - chirriaremos
+      - "chirriar\xE9is"
+      - "chirriar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "chirriar\xEDa"
+      - "chirriar\xEDas"
+      - "chirriar\xEDa"
+      - "chirriar\xEDamos"
+      - "chirriar\xEDais"
+      - "chirriar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "chirr\xEDe"
+      - "chirr\xEDes"
+      - "chirr\xEDe"
+      - chirriemos
+      - "chirri\xE9is"
+      - "chirr\xEDen"
+      cjid: psub
+    - cjfs:
+      - chirriara
+      - chirriaras
+      - chirriara
+      - "chirri\xE1ramos"
+      - chirriarais
+      - chirriaran
+      cjid: pisb1
+    - cjfs:
+      - chirriase
+      - chirriases
+      - chirriase
+      - "chirri\xE1semos"
+      - chirriaseis
+      - chirriasen
+      cjid: pisb2
+    - cjfs:
+      - chirriare
+      - chirriares
+      - chirriare
+      - "chirri\xE1remos"
+      - chirriareis
+      - chirriaren
+      cjid: fsub
+    - cjfs:
+      - he chirriado
+      - has chirriado
+      - ha chirriado
+      - hemos chirriado
+      - "hab\xE9is chirriado"
+      - han chirriado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa chirriado"
+      - "hab\xEDas chirriado"
+      - "hab\xEDa chirriado"
+      - "hab\xEDamos chirriado"
+      - "hab\xEDais chirriado"
+      - "hab\xEDan chirriado"
+      cjid: ppsi
+    - cjfs:
+      - hube chirriado
+      - hubiste chirriado
+      - hubo chirriado
+      - hubimos chirriado
+      - hubisteis chirriado
+      - hubieron chirriado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 chirriado"
+      - "habr\xE1s chirriado"
+      - "habr\xE1 chirriado"
+      - habremos chirriado
+      - "habr\xE9is chirriado"
+      - "habr\xE1n chirriado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa chirriado"
+      - "habr\xEDas chirriado"
+      - "habr\xEDa chirriado"
+      - "habr\xEDamos chirriado"
+      - "habr\xEDais chirriado"
+      - "habr\xEDan chirriado"
+      cjid: cpef
+    - cjfs:
+      - haya chirriado
+      - hayas chirriado
+      - haya chirriado
+      - hayamos chirriado
+      - "hay\xE1is chirriado"
+      - hayan chirriado
+      cjid: ppfs
+    - cjfs:
+      - hubiera chirriado
+      - hubieras chirriado
+      - hubiera chirriado
+      - "hubi\xE9ramos chirriado"
+      - hubierais chirriado
+      - hubieran chirriado
+      cjid: ppss1
+    - cjfs:
+      - hubiese chirriado
+      - hubieses chirriado
+      - hubiese chirriado
+      - "hubi\xE9semos chirriado"
+      - hubieseis chirriado
+      - hubiesen chirriado
+      cjid: ppss2
+    - cjfs:
+      - hubiere chirriado
+      - hubieres chirriado
+      - hubiere chirriado
+      - "hubi\xE9remos chirriado"
+      - hubiereis chirriado
+      - hubieren chirriado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "chirr\xEDa"
+      - "chirr\xEDe"
+      - chirriemos
+      - chirriad
+      - "chirr\xEDen"
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: chirriante

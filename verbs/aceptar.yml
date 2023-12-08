@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|accept}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|approve}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: aceptar
+    prs:
+    - sound:
+        audio: acept02sp
+  meta:
+    id: aceptar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600246000'
+    src: spanish
+    stems:
+    - aceptar
+    uuid: 2ee55428-35fd-4043-9641-28e9f1463239
+  shortdef:
+  - to accept
+  - to approve
+  suppl:
+    cjts:
+    - cjfs:
+      - aceptando
+      - aceptado
+      cjid: gppt
+    - cjfs:
+      - acepto
+      - aceptas
+      - acepta
+      - aceptamos
+      - "acept\xE1is"
+      - aceptan
+      cjid: pind
+    - cjfs:
+      - aceptaba
+      - aceptabas
+      - aceptaba
+      - "acept\xE1bamos"
+      - aceptabais
+      - aceptaban
+      cjid: pret
+    - cjfs:
+      - "acept\xE9"
+      - aceptaste
+      - "acept\xF3"
+      - aceptamos
+      - aceptasteis
+      - aceptaron
+      cjid: pprf
+    - cjfs:
+      - "aceptar\xE9"
+      - "aceptar\xE1s"
+      - "aceptar\xE1"
+      - aceptaremos
+      - "aceptar\xE9is"
+      - "aceptar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aceptar\xEDa"
+      - "aceptar\xEDas"
+      - "aceptar\xEDa"
+      - "aceptar\xEDamos"
+      - "aceptar\xEDais"
+      - "aceptar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acepte
+      - aceptes
+      - acepte
+      - aceptemos
+      - "acept\xE9is"
+      - acepten
+      cjid: psub
+    - cjfs:
+      - aceptara
+      - aceptaras
+      - aceptara
+      - "acept\xE1ramos"
+      - aceptarais
+      - aceptaran
+      cjid: pisb1
+    - cjfs:
+      - aceptase
+      - aceptases
+      - aceptase
+      - "acept\xE1semos"
+      - aceptaseis
+      - aceptasen
+      cjid: pisb2
+    - cjfs:
+      - aceptare
+      - aceptares
+      - aceptare
+      - "acept\xE1remos"
+      - aceptareis
+      - aceptaren
+      cjid: fsub
+    - cjfs:
+      - he aceptado
+      - has aceptado
+      - ha aceptado
+      - hemos aceptado
+      - "hab\xE9is aceptado"
+      - han aceptado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aceptado"
+      - "hab\xEDas aceptado"
+      - "hab\xEDa aceptado"
+      - "hab\xEDamos aceptado"
+      - "hab\xEDais aceptado"
+      - "hab\xEDan aceptado"
+      cjid: ppsi
+    - cjfs:
+      - hube aceptado
+      - hubiste aceptado
+      - hubo aceptado
+      - hubimos aceptado
+      - hubisteis aceptado
+      - hubieron aceptado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aceptado"
+      - "habr\xE1s aceptado"
+      - "habr\xE1 aceptado"
+      - habremos aceptado
+      - "habr\xE9is aceptado"
+      - "habr\xE1n aceptado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aceptado"
+      - "habr\xEDas aceptado"
+      - "habr\xEDa aceptado"
+      - "habr\xEDamos aceptado"
+      - "habr\xEDais aceptado"
+      - "habr\xEDan aceptado"
+      cjid: cpef
+    - cjfs:
+      - haya aceptado
+      - hayas aceptado
+      - haya aceptado
+      - hayamos aceptado
+      - "hay\xE1is aceptado"
+      - hayan aceptado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aceptado
+      - hubieras aceptado
+      - hubiera aceptado
+      - "hubi\xE9ramos aceptado"
+      - hubierais aceptado
+      - hubieran aceptado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aceptado
+      - hubieses aceptado
+      - hubiese aceptado
+      - "hubi\xE9semos aceptado"
+      - hubieseis aceptado
+      - hubiesen aceptado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aceptado
+      - hubieres aceptado
+      - hubiere aceptado
+      - "hubi\xE9remos aceptado"
+      - hubiereis aceptado
+      - hubieren aceptado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acepta
+      - acepte
+      - aceptemos
+      - aceptad
+      - acepten
+      cjid: impf

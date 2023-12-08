@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|heat}, to {a_link|warm}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to heat up'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become heated, to get tense'
+            sn: '2'
+    drp: caldearse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: caldear
+  meta:
+    id: caldear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603639000'
+    src: spanish
+    stems:
+    - caldear
+    - caldearse
+    uuid: 2bdf8f14-762a-488f-ab41-fcfdf6089198
+  shortdef:
+  - to heat, to warm
+  suppl:
+    cjts:
+    - cjfs:
+      - caldeando
+      - caldeado
+      cjid: gppt
+    - cjfs:
+      - caldeo
+      - caldeas
+      - caldea
+      - caldeamos
+      - "calde\xE1is"
+      - caldean
+      cjid: pind
+    - cjfs:
+      - caldeaba
+      - caldeabas
+      - caldeaba
+      - "calde\xE1bamos"
+      - caldeabais
+      - caldeaban
+      cjid: pret
+    - cjfs:
+      - "calde\xE9"
+      - caldeaste
+      - "calde\xF3"
+      - caldeamos
+      - caldeasteis
+      - caldearon
+      cjid: pprf
+    - cjfs:
+      - "caldear\xE9"
+      - "caldear\xE1s"
+      - "caldear\xE1"
+      - caldearemos
+      - "caldear\xE9is"
+      - "caldear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "caldear\xEDa"
+      - "caldear\xEDas"
+      - "caldear\xEDa"
+      - "caldear\xEDamos"
+      - "caldear\xEDais"
+      - "caldear\xEDan"
+      cjid: cond
+    - cjfs:
+      - caldee
+      - caldees
+      - caldee
+      - caldeemos
+      - "calde\xE9is"
+      - caldeen
+      cjid: psub
+    - cjfs:
+      - caldeara
+      - caldearas
+      - caldeara
+      - "calde\xE1ramos"
+      - caldearais
+      - caldearan
+      cjid: pisb1
+    - cjfs:
+      - caldease
+      - caldeases
+      - caldease
+      - "calde\xE1semos"
+      - caldeaseis
+      - caldeasen
+      cjid: pisb2
+    - cjfs:
+      - caldeare
+      - caldeares
+      - caldeare
+      - "calde\xE1remos"
+      - caldeareis
+      - caldearen
+      cjid: fsub
+    - cjfs:
+      - he caldeado
+      - has caldeado
+      - ha caldeado
+      - hemos caldeado
+      - "hab\xE9is caldeado"
+      - han caldeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa caldeado"
+      - "hab\xEDas caldeado"
+      - "hab\xEDa caldeado"
+      - "hab\xEDamos caldeado"
+      - "hab\xEDais caldeado"
+      - "hab\xEDan caldeado"
+      cjid: ppsi
+    - cjfs:
+      - hube caldeado
+      - hubiste caldeado
+      - hubo caldeado
+      - hubimos caldeado
+      - hubisteis caldeado
+      - hubieron caldeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 caldeado"
+      - "habr\xE1s caldeado"
+      - "habr\xE1 caldeado"
+      - habremos caldeado
+      - "habr\xE9is caldeado"
+      - "habr\xE1n caldeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa caldeado"
+      - "habr\xEDas caldeado"
+      - "habr\xEDa caldeado"
+      - "habr\xEDamos caldeado"
+      - "habr\xEDais caldeado"
+      - "habr\xEDan caldeado"
+      cjid: cpef
+    - cjfs:
+      - haya caldeado
+      - hayas caldeado
+      - haya caldeado
+      - hayamos caldeado
+      - "hay\xE1is caldeado"
+      - hayan caldeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera caldeado
+      - hubieras caldeado
+      - hubiera caldeado
+      - "hubi\xE9ramos caldeado"
+      - hubierais caldeado
+      - hubieran caldeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese caldeado
+      - hubieses caldeado
+      - hubiese caldeado
+      - "hubi\xE9semos caldeado"
+      - hubieseis caldeado
+      - hubiesen caldeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere caldeado
+      - hubieres caldeado
+      - hubiere caldeado
+      - "hubi\xE9remos caldeado"
+      - hubiereis caldeado
+      - hubieren caldeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - caldea
+      - caldee
+      - caldeemos
+      - caldead
+      - caldeen
+      cjid: impf

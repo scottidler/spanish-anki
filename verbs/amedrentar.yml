@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|frighten}, to {a_link|intimidate}'
+  fl: transitive verb
+  hwi:
+    hw: amedrentar
+  meta:
+    id: amedrentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601228000'
+    src: spanish
+    stems:
+    - amedrentar
+    - amedrentarse
+    uuid: 4c1833fb-cb4b-4724-aa53-8be395e7a0ca
+  shortdef:
+  - to frighten, to intimidate
+  suppl:
+    cjts:
+    - cjfs:
+      - amedrentando
+      - amedrentado
+      cjid: gppt
+    - cjfs:
+      - amedrento
+      - amedrentas
+      - amedrenta
+      - amedrentamos
+      - "amedrent\xE1is"
+      - amedrentan
+      cjid: pind
+    - cjfs:
+      - amedrentaba
+      - amedrentabas
+      - amedrentaba
+      - "amedrent\xE1bamos"
+      - amedrentabais
+      - amedrentaban
+      cjid: pret
+    - cjfs:
+      - "amedrent\xE9"
+      - amedrentaste
+      - "amedrent\xF3"
+      - amedrentamos
+      - amedrentasteis
+      - amedrentaron
+      cjid: pprf
+    - cjfs:
+      - "amedrentar\xE9"
+      - "amedrentar\xE1s"
+      - "amedrentar\xE1"
+      - amedrentaremos
+      - "amedrentar\xE9is"
+      - "amedrentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amedrentar\xEDa"
+      - "amedrentar\xEDas"
+      - "amedrentar\xEDa"
+      - "amedrentar\xEDamos"
+      - "amedrentar\xEDais"
+      - "amedrentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - amedrente
+      - amedrentes
+      - amedrente
+      - amedrentemos
+      - "amedrent\xE9is"
+      - amedrenten
+      cjid: psub
+    - cjfs:
+      - amedrentara
+      - amedrentaras
+      - amedrentara
+      - "amedrent\xE1ramos"
+      - amedrentarais
+      - amedrentaran
+      cjid: pisb1
+    - cjfs:
+      - amedrentase
+      - amedrentases
+      - amedrentase
+      - "amedrent\xE1semos"
+      - amedrentaseis
+      - amedrentasen
+      cjid: pisb2
+    - cjfs:
+      - amedrentare
+      - amedrentares
+      - amedrentare
+      - "amedrent\xE1remos"
+      - amedrentareis
+      - amedrentaren
+      cjid: fsub
+    - cjfs:
+      - he amedrentado
+      - has amedrentado
+      - ha amedrentado
+      - hemos amedrentado
+      - "hab\xE9is amedrentado"
+      - han amedrentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amedrentado"
+      - "hab\xEDas amedrentado"
+      - "hab\xEDa amedrentado"
+      - "hab\xEDamos amedrentado"
+      - "hab\xEDais amedrentado"
+      - "hab\xEDan amedrentado"
+      cjid: ppsi
+    - cjfs:
+      - hube amedrentado
+      - hubiste amedrentado
+      - hubo amedrentado
+      - hubimos amedrentado
+      - hubisteis amedrentado
+      - hubieron amedrentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amedrentado"
+      - "habr\xE1s amedrentado"
+      - "habr\xE1 amedrentado"
+      - habremos amedrentado
+      - "habr\xE9is amedrentado"
+      - "habr\xE1n amedrentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amedrentado"
+      - "habr\xEDas amedrentado"
+      - "habr\xEDa amedrentado"
+      - "habr\xEDamos amedrentado"
+      - "habr\xEDais amedrentado"
+      - "habr\xEDan amedrentado"
+      cjid: cpef
+    - cjfs:
+      - haya amedrentado
+      - hayas amedrentado
+      - haya amedrentado
+      - hayamos amedrentado
+      - "hay\xE1is amedrentado"
+      - hayan amedrentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera amedrentado
+      - hubieras amedrentado
+      - hubiera amedrentado
+      - "hubi\xE9ramos amedrentado"
+      - hubierais amedrentado
+      - hubieran amedrentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese amedrentado
+      - hubieses amedrentado
+      - hubiese amedrentado
+      - "hubi\xE9semos amedrentado"
+      - hubieseis amedrentado
+      - hubiesen amedrentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere amedrentado
+      - hubieres amedrentado
+      - hubiere amedrentado
+      - "hubi\xE9remos amedrentado"
+      - hubiereis amedrentado
+      - hubieren amedrentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - amedrenta
+      - amedrente
+      - amedrentemos
+      - amedrentad
+      - amedrenten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: amedrentarse

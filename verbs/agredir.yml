@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assail}, to {a_link|attack}'
+  fl: transitive verb
+  hwi:
+    hw: agredir
+    prs:
+    - sound:
+        audio: agred01sp
+  meta:
+    id: agredir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600724000'
+    src: spanish
+    stems:
+    - agredir
+    uuid: b9991c45-29ae-4607-bcbb-62c294b870c4
+  shortdef:
+  - to assail, to attack
+  suppl:
+    cjts:
+    - cjfs:
+      - agrediendo
+      - agredido
+      cjid: gppt
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - agredimos
+      - "agred\xEDs"
+      - '-'
+      cjid: pind
+    - cjfs:
+      - "agred\xEDa"
+      - "agred\xEDas"
+      - "agred\xEDa"
+      - "agred\xEDamos"
+      - "agred\xEDais"
+      - "agred\xEDan"
+      cjid: pret
+    - cjfs:
+      - "agred\xED"
+      - agrediste
+      - "agredi\xF3"
+      - agredimos
+      - agredisteis
+      - agredieron
+      cjid: pprf
+    - cjfs:
+      - "agredir\xE9"
+      - "agredir\xE1s"
+      - "agredir\xE1"
+      - agrediremos
+      - "agredir\xE9is"
+      - "agredir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agredir\xEDa"
+      - "agredir\xEDas"
+      - "agredir\xEDa"
+      - "agredir\xEDamos"
+      - "agredir\xEDais"
+      - "agredir\xEDan"
+      cjid: cond
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: psub
+    - cjfs:
+      - agrediera
+      - agredieras
+      - agrediera
+      - "agredi\xE9ramos"
+      - agredierais
+      - agredieran
+      cjid: pisb1
+    - cjfs:
+      - agrediese
+      - agredieses
+      - agrediese
+      - "agredi\xE9semos"
+      - agredieseis
+      - agrediesen
+      cjid: pisb2
+    - cjfs:
+      - agrediere
+      - agredieres
+      - agrediere
+      - "agredi\xE9remos"
+      - agrediereis
+      - agredieren
+      cjid: fsub
+    - cjfs:
+      - he agredido
+      - has agredido
+      - ha agredido
+      - hemos agredido
+      - "hab\xE9is agredido"
+      - han agredido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agredido"
+      - "hab\xEDas agredido"
+      - "hab\xEDa agredido"
+      - "hab\xEDamos agredido"
+      - "hab\xEDais agredido"
+      - "hab\xEDan agredido"
+      cjid: ppsi
+    - cjfs:
+      - hube agredido
+      - hubiste agredido
+      - hubo agredido
+      - hubimos agredido
+      - hubisteis agredido
+      - hubieron agredido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agredido"
+      - "habr\xE1s agredido"
+      - "habr\xE1 agredido"
+      - habremos agredido
+      - "habr\xE9is agredido"
+      - "habr\xE1n agredido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agredido"
+      - "habr\xEDas agredido"
+      - "habr\xEDa agredido"
+      - "habr\xEDamos agredido"
+      - "habr\xEDais agredido"
+      - "habr\xEDan agredido"
+      cjid: cpef
+    - cjfs:
+      - haya agredido
+      - hayas agredido
+      - haya agredido
+      - hayamos agredido
+      - "hay\xE1is agredido"
+      - hayan agredido
+      cjid: ppfs
+    - cjfs:
+      - hubiera agredido
+      - hubieras agredido
+      - hubiera agredido
+      - "hubi\xE9ramos agredido"
+      - hubierais agredido
+      - hubieran agredido
+      cjid: ppss1
+    - cjfs:
+      - hubiese agredido
+      - hubieses agredido
+      - hubiese agredido
+      - "hubi\xE9semos agredido"
+      - hubieseis agredido
+      - hubiesen agredido
+      cjid: ppss2
+    - cjfs:
+      - hubiere agredido
+      - hubieres agredido
+      - hubiere agredido
+      - "hubi\xE9remos agredido"
+      - hubiereis agredido
+      - hubieren agredido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - agredid
+      - '-'
+      cjid: impf

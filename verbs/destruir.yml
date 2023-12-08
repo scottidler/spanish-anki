@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|destroy}'
+  fl: transitive verb
+  hwi:
+    hw: destruir
+    prs:
+    - sound:
+        audio: destr03sp
+  meta:
+    id: destruir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607375000'
+    src: spanish
+    stems:
+    - destruir
+    - destruirse
+    uuid: 0e676ef1-5d09-4f23-bf6f-3f68f2eccde8
+  shortdef:
+  - to destroy
+  suppl:
+    cjts:
+    - cjfs:
+      - destruyendo
+      - destruido
+      cjid: gppt
+    - cjfs:
+      - destruyo
+      - destruyes
+      - destruye
+      - destruimos
+      - "destru\xEDs"
+      - destruyen
+      cjid: pind
+    - cjfs:
+      - "destru\xEDa"
+      - "destru\xEDas"
+      - "destru\xEDa"
+      - "destru\xEDamos"
+      - "destru\xEDais"
+      - "destru\xEDan"
+      cjid: pret
+    - cjfs:
+      - "destru\xED"
+      - destruiste
+      - "destruy\xF3"
+      - destruimos
+      - destruisteis
+      - destruyeron
+      cjid: pprf
+    - cjfs:
+      - "destruir\xE9"
+      - "destruir\xE1s"
+      - "destruir\xE1"
+      - destruiremos
+      - "destruir\xE9is"
+      - "destruir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "destruir\xEDa"
+      - "destruir\xEDas"
+      - "destruir\xEDa"
+      - "destruir\xEDamos"
+      - "destruir\xEDais"
+      - "destruir\xEDan"
+      cjid: cond
+    - cjfs:
+      - destruya
+      - destruyas
+      - destruya
+      - destruyamos
+      - "destruy\xE1is"
+      - destruyan
+      cjid: psub
+    - cjfs:
+      - destruyera
+      - destruyeras
+      - destruyera
+      - "destruy\xE9ramos"
+      - destruyerais
+      - destruyeran
+      cjid: pisb1
+    - cjfs:
+      - destruyese
+      - destruyeses
+      - destruyese
+      - "destruy\xE9semos"
+      - destruyeseis
+      - destruyesen
+      cjid: pisb2
+    - cjfs:
+      - destruyere
+      - destruyeres
+      - destruyere
+      - "destruy\xE9remos"
+      - destruyereis
+      - destruyeren
+      cjid: fsub
+    - cjfs:
+      - he destruido
+      - has destruido
+      - ha destruido
+      - hemos destruido
+      - "hab\xE9is destruido"
+      - han destruido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa destruido"
+      - "hab\xEDas destruido"
+      - "hab\xEDa destruido"
+      - "hab\xEDamos destruido"
+      - "hab\xEDais destruido"
+      - "hab\xEDan destruido"
+      cjid: ppsi
+    - cjfs:
+      - hube destruido
+      - hubiste destruido
+      - hubo destruido
+      - hubimos destruido
+      - hubisteis destruido
+      - hubieron destruido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 destruido"
+      - "habr\xE1s destruido"
+      - "habr\xE1 destruido"
+      - habremos destruido
+      - "habr\xE9is destruido"
+      - "habr\xE1n destruido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa destruido"
+      - "habr\xEDas destruido"
+      - "habr\xEDa destruido"
+      - "habr\xEDamos destruido"
+      - "habr\xEDais destruido"
+      - "habr\xEDan destruido"
+      cjid: cpef
+    - cjfs:
+      - haya destruido
+      - hayas destruido
+      - haya destruido
+      - hayamos destruido
+      - "hay\xE1is destruido"
+      - hayan destruido
+      cjid: ppfs
+    - cjfs:
+      - hubiera destruido
+      - hubieras destruido
+      - hubiera destruido
+      - "hubi\xE9ramos destruido"
+      - hubierais destruido
+      - hubieran destruido
+      cjid: ppss1
+    - cjfs:
+      - hubiese destruido
+      - hubieses destruido
+      - hubiese destruido
+      - "hubi\xE9semos destruido"
+      - hubieseis destruido
+      - hubiesen destruido
+      cjid: ppss2
+    - cjfs:
+      - hubiere destruido
+      - hubieres destruido
+      - hubiere destruido
+      - "hubi\xE9remos destruido"
+      - hubiereis destruido
+      - hubieren destruido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - destruye
+      - destruya
+      - destruyamos
+      - destruid
+      - destruyan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: destruirse

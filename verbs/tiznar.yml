@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blacken} (with soot, etc.)'
+  fl: transitive verb
+  hwi:
+    hw: tiznar
+  meta:
+    id: tiznar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621908000'
+    src: spanish
+    stems:
+    - tiznar
+    uuid: a1d45086-3e8a-43eb-9b3b-4a4f3e132d9c
+  shortdef:
+  - to blacken (with soot, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - tiznando
+      - tiznado
+      cjid: gppt
+    - cjfs:
+      - tizno
+      - tiznas
+      - tizna
+      - tiznamos
+      - "tizn\xE1is"
+      - tiznan
+      cjid: pind
+    - cjfs:
+      - tiznaba
+      - tiznabas
+      - tiznaba
+      - "tizn\xE1bamos"
+      - tiznabais
+      - tiznaban
+      cjid: pret
+    - cjfs:
+      - "tizn\xE9"
+      - tiznaste
+      - "tizn\xF3"
+      - tiznamos
+      - tiznasteis
+      - tiznaron
+      cjid: pprf
+    - cjfs:
+      - "tiznar\xE9"
+      - "tiznar\xE1s"
+      - "tiznar\xE1"
+      - tiznaremos
+      - "tiznar\xE9is"
+      - "tiznar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tiznar\xEDa"
+      - "tiznar\xEDas"
+      - "tiznar\xEDa"
+      - "tiznar\xEDamos"
+      - "tiznar\xEDais"
+      - "tiznar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tizne
+      - tiznes
+      - tizne
+      - tiznemos
+      - "tizn\xE9is"
+      - tiznen
+      cjid: psub
+    - cjfs:
+      - tiznara
+      - tiznaras
+      - tiznara
+      - "tizn\xE1ramos"
+      - tiznarais
+      - tiznaran
+      cjid: pisb1
+    - cjfs:
+      - tiznase
+      - tiznases
+      - tiznase
+      - "tizn\xE1semos"
+      - tiznaseis
+      - tiznasen
+      cjid: pisb2
+    - cjfs:
+      - tiznare
+      - tiznares
+      - tiznare
+      - "tizn\xE1remos"
+      - tiznareis
+      - tiznaren
+      cjid: fsub
+    - cjfs:
+      - he tiznado
+      - has tiznado
+      - ha tiznado
+      - hemos tiznado
+      - "hab\xE9is tiznado"
+      - han tiznado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tiznado"
+      - "hab\xEDas tiznado"
+      - "hab\xEDa tiznado"
+      - "hab\xEDamos tiznado"
+      - "hab\xEDais tiznado"
+      - "hab\xEDan tiznado"
+      cjid: ppsi
+    - cjfs:
+      - hube tiznado
+      - hubiste tiznado
+      - hubo tiznado
+      - hubimos tiznado
+      - hubisteis tiznado
+      - hubieron tiznado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tiznado"
+      - "habr\xE1s tiznado"
+      - "habr\xE1 tiznado"
+      - habremos tiznado
+      - "habr\xE9is tiznado"
+      - "habr\xE1n tiznado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tiznado"
+      - "habr\xEDas tiznado"
+      - "habr\xEDa tiznado"
+      - "habr\xEDamos tiznado"
+      - "habr\xEDais tiznado"
+      - "habr\xEDan tiznado"
+      cjid: cpef
+    - cjfs:
+      - haya tiznado
+      - hayas tiznado
+      - haya tiznado
+      - hayamos tiznado
+      - "hay\xE1is tiznado"
+      - hayan tiznado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tiznado
+      - hubieras tiznado
+      - hubiera tiznado
+      - "hubi\xE9ramos tiznado"
+      - hubierais tiznado
+      - hubieran tiznado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tiznado
+      - hubieses tiznado
+      - hubiese tiznado
+      - "hubi\xE9semos tiznado"
+      - hubieseis tiznado
+      - hubiesen tiznado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tiznado
+      - hubieres tiznado
+      - hubiere tiznado
+      - "hubi\xE9remos tiznado"
+      - hubiereis tiznado
+      - hubieren tiznado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tizna
+      - tizne
+      - tiznemos
+      - tiznad
+      - tiznen
+      cjid: impf

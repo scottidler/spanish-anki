@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enchant}, to {a_link|bewitch}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|charm}, to {a_link|delight} '
+          - - vis
+            - - t: "me encanta esta canci\xF3n"
+                tr: I love this song
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: encantar
+    prs:
+    - sound:
+        audio: encan04sp
+  meta:
+    id: encantar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608420000'
+    src: spanish
+    stems:
+    - encantar
+    uuid: f7c91850-8c2c-4b0f-9df8-58085c797aa1
+  shortdef:
+  - to enchant, to bewitch
+  - to charm, to delight
+  suppl:
+    cjts:
+    - cjfs:
+      - encantando
+      - encantado
+      cjid: gppt
+    - cjfs:
+      - encanto
+      - encantas
+      - encanta
+      - encantamos
+      - "encant\xE1is"
+      - encantan
+      cjid: pind
+    - cjfs:
+      - encantaba
+      - encantabas
+      - encantaba
+      - "encant\xE1bamos"
+      - encantabais
+      - encantaban
+      cjid: pret
+    - cjfs:
+      - "encant\xE9"
+      - encantaste
+      - "encant\xF3"
+      - encantamos
+      - encantasteis
+      - encantaron
+      cjid: pprf
+    - cjfs:
+      - "encantar\xE9"
+      - "encantar\xE1s"
+      - "encantar\xE1"
+      - encantaremos
+      - "encantar\xE9is"
+      - "encantar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "encantar\xEDa"
+      - "encantar\xEDas"
+      - "encantar\xEDa"
+      - "encantar\xEDamos"
+      - "encantar\xEDais"
+      - "encantar\xEDan"
+      cjid: cond
+    - cjfs:
+      - encante
+      - encantes
+      - encante
+      - encantemos
+      - "encant\xE9is"
+      - encanten
+      cjid: psub
+    - cjfs:
+      - encantara
+      - encantaras
+      - encantara
+      - "encant\xE1ramos"
+      - encantarais
+      - encantaran
+      cjid: pisb1
+    - cjfs:
+      - encantase
+      - encantases
+      - encantase
+      - "encant\xE1semos"
+      - encantaseis
+      - encantasen
+      cjid: pisb2
+    - cjfs:
+      - encantare
+      - encantares
+      - encantare
+      - "encant\xE1remos"
+      - encantareis
+      - encantaren
+      cjid: fsub
+    - cjfs:
+      - he encantado
+      - has encantado
+      - ha encantado
+      - hemos encantado
+      - "hab\xE9is encantado"
+      - han encantado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa encantado"
+      - "hab\xEDas encantado"
+      - "hab\xEDa encantado"
+      - "hab\xEDamos encantado"
+      - "hab\xEDais encantado"
+      - "hab\xEDan encantado"
+      cjid: ppsi
+    - cjfs:
+      - hube encantado
+      - hubiste encantado
+      - hubo encantado
+      - hubimos encantado
+      - hubisteis encantado
+      - hubieron encantado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 encantado"
+      - "habr\xE1s encantado"
+      - "habr\xE1 encantado"
+      - habremos encantado
+      - "habr\xE9is encantado"
+      - "habr\xE1n encantado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa encantado"
+      - "habr\xEDas encantado"
+      - "habr\xEDa encantado"
+      - "habr\xEDamos encantado"
+      - "habr\xEDais encantado"
+      - "habr\xEDan encantado"
+      cjid: cpef
+    - cjfs:
+      - haya encantado
+      - hayas encantado
+      - haya encantado
+      - hayamos encantado
+      - "hay\xE1is encantado"
+      - hayan encantado
+      cjid: ppfs
+    - cjfs:
+      - hubiera encantado
+      - hubieras encantado
+      - hubiera encantado
+      - "hubi\xE9ramos encantado"
+      - hubierais encantado
+      - hubieran encantado
+      cjid: ppss1
+    - cjfs:
+      - hubiese encantado
+      - hubieses encantado
+      - hubiese encantado
+      - "hubi\xE9semos encantado"
+      - hubieseis encantado
+      - hubiesen encantado
+      cjid: ppss2
+    - cjfs:
+      - hubiere encantado
+      - hubieres encantado
+      - hubiere encantado
+      - "hubi\xE9remos encantado"
+      - hubiereis encantado
+      - hubieren encantado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - encanta
+      - encante
+      - encantemos
+      - encantad
+      - encanten
+      cjid: impf

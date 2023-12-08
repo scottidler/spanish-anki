@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|difamar||} {bc}to {a_link|denigrate}, to {a_link|disparage}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|degrade}, to {a_link|humiliate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: denigrar
+  meta:
+    id: denigrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606682000'
+    src: spanish
+    stems:
+    - denigrar
+    uuid: 5b1cec99-30ff-4a46-aef1-52018254492f
+  shortdef:
+  - 'difamar : to denigrate, to disparage'
+  - to degrade, to humiliate
+  suppl:
+    cjts:
+    - cjfs:
+      - denigrando
+      - denigrado
+      cjid: gppt
+    - cjfs:
+      - denigro
+      - denigras
+      - denigra
+      - denigramos
+      - "denigr\xE1is"
+      - denigran
+      cjid: pind
+    - cjfs:
+      - denigraba
+      - denigrabas
+      - denigraba
+      - "denigr\xE1bamos"
+      - denigrabais
+      - denigraban
+      cjid: pret
+    - cjfs:
+      - "denigr\xE9"
+      - denigraste
+      - "denigr\xF3"
+      - denigramos
+      - denigrasteis
+      - denigraron
+      cjid: pprf
+    - cjfs:
+      - "denigrar\xE9"
+      - "denigrar\xE1s"
+      - "denigrar\xE1"
+      - denigraremos
+      - "denigrar\xE9is"
+      - "denigrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "denigrar\xEDa"
+      - "denigrar\xEDas"
+      - "denigrar\xEDa"
+      - "denigrar\xEDamos"
+      - "denigrar\xEDais"
+      - "denigrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - denigre
+      - denigres
+      - denigre
+      - denigremos
+      - "denigr\xE9is"
+      - denigren
+      cjid: psub
+    - cjfs:
+      - denigrara
+      - denigraras
+      - denigrara
+      - "denigr\xE1ramos"
+      - denigrarais
+      - denigraran
+      cjid: pisb1
+    - cjfs:
+      - denigrase
+      - denigrases
+      - denigrase
+      - "denigr\xE1semos"
+      - denigraseis
+      - denigrasen
+      cjid: pisb2
+    - cjfs:
+      - denigrare
+      - denigrares
+      - denigrare
+      - "denigr\xE1remos"
+      - denigrareis
+      - denigraren
+      cjid: fsub
+    - cjfs:
+      - he denigrado
+      - has denigrado
+      - ha denigrado
+      - hemos denigrado
+      - "hab\xE9is denigrado"
+      - han denigrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa denigrado"
+      - "hab\xEDas denigrado"
+      - "hab\xEDa denigrado"
+      - "hab\xEDamos denigrado"
+      - "hab\xEDais denigrado"
+      - "hab\xEDan denigrado"
+      cjid: ppsi
+    - cjfs:
+      - hube denigrado
+      - hubiste denigrado
+      - hubo denigrado
+      - hubimos denigrado
+      - hubisteis denigrado
+      - hubieron denigrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 denigrado"
+      - "habr\xE1s denigrado"
+      - "habr\xE1 denigrado"
+      - habremos denigrado
+      - "habr\xE9is denigrado"
+      - "habr\xE1n denigrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa denigrado"
+      - "habr\xEDas denigrado"
+      - "habr\xEDa denigrado"
+      - "habr\xEDamos denigrado"
+      - "habr\xEDais denigrado"
+      - "habr\xEDan denigrado"
+      cjid: cpef
+    - cjfs:
+      - haya denigrado
+      - hayas denigrado
+      - haya denigrado
+      - hayamos denigrado
+      - "hay\xE1is denigrado"
+      - hayan denigrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera denigrado
+      - hubieras denigrado
+      - hubiera denigrado
+      - "hubi\xE9ramos denigrado"
+      - hubierais denigrado
+      - hubieran denigrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese denigrado
+      - hubieses denigrado
+      - hubiese denigrado
+      - "hubi\xE9semos denigrado"
+      - hubieseis denigrado
+      - hubiesen denigrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere denigrado
+      - hubieres denigrado
+      - hubiere denigrado
+      - "hubi\xE9remos denigrado"
+      - hubiereis denigrado
+      - hubieren denigrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - denigra
+      - denigre
+      - denigremos
+      - denigrad
+      - denigren
+      cjid: impf

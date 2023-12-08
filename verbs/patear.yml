@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|kick}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to stamp one''s foot'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: patear
+    prs:
+    - sound:
+        audio: patea01sp
+  meta:
+    id: patear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616819000'
+    src: spanish
+    stems:
+    - patear
+    uuid: b69e98eb-c52b-492e-bb76-d67079a1a73e
+  shortdef:
+  - to kick
+  - to stamp one's foot
+  suppl:
+    cjts:
+    - cjfs:
+      - pateando
+      - pateado
+      cjid: gppt
+    - cjfs:
+      - pateo
+      - pateas
+      - patea
+      - pateamos
+      - "pate\xE1is"
+      - patean
+      cjid: pind
+    - cjfs:
+      - pateaba
+      - pateabas
+      - pateaba
+      - "pate\xE1bamos"
+      - pateabais
+      - pateaban
+      cjid: pret
+    - cjfs:
+      - "pate\xE9"
+      - pateaste
+      - "pate\xF3"
+      - pateamos
+      - pateasteis
+      - patearon
+      cjid: pprf
+    - cjfs:
+      - "patear\xE9"
+      - "patear\xE1s"
+      - "patear\xE1"
+      - patearemos
+      - "patear\xE9is"
+      - "patear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "patear\xEDa"
+      - "patear\xEDas"
+      - "patear\xEDa"
+      - "patear\xEDamos"
+      - "patear\xEDais"
+      - "patear\xEDan"
+      cjid: cond
+    - cjfs:
+      - patee
+      - patees
+      - patee
+      - pateemos
+      - "pate\xE9is"
+      - pateen
+      cjid: psub
+    - cjfs:
+      - pateara
+      - patearas
+      - pateara
+      - "pate\xE1ramos"
+      - patearais
+      - patearan
+      cjid: pisb1
+    - cjfs:
+      - patease
+      - pateases
+      - patease
+      - "pate\xE1semos"
+      - pateaseis
+      - pateasen
+      cjid: pisb2
+    - cjfs:
+      - pateare
+      - pateares
+      - pateare
+      - "pate\xE1remos"
+      - pateareis
+      - patearen
+      cjid: fsub
+    - cjfs:
+      - he pateado
+      - has pateado
+      - ha pateado
+      - hemos pateado
+      - "hab\xE9is pateado"
+      - han pateado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pateado"
+      - "hab\xEDas pateado"
+      - "hab\xEDa pateado"
+      - "hab\xEDamos pateado"
+      - "hab\xEDais pateado"
+      - "hab\xEDan pateado"
+      cjid: ppsi
+    - cjfs:
+      - hube pateado
+      - hubiste pateado
+      - hubo pateado
+      - hubimos pateado
+      - hubisteis pateado
+      - hubieron pateado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pateado"
+      - "habr\xE1s pateado"
+      - "habr\xE1 pateado"
+      - habremos pateado
+      - "habr\xE9is pateado"
+      - "habr\xE1n pateado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pateado"
+      - "habr\xEDas pateado"
+      - "habr\xEDa pateado"
+      - "habr\xEDamos pateado"
+      - "habr\xEDais pateado"
+      - "habr\xEDan pateado"
+      cjid: cpef
+    - cjfs:
+      - haya pateado
+      - hayas pateado
+      - haya pateado
+      - hayamos pateado
+      - "hay\xE1is pateado"
+      - hayan pateado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pateado
+      - hubieras pateado
+      - hubiera pateado
+      - "hubi\xE9ramos pateado"
+      - hubierais pateado
+      - hubieran pateado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pateado
+      - hubieses pateado
+      - hubiese pateado
+      - "hubi\xE9semos pateado"
+      - hubieseis pateado
+      - hubiesen pateado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pateado
+      - hubieres pateado
+      - hubiere pateado
+      - "hubi\xE9remos pateado"
+      - hubiereis pateado
+      - hubieren pateado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - patea
+      - patee
+      - pateemos
+      - patead
+      - pateen
+      cjid: impf

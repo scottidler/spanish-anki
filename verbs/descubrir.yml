@@ -1,0 +1,204 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|hallar||} {bc}to {a_link|discover}, to {a_link|find out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|revelar||} {bc}to {a_link|uncover}, to {a_link|reveal}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|develar||} {bc}to {a_link|unveil}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|delatar||} {bc}to {a_link|give away}'
+          sn: '4'
+  fl: transitive verb
+  hwi:
+    hw: descubrir
+    prs:
+    - sound:
+        audio: descu03sp
+  meta:
+    id: descubrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606985000'
+    src: spanish
+    stems:
+    - descubrir
+    - descubrirse
+    uuid: d3f23407-994c-4bcf-9e04-9e01061109f1
+  shortdef:
+  - 'hallar : to discover, to find out'
+  - 'revelar : to uncover, to reveal'
+  - 'develar : to unveil'
+  suppl:
+    cjts:
+    - cjfs:
+      - descubriendo
+      - descubierto
+      cjid: gppt
+    - cjfs:
+      - descubro
+      - descubres
+      - descubre
+      - descubrimos
+      - "descubr\xEDs"
+      - descubren
+      cjid: pind
+    - cjfs:
+      - "descubr\xEDa"
+      - "descubr\xEDas"
+      - "descubr\xEDa"
+      - "descubr\xEDamos"
+      - "descubr\xEDais"
+      - "descubr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "descubr\xED"
+      - descubriste
+      - "descubri\xF3"
+      - descubrimos
+      - descubristeis
+      - descubrieron
+      cjid: pprf
+    - cjfs:
+      - "descubrir\xE9"
+      - "descubrir\xE1s"
+      - "descubrir\xE1"
+      - descubriremos
+      - "descubrir\xE9is"
+      - "descubrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "descubrir\xEDa"
+      - "descubrir\xEDas"
+      - "descubrir\xEDa"
+      - "descubrir\xEDamos"
+      - "descubrir\xEDais"
+      - "descubrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - descubra
+      - descubras
+      - descubra
+      - descubramos
+      - "descubr\xE1is"
+      - descubran
+      cjid: psub
+    - cjfs:
+      - descubriera
+      - descubrieras
+      - descubriera
+      - "descubri\xE9ramos"
+      - descubrierais
+      - descubrieran
+      cjid: pisb1
+    - cjfs:
+      - descubriese
+      - descubrieses
+      - descubriese
+      - "descubri\xE9semos"
+      - descubrieseis
+      - descubriesen
+      cjid: pisb2
+    - cjfs:
+      - descubriere
+      - descubrieres
+      - descubriere
+      - "descubri\xE9remos"
+      - descubriereis
+      - descubrieren
+      cjid: fsub
+    - cjfs:
+      - he descubierto
+      - has descubierto
+      - ha descubierto
+      - hemos descubierto
+      - "hab\xE9is descubierto"
+      - han descubierto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa descubierto"
+      - "hab\xEDas descubierto"
+      - "hab\xEDa descubierto"
+      - "hab\xEDamos descubierto"
+      - "hab\xEDais descubierto"
+      - "hab\xEDan descubierto"
+      cjid: ppsi
+    - cjfs:
+      - hube descubierto
+      - hubiste descubierto
+      - hubo descubierto
+      - hubimos descubierto
+      - hubisteis descubierto
+      - hubieron descubierto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 descubierto"
+      - "habr\xE1s descubierto"
+      - "habr\xE1 descubierto"
+      - habremos descubierto
+      - "habr\xE9is descubierto"
+      - "habr\xE1n descubierto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa descubierto"
+      - "habr\xEDas descubierto"
+      - "habr\xEDa descubierto"
+      - "habr\xEDamos descubierto"
+      - "habr\xEDais descubierto"
+      - "habr\xEDan descubierto"
+      cjid: cpef
+    - cjfs:
+      - haya descubierto
+      - hayas descubierto
+      - haya descubierto
+      - hayamos descubierto
+      - "hay\xE1is descubierto"
+      - hayan descubierto
+      cjid: ppfs
+    - cjfs:
+      - hubiera descubierto
+      - hubieras descubierto
+      - hubiera descubierto
+      - "hubi\xE9ramos descubierto"
+      - hubierais descubierto
+      - hubieran descubierto
+      cjid: ppss1
+    - cjfs:
+      - hubiese descubierto
+      - hubieses descubierto
+      - hubiese descubierto
+      - "hubi\xE9semos descubierto"
+      - hubieseis descubierto
+      - hubiesen descubierto
+      cjid: ppss2
+    - cjfs:
+      - hubiere descubierto
+      - hubieres descubierto
+      - hubiere descubierto
+      - "hubi\xE9remos descubierto"
+      - hubiereis descubierto
+      - hubieren descubierto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - descubre
+      - descubra
+      - descubramos
+      - descubrid
+      - descubran
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: descubrirse

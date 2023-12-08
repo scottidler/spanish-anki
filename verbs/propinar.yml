@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give}, to {a_link|strike} '
+          - - vis
+            - - t: propinar una paliza
+                tr: to give a beating
+  fl: transitive verb
+  hwi:
+    hw: propinar
+  meta:
+    id: propinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618295000'
+    src: spanish
+    stems:
+    - propinar
+    uuid: aff58a56-b0e6-47df-a6f7-7f4bcf9a3a1e
+  shortdef:
+  - to give, to strike
+  suppl:
+    cjts:
+    - cjfs:
+      - propinando
+      - propinado
+      cjid: gppt
+    - cjfs:
+      - propino
+      - propinas
+      - propina
+      - propinamos
+      - "propin\xE1is"
+      - propinan
+      cjid: pind
+    - cjfs:
+      - propinaba
+      - propinabas
+      - propinaba
+      - "propin\xE1bamos"
+      - propinabais
+      - propinaban
+      cjid: pret
+    - cjfs:
+      - "propin\xE9"
+      - propinaste
+      - "propin\xF3"
+      - propinamos
+      - propinasteis
+      - propinaron
+      cjid: pprf
+    - cjfs:
+      - "propinar\xE9"
+      - "propinar\xE1s"
+      - "propinar\xE1"
+      - propinaremos
+      - "propinar\xE9is"
+      - "propinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "propinar\xEDa"
+      - "propinar\xEDas"
+      - "propinar\xEDa"
+      - "propinar\xEDamos"
+      - "propinar\xEDais"
+      - "propinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - propine
+      - propines
+      - propine
+      - propinemos
+      - "propin\xE9is"
+      - propinen
+      cjid: psub
+    - cjfs:
+      - propinara
+      - propinaras
+      - propinara
+      - "propin\xE1ramos"
+      - propinarais
+      - propinaran
+      cjid: pisb1
+    - cjfs:
+      - propinase
+      - propinases
+      - propinase
+      - "propin\xE1semos"
+      - propinaseis
+      - propinasen
+      cjid: pisb2
+    - cjfs:
+      - propinare
+      - propinares
+      - propinare
+      - "propin\xE1remos"
+      - propinareis
+      - propinaren
+      cjid: fsub
+    - cjfs:
+      - he propinado
+      - has propinado
+      - ha propinado
+      - hemos propinado
+      - "hab\xE9is propinado"
+      - han propinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa propinado"
+      - "hab\xEDas propinado"
+      - "hab\xEDa propinado"
+      - "hab\xEDamos propinado"
+      - "hab\xEDais propinado"
+      - "hab\xEDan propinado"
+      cjid: ppsi
+    - cjfs:
+      - hube propinado
+      - hubiste propinado
+      - hubo propinado
+      - hubimos propinado
+      - hubisteis propinado
+      - hubieron propinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 propinado"
+      - "habr\xE1s propinado"
+      - "habr\xE1 propinado"
+      - habremos propinado
+      - "habr\xE9is propinado"
+      - "habr\xE1n propinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa propinado"
+      - "habr\xEDas propinado"
+      - "habr\xEDa propinado"
+      - "habr\xEDamos propinado"
+      - "habr\xEDais propinado"
+      - "habr\xEDan propinado"
+      cjid: cpef
+    - cjfs:
+      - haya propinado
+      - hayas propinado
+      - haya propinado
+      - hayamos propinado
+      - "hay\xE1is propinado"
+      - hayan propinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera propinado
+      - hubieras propinado
+      - hubiera propinado
+      - "hubi\xE9ramos propinado"
+      - hubierais propinado
+      - hubieran propinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese propinado
+      - hubieses propinado
+      - hubiese propinado
+      - "hubi\xE9semos propinado"
+      - hubieseis propinado
+      - hubiesen propinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere propinado
+      - hubieres propinado
+      - hubiere propinado
+      - "hubi\xE9remos propinado"
+      - hubiereis propinado
+      - hubieren propinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - propina
+      - propine
+      - propinemos
+      - propinad
+      - propinen
+      cjid: impf

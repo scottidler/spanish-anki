@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|convoke}, to call together'
+  fl: transitive verb
+  hwi:
+    hw: convocar
+    prs:
+    - sound:
+        audio: convo01sp
+  meta:
+    id: convocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605827000'
+    src: spanish
+    stems:
+    - convocar
+    uuid: 0548bf52-2328-4d0f-8fce-0a58e5db2e9a
+  shortdef:
+  - to convoke, to call together
+  suppl:
+    cjts:
+    - cjfs:
+      - convocando
+      - convocado
+      cjid: gppt
+    - cjfs:
+      - convoco
+      - convocas
+      - convoca
+      - convocamos
+      - "convoc\xE1is"
+      - convocan
+      cjid: pind
+    - cjfs:
+      - convocaba
+      - convocabas
+      - convocaba
+      - "convoc\xE1bamos"
+      - convocabais
+      - convocaban
+      cjid: pret
+    - cjfs:
+      - "convoqu\xE9"
+      - convocaste
+      - "convoc\xF3"
+      - convocamos
+      - convocasteis
+      - convocaron
+      cjid: pprf
+    - cjfs:
+      - "convocar\xE9"
+      - "convocar\xE1s"
+      - "convocar\xE1"
+      - convocaremos
+      - "convocar\xE9is"
+      - "convocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "convocar\xEDa"
+      - "convocar\xEDas"
+      - "convocar\xEDa"
+      - "convocar\xEDamos"
+      - "convocar\xEDais"
+      - "convocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - convoque
+      - convoques
+      - convoque
+      - convoquemos
+      - "convoqu\xE9is"
+      - convoquen
+      cjid: psub
+    - cjfs:
+      - convocara
+      - convocaras
+      - convocara
+      - "convoc\xE1ramos"
+      - convocarais
+      - convocaran
+      cjid: pisb1
+    - cjfs:
+      - convocase
+      - convocases
+      - convocase
+      - "convoc\xE1semos"
+      - convocaseis
+      - convocasen
+      cjid: pisb2
+    - cjfs:
+      - convocare
+      - convocares
+      - convocare
+      - "convoc\xE1remos"
+      - convocareis
+      - convocaren
+      cjid: fsub
+    - cjfs:
+      - he convocado
+      - has convocado
+      - ha convocado
+      - hemos convocado
+      - "hab\xE9is convocado"
+      - han convocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa convocado"
+      - "hab\xEDas convocado"
+      - "hab\xEDa convocado"
+      - "hab\xEDamos convocado"
+      - "hab\xEDais convocado"
+      - "hab\xEDan convocado"
+      cjid: ppsi
+    - cjfs:
+      - hube convocado
+      - hubiste convocado
+      - hubo convocado
+      - hubimos convocado
+      - hubisteis convocado
+      - hubieron convocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 convocado"
+      - "habr\xE1s convocado"
+      - "habr\xE1 convocado"
+      - habremos convocado
+      - "habr\xE9is convocado"
+      - "habr\xE1n convocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa convocado"
+      - "habr\xEDas convocado"
+      - "habr\xEDa convocado"
+      - "habr\xEDamos convocado"
+      - "habr\xEDais convocado"
+      - "habr\xEDan convocado"
+      cjid: cpef
+    - cjfs:
+      - haya convocado
+      - hayas convocado
+      - haya convocado
+      - hayamos convocado
+      - "hay\xE1is convocado"
+      - hayan convocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera convocado
+      - hubieras convocado
+      - hubiera convocado
+      - "hubi\xE9ramos convocado"
+      - hubierais convocado
+      - hubieran convocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese convocado
+      - hubieses convocado
+      - hubiese convocado
+      - "hubi\xE9semos convocado"
+      - hubieseis convocado
+      - hubiesen convocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere convocado
+      - hubieres convocado
+      - hubiere convocado
+      - "hubi\xE9remos convocado"
+      - hubiereis convocado
+      - hubieren convocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - convoca
+      - convoque
+      - convoquemos
+      - convocad
+      - convoquen
+      cjid: impf

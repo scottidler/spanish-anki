@@ -1,0 +1,253 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dress}, to {a_link|clothe}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|llevar||} {bc}to {a_link|wear} '
+          - - vis
+            - - t: vestir de blanco
+                tr: to wear white
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|adornar||} {bc}to {a_link|decorate}, to {a_link|dress up}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dress} '
+          - - vis
+            - - t: vestir bien
+                tr: to dress well
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to look good, to suit the occasion'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get dressed'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|wear}, to dress in'
+            sn: '2'
+            vrs:
+            - va: vestirse con
+              vac: ~ con
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to dress up as '
+            - - vis
+              - - t: se vistieron de soldados
+                  tr: they dressed up as soldiers
+            sn: '3'
+            vrs:
+            - va: vestirse de
+              vac: ~ de
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|wear}, to dress in'
+            sn: '4'
+            vrs:
+            - va: vestirse de
+              vac: ~ de
+    drp: vestirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: vestir
+    prs:
+    - sound:
+        audio: vesti05sp
+  meta:
+    id: vestir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622937000'
+    src: spanish
+    stems:
+    - vestir
+    - vestirse
+    - vestirse con
+    - vestirse de
+    uuid: 3e66bbb9-b4e9-4b62-a136-8e835a550ce5
+  shortdef:
+  - to dress, to clothe
+  - 'llevar : to wear'
+  - 'adornar : to decorate, to dress up'
+  suppl:
+    cjts:
+    - cjfs:
+      - vistiendo
+      - vestido
+      cjid: gppt
+    - cjfs:
+      - visto
+      - vistes
+      - viste
+      - vestimos
+      - "vest\xEDs"
+      - visten
+      cjid: pind
+    - cjfs:
+      - "vest\xEDa"
+      - "vest\xEDas"
+      - "vest\xEDa"
+      - "vest\xEDamos"
+      - "vest\xEDais"
+      - "vest\xEDan"
+      cjid: pret
+    - cjfs:
+      - "vest\xED"
+      - vestiste
+      - "visti\xF3"
+      - vestimos
+      - vestisteis
+      - vistieron
+      cjid: pprf
+    - cjfs:
+      - "vestir\xE9"
+      - "vestir\xE1s"
+      - "vestir\xE1"
+      - vestiremos
+      - "vestir\xE9is"
+      - "vestir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "vestir\xEDa"
+      - "vestir\xEDas"
+      - "vestir\xEDa"
+      - "vestir\xEDamos"
+      - "vestir\xEDais"
+      - "vestir\xEDan"
+      cjid: cond
+    - cjfs:
+      - vista
+      - vistas
+      - vista
+      - vistamos
+      - "vist\xE1is"
+      - vistan
+      cjid: psub
+    - cjfs:
+      - vistiera
+      - vistieras
+      - vistiera
+      - "visti\xE9ramos"
+      - vistierais
+      - vistieran
+      cjid: pisb1
+    - cjfs:
+      - vistiese
+      - vistieses
+      - vistiese
+      - "visti\xE9semos"
+      - vistieseis
+      - vistiesen
+      cjid: pisb2
+    - cjfs:
+      - vistiere
+      - vistieres
+      - vistiere
+      - "visti\xE9remos"
+      - vistiereis
+      - vistieren
+      cjid: fsub
+    - cjfs:
+      - he vestido
+      - has vestido
+      - ha vestido
+      - hemos vestido
+      - "hab\xE9is vestido"
+      - han vestido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vestido"
+      - "hab\xEDas vestido"
+      - "hab\xEDa vestido"
+      - "hab\xEDamos vestido"
+      - "hab\xEDais vestido"
+      - "hab\xEDan vestido"
+      cjid: ppsi
+    - cjfs:
+      - hube vestido
+      - hubiste vestido
+      - hubo vestido
+      - hubimos vestido
+      - hubisteis vestido
+      - hubieron vestido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vestido"
+      - "habr\xE1s vestido"
+      - "habr\xE1 vestido"
+      - habremos vestido
+      - "habr\xE9is vestido"
+      - "habr\xE1n vestido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vestido"
+      - "habr\xEDas vestido"
+      - "habr\xEDa vestido"
+      - "habr\xEDamos vestido"
+      - "habr\xEDais vestido"
+      - "habr\xEDan vestido"
+      cjid: cpef
+    - cjfs:
+      - haya vestido
+      - hayas vestido
+      - haya vestido
+      - hayamos vestido
+      - "hay\xE1is vestido"
+      - hayan vestido
+      cjid: ppfs
+    - cjfs:
+      - hubiera vestido
+      - hubieras vestido
+      - hubiera vestido
+      - "hubi\xE9ramos vestido"
+      - hubierais vestido
+      - hubieran vestido
+      cjid: ppss1
+    - cjfs:
+      - hubiese vestido
+      - hubieses vestido
+      - hubiese vestido
+      - "hubi\xE9semos vestido"
+      - hubieseis vestido
+      - hubiesen vestido
+      cjid: ppss2
+    - cjfs:
+      - hubiere vestido
+      - hubieres vestido
+      - hubiere vestido
+      - "hubi\xE9remos vestido"
+      - hubiereis vestido
+      - hubieren vestido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - viste
+      - vista
+      - vistamos
+      - vestid
+      - vistan
+      cjid: impf

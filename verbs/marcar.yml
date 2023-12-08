@@ -1,0 +1,227 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mark}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|brand} (livestock)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|indicate}, to {a_link|show}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|resaltar||} {bc}to {a_link|emphasize}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dial} (a telephone)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|guard} (an opponent)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|anotar||} {bc}to {a_link|score} (a goal, a point)'
+          sn: '7'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|anotar||} {bc}to {a_link|score}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dial}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: marcar
+    prs:
+    - sound:
+        audio: marca04sp
+  meta:
+    id: marcar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614460000'
+    src: spanish
+    stems:
+    - marcar
+    uuid: 344f5513-2a47-48c6-9322-d45f53dbdab8
+  shortdef:
+  - to mark
+  - to brand (livestock)
+  - to indicate, to show
+  suppl:
+    cjts:
+    - cjfs:
+      - marcando
+      - marcado
+      cjid: gppt
+    - cjfs:
+      - marco
+      - marcas
+      - marca
+      - marcamos
+      - "marc\xE1is"
+      - marcan
+      cjid: pind
+    - cjfs:
+      - marcaba
+      - marcabas
+      - marcaba
+      - "marc\xE1bamos"
+      - marcabais
+      - marcaban
+      cjid: pret
+    - cjfs:
+      - "marqu\xE9"
+      - marcaste
+      - "marc\xF3"
+      - marcamos
+      - marcasteis
+      - marcaron
+      cjid: pprf
+    - cjfs:
+      - "marcar\xE9"
+      - "marcar\xE1s"
+      - "marcar\xE1"
+      - marcaremos
+      - "marcar\xE9is"
+      - "marcar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "marcar\xEDa"
+      - "marcar\xEDas"
+      - "marcar\xEDa"
+      - "marcar\xEDamos"
+      - "marcar\xEDais"
+      - "marcar\xEDan"
+      cjid: cond
+    - cjfs:
+      - marque
+      - marques
+      - marque
+      - marquemos
+      - "marqu\xE9is"
+      - marquen
+      cjid: psub
+    - cjfs:
+      - marcara
+      - marcaras
+      - marcara
+      - "marc\xE1ramos"
+      - marcarais
+      - marcaran
+      cjid: pisb1
+    - cjfs:
+      - marcase
+      - marcases
+      - marcase
+      - "marc\xE1semos"
+      - marcaseis
+      - marcasen
+      cjid: pisb2
+    - cjfs:
+      - marcare
+      - marcares
+      - marcare
+      - "marc\xE1remos"
+      - marcareis
+      - marcaren
+      cjid: fsub
+    - cjfs:
+      - he marcado
+      - has marcado
+      - ha marcado
+      - hemos marcado
+      - "hab\xE9is marcado"
+      - han marcado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa marcado"
+      - "hab\xEDas marcado"
+      - "hab\xEDa marcado"
+      - "hab\xEDamos marcado"
+      - "hab\xEDais marcado"
+      - "hab\xEDan marcado"
+      cjid: ppsi
+    - cjfs:
+      - hube marcado
+      - hubiste marcado
+      - hubo marcado
+      - hubimos marcado
+      - hubisteis marcado
+      - hubieron marcado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 marcado"
+      - "habr\xE1s marcado"
+      - "habr\xE1 marcado"
+      - habremos marcado
+      - "habr\xE9is marcado"
+      - "habr\xE1n marcado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa marcado"
+      - "habr\xEDas marcado"
+      - "habr\xEDa marcado"
+      - "habr\xEDamos marcado"
+      - "habr\xEDais marcado"
+      - "habr\xEDan marcado"
+      cjid: cpef
+    - cjfs:
+      - haya marcado
+      - hayas marcado
+      - haya marcado
+      - hayamos marcado
+      - "hay\xE1is marcado"
+      - hayan marcado
+      cjid: ppfs
+    - cjfs:
+      - hubiera marcado
+      - hubieras marcado
+      - hubiera marcado
+      - "hubi\xE9ramos marcado"
+      - hubierais marcado
+      - hubieran marcado
+      cjid: ppss1
+    - cjfs:
+      - hubiese marcado
+      - hubieses marcado
+      - hubiese marcado
+      - "hubi\xE9semos marcado"
+      - hubieseis marcado
+      - hubiesen marcado
+      cjid: ppss2
+    - cjfs:
+      - hubiere marcado
+      - hubieres marcado
+      - hubiere marcado
+      - "hubi\xE9remos marcado"
+      - hubiereis marcado
+      - hubieren marcado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - marca
+      - marque
+      - marquemos
+      - marcad
+      - marquen
+      cjid: impf

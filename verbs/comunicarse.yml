@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|communicate}, to {a_link|convey}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|notify}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sen
+          - vrs:
+            - va: comunicarse con
+              vac: ~ con
+        - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|contact}, to get in touch with'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be connected to'
+            sn: '2'
+    drp: comunicarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: comunicar
+    prs:
+    - sound:
+        audio: comun05sp
+  meta:
+    id: comunicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605328000'
+    src: spanish
+    stems:
+    - comunicar
+    - comunicarse
+    - comunicarse con
+    uuid: e2f917b4-970b-4a5c-9a46-05445637eea2
+  shortdef:
+  - to communicate, to convey
+  - to notify
+  suppl:
+    cjts:
+    - cjfs:
+      - comunicando
+      - comunicado
+      cjid: gppt
+    - cjfs:
+      - comunico
+      - comunicas
+      - comunica
+      - comunicamos
+      - "comunic\xE1is"
+      - comunican
+      cjid: pind
+    - cjfs:
+      - comunicaba
+      - comunicabas
+      - comunicaba
+      - "comunic\xE1bamos"
+      - comunicabais
+      - comunicaban
+      cjid: pret
+    - cjfs:
+      - "comuniqu\xE9"
+      - comunicaste
+      - "comunic\xF3"
+      - comunicamos
+      - comunicasteis
+      - comunicaron
+      cjid: pprf
+    - cjfs:
+      - "comunicar\xE9"
+      - "comunicar\xE1s"
+      - "comunicar\xE1"
+      - comunicaremos
+      - "comunicar\xE9is"
+      - "comunicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "comunicar\xEDa"
+      - "comunicar\xEDas"
+      - "comunicar\xEDa"
+      - "comunicar\xEDamos"
+      - "comunicar\xEDais"
+      - "comunicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - comunique
+      - comuniques
+      - comunique
+      - comuniquemos
+      - "comuniqu\xE9is"
+      - comuniquen
+      cjid: psub
+    - cjfs:
+      - comunicara
+      - comunicaras
+      - comunicara
+      - "comunic\xE1ramos"
+      - comunicarais
+      - comunicaran
+      cjid: pisb1
+    - cjfs:
+      - comunicase
+      - comunicases
+      - comunicase
+      - "comunic\xE1semos"
+      - comunicaseis
+      - comunicasen
+      cjid: pisb2
+    - cjfs:
+      - comunicare
+      - comunicares
+      - comunicare
+      - "comunic\xE1remos"
+      - comunicareis
+      - comunicaren
+      cjid: fsub
+    - cjfs:
+      - he comunicado
+      - has comunicado
+      - ha comunicado
+      - hemos comunicado
+      - "hab\xE9is comunicado"
+      - han comunicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa comunicado"
+      - "hab\xEDas comunicado"
+      - "hab\xEDa comunicado"
+      - "hab\xEDamos comunicado"
+      - "hab\xEDais comunicado"
+      - "hab\xEDan comunicado"
+      cjid: ppsi
+    - cjfs:
+      - hube comunicado
+      - hubiste comunicado
+      - hubo comunicado
+      - hubimos comunicado
+      - hubisteis comunicado
+      - hubieron comunicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 comunicado"
+      - "habr\xE1s comunicado"
+      - "habr\xE1 comunicado"
+      - habremos comunicado
+      - "habr\xE9is comunicado"
+      - "habr\xE1n comunicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa comunicado"
+      - "habr\xEDas comunicado"
+      - "habr\xEDa comunicado"
+      - "habr\xEDamos comunicado"
+      - "habr\xEDais comunicado"
+      - "habr\xEDan comunicado"
+      cjid: cpef
+    - cjfs:
+      - haya comunicado
+      - hayas comunicado
+      - haya comunicado
+      - hayamos comunicado
+      - "hay\xE1is comunicado"
+      - hayan comunicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera comunicado
+      - hubieras comunicado
+      - hubiera comunicado
+      - "hubi\xE9ramos comunicado"
+      - hubierais comunicado
+      - hubieran comunicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese comunicado
+      - hubieses comunicado
+      - hubiese comunicado
+      - "hubi\xE9semos comunicado"
+      - hubieseis comunicado
+      - hubiesen comunicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere comunicado
+      - hubieres comunicado
+      - hubiere comunicado
+      - "hubi\xE9remos comunicado"
+      - hubiereis comunicado
+      - hubieren comunicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - comunica
+      - comunique
+      - comuniquemos
+      - comunicad
+      - comuniquen
+      cjid: impf

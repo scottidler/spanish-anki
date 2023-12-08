@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|proclaim}'
+  fl: transitive verb
+  hwi:
+    hw: proclamar
+  meta:
+    id: proclamar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618183000'
+    src: spanish
+    stems:
+    - proclamar
+    - proclamarse
+    uuid: e459abf6-3460-451e-9649-fadc23e52b36
+  shortdef:
+  - to proclaim
+  suppl:
+    cjts:
+    - cjfs:
+      - proclamando
+      - proclamado
+      cjid: gppt
+    - cjfs:
+      - proclamo
+      - proclamas
+      - proclama
+      - proclamamos
+      - "proclam\xE1is"
+      - proclaman
+      cjid: pind
+    - cjfs:
+      - proclamaba
+      - proclamabas
+      - proclamaba
+      - "proclam\xE1bamos"
+      - proclamabais
+      - proclamaban
+      cjid: pret
+    - cjfs:
+      - "proclam\xE9"
+      - proclamaste
+      - "proclam\xF3"
+      - proclamamos
+      - proclamasteis
+      - proclamaron
+      cjid: pprf
+    - cjfs:
+      - "proclamar\xE9"
+      - "proclamar\xE1s"
+      - "proclamar\xE1"
+      - proclamaremos
+      - "proclamar\xE9is"
+      - "proclamar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "proclamar\xEDa"
+      - "proclamar\xEDas"
+      - "proclamar\xEDa"
+      - "proclamar\xEDamos"
+      - "proclamar\xEDais"
+      - "proclamar\xEDan"
+      cjid: cond
+    - cjfs:
+      - proclame
+      - proclames
+      - proclame
+      - proclamemos
+      - "proclam\xE9is"
+      - proclamen
+      cjid: psub
+    - cjfs:
+      - proclamara
+      - proclamaras
+      - proclamara
+      - "proclam\xE1ramos"
+      - proclamarais
+      - proclamaran
+      cjid: pisb1
+    - cjfs:
+      - proclamase
+      - proclamases
+      - proclamase
+      - "proclam\xE1semos"
+      - proclamaseis
+      - proclamasen
+      cjid: pisb2
+    - cjfs:
+      - proclamare
+      - proclamares
+      - proclamare
+      - "proclam\xE1remos"
+      - proclamareis
+      - proclamaren
+      cjid: fsub
+    - cjfs:
+      - he proclamado
+      - has proclamado
+      - ha proclamado
+      - hemos proclamado
+      - "hab\xE9is proclamado"
+      - han proclamado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa proclamado"
+      - "hab\xEDas proclamado"
+      - "hab\xEDa proclamado"
+      - "hab\xEDamos proclamado"
+      - "hab\xEDais proclamado"
+      - "hab\xEDan proclamado"
+      cjid: ppsi
+    - cjfs:
+      - hube proclamado
+      - hubiste proclamado
+      - hubo proclamado
+      - hubimos proclamado
+      - hubisteis proclamado
+      - hubieron proclamado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 proclamado"
+      - "habr\xE1s proclamado"
+      - "habr\xE1 proclamado"
+      - habremos proclamado
+      - "habr\xE9is proclamado"
+      - "habr\xE1n proclamado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa proclamado"
+      - "habr\xEDas proclamado"
+      - "habr\xEDa proclamado"
+      - "habr\xEDamos proclamado"
+      - "habr\xEDais proclamado"
+      - "habr\xEDan proclamado"
+      cjid: cpef
+    - cjfs:
+      - haya proclamado
+      - hayas proclamado
+      - haya proclamado
+      - hayamos proclamado
+      - "hay\xE1is proclamado"
+      - hayan proclamado
+      cjid: ppfs
+    - cjfs:
+      - hubiera proclamado
+      - hubieras proclamado
+      - hubiera proclamado
+      - "hubi\xE9ramos proclamado"
+      - hubierais proclamado
+      - hubieran proclamado
+      cjid: ppss1
+    - cjfs:
+      - hubiese proclamado
+      - hubieses proclamado
+      - hubiese proclamado
+      - "hubi\xE9semos proclamado"
+      - hubieseis proclamado
+      - hubiesen proclamado
+      cjid: ppss2
+    - cjfs:
+      - hubiere proclamado
+      - hubieres proclamado
+      - hubiere proclamado
+      - "hubi\xE9remos proclamado"
+      - hubiereis proclamado
+      - hubieren proclamado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - proclama
+      - proclame
+      - proclamemos
+      - proclamad
+      - proclamen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: proclamarse

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plot}, to {a_link|scheme}'
+  fl: transitive verb
+  hwi:
+    hw: maquinar
+  meta:
+    id: maquinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614442000'
+    src: spanish
+    stems:
+    - maquinar
+    uuid: 0eeb4098-e5fa-4000-a73f-0299edd6f052
+  shortdef:
+  - to plot, to scheme
+  suppl:
+    cjts:
+    - cjfs:
+      - maquinando
+      - maquinado
+      cjid: gppt
+    - cjfs:
+      - maquino
+      - maquinas
+      - maquina
+      - maquinamos
+      - "maquin\xE1is"
+      - maquinan
+      cjid: pind
+    - cjfs:
+      - maquinaba
+      - maquinabas
+      - maquinaba
+      - "maquin\xE1bamos"
+      - maquinabais
+      - maquinaban
+      cjid: pret
+    - cjfs:
+      - "maquin\xE9"
+      - maquinaste
+      - "maquin\xF3"
+      - maquinamos
+      - maquinasteis
+      - maquinaron
+      cjid: pprf
+    - cjfs:
+      - "maquinar\xE9"
+      - "maquinar\xE1s"
+      - "maquinar\xE1"
+      - maquinaremos
+      - "maquinar\xE9is"
+      - "maquinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "maquinar\xEDa"
+      - "maquinar\xEDas"
+      - "maquinar\xEDa"
+      - "maquinar\xEDamos"
+      - "maquinar\xEDais"
+      - "maquinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - maquine
+      - maquines
+      - maquine
+      - maquinemos
+      - "maquin\xE9is"
+      - maquinen
+      cjid: psub
+    - cjfs:
+      - maquinara
+      - maquinaras
+      - maquinara
+      - "maquin\xE1ramos"
+      - maquinarais
+      - maquinaran
+      cjid: pisb1
+    - cjfs:
+      - maquinase
+      - maquinases
+      - maquinase
+      - "maquin\xE1semos"
+      - maquinaseis
+      - maquinasen
+      cjid: pisb2
+    - cjfs:
+      - maquinare
+      - maquinares
+      - maquinare
+      - "maquin\xE1remos"
+      - maquinareis
+      - maquinaren
+      cjid: fsub
+    - cjfs:
+      - he maquinado
+      - has maquinado
+      - ha maquinado
+      - hemos maquinado
+      - "hab\xE9is maquinado"
+      - han maquinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa maquinado"
+      - "hab\xEDas maquinado"
+      - "hab\xEDa maquinado"
+      - "hab\xEDamos maquinado"
+      - "hab\xEDais maquinado"
+      - "hab\xEDan maquinado"
+      cjid: ppsi
+    - cjfs:
+      - hube maquinado
+      - hubiste maquinado
+      - hubo maquinado
+      - hubimos maquinado
+      - hubisteis maquinado
+      - hubieron maquinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 maquinado"
+      - "habr\xE1s maquinado"
+      - "habr\xE1 maquinado"
+      - habremos maquinado
+      - "habr\xE9is maquinado"
+      - "habr\xE1n maquinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa maquinado"
+      - "habr\xEDas maquinado"
+      - "habr\xEDa maquinado"
+      - "habr\xEDamos maquinado"
+      - "habr\xEDais maquinado"
+      - "habr\xEDan maquinado"
+      cjid: cpef
+    - cjfs:
+      - haya maquinado
+      - hayas maquinado
+      - haya maquinado
+      - hayamos maquinado
+      - "hay\xE1is maquinado"
+      - hayan maquinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera maquinado
+      - hubieras maquinado
+      - hubiera maquinado
+      - "hubi\xE9ramos maquinado"
+      - hubierais maquinado
+      - hubieran maquinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese maquinado
+      - hubieses maquinado
+      - hubiese maquinado
+      - "hubi\xE9semos maquinado"
+      - hubieseis maquinado
+      - hubiesen maquinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere maquinado
+      - hubieres maquinado
+      - hubiere maquinado
+      - "hubi\xE9remos maquinado"
+      - hubiereis maquinado
+      - hubieren maquinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - maquina
+      - maquine
+      - maquinemos
+      - maquinad
+      - maquinen
+      cjid: impf

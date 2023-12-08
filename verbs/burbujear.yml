@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bubble}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fizz}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: burbujear
+  meta:
+    id: burbujear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603438000'
+    src: spanish
+    stems:
+    - burbujear
+    uuid: 96d9045d-bdef-41eb-a775-2cde0c73e9ff
+  shortdef:
+  - to bubble
+  - to fizz
+  suppl:
+    cjts:
+    - cjfs:
+      - burbujeando
+      - burbujeado
+      cjid: gppt
+    - cjfs:
+      - burbujeo
+      - burbujeas
+      - burbujea
+      - burbujeamos
+      - "burbuje\xE1is"
+      - burbujean
+      cjid: pind
+    - cjfs:
+      - burbujeaba
+      - burbujeabas
+      - burbujeaba
+      - "burbuje\xE1bamos"
+      - burbujeabais
+      - burbujeaban
+      cjid: pret
+    - cjfs:
+      - "burbuje\xE9"
+      - burbujeaste
+      - "burbuje\xF3"
+      - burbujeamos
+      - burbujeasteis
+      - burbujearon
+      cjid: pprf
+    - cjfs:
+      - "burbujear\xE9"
+      - "burbujear\xE1s"
+      - "burbujear\xE1"
+      - burbujearemos
+      - "burbujear\xE9is"
+      - "burbujear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "burbujear\xEDa"
+      - "burbujear\xEDas"
+      - "burbujear\xEDa"
+      - "burbujear\xEDamos"
+      - "burbujear\xEDais"
+      - "burbujear\xEDan"
+      cjid: cond
+    - cjfs:
+      - burbujee
+      - burbujees
+      - burbujee
+      - burbujeemos
+      - "burbuje\xE9is"
+      - burbujeen
+      cjid: psub
+    - cjfs:
+      - burbujeara
+      - burbujearas
+      - burbujeara
+      - "burbuje\xE1ramos"
+      - burbujearais
+      - burbujearan
+      cjid: pisb1
+    - cjfs:
+      - burbujease
+      - burbujeases
+      - burbujease
+      - "burbuje\xE1semos"
+      - burbujeaseis
+      - burbujeasen
+      cjid: pisb2
+    - cjfs:
+      - burbujeare
+      - burbujeares
+      - burbujeare
+      - "burbuje\xE1remos"
+      - burbujeareis
+      - burbujearen
+      cjid: fsub
+    - cjfs:
+      - he burbujeado
+      - has burbujeado
+      - ha burbujeado
+      - hemos burbujeado
+      - "hab\xE9is burbujeado"
+      - han burbujeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa burbujeado"
+      - "hab\xEDas burbujeado"
+      - "hab\xEDa burbujeado"
+      - "hab\xEDamos burbujeado"
+      - "hab\xEDais burbujeado"
+      - "hab\xEDan burbujeado"
+      cjid: ppsi
+    - cjfs:
+      - hube burbujeado
+      - hubiste burbujeado
+      - hubo burbujeado
+      - hubimos burbujeado
+      - hubisteis burbujeado
+      - hubieron burbujeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 burbujeado"
+      - "habr\xE1s burbujeado"
+      - "habr\xE1 burbujeado"
+      - habremos burbujeado
+      - "habr\xE9is burbujeado"
+      - "habr\xE1n burbujeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa burbujeado"
+      - "habr\xEDas burbujeado"
+      - "habr\xEDa burbujeado"
+      - "habr\xEDamos burbujeado"
+      - "habr\xEDais burbujeado"
+      - "habr\xEDan burbujeado"
+      cjid: cpef
+    - cjfs:
+      - haya burbujeado
+      - hayas burbujeado
+      - haya burbujeado
+      - hayamos burbujeado
+      - "hay\xE1is burbujeado"
+      - hayan burbujeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera burbujeado
+      - hubieras burbujeado
+      - hubiera burbujeado
+      - "hubi\xE9ramos burbujeado"
+      - hubierais burbujeado
+      - hubieran burbujeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese burbujeado
+      - hubieses burbujeado
+      - hubiese burbujeado
+      - "hubi\xE9semos burbujeado"
+      - hubieseis burbujeado
+      - hubiesen burbujeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere burbujeado
+      - hubieres burbujeado
+      - hubiere burbujeado
+      - "hubi\xE9remos burbujeado"
+      - hubiereis burbujeado
+      - hubieren burbujeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - burbujea
+      - burbujee
+      - burbujeemos
+      - burbujead
+      - burbujeen
+      cjid: impf

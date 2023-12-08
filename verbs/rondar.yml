@@ -1,0 +1,213 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|patrol}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hang around} '
+          - - vis
+            - - t: "siempre est\xE1 rondando la calle"
+                tr: he's always hanging around the street
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be approximately '
+          - - vis
+            - - t: debe rondar los cincuenta
+                tr: he must be about 50
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be on patrol'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to prowl around, to roam about'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: rondar
+    prs:
+    - sound:
+        audio: ronda02sp
+  meta:
+    id: rondar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619926000'
+    src: spanish
+    stems:
+    - rondar
+    uuid: b9b3b56d-b2e9-4a28-94b4-1b015ae69c84
+  shortdef:
+  - to patrol
+  - to hang around
+  - to be approximately
+  suppl:
+    cjts:
+    - cjfs:
+      - rondando
+      - rondado
+      cjid: gppt
+    - cjfs:
+      - rondo
+      - rondas
+      - ronda
+      - rondamos
+      - "rond\xE1is"
+      - rondan
+      cjid: pind
+    - cjfs:
+      - rondaba
+      - rondabas
+      - rondaba
+      - "rond\xE1bamos"
+      - rondabais
+      - rondaban
+      cjid: pret
+    - cjfs:
+      - "rond\xE9"
+      - rondaste
+      - "rond\xF3"
+      - rondamos
+      - rondasteis
+      - rondaron
+      cjid: pprf
+    - cjfs:
+      - "rondar\xE9"
+      - "rondar\xE1s"
+      - "rondar\xE1"
+      - rondaremos
+      - "rondar\xE9is"
+      - "rondar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rondar\xEDa"
+      - "rondar\xEDas"
+      - "rondar\xEDa"
+      - "rondar\xEDamos"
+      - "rondar\xEDais"
+      - "rondar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ronde
+      - rondes
+      - ronde
+      - rondemos
+      - "rond\xE9is"
+      - ronden
+      cjid: psub
+    - cjfs:
+      - rondara
+      - rondaras
+      - rondara
+      - "rond\xE1ramos"
+      - rondarais
+      - rondaran
+      cjid: pisb1
+    - cjfs:
+      - rondase
+      - rondases
+      - rondase
+      - "rond\xE1semos"
+      - rondaseis
+      - rondasen
+      cjid: pisb2
+    - cjfs:
+      - rondare
+      - rondares
+      - rondare
+      - "rond\xE1remos"
+      - rondareis
+      - rondaren
+      cjid: fsub
+    - cjfs:
+      - he rondado
+      - has rondado
+      - ha rondado
+      - hemos rondado
+      - "hab\xE9is rondado"
+      - han rondado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rondado"
+      - "hab\xEDas rondado"
+      - "hab\xEDa rondado"
+      - "hab\xEDamos rondado"
+      - "hab\xEDais rondado"
+      - "hab\xEDan rondado"
+      cjid: ppsi
+    - cjfs:
+      - hube rondado
+      - hubiste rondado
+      - hubo rondado
+      - hubimos rondado
+      - hubisteis rondado
+      - hubieron rondado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rondado"
+      - "habr\xE1s rondado"
+      - "habr\xE1 rondado"
+      - habremos rondado
+      - "habr\xE9is rondado"
+      - "habr\xE1n rondado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rondado"
+      - "habr\xEDas rondado"
+      - "habr\xEDa rondado"
+      - "habr\xEDamos rondado"
+      - "habr\xEDais rondado"
+      - "habr\xEDan rondado"
+      cjid: cpef
+    - cjfs:
+      - haya rondado
+      - hayas rondado
+      - haya rondado
+      - hayamos rondado
+      - "hay\xE1is rondado"
+      - hayan rondado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rondado
+      - hubieras rondado
+      - hubiera rondado
+      - "hubi\xE9ramos rondado"
+      - hubierais rondado
+      - hubieran rondado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rondado
+      - hubieses rondado
+      - hubiese rondado
+      - "hubi\xE9semos rondado"
+      - hubieseis rondado
+      - hubiesen rondado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rondado
+      - hubieres rondado
+      - hubiere rondado
+      - "hubi\xE9remos rondado"
+      - hubiereis rondado
+      - hubieren rondado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ronda
+      - ronde
+      - rondemos
+      - rondad
+      - ronden
+      cjid: impf

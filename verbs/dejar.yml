@@ -1,0 +1,754 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave} '
+          - - vis
+            - - t: "dej\xE9 la cartera en casa"
+                tr: I left my purse at home
+              - t: "d\xE9jalo all\xED"
+                tr: leave it there
+              - t: "d\xE9jalo conmigo"
+                tr: leave it with me
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drop} (someone) {a_link|off}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave} (a tip, a package, etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|legar||} {bc}to {a_link|leave}, to {a_link|bequeath}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|abandonar||} {bc}to {a_link|leave} (a spouse, a job, etc.), to
+              {a_link|give up} (an activity)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to leave alone, to let be'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drop} (a subject) '
+          - - vis
+            - - t: "d\xE9jalo, no importa"
+                tr: "forget it\u2014it's not important"
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|posponer||} {bc}to {a_link|leave}, to {a_link|put off}'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave} '
+          - - vis
+            - - t: "dej\xE9 las luces encendidas"
+                tr: I left the lights on
+              - t: no me dejes esperando
+                tr: don't leave me waiting
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|guardar||} {bc}to {a_link|leave}, to {a_link|set aside}'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave} (a mark, etc.)'
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|permitir||} {bc}to {a_link|let}, to {a_link|allow} '
+          - - vis
+            - - t: "d\xE9jalo hablar"
+                tr: let him speak
+              - t: "deja que se enfr\xEDe"
+                tr: let it cool
+          sn: '12'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stop}, to {a_link|quit} '
+          - - vis
+            - - t: dejar de fumar
+                tr: to quit smoking
+          sn: '1'
+          vrs:
+          - va: dejar de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be sure to '
+          - - vis
+            - - t: no dejes de llamar
+                tr: be sure to call
+          sn: '2'
+          vrs:
+          - va: no dejar de
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to let oneself be '
+            - - vis
+              - - t: se deja insultar
+                  tr: he lets himself be insulted
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|forget}, to {a_link|leave} '
+            - - vis
+              - - t: "me dej\xE9 las llaves en el carro"
+                  tr: I left the keys in the car
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to neglect oneself, to {a_link|let oneself go}'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|grow} '
+            - - vis
+              - - t: me estoy dejando el pelo largo
+                  tr: I'm growing my hair long
+            sn: '4'
+    drp: dejarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: dejar
+    prs:
+    - sound:
+        audio: dejar01sp
+  meta:
+    id: dejar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606598000'
+    src: spanish
+    stems:
+    - dejar
+    - dejar de
+    - no dejar de
+    - dejarse
+    uuid: f940b9cd-4941-46f9-b57f-ae75beeee84a
+  shortdef:
+  - to leave
+  - to drop (someone) off
+  - to leave (a tip, a package, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - dejando
+      - dejado
+      cjid: gppt
+    - cjfs:
+      - dejo
+      - dejas
+      - deja
+      - dejamos
+      - "dej\xE1is"
+      - dejan
+      cjid: pind
+    - cjfs:
+      - dejaba
+      - dejabas
+      - dejaba
+      - "dej\xE1bamos"
+      - dejabais
+      - dejaban
+      cjid: pret
+    - cjfs:
+      - "dej\xE9"
+      - dejaste
+      - "dej\xF3"
+      - dejamos
+      - dejasteis
+      - dejaron
+      cjid: pprf
+    - cjfs:
+      - "dejar\xE9"
+      - "dejar\xE1s"
+      - "dejar\xE1"
+      - dejaremos
+      - "dejar\xE9is"
+      - "dejar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "dejar\xEDa"
+      - "dejar\xEDas"
+      - "dejar\xEDa"
+      - "dejar\xEDamos"
+      - "dejar\xEDais"
+      - "dejar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deje
+      - dejes
+      - deje
+      - dejemos
+      - "dej\xE9is"
+      - dejen
+      cjid: psub
+    - cjfs:
+      - dejara
+      - dejaras
+      - dejara
+      - "dej\xE1ramos"
+      - dejarais
+      - dejaran
+      cjid: pisb1
+    - cjfs:
+      - dejase
+      - dejases
+      - dejase
+      - "dej\xE1semos"
+      - dejaseis
+      - dejasen
+      cjid: pisb2
+    - cjfs:
+      - dejare
+      - dejares
+      - dejare
+      - "dej\xE1remos"
+      - dejareis
+      - dejaren
+      cjid: fsub
+    - cjfs:
+      - he dejado
+      - has dejado
+      - ha dejado
+      - hemos dejado
+      - "hab\xE9is dejado"
+      - han dejado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa dejado"
+      - "hab\xEDas dejado"
+      - "hab\xEDa dejado"
+      - "hab\xEDamos dejado"
+      - "hab\xEDais dejado"
+      - "hab\xEDan dejado"
+      cjid: ppsi
+    - cjfs:
+      - hube dejado
+      - hubiste dejado
+      - hubo dejado
+      - hubimos dejado
+      - hubisteis dejado
+      - hubieron dejado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 dejado"
+      - "habr\xE1s dejado"
+      - "habr\xE1 dejado"
+      - habremos dejado
+      - "habr\xE9is dejado"
+      - "habr\xE1n dejado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa dejado"
+      - "habr\xEDas dejado"
+      - "habr\xEDa dejado"
+      - "habr\xEDamos dejado"
+      - "habr\xEDais dejado"
+      - "habr\xEDan dejado"
+      cjid: cpef
+    - cjfs:
+      - haya dejado
+      - hayas dejado
+      - haya dejado
+      - hayamos dejado
+      - "hay\xE1is dejado"
+      - hayan dejado
+      cjid: ppfs
+    - cjfs:
+      - hubiera dejado
+      - hubieras dejado
+      - hubiera dejado
+      - "hubi\xE9ramos dejado"
+      - hubierais dejado
+      - hubieran dejado
+      cjid: ppss1
+    - cjfs:
+      - hubiese dejado
+      - hubieses dejado
+      - hubiese dejado
+      - "hubi\xE9semos dejado"
+      - hubieseis dejado
+      - hubiesen dejado
+      cjid: ppss2
+    - cjfs:
+      - hubiere dejado
+      - hubieres dejado
+      - hubiere dejado
+      - "hubi\xE9remos dejado"
+      - hubiereis dejado
+      - hubieren dejado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - deja
+      - deje
+      - dejemos
+      - dejad
+      - dejen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|detr\xE1s||} {bc}{a_link|back}, {a_link|behind} "
+          - - vis
+            - - t: "la parte de atr\xE1s"
+                tr: the back/rear part
+              - t: "dar un paso atr\xE1s"
+                tr: to take a step back
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|antes||} {bc}{a_link|ago} '
+          - - vis
+            - - t: "mucho tiempo atr\xE1s"
+                tr: long ago
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in back of}, {a_link|behind}'
+          sn: '3'
+          vrs:
+          - va: "atr\xE1s de"
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}from behind, from the rear'
+          sn: '4'
+          vrs:
+          - va: "desde atr\xE1s "
+            vac: 'desde ~ '
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|backwards}, toward the rear'
+          sn: '5'
+          vrs:
+          - va: "hacia/para atr\xE1s"
+            vac: hacia/para ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave} (the past, etc.) {a_link|behind}'
+          sn: '6'
+          vrs:
+          - va: "dejar atr\xE1s"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fall behind}, to get left behind'
+          sn: '7'
+          vrs:
+          - va: "quedarse atr\xE1s"
+  fl: adverb
+  hwi:
+    hw: "atr\xE1s"
+    prs:
+    - sound:
+        audio: atras01sp
+  meta:
+    id: atras
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602350000'
+    src: spanish
+    stems:
+    - "atr\xE1s"
+    - "atr\xE1s de"
+    - "desde atr\xE1s "
+    - "hacia/para atr\xE1s"
+    - "hacia atr\xE1s"
+    - "para atr\xE1s"
+    - "dejar atr\xE1s"
+    - "quedarse atr\xE1s"
+    uuid: 06fdf2c5-708a-4435-a1f5-9ed12b6b5335
+  shortdef:
+  - "detr\xE1s : back, behind"
+  - 'antes : ago'
+  - in back of, behind
+- ahws:
+  - hw: colgada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}hanging, hanged'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pending}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disappoint}, to {a_link|let down}'
+          sn: '3'
+          vrs:
+          - va: dejar colgado a
+  fl: adjective
+  hwi:
+    hw: colgado
+    prs:
+    - sound:
+        audio: colga01sp
+  meta:
+    id: colgado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605060000'
+    src: spanish
+    stems:
+    - colgado
+    - colgada
+    - dejar colgado a
+    uuid: 644a89bc-8670-4a15-9ef5-ab6e5e7b55eb
+  shortdef:
+  - hanging, hanged
+  - pending
+  - to disappoint, to let down
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|side} '
+          - - vis
+            - - t: el lado izquierdo/derecho
+                tr: the left/right side
+              - t: el otro lado
+                tr: the other side
+              - t: el lado de arriba/abajo
+                tr: the top/bottom
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|parte||} {bc}{a_link|place} '
+          - - vis
+            - - t: "mir\xF3 por todos lados"
+                tr: he looked everywhere
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|side} (in an argument, etc.) '
+          - - vis
+            - - t: se puso de mi lado
+                tr: she took my side
+          sn: '3'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: los que viven al lado
+                tr: the people who live next door
+              - t: tenemos una tienda al lado
+                tr: there's a store beside/near us
+          sn: '4'
+          vrs:
+          - va: al lado
+            vac: al ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|next to}, {a_link|beside} '
+          - - vis
+            - - t: al lado de la calle
+                tr: on/at the side of the road
+              - t: a mi lado
+                tr: beside me
+          sn: '5'
+          vrs:
+          - va: al lado de
+    - - - sense
+        - dt:
+          - - vis
+            - - t: los de al lado
+                tr: the next-door neighbors
+              - t: el asiento de al lado
+                tr: the seat next to mine/yours (etc.)
+          sn: '6'
+          vrs:
+          - va: de al lado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}tilted, {a_link|sideways} '
+          - - vis
+            - - t: "est\xE1 de lado"
+                tr: it's lying on its side
+          sn: '7'
+          vrs:
+          - va: de lado
+            vac: de ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|and fro}, back and forth'
+          sn: '8'
+          vrs:
+          - va: de un lado a otro
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|set aside}'
+          sn: '9'
+          vrs:
+          - va: dejar a un lado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to step aside'
+          sn: '10'
+          vrs:
+          - va: hacerse a un lado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}side by side'
+          sn: '11'
+          vrs:
+          - va: lado a lado
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}on the one hand \u2026 , on the other hand \u2026 "
+          sn: '12'
+          vrs:
+          - va: "por un lado \u2026 , por otro lado \u2026 "
+  fl: masculine noun
+  hwi:
+    hw: lado
+    prs:
+    - sound:
+        audio: lado001sp
+  meta:
+    id: lado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613431000'
+    src: spanish
+    stems:
+    - lado
+    - al lado
+    - al lado de
+    - de al lado
+    - de lado
+    - de un lado a otro
+    - dejar a un lado
+    - hacerse a un lado
+    - lado a lado
+    - "por un lado \u2026 , por otro lado \u2026 "
+    uuid: 01602857-ab9f-4b11-89f1-963ae32895d1
+  shortdef:
+  - side
+  - 'parte : place'
+  - side (in an argument, etc.)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|span}, small amount'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|bit by bit}, inch by inch'
+          sn: '2'
+          vrs:
+          - va: palmo a palmo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|thoroughly}'
+          sn: '3'
+          vrs:
+          - va: palmo a palmo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|disappoint}'
+          sn: '4'
+          vrs:
+          - va: dejar con un palmo de narices
+  fl: masculine noun
+  hwi:
+    hw: palmo
+  meta:
+    id: palmo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616520000'
+    src: spanish
+    stems:
+    - palmo
+    - palmo a palmo
+    - dejar con un palmo de narices
+    uuid: 22cc8846-81fa-4132-a654-323dcf66613d
+  shortdef:
+  - span, small amount
+  - bit by bit, inch by inch
+  - thoroughly
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|peace}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}rest in peace'
+          sn: '2'
+          vrs:
+          - va: descanse en paz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to leave alone'
+          sn: '3'
+          vrs:
+          - va: dejar en paz
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make up}, to {a_link|reconcile}'
+          sn: '4'
+          vrs:
+          - va: hacer las paces
+  fl: feminine noun
+  hwi:
+    hw: paz
+    prs:
+    - sound:
+        audio: paz0001sp
+  ins:
+  - if: paces
+    il: plural
+  meta:
+    id: paz
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616891000'
+    src: spanish
+    stems:
+    - paz
+    - paces
+    - descanse en paz
+    - dejar en paz
+    - hacer las paces
+    uuid: 50a65c68-e5d0-4045-86d7-5e4611e001ef
+  shortdef:
+  - peace
+  - rest in peace
+  - to leave alone
+- ahws:
+  - hw: plantada
+    hwc: -da
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}planted'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|stand up} (a date), to {a_link|dump} (a lover)'
+          sls:
+          - familiar
+          sn: '2'
+          vrs:
+          - va: dejar plantado
+  fl: adjective
+  hwi:
+    hw: plantado
+    prs:
+    - sound:
+        audio: plant02sp
+  meta:
+    id: plantado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617514000'
+    src: spanish
+    stems:
+    - plantado
+    - plantada
+    - dejar plantado
+    uuid: 17a8519a-3227-41a3-8ef9-1ccb5f2ae5c9
+  shortdef:
+  - planted
+  - to stand up (a date), to dump (a lover)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave} (a motor) idling'
+          vrs:
+          - va: "dejar al ralent\xED"
+  fl: masculine noun
+  hwi:
+    hw: "ralent\xED"
+  meta:
+    id: ralenti
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618747000'
+    src: spanish
+    stems:
+    - "ralent\xED"
+    - "dejar al ralent\xED"
+    uuid: 2f5e884f-39fc-495d-b0f5-7c153ea98a7d
+  shortdef:
+  - to leave (a motor) idling

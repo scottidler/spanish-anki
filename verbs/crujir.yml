@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rustle}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|creak}, to {a_link|crack}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crunch}'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: crujir
+    prs:
+    - sound:
+        audio: cruji02sp
+  meta:
+    id: crujir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606192000'
+    src: spanish
+    stems:
+    - crujir
+    uuid: 1aa585e6-f3c9-45ee-8d39-f27220ba8d11
+  shortdef:
+  - to rustle
+  - to creak, to crack
+  - to crunch
+  suppl:
+    cjts:
+    - cjfs:
+      - crujiendo
+      - crujido
+      cjid: gppt
+    - cjfs:
+      - crujo
+      - crujes
+      - cruje
+      - crujimos
+      - "cruj\xEDs"
+      - crujen
+      cjid: pind
+    - cjfs:
+      - "cruj\xEDa"
+      - "cruj\xEDas"
+      - "cruj\xEDa"
+      - "cruj\xEDamos"
+      - "cruj\xEDais"
+      - "cruj\xEDan"
+      cjid: pret
+    - cjfs:
+      - "cruj\xED"
+      - crujiste
+      - "cruji\xF3"
+      - crujimos
+      - crujisteis
+      - crujieron
+      cjid: pprf
+    - cjfs:
+      - "crujir\xE9"
+      - "crujir\xE1s"
+      - "crujir\xE1"
+      - crujiremos
+      - "crujir\xE9is"
+      - "crujir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "crujir\xEDa"
+      - "crujir\xEDas"
+      - "crujir\xEDa"
+      - "crujir\xEDamos"
+      - "crujir\xEDais"
+      - "crujir\xEDan"
+      cjid: cond
+    - cjfs:
+      - cruja
+      - crujas
+      - cruja
+      - crujamos
+      - "cruj\xE1is"
+      - crujan
+      cjid: psub
+    - cjfs:
+      - crujiera
+      - crujieras
+      - crujiera
+      - "cruji\xE9ramos"
+      - crujierais
+      - crujieran
+      cjid: pisb1
+    - cjfs:
+      - crujiese
+      - crujieses
+      - crujiese
+      - "cruji\xE9semos"
+      - crujieseis
+      - crujiesen
+      cjid: pisb2
+    - cjfs:
+      - crujiere
+      - crujieres
+      - crujiere
+      - "cruji\xE9remos"
+      - crujiereis
+      - crujieren
+      cjid: fsub
+    - cjfs:
+      - he crujido
+      - has crujido
+      - ha crujido
+      - hemos crujido
+      - "hab\xE9is crujido"
+      - han crujido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa crujido"
+      - "hab\xEDas crujido"
+      - "hab\xEDa crujido"
+      - "hab\xEDamos crujido"
+      - "hab\xEDais crujido"
+      - "hab\xEDan crujido"
+      cjid: ppsi
+    - cjfs:
+      - hube crujido
+      - hubiste crujido
+      - hubo crujido
+      - hubimos crujido
+      - hubisteis crujido
+      - hubieron crujido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 crujido"
+      - "habr\xE1s crujido"
+      - "habr\xE1 crujido"
+      - habremos crujido
+      - "habr\xE9is crujido"
+      - "habr\xE1n crujido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa crujido"
+      - "habr\xEDas crujido"
+      - "habr\xEDa crujido"
+      - "habr\xEDamos crujido"
+      - "habr\xEDais crujido"
+      - "habr\xEDan crujido"
+      cjid: cpef
+    - cjfs:
+      - haya crujido
+      - hayas crujido
+      - haya crujido
+      - hayamos crujido
+      - "hay\xE1is crujido"
+      - hayan crujido
+      cjid: ppfs
+    - cjfs:
+      - hubiera crujido
+      - hubieras crujido
+      - hubiera crujido
+      - "hubi\xE9ramos crujido"
+      - hubierais crujido
+      - hubieran crujido
+      cjid: ppss1
+    - cjfs:
+      - hubiese crujido
+      - hubieses crujido
+      - hubiese crujido
+      - "hubi\xE9semos crujido"
+      - hubieseis crujido
+      - hubiesen crujido
+      cjid: ppss2
+    - cjfs:
+      - hubiere crujido
+      - hubieres crujido
+      - hubiere crujido
+      - "hubi\xE9remos crujido"
+      - hubiereis crujido
+      - hubieren crujido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cruje
+      - cruja
+      - crujamos
+      - crujid
+      - crujan
+      cjid: impf

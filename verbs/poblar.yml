@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|populate}, to {a_link|inhabit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|settle}, to {a_link|colonize}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to stock with, to plant with'
+          sn: '3'
+          vrs:
+          - va: poblar de
+            vac: ~ de
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fill up}, to become crowded'
+    drp: poblarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: poblar
+    prs:
+    - sound:
+        audio: pobla04sp
+  meta:
+    id: poblar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617608000'
+    src: spanish
+    stems:
+    - poblar
+    - poblar de
+    - poblarse
+    uuid: 753de7d1-0b21-4bd3-a63d-1cc502a08d0b
+  shortdef:
+  - to populate, to inhabit
+  - to settle, to colonize
+  - to stock with, to plant with
+  suppl:
+    cjts:
+    - cjfs:
+      - poblando
+      - poblado
+      cjid: gppt
+    - cjfs:
+      - pueblo
+      - pueblas
+      - puebla
+      - poblamos
+      - "pobl\xE1is"
+      - pueblan
+      cjid: pind
+    - cjfs:
+      - poblaba
+      - poblabas
+      - poblaba
+      - "pobl\xE1bamos"
+      - poblabais
+      - poblaban
+      cjid: pret
+    - cjfs:
+      - "pobl\xE9"
+      - poblaste
+      - "pobl\xF3"
+      - poblamos
+      - poblasteis
+      - poblaron
+      cjid: pprf
+    - cjfs:
+      - "poblar\xE9"
+      - "poblar\xE1s"
+      - "poblar\xE1"
+      - poblaremos
+      - "poblar\xE9is"
+      - "poblar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "poblar\xEDa"
+      - "poblar\xEDas"
+      - "poblar\xEDa"
+      - "poblar\xEDamos"
+      - "poblar\xEDais"
+      - "poblar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pueble
+      - puebles
+      - pueble
+      - poblemos
+      - "pobl\xE9is"
+      - pueblen
+      cjid: psub
+    - cjfs:
+      - poblara
+      - poblaras
+      - poblara
+      - "pobl\xE1ramos"
+      - poblarais
+      - poblaran
+      cjid: pisb1
+    - cjfs:
+      - poblase
+      - poblases
+      - poblase
+      - "pobl\xE1semos"
+      - poblaseis
+      - poblasen
+      cjid: pisb2
+    - cjfs:
+      - poblare
+      - poblares
+      - poblare
+      - "pobl\xE1remos"
+      - poblareis
+      - poblaren
+      cjid: fsub
+    - cjfs:
+      - he poblado
+      - has poblado
+      - ha poblado
+      - hemos poblado
+      - "hab\xE9is poblado"
+      - han poblado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa poblado"
+      - "hab\xEDas poblado"
+      - "hab\xEDa poblado"
+      - "hab\xEDamos poblado"
+      - "hab\xEDais poblado"
+      - "hab\xEDan poblado"
+      cjid: ppsi
+    - cjfs:
+      - hube poblado
+      - hubiste poblado
+      - hubo poblado
+      - hubimos poblado
+      - hubisteis poblado
+      - hubieron poblado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 poblado"
+      - "habr\xE1s poblado"
+      - "habr\xE1 poblado"
+      - habremos poblado
+      - "habr\xE9is poblado"
+      - "habr\xE1n poblado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa poblado"
+      - "habr\xEDas poblado"
+      - "habr\xEDa poblado"
+      - "habr\xEDamos poblado"
+      - "habr\xEDais poblado"
+      - "habr\xEDan poblado"
+      cjid: cpef
+    - cjfs:
+      - haya poblado
+      - hayas poblado
+      - haya poblado
+      - hayamos poblado
+      - "hay\xE1is poblado"
+      - hayan poblado
+      cjid: ppfs
+    - cjfs:
+      - hubiera poblado
+      - hubieras poblado
+      - hubiera poblado
+      - "hubi\xE9ramos poblado"
+      - hubierais poblado
+      - hubieran poblado
+      cjid: ppss1
+    - cjfs:
+      - hubiese poblado
+      - hubieses poblado
+      - hubiese poblado
+      - "hubi\xE9semos poblado"
+      - hubieseis poblado
+      - hubiesen poblado
+      cjid: ppss2
+    - cjfs:
+      - hubiere poblado
+      - hubieres poblado
+      - hubiere poblado
+      - "hubi\xE9remos poblado"
+      - hubiereis poblado
+      - hubieren poblado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - puebla
+      - pueble
+      - poblemos
+      - poblad
+      - pueblen
+      cjid: impf

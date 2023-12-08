@@ -1,0 +1,438 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take} '
+          - - vis
+            - - t: "tom\xE9 el libro"
+                tr: I took the book
+              - t: tomar un taxi
+                tr: to take a taxi
+              - t: tomar una foto
+                tr: to take a photo
+              - t: "toma dos a\xF1os"
+                tr: it takes two years
+              - t: "tomaron medidas dr\xE1sticas"
+                tr: they took drastic measures
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make} (a decision)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|beber||} {bc}to {a_link|drink}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|consumir||} {bc}to {a_link|have} (food), to {a_link|take} (medicine)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|capturar||} {bc}to {a_link|capture}, to {a_link|seize}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|interpret} '
+          - - vis
+            - - t: no lo tomes a mal
+                tr: don't take it the wrong way
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take for}, to mistake for'
+          sn: '7'
+          vrs:
+          - va: tomar por
+            vac: ~ por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sunbathe}'
+          sn: '8'
+          vrs:
+          - va: tomar el sol
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|borrow}'
+          sn: '9'
+          vrs:
+          - va: tomar prestado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|land}'
+          sn: '10'
+          vrs:
+          - va: tomar tierra
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take something '
+          - - vis
+            - - t: toma, te lo presto
+                tr: here, I'll lend it to you
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drink} (alcohol)'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take} '
+            - - vis
+              - - t: tomarse la molestia de
+                  tr: to take the trouble to
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|drink}, to {a_link|eat}, to {a_link|have}'
+            sn: '2'
+    drp: tomarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tomar
+    prs:
+    - sound:
+        audio: tomar01sp
+  meta:
+    id: tomar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621946000'
+    src: spanish
+    stems:
+    - tomar
+    - tomar por
+    - tomar el sol
+    - tomar prestado
+    - tomar tierra
+    - tomarse
+    uuid: c03be3d3-b5bb-4b01-9389-00bcad763e7a
+  shortdef:
+  - to take
+  - to make (a decision)
+  - 'beber : to drink'
+  suppl:
+    cjts:
+    - cjfs:
+      - tomando
+      - tomado
+      cjid: gppt
+    - cjfs:
+      - tomo
+      - tomas
+      - toma
+      - tomamos
+      - "tom\xE1is"
+      - toman
+      cjid: pind
+    - cjfs:
+      - tomaba
+      - tomabas
+      - tomaba
+      - "tom\xE1bamos"
+      - tomabais
+      - tomaban
+      cjid: pret
+    - cjfs:
+      - "tom\xE9"
+      - tomaste
+      - "tom\xF3"
+      - tomamos
+      - tomasteis
+      - tomaron
+      cjid: pprf
+    - cjfs:
+      - "tomar\xE9"
+      - "tomar\xE1s"
+      - "tomar\xE1"
+      - tomaremos
+      - "tomar\xE9is"
+      - "tomar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tomar\xEDa"
+      - "tomar\xEDas"
+      - "tomar\xEDa"
+      - "tomar\xEDamos"
+      - "tomar\xEDais"
+      - "tomar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tome
+      - tomes
+      - tome
+      - tomemos
+      - "tom\xE9is"
+      - tomen
+      cjid: psub
+    - cjfs:
+      - tomara
+      - tomaras
+      - tomara
+      - "tom\xE1ramos"
+      - tomarais
+      - tomaran
+      cjid: pisb1
+    - cjfs:
+      - tomase
+      - tomases
+      - tomase
+      - "tom\xE1semos"
+      - tomaseis
+      - tomasen
+      cjid: pisb2
+    - cjfs:
+      - tomare
+      - tomares
+      - tomare
+      - "tom\xE1remos"
+      - tomareis
+      - tomaren
+      cjid: fsub
+    - cjfs:
+      - he tomado
+      - has tomado
+      - ha tomado
+      - hemos tomado
+      - "hab\xE9is tomado"
+      - han tomado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tomado"
+      - "hab\xEDas tomado"
+      - "hab\xEDa tomado"
+      - "hab\xEDamos tomado"
+      - "hab\xEDais tomado"
+      - "hab\xEDan tomado"
+      cjid: ppsi
+    - cjfs:
+      - hube tomado
+      - hubiste tomado
+      - hubo tomado
+      - hubimos tomado
+      - hubisteis tomado
+      - hubieron tomado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tomado"
+      - "habr\xE1s tomado"
+      - "habr\xE1 tomado"
+      - habremos tomado
+      - "habr\xE9is tomado"
+      - "habr\xE1n tomado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tomado"
+      - "habr\xEDas tomado"
+      - "habr\xEDa tomado"
+      - "habr\xEDamos tomado"
+      - "habr\xEDais tomado"
+      - "habr\xEDan tomado"
+      cjid: cpef
+    - cjfs:
+      - haya tomado
+      - hayas tomado
+      - haya tomado
+      - hayamos tomado
+      - "hay\xE1is tomado"
+      - hayan tomado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tomado
+      - hubieras tomado
+      - hubiera tomado
+      - "hubi\xE9ramos tomado"
+      - hubierais tomado
+      - hubieran tomado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tomado
+      - hubieses tomado
+      - hubiese tomado
+      - "hubi\xE9semos tomado"
+      - hubieseis tomado
+      - hubiesen tomado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tomado
+      - hubieres tomado
+      - hubiere tomado
+      - "hubi\xE9remos tomado"
+      - hubiereis tomado
+      - hubieren tomado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - toma
+      - tome
+      - tomemos
+      - tomad
+      - tomen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|chest}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|seno||} {bc}{a_link|breast}, {a_link|bosom}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|heart}, {a_link|courage}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|breast-feed}'
+          sn: '4'
+          vrs:
+          - va: dar el pecho
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|breaststroke}'
+          sn: '5'
+          vrs:
+          - va: estilo (de) pecho
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take something to heart'
+          sn: '6'
+          vrs:
+          - va: tomarse algo a pecho
+  fl: masculine noun
+  hwi:
+    hw: pecho
+    prs:
+    - sound:
+        audio: pecho01sp
+  meta:
+    id: pecho
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616908000'
+    src: spanish
+    stems:
+    - pecho
+    - dar el pecho
+    - estilo (de) pecho
+    - tomarse algo a pecho
+    uuid: 4221f3e9-f2a1-499f-beb2-afe453558e20
+  shortdef:
+  - chest
+  - 'seno : breast, bosom'
+  - heart, courage
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|work}, {a_link|job}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|labor||} {bc}{a_link|labor}, {a_link|work} '
+          - - vis
+            - - t: tengo mucho trabajo
+                tr: I have a lot of work to do
+              - t: "\xA1buen trabajo!"
+                tr: good job!, good work!
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|tarea||} {bc}{a_link|task}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|esfuerzo||} {bc}{a_link|effort}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}piece of writing, {a_link|essay}, {a_link|paper}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be difficult'
+          sn: '6'
+          vrs:
+          - va: costar trabajo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take the trouble'
+          sn: '7'
+          vrs:
+          - va: tomarse el trabajo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|teamwork}'
+          sn: '8'
+          vrs:
+          - va: trabajo en equipo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}hardships, difficulties'
+          ins:
+          - if: trabajos
+            spl: noun masculine plural
+          sn: '9'
+  fl: masculine noun
+  hwi:
+    hw: trabajo
+    prs:
+    - sound:
+        audio: traba05sp
+  meta:
+    id: trabajo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622060000'
+    src: spanish
+    stems:
+    - trabajo
+    - costar trabajo
+    - tomarse el trabajo
+    - trabajo en equipo
+    - trabajos
+    uuid: 6a334b98-de87-4673-975f-6741ff4a4bb1
+  shortdef:
+  - work, job
+  - 'labor : labor, work'
+  - 'tarea : task'

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ripen}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mature}'
+          sn: '2'
+  fl: verb
+  hwi:
+    hw: madurar
+    prs:
+    - sound:
+        audio: madur01sp
+  meta:
+    id: madurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614128000'
+    src: spanish
+    stems:
+    - madurar
+    uuid: e5c5c2d0-36b9-4ad8-97ab-2831dbbdcd91
+  shortdef:
+  - to ripen
+  - to mature
+  suppl:
+    cjts:
+    - cjfs:
+      - madurando
+      - madurado
+      cjid: gppt
+    - cjfs:
+      - maduro
+      - maduras
+      - madura
+      - maduramos
+      - "madur\xE1is"
+      - maduran
+      cjid: pind
+    - cjfs:
+      - maduraba
+      - madurabas
+      - maduraba
+      - "madur\xE1bamos"
+      - madurabais
+      - maduraban
+      cjid: pret
+    - cjfs:
+      - "madur\xE9"
+      - maduraste
+      - "madur\xF3"
+      - maduramos
+      - madurasteis
+      - maduraron
+      cjid: pprf
+    - cjfs:
+      - "madurar\xE9"
+      - "madurar\xE1s"
+      - "madurar\xE1"
+      - maduraremos
+      - "madurar\xE9is"
+      - "madurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "madurar\xEDa"
+      - "madurar\xEDas"
+      - "madurar\xEDa"
+      - "madurar\xEDamos"
+      - "madurar\xEDais"
+      - "madurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - madure
+      - madures
+      - madure
+      - maduremos
+      - "madur\xE9is"
+      - maduren
+      cjid: psub
+    - cjfs:
+      - madurara
+      - maduraras
+      - madurara
+      - "madur\xE1ramos"
+      - madurarais
+      - maduraran
+      cjid: pisb1
+    - cjfs:
+      - madurase
+      - madurases
+      - madurase
+      - "madur\xE1semos"
+      - maduraseis
+      - madurasen
+      cjid: pisb2
+    - cjfs:
+      - madurare
+      - madurares
+      - madurare
+      - "madur\xE1remos"
+      - madurareis
+      - maduraren
+      cjid: fsub
+    - cjfs:
+      - he madurado
+      - has madurado
+      - ha madurado
+      - hemos madurado
+      - "hab\xE9is madurado"
+      - han madurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa madurado"
+      - "hab\xEDas madurado"
+      - "hab\xEDa madurado"
+      - "hab\xEDamos madurado"
+      - "hab\xEDais madurado"
+      - "hab\xEDan madurado"
+      cjid: ppsi
+    - cjfs:
+      - hube madurado
+      - hubiste madurado
+      - hubo madurado
+      - hubimos madurado
+      - hubisteis madurado
+      - hubieron madurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 madurado"
+      - "habr\xE1s madurado"
+      - "habr\xE1 madurado"
+      - habremos madurado
+      - "habr\xE9is madurado"
+      - "habr\xE1n madurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa madurado"
+      - "habr\xEDas madurado"
+      - "habr\xEDa madurado"
+      - "habr\xEDamos madurado"
+      - "habr\xEDais madurado"
+      - "habr\xEDan madurado"
+      cjid: cpef
+    - cjfs:
+      - haya madurado
+      - hayas madurado
+      - haya madurado
+      - hayamos madurado
+      - "hay\xE1is madurado"
+      - hayan madurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera madurado
+      - hubieras madurado
+      - hubiera madurado
+      - "hubi\xE9ramos madurado"
+      - hubierais madurado
+      - hubieran madurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese madurado
+      - hubieses madurado
+      - hubiese madurado
+      - "hubi\xE9semos madurado"
+      - hubieseis madurado
+      - hubiesen madurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere madurado
+      - hubieres madurado
+      - hubiere madurado
+      - "hubi\xE9remos madurado"
+      - hubiereis madurado
+      - hubieren madurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - madura
+      - madure
+      - maduremos
+      - madurad
+      - maduren
+      cjid: impf

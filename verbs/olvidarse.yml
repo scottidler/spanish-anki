@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|forget}, to {a_link|forget about} '
+          - - vis
+            - - t: "olvida lo que pas\xF3"
+                tr: forget about what happened
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|leave behind} '
+          - - vis
+            - - t: "olvid\xE9 mi chequera en la casa"
+                tr: I left my checkbook at home
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|forget} '
+            - - vis
+              - - t: "se me olvid\xF3 mi cuaderno"
+                  tr: I forgot my notebook
+                - t: "se le olvid\xF3 llamarme"
+                  tr: he forgot to call me
+    drp: olvidarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: olvidar
+    prs:
+    - sound:
+        audio: olvid01sp
+  meta:
+    id: olvidar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616171000'
+    src: spanish
+    stems:
+    - olvidar
+    - olvidarse
+    uuid: 77183319-01fd-43a0-99c5-2fe24f6fae22
+  shortdef:
+  - to forget, to forget about
+  - to leave behind
+  suppl:
+    cjts:
+    - cjfs:
+      - olvidando
+      - olvidado
+      cjid: gppt
+    - cjfs:
+      - olvido
+      - olvidas
+      - olvida
+      - olvidamos
+      - "olvid\xE1is"
+      - olvidan
+      cjid: pind
+    - cjfs:
+      - olvidaba
+      - olvidabas
+      - olvidaba
+      - "olvid\xE1bamos"
+      - olvidabais
+      - olvidaban
+      cjid: pret
+    - cjfs:
+      - "olvid\xE9"
+      - olvidaste
+      - "olvid\xF3"
+      - olvidamos
+      - olvidasteis
+      - olvidaron
+      cjid: pprf
+    - cjfs:
+      - "olvidar\xE9"
+      - "olvidar\xE1s"
+      - "olvidar\xE1"
+      - olvidaremos
+      - "olvidar\xE9is"
+      - "olvidar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "olvidar\xEDa"
+      - "olvidar\xEDas"
+      - "olvidar\xEDa"
+      - "olvidar\xEDamos"
+      - "olvidar\xEDais"
+      - "olvidar\xEDan"
+      cjid: cond
+    - cjfs:
+      - olvide
+      - olvides
+      - olvide
+      - olvidemos
+      - "olvid\xE9is"
+      - olviden
+      cjid: psub
+    - cjfs:
+      - olvidara
+      - olvidaras
+      - olvidara
+      - "olvid\xE1ramos"
+      - olvidarais
+      - olvidaran
+      cjid: pisb1
+    - cjfs:
+      - olvidase
+      - olvidases
+      - olvidase
+      - "olvid\xE1semos"
+      - olvidaseis
+      - olvidasen
+      cjid: pisb2
+    - cjfs:
+      - olvidare
+      - olvidares
+      - olvidare
+      - "olvid\xE1remos"
+      - olvidareis
+      - olvidaren
+      cjid: fsub
+    - cjfs:
+      - he olvidado
+      - has olvidado
+      - ha olvidado
+      - hemos olvidado
+      - "hab\xE9is olvidado"
+      - han olvidado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa olvidado"
+      - "hab\xEDas olvidado"
+      - "hab\xEDa olvidado"
+      - "hab\xEDamos olvidado"
+      - "hab\xEDais olvidado"
+      - "hab\xEDan olvidado"
+      cjid: ppsi
+    - cjfs:
+      - hube olvidado
+      - hubiste olvidado
+      - hubo olvidado
+      - hubimos olvidado
+      - hubisteis olvidado
+      - hubieron olvidado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 olvidado"
+      - "habr\xE1s olvidado"
+      - "habr\xE1 olvidado"
+      - habremos olvidado
+      - "habr\xE9is olvidado"
+      - "habr\xE1n olvidado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa olvidado"
+      - "habr\xEDas olvidado"
+      - "habr\xEDa olvidado"
+      - "habr\xEDamos olvidado"
+      - "habr\xEDais olvidado"
+      - "habr\xEDan olvidado"
+      cjid: cpef
+    - cjfs:
+      - haya olvidado
+      - hayas olvidado
+      - haya olvidado
+      - hayamos olvidado
+      - "hay\xE1is olvidado"
+      - hayan olvidado
+      cjid: ppfs
+    - cjfs:
+      - hubiera olvidado
+      - hubieras olvidado
+      - hubiera olvidado
+      - "hubi\xE9ramos olvidado"
+      - hubierais olvidado
+      - hubieran olvidado
+      cjid: ppss1
+    - cjfs:
+      - hubiese olvidado
+      - hubieses olvidado
+      - hubiese olvidado
+      - "hubi\xE9semos olvidado"
+      - hubieseis olvidado
+      - hubiesen olvidado
+      cjid: ppss2
+    - cjfs:
+      - hubiere olvidado
+      - hubieres olvidado
+      - hubiere olvidado
+      - "hubi\xE9remos olvidado"
+      - hubiereis olvidado
+      - hubieren olvidado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - olvida
+      - olvide
+      - olvidemos
+      - olvidad
+      - olviden
+      cjid: impf

@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|install} (a device, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|install}, to {a_link|induct}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|establecerse||} {bc}to {a_link|settle}, to establish oneself'
+    drp: instalarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: instalar
+    prs:
+    - sound:
+        audio: insta02sp
+  meta:
+    id: instalar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612723000'
+    src: spanish
+    stems:
+    - instalar
+    - instalarse
+    uuid: 989fad64-3eec-4fca-914c-35f99a181f53
+  shortdef:
+  - to install (a device, etc.)
+  - to install, to induct
+  suppl:
+    cjts:
+    - cjfs:
+      - instalando
+      - instalado
+      cjid: gppt
+    - cjfs:
+      - instalo
+      - instalas
+      - instala
+      - instalamos
+      - "instal\xE1is"
+      - instalan
+      cjid: pind
+    - cjfs:
+      - instalaba
+      - instalabas
+      - instalaba
+      - "instal\xE1bamos"
+      - instalabais
+      - instalaban
+      cjid: pret
+    - cjfs:
+      - "instal\xE9"
+      - instalaste
+      - "instal\xF3"
+      - instalamos
+      - instalasteis
+      - instalaron
+      cjid: pprf
+    - cjfs:
+      - "instalar\xE9"
+      - "instalar\xE1s"
+      - "instalar\xE1"
+      - instalaremos
+      - "instalar\xE9is"
+      - "instalar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "instalar\xEDa"
+      - "instalar\xEDas"
+      - "instalar\xEDa"
+      - "instalar\xEDamos"
+      - "instalar\xEDais"
+      - "instalar\xEDan"
+      cjid: cond
+    - cjfs:
+      - instale
+      - instales
+      - instale
+      - instalemos
+      - "instal\xE9is"
+      - instalen
+      cjid: psub
+    - cjfs:
+      - instalara
+      - instalaras
+      - instalara
+      - "instal\xE1ramos"
+      - instalarais
+      - instalaran
+      cjid: pisb1
+    - cjfs:
+      - instalase
+      - instalases
+      - instalase
+      - "instal\xE1semos"
+      - instalaseis
+      - instalasen
+      cjid: pisb2
+    - cjfs:
+      - instalare
+      - instalares
+      - instalare
+      - "instal\xE1remos"
+      - instalareis
+      - instalaren
+      cjid: fsub
+    - cjfs:
+      - he instalado
+      - has instalado
+      - ha instalado
+      - hemos instalado
+      - "hab\xE9is instalado"
+      - han instalado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa instalado"
+      - "hab\xEDas instalado"
+      - "hab\xEDa instalado"
+      - "hab\xEDamos instalado"
+      - "hab\xEDais instalado"
+      - "hab\xEDan instalado"
+      cjid: ppsi
+    - cjfs:
+      - hube instalado
+      - hubiste instalado
+      - hubo instalado
+      - hubimos instalado
+      - hubisteis instalado
+      - hubieron instalado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 instalado"
+      - "habr\xE1s instalado"
+      - "habr\xE1 instalado"
+      - habremos instalado
+      - "habr\xE9is instalado"
+      - "habr\xE1n instalado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa instalado"
+      - "habr\xEDas instalado"
+      - "habr\xEDa instalado"
+      - "habr\xEDamos instalado"
+      - "habr\xEDais instalado"
+      - "habr\xEDan instalado"
+      cjid: cpef
+    - cjfs:
+      - haya instalado
+      - hayas instalado
+      - haya instalado
+      - hayamos instalado
+      - "hay\xE1is instalado"
+      - hayan instalado
+      cjid: ppfs
+    - cjfs:
+      - hubiera instalado
+      - hubieras instalado
+      - hubiera instalado
+      - "hubi\xE9ramos instalado"
+      - hubierais instalado
+      - hubieran instalado
+      cjid: ppss1
+    - cjfs:
+      - hubiese instalado
+      - hubieses instalado
+      - hubiese instalado
+      - "hubi\xE9semos instalado"
+      - hubieseis instalado
+      - hubiesen instalado
+      cjid: ppss2
+    - cjfs:
+      - hubiere instalado
+      - hubieres instalado
+      - hubiere instalado
+      - "hubi\xE9remos instalado"
+      - hubiereis instalado
+      - hubieren instalado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - instala
+      - instale
+      - instalemos
+      - instalad
+      - instalen
+      cjid: impf

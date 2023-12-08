@@ -1,0 +1,230 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cross} '
+          - - vis
+            - - t: cruzar la calle
+                tr: to cross the street
+              - t: cruzar las piernas
+                tr: to cross one's legs
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exchange} (words, greetings)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cross}, to {a_link|interbreed}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cross}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|intersect}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|meet}, to pass each other'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to cross one''s arms'
+            sn: '3'
+            vrs:
+            - va: cruzarse de brazos
+    drp: cruzarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: cruzar
+    prs:
+    - sound:
+        audio: cruza03sp
+  meta:
+    id: cruzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606201000'
+    src: spanish
+    stems:
+    - cruzar
+    - cruzarse
+    - cruzarse de brazos
+    uuid: 0f9d76ee-8520-462d-9ac1-680c8e4cf249
+  shortdef:
+  - to cross
+  - to exchange (words, greetings)
+  - to cross, to interbreed
+  suppl:
+    cjts:
+    - cjfs:
+      - cruzando
+      - cruzado
+      cjid: gppt
+    - cjfs:
+      - cruzo
+      - cruzas
+      - cruza
+      - cruzamos
+      - "cruz\xE1is"
+      - cruzan
+      cjid: pind
+    - cjfs:
+      - cruzaba
+      - cruzabas
+      - cruzaba
+      - "cruz\xE1bamos"
+      - cruzabais
+      - cruzaban
+      cjid: pret
+    - cjfs:
+      - "cruc\xE9"
+      - cruzaste
+      - "cruz\xF3"
+      - cruzamos
+      - cruzasteis
+      - cruzaron
+      cjid: pprf
+    - cjfs:
+      - "cruzar\xE9"
+      - "cruzar\xE1s"
+      - "cruzar\xE1"
+      - cruzaremos
+      - "cruzar\xE9is"
+      - "cruzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cruzar\xEDa"
+      - "cruzar\xEDas"
+      - "cruzar\xEDa"
+      - "cruzar\xEDamos"
+      - "cruzar\xEDais"
+      - "cruzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cruce
+      - cruces
+      - cruce
+      - crucemos
+      - "cruc\xE9is"
+      - crucen
+      cjid: psub
+    - cjfs:
+      - cruzara
+      - cruzaras
+      - cruzara
+      - "cruz\xE1ramos"
+      - cruzarais
+      - cruzaran
+      cjid: pisb1
+    - cjfs:
+      - cruzase
+      - cruzases
+      - cruzase
+      - "cruz\xE1semos"
+      - cruzaseis
+      - cruzasen
+      cjid: pisb2
+    - cjfs:
+      - cruzare
+      - cruzares
+      - cruzare
+      - "cruz\xE1remos"
+      - cruzareis
+      - cruzaren
+      cjid: fsub
+    - cjfs:
+      - he cruzado
+      - has cruzado
+      - ha cruzado
+      - hemos cruzado
+      - "hab\xE9is cruzado"
+      - han cruzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cruzado"
+      - "hab\xEDas cruzado"
+      - "hab\xEDa cruzado"
+      - "hab\xEDamos cruzado"
+      - "hab\xEDais cruzado"
+      - "hab\xEDan cruzado"
+      cjid: ppsi
+    - cjfs:
+      - hube cruzado
+      - hubiste cruzado
+      - hubo cruzado
+      - hubimos cruzado
+      - hubisteis cruzado
+      - hubieron cruzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cruzado"
+      - "habr\xE1s cruzado"
+      - "habr\xE1 cruzado"
+      - habremos cruzado
+      - "habr\xE9is cruzado"
+      - "habr\xE1n cruzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cruzado"
+      - "habr\xEDas cruzado"
+      - "habr\xEDa cruzado"
+      - "habr\xEDamos cruzado"
+      - "habr\xEDais cruzado"
+      - "habr\xEDan cruzado"
+      cjid: cpef
+    - cjfs:
+      - haya cruzado
+      - hayas cruzado
+      - haya cruzado
+      - hayamos cruzado
+      - "hay\xE1is cruzado"
+      - hayan cruzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cruzado
+      - hubieras cruzado
+      - hubiera cruzado
+      - "hubi\xE9ramos cruzado"
+      - hubierais cruzado
+      - hubieran cruzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cruzado
+      - hubieses cruzado
+      - hubiese cruzado
+      - "hubi\xE9semos cruzado"
+      - hubieseis cruzado
+      - hubiesen cruzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cruzado
+      - hubieres cruzado
+      - hubiere cruzado
+      - "hubi\xE9remos cruzado"
+      - hubiereis cruzado
+      - hubieren cruzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cruza
+      - cruce
+      - crucemos
+      - cruzad
+      - crucen
+      cjid: impf

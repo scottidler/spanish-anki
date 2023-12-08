@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|blame}'
+  fl: transitive verb
+  hwi:
+    hw: culpar
+    prs:
+    - sound:
+        audio: culpa04sp
+  meta:
+    id: culpar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606338000'
+    src: spanish
+    stems:
+    - culpar
+    uuid: f52c9ec7-eed9-4566-986c-2ae15e4263f4
+  shortdef:
+  - to blame
+  suppl:
+    cjts:
+    - cjfs:
+      - culpando
+      - culpado
+      cjid: gppt
+    - cjfs:
+      - culpo
+      - culpas
+      - culpa
+      - culpamos
+      - "culp\xE1is"
+      - culpan
+      cjid: pind
+    - cjfs:
+      - culpaba
+      - culpabas
+      - culpaba
+      - "culp\xE1bamos"
+      - culpabais
+      - culpaban
+      cjid: pret
+    - cjfs:
+      - "culp\xE9"
+      - culpaste
+      - "culp\xF3"
+      - culpamos
+      - culpasteis
+      - culparon
+      cjid: pprf
+    - cjfs:
+      - "culpar\xE9"
+      - "culpar\xE1s"
+      - "culpar\xE1"
+      - culparemos
+      - "culpar\xE9is"
+      - "culpar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "culpar\xEDa"
+      - "culpar\xEDas"
+      - "culpar\xEDa"
+      - "culpar\xEDamos"
+      - "culpar\xEDais"
+      - "culpar\xEDan"
+      cjid: cond
+    - cjfs:
+      - culpe
+      - culpes
+      - culpe
+      - culpemos
+      - "culp\xE9is"
+      - culpen
+      cjid: psub
+    - cjfs:
+      - culpara
+      - culparas
+      - culpara
+      - "culp\xE1ramos"
+      - culparais
+      - culparan
+      cjid: pisb1
+    - cjfs:
+      - culpase
+      - culpases
+      - culpase
+      - "culp\xE1semos"
+      - culpaseis
+      - culpasen
+      cjid: pisb2
+    - cjfs:
+      - culpare
+      - culpares
+      - culpare
+      - "culp\xE1remos"
+      - culpareis
+      - culparen
+      cjid: fsub
+    - cjfs:
+      - he culpado
+      - has culpado
+      - ha culpado
+      - hemos culpado
+      - "hab\xE9is culpado"
+      - han culpado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa culpado"
+      - "hab\xEDas culpado"
+      - "hab\xEDa culpado"
+      - "hab\xEDamos culpado"
+      - "hab\xEDais culpado"
+      - "hab\xEDan culpado"
+      cjid: ppsi
+    - cjfs:
+      - hube culpado
+      - hubiste culpado
+      - hubo culpado
+      - hubimos culpado
+      - hubisteis culpado
+      - hubieron culpado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 culpado"
+      - "habr\xE1s culpado"
+      - "habr\xE1 culpado"
+      - habremos culpado
+      - "habr\xE9is culpado"
+      - "habr\xE1n culpado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa culpado"
+      - "habr\xEDas culpado"
+      - "habr\xEDa culpado"
+      - "habr\xEDamos culpado"
+      - "habr\xEDais culpado"
+      - "habr\xEDan culpado"
+      cjid: cpef
+    - cjfs:
+      - haya culpado
+      - hayas culpado
+      - haya culpado
+      - hayamos culpado
+      - "hay\xE1is culpado"
+      - hayan culpado
+      cjid: ppfs
+    - cjfs:
+      - hubiera culpado
+      - hubieras culpado
+      - hubiera culpado
+      - "hubi\xE9ramos culpado"
+      - hubierais culpado
+      - hubieran culpado
+      cjid: ppss1
+    - cjfs:
+      - hubiese culpado
+      - hubieses culpado
+      - hubiese culpado
+      - "hubi\xE9semos culpado"
+      - hubieseis culpado
+      - hubiesen culpado
+      cjid: ppss2
+    - cjfs:
+      - hubiere culpado
+      - hubieres culpado
+      - hubiere culpado
+      - "hubi\xE9remos culpado"
+      - hubiereis culpado
+      - hubieren culpado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - culpa
+      - culpe
+      - culpemos
+      - culpad
+      - culpen
+      cjid: impf

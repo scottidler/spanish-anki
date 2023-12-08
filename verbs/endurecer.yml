@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|harden}, to {a_link|toughen}'
+  fl: transitive verb
+  hwi:
+    hw: endurecer
+    prs:
+    - sound:
+        audio: endur01sp
+  meta:
+    id: endurecer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608529000'
+    src: spanish
+    stems:
+    - endurecer
+    - endurecerse
+    uuid: ac4ac81d-7dfe-4c72-a020-37e47de1220b
+  shortdef:
+  - to harden, to toughen
+  suppl:
+    cjts:
+    - cjfs:
+      - endureciendo
+      - endurecido
+      cjid: gppt
+    - cjfs:
+      - endurezco
+      - endureces
+      - endurece
+      - endurecemos
+      - "endurec\xE9is"
+      - endurecen
+      cjid: pind
+    - cjfs:
+      - "endurec\xEDa"
+      - "endurec\xEDas"
+      - "endurec\xEDa"
+      - "endurec\xEDamos"
+      - "endurec\xEDais"
+      - "endurec\xEDan"
+      cjid: pret
+    - cjfs:
+      - "endurec\xED"
+      - endureciste
+      - "endureci\xF3"
+      - endurecimos
+      - endurecisteis
+      - endurecieron
+      cjid: pprf
+    - cjfs:
+      - "endurecer\xE9"
+      - "endurecer\xE1s"
+      - "endurecer\xE1"
+      - endureceremos
+      - "endurecer\xE9is"
+      - "endurecer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "endurecer\xEDa"
+      - "endurecer\xEDas"
+      - "endurecer\xEDa"
+      - "endurecer\xEDamos"
+      - "endurecer\xEDais"
+      - "endurecer\xEDan"
+      cjid: cond
+    - cjfs:
+      - endurezca
+      - endurezcas
+      - endurezca
+      - endurezcamos
+      - "endurezc\xE1is"
+      - endurezcan
+      cjid: psub
+    - cjfs:
+      - endureciera
+      - endurecieras
+      - endureciera
+      - "endureci\xE9ramos"
+      - endurecierais
+      - endurecieran
+      cjid: pisb1
+    - cjfs:
+      - endureciese
+      - endurecieses
+      - endureciese
+      - "endureci\xE9semos"
+      - endurecieseis
+      - endureciesen
+      cjid: pisb2
+    - cjfs:
+      - endureciere
+      - endurecieres
+      - endureciere
+      - "endureci\xE9remos"
+      - endureciereis
+      - endurecieren
+      cjid: fsub
+    - cjfs:
+      - he endurecido
+      - has endurecido
+      - ha endurecido
+      - hemos endurecido
+      - "hab\xE9is endurecido"
+      - han endurecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa endurecido"
+      - "hab\xEDas endurecido"
+      - "hab\xEDa endurecido"
+      - "hab\xEDamos endurecido"
+      - "hab\xEDais endurecido"
+      - "hab\xEDan endurecido"
+      cjid: ppsi
+    - cjfs:
+      - hube endurecido
+      - hubiste endurecido
+      - hubo endurecido
+      - hubimos endurecido
+      - hubisteis endurecido
+      - hubieron endurecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 endurecido"
+      - "habr\xE1s endurecido"
+      - "habr\xE1 endurecido"
+      - habremos endurecido
+      - "habr\xE9is endurecido"
+      - "habr\xE1n endurecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa endurecido"
+      - "habr\xEDas endurecido"
+      - "habr\xEDa endurecido"
+      - "habr\xEDamos endurecido"
+      - "habr\xEDais endurecido"
+      - "habr\xEDan endurecido"
+      cjid: cpef
+    - cjfs:
+      - haya endurecido
+      - hayas endurecido
+      - haya endurecido
+      - hayamos endurecido
+      - "hay\xE1is endurecido"
+      - hayan endurecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera endurecido
+      - hubieras endurecido
+      - hubiera endurecido
+      - "hubi\xE9ramos endurecido"
+      - hubierais endurecido
+      - hubieran endurecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese endurecido
+      - hubieses endurecido
+      - hubiese endurecido
+      - "hubi\xE9semos endurecido"
+      - hubieseis endurecido
+      - hubiesen endurecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere endurecido
+      - hubieres endurecido
+      - hubiere endurecido
+      - "hubi\xE9remos endurecido"
+      - hubiereis endurecido
+      - hubieren endurecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - endurece
+      - endurezca
+      - endurezcamos
+      - endureced
+      - endurezcan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: endurecerse

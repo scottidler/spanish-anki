@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reconsider}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|reflect on}, to {a_link|weigh}'
+          sn: '2'
+          vrs:
+          - va: recapacitar en
+            vac: ~ en
+  fl: intransitive verb
+  hwi:
+    hw: recapacitar
+  meta:
+    id: recapacitar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618934000'
+    src: spanish
+    stems:
+    - recapacitar
+    - recapacitar en
+    uuid: d48ad804-4fc8-4f0c-a5f5-d93253a9e633
+  shortdef:
+  - to reconsider
+  - to reflect on, to weigh
+  suppl:
+    cjts:
+    - cjfs:
+      - recapacitando
+      - recapacitado
+      cjid: gppt
+    - cjfs:
+      - recapacito
+      - recapacitas
+      - recapacita
+      - recapacitamos
+      - "recapacit\xE1is"
+      - recapacitan
+      cjid: pind
+    - cjfs:
+      - recapacitaba
+      - recapacitabas
+      - recapacitaba
+      - "recapacit\xE1bamos"
+      - recapacitabais
+      - recapacitaban
+      cjid: pret
+    - cjfs:
+      - "recapacit\xE9"
+      - recapacitaste
+      - "recapacit\xF3"
+      - recapacitamos
+      - recapacitasteis
+      - recapacitaron
+      cjid: pprf
+    - cjfs:
+      - "recapacitar\xE9"
+      - "recapacitar\xE1s"
+      - "recapacitar\xE1"
+      - recapacitaremos
+      - "recapacitar\xE9is"
+      - "recapacitar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recapacitar\xEDa"
+      - "recapacitar\xEDas"
+      - "recapacitar\xEDa"
+      - "recapacitar\xEDamos"
+      - "recapacitar\xEDais"
+      - "recapacitar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recapacite
+      - recapacites
+      - recapacite
+      - recapacitemos
+      - "recapacit\xE9is"
+      - recapaciten
+      cjid: psub
+    - cjfs:
+      - recapacitara
+      - recapacitaras
+      - recapacitara
+      - "recapacit\xE1ramos"
+      - recapacitarais
+      - recapacitaran
+      cjid: pisb1
+    - cjfs:
+      - recapacitase
+      - recapacitases
+      - recapacitase
+      - "recapacit\xE1semos"
+      - recapacitaseis
+      - recapacitasen
+      cjid: pisb2
+    - cjfs:
+      - recapacitare
+      - recapacitares
+      - recapacitare
+      - "recapacit\xE1remos"
+      - recapacitareis
+      - recapacitaren
+      cjid: fsub
+    - cjfs:
+      - he recapacitado
+      - has recapacitado
+      - ha recapacitado
+      - hemos recapacitado
+      - "hab\xE9is recapacitado"
+      - han recapacitado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recapacitado"
+      - "hab\xEDas recapacitado"
+      - "hab\xEDa recapacitado"
+      - "hab\xEDamos recapacitado"
+      - "hab\xEDais recapacitado"
+      - "hab\xEDan recapacitado"
+      cjid: ppsi
+    - cjfs:
+      - hube recapacitado
+      - hubiste recapacitado
+      - hubo recapacitado
+      - hubimos recapacitado
+      - hubisteis recapacitado
+      - hubieron recapacitado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recapacitado"
+      - "habr\xE1s recapacitado"
+      - "habr\xE1 recapacitado"
+      - habremos recapacitado
+      - "habr\xE9is recapacitado"
+      - "habr\xE1n recapacitado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recapacitado"
+      - "habr\xEDas recapacitado"
+      - "habr\xEDa recapacitado"
+      - "habr\xEDamos recapacitado"
+      - "habr\xEDais recapacitado"
+      - "habr\xEDan recapacitado"
+      cjid: cpef
+    - cjfs:
+      - haya recapacitado
+      - hayas recapacitado
+      - haya recapacitado
+      - hayamos recapacitado
+      - "hay\xE1is recapacitado"
+      - hayan recapacitado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recapacitado
+      - hubieras recapacitado
+      - hubiera recapacitado
+      - "hubi\xE9ramos recapacitado"
+      - hubierais recapacitado
+      - hubieran recapacitado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recapacitado
+      - hubieses recapacitado
+      - hubiese recapacitado
+      - "hubi\xE9semos recapacitado"
+      - hubieseis recapacitado
+      - hubiesen recapacitado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recapacitado
+      - hubieres recapacitado
+      - hubiere recapacitado
+      - "hubi\xE9remos recapacitado"
+      - hubiereis recapacitado
+      - hubieren recapacitado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recapacita
+      - recapacite
+      - recapacitemos
+      - recapacitad
+      - recapaciten
+      cjid: impf

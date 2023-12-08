@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|covet}'
+  fl: transitive verb
+  hwi:
+    hw: codiciar
+    prs:
+    - sound:
+        audio: codic03sp
+  meta:
+    id: codiciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604974000'
+    src: spanish
+    stems:
+    - codiciar
+    uuid: 9d1cb69b-2d9c-48b0-a988-f3bfe9fd96b8
+  shortdef:
+  - to covet
+  suppl:
+    cjts:
+    - cjfs:
+      - codiciando
+      - codiciado
+      cjid: gppt
+    - cjfs:
+      - codicio
+      - codicias
+      - codicia
+      - codiciamos
+      - "codici\xE1is"
+      - codician
+      cjid: pind
+    - cjfs:
+      - codiciaba
+      - codiciabas
+      - codiciaba
+      - "codici\xE1bamos"
+      - codiciabais
+      - codiciaban
+      cjid: pret
+    - cjfs:
+      - "codici\xE9"
+      - codiciaste
+      - "codici\xF3"
+      - codiciamos
+      - codiciasteis
+      - codiciaron
+      cjid: pprf
+    - cjfs:
+      - "codiciar\xE9"
+      - "codiciar\xE1s"
+      - "codiciar\xE1"
+      - codiciaremos
+      - "codiciar\xE9is"
+      - "codiciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "codiciar\xEDa"
+      - "codiciar\xEDas"
+      - "codiciar\xEDa"
+      - "codiciar\xEDamos"
+      - "codiciar\xEDais"
+      - "codiciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - codicie
+      - codicies
+      - codicie
+      - codiciemos
+      - "codici\xE9is"
+      - codicien
+      cjid: psub
+    - cjfs:
+      - codiciara
+      - codiciaras
+      - codiciara
+      - "codici\xE1ramos"
+      - codiciarais
+      - codiciaran
+      cjid: pisb1
+    - cjfs:
+      - codiciase
+      - codiciases
+      - codiciase
+      - "codici\xE1semos"
+      - codiciaseis
+      - codiciasen
+      cjid: pisb2
+    - cjfs:
+      - codiciare
+      - codiciares
+      - codiciare
+      - "codici\xE1remos"
+      - codiciareis
+      - codiciaren
+      cjid: fsub
+    - cjfs:
+      - he codiciado
+      - has codiciado
+      - ha codiciado
+      - hemos codiciado
+      - "hab\xE9is codiciado"
+      - han codiciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa codiciado"
+      - "hab\xEDas codiciado"
+      - "hab\xEDa codiciado"
+      - "hab\xEDamos codiciado"
+      - "hab\xEDais codiciado"
+      - "hab\xEDan codiciado"
+      cjid: ppsi
+    - cjfs:
+      - hube codiciado
+      - hubiste codiciado
+      - hubo codiciado
+      - hubimos codiciado
+      - hubisteis codiciado
+      - hubieron codiciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 codiciado"
+      - "habr\xE1s codiciado"
+      - "habr\xE1 codiciado"
+      - habremos codiciado
+      - "habr\xE9is codiciado"
+      - "habr\xE1n codiciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa codiciado"
+      - "habr\xEDas codiciado"
+      - "habr\xEDa codiciado"
+      - "habr\xEDamos codiciado"
+      - "habr\xEDais codiciado"
+      - "habr\xEDan codiciado"
+      cjid: cpef
+    - cjfs:
+      - haya codiciado
+      - hayas codiciado
+      - haya codiciado
+      - hayamos codiciado
+      - "hay\xE1is codiciado"
+      - hayan codiciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera codiciado
+      - hubieras codiciado
+      - hubiera codiciado
+      - "hubi\xE9ramos codiciado"
+      - hubierais codiciado
+      - hubieran codiciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese codiciado
+      - hubieses codiciado
+      - hubiese codiciado
+      - "hubi\xE9semos codiciado"
+      - hubieseis codiciado
+      - hubiesen codiciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere codiciado
+      - hubieres codiciado
+      - hubiere codiciado
+      - "hubi\xE9remos codiciado"
+      - hubiereis codiciado
+      - hubieren codiciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - codicia
+      - codicie
+      - codiciemos
+      - codiciad
+      - codicien
+      cjid: impf

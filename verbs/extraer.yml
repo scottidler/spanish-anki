@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|extract}'
+  fl: transitive verb
+  hwi:
+    hw: extraer
+    prs:
+    - sound:
+        audio: extra03sp
+  meta:
+    id: extraer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609775000'
+    src: spanish
+    stems:
+    - extraer
+    uuid: 294d4944-0d80-4c65-811d-3c8641b45bd9
+  shortdef:
+  - to extract
+  suppl:
+    cjts:
+    - cjfs:
+      - extrayendo
+      - "extra\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - extraigo
+      - extraes
+      - extrae
+      - extraemos
+      - "extra\xE9is"
+      - extraen
+      cjid: pind
+    - cjfs:
+      - "extra\xEDa"
+      - "extra\xEDas"
+      - "extra\xEDa"
+      - "extra\xEDamos"
+      - "extra\xEDais"
+      - "extra\xEDan"
+      cjid: pret
+    - cjfs:
+      - extraje
+      - extrajiste
+      - extrajo
+      - extrajimos
+      - extrajisteis
+      - extrajeron
+      cjid: pprf
+    - cjfs:
+      - "extraer\xE9"
+      - "extraer\xE1s"
+      - "extraer\xE1"
+      - extraeremos
+      - "extraer\xE9is"
+      - "extraer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "extraer\xEDa"
+      - "extraer\xEDas"
+      - "extraer\xEDa"
+      - "extraer\xEDamos"
+      - "extraer\xEDais"
+      - "extraer\xEDan"
+      cjid: cond
+    - cjfs:
+      - extraiga
+      - extraigas
+      - extraiga
+      - extraigamos
+      - "extraig\xE1is"
+      - extraigan
+      cjid: psub
+    - cjfs:
+      - extrajera
+      - extrajeras
+      - extrajera
+      - "extraj\xE9ramos"
+      - extrajerais
+      - extrajeran
+      cjid: pisb1
+    - cjfs:
+      - extrajese
+      - extrajeses
+      - extrajese
+      - "extraj\xE9semos"
+      - extrajeseis
+      - extrajesen
+      cjid: pisb2
+    - cjfs:
+      - extrajere
+      - extrajeres
+      - extrajere
+      - "extraj\xE9remos"
+      - extrajereis
+      - extrajeren
+      cjid: fsub
+    - cjfs:
+      - "he extra\xEDdo"
+      - "has extra\xEDdo"
+      - "ha extra\xEDdo"
+      - "hemos extra\xEDdo"
+      - "hab\xE9is extra\xEDdo"
+      - "han extra\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa extra\xEDdo"
+      - "hab\xEDas extra\xEDdo"
+      - "hab\xEDa extra\xEDdo"
+      - "hab\xEDamos extra\xEDdo"
+      - "hab\xEDais extra\xEDdo"
+      - "hab\xEDan extra\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube extra\xEDdo"
+      - "hubiste extra\xEDdo"
+      - "hubo extra\xEDdo"
+      - "hubimos extra\xEDdo"
+      - "hubisteis extra\xEDdo"
+      - "hubieron extra\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 extra\xEDdo"
+      - "habr\xE1s extra\xEDdo"
+      - "habr\xE1 extra\xEDdo"
+      - "habremos extra\xEDdo"
+      - "habr\xE9is extra\xEDdo"
+      - "habr\xE1n extra\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa extra\xEDdo"
+      - "habr\xEDas extra\xEDdo"
+      - "habr\xEDa extra\xEDdo"
+      - "habr\xEDamos extra\xEDdo"
+      - "habr\xEDais extra\xEDdo"
+      - "habr\xEDan extra\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya extra\xEDdo"
+      - "hayas extra\xEDdo"
+      - "haya extra\xEDdo"
+      - "hayamos extra\xEDdo"
+      - "hay\xE1is extra\xEDdo"
+      - "hayan extra\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera extra\xEDdo"
+      - "hubieras extra\xEDdo"
+      - "hubiera extra\xEDdo"
+      - "hubi\xE9ramos extra\xEDdo"
+      - "hubierais extra\xEDdo"
+      - "hubieran extra\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese extra\xEDdo"
+      - "hubieses extra\xEDdo"
+      - "hubiese extra\xEDdo"
+      - "hubi\xE9semos extra\xEDdo"
+      - "hubieseis extra\xEDdo"
+      - "hubiesen extra\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere extra\xEDdo"
+      - "hubieres extra\xEDdo"
+      - "hubiere extra\xEDdo"
+      - "hubi\xE9remos extra\xEDdo"
+      - "hubiereis extra\xEDdo"
+      - "hubieren extra\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - extrae
+      - extraiga
+      - extraigamos
+      - extraed
+      - extraigan
+      cjid: impf

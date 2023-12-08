@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|elapse}, to {a_link|pass}'
+  fl: intransitive verb
+  hwi:
+    hw: transcurrir
+    prs:
+    - sound:
+        audio: trans03sp
+  meta:
+    id: transcurrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622139000'
+    src: spanish
+    stems:
+    - transcurrir
+    uuid: 6d171fd9-0f03-4741-8d4c-322a3bf51b63
+  shortdef:
+  - to elapse, to pass
+  suppl:
+    cjts:
+    - cjfs:
+      - transcurriendo
+      - transcurrido
+      cjid: gppt
+    - cjfs:
+      - transcurro
+      - transcurres
+      - transcurre
+      - transcurrimos
+      - "transcurr\xEDs"
+      - transcurren
+      cjid: pind
+    - cjfs:
+      - "transcurr\xEDa"
+      - "transcurr\xEDas"
+      - "transcurr\xEDa"
+      - "transcurr\xEDamos"
+      - "transcurr\xEDais"
+      - "transcurr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "transcurr\xED"
+      - transcurriste
+      - "transcurri\xF3"
+      - transcurrimos
+      - transcurristeis
+      - transcurrieron
+      cjid: pprf
+    - cjfs:
+      - "transcurrir\xE9"
+      - "transcurrir\xE1s"
+      - "transcurrir\xE1"
+      - transcurriremos
+      - "transcurrir\xE9is"
+      - "transcurrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "transcurrir\xEDa"
+      - "transcurrir\xEDas"
+      - "transcurrir\xEDa"
+      - "transcurrir\xEDamos"
+      - "transcurrir\xEDais"
+      - "transcurrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - transcurra
+      - transcurras
+      - transcurra
+      - transcurramos
+      - "transcurr\xE1is"
+      - transcurran
+      cjid: psub
+    - cjfs:
+      - transcurriera
+      - transcurrieras
+      - transcurriera
+      - "transcurri\xE9ramos"
+      - transcurrierais
+      - transcurrieran
+      cjid: pisb1
+    - cjfs:
+      - transcurriese
+      - transcurrieses
+      - transcurriese
+      - "transcurri\xE9semos"
+      - transcurrieseis
+      - transcurriesen
+      cjid: pisb2
+    - cjfs:
+      - transcurriere
+      - transcurrieres
+      - transcurriere
+      - "transcurri\xE9remos"
+      - transcurriereis
+      - transcurrieren
+      cjid: fsub
+    - cjfs:
+      - he transcurrido
+      - has transcurrido
+      - ha transcurrido
+      - hemos transcurrido
+      - "hab\xE9is transcurrido"
+      - han transcurrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa transcurrido"
+      - "hab\xEDas transcurrido"
+      - "hab\xEDa transcurrido"
+      - "hab\xEDamos transcurrido"
+      - "hab\xEDais transcurrido"
+      - "hab\xEDan transcurrido"
+      cjid: ppsi
+    - cjfs:
+      - hube transcurrido
+      - hubiste transcurrido
+      - hubo transcurrido
+      - hubimos transcurrido
+      - hubisteis transcurrido
+      - hubieron transcurrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 transcurrido"
+      - "habr\xE1s transcurrido"
+      - "habr\xE1 transcurrido"
+      - habremos transcurrido
+      - "habr\xE9is transcurrido"
+      - "habr\xE1n transcurrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa transcurrido"
+      - "habr\xEDas transcurrido"
+      - "habr\xEDa transcurrido"
+      - "habr\xEDamos transcurrido"
+      - "habr\xEDais transcurrido"
+      - "habr\xEDan transcurrido"
+      cjid: cpef
+    - cjfs:
+      - haya transcurrido
+      - hayas transcurrido
+      - haya transcurrido
+      - hayamos transcurrido
+      - "hay\xE1is transcurrido"
+      - hayan transcurrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera transcurrido
+      - hubieras transcurrido
+      - hubiera transcurrido
+      - "hubi\xE9ramos transcurrido"
+      - hubierais transcurrido
+      - hubieran transcurrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese transcurrido
+      - hubieses transcurrido
+      - hubiese transcurrido
+      - "hubi\xE9semos transcurrido"
+      - hubieseis transcurrido
+      - hubiesen transcurrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere transcurrido
+      - hubieres transcurrido
+      - hubiere transcurrido
+      - "hubi\xE9remos transcurrido"
+      - hubiereis transcurrido
+      - hubieren transcurrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - transcurre
+      - transcurra
+      - transcurramos
+      - transcurrid
+      - transcurran
+      cjid: impf

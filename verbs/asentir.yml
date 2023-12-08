@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|consent}, to {a_link|agree}'
+  fl: transitive verb
+  hwi:
+    hw: asentir
+  meta:
+    id: asentir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602128000'
+    src: spanish
+    stems:
+    - asentir
+    uuid: 29bf261c-ae8c-4297-8341-6942161c88ab
+  shortdef:
+  - to consent, to agree
+  suppl:
+    cjts:
+    - cjfs:
+      - asintiendo
+      - asentido
+      cjid: gppt
+    - cjfs:
+      - asiento
+      - asientes
+      - asiente
+      - asentimos
+      - "asent\xEDs"
+      - asienten
+      cjid: pind
+    - cjfs:
+      - "asent\xEDa"
+      - "asent\xEDas"
+      - "asent\xEDa"
+      - "asent\xEDamos"
+      - "asent\xEDais"
+      - "asent\xEDan"
+      cjid: pret
+    - cjfs:
+      - "asent\xED"
+      - asentiste
+      - "asinti\xF3"
+      - asentimos
+      - asentisteis
+      - asintieron
+      cjid: pprf
+    - cjfs:
+      - "asentir\xE9"
+      - "asentir\xE1s"
+      - "asentir\xE1"
+      - asentiremos
+      - "asentir\xE9is"
+      - "asentir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asentir\xEDa"
+      - "asentir\xEDas"
+      - "asentir\xEDa"
+      - "asentir\xEDamos"
+      - "asentir\xEDais"
+      - "asentir\xEDan"
+      cjid: cond
+    - cjfs:
+      - asienta
+      - asientas
+      - asienta
+      - asintamos
+      - "asint\xE1is"
+      - asientan
+      cjid: psub
+    - cjfs:
+      - asintiera
+      - asintieras
+      - asintiera
+      - "asinti\xE9ramos"
+      - asintierais
+      - asintieran
+      cjid: pisb1
+    - cjfs:
+      - asintiese
+      - asintieses
+      - asintiese
+      - "asinti\xE9semos"
+      - asintieseis
+      - asintiesen
+      cjid: pisb2
+    - cjfs:
+      - asintiere
+      - asintieres
+      - asintiere
+      - "asinti\xE9remos"
+      - asintiereis
+      - asintieren
+      cjid: fsub
+    - cjfs:
+      - he asentido
+      - has asentido
+      - ha asentido
+      - hemos asentido
+      - "hab\xE9is asentido"
+      - han asentido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asentido"
+      - "hab\xEDas asentido"
+      - "hab\xEDa asentido"
+      - "hab\xEDamos asentido"
+      - "hab\xEDais asentido"
+      - "hab\xEDan asentido"
+      cjid: ppsi
+    - cjfs:
+      - hube asentido
+      - hubiste asentido
+      - hubo asentido
+      - hubimos asentido
+      - hubisteis asentido
+      - hubieron asentido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asentido"
+      - "habr\xE1s asentido"
+      - "habr\xE1 asentido"
+      - habremos asentido
+      - "habr\xE9is asentido"
+      - "habr\xE1n asentido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asentido"
+      - "habr\xEDas asentido"
+      - "habr\xEDa asentido"
+      - "habr\xEDamos asentido"
+      - "habr\xEDais asentido"
+      - "habr\xEDan asentido"
+      cjid: cpef
+    - cjfs:
+      - haya asentido
+      - hayas asentido
+      - haya asentido
+      - hayamos asentido
+      - "hay\xE1is asentido"
+      - hayan asentido
+      cjid: ppfs
+    - cjfs:
+      - hubiera asentido
+      - hubieras asentido
+      - hubiera asentido
+      - "hubi\xE9ramos asentido"
+      - hubierais asentido
+      - hubieran asentido
+      cjid: ppss1
+    - cjfs:
+      - hubiese asentido
+      - hubieses asentido
+      - hubiese asentido
+      - "hubi\xE9semos asentido"
+      - hubieseis asentido
+      - hubiesen asentido
+      cjid: ppss2
+    - cjfs:
+      - hubiere asentido
+      - hubieres asentido
+      - hubiere asentido
+      - "hubi\xE9remos asentido"
+      - hubiereis asentido
+      - hubieren asentido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asiente
+      - asienta
+      - asintamos
+      - asentid
+      - asientan
+      cjid: impf

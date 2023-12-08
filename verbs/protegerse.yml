@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|protect}, to {a_link|defend} '
+          - - vis
+            - - t: proteger de/contra algo
+                tr: to protect against something
+  fl: transitive verb
+  hwi:
+    hw: proteger
+    prs:
+    - sound:
+        audio: prote02sp
+  meta:
+    id: proteger
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618341000'
+    src: spanish
+    stems:
+    - proteger
+    - protegerse
+    uuid: b6e6f526-86fb-41d6-a269-21109c731f49
+  shortdef:
+  - to protect, to defend
+  suppl:
+    cjts:
+    - cjfs:
+      - protegiendo
+      - protegido
+      cjid: gppt
+    - cjfs:
+      - protejo
+      - proteges
+      - protege
+      - protegemos
+      - "proteg\xE9is"
+      - protegen
+      cjid: pind
+    - cjfs:
+      - "proteg\xEDa"
+      - "proteg\xEDas"
+      - "proteg\xEDa"
+      - "proteg\xEDamos"
+      - "proteg\xEDais"
+      - "proteg\xEDan"
+      cjid: pret
+    - cjfs:
+      - "proteg\xED"
+      - protegiste
+      - "protegi\xF3"
+      - protegimos
+      - protegisteis
+      - protegieron
+      cjid: pprf
+    - cjfs:
+      - "proteger\xE9"
+      - "proteger\xE1s"
+      - "proteger\xE1"
+      - protegeremos
+      - "proteger\xE9is"
+      - "proteger\xE1n"
+      cjid: futr
+    - cjfs:
+      - "proteger\xEDa"
+      - "proteger\xEDas"
+      - "proteger\xEDa"
+      - "proteger\xEDamos"
+      - "proteger\xEDais"
+      - "proteger\xEDan"
+      cjid: cond
+    - cjfs:
+      - proteja
+      - protejas
+      - proteja
+      - protejamos
+      - "protej\xE1is"
+      - protejan
+      cjid: psub
+    - cjfs:
+      - protegiera
+      - protegieras
+      - protegiera
+      - "protegi\xE9ramos"
+      - protegierais
+      - protegieran
+      cjid: pisb1
+    - cjfs:
+      - protegiese
+      - protegieses
+      - protegiese
+      - "protegi\xE9semos"
+      - protegieseis
+      - protegiesen
+      cjid: pisb2
+    - cjfs:
+      - protegiere
+      - protegieres
+      - protegiere
+      - "protegi\xE9remos"
+      - protegiereis
+      - protegieren
+      cjid: fsub
+    - cjfs:
+      - he protegido
+      - has protegido
+      - ha protegido
+      - hemos protegido
+      - "hab\xE9is protegido"
+      - han protegido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa protegido"
+      - "hab\xEDas protegido"
+      - "hab\xEDa protegido"
+      - "hab\xEDamos protegido"
+      - "hab\xEDais protegido"
+      - "hab\xEDan protegido"
+      cjid: ppsi
+    - cjfs:
+      - hube protegido
+      - hubiste protegido
+      - hubo protegido
+      - hubimos protegido
+      - hubisteis protegido
+      - hubieron protegido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 protegido"
+      - "habr\xE1s protegido"
+      - "habr\xE1 protegido"
+      - habremos protegido
+      - "habr\xE9is protegido"
+      - "habr\xE1n protegido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa protegido"
+      - "habr\xEDas protegido"
+      - "habr\xEDa protegido"
+      - "habr\xEDamos protegido"
+      - "habr\xEDais protegido"
+      - "habr\xEDan protegido"
+      cjid: cpef
+    - cjfs:
+      - haya protegido
+      - hayas protegido
+      - haya protegido
+      - hayamos protegido
+      - "hay\xE1is protegido"
+      - hayan protegido
+      cjid: ppfs
+    - cjfs:
+      - hubiera protegido
+      - hubieras protegido
+      - hubiera protegido
+      - "hubi\xE9ramos protegido"
+      - hubierais protegido
+      - hubieran protegido
+      cjid: ppss1
+    - cjfs:
+      - hubiese protegido
+      - hubieses protegido
+      - hubiese protegido
+      - "hubi\xE9semos protegido"
+      - hubieseis protegido
+      - hubiesen protegido
+      cjid: ppss2
+    - cjfs:
+      - hubiere protegido
+      - hubieres protegido
+      - hubiere protegido
+      - "hubi\xE9remos protegido"
+      - hubiereis protegido
+      - hubieren protegido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - protege
+      - proteja
+      - protejamos
+      - proteged
+      - protejan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: protegerse

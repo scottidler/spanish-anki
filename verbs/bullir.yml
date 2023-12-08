@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|hervir||} {bc}to {a_link|boil}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|moverse||} {bc}to {a_link|stir}, to {a_link|bustle about}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: bullir
+  meta:
+    id: bullir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603428000'
+    src: spanish
+    stems:
+    - bullir
+    uuid: eaf50b8f-0e89-4897-8b11-da9ee779419a
+  shortdef:
+  - 'hervir : to boil'
+  - 'moverse : to stir, to bustle about'
+  suppl:
+    cjts:
+    - cjfs:
+      - bullendo
+      - bullido
+      cjid: gppt
+    - cjfs:
+      - bullo
+      - bulles
+      - bulle
+      - bullimos
+      - "bull\xEDs"
+      - bullen
+      cjid: pind
+    - cjfs:
+      - "bull\xEDa"
+      - "bull\xEDas"
+      - "bull\xEDa"
+      - "bull\xEDamos"
+      - "bull\xEDais"
+      - "bull\xEDan"
+      cjid: pret
+    - cjfs:
+      - "bull\xED"
+      - bulliste
+      - "bull\xF3"
+      - bullimos
+      - bullisteis
+      - bulleron
+      cjid: pprf
+    - cjfs:
+      - "bullir\xE9"
+      - "bullir\xE1s"
+      - "bullir\xE1"
+      - bulliremos
+      - "bullir\xE9is"
+      - "bullir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bullir\xEDa"
+      - "bullir\xEDas"
+      - "bullir\xEDa"
+      - "bullir\xEDamos"
+      - "bullir\xEDais"
+      - "bullir\xEDan"
+      cjid: cond
+    - cjfs:
+      - bulla
+      - bullas
+      - bulla
+      - bullamos
+      - "bull\xE1is"
+      - bullan
+      cjid: psub
+    - cjfs:
+      - bullera
+      - bulleras
+      - bullera
+      - "bull\xE9ramos"
+      - bullerais
+      - bulleran
+      cjid: pisb1
+    - cjfs:
+      - bullese
+      - bulleses
+      - bullese
+      - "bull\xE9semos"
+      - bulleseis
+      - bullesen
+      cjid: pisb2
+    - cjfs:
+      - bullere
+      - bulleres
+      - bullere
+      - "bull\xE9remos"
+      - bullereis
+      - bulleren
+      cjid: fsub
+    - cjfs:
+      - he bullido
+      - has bullido
+      - ha bullido
+      - hemos bullido
+      - "hab\xE9is bullido"
+      - han bullido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bullido"
+      - "hab\xEDas bullido"
+      - "hab\xEDa bullido"
+      - "hab\xEDamos bullido"
+      - "hab\xEDais bullido"
+      - "hab\xEDan bullido"
+      cjid: ppsi
+    - cjfs:
+      - hube bullido
+      - hubiste bullido
+      - hubo bullido
+      - hubimos bullido
+      - hubisteis bullido
+      - hubieron bullido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bullido"
+      - "habr\xE1s bullido"
+      - "habr\xE1 bullido"
+      - habremos bullido
+      - "habr\xE9is bullido"
+      - "habr\xE1n bullido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bullido"
+      - "habr\xEDas bullido"
+      - "habr\xEDa bullido"
+      - "habr\xEDamos bullido"
+      - "habr\xEDais bullido"
+      - "habr\xEDan bullido"
+      cjid: cpef
+    - cjfs:
+      - haya bullido
+      - hayas bullido
+      - haya bullido
+      - hayamos bullido
+      - "hay\xE1is bullido"
+      - hayan bullido
+      cjid: ppfs
+    - cjfs:
+      - hubiera bullido
+      - hubieras bullido
+      - hubiera bullido
+      - "hubi\xE9ramos bullido"
+      - hubierais bullido
+      - hubieran bullido
+      cjid: ppss1
+    - cjfs:
+      - hubiese bullido
+      - hubieses bullido
+      - hubiese bullido
+      - "hubi\xE9semos bullido"
+      - hubieseis bullido
+      - hubiesen bullido
+      cjid: ppss2
+    - cjfs:
+      - hubiere bullido
+      - hubieres bullido
+      - hubiere bullido
+      - "hubi\xE9remos bullido"
+      - hubiereis bullido
+      - hubieren bullido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bulle
+      - bulla
+      - bullamos
+      - bullid
+      - bullan
+      cjid: impf

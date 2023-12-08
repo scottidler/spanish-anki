@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|focus} (on)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|consider}, to {a_link|look at}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: enfocar
+    prs:
+    - sound:
+        audio: enfoc01sp
+  meta:
+    id: enfocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608560000'
+    src: spanish
+    stems:
+    - enfocar
+    uuid: 5fc0120f-3a3c-4f81-b05a-928074e14724
+  shortdef:
+  - to focus (on)
+  - to consider, to look at
+  suppl:
+    cjts:
+    - cjfs:
+      - enfocando
+      - enfocado
+      cjid: gppt
+    - cjfs:
+      - enfoco
+      - enfocas
+      - enfoca
+      - enfocamos
+      - "enfoc\xE1is"
+      - enfocan
+      cjid: pind
+    - cjfs:
+      - enfocaba
+      - enfocabas
+      - enfocaba
+      - "enfoc\xE1bamos"
+      - enfocabais
+      - enfocaban
+      cjid: pret
+    - cjfs:
+      - "enfoqu\xE9"
+      - enfocaste
+      - "enfoc\xF3"
+      - enfocamos
+      - enfocasteis
+      - enfocaron
+      cjid: pprf
+    - cjfs:
+      - "enfocar\xE9"
+      - "enfocar\xE1s"
+      - "enfocar\xE1"
+      - enfocaremos
+      - "enfocar\xE9is"
+      - "enfocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enfocar\xEDa"
+      - "enfocar\xEDas"
+      - "enfocar\xEDa"
+      - "enfocar\xEDamos"
+      - "enfocar\xEDais"
+      - "enfocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enfoque
+      - enfoques
+      - enfoque
+      - enfoquemos
+      - "enfoqu\xE9is"
+      - enfoquen
+      cjid: psub
+    - cjfs:
+      - enfocara
+      - enfocaras
+      - enfocara
+      - "enfoc\xE1ramos"
+      - enfocarais
+      - enfocaran
+      cjid: pisb1
+    - cjfs:
+      - enfocase
+      - enfocases
+      - enfocase
+      - "enfoc\xE1semos"
+      - enfocaseis
+      - enfocasen
+      cjid: pisb2
+    - cjfs:
+      - enfocare
+      - enfocares
+      - enfocare
+      - "enfoc\xE1remos"
+      - enfocareis
+      - enfocaren
+      cjid: fsub
+    - cjfs:
+      - he enfocado
+      - has enfocado
+      - ha enfocado
+      - hemos enfocado
+      - "hab\xE9is enfocado"
+      - han enfocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enfocado"
+      - "hab\xEDas enfocado"
+      - "hab\xEDa enfocado"
+      - "hab\xEDamos enfocado"
+      - "hab\xEDais enfocado"
+      - "hab\xEDan enfocado"
+      cjid: ppsi
+    - cjfs:
+      - hube enfocado
+      - hubiste enfocado
+      - hubo enfocado
+      - hubimos enfocado
+      - hubisteis enfocado
+      - hubieron enfocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enfocado"
+      - "habr\xE1s enfocado"
+      - "habr\xE1 enfocado"
+      - habremos enfocado
+      - "habr\xE9is enfocado"
+      - "habr\xE1n enfocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enfocado"
+      - "habr\xEDas enfocado"
+      - "habr\xEDa enfocado"
+      - "habr\xEDamos enfocado"
+      - "habr\xEDais enfocado"
+      - "habr\xEDan enfocado"
+      cjid: cpef
+    - cjfs:
+      - haya enfocado
+      - hayas enfocado
+      - haya enfocado
+      - hayamos enfocado
+      - "hay\xE1is enfocado"
+      - hayan enfocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enfocado
+      - hubieras enfocado
+      - hubiera enfocado
+      - "hubi\xE9ramos enfocado"
+      - hubierais enfocado
+      - hubieran enfocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enfocado
+      - hubieses enfocado
+      - hubiese enfocado
+      - "hubi\xE9semos enfocado"
+      - hubieseis enfocado
+      - hubiesen enfocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enfocado
+      - hubieres enfocado
+      - hubiere enfocado
+      - "hubi\xE9remos enfocado"
+      - hubiereis enfocado
+      - hubieren enfocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enfoca
+      - enfoque
+      - enfoquemos
+      - enfocad
+      - enfoquen
+      cjid: impf

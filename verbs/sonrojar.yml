@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cause to blush'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|blush}'
+    drp: sonrojarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: sonrojar
+    prs:
+    - sound:
+        audio: sonro01sp
+  meta:
+    id: sonrojar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620943000'
+    src: spanish
+    stems:
+    - sonrojar
+    - sonrojarse
+    uuid: e17e902d-2def-4d3f-a475-07a5a11d6167
+  shortdef:
+  - to cause to blush
+  suppl:
+    cjts:
+    - cjfs:
+      - sonrojando
+      - sonrojado
+      cjid: gppt
+    - cjfs:
+      - sonrojo
+      - sonrojas
+      - sonroja
+      - sonrojamos
+      - "sonroj\xE1is"
+      - sonrojan
+      cjid: pind
+    - cjfs:
+      - sonrojaba
+      - sonrojabas
+      - sonrojaba
+      - "sonroj\xE1bamos"
+      - sonrojabais
+      - sonrojaban
+      cjid: pret
+    - cjfs:
+      - "sonroj\xE9"
+      - sonrojaste
+      - "sonroj\xF3"
+      - sonrojamos
+      - sonrojasteis
+      - sonrojaron
+      cjid: pprf
+    - cjfs:
+      - "sonrojar\xE9"
+      - "sonrojar\xE1s"
+      - "sonrojar\xE1"
+      - sonrojaremos
+      - "sonrojar\xE9is"
+      - "sonrojar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "sonrojar\xEDa"
+      - "sonrojar\xEDas"
+      - "sonrojar\xEDa"
+      - "sonrojar\xEDamos"
+      - "sonrojar\xEDais"
+      - "sonrojar\xEDan"
+      cjid: cond
+    - cjfs:
+      - sonroje
+      - sonrojes
+      - sonroje
+      - sonrojemos
+      - "sonroj\xE9is"
+      - sonrojen
+      cjid: psub
+    - cjfs:
+      - sonrojara
+      - sonrojaras
+      - sonrojara
+      - "sonroj\xE1ramos"
+      - sonrojarais
+      - sonrojaran
+      cjid: pisb1
+    - cjfs:
+      - sonrojase
+      - sonrojases
+      - sonrojase
+      - "sonroj\xE1semos"
+      - sonrojaseis
+      - sonrojasen
+      cjid: pisb2
+    - cjfs:
+      - sonrojare
+      - sonrojares
+      - sonrojare
+      - "sonroj\xE1remos"
+      - sonrojareis
+      - sonrojaren
+      cjid: fsub
+    - cjfs:
+      - he sonrojado
+      - has sonrojado
+      - ha sonrojado
+      - hemos sonrojado
+      - "hab\xE9is sonrojado"
+      - han sonrojado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa sonrojado"
+      - "hab\xEDas sonrojado"
+      - "hab\xEDa sonrojado"
+      - "hab\xEDamos sonrojado"
+      - "hab\xEDais sonrojado"
+      - "hab\xEDan sonrojado"
+      cjid: ppsi
+    - cjfs:
+      - hube sonrojado
+      - hubiste sonrojado
+      - hubo sonrojado
+      - hubimos sonrojado
+      - hubisteis sonrojado
+      - hubieron sonrojado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 sonrojado"
+      - "habr\xE1s sonrojado"
+      - "habr\xE1 sonrojado"
+      - habremos sonrojado
+      - "habr\xE9is sonrojado"
+      - "habr\xE1n sonrojado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa sonrojado"
+      - "habr\xEDas sonrojado"
+      - "habr\xEDa sonrojado"
+      - "habr\xEDamos sonrojado"
+      - "habr\xEDais sonrojado"
+      - "habr\xEDan sonrojado"
+      cjid: cpef
+    - cjfs:
+      - haya sonrojado
+      - hayas sonrojado
+      - haya sonrojado
+      - hayamos sonrojado
+      - "hay\xE1is sonrojado"
+      - hayan sonrojado
+      cjid: ppfs
+    - cjfs:
+      - hubiera sonrojado
+      - hubieras sonrojado
+      - hubiera sonrojado
+      - "hubi\xE9ramos sonrojado"
+      - hubierais sonrojado
+      - hubieran sonrojado
+      cjid: ppss1
+    - cjfs:
+      - hubiese sonrojado
+      - hubieses sonrojado
+      - hubiese sonrojado
+      - "hubi\xE9semos sonrojado"
+      - hubieseis sonrojado
+      - hubiesen sonrojado
+      cjid: ppss2
+    - cjfs:
+      - hubiere sonrojado
+      - hubieres sonrojado
+      - hubiere sonrojado
+      - "hubi\xE9remos sonrojado"
+      - hubiereis sonrojado
+      - hubieren sonrojado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - sonroja
+      - sonroje
+      - sonrojemos
+      - sonrojad
+      - sonrojen
+      cjid: impf

@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lower} (a part of the body) '
+          - - vis
+            - - t: agachar la cabeza
+                tr: to bow one's head
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|crouch}, to {a_link|stoop}, to bend down'
+    drp: agacharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: agachar
+    prs:
+    - sound:
+        audio: agach01sp
+  meta:
+    id: agachar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600665000'
+    src: spanish
+    stems:
+    - agachar
+    - agacharse
+    uuid: 6f9f5eb7-d0ba-45bf-a225-eda10f148863
+  shortdef:
+  - to lower (a part of the body)
+  suppl:
+    cjts:
+    - cjfs:
+      - agachando
+      - agachado
+      cjid: gppt
+    - cjfs:
+      - agacho
+      - agachas
+      - agacha
+      - agachamos
+      - "agach\xE1is"
+      - agachan
+      cjid: pind
+    - cjfs:
+      - agachaba
+      - agachabas
+      - agachaba
+      - "agach\xE1bamos"
+      - agachabais
+      - agachaban
+      cjid: pret
+    - cjfs:
+      - "agach\xE9"
+      - agachaste
+      - "agach\xF3"
+      - agachamos
+      - agachasteis
+      - agacharon
+      cjid: pprf
+    - cjfs:
+      - "agachar\xE9"
+      - "agachar\xE1s"
+      - "agachar\xE1"
+      - agacharemos
+      - "agachar\xE9is"
+      - "agachar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "agachar\xEDa"
+      - "agachar\xEDas"
+      - "agachar\xEDa"
+      - "agachar\xEDamos"
+      - "agachar\xEDais"
+      - "agachar\xEDan"
+      cjid: cond
+    - cjfs:
+      - agache
+      - agaches
+      - agache
+      - agachemos
+      - "agach\xE9is"
+      - agachen
+      cjid: psub
+    - cjfs:
+      - agachara
+      - agacharas
+      - agachara
+      - "agach\xE1ramos"
+      - agacharais
+      - agacharan
+      cjid: pisb1
+    - cjfs:
+      - agachase
+      - agachases
+      - agachase
+      - "agach\xE1semos"
+      - agachaseis
+      - agachasen
+      cjid: pisb2
+    - cjfs:
+      - agachare
+      - agachares
+      - agachare
+      - "agach\xE1remos"
+      - agachareis
+      - agacharen
+      cjid: fsub
+    - cjfs:
+      - he agachado
+      - has agachado
+      - ha agachado
+      - hemos agachado
+      - "hab\xE9is agachado"
+      - han agachado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa agachado"
+      - "hab\xEDas agachado"
+      - "hab\xEDa agachado"
+      - "hab\xEDamos agachado"
+      - "hab\xEDais agachado"
+      - "hab\xEDan agachado"
+      cjid: ppsi
+    - cjfs:
+      - hube agachado
+      - hubiste agachado
+      - hubo agachado
+      - hubimos agachado
+      - hubisteis agachado
+      - hubieron agachado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 agachado"
+      - "habr\xE1s agachado"
+      - "habr\xE1 agachado"
+      - habremos agachado
+      - "habr\xE9is agachado"
+      - "habr\xE1n agachado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa agachado"
+      - "habr\xEDas agachado"
+      - "habr\xEDa agachado"
+      - "habr\xEDamos agachado"
+      - "habr\xEDais agachado"
+      - "habr\xEDan agachado"
+      cjid: cpef
+    - cjfs:
+      - haya agachado
+      - hayas agachado
+      - haya agachado
+      - hayamos agachado
+      - "hay\xE1is agachado"
+      - hayan agachado
+      cjid: ppfs
+    - cjfs:
+      - hubiera agachado
+      - hubieras agachado
+      - hubiera agachado
+      - "hubi\xE9ramos agachado"
+      - hubierais agachado
+      - hubieran agachado
+      cjid: ppss1
+    - cjfs:
+      - hubiese agachado
+      - hubieses agachado
+      - hubiese agachado
+      - "hubi\xE9semos agachado"
+      - hubieseis agachado
+      - hubiesen agachado
+      cjid: ppss2
+    - cjfs:
+      - hubiere agachado
+      - hubieres agachado
+      - hubiere agachado
+      - "hubi\xE9remos agachado"
+      - hubiereis agachado
+      - hubieren agachado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - agacha
+      - agache
+      - agachemos
+      - agachad
+      - agachen
+      cjid: impf

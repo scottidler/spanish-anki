@@ -1,0 +1,335 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|render}, to {a_link|give} '
+          - - vis
+            - - t: rendir las gracias
+                tr: to give thanks
+              - t: rendir homenaje a
+                tr: to pay homage to
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|yield}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cansar||} {bc}to {a_link|exhaust}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cundir||} {bc}to {a_link|progress}, to make headway'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|last}, to go a long way'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|surrender}, to {a_link|give up}'
+    drp: rendirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: rendir
+    prs:
+    - sound:
+        audio: rendi04sp
+  meta:
+    id: rendir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619390000'
+    src: spanish
+    stems:
+    - rendir
+    - rendirse
+    uuid: aba0f7cd-87bb-423c-95c0-ac5c63594840
+  shortdef:
+  - to render, to give
+  - to yield
+  - 'cansar : to exhaust'
+  suppl:
+    cjts:
+    - cjfs:
+      - rindiendo
+      - rendido
+      cjid: gppt
+    - cjfs:
+      - rindo
+      - rindes
+      - rinde
+      - rendimos
+      - "rend\xEDs"
+      - rinden
+      cjid: pind
+    - cjfs:
+      - "rend\xEDa"
+      - "rend\xEDas"
+      - "rend\xEDa"
+      - "rend\xEDamos"
+      - "rend\xEDais"
+      - "rend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "rend\xED"
+      - rendiste
+      - "rindi\xF3"
+      - rendimos
+      - rendisteis
+      - rindieron
+      cjid: pprf
+    - cjfs:
+      - "rendir\xE9"
+      - "rendir\xE1s"
+      - "rendir\xE1"
+      - rendiremos
+      - "rendir\xE9is"
+      - "rendir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rendir\xEDa"
+      - "rendir\xEDas"
+      - "rendir\xEDa"
+      - "rendir\xEDamos"
+      - "rendir\xEDais"
+      - "rendir\xEDan"
+      cjid: cond
+    - cjfs:
+      - rinda
+      - rindas
+      - rinda
+      - rindamos
+      - "rind\xE1is"
+      - rindan
+      cjid: psub
+    - cjfs:
+      - rindiera
+      - rindieras
+      - rindiera
+      - "rindi\xE9ramos"
+      - rindierais
+      - rindieran
+      cjid: pisb1
+    - cjfs:
+      - rindiese
+      - rindieses
+      - rindiese
+      - "rindi\xE9semos"
+      - rindieseis
+      - rindiesen
+      cjid: pisb2
+    - cjfs:
+      - rindiere
+      - rindieres
+      - rindiere
+      - "rindi\xE9remos"
+      - rindiereis
+      - rindieren
+      cjid: fsub
+    - cjfs:
+      - he rendido
+      - has rendido
+      - ha rendido
+      - hemos rendido
+      - "hab\xE9is rendido"
+      - han rendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rendido"
+      - "hab\xEDas rendido"
+      - "hab\xEDa rendido"
+      - "hab\xEDamos rendido"
+      - "hab\xEDais rendido"
+      - "hab\xEDan rendido"
+      cjid: ppsi
+    - cjfs:
+      - hube rendido
+      - hubiste rendido
+      - hubo rendido
+      - hubimos rendido
+      - hubisteis rendido
+      - hubieron rendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rendido"
+      - "habr\xE1s rendido"
+      - "habr\xE1 rendido"
+      - habremos rendido
+      - "habr\xE9is rendido"
+      - "habr\xE1n rendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rendido"
+      - "habr\xEDas rendido"
+      - "habr\xEDa rendido"
+      - "habr\xEDamos rendido"
+      - "habr\xEDais rendido"
+      - "habr\xEDan rendido"
+      cjid: cpef
+    - cjfs:
+      - haya rendido
+      - hayas rendido
+      - haya rendido
+      - hayamos rendido
+      - "hay\xE1is rendido"
+      - hayan rendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera rendido
+      - hubieras rendido
+      - hubiera rendido
+      - "hubi\xE9ramos rendido"
+      - hubierais rendido
+      - hubieran rendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese rendido
+      - hubieses rendido
+      - hubiese rendido
+      - "hubi\xE9semos rendido"
+      - hubieseis rendido
+      - hubiesen rendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere rendido
+      - hubieres rendido
+      - hubiere rendido
+      - "hubi\xE9remos rendido"
+      - hubiereis rendido
+      - hubieren rendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rinde
+      - rinda
+      - rindamos
+      - rendid
+      - rindan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|calculation}, {a_link|count}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|account} '
+          - - vis
+            - - t: cuenta corriente
+                tr: checking account
+              - t: cuenta de ahorro(s)
+                tr: savings account
+              - t: "cuenta de correo(s) electr\xF3nico(s), cuenta de email"
+                tr: e-mail account
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|responsibility}, {a_link|liability} '
+          - - vis
+            - - t: corre por cuenta del gobierno
+                tr: the government is footing the bill
+              - t: trabajar por cuenta propia
+                tr: to be self-employed
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|check}, {a_link|bill}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in the end}'
+          sn: '5'
+          vrs:
+          - va: a fin de cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|realize}'
+          sn: '6'
+          vrs:
+          - va: darse cuenta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in short}'
+          sls:
+          - Chile
+          sn: '7'
+          vrs:
+          - va: en buenas cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|on account of}, {a_link|because of}'
+          sn: '8'
+          vrs:
+          - va: por cuenta de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be held accountable'
+          sn: '9'
+          vrs:
+          - va: rendir cuentas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to bear in mind'
+          sn: '10'
+          vrs:
+          - va: tener en cuenta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take into account}'
+          sn: '11'
+          vrs:
+          - va: tomar en cuenta
+  fl: feminine noun
+  hom: 2
+  hwi:
+    hw: cuenta
+    prs:
+    - sound:
+        audio: cuent02sp
+  meta:
+    id: cuenta:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606303000'
+    src: spanish
+    stems:
+    - cuenta
+    - a fin de cuentas
+    - darse cuenta
+    - en buenas cuentas
+    - por cuenta de
+    - rendir cuentas
+    - tener en cuenta
+    - tomar en cuenta
+    uuid: 0e3c2d31-6bd9-490f-8e43-cbbad91d7815
+  shortdef:
+  - calculation, count
+  - account
+  - responsibility, liability

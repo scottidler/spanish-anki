@@ -1,0 +1,190 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deform}, to {a_link|disfigure}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|distort}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: deformar
+  meta:
+    id: deformar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606576000'
+    src: spanish
+    stems:
+    - deformar
+    - deformarse
+    uuid: 7c66b607-32f4-48c3-bbd7-875fea9b9c71
+  shortdef:
+  - to deform, to disfigure
+  - to distort
+  suppl:
+    cjts:
+    - cjfs:
+      - deformando
+      - deformado
+      cjid: gppt
+    - cjfs:
+      - deformo
+      - deformas
+      - deforma
+      - deformamos
+      - "deform\xE1is"
+      - deforman
+      cjid: pind
+    - cjfs:
+      - deformaba
+      - deformabas
+      - deformaba
+      - "deform\xE1bamos"
+      - deformabais
+      - deformaban
+      cjid: pret
+    - cjfs:
+      - "deform\xE9"
+      - deformaste
+      - "deform\xF3"
+      - deformamos
+      - deformasteis
+      - deformaron
+      cjid: pprf
+    - cjfs:
+      - "deformar\xE9"
+      - "deformar\xE1s"
+      - "deformar\xE1"
+      - deformaremos
+      - "deformar\xE9is"
+      - "deformar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deformar\xEDa"
+      - "deformar\xEDas"
+      - "deformar\xEDa"
+      - "deformar\xEDamos"
+      - "deformar\xEDais"
+      - "deformar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deforme
+      - deformes
+      - deforme
+      - deformemos
+      - "deform\xE9is"
+      - deformen
+      cjid: psub
+    - cjfs:
+      - deformara
+      - deformaras
+      - deformara
+      - "deform\xE1ramos"
+      - deformarais
+      - deformaran
+      cjid: pisb1
+    - cjfs:
+      - deformase
+      - deformases
+      - deformase
+      - "deform\xE1semos"
+      - deformaseis
+      - deformasen
+      cjid: pisb2
+    - cjfs:
+      - deformare
+      - deformares
+      - deformare
+      - "deform\xE1remos"
+      - deformareis
+      - deformaren
+      cjid: fsub
+    - cjfs:
+      - he deformado
+      - has deformado
+      - ha deformado
+      - hemos deformado
+      - "hab\xE9is deformado"
+      - han deformado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deformado"
+      - "hab\xEDas deformado"
+      - "hab\xEDa deformado"
+      - "hab\xEDamos deformado"
+      - "hab\xEDais deformado"
+      - "hab\xEDan deformado"
+      cjid: ppsi
+    - cjfs:
+      - hube deformado
+      - hubiste deformado
+      - hubo deformado
+      - hubimos deformado
+      - hubisteis deformado
+      - hubieron deformado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deformado"
+      - "habr\xE1s deformado"
+      - "habr\xE1 deformado"
+      - habremos deformado
+      - "habr\xE9is deformado"
+      - "habr\xE1n deformado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deformado"
+      - "habr\xEDas deformado"
+      - "habr\xEDa deformado"
+      - "habr\xEDamos deformado"
+      - "habr\xEDais deformado"
+      - "habr\xEDan deformado"
+      cjid: cpef
+    - cjfs:
+      - haya deformado
+      - hayas deformado
+      - haya deformado
+      - hayamos deformado
+      - "hay\xE1is deformado"
+      - hayan deformado
+      cjid: ppfs
+    - cjfs:
+      - hubiera deformado
+      - hubieras deformado
+      - hubiera deformado
+      - "hubi\xE9ramos deformado"
+      - hubierais deformado
+      - hubieran deformado
+      cjid: ppss1
+    - cjfs:
+      - hubiese deformado
+      - hubieses deformado
+      - hubiese deformado
+      - "hubi\xE9semos deformado"
+      - hubieseis deformado
+      - hubiesen deformado
+      cjid: ppss2
+    - cjfs:
+      - hubiere deformado
+      - hubieres deformado
+      - hubiere deformado
+      - "hubi\xE9remos deformado"
+      - hubiereis deformado
+      - hubieren deformado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - deforma
+      - deforme
+      - deformemos
+      - deformad
+      - deformen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: deformarse

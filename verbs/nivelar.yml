@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|level} (off/out), to {a_link|even} (out)'
+  fl: transitive verb
+  hwi:
+    hw: nivelar
+  meta:
+    id: nivelar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615789000'
+    src: spanish
+    stems:
+    - nivelar
+    - nivelarse
+    uuid: 79c9af79-e2ef-440c-9b13-255e41f11096
+  shortdef:
+  - to level (off/out), to even (out)
+  suppl:
+    cjts:
+    - cjfs:
+      - nivelando
+      - nivelado
+      cjid: gppt
+    - cjfs:
+      - nivelo
+      - nivelas
+      - nivela
+      - nivelamos
+      - "nivel\xE1is"
+      - nivelan
+      cjid: pind
+    - cjfs:
+      - nivelaba
+      - nivelabas
+      - nivelaba
+      - "nivel\xE1bamos"
+      - nivelabais
+      - nivelaban
+      cjid: pret
+    - cjfs:
+      - "nivel\xE9"
+      - nivelaste
+      - "nivel\xF3"
+      - nivelamos
+      - nivelasteis
+      - nivelaron
+      cjid: pprf
+    - cjfs:
+      - "nivelar\xE9"
+      - "nivelar\xE1s"
+      - "nivelar\xE1"
+      - nivelaremos
+      - "nivelar\xE9is"
+      - "nivelar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "nivelar\xEDa"
+      - "nivelar\xEDas"
+      - "nivelar\xEDa"
+      - "nivelar\xEDamos"
+      - "nivelar\xEDais"
+      - "nivelar\xEDan"
+      cjid: cond
+    - cjfs:
+      - nivele
+      - niveles
+      - nivele
+      - nivelemos
+      - "nivel\xE9is"
+      - nivelen
+      cjid: psub
+    - cjfs:
+      - nivelara
+      - nivelaras
+      - nivelara
+      - "nivel\xE1ramos"
+      - nivelarais
+      - nivelaran
+      cjid: pisb1
+    - cjfs:
+      - nivelase
+      - nivelases
+      - nivelase
+      - "nivel\xE1semos"
+      - nivelaseis
+      - nivelasen
+      cjid: pisb2
+    - cjfs:
+      - nivelare
+      - nivelares
+      - nivelare
+      - "nivel\xE1remos"
+      - nivelareis
+      - nivelaren
+      cjid: fsub
+    - cjfs:
+      - he nivelado
+      - has nivelado
+      - ha nivelado
+      - hemos nivelado
+      - "hab\xE9is nivelado"
+      - han nivelado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa nivelado"
+      - "hab\xEDas nivelado"
+      - "hab\xEDa nivelado"
+      - "hab\xEDamos nivelado"
+      - "hab\xEDais nivelado"
+      - "hab\xEDan nivelado"
+      cjid: ppsi
+    - cjfs:
+      - hube nivelado
+      - hubiste nivelado
+      - hubo nivelado
+      - hubimos nivelado
+      - hubisteis nivelado
+      - hubieron nivelado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 nivelado"
+      - "habr\xE1s nivelado"
+      - "habr\xE1 nivelado"
+      - habremos nivelado
+      - "habr\xE9is nivelado"
+      - "habr\xE1n nivelado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa nivelado"
+      - "habr\xEDas nivelado"
+      - "habr\xEDa nivelado"
+      - "habr\xEDamos nivelado"
+      - "habr\xEDais nivelado"
+      - "habr\xEDan nivelado"
+      cjid: cpef
+    - cjfs:
+      - haya nivelado
+      - hayas nivelado
+      - haya nivelado
+      - hayamos nivelado
+      - "hay\xE1is nivelado"
+      - hayan nivelado
+      cjid: ppfs
+    - cjfs:
+      - hubiera nivelado
+      - hubieras nivelado
+      - hubiera nivelado
+      - "hubi\xE9ramos nivelado"
+      - hubierais nivelado
+      - hubieran nivelado
+      cjid: ppss1
+    - cjfs:
+      - hubiese nivelado
+      - hubieses nivelado
+      - hubiese nivelado
+      - "hubi\xE9semos nivelado"
+      - hubieseis nivelado
+      - hubiesen nivelado
+      cjid: ppss2
+    - cjfs:
+      - hubiere nivelado
+      - hubieres nivelado
+      - hubiere nivelado
+      - "hubi\xE9remos nivelado"
+      - hubiereis nivelado
+      - hubieren nivelado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - nivela
+      - nivele
+      - nivelemos
+      - nivelad
+      - nivelen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: nivelarse

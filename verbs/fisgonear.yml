@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|snoop}, to {a_link|pry}'
+  fl: intransitive verb
+  hwi:
+    hw: fisgonear
+  meta:
+    id: fisgonear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610161000'
+    src: spanish
+    stems:
+    - fisgonear
+    uuid: 6e91d6ea-1a50-4faf-8660-23469a77cf9e
+  shortdef:
+  - to snoop, to pry
+  suppl:
+    cjts:
+    - cjfs:
+      - fisgoneando
+      - fisgoneado
+      cjid: gppt
+    - cjfs:
+      - fisgoneo
+      - fisgoneas
+      - fisgonea
+      - fisgoneamos
+      - "fisgone\xE1is"
+      - fisgonean
+      cjid: pind
+    - cjfs:
+      - fisgoneaba
+      - fisgoneabas
+      - fisgoneaba
+      - "fisgone\xE1bamos"
+      - fisgoneabais
+      - fisgoneaban
+      cjid: pret
+    - cjfs:
+      - "fisgone\xE9"
+      - fisgoneaste
+      - "fisgone\xF3"
+      - fisgoneamos
+      - fisgoneasteis
+      - fisgonearon
+      cjid: pprf
+    - cjfs:
+      - "fisgonear\xE9"
+      - "fisgonear\xE1s"
+      - "fisgonear\xE1"
+      - fisgonearemos
+      - "fisgonear\xE9is"
+      - "fisgonear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fisgonear\xEDa"
+      - "fisgonear\xEDas"
+      - "fisgonear\xEDa"
+      - "fisgonear\xEDamos"
+      - "fisgonear\xEDais"
+      - "fisgonear\xEDan"
+      cjid: cond
+    - cjfs:
+      - fisgonee
+      - fisgonees
+      - fisgonee
+      - fisgoneemos
+      - "fisgone\xE9is"
+      - fisgoneen
+      cjid: psub
+    - cjfs:
+      - fisgoneara
+      - fisgonearas
+      - fisgoneara
+      - "fisgone\xE1ramos"
+      - fisgonearais
+      - fisgonearan
+      cjid: pisb1
+    - cjfs:
+      - fisgonease
+      - fisgoneases
+      - fisgonease
+      - "fisgone\xE1semos"
+      - fisgoneaseis
+      - fisgoneasen
+      cjid: pisb2
+    - cjfs:
+      - fisgoneare
+      - fisgoneares
+      - fisgoneare
+      - "fisgone\xE1remos"
+      - fisgoneareis
+      - fisgonearen
+      cjid: fsub
+    - cjfs:
+      - he fisgoneado
+      - has fisgoneado
+      - ha fisgoneado
+      - hemos fisgoneado
+      - "hab\xE9is fisgoneado"
+      - han fisgoneado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fisgoneado"
+      - "hab\xEDas fisgoneado"
+      - "hab\xEDa fisgoneado"
+      - "hab\xEDamos fisgoneado"
+      - "hab\xEDais fisgoneado"
+      - "hab\xEDan fisgoneado"
+      cjid: ppsi
+    - cjfs:
+      - hube fisgoneado
+      - hubiste fisgoneado
+      - hubo fisgoneado
+      - hubimos fisgoneado
+      - hubisteis fisgoneado
+      - hubieron fisgoneado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fisgoneado"
+      - "habr\xE1s fisgoneado"
+      - "habr\xE1 fisgoneado"
+      - habremos fisgoneado
+      - "habr\xE9is fisgoneado"
+      - "habr\xE1n fisgoneado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fisgoneado"
+      - "habr\xEDas fisgoneado"
+      - "habr\xEDa fisgoneado"
+      - "habr\xEDamos fisgoneado"
+      - "habr\xEDais fisgoneado"
+      - "habr\xEDan fisgoneado"
+      cjid: cpef
+    - cjfs:
+      - haya fisgoneado
+      - hayas fisgoneado
+      - haya fisgoneado
+      - hayamos fisgoneado
+      - "hay\xE1is fisgoneado"
+      - hayan fisgoneado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fisgoneado
+      - hubieras fisgoneado
+      - hubiera fisgoneado
+      - "hubi\xE9ramos fisgoneado"
+      - hubierais fisgoneado
+      - hubieran fisgoneado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fisgoneado
+      - hubieses fisgoneado
+      - hubiese fisgoneado
+      - "hubi\xE9semos fisgoneado"
+      - hubieseis fisgoneado
+      - hubiesen fisgoneado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fisgoneado
+      - hubieres fisgoneado
+      - hubiere fisgoneado
+      - "hubi\xE9remos fisgoneado"
+      - hubiereis fisgoneado
+      - hubieren fisgoneado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fisgonea
+      - fisgonee
+      - fisgoneemos
+      - fisgonead
+      - fisgoneen
+      cjid: impf

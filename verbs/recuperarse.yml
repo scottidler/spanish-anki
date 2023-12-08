@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recover}, to {a_link|get back}, to {a_link|retrieve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|recuperate}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make up for} '
+          - - vis
+            - - t: recuperar el tiempo perdido
+                tr: to make up for lost time
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to recover from, to {a_link|get over}'
+            vrs:
+            - va: recuperarse de
+              vac: ~ de
+    drp: recuperarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: recuperar
+    prs:
+    - sound:
+        audio: recup02sp
+  meta:
+    id: recuperar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619073000'
+    src: spanish
+    stems:
+    - recuperar
+    - recuperarse
+    - recuperarse de
+    uuid: ef30b1c6-7cfa-4604-ae04-ab03de341bd6
+  shortdef:
+  - to recover, to get back, to retrieve
+  - to recuperate
+  - to make up for
+  suppl:
+    cjts:
+    - cjfs:
+      - recuperando
+      - recuperado
+      cjid: gppt
+    - cjfs:
+      - recupero
+      - recuperas
+      - recupera
+      - recuperamos
+      - "recuper\xE1is"
+      - recuperan
+      cjid: pind
+    - cjfs:
+      - recuperaba
+      - recuperabas
+      - recuperaba
+      - "recuper\xE1bamos"
+      - recuperabais
+      - recuperaban
+      cjid: pret
+    - cjfs:
+      - "recuper\xE9"
+      - recuperaste
+      - "recuper\xF3"
+      - recuperamos
+      - recuperasteis
+      - recuperaron
+      cjid: pprf
+    - cjfs:
+      - "recuperar\xE9"
+      - "recuperar\xE1s"
+      - "recuperar\xE1"
+      - recuperaremos
+      - "recuperar\xE9is"
+      - "recuperar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recuperar\xEDa"
+      - "recuperar\xEDas"
+      - "recuperar\xEDa"
+      - "recuperar\xEDamos"
+      - "recuperar\xEDais"
+      - "recuperar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recupere
+      - recuperes
+      - recupere
+      - recuperemos
+      - "recuper\xE9is"
+      - recuperen
+      cjid: psub
+    - cjfs:
+      - recuperara
+      - recuperaras
+      - recuperara
+      - "recuper\xE1ramos"
+      - recuperarais
+      - recuperaran
+      cjid: pisb1
+    - cjfs:
+      - recuperase
+      - recuperases
+      - recuperase
+      - "recuper\xE1semos"
+      - recuperaseis
+      - recuperasen
+      cjid: pisb2
+    - cjfs:
+      - recuperare
+      - recuperares
+      - recuperare
+      - "recuper\xE1remos"
+      - recuperareis
+      - recuperaren
+      cjid: fsub
+    - cjfs:
+      - he recuperado
+      - has recuperado
+      - ha recuperado
+      - hemos recuperado
+      - "hab\xE9is recuperado"
+      - han recuperado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recuperado"
+      - "hab\xEDas recuperado"
+      - "hab\xEDa recuperado"
+      - "hab\xEDamos recuperado"
+      - "hab\xEDais recuperado"
+      - "hab\xEDan recuperado"
+      cjid: ppsi
+    - cjfs:
+      - hube recuperado
+      - hubiste recuperado
+      - hubo recuperado
+      - hubimos recuperado
+      - hubisteis recuperado
+      - hubieron recuperado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recuperado"
+      - "habr\xE1s recuperado"
+      - "habr\xE1 recuperado"
+      - habremos recuperado
+      - "habr\xE9is recuperado"
+      - "habr\xE1n recuperado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recuperado"
+      - "habr\xEDas recuperado"
+      - "habr\xEDa recuperado"
+      - "habr\xEDamos recuperado"
+      - "habr\xEDais recuperado"
+      - "habr\xEDan recuperado"
+      cjid: cpef
+    - cjfs:
+      - haya recuperado
+      - hayas recuperado
+      - haya recuperado
+      - hayamos recuperado
+      - "hay\xE1is recuperado"
+      - hayan recuperado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recuperado
+      - hubieras recuperado
+      - hubiera recuperado
+      - "hubi\xE9ramos recuperado"
+      - hubierais recuperado
+      - hubieran recuperado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recuperado
+      - hubieses recuperado
+      - hubiese recuperado
+      - "hubi\xE9semos recuperado"
+      - hubieseis recuperado
+      - hubiesen recuperado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recuperado
+      - hubieres recuperado
+      - hubiere recuperado
+      - "hubi\xE9remos recuperado"
+      - hubiereis recuperado
+      - hubieren recuperado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recupera
+      - recupere
+      - recuperemos
+      - recuperad
+      - recuperen
+      cjid: impf

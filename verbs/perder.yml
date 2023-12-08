@@ -1,0 +1,794 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lose} '
+          - - vis
+            - - t: "perdi\xF3 las llaves"
+                tr: he lost his keys
+              - t: perder dinero/peso
+                tr: to lose money/weight
+              - t: perder la paciencia/confianza
+                tr: to lose patience/confidence
+              - t: perder la vida
+                tr: to lose one's life
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lose} (a game, contest, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|miss} (a train, an event, etc.) '
+          - - vis
+            - - t: perdimos la oportunidad
+                tr: we missed the opportunity
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|waste} (time)'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lose}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|extraviarse||} {bc}to {a_link|get lost}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|miss}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|desaparecer||} {bc}to {a_link|disappear}'
+            sn: '3'
+    drp: perderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: perder
+    prs:
+    - sound:
+        audio: perde03sp
+  meta:
+    id: perder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617078000'
+    src: spanish
+    stems:
+    - perder
+    - perderse
+    uuid: f16a3ab7-ce11-4813-a90a-ea531ec412dc
+  shortdef:
+  - to lose
+  - to lose (a game, contest, etc.)
+  - to miss (a train, an event, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - perdiendo
+      - perdido
+      cjid: gppt
+    - cjfs:
+      - pierdo
+      - pierdes
+      - pierde
+      - perdemos
+      - "perd\xE9is"
+      - pierden
+      cjid: pind
+    - cjfs:
+      - "perd\xEDa"
+      - "perd\xEDas"
+      - "perd\xEDa"
+      - "perd\xEDamos"
+      - "perd\xEDais"
+      - "perd\xEDan"
+      cjid: pret
+    - cjfs:
+      - "perd\xED"
+      - perdiste
+      - "perdi\xF3"
+      - perdimos
+      - perdisteis
+      - perdieron
+      cjid: pprf
+    - cjfs:
+      - "perder\xE9"
+      - "perder\xE1s"
+      - "perder\xE1"
+      - perderemos
+      - "perder\xE9is"
+      - "perder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "perder\xEDa"
+      - "perder\xEDas"
+      - "perder\xEDa"
+      - "perder\xEDamos"
+      - "perder\xEDais"
+      - "perder\xEDan"
+      cjid: cond
+    - cjfs:
+      - pierda
+      - pierdas
+      - pierda
+      - perdamos
+      - "perd\xE1is"
+      - pierdan
+      cjid: psub
+    - cjfs:
+      - perdiera
+      - perdieras
+      - perdiera
+      - "perdi\xE9ramos"
+      - perdierais
+      - perdieran
+      cjid: pisb1
+    - cjfs:
+      - perdiese
+      - perdieses
+      - perdiese
+      - "perdi\xE9semos"
+      - perdieseis
+      - perdiesen
+      cjid: pisb2
+    - cjfs:
+      - perdiere
+      - perdieres
+      - perdiere
+      - "perdi\xE9remos"
+      - perdiereis
+      - perdieren
+      cjid: fsub
+    - cjfs:
+      - he perdido
+      - has perdido
+      - ha perdido
+      - hemos perdido
+      - "hab\xE9is perdido"
+      - han perdido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa perdido"
+      - "hab\xEDas perdido"
+      - "hab\xEDa perdido"
+      - "hab\xEDamos perdido"
+      - "hab\xEDais perdido"
+      - "hab\xEDan perdido"
+      cjid: ppsi
+    - cjfs:
+      - hube perdido
+      - hubiste perdido
+      - hubo perdido
+      - hubimos perdido
+      - hubisteis perdido
+      - hubieron perdido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 perdido"
+      - "habr\xE1s perdido"
+      - "habr\xE1 perdido"
+      - habremos perdido
+      - "habr\xE9is perdido"
+      - "habr\xE1n perdido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa perdido"
+      - "habr\xEDas perdido"
+      - "habr\xEDa perdido"
+      - "habr\xEDamos perdido"
+      - "habr\xEDais perdido"
+      - "habr\xEDan perdido"
+      cjid: cpef
+    - cjfs:
+      - haya perdido
+      - hayas perdido
+      - haya perdido
+      - hayamos perdido
+      - "hay\xE1is perdido"
+      - hayan perdido
+      cjid: ppfs
+    - cjfs:
+      - hubiera perdido
+      - hubieras perdido
+      - hubiera perdido
+      - "hubi\xE9ramos perdido"
+      - hubierais perdido
+      - hubieran perdido
+      cjid: ppss1
+    - cjfs:
+      - hubiese perdido
+      - hubieses perdido
+      - hubiese perdido
+      - "hubi\xE9semos perdido"
+      - hubieseis perdido
+      - hubiesen perdido
+      cjid: ppss2
+    - cjfs:
+      - hubiere perdido
+      - hubieres perdido
+      - hubiere perdido
+      - "hubi\xE9remos perdido"
+      - hubiereis perdido
+      - hubieren perdido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pierde
+      - pierda
+      - perdamos
+      - perded
+      - pierdan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|lanzar||} {bc}to {a_link|throw}, to {a_link|toss} (a coin), to
+              {a_link|cast} (an anchor, a net) '
+          - - vis
+            - - t: "lo ech\xF3 a la basura"
+                tr: she threw it away
+              - t: "echar la cabeza hacia atr\xE1s"
+                tr: to throw one's head back
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|throw out} (of a place), to {a_link|expel} (from school) '
+          - - vis
+            - - t: me echaron de la casa
+                tr: they threw me out of the house
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|despedir||} {bc}to {a_link|fire}, to {a_link|dismiss}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|emitir||} {bc}to {a_link|emit}, to {a_link|give off}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|brotar||} {bc}to {a_link|sprout}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put in}, to {a_link|add}'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|have} (a look)'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mail}'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pour}'
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|give} (a blessing, etc.), to {a_link|put} (a curse)
+              {a_link|on}'
+          sn: '10'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn} (a key), to {a_link|slide} (a bolt) '
+          - - vis
+            - - t: echarle (la) llave (a la puerta)
+                tr: to lock the door
+          sn: '11'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|demolish}'
+          sn: '12'
+          vrs:
+          - va: echar abajo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spoil}, to {a_link|ruin}'
+          sn: '13'
+          vrs:
+          - va: echar a perder
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|miss} '
+          - - vis
+            - - t: echan de menos a su madre
+                tr: they miss their mother
+          sn: '14'
+          vrs:
+          - va: echar de menos
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to start off'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to begin to '
+          - - vis
+            - - t: "se ech\xF3 a llorar"
+                tr: he began to cry
+          sn: '2'
+          vrs:
+          - va: echar a
+            vac: ~ a
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to throw oneself '
+            - - vis
+              - - t: "se ech\xF3 en sus brazos"
+                  tr: she threw herself into his arms
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|lie down}'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|put on}'
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to begin to'
+            sn: '4'
+            vrs:
+            - va: echarse a
+              vac: ~ a
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|go bad}, to {a_link|spoil}'
+            sn: '5'
+            vrs:
+            - va: echarse a perder
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|pose as}'
+            sn: '6'
+            vrs:
+            - va: "ech\xE1rselas de"
+    drp: echarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: echar
+    prs:
+    - sound:
+        audio: echar01sp
+  meta:
+    id: echar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608019000'
+    src: spanish
+    stems:
+    - echar
+    - echar abajo
+    - echar a perder
+    - echar de menos
+    - echar a
+    - echarse
+    - echarse a
+    - echarse a perder
+    - "ech\xE1rselas de"
+    uuid: ec062529-4c05-4fb3-9b21-159ee0a452da
+  shortdef:
+  - 'lanzar : to throw, to toss (a coin), to cast (an anchor, a net)'
+  - to throw out (of a place), to expel (from school)
+  - 'despedir : to fire, to dismiss'
+  suppl:
+    cjts:
+    - cjfs:
+      - echando
+      - echado
+      cjid: gppt
+    - cjfs:
+      - echo
+      - echas
+      - echa
+      - echamos
+      - "ech\xE1is"
+      - echan
+      cjid: pind
+    - cjfs:
+      - echaba
+      - echabas
+      - echaba
+      - "ech\xE1bamos"
+      - echabais
+      - echaban
+      cjid: pret
+    - cjfs:
+      - "ech\xE9"
+      - echaste
+      - "ech\xF3"
+      - echamos
+      - echasteis
+      - echaron
+      cjid: pprf
+    - cjfs:
+      - "echar\xE9"
+      - "echar\xE1s"
+      - "echar\xE1"
+      - echaremos
+      - "echar\xE9is"
+      - "echar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "echar\xEDa"
+      - "echar\xEDas"
+      - "echar\xEDa"
+      - "echar\xEDamos"
+      - "echar\xEDais"
+      - "echar\xEDan"
+      cjid: cond
+    - cjfs:
+      - eche
+      - eches
+      - eche
+      - echemos
+      - "ech\xE9is"
+      - echen
+      cjid: psub
+    - cjfs:
+      - echara
+      - echaras
+      - echara
+      - "ech\xE1ramos"
+      - echarais
+      - echaran
+      cjid: pisb1
+    - cjfs:
+      - echase
+      - echases
+      - echase
+      - "ech\xE1semos"
+      - echaseis
+      - echasen
+      cjid: pisb2
+    - cjfs:
+      - echare
+      - echares
+      - echare
+      - "ech\xE1remos"
+      - echareis
+      - echaren
+      cjid: fsub
+    - cjfs:
+      - he echado
+      - has echado
+      - ha echado
+      - hemos echado
+      - "hab\xE9is echado"
+      - han echado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa echado"
+      - "hab\xEDas echado"
+      - "hab\xEDa echado"
+      - "hab\xEDamos echado"
+      - "hab\xEDais echado"
+      - "hab\xEDan echado"
+      cjid: ppsi
+    - cjfs:
+      - hube echado
+      - hubiste echado
+      - hubo echado
+      - hubimos echado
+      - hubisteis echado
+      - hubieron echado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 echado"
+      - "habr\xE1s echado"
+      - "habr\xE1 echado"
+      - habremos echado
+      - "habr\xE9is echado"
+      - "habr\xE1n echado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa echado"
+      - "habr\xEDas echado"
+      - "habr\xEDa echado"
+      - "habr\xEDamos echado"
+      - "habr\xEDais echado"
+      - "habr\xEDan echado"
+      cjid: cpef
+    - cjfs:
+      - haya echado
+      - hayas echado
+      - haya echado
+      - hayamos echado
+      - "hay\xE1is echado"
+      - hayan echado
+      cjid: ppfs
+    - cjfs:
+      - hubiera echado
+      - hubieras echado
+      - hubiera echado
+      - "hubi\xE9ramos echado"
+      - hubierais echado
+      - hubieran echado
+      cjid: ppss1
+    - cjfs:
+      - hubiese echado
+      - hubieses echado
+      - hubiese echado
+      - "hubi\xE9semos echado"
+      - hubieseis echado
+      - hubiesen echado
+      cjid: ppss2
+    - cjfs:
+      - hubiere echado
+      - hubieres echado
+      - hubiere echado
+      - "hubi\xE9remos echado"
+      - hubiereis echado
+      - hubieren echado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - echa
+      - eche
+      - echemos
+      - echad
+      - echen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|stirrup}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|abutment}, {a_link|buttress}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lose one''s temper'
+          sn: '3'
+          vrs:
+          - va: perder los estribos
+  fl: masculine noun
+  hwi:
+    hw: estribo
+    prs:
+    - sound:
+        audio: estri02sp
+  meta:
+    id: estribo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609460000'
+    src: spanish
+    stems:
+    - estribo
+    - perder los estribos
+    uuid: aab00599-31fc-421c-b7ba-f18141505d5d
+  shortdef:
+  - stirrup
+  - abutment, buttress
+  - to lose one's temper
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|terrain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|suelo||} {bc}{a_link|earth}, {a_link|ground}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|plot}, tract of land'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lose ground'
+          sn: '4'
+          vrs:
+          - va: perder terreno
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pave the way'
+          sn: '5'
+          vrs:
+          - va: preparar el terreno
+  fl: masculine noun
+  hwi:
+    hw: terreno
+    prs:
+    - sound:
+        audio: terre03sp
+  meta:
+    id: terreno
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621738000'
+    src: spanish
+    stems:
+    - terreno
+    - perder terreno
+    - preparar el terreno
+    uuid: 8b4718d7-8f63-4b6b-9c69-a35b6b0158f6
+  shortdef:
+  - terrain
+  - 'suelo : earth, ground'
+  - plot, tract of land
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|visi\xF3n||} {bc}{a_link|vision}, {a_link|eyesight} "
+          - - vis
+            - - t: perder la vista
+                tr: to lose one's eyesight
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mirada||} {bc}{a_link|look}, {a_link|gaze}, {a_link|glance} '
+          - - vis
+            - - t: "baj\xF3 la vista"
+                tr: he looked down
+              - t: fijar la vista en
+                tr: to fix one's gaze on
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|panorama||} {bc}{a_link|view}, vista, {a_link|panorama}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hearing} (in court)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}in sight, in view'
+          sn: '5'
+          vrs:
+          - va: a la vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}at first sight'
+          sn: '6'
+          vrs:
+          - va: a primera vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}with a view to'
+          sn: '7'
+          vrs:
+          - va: con vistas a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|in view of}'
+          sn: '8'
+          vrs:
+          - va: en vista de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to turn a blind eye'
+          sn: '9'
+          vrs:
+          - va: hacer la vista gorda
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|so long!}, see you!'
+          sn: '10'
+          vrs:
+          - va: "\xA1hasta la vista!"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lose sight of'
+          sn: '11'
+          vrs:
+          - va: perder de vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|point of view}'
+          sn: '12'
+          vrs:
+          - va: punto de vista
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be obvious, to {a_link|stand out}'
+          sn: '13'
+          vrs:
+          - va: saltar a la vista
+  fl: feminine noun
+  hwi:
+    hw: vista
+  meta:
+    id: vista
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623114000'
+    src: spanish
+    stems:
+    - vista
+    - a la vista
+    - a primera vista
+    - con vistas a
+    - en vista de
+    - hacer la vista gorda
+    - "\xA1hasta la vista!"
+    - perder de vista
+    - punto de vista
+    - saltar a la vista
+    uuid: ccbd199b-f240-4b57-bbee-ed640f149f3a
+  shortdef:
+  - "visi\xF3n : vision, eyesight"
+  - 'mirada : look, gaze, glance'
+  - 'panorama : view, vista, panorama'

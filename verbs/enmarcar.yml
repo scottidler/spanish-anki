@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|encuadrar||} {bc}to {a_link|frame}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to provide the setting for'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: enmarcar
+    prs:
+    - sound:
+        audio: enmar01sp
+  meta:
+    id: enmarcar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608630000'
+    src: spanish
+    stems:
+    - enmarcar
+    uuid: 6bd4cb2d-6262-4977-b2b9-2cfcf7d7ed74
+  shortdef:
+  - 'encuadrar : to frame'
+  - to provide the setting for
+  suppl:
+    cjts:
+    - cjfs:
+      - enmarcando
+      - enmarcado
+      cjid: gppt
+    - cjfs:
+      - enmarco
+      - enmarcas
+      - enmarca
+      - enmarcamos
+      - "enmarc\xE1is"
+      - enmarcan
+      cjid: pind
+    - cjfs:
+      - enmarcaba
+      - enmarcabas
+      - enmarcaba
+      - "enmarc\xE1bamos"
+      - enmarcabais
+      - enmarcaban
+      cjid: pret
+    - cjfs:
+      - "enmarqu\xE9"
+      - enmarcaste
+      - "enmarc\xF3"
+      - enmarcamos
+      - enmarcasteis
+      - enmarcaron
+      cjid: pprf
+    - cjfs:
+      - "enmarcar\xE9"
+      - "enmarcar\xE1s"
+      - "enmarcar\xE1"
+      - enmarcaremos
+      - "enmarcar\xE9is"
+      - "enmarcar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enmarcar\xEDa"
+      - "enmarcar\xEDas"
+      - "enmarcar\xEDa"
+      - "enmarcar\xEDamos"
+      - "enmarcar\xEDais"
+      - "enmarcar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enmarque
+      - enmarques
+      - enmarque
+      - enmarquemos
+      - "enmarqu\xE9is"
+      - enmarquen
+      cjid: psub
+    - cjfs:
+      - enmarcara
+      - enmarcaras
+      - enmarcara
+      - "enmarc\xE1ramos"
+      - enmarcarais
+      - enmarcaran
+      cjid: pisb1
+    - cjfs:
+      - enmarcase
+      - enmarcases
+      - enmarcase
+      - "enmarc\xE1semos"
+      - enmarcaseis
+      - enmarcasen
+      cjid: pisb2
+    - cjfs:
+      - enmarcare
+      - enmarcares
+      - enmarcare
+      - "enmarc\xE1remos"
+      - enmarcareis
+      - enmarcaren
+      cjid: fsub
+    - cjfs:
+      - he enmarcado
+      - has enmarcado
+      - ha enmarcado
+      - hemos enmarcado
+      - "hab\xE9is enmarcado"
+      - han enmarcado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enmarcado"
+      - "hab\xEDas enmarcado"
+      - "hab\xEDa enmarcado"
+      - "hab\xEDamos enmarcado"
+      - "hab\xEDais enmarcado"
+      - "hab\xEDan enmarcado"
+      cjid: ppsi
+    - cjfs:
+      - hube enmarcado
+      - hubiste enmarcado
+      - hubo enmarcado
+      - hubimos enmarcado
+      - hubisteis enmarcado
+      - hubieron enmarcado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enmarcado"
+      - "habr\xE1s enmarcado"
+      - "habr\xE1 enmarcado"
+      - habremos enmarcado
+      - "habr\xE9is enmarcado"
+      - "habr\xE1n enmarcado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enmarcado"
+      - "habr\xEDas enmarcado"
+      - "habr\xEDa enmarcado"
+      - "habr\xEDamos enmarcado"
+      - "habr\xEDais enmarcado"
+      - "habr\xEDan enmarcado"
+      cjid: cpef
+    - cjfs:
+      - haya enmarcado
+      - hayas enmarcado
+      - haya enmarcado
+      - hayamos enmarcado
+      - "hay\xE1is enmarcado"
+      - hayan enmarcado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enmarcado
+      - hubieras enmarcado
+      - hubiera enmarcado
+      - "hubi\xE9ramos enmarcado"
+      - hubierais enmarcado
+      - hubieran enmarcado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enmarcado
+      - hubieses enmarcado
+      - hubiese enmarcado
+      - "hubi\xE9semos enmarcado"
+      - hubieseis enmarcado
+      - hubiesen enmarcado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enmarcado
+      - hubieres enmarcado
+      - hubiere enmarcado
+      - "hubi\xE9remos enmarcado"
+      - hubiereis enmarcado
+      - hubieren enmarcado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - enmarca
+      - enmarque
+      - enmarquemos
+      - enmarcad
+      - enmarquen
+      cjid: impf

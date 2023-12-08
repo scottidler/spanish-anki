@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knit}, to {a_link|crochet}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|weave}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fabricar||} {bc}to {a_link|concoct}, to {a_link|make up}, to {a_link|fabricate}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: tejer
+    prs:
+    - sound:
+        audio: tejer01sp
+  meta:
+    id: tejer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621563000'
+    src: spanish
+    stems:
+    - tejer
+    uuid: ca6d4310-a78f-4c70-9fd1-04436499ce6b
+  shortdef:
+  - to knit, to crochet
+  - to weave
+  - 'fabricar : to concoct, to make up, to fabricate'
+  suppl:
+    cjts:
+    - cjfs:
+      - tejiendo
+      - tejido
+      cjid: gppt
+    - cjfs:
+      - tejo
+      - tejes
+      - teje
+      - tejemos
+      - "tej\xE9is"
+      - tejen
+      cjid: pind
+    - cjfs:
+      - "tej\xEDa"
+      - "tej\xEDas"
+      - "tej\xEDa"
+      - "tej\xEDamos"
+      - "tej\xEDais"
+      - "tej\xEDan"
+      cjid: pret
+    - cjfs:
+      - "tej\xED"
+      - tejiste
+      - "teji\xF3"
+      - tejimos
+      - tejisteis
+      - tejieron
+      cjid: pprf
+    - cjfs:
+      - "tejer\xE9"
+      - "tejer\xE1s"
+      - "tejer\xE1"
+      - tejeremos
+      - "tejer\xE9is"
+      - "tejer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tejer\xEDa"
+      - "tejer\xEDas"
+      - "tejer\xEDa"
+      - "tejer\xEDamos"
+      - "tejer\xEDais"
+      - "tejer\xEDan"
+      cjid: cond
+    - cjfs:
+      - teja
+      - tejas
+      - teja
+      - tejamos
+      - "tej\xE1is"
+      - tejan
+      cjid: psub
+    - cjfs:
+      - tejiera
+      - tejieras
+      - tejiera
+      - "teji\xE9ramos"
+      - tejierais
+      - tejieran
+      cjid: pisb1
+    - cjfs:
+      - tejiese
+      - tejieses
+      - tejiese
+      - "teji\xE9semos"
+      - tejieseis
+      - tejiesen
+      cjid: pisb2
+    - cjfs:
+      - tejiere
+      - tejieres
+      - tejiere
+      - "teji\xE9remos"
+      - tejiereis
+      - tejieren
+      cjid: fsub
+    - cjfs:
+      - he tejido
+      - has tejido
+      - ha tejido
+      - hemos tejido
+      - "hab\xE9is tejido"
+      - han tejido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tejido"
+      - "hab\xEDas tejido"
+      - "hab\xEDa tejido"
+      - "hab\xEDamos tejido"
+      - "hab\xEDais tejido"
+      - "hab\xEDan tejido"
+      cjid: ppsi
+    - cjfs:
+      - hube tejido
+      - hubiste tejido
+      - hubo tejido
+      - hubimos tejido
+      - hubisteis tejido
+      - hubieron tejido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tejido"
+      - "habr\xE1s tejido"
+      - "habr\xE1 tejido"
+      - habremos tejido
+      - "habr\xE9is tejido"
+      - "habr\xE1n tejido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tejido"
+      - "habr\xEDas tejido"
+      - "habr\xEDa tejido"
+      - "habr\xEDamos tejido"
+      - "habr\xEDais tejido"
+      - "habr\xEDan tejido"
+      cjid: cpef
+    - cjfs:
+      - haya tejido
+      - hayas tejido
+      - haya tejido
+      - hayamos tejido
+      - "hay\xE1is tejido"
+      - hayan tejido
+      cjid: ppfs
+    - cjfs:
+      - hubiera tejido
+      - hubieras tejido
+      - hubiera tejido
+      - "hubi\xE9ramos tejido"
+      - hubierais tejido
+      - hubieran tejido
+      cjid: ppss1
+    - cjfs:
+      - hubiese tejido
+      - hubieses tejido
+      - hubiese tejido
+      - "hubi\xE9semos tejido"
+      - hubieseis tejido
+      - hubiesen tejido
+      cjid: ppss2
+    - cjfs:
+      - hubiere tejido
+      - hubieres tejido
+      - hubiere tejido
+      - "hubi\xE9remos tejido"
+      - hubiereis tejido
+      - hubieren tejido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - teje
+      - teja
+      - tejamos
+      - tejed
+      - tejan
+      cjid: impf

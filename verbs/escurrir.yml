@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wring out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drain}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drip}, to {a_link|drip-dry}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to slip away'
+    drp: escurrirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: escurrir
+    prs:
+    - sound:
+        audio: escur01sp
+  meta:
+    id: escurrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609079000'
+    src: spanish
+    stems:
+    - escurrir
+    - escurrirse
+    uuid: 51a57970-fb43-4107-97e3-5eb351796c55
+  shortdef:
+  - to wring out
+  - to drain
+  - to drain
+  suppl:
+    cjts:
+    - cjfs:
+      - escurriendo
+      - escurrido
+      cjid: gppt
+    - cjfs:
+      - escurro
+      - escurres
+      - escurre
+      - escurrimos
+      - "escurr\xEDs"
+      - escurren
+      cjid: pind
+    - cjfs:
+      - "escurr\xEDa"
+      - "escurr\xEDas"
+      - "escurr\xEDa"
+      - "escurr\xEDamos"
+      - "escurr\xEDais"
+      - "escurr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "escurr\xED"
+      - escurriste
+      - "escurri\xF3"
+      - escurrimos
+      - escurristeis
+      - escurrieron
+      cjid: pprf
+    - cjfs:
+      - "escurrir\xE9"
+      - "escurrir\xE1s"
+      - "escurrir\xE1"
+      - escurriremos
+      - "escurrir\xE9is"
+      - "escurrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escurrir\xEDa"
+      - "escurrir\xEDas"
+      - "escurrir\xEDa"
+      - "escurrir\xEDamos"
+      - "escurrir\xEDais"
+      - "escurrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - escurra
+      - escurras
+      - escurra
+      - escurramos
+      - "escurr\xE1is"
+      - escurran
+      cjid: psub
+    - cjfs:
+      - escurriera
+      - escurrieras
+      - escurriera
+      - "escurri\xE9ramos"
+      - escurrierais
+      - escurrieran
+      cjid: pisb1
+    - cjfs:
+      - escurriese
+      - escurrieses
+      - escurriese
+      - "escurri\xE9semos"
+      - escurrieseis
+      - escurriesen
+      cjid: pisb2
+    - cjfs:
+      - escurriere
+      - escurrieres
+      - escurriere
+      - "escurri\xE9remos"
+      - escurriereis
+      - escurrieren
+      cjid: fsub
+    - cjfs:
+      - he escurrido
+      - has escurrido
+      - ha escurrido
+      - hemos escurrido
+      - "hab\xE9is escurrido"
+      - han escurrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escurrido"
+      - "hab\xEDas escurrido"
+      - "hab\xEDa escurrido"
+      - "hab\xEDamos escurrido"
+      - "hab\xEDais escurrido"
+      - "hab\xEDan escurrido"
+      cjid: ppsi
+    - cjfs:
+      - hube escurrido
+      - hubiste escurrido
+      - hubo escurrido
+      - hubimos escurrido
+      - hubisteis escurrido
+      - hubieron escurrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escurrido"
+      - "habr\xE1s escurrido"
+      - "habr\xE1 escurrido"
+      - habremos escurrido
+      - "habr\xE9is escurrido"
+      - "habr\xE1n escurrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escurrido"
+      - "habr\xEDas escurrido"
+      - "habr\xEDa escurrido"
+      - "habr\xEDamos escurrido"
+      - "habr\xEDais escurrido"
+      - "habr\xEDan escurrido"
+      cjid: cpef
+    - cjfs:
+      - haya escurrido
+      - hayas escurrido
+      - haya escurrido
+      - hayamos escurrido
+      - "hay\xE1is escurrido"
+      - hayan escurrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera escurrido
+      - hubieras escurrido
+      - hubiera escurrido
+      - "hubi\xE9ramos escurrido"
+      - hubierais escurrido
+      - hubieran escurrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese escurrido
+      - hubieses escurrido
+      - hubiese escurrido
+      - "hubi\xE9semos escurrido"
+      - hubieseis escurrido
+      - hubiesen escurrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere escurrido
+      - hubieres escurrido
+      - hubiere escurrido
+      - "hubi\xE9remos escurrido"
+      - hubiereis escurrido
+      - hubieren escurrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escurre
+      - escurra
+      - escurramos
+      - escurrid
+      - escurran
+      cjid: impf

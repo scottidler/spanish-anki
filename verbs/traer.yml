@@ -1,0 +1,273 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring} '
+          - - vis
+            - - t: trae una ensalada
+                tr: bring a salad
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|causar||} {bc}to {a_link|cause}, to {a_link|bring about} '
+          - - vis
+            - - t: el problema puede traer graves consecuencias
+                tr: the problem could have serious consequences
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|carry}, to {a_link|have} '
+          - - vis
+            - - t: "todos los peri\xF3dicos tra\xEDan las mismas noticias"
+                tr: all of the newspapers carried the same news
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|llevar||} {bc}to {a_link|wear}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|bring along}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be difficult'
+            sn: '2'
+            vrs:
+            - va: "tra\xE9rselas"
+    drp: traerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: traer
+    prs:
+    - sound:
+        audio: traer01sp
+  meta:
+    id: traer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622077000'
+    src: spanish
+    stems:
+    - traer
+    - traerse
+    - traerselas
+    uuid: f1227cef-0c1b-468a-a756-115432998208
+  shortdef:
+  - to bring
+  - 'causar : to cause, to bring about'
+  - to carry, to have
+  suppl:
+    cjts:
+    - cjfs:
+      - trayendo
+      - "tra\xEDdo"
+      cjid: gppt
+    - cjfs:
+      - traigo
+      - traes
+      - trae
+      - traemos
+      - "tra\xE9is"
+      - traen
+      cjid: pind
+    - cjfs:
+      - "tra\xEDa"
+      - "tra\xEDas"
+      - "tra\xEDa"
+      - "tra\xEDamos"
+      - "tra\xEDais"
+      - "tra\xEDan"
+      cjid: pret
+    - cjfs:
+      - traje
+      - trajiste
+      - trajo
+      - trajimos
+      - trajisteis
+      - trajeron
+      cjid: pprf
+    - cjfs:
+      - "traer\xE9"
+      - "traer\xE1s"
+      - "traer\xE1"
+      - traeremos
+      - "traer\xE9is"
+      - "traer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "traer\xEDa"
+      - "traer\xEDas"
+      - "traer\xEDa"
+      - "traer\xEDamos"
+      - "traer\xEDais"
+      - "traer\xEDan"
+      cjid: cond
+    - cjfs:
+      - traiga
+      - traigas
+      - traiga
+      - traigamos
+      - "traig\xE1is"
+      - traigan
+      cjid: psub
+    - cjfs:
+      - trajera
+      - trajeras
+      - trajera
+      - "traj\xE9ramos"
+      - trajerais
+      - trajeran
+      cjid: pisb1
+    - cjfs:
+      - trajese
+      - trajeses
+      - trajese
+      - "traj\xE9semos"
+      - trajeseis
+      - trajesen
+      cjid: pisb2
+    - cjfs:
+      - trajere
+      - trajeres
+      - trajere
+      - "traj\xE9remos"
+      - trajereis
+      - trajeren
+      cjid: fsub
+    - cjfs:
+      - "he tra\xEDdo"
+      - "has tra\xEDdo"
+      - "ha tra\xEDdo"
+      - "hemos tra\xEDdo"
+      - "hab\xE9is tra\xEDdo"
+      - "han tra\xEDdo"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tra\xEDdo"
+      - "hab\xEDas tra\xEDdo"
+      - "hab\xEDa tra\xEDdo"
+      - "hab\xEDamos tra\xEDdo"
+      - "hab\xEDais tra\xEDdo"
+      - "hab\xEDan tra\xEDdo"
+      cjid: ppsi
+    - cjfs:
+      - "hube tra\xEDdo"
+      - "hubiste tra\xEDdo"
+      - "hubo tra\xEDdo"
+      - "hubimos tra\xEDdo"
+      - "hubisteis tra\xEDdo"
+      - "hubieron tra\xEDdo"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tra\xEDdo"
+      - "habr\xE1s tra\xEDdo"
+      - "habr\xE1 tra\xEDdo"
+      - "habremos tra\xEDdo"
+      - "habr\xE9is tra\xEDdo"
+      - "habr\xE1n tra\xEDdo"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tra\xEDdo"
+      - "habr\xEDas tra\xEDdo"
+      - "habr\xEDa tra\xEDdo"
+      - "habr\xEDamos tra\xEDdo"
+      - "habr\xEDais tra\xEDdo"
+      - "habr\xEDan tra\xEDdo"
+      cjid: cpef
+    - cjfs:
+      - "haya tra\xEDdo"
+      - "hayas tra\xEDdo"
+      - "haya tra\xEDdo"
+      - "hayamos tra\xEDdo"
+      - "hay\xE1is tra\xEDdo"
+      - "hayan tra\xEDdo"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera tra\xEDdo"
+      - "hubieras tra\xEDdo"
+      - "hubiera tra\xEDdo"
+      - "hubi\xE9ramos tra\xEDdo"
+      - "hubierais tra\xEDdo"
+      - "hubieran tra\xEDdo"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese tra\xEDdo"
+      - "hubieses tra\xEDdo"
+      - "hubiese tra\xEDdo"
+      - "hubi\xE9semos tra\xEDdo"
+      - "hubieseis tra\xEDdo"
+      - "hubiesen tra\xEDdo"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere tra\xEDdo"
+      - "hubieres tra\xEDdo"
+      - "hubiere tra\xEDdo"
+      - "hubi\xE9remos tra\xEDdo"
+      - "hubiereis tra\xEDdo"
+      - "hubieren tra\xEDdo"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - trae
+      - traiga
+      - traigamos
+      - traed
+      - traigan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}light meal'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}conferring (of a degree)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring up}, to {a_link|broach}'
+          sn: '3'
+          vrs:
+          - va: "traer a colaci\xF3n"
+  fl: feminine noun
+  hwi:
+    hw: "colaci\xF3n"
+    prs:
+    - sound:
+        audio: colac01sp
+  ins:
+  - if: colaciones
+    ifc: -ciones
+    il: plural
+  meta:
+    id: colacion
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605022000'
+    src: spanish
+    stems:
+    - "colaci\xF3n"
+    - colaciones
+    - "traer a colaci\xF3n"
+    uuid: b06a85f7-a0ff-407d-8f02-f80d9b92477b
+  shortdef:
+  - light meal
+  - conferring (of a degree)
+  - to bring up, to broach

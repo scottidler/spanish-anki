@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resign}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|renounce}, to {a_link|relinquish} '
+          - - vis
+            - - t: "renunci\xF3 al t\xEDtulo"
+                tr: he relinquished the title
+          sn: '2'
+          vrs:
+          - va: renunciar a
+            vac: ~ a
+  fl: intransitive verb
+  hwi:
+    hw: renunciar
+    prs:
+    - sound:
+        audio: renun02sp
+  meta:
+    id: renunciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619410000'
+    src: spanish
+    stems:
+    - renunciar
+    - renunciar a
+    uuid: ddfe1bfd-abf9-4ad4-a1bc-9b89cdb3be8b
+  shortdef:
+  - to resign
+  - to renounce, to relinquish
+  suppl:
+    cjts:
+    - cjfs:
+      - renunciando
+      - renunciado
+      cjid: gppt
+    - cjfs:
+      - renuncio
+      - renuncias
+      - renuncia
+      - renunciamos
+      - "renunci\xE1is"
+      - renuncian
+      cjid: pind
+    - cjfs:
+      - renunciaba
+      - renunciabas
+      - renunciaba
+      - "renunci\xE1bamos"
+      - renunciabais
+      - renunciaban
+      cjid: pret
+    - cjfs:
+      - "renunci\xE9"
+      - renunciaste
+      - "renunci\xF3"
+      - renunciamos
+      - renunciasteis
+      - renunciaron
+      cjid: pprf
+    - cjfs:
+      - "renunciar\xE9"
+      - "renunciar\xE1s"
+      - "renunciar\xE1"
+      - renunciaremos
+      - "renunciar\xE9is"
+      - "renunciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "renunciar\xEDa"
+      - "renunciar\xEDas"
+      - "renunciar\xEDa"
+      - "renunciar\xEDamos"
+      - "renunciar\xEDais"
+      - "renunciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - renuncie
+      - renuncies
+      - renuncie
+      - renunciemos
+      - "renunci\xE9is"
+      - renuncien
+      cjid: psub
+    - cjfs:
+      - renunciara
+      - renunciaras
+      - renunciara
+      - "renunci\xE1ramos"
+      - renunciarais
+      - renunciaran
+      cjid: pisb1
+    - cjfs:
+      - renunciase
+      - renunciases
+      - renunciase
+      - "renunci\xE1semos"
+      - renunciaseis
+      - renunciasen
+      cjid: pisb2
+    - cjfs:
+      - renunciare
+      - renunciares
+      - renunciare
+      - "renunci\xE1remos"
+      - renunciareis
+      - renunciaren
+      cjid: fsub
+    - cjfs:
+      - he renunciado
+      - has renunciado
+      - ha renunciado
+      - hemos renunciado
+      - "hab\xE9is renunciado"
+      - han renunciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa renunciado"
+      - "hab\xEDas renunciado"
+      - "hab\xEDa renunciado"
+      - "hab\xEDamos renunciado"
+      - "hab\xEDais renunciado"
+      - "hab\xEDan renunciado"
+      cjid: ppsi
+    - cjfs:
+      - hube renunciado
+      - hubiste renunciado
+      - hubo renunciado
+      - hubimos renunciado
+      - hubisteis renunciado
+      - hubieron renunciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 renunciado"
+      - "habr\xE1s renunciado"
+      - "habr\xE1 renunciado"
+      - habremos renunciado
+      - "habr\xE9is renunciado"
+      - "habr\xE1n renunciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa renunciado"
+      - "habr\xEDas renunciado"
+      - "habr\xEDa renunciado"
+      - "habr\xEDamos renunciado"
+      - "habr\xEDais renunciado"
+      - "habr\xEDan renunciado"
+      cjid: cpef
+    - cjfs:
+      - haya renunciado
+      - hayas renunciado
+      - haya renunciado
+      - hayamos renunciado
+      - "hay\xE1is renunciado"
+      - hayan renunciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera renunciado
+      - hubieras renunciado
+      - hubiera renunciado
+      - "hubi\xE9ramos renunciado"
+      - hubierais renunciado
+      - hubieran renunciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese renunciado
+      - hubieses renunciado
+      - hubiese renunciado
+      - "hubi\xE9semos renunciado"
+      - hubieseis renunciado
+      - hubiesen renunciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere renunciado
+      - hubieres renunciado
+      - hubiere renunciado
+      - "hubi\xE9remos renunciado"
+      - hubiereis renunciado
+      - hubieren renunciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - renuncia
+      - renuncie
+      - renunciemos
+      - renunciad
+      - renuncien
+      cjid: impf

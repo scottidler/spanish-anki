@@ -1,0 +1,243 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|kill}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|slaughter}, to {a_link|butcher}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apagar||} {bc}to {a_link|extinguish}, to {a_link|put out} (fire,
+              light)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tone down} (colors)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pass}, to {a_link|waste} (time)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trump} (in card games)'
+          sn: '6'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|kill}'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be killed'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|suicidarse||} {bc}to commit suicide'
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to exhaust oneself '
+            - - vis
+              - - t: "se mat\xF3 tratando de terminarlo"
+                  tr: he knocked himself out trying to finish it
+            sls:
+            - familiar
+            sn: '3'
+    drp: matarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: matar
+    prs:
+    - sound:
+        audio: matar01sp
+  meta:
+    id: matar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614587000'
+    src: spanish
+    stems:
+    - matar
+    - matarse
+    uuid: fa30e048-2f92-4c06-9b16-bb7129900895
+  shortdef:
+  - to kill
+  - to slaughter, to butcher
+  - 'apagar : to extinguish, to put out (fire, light)'
+  suppl:
+    cjts:
+    - cjfs:
+      - matando
+      - matado
+      cjid: gppt
+    - cjfs:
+      - mato
+      - matas
+      - mata
+      - matamos
+      - "mat\xE1is"
+      - matan
+      cjid: pind
+    - cjfs:
+      - mataba
+      - matabas
+      - mataba
+      - "mat\xE1bamos"
+      - matabais
+      - mataban
+      cjid: pret
+    - cjfs:
+      - "mat\xE9"
+      - mataste
+      - "mat\xF3"
+      - matamos
+      - matasteis
+      - mataron
+      cjid: pprf
+    - cjfs:
+      - "matar\xE9"
+      - "matar\xE1s"
+      - "matar\xE1"
+      - mataremos
+      - "matar\xE9is"
+      - "matar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "matar\xEDa"
+      - "matar\xEDas"
+      - "matar\xEDa"
+      - "matar\xEDamos"
+      - "matar\xEDais"
+      - "matar\xEDan"
+      cjid: cond
+    - cjfs:
+      - mate
+      - mates
+      - mate
+      - matemos
+      - "mat\xE9is"
+      - maten
+      cjid: psub
+    - cjfs:
+      - matara
+      - mataras
+      - matara
+      - "mat\xE1ramos"
+      - matarais
+      - mataran
+      cjid: pisb1
+    - cjfs:
+      - matase
+      - matases
+      - matase
+      - "mat\xE1semos"
+      - mataseis
+      - matasen
+      cjid: pisb2
+    - cjfs:
+      - matare
+      - matares
+      - matare
+      - "mat\xE1remos"
+      - matareis
+      - mataren
+      cjid: fsub
+    - cjfs:
+      - he matado
+      - has matado
+      - ha matado
+      - hemos matado
+      - "hab\xE9is matado"
+      - han matado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa matado"
+      - "hab\xEDas matado"
+      - "hab\xEDa matado"
+      - "hab\xEDamos matado"
+      - "hab\xEDais matado"
+      - "hab\xEDan matado"
+      cjid: ppsi
+    - cjfs:
+      - hube matado
+      - hubiste matado
+      - hubo matado
+      - hubimos matado
+      - hubisteis matado
+      - hubieron matado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 matado"
+      - "habr\xE1s matado"
+      - "habr\xE1 matado"
+      - habremos matado
+      - "habr\xE9is matado"
+      - "habr\xE1n matado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa matado"
+      - "habr\xEDas matado"
+      - "habr\xEDa matado"
+      - "habr\xEDamos matado"
+      - "habr\xEDais matado"
+      - "habr\xEDan matado"
+      cjid: cpef
+    - cjfs:
+      - haya matado
+      - hayas matado
+      - haya matado
+      - hayamos matado
+      - "hay\xE1is matado"
+      - hayan matado
+      cjid: ppfs
+    - cjfs:
+      - hubiera matado
+      - hubieras matado
+      - hubiera matado
+      - "hubi\xE9ramos matado"
+      - hubierais matado
+      - hubieran matado
+      cjid: ppss1
+    - cjfs:
+      - hubiese matado
+      - hubieses matado
+      - hubiese matado
+      - "hubi\xE9semos matado"
+      - hubieseis matado
+      - hubiesen matado
+      cjid: ppss2
+    - cjfs:
+      - hubiere matado
+      - hubieres matado
+      - hubiere matado
+      - "hubi\xE9remos matado"
+      - hubiereis matado
+      - hubieren matado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mata
+      - mate
+      - matemos
+      - matad
+      - maten
+      cjid: impf

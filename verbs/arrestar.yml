@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|detener||} {bc}to {a_link|arrest}, to {a_link|detain}'
+  fl: transitive verb
+  hwi:
+    hw: arrestar
+    prs:
+    - sound:
+        audio: arres01sp
+  meta:
+    id: arrestar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602010000'
+    src: spanish
+    stems:
+    - arrestar
+    uuid: fe13abe8-57f7-4d7c-bd7f-a3b088210451
+  shortdef:
+  - 'detener : to arrest, to detain'
+  suppl:
+    cjts:
+    - cjfs:
+      - arrestando
+      - arrestado
+      cjid: gppt
+    - cjfs:
+      - arresto
+      - arrestas
+      - arresta
+      - arrestamos
+      - "arrest\xE1is"
+      - arrestan
+      cjid: pind
+    - cjfs:
+      - arrestaba
+      - arrestabas
+      - arrestaba
+      - "arrest\xE1bamos"
+      - arrestabais
+      - arrestaban
+      cjid: pret
+    - cjfs:
+      - "arrest\xE9"
+      - arrestaste
+      - "arrest\xF3"
+      - arrestamos
+      - arrestasteis
+      - arrestaron
+      cjid: pprf
+    - cjfs:
+      - "arrestar\xE9"
+      - "arrestar\xE1s"
+      - "arrestar\xE1"
+      - arrestaremos
+      - "arrestar\xE9is"
+      - "arrestar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrestar\xEDa"
+      - "arrestar\xEDas"
+      - "arrestar\xEDa"
+      - "arrestar\xEDamos"
+      - "arrestar\xEDais"
+      - "arrestar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arreste
+      - arrestes
+      - arreste
+      - arrestemos
+      - "arrest\xE9is"
+      - arresten
+      cjid: psub
+    - cjfs:
+      - arrestara
+      - arrestaras
+      - arrestara
+      - "arrest\xE1ramos"
+      - arrestarais
+      - arrestaran
+      cjid: pisb1
+    - cjfs:
+      - arrestase
+      - arrestases
+      - arrestase
+      - "arrest\xE1semos"
+      - arrestaseis
+      - arrestasen
+      cjid: pisb2
+    - cjfs:
+      - arrestare
+      - arrestares
+      - arrestare
+      - "arrest\xE1remos"
+      - arrestareis
+      - arrestaren
+      cjid: fsub
+    - cjfs:
+      - he arrestado
+      - has arrestado
+      - ha arrestado
+      - hemos arrestado
+      - "hab\xE9is arrestado"
+      - han arrestado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrestado"
+      - "hab\xEDas arrestado"
+      - "hab\xEDa arrestado"
+      - "hab\xEDamos arrestado"
+      - "hab\xEDais arrestado"
+      - "hab\xEDan arrestado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrestado
+      - hubiste arrestado
+      - hubo arrestado
+      - hubimos arrestado
+      - hubisteis arrestado
+      - hubieron arrestado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrestado"
+      - "habr\xE1s arrestado"
+      - "habr\xE1 arrestado"
+      - habremos arrestado
+      - "habr\xE9is arrestado"
+      - "habr\xE1n arrestado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrestado"
+      - "habr\xEDas arrestado"
+      - "habr\xEDa arrestado"
+      - "habr\xEDamos arrestado"
+      - "habr\xEDais arrestado"
+      - "habr\xEDan arrestado"
+      cjid: cpef
+    - cjfs:
+      - haya arrestado
+      - hayas arrestado
+      - haya arrestado
+      - hayamos arrestado
+      - "hay\xE1is arrestado"
+      - hayan arrestado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrestado
+      - hubieras arrestado
+      - hubiera arrestado
+      - "hubi\xE9ramos arrestado"
+      - hubierais arrestado
+      - hubieran arrestado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrestado
+      - hubieses arrestado
+      - hubiese arrestado
+      - "hubi\xE9semos arrestado"
+      - hubieseis arrestado
+      - hubiesen arrestado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrestado
+      - hubieres arrestado
+      - hubiere arrestado
+      - "hubi\xE9remos arrestado"
+      - hubiereis arrestado
+      - hubieren arrestado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arresta
+      - arreste
+      - arrestemos
+      - arrestad
+      - arresten
+      cjid: impf

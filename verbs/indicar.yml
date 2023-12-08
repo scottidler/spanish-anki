@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|se\xF1alar||} {bc}to {a_link|indicate}"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|ense\xF1ar||}, {sx|mostrar||} {bc}to {a_link|show}"
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: indicar
+    prs:
+    - sound:
+        audio: indic03sp
+  meta:
+    id: indicar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612288000'
+    src: spanish
+    stems:
+    - indicar
+    uuid: f57854a3-9c44-4abb-88cc-27f6add9f04c
+  shortdef:
+  - "se\xF1alar : to indicate"
+  - "ense\xF1ar, mostrar : to show"
+  suppl:
+    cjts:
+    - cjfs:
+      - indicando
+      - indicado
+      cjid: gppt
+    - cjfs:
+      - indico
+      - indicas
+      - indica
+      - indicamos
+      - "indic\xE1is"
+      - indican
+      cjid: pind
+    - cjfs:
+      - indicaba
+      - indicabas
+      - indicaba
+      - "indic\xE1bamos"
+      - indicabais
+      - indicaban
+      cjid: pret
+    - cjfs:
+      - "indiqu\xE9"
+      - indicaste
+      - "indic\xF3"
+      - indicamos
+      - indicasteis
+      - indicaron
+      cjid: pprf
+    - cjfs:
+      - "indicar\xE9"
+      - "indicar\xE1s"
+      - "indicar\xE1"
+      - indicaremos
+      - "indicar\xE9is"
+      - "indicar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "indicar\xEDa"
+      - "indicar\xEDas"
+      - "indicar\xEDa"
+      - "indicar\xEDamos"
+      - "indicar\xEDais"
+      - "indicar\xEDan"
+      cjid: cond
+    - cjfs:
+      - indique
+      - indiques
+      - indique
+      - indiquemos
+      - "indiqu\xE9is"
+      - indiquen
+      cjid: psub
+    - cjfs:
+      - indicara
+      - indicaras
+      - indicara
+      - "indic\xE1ramos"
+      - indicarais
+      - indicaran
+      cjid: pisb1
+    - cjfs:
+      - indicase
+      - indicases
+      - indicase
+      - "indic\xE1semos"
+      - indicaseis
+      - indicasen
+      cjid: pisb2
+    - cjfs:
+      - indicare
+      - indicares
+      - indicare
+      - "indic\xE1remos"
+      - indicareis
+      - indicaren
+      cjid: fsub
+    - cjfs:
+      - he indicado
+      - has indicado
+      - ha indicado
+      - hemos indicado
+      - "hab\xE9is indicado"
+      - han indicado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa indicado"
+      - "hab\xEDas indicado"
+      - "hab\xEDa indicado"
+      - "hab\xEDamos indicado"
+      - "hab\xEDais indicado"
+      - "hab\xEDan indicado"
+      cjid: ppsi
+    - cjfs:
+      - hube indicado
+      - hubiste indicado
+      - hubo indicado
+      - hubimos indicado
+      - hubisteis indicado
+      - hubieron indicado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 indicado"
+      - "habr\xE1s indicado"
+      - "habr\xE1 indicado"
+      - habremos indicado
+      - "habr\xE9is indicado"
+      - "habr\xE1n indicado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa indicado"
+      - "habr\xEDas indicado"
+      - "habr\xEDa indicado"
+      - "habr\xEDamos indicado"
+      - "habr\xEDais indicado"
+      - "habr\xEDan indicado"
+      cjid: cpef
+    - cjfs:
+      - haya indicado
+      - hayas indicado
+      - haya indicado
+      - hayamos indicado
+      - "hay\xE1is indicado"
+      - hayan indicado
+      cjid: ppfs
+    - cjfs:
+      - hubiera indicado
+      - hubieras indicado
+      - hubiera indicado
+      - "hubi\xE9ramos indicado"
+      - hubierais indicado
+      - hubieran indicado
+      cjid: ppss1
+    - cjfs:
+      - hubiese indicado
+      - hubieses indicado
+      - hubiese indicado
+      - "hubi\xE9semos indicado"
+      - hubieseis indicado
+      - hubiesen indicado
+      cjid: ppss2
+    - cjfs:
+      - hubiere indicado
+      - hubieres indicado
+      - hubiere indicado
+      - "hubi\xE9remos indicado"
+      - hubiereis indicado
+      - hubieren indicado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - indica
+      - indique
+      - indiquemos
+      - indicad
+      - indiquen
+      cjid: impf

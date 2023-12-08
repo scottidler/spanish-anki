@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|crush}, to {a_link|squash}'
+  fl: transitive verb
+  hwi:
+    hw: aplastar
+    prs:
+    - sound:
+        audio: aplas01sp
+  meta:
+    id: aplastar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601720000'
+    src: spanish
+    stems:
+    - aplastar
+    uuid: 176e09ce-f8b5-46f2-a276-ad9dabb12d83
+  shortdef:
+  - to crush, to squash
+  suppl:
+    cjts:
+    - cjfs:
+      - aplastando
+      - aplastado
+      cjid: gppt
+    - cjfs:
+      - aplasto
+      - aplastas
+      - aplasta
+      - aplastamos
+      - "aplast\xE1is"
+      - aplastan
+      cjid: pind
+    - cjfs:
+      - aplastaba
+      - aplastabas
+      - aplastaba
+      - "aplast\xE1bamos"
+      - aplastabais
+      - aplastaban
+      cjid: pret
+    - cjfs:
+      - "aplast\xE9"
+      - aplastaste
+      - "aplast\xF3"
+      - aplastamos
+      - aplastasteis
+      - aplastaron
+      cjid: pprf
+    - cjfs:
+      - "aplastar\xE9"
+      - "aplastar\xE1s"
+      - "aplastar\xE1"
+      - aplastaremos
+      - "aplastar\xE9is"
+      - "aplastar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aplastar\xEDa"
+      - "aplastar\xEDas"
+      - "aplastar\xEDa"
+      - "aplastar\xEDamos"
+      - "aplastar\xEDais"
+      - "aplastar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aplaste
+      - aplastes
+      - aplaste
+      - aplastemos
+      - "aplast\xE9is"
+      - aplasten
+      cjid: psub
+    - cjfs:
+      - aplastara
+      - aplastaras
+      - aplastara
+      - "aplast\xE1ramos"
+      - aplastarais
+      - aplastaran
+      cjid: pisb1
+    - cjfs:
+      - aplastase
+      - aplastases
+      - aplastase
+      - "aplast\xE1semos"
+      - aplastaseis
+      - aplastasen
+      cjid: pisb2
+    - cjfs:
+      - aplastare
+      - aplastares
+      - aplastare
+      - "aplast\xE1remos"
+      - aplastareis
+      - aplastaren
+      cjid: fsub
+    - cjfs:
+      - he aplastado
+      - has aplastado
+      - ha aplastado
+      - hemos aplastado
+      - "hab\xE9is aplastado"
+      - han aplastado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aplastado"
+      - "hab\xEDas aplastado"
+      - "hab\xEDa aplastado"
+      - "hab\xEDamos aplastado"
+      - "hab\xEDais aplastado"
+      - "hab\xEDan aplastado"
+      cjid: ppsi
+    - cjfs:
+      - hube aplastado
+      - hubiste aplastado
+      - hubo aplastado
+      - hubimos aplastado
+      - hubisteis aplastado
+      - hubieron aplastado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aplastado"
+      - "habr\xE1s aplastado"
+      - "habr\xE1 aplastado"
+      - habremos aplastado
+      - "habr\xE9is aplastado"
+      - "habr\xE1n aplastado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aplastado"
+      - "habr\xEDas aplastado"
+      - "habr\xEDa aplastado"
+      - "habr\xEDamos aplastado"
+      - "habr\xEDais aplastado"
+      - "habr\xEDan aplastado"
+      cjid: cpef
+    - cjfs:
+      - haya aplastado
+      - hayas aplastado
+      - haya aplastado
+      - hayamos aplastado
+      - "hay\xE1is aplastado"
+      - hayan aplastado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aplastado
+      - hubieras aplastado
+      - hubiera aplastado
+      - "hubi\xE9ramos aplastado"
+      - hubierais aplastado
+      - hubieran aplastado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aplastado
+      - hubieses aplastado
+      - hubiese aplastado
+      - "hubi\xE9semos aplastado"
+      - hubieseis aplastado
+      - hubiesen aplastado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aplastado
+      - hubieres aplastado
+      - hubiere aplastado
+      - "hubi\xE9remos aplastado"
+      - hubiereis aplastado
+      - hubieren aplastado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aplasta
+      - aplaste
+      - aplastemos
+      - aplastad
+      - aplasten
+      cjid: impf

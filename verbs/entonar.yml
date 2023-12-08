@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in tune'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|intone}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tone up}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: entonar
+  meta:
+    id: entonar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608728000'
+    src: spanish
+    stems:
+    - entonar
+    uuid: 1054dabd-98de-4d39-a346-956b5afb98ab
+  shortdef:
+  - to be in tune
+  - to intone
+  - to tone up
+  suppl:
+    cjts:
+    - cjfs:
+      - entonando
+      - entonado
+      cjid: gppt
+    - cjfs:
+      - entono
+      - entonas
+      - entona
+      - entonamos
+      - "enton\xE1is"
+      - entonan
+      cjid: pind
+    - cjfs:
+      - entonaba
+      - entonabas
+      - entonaba
+      - "enton\xE1bamos"
+      - entonabais
+      - entonaban
+      cjid: pret
+    - cjfs:
+      - "enton\xE9"
+      - entonaste
+      - "enton\xF3"
+      - entonamos
+      - entonasteis
+      - entonaron
+      cjid: pprf
+    - cjfs:
+      - "entonar\xE9"
+      - "entonar\xE1s"
+      - "entonar\xE1"
+      - entonaremos
+      - "entonar\xE9is"
+      - "entonar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entonar\xEDa"
+      - "entonar\xEDas"
+      - "entonar\xEDa"
+      - "entonar\xEDamos"
+      - "entonar\xEDais"
+      - "entonar\xEDan"
+      cjid: cond
+    - cjfs:
+      - entone
+      - entones
+      - entone
+      - entonemos
+      - "enton\xE9is"
+      - entonen
+      cjid: psub
+    - cjfs:
+      - entonara
+      - entonaras
+      - entonara
+      - "enton\xE1ramos"
+      - entonarais
+      - entonaran
+      cjid: pisb1
+    - cjfs:
+      - entonase
+      - entonases
+      - entonase
+      - "enton\xE1semos"
+      - entonaseis
+      - entonasen
+      cjid: pisb2
+    - cjfs:
+      - entonare
+      - entonares
+      - entonare
+      - "enton\xE1remos"
+      - entonareis
+      - entonaren
+      cjid: fsub
+    - cjfs:
+      - he entonado
+      - has entonado
+      - ha entonado
+      - hemos entonado
+      - "hab\xE9is entonado"
+      - han entonado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entonado"
+      - "hab\xEDas entonado"
+      - "hab\xEDa entonado"
+      - "hab\xEDamos entonado"
+      - "hab\xEDais entonado"
+      - "hab\xEDan entonado"
+      cjid: ppsi
+    - cjfs:
+      - hube entonado
+      - hubiste entonado
+      - hubo entonado
+      - hubimos entonado
+      - hubisteis entonado
+      - hubieron entonado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entonado"
+      - "habr\xE1s entonado"
+      - "habr\xE1 entonado"
+      - habremos entonado
+      - "habr\xE9is entonado"
+      - "habr\xE1n entonado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entonado"
+      - "habr\xEDas entonado"
+      - "habr\xEDa entonado"
+      - "habr\xEDamos entonado"
+      - "habr\xEDais entonado"
+      - "habr\xEDan entonado"
+      cjid: cpef
+    - cjfs:
+      - haya entonado
+      - hayas entonado
+      - haya entonado
+      - hayamos entonado
+      - "hay\xE1is entonado"
+      - hayan entonado
+      cjid: ppfs
+    - cjfs:
+      - hubiera entonado
+      - hubieras entonado
+      - hubiera entonado
+      - "hubi\xE9ramos entonado"
+      - hubierais entonado
+      - hubieran entonado
+      cjid: ppss1
+    - cjfs:
+      - hubiese entonado
+      - hubieses entonado
+      - hubiese entonado
+      - "hubi\xE9semos entonado"
+      - hubieseis entonado
+      - hubiesen entonado
+      cjid: ppss2
+    - cjfs:
+      - hubiere entonado
+      - hubieres entonado
+      - hubiere entonado
+      - "hubi\xE9remos entonado"
+      - hubiereis entonado
+      - hubieren entonado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entona
+      - entone
+      - entonemos
+      - entonad
+      - entonen
+      cjid: impf

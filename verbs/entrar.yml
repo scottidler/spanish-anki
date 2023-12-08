@@ -1,0 +1,273 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enter}, to {a_link|go in}, to {a_link|come in} '
+          - - vis
+            - - t: "entr\xE9 a la casa"
+                tr: I went in the house
+              - t: entrar por
+                tr: to come/go in (through)
+              - t: "\xBFpuedo entrar?"
+                tr: can I come in?
+              - t: la llave no entra
+                tr: the key won't go in
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fit} '
+          - - vis
+            - - t: este vestido no me entra
+                tr: this dress doesn't fit me
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|begin} '
+          - - vis
+            - - t: entro a trabajar a las ocho
+                tr: I start work at eight
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|affect} '
+          - - vis
+            - - t: me entra el hambre
+                tr: I'm getting hungry
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enter} (a phase, etc.)'
+          sn: '5'
+          vrs:
+          - va: entrar en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be included/considered in'
+          sn: '6'
+          vrs:
+          - va: entrar en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go into}, to {a_link|discuss} (details, etc.)'
+          sn: '7'
+          vrs:
+          - va: entrar en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enter into} (negotiations, battle, etc.), to {a_link|come
+              into} (contact, conflict, etc.), to {a_link|go into} (effect)'
+          sn: '8'
+          vrs:
+          - va: entrar en
+            vac: ~ en
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enter} (college), to {a_link|join} (an organization),
+              to {a_link|go into} (a profession)'
+          sn: '9'
+          vrs:
+          - va: entrar en
+            vac: ~ en
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bring in}, to {a_link|introduce}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|access}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: entrar
+    prs:
+    - sound:
+        audio: entra05sp
+  meta:
+    id: entrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608742000'
+    src: spanish
+    stems:
+    - entrar
+    - entrar en
+    uuid: 74f0eed6-a44a-4d85-81eb-ddf8910b7d4e
+  shortdef:
+  - to enter, to go in, to come in
+  - to fit
+  - to begin
+  suppl:
+    cjts:
+    - cjfs:
+      - entrando
+      - entrado
+      cjid: gppt
+    - cjfs:
+      - entro
+      - entras
+      - entra
+      - entramos
+      - "entr\xE1is"
+      - entran
+      cjid: pind
+    - cjfs:
+      - entraba
+      - entrabas
+      - entraba
+      - "entr\xE1bamos"
+      - entrabais
+      - entraban
+      cjid: pret
+    - cjfs:
+      - "entr\xE9"
+      - entraste
+      - "entr\xF3"
+      - entramos
+      - entrasteis
+      - entraron
+      cjid: pprf
+    - cjfs:
+      - "entrar\xE9"
+      - "entrar\xE1s"
+      - "entrar\xE1"
+      - entraremos
+      - "entrar\xE9is"
+      - "entrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "entrar\xEDa"
+      - "entrar\xEDas"
+      - "entrar\xEDa"
+      - "entrar\xEDamos"
+      - "entrar\xEDais"
+      - "entrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - entre
+      - entres
+      - entre
+      - entremos
+      - "entr\xE9is"
+      - entren
+      cjid: psub
+    - cjfs:
+      - entrara
+      - entraras
+      - entrara
+      - "entr\xE1ramos"
+      - entrarais
+      - entraran
+      cjid: pisb1
+    - cjfs:
+      - entrase
+      - entrases
+      - entrase
+      - "entr\xE1semos"
+      - entraseis
+      - entrasen
+      cjid: pisb2
+    - cjfs:
+      - entrare
+      - entrares
+      - entrare
+      - "entr\xE1remos"
+      - entrareis
+      - entraren
+      cjid: fsub
+    - cjfs:
+      - he entrado
+      - has entrado
+      - ha entrado
+      - hemos entrado
+      - "hab\xE9is entrado"
+      - han entrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa entrado"
+      - "hab\xEDas entrado"
+      - "hab\xEDa entrado"
+      - "hab\xEDamos entrado"
+      - "hab\xEDais entrado"
+      - "hab\xEDan entrado"
+      cjid: ppsi
+    - cjfs:
+      - hube entrado
+      - hubiste entrado
+      - hubo entrado
+      - hubimos entrado
+      - hubisteis entrado
+      - hubieron entrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 entrado"
+      - "habr\xE1s entrado"
+      - "habr\xE1 entrado"
+      - habremos entrado
+      - "habr\xE9is entrado"
+      - "habr\xE1n entrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa entrado"
+      - "habr\xEDas entrado"
+      - "habr\xEDa entrado"
+      - "habr\xEDamos entrado"
+      - "habr\xEDais entrado"
+      - "habr\xEDan entrado"
+      cjid: cpef
+    - cjfs:
+      - haya entrado
+      - hayas entrado
+      - haya entrado
+      - hayamos entrado
+      - "hay\xE1is entrado"
+      - hayan entrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera entrado
+      - hubieras entrado
+      - hubiera entrado
+      - "hubi\xE9ramos entrado"
+      - hubierais entrado
+      - hubieran entrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese entrado
+      - hubieses entrado
+      - hubiese entrado
+      - "hubi\xE9semos entrado"
+      - hubieseis entrado
+      - hubiesen entrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere entrado
+      - hubieres entrado
+      - hubiere entrado
+      - "hubi\xE9remos entrado"
+      - hubiereis entrado
+      - hubieren entrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - entra
+      - entre
+      - entremos
+      - entrad
+      - entren
+      cjid: impf

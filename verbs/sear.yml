@@ -1,0 +1,33 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|parch||}, {sx|wither||} {bc}{a_link|secar}, {a_link|resecar}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|scorch||} {bc}{a_link|chamuscar}, {a_link|quemar}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: sear
+    prs:
+    - mw: "\u02C8s\u026Ar"
+  meta:
+    id: sear
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2621217000'
+    src: spanish
+    stems:
+    - sear
+    - seared
+    - searing
+    - sears
+    uuid: 22f87842-fcb0-4c9c-adda-9de622e38890
+  shortdef:
+  - 'parch, wither : secar, resecar'
+  - 'scorch : chamuscar, quemar'

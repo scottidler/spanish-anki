@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|learn}'
+  fl: verb
+  hwi:
+    hw: aprender
+    prs:
+    - sound:
+        audio: apren01sp
+  meta:
+    id: aprender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601783000'
+    src: spanish
+    stems:
+    - aprender
+    - aprenderse
+    uuid: 07bbcc20-3536-42d6-90c3-f2c86af82696
+  shortdef:
+  - to learn
+  suppl:
+    cjts:
+    - cjfs:
+      - aprendiendo
+      - aprendido
+      cjid: gppt
+    - cjfs:
+      - aprendo
+      - aprendes
+      - aprende
+      - aprendemos
+      - "aprend\xE9is"
+      - aprenden
+      cjid: pind
+    - cjfs:
+      - "aprend\xEDa"
+      - "aprend\xEDas"
+      - "aprend\xEDa"
+      - "aprend\xEDamos"
+      - "aprend\xEDais"
+      - "aprend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "aprend\xED"
+      - aprendiste
+      - "aprendi\xF3"
+      - aprendimos
+      - aprendisteis
+      - aprendieron
+      cjid: pprf
+    - cjfs:
+      - "aprender\xE9"
+      - "aprender\xE1s"
+      - "aprender\xE1"
+      - aprenderemos
+      - "aprender\xE9is"
+      - "aprender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aprender\xEDa"
+      - "aprender\xEDas"
+      - "aprender\xEDa"
+      - "aprender\xEDamos"
+      - "aprender\xEDais"
+      - "aprender\xEDan"
+      cjid: cond
+    - cjfs:
+      - aprenda
+      - aprendas
+      - aprenda
+      - aprendamos
+      - "aprend\xE1is"
+      - aprendan
+      cjid: psub
+    - cjfs:
+      - aprendiera
+      - aprendieras
+      - aprendiera
+      - "aprendi\xE9ramos"
+      - aprendierais
+      - aprendieran
+      cjid: pisb1
+    - cjfs:
+      - aprendiese
+      - aprendieses
+      - aprendiese
+      - "aprendi\xE9semos"
+      - aprendieseis
+      - aprendiesen
+      cjid: pisb2
+    - cjfs:
+      - aprendiere
+      - aprendieres
+      - aprendiere
+      - "aprendi\xE9remos"
+      - aprendiereis
+      - aprendieren
+      cjid: fsub
+    - cjfs:
+      - he aprendido
+      - has aprendido
+      - ha aprendido
+      - hemos aprendido
+      - "hab\xE9is aprendido"
+      - han aprendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aprendido"
+      - "hab\xEDas aprendido"
+      - "hab\xEDa aprendido"
+      - "hab\xEDamos aprendido"
+      - "hab\xEDais aprendido"
+      - "hab\xEDan aprendido"
+      cjid: ppsi
+    - cjfs:
+      - hube aprendido
+      - hubiste aprendido
+      - hubo aprendido
+      - hubimos aprendido
+      - hubisteis aprendido
+      - hubieron aprendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aprendido"
+      - "habr\xE1s aprendido"
+      - "habr\xE1 aprendido"
+      - habremos aprendido
+      - "habr\xE9is aprendido"
+      - "habr\xE1n aprendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aprendido"
+      - "habr\xEDas aprendido"
+      - "habr\xEDa aprendido"
+      - "habr\xEDamos aprendido"
+      - "habr\xEDais aprendido"
+      - "habr\xEDan aprendido"
+      cjid: cpef
+    - cjfs:
+      - haya aprendido
+      - hayas aprendido
+      - haya aprendido
+      - hayamos aprendido
+      - "hay\xE1is aprendido"
+      - hayan aprendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera aprendido
+      - hubieras aprendido
+      - hubiera aprendido
+      - "hubi\xE9ramos aprendido"
+      - hubierais aprendido
+      - hubieran aprendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese aprendido
+      - hubieses aprendido
+      - hubiese aprendido
+      - "hubi\xE9semos aprendido"
+      - hubieseis aprendido
+      - hubiesen aprendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere aprendido
+      - hubieres aprendido
+      - hubiere aprendido
+      - "hubi\xE9remos aprendido"
+      - hubiereis aprendido
+      - hubieren aprendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aprende
+      - aprenda
+      - aprendamos
+      - aprended
+      - aprendan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: aprenderse

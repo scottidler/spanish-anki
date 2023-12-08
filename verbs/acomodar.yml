@@ -1,0 +1,209 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|accommodate}, to make room for'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|adjust}, to {a_link|adapt}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|settle in}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to adapt to'
+            sn: '2'
+            vrs:
+            - va: acomodarse a
+              vac: ~ a
+    drp: acomodarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: acomodar
+    prs:
+    - sound:
+        audio: acomo01sp
+  meta:
+    id: acomodar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600307000'
+    src: spanish
+    stems:
+    - acomodar
+    - acomodarse
+    - acomodarse a
+    uuid: be72fff8-61f8-480e-9abc-18133aab77a5
+  shortdef:
+  - to accommodate, to make room for
+  - to adjust, to adapt
+  suppl:
+    cjts:
+    - cjfs:
+      - acomodando
+      - acomodado
+      cjid: gppt
+    - cjfs:
+      - acomodo
+      - acomodas
+      - acomoda
+      - acomodamos
+      - "acomod\xE1is"
+      - acomodan
+      cjid: pind
+    - cjfs:
+      - acomodaba
+      - acomodabas
+      - acomodaba
+      - "acomod\xE1bamos"
+      - acomodabais
+      - acomodaban
+      cjid: pret
+    - cjfs:
+      - "acomod\xE9"
+      - acomodaste
+      - "acomod\xF3"
+      - acomodamos
+      - acomodasteis
+      - acomodaron
+      cjid: pprf
+    - cjfs:
+      - "acomodar\xE9"
+      - "acomodar\xE1s"
+      - "acomodar\xE1"
+      - acomodaremos
+      - "acomodar\xE9is"
+      - "acomodar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acomodar\xEDa"
+      - "acomodar\xEDas"
+      - "acomodar\xEDa"
+      - "acomodar\xEDamos"
+      - "acomodar\xEDais"
+      - "acomodar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acomode
+      - acomodes
+      - acomode
+      - acomodemos
+      - "acomod\xE9is"
+      - acomoden
+      cjid: psub
+    - cjfs:
+      - acomodara
+      - acomodaras
+      - acomodara
+      - "acomod\xE1ramos"
+      - acomodarais
+      - acomodaran
+      cjid: pisb1
+    - cjfs:
+      - acomodase
+      - acomodases
+      - acomodase
+      - "acomod\xE1semos"
+      - acomodaseis
+      - acomodasen
+      cjid: pisb2
+    - cjfs:
+      - acomodare
+      - acomodares
+      - acomodare
+      - "acomod\xE1remos"
+      - acomodareis
+      - acomodaren
+      cjid: fsub
+    - cjfs:
+      - he acomodado
+      - has acomodado
+      - ha acomodado
+      - hemos acomodado
+      - "hab\xE9is acomodado"
+      - han acomodado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acomodado"
+      - "hab\xEDas acomodado"
+      - "hab\xEDa acomodado"
+      - "hab\xEDamos acomodado"
+      - "hab\xEDais acomodado"
+      - "hab\xEDan acomodado"
+      cjid: ppsi
+    - cjfs:
+      - hube acomodado
+      - hubiste acomodado
+      - hubo acomodado
+      - hubimos acomodado
+      - hubisteis acomodado
+      - hubieron acomodado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acomodado"
+      - "habr\xE1s acomodado"
+      - "habr\xE1 acomodado"
+      - habremos acomodado
+      - "habr\xE9is acomodado"
+      - "habr\xE1n acomodado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acomodado"
+      - "habr\xEDas acomodado"
+      - "habr\xEDa acomodado"
+      - "habr\xEDamos acomodado"
+      - "habr\xEDais acomodado"
+      - "habr\xEDan acomodado"
+      cjid: cpef
+    - cjfs:
+      - haya acomodado
+      - hayas acomodado
+      - haya acomodado
+      - hayamos acomodado
+      - "hay\xE1is acomodado"
+      - hayan acomodado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acomodado
+      - hubieras acomodado
+      - hubiera acomodado
+      - "hubi\xE9ramos acomodado"
+      - hubierais acomodado
+      - hubieran acomodado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acomodado
+      - hubieses acomodado
+      - hubiese acomodado
+      - "hubi\xE9semos acomodado"
+      - hubieseis acomodado
+      - hubiesen acomodado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acomodado
+      - hubieres acomodado
+      - hubiere acomodado
+      - "hubi\xE9remos acomodado"
+      - hubiereis acomodado
+      - hubieren acomodado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acomoda
+      - acomode
+      - acomodemos
+      - acomodad
+      - acomoden
+      cjid: impf

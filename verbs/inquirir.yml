@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make inquiries'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|investigate}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: inquirir
+  meta:
+    id: inquirir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612657000'
+    src: spanish
+    stems:
+    - inquirir
+    uuid: ee5eb837-6069-476e-a80a-a21e6956453c
+  shortdef:
+  - to make inquiries
+  - to investigate
+  suppl:
+    cjts:
+    - cjfs:
+      - inquiriendo
+      - inquirido
+      cjid: gppt
+    - cjfs:
+      - inquiero
+      - inquieres
+      - inquiere
+      - inquirimos
+      - "inquir\xEDs"
+      - inquieren
+      cjid: pind
+    - cjfs:
+      - "inquir\xEDa"
+      - "inquir\xEDas"
+      - "inquir\xEDa"
+      - "inquir\xEDamos"
+      - "inquir\xEDais"
+      - "inquir\xEDan"
+      cjid: pret
+    - cjfs:
+      - "inquir\xED"
+      - inquiriste
+      - "inquiri\xF3"
+      - inquirimos
+      - inquiristeis
+      - inquirieron
+      cjid: pprf
+    - cjfs:
+      - "inquirir\xE9"
+      - "inquirir\xE1s"
+      - "inquirir\xE1"
+      - inquiriremos
+      - "inquirir\xE9is"
+      - "inquirir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "inquirir\xEDa"
+      - "inquirir\xEDas"
+      - "inquirir\xEDa"
+      - "inquirir\xEDamos"
+      - "inquirir\xEDais"
+      - "inquirir\xEDan"
+      cjid: cond
+    - cjfs:
+      - inquiera
+      - inquieras
+      - inquiera
+      - inquiramos
+      - "inquir\xE1is"
+      - inquieran
+      cjid: psub
+    - cjfs:
+      - inquiriera
+      - inquirieras
+      - inquiriera
+      - "inquiri\xE9ramos"
+      - inquirierais
+      - inquirieran
+      cjid: pisb1
+    - cjfs:
+      - inquiriese
+      - inquirieses
+      - inquiriese
+      - "inquiri\xE9semos"
+      - inquirieseis
+      - inquiriesen
+      cjid: pisb2
+    - cjfs:
+      - inquiriere
+      - inquirieres
+      - inquiriere
+      - "inquiri\xE9remos"
+      - inquiriereis
+      - inquirieren
+      cjid: fsub
+    - cjfs:
+      - he inquirido
+      - has inquirido
+      - ha inquirido
+      - hemos inquirido
+      - "hab\xE9is inquirido"
+      - han inquirido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa inquirido"
+      - "hab\xEDas inquirido"
+      - "hab\xEDa inquirido"
+      - "hab\xEDamos inquirido"
+      - "hab\xEDais inquirido"
+      - "hab\xEDan inquirido"
+      cjid: ppsi
+    - cjfs:
+      - hube inquirido
+      - hubiste inquirido
+      - hubo inquirido
+      - hubimos inquirido
+      - hubisteis inquirido
+      - hubieron inquirido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 inquirido"
+      - "habr\xE1s inquirido"
+      - "habr\xE1 inquirido"
+      - habremos inquirido
+      - "habr\xE9is inquirido"
+      - "habr\xE1n inquirido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa inquirido"
+      - "habr\xEDas inquirido"
+      - "habr\xEDa inquirido"
+      - "habr\xEDamos inquirido"
+      - "habr\xEDais inquirido"
+      - "habr\xEDan inquirido"
+      cjid: cpef
+    - cjfs:
+      - haya inquirido
+      - hayas inquirido
+      - haya inquirido
+      - hayamos inquirido
+      - "hay\xE1is inquirido"
+      - hayan inquirido
+      cjid: ppfs
+    - cjfs:
+      - hubiera inquirido
+      - hubieras inquirido
+      - hubiera inquirido
+      - "hubi\xE9ramos inquirido"
+      - hubierais inquirido
+      - hubieran inquirido
+      cjid: ppss1
+    - cjfs:
+      - hubiese inquirido
+      - hubieses inquirido
+      - hubiese inquirido
+      - "hubi\xE9semos inquirido"
+      - hubieseis inquirido
+      - hubiesen inquirido
+      cjid: ppss2
+    - cjfs:
+      - hubiere inquirido
+      - hubieres inquirido
+      - hubiere inquirido
+      - "hubi\xE9remos inquirido"
+      - hubiereis inquirido
+      - hubieren inquirido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - inquiere
+      - inquiera
+      - inquiramos
+      - inquirid
+      - inquieran
+      cjid: impf

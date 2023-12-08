@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|asombrar||} {bc}to {a_link|astonish}, to {a_link|amaze}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be amazed, to {a_link|marvel}'
+    drp: maravillarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: maravillar
+  meta:
+    id: maravillar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614452000'
+    src: spanish
+    stems:
+    - maravillar
+    - maravillarse
+    uuid: a9b5089c-962e-4c1e-9e0b-ac831811df23
+  shortdef:
+  - 'asombrar : to astonish, to amaze'
+  suppl:
+    cjts:
+    - cjfs:
+      - maravillando
+      - maravillado
+      cjid: gppt
+    - cjfs:
+      - maravillo
+      - maravillas
+      - maravilla
+      - maravillamos
+      - "maravill\xE1is"
+      - maravillan
+      cjid: pind
+    - cjfs:
+      - maravillaba
+      - maravillabas
+      - maravillaba
+      - "maravill\xE1bamos"
+      - maravillabais
+      - maravillaban
+      cjid: pret
+    - cjfs:
+      - "maravill\xE9"
+      - maravillaste
+      - "maravill\xF3"
+      - maravillamos
+      - maravillasteis
+      - maravillaron
+      cjid: pprf
+    - cjfs:
+      - "maravillar\xE9"
+      - "maravillar\xE1s"
+      - "maravillar\xE1"
+      - maravillaremos
+      - "maravillar\xE9is"
+      - "maravillar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "maravillar\xEDa"
+      - "maravillar\xEDas"
+      - "maravillar\xEDa"
+      - "maravillar\xEDamos"
+      - "maravillar\xEDais"
+      - "maravillar\xEDan"
+      cjid: cond
+    - cjfs:
+      - maraville
+      - maravilles
+      - maraville
+      - maravillemos
+      - "maravill\xE9is"
+      - maravillen
+      cjid: psub
+    - cjfs:
+      - maravillara
+      - maravillaras
+      - maravillara
+      - "maravill\xE1ramos"
+      - maravillarais
+      - maravillaran
+      cjid: pisb1
+    - cjfs:
+      - maravillase
+      - maravillases
+      - maravillase
+      - "maravill\xE1semos"
+      - maravillaseis
+      - maravillasen
+      cjid: pisb2
+    - cjfs:
+      - maravillare
+      - maravillares
+      - maravillare
+      - "maravill\xE1remos"
+      - maravillareis
+      - maravillaren
+      cjid: fsub
+    - cjfs:
+      - he maravillado
+      - has maravillado
+      - ha maravillado
+      - hemos maravillado
+      - "hab\xE9is maravillado"
+      - han maravillado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa maravillado"
+      - "hab\xEDas maravillado"
+      - "hab\xEDa maravillado"
+      - "hab\xEDamos maravillado"
+      - "hab\xEDais maravillado"
+      - "hab\xEDan maravillado"
+      cjid: ppsi
+    - cjfs:
+      - hube maravillado
+      - hubiste maravillado
+      - hubo maravillado
+      - hubimos maravillado
+      - hubisteis maravillado
+      - hubieron maravillado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 maravillado"
+      - "habr\xE1s maravillado"
+      - "habr\xE1 maravillado"
+      - habremos maravillado
+      - "habr\xE9is maravillado"
+      - "habr\xE1n maravillado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa maravillado"
+      - "habr\xEDas maravillado"
+      - "habr\xEDa maravillado"
+      - "habr\xEDamos maravillado"
+      - "habr\xEDais maravillado"
+      - "habr\xEDan maravillado"
+      cjid: cpef
+    - cjfs:
+      - haya maravillado
+      - hayas maravillado
+      - haya maravillado
+      - hayamos maravillado
+      - "hay\xE1is maravillado"
+      - hayan maravillado
+      cjid: ppfs
+    - cjfs:
+      - hubiera maravillado
+      - hubieras maravillado
+      - hubiera maravillado
+      - "hubi\xE9ramos maravillado"
+      - hubierais maravillado
+      - hubieran maravillado
+      cjid: ppss1
+    - cjfs:
+      - hubiese maravillado
+      - hubieses maravillado
+      - hubiese maravillado
+      - "hubi\xE9semos maravillado"
+      - hubieseis maravillado
+      - hubiesen maravillado
+      cjid: ppss2
+    - cjfs:
+      - hubiere maravillado
+      - hubieres maravillado
+      - hubiere maravillado
+      - "hubi\xE9remos maravillado"
+      - hubiereis maravillado
+      - hubieren maravillado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - maravilla
+      - maraville
+      - maravillemos
+      - maravillad
+      - maravillen
+      cjid: impf

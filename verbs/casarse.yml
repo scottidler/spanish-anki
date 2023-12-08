@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|marry} '
+          - - vis
+            - - t: "el cura que nos cas\xF3"
+                tr: the priest who married us
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go together}, to match up'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get married}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|marry}'
+            sn: '2'
+            vrs:
+            - va: casarse con
+              vac: ~ con
+    drp: casarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: casar
+    prs:
+    - sound:
+        audio: casar01sp
+  meta:
+    id: casar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604106000'
+    src: spanish
+    stems:
+    - casar
+    - casarse
+    - casarse con
+    uuid: 0cccecc2-8ab6-423c-8658-cdf8b590ff7a
+  shortdef:
+  - to marry
+  - to go together, to match up
+  suppl:
+    cjts:
+    - cjfs:
+      - casando
+      - casado
+      cjid: gppt
+    - cjfs:
+      - caso
+      - casas
+      - casa
+      - casamos
+      - "cas\xE1is"
+      - casan
+      cjid: pind
+    - cjfs:
+      - casaba
+      - casabas
+      - casaba
+      - "cas\xE1bamos"
+      - casabais
+      - casaban
+      cjid: pret
+    - cjfs:
+      - "cas\xE9"
+      - casaste
+      - "cas\xF3"
+      - casamos
+      - casasteis
+      - casaron
+      cjid: pprf
+    - cjfs:
+      - "casar\xE9"
+      - "casar\xE1s"
+      - "casar\xE1"
+      - casaremos
+      - "casar\xE9is"
+      - "casar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "casar\xEDa"
+      - "casar\xEDas"
+      - "casar\xEDa"
+      - "casar\xEDamos"
+      - "casar\xEDais"
+      - "casar\xEDan"
+      cjid: cond
+    - cjfs:
+      - case
+      - cases
+      - case
+      - casemos
+      - "cas\xE9is"
+      - casen
+      cjid: psub
+    - cjfs:
+      - casara
+      - casaras
+      - casara
+      - "cas\xE1ramos"
+      - casarais
+      - casaran
+      cjid: pisb1
+    - cjfs:
+      - casase
+      - casases
+      - casase
+      - "cas\xE1semos"
+      - casaseis
+      - casasen
+      cjid: pisb2
+    - cjfs:
+      - casare
+      - casares
+      - casare
+      - "cas\xE1remos"
+      - casareis
+      - casaren
+      cjid: fsub
+    - cjfs:
+      - he casado
+      - has casado
+      - ha casado
+      - hemos casado
+      - "hab\xE9is casado"
+      - han casado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa casado"
+      - "hab\xEDas casado"
+      - "hab\xEDa casado"
+      - "hab\xEDamos casado"
+      - "hab\xEDais casado"
+      - "hab\xEDan casado"
+      cjid: ppsi
+    - cjfs:
+      - hube casado
+      - hubiste casado
+      - hubo casado
+      - hubimos casado
+      - hubisteis casado
+      - hubieron casado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 casado"
+      - "habr\xE1s casado"
+      - "habr\xE1 casado"
+      - habremos casado
+      - "habr\xE9is casado"
+      - "habr\xE1n casado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa casado"
+      - "habr\xEDas casado"
+      - "habr\xEDa casado"
+      - "habr\xEDamos casado"
+      - "habr\xEDais casado"
+      - "habr\xEDan casado"
+      cjid: cpef
+    - cjfs:
+      - haya casado
+      - hayas casado
+      - haya casado
+      - hayamos casado
+      - "hay\xE1is casado"
+      - hayan casado
+      cjid: ppfs
+    - cjfs:
+      - hubiera casado
+      - hubieras casado
+      - hubiera casado
+      - "hubi\xE9ramos casado"
+      - hubierais casado
+      - hubieran casado
+      cjid: ppss1
+    - cjfs:
+      - hubiese casado
+      - hubieses casado
+      - hubiese casado
+      - "hubi\xE9semos casado"
+      - hubieseis casado
+      - hubiesen casado
+      cjid: ppss2
+    - cjfs:
+      - hubiere casado
+      - hubieres casado
+      - hubiere casado
+      - "hubi\xE9remos casado"
+      - hubiereis casado
+      - hubieren casado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - casa
+      - case
+      - casemos
+      - casad
+      - casen
+      cjid: impf

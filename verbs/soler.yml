@@ -1,0 +1,187 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in the habit of, to tend to '
+          - - vis
+            - - t: "sol\xEDa tomar caf\xE9 por la tarde"
+                tr: she usually drank coffee in the afternoon
+              - t: eso suele ocurrir
+                tr: that frequently happens
+  fl: intransitive verb
+  hwi:
+    hw: soler
+    prs:
+    - sound:
+        audio: soler01sp
+  meta:
+    id: soler
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2620865000'
+    src: spanish
+    stems:
+    - soler
+    uuid: ac2a6e2f-c804-4059-8842-90878998c146
+  shortdef:
+  - to be in the habit of, to tend to
+  suppl:
+    cjts:
+    - cjfs:
+      - '-'
+      - '-'
+      cjid: gppt
+    - cjfs:
+      - suelo
+      - sueles
+      - suele
+      - solemos
+      - "sol\xE9is"
+      - suelen
+      cjid: pind
+    - cjfs:
+      - "sol\xEDa"
+      - "sol\xEDas"
+      - "sol\xEDa"
+      - "sol\xEDamos"
+      - "sol\xEDais"
+      - "sol\xEDan"
+      cjid: pret
+    - cjfs:
+      - "sol\xED"
+      - soliste
+      - "soli\xF3"
+      - solimos
+      - solisteis
+      - solieron
+      cjid: pprf
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: futr
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: cond
+    - cjfs:
+      - suela
+      - suelas
+      - suela
+      - solamos
+      - "sol\xE1is"
+      - suelan
+      cjid: psub
+    - cjfs:
+      - soliera
+      - solieras
+      - soliera
+      - "soli\xE9ramos"
+      - solierais
+      - solieran
+      cjid: pisb1
+    - cjfs:
+      - soliese
+      - solieses
+      - soliese
+      - "soli\xE9semos"
+      - solieseis
+      - soliesen
+      cjid: pisb2
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: fsub
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppci
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppsi
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: pant
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: fpin
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: cpef
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppfs
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppss1
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: ppss2
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+      cjid: impf

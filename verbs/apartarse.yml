@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|alejar||} {bc}to {a_link|move away}, to put at a distance'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|put aside}, to {a_link|set aside}, to {a_link|separate}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to step aside, to {a_link|move away}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|desviarse||} {bc}to {a_link|stray}'
+            sn: '2'
+    drp: apartarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: apartar
+    prs:
+    - sound:
+        audio: apart03sp
+  meta:
+    id: apartar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601662000'
+    src: spanish
+    stems:
+    - apartar
+    - apartarse
+    uuid: c1ce73d8-604a-4ba2-8b0e-7b47e225da9f
+  shortdef:
+  - 'alejar : to move away, to put at a distance'
+  - to put aside, to set aside, to separate
+  suppl:
+    cjts:
+    - cjfs:
+      - apartando
+      - apartado
+      cjid: gppt
+    - cjfs:
+      - aparto
+      - apartas
+      - aparta
+      - apartamos
+      - "apart\xE1is"
+      - apartan
+      cjid: pind
+    - cjfs:
+      - apartaba
+      - apartabas
+      - apartaba
+      - "apart\xE1bamos"
+      - apartabais
+      - apartaban
+      cjid: pret
+    - cjfs:
+      - "apart\xE9"
+      - apartaste
+      - "apart\xF3"
+      - apartamos
+      - apartasteis
+      - apartaron
+      cjid: pprf
+    - cjfs:
+      - "apartar\xE9"
+      - "apartar\xE1s"
+      - "apartar\xE1"
+      - apartaremos
+      - "apartar\xE9is"
+      - "apartar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apartar\xEDa"
+      - "apartar\xEDas"
+      - "apartar\xEDa"
+      - "apartar\xEDamos"
+      - "apartar\xEDais"
+      - "apartar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aparte
+      - apartes
+      - aparte
+      - apartemos
+      - "apart\xE9is"
+      - aparten
+      cjid: psub
+    - cjfs:
+      - apartara
+      - apartaras
+      - apartara
+      - "apart\xE1ramos"
+      - apartarais
+      - apartaran
+      cjid: pisb1
+    - cjfs:
+      - apartase
+      - apartases
+      - apartase
+      - "apart\xE1semos"
+      - apartaseis
+      - apartasen
+      cjid: pisb2
+    - cjfs:
+      - apartare
+      - apartares
+      - apartare
+      - "apart\xE1remos"
+      - apartareis
+      - apartaren
+      cjid: fsub
+    - cjfs:
+      - he apartado
+      - has apartado
+      - ha apartado
+      - hemos apartado
+      - "hab\xE9is apartado"
+      - han apartado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apartado"
+      - "hab\xEDas apartado"
+      - "hab\xEDa apartado"
+      - "hab\xEDamos apartado"
+      - "hab\xEDais apartado"
+      - "hab\xEDan apartado"
+      cjid: ppsi
+    - cjfs:
+      - hube apartado
+      - hubiste apartado
+      - hubo apartado
+      - hubimos apartado
+      - hubisteis apartado
+      - hubieron apartado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apartado"
+      - "habr\xE1s apartado"
+      - "habr\xE1 apartado"
+      - habremos apartado
+      - "habr\xE9is apartado"
+      - "habr\xE1n apartado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apartado"
+      - "habr\xEDas apartado"
+      - "habr\xEDa apartado"
+      - "habr\xEDamos apartado"
+      - "habr\xEDais apartado"
+      - "habr\xEDan apartado"
+      cjid: cpef
+    - cjfs:
+      - haya apartado
+      - hayas apartado
+      - haya apartado
+      - hayamos apartado
+      - "hay\xE1is apartado"
+      - hayan apartado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apartado
+      - hubieras apartado
+      - hubiera apartado
+      - "hubi\xE9ramos apartado"
+      - hubierais apartado
+      - hubieran apartado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apartado
+      - hubieses apartado
+      - hubiese apartado
+      - "hubi\xE9semos apartado"
+      - hubieseis apartado
+      - hubiesen apartado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apartado
+      - hubieres apartado
+      - hubiere apartado
+      - "hubi\xE9remos apartado"
+      - hubiereis apartado
+      - hubieren apartado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aparta
+      - aparte
+      - apartemos
+      - apartad
+      - aparten
+      cjid: impf

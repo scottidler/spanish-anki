@@ -1,0 +1,977 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|crear||}, {sx|construir||} {bc}to {a_link|make} (a cake, a list,
+              a law, etc.), to {a_link|build} (a building), to {a_link|write} (a book,
+              a check) '
+          - - vis
+            - - t: hacer planes
+                tr: to make plans
+              - t: "hacer una pel\xEDcula"
+                tr: to make a movie
+              - t: hacer un fuego
+                tr: to make/build a fire
+              - t: lo hizo de madera
+                tr: he made it out of wood
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|do} (a task, an activity, etc.), to {a_link|make} (a
+              gesture, a trip, an agreement, etc.), to {a_link|pay} (a visit) '
+          - - vis
+            - - t: hacer mandados
+                tr: to do/run errands
+              - t: hacer los deberes
+                tr: to do one's homework
+              - t: "\xBFme haces un favor?"
+                tr: will you do me a favor?
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make}, to {a_link|cause}, to {a_link|produce} '
+          - - vis
+            - - t: hacer ruido
+                tr: to make noise
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|expresar||} {bc}to {a_link|voice} (an objection, etc.), to {a_link|ask}
+              (a question)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make}, to {a_link|force}, to {a_link|oblige} '
+          - - vis
+            - - t: los hice esperar
+                tr: I made them wait
+              - t: hizo que todos se callaran
+                tr: he made everyone be quiet
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make}, to {a_link|cause}, to {a_link|provoke} '
+          - - vis
+            - - t: "me hizo re\xEDr/llorar"
+                tr: it made me laugh/cry
+              - t: "\xBFte hice da\xF1o?"
+                tr: did I hurt you?
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make}, to cause to (be) '
+          - - vis
+            - - t: la hizo famosa
+                tr: it made her famous
+              - t: "te har\xE1 (un) hombre"
+                tr: it will make a man out of you
+              - t: lo hizo funcionar
+                tr: she made it work
+              - t: "hace que el color parezca m\xE1s oscuro"
+                tr: it makes the color seem darker
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make} (a bed), to {a_link|pack} (a suitcase)'
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|preparar||} {bc}to {a_link|make}, to {a_link|fix} (a meal, etc.)'
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|adquirir||} {bc}to {a_link|make} (money, friends, etc.)'
+          sn: '10'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|act} '
+          - - vis
+            - - t: haces bien
+                tr: you're doing the right thing
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to serve as, to function as'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play}, to perform as '
+          - - vis
+            - - t: hizo de Ofelia en {ldquo}Hamlet{rdquo}
+                tr: she played Ophelia in {ldquo}Hamlet{rdquo}
+          sn: '3'
+          vrs:
+          - va: hacer de
+            vac: ~ de
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to act as if'
+          sn: '4'
+          vrs:
+          - va: 'hacer como que/si '
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to try to '
+          - - vis
+            - - t: hicieron por entendernos
+                tr: they tried to understand us
+          sn: '5'
+          vrs:
+          - va: hacer por
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to do as one pleases'
+          sn: '6'
+          vrs:
+          - va: hacer y deshacer
+    vd: intransitive verb
+  - sseq:
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "hace fr\xEDo"
+                tr: it's cold
+              - t: "hac\xEDa mucho viento"
+                tr: it was very windy
+          sls:
+          - (referring to weather)
+          sn: '1'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "eso pas\xF3 hace mucho tiempo"
+                tr: that happened a long time ago
+              - t: "vivo aqu\xED desde hace dos a\xF1os, hace dos a\xF1os que vivo\
+                  \ aqu\xED"
+                tr: I've lived here for two years
+              - t: "hac\xEDa a\xF1os que no sab\xEDa nada de \xE9l"
+                tr: I hadn't heard from him in years
+          sls:
+          - (referring to time)
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be necessary, to {a_link|be needed}'
+          sn: '3'
+          vrs:
+          - va: hacer falta
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}it doesn''t matter, it makes no difference'
+          sn: '4'
+          vrs:
+          - va: no le hace
+    vd: impersonal verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|become}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|pretend}, to {a_link|act}, to {a_link|play} '
+            - - vis
+              - - t: hacerse el tonto
+                  tr: to play dumb
+            sn: '2'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|seem} '
+            - - vis
+              - - t: "el examen se me hizo dif\xEDcil"
+                  tr: the exam seemed difficult to me
+            sn: '3'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get}, to {a_link|grow} '
+            - - vis
+              - - t: se hace tarde
+                  tr: it's getting/growing late
+            sn: '4'
+    drp: hacerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: hacer
+    prs:
+    - sound:
+        audio: hacer01sp
+  meta:
+    id: hacer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611246000'
+    src: spanish
+    stems:
+    - hacer
+    - hacer de
+    - 'hacer como que/si '
+    - 'hacer como que '
+    - 'hacer como si '
+    - hacer por
+    - hacer y deshacer
+    - hacer falta
+    - no le hace
+    - hacerse
+    uuid: aa2d5450-47d9-4352-9b40-0fc902cade7a
+  shortdef:
+  - 'crear, construir : to make (a cake, a list, a law, etc.), to build (a building),
+    to write (a book, a check)'
+  - to do (a task, an activity, etc.), to make (a gesture, a trip, an agreement, etc.),
+    to pay (a visit)
+  - to make, to cause, to produce
+  suppl:
+    cjts:
+    - cjfs:
+      - haciendo
+      - hecho
+      cjid: gppt
+    - cjfs:
+      - hago
+      - haces
+      - hace
+      - hacemos
+      - "hac\xE9is"
+      - hacen
+      cjid: pind
+    - cjfs:
+      - "hac\xEDa"
+      - "hac\xEDas"
+      - "hac\xEDa"
+      - "hac\xEDamos"
+      - "hac\xEDais"
+      - "hac\xEDan"
+      cjid: pret
+    - cjfs:
+      - hice
+      - hiciste
+      - hizo
+      - hicimos
+      - hicisteis
+      - hicieron
+      cjid: pprf
+    - cjfs:
+      - "har\xE9"
+      - "har\xE1s"
+      - "har\xE1"
+      - haremos
+      - "har\xE9is"
+      - "har\xE1n"
+      cjid: futr
+    - cjfs:
+      - "har\xEDa"
+      - "har\xEDas"
+      - "har\xEDa"
+      - "har\xEDamos"
+      - "har\xEDais"
+      - "har\xEDan"
+      cjid: cond
+    - cjfs:
+      - haga
+      - hagas
+      - haga
+      - hagamos
+      - "hag\xE1is"
+      - hagan
+      cjid: psub
+    - cjfs:
+      - hiciera
+      - hicieras
+      - hiciera
+      - "hici\xE9ramos"
+      - hicierais
+      - hicieran
+      cjid: pisb1
+    - cjfs:
+      - hiciese
+      - hicieses
+      - hiciese
+      - "hici\xE9semos"
+      - hicieseis
+      - hiciesen
+      cjid: pisb2
+    - cjfs:
+      - hiciere
+      - hicieres
+      - hiciere
+      - "hici\xE9remos"
+      - hiciereis
+      - hicieren
+      cjid: fsub
+    - cjfs:
+      - he hecho
+      - has hecho
+      - ha hecho
+      - hemos hecho
+      - "hab\xE9is hecho"
+      - han hecho
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa hecho"
+      - "hab\xEDas hecho"
+      - "hab\xEDa hecho"
+      - "hab\xEDamos hecho"
+      - "hab\xEDais hecho"
+      - "hab\xEDan hecho"
+      cjid: ppsi
+    - cjfs:
+      - hube hecho
+      - hubiste hecho
+      - hubo hecho
+      - hubimos hecho
+      - hubisteis hecho
+      - hubieron hecho
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 hecho"
+      - "habr\xE1s hecho"
+      - "habr\xE1 hecho"
+      - habremos hecho
+      - "habr\xE9is hecho"
+      - "habr\xE1n hecho"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa hecho"
+      - "habr\xEDas hecho"
+      - "habr\xEDa hecho"
+      - "habr\xEDamos hecho"
+      - "habr\xEDais hecho"
+      - "habr\xEDan hecho"
+      cjid: cpef
+    - cjfs:
+      - haya hecho
+      - hayas hecho
+      - haya hecho
+      - hayamos hecho
+      - "hay\xE1is hecho"
+      - hayan hecho
+      cjid: ppfs
+    - cjfs:
+      - hubiera hecho
+      - hubieras hecho
+      - hubiera hecho
+      - "hubi\xE9ramos hecho"
+      - hubierais hecho
+      - hubieran hecho
+      cjid: ppss1
+    - cjfs:
+      - hubiese hecho
+      - hubieses hecho
+      - hubiese hecho
+      - "hubi\xE9semos hecho"
+      - hubieseis hecho
+      - hubiesen hecho
+      cjid: ppss2
+    - cjfs:
+      - hubiere hecho
+      - hubieres hecho
+      - hubiere hecho
+      - "hubi\xE9remos hecho"
+      - hubiereis hecho
+      - hubieren hecho
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - haz
+      - haga
+      - hagamos
+      - haced
+      - hagan
+      cjid: impf
+- ahws:
+  - hw: amiga
+    hwc: -ga
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|friendly}, {a_link|close} '
+          - - vis
+            - - t: "es muy amigo m\xEDo"
+                tr: he's a very good friend of mine
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|become} (good) friends (with)'
+          sn: '2'
+          vrs:
+          - va: hacerse (muy) amigo (de)
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be} (very) fond of something'
+          sn: '3'
+          vrs:
+          - va: ser (muy) amigo de algo
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: amigo
+    prs:
+    - sound:
+        audio: amigo01sp
+  meta:
+    id: amigo:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601248000'
+    src: spanish
+    stems:
+    - amigo
+    - amiga
+    - hacerse (muy) amigo (de)
+    - hacerse
+    - hacerse muy) amigo (de
+    - ser (muy) amigo de algo
+    uuid: 3a5d9971-8efb-4a21-b3f3-5f0a5d59a3db
+  shortdef:
+  - friendly, close
+  - to become (good) friends (with)
+  - to be (very) fond of something
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ball} '
+          - - vis
+            - - t: bola de nieve
+                tr: snowball
+              - t: bola de billar
+                tr: billiard ball
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|canica||} {bc}{a_link|marble}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|scoop} (of ice cream)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|lie}, {a_link|fib} '
+          - - gl
+            - familiar
+          sls:
+          - familiar
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|bunch} '
+          - - vis
+            - - t: una bola de rateros/mentiras
+                tr: a bunch of thieves/lies
+          sls:
+          - Mexico familiar
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|uproar}, {a_link|tumult}'
+          sls:
+          - Mexico
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|muddle up} (facts), to make a mess of'
+          sls:
+          - Mexico
+          sn: '7'
+          vrs:
+          - va: hacerse bolas con
+  fl: feminine noun
+  hwi:
+    hw: bola
+    prs:
+    - sound:
+        audio: bola001sp
+  meta:
+    id: bola
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603153000'
+    src: spanish
+    stems:
+    - bola
+    - hacerse bolas con
+    uuid: cb899178-caa3-4d4f-8421-7f00a0a25777
+  shortdef:
+  - ball
+  - 'canica : marble'
+  - scoop (of ice cream)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}root vegetable similar to the sweet potato'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to get mixed up'
+          sls:
+          - Mexico familiar
+          sn: '2'
+          vrs:
+          - va: hacerse camote
+  fl: masculine noun
+  hwi:
+    hw: camote
+    prs:
+    - sound:
+        audio: camot01sp
+  meta:
+    id: camote
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603749000'
+    src: spanish
+    stems:
+    - camote
+    - hacerse camote
+    uuid: 266d939d-1182-4663-adf9-82b85312809f
+  shortdef:
+  - root vegetable similar to the sweet potato
+  - to get mixed up
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|damage}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|harm}, {a_link|injury} '
+          - - vis
+            - - t: "da\xF1os colaterales"
+                tr: collateral damages
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|harm}, to {a_link|damage}'
+          sn: '3'
+          vrs:
+          - va: "hacer da\xF1o a"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to hurt oneself '
+          - - vis
+            - - t: "me he hecho da\xF1o en la mano"
+                tr: I've hurt my hand
+          sn: '4'
+          vrs:
+          - va: "hacerse da\xF1o"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}damages'
+          sn: '5'
+          vrs:
+          - va: "da\xF1os y perjuicios"
+  fl: masculine noun
+  hwi:
+    hw: "da\xF1o"
+    prs:
+    - sound:
+        audio: dano001sp
+  meta:
+    id: dano
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606438000'
+    src: spanish
+    stems:
+    - "da\xF1o"
+    - "hacer da\xF1o a"
+    - "hacerse da\xF1o"
+    - "da\xF1os y perjuicios"
+    uuid: 26f7e0df-072a-4360-884d-506e8f13c8d8
+  shortdef:
+  - damage
+  - harm, injury
+  - to harm, to damage
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|echo}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|echo}, to {a_link|repeat}'
+          sn: '2'
+          vrs:
+          - va: hacerse eco de
+  fl: masculine noun
+  hwi:
+    hw: eco
+    prs:
+    - sound:
+        audio: eco0001sp
+  meta:
+    id: eco
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608025000'
+    src: spanish
+    stems:
+    - eco
+    - hacerse eco de
+    uuid: ea5af8e8-2361-4da0-9145-b21c65c5ddd9
+  shortdef:
+  - echo
+  - to echo, to repeat
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|strong} '
+          - - vis
+            - - t: brazos fuertes
+                tr: strong arms
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|resistente||} {bc}{a_link|strong}, {a_link|sturdy}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|intense} (of pain, etc.), {a_link|strong} (of a drug, odor,
+              etc.)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|powerful}, {a_link|strong} (of wind), {a_link|heavy} (of
+              rain) '
+          - - vis
+            - - t: un fuerte golpe
+                tr: a hard blow
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sharp}, {a_link|marked} '
+          - - vis
+            - - t: un fuerte incremento
+                tr: a sharp increase
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|loud} '
+          - - vis
+            - - t: "hablar m\xE1s fuerte"
+                tr: to speak up
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|extreme}, {a_link|excessive}'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pull oneself together}'
+          sn: '8'
+          vrs:
+          - va: hacerse fuerte
+  fl: adjective
+  hom: 2
+  hwi:
+    hw: fuerte
+    prs:
+    - sound:
+        audio: fuert02sp
+  meta:
+    id: fuerte:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610499000'
+    src: spanish
+    stems:
+    - fuerte
+    - hacerse fuerte
+    - fuertemente
+    uuid: 574e29d7-9885-4696-9438-010475203036
+  shortdef:
+  - strong
+  - 'resistente : strong, sturdy'
+  - intense (of pain, etc.), strong (of a drug, odor, etc.)
+  uros:
+  - fl: adverb
+    ure: fuertemente
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|side} '
+          - - vis
+            - - t: el lado izquierdo/derecho
+                tr: the left/right side
+              - t: el otro lado
+                tr: the other side
+              - t: el lado de arriba/abajo
+                tr: the top/bottom
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|parte||} {bc}{a_link|place} '
+          - - vis
+            - - t: "mir\xF3 por todos lados"
+                tr: he looked everywhere
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|side} (in an argument, etc.) '
+          - - vis
+            - - t: se puso de mi lado
+                tr: she took my side
+          sn: '3'
+    - - - sense
+        - dt:
+          - - vis
+            - - t: los que viven al lado
+                tr: the people who live next door
+              - t: tenemos una tienda al lado
+                tr: there's a store beside/near us
+          sn: '4'
+          vrs:
+          - va: al lado
+            vac: al ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|next to}, {a_link|beside} '
+          - - vis
+            - - t: al lado de la calle
+                tr: on/at the side of the road
+              - t: a mi lado
+                tr: beside me
+          sn: '5'
+          vrs:
+          - va: al lado de
+    - - - sense
+        - dt:
+          - - vis
+            - - t: los de al lado
+                tr: the next-door neighbors
+              - t: el asiento de al lado
+                tr: the seat next to mine/yours (etc.)
+          sn: '6'
+          vrs:
+          - va: de al lado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}tilted, {a_link|sideways} '
+          - - vis
+            - - t: "est\xE1 de lado"
+                tr: it's lying on its side
+          sn: '7'
+          vrs:
+          - va: de lado
+            vac: de ~
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|and fro}, back and forth'
+          sn: '8'
+          vrs:
+          - va: de un lado a otro
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|set aside}'
+          sn: '9'
+          vrs:
+          - va: dejar a un lado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to step aside'
+          sn: '10'
+          vrs:
+          - va: hacerse a un lado
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}side by side'
+          sn: '11'
+          vrs:
+          - va: lado a lado
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}on the one hand \u2026 , on the other hand \u2026 "
+          sn: '12'
+          vrs:
+          - va: "por un lado \u2026 , por otro lado \u2026 "
+  fl: masculine noun
+  hwi:
+    hw: lado
+    prs:
+    - sound:
+        audio: lado001sp
+  meta:
+    id: lado
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613431000'
+    src: spanish
+    stems:
+    - lado
+    - al lado
+    - al lado de
+    - de al lado
+    - de lado
+    - de un lado a otro
+    - dejar a un lado
+    - hacerse a un lado
+    - lado a lado
+    - "por un lado \u2026 , por otro lado \u2026 "
+    uuid: 01602857-ab9f-4b11-89f1-963ae32895d1
+  shortdef:
+  - side
+  - 'parte : place'
+  - side (in an argument, etc.)
+- ahws:
+  - hw: loca
+    hwc: -ca
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}crazy person, {a_link|lunatic}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to act the fool'
+          sn: '2'
+          vrs:
+          - va: hacerse el loco
+  fl: noun
+  hom: 2
+  hwi:
+    hw: loco
+    prs:
+    - sound:
+        audio: loco002sp
+  meta:
+    id: loco:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613975000'
+    src: spanish
+    stems:
+    - loco
+    - loca
+    - hacerse el loco
+    uuid: a414bb78-7c7d-473c-9b40-0ea8d1d5f5cd
+  shortdef:
+  - crazy person, lunatic
+  - to act the fool
+- ahws:
+  - hw: necesaria
+    hwc: -ria
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|necessary}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}if need be'
+          sn: '2'
+          vrs:
+          - va: si es necesario
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be required'
+          sn: '3'
+          vrs:
+          - va: hacerse necesario
+  fl: adjective
+  hwi:
+    hw: necesario
+    prs:
+    - sound:
+        audio: neces02sp
+  meta:
+    id: necesario
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615665000'
+    src: spanish
+    stems:
+    - necesario
+    - necesaria
+    - si es necesario
+    - hacerse necesario
+    uuid: 0064b6d7-0bc1-4faf-b989-6c86a75e2bf3
+  shortdef:
+  - necessary
+  - if need be
+  - to be required

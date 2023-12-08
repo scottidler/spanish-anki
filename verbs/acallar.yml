@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|quiet}, to {a_link|silence}'
+  fl: transitive verb
+  hwi:
+    hw: acallar
+  meta:
+    id: acallar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600180000'
+    src: spanish
+    stems:
+    - acallar
+    uuid: 79db5534-5556-4d3e-ac5f-ce2f89688cca
+  shortdef:
+  - to quiet, to silence
+  suppl:
+    cjts:
+    - cjfs:
+      - acallando
+      - acallado
+      cjid: gppt
+    - cjfs:
+      - acallo
+      - acallas
+      - acalla
+      - acallamos
+      - "acall\xE1is"
+      - acallan
+      cjid: pind
+    - cjfs:
+      - acallaba
+      - acallabas
+      - acallaba
+      - "acall\xE1bamos"
+      - acallabais
+      - acallaban
+      cjid: pret
+    - cjfs:
+      - "acall\xE9"
+      - acallaste
+      - "acall\xF3"
+      - acallamos
+      - acallasteis
+      - acallaron
+      cjid: pprf
+    - cjfs:
+      - "acallar\xE9"
+      - "acallar\xE1s"
+      - "acallar\xE1"
+      - acallaremos
+      - "acallar\xE9is"
+      - "acallar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "acallar\xEDa"
+      - "acallar\xEDas"
+      - "acallar\xEDa"
+      - "acallar\xEDamos"
+      - "acallar\xEDais"
+      - "acallar\xEDan"
+      cjid: cond
+    - cjfs:
+      - acalle
+      - acalles
+      - acalle
+      - acallemos
+      - "acall\xE9is"
+      - acallen
+      cjid: psub
+    - cjfs:
+      - acallara
+      - acallaras
+      - acallara
+      - "acall\xE1ramos"
+      - acallarais
+      - acallaran
+      cjid: pisb1
+    - cjfs:
+      - acallase
+      - acallases
+      - acallase
+      - "acall\xE1semos"
+      - acallaseis
+      - acallasen
+      cjid: pisb2
+    - cjfs:
+      - acallare
+      - acallares
+      - acallare
+      - "acall\xE1remos"
+      - acallareis
+      - acallaren
+      cjid: fsub
+    - cjfs:
+      - he acallado
+      - has acallado
+      - ha acallado
+      - hemos acallado
+      - "hab\xE9is acallado"
+      - han acallado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa acallado"
+      - "hab\xEDas acallado"
+      - "hab\xEDa acallado"
+      - "hab\xEDamos acallado"
+      - "hab\xEDais acallado"
+      - "hab\xEDan acallado"
+      cjid: ppsi
+    - cjfs:
+      - hube acallado
+      - hubiste acallado
+      - hubo acallado
+      - hubimos acallado
+      - hubisteis acallado
+      - hubieron acallado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 acallado"
+      - "habr\xE1s acallado"
+      - "habr\xE1 acallado"
+      - habremos acallado
+      - "habr\xE9is acallado"
+      - "habr\xE1n acallado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa acallado"
+      - "habr\xEDas acallado"
+      - "habr\xEDa acallado"
+      - "habr\xEDamos acallado"
+      - "habr\xEDais acallado"
+      - "habr\xEDan acallado"
+      cjid: cpef
+    - cjfs:
+      - haya acallado
+      - hayas acallado
+      - haya acallado
+      - hayamos acallado
+      - "hay\xE1is acallado"
+      - hayan acallado
+      cjid: ppfs
+    - cjfs:
+      - hubiera acallado
+      - hubieras acallado
+      - hubiera acallado
+      - "hubi\xE9ramos acallado"
+      - hubierais acallado
+      - hubieran acallado
+      cjid: ppss1
+    - cjfs:
+      - hubiese acallado
+      - hubieses acallado
+      - hubiese acallado
+      - "hubi\xE9semos acallado"
+      - hubieseis acallado
+      - hubiesen acallado
+      cjid: ppss2
+    - cjfs:
+      - hubiere acallado
+      - hubieres acallado
+      - hubiere acallado
+      - "hubi\xE9remos acallado"
+      - hubiereis acallado
+      - hubieren acallado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - acalla
+      - acalle
+      - acallemos
+      - acallad
+      - acallen
+      cjid: impf

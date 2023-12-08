@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|calculate}, to {a_link|estimate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plan}, to {a_link|scheme}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: calcular
+    prs:
+    - sound:
+        audio: calcu01sp
+  meta:
+    id: calcular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603637000'
+    src: spanish
+    stems:
+    - calcular
+    uuid: 1667a5c9-5129-4b08-beb0-30191ff39744
+  shortdef:
+  - to calculate, to estimate
+  - to plan, to scheme
+  suppl:
+    cjts:
+    - cjfs:
+      - calculando
+      - calculado
+      cjid: gppt
+    - cjfs:
+      - calculo
+      - calculas
+      - calcula
+      - calculamos
+      - "calcul\xE1is"
+      - calculan
+      cjid: pind
+    - cjfs:
+      - calculaba
+      - calculabas
+      - calculaba
+      - "calcul\xE1bamos"
+      - calculabais
+      - calculaban
+      cjid: pret
+    - cjfs:
+      - "calcul\xE9"
+      - calculaste
+      - "calcul\xF3"
+      - calculamos
+      - calculasteis
+      - calcularon
+      cjid: pprf
+    - cjfs:
+      - "calcular\xE9"
+      - "calcular\xE1s"
+      - "calcular\xE1"
+      - calcularemos
+      - "calcular\xE9is"
+      - "calcular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "calcular\xEDa"
+      - "calcular\xEDas"
+      - "calcular\xEDa"
+      - "calcular\xEDamos"
+      - "calcular\xEDais"
+      - "calcular\xEDan"
+      cjid: cond
+    - cjfs:
+      - calcule
+      - calcules
+      - calcule
+      - calculemos
+      - "calcul\xE9is"
+      - calculen
+      cjid: psub
+    - cjfs:
+      - calculara
+      - calcularas
+      - calculara
+      - "calcul\xE1ramos"
+      - calcularais
+      - calcularan
+      cjid: pisb1
+    - cjfs:
+      - calculase
+      - calculases
+      - calculase
+      - "calcul\xE1semos"
+      - calculaseis
+      - calculasen
+      cjid: pisb2
+    - cjfs:
+      - calculare
+      - calculares
+      - calculare
+      - "calcul\xE1remos"
+      - calculareis
+      - calcularen
+      cjid: fsub
+    - cjfs:
+      - he calculado
+      - has calculado
+      - ha calculado
+      - hemos calculado
+      - "hab\xE9is calculado"
+      - han calculado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa calculado"
+      - "hab\xEDas calculado"
+      - "hab\xEDa calculado"
+      - "hab\xEDamos calculado"
+      - "hab\xEDais calculado"
+      - "hab\xEDan calculado"
+      cjid: ppsi
+    - cjfs:
+      - hube calculado
+      - hubiste calculado
+      - hubo calculado
+      - hubimos calculado
+      - hubisteis calculado
+      - hubieron calculado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 calculado"
+      - "habr\xE1s calculado"
+      - "habr\xE1 calculado"
+      - habremos calculado
+      - "habr\xE9is calculado"
+      - "habr\xE1n calculado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa calculado"
+      - "habr\xEDas calculado"
+      - "habr\xEDa calculado"
+      - "habr\xEDamos calculado"
+      - "habr\xEDais calculado"
+      - "habr\xEDan calculado"
+      cjid: cpef
+    - cjfs:
+      - haya calculado
+      - hayas calculado
+      - haya calculado
+      - hayamos calculado
+      - "hay\xE1is calculado"
+      - hayan calculado
+      cjid: ppfs
+    - cjfs:
+      - hubiera calculado
+      - hubieras calculado
+      - hubiera calculado
+      - "hubi\xE9ramos calculado"
+      - hubierais calculado
+      - hubieran calculado
+      cjid: ppss1
+    - cjfs:
+      - hubiese calculado
+      - hubieses calculado
+      - hubiese calculado
+      - "hubi\xE9semos calculado"
+      - hubieseis calculado
+      - hubiesen calculado
+      cjid: ppss2
+    - cjfs:
+      - hubiere calculado
+      - hubieres calculado
+      - hubiere calculado
+      - "hubi\xE9remos calculado"
+      - hubiereis calculado
+      - hubieren calculado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - calcula
+      - calcule
+      - calculemos
+      - calculad
+      - calculen
+      cjid: impf

@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dissolve}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break up}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: disolver
+    prs:
+    - sound:
+        audio: disol01sp
+  meta:
+    id: disolver
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607724000'
+    src: spanish
+    stems:
+    - disolver
+    - disolverse
+    uuid: 2098853b-b71d-4867-b678-7289c527022b
+  shortdef:
+  - to dissolve
+  - to break up
+  suppl:
+    cjts:
+    - cjfs:
+      - disolviendo
+      - disuelto
+      cjid: gppt
+    - cjfs:
+      - disuelvo
+      - disuelves
+      - disuelve
+      - disolvemos
+      - "disolv\xE9is"
+      - disuelven
+      cjid: pind
+    - cjfs:
+      - "disolv\xEDa"
+      - "disolv\xEDas"
+      - "disolv\xEDa"
+      - "disolv\xEDamos"
+      - "disolv\xEDais"
+      - "disolv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "disolv\xED"
+      - disolviste
+      - "disolvi\xF3"
+      - disolvimos
+      - disolvisteis
+      - disolvieron
+      cjid: pprf
+    - cjfs:
+      - "disolver\xE9"
+      - "disolver\xE1s"
+      - "disolver\xE1"
+      - disolveremos
+      - "disolver\xE9is"
+      - "disolver\xE1n"
+      cjid: futr
+    - cjfs:
+      - "disolver\xEDa"
+      - "disolver\xEDas"
+      - "disolver\xEDa"
+      - "disolver\xEDamos"
+      - "disolver\xEDais"
+      - "disolver\xEDan"
+      cjid: cond
+    - cjfs:
+      - disuelva
+      - disuelvas
+      - disuelva
+      - disolvamos
+      - "disolv\xE1is"
+      - disuelvan
+      cjid: psub
+    - cjfs:
+      - disolviera
+      - disolvieras
+      - disolviera
+      - "disolvi\xE9ramos"
+      - disolvierais
+      - disolvieran
+      cjid: pisb1
+    - cjfs:
+      - disolviese
+      - disolvieses
+      - disolviese
+      - "disolvi\xE9semos"
+      - disolvieseis
+      - disolviesen
+      cjid: pisb2
+    - cjfs:
+      - disolviere
+      - disolvieres
+      - disolviere
+      - "disolvi\xE9remos"
+      - disolviereis
+      - disolvieren
+      cjid: fsub
+    - cjfs:
+      - he disuelto
+      - has disuelto
+      - ha disuelto
+      - hemos disuelto
+      - "hab\xE9is disuelto"
+      - han disuelto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa disuelto"
+      - "hab\xEDas disuelto"
+      - "hab\xEDa disuelto"
+      - "hab\xEDamos disuelto"
+      - "hab\xEDais disuelto"
+      - "hab\xEDan disuelto"
+      cjid: ppsi
+    - cjfs:
+      - hube disuelto
+      - hubiste disuelto
+      - hubo disuelto
+      - hubimos disuelto
+      - hubisteis disuelto
+      - hubieron disuelto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 disuelto"
+      - "habr\xE1s disuelto"
+      - "habr\xE1 disuelto"
+      - habremos disuelto
+      - "habr\xE9is disuelto"
+      - "habr\xE1n disuelto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa disuelto"
+      - "habr\xEDas disuelto"
+      - "habr\xEDa disuelto"
+      - "habr\xEDamos disuelto"
+      - "habr\xEDais disuelto"
+      - "habr\xEDan disuelto"
+      cjid: cpef
+    - cjfs:
+      - haya disuelto
+      - hayas disuelto
+      - haya disuelto
+      - hayamos disuelto
+      - "hay\xE1is disuelto"
+      - hayan disuelto
+      cjid: ppfs
+    - cjfs:
+      - hubiera disuelto
+      - hubieras disuelto
+      - hubiera disuelto
+      - "hubi\xE9ramos disuelto"
+      - hubierais disuelto
+      - hubieran disuelto
+      cjid: ppss1
+    - cjfs:
+      - hubiese disuelto
+      - hubieses disuelto
+      - hubiese disuelto
+      - "hubi\xE9semos disuelto"
+      - hubieseis disuelto
+      - hubiesen disuelto
+      cjid: ppss2
+    - cjfs:
+      - hubiere disuelto
+      - hubieres disuelto
+      - hubiere disuelto
+      - "hubi\xE9remos disuelto"
+      - hubiereis disuelto
+      - hubieren disuelto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - disuelve
+      - disuelva
+      - disolvamos
+      - disolved
+      - disuelvan
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: disolverse

@@ -1,0 +1,35 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|soso}, {a_link|insulso}, {a_link|desabrido} '
+          - - vis
+            - - t: a bland smile
+                tr: una sonrisa insulsa
+              - t: a bland diet
+                tr: "una dieta f\xE1cil de digerir"
+  fl: adjective
+  hwi:
+    hw: bland
+    prs:
+    - mw: "\u02C8bl\xE6nd"
+      sound:
+        audio: bland001
+  meta:
+    id: bland
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2602375000'
+    src: spanish
+    stems:
+    - bland
+    - blander
+    - blandest
+    - blandly
+    - blandness
+    - blandnesses
+    uuid: 19dd06c6-fbc0-4c22-957e-593220d6a172
+  shortdef:
+  - soso, insulso, desabrido

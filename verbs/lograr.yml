@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get}, to {a_link|obtain}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|achieve}, to {a_link|attain}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be successful'
+    drp: lograrse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: lograr
+    prs:
+    - sound:
+        audio: logra02sp
+  meta:
+    id: lograr
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613996000'
+    src: spanish
+    stems:
+    - lograr
+    - lograrse
+    uuid: 11e7ff01-93b7-4097-bb85-a9344892d647
+  shortdef:
+  - to get, to obtain
+  - to achieve, to attain
+  suppl:
+    cjts:
+    - cjfs:
+      - logrando
+      - logrado
+      cjid: gppt
+    - cjfs:
+      - logro
+      - logras
+      - logra
+      - logramos
+      - "logr\xE1is"
+      - logran
+      cjid: pind
+    - cjfs:
+      - lograba
+      - lograbas
+      - lograba
+      - "logr\xE1bamos"
+      - lograbais
+      - lograban
+      cjid: pret
+    - cjfs:
+      - "logr\xE9"
+      - lograste
+      - "logr\xF3"
+      - logramos
+      - lograsteis
+      - lograron
+      cjid: pprf
+    - cjfs:
+      - "lograr\xE9"
+      - "lograr\xE1s"
+      - "lograr\xE1"
+      - lograremos
+      - "lograr\xE9is"
+      - "lograr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "lograr\xEDa"
+      - "lograr\xEDas"
+      - "lograr\xEDa"
+      - "lograr\xEDamos"
+      - "lograr\xEDais"
+      - "lograr\xEDan"
+      cjid: cond
+    - cjfs:
+      - logre
+      - logres
+      - logre
+      - logremos
+      - "logr\xE9is"
+      - logren
+      cjid: psub
+    - cjfs:
+      - lograra
+      - lograras
+      - lograra
+      - "logr\xE1ramos"
+      - lograrais
+      - lograran
+      cjid: pisb1
+    - cjfs:
+      - lograse
+      - lograses
+      - lograse
+      - "logr\xE1semos"
+      - lograseis
+      - lograsen
+      cjid: pisb2
+    - cjfs:
+      - lograre
+      - lograres
+      - lograre
+      - "logr\xE1remos"
+      - lograreis
+      - lograren
+      cjid: fsub
+    - cjfs:
+      - he logrado
+      - has logrado
+      - ha logrado
+      - hemos logrado
+      - "hab\xE9is logrado"
+      - han logrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa logrado"
+      - "hab\xEDas logrado"
+      - "hab\xEDa logrado"
+      - "hab\xEDamos logrado"
+      - "hab\xEDais logrado"
+      - "hab\xEDan logrado"
+      cjid: ppsi
+    - cjfs:
+      - hube logrado
+      - hubiste logrado
+      - hubo logrado
+      - hubimos logrado
+      - hubisteis logrado
+      - hubieron logrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 logrado"
+      - "habr\xE1s logrado"
+      - "habr\xE1 logrado"
+      - habremos logrado
+      - "habr\xE9is logrado"
+      - "habr\xE1n logrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa logrado"
+      - "habr\xEDas logrado"
+      - "habr\xEDa logrado"
+      - "habr\xEDamos logrado"
+      - "habr\xEDais logrado"
+      - "habr\xEDan logrado"
+      cjid: cpef
+    - cjfs:
+      - haya logrado
+      - hayas logrado
+      - haya logrado
+      - hayamos logrado
+      - "hay\xE1is logrado"
+      - hayan logrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera logrado
+      - hubieras logrado
+      - hubiera logrado
+      - "hubi\xE9ramos logrado"
+      - hubierais logrado
+      - hubieran logrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese logrado
+      - hubieses logrado
+      - hubiese logrado
+      - "hubi\xE9semos logrado"
+      - hubieseis logrado
+      - hubiesen logrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere logrado
+      - hubieres logrado
+      - hubiere logrado
+      - "hubi\xE9remos logrado"
+      - hubiereis logrado
+      - hubieren logrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - logra
+      - logre
+      - logremos
+      - lograd
+      - logren
+      cjid: impf

@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|plow} (through)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|groove}, to {a_link|score}, to {a_link|furrow}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: surcar
+    prs:
+    - sound:
+        audio: surca01sp
+  meta:
+    id: surcar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621282000'
+    src: spanish
+    stems:
+    - surcar
+    uuid: ba26c5c7-0853-4509-97d1-72c6564e05f5
+  shortdef:
+  - to plow (through)
+  - to groove, to score, to furrow
+  suppl:
+    cjts:
+    - cjfs:
+      - surcando
+      - surcado
+      cjid: gppt
+    - cjfs:
+      - surco
+      - surcas
+      - surca
+      - surcamos
+      - "surc\xE1is"
+      - surcan
+      cjid: pind
+    - cjfs:
+      - surcaba
+      - surcabas
+      - surcaba
+      - "surc\xE1bamos"
+      - surcabais
+      - surcaban
+      cjid: pret
+    - cjfs:
+      - "surqu\xE9"
+      - surcaste
+      - "surc\xF3"
+      - surcamos
+      - surcasteis
+      - surcaron
+      cjid: pprf
+    - cjfs:
+      - "surcar\xE9"
+      - "surcar\xE1s"
+      - "surcar\xE1"
+      - surcaremos
+      - "surcar\xE9is"
+      - "surcar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "surcar\xEDa"
+      - "surcar\xEDas"
+      - "surcar\xEDa"
+      - "surcar\xEDamos"
+      - "surcar\xEDais"
+      - "surcar\xEDan"
+      cjid: cond
+    - cjfs:
+      - surque
+      - surques
+      - surque
+      - surquemos
+      - "surqu\xE9is"
+      - surquen
+      cjid: psub
+    - cjfs:
+      - surcara
+      - surcaras
+      - surcara
+      - "surc\xE1ramos"
+      - surcarais
+      - surcaran
+      cjid: pisb1
+    - cjfs:
+      - surcase
+      - surcases
+      - surcase
+      - "surc\xE1semos"
+      - surcaseis
+      - surcasen
+      cjid: pisb2
+    - cjfs:
+      - surcare
+      - surcares
+      - surcare
+      - "surc\xE1remos"
+      - surcareis
+      - surcaren
+      cjid: fsub
+    - cjfs:
+      - he surcado
+      - has surcado
+      - ha surcado
+      - hemos surcado
+      - "hab\xE9is surcado"
+      - han surcado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa surcado"
+      - "hab\xEDas surcado"
+      - "hab\xEDa surcado"
+      - "hab\xEDamos surcado"
+      - "hab\xEDais surcado"
+      - "hab\xEDan surcado"
+      cjid: ppsi
+    - cjfs:
+      - hube surcado
+      - hubiste surcado
+      - hubo surcado
+      - hubimos surcado
+      - hubisteis surcado
+      - hubieron surcado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 surcado"
+      - "habr\xE1s surcado"
+      - "habr\xE1 surcado"
+      - habremos surcado
+      - "habr\xE9is surcado"
+      - "habr\xE1n surcado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa surcado"
+      - "habr\xEDas surcado"
+      - "habr\xEDa surcado"
+      - "habr\xEDamos surcado"
+      - "habr\xEDais surcado"
+      - "habr\xEDan surcado"
+      cjid: cpef
+    - cjfs:
+      - haya surcado
+      - hayas surcado
+      - haya surcado
+      - hayamos surcado
+      - "hay\xE1is surcado"
+      - hayan surcado
+      cjid: ppfs
+    - cjfs:
+      - hubiera surcado
+      - hubieras surcado
+      - hubiera surcado
+      - "hubi\xE9ramos surcado"
+      - hubierais surcado
+      - hubieran surcado
+      cjid: ppss1
+    - cjfs:
+      - hubiese surcado
+      - hubieses surcado
+      - hubiese surcado
+      - "hubi\xE9semos surcado"
+      - hubieseis surcado
+      - hubiesen surcado
+      cjid: ppss2
+    - cjfs:
+      - hubiere surcado
+      - hubieres surcado
+      - hubiere surcado
+      - "hubi\xE9remos surcado"
+      - hubiereis surcado
+      - hubieren surcado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - surca
+      - surque
+      - surquemos
+      - surcad
+      - surquen
+      cjid: impf

@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|ir||} {bc}to {a_link|go}, to {a_link|travel}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|andar||} {bc}to {a_link|walk}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|funcionar||} {bc}to {a_link|work}, to {a_link|go}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|march}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|leave}'
+    drp: marcharse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: marchar
+    prs:
+    - sound:
+        audio: march02sp
+  meta:
+    id: marchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2614462000'
+    src: spanish
+    stems:
+    - marchar
+    - marcharse
+    uuid: 1bda68bf-1bc1-47e0-a54b-edc725f8f4ab
+  shortdef:
+  - 'ir : to go, to travel'
+  - 'andar : to walk'
+  - 'funcionar : to work, to go'
+  suppl:
+    cjts:
+    - cjfs:
+      - marchando
+      - marchado
+      cjid: gppt
+    - cjfs:
+      - marcho
+      - marchas
+      - marcha
+      - marchamos
+      - "march\xE1is"
+      - marchan
+      cjid: pind
+    - cjfs:
+      - marchaba
+      - marchabas
+      - marchaba
+      - "march\xE1bamos"
+      - marchabais
+      - marchaban
+      cjid: pret
+    - cjfs:
+      - "march\xE9"
+      - marchaste
+      - "march\xF3"
+      - marchamos
+      - marchasteis
+      - marcharon
+      cjid: pprf
+    - cjfs:
+      - "marchar\xE9"
+      - "marchar\xE1s"
+      - "marchar\xE1"
+      - marcharemos
+      - "marchar\xE9is"
+      - "marchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "marchar\xEDa"
+      - "marchar\xEDas"
+      - "marchar\xEDa"
+      - "marchar\xEDamos"
+      - "marchar\xEDais"
+      - "marchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - marche
+      - marches
+      - marche
+      - marchemos
+      - "march\xE9is"
+      - marchen
+      cjid: psub
+    - cjfs:
+      - marchara
+      - marcharas
+      - marchara
+      - "march\xE1ramos"
+      - marcharais
+      - marcharan
+      cjid: pisb1
+    - cjfs:
+      - marchase
+      - marchases
+      - marchase
+      - "march\xE1semos"
+      - marchaseis
+      - marchasen
+      cjid: pisb2
+    - cjfs:
+      - marchare
+      - marchares
+      - marchare
+      - "march\xE1remos"
+      - marchareis
+      - marcharen
+      cjid: fsub
+    - cjfs:
+      - he marchado
+      - has marchado
+      - ha marchado
+      - hemos marchado
+      - "hab\xE9is marchado"
+      - han marchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa marchado"
+      - "hab\xEDas marchado"
+      - "hab\xEDa marchado"
+      - "hab\xEDamos marchado"
+      - "hab\xEDais marchado"
+      - "hab\xEDan marchado"
+      cjid: ppsi
+    - cjfs:
+      - hube marchado
+      - hubiste marchado
+      - hubo marchado
+      - hubimos marchado
+      - hubisteis marchado
+      - hubieron marchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 marchado"
+      - "habr\xE1s marchado"
+      - "habr\xE1 marchado"
+      - habremos marchado
+      - "habr\xE9is marchado"
+      - "habr\xE1n marchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa marchado"
+      - "habr\xEDas marchado"
+      - "habr\xEDa marchado"
+      - "habr\xEDamos marchado"
+      - "habr\xEDais marchado"
+      - "habr\xEDan marchado"
+      cjid: cpef
+    - cjfs:
+      - haya marchado
+      - hayas marchado
+      - haya marchado
+      - hayamos marchado
+      - "hay\xE1is marchado"
+      - hayan marchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera marchado
+      - hubieras marchado
+      - hubiera marchado
+      - "hubi\xE9ramos marchado"
+      - hubierais marchado
+      - hubieran marchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese marchado
+      - hubieses marchado
+      - hubiese marchado
+      - "hubi\xE9semos marchado"
+      - hubieseis marchado
+      - hubiesen marchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere marchado
+      - hubieres marchado
+      - hubiere marchado
+      - "hubi\xE9remos marchado"
+      - hubiereis marchado
+      - hubieren marchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - marcha
+      - marche
+      - marchemos
+      - marchad
+      - marchen
+      cjid: impf

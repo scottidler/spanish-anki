@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|anticipar||} {bc}to {a_link|foresee}, to {a_link|anticipate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|planear||} {bc}to {a_link|plan}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: prever
+    prs:
+    - sound:
+        audio: preve04sp
+  meta:
+    id: prever
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618091000'
+    src: spanish
+    stems:
+    - prever
+    uuid: cc921eb3-a001-4cc9-879e-a9629ec3e907
+  shortdef:
+  - 'anticipar : to foresee, to anticipate'
+  - 'planear : to plan'
+  suppl:
+    cjts:
+    - cjfs:
+      - previendo
+      - previsto
+      cjid: gppt
+    - cjfs:
+      - preveo
+      - preves
+      - preve
+      - prevemos
+      - "prev\xE9is"
+      - preven
+      cjid: pind
+    - cjfs:
+      - "preve\xEDa"
+      - "preve\xEDas"
+      - "preve\xEDa"
+      - "preve\xEDamos"
+      - "preve\xEDais"
+      - "preve\xEDan"
+      cjid: pret
+    - cjfs:
+      - "prev\xED"
+      - previste
+      - "previ\xF3"
+      - previmos
+      - previsteis
+      - previeron
+      cjid: pprf
+    - cjfs:
+      - "prever\xE9"
+      - "prever\xE1s"
+      - "prever\xE1"
+      - preveremos
+      - "prever\xE9is"
+      - "prever\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prever\xEDa"
+      - "prever\xEDas"
+      - "prever\xEDa"
+      - "prever\xEDamos"
+      - "prever\xEDais"
+      - "prever\xEDan"
+      cjid: cond
+    - cjfs:
+      - prevea
+      - preveas
+      - prevea
+      - preveamos
+      - "preve\xE1is"
+      - prevean
+      cjid: psub
+    - cjfs:
+      - previera
+      - previeras
+      - previera
+      - "previ\xE9ramos"
+      - previerais
+      - previeran
+      cjid: pisb1
+    - cjfs:
+      - previese
+      - previeses
+      - previese
+      - "previ\xE9semos"
+      - previeseis
+      - previesen
+      cjid: pisb2
+    - cjfs:
+      - previere
+      - previeres
+      - previere
+      - "previ\xE9remos"
+      - previereis
+      - previeren
+      cjid: fsub
+    - cjfs:
+      - he previsto
+      - has previsto
+      - ha previsto
+      - hemos previsto
+      - "hab\xE9is previsto"
+      - han previsto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa previsto"
+      - "hab\xEDas previsto"
+      - "hab\xEDa previsto"
+      - "hab\xEDamos previsto"
+      - "hab\xEDais previsto"
+      - "hab\xEDan previsto"
+      cjid: ppsi
+    - cjfs:
+      - hube previsto
+      - hubiste previsto
+      - hubo previsto
+      - hubimos previsto
+      - hubisteis previsto
+      - hubieron previsto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 previsto"
+      - "habr\xE1s previsto"
+      - "habr\xE1 previsto"
+      - habremos previsto
+      - "habr\xE9is previsto"
+      - "habr\xE1n previsto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa previsto"
+      - "habr\xEDas previsto"
+      - "habr\xEDa previsto"
+      - "habr\xEDamos previsto"
+      - "habr\xEDais previsto"
+      - "habr\xEDan previsto"
+      cjid: cpef
+    - cjfs:
+      - haya previsto
+      - hayas previsto
+      - haya previsto
+      - hayamos previsto
+      - "hay\xE1is previsto"
+      - hayan previsto
+      cjid: ppfs
+    - cjfs:
+      - hubiera previsto
+      - hubieras previsto
+      - hubiera previsto
+      - "hubi\xE9ramos previsto"
+      - hubierais previsto
+      - hubieran previsto
+      cjid: ppss1
+    - cjfs:
+      - hubiese previsto
+      - hubieses previsto
+      - hubiese previsto
+      - "hubi\xE9semos previsto"
+      - hubieseis previsto
+      - hubiesen previsto
+      cjid: ppss2
+    - cjfs:
+      - hubiere previsto
+      - hubieres previsto
+      - hubiere previsto
+      - "hubi\xE9remos previsto"
+      - hubiereis previsto
+      - hubieren previsto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "prev\xE9"
+      - prevea
+      - preveamos
+      - preved
+      - prevean
+      cjid: impf

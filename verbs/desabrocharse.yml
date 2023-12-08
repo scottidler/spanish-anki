@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|unbutton}, to {a_link|undo}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|come undone}'
+    drp: desabrocharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desabrochar
+  meta:
+    id: desabrochar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606785000'
+    src: spanish
+    stems:
+    - desabrochar
+    - desabrocharse
+    uuid: 8c9d9710-392e-4e80-9d90-f43b0832af1f
+  shortdef:
+  - to unbutton, to undo
+  suppl:
+    cjts:
+    - cjfs:
+      - desabrochando
+      - desabrochado
+      cjid: gppt
+    - cjfs:
+      - desabrocho
+      - desabrochas
+      - desabrocha
+      - desabrochamos
+      - "desabroch\xE1is"
+      - desabrochan
+      cjid: pind
+    - cjfs:
+      - desabrochaba
+      - desabrochabas
+      - desabrochaba
+      - "desabroch\xE1bamos"
+      - desabrochabais
+      - desabrochaban
+      cjid: pret
+    - cjfs:
+      - "desabroch\xE9"
+      - desabrochaste
+      - "desabroch\xF3"
+      - desabrochamos
+      - desabrochasteis
+      - desabrocharon
+      cjid: pprf
+    - cjfs:
+      - "desabrochar\xE9"
+      - "desabrochar\xE1s"
+      - "desabrochar\xE1"
+      - desabrocharemos
+      - "desabrochar\xE9is"
+      - "desabrochar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desabrochar\xEDa"
+      - "desabrochar\xEDas"
+      - "desabrochar\xEDa"
+      - "desabrochar\xEDamos"
+      - "desabrochar\xEDais"
+      - "desabrochar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desabroche
+      - desabroches
+      - desabroche
+      - desabrochemos
+      - "desabroch\xE9is"
+      - desabrochen
+      cjid: psub
+    - cjfs:
+      - desabrochara
+      - desabrocharas
+      - desabrochara
+      - "desabroch\xE1ramos"
+      - desabrocharais
+      - desabrocharan
+      cjid: pisb1
+    - cjfs:
+      - desabrochase
+      - desabrochases
+      - desabrochase
+      - "desabroch\xE1semos"
+      - desabrochaseis
+      - desabrochasen
+      cjid: pisb2
+    - cjfs:
+      - desabrochare
+      - desabrochares
+      - desabrochare
+      - "desabroch\xE1remos"
+      - desabrochareis
+      - desabrocharen
+      cjid: fsub
+    - cjfs:
+      - he desabrochado
+      - has desabrochado
+      - ha desabrochado
+      - hemos desabrochado
+      - "hab\xE9is desabrochado"
+      - han desabrochado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desabrochado"
+      - "hab\xEDas desabrochado"
+      - "hab\xEDa desabrochado"
+      - "hab\xEDamos desabrochado"
+      - "hab\xEDais desabrochado"
+      - "hab\xEDan desabrochado"
+      cjid: ppsi
+    - cjfs:
+      - hube desabrochado
+      - hubiste desabrochado
+      - hubo desabrochado
+      - hubimos desabrochado
+      - hubisteis desabrochado
+      - hubieron desabrochado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desabrochado"
+      - "habr\xE1s desabrochado"
+      - "habr\xE1 desabrochado"
+      - habremos desabrochado
+      - "habr\xE9is desabrochado"
+      - "habr\xE1n desabrochado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desabrochado"
+      - "habr\xEDas desabrochado"
+      - "habr\xEDa desabrochado"
+      - "habr\xEDamos desabrochado"
+      - "habr\xEDais desabrochado"
+      - "habr\xEDan desabrochado"
+      cjid: cpef
+    - cjfs:
+      - haya desabrochado
+      - hayas desabrochado
+      - haya desabrochado
+      - hayamos desabrochado
+      - "hay\xE1is desabrochado"
+      - hayan desabrochado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desabrochado
+      - hubieras desabrochado
+      - hubiera desabrochado
+      - "hubi\xE9ramos desabrochado"
+      - hubierais desabrochado
+      - hubieran desabrochado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desabrochado
+      - hubieses desabrochado
+      - hubiese desabrochado
+      - "hubi\xE9semos desabrochado"
+      - hubieseis desabrochado
+      - hubiesen desabrochado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desabrochado
+      - hubieres desabrochado
+      - hubiere desabrochado
+      - "hubi\xE9remos desabrochado"
+      - hubiereis desabrochado
+      - hubieren desabrochado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desabrocha
+      - desabroche
+      - desabrochemos
+      - desabrochad
+      - desabrochen
+      cjid: impf

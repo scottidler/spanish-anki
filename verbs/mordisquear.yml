@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|nibble} (on), to {a_link|bite}'
+  fl: transitive verb
+  hwi:
+    hw: mordisquear
+  meta:
+    id: mordisquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615342000'
+    src: spanish
+    stems:
+    - mordisquear
+    uuid: 7919b39a-5b43-4452-8bd8-fa6c1ced8ab4
+  shortdef:
+  - to nibble (on), to bite
+  suppl:
+    cjts:
+    - cjfs:
+      - mordisqueando
+      - mordisqueado
+      cjid: gppt
+    - cjfs:
+      - mordisqueo
+      - mordisqueas
+      - mordisquea
+      - mordisqueamos
+      - "mordisque\xE1is"
+      - mordisquean
+      cjid: pind
+    - cjfs:
+      - mordisqueaba
+      - mordisqueabas
+      - mordisqueaba
+      - "mordisque\xE1bamos"
+      - mordisqueabais
+      - mordisqueaban
+      cjid: pret
+    - cjfs:
+      - "mordisque\xE9"
+      - mordisqueaste
+      - "mordisque\xF3"
+      - mordisqueamos
+      - mordisqueasteis
+      - mordisquearon
+      cjid: pprf
+    - cjfs:
+      - "mordisquear\xE9"
+      - "mordisquear\xE1s"
+      - "mordisquear\xE1"
+      - mordisquearemos
+      - "mordisquear\xE9is"
+      - "mordisquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "mordisquear\xEDa"
+      - "mordisquear\xEDas"
+      - "mordisquear\xEDa"
+      - "mordisquear\xEDamos"
+      - "mordisquear\xEDais"
+      - "mordisquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - mordisquee
+      - mordisquees
+      - mordisquee
+      - mordisqueemos
+      - "mordisque\xE9is"
+      - mordisqueen
+      cjid: psub
+    - cjfs:
+      - mordisqueara
+      - mordisquearas
+      - mordisqueara
+      - "mordisque\xE1ramos"
+      - mordisquearais
+      - mordisquearan
+      cjid: pisb1
+    - cjfs:
+      - mordisquease
+      - mordisqueases
+      - mordisquease
+      - "mordisque\xE1semos"
+      - mordisqueaseis
+      - mordisqueasen
+      cjid: pisb2
+    - cjfs:
+      - mordisqueare
+      - mordisqueares
+      - mordisqueare
+      - "mordisque\xE1remos"
+      - mordisqueareis
+      - mordisquearen
+      cjid: fsub
+    - cjfs:
+      - he mordisqueado
+      - has mordisqueado
+      - ha mordisqueado
+      - hemos mordisqueado
+      - "hab\xE9is mordisqueado"
+      - han mordisqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa mordisqueado"
+      - "hab\xEDas mordisqueado"
+      - "hab\xEDa mordisqueado"
+      - "hab\xEDamos mordisqueado"
+      - "hab\xEDais mordisqueado"
+      - "hab\xEDan mordisqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube mordisqueado
+      - hubiste mordisqueado
+      - hubo mordisqueado
+      - hubimos mordisqueado
+      - hubisteis mordisqueado
+      - hubieron mordisqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 mordisqueado"
+      - "habr\xE1s mordisqueado"
+      - "habr\xE1 mordisqueado"
+      - habremos mordisqueado
+      - "habr\xE9is mordisqueado"
+      - "habr\xE1n mordisqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa mordisqueado"
+      - "habr\xEDas mordisqueado"
+      - "habr\xEDa mordisqueado"
+      - "habr\xEDamos mordisqueado"
+      - "habr\xEDais mordisqueado"
+      - "habr\xEDan mordisqueado"
+      cjid: cpef
+    - cjfs:
+      - haya mordisqueado
+      - hayas mordisqueado
+      - haya mordisqueado
+      - hayamos mordisqueado
+      - "hay\xE1is mordisqueado"
+      - hayan mordisqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera mordisqueado
+      - hubieras mordisqueado
+      - hubiera mordisqueado
+      - "hubi\xE9ramos mordisqueado"
+      - hubierais mordisqueado
+      - hubieran mordisqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese mordisqueado
+      - hubieses mordisqueado
+      - hubiese mordisqueado
+      - "hubi\xE9semos mordisqueado"
+      - hubieseis mordisqueado
+      - hubiesen mordisqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere mordisqueado
+      - hubieres mordisqueado
+      - hubiere mordisqueado
+      - "hubi\xE9remos mordisqueado"
+      - hubiereis mordisqueado
+      - hubieren mordisqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - mordisquea
+      - mordisquee
+      - mordisqueemos
+      - mordisquead
+      - mordisqueen
+      cjid: impf

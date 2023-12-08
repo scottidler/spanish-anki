@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|level}, to {a_link|smooth}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|devastate}, to {a_link|destroy}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fill to the brim'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: arrasar
+    prs:
+    - sound:
+        audio: arras01sp
+  meta:
+    id: arrasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601982000'
+    src: spanish
+    stems:
+    - arrasar
+    uuid: e25a8e9e-d28a-449c-9219-c3edf0140bdf
+  shortdef:
+  - to level, to smooth
+  - to devastate, to destroy
+  - to fill to the brim
+  suppl:
+    cjts:
+    - cjfs:
+      - arrasando
+      - arrasado
+      cjid: gppt
+    - cjfs:
+      - arraso
+      - arrasas
+      - arrasa
+      - arrasamos
+      - "arras\xE1is"
+      - arrasan
+      cjid: pind
+    - cjfs:
+      - arrasaba
+      - arrasabas
+      - arrasaba
+      - "arras\xE1bamos"
+      - arrasabais
+      - arrasaban
+      cjid: pret
+    - cjfs:
+      - "arras\xE9"
+      - arrasaste
+      - "arras\xF3"
+      - arrasamos
+      - arrasasteis
+      - arrasaron
+      cjid: pprf
+    - cjfs:
+      - "arrasar\xE9"
+      - "arrasar\xE1s"
+      - "arrasar\xE1"
+      - arrasaremos
+      - "arrasar\xE9is"
+      - "arrasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arrasar\xEDa"
+      - "arrasar\xEDas"
+      - "arrasar\xEDa"
+      - "arrasar\xEDamos"
+      - "arrasar\xEDais"
+      - "arrasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - arrase
+      - arrases
+      - arrase
+      - arrasemos
+      - "arras\xE9is"
+      - arrasen
+      cjid: psub
+    - cjfs:
+      - arrasara
+      - arrasaras
+      - arrasara
+      - "arras\xE1ramos"
+      - arrasarais
+      - arrasaran
+      cjid: pisb1
+    - cjfs:
+      - arrasase
+      - arrasases
+      - arrasase
+      - "arras\xE1semos"
+      - arrasaseis
+      - arrasasen
+      cjid: pisb2
+    - cjfs:
+      - arrasare
+      - arrasares
+      - arrasare
+      - "arras\xE1remos"
+      - arrasareis
+      - arrasaren
+      cjid: fsub
+    - cjfs:
+      - he arrasado
+      - has arrasado
+      - ha arrasado
+      - hemos arrasado
+      - "hab\xE9is arrasado"
+      - han arrasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arrasado"
+      - "hab\xEDas arrasado"
+      - "hab\xEDa arrasado"
+      - "hab\xEDamos arrasado"
+      - "hab\xEDais arrasado"
+      - "hab\xEDan arrasado"
+      cjid: ppsi
+    - cjfs:
+      - hube arrasado
+      - hubiste arrasado
+      - hubo arrasado
+      - hubimos arrasado
+      - hubisteis arrasado
+      - hubieron arrasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arrasado"
+      - "habr\xE1s arrasado"
+      - "habr\xE1 arrasado"
+      - habremos arrasado
+      - "habr\xE9is arrasado"
+      - "habr\xE1n arrasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arrasado"
+      - "habr\xEDas arrasado"
+      - "habr\xEDa arrasado"
+      - "habr\xEDamos arrasado"
+      - "habr\xEDais arrasado"
+      - "habr\xEDan arrasado"
+      cjid: cpef
+    - cjfs:
+      - haya arrasado
+      - hayas arrasado
+      - haya arrasado
+      - hayamos arrasado
+      - "hay\xE1is arrasado"
+      - hayan arrasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera arrasado
+      - hubieras arrasado
+      - hubiera arrasado
+      - "hubi\xE9ramos arrasado"
+      - hubierais arrasado
+      - hubieran arrasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese arrasado
+      - hubieses arrasado
+      - hubiese arrasado
+      - "hubi\xE9semos arrasado"
+      - hubieseis arrasado
+      - hubiesen arrasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere arrasado
+      - hubieres arrasado
+      - hubiere arrasado
+      - "hubi\xE9remos arrasado"
+      - hubiereis arrasado
+      - hubieren arrasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arrasa
+      - arrase
+      - arrasemos
+      - arrasad
+      - arrasen
+      cjid: impf

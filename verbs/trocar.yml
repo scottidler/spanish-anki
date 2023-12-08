@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cambiar||} {bc}to {a_link|exchange}, to {a_link|trade}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cambiar||} {bc}to {a_link|change}, to {a_link|alter}, to {a_link|transform}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|confundir||} {bc}to {a_link|confuse}, to {a_link|mix up}'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: trocar
+    prs:
+    - sound:
+        audio: troca01sp
+  meta:
+    id: trocar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622362000'
+    src: spanish
+    stems:
+    - trocar
+    uuid: 136beca6-f4d0-4726-80e5-f9142ddf8dba
+  shortdef:
+  - 'cambiar : to exchange, to trade'
+  - 'cambiar : to change, to alter, to transform'
+  - 'confundir : to confuse, to mix up'
+  suppl:
+    cjts:
+    - cjfs:
+      - trocando
+      - trocado
+      cjid: gppt
+    - cjfs:
+      - trueco
+      - truecas
+      - trueca
+      - trocamos
+      - "troc\xE1is"
+      - truecan
+      cjid: pind
+    - cjfs:
+      - trocaba
+      - trocabas
+      - trocaba
+      - "troc\xE1bamos"
+      - trocabais
+      - trocaban
+      cjid: pret
+    - cjfs:
+      - "troqu\xE9"
+      - trocaste
+      - "troc\xF3"
+      - trocamos
+      - trocasteis
+      - trocaron
+      cjid: pprf
+    - cjfs:
+      - "trocar\xE9"
+      - "trocar\xE1s"
+      - "trocar\xE1"
+      - trocaremos
+      - "trocar\xE9is"
+      - "trocar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "trocar\xEDa"
+      - "trocar\xEDas"
+      - "trocar\xEDa"
+      - "trocar\xEDamos"
+      - "trocar\xEDais"
+      - "trocar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trueque
+      - trueques
+      - trueque
+      - troquemos
+      - "troqu\xE9is"
+      - truequen
+      cjid: psub
+    - cjfs:
+      - trocara
+      - trocaras
+      - trocara
+      - "troc\xE1ramos"
+      - trocarais
+      - trocaran
+      cjid: pisb1
+    - cjfs:
+      - trocase
+      - trocases
+      - trocase
+      - "troc\xE1semos"
+      - trocaseis
+      - trocasen
+      cjid: pisb2
+    - cjfs:
+      - trocare
+      - trocares
+      - trocare
+      - "troc\xE1remos"
+      - trocareis
+      - trocaren
+      cjid: fsub
+    - cjfs:
+      - he trocado
+      - has trocado
+      - ha trocado
+      - hemos trocado
+      - "hab\xE9is trocado"
+      - han trocado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa trocado"
+      - "hab\xEDas trocado"
+      - "hab\xEDa trocado"
+      - "hab\xEDamos trocado"
+      - "hab\xEDais trocado"
+      - "hab\xEDan trocado"
+      cjid: ppsi
+    - cjfs:
+      - hube trocado
+      - hubiste trocado
+      - hubo trocado
+      - hubimos trocado
+      - hubisteis trocado
+      - hubieron trocado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 trocado"
+      - "habr\xE1s trocado"
+      - "habr\xE1 trocado"
+      - habremos trocado
+      - "habr\xE9is trocado"
+      - "habr\xE1n trocado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa trocado"
+      - "habr\xEDas trocado"
+      - "habr\xEDa trocado"
+      - "habr\xEDamos trocado"
+      - "habr\xEDais trocado"
+      - "habr\xEDan trocado"
+      cjid: cpef
+    - cjfs:
+      - haya trocado
+      - hayas trocado
+      - haya trocado
+      - hayamos trocado
+      - "hay\xE1is trocado"
+      - hayan trocado
+      cjid: ppfs
+    - cjfs:
+      - hubiera trocado
+      - hubieras trocado
+      - hubiera trocado
+      - "hubi\xE9ramos trocado"
+      - hubierais trocado
+      - hubieran trocado
+      cjid: ppss1
+    - cjfs:
+      - hubiese trocado
+      - hubieses trocado
+      - hubiese trocado
+      - "hubi\xE9semos trocado"
+      - hubieseis trocado
+      - hubiesen trocado
+      cjid: ppss2
+    - cjfs:
+      - hubiere trocado
+      - hubieres trocado
+      - hubiere trocado
+      - "hubi\xE9remos trocado"
+      - hubiereis trocado
+      - hubieren trocado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - trueca
+      - trueque
+      - troquemos
+      - trocad
+      - truequen
+      cjid: impf

@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|slide}, to {a_link|slip}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to slip in'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|slide}, to {a_link|glide}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to slip away'
+            sn: '2'
+    drp: deslizarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: deslizar
+    prs:
+    - sound:
+        audio: desli01sp
+  meta:
+    id: deslizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607165000'
+    src: spanish
+    stems:
+    - deslizar
+    - deslizarse
+    uuid: b4f9f9c2-0beb-45c5-911c-9861f96e258f
+  shortdef:
+  - to slide, to slip
+  - to slip in
+  suppl:
+    cjts:
+    - cjfs:
+      - deslizando
+      - deslizado
+      cjid: gppt
+    - cjfs:
+      - deslizo
+      - deslizas
+      - desliza
+      - deslizamos
+      - "desliz\xE1is"
+      - deslizan
+      cjid: pind
+    - cjfs:
+      - deslizaba
+      - deslizabas
+      - deslizaba
+      - "desliz\xE1bamos"
+      - deslizabais
+      - deslizaban
+      cjid: pret
+    - cjfs:
+      - "deslic\xE9"
+      - deslizaste
+      - "desliz\xF3"
+      - deslizamos
+      - deslizasteis
+      - deslizaron
+      cjid: pprf
+    - cjfs:
+      - "deslizar\xE9"
+      - "deslizar\xE1s"
+      - "deslizar\xE1"
+      - deslizaremos
+      - "deslizar\xE9is"
+      - "deslizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "deslizar\xEDa"
+      - "deslizar\xEDas"
+      - "deslizar\xEDa"
+      - "deslizar\xEDamos"
+      - "deslizar\xEDais"
+      - "deslizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - deslice
+      - deslices
+      - deslice
+      - deslicemos
+      - "deslic\xE9is"
+      - deslicen
+      cjid: psub
+    - cjfs:
+      - deslizara
+      - deslizaras
+      - deslizara
+      - "desliz\xE1ramos"
+      - deslizarais
+      - deslizaran
+      cjid: pisb1
+    - cjfs:
+      - deslizase
+      - deslizases
+      - deslizase
+      - "desliz\xE1semos"
+      - deslizaseis
+      - deslizasen
+      cjid: pisb2
+    - cjfs:
+      - deslizare
+      - deslizares
+      - deslizare
+      - "desliz\xE1remos"
+      - deslizareis
+      - deslizaren
+      cjid: fsub
+    - cjfs:
+      - he deslizado
+      - has deslizado
+      - ha deslizado
+      - hemos deslizado
+      - "hab\xE9is deslizado"
+      - han deslizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa deslizado"
+      - "hab\xEDas deslizado"
+      - "hab\xEDa deslizado"
+      - "hab\xEDamos deslizado"
+      - "hab\xEDais deslizado"
+      - "hab\xEDan deslizado"
+      cjid: ppsi
+    - cjfs:
+      - hube deslizado
+      - hubiste deslizado
+      - hubo deslizado
+      - hubimos deslizado
+      - hubisteis deslizado
+      - hubieron deslizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 deslizado"
+      - "habr\xE1s deslizado"
+      - "habr\xE1 deslizado"
+      - habremos deslizado
+      - "habr\xE9is deslizado"
+      - "habr\xE1n deslizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa deslizado"
+      - "habr\xEDas deslizado"
+      - "habr\xEDa deslizado"
+      - "habr\xEDamos deslizado"
+      - "habr\xEDais deslizado"
+      - "habr\xEDan deslizado"
+      cjid: cpef
+    - cjfs:
+      - haya deslizado
+      - hayas deslizado
+      - haya deslizado
+      - hayamos deslizado
+      - "hay\xE1is deslizado"
+      - hayan deslizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera deslizado
+      - hubieras deslizado
+      - hubiera deslizado
+      - "hubi\xE9ramos deslizado"
+      - hubierais deslizado
+      - hubieran deslizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese deslizado
+      - hubieses deslizado
+      - hubiese deslizado
+      - "hubi\xE9semos deslizado"
+      - hubieseis deslizado
+      - hubiesen deslizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere deslizado
+      - hubieres deslizado
+      - hubiere deslizado
+      - "hubi\xE9remos deslizado"
+      - hubiereis deslizado
+      - hubieren deslizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desliza
+      - deslice
+      - deslicemos
+      - deslizad
+      - deslicen
+      cjid: impf

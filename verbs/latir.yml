@@ -1,0 +1,197 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|beat}, to {a_link|throb}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a hunch '
+          - - vis
+            - - t: me late que no va a venir
+                tr: I have a feeling he's not going to come
+          sls:
+          - Mexico familiar
+          sn: '2'
+          vrs:
+          - va: latirle a uno
+  fl: intransitive verb
+  hwi:
+    hw: latir
+    prs:
+    - sound:
+        audio: latir01sp
+  meta:
+    id: latir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613537000'
+    src: spanish
+    stems:
+    - latir
+    - latirle a uno
+    uuid: 38646ee4-0851-4313-8646-003692a43f3e
+  shortdef:
+  - to beat, to throb
+  - to have a hunch
+  suppl:
+    cjts:
+    - cjfs:
+      - latiendo
+      - latido
+      cjid: gppt
+    - cjfs:
+      - lato
+      - lates
+      - late
+      - latimos
+      - "lat\xEDs"
+      - laten
+      cjid: pind
+    - cjfs:
+      - "lat\xEDa"
+      - "lat\xEDas"
+      - "lat\xEDa"
+      - "lat\xEDamos"
+      - "lat\xEDais"
+      - "lat\xEDan"
+      cjid: pret
+    - cjfs:
+      - "lat\xED"
+      - latiste
+      - "lati\xF3"
+      - latimos
+      - latisteis
+      - latieron
+      cjid: pprf
+    - cjfs:
+      - "latir\xE9"
+      - "latir\xE1s"
+      - "latir\xE1"
+      - latiremos
+      - "latir\xE9is"
+      - "latir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "latir\xEDa"
+      - "latir\xEDas"
+      - "latir\xEDa"
+      - "latir\xEDamos"
+      - "latir\xEDais"
+      - "latir\xEDan"
+      cjid: cond
+    - cjfs:
+      - lata
+      - latas
+      - lata
+      - latamos
+      - "lat\xE1is"
+      - latan
+      cjid: psub
+    - cjfs:
+      - latiera
+      - latieras
+      - latiera
+      - "lati\xE9ramos"
+      - latierais
+      - latieran
+      cjid: pisb1
+    - cjfs:
+      - latiese
+      - latieses
+      - latiese
+      - "lati\xE9semos"
+      - latieseis
+      - latiesen
+      cjid: pisb2
+    - cjfs:
+      - latiere
+      - latieres
+      - latiere
+      - "lati\xE9remos"
+      - latiereis
+      - latieren
+      cjid: fsub
+    - cjfs:
+      - he latido
+      - has latido
+      - ha latido
+      - hemos latido
+      - "hab\xE9is latido"
+      - han latido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa latido"
+      - "hab\xEDas latido"
+      - "hab\xEDa latido"
+      - "hab\xEDamos latido"
+      - "hab\xEDais latido"
+      - "hab\xEDan latido"
+      cjid: ppsi
+    - cjfs:
+      - hube latido
+      - hubiste latido
+      - hubo latido
+      - hubimos latido
+      - hubisteis latido
+      - hubieron latido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 latido"
+      - "habr\xE1s latido"
+      - "habr\xE1 latido"
+      - habremos latido
+      - "habr\xE9is latido"
+      - "habr\xE1n latido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa latido"
+      - "habr\xEDas latido"
+      - "habr\xEDa latido"
+      - "habr\xEDamos latido"
+      - "habr\xEDais latido"
+      - "habr\xEDan latido"
+      cjid: cpef
+    - cjfs:
+      - haya latido
+      - hayas latido
+      - haya latido
+      - hayamos latido
+      - "hay\xE1is latido"
+      - hayan latido
+      cjid: ppfs
+    - cjfs:
+      - hubiera latido
+      - hubieras latido
+      - hubiera latido
+      - "hubi\xE9ramos latido"
+      - hubierais latido
+      - hubieran latido
+      cjid: ppss1
+    - cjfs:
+      - hubiese latido
+      - hubieses latido
+      - hubiese latido
+      - "hubi\xE9semos latido"
+      - hubieseis latido
+      - hubiesen latido
+      cjid: ppss2
+    - cjfs:
+      - hubiere latido
+      - hubieres latido
+      - hubiere latido
+      - "hubi\xE9remos latido"
+      - hubiereis latido
+      - hubieren latido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - late
+      - lata
+      - latamos
+      - latid
+      - latan
+      cjid: impf

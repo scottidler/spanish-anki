@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bless}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to say grace'
+          sn: '2'
+          vrs:
+          - va: bendecir la mesa
+  fl: transitive verb
+  hwi:
+    hw: bendecir
+    prs:
+    - sound:
+        audio: bende01sp
+  meta:
+    id: bendecir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602930000'
+    src: spanish
+    stems:
+    - bendecir
+    - bendecir la mesa
+    uuid: 7d31b144-906d-442e-ae99-47469438fe43
+  shortdef:
+  - to bless
+  - to say grace
+  suppl:
+    cjts:
+    - cjfs:
+      - bendeciendo
+      - bendecido
+      cjid: gppt
+    - cjfs:
+      - bendigo
+      - bendices
+      - bendice
+      - bendecimos
+      - "bendec\xEDs"
+      - bendicen
+      cjid: pind
+    - cjfs:
+      - "bendec\xEDa"
+      - "bendec\xEDas"
+      - "bendec\xEDa"
+      - "bendec\xEDamos"
+      - "bendec\xEDais"
+      - "bendec\xEDan"
+      cjid: pret
+    - cjfs:
+      - bendije
+      - bendijiste
+      - bendijo
+      - bendijimos
+      - bendijisteis
+      - bendijeron
+      cjid: pprf
+    - cjfs:
+      - "bendecir\xE9"
+      - "bendecir\xE1s"
+      - "bendecir\xE1"
+      - bendeciremos
+      - "bendecir\xE9is"
+      - "bendecir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "bendecir\xEDa"
+      - "bendecir\xEDas"
+      - "bendecir\xEDa"
+      - "bendecir\xEDamos"
+      - "bendecir\xEDais"
+      - "bendecir\xEDan"
+      cjid: cond
+    - cjfs:
+      - bendiga
+      - bendigas
+      - bendiga
+      - bendigamos
+      - "bendig\xE1is"
+      - bendigan
+      cjid: psub
+    - cjfs:
+      - bendijera
+      - bendijeras
+      - bendijera
+      - "bendij\xE9ramos"
+      - bendijerais
+      - bendijeran
+      cjid: pisb1
+    - cjfs:
+      - bendijese
+      - bendijeses
+      - bendijese
+      - "bendij\xE9semos"
+      - bendijeseis
+      - bendijesen
+      cjid: pisb2
+    - cjfs:
+      - bendijere
+      - bendijeres
+      - bendijere
+      - "bendij\xE9remos"
+      - bendijereis
+      - bendijeren
+      cjid: fsub
+    - cjfs:
+      - he bendecido
+      - has bendecido
+      - ha bendecido
+      - hemos bendecido
+      - "hab\xE9is bendecido"
+      - han bendecido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa bendecido"
+      - "hab\xEDas bendecido"
+      - "hab\xEDa bendecido"
+      - "hab\xEDamos bendecido"
+      - "hab\xEDais bendecido"
+      - "hab\xEDan bendecido"
+      cjid: ppsi
+    - cjfs:
+      - hube bendecido
+      - hubiste bendecido
+      - hubo bendecido
+      - hubimos bendecido
+      - hubisteis bendecido
+      - hubieron bendecido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 bendecido"
+      - "habr\xE1s bendecido"
+      - "habr\xE1 bendecido"
+      - habremos bendecido
+      - "habr\xE9is bendecido"
+      - "habr\xE1n bendecido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa bendecido"
+      - "habr\xEDas bendecido"
+      - "habr\xEDa bendecido"
+      - "habr\xEDamos bendecido"
+      - "habr\xEDais bendecido"
+      - "habr\xEDan bendecido"
+      cjid: cpef
+    - cjfs:
+      - haya bendecido
+      - hayas bendecido
+      - haya bendecido
+      - hayamos bendecido
+      - "hay\xE1is bendecido"
+      - hayan bendecido
+      cjid: ppfs
+    - cjfs:
+      - hubiera bendecido
+      - hubieras bendecido
+      - hubiera bendecido
+      - "hubi\xE9ramos bendecido"
+      - hubierais bendecido
+      - hubieran bendecido
+      cjid: ppss1
+    - cjfs:
+      - hubiese bendecido
+      - hubieses bendecido
+      - hubiese bendecido
+      - "hubi\xE9semos bendecido"
+      - hubieseis bendecido
+      - hubiesen bendecido
+      cjid: ppss2
+    - cjfs:
+      - hubiere bendecido
+      - hubieres bendecido
+      - hubiere bendecido
+      - "hubi\xE9remos bendecido"
+      - hubiereis bendecido
+      - hubieren bendecido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bendice
+      - bendiga
+      - bendigamos
+      - bendecid
+      - bendigan
+      cjid: impf

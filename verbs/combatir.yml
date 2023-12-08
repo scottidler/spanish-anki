@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|combat}, to fight against'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fight}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: combatir
+    prs:
+    - sound:
+        audio: comba01sp
+  meta:
+    id: combatir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605139000'
+    src: spanish
+    stems:
+    - combatir
+    uuid: df1b51f3-3622-4b32-8d30-31bcef89937d
+  shortdef:
+  - to combat, to fight against
+  - to fight
+  suppl:
+    cjts:
+    - cjfs:
+      - combatiendo
+      - combatido
+      cjid: gppt
+    - cjfs:
+      - combato
+      - combates
+      - combate
+      - combatimos
+      - "combat\xEDs"
+      - combaten
+      cjid: pind
+    - cjfs:
+      - "combat\xEDa"
+      - "combat\xEDas"
+      - "combat\xEDa"
+      - "combat\xEDamos"
+      - "combat\xEDais"
+      - "combat\xEDan"
+      cjid: pret
+    - cjfs:
+      - "combat\xED"
+      - combatiste
+      - "combati\xF3"
+      - combatimos
+      - combatisteis
+      - combatieron
+      cjid: pprf
+    - cjfs:
+      - "combatir\xE9"
+      - "combatir\xE1s"
+      - "combatir\xE1"
+      - combatiremos
+      - "combatir\xE9is"
+      - "combatir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "combatir\xEDa"
+      - "combatir\xEDas"
+      - "combatir\xEDa"
+      - "combatir\xEDamos"
+      - "combatir\xEDais"
+      - "combatir\xEDan"
+      cjid: cond
+    - cjfs:
+      - combata
+      - combatas
+      - combata
+      - combatamos
+      - "combat\xE1is"
+      - combatan
+      cjid: psub
+    - cjfs:
+      - combatiera
+      - combatieras
+      - combatiera
+      - "combati\xE9ramos"
+      - combatierais
+      - combatieran
+      cjid: pisb1
+    - cjfs:
+      - combatiese
+      - combatieses
+      - combatiese
+      - "combati\xE9semos"
+      - combatieseis
+      - combatiesen
+      cjid: pisb2
+    - cjfs:
+      - combatiere
+      - combatieres
+      - combatiere
+      - "combati\xE9remos"
+      - combatiereis
+      - combatieren
+      cjid: fsub
+    - cjfs:
+      - he combatido
+      - has combatido
+      - ha combatido
+      - hemos combatido
+      - "hab\xE9is combatido"
+      - han combatido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa combatido"
+      - "hab\xEDas combatido"
+      - "hab\xEDa combatido"
+      - "hab\xEDamos combatido"
+      - "hab\xEDais combatido"
+      - "hab\xEDan combatido"
+      cjid: ppsi
+    - cjfs:
+      - hube combatido
+      - hubiste combatido
+      - hubo combatido
+      - hubimos combatido
+      - hubisteis combatido
+      - hubieron combatido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 combatido"
+      - "habr\xE1s combatido"
+      - "habr\xE1 combatido"
+      - habremos combatido
+      - "habr\xE9is combatido"
+      - "habr\xE1n combatido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa combatido"
+      - "habr\xEDas combatido"
+      - "habr\xEDa combatido"
+      - "habr\xEDamos combatido"
+      - "habr\xEDais combatido"
+      - "habr\xEDan combatido"
+      cjid: cpef
+    - cjfs:
+      - haya combatido
+      - hayas combatido
+      - haya combatido
+      - hayamos combatido
+      - "hay\xE1is combatido"
+      - hayan combatido
+      cjid: ppfs
+    - cjfs:
+      - hubiera combatido
+      - hubieras combatido
+      - hubiera combatido
+      - "hubi\xE9ramos combatido"
+      - hubierais combatido
+      - hubieran combatido
+      cjid: ppss1
+    - cjfs:
+      - hubiese combatido
+      - hubieses combatido
+      - hubiese combatido
+      - "hubi\xE9semos combatido"
+      - hubieseis combatido
+      - hubiesen combatido
+      cjid: ppss2
+    - cjfs:
+      - hubiere combatido
+      - hubieres combatido
+      - hubiere combatido
+      - "hubi\xE9remos combatido"
+      - hubiereis combatido
+      - hubieren combatido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - combate
+      - combata
+      - combatamos
+      - combatid
+      - combatan
+      cjid: impf

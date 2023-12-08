@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|drool}, to {a_link|slobber}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ooze}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: babear
+    prs:
+    - sound:
+        audio: babea01sp
+  meta:
+    id: babear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602622000'
+    src: spanish
+    stems:
+    - babear
+    uuid: fc9059a9-9624-487f-834d-3c8309f3e7ae
+  shortdef:
+  - to drool, to slobber
+  - to ooze
+  suppl:
+    cjts:
+    - cjfs:
+      - babeando
+      - babeado
+      cjid: gppt
+    - cjfs:
+      - babeo
+      - babeas
+      - babea
+      - babeamos
+      - "babe\xE1is"
+      - babean
+      cjid: pind
+    - cjfs:
+      - babeaba
+      - babeabas
+      - babeaba
+      - "babe\xE1bamos"
+      - babeabais
+      - babeaban
+      cjid: pret
+    - cjfs:
+      - "babe\xE9"
+      - babeaste
+      - "babe\xF3"
+      - babeamos
+      - babeasteis
+      - babearon
+      cjid: pprf
+    - cjfs:
+      - "babear\xE9"
+      - "babear\xE1s"
+      - "babear\xE1"
+      - babearemos
+      - "babear\xE9is"
+      - "babear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "babear\xEDa"
+      - "babear\xEDas"
+      - "babear\xEDa"
+      - "babear\xEDamos"
+      - "babear\xEDais"
+      - "babear\xEDan"
+      cjid: cond
+    - cjfs:
+      - babee
+      - babees
+      - babee
+      - babeemos
+      - "babe\xE9is"
+      - babeen
+      cjid: psub
+    - cjfs:
+      - babeara
+      - babearas
+      - babeara
+      - "babe\xE1ramos"
+      - babearais
+      - babearan
+      cjid: pisb1
+    - cjfs:
+      - babease
+      - babeases
+      - babease
+      - "babe\xE1semos"
+      - babeaseis
+      - babeasen
+      cjid: pisb2
+    - cjfs:
+      - babeare
+      - babeares
+      - babeare
+      - "babe\xE1remos"
+      - babeareis
+      - babearen
+      cjid: fsub
+    - cjfs:
+      - he babeado
+      - has babeado
+      - ha babeado
+      - hemos babeado
+      - "hab\xE9is babeado"
+      - han babeado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa babeado"
+      - "hab\xEDas babeado"
+      - "hab\xEDa babeado"
+      - "hab\xEDamos babeado"
+      - "hab\xEDais babeado"
+      - "hab\xEDan babeado"
+      cjid: ppsi
+    - cjfs:
+      - hube babeado
+      - hubiste babeado
+      - hubo babeado
+      - hubimos babeado
+      - hubisteis babeado
+      - hubieron babeado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 babeado"
+      - "habr\xE1s babeado"
+      - "habr\xE1 babeado"
+      - habremos babeado
+      - "habr\xE9is babeado"
+      - "habr\xE1n babeado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa babeado"
+      - "habr\xEDas babeado"
+      - "habr\xEDa babeado"
+      - "habr\xEDamos babeado"
+      - "habr\xEDais babeado"
+      - "habr\xEDan babeado"
+      cjid: cpef
+    - cjfs:
+      - haya babeado
+      - hayas babeado
+      - haya babeado
+      - hayamos babeado
+      - "hay\xE1is babeado"
+      - hayan babeado
+      cjid: ppfs
+    - cjfs:
+      - hubiera babeado
+      - hubieras babeado
+      - hubiera babeado
+      - "hubi\xE9ramos babeado"
+      - hubierais babeado
+      - hubieran babeado
+      cjid: ppss1
+    - cjfs:
+      - hubiese babeado
+      - hubieses babeado
+      - hubiese babeado
+      - "hubi\xE9semos babeado"
+      - hubieseis babeado
+      - hubiesen babeado
+      cjid: ppss2
+    - cjfs:
+      - hubiere babeado
+      - hubieres babeado
+      - hubiere babeado
+      - "hubi\xE9remos babeado"
+      - hubiereis babeado
+      - hubieren babeado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - babea
+      - babee
+      - babeemos
+      - babead
+      - babeen
+      cjid: impf

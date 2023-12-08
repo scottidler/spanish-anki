@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|sharpen} '
+          - - vis
+            - - t: aguzar el ingenio
+                tr: to sharpen one's wits
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|prick up one''s ears}'
+          sn: '2'
+          vrs:
+          - va: "aguzar el o\xEDdo"
+  fl: transitive verb
+  hwi:
+    hw: aguzar
+    prs:
+    - sound:
+        audio: aguza01sp
+  meta:
+    id: aguzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600780000'
+    src: spanish
+    stems:
+    - aguzar
+    - "aguzar el o\xEDdo"
+    uuid: 1ca826b5-aa0d-42f4-8ead-55eeb9190f6f
+  shortdef:
+  - to sharpen
+  - to prick up one's ears
+  suppl:
+    cjts:
+    - cjfs:
+      - aguzando
+      - aguzado
+      cjid: gppt
+    - cjfs:
+      - aguzo
+      - aguzas
+      - aguza
+      - aguzamos
+      - "aguz\xE1is"
+      - aguzan
+      cjid: pind
+    - cjfs:
+      - aguzaba
+      - aguzabas
+      - aguzaba
+      - "aguz\xE1bamos"
+      - aguzabais
+      - aguzaban
+      cjid: pret
+    - cjfs:
+      - "aguc\xE9"
+      - aguzaste
+      - "aguz\xF3"
+      - aguzamos
+      - aguzasteis
+      - aguzaron
+      cjid: pprf
+    - cjfs:
+      - "aguzar\xE9"
+      - "aguzar\xE1s"
+      - "aguzar\xE1"
+      - aguzaremos
+      - "aguzar\xE9is"
+      - "aguzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aguzar\xEDa"
+      - "aguzar\xEDas"
+      - "aguzar\xEDa"
+      - "aguzar\xEDamos"
+      - "aguzar\xEDais"
+      - "aguzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aguce
+      - aguces
+      - aguce
+      - agucemos
+      - "aguc\xE9is"
+      - agucen
+      cjid: psub
+    - cjfs:
+      - aguzara
+      - aguzaras
+      - aguzara
+      - "aguz\xE1ramos"
+      - aguzarais
+      - aguzaran
+      cjid: pisb1
+    - cjfs:
+      - aguzase
+      - aguzases
+      - aguzase
+      - "aguz\xE1semos"
+      - aguzaseis
+      - aguzasen
+      cjid: pisb2
+    - cjfs:
+      - aguzare
+      - aguzares
+      - aguzare
+      - "aguz\xE1remos"
+      - aguzareis
+      - aguzaren
+      cjid: fsub
+    - cjfs:
+      - he aguzado
+      - has aguzado
+      - ha aguzado
+      - hemos aguzado
+      - "hab\xE9is aguzado"
+      - han aguzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aguzado"
+      - "hab\xEDas aguzado"
+      - "hab\xEDa aguzado"
+      - "hab\xEDamos aguzado"
+      - "hab\xEDais aguzado"
+      - "hab\xEDan aguzado"
+      cjid: ppsi
+    - cjfs:
+      - hube aguzado
+      - hubiste aguzado
+      - hubo aguzado
+      - hubimos aguzado
+      - hubisteis aguzado
+      - hubieron aguzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aguzado"
+      - "habr\xE1s aguzado"
+      - "habr\xE1 aguzado"
+      - habremos aguzado
+      - "habr\xE9is aguzado"
+      - "habr\xE1n aguzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aguzado"
+      - "habr\xEDas aguzado"
+      - "habr\xEDa aguzado"
+      - "habr\xEDamos aguzado"
+      - "habr\xEDais aguzado"
+      - "habr\xEDan aguzado"
+      cjid: cpef
+    - cjfs:
+      - haya aguzado
+      - hayas aguzado
+      - haya aguzado
+      - hayamos aguzado
+      - "hay\xE1is aguzado"
+      - hayan aguzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aguzado
+      - hubieras aguzado
+      - hubiera aguzado
+      - "hubi\xE9ramos aguzado"
+      - hubierais aguzado
+      - hubieran aguzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aguzado
+      - hubieses aguzado
+      - hubiese aguzado
+      - "hubi\xE9semos aguzado"
+      - hubieseis aguzado
+      - hubiesen aguzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aguzado
+      - hubieres aguzado
+      - hubiere aguzado
+      - "hubi\xE9remos aguzado"
+      - hubiereis aguzado
+      - hubieren aguzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aguza
+      - aguce
+      - agucemos
+      - aguzad
+      - agucen
+      cjid: impf

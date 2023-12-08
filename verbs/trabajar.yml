@@ -1,0 +1,353 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|work} '
+          - - vis
+            - - t: trabaja mucho
+                tr: he works hard
+              - t: trabajo de secretaria
+                tr: I work as a secretary
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|strive} '
+          - - vis
+            - - t: trabajan por mejores oportunidades
+                tr: they're striving for better opportunities
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|act}, to {a_link|perform} '
+          - - vis
+            - - t: "trabajar en una pel\xEDcula"
+                tr: to be in a movie
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|work} (metal)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|knead}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|till}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|work on} '
+          - - vis
+            - - t: "tienes que trabajar el espa\xF1ol"
+                tr: you need to work on your Spanish
+          sn: '4'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: trabajar
+    prs:
+    - sound:
+        audio: traba04sp
+  meta:
+    id: trabajar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622059000'
+    src: spanish
+    stems:
+    - trabajar
+    uuid: ab4e71cf-c967-4750-85aa-251a37074085
+  shortdef:
+  - to work
+  - to strive
+  - to act, to perform
+  suppl:
+    cjts:
+    - cjfs:
+      - trabajando
+      - trabajado
+      cjid: gppt
+    - cjfs:
+      - trabajo
+      - trabajas
+      - trabaja
+      - trabajamos
+      - "trabaj\xE1is"
+      - trabajan
+      cjid: pind
+    - cjfs:
+      - trabajaba
+      - trabajabas
+      - trabajaba
+      - "trabaj\xE1bamos"
+      - trabajabais
+      - trabajaban
+      cjid: pret
+    - cjfs:
+      - "trabaj\xE9"
+      - trabajaste
+      - "trabaj\xF3"
+      - trabajamos
+      - trabajasteis
+      - trabajaron
+      cjid: pprf
+    - cjfs:
+      - "trabajar\xE9"
+      - "trabajar\xE1s"
+      - "trabajar\xE1"
+      - trabajaremos
+      - "trabajar\xE9is"
+      - "trabajar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "trabajar\xEDa"
+      - "trabajar\xEDas"
+      - "trabajar\xEDa"
+      - "trabajar\xEDamos"
+      - "trabajar\xEDais"
+      - "trabajar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trabaje
+      - trabajes
+      - trabaje
+      - trabajemos
+      - "trabaj\xE9is"
+      - trabajen
+      cjid: psub
+    - cjfs:
+      - trabajara
+      - trabajaras
+      - trabajara
+      - "trabaj\xE1ramos"
+      - trabajarais
+      - trabajaran
+      cjid: pisb1
+    - cjfs:
+      - trabajase
+      - trabajases
+      - trabajase
+      - "trabaj\xE1semos"
+      - trabajaseis
+      - trabajasen
+      cjid: pisb2
+    - cjfs:
+      - trabajare
+      - trabajares
+      - trabajare
+      - "trabaj\xE1remos"
+      - trabajareis
+      - trabajaren
+      cjid: fsub
+    - cjfs:
+      - he trabajado
+      - has trabajado
+      - ha trabajado
+      - hemos trabajado
+      - "hab\xE9is trabajado"
+      - han trabajado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa trabajado"
+      - "hab\xEDas trabajado"
+      - "hab\xEDa trabajado"
+      - "hab\xEDamos trabajado"
+      - "hab\xEDais trabajado"
+      - "hab\xEDan trabajado"
+      cjid: ppsi
+    - cjfs:
+      - hube trabajado
+      - hubiste trabajado
+      - hubo trabajado
+      - hubimos trabajado
+      - hubisteis trabajado
+      - hubieron trabajado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 trabajado"
+      - "habr\xE1s trabajado"
+      - "habr\xE1 trabajado"
+      - habremos trabajado
+      - "habr\xE9is trabajado"
+      - "habr\xE1n trabajado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa trabajado"
+      - "habr\xEDas trabajado"
+      - "habr\xEDa trabajado"
+      - "habr\xEDamos trabajado"
+      - "habr\xEDais trabajado"
+      - "habr\xEDan trabajado"
+      cjid: cpef
+    - cjfs:
+      - haya trabajado
+      - hayas trabajado
+      - haya trabajado
+      - hayamos trabajado
+      - "hay\xE1is trabajado"
+      - hayan trabajado
+      cjid: ppfs
+    - cjfs:
+      - hubiera trabajado
+      - hubieras trabajado
+      - hubiera trabajado
+      - "hubi\xE9ramos trabajado"
+      - hubierais trabajado
+      - hubieran trabajado
+      cjid: ppss1
+    - cjfs:
+      - hubiese trabajado
+      - hubieses trabajado
+      - hubiese trabajado
+      - "hubi\xE9semos trabajado"
+      - hubieseis trabajado
+      - hubiesen trabajado
+      cjid: ppss2
+    - cjfs:
+      - hubiere trabajado
+      - hubieres trabajado
+      - hubiere trabajado
+      - "hubi\xE9remos trabajado"
+      - hubiereis trabajado
+      - hubieren trabajado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - trabaja
+      - trabaje
+      - trabajemos
+      - trabajad
+      - trabajen
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hour} '
+          - - vis
+            - - t: media hora
+                tr: half an hour
+              - t: "se pasa horas viendo televisi\xF3n"
+                tr: he spends hours watching television
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|time} '
+          - - vis
+            - - t: "\xBFqu\xE9 hora es?"
+                tr: what time is it?
+              - t: llegar a la hora
+                tr: to arrive on time
+              - t: a la hora en punto
+                tr: on the dot
+              - t: a la hora de comer
+                tr: at mealtime
+              - t: "a la \xFAltima hora"
+                tr: at the last minute
+              - t: a primera hora
+                tr: first thing
+              - t: antes de la hora
+                tr: early, ahead of time
+              - t: es hora de irnos a casa
+                tr: it's time to go home
+              - t: ya es hora de tomarlo en serio
+                tr: it's about time we took it seriously
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cita||} {bc}{a_link|appointment} '
+          - - vis
+            - - t: pedir/dar/tener hora
+                tr: to make/give/have an appointment
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}closing time'
+          sn: '4'
+          vrs:
+          - va: hora de cierre
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}local time'
+          sn: '5'
+          vrs:
+          - va: hora local
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}office/work hours'
+          sn: '6'
+          vrs:
+          - va: horas de oficina/trabajo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|rush hour}'
+          sn: '7'
+          vrs:
+          - va: hora pico
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|overtime}'
+          sn: '8'
+          vrs:
+          - va: horas extras
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|the wee hours}'
+          sn: '9'
+          vrs:
+          - va: las altas horas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to work by the hour'
+          sn: '10'
+          vrs:
+          - va: trabajar por horas
+  fl: feminine noun
+  hwi:
+    hw: hora
+    prs:
+    - sound:
+        audio: hora001sp
+  meta:
+    id: hora
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611637000'
+    src: spanish
+    stems:
+    - hora
+    - hora de cierre
+    - hora local
+    - horas de oficina/trabajo
+    - horas de oficina
+    - horas de trabajo
+    - hora pico
+    - horas extras
+    - las altas horas
+    - trabajar por horas
+    uuid: f91434e1-d5d3-40ad-a811-8e91680ae75a
+  shortdef:
+  - hour
+  - time
+  - 'cita : appointment'

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clear}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|atravesar||} {bc}to {a_link|cross}, to {a_link|go through}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pay the postage on'
+          sn: '3'
+  fl: transitive verb
+  hwi:
+    hw: franquear
+  meta:
+    id: franquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610398000'
+    src: spanish
+    stems:
+    - franquear
+    uuid: 00f71586-7498-4006-a442-14e66240f4a0
+  shortdef:
+  - to clear
+  - 'atravesar : to cross, to go through'
+  - to pay the postage on
+  suppl:
+    cjts:
+    - cjfs:
+      - franqueando
+      - franqueado
+      cjid: gppt
+    - cjfs:
+      - franqueo
+      - franqueas
+      - franquea
+      - franqueamos
+      - "franque\xE1is"
+      - franquean
+      cjid: pind
+    - cjfs:
+      - franqueaba
+      - franqueabas
+      - franqueaba
+      - "franque\xE1bamos"
+      - franqueabais
+      - franqueaban
+      cjid: pret
+    - cjfs:
+      - "franque\xE9"
+      - franqueaste
+      - "franque\xF3"
+      - franqueamos
+      - franqueasteis
+      - franquearon
+      cjid: pprf
+    - cjfs:
+      - "franquear\xE9"
+      - "franquear\xE1s"
+      - "franquear\xE1"
+      - franquearemos
+      - "franquear\xE9is"
+      - "franquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "franquear\xEDa"
+      - "franquear\xEDas"
+      - "franquear\xEDa"
+      - "franquear\xEDamos"
+      - "franquear\xEDais"
+      - "franquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - franquee
+      - franquees
+      - franquee
+      - franqueemos
+      - "franque\xE9is"
+      - franqueen
+      cjid: psub
+    - cjfs:
+      - franqueara
+      - franquearas
+      - franqueara
+      - "franque\xE1ramos"
+      - franquearais
+      - franquearan
+      cjid: pisb1
+    - cjfs:
+      - franquease
+      - franqueases
+      - franquease
+      - "franque\xE1semos"
+      - franqueaseis
+      - franqueasen
+      cjid: pisb2
+    - cjfs:
+      - franqueare
+      - franqueares
+      - franqueare
+      - "franque\xE1remos"
+      - franqueareis
+      - franquearen
+      cjid: fsub
+    - cjfs:
+      - he franqueado
+      - has franqueado
+      - ha franqueado
+      - hemos franqueado
+      - "hab\xE9is franqueado"
+      - han franqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa franqueado"
+      - "hab\xEDas franqueado"
+      - "hab\xEDa franqueado"
+      - "hab\xEDamos franqueado"
+      - "hab\xEDais franqueado"
+      - "hab\xEDan franqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube franqueado
+      - hubiste franqueado
+      - hubo franqueado
+      - hubimos franqueado
+      - hubisteis franqueado
+      - hubieron franqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 franqueado"
+      - "habr\xE1s franqueado"
+      - "habr\xE1 franqueado"
+      - habremos franqueado
+      - "habr\xE9is franqueado"
+      - "habr\xE1n franqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa franqueado"
+      - "habr\xEDas franqueado"
+      - "habr\xEDa franqueado"
+      - "habr\xEDamos franqueado"
+      - "habr\xEDais franqueado"
+      - "habr\xEDan franqueado"
+      cjid: cpef
+    - cjfs:
+      - haya franqueado
+      - hayas franqueado
+      - haya franqueado
+      - hayamos franqueado
+      - "hay\xE1is franqueado"
+      - hayan franqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera franqueado
+      - hubieras franqueado
+      - hubiera franqueado
+      - "hubi\xE9ramos franqueado"
+      - hubierais franqueado
+      - hubieran franqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese franqueado
+      - hubieses franqueado
+      - hubiese franqueado
+      - "hubi\xE9semos franqueado"
+      - hubieseis franqueado
+      - hubiesen franqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere franqueado
+      - hubieres franqueado
+      - hubiere franqueado
+      - "hubi\xE9remos franqueado"
+      - hubiereis franqueado
+      - hubieren franqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - franquea
+      - franquee
+      - franqueemos
+      - franquead
+      - franqueen
+      cjid: impf

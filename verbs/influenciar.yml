@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|influence}'
+  fl: transitive verb
+  hwi:
+    hw: influenciar
+    prs:
+    - sound:
+        audio: influ03sp
+  meta:
+    id: influenciar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612460000'
+    src: spanish
+    stems:
+    - influenciar
+    uuid: ad1844e1-651b-4309-a19a-30bed1e128bb
+  shortdef:
+  - to influence
+  suppl:
+    cjts:
+    - cjfs:
+      - influenciando
+      - influenciado
+      cjid: gppt
+    - cjfs:
+      - influencio
+      - influencias
+      - influencia
+      - influenciamos
+      - "influenci\xE1is"
+      - influencian
+      cjid: pind
+    - cjfs:
+      - influenciaba
+      - influenciabas
+      - influenciaba
+      - "influenci\xE1bamos"
+      - influenciabais
+      - influenciaban
+      cjid: pret
+    - cjfs:
+      - "influenci\xE9"
+      - influenciaste
+      - "influenci\xF3"
+      - influenciamos
+      - influenciasteis
+      - influenciaron
+      cjid: pprf
+    - cjfs:
+      - "influenciar\xE9"
+      - "influenciar\xE1s"
+      - "influenciar\xE1"
+      - influenciaremos
+      - "influenciar\xE9is"
+      - "influenciar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "influenciar\xEDa"
+      - "influenciar\xEDas"
+      - "influenciar\xEDa"
+      - "influenciar\xEDamos"
+      - "influenciar\xEDais"
+      - "influenciar\xEDan"
+      cjid: cond
+    - cjfs:
+      - influencie
+      - influencies
+      - influencie
+      - influenciemos
+      - "influenci\xE9is"
+      - influencien
+      cjid: psub
+    - cjfs:
+      - influenciara
+      - influenciaras
+      - influenciara
+      - "influenci\xE1ramos"
+      - influenciarais
+      - influenciaran
+      cjid: pisb1
+    - cjfs:
+      - influenciase
+      - influenciases
+      - influenciase
+      - "influenci\xE1semos"
+      - influenciaseis
+      - influenciasen
+      cjid: pisb2
+    - cjfs:
+      - influenciare
+      - influenciares
+      - influenciare
+      - "influenci\xE1remos"
+      - influenciareis
+      - influenciaren
+      cjid: fsub
+    - cjfs:
+      - he influenciado
+      - has influenciado
+      - ha influenciado
+      - hemos influenciado
+      - "hab\xE9is influenciado"
+      - han influenciado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa influenciado"
+      - "hab\xEDas influenciado"
+      - "hab\xEDa influenciado"
+      - "hab\xEDamos influenciado"
+      - "hab\xEDais influenciado"
+      - "hab\xEDan influenciado"
+      cjid: ppsi
+    - cjfs:
+      - hube influenciado
+      - hubiste influenciado
+      - hubo influenciado
+      - hubimos influenciado
+      - hubisteis influenciado
+      - hubieron influenciado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 influenciado"
+      - "habr\xE1s influenciado"
+      - "habr\xE1 influenciado"
+      - habremos influenciado
+      - "habr\xE9is influenciado"
+      - "habr\xE1n influenciado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa influenciado"
+      - "habr\xEDas influenciado"
+      - "habr\xEDa influenciado"
+      - "habr\xEDamos influenciado"
+      - "habr\xEDais influenciado"
+      - "habr\xEDan influenciado"
+      cjid: cpef
+    - cjfs:
+      - haya influenciado
+      - hayas influenciado
+      - haya influenciado
+      - hayamos influenciado
+      - "hay\xE1is influenciado"
+      - hayan influenciado
+      cjid: ppfs
+    - cjfs:
+      - hubiera influenciado
+      - hubieras influenciado
+      - hubiera influenciado
+      - "hubi\xE9ramos influenciado"
+      - hubierais influenciado
+      - hubieran influenciado
+      cjid: ppss1
+    - cjfs:
+      - hubiese influenciado
+      - hubieses influenciado
+      - hubiese influenciado
+      - "hubi\xE9semos influenciado"
+      - hubieseis influenciado
+      - hubiesen influenciado
+      cjid: ppss2
+    - cjfs:
+      - hubiere influenciado
+      - hubieres influenciado
+      - hubiere influenciado
+      - "hubi\xE9remos influenciado"
+      - hubiereis influenciado
+      - hubieren influenciado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - influencia
+      - influencie
+      - influenciemos
+      - influenciad
+      - influencien
+      cjid: impf

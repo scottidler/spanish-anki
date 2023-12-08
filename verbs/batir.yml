@@ -1,0 +1,281 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|golpear||} {bc}to {a_link|beat}, to {a_link|hit}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|vencer||} {bc}to {a_link|defeat}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|whisk}, to {a_link|beat} (eggs), to {a_link|whip} (cream),
+              to {a_link|cream} (butter and sugar)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flap}, to {a_link|beat} (wings)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|rastrear||} {bc}to {a_link|comb}, to {a_link|search}'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break} (a record)'
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clap}'
+          sn: '7'
+          vrs:
+          - va: batir palmas
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fight}'
+    drp: batirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: batir
+    prs:
+    - sound:
+        audio: batir01sp
+  meta:
+    id: batir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602875000'
+    src: spanish
+    stems:
+    - batir
+    - batir palmas
+    - batirse
+    uuid: 4d818c92-9f64-4e4a-a856-45143eb194cb
+  shortdef:
+  - 'golpear : to beat, to hit'
+  - 'vencer : to defeat'
+  - to whisk, to beat (eggs), to whip (cream), to cream (butter and sugar)
+  suppl:
+    cjts:
+    - cjfs:
+      - batiendo
+      - batido
+      cjid: gppt
+    - cjfs:
+      - bato
+      - bates
+      - bate
+      - batimos
+      - "bat\xEDs"
+      - baten
+      cjid: pind
+    - cjfs:
+      - "bat\xEDa"
+      - "bat\xEDas"
+      - "bat\xEDa"
+      - "bat\xEDamos"
+      - "bat\xEDais"
+      - "bat\xEDan"
+      cjid: pret
+    - cjfs:
+      - "bat\xED"
+      - batiste
+      - "bati\xF3"
+      - batimos
+      - batisteis
+      - batieron
+      cjid: pprf
+    - cjfs:
+      - "batir\xE9"
+      - "batir\xE1s"
+      - "batir\xE1"
+      - batiremos
+      - "batir\xE9is"
+      - "batir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "batir\xEDa"
+      - "batir\xEDas"
+      - "batir\xEDa"
+      - "batir\xEDamos"
+      - "batir\xEDais"
+      - "batir\xEDan"
+      cjid: cond
+    - cjfs:
+      - bata
+      - batas
+      - bata
+      - batamos
+      - "bat\xE1is"
+      - batan
+      cjid: psub
+    - cjfs:
+      - batiera
+      - batieras
+      - batiera
+      - "bati\xE9ramos"
+      - batierais
+      - batieran
+      cjid: pisb1
+    - cjfs:
+      - batiese
+      - batieses
+      - batiese
+      - "bati\xE9semos"
+      - batieseis
+      - batiesen
+      cjid: pisb2
+    - cjfs:
+      - batiere
+      - batieres
+      - batiere
+      - "bati\xE9remos"
+      - batiereis
+      - batieren
+      cjid: fsub
+    - cjfs:
+      - he batido
+      - has batido
+      - ha batido
+      - hemos batido
+      - "hab\xE9is batido"
+      - han batido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa batido"
+      - "hab\xEDas batido"
+      - "hab\xEDa batido"
+      - "hab\xEDamos batido"
+      - "hab\xEDais batido"
+      - "hab\xEDan batido"
+      cjid: ppsi
+    - cjfs:
+      - hube batido
+      - hubiste batido
+      - hubo batido
+      - hubimos batido
+      - hubisteis batido
+      - hubieron batido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 batido"
+      - "habr\xE1s batido"
+      - "habr\xE1 batido"
+      - habremos batido
+      - "habr\xE9is batido"
+      - "habr\xE1n batido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa batido"
+      - "habr\xEDas batido"
+      - "habr\xEDa batido"
+      - "habr\xEDamos batido"
+      - "habr\xEDais batido"
+      - "habr\xEDan batido"
+      cjid: cpef
+    - cjfs:
+      - haya batido
+      - hayas batido
+      - haya batido
+      - hayamos batido
+      - "hay\xE1is batido"
+      - hayan batido
+      cjid: ppfs
+    - cjfs:
+      - hubiera batido
+      - hubieras batido
+      - hubiera batido
+      - "hubi\xE9ramos batido"
+      - hubierais batido
+      - hubieran batido
+      cjid: ppss1
+    - cjfs:
+      - hubiese batido
+      - hubieses batido
+      - hubiese batido
+      - "hubi\xE9semos batido"
+      - hubieseis batido
+      - hubiesen batido
+      cjid: ppss2
+    - cjfs:
+      - hubiere batido
+      - hubieres batido
+      - hubiere batido
+      - "hubi\xE9remos batido"
+      - hubiereis batido
+      - hubieren batido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - bate
+      - bata
+      - batamos
+      - batid
+      - batan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|palm} (of the hand)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|palm} (tree or leaf)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clap}, to {a_link|applaud}'
+          sn: '3'
+          vrs:
+          - va: batir/dar palmas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take the cake}'
+          sls:
+          - familiar
+          sn: '4'
+          vrs:
+          - va: llevarse la palma
+  fl: feminine noun
+  hwi:
+    hw: palma
+    prs:
+    - sound:
+        audio: palma01sp
+  meta:
+    id: palma
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616512000'
+    src: spanish
+    stems:
+    - palma
+    - batir/dar palmas
+    - batir palmas
+    - dar palmas
+    - llevarse la palma
+    uuid: 9dba5059-f546-4118-b863-612012fcb081
+  shortdef:
+  - palm (of the hand)
+  - palm (tree or leaf)
+  - to clap, to applaud

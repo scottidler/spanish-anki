@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|devolver||} {bc}to {a_link|give back}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|return}, to {a_link|come back}, to {a_link|go back}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: regresar
+    prs:
+    - sound:
+        audio: regre01sp
+  meta:
+    id: regresar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619226000'
+    src: spanish
+    stems:
+    - regresar
+    uuid: 260f9cf1-36a5-4679-a0f5-f1b26cba1be5
+  shortdef:
+  - 'devolver : to give back'
+  - to return, to come back, to go back
+  suppl:
+    cjts:
+    - cjfs:
+      - regresando
+      - regresado
+      cjid: gppt
+    - cjfs:
+      - regreso
+      - regresas
+      - regresa
+      - regresamos
+      - "regres\xE1is"
+      - regresan
+      cjid: pind
+    - cjfs:
+      - regresaba
+      - regresabas
+      - regresaba
+      - "regres\xE1bamos"
+      - regresabais
+      - regresaban
+      cjid: pret
+    - cjfs:
+      - "regres\xE9"
+      - regresaste
+      - "regres\xF3"
+      - regresamos
+      - regresasteis
+      - regresaron
+      cjid: pprf
+    - cjfs:
+      - "regresar\xE9"
+      - "regresar\xE1s"
+      - "regresar\xE1"
+      - regresaremos
+      - "regresar\xE9is"
+      - "regresar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "regresar\xEDa"
+      - "regresar\xEDas"
+      - "regresar\xEDa"
+      - "regresar\xEDamos"
+      - "regresar\xEDais"
+      - "regresar\xEDan"
+      cjid: cond
+    - cjfs:
+      - regrese
+      - regreses
+      - regrese
+      - regresemos
+      - "regres\xE9is"
+      - regresen
+      cjid: psub
+    - cjfs:
+      - regresara
+      - regresaras
+      - regresara
+      - "regres\xE1ramos"
+      - regresarais
+      - regresaran
+      cjid: pisb1
+    - cjfs:
+      - regresase
+      - regresases
+      - regresase
+      - "regres\xE1semos"
+      - regresaseis
+      - regresasen
+      cjid: pisb2
+    - cjfs:
+      - regresare
+      - regresares
+      - regresare
+      - "regres\xE1remos"
+      - regresareis
+      - regresaren
+      cjid: fsub
+    - cjfs:
+      - he regresado
+      - has regresado
+      - ha regresado
+      - hemos regresado
+      - "hab\xE9is regresado"
+      - han regresado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa regresado"
+      - "hab\xEDas regresado"
+      - "hab\xEDa regresado"
+      - "hab\xEDamos regresado"
+      - "hab\xEDais regresado"
+      - "hab\xEDan regresado"
+      cjid: ppsi
+    - cjfs:
+      - hube regresado
+      - hubiste regresado
+      - hubo regresado
+      - hubimos regresado
+      - hubisteis regresado
+      - hubieron regresado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 regresado"
+      - "habr\xE1s regresado"
+      - "habr\xE1 regresado"
+      - habremos regresado
+      - "habr\xE9is regresado"
+      - "habr\xE1n regresado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa regresado"
+      - "habr\xEDas regresado"
+      - "habr\xEDa regresado"
+      - "habr\xEDamos regresado"
+      - "habr\xEDais regresado"
+      - "habr\xEDan regresado"
+      cjid: cpef
+    - cjfs:
+      - haya regresado
+      - hayas regresado
+      - haya regresado
+      - hayamos regresado
+      - "hay\xE1is regresado"
+      - hayan regresado
+      cjid: ppfs
+    - cjfs:
+      - hubiera regresado
+      - hubieras regresado
+      - hubiera regresado
+      - "hubi\xE9ramos regresado"
+      - hubierais regresado
+      - hubieran regresado
+      cjid: ppss1
+    - cjfs:
+      - hubiese regresado
+      - hubieses regresado
+      - hubiese regresado
+      - "hubi\xE9semos regresado"
+      - hubieseis regresado
+      - hubiesen regresado
+      cjid: ppss2
+    - cjfs:
+      - hubiere regresado
+      - hubieres regresado
+      - hubiere regresado
+      - "hubi\xE9remos regresado"
+      - hubiereis regresado
+      - hubieren regresado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - regresa
+      - regrese
+      - regresemos
+      - regresad
+      - regresen
+      cjid: impf

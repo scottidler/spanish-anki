@@ -1,0 +1,204 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|carry}, to {a_link|bear}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wear}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|conducirse||} {bc}to {a_link|behave} '
+            - - vis
+              - - t: "p\xF3rtate bien"
+                  tr: behave yourself
+                - t: "se port\xF3 mal con ella"
+                  tr: he treated her badly
+    drp: portarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: portar
+    prs:
+    - sound:
+        audio: porta04sp
+  meta:
+    id: portar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617772000'
+    src: spanish
+    stems:
+    - portar
+    - portarse
+    uuid: b25c826f-fab2-44f4-b0cd-450e3d666a02
+  shortdef:
+  - to carry, to bear
+  - to wear
+  suppl:
+    cjts:
+    - cjfs:
+      - portando
+      - portado
+      cjid: gppt
+    - cjfs:
+      - porto
+      - portas
+      - porta
+      - portamos
+      - "port\xE1is"
+      - portan
+      cjid: pind
+    - cjfs:
+      - portaba
+      - portabas
+      - portaba
+      - "port\xE1bamos"
+      - portabais
+      - portaban
+      cjid: pret
+    - cjfs:
+      - "port\xE9"
+      - portaste
+      - "port\xF3"
+      - portamos
+      - portasteis
+      - portaron
+      cjid: pprf
+    - cjfs:
+      - "portar\xE9"
+      - "portar\xE1s"
+      - "portar\xE1"
+      - portaremos
+      - "portar\xE9is"
+      - "portar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "portar\xEDa"
+      - "portar\xEDas"
+      - "portar\xEDa"
+      - "portar\xEDamos"
+      - "portar\xEDais"
+      - "portar\xEDan"
+      cjid: cond
+    - cjfs:
+      - porte
+      - portes
+      - porte
+      - portemos
+      - "port\xE9is"
+      - porten
+      cjid: psub
+    - cjfs:
+      - portara
+      - portaras
+      - portara
+      - "port\xE1ramos"
+      - portarais
+      - portaran
+      cjid: pisb1
+    - cjfs:
+      - portase
+      - portases
+      - portase
+      - "port\xE1semos"
+      - portaseis
+      - portasen
+      cjid: pisb2
+    - cjfs:
+      - portare
+      - portares
+      - portare
+      - "port\xE1remos"
+      - portareis
+      - portaren
+      cjid: fsub
+    - cjfs:
+      - he portado
+      - has portado
+      - ha portado
+      - hemos portado
+      - "hab\xE9is portado"
+      - han portado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa portado"
+      - "hab\xEDas portado"
+      - "hab\xEDa portado"
+      - "hab\xEDamos portado"
+      - "hab\xEDais portado"
+      - "hab\xEDan portado"
+      cjid: ppsi
+    - cjfs:
+      - hube portado
+      - hubiste portado
+      - hubo portado
+      - hubimos portado
+      - hubisteis portado
+      - hubieron portado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 portado"
+      - "habr\xE1s portado"
+      - "habr\xE1 portado"
+      - habremos portado
+      - "habr\xE9is portado"
+      - "habr\xE1n portado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa portado"
+      - "habr\xEDas portado"
+      - "habr\xEDa portado"
+      - "habr\xEDamos portado"
+      - "habr\xEDais portado"
+      - "habr\xEDan portado"
+      cjid: cpef
+    - cjfs:
+      - haya portado
+      - hayas portado
+      - haya portado
+      - hayamos portado
+      - "hay\xE1is portado"
+      - hayan portado
+      cjid: ppfs
+    - cjfs:
+      - hubiera portado
+      - hubieras portado
+      - hubiera portado
+      - "hubi\xE9ramos portado"
+      - hubierais portado
+      - hubieran portado
+      cjid: ppss1
+    - cjfs:
+      - hubiese portado
+      - hubieses portado
+      - hubiese portado
+      - "hubi\xE9semos portado"
+      - hubieseis portado
+      - hubiesen portado
+      cjid: ppss2
+    - cjfs:
+      - hubiere portado
+      - hubieres portado
+      - hubiere portado
+      - "hubi\xE9remos portado"
+      - hubiereis portado
+      - hubieren portado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - porta
+      - porte
+      - portemos
+      - portad
+      - porten
+      cjid: impf

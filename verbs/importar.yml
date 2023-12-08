@@ -1,0 +1,220 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|matter}, to be important '
+          - - vis
+            - - t: no importa
+                tr: it doesn't matter, it's not important
+              - t: lo que importa es el resultado
+                tr: what matters is the result
+              - t: no le importa lo que piensen
+                tr: she doesn't care what they think
+              - t: "\xBFqu\xE9 importa que no les guste?"
+                tr: who cares if they don't like it?
+              - t: (no) me importa un bledo/comino
+                tr: I don't give a damn, I couldn't care less
+              - t: no te importo
+                tr: you don't care about me
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bother} '
+          - - vis
+            - - t: no le importa hacerlo
+                tr: he doesn't mind doing it
+              - t: si no te importa
+                tr: if you don't mind, if it's OK with you
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|import} (goods, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to import (in computing)'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: importar
+    prs:
+    - sound:
+        audio: impor05sp
+  meta:
+    id: importar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611990000'
+    src: spanish
+    stems:
+    - importar
+    uuid: 24c9b004-258f-478e-9622-f7bbb415ee3d
+  shortdef:
+  - to matter, to be important
+  - to bother
+  - to import (goods, etc.)
+  suppl:
+    cjts:
+    - cjfs:
+      - importando
+      - importado
+      cjid: gppt
+    - cjfs:
+      - importo
+      - importas
+      - importa
+      - importamos
+      - "import\xE1is"
+      - importan
+      cjid: pind
+    - cjfs:
+      - importaba
+      - importabas
+      - importaba
+      - "import\xE1bamos"
+      - importabais
+      - importaban
+      cjid: pret
+    - cjfs:
+      - "import\xE9"
+      - importaste
+      - "import\xF3"
+      - importamos
+      - importasteis
+      - importaron
+      cjid: pprf
+    - cjfs:
+      - "importar\xE9"
+      - "importar\xE1s"
+      - "importar\xE1"
+      - importaremos
+      - "importar\xE9is"
+      - "importar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "importar\xEDa"
+      - "importar\xEDas"
+      - "importar\xEDa"
+      - "importar\xEDamos"
+      - "importar\xEDais"
+      - "importar\xEDan"
+      cjid: cond
+    - cjfs:
+      - importe
+      - importes
+      - importe
+      - importemos
+      - "import\xE9is"
+      - importen
+      cjid: psub
+    - cjfs:
+      - importara
+      - importaras
+      - importara
+      - "import\xE1ramos"
+      - importarais
+      - importaran
+      cjid: pisb1
+    - cjfs:
+      - importase
+      - importases
+      - importase
+      - "import\xE1semos"
+      - importaseis
+      - importasen
+      cjid: pisb2
+    - cjfs:
+      - importare
+      - importares
+      - importare
+      - "import\xE1remos"
+      - importareis
+      - importaren
+      cjid: fsub
+    - cjfs:
+      - he importado
+      - has importado
+      - ha importado
+      - hemos importado
+      - "hab\xE9is importado"
+      - han importado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa importado"
+      - "hab\xEDas importado"
+      - "hab\xEDa importado"
+      - "hab\xEDamos importado"
+      - "hab\xEDais importado"
+      - "hab\xEDan importado"
+      cjid: ppsi
+    - cjfs:
+      - hube importado
+      - hubiste importado
+      - hubo importado
+      - hubimos importado
+      - hubisteis importado
+      - hubieron importado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 importado"
+      - "habr\xE1s importado"
+      - "habr\xE1 importado"
+      - habremos importado
+      - "habr\xE9is importado"
+      - "habr\xE1n importado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa importado"
+      - "habr\xEDas importado"
+      - "habr\xEDa importado"
+      - "habr\xEDamos importado"
+      - "habr\xEDais importado"
+      - "habr\xEDan importado"
+      cjid: cpef
+    - cjfs:
+      - haya importado
+      - hayas importado
+      - haya importado
+      - hayamos importado
+      - "hay\xE1is importado"
+      - hayan importado
+      cjid: ppfs
+    - cjfs:
+      - hubiera importado
+      - hubieras importado
+      - hubiera importado
+      - "hubi\xE9ramos importado"
+      - hubierais importado
+      - hubieran importado
+      cjid: ppss1
+    - cjfs:
+      - hubiese importado
+      - hubieses importado
+      - hubiese importado
+      - "hubi\xE9semos importado"
+      - hubieseis importado
+      - hubiesen importado
+      cjid: ppss2
+    - cjfs:
+      - hubiere importado
+      - hubieres importado
+      - hubiere importado
+      - "hubi\xE9remos importado"
+      - hubiereis importado
+      - hubieren importado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - importa
+      - importe
+      - importemos
+      - importad
+      - importen
+      cjid: impf

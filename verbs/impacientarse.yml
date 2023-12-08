@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make impatient, to {a_link|exasperate}'
+  fl: transitive verb
+  hwi:
+    hw: impacientar
+  meta:
+    id: impacientar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611903000'
+    src: spanish
+    stems:
+    - impacientar
+    - impacientarse
+    uuid: 48ae52b2-6465-4948-bd43-d32ed5b71769
+  shortdef:
+  - to make impatient, to exasperate
+  suppl:
+    cjts:
+    - cjfs:
+      - impacientando
+      - impacientado
+      cjid: gppt
+    - cjfs:
+      - impaciento
+      - impacientas
+      - impacienta
+      - impacientamos
+      - "impacient\xE1is"
+      - impacientan
+      cjid: pind
+    - cjfs:
+      - impacientaba
+      - impacientabas
+      - impacientaba
+      - "impacient\xE1bamos"
+      - impacientabais
+      - impacientaban
+      cjid: pret
+    - cjfs:
+      - "impacient\xE9"
+      - impacientaste
+      - "impacient\xF3"
+      - impacientamos
+      - impacientasteis
+      - impacientaron
+      cjid: pprf
+    - cjfs:
+      - "impacientar\xE9"
+      - "impacientar\xE1s"
+      - "impacientar\xE1"
+      - impacientaremos
+      - "impacientar\xE9is"
+      - "impacientar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "impacientar\xEDa"
+      - "impacientar\xEDas"
+      - "impacientar\xEDa"
+      - "impacientar\xEDamos"
+      - "impacientar\xEDais"
+      - "impacientar\xEDan"
+      cjid: cond
+    - cjfs:
+      - impaciente
+      - impacientes
+      - impaciente
+      - impacientemos
+      - "impacient\xE9is"
+      - impacienten
+      cjid: psub
+    - cjfs:
+      - impacientara
+      - impacientaras
+      - impacientara
+      - "impacient\xE1ramos"
+      - impacientarais
+      - impacientaran
+      cjid: pisb1
+    - cjfs:
+      - impacientase
+      - impacientases
+      - impacientase
+      - "impacient\xE1semos"
+      - impacientaseis
+      - impacientasen
+      cjid: pisb2
+    - cjfs:
+      - impacientare
+      - impacientares
+      - impacientare
+      - "impacient\xE1remos"
+      - impacientareis
+      - impacientaren
+      cjid: fsub
+    - cjfs:
+      - he impacientado
+      - has impacientado
+      - ha impacientado
+      - hemos impacientado
+      - "hab\xE9is impacientado"
+      - han impacientado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa impacientado"
+      - "hab\xEDas impacientado"
+      - "hab\xEDa impacientado"
+      - "hab\xEDamos impacientado"
+      - "hab\xEDais impacientado"
+      - "hab\xEDan impacientado"
+      cjid: ppsi
+    - cjfs:
+      - hube impacientado
+      - hubiste impacientado
+      - hubo impacientado
+      - hubimos impacientado
+      - hubisteis impacientado
+      - hubieron impacientado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 impacientado"
+      - "habr\xE1s impacientado"
+      - "habr\xE1 impacientado"
+      - habremos impacientado
+      - "habr\xE9is impacientado"
+      - "habr\xE1n impacientado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa impacientado"
+      - "habr\xEDas impacientado"
+      - "habr\xEDa impacientado"
+      - "habr\xEDamos impacientado"
+      - "habr\xEDais impacientado"
+      - "habr\xEDan impacientado"
+      cjid: cpef
+    - cjfs:
+      - haya impacientado
+      - hayas impacientado
+      - haya impacientado
+      - hayamos impacientado
+      - "hay\xE1is impacientado"
+      - hayan impacientado
+      cjid: ppfs
+    - cjfs:
+      - hubiera impacientado
+      - hubieras impacientado
+      - hubiera impacientado
+      - "hubi\xE9ramos impacientado"
+      - hubierais impacientado
+      - hubieran impacientado
+      cjid: ppss1
+    - cjfs:
+      - hubiese impacientado
+      - hubieses impacientado
+      - hubiese impacientado
+      - "hubi\xE9semos impacientado"
+      - hubieseis impacientado
+      - hubiesen impacientado
+      cjid: ppss2
+    - cjfs:
+      - hubiere impacientado
+      - hubieres impacientado
+      - hubiere impacientado
+      - "hubi\xE9remos impacientado"
+      - hubiereis impacientado
+      - hubieren impacientado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - impacienta
+      - impaciente
+      - impacientemos
+      - impacientad
+      - impacienten
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: impacientarse

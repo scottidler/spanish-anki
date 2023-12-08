@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|perceive}, to {a_link|notice}, to {a_link|sense}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|earn}, to {a_link|draw} (a salary)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: percibir
+    prs:
+    - sound:
+        audio: perci01sp
+  meta:
+    id: percibir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617071000'
+    src: spanish
+    stems:
+    - percibir
+    uuid: 6de53c5b-e819-4a41-be20-e46c14267139
+  shortdef:
+  - to perceive, to notice, to sense
+  - to earn, to draw (a salary)
+  suppl:
+    cjts:
+    - cjfs:
+      - percibiendo
+      - percibido
+      cjid: gppt
+    - cjfs:
+      - percibo
+      - percibes
+      - percibe
+      - percibimos
+      - "percib\xEDs"
+      - perciben
+      cjid: pind
+    - cjfs:
+      - "percib\xEDa"
+      - "percib\xEDas"
+      - "percib\xEDa"
+      - "percib\xEDamos"
+      - "percib\xEDais"
+      - "percib\xEDan"
+      cjid: pret
+    - cjfs:
+      - "percib\xED"
+      - percibiste
+      - "percibi\xF3"
+      - percibimos
+      - percibisteis
+      - percibieron
+      cjid: pprf
+    - cjfs:
+      - "percibir\xE9"
+      - "percibir\xE1s"
+      - "percibir\xE1"
+      - percibiremos
+      - "percibir\xE9is"
+      - "percibir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "percibir\xEDa"
+      - "percibir\xEDas"
+      - "percibir\xEDa"
+      - "percibir\xEDamos"
+      - "percibir\xEDais"
+      - "percibir\xEDan"
+      cjid: cond
+    - cjfs:
+      - perciba
+      - percibas
+      - perciba
+      - percibamos
+      - "percib\xE1is"
+      - perciban
+      cjid: psub
+    - cjfs:
+      - percibiera
+      - percibieras
+      - percibiera
+      - "percibi\xE9ramos"
+      - percibierais
+      - percibieran
+      cjid: pisb1
+    - cjfs:
+      - percibiese
+      - percibieses
+      - percibiese
+      - "percibi\xE9semos"
+      - percibieseis
+      - percibiesen
+      cjid: pisb2
+    - cjfs:
+      - percibiere
+      - percibieres
+      - percibiere
+      - "percibi\xE9remos"
+      - percibiereis
+      - percibieren
+      cjid: fsub
+    - cjfs:
+      - he percibido
+      - has percibido
+      - ha percibido
+      - hemos percibido
+      - "hab\xE9is percibido"
+      - han percibido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa percibido"
+      - "hab\xEDas percibido"
+      - "hab\xEDa percibido"
+      - "hab\xEDamos percibido"
+      - "hab\xEDais percibido"
+      - "hab\xEDan percibido"
+      cjid: ppsi
+    - cjfs:
+      - hube percibido
+      - hubiste percibido
+      - hubo percibido
+      - hubimos percibido
+      - hubisteis percibido
+      - hubieron percibido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 percibido"
+      - "habr\xE1s percibido"
+      - "habr\xE1 percibido"
+      - habremos percibido
+      - "habr\xE9is percibido"
+      - "habr\xE1n percibido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa percibido"
+      - "habr\xEDas percibido"
+      - "habr\xEDa percibido"
+      - "habr\xEDamos percibido"
+      - "habr\xEDais percibido"
+      - "habr\xEDan percibido"
+      cjid: cpef
+    - cjfs:
+      - haya percibido
+      - hayas percibido
+      - haya percibido
+      - hayamos percibido
+      - "hay\xE1is percibido"
+      - hayan percibido
+      cjid: ppfs
+    - cjfs:
+      - hubiera percibido
+      - hubieras percibido
+      - hubiera percibido
+      - "hubi\xE9ramos percibido"
+      - hubierais percibido
+      - hubieran percibido
+      cjid: ppss1
+    - cjfs:
+      - hubiese percibido
+      - hubieses percibido
+      - hubiese percibido
+      - "hubi\xE9semos percibido"
+      - hubieseis percibido
+      - hubiesen percibido
+      cjid: ppss2
+    - cjfs:
+      - hubiere percibido
+      - hubieres percibido
+      - hubiere percibido
+      - "hubi\xE9remos percibido"
+      - hubiereis percibido
+      - hubieren percibido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - percibe
+      - perciba
+      - percibamos
+      - percibid
+      - perciban
+      cjid: impf

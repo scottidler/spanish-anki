@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|venture}, to {a_link|risk}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take a risk'
+    drp: aventurarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aventurar
+  meta:
+    id: aventurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602537000'
+    src: spanish
+    stems:
+    - aventurar
+    - aventurarse
+    uuid: 651353ff-2bae-49a7-9efc-960806507038
+  shortdef:
+  - to venture, to risk
+  suppl:
+    cjts:
+    - cjfs:
+      - aventurando
+      - aventurado
+      cjid: gppt
+    - cjfs:
+      - aventuro
+      - aventuras
+      - aventura
+      - aventuramos
+      - "aventur\xE1is"
+      - aventuran
+      cjid: pind
+    - cjfs:
+      - aventuraba
+      - aventurabas
+      - aventuraba
+      - "aventur\xE1bamos"
+      - aventurabais
+      - aventuraban
+      cjid: pret
+    - cjfs:
+      - "aventur\xE9"
+      - aventuraste
+      - "aventur\xF3"
+      - aventuramos
+      - aventurasteis
+      - aventuraron
+      cjid: pprf
+    - cjfs:
+      - "aventurar\xE9"
+      - "aventurar\xE1s"
+      - "aventurar\xE1"
+      - aventuraremos
+      - "aventurar\xE9is"
+      - "aventurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aventurar\xEDa"
+      - "aventurar\xEDas"
+      - "aventurar\xEDa"
+      - "aventurar\xEDamos"
+      - "aventurar\xEDais"
+      - "aventurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aventure
+      - aventures
+      - aventure
+      - aventuremos
+      - "aventur\xE9is"
+      - aventuren
+      cjid: psub
+    - cjfs:
+      - aventurara
+      - aventuraras
+      - aventurara
+      - "aventur\xE1ramos"
+      - aventurarais
+      - aventuraran
+      cjid: pisb1
+    - cjfs:
+      - aventurase
+      - aventurases
+      - aventurase
+      - "aventur\xE1semos"
+      - aventuraseis
+      - aventurasen
+      cjid: pisb2
+    - cjfs:
+      - aventurare
+      - aventurares
+      - aventurare
+      - "aventur\xE1remos"
+      - aventurareis
+      - aventuraren
+      cjid: fsub
+    - cjfs:
+      - he aventurado
+      - has aventurado
+      - ha aventurado
+      - hemos aventurado
+      - "hab\xE9is aventurado"
+      - han aventurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aventurado"
+      - "hab\xEDas aventurado"
+      - "hab\xEDa aventurado"
+      - "hab\xEDamos aventurado"
+      - "hab\xEDais aventurado"
+      - "hab\xEDan aventurado"
+      cjid: ppsi
+    - cjfs:
+      - hube aventurado
+      - hubiste aventurado
+      - hubo aventurado
+      - hubimos aventurado
+      - hubisteis aventurado
+      - hubieron aventurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aventurado"
+      - "habr\xE1s aventurado"
+      - "habr\xE1 aventurado"
+      - habremos aventurado
+      - "habr\xE9is aventurado"
+      - "habr\xE1n aventurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aventurado"
+      - "habr\xEDas aventurado"
+      - "habr\xEDa aventurado"
+      - "habr\xEDamos aventurado"
+      - "habr\xEDais aventurado"
+      - "habr\xEDan aventurado"
+      cjid: cpef
+    - cjfs:
+      - haya aventurado
+      - hayas aventurado
+      - haya aventurado
+      - hayamos aventurado
+      - "hay\xE1is aventurado"
+      - hayan aventurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aventurado
+      - hubieras aventurado
+      - hubiera aventurado
+      - "hubi\xE9ramos aventurado"
+      - hubierais aventurado
+      - hubieran aventurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aventurado
+      - hubieses aventurado
+      - hubiese aventurado
+      - "hubi\xE9semos aventurado"
+      - hubieseis aventurado
+      - hubiesen aventurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aventurado
+      - hubieres aventurado
+      - hubiere aventurado
+      - "hubi\xE9remos aventurado"
+      - hubiereis aventurado
+      - hubieren aventurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aventura
+      - aventure
+      - aventuremos
+      - aventurad
+      - aventuren
+      cjid: impf

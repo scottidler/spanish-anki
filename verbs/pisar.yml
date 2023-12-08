@@ -1,0 +1,204 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to step on/in '
+          - - vis
+            - - t: no pises las flores
+                tr: don't step on the flowers
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to set foot in (a place)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to walk all over, to {a_link|mistreat}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|step}, to {a_link|walk}, to {a_link|tread}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: pisar
+    prs:
+    - sound:
+        audio: pisar01sp
+  meta:
+    id: pisar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617442000'
+    src: spanish
+    stems:
+    - pisar
+    uuid: e62ef718-5e3d-4e0c-ae5d-ed0aaa1f4c09
+  shortdef:
+  - to step on/in
+  - to set foot in (a place)
+  - to walk all over, to mistreat
+  suppl:
+    cjts:
+    - cjfs:
+      - pisando
+      - pisado
+      cjid: gppt
+    - cjfs:
+      - piso
+      - pisas
+      - pisa
+      - pisamos
+      - "pis\xE1is"
+      - pisan
+      cjid: pind
+    - cjfs:
+      - pisaba
+      - pisabas
+      - pisaba
+      - "pis\xE1bamos"
+      - pisabais
+      - pisaban
+      cjid: pret
+    - cjfs:
+      - "pis\xE9"
+      - pisaste
+      - "pis\xF3"
+      - pisamos
+      - pisasteis
+      - pisaron
+      cjid: pprf
+    - cjfs:
+      - "pisar\xE9"
+      - "pisar\xE1s"
+      - "pisar\xE1"
+      - pisaremos
+      - "pisar\xE9is"
+      - "pisar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pisar\xEDa"
+      - "pisar\xEDas"
+      - "pisar\xEDa"
+      - "pisar\xEDamos"
+      - "pisar\xEDais"
+      - "pisar\xEDan"
+      cjid: cond
+    - cjfs:
+      - pise
+      - pises
+      - pise
+      - pisemos
+      - "pis\xE9is"
+      - pisen
+      cjid: psub
+    - cjfs:
+      - pisara
+      - pisaras
+      - pisara
+      - "pis\xE1ramos"
+      - pisarais
+      - pisaran
+      cjid: pisb1
+    - cjfs:
+      - pisase
+      - pisases
+      - pisase
+      - "pis\xE1semos"
+      - pisaseis
+      - pisasen
+      cjid: pisb2
+    - cjfs:
+      - pisare
+      - pisares
+      - pisare
+      - "pis\xE1remos"
+      - pisareis
+      - pisaren
+      cjid: fsub
+    - cjfs:
+      - he pisado
+      - has pisado
+      - ha pisado
+      - hemos pisado
+      - "hab\xE9is pisado"
+      - han pisado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pisado"
+      - "hab\xEDas pisado"
+      - "hab\xEDa pisado"
+      - "hab\xEDamos pisado"
+      - "hab\xEDais pisado"
+      - "hab\xEDan pisado"
+      cjid: ppsi
+    - cjfs:
+      - hube pisado
+      - hubiste pisado
+      - hubo pisado
+      - hubimos pisado
+      - hubisteis pisado
+      - hubieron pisado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pisado"
+      - "habr\xE1s pisado"
+      - "habr\xE1 pisado"
+      - habremos pisado
+      - "habr\xE9is pisado"
+      - "habr\xE1n pisado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pisado"
+      - "habr\xEDas pisado"
+      - "habr\xEDa pisado"
+      - "habr\xEDamos pisado"
+      - "habr\xEDais pisado"
+      - "habr\xEDan pisado"
+      cjid: cpef
+    - cjfs:
+      - haya pisado
+      - hayas pisado
+      - haya pisado
+      - hayamos pisado
+      - "hay\xE1is pisado"
+      - hayan pisado
+      cjid: ppfs
+    - cjfs:
+      - hubiera pisado
+      - hubieras pisado
+      - hubiera pisado
+      - "hubi\xE9ramos pisado"
+      - hubierais pisado
+      - hubieran pisado
+      cjid: ppss1
+    - cjfs:
+      - hubiese pisado
+      - hubieses pisado
+      - hubiese pisado
+      - "hubi\xE9semos pisado"
+      - hubieseis pisado
+      - hubiesen pisado
+      cjid: ppss2
+    - cjfs:
+      - hubiere pisado
+      - hubieres pisado
+      - hubiere pisado
+      - "hubi\xE9remos pisado"
+      - hubiereis pisado
+      - hubieren pisado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pisa
+      - pise
+      - pisemos
+      - pisad
+      - pisen
+      cjid: impf

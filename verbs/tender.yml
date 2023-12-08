@@ -1,0 +1,349 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|entregar}, {a_link|presentar} '
+          - - vis
+            - - t: I tendered my resignation
+                tr: "present\xE9 mi renuncia"
+  fl: transitive verb
+  hom: 1
+  hwi:
+    hw: tender
+    prs:
+    - mw: "\u02C8t\u025Bnd\u0259r"
+      sound:
+        audio: tender01
+  meta:
+    id: tender:1
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2624165000'
+    src: spanish
+    stems:
+    - tender
+    - tendered
+    - tendering
+    - tenders
+    uuid: 9e56d7ae-a743-465a-bd5e-050c474f95ef
+  shortdef:
+  - entregar, presentar
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|tierno}, {a_link|blando} '
+          - - vis
+            - - t: tender steak
+                tr: bistec tierno
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|affectionate||}, {sx|loving||} {bc}{a_link|tierno}, {a_link|cari\xF1\
+              oso}, {a_link|afectuoso}"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|delicate||} {bc}{a_link|tierno}, {a_link|sensible}, {a_link|delicado}'
+          sn: '3'
+  fl: adjective
+  hom: 2
+  hwi:
+    hw: tender
+  meta:
+    id: tender:2
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2624166000'
+    src: spanish
+    stems:
+    - tender
+    - tenderer
+    - tenderest
+    - tenderly
+    - tenderness
+    - tendernesses
+    uuid: f01fddc6-182a-4ac9-9646-c5c3f84b88e8
+  shortdef:
+  - tierno, blando
+  - "affectionate, loving : tierno, cari\xF1oso, afectuoso"
+  - 'delicate : tierno, sensible, delicado'
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|offer||} {bc}{a_link|propuesta} '
+          - - gl
+            - feminine
+          - - text
+            - ', {a_link|oferta} '
+          - - gl
+            - feminine
+          - - text
+            - ' (en negocios)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|moneda} '
+          - - gl
+            - feminine
+          - - text
+            - ' de curso legal'
+          sn: '2'
+          vrs:
+          - va: legal tender
+  fl: noun
+  hom: 3
+  hwi:
+    hw: tender
+  meta:
+    id: tender:3
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2624167000'
+    src: spanish
+    stems:
+    - tender
+    - tenders
+    - legal tender
+    uuid: f199ddc6-be73-4f0d-a680-b99ee5123650
+  shortdef:
+  - 'offer : propuesta, oferta (en negocios)'
+  - moneda de curso legal
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|extender||} {bc}to {a_link|spread out}, to {a_link|lay out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|extender||} {bc}to {a_link|extend}, to {a_link|hold out} (one''s
+              hand)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hang out} (clothes)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run} (cables, etc.)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|set} (a trap)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|set} (a table), to {a_link|make} (a bed)'
+          sn: '6'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to tend to, to have a tendency towards'
+          vrs:
+          - va: tender a
+            vac: ~ a
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|stretch out}, to {a_link|lie down}'
+    drp: tenderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tender
+  meta:
+    id: tender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621649000'
+    src: spanish
+    stems:
+    - tender
+    - tender a
+    - tenderse
+    uuid: a7a06027-c8c9-4758-b13c-b004e9066d4a
+  shortdef:
+  - 'extender : to spread out, to lay out'
+  - 'extender : to extend, to hold out (one''s hand)'
+  - to hang out (clothes)
+  suppl:
+    cjts:
+    - cjfs:
+      - tendiendo
+      - tendido
+      cjid: gppt
+    - cjfs:
+      - tiendo
+      - tiendes
+      - tiende
+      - tendemos
+      - "tend\xE9is"
+      - tienden
+      cjid: pind
+    - cjfs:
+      - "tend\xEDa"
+      - "tend\xEDas"
+      - "tend\xEDa"
+      - "tend\xEDamos"
+      - "tend\xEDais"
+      - "tend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "tend\xED"
+      - tendiste
+      - "tendi\xF3"
+      - tendimos
+      - tendisteis
+      - tendieron
+      cjid: pprf
+    - cjfs:
+      - "tender\xE9"
+      - "tender\xE1s"
+      - "tender\xE1"
+      - tenderemos
+      - "tender\xE9is"
+      - "tender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tender\xEDa"
+      - "tender\xEDas"
+      - "tender\xEDa"
+      - "tender\xEDamos"
+      - "tender\xEDais"
+      - "tender\xEDan"
+      cjid: cond
+    - cjfs:
+      - tienda
+      - tiendas
+      - tienda
+      - tendamos
+      - "tend\xE1is"
+      - tiendan
+      cjid: psub
+    - cjfs:
+      - tendiera
+      - tendieras
+      - tendiera
+      - "tendi\xE9ramos"
+      - tendierais
+      - tendieran
+      cjid: pisb1
+    - cjfs:
+      - tendiese
+      - tendieses
+      - tendiese
+      - "tendi\xE9semos"
+      - tendieseis
+      - tendiesen
+      cjid: pisb2
+    - cjfs:
+      - tendiere
+      - tendieres
+      - tendiere
+      - "tendi\xE9remos"
+      - tendiereis
+      - tendieren
+      cjid: fsub
+    - cjfs:
+      - he tendido
+      - has tendido
+      - ha tendido
+      - hemos tendido
+      - "hab\xE9is tendido"
+      - han tendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tendido"
+      - "hab\xEDas tendido"
+      - "hab\xEDa tendido"
+      - "hab\xEDamos tendido"
+      - "hab\xEDais tendido"
+      - "hab\xEDan tendido"
+      cjid: ppsi
+    - cjfs:
+      - hube tendido
+      - hubiste tendido
+      - hubo tendido
+      - hubimos tendido
+      - hubisteis tendido
+      - hubieron tendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tendido"
+      - "habr\xE1s tendido"
+      - "habr\xE1 tendido"
+      - habremos tendido
+      - "habr\xE9is tendido"
+      - "habr\xE1n tendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tendido"
+      - "habr\xEDas tendido"
+      - "habr\xEDa tendido"
+      - "habr\xEDamos tendido"
+      - "habr\xEDais tendido"
+      - "habr\xEDan tendido"
+      cjid: cpef
+    - cjfs:
+      - haya tendido
+      - hayas tendido
+      - haya tendido
+      - hayamos tendido
+      - "hay\xE1is tendido"
+      - hayan tendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera tendido
+      - hubieras tendido
+      - hubiera tendido
+      - "hubi\xE9ramos tendido"
+      - hubierais tendido
+      - hubieran tendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese tendido
+      - hubieses tendido
+      - hubiese tendido
+      - "hubi\xE9semos tendido"
+      - hubieseis tendido
+      - hubiesen tendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere tendido
+      - hubieres tendido
+      - hubiere tendido
+      - "hubi\xE9remos tendido"
+      - hubiereis tendido
+      - hubieren tendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tiende
+      - tienda
+      - tendamos
+      - tended
+      - tiendan
+      cjid: impf

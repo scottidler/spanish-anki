@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|imitar||} {bc}to {a_link|emulate}'
+  fl: transitive verb
+  hwi:
+    hw: emular
+  meta:
+    id: emular
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608380000'
+    src: spanish
+    stems:
+    - emular
+    - "emulaci\xF3n"
+    uuid: aa5beb55-f44e-4fdd-9787-766a3227c330
+  shortdef:
+  - 'imitar : to emulate'
+  suppl:
+    cjts:
+    - cjfs:
+      - emulando
+      - emulado
+      cjid: gppt
+    - cjfs:
+      - emulo
+      - emulas
+      - emula
+      - emulamos
+      - "emul\xE1is"
+      - emulan
+      cjid: pind
+    - cjfs:
+      - emulaba
+      - emulabas
+      - emulaba
+      - "emul\xE1bamos"
+      - emulabais
+      - emulaban
+      cjid: pret
+    - cjfs:
+      - "emul\xE9"
+      - emulaste
+      - "emul\xF3"
+      - emulamos
+      - emulasteis
+      - emularon
+      cjid: pprf
+    - cjfs:
+      - "emular\xE9"
+      - "emular\xE1s"
+      - "emular\xE1"
+      - emularemos
+      - "emular\xE9is"
+      - "emular\xE1n"
+      cjid: futr
+    - cjfs:
+      - "emular\xEDa"
+      - "emular\xEDas"
+      - "emular\xEDa"
+      - "emular\xEDamos"
+      - "emular\xEDais"
+      - "emular\xEDan"
+      cjid: cond
+    - cjfs:
+      - emule
+      - emules
+      - emule
+      - emulemos
+      - "emul\xE9is"
+      - emulen
+      cjid: psub
+    - cjfs:
+      - emulara
+      - emularas
+      - emulara
+      - "emul\xE1ramos"
+      - emularais
+      - emularan
+      cjid: pisb1
+    - cjfs:
+      - emulase
+      - emulases
+      - emulase
+      - "emul\xE1semos"
+      - emulaseis
+      - emulasen
+      cjid: pisb2
+    - cjfs:
+      - emulare
+      - emulares
+      - emulare
+      - "emul\xE1remos"
+      - emulareis
+      - emularen
+      cjid: fsub
+    - cjfs:
+      - he emulado
+      - has emulado
+      - ha emulado
+      - hemos emulado
+      - "hab\xE9is emulado"
+      - han emulado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa emulado"
+      - "hab\xEDas emulado"
+      - "hab\xEDa emulado"
+      - "hab\xEDamos emulado"
+      - "hab\xEDais emulado"
+      - "hab\xEDan emulado"
+      cjid: ppsi
+    - cjfs:
+      - hube emulado
+      - hubiste emulado
+      - hubo emulado
+      - hubimos emulado
+      - hubisteis emulado
+      - hubieron emulado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 emulado"
+      - "habr\xE1s emulado"
+      - "habr\xE1 emulado"
+      - habremos emulado
+      - "habr\xE9is emulado"
+      - "habr\xE1n emulado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa emulado"
+      - "habr\xEDas emulado"
+      - "habr\xEDa emulado"
+      - "habr\xEDamos emulado"
+      - "habr\xEDais emulado"
+      - "habr\xEDan emulado"
+      cjid: cpef
+    - cjfs:
+      - haya emulado
+      - hayas emulado
+      - haya emulado
+      - hayamos emulado
+      - "hay\xE1is emulado"
+      - hayan emulado
+      cjid: ppfs
+    - cjfs:
+      - hubiera emulado
+      - hubieras emulado
+      - hubiera emulado
+      - "hubi\xE9ramos emulado"
+      - hubierais emulado
+      - hubieran emulado
+      cjid: ppss1
+    - cjfs:
+      - hubiese emulado
+      - hubieses emulado
+      - hubiese emulado
+      - "hubi\xE9semos emulado"
+      - hubieseis emulado
+      - hubiesen emulado
+      cjid: ppss2
+    - cjfs:
+      - hubiere emulado
+      - hubieres emulado
+      - hubiere emulado
+      - "hubi\xE9remos emulado"
+      - hubiereis emulado
+      - hubieren emulado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - emula
+      - emule
+      - emulemos
+      - emulad
+      - emulen
+      cjid: impf
+  uros:
+  - fl: feminine noun
+    ure: "emulaci\xF3n"

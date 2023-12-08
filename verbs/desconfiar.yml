@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|distrust}, to be suspicious of'
+          vrs:
+          - va: desconfiar de
+            vac: ~ de
+  fl: intransitive verb
+  hwi:
+    hw: desconfiar
+    prs:
+    - sound:
+        audio: desco09sp
+  meta:
+    id: desconfiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606950000'
+    src: spanish
+    stems:
+    - desconfiar
+    - desconfiar de
+    uuid: 5c94c721-a724-497b-b0fc-edbfae745e1a
+  shortdef:
+  - to distrust, to be suspicious of
+  suppl:
+    cjts:
+    - cjfs:
+      - desconfiando
+      - desconfiado
+      cjid: gppt
+    - cjfs:
+      - "desconf\xEDo"
+      - "desconf\xEDas"
+      - "desconf\xEDa"
+      - desconfiamos
+      - "desconfi\xE1is"
+      - "desconf\xEDan"
+      cjid: pind
+    - cjfs:
+      - desconfiaba
+      - desconfiabas
+      - desconfiaba
+      - "desconfi\xE1bamos"
+      - desconfiabais
+      - desconfiaban
+      cjid: pret
+    - cjfs:
+      - "desconfi\xE9"
+      - desconfiaste
+      - "desconfi\xF3"
+      - desconfiamos
+      - desconfiasteis
+      - desconfiaron
+      cjid: pprf
+    - cjfs:
+      - "desconfiar\xE9"
+      - "desconfiar\xE1s"
+      - "desconfiar\xE1"
+      - desconfiaremos
+      - "desconfiar\xE9is"
+      - "desconfiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desconfiar\xEDa"
+      - "desconfiar\xEDas"
+      - "desconfiar\xEDa"
+      - "desconfiar\xEDamos"
+      - "desconfiar\xEDais"
+      - "desconfiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "desconf\xEDe"
+      - "desconf\xEDes"
+      - "desconf\xEDe"
+      - desconfiemos
+      - "desconfi\xE9is"
+      - "desconf\xEDen"
+      cjid: psub
+    - cjfs:
+      - desconfiara
+      - desconfiaras
+      - desconfiara
+      - "desconfi\xE1ramos"
+      - desconfiarais
+      - desconfiaran
+      cjid: pisb1
+    - cjfs:
+      - desconfiase
+      - desconfiases
+      - desconfiase
+      - "desconfi\xE1semos"
+      - desconfiaseis
+      - desconfiasen
+      cjid: pisb2
+    - cjfs:
+      - desconfiare
+      - desconfiares
+      - desconfiare
+      - "desconfi\xE1remos"
+      - desconfiareis
+      - desconfiaren
+      cjid: fsub
+    - cjfs:
+      - he desconfiado
+      - has desconfiado
+      - ha desconfiado
+      - hemos desconfiado
+      - "hab\xE9is desconfiado"
+      - han desconfiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desconfiado"
+      - "hab\xEDas desconfiado"
+      - "hab\xEDa desconfiado"
+      - "hab\xEDamos desconfiado"
+      - "hab\xEDais desconfiado"
+      - "hab\xEDan desconfiado"
+      cjid: ppsi
+    - cjfs:
+      - hube desconfiado
+      - hubiste desconfiado
+      - hubo desconfiado
+      - hubimos desconfiado
+      - hubisteis desconfiado
+      - hubieron desconfiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desconfiado"
+      - "habr\xE1s desconfiado"
+      - "habr\xE1 desconfiado"
+      - habremos desconfiado
+      - "habr\xE9is desconfiado"
+      - "habr\xE1n desconfiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desconfiado"
+      - "habr\xEDas desconfiado"
+      - "habr\xEDa desconfiado"
+      - "habr\xEDamos desconfiado"
+      - "habr\xEDais desconfiado"
+      - "habr\xEDan desconfiado"
+      cjid: cpef
+    - cjfs:
+      - haya desconfiado
+      - hayas desconfiado
+      - haya desconfiado
+      - hayamos desconfiado
+      - "hay\xE1is desconfiado"
+      - hayan desconfiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desconfiado
+      - hubieras desconfiado
+      - hubiera desconfiado
+      - "hubi\xE9ramos desconfiado"
+      - hubierais desconfiado
+      - hubieran desconfiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desconfiado
+      - hubieses desconfiado
+      - hubiese desconfiado
+      - "hubi\xE9semos desconfiado"
+      - hubieseis desconfiado
+      - hubiesen desconfiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desconfiado
+      - hubieres desconfiado
+      - hubiere desconfiado
+      - "hubi\xE9remos desconfiado"
+      - hubiereis desconfiado
+      - hubieren desconfiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "desconf\xEDa"
+      - "desconf\xEDe"
+      - desconfiemos
+      - desconfiad
+      - "desconf\xEDen"
+      cjid: impf

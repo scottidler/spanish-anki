@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have breakfast'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have for breakfast'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: desayunar
+    prs:
+    - sound:
+        audio: desay01sp
+  meta:
+    id: desayunar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606884000'
+    src: spanish
+    stems:
+    - desayunar
+    uuid: 42effad3-d9b7-45a4-a16b-585a91dc80ca
+  shortdef:
+  - to have breakfast
+  - to have for breakfast
+  suppl:
+    cjts:
+    - cjfs:
+      - desayunando
+      - desayunado
+      cjid: gppt
+    - cjfs:
+      - desayuno
+      - desayunas
+      - desayuna
+      - desayunamos
+      - "desayun\xE1is"
+      - desayunan
+      cjid: pind
+    - cjfs:
+      - desayunaba
+      - desayunabas
+      - desayunaba
+      - "desayun\xE1bamos"
+      - desayunabais
+      - desayunaban
+      cjid: pret
+    - cjfs:
+      - "desayun\xE9"
+      - desayunaste
+      - "desayun\xF3"
+      - desayunamos
+      - desayunasteis
+      - desayunaron
+      cjid: pprf
+    - cjfs:
+      - "desayunar\xE9"
+      - "desayunar\xE1s"
+      - "desayunar\xE1"
+      - desayunaremos
+      - "desayunar\xE9is"
+      - "desayunar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desayunar\xEDa"
+      - "desayunar\xEDas"
+      - "desayunar\xEDa"
+      - "desayunar\xEDamos"
+      - "desayunar\xEDais"
+      - "desayunar\xEDan"
+      cjid: cond
+    - cjfs:
+      - desayune
+      - desayunes
+      - desayune
+      - desayunemos
+      - "desayun\xE9is"
+      - desayunen
+      cjid: psub
+    - cjfs:
+      - desayunara
+      - desayunaras
+      - desayunara
+      - "desayun\xE1ramos"
+      - desayunarais
+      - desayunaran
+      cjid: pisb1
+    - cjfs:
+      - desayunase
+      - desayunases
+      - desayunase
+      - "desayun\xE1semos"
+      - desayunaseis
+      - desayunasen
+      cjid: pisb2
+    - cjfs:
+      - desayunare
+      - desayunares
+      - desayunare
+      - "desayun\xE1remos"
+      - desayunareis
+      - desayunaren
+      cjid: fsub
+    - cjfs:
+      - he desayunado
+      - has desayunado
+      - ha desayunado
+      - hemos desayunado
+      - "hab\xE9is desayunado"
+      - han desayunado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desayunado"
+      - "hab\xEDas desayunado"
+      - "hab\xEDa desayunado"
+      - "hab\xEDamos desayunado"
+      - "hab\xEDais desayunado"
+      - "hab\xEDan desayunado"
+      cjid: ppsi
+    - cjfs:
+      - hube desayunado
+      - hubiste desayunado
+      - hubo desayunado
+      - hubimos desayunado
+      - hubisteis desayunado
+      - hubieron desayunado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desayunado"
+      - "habr\xE1s desayunado"
+      - "habr\xE1 desayunado"
+      - habremos desayunado
+      - "habr\xE9is desayunado"
+      - "habr\xE1n desayunado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desayunado"
+      - "habr\xEDas desayunado"
+      - "habr\xEDa desayunado"
+      - "habr\xEDamos desayunado"
+      - "habr\xEDais desayunado"
+      - "habr\xEDan desayunado"
+      cjid: cpef
+    - cjfs:
+      - haya desayunado
+      - hayas desayunado
+      - haya desayunado
+      - hayamos desayunado
+      - "hay\xE1is desayunado"
+      - hayan desayunado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desayunado
+      - hubieras desayunado
+      - hubiera desayunado
+      - "hubi\xE9ramos desayunado"
+      - hubierais desayunado
+      - hubieran desayunado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desayunado
+      - hubieses desayunado
+      - hubiese desayunado
+      - "hubi\xE9semos desayunado"
+      - hubieseis desayunado
+      - hubiesen desayunado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desayunado
+      - hubieres desayunado
+      - hubiere desayunado
+      - "hubi\xE9remos desayunado"
+      - hubiereis desayunado
+      - hubieren desayunado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - desayuna
+      - desayune
+      - desayunemos
+      - desayunad
+      - desayunen
+      cjid: impf

@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|roll}, to roll down, to roll along '
+          - - vis
+            - - t: "rod\xE9 por la escalera"
+                tr: I tumbled down the stairs
+              - t: todo rodaba bien
+                tr: everything was going along well
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|girar||} {bc}to {a_link|turn}, to {a_link|go around}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to move about, to {a_link|travel} '
+          - - vis
+            - - t: "and\xE1bamos rodando por todas partes"
+                tr: we drifted along from place to place
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|film}, to {a_link|shoot}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|break in} (a new vehicle)'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: rodar
+    prs:
+    - sound:
+        audio: rodar01sp
+  meta:
+    id: rodar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619884000'
+    src: spanish
+    stems:
+    - rodar
+    uuid: 8e166da7-e8a6-4b07-b4ac-a401c580739f
+  shortdef:
+  - to roll, to roll down, to roll along
+  - 'girar : to turn, to go around'
+  - to move about, to travel
+  suppl:
+    cjts:
+    - cjfs:
+      - rodando
+      - rodado
+      cjid: gppt
+    - cjfs:
+      - ruedo
+      - ruedas
+      - rueda
+      - rodamos
+      - "rod\xE1is"
+      - ruedan
+      cjid: pind
+    - cjfs:
+      - rodaba
+      - rodabas
+      - rodaba
+      - "rod\xE1bamos"
+      - rodabais
+      - rodaban
+      cjid: pret
+    - cjfs:
+      - "rod\xE9"
+      - rodaste
+      - "rod\xF3"
+      - rodamos
+      - rodasteis
+      - rodaron
+      cjid: pprf
+    - cjfs:
+      - "rodar\xE9"
+      - "rodar\xE1s"
+      - "rodar\xE1"
+      - rodaremos
+      - "rodar\xE9is"
+      - "rodar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "rodar\xEDa"
+      - "rodar\xEDas"
+      - "rodar\xEDa"
+      - "rodar\xEDamos"
+      - "rodar\xEDais"
+      - "rodar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ruede
+      - ruedes
+      - ruede
+      - rodemos
+      - "rod\xE9is"
+      - rueden
+      cjid: psub
+    - cjfs:
+      - rodara
+      - rodaras
+      - rodara
+      - "rod\xE1ramos"
+      - rodarais
+      - rodaran
+      cjid: pisb1
+    - cjfs:
+      - rodase
+      - rodases
+      - rodase
+      - "rod\xE1semos"
+      - rodaseis
+      - rodasen
+      cjid: pisb2
+    - cjfs:
+      - rodare
+      - rodares
+      - rodare
+      - "rod\xE1remos"
+      - rodareis
+      - rodaren
+      cjid: fsub
+    - cjfs:
+      - he rodado
+      - has rodado
+      - ha rodado
+      - hemos rodado
+      - "hab\xE9is rodado"
+      - han rodado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa rodado"
+      - "hab\xEDas rodado"
+      - "hab\xEDa rodado"
+      - "hab\xEDamos rodado"
+      - "hab\xEDais rodado"
+      - "hab\xEDan rodado"
+      cjid: ppsi
+    - cjfs:
+      - hube rodado
+      - hubiste rodado
+      - hubo rodado
+      - hubimos rodado
+      - hubisteis rodado
+      - hubieron rodado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 rodado"
+      - "habr\xE1s rodado"
+      - "habr\xE1 rodado"
+      - habremos rodado
+      - "habr\xE9is rodado"
+      - "habr\xE1n rodado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa rodado"
+      - "habr\xEDas rodado"
+      - "habr\xEDa rodado"
+      - "habr\xEDamos rodado"
+      - "habr\xEDais rodado"
+      - "habr\xEDan rodado"
+      cjid: cpef
+    - cjfs:
+      - haya rodado
+      - hayas rodado
+      - haya rodado
+      - hayamos rodado
+      - "hay\xE1is rodado"
+      - hayan rodado
+      cjid: ppfs
+    - cjfs:
+      - hubiera rodado
+      - hubieras rodado
+      - hubiera rodado
+      - "hubi\xE9ramos rodado"
+      - hubierais rodado
+      - hubieran rodado
+      cjid: ppss1
+    - cjfs:
+      - hubiese rodado
+      - hubieses rodado
+      - hubiese rodado
+      - "hubi\xE9semos rodado"
+      - hubieseis rodado
+      - hubiesen rodado
+      cjid: ppss2
+    - cjfs:
+      - hubiere rodado
+      - hubieres rodado
+      - hubiere rodado
+      - "hubi\xE9remos rodado"
+      - hubiereis rodado
+      - hubieren rodado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - rueda
+      - ruede
+      - rodemos
+      - rodad
+      - rueden
+      cjid: impf

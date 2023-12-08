@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to cross out, to {a_link|delete}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to accuse of, to label as '
+          - - vis
+            - - t: lo tacharon de mentiroso
+                tr: they accused him of being a liar
+          sn: '2'
+          vrs:
+          - va: tachar de
+            vac: ~ de
+  fl: transitive verb
+  hwi:
+    hw: tachar
+    prs:
+    - sound:
+        audio: tacha02sp
+  meta:
+    id: tachar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621377000'
+    src: spanish
+    stems:
+    - tachar
+    - tachar de
+    uuid: 1529685d-869e-47cb-858f-d62c972c7942
+  shortdef:
+  - to cross out, to delete
+  - to accuse of, to label as
+  suppl:
+    cjts:
+    - cjfs:
+      - tachando
+      - tachado
+      cjid: gppt
+    - cjfs:
+      - tacho
+      - tachas
+      - tacha
+      - tachamos
+      - "tach\xE1is"
+      - tachan
+      cjid: pind
+    - cjfs:
+      - tachaba
+      - tachabas
+      - tachaba
+      - "tach\xE1bamos"
+      - tachabais
+      - tachaban
+      cjid: pret
+    - cjfs:
+      - "tach\xE9"
+      - tachaste
+      - "tach\xF3"
+      - tachamos
+      - tachasteis
+      - tacharon
+      cjid: pprf
+    - cjfs:
+      - "tachar\xE9"
+      - "tachar\xE1s"
+      - "tachar\xE1"
+      - tacharemos
+      - "tachar\xE9is"
+      - "tachar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tachar\xEDa"
+      - "tachar\xEDas"
+      - "tachar\xEDa"
+      - "tachar\xEDamos"
+      - "tachar\xEDais"
+      - "tachar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tache
+      - taches
+      - tache
+      - tachemos
+      - "tach\xE9is"
+      - tachen
+      cjid: psub
+    - cjfs:
+      - tachara
+      - tacharas
+      - tachara
+      - "tach\xE1ramos"
+      - tacharais
+      - tacharan
+      cjid: pisb1
+    - cjfs:
+      - tachase
+      - tachases
+      - tachase
+      - "tach\xE1semos"
+      - tachaseis
+      - tachasen
+      cjid: pisb2
+    - cjfs:
+      - tachare
+      - tachares
+      - tachare
+      - "tach\xE1remos"
+      - tachareis
+      - tacharen
+      cjid: fsub
+    - cjfs:
+      - he tachado
+      - has tachado
+      - ha tachado
+      - hemos tachado
+      - "hab\xE9is tachado"
+      - han tachado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tachado"
+      - "hab\xEDas tachado"
+      - "hab\xEDa tachado"
+      - "hab\xEDamos tachado"
+      - "hab\xEDais tachado"
+      - "hab\xEDan tachado"
+      cjid: ppsi
+    - cjfs:
+      - hube tachado
+      - hubiste tachado
+      - hubo tachado
+      - hubimos tachado
+      - hubisteis tachado
+      - hubieron tachado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tachado"
+      - "habr\xE1s tachado"
+      - "habr\xE1 tachado"
+      - habremos tachado
+      - "habr\xE9is tachado"
+      - "habr\xE1n tachado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tachado"
+      - "habr\xEDas tachado"
+      - "habr\xEDa tachado"
+      - "habr\xEDamos tachado"
+      - "habr\xEDais tachado"
+      - "habr\xEDan tachado"
+      cjid: cpef
+    - cjfs:
+      - haya tachado
+      - hayas tachado
+      - haya tachado
+      - hayamos tachado
+      - "hay\xE1is tachado"
+      - hayan tachado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tachado
+      - hubieras tachado
+      - hubiera tachado
+      - "hubi\xE9ramos tachado"
+      - hubierais tachado
+      - hubieran tachado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tachado
+      - hubieses tachado
+      - hubiese tachado
+      - "hubi\xE9semos tachado"
+      - hubieseis tachado
+      - hubiesen tachado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tachado
+      - hubieres tachado
+      - hubiere tachado
+      - "hubi\xE9remos tachado"
+      - hubiereis tachado
+      - hubieren tachado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tacha
+      - tache
+      - tachemos
+      - tachad
+      - tachen
+      cjid: impf

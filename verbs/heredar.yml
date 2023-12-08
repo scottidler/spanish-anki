@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|inherit}'
+  fl: transitive verb
+  hwi:
+    hw: heredar
+    prs:
+    - sound:
+        audio: hered01sp
+  meta:
+    id: heredar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611379000'
+    src: spanish
+    stems:
+    - heredar
+    uuid: 7cfedd14-01d2-4a1f-9c4f-6f874601e639
+  shortdef:
+  - to inherit
+  suppl:
+    cjts:
+    - cjfs:
+      - heredando
+      - heredado
+      cjid: gppt
+    - cjfs:
+      - heredo
+      - heredas
+      - hereda
+      - heredamos
+      - "hered\xE1is"
+      - heredan
+      cjid: pind
+    - cjfs:
+      - heredaba
+      - heredabas
+      - heredaba
+      - "hered\xE1bamos"
+      - heredabais
+      - heredaban
+      cjid: pret
+    - cjfs:
+      - "hered\xE9"
+      - heredaste
+      - "hered\xF3"
+      - heredamos
+      - heredasteis
+      - heredaron
+      cjid: pprf
+    - cjfs:
+      - "heredar\xE9"
+      - "heredar\xE1s"
+      - "heredar\xE1"
+      - heredaremos
+      - "heredar\xE9is"
+      - "heredar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "heredar\xEDa"
+      - "heredar\xEDas"
+      - "heredar\xEDa"
+      - "heredar\xEDamos"
+      - "heredar\xEDais"
+      - "heredar\xEDan"
+      cjid: cond
+    - cjfs:
+      - herede
+      - heredes
+      - herede
+      - heredemos
+      - "hered\xE9is"
+      - hereden
+      cjid: psub
+    - cjfs:
+      - heredara
+      - heredaras
+      - heredara
+      - "hered\xE1ramos"
+      - heredarais
+      - heredaran
+      cjid: pisb1
+    - cjfs:
+      - heredase
+      - heredases
+      - heredase
+      - "hered\xE1semos"
+      - heredaseis
+      - heredasen
+      cjid: pisb2
+    - cjfs:
+      - heredare
+      - heredares
+      - heredare
+      - "hered\xE1remos"
+      - heredareis
+      - heredaren
+      cjid: fsub
+    - cjfs:
+      - he heredado
+      - has heredado
+      - ha heredado
+      - hemos heredado
+      - "hab\xE9is heredado"
+      - han heredado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa heredado"
+      - "hab\xEDas heredado"
+      - "hab\xEDa heredado"
+      - "hab\xEDamos heredado"
+      - "hab\xEDais heredado"
+      - "hab\xEDan heredado"
+      cjid: ppsi
+    - cjfs:
+      - hube heredado
+      - hubiste heredado
+      - hubo heredado
+      - hubimos heredado
+      - hubisteis heredado
+      - hubieron heredado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 heredado"
+      - "habr\xE1s heredado"
+      - "habr\xE1 heredado"
+      - habremos heredado
+      - "habr\xE9is heredado"
+      - "habr\xE1n heredado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa heredado"
+      - "habr\xEDas heredado"
+      - "habr\xEDa heredado"
+      - "habr\xEDamos heredado"
+      - "habr\xEDais heredado"
+      - "habr\xEDan heredado"
+      cjid: cpef
+    - cjfs:
+      - haya heredado
+      - hayas heredado
+      - haya heredado
+      - hayamos heredado
+      - "hay\xE1is heredado"
+      - hayan heredado
+      cjid: ppfs
+    - cjfs:
+      - hubiera heredado
+      - hubieras heredado
+      - hubiera heredado
+      - "hubi\xE9ramos heredado"
+      - hubierais heredado
+      - hubieran heredado
+      cjid: ppss1
+    - cjfs:
+      - hubiese heredado
+      - hubieses heredado
+      - hubiese heredado
+      - "hubi\xE9semos heredado"
+      - hubieseis heredado
+      - hubiesen heredado
+      cjid: ppss2
+    - cjfs:
+      - hubiere heredado
+      - hubieres heredado
+      - hubiere heredado
+      - "hubi\xE9remos heredado"
+      - hubiereis heredado
+      - hubieren heredado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - hereda
+      - herede
+      - heredemos
+      - heredad
+      - hereden
+      cjid: impf

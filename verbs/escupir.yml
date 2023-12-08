@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|spit}'
+  fl: verb
+  hwi:
+    hw: escupir
+    prs:
+    - sound:
+        audio: escup01sp
+  meta:
+    id: escupir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2609075000'
+    src: spanish
+    stems:
+    - escupir
+    uuid: a3ff5653-96fa-4ce2-9a55-705dbede13f6
+  shortdef:
+  - to spit
+  suppl:
+    cjts:
+    - cjfs:
+      - escupiendo
+      - escupido
+      cjid: gppt
+    - cjfs:
+      - escupo
+      - escupes
+      - escupe
+      - escupimos
+      - "escup\xEDs"
+      - escupen
+      cjid: pind
+    - cjfs:
+      - "escup\xEDa"
+      - "escup\xEDas"
+      - "escup\xEDa"
+      - "escup\xEDamos"
+      - "escup\xEDais"
+      - "escup\xEDan"
+      cjid: pret
+    - cjfs:
+      - "escup\xED"
+      - escupiste
+      - "escupi\xF3"
+      - escupimos
+      - escupisteis
+      - escupieron
+      cjid: pprf
+    - cjfs:
+      - "escupir\xE9"
+      - "escupir\xE1s"
+      - "escupir\xE1"
+      - escupiremos
+      - "escupir\xE9is"
+      - "escupir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "escupir\xEDa"
+      - "escupir\xEDas"
+      - "escupir\xEDa"
+      - "escupir\xEDamos"
+      - "escupir\xEDais"
+      - "escupir\xEDan"
+      cjid: cond
+    - cjfs:
+      - escupa
+      - escupas
+      - escupa
+      - escupamos
+      - "escup\xE1is"
+      - escupan
+      cjid: psub
+    - cjfs:
+      - escupiera
+      - escupieras
+      - escupiera
+      - "escupi\xE9ramos"
+      - escupierais
+      - escupieran
+      cjid: pisb1
+    - cjfs:
+      - escupiese
+      - escupieses
+      - escupiese
+      - "escupi\xE9semos"
+      - escupieseis
+      - escupiesen
+      cjid: pisb2
+    - cjfs:
+      - escupiere
+      - escupieres
+      - escupiere
+      - "escupi\xE9remos"
+      - escupiereis
+      - escupieren
+      cjid: fsub
+    - cjfs:
+      - he escupido
+      - has escupido
+      - ha escupido
+      - hemos escupido
+      - "hab\xE9is escupido"
+      - han escupido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa escupido"
+      - "hab\xEDas escupido"
+      - "hab\xEDa escupido"
+      - "hab\xEDamos escupido"
+      - "hab\xEDais escupido"
+      - "hab\xEDan escupido"
+      cjid: ppsi
+    - cjfs:
+      - hube escupido
+      - hubiste escupido
+      - hubo escupido
+      - hubimos escupido
+      - hubisteis escupido
+      - hubieron escupido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 escupido"
+      - "habr\xE1s escupido"
+      - "habr\xE1 escupido"
+      - habremos escupido
+      - "habr\xE9is escupido"
+      - "habr\xE1n escupido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa escupido"
+      - "habr\xEDas escupido"
+      - "habr\xEDa escupido"
+      - "habr\xEDamos escupido"
+      - "habr\xEDais escupido"
+      - "habr\xEDan escupido"
+      cjid: cpef
+    - cjfs:
+      - haya escupido
+      - hayas escupido
+      - haya escupido
+      - hayamos escupido
+      - "hay\xE1is escupido"
+      - hayan escupido
+      cjid: ppfs
+    - cjfs:
+      - hubiera escupido
+      - hubieras escupido
+      - hubiera escupido
+      - "hubi\xE9ramos escupido"
+      - hubierais escupido
+      - hubieran escupido
+      cjid: ppss1
+    - cjfs:
+      - hubiese escupido
+      - hubieses escupido
+      - hubiese escupido
+      - "hubi\xE9semos escupido"
+      - hubieseis escupido
+      - hubiesen escupido
+      cjid: ppss2
+    - cjfs:
+      - hubiere escupido
+      - hubieres escupido
+      - hubiere escupido
+      - "hubi\xE9remos escupido"
+      - hubiereis escupido
+      - hubieren escupido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - escupe
+      - escupa
+      - escupamos
+      - escupid
+      - escupan
+      cjid: impf

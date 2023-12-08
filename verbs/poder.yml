@@ -1,0 +1,892 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be able to, {a_link|can} '
+          - - vis
+            - - t: no puede hablar
+                tr: he can't speak
+              - t: no pude acabarlo
+                tr: I couldn't finish it
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|might}, {a_link|may} '
+          - - vis
+            - - t: puede llover
+                tr: it may rain at any moment
+              - t: "\xBFc\xF3mo puede ser?"
+                tr: how can that be?
+              - t: "se podr\xEDa/pod\xEDa haber evitado"
+                tr: it could have been avoided
+          sls:
+          - (expressing possibility)
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|can}, {a_link|may} '
+          - - vis
+            - - t: "\xBFpuedo ir a la fiesta?"
+                tr: can I go to the party?
+              - t: "\xBFse puede?"
+                tr: may I come in?
+          sls:
+          - (expressing permission)
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|can} '
+          - - vis
+            - - t: "\xBFme puedes ayudar?"
+                tr: can you help me?
+              - t: "\xBFme lo podr\xEDas explicar?"
+                tr: could/would you explain it to me?
+          sls:
+          - (expressing a request)
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|can} '
+          - - vis
+            - - t: "\xBFno puedes estarte quieto?"
+                tr: can't you sit still?
+              - t: "\xA1podr\xEDas/pod\xEDas haberme llamado!"
+                tr: you could have called me!
+          sls:
+          - (expressing annoyance)
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|can} '
+          - - vis
+            - - t: no puedo juzgarlo
+                tr: I can't judge him
+          sls:
+          - (expressing moral obligation)
+          sn: '6'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|beat}, to {a_link|defeat} '
+          - - vis
+            - - t: cree que le puede a cualquiera
+                tr: he thinks he can beat anyone
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be possible '
+          - - vis
+            - - t: "\xBFcrees que vendr\xE1n? \u2014 puede (que s\xED)"
+                tr: "do you think they'll come? \u2014 maybe"
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cope with}, to {a_link|manage} '
+          - - vis
+            - - t: "\xA1no puedo con estos ni\xF1os!"
+                tr: I can't handle these children!
+          sn: '3'
+          vrs:
+          - va: poder con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - vis
+            - - t: "es competitivo a m\xE1s no poder"
+                tr: he's as competitive as they come
+              - t: "comimos hasta m\xE1s no poder"
+                tr: we ate until we couldn't eat another bite
+          sn: '4'
+          vrs:
+          - va: "a/hasta m\xE1s no poder"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have had enough '
+          - - vis
+            - - t: "no puede m\xE1s"
+                tr: she can't take anymore
+          sn: '5'
+          vrs:
+          - va: "no poder m\xE1s"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}not to be able to help (doing something) '
+          - - vis
+            - - t: no pudo menos que asombrarse
+                tr: she couldn't help but be amazed
+          sn: '6'
+          vrs:
+          - va: no poder menos que
+    vd: intransitive verb
+  fl: auxiliary verb
+  hom: 1
+  hwi:
+    hw: poder
+    prs:
+    - sound:
+        audio: poder01sp
+  meta:
+    id: poder:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617621000'
+    src: spanish
+    stems:
+    - poder
+    - poder con
+    - "a/hasta m\xE1s no poder"
+    - "a m\xE1s no poder"
+    - "hasta m\xE1s no poder"
+    - "no poder m\xE1s"
+    - no poder menos que
+    uuid: dace2cc3-8a90-43e6-aa75-2e41c5dfb32b
+  shortdef:
+  - to be able to, can
+  - might, may
+  - can, may
+  suppl:
+    cjts:
+    - cjfs:
+      - pudiendo
+      - podido
+      cjid: gppt
+    - cjfs:
+      - puedo
+      - puedes
+      - puede
+      - podemos
+      - "pod\xE9is"
+      - pueden
+      cjid: pind
+    - cjfs:
+      - "pod\xEDa"
+      - "pod\xEDas"
+      - "pod\xEDa"
+      - "pod\xEDamos"
+      - "pod\xEDais"
+      - "pod\xEDan"
+      cjid: pret
+    - cjfs:
+      - pude
+      - pudiste
+      - pudo
+      - pudimos
+      - pudisteis
+      - pudieron
+      cjid: pprf
+    - cjfs:
+      - "podr\xE9"
+      - "podr\xE1s"
+      - "podr\xE1"
+      - podremos
+      - "podr\xE9is"
+      - "podr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "podr\xEDa"
+      - "podr\xEDas"
+      - "podr\xEDa"
+      - "podr\xEDamos"
+      - "podr\xEDais"
+      - "podr\xEDan"
+      cjid: cond
+    - cjfs:
+      - pueda
+      - puedas
+      - pueda
+      - podamos
+      - "pod\xE1is"
+      - puedan
+      cjid: psub
+    - cjfs:
+      - pudiera
+      - pudieras
+      - pudiera
+      - "pudi\xE9ramos"
+      - pudierais
+      - pudieran
+      cjid: pisb1
+    - cjfs:
+      - pudiese
+      - pudieses
+      - pudiese
+      - "pudi\xE9semos"
+      - pudieseis
+      - pudiesen
+      cjid: pisb2
+    - cjfs:
+      - pudiere
+      - pudieres
+      - pudiere
+      - "pudi\xE9remos"
+      - pudiereis
+      - pudieren
+      cjid: fsub
+    - cjfs:
+      - he podido
+      - has podido
+      - ha podido
+      - hemos podido
+      - "hab\xE9is podido"
+      - han podido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa podido"
+      - "hab\xEDas podido"
+      - "hab\xEDa podido"
+      - "hab\xEDamos podido"
+      - "hab\xEDais podido"
+      - "hab\xEDan podido"
+      cjid: ppsi
+    - cjfs:
+      - hube podido
+      - hubiste podido
+      - hubo podido
+      - hubimos podido
+      - hubisteis podido
+      - hubieron podido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 podido"
+      - "habr\xE1s podido"
+      - "habr\xE1 podido"
+      - habremos podido
+      - "habr\xE9is podido"
+      - "habr\xE1n podido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa podido"
+      - "habr\xEDas podido"
+      - "habr\xEDa podido"
+      - "habr\xEDamos podido"
+      - "habr\xEDais podido"
+      - "habr\xEDan podido"
+      cjid: cpef
+    - cjfs:
+      - haya podido
+      - hayas podido
+      - haya podido
+      - hayamos podido
+      - "hay\xE1is podido"
+      - hayan podido
+      cjid: ppfs
+    - cjfs:
+      - hubiera podido
+      - hubieras podido
+      - hubiera podido
+      - "hubi\xE9ramos podido"
+      - hubierais podido
+      - hubieran podido
+      cjid: ppss1
+    - cjfs:
+      - hubiese podido
+      - hubieses podido
+      - hubiese podido
+      - "hubi\xE9semos podido"
+      - hubieseis podido
+      - hubiesen podido
+      cjid: ppss2
+    - cjfs:
+      - hubiere podido
+      - hubieres podido
+      - hubiere podido
+      - "hubi\xE9remos podido"
+      - hubiereis podido
+      - hubieren podido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - puede
+      - pueda
+      - podamos
+      - poded
+      - puedan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|power}, {a_link|control} '
+          - - vis
+            - - t: tener poder sobre alguien
+                tr: to have power over someone
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|power}, {a_link|influence} '
+          - - vis
+            - - t: el poder del amor
+                tr: the power of love
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|power}, {a_link|ability} '
+          - - vis
+            - - t: "poderes m\xE1gicos"
+                tr: magical powers
+              - t: poder adquisitivo
+                tr: purchasing power
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|power}, {a_link|control} (of a country, etc.) '
+          - - vis
+            - - t: llegar al poder
+                tr: to come to power
+              - t: estar en el poder
+                tr: to be in power
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|power}, {a_link|authority} '
+          - - vis
+            - - t: el poder de veto
+                tr: veto power
+              - t: tener el poder para
+                tr: to have the authority to
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|branch} (of government) '
+          - - vis
+            - - t: el poder legislativo
+                tr: the legislature
+              - t: "los poderes p\xFAblicos"
+                tr: the authorities
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|power}, {a_link|force} '
+          - - vis
+            - - t: poder militar
+                tr: military might
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|possession} '
+          - - vis
+            - - t: estar en el poder de
+                tr: to be in the hands of
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}power of attorney'
+          sn: '9'
+  fl: masculine noun
+  hom: 2
+  hwi:
+    hw: poder
+    prs:
+    - sound:
+        audio: poder02sp
+  meta:
+    id: poder:2
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617622000'
+    src: spanish
+    stems:
+    - poder
+    uuid: 4aa378bc-d4cf-4baa-8f90-597c9453f7e6
+  shortdef:
+  - power, control
+  - power, influence
+  - power, ability
+- ahws:
+  - hw: adquisitiva
+    hwc: -va
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}purchasing power'
+          vrs:
+          - va: poder adquisitivo
+  fl: adjective
+  hwi:
+    hw: adquisitivo
+  meta:
+    id: adquisitivo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600533000'
+    src: spanish
+    stems:
+    - adquisitivo
+    - adquisitiva
+    - poder adquisitivo
+    uuid: 700062b9-0750-407e-ba47-f443eee42079
+  shortdef:
+  - purchasing power
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assault}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mug}, to {a_link|rob}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to seize power'
+          sn: '3'
+          vrs:
+          - va: asaltar al poder
+  fl: transitive verb
+  hwi:
+    hw: asaltar
+    prs:
+    - sound:
+        audio: asalt01sp
+  meta:
+    id: asaltar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602093000'
+    src: spanish
+    stems:
+    - asaltar
+    - asaltar al poder
+    uuid: 913ff85e-fa06-4ec7-922d-543c682e7711
+  shortdef:
+  - to assault
+  - to mug, to rob
+  - to seize power
+  suppl:
+    cjts:
+    - cjfs:
+      - asaltando
+      - asaltado
+      cjid: gppt
+    - cjfs:
+      - asalto
+      - asaltas
+      - asalta
+      - asaltamos
+      - "asalt\xE1is"
+      - asaltan
+      cjid: pind
+    - cjfs:
+      - asaltaba
+      - asaltabas
+      - asaltaba
+      - "asalt\xE1bamos"
+      - asaltabais
+      - asaltaban
+      cjid: pret
+    - cjfs:
+      - "asalt\xE9"
+      - asaltaste
+      - "asalt\xF3"
+      - asaltamos
+      - asaltasteis
+      - asaltaron
+      cjid: pprf
+    - cjfs:
+      - "asaltar\xE9"
+      - "asaltar\xE1s"
+      - "asaltar\xE1"
+      - asaltaremos
+      - "asaltar\xE9is"
+      - "asaltar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asaltar\xEDa"
+      - "asaltar\xEDas"
+      - "asaltar\xEDa"
+      - "asaltar\xEDamos"
+      - "asaltar\xEDais"
+      - "asaltar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asalte
+      - asaltes
+      - asalte
+      - asaltemos
+      - "asalt\xE9is"
+      - asalten
+      cjid: psub
+    - cjfs:
+      - asaltara
+      - asaltaras
+      - asaltara
+      - "asalt\xE1ramos"
+      - asaltarais
+      - asaltaran
+      cjid: pisb1
+    - cjfs:
+      - asaltase
+      - asaltases
+      - asaltase
+      - "asalt\xE1semos"
+      - asaltaseis
+      - asaltasen
+      cjid: pisb2
+    - cjfs:
+      - asaltare
+      - asaltares
+      - asaltare
+      - "asalt\xE1remos"
+      - asaltareis
+      - asaltaren
+      cjid: fsub
+    - cjfs:
+      - he asaltado
+      - has asaltado
+      - ha asaltado
+      - hemos asaltado
+      - "hab\xE9is asaltado"
+      - han asaltado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asaltado"
+      - "hab\xEDas asaltado"
+      - "hab\xEDa asaltado"
+      - "hab\xEDamos asaltado"
+      - "hab\xEDais asaltado"
+      - "hab\xEDan asaltado"
+      cjid: ppsi
+    - cjfs:
+      - hube asaltado
+      - hubiste asaltado
+      - hubo asaltado
+      - hubimos asaltado
+      - hubisteis asaltado
+      - hubieron asaltado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asaltado"
+      - "habr\xE1s asaltado"
+      - "habr\xE1 asaltado"
+      - habremos asaltado
+      - "habr\xE9is asaltado"
+      - "habr\xE1n asaltado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asaltado"
+      - "habr\xEDas asaltado"
+      - "habr\xEDa asaltado"
+      - "habr\xEDamos asaltado"
+      - "habr\xEDais asaltado"
+      - "habr\xEDan asaltado"
+      cjid: cpef
+    - cjfs:
+      - haya asaltado
+      - hayas asaltado
+      - haya asaltado
+      - hayamos asaltado
+      - "hay\xE1is asaltado"
+      - hayan asaltado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asaltado
+      - hubieras asaltado
+      - hubiera asaltado
+      - "hubi\xE9ramos asaltado"
+      - hubierais asaltado
+      - hubieran asaltado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asaltado
+      - hubieses asaltado
+      - hubiese asaltado
+      - "hubi\xE9semos asaltado"
+      - hubieseis asaltado
+      - hubiesen asaltado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asaltado
+      - hubieres asaltado
+      - hubiere asaltado
+      - "hubi\xE9remos asaltado"
+      - hubiereis asaltado
+      - hubieren asaltado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asalta
+      - asalte
+      - asaltemos
+      - asaltad
+      - asalten
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|assault}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|mugging}, {a_link|robbery}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|round} (in boxing)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}{a_link|coup d'\xE9tat}"
+          sn: '4'
+          vrs:
+          - va: asalto al poder
+  fl: masculine noun
+  hwi:
+    hw: asalto
+    prs:
+    - sound:
+        audio: asalt02sp
+  meta:
+    id: asalto
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602094000'
+    src: spanish
+    stems:
+    - asalto
+    - asalto al poder
+    uuid: 5ea3449f-3d71-4adb-8b18-6398bc71a4f9
+  shortdef:
+  - assault
+  - mugging, robbery
+  - round (in boxing)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|work}, to {a_link|produce} '
+          - - vis
+            - - t: obrar milagros
+                tr: to work miracles
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|act}, to {a_link|behave} '
+          - - vis
+            - - t: obrar con cautela
+                tr: to act with caution
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in possession of'
+          sn: '2'
+          vrs:
+          - va: obrar en poder de
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: obrar
+    prs:
+    - sound:
+        audio: obrar01sp
+  meta:
+    id: obrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615998000'
+    src: spanish
+    stems:
+    - obrar
+    - obrar en poder de
+    uuid: dd004aa5-baea-487e-b89f-1a77d4db37e3
+  shortdef:
+  - to work, to produce
+  - to act, to behave
+  - to be in possession of
+  suppl:
+    cjts:
+    - cjfs:
+      - obrando
+      - obrado
+      cjid: gppt
+    - cjfs:
+      - obro
+      - obras
+      - obra
+      - obramos
+      - "obr\xE1is"
+      - obran
+      cjid: pind
+    - cjfs:
+      - obraba
+      - obrabas
+      - obraba
+      - "obr\xE1bamos"
+      - obrabais
+      - obraban
+      cjid: pret
+    - cjfs:
+      - "obr\xE9"
+      - obraste
+      - "obr\xF3"
+      - obramos
+      - obrasteis
+      - obraron
+      cjid: pprf
+    - cjfs:
+      - "obrar\xE9"
+      - "obrar\xE1s"
+      - "obrar\xE1"
+      - obraremos
+      - "obrar\xE9is"
+      - "obrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "obrar\xEDa"
+      - "obrar\xEDas"
+      - "obrar\xEDa"
+      - "obrar\xEDamos"
+      - "obrar\xEDais"
+      - "obrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - obre
+      - obres
+      - obre
+      - obremos
+      - "obr\xE9is"
+      - obren
+      cjid: psub
+    - cjfs:
+      - obrara
+      - obraras
+      - obrara
+      - "obr\xE1ramos"
+      - obrarais
+      - obraran
+      cjid: pisb1
+    - cjfs:
+      - obrase
+      - obrases
+      - obrase
+      - "obr\xE1semos"
+      - obraseis
+      - obrasen
+      cjid: pisb2
+    - cjfs:
+      - obrare
+      - obrares
+      - obrare
+      - "obr\xE1remos"
+      - obrareis
+      - obraren
+      cjid: fsub
+    - cjfs:
+      - he obrado
+      - has obrado
+      - ha obrado
+      - hemos obrado
+      - "hab\xE9is obrado"
+      - han obrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa obrado"
+      - "hab\xEDas obrado"
+      - "hab\xEDa obrado"
+      - "hab\xEDamos obrado"
+      - "hab\xEDais obrado"
+      - "hab\xEDan obrado"
+      cjid: ppsi
+    - cjfs:
+      - hube obrado
+      - hubiste obrado
+      - hubo obrado
+      - hubimos obrado
+      - hubisteis obrado
+      - hubieron obrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 obrado"
+      - "habr\xE1s obrado"
+      - "habr\xE1 obrado"
+      - habremos obrado
+      - "habr\xE9is obrado"
+      - "habr\xE1n obrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa obrado"
+      - "habr\xEDas obrado"
+      - "habr\xEDa obrado"
+      - "habr\xEDamos obrado"
+      - "habr\xEDais obrado"
+      - "habr\xEDan obrado"
+      cjid: cpef
+    - cjfs:
+      - haya obrado
+      - hayas obrado
+      - haya obrado
+      - hayamos obrado
+      - "hay\xE1is obrado"
+      - hayan obrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera obrado
+      - hubieras obrado
+      - hubiera obrado
+      - "hubi\xE9ramos obrado"
+      - hubierais obrado
+      - hubieran obrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese obrado
+      - hubieses obrado
+      - hubiese obrado
+      - "hubi\xE9semos obrado"
+      - hubieseis obrado
+      - hubiesen obrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere obrado
+      - hubieres obrado
+      - hubiere obrado
+      - "hubi\xE9remos obrado"
+      - hubiereis obrado
+      - hubieren obrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - obra
+      - obre
+      - obremos
+      - obrad
+      - obren
+      cjid: impf

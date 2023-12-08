@@ -1,0 +1,214 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bathe}, to {a_link|wash}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|immerse}, to {a_link|dip}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|coat}, to {a_link|cover} '
+          - - vis
+            - - t: "ba\xF1ado en l\xE1grimas"
+                tr: bathed in tears
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take a bath, to {a_link|bathe}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|swim}, to go swimming'
+            sn: '2'
+    drp: "ba\xF1arse"
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: "ba\xF1ar"
+    prs:
+    - sound:
+        audio: banar01sp
+  meta:
+    id: banar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602753000'
+    src: spanish
+    stems:
+    - "ba\xF1ar"
+    - "ba\xF1arse"
+    uuid: d68f0b0f-6871-4dbf-9772-e8d019684103
+  shortdef:
+  - to bathe, to wash
+  - to immerse, to dip
+  - to coat, to cover
+  suppl:
+    cjts:
+    - cjfs:
+      - "ba\xF1ando"
+      - "ba\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "ba\xF1o"
+      - "ba\xF1as"
+      - "ba\xF1a"
+      - "ba\xF1amos"
+      - "ba\xF1\xE1is"
+      - "ba\xF1an"
+      cjid: pind
+    - cjfs:
+      - "ba\xF1aba"
+      - "ba\xF1abas"
+      - "ba\xF1aba"
+      - "ba\xF1\xE1bamos"
+      - "ba\xF1abais"
+      - "ba\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "ba\xF1\xE9"
+      - "ba\xF1aste"
+      - "ba\xF1\xF3"
+      - "ba\xF1amos"
+      - "ba\xF1asteis"
+      - "ba\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "ba\xF1ar\xE9"
+      - "ba\xF1ar\xE1s"
+      - "ba\xF1ar\xE1"
+      - "ba\xF1aremos"
+      - "ba\xF1ar\xE9is"
+      - "ba\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ba\xF1ar\xEDa"
+      - "ba\xF1ar\xEDas"
+      - "ba\xF1ar\xEDa"
+      - "ba\xF1ar\xEDamos"
+      - "ba\xF1ar\xEDais"
+      - "ba\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ba\xF1e"
+      - "ba\xF1es"
+      - "ba\xF1e"
+      - "ba\xF1emos"
+      - "ba\xF1\xE9is"
+      - "ba\xF1en"
+      cjid: psub
+    - cjfs:
+      - "ba\xF1ara"
+      - "ba\xF1aras"
+      - "ba\xF1ara"
+      - "ba\xF1\xE1ramos"
+      - "ba\xF1arais"
+      - "ba\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "ba\xF1ase"
+      - "ba\xF1ases"
+      - "ba\xF1ase"
+      - "ba\xF1\xE1semos"
+      - "ba\xF1aseis"
+      - "ba\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "ba\xF1are"
+      - "ba\xF1ares"
+      - "ba\xF1are"
+      - "ba\xF1\xE1remos"
+      - "ba\xF1areis"
+      - "ba\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he ba\xF1ado"
+      - "has ba\xF1ado"
+      - "ha ba\xF1ado"
+      - "hemos ba\xF1ado"
+      - "hab\xE9is ba\xF1ado"
+      - "han ba\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ba\xF1ado"
+      - "hab\xEDas ba\xF1ado"
+      - "hab\xEDa ba\xF1ado"
+      - "hab\xEDamos ba\xF1ado"
+      - "hab\xEDais ba\xF1ado"
+      - "hab\xEDan ba\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube ba\xF1ado"
+      - "hubiste ba\xF1ado"
+      - "hubo ba\xF1ado"
+      - "hubimos ba\xF1ado"
+      - "hubisteis ba\xF1ado"
+      - "hubieron ba\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ba\xF1ado"
+      - "habr\xE1s ba\xF1ado"
+      - "habr\xE1 ba\xF1ado"
+      - "habremos ba\xF1ado"
+      - "habr\xE9is ba\xF1ado"
+      - "habr\xE1n ba\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ba\xF1ado"
+      - "habr\xEDas ba\xF1ado"
+      - "habr\xEDa ba\xF1ado"
+      - "habr\xEDamos ba\xF1ado"
+      - "habr\xEDais ba\xF1ado"
+      - "habr\xEDan ba\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya ba\xF1ado"
+      - "hayas ba\xF1ado"
+      - "haya ba\xF1ado"
+      - "hayamos ba\xF1ado"
+      - "hay\xE1is ba\xF1ado"
+      - "hayan ba\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera ba\xF1ado"
+      - "hubieras ba\xF1ado"
+      - "hubiera ba\xF1ado"
+      - "hubi\xE9ramos ba\xF1ado"
+      - "hubierais ba\xF1ado"
+      - "hubieran ba\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese ba\xF1ado"
+      - "hubieses ba\xF1ado"
+      - "hubiese ba\xF1ado"
+      - "hubi\xE9semos ba\xF1ado"
+      - "hubieseis ba\xF1ado"
+      - "hubiesen ba\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere ba\xF1ado"
+      - "hubieres ba\xF1ado"
+      - "hubiere ba\xF1ado"
+      - "hubi\xE9remos ba\xF1ado"
+      - "hubiereis ba\xF1ado"
+      - "hubieren ba\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ba\xF1a"
+      - "ba\xF1e"
+      - "ba\xF1emos"
+      - "ba\xF1ad"
+      - "ba\xF1en"
+      cjid: impf

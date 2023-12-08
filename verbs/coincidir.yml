@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|coincide}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: coincidir
+    prs:
+    - sound:
+        audio: coinc02sp
+  meta:
+    id: coincidir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605007000'
+    src: spanish
+    stems:
+    - coincidir
+    uuid: 97a341b2-b022-4861-ad24-000c2681a9cb
+  shortdef:
+  - to coincide
+  - to agree
+  suppl:
+    cjts:
+    - cjfs:
+      - coincidiendo
+      - coincidido
+      cjid: gppt
+    - cjfs:
+      - coincido
+      - coincides
+      - coincide
+      - coincidimos
+      - "coincid\xEDs"
+      - coinciden
+      cjid: pind
+    - cjfs:
+      - "coincid\xEDa"
+      - "coincid\xEDas"
+      - "coincid\xEDa"
+      - "coincid\xEDamos"
+      - "coincid\xEDais"
+      - "coincid\xEDan"
+      cjid: pret
+    - cjfs:
+      - "coincid\xED"
+      - coincidiste
+      - "coincidi\xF3"
+      - coincidimos
+      - coincidisteis
+      - coincidieron
+      cjid: pprf
+    - cjfs:
+      - "coincidir\xE9"
+      - "coincidir\xE1s"
+      - "coincidir\xE1"
+      - coincidiremos
+      - "coincidir\xE9is"
+      - "coincidir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "coincidir\xEDa"
+      - "coincidir\xEDas"
+      - "coincidir\xEDa"
+      - "coincidir\xEDamos"
+      - "coincidir\xEDais"
+      - "coincidir\xEDan"
+      cjid: cond
+    - cjfs:
+      - coincida
+      - coincidas
+      - coincida
+      - coincidamos
+      - "coincid\xE1is"
+      - coincidan
+      cjid: psub
+    - cjfs:
+      - coincidiera
+      - coincidieras
+      - coincidiera
+      - "coincidi\xE9ramos"
+      - coincidierais
+      - coincidieran
+      cjid: pisb1
+    - cjfs:
+      - coincidiese
+      - coincidieses
+      - coincidiese
+      - "coincidi\xE9semos"
+      - coincidieseis
+      - coincidiesen
+      cjid: pisb2
+    - cjfs:
+      - coincidiere
+      - coincidieres
+      - coincidiere
+      - "coincidi\xE9remos"
+      - coincidiereis
+      - coincidieren
+      cjid: fsub
+    - cjfs:
+      - he coincidido
+      - has coincidido
+      - ha coincidido
+      - hemos coincidido
+      - "hab\xE9is coincidido"
+      - han coincidido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa coincidido"
+      - "hab\xEDas coincidido"
+      - "hab\xEDa coincidido"
+      - "hab\xEDamos coincidido"
+      - "hab\xEDais coincidido"
+      - "hab\xEDan coincidido"
+      cjid: ppsi
+    - cjfs:
+      - hube coincidido
+      - hubiste coincidido
+      - hubo coincidido
+      - hubimos coincidido
+      - hubisteis coincidido
+      - hubieron coincidido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 coincidido"
+      - "habr\xE1s coincidido"
+      - "habr\xE1 coincidido"
+      - habremos coincidido
+      - "habr\xE9is coincidido"
+      - "habr\xE1n coincidido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa coincidido"
+      - "habr\xEDas coincidido"
+      - "habr\xEDa coincidido"
+      - "habr\xEDamos coincidido"
+      - "habr\xEDais coincidido"
+      - "habr\xEDan coincidido"
+      cjid: cpef
+    - cjfs:
+      - haya coincidido
+      - hayas coincidido
+      - haya coincidido
+      - hayamos coincidido
+      - "hay\xE1is coincidido"
+      - hayan coincidido
+      cjid: ppfs
+    - cjfs:
+      - hubiera coincidido
+      - hubieras coincidido
+      - hubiera coincidido
+      - "hubi\xE9ramos coincidido"
+      - hubierais coincidido
+      - hubieran coincidido
+      cjid: ppss1
+    - cjfs:
+      - hubiese coincidido
+      - hubieses coincidido
+      - hubiese coincidido
+      - "hubi\xE9semos coincidido"
+      - hubieseis coincidido
+      - hubiesen coincidido
+      cjid: ppss2
+    - cjfs:
+      - hubiere coincidido
+      - hubieres coincidido
+      - hubiere coincidido
+      - "hubi\xE9remos coincidido"
+      - hubiereis coincidido
+      - hubieren coincidido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - coincide
+      - coincida
+      - coincidamos
+      - coincidid
+      - coincidan
+      cjid: impf

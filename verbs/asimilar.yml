@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|assimilate}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be similar to, to {a_link|resemble}'
+            vrs:
+            - va: asimilarse a
+              vac: ~ a
+    drp: asimilarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: asimilar
+    prs:
+    - sound:
+        audio: asimi01sp
+  meta:
+    id: asimilar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602175000'
+    src: spanish
+    stems:
+    - asimilar
+    - asimilarse
+    - asimilarse a
+    uuid: a78032c7-2be3-4c1c-8f20-129356cafa92
+  shortdef:
+  - to assimilate
+  suppl:
+    cjts:
+    - cjfs:
+      - asimilando
+      - asimilado
+      cjid: gppt
+    - cjfs:
+      - asimilo
+      - asimilas
+      - asimila
+      - asimilamos
+      - "asimil\xE1is"
+      - asimilan
+      cjid: pind
+    - cjfs:
+      - asimilaba
+      - asimilabas
+      - asimilaba
+      - "asimil\xE1bamos"
+      - asimilabais
+      - asimilaban
+      cjid: pret
+    - cjfs:
+      - "asimil\xE9"
+      - asimilaste
+      - "asimil\xF3"
+      - asimilamos
+      - asimilasteis
+      - asimilaron
+      cjid: pprf
+    - cjfs:
+      - "asimilar\xE9"
+      - "asimilar\xE1s"
+      - "asimilar\xE1"
+      - asimilaremos
+      - "asimilar\xE9is"
+      - "asimilar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "asimilar\xEDa"
+      - "asimilar\xEDas"
+      - "asimilar\xEDa"
+      - "asimilar\xEDamos"
+      - "asimilar\xEDais"
+      - "asimilar\xEDan"
+      cjid: cond
+    - cjfs:
+      - asimile
+      - asimiles
+      - asimile
+      - asimilemos
+      - "asimil\xE9is"
+      - asimilen
+      cjid: psub
+    - cjfs:
+      - asimilara
+      - asimilaras
+      - asimilara
+      - "asimil\xE1ramos"
+      - asimilarais
+      - asimilaran
+      cjid: pisb1
+    - cjfs:
+      - asimilase
+      - asimilases
+      - asimilase
+      - "asimil\xE1semos"
+      - asimilaseis
+      - asimilasen
+      cjid: pisb2
+    - cjfs:
+      - asimilare
+      - asimilares
+      - asimilare
+      - "asimil\xE1remos"
+      - asimilareis
+      - asimilaren
+      cjid: fsub
+    - cjfs:
+      - he asimilado
+      - has asimilado
+      - ha asimilado
+      - hemos asimilado
+      - "hab\xE9is asimilado"
+      - han asimilado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa asimilado"
+      - "hab\xEDas asimilado"
+      - "hab\xEDa asimilado"
+      - "hab\xEDamos asimilado"
+      - "hab\xEDais asimilado"
+      - "hab\xEDan asimilado"
+      cjid: ppsi
+    - cjfs:
+      - hube asimilado
+      - hubiste asimilado
+      - hubo asimilado
+      - hubimos asimilado
+      - hubisteis asimilado
+      - hubieron asimilado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 asimilado"
+      - "habr\xE1s asimilado"
+      - "habr\xE1 asimilado"
+      - habremos asimilado
+      - "habr\xE9is asimilado"
+      - "habr\xE1n asimilado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa asimilado"
+      - "habr\xEDas asimilado"
+      - "habr\xEDa asimilado"
+      - "habr\xEDamos asimilado"
+      - "habr\xEDais asimilado"
+      - "habr\xEDan asimilado"
+      cjid: cpef
+    - cjfs:
+      - haya asimilado
+      - hayas asimilado
+      - haya asimilado
+      - hayamos asimilado
+      - "hay\xE1is asimilado"
+      - hayan asimilado
+      cjid: ppfs
+    - cjfs:
+      - hubiera asimilado
+      - hubieras asimilado
+      - hubiera asimilado
+      - "hubi\xE9ramos asimilado"
+      - hubierais asimilado
+      - hubieran asimilado
+      cjid: ppss1
+    - cjfs:
+      - hubiese asimilado
+      - hubieses asimilado
+      - hubiese asimilado
+      - "hubi\xE9semos asimilado"
+      - hubieseis asimilado
+      - hubiesen asimilado
+      cjid: ppss2
+    - cjfs:
+      - hubiere asimilado
+      - hubieres asimilado
+      - hubiere asimilado
+      - "hubi\xE9remos asimilado"
+      - hubiereis asimilado
+      - hubieren asimilado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - asimila
+      - asimile
+      - asimilemos
+      - asimilad
+      - asimilen
+      cjid: impf

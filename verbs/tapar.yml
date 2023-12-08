@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cubrir||} {bc}to {a_link|cover}, to {a_link|cover up}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|obstruir||} {bc}to {a_link|block}, to {a_link|obstruct}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: tapar
+    prs:
+    - sound:
+        audio: tapar01sp
+  meta:
+    id: tapar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621469000'
+    src: spanish
+    stems:
+    - tapar
+    - taparse
+    uuid: 1bf128b1-0610-4afe-b25e-25847f4405a6
+  shortdef:
+  - 'cubrir : to cover, to cover up'
+  - 'obstruir : to block, to obstruct'
+  suppl:
+    cjts:
+    - cjfs:
+      - tapando
+      - tapado
+      cjid: gppt
+    - cjfs:
+      - tapo
+      - tapas
+      - tapa
+      - tapamos
+      - "tap\xE1is"
+      - tapan
+      cjid: pind
+    - cjfs:
+      - tapaba
+      - tapabas
+      - tapaba
+      - "tap\xE1bamos"
+      - tapabais
+      - tapaban
+      cjid: pret
+    - cjfs:
+      - "tap\xE9"
+      - tapaste
+      - "tap\xF3"
+      - tapamos
+      - tapasteis
+      - taparon
+      cjid: pprf
+    - cjfs:
+      - "tapar\xE9"
+      - "tapar\xE1s"
+      - "tapar\xE1"
+      - taparemos
+      - "tapar\xE9is"
+      - "tapar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tapar\xEDa"
+      - "tapar\xEDas"
+      - "tapar\xEDa"
+      - "tapar\xEDamos"
+      - "tapar\xEDais"
+      - "tapar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tape
+      - tapes
+      - tape
+      - tapemos
+      - "tap\xE9is"
+      - tapen
+      cjid: psub
+    - cjfs:
+      - tapara
+      - taparas
+      - tapara
+      - "tap\xE1ramos"
+      - taparais
+      - taparan
+      cjid: pisb1
+    - cjfs:
+      - tapase
+      - tapases
+      - tapase
+      - "tap\xE1semos"
+      - tapaseis
+      - tapasen
+      cjid: pisb2
+    - cjfs:
+      - tapare
+      - tapares
+      - tapare
+      - "tap\xE1remos"
+      - tapareis
+      - taparen
+      cjid: fsub
+    - cjfs:
+      - he tapado
+      - has tapado
+      - ha tapado
+      - hemos tapado
+      - "hab\xE9is tapado"
+      - han tapado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tapado"
+      - "hab\xEDas tapado"
+      - "hab\xEDa tapado"
+      - "hab\xEDamos tapado"
+      - "hab\xEDais tapado"
+      - "hab\xEDan tapado"
+      cjid: ppsi
+    - cjfs:
+      - hube tapado
+      - hubiste tapado
+      - hubo tapado
+      - hubimos tapado
+      - hubisteis tapado
+      - hubieron tapado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tapado"
+      - "habr\xE1s tapado"
+      - "habr\xE1 tapado"
+      - habremos tapado
+      - "habr\xE9is tapado"
+      - "habr\xE1n tapado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tapado"
+      - "habr\xEDas tapado"
+      - "habr\xEDa tapado"
+      - "habr\xEDamos tapado"
+      - "habr\xEDais tapado"
+      - "habr\xEDan tapado"
+      cjid: cpef
+    - cjfs:
+      - haya tapado
+      - hayas tapado
+      - haya tapado
+      - hayamos tapado
+      - "hay\xE1is tapado"
+      - hayan tapado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tapado
+      - hubieras tapado
+      - hubiera tapado
+      - "hubi\xE9ramos tapado"
+      - hubierais tapado
+      - hubieran tapado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tapado
+      - hubieses tapado
+      - hubiese tapado
+      - "hubi\xE9semos tapado"
+      - hubieseis tapado
+      - hubiesen tapado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tapado
+      - hubieres tapado
+      - hubiere tapado
+      - "hubi\xE9remos tapado"
+      - hubiereis tapado
+      - hubieren tapado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tapa
+      - tape
+      - tapemos
+      - tapad
+      - tapen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: taparse

@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|permitir||} {bc}to consent to, to {a_link|allow}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|mimar||} {bc}to {a_link|pamper}, to {a_link|spoil}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|agree to}, to {a_link|approve of}'
+          vrs:
+          - va: consentir en
+            vac: ~ en
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: consentir
+    prs:
+    - sound:
+        audio: conse10sp
+  meta:
+    id: consentir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605575000'
+    src: spanish
+    stems:
+    - consentir
+    - consentir en
+    uuid: b4c0a85d-80ce-44fc-8965-96986202261e
+  shortdef:
+  - 'permitir : to consent to, to allow'
+  - 'mimar : to pamper, to spoil'
+  - to agree to, to approve of
+  suppl:
+    cjts:
+    - cjfs:
+      - consintiendo
+      - consentido
+      cjid: gppt
+    - cjfs:
+      - consiento
+      - consientes
+      - consiente
+      - consentimos
+      - "consent\xEDs"
+      - consienten
+      cjid: pind
+    - cjfs:
+      - "consent\xEDa"
+      - "consent\xEDas"
+      - "consent\xEDa"
+      - "consent\xEDamos"
+      - "consent\xEDais"
+      - "consent\xEDan"
+      cjid: pret
+    - cjfs:
+      - "consent\xED"
+      - consentiste
+      - "consinti\xF3"
+      - consentimos
+      - consentisteis
+      - consintieron
+      cjid: pprf
+    - cjfs:
+      - "consentir\xE9"
+      - "consentir\xE1s"
+      - "consentir\xE1"
+      - consentiremos
+      - "consentir\xE9is"
+      - "consentir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "consentir\xEDa"
+      - "consentir\xEDas"
+      - "consentir\xEDa"
+      - "consentir\xEDamos"
+      - "consentir\xEDais"
+      - "consentir\xEDan"
+      cjid: cond
+    - cjfs:
+      - consienta
+      - consientas
+      - consienta
+      - consintamos
+      - "consint\xE1is"
+      - consientan
+      cjid: psub
+    - cjfs:
+      - consintiera
+      - consintieras
+      - consintiera
+      - "consinti\xE9ramos"
+      - consintierais
+      - consintieran
+      cjid: pisb1
+    - cjfs:
+      - consintiese
+      - consintieses
+      - consintiese
+      - "consinti\xE9semos"
+      - consintieseis
+      - consintiesen
+      cjid: pisb2
+    - cjfs:
+      - consintiere
+      - consintieres
+      - consintiere
+      - "consinti\xE9remos"
+      - consintiereis
+      - consintieren
+      cjid: fsub
+    - cjfs:
+      - he consentido
+      - has consentido
+      - ha consentido
+      - hemos consentido
+      - "hab\xE9is consentido"
+      - han consentido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa consentido"
+      - "hab\xEDas consentido"
+      - "hab\xEDa consentido"
+      - "hab\xEDamos consentido"
+      - "hab\xEDais consentido"
+      - "hab\xEDan consentido"
+      cjid: ppsi
+    - cjfs:
+      - hube consentido
+      - hubiste consentido
+      - hubo consentido
+      - hubimos consentido
+      - hubisteis consentido
+      - hubieron consentido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 consentido"
+      - "habr\xE1s consentido"
+      - "habr\xE1 consentido"
+      - habremos consentido
+      - "habr\xE9is consentido"
+      - "habr\xE1n consentido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa consentido"
+      - "habr\xEDas consentido"
+      - "habr\xEDa consentido"
+      - "habr\xEDamos consentido"
+      - "habr\xEDais consentido"
+      - "habr\xEDan consentido"
+      cjid: cpef
+    - cjfs:
+      - haya consentido
+      - hayas consentido
+      - haya consentido
+      - hayamos consentido
+      - "hay\xE1is consentido"
+      - hayan consentido
+      cjid: ppfs
+    - cjfs:
+      - hubiera consentido
+      - hubieras consentido
+      - hubiera consentido
+      - "hubi\xE9ramos consentido"
+      - hubierais consentido
+      - hubieran consentido
+      cjid: ppss1
+    - cjfs:
+      - hubiese consentido
+      - hubieses consentido
+      - hubiese consentido
+      - "hubi\xE9semos consentido"
+      - hubieseis consentido
+      - hubiesen consentido
+      cjid: ppss2
+    - cjfs:
+      - hubiere consentido
+      - hubieres consentido
+      - hubiere consentido
+      - "hubi\xE9remos consentido"
+      - hubiereis consentido
+      - hubieren consentido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - consiente
+      - consienta
+      - consintamos
+      - consentid
+      - consientan
+      cjid: impf

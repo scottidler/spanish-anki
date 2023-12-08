@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|display}, to {a_link|flaunt}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|poseer||} {bc}to {a_link|have}, to {a_link|hold} '
+          - - vis
+            - - t: "ostenta el r\xE9cord mundial"
+                tr: he holds the world record
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: ostentar
+  meta:
+    id: ostentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616381000'
+    src: spanish
+    stems:
+    - ostentar
+    uuid: 44e6761e-ac4c-4c20-8d2f-08da6228bf6b
+  shortdef:
+  - to display, to flaunt
+  - 'poseer : to have, to hold'
+  suppl:
+    cjts:
+    - cjfs:
+      - ostentando
+      - ostentado
+      cjid: gppt
+    - cjfs:
+      - ostento
+      - ostentas
+      - ostenta
+      - ostentamos
+      - "ostent\xE1is"
+      - ostentan
+      cjid: pind
+    - cjfs:
+      - ostentaba
+      - ostentabas
+      - ostentaba
+      - "ostent\xE1bamos"
+      - ostentabais
+      - ostentaban
+      cjid: pret
+    - cjfs:
+      - "ostent\xE9"
+      - ostentaste
+      - "ostent\xF3"
+      - ostentamos
+      - ostentasteis
+      - ostentaron
+      cjid: pprf
+    - cjfs:
+      - "ostentar\xE9"
+      - "ostentar\xE1s"
+      - "ostentar\xE1"
+      - ostentaremos
+      - "ostentar\xE9is"
+      - "ostentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ostentar\xEDa"
+      - "ostentar\xEDas"
+      - "ostentar\xEDa"
+      - "ostentar\xEDamos"
+      - "ostentar\xEDais"
+      - "ostentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - ostente
+      - ostentes
+      - ostente
+      - ostentemos
+      - "ostent\xE9is"
+      - ostenten
+      cjid: psub
+    - cjfs:
+      - ostentara
+      - ostentaras
+      - ostentara
+      - "ostent\xE1ramos"
+      - ostentarais
+      - ostentaran
+      cjid: pisb1
+    - cjfs:
+      - ostentase
+      - ostentases
+      - ostentase
+      - "ostent\xE1semos"
+      - ostentaseis
+      - ostentasen
+      cjid: pisb2
+    - cjfs:
+      - ostentare
+      - ostentares
+      - ostentare
+      - "ostent\xE1remos"
+      - ostentareis
+      - ostentaren
+      cjid: fsub
+    - cjfs:
+      - he ostentado
+      - has ostentado
+      - ha ostentado
+      - hemos ostentado
+      - "hab\xE9is ostentado"
+      - han ostentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ostentado"
+      - "hab\xEDas ostentado"
+      - "hab\xEDa ostentado"
+      - "hab\xEDamos ostentado"
+      - "hab\xEDais ostentado"
+      - "hab\xEDan ostentado"
+      cjid: ppsi
+    - cjfs:
+      - hube ostentado
+      - hubiste ostentado
+      - hubo ostentado
+      - hubimos ostentado
+      - hubisteis ostentado
+      - hubieron ostentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ostentado"
+      - "habr\xE1s ostentado"
+      - "habr\xE1 ostentado"
+      - habremos ostentado
+      - "habr\xE9is ostentado"
+      - "habr\xE1n ostentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ostentado"
+      - "habr\xEDas ostentado"
+      - "habr\xEDa ostentado"
+      - "habr\xEDamos ostentado"
+      - "habr\xEDais ostentado"
+      - "habr\xEDan ostentado"
+      cjid: cpef
+    - cjfs:
+      - haya ostentado
+      - hayas ostentado
+      - haya ostentado
+      - hayamos ostentado
+      - "hay\xE1is ostentado"
+      - hayan ostentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ostentado
+      - hubieras ostentado
+      - hubiera ostentado
+      - "hubi\xE9ramos ostentado"
+      - hubierais ostentado
+      - hubieran ostentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ostentado
+      - hubieses ostentado
+      - hubiese ostentado
+      - "hubi\xE9semos ostentado"
+      - hubieseis ostentado
+      - hubiesen ostentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ostentado
+      - hubieres ostentado
+      - hubiere ostentado
+      - "hubi\xE9remos ostentado"
+      - hubiereis ostentado
+      - hubieren ostentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ostenta
+      - ostente
+      - ostentemos
+      - ostentad
+      - ostenten
+      cjid: impf

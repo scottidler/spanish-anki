@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|produce}, to {a_link|make}, to {a_link|manufacture}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cause}, to {a_link|bring about}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bear} (interest)'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take place}, to {a_link|occur}'
+    drp: producirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: producir
+    prs:
+    - sound:
+        audio: produ02sp
+  meta:
+    id: producir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618195000'
+    src: spanish
+    stems:
+    - producir
+    - producirse
+    uuid: 53f506a5-ddfe-43c7-98cd-6fa6efb94f17
+  shortdef:
+  - to produce, to make, to manufacture
+  - to cause, to bring about
+  - to bear (interest)
+  suppl:
+    cjts:
+    - cjfs:
+      - produciendo
+      - producido
+      cjid: gppt
+    - cjfs:
+      - produzco
+      - produces
+      - produce
+      - producimos
+      - "produc\xEDs"
+      - producen
+      cjid: pind
+    - cjfs:
+      - "produc\xEDa"
+      - "produc\xEDas"
+      - "produc\xEDa"
+      - "produc\xEDamos"
+      - "produc\xEDais"
+      - "produc\xEDan"
+      cjid: pret
+    - cjfs:
+      - produje
+      - produjiste
+      - produjo
+      - produjimos
+      - produjisteis
+      - produjeron
+      cjid: pprf
+    - cjfs:
+      - "producir\xE9"
+      - "producir\xE1s"
+      - "producir\xE1"
+      - produciremos
+      - "producir\xE9is"
+      - "producir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "producir\xEDa"
+      - "producir\xEDas"
+      - "producir\xEDa"
+      - "producir\xEDamos"
+      - "producir\xEDais"
+      - "producir\xEDan"
+      cjid: cond
+    - cjfs:
+      - produzca
+      - produzcas
+      - produzca
+      - produzcamos
+      - "produzc\xE1is"
+      - produzcan
+      cjid: psub
+    - cjfs:
+      - produjera
+      - produjeras
+      - produjera
+      - "produj\xE9ramos"
+      - produjerais
+      - produjeran
+      cjid: pisb1
+    - cjfs:
+      - produjese
+      - produjeses
+      - produjese
+      - "produj\xE9semos"
+      - produjeseis
+      - produjesen
+      cjid: pisb2
+    - cjfs:
+      - produjere
+      - produjeres
+      - produjere
+      - "produj\xE9remos"
+      - produjereis
+      - produjeren
+      cjid: fsub
+    - cjfs:
+      - he producido
+      - has producido
+      - ha producido
+      - hemos producido
+      - "hab\xE9is producido"
+      - han producido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa producido"
+      - "hab\xEDas producido"
+      - "hab\xEDa producido"
+      - "hab\xEDamos producido"
+      - "hab\xEDais producido"
+      - "hab\xEDan producido"
+      cjid: ppsi
+    - cjfs:
+      - hube producido
+      - hubiste producido
+      - hubo producido
+      - hubimos producido
+      - hubisteis producido
+      - hubieron producido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 producido"
+      - "habr\xE1s producido"
+      - "habr\xE1 producido"
+      - habremos producido
+      - "habr\xE9is producido"
+      - "habr\xE1n producido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa producido"
+      - "habr\xEDas producido"
+      - "habr\xEDa producido"
+      - "habr\xEDamos producido"
+      - "habr\xEDais producido"
+      - "habr\xEDan producido"
+      cjid: cpef
+    - cjfs:
+      - haya producido
+      - hayas producido
+      - haya producido
+      - hayamos producido
+      - "hay\xE1is producido"
+      - hayan producido
+      cjid: ppfs
+    - cjfs:
+      - hubiera producido
+      - hubieras producido
+      - hubiera producido
+      - "hubi\xE9ramos producido"
+      - hubierais producido
+      - hubieran producido
+      cjid: ppss1
+    - cjfs:
+      - hubiese producido
+      - hubieses producido
+      - hubiese producido
+      - "hubi\xE9semos producido"
+      - hubieseis producido
+      - hubiesen producido
+      cjid: ppss2
+    - cjfs:
+      - hubiere producido
+      - hubieres producido
+      - hubiere producido
+      - "hubi\xE9remos producido"
+      - hubiereis producido
+      - hubieren producido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - produce
+      - produzca
+      - produzcamos
+      - producid
+      - produzcan
+      cjid: impf

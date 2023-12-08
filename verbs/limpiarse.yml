@@ -1,0 +1,214 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clean}, to {a_link|cleanse}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clean up}, to remove defects'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clean out} (in a game)'
+          sls:
+          - familiar
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|swipe}, to {a_link|pinch}'
+          sls:
+          - familiar
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clean}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: limpiar
+    prs:
+    - sound:
+        audio: limpi02sp
+  meta:
+    id: limpiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613821000'
+    src: spanish
+    stems:
+    - limpiar
+    - limpiarse
+    uuid: 06447e0f-e30d-4560-a958-2e11d9f7c24a
+  shortdef:
+  - to clean, to cleanse
+  - to clean up, to remove defects
+  - to clean out (in a game)
+  suppl:
+    cjts:
+    - cjfs:
+      - limpiando
+      - limpiado
+      cjid: gppt
+    - cjfs:
+      - limpio
+      - limpias
+      - limpia
+      - limpiamos
+      - "limpi\xE1is"
+      - limpian
+      cjid: pind
+    - cjfs:
+      - limpiaba
+      - limpiabas
+      - limpiaba
+      - "limpi\xE1bamos"
+      - limpiabais
+      - limpiaban
+      cjid: pret
+    - cjfs:
+      - "limpi\xE9"
+      - limpiaste
+      - "limpi\xF3"
+      - limpiamos
+      - limpiasteis
+      - limpiaron
+      cjid: pprf
+    - cjfs:
+      - "limpiar\xE9"
+      - "limpiar\xE1s"
+      - "limpiar\xE1"
+      - limpiaremos
+      - "limpiar\xE9is"
+      - "limpiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "limpiar\xEDa"
+      - "limpiar\xEDas"
+      - "limpiar\xEDa"
+      - "limpiar\xEDamos"
+      - "limpiar\xEDais"
+      - "limpiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - limpie
+      - limpies
+      - limpie
+      - limpiemos
+      - "limpi\xE9is"
+      - limpien
+      cjid: psub
+    - cjfs:
+      - limpiara
+      - limpiaras
+      - limpiara
+      - "limpi\xE1ramos"
+      - limpiarais
+      - limpiaran
+      cjid: pisb1
+    - cjfs:
+      - limpiase
+      - limpiases
+      - limpiase
+      - "limpi\xE1semos"
+      - limpiaseis
+      - limpiasen
+      cjid: pisb2
+    - cjfs:
+      - limpiare
+      - limpiares
+      - limpiare
+      - "limpi\xE1remos"
+      - limpiareis
+      - limpiaren
+      cjid: fsub
+    - cjfs:
+      - he limpiado
+      - has limpiado
+      - ha limpiado
+      - hemos limpiado
+      - "hab\xE9is limpiado"
+      - han limpiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa limpiado"
+      - "hab\xEDas limpiado"
+      - "hab\xEDa limpiado"
+      - "hab\xEDamos limpiado"
+      - "hab\xEDais limpiado"
+      - "hab\xEDan limpiado"
+      cjid: ppsi
+    - cjfs:
+      - hube limpiado
+      - hubiste limpiado
+      - hubo limpiado
+      - hubimos limpiado
+      - hubisteis limpiado
+      - hubieron limpiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 limpiado"
+      - "habr\xE1s limpiado"
+      - "habr\xE1 limpiado"
+      - habremos limpiado
+      - "habr\xE9is limpiado"
+      - "habr\xE1n limpiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa limpiado"
+      - "habr\xEDas limpiado"
+      - "habr\xEDa limpiado"
+      - "habr\xEDamos limpiado"
+      - "habr\xEDais limpiado"
+      - "habr\xEDan limpiado"
+      cjid: cpef
+    - cjfs:
+      - haya limpiado
+      - hayas limpiado
+      - haya limpiado
+      - hayamos limpiado
+      - "hay\xE1is limpiado"
+      - hayan limpiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera limpiado
+      - hubieras limpiado
+      - hubiera limpiado
+      - "hubi\xE9ramos limpiado"
+      - hubierais limpiado
+      - hubieran limpiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese limpiado
+      - hubieses limpiado
+      - hubiese limpiado
+      - "hubi\xE9semos limpiado"
+      - hubieseis limpiado
+      - hubiesen limpiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere limpiado
+      - hubieres limpiado
+      - hubiere limpiado
+      - "hubi\xE9remos limpiado"
+      - hubiereis limpiado
+      - hubieren limpiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - limpia
+      - limpie
+      - limpiemos
+      - limpiad
+      - limpien
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: limpiarse

@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|embestir||} {bc}to {a_link|attack}, to {a_link|charge}'
+  fl: intransitive verb
+  hwi:
+    hw: arremeter
+    prs:
+    - sound:
+        audio: arrem01sp
+  meta:
+    id: arremeter
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601998000'
+    src: spanish
+    stems:
+    - arremeter
+    uuid: 49fa454d-f78e-4d1a-a900-b6af3d9741f9
+  shortdef:
+  - 'embestir : to attack, to charge'
+  suppl:
+    cjts:
+    - cjfs:
+      - arremetiendo
+      - arremetido
+      cjid: gppt
+    - cjfs:
+      - arremeto
+      - arremetes
+      - arremete
+      - arremetemos
+      - "arremet\xE9is"
+      - arremeten
+      cjid: pind
+    - cjfs:
+      - "arremet\xEDa"
+      - "arremet\xEDas"
+      - "arremet\xEDa"
+      - "arremet\xEDamos"
+      - "arremet\xEDais"
+      - "arremet\xEDan"
+      cjid: pret
+    - cjfs:
+      - "arremet\xED"
+      - arremetiste
+      - "arremeti\xF3"
+      - arremetimos
+      - arremetisteis
+      - arremetieron
+      cjid: pprf
+    - cjfs:
+      - "arremeter\xE9"
+      - "arremeter\xE1s"
+      - "arremeter\xE1"
+      - arremeteremos
+      - "arremeter\xE9is"
+      - "arremeter\xE1n"
+      cjid: futr
+    - cjfs:
+      - "arremeter\xEDa"
+      - "arremeter\xEDas"
+      - "arremeter\xEDa"
+      - "arremeter\xEDamos"
+      - "arremeter\xEDais"
+      - "arremeter\xEDan"
+      cjid: cond
+    - cjfs:
+      - arremeta
+      - arremetas
+      - arremeta
+      - arremetamos
+      - "arremet\xE1is"
+      - arremetan
+      cjid: psub
+    - cjfs:
+      - arremetiera
+      - arremetieras
+      - arremetiera
+      - "arremeti\xE9ramos"
+      - arremetierais
+      - arremetieran
+      cjid: pisb1
+    - cjfs:
+      - arremetiese
+      - arremetieses
+      - arremetiese
+      - "arremeti\xE9semos"
+      - arremetieseis
+      - arremetiesen
+      cjid: pisb2
+    - cjfs:
+      - arremetiere
+      - arremetieres
+      - arremetiere
+      - "arremeti\xE9remos"
+      - arremetiereis
+      - arremetieren
+      cjid: fsub
+    - cjfs:
+      - he arremetido
+      - has arremetido
+      - ha arremetido
+      - hemos arremetido
+      - "hab\xE9is arremetido"
+      - han arremetido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa arremetido"
+      - "hab\xEDas arremetido"
+      - "hab\xEDa arremetido"
+      - "hab\xEDamos arremetido"
+      - "hab\xEDais arremetido"
+      - "hab\xEDan arremetido"
+      cjid: ppsi
+    - cjfs:
+      - hube arremetido
+      - hubiste arremetido
+      - hubo arremetido
+      - hubimos arremetido
+      - hubisteis arremetido
+      - hubieron arremetido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 arremetido"
+      - "habr\xE1s arremetido"
+      - "habr\xE1 arremetido"
+      - habremos arremetido
+      - "habr\xE9is arremetido"
+      - "habr\xE1n arremetido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa arremetido"
+      - "habr\xEDas arremetido"
+      - "habr\xEDa arremetido"
+      - "habr\xEDamos arremetido"
+      - "habr\xEDais arremetido"
+      - "habr\xEDan arremetido"
+      cjid: cpef
+    - cjfs:
+      - haya arremetido
+      - hayas arremetido
+      - haya arremetido
+      - hayamos arremetido
+      - "hay\xE1is arremetido"
+      - hayan arremetido
+      cjid: ppfs
+    - cjfs:
+      - hubiera arremetido
+      - hubieras arremetido
+      - hubiera arremetido
+      - "hubi\xE9ramos arremetido"
+      - hubierais arremetido
+      - hubieran arremetido
+      cjid: ppss1
+    - cjfs:
+      - hubiese arremetido
+      - hubieses arremetido
+      - hubiese arremetido
+      - "hubi\xE9semos arremetido"
+      - hubieseis arremetido
+      - hubiesen arremetido
+      cjid: ppss2
+    - cjfs:
+      - hubiere arremetido
+      - hubieres arremetido
+      - hubiere arremetido
+      - "hubi\xE9remos arremetido"
+      - hubiereis arremetido
+      - hubieren arremetido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - arremete
+      - arremeta
+      - arremetamos
+      - arremeted
+      - arremetan
+      cjid: impf

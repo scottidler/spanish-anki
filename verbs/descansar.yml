@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rest}, to {a_link|relax} '
+          - - vis
+            - - t: "\xA1descansen!"
+                tr: at ease!
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rest} '
+          - - vis
+            - - t: descansar la vista
+                tr: to rest one's eyes
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: descansar
+    prs:
+    - sound:
+        audio: desca03sp
+  meta:
+    id: descansar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606908000'
+    src: spanish
+    stems:
+    - descansar
+    uuid: 48d44cab-3fd8-435b-bcb1-7ddaa1cb7dc3
+  shortdef:
+  - to rest, to relax
+  - to rest
+  suppl:
+    cjts:
+    - cjfs:
+      - descansando
+      - descansado
+      cjid: gppt
+    - cjfs:
+      - descanso
+      - descansas
+      - descansa
+      - descansamos
+      - "descans\xE1is"
+      - descansan
+      cjid: pind
+    - cjfs:
+      - descansaba
+      - descansabas
+      - descansaba
+      - "descans\xE1bamos"
+      - descansabais
+      - descansaban
+      cjid: pret
+    - cjfs:
+      - "descans\xE9"
+      - descansaste
+      - "descans\xF3"
+      - descansamos
+      - descansasteis
+      - descansaron
+      cjid: pprf
+    - cjfs:
+      - "descansar\xE9"
+      - "descansar\xE1s"
+      - "descansar\xE1"
+      - descansaremos
+      - "descansar\xE9is"
+      - "descansar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "descansar\xEDa"
+      - "descansar\xEDas"
+      - "descansar\xEDa"
+      - "descansar\xEDamos"
+      - "descansar\xEDais"
+      - "descansar\xEDan"
+      cjid: cond
+    - cjfs:
+      - descanse
+      - descanses
+      - descanse
+      - descansemos
+      - "descans\xE9is"
+      - descansen
+      cjid: psub
+    - cjfs:
+      - descansara
+      - descansaras
+      - descansara
+      - "descans\xE1ramos"
+      - descansarais
+      - descansaran
+      cjid: pisb1
+    - cjfs:
+      - descansase
+      - descansases
+      - descansase
+      - "descans\xE1semos"
+      - descansaseis
+      - descansasen
+      cjid: pisb2
+    - cjfs:
+      - descansare
+      - descansares
+      - descansare
+      - "descans\xE1remos"
+      - descansareis
+      - descansaren
+      cjid: fsub
+    - cjfs:
+      - he descansado
+      - has descansado
+      - ha descansado
+      - hemos descansado
+      - "hab\xE9is descansado"
+      - han descansado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa descansado"
+      - "hab\xEDas descansado"
+      - "hab\xEDa descansado"
+      - "hab\xEDamos descansado"
+      - "hab\xEDais descansado"
+      - "hab\xEDan descansado"
+      cjid: ppsi
+    - cjfs:
+      - hube descansado
+      - hubiste descansado
+      - hubo descansado
+      - hubimos descansado
+      - hubisteis descansado
+      - hubieron descansado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 descansado"
+      - "habr\xE1s descansado"
+      - "habr\xE1 descansado"
+      - habremos descansado
+      - "habr\xE9is descansado"
+      - "habr\xE1n descansado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa descansado"
+      - "habr\xEDas descansado"
+      - "habr\xEDa descansado"
+      - "habr\xEDamos descansado"
+      - "habr\xEDais descansado"
+      - "habr\xEDan descansado"
+      cjid: cpef
+    - cjfs:
+      - haya descansado
+      - hayas descansado
+      - haya descansado
+      - hayamos descansado
+      - "hay\xE1is descansado"
+      - hayan descansado
+      cjid: ppfs
+    - cjfs:
+      - hubiera descansado
+      - hubieras descansado
+      - hubiera descansado
+      - "hubi\xE9ramos descansado"
+      - hubierais descansado
+      - hubieran descansado
+      cjid: ppss1
+    - cjfs:
+      - hubiese descansado
+      - hubieses descansado
+      - hubiese descansado
+      - "hubi\xE9semos descansado"
+      - hubieseis descansado
+      - hubiesen descansado
+      cjid: ppss2
+    - cjfs:
+      - hubiere descansado
+      - hubieres descansado
+      - hubiere descansado
+      - "hubi\xE9remos descansado"
+      - hubiereis descansado
+      - hubieren descansado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - descansa
+      - descanse
+      - descansemos
+      - descansad
+      - descansen
+      cjid: impf

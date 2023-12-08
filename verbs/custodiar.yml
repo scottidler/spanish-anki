@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|guard}, to {a_link|look after}'
+  fl: transitive verb
+  hwi:
+    hw: custodiar
+    prs:
+    - sound:
+        audio: custo02sp
+  meta:
+    id: custodiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606407000'
+    src: spanish
+    stems:
+    - custodiar
+    uuid: 7b8da935-b526-4f67-b82f-901c18378ac2
+  shortdef:
+  - to guard, to look after
+  suppl:
+    cjts:
+    - cjfs:
+      - custodiando
+      - custodiado
+      cjid: gppt
+    - cjfs:
+      - custodio
+      - custodias
+      - custodia
+      - custodiamos
+      - "custodi\xE1is"
+      - custodian
+      cjid: pind
+    - cjfs:
+      - custodiaba
+      - custodiabas
+      - custodiaba
+      - "custodi\xE1bamos"
+      - custodiabais
+      - custodiaban
+      cjid: pret
+    - cjfs:
+      - "custodi\xE9"
+      - custodiaste
+      - "custodi\xF3"
+      - custodiamos
+      - custodiasteis
+      - custodiaron
+      cjid: pprf
+    - cjfs:
+      - "custodiar\xE9"
+      - "custodiar\xE1s"
+      - "custodiar\xE1"
+      - custodiaremos
+      - "custodiar\xE9is"
+      - "custodiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "custodiar\xEDa"
+      - "custodiar\xEDas"
+      - "custodiar\xEDa"
+      - "custodiar\xEDamos"
+      - "custodiar\xEDais"
+      - "custodiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - custodie
+      - custodies
+      - custodie
+      - custodiemos
+      - "custodi\xE9is"
+      - custodien
+      cjid: psub
+    - cjfs:
+      - custodiara
+      - custodiaras
+      - custodiara
+      - "custodi\xE1ramos"
+      - custodiarais
+      - custodiaran
+      cjid: pisb1
+    - cjfs:
+      - custodiase
+      - custodiases
+      - custodiase
+      - "custodi\xE1semos"
+      - custodiaseis
+      - custodiasen
+      cjid: pisb2
+    - cjfs:
+      - custodiare
+      - custodiares
+      - custodiare
+      - "custodi\xE1remos"
+      - custodiareis
+      - custodiaren
+      cjid: fsub
+    - cjfs:
+      - he custodiado
+      - has custodiado
+      - ha custodiado
+      - hemos custodiado
+      - "hab\xE9is custodiado"
+      - han custodiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa custodiado"
+      - "hab\xEDas custodiado"
+      - "hab\xEDa custodiado"
+      - "hab\xEDamos custodiado"
+      - "hab\xEDais custodiado"
+      - "hab\xEDan custodiado"
+      cjid: ppsi
+    - cjfs:
+      - hube custodiado
+      - hubiste custodiado
+      - hubo custodiado
+      - hubimos custodiado
+      - hubisteis custodiado
+      - hubieron custodiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 custodiado"
+      - "habr\xE1s custodiado"
+      - "habr\xE1 custodiado"
+      - habremos custodiado
+      - "habr\xE9is custodiado"
+      - "habr\xE1n custodiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa custodiado"
+      - "habr\xEDas custodiado"
+      - "habr\xEDa custodiado"
+      - "habr\xEDamos custodiado"
+      - "habr\xEDais custodiado"
+      - "habr\xEDan custodiado"
+      cjid: cpef
+    - cjfs:
+      - haya custodiado
+      - hayas custodiado
+      - haya custodiado
+      - hayamos custodiado
+      - "hay\xE1is custodiado"
+      - hayan custodiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera custodiado
+      - hubieras custodiado
+      - hubiera custodiado
+      - "hubi\xE9ramos custodiado"
+      - hubierais custodiado
+      - hubieran custodiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese custodiado
+      - hubieses custodiado
+      - hubiese custodiado
+      - "hubi\xE9semos custodiado"
+      - hubieseis custodiado
+      - hubiesen custodiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere custodiado
+      - hubieres custodiado
+      - hubiere custodiado
+      - "hubi\xE9remos custodiado"
+      - hubiereis custodiado
+      - hubieren custodiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - custodia
+      - custodie
+      - custodiemos
+      - custodiad
+      - custodien
+      cjid: impf

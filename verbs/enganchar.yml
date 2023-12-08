@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hook}, to {a_link|snag}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attach}, to {a_link|hitch up}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get snagged, to get hooked'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|enlist}'
+            sn: '2'
+    drp: engancharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: enganchar
+    prs:
+    - sound:
+        audio: engan02sp
+  meta:
+    id: enganchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608573000'
+    src: spanish
+    stems:
+    - enganchar
+    - engancharse
+    uuid: 61c2dd65-4662-4406-a290-839e11d7c730
+  shortdef:
+  - to hook, to snag
+  - to attach, to hitch up
+  suppl:
+    cjts:
+    - cjfs:
+      - enganchando
+      - enganchado
+      cjid: gppt
+    - cjfs:
+      - engancho
+      - enganchas
+      - engancha
+      - enganchamos
+      - "enganch\xE1is"
+      - enganchan
+      cjid: pind
+    - cjfs:
+      - enganchaba
+      - enganchabas
+      - enganchaba
+      - "enganch\xE1bamos"
+      - enganchabais
+      - enganchaban
+      cjid: pret
+    - cjfs:
+      - "enganch\xE9"
+      - enganchaste
+      - "enganch\xF3"
+      - enganchamos
+      - enganchasteis
+      - engancharon
+      cjid: pprf
+    - cjfs:
+      - "enganchar\xE9"
+      - "enganchar\xE1s"
+      - "enganchar\xE1"
+      - engancharemos
+      - "enganchar\xE9is"
+      - "enganchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "enganchar\xEDa"
+      - "enganchar\xEDas"
+      - "enganchar\xEDa"
+      - "enganchar\xEDamos"
+      - "enganchar\xEDais"
+      - "enganchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - enganche
+      - enganches
+      - enganche
+      - enganchemos
+      - "enganch\xE9is"
+      - enganchen
+      cjid: psub
+    - cjfs:
+      - enganchara
+      - engancharas
+      - enganchara
+      - "enganch\xE1ramos"
+      - engancharais
+      - engancharan
+      cjid: pisb1
+    - cjfs:
+      - enganchase
+      - enganchases
+      - enganchase
+      - "enganch\xE1semos"
+      - enganchaseis
+      - enganchasen
+      cjid: pisb2
+    - cjfs:
+      - enganchare
+      - enganchares
+      - enganchare
+      - "enganch\xE1remos"
+      - enganchareis
+      - engancharen
+      cjid: fsub
+    - cjfs:
+      - he enganchado
+      - has enganchado
+      - ha enganchado
+      - hemos enganchado
+      - "hab\xE9is enganchado"
+      - han enganchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa enganchado"
+      - "hab\xEDas enganchado"
+      - "hab\xEDa enganchado"
+      - "hab\xEDamos enganchado"
+      - "hab\xEDais enganchado"
+      - "hab\xEDan enganchado"
+      cjid: ppsi
+    - cjfs:
+      - hube enganchado
+      - hubiste enganchado
+      - hubo enganchado
+      - hubimos enganchado
+      - hubisteis enganchado
+      - hubieron enganchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 enganchado"
+      - "habr\xE1s enganchado"
+      - "habr\xE1 enganchado"
+      - habremos enganchado
+      - "habr\xE9is enganchado"
+      - "habr\xE1n enganchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa enganchado"
+      - "habr\xEDas enganchado"
+      - "habr\xEDa enganchado"
+      - "habr\xEDamos enganchado"
+      - "habr\xEDais enganchado"
+      - "habr\xEDan enganchado"
+      cjid: cpef
+    - cjfs:
+      - haya enganchado
+      - hayas enganchado
+      - haya enganchado
+      - hayamos enganchado
+      - "hay\xE1is enganchado"
+      - hayan enganchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera enganchado
+      - hubieras enganchado
+      - hubiera enganchado
+      - "hubi\xE9ramos enganchado"
+      - hubierais enganchado
+      - hubieran enganchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese enganchado
+      - hubieses enganchado
+      - hubiese enganchado
+      - "hubi\xE9semos enganchado"
+      - hubieseis enganchado
+      - hubiesen enganchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere enganchado
+      - hubieres enganchado
+      - hubiere enganchado
+      - "hubi\xE9remos enganchado"
+      - hubiereis enganchado
+      - hubieren enganchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - engancha
+      - enganche
+      - enganchemos
+      - enganchad
+      - enganchen
+      cjid: impf

@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|emit}, to {a_link|give off}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|broadcast}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|issue}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cast} (a vote)'
+          sn: '4'
+  fl: transitive verb
+  hwi:
+    hw: emitir
+    prs:
+    - sound:
+        audio: emiti01sp
+  meta:
+    id: emitir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608290000'
+    src: spanish
+    stems:
+    - emitir
+    uuid: e9052b0a-1cb9-43ab-b62b-8f15d2f894fa
+  shortdef:
+  - to emit, to give off
+  - to broadcast
+  - to issue
+  suppl:
+    cjts:
+    - cjfs:
+      - emitiendo
+      - emitido
+      cjid: gppt
+    - cjfs:
+      - emito
+      - emites
+      - emite
+      - emitimos
+      - "emit\xEDs"
+      - emiten
+      cjid: pind
+    - cjfs:
+      - "emit\xEDa"
+      - "emit\xEDas"
+      - "emit\xEDa"
+      - "emit\xEDamos"
+      - "emit\xEDais"
+      - "emit\xEDan"
+      cjid: pret
+    - cjfs:
+      - "emit\xED"
+      - emitiste
+      - "emiti\xF3"
+      - emitimos
+      - emitisteis
+      - emitieron
+      cjid: pprf
+    - cjfs:
+      - "emitir\xE9"
+      - "emitir\xE1s"
+      - "emitir\xE1"
+      - emitiremos
+      - "emitir\xE9is"
+      - "emitir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "emitir\xEDa"
+      - "emitir\xEDas"
+      - "emitir\xEDa"
+      - "emitir\xEDamos"
+      - "emitir\xEDais"
+      - "emitir\xEDan"
+      cjid: cond
+    - cjfs:
+      - emita
+      - emitas
+      - emita
+      - emitamos
+      - "emit\xE1is"
+      - emitan
+      cjid: psub
+    - cjfs:
+      - emitiera
+      - emitieras
+      - emitiera
+      - "emiti\xE9ramos"
+      - emitierais
+      - emitieran
+      cjid: pisb1
+    - cjfs:
+      - emitiese
+      - emitieses
+      - emitiese
+      - "emiti\xE9semos"
+      - emitieseis
+      - emitiesen
+      cjid: pisb2
+    - cjfs:
+      - emitiere
+      - emitieres
+      - emitiere
+      - "emiti\xE9remos"
+      - emitiereis
+      - emitieren
+      cjid: fsub
+    - cjfs:
+      - he emitido
+      - has emitido
+      - ha emitido
+      - hemos emitido
+      - "hab\xE9is emitido"
+      - han emitido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa emitido"
+      - "hab\xEDas emitido"
+      - "hab\xEDa emitido"
+      - "hab\xEDamos emitido"
+      - "hab\xEDais emitido"
+      - "hab\xEDan emitido"
+      cjid: ppsi
+    - cjfs:
+      - hube emitido
+      - hubiste emitido
+      - hubo emitido
+      - hubimos emitido
+      - hubisteis emitido
+      - hubieron emitido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 emitido"
+      - "habr\xE1s emitido"
+      - "habr\xE1 emitido"
+      - habremos emitido
+      - "habr\xE9is emitido"
+      - "habr\xE1n emitido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa emitido"
+      - "habr\xEDas emitido"
+      - "habr\xEDa emitido"
+      - "habr\xEDamos emitido"
+      - "habr\xEDais emitido"
+      - "habr\xEDan emitido"
+      cjid: cpef
+    - cjfs:
+      - haya emitido
+      - hayas emitido
+      - haya emitido
+      - hayamos emitido
+      - "hay\xE1is emitido"
+      - hayan emitido
+      cjid: ppfs
+    - cjfs:
+      - hubiera emitido
+      - hubieras emitido
+      - hubiera emitido
+      - "hubi\xE9ramos emitido"
+      - hubierais emitido
+      - hubieran emitido
+      cjid: ppss1
+    - cjfs:
+      - hubiese emitido
+      - hubieses emitido
+      - hubiese emitido
+      - "hubi\xE9semos emitido"
+      - hubieseis emitido
+      - hubiesen emitido
+      cjid: ppss2
+    - cjfs:
+      - hubiere emitido
+      - hubieres emitido
+      - hubiere emitido
+      - "hubi\xE9remos emitido"
+      - hubiereis emitido
+      - hubieren emitido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - emite
+      - emita
+      - emitamos
+      - emitid
+      - emitan
+      cjid: impf

@@ -1,0 +1,200 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|expand}, to {a_link|extend}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|widen}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|enlarge} (photographs)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|elaborate on}, to {a_link|develop} (ideas)'
+          sn: '4'
+  fl: transitive verb
+  hwi:
+    hw: ampliar
+    prs:
+    - sound:
+        audio: ampli02sp
+  meta:
+    id: ampliar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601290000'
+    src: spanish
+    stems:
+    - ampliar
+    uuid: 39a2f385-ec20-49aa-84dc-7f24af476c32
+  shortdef:
+  - to expand, to extend
+  - to widen
+  - to enlarge (photographs)
+  suppl:
+    cjts:
+    - cjfs:
+      - ampliando
+      - ampliado
+      cjid: gppt
+    - cjfs:
+      - "ampl\xEDo"
+      - "ampl\xEDas"
+      - "ampl\xEDa"
+      - ampliamos
+      - "ampli\xE1is"
+      - "ampl\xEDan"
+      cjid: pind
+    - cjfs:
+      - ampliaba
+      - ampliabas
+      - ampliaba
+      - "ampli\xE1bamos"
+      - ampliabais
+      - ampliaban
+      cjid: pret
+    - cjfs:
+      - "ampli\xE9"
+      - ampliaste
+      - "ampli\xF3"
+      - ampliamos
+      - ampliasteis
+      - ampliaron
+      cjid: pprf
+    - cjfs:
+      - "ampliar\xE9"
+      - "ampliar\xE1s"
+      - "ampliar\xE1"
+      - ampliaremos
+      - "ampliar\xE9is"
+      - "ampliar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ampliar\xEDa"
+      - "ampliar\xEDas"
+      - "ampliar\xEDa"
+      - "ampliar\xEDamos"
+      - "ampliar\xEDais"
+      - "ampliar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ampl\xEDe"
+      - "ampl\xEDes"
+      - "ampl\xEDe"
+      - ampliemos
+      - "ampli\xE9is"
+      - "ampl\xEDen"
+      cjid: psub
+    - cjfs:
+      - ampliara
+      - ampliaras
+      - ampliara
+      - "ampli\xE1ramos"
+      - ampliarais
+      - ampliaran
+      cjid: pisb1
+    - cjfs:
+      - ampliase
+      - ampliases
+      - ampliase
+      - "ampli\xE1semos"
+      - ampliaseis
+      - ampliasen
+      cjid: pisb2
+    - cjfs:
+      - ampliare
+      - ampliares
+      - ampliare
+      - "ampli\xE1remos"
+      - ampliareis
+      - ampliaren
+      cjid: fsub
+    - cjfs:
+      - he ampliado
+      - has ampliado
+      - ha ampliado
+      - hemos ampliado
+      - "hab\xE9is ampliado"
+      - han ampliado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ampliado"
+      - "hab\xEDas ampliado"
+      - "hab\xEDa ampliado"
+      - "hab\xEDamos ampliado"
+      - "hab\xEDais ampliado"
+      - "hab\xEDan ampliado"
+      cjid: ppsi
+    - cjfs:
+      - hube ampliado
+      - hubiste ampliado
+      - hubo ampliado
+      - hubimos ampliado
+      - hubisteis ampliado
+      - hubieron ampliado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ampliado"
+      - "habr\xE1s ampliado"
+      - "habr\xE1 ampliado"
+      - habremos ampliado
+      - "habr\xE9is ampliado"
+      - "habr\xE1n ampliado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ampliado"
+      - "habr\xEDas ampliado"
+      - "habr\xEDa ampliado"
+      - "habr\xEDamos ampliado"
+      - "habr\xEDais ampliado"
+      - "habr\xEDan ampliado"
+      cjid: cpef
+    - cjfs:
+      - haya ampliado
+      - hayas ampliado
+      - haya ampliado
+      - hayamos ampliado
+      - "hay\xE1is ampliado"
+      - hayan ampliado
+      cjid: ppfs
+    - cjfs:
+      - hubiera ampliado
+      - hubieras ampliado
+      - hubiera ampliado
+      - "hubi\xE9ramos ampliado"
+      - hubierais ampliado
+      - hubieran ampliado
+      cjid: ppss1
+    - cjfs:
+      - hubiese ampliado
+      - hubieses ampliado
+      - hubiese ampliado
+      - "hubi\xE9semos ampliado"
+      - hubieseis ampliado
+      - hubiesen ampliado
+      cjid: ppss2
+    - cjfs:
+      - hubiere ampliado
+      - hubieres ampliado
+      - hubiere ampliado
+      - "hubi\xE9remos ampliado"
+      - hubiereis ampliado
+      - hubieren ampliado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ampl\xEDa"
+      - "ampl\xEDe"
+      - ampliemos
+      - ampliad
+      - "ampl\xEDen"
+      cjid: impf

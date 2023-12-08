@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|honor}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be a credit to '
+          - - vis
+            - - t: su generosidad lo honra
+                tr: his generosity does him credit
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: honrar
+    prs:
+    - sound:
+        audio: honra04sp
+  meta:
+    id: honrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611635000'
+    src: spanish
+    stems:
+    - honrar
+    uuid: c1af4917-d4e3-4ad2-b1de-6891bd889f1d
+  shortdef:
+  - to honor
+  - to be a credit to
+  suppl:
+    cjts:
+    - cjfs:
+      - honrando
+      - honrado
+      cjid: gppt
+    - cjfs:
+      - honro
+      - honras
+      - honra
+      - honramos
+      - "honr\xE1is"
+      - honran
+      cjid: pind
+    - cjfs:
+      - honraba
+      - honrabas
+      - honraba
+      - "honr\xE1bamos"
+      - honrabais
+      - honraban
+      cjid: pret
+    - cjfs:
+      - "honr\xE9"
+      - honraste
+      - "honr\xF3"
+      - honramos
+      - honrasteis
+      - honraron
+      cjid: pprf
+    - cjfs:
+      - "honrar\xE9"
+      - "honrar\xE1s"
+      - "honrar\xE1"
+      - honraremos
+      - "honrar\xE9is"
+      - "honrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "honrar\xEDa"
+      - "honrar\xEDas"
+      - "honrar\xEDa"
+      - "honrar\xEDamos"
+      - "honrar\xEDais"
+      - "honrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - honre
+      - honres
+      - honre
+      - honremos
+      - "honr\xE9is"
+      - honren
+      cjid: psub
+    - cjfs:
+      - honrara
+      - honraras
+      - honrara
+      - "honr\xE1ramos"
+      - honrarais
+      - honraran
+      cjid: pisb1
+    - cjfs:
+      - honrase
+      - honrases
+      - honrase
+      - "honr\xE1semos"
+      - honraseis
+      - honrasen
+      cjid: pisb2
+    - cjfs:
+      - honrare
+      - honrares
+      - honrare
+      - "honr\xE1remos"
+      - honrareis
+      - honraren
+      cjid: fsub
+    - cjfs:
+      - he honrado
+      - has honrado
+      - ha honrado
+      - hemos honrado
+      - "hab\xE9is honrado"
+      - han honrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa honrado"
+      - "hab\xEDas honrado"
+      - "hab\xEDa honrado"
+      - "hab\xEDamos honrado"
+      - "hab\xEDais honrado"
+      - "hab\xEDan honrado"
+      cjid: ppsi
+    - cjfs:
+      - hube honrado
+      - hubiste honrado
+      - hubo honrado
+      - hubimos honrado
+      - hubisteis honrado
+      - hubieron honrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 honrado"
+      - "habr\xE1s honrado"
+      - "habr\xE1 honrado"
+      - habremos honrado
+      - "habr\xE9is honrado"
+      - "habr\xE1n honrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa honrado"
+      - "habr\xEDas honrado"
+      - "habr\xEDa honrado"
+      - "habr\xEDamos honrado"
+      - "habr\xEDais honrado"
+      - "habr\xEDan honrado"
+      cjid: cpef
+    - cjfs:
+      - haya honrado
+      - hayas honrado
+      - haya honrado
+      - hayamos honrado
+      - "hay\xE1is honrado"
+      - hayan honrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera honrado
+      - hubieras honrado
+      - hubiera honrado
+      - "hubi\xE9ramos honrado"
+      - hubierais honrado
+      - hubieran honrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese honrado
+      - hubieses honrado
+      - hubiese honrado
+      - "hubi\xE9semos honrado"
+      - hubieseis honrado
+      - hubiesen honrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere honrado
+      - hubieres honrado
+      - hubiere honrado
+      - "hubi\xE9remos honrado"
+      - hubiereis honrado
+      - hubieren honrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - honra
+      - honre
+      - honremos
+      - honrad
+      - honren
+      cjid: impf

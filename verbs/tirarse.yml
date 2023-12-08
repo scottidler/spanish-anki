@@ -1,0 +1,292 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|throw}, to {a_link|hurl}, to {a_link|toss} '
+          - - vis
+            - - t: "t\xEDrame la pelota"
+                tr: throw/toss me the ball
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|botar||} {bc}to {a_link|throw away/out} (garbage), to {a_link|waste}
+              (money, etc.)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|derribar||} {bc}to {a_link|knock down}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot}, to {a_link|fire}, to {a_link|launch} (a rocket),
+              to {a_link|drop} (a bomb)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot} (in sports)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take} (a photo)'
+          sls:
+          - Caribbean region, Spain
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|print}, to {a_link|run off}'
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pull}'
+          sls:
+          - Argentina, Chile, Uruguay
+          sn: '8'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pull}, to {a_link|draw}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot} '
+          - - vis
+            - - t: tirar a matar
+                tr: to shoot to kill
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoot} (in sports)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|attract}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|get by}, to {a_link|manage} '
+          - - vis
+            - - t: va tirando
+                tr: he's getting along, he's managing
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to tend towards, to be rather '
+          - - vis
+            - - t: tira a picante
+                tr: it's a bit spicy
+          sn: '6'
+          vrs:
+          - va: tirar a
+            vac: ~ a
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to throw oneself'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|spend} (time)'
+            sls:
+            - familiar
+            sn: '2'
+    drp: tirarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: tirar
+    prs:
+    - sound:
+        audio: tirar01sp
+  meta:
+    id: tirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621881000'
+    src: spanish
+    stems:
+    - tirar
+    - tirar a
+    - tirarse
+    uuid: f31b8040-f10c-40e5-bffc-99d56322dab5
+  shortdef:
+  - to throw, to hurl, to toss
+  - 'botar : to throw away/out (garbage), to waste (money, etc.)'
+  - 'derribar : to knock down'
+  suppl:
+    cjts:
+    - cjfs:
+      - tirando
+      - tirado
+      cjid: gppt
+    - cjfs:
+      - tiro
+      - tiras
+      - tira
+      - tiramos
+      - "tir\xE1is"
+      - tiran
+      cjid: pind
+    - cjfs:
+      - tiraba
+      - tirabas
+      - tiraba
+      - "tir\xE1bamos"
+      - tirabais
+      - tiraban
+      cjid: pret
+    - cjfs:
+      - "tir\xE9"
+      - tiraste
+      - "tir\xF3"
+      - tiramos
+      - tirasteis
+      - tiraron
+      cjid: pprf
+    - cjfs:
+      - "tirar\xE9"
+      - "tirar\xE1s"
+      - "tirar\xE1"
+      - tiraremos
+      - "tirar\xE9is"
+      - "tirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "tirar\xEDa"
+      - "tirar\xEDas"
+      - "tirar\xEDa"
+      - "tirar\xEDamos"
+      - "tirar\xEDais"
+      - "tirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - tire
+      - tires
+      - tire
+      - tiremos
+      - "tir\xE9is"
+      - tiren
+      cjid: psub
+    - cjfs:
+      - tirara
+      - tiraras
+      - tirara
+      - "tir\xE1ramos"
+      - tirarais
+      - tiraran
+      cjid: pisb1
+    - cjfs:
+      - tirase
+      - tirases
+      - tirase
+      - "tir\xE1semos"
+      - tiraseis
+      - tirasen
+      cjid: pisb2
+    - cjfs:
+      - tirare
+      - tirares
+      - tirare
+      - "tir\xE1remos"
+      - tirareis
+      - tiraren
+      cjid: fsub
+    - cjfs:
+      - he tirado
+      - has tirado
+      - ha tirado
+      - hemos tirado
+      - "hab\xE9is tirado"
+      - han tirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tirado"
+      - "hab\xEDas tirado"
+      - "hab\xEDa tirado"
+      - "hab\xEDamos tirado"
+      - "hab\xEDais tirado"
+      - "hab\xEDan tirado"
+      cjid: ppsi
+    - cjfs:
+      - hube tirado
+      - hubiste tirado
+      - hubo tirado
+      - hubimos tirado
+      - hubisteis tirado
+      - hubieron tirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tirado"
+      - "habr\xE1s tirado"
+      - "habr\xE1 tirado"
+      - habremos tirado
+      - "habr\xE9is tirado"
+      - "habr\xE1n tirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tirado"
+      - "habr\xEDas tirado"
+      - "habr\xEDa tirado"
+      - "habr\xEDamos tirado"
+      - "habr\xEDais tirado"
+      - "habr\xEDan tirado"
+      cjid: cpef
+    - cjfs:
+      - haya tirado
+      - hayas tirado
+      - haya tirado
+      - hayamos tirado
+      - "hay\xE1is tirado"
+      - hayan tirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera tirado
+      - hubieras tirado
+      - hubiera tirado
+      - "hubi\xE9ramos tirado"
+      - hubierais tirado
+      - hubieran tirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese tirado
+      - hubieses tirado
+      - hubiese tirado
+      - "hubi\xE9semos tirado"
+      - hubieseis tirado
+      - hubiesen tirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere tirado
+      - hubieres tirado
+      - hubiere tirado
+      - "hubi\xE9remos tirado"
+      - hubiereis tirado
+      - hubieren tirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tira
+      - tire
+      - tiremos
+      - tirad
+      - tiren
+      cjid: impf

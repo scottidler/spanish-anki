@@ -1,0 +1,229 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lick}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lap against'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: lamer
+    prs:
+    - sound:
+        audio: lamer01sp
+  meta:
+    id: lamer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613455000'
+    src: spanish
+    stems:
+    - lamer
+    uuid: c5ee173d-1099-414c-989a-723a87cbae76
+  shortdef:
+  - to lick
+  - to lap against
+  suppl:
+    cjts:
+    - cjfs:
+      - lamiendo
+      - lamido
+      cjid: gppt
+    - cjfs:
+      - lamo
+      - lames
+      - lame
+      - lamemos
+      - "lam\xE9is"
+      - lamen
+      cjid: pind
+    - cjfs:
+      - "lam\xEDa"
+      - "lam\xEDas"
+      - "lam\xEDa"
+      - "lam\xEDamos"
+      - "lam\xEDais"
+      - "lam\xEDan"
+      cjid: pret
+    - cjfs:
+      - "lam\xED"
+      - lamiste
+      - "lami\xF3"
+      - lamimos
+      - lamisteis
+      - lamieron
+      cjid: pprf
+    - cjfs:
+      - "lamer\xE9"
+      - "lamer\xE1s"
+      - "lamer\xE1"
+      - lameremos
+      - "lamer\xE9is"
+      - "lamer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "lamer\xEDa"
+      - "lamer\xEDas"
+      - "lamer\xEDa"
+      - "lamer\xEDamos"
+      - "lamer\xEDais"
+      - "lamer\xEDan"
+      cjid: cond
+    - cjfs:
+      - lama
+      - lamas
+      - lama
+      - lamamos
+      - "lam\xE1is"
+      - laman
+      cjid: psub
+    - cjfs:
+      - lamiera
+      - lamieras
+      - lamiera
+      - "lami\xE9ramos"
+      - lamierais
+      - lamieran
+      cjid: pisb1
+    - cjfs:
+      - lamiese
+      - lamieses
+      - lamiese
+      - "lami\xE9semos"
+      - lamieseis
+      - lamiesen
+      cjid: pisb2
+    - cjfs:
+      - lamiere
+      - lamieres
+      - lamiere
+      - "lami\xE9remos"
+      - lamiereis
+      - lamieren
+      cjid: fsub
+    - cjfs:
+      - he lamido
+      - has lamido
+      - ha lamido
+      - hemos lamido
+      - "hab\xE9is lamido"
+      - han lamido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa lamido"
+      - "hab\xEDas lamido"
+      - "hab\xEDa lamido"
+      - "hab\xEDamos lamido"
+      - "hab\xEDais lamido"
+      - "hab\xEDan lamido"
+      cjid: ppsi
+    - cjfs:
+      - hube lamido
+      - hubiste lamido
+      - hubo lamido
+      - hubimos lamido
+      - hubisteis lamido
+      - hubieron lamido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 lamido"
+      - "habr\xE1s lamido"
+      - "habr\xE1 lamido"
+      - habremos lamido
+      - "habr\xE9is lamido"
+      - "habr\xE1n lamido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa lamido"
+      - "habr\xEDas lamido"
+      - "habr\xEDa lamido"
+      - "habr\xEDamos lamido"
+      - "habr\xEDais lamido"
+      - "habr\xEDan lamido"
+      cjid: cpef
+    - cjfs:
+      - haya lamido
+      - hayas lamido
+      - haya lamido
+      - hayamos lamido
+      - "hay\xE1is lamido"
+      - hayan lamido
+      cjid: ppfs
+    - cjfs:
+      - hubiera lamido
+      - hubieras lamido
+      - hubiera lamido
+      - "hubi\xE9ramos lamido"
+      - hubierais lamido
+      - hubieran lamido
+      cjid: ppss1
+    - cjfs:
+      - hubiese lamido
+      - hubieses lamido
+      - hubiese lamido
+      - "hubi\xE9semos lamido"
+      - hubieseis lamido
+      - hubiesen lamido
+      cjid: ppss2
+    - cjfs:
+      - hubiere lamido
+      - hubieres lamido
+      - hubiere lamido
+      - "hubi\xE9remos lamido"
+      - hubiereis lamido
+      - hubieren lamido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - lame
+      - lama
+      - lamamos
+      - lamed
+      - laman
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cojo}, {a_link|renco}, {a_link|rengo}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - "{sx|weak||} {bc}{a_link|pobre}, {a_link|d\xE9bil}, poco convincente "
+          - - vis
+            - - t: a lame excuse
+                tr: "una excusa d\xE9bil"
+          sn: '2'
+  fl: adjective
+  hom: 2
+  hwi:
+    hw: lame
+  ins:
+  - if: lamer
+  - if: lamest
+  meta:
+    id: lame:2
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2613681000'
+    src: spanish
+    stems:
+    - lame
+    - lamer
+    - lamest
+    - lamely
+    - lameness
+    - lamenesses
+    uuid: 2fd20233-ad58-4552-88d0-d280b50a2c3d
+  shortdef:
+  - cojo, renco, rengo
+  - "weak : pobre, d\xE9bil, poco convincente"

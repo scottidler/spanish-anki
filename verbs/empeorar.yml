@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|deteriorate}, to get worse'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make worse'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: empeorar
+    prs:
+    - sound:
+        audio: empeo01sp
+  meta:
+    id: empeorar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608342000'
+    src: spanish
+    stems:
+    - empeorar
+    uuid: a5cfb222-5afc-4100-b652-b25f8472ee59
+  shortdef:
+  - to deteriorate, to get worse
+  - to make worse
+  suppl:
+    cjts:
+    - cjfs:
+      - empeorando
+      - empeorado
+      cjid: gppt
+    - cjfs:
+      - empeoro
+      - empeoras
+      - empeora
+      - empeoramos
+      - "empeor\xE1is"
+      - empeoran
+      cjid: pind
+    - cjfs:
+      - empeoraba
+      - empeorabas
+      - empeoraba
+      - "empeor\xE1bamos"
+      - empeorabais
+      - empeoraban
+      cjid: pret
+    - cjfs:
+      - "empeor\xE9"
+      - empeoraste
+      - "empeor\xF3"
+      - empeoramos
+      - empeorasteis
+      - empeoraron
+      cjid: pprf
+    - cjfs:
+      - "empeorar\xE9"
+      - "empeorar\xE1s"
+      - "empeorar\xE1"
+      - empeoraremos
+      - "empeorar\xE9is"
+      - "empeorar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "empeorar\xEDa"
+      - "empeorar\xEDas"
+      - "empeorar\xEDa"
+      - "empeorar\xEDamos"
+      - "empeorar\xEDais"
+      - "empeorar\xEDan"
+      cjid: cond
+    - cjfs:
+      - empeore
+      - empeores
+      - empeore
+      - empeoremos
+      - "empeor\xE9is"
+      - empeoren
+      cjid: psub
+    - cjfs:
+      - empeorara
+      - empeoraras
+      - empeorara
+      - "empeor\xE1ramos"
+      - empeorarais
+      - empeoraran
+      cjid: pisb1
+    - cjfs:
+      - empeorase
+      - empeorases
+      - empeorase
+      - "empeor\xE1semos"
+      - empeoraseis
+      - empeorasen
+      cjid: pisb2
+    - cjfs:
+      - empeorare
+      - empeorares
+      - empeorare
+      - "empeor\xE1remos"
+      - empeorareis
+      - empeoraren
+      cjid: fsub
+    - cjfs:
+      - he empeorado
+      - has empeorado
+      - ha empeorado
+      - hemos empeorado
+      - "hab\xE9is empeorado"
+      - han empeorado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa empeorado"
+      - "hab\xEDas empeorado"
+      - "hab\xEDa empeorado"
+      - "hab\xEDamos empeorado"
+      - "hab\xEDais empeorado"
+      - "hab\xEDan empeorado"
+      cjid: ppsi
+    - cjfs:
+      - hube empeorado
+      - hubiste empeorado
+      - hubo empeorado
+      - hubimos empeorado
+      - hubisteis empeorado
+      - hubieron empeorado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 empeorado"
+      - "habr\xE1s empeorado"
+      - "habr\xE1 empeorado"
+      - habremos empeorado
+      - "habr\xE9is empeorado"
+      - "habr\xE1n empeorado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa empeorado"
+      - "habr\xEDas empeorado"
+      - "habr\xEDa empeorado"
+      - "habr\xEDamos empeorado"
+      - "habr\xEDais empeorado"
+      - "habr\xEDan empeorado"
+      cjid: cpef
+    - cjfs:
+      - haya empeorado
+      - hayas empeorado
+      - haya empeorado
+      - hayamos empeorado
+      - "hay\xE1is empeorado"
+      - hayan empeorado
+      cjid: ppfs
+    - cjfs:
+      - hubiera empeorado
+      - hubieras empeorado
+      - hubiera empeorado
+      - "hubi\xE9ramos empeorado"
+      - hubierais empeorado
+      - hubieran empeorado
+      cjid: ppss1
+    - cjfs:
+      - hubiese empeorado
+      - hubieses empeorado
+      - hubiese empeorado
+      - "hubi\xE9semos empeorado"
+      - hubieseis empeorado
+      - hubiesen empeorado
+      cjid: ppss2
+    - cjfs:
+      - hubiere empeorado
+      - hubieres empeorado
+      - hubiere empeorado
+      - "hubi\xE9remos empeorado"
+      - hubiereis empeorado
+      - hubieren empeorado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - empeora
+      - empeore
+      - empeoremos
+      - empeorad
+      - empeoren
+      cjid: impf

@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lean}, to {a_link|rest}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|lie down}, {a_link|recline}'
+    drp: recostarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: recostar
+    prs:
+    - sound:
+        audio: recos01sp
+  meta:
+    id: recostar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619044000'
+    src: spanish
+    stems:
+    - recostar
+    - recostarse
+    uuid: ac8da167-fdb4-449a-b6dc-79b9e57809b4
+  shortdef:
+  - to lean, to rest
+  suppl:
+    cjts:
+    - cjfs:
+      - recostando
+      - recostado
+      cjid: gppt
+    - cjfs:
+      - recuesto
+      - recuestas
+      - recuesta
+      - recostamos
+      - "recost\xE1is"
+      - recuestan
+      cjid: pind
+    - cjfs:
+      - recostaba
+      - recostabas
+      - recostaba
+      - "recost\xE1bamos"
+      - recostabais
+      - recostaban
+      cjid: pret
+    - cjfs:
+      - "recost\xE9"
+      - recostaste
+      - "recost\xF3"
+      - recostamos
+      - recostasteis
+      - recostaron
+      cjid: pprf
+    - cjfs:
+      - "recostar\xE9"
+      - "recostar\xE1s"
+      - "recostar\xE1"
+      - recostaremos
+      - "recostar\xE9is"
+      - "recostar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "recostar\xEDa"
+      - "recostar\xEDas"
+      - "recostar\xEDa"
+      - "recostar\xEDamos"
+      - "recostar\xEDais"
+      - "recostar\xEDan"
+      cjid: cond
+    - cjfs:
+      - recueste
+      - recuestes
+      - recueste
+      - recostemos
+      - "recost\xE9is"
+      - recuesten
+      cjid: psub
+    - cjfs:
+      - recostara
+      - recostaras
+      - recostara
+      - "recost\xE1ramos"
+      - recostarais
+      - recostaran
+      cjid: pisb1
+    - cjfs:
+      - recostase
+      - recostases
+      - recostase
+      - "recost\xE1semos"
+      - recostaseis
+      - recostasen
+      cjid: pisb2
+    - cjfs:
+      - recostare
+      - recostares
+      - recostare
+      - "recost\xE1remos"
+      - recostareis
+      - recostaren
+      cjid: fsub
+    - cjfs:
+      - he recostado
+      - has recostado
+      - ha recostado
+      - hemos recostado
+      - "hab\xE9is recostado"
+      - han recostado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa recostado"
+      - "hab\xEDas recostado"
+      - "hab\xEDa recostado"
+      - "hab\xEDamos recostado"
+      - "hab\xEDais recostado"
+      - "hab\xEDan recostado"
+      cjid: ppsi
+    - cjfs:
+      - hube recostado
+      - hubiste recostado
+      - hubo recostado
+      - hubimos recostado
+      - hubisteis recostado
+      - hubieron recostado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 recostado"
+      - "habr\xE1s recostado"
+      - "habr\xE1 recostado"
+      - habremos recostado
+      - "habr\xE9is recostado"
+      - "habr\xE1n recostado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa recostado"
+      - "habr\xEDas recostado"
+      - "habr\xEDa recostado"
+      - "habr\xEDamos recostado"
+      - "habr\xEDais recostado"
+      - "habr\xEDan recostado"
+      cjid: cpef
+    - cjfs:
+      - haya recostado
+      - hayas recostado
+      - haya recostado
+      - hayamos recostado
+      - "hay\xE1is recostado"
+      - hayan recostado
+      cjid: ppfs
+    - cjfs:
+      - hubiera recostado
+      - hubieras recostado
+      - hubiera recostado
+      - "hubi\xE9ramos recostado"
+      - hubierais recostado
+      - hubieran recostado
+      cjid: ppss1
+    - cjfs:
+      - hubiese recostado
+      - hubieses recostado
+      - hubiese recostado
+      - "hubi\xE9semos recostado"
+      - hubieseis recostado
+      - hubiesen recostado
+      cjid: ppss2
+    - cjfs:
+      - hubiere recostado
+      - hubieres recostado
+      - hubiere recostado
+      - "hubi\xE9remos recostado"
+      - hubiereis recostado
+      - hubieren recostado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - recuesta
+      - recueste
+      - recostemos
+      - recostad
+      - recuesten
+      cjid: impf

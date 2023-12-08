@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|seem}, to {a_link|appear} '
+          - - vis
+            - - t: no aparentas tu edad
+                tr: you don't look your age
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|fingir||} {bc}to {a_link|feign}, to {a_link|pretend}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: aparentar
+    prs:
+    - sound:
+        audio: apare03sp
+  meta:
+    id: aparentar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601656000'
+    src: spanish
+    stems:
+    - aparentar
+    uuid: cdf928b4-5094-4429-922e-5214986a8083
+  shortdef:
+  - to seem, to appear
+  - 'fingir : to feign, to pretend'
+  suppl:
+    cjts:
+    - cjfs:
+      - aparentando
+      - aparentado
+      cjid: gppt
+    - cjfs:
+      - aparento
+      - aparentas
+      - aparenta
+      - aparentamos
+      - "aparent\xE1is"
+      - aparentan
+      cjid: pind
+    - cjfs:
+      - aparentaba
+      - aparentabas
+      - aparentaba
+      - "aparent\xE1bamos"
+      - aparentabais
+      - aparentaban
+      cjid: pret
+    - cjfs:
+      - "aparent\xE9"
+      - aparentaste
+      - "aparent\xF3"
+      - aparentamos
+      - aparentasteis
+      - aparentaron
+      cjid: pprf
+    - cjfs:
+      - "aparentar\xE9"
+      - "aparentar\xE1s"
+      - "aparentar\xE1"
+      - aparentaremos
+      - "aparentar\xE9is"
+      - "aparentar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aparentar\xEDa"
+      - "aparentar\xEDas"
+      - "aparentar\xEDa"
+      - "aparentar\xEDamos"
+      - "aparentar\xEDais"
+      - "aparentar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aparente
+      - aparentes
+      - aparente
+      - aparentemos
+      - "aparent\xE9is"
+      - aparenten
+      cjid: psub
+    - cjfs:
+      - aparentara
+      - aparentaras
+      - aparentara
+      - "aparent\xE1ramos"
+      - aparentarais
+      - aparentaran
+      cjid: pisb1
+    - cjfs:
+      - aparentase
+      - aparentases
+      - aparentase
+      - "aparent\xE1semos"
+      - aparentaseis
+      - aparentasen
+      cjid: pisb2
+    - cjfs:
+      - aparentare
+      - aparentares
+      - aparentare
+      - "aparent\xE1remos"
+      - aparentareis
+      - aparentaren
+      cjid: fsub
+    - cjfs:
+      - he aparentado
+      - has aparentado
+      - ha aparentado
+      - hemos aparentado
+      - "hab\xE9is aparentado"
+      - han aparentado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aparentado"
+      - "hab\xEDas aparentado"
+      - "hab\xEDa aparentado"
+      - "hab\xEDamos aparentado"
+      - "hab\xEDais aparentado"
+      - "hab\xEDan aparentado"
+      cjid: ppsi
+    - cjfs:
+      - hube aparentado
+      - hubiste aparentado
+      - hubo aparentado
+      - hubimos aparentado
+      - hubisteis aparentado
+      - hubieron aparentado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aparentado"
+      - "habr\xE1s aparentado"
+      - "habr\xE1 aparentado"
+      - habremos aparentado
+      - "habr\xE9is aparentado"
+      - "habr\xE1n aparentado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aparentado"
+      - "habr\xEDas aparentado"
+      - "habr\xEDa aparentado"
+      - "habr\xEDamos aparentado"
+      - "habr\xEDais aparentado"
+      - "habr\xEDan aparentado"
+      cjid: cpef
+    - cjfs:
+      - haya aparentado
+      - hayas aparentado
+      - haya aparentado
+      - hayamos aparentado
+      - "hay\xE1is aparentado"
+      - hayan aparentado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aparentado
+      - hubieras aparentado
+      - hubiera aparentado
+      - "hubi\xE9ramos aparentado"
+      - hubierais aparentado
+      - hubieran aparentado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aparentado
+      - hubieses aparentado
+      - hubiese aparentado
+      - "hubi\xE9semos aparentado"
+      - hubieseis aparentado
+      - hubiesen aparentado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aparentado
+      - hubieres aparentado
+      - hubiere aparentado
+      - "hubi\xE9remos aparentado"
+      - hubiereis aparentado
+      - hubieren aparentado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aparenta
+      - aparente
+      - aparentemos
+      - aparentad
+      - aparenten
+      cjid: impf

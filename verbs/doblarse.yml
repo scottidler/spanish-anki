@@ -1,0 +1,231 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|double}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|plegar||} {bc}to {a_link|fold}, to {a_link|bend}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn} '
+          - - vis
+            - - t: doblar la esquina
+                tr: to turn the corner
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|dub}'
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|toll}, to {a_link|ring}'
+          sn: '2'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|fold up}, to {a_link|double over}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to give in, to {a_link|yield}'
+            sn: '2'
+    drp: doblarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: doblar
+    prs:
+    - sound:
+        audio: dobla01sp
+  meta:
+    id: doblar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607833000'
+    src: spanish
+    stems:
+    - doblar
+    - doblarse
+    uuid: 17fe0a69-59b3-4bd1-aa51-61bc7ff15ec6
+  shortdef:
+  - to double
+  - 'plegar : to fold, to bend'
+  - to turn
+  suppl:
+    cjts:
+    - cjfs:
+      - doblando
+      - doblado
+      cjid: gppt
+    - cjfs:
+      - doblo
+      - doblas
+      - dobla
+      - doblamos
+      - "dobl\xE1is"
+      - doblan
+      cjid: pind
+    - cjfs:
+      - doblaba
+      - doblabas
+      - doblaba
+      - "dobl\xE1bamos"
+      - doblabais
+      - doblaban
+      cjid: pret
+    - cjfs:
+      - "dobl\xE9"
+      - doblaste
+      - "dobl\xF3"
+      - doblamos
+      - doblasteis
+      - doblaron
+      cjid: pprf
+    - cjfs:
+      - "doblar\xE9"
+      - "doblar\xE1s"
+      - "doblar\xE1"
+      - doblaremos
+      - "doblar\xE9is"
+      - "doblar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "doblar\xEDa"
+      - "doblar\xEDas"
+      - "doblar\xEDa"
+      - "doblar\xEDamos"
+      - "doblar\xEDais"
+      - "doblar\xEDan"
+      cjid: cond
+    - cjfs:
+      - doble
+      - dobles
+      - doble
+      - doblemos
+      - "dobl\xE9is"
+      - doblen
+      cjid: psub
+    - cjfs:
+      - doblara
+      - doblaras
+      - doblara
+      - "dobl\xE1ramos"
+      - doblarais
+      - doblaran
+      cjid: pisb1
+    - cjfs:
+      - doblase
+      - doblases
+      - doblase
+      - "dobl\xE1semos"
+      - doblaseis
+      - doblasen
+      cjid: pisb2
+    - cjfs:
+      - doblare
+      - doblares
+      - doblare
+      - "dobl\xE1remos"
+      - doblareis
+      - doblaren
+      cjid: fsub
+    - cjfs:
+      - he doblado
+      - has doblado
+      - ha doblado
+      - hemos doblado
+      - "hab\xE9is doblado"
+      - han doblado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa doblado"
+      - "hab\xEDas doblado"
+      - "hab\xEDa doblado"
+      - "hab\xEDamos doblado"
+      - "hab\xEDais doblado"
+      - "hab\xEDan doblado"
+      cjid: ppsi
+    - cjfs:
+      - hube doblado
+      - hubiste doblado
+      - hubo doblado
+      - hubimos doblado
+      - hubisteis doblado
+      - hubieron doblado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 doblado"
+      - "habr\xE1s doblado"
+      - "habr\xE1 doblado"
+      - habremos doblado
+      - "habr\xE9is doblado"
+      - "habr\xE1n doblado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa doblado"
+      - "habr\xEDas doblado"
+      - "habr\xEDa doblado"
+      - "habr\xEDamos doblado"
+      - "habr\xEDais doblado"
+      - "habr\xEDan doblado"
+      cjid: cpef
+    - cjfs:
+      - haya doblado
+      - hayas doblado
+      - haya doblado
+      - hayamos doblado
+      - "hay\xE1is doblado"
+      - hayan doblado
+      cjid: ppfs
+    - cjfs:
+      - hubiera doblado
+      - hubieras doblado
+      - hubiera doblado
+      - "hubi\xE9ramos doblado"
+      - hubierais doblado
+      - hubieran doblado
+      cjid: ppss1
+    - cjfs:
+      - hubiese doblado
+      - hubieses doblado
+      - hubiese doblado
+      - "hubi\xE9semos doblado"
+      - hubieseis doblado
+      - hubiesen doblado
+      cjid: ppss2
+    - cjfs:
+      - hubiere doblado
+      - hubieres doblado
+      - hubiere doblado
+      - "hubi\xE9remos doblado"
+      - hubiereis doblado
+      - hubieren doblado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - dobla
+      - doble
+      - doblemos
+      - doblad
+      - doblen
+      cjid: impf

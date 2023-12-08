@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|determine}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cause}, to {a_link|bring about}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|make up one''s mind}, to {a_link|decide}'
+    drp: determinarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: determinar
+    prs:
+    - sound:
+        audio: deter07sp
+  meta:
+    id: determinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607431000'
+    src: spanish
+    stems:
+    - determinar
+    - determinarse
+    uuid: 3f5cc8d6-6f4a-4a35-870b-018cafff525a
+  shortdef:
+  - to determine
+  - to cause, to bring about
+  suppl:
+    cjts:
+    - cjfs:
+      - determinando
+      - determinado
+      cjid: gppt
+    - cjfs:
+      - determino
+      - determinas
+      - determina
+      - determinamos
+      - "determin\xE1is"
+      - determinan
+      cjid: pind
+    - cjfs:
+      - determinaba
+      - determinabas
+      - determinaba
+      - "determin\xE1bamos"
+      - determinabais
+      - determinaban
+      cjid: pret
+    - cjfs:
+      - "determin\xE9"
+      - determinaste
+      - "determin\xF3"
+      - determinamos
+      - determinasteis
+      - determinaron
+      cjid: pprf
+    - cjfs:
+      - "determinar\xE9"
+      - "determinar\xE1s"
+      - "determinar\xE1"
+      - determinaremos
+      - "determinar\xE9is"
+      - "determinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "determinar\xEDa"
+      - "determinar\xEDas"
+      - "determinar\xEDa"
+      - "determinar\xEDamos"
+      - "determinar\xEDais"
+      - "determinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - determine
+      - determines
+      - determine
+      - determinemos
+      - "determin\xE9is"
+      - determinen
+      cjid: psub
+    - cjfs:
+      - determinara
+      - determinaras
+      - determinara
+      - "determin\xE1ramos"
+      - determinarais
+      - determinaran
+      cjid: pisb1
+    - cjfs:
+      - determinase
+      - determinases
+      - determinase
+      - "determin\xE1semos"
+      - determinaseis
+      - determinasen
+      cjid: pisb2
+    - cjfs:
+      - determinare
+      - determinares
+      - determinare
+      - "determin\xE1remos"
+      - determinareis
+      - determinaren
+      cjid: fsub
+    - cjfs:
+      - he determinado
+      - has determinado
+      - ha determinado
+      - hemos determinado
+      - "hab\xE9is determinado"
+      - han determinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa determinado"
+      - "hab\xEDas determinado"
+      - "hab\xEDa determinado"
+      - "hab\xEDamos determinado"
+      - "hab\xEDais determinado"
+      - "hab\xEDan determinado"
+      cjid: ppsi
+    - cjfs:
+      - hube determinado
+      - hubiste determinado
+      - hubo determinado
+      - hubimos determinado
+      - hubisteis determinado
+      - hubieron determinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 determinado"
+      - "habr\xE1s determinado"
+      - "habr\xE1 determinado"
+      - habremos determinado
+      - "habr\xE9is determinado"
+      - "habr\xE1n determinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa determinado"
+      - "habr\xEDas determinado"
+      - "habr\xEDa determinado"
+      - "habr\xEDamos determinado"
+      - "habr\xEDais determinado"
+      - "habr\xEDan determinado"
+      cjid: cpef
+    - cjfs:
+      - haya determinado
+      - hayas determinado
+      - haya determinado
+      - hayamos determinado
+      - "hay\xE1is determinado"
+      - hayan determinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera determinado
+      - hubieras determinado
+      - hubiera determinado
+      - "hubi\xE9ramos determinado"
+      - hubierais determinado
+      - hubieran determinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese determinado
+      - hubieses determinado
+      - hubiese determinado
+      - "hubi\xE9semos determinado"
+      - hubieseis determinado
+      - hubiesen determinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere determinado
+      - hubieres determinado
+      - hubiere determinado
+      - "hubi\xE9remos determinado"
+      - hubiereis determinado
+      - hubieren determinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - determina
+      - determine
+      - determinemos
+      - determinad
+      - determinen
+      cjid: impf

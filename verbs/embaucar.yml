@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|trick}, to {a_link|swindle}'
+  fl: transitive verb
+  hwi:
+    hw: embaucar
+  meta:
+    id: embaucar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608231000'
+    src: spanish
+    stems:
+    - embaucar
+    uuid: 606bae7e-03df-4df2-bd63-1d905c3f03fd
+  shortdef:
+  - to trick, to swindle
+  suppl:
+    cjts:
+    - cjfs:
+      - embaucando
+      - embaucado
+      cjid: gppt
+    - cjfs:
+      - embauco
+      - embaucas
+      - embauca
+      - embaucamos
+      - "embauc\xE1is"
+      - embaucan
+      cjid: pind
+    - cjfs:
+      - embaucaba
+      - embaucabas
+      - embaucaba
+      - "embauc\xE1bamos"
+      - embaucabais
+      - embaucaban
+      cjid: pret
+    - cjfs:
+      - "embauqu\xE9"
+      - embaucaste
+      - "embauc\xF3"
+      - embaucamos
+      - embaucasteis
+      - embaucaron
+      cjid: pprf
+    - cjfs:
+      - "embaucar\xE9"
+      - "embaucar\xE1s"
+      - "embaucar\xE1"
+      - embaucaremos
+      - "embaucar\xE9is"
+      - "embaucar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "embaucar\xEDa"
+      - "embaucar\xEDas"
+      - "embaucar\xEDa"
+      - "embaucar\xEDamos"
+      - "embaucar\xEDais"
+      - "embaucar\xEDan"
+      cjid: cond
+    - cjfs:
+      - embauque
+      - embauques
+      - embauque
+      - embauquemos
+      - "embauqu\xE9is"
+      - embauquen
+      cjid: psub
+    - cjfs:
+      - embaucara
+      - embaucaras
+      - embaucara
+      - "embauc\xE1ramos"
+      - embaucarais
+      - embaucaran
+      cjid: pisb1
+    - cjfs:
+      - embaucase
+      - embaucases
+      - embaucase
+      - "embauc\xE1semos"
+      - embaucaseis
+      - embaucasen
+      cjid: pisb2
+    - cjfs:
+      - embaucare
+      - embaucares
+      - embaucare
+      - "embauc\xE1remos"
+      - embaucareis
+      - embaucaren
+      cjid: fsub
+    - cjfs:
+      - he embaucado
+      - has embaucado
+      - ha embaucado
+      - hemos embaucado
+      - "hab\xE9is embaucado"
+      - han embaucado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa embaucado"
+      - "hab\xEDas embaucado"
+      - "hab\xEDa embaucado"
+      - "hab\xEDamos embaucado"
+      - "hab\xEDais embaucado"
+      - "hab\xEDan embaucado"
+      cjid: ppsi
+    - cjfs:
+      - hube embaucado
+      - hubiste embaucado
+      - hubo embaucado
+      - hubimos embaucado
+      - hubisteis embaucado
+      - hubieron embaucado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 embaucado"
+      - "habr\xE1s embaucado"
+      - "habr\xE1 embaucado"
+      - habremos embaucado
+      - "habr\xE9is embaucado"
+      - "habr\xE1n embaucado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa embaucado"
+      - "habr\xEDas embaucado"
+      - "habr\xEDa embaucado"
+      - "habr\xEDamos embaucado"
+      - "habr\xEDais embaucado"
+      - "habr\xEDan embaucado"
+      cjid: cpef
+    - cjfs:
+      - haya embaucado
+      - hayas embaucado
+      - haya embaucado
+      - hayamos embaucado
+      - "hay\xE1is embaucado"
+      - hayan embaucado
+      cjid: ppfs
+    - cjfs:
+      - hubiera embaucado
+      - hubieras embaucado
+      - hubiera embaucado
+      - "hubi\xE9ramos embaucado"
+      - hubierais embaucado
+      - hubieran embaucado
+      cjid: ppss1
+    - cjfs:
+      - hubiese embaucado
+      - hubieses embaucado
+      - hubiese embaucado
+      - "hubi\xE9semos embaucado"
+      - hubieseis embaucado
+      - hubiesen embaucado
+      cjid: ppss2
+    - cjfs:
+      - hubiere embaucado
+      - hubieres embaucado
+      - hubiere embaucado
+      - "hubi\xE9remos embaucado"
+      - hubiereis embaucado
+      - hubieren embaucado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - embauca
+      - embauque
+      - embauquemos
+      - embaucad
+      - embauquen
+      cjid: impf

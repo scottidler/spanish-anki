@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|braid}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get involved'
+    drp: trenzarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: trenzar
+  meta:
+    id: trenzar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622280000'
+    src: spanish
+    stems:
+    - trenzar
+    - trenzarse
+    uuid: 1283bf01-2b6a-4305-8146-7c54c1652dba
+  shortdef:
+  - to braid
+  suppl:
+    cjts:
+    - cjfs:
+      - trenzando
+      - trenzado
+      cjid: gppt
+    - cjfs:
+      - trenzo
+      - trenzas
+      - trenza
+      - trenzamos
+      - "trenz\xE1is"
+      - trenzan
+      cjid: pind
+    - cjfs:
+      - trenzaba
+      - trenzabas
+      - trenzaba
+      - "trenz\xE1bamos"
+      - trenzabais
+      - trenzaban
+      cjid: pret
+    - cjfs:
+      - "trenc\xE9"
+      - trenzaste
+      - "trenz\xF3"
+      - trenzamos
+      - trenzasteis
+      - trenzaron
+      cjid: pprf
+    - cjfs:
+      - "trenzar\xE9"
+      - "trenzar\xE1s"
+      - "trenzar\xE1"
+      - trenzaremos
+      - "trenzar\xE9is"
+      - "trenzar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "trenzar\xEDa"
+      - "trenzar\xEDas"
+      - "trenzar\xEDa"
+      - "trenzar\xEDamos"
+      - "trenzar\xEDais"
+      - "trenzar\xEDan"
+      cjid: cond
+    - cjfs:
+      - trence
+      - trences
+      - trence
+      - trencemos
+      - "trenc\xE9is"
+      - trencen
+      cjid: psub
+    - cjfs:
+      - trenzara
+      - trenzaras
+      - trenzara
+      - "trenz\xE1ramos"
+      - trenzarais
+      - trenzaran
+      cjid: pisb1
+    - cjfs:
+      - trenzase
+      - trenzases
+      - trenzase
+      - "trenz\xE1semos"
+      - trenzaseis
+      - trenzasen
+      cjid: pisb2
+    - cjfs:
+      - trenzare
+      - trenzares
+      - trenzare
+      - "trenz\xE1remos"
+      - trenzareis
+      - trenzaren
+      cjid: fsub
+    - cjfs:
+      - he trenzado
+      - has trenzado
+      - ha trenzado
+      - hemos trenzado
+      - "hab\xE9is trenzado"
+      - han trenzado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa trenzado"
+      - "hab\xEDas trenzado"
+      - "hab\xEDa trenzado"
+      - "hab\xEDamos trenzado"
+      - "hab\xEDais trenzado"
+      - "hab\xEDan trenzado"
+      cjid: ppsi
+    - cjfs:
+      - hube trenzado
+      - hubiste trenzado
+      - hubo trenzado
+      - hubimos trenzado
+      - hubisteis trenzado
+      - hubieron trenzado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 trenzado"
+      - "habr\xE1s trenzado"
+      - "habr\xE1 trenzado"
+      - habremos trenzado
+      - "habr\xE9is trenzado"
+      - "habr\xE1n trenzado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa trenzado"
+      - "habr\xEDas trenzado"
+      - "habr\xEDa trenzado"
+      - "habr\xEDamos trenzado"
+      - "habr\xEDais trenzado"
+      - "habr\xEDan trenzado"
+      cjid: cpef
+    - cjfs:
+      - haya trenzado
+      - hayas trenzado
+      - haya trenzado
+      - hayamos trenzado
+      - "hay\xE1is trenzado"
+      - hayan trenzado
+      cjid: ppfs
+    - cjfs:
+      - hubiera trenzado
+      - hubieras trenzado
+      - hubiera trenzado
+      - "hubi\xE9ramos trenzado"
+      - hubierais trenzado
+      - hubieran trenzado
+      cjid: ppss1
+    - cjfs:
+      - hubiese trenzado
+      - hubieses trenzado
+      - hubiese trenzado
+      - "hubi\xE9semos trenzado"
+      - hubieseis trenzado
+      - hubiesen trenzado
+      cjid: ppss2
+    - cjfs:
+      - hubiere trenzado
+      - hubieres trenzado
+      - hubiere trenzado
+      - "hubi\xE9remos trenzado"
+      - hubiereis trenzado
+      - hubieren trenzado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - trenza
+      - trence
+      - trencemos
+      - trenzad
+      - trencen
+      cjid: impf

@@ -1,0 +1,212 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take part'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|interceder||} {bc}to {a_link|intervene}, to {a_link|intercede}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|control}, to {a_link|supervise}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|audit}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to operate on'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|tap}, to {a_link|wiretap} (a phone)'
+          sn: '4'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: intervenir
+    prs:
+    - sound:
+        audio: inter32sp
+  meta:
+    id: intervenir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612903000'
+    src: spanish
+    stems:
+    - intervenir
+    uuid: d4c572a9-b377-4efb-98a7-b0888cdeb30c
+  shortdef:
+  - to take part
+  - 'interceder : to intervene, to intercede'
+  - to control, to supervise
+  suppl:
+    cjts:
+    - cjfs:
+      - interviniendo
+      - intervenido
+      cjid: gppt
+    - cjfs:
+      - intervengo
+      - intervienes
+      - interviene
+      - intervenimos
+      - "interven\xEDs"
+      - intervienen
+      cjid: pind
+    - cjfs:
+      - "interven\xEDa"
+      - "interven\xEDas"
+      - "interven\xEDa"
+      - "interven\xEDamos"
+      - "interven\xEDais"
+      - "interven\xEDan"
+      cjid: pret
+    - cjfs:
+      - intervine
+      - interviniste
+      - intervino
+      - intervinimos
+      - intervinisteis
+      - intervinieron
+      cjid: pprf
+    - cjfs:
+      - "intervendr\xE9"
+      - "intervendr\xE1s"
+      - "intervendr\xE1"
+      - intervendremos
+      - "intervendr\xE9is"
+      - "intervendr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "intervendr\xEDa"
+      - "intervendr\xEDas"
+      - "intervendr\xEDa"
+      - "intervendr\xEDamos"
+      - "intervendr\xEDais"
+      - "intervendr\xEDan"
+      cjid: cond
+    - cjfs:
+      - intervenga
+      - intervengas
+      - intervenga
+      - intervengamos
+      - "interveng\xE1is"
+      - intervengan
+      cjid: psub
+    - cjfs:
+      - interviniera
+      - intervinieras
+      - interviniera
+      - "intervini\xE9ramos"
+      - intervinierais
+      - intervinieran
+      cjid: pisb1
+    - cjfs:
+      - interviniese
+      - intervinieses
+      - interviniese
+      - "intervini\xE9semos"
+      - intervinieseis
+      - interviniesen
+      cjid: pisb2
+    - cjfs:
+      - interviniere
+      - intervinieres
+      - interviniere
+      - "intervini\xE9remos"
+      - interviniereis
+      - intervinieren
+      cjid: fsub
+    - cjfs:
+      - he intervenido
+      - has intervenido
+      - ha intervenido
+      - hemos intervenido
+      - "hab\xE9is intervenido"
+      - han intervenido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa intervenido"
+      - "hab\xEDas intervenido"
+      - "hab\xEDa intervenido"
+      - "hab\xEDamos intervenido"
+      - "hab\xEDais intervenido"
+      - "hab\xEDan intervenido"
+      cjid: ppsi
+    - cjfs:
+      - hube intervenido
+      - hubiste intervenido
+      - hubo intervenido
+      - hubimos intervenido
+      - hubisteis intervenido
+      - hubieron intervenido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 intervenido"
+      - "habr\xE1s intervenido"
+      - "habr\xE1 intervenido"
+      - habremos intervenido
+      - "habr\xE9is intervenido"
+      - "habr\xE1n intervenido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa intervenido"
+      - "habr\xEDas intervenido"
+      - "habr\xEDa intervenido"
+      - "habr\xEDamos intervenido"
+      - "habr\xEDais intervenido"
+      - "habr\xEDan intervenido"
+      cjid: cpef
+    - cjfs:
+      - haya intervenido
+      - hayas intervenido
+      - haya intervenido
+      - hayamos intervenido
+      - "hay\xE1is intervenido"
+      - hayan intervenido
+      cjid: ppfs
+    - cjfs:
+      - hubiera intervenido
+      - hubieras intervenido
+      - hubiera intervenido
+      - "hubi\xE9ramos intervenido"
+      - hubierais intervenido
+      - hubieran intervenido
+      cjid: ppss1
+    - cjfs:
+      - hubiese intervenido
+      - hubieses intervenido
+      - hubiese intervenido
+      - "hubi\xE9semos intervenido"
+      - hubieseis intervenido
+      - hubiesen intervenido
+      cjid: ppss2
+    - cjfs:
+      - hubiere intervenido
+      - hubieres intervenido
+      - hubiere intervenido
+      - "hubi\xE9remos intervenido"
+      - hubiereis intervenido
+      - hubieren intervenido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "interv\xE9n"
+      - intervenga
+      - intervengamos
+      - intervenid
+      - intervengan
+      cjid: impf

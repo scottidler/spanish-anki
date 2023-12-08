@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|figure}, to be included '
+          - - vis
+            - - t: "Rivera figura entre los m\xE1s grandes pintores de M\xE9xico"
+                tr: Rivera is among Mexico's greatest painters
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be prominent, to {a_link|stand out}'
+          sn: '2'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|represent} '
+          - - vis
+            - - t: "esta l\xEDnea figura el horizonte"
+                tr: this line represents the horizon
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|imagine}, to {a_link|think} '
+            - - vis
+              - - t: "\xA1fig\xFArate el l\xEDo en que se meti\xF3!"
+                  tr: imagine the mess she got into!
+    drp: figurarse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: figurar
+    prs:
+    - sound:
+        audio: figur02sp
+  meta:
+    id: figurar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610081000'
+    src: spanish
+    stems:
+    - figurar
+    - figurarse
+    uuid: caf788dd-22ca-4867-8de7-fbe54bb78c99
+  shortdef:
+  - to figure, to be included
+  - to be prominent, to stand out
+  - to represent
+  suppl:
+    cjts:
+    - cjfs:
+      - figurando
+      - figurado
+      cjid: gppt
+    - cjfs:
+      - figuro
+      - figuras
+      - figura
+      - figuramos
+      - "figur\xE1is"
+      - figuran
+      cjid: pind
+    - cjfs:
+      - figuraba
+      - figurabas
+      - figuraba
+      - "figur\xE1bamos"
+      - figurabais
+      - figuraban
+      cjid: pret
+    - cjfs:
+      - "figur\xE9"
+      - figuraste
+      - "figur\xF3"
+      - figuramos
+      - figurasteis
+      - figuraron
+      cjid: pprf
+    - cjfs:
+      - "figurar\xE9"
+      - "figurar\xE1s"
+      - "figurar\xE1"
+      - figuraremos
+      - "figurar\xE9is"
+      - "figurar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "figurar\xEDa"
+      - "figurar\xEDas"
+      - "figurar\xEDa"
+      - "figurar\xEDamos"
+      - "figurar\xEDais"
+      - "figurar\xEDan"
+      cjid: cond
+    - cjfs:
+      - figure
+      - figures
+      - figure
+      - figuremos
+      - "figur\xE9is"
+      - figuren
+      cjid: psub
+    - cjfs:
+      - figurara
+      - figuraras
+      - figurara
+      - "figur\xE1ramos"
+      - figurarais
+      - figuraran
+      cjid: pisb1
+    - cjfs:
+      - figurase
+      - figurases
+      - figurase
+      - "figur\xE1semos"
+      - figuraseis
+      - figurasen
+      cjid: pisb2
+    - cjfs:
+      - figurare
+      - figurares
+      - figurare
+      - "figur\xE1remos"
+      - figurareis
+      - figuraren
+      cjid: fsub
+    - cjfs:
+      - he figurado
+      - has figurado
+      - ha figurado
+      - hemos figurado
+      - "hab\xE9is figurado"
+      - han figurado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa figurado"
+      - "hab\xEDas figurado"
+      - "hab\xEDa figurado"
+      - "hab\xEDamos figurado"
+      - "hab\xEDais figurado"
+      - "hab\xEDan figurado"
+      cjid: ppsi
+    - cjfs:
+      - hube figurado
+      - hubiste figurado
+      - hubo figurado
+      - hubimos figurado
+      - hubisteis figurado
+      - hubieron figurado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 figurado"
+      - "habr\xE1s figurado"
+      - "habr\xE1 figurado"
+      - habremos figurado
+      - "habr\xE9is figurado"
+      - "habr\xE1n figurado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa figurado"
+      - "habr\xEDas figurado"
+      - "habr\xEDa figurado"
+      - "habr\xEDamos figurado"
+      - "habr\xEDais figurado"
+      - "habr\xEDan figurado"
+      cjid: cpef
+    - cjfs:
+      - haya figurado
+      - hayas figurado
+      - haya figurado
+      - hayamos figurado
+      - "hay\xE1is figurado"
+      - hayan figurado
+      cjid: ppfs
+    - cjfs:
+      - hubiera figurado
+      - hubieras figurado
+      - hubiera figurado
+      - "hubi\xE9ramos figurado"
+      - hubierais figurado
+      - hubieran figurado
+      cjid: ppss1
+    - cjfs:
+      - hubiese figurado
+      - hubieses figurado
+      - hubiese figurado
+      - "hubi\xE9semos figurado"
+      - hubieseis figurado
+      - hubiesen figurado
+      cjid: ppss2
+    - cjfs:
+      - hubiere figurado
+      - hubieres figurado
+      - hubiere figurado
+      - "hubi\xE9remos figurado"
+      - hubiereis figurado
+      - hubieren figurado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - figura
+      - figure
+      - figuremos
+      - figurad
+      - figuren
+      cjid: impf

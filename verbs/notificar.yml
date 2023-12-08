@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|notify}, to {a_link|inform}'
+  fl: transitive verb
+  hwi:
+    hw: notificar
+    prs:
+    - sound:
+        audio: notif02sp
+  meta:
+    id: notificar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615873000'
+    src: spanish
+    stems:
+    - notificar
+    uuid: 9c70ef58-4f29-47bb-8e34-082ca1fdf1d7
+  shortdef:
+  - to notify, to inform
+  suppl:
+    cjts:
+    - cjfs:
+      - notificando
+      - notificado
+      cjid: gppt
+    - cjfs:
+      - notifico
+      - notificas
+      - notifica
+      - notificamos
+      - "notific\xE1is"
+      - notifican
+      cjid: pind
+    - cjfs:
+      - notificaba
+      - notificabas
+      - notificaba
+      - "notific\xE1bamos"
+      - notificabais
+      - notificaban
+      cjid: pret
+    - cjfs:
+      - "notifiqu\xE9"
+      - notificaste
+      - "notific\xF3"
+      - notificamos
+      - notificasteis
+      - notificaron
+      cjid: pprf
+    - cjfs:
+      - "notificar\xE9"
+      - "notificar\xE1s"
+      - "notificar\xE1"
+      - notificaremos
+      - "notificar\xE9is"
+      - "notificar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "notificar\xEDa"
+      - "notificar\xEDas"
+      - "notificar\xEDa"
+      - "notificar\xEDamos"
+      - "notificar\xEDais"
+      - "notificar\xEDan"
+      cjid: cond
+    - cjfs:
+      - notifique
+      - notifiques
+      - notifique
+      - notifiquemos
+      - "notifiqu\xE9is"
+      - notifiquen
+      cjid: psub
+    - cjfs:
+      - notificara
+      - notificaras
+      - notificara
+      - "notific\xE1ramos"
+      - notificarais
+      - notificaran
+      cjid: pisb1
+    - cjfs:
+      - notificase
+      - notificases
+      - notificase
+      - "notific\xE1semos"
+      - notificaseis
+      - notificasen
+      cjid: pisb2
+    - cjfs:
+      - notificare
+      - notificares
+      - notificare
+      - "notific\xE1remos"
+      - notificareis
+      - notificaren
+      cjid: fsub
+    - cjfs:
+      - he notificado
+      - has notificado
+      - ha notificado
+      - hemos notificado
+      - "hab\xE9is notificado"
+      - han notificado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa notificado"
+      - "hab\xEDas notificado"
+      - "hab\xEDa notificado"
+      - "hab\xEDamos notificado"
+      - "hab\xEDais notificado"
+      - "hab\xEDan notificado"
+      cjid: ppsi
+    - cjfs:
+      - hube notificado
+      - hubiste notificado
+      - hubo notificado
+      - hubimos notificado
+      - hubisteis notificado
+      - hubieron notificado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 notificado"
+      - "habr\xE1s notificado"
+      - "habr\xE1 notificado"
+      - habremos notificado
+      - "habr\xE9is notificado"
+      - "habr\xE1n notificado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa notificado"
+      - "habr\xEDas notificado"
+      - "habr\xEDa notificado"
+      - "habr\xEDamos notificado"
+      - "habr\xEDais notificado"
+      - "habr\xEDan notificado"
+      cjid: cpef
+    - cjfs:
+      - haya notificado
+      - hayas notificado
+      - haya notificado
+      - hayamos notificado
+      - "hay\xE1is notificado"
+      - hayan notificado
+      cjid: ppfs
+    - cjfs:
+      - hubiera notificado
+      - hubieras notificado
+      - hubiera notificado
+      - "hubi\xE9ramos notificado"
+      - hubierais notificado
+      - hubieran notificado
+      cjid: ppss1
+    - cjfs:
+      - hubiese notificado
+      - hubieses notificado
+      - hubiese notificado
+      - "hubi\xE9semos notificado"
+      - hubieseis notificado
+      - hubiesen notificado
+      cjid: ppss2
+    - cjfs:
+      - hubiere notificado
+      - hubieres notificado
+      - hubiere notificado
+      - "hubi\xE9remos notificado"
+      - hubiereis notificado
+      - hubieren notificado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - notifica
+      - notifique
+      - notifiquemos
+      - notificad
+      - notifiquen
+      cjid: impf

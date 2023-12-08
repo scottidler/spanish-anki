@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|eliminate}, to {a_link|remove}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|do in}, to {a_link|kill}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: eliminar
+    prs:
+    - sound:
+        audio: elimi02sp
+  meta:
+    id: eliminar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608181000'
+    src: spanish
+    stems:
+    - eliminar
+    uuid: 2608f051-6cd8-4b97-a70f-fa949aca8564
+  shortdef:
+  - to eliminate, to remove
+  - to do in, to kill
+  suppl:
+    cjts:
+    - cjfs:
+      - eliminando
+      - eliminado
+      cjid: gppt
+    - cjfs:
+      - elimino
+      - eliminas
+      - elimina
+      - eliminamos
+      - "elimin\xE1is"
+      - eliminan
+      cjid: pind
+    - cjfs:
+      - eliminaba
+      - eliminabas
+      - eliminaba
+      - "elimin\xE1bamos"
+      - eliminabais
+      - eliminaban
+      cjid: pret
+    - cjfs:
+      - "elimin\xE9"
+      - eliminaste
+      - "elimin\xF3"
+      - eliminamos
+      - eliminasteis
+      - eliminaron
+      cjid: pprf
+    - cjfs:
+      - "eliminar\xE9"
+      - "eliminar\xE1s"
+      - "eliminar\xE1"
+      - eliminaremos
+      - "eliminar\xE9is"
+      - "eliminar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "eliminar\xEDa"
+      - "eliminar\xEDas"
+      - "eliminar\xEDa"
+      - "eliminar\xEDamos"
+      - "eliminar\xEDais"
+      - "eliminar\xEDan"
+      cjid: cond
+    - cjfs:
+      - elimine
+      - elimines
+      - elimine
+      - eliminemos
+      - "elimin\xE9is"
+      - eliminen
+      cjid: psub
+    - cjfs:
+      - eliminara
+      - eliminaras
+      - eliminara
+      - "elimin\xE1ramos"
+      - eliminarais
+      - eliminaran
+      cjid: pisb1
+    - cjfs:
+      - eliminase
+      - eliminases
+      - eliminase
+      - "elimin\xE1semos"
+      - eliminaseis
+      - eliminasen
+      cjid: pisb2
+    - cjfs:
+      - eliminare
+      - eliminares
+      - eliminare
+      - "elimin\xE1remos"
+      - eliminareis
+      - eliminaren
+      cjid: fsub
+    - cjfs:
+      - he eliminado
+      - has eliminado
+      - ha eliminado
+      - hemos eliminado
+      - "hab\xE9is eliminado"
+      - han eliminado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa eliminado"
+      - "hab\xEDas eliminado"
+      - "hab\xEDa eliminado"
+      - "hab\xEDamos eliminado"
+      - "hab\xEDais eliminado"
+      - "hab\xEDan eliminado"
+      cjid: ppsi
+    - cjfs:
+      - hube eliminado
+      - hubiste eliminado
+      - hubo eliminado
+      - hubimos eliminado
+      - hubisteis eliminado
+      - hubieron eliminado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 eliminado"
+      - "habr\xE1s eliminado"
+      - "habr\xE1 eliminado"
+      - habremos eliminado
+      - "habr\xE9is eliminado"
+      - "habr\xE1n eliminado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa eliminado"
+      - "habr\xEDas eliminado"
+      - "habr\xEDa eliminado"
+      - "habr\xEDamos eliminado"
+      - "habr\xEDais eliminado"
+      - "habr\xEDan eliminado"
+      cjid: cpef
+    - cjfs:
+      - haya eliminado
+      - hayas eliminado
+      - haya eliminado
+      - hayamos eliminado
+      - "hay\xE1is eliminado"
+      - hayan eliminado
+      cjid: ppfs
+    - cjfs:
+      - hubiera eliminado
+      - hubieras eliminado
+      - hubiera eliminado
+      - "hubi\xE9ramos eliminado"
+      - hubierais eliminado
+      - hubieran eliminado
+      cjid: ppss1
+    - cjfs:
+      - hubiese eliminado
+      - hubieses eliminado
+      - hubiese eliminado
+      - "hubi\xE9semos eliminado"
+      - hubieseis eliminado
+      - hubiesen eliminado
+      cjid: ppss2
+    - cjfs:
+      - hubiere eliminado
+      - hubieres eliminado
+      - hubiere eliminado
+      - "hubi\xE9remos eliminado"
+      - hubiereis eliminado
+      - hubieren eliminado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - elimina
+      - elimine
+      - eliminemos
+      - eliminad
+      - eliminen
+      cjid: impf

@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|capture}, to {a_link|seize}'
+  fl: transitive verb
+  hwi:
+    hw: apresar
+  meta:
+    id: apresar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601789000'
+    src: spanish
+    stems:
+    - apresar
+    uuid: 7500df18-b3c5-4403-9fb9-b95e21cc4c81
+  shortdef:
+  - to capture, to seize
+  suppl:
+    cjts:
+    - cjfs:
+      - apresando
+      - apresado
+      cjid: gppt
+    - cjfs:
+      - apreso
+      - apresas
+      - apresa
+      - apresamos
+      - "apres\xE1is"
+      - apresan
+      cjid: pind
+    - cjfs:
+      - apresaba
+      - apresabas
+      - apresaba
+      - "apres\xE1bamos"
+      - apresabais
+      - apresaban
+      cjid: pret
+    - cjfs:
+      - "apres\xE9"
+      - apresaste
+      - "apres\xF3"
+      - apresamos
+      - apresasteis
+      - apresaron
+      cjid: pprf
+    - cjfs:
+      - "apresar\xE9"
+      - "apresar\xE1s"
+      - "apresar\xE1"
+      - apresaremos
+      - "apresar\xE9is"
+      - "apresar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "apresar\xEDa"
+      - "apresar\xEDas"
+      - "apresar\xEDa"
+      - "apresar\xEDamos"
+      - "apresar\xEDais"
+      - "apresar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aprese
+      - apreses
+      - aprese
+      - apresemos
+      - "apres\xE9is"
+      - apresen
+      cjid: psub
+    - cjfs:
+      - apresara
+      - apresaras
+      - apresara
+      - "apres\xE1ramos"
+      - apresarais
+      - apresaran
+      cjid: pisb1
+    - cjfs:
+      - apresase
+      - apresases
+      - apresase
+      - "apres\xE1semos"
+      - apresaseis
+      - apresasen
+      cjid: pisb2
+    - cjfs:
+      - apresare
+      - apresares
+      - apresare
+      - "apres\xE1remos"
+      - apresareis
+      - apresaren
+      cjid: fsub
+    - cjfs:
+      - he apresado
+      - has apresado
+      - ha apresado
+      - hemos apresado
+      - "hab\xE9is apresado"
+      - han apresado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa apresado"
+      - "hab\xEDas apresado"
+      - "hab\xEDa apresado"
+      - "hab\xEDamos apresado"
+      - "hab\xEDais apresado"
+      - "hab\xEDan apresado"
+      cjid: ppsi
+    - cjfs:
+      - hube apresado
+      - hubiste apresado
+      - hubo apresado
+      - hubimos apresado
+      - hubisteis apresado
+      - hubieron apresado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 apresado"
+      - "habr\xE1s apresado"
+      - "habr\xE1 apresado"
+      - habremos apresado
+      - "habr\xE9is apresado"
+      - "habr\xE1n apresado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa apresado"
+      - "habr\xEDas apresado"
+      - "habr\xEDa apresado"
+      - "habr\xEDamos apresado"
+      - "habr\xEDais apresado"
+      - "habr\xEDan apresado"
+      cjid: cpef
+    - cjfs:
+      - haya apresado
+      - hayas apresado
+      - haya apresado
+      - hayamos apresado
+      - "hay\xE1is apresado"
+      - hayan apresado
+      cjid: ppfs
+    - cjfs:
+      - hubiera apresado
+      - hubieras apresado
+      - hubiera apresado
+      - "hubi\xE9ramos apresado"
+      - hubierais apresado
+      - hubieran apresado
+      cjid: ppss1
+    - cjfs:
+      - hubiese apresado
+      - hubieses apresado
+      - hubiese apresado
+      - "hubi\xE9semos apresado"
+      - hubieseis apresado
+      - hubiesen apresado
+      cjid: ppss2
+    - cjfs:
+      - hubiere apresado
+      - hubieres apresado
+      - hubiere apresado
+      - "hubi\xE9remos apresado"
+      - hubiereis apresado
+      - hubieren apresado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - apresa
+      - aprese
+      - apresemos
+      - apresad
+      - apresen
+      cjid: impf

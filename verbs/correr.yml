@@ -1,0 +1,451 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run} '
+          - - vis
+            - - t: "corri\xF3 a/hacia la puerta"
+                tr: he ran to/towards the door
+              - t: "sal\xED corriendo"
+                tr: I took off running
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|race} (in sports)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rush} '
+          - - vis
+            - - t: "\xA1corre, que se acaban!"
+                tr: hurry, they're almost gone/done!
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flow}, to {a_link|run}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}at top speed, in a hurry'
+          sn: '5'
+          vrs:
+          - va: a todo correr
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run}, to race in'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|move}, to {a_link|slide}, to {a_link|roll}, to {a_link|draw}
+              (curtains)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be responsible for} '
+          - - vis
+            - - t: correr con los gastos
+                tr: to foot the bill
+          sn: '3'
+          vrs:
+          - va: correr con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in danger'
+          sn: '4'
+          vrs:
+          - va: correr peligro
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run a risk}'
+          sn: '5'
+          vrs:
+          - va: correr un riesgo
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|move along}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|run}, to spill over'
+            sn: '2'
+    drp: correrse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: correr
+    prs:
+    - sound:
+        audio: corre09sp
+  meta:
+    id: correr
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2605946000'
+    src: spanish
+    stems:
+    - correr
+    - a todo correr
+    - correr con
+    - correr peligro
+    - correr un riesgo
+    - correrse
+    uuid: b17a1b00-5983-4cff-9cc3-1eef9f63fb2e
+  shortdef:
+  - to run
+  - to race (in sports)
+  - to rush
+  suppl:
+    cjts:
+    - cjfs:
+      - corriendo
+      - corrido
+      cjid: gppt
+    - cjfs:
+      - corro
+      - corres
+      - corre
+      - corremos
+      - "corr\xE9is"
+      - corren
+      cjid: pind
+    - cjfs:
+      - "corr\xEDa"
+      - "corr\xEDas"
+      - "corr\xEDa"
+      - "corr\xEDamos"
+      - "corr\xEDais"
+      - "corr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "corr\xED"
+      - corriste
+      - "corri\xF3"
+      - corrimos
+      - corristeis
+      - corrieron
+      cjid: pprf
+    - cjfs:
+      - "correr\xE9"
+      - "correr\xE1s"
+      - "correr\xE1"
+      - correremos
+      - "correr\xE9is"
+      - "correr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "correr\xEDa"
+      - "correr\xEDas"
+      - "correr\xEDa"
+      - "correr\xEDamos"
+      - "correr\xEDais"
+      - "correr\xEDan"
+      cjid: cond
+    - cjfs:
+      - corra
+      - corras
+      - corra
+      - corramos
+      - "corr\xE1is"
+      - corran
+      cjid: psub
+    - cjfs:
+      - corriera
+      - corrieras
+      - corriera
+      - "corri\xE9ramos"
+      - corrierais
+      - corrieran
+      cjid: pisb1
+    - cjfs:
+      - corriese
+      - corrieses
+      - corriese
+      - "corri\xE9semos"
+      - corrieseis
+      - corriesen
+      cjid: pisb2
+    - cjfs:
+      - corriere
+      - corrieres
+      - corriere
+      - "corri\xE9remos"
+      - corriereis
+      - corrieren
+      cjid: fsub
+    - cjfs:
+      - he corrido
+      - has corrido
+      - ha corrido
+      - hemos corrido
+      - "hab\xE9is corrido"
+      - han corrido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa corrido"
+      - "hab\xEDas corrido"
+      - "hab\xEDa corrido"
+      - "hab\xEDamos corrido"
+      - "hab\xEDais corrido"
+      - "hab\xEDan corrido"
+      cjid: ppsi
+    - cjfs:
+      - hube corrido
+      - hubiste corrido
+      - hubo corrido
+      - hubimos corrido
+      - hubisteis corrido
+      - hubieron corrido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 corrido"
+      - "habr\xE1s corrido"
+      - "habr\xE1 corrido"
+      - habremos corrido
+      - "habr\xE9is corrido"
+      - "habr\xE1n corrido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa corrido"
+      - "habr\xEDas corrido"
+      - "habr\xEDa corrido"
+      - "habr\xEDamos corrido"
+      - "habr\xEDais corrido"
+      - "habr\xEDan corrido"
+      cjid: cpef
+    - cjfs:
+      - haya corrido
+      - hayas corrido
+      - haya corrido
+      - hayamos corrido
+      - "hay\xE1is corrido"
+      - hayan corrido
+      cjid: ppfs
+    - cjfs:
+      - hubiera corrido
+      - hubieras corrido
+      - hubiera corrido
+      - "hubi\xE9ramos corrido"
+      - hubierais corrido
+      - hubieran corrido
+      cjid: ppss1
+    - cjfs:
+      - hubiese corrido
+      - hubieses corrido
+      - hubiese corrido
+      - "hubi\xE9semos corrido"
+      - hubieseis corrido
+      - hubiesen corrido
+      cjid: ppss2
+    - cjfs:
+      - hubiere corrido
+      - hubieres corrido
+      - hubiere corrido
+      - "hubi\xE9remos corrido"
+      - hubiereis corrido
+      - hubieren corrido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - corre
+      - corra
+      - corramos
+      - corred
+      - corran
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|mouth}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|entrance}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|mouth} (of a jar, etc.), {a_link|muzzle} (of a gun)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}face up'
+          sn: '4'
+          vrs:
+          - va: boca arriba
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}face down'
+          sn: '5'
+          vrs:
+          - va: boca abajo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|pit of the stomach}'
+          sn: '6'
+          vrs:
+          - va: "boca del est\xF3mago"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hydrant}'
+          sn: '7'
+          vrs:
+          - va: boca de riego/incendios
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to spread by word of mouth'
+          sn: '8'
+          vrs:
+          - va: correr de boca en boca
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|mouth-to-mouth} (resuscitation) '
+          - - vis
+            - - t: hacerle el boca a boca a alguien
+                tr: to give someone mouth-to-mouth
+          sn: '9'
+          vrs:
+          - va: el boca a boca
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}on everyone''s lips'
+          sn: '10'
+          vrs:
+          - va: en boca de todos
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|according to}'
+          sn: '11'
+          vrs:
+          - va: por boca de
+  fl: feminine noun
+  hwi:
+    hw: boca
+    prs:
+    - sound:
+        audio: boca001sp
+  meta:
+    id: boca
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603121000'
+    src: spanish
+    stems:
+    - boca
+    - boca arriba
+    - boca abajo
+    - "boca del est\xF3mago"
+    - boca de riego/incendios
+    - boca de incendios
+    - boca de riego
+    - correr de boca en boca
+    - el boca a boca
+    - en boca de todos
+    - por boca de
+    uuid: 1b2096db-0f91-4503-8723-dbc614fa64b0
+  shortdef:
+  - mouth
+  - entrance
+  - mouth (of a jar, etc.), muzzle (of a gun)
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|hurry}, {a_link|rush}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|quickly}, {a_link|fast}'
+          sn: '2'
+          vrs:
+          - va: a prisa
+            vac: a ~
+          - va: de prisa
+            vac: de ~
+            vl: or
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}as fast as possible'
+          sn: '3'
+          vrs:
+          - va: a toda prisa
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|be urgent}'
+          sn: '4'
+          vrs:
+          - va: correr prisa
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hurry}'
+          sn: '5'
+          vrs:
+          - va: darse prisa
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be in a hurry'
+          sn: '6'
+          vrs:
+          - va: tener prisa
+  fl: feminine noun
+  hwi:
+    hw: prisa
+    prs:
+    - sound:
+        audio: prisa01sp
+  meta:
+    id: prisa
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618138000'
+    src: spanish
+    stems:
+    - prisa
+    - a prisa
+    - de prisa
+    - a toda prisa
+    - correr prisa
+    - darse prisa
+    - tener prisa
+    uuid: c8f28d72-f9b9-48da-94b7-ea5306b4d1da
+  shortdef:
+  - hurry, rush
+  - quickly, fast
+  - as fast as possible

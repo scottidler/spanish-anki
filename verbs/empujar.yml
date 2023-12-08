@@ -1,0 +1,196 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|push}, to {a_link|shove}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|push}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|presionar||} {bc}to {a_link|spur on}, to {a_link|press}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: empujar
+    prs:
+    - sound:
+        audio: empuj01sp
+  meta:
+    id: empujar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608374000'
+    src: spanish
+    stems:
+    - empujar
+    uuid: 5a75ae57-ee70-4f5f-9fcb-63f4c0ebea63
+  shortdef:
+  - to push, to shove
+  - to push
+  - 'presionar : to spur on, to press'
+  suppl:
+    cjts:
+    - cjfs:
+      - empujando
+      - empujado
+      cjid: gppt
+    - cjfs:
+      - empujo
+      - empujas
+      - empuja
+      - empujamos
+      - "empuj\xE1is"
+      - empujan
+      cjid: pind
+    - cjfs:
+      - empujaba
+      - empujabas
+      - empujaba
+      - "empuj\xE1bamos"
+      - empujabais
+      - empujaban
+      cjid: pret
+    - cjfs:
+      - "empuj\xE9"
+      - empujaste
+      - "empuj\xF3"
+      - empujamos
+      - empujasteis
+      - empujaron
+      cjid: pprf
+    - cjfs:
+      - "empujar\xE9"
+      - "empujar\xE1s"
+      - "empujar\xE1"
+      - empujaremos
+      - "empujar\xE9is"
+      - "empujar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "empujar\xEDa"
+      - "empujar\xEDas"
+      - "empujar\xEDa"
+      - "empujar\xEDamos"
+      - "empujar\xEDais"
+      - "empujar\xEDan"
+      cjid: cond
+    - cjfs:
+      - empuje
+      - empujes
+      - empuje
+      - empujemos
+      - "empuj\xE9is"
+      - empujen
+      cjid: psub
+    - cjfs:
+      - empujara
+      - empujaras
+      - empujara
+      - "empuj\xE1ramos"
+      - empujarais
+      - empujaran
+      cjid: pisb1
+    - cjfs:
+      - empujase
+      - empujases
+      - empujase
+      - "empuj\xE1semos"
+      - empujaseis
+      - empujasen
+      cjid: pisb2
+    - cjfs:
+      - empujare
+      - empujares
+      - empujare
+      - "empuj\xE1remos"
+      - empujareis
+      - empujaren
+      cjid: fsub
+    - cjfs:
+      - he empujado
+      - has empujado
+      - ha empujado
+      - hemos empujado
+      - "hab\xE9is empujado"
+      - han empujado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa empujado"
+      - "hab\xEDas empujado"
+      - "hab\xEDa empujado"
+      - "hab\xEDamos empujado"
+      - "hab\xEDais empujado"
+      - "hab\xEDan empujado"
+      cjid: ppsi
+    - cjfs:
+      - hube empujado
+      - hubiste empujado
+      - hubo empujado
+      - hubimos empujado
+      - hubisteis empujado
+      - hubieron empujado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 empujado"
+      - "habr\xE1s empujado"
+      - "habr\xE1 empujado"
+      - habremos empujado
+      - "habr\xE9is empujado"
+      - "habr\xE1n empujado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa empujado"
+      - "habr\xEDas empujado"
+      - "habr\xEDa empujado"
+      - "habr\xEDamos empujado"
+      - "habr\xEDais empujado"
+      - "habr\xEDan empujado"
+      cjid: cpef
+    - cjfs:
+      - haya empujado
+      - hayas empujado
+      - haya empujado
+      - hayamos empujado
+      - "hay\xE1is empujado"
+      - hayan empujado
+      cjid: ppfs
+    - cjfs:
+      - hubiera empujado
+      - hubieras empujado
+      - hubiera empujado
+      - "hubi\xE9ramos empujado"
+      - hubierais empujado
+      - hubieran empujado
+      cjid: ppss1
+    - cjfs:
+      - hubiese empujado
+      - hubieses empujado
+      - hubiese empujado
+      - "hubi\xE9semos empujado"
+      - hubieseis empujado
+      - hubiesen empujado
+      cjid: ppss2
+    - cjfs:
+      - hubiere empujado
+      - hubieres empujado
+      - hubiere empujado
+      - "hubi\xE9remos empujado"
+      - hubiereis empujado
+      - hubieren empujado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - empuja
+      - empuje
+      - empujemos
+      - empujad
+      - empujen
+      cjid: impf

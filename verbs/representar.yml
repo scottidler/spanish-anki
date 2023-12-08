@@ -1,0 +1,215 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|represent}, to act for'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|perform}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look}, to appear as'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|symbolize}, to {a_link|stand for}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|signify}, to {a_link|mean}'
+          sn: '5'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|imagine}, to {a_link|picture}'
+    drp: representarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: representar
+    prs:
+    - sound:
+        audio: repre06sp
+  meta:
+    id: representar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619483000'
+    src: spanish
+    stems:
+    - representar
+    - representarse
+    uuid: 06846c96-b522-4860-ab48-bedd2e422505
+  shortdef:
+  - to represent, to act for
+  - to perform
+  - to look, to appear as
+  suppl:
+    cjts:
+    - cjfs:
+      - representando
+      - representado
+      cjid: gppt
+    - cjfs:
+      - represento
+      - representas
+      - representa
+      - representamos
+      - "represent\xE1is"
+      - representan
+      cjid: pind
+    - cjfs:
+      - representaba
+      - representabas
+      - representaba
+      - "represent\xE1bamos"
+      - representabais
+      - representaban
+      cjid: pret
+    - cjfs:
+      - "represent\xE9"
+      - representaste
+      - "represent\xF3"
+      - representamos
+      - representasteis
+      - representaron
+      cjid: pprf
+    - cjfs:
+      - "representar\xE9"
+      - "representar\xE1s"
+      - "representar\xE1"
+      - representaremos
+      - "representar\xE9is"
+      - "representar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "representar\xEDa"
+      - "representar\xEDas"
+      - "representar\xEDa"
+      - "representar\xEDamos"
+      - "representar\xEDais"
+      - "representar\xEDan"
+      cjid: cond
+    - cjfs:
+      - represente
+      - representes
+      - represente
+      - representemos
+      - "represent\xE9is"
+      - representen
+      cjid: psub
+    - cjfs:
+      - representara
+      - representaras
+      - representara
+      - "represent\xE1ramos"
+      - representarais
+      - representaran
+      cjid: pisb1
+    - cjfs:
+      - representase
+      - representases
+      - representase
+      - "represent\xE1semos"
+      - representaseis
+      - representasen
+      cjid: pisb2
+    - cjfs:
+      - representare
+      - representares
+      - representare
+      - "represent\xE1remos"
+      - representareis
+      - representaren
+      cjid: fsub
+    - cjfs:
+      - he representado
+      - has representado
+      - ha representado
+      - hemos representado
+      - "hab\xE9is representado"
+      - han representado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa representado"
+      - "hab\xEDas representado"
+      - "hab\xEDa representado"
+      - "hab\xEDamos representado"
+      - "hab\xEDais representado"
+      - "hab\xEDan representado"
+      cjid: ppsi
+    - cjfs:
+      - hube representado
+      - hubiste representado
+      - hubo representado
+      - hubimos representado
+      - hubisteis representado
+      - hubieron representado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 representado"
+      - "habr\xE1s representado"
+      - "habr\xE1 representado"
+      - habremos representado
+      - "habr\xE9is representado"
+      - "habr\xE1n representado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa representado"
+      - "habr\xEDas representado"
+      - "habr\xEDa representado"
+      - "habr\xEDamos representado"
+      - "habr\xEDais representado"
+      - "habr\xEDan representado"
+      cjid: cpef
+    - cjfs:
+      - haya representado
+      - hayas representado
+      - haya representado
+      - hayamos representado
+      - "hay\xE1is representado"
+      - hayan representado
+      cjid: ppfs
+    - cjfs:
+      - hubiera representado
+      - hubieras representado
+      - hubiera representado
+      - "hubi\xE9ramos representado"
+      - hubierais representado
+      - hubieran representado
+      cjid: ppss1
+    - cjfs:
+      - hubiese representado
+      - hubieses representado
+      - hubiese representado
+      - "hubi\xE9semos representado"
+      - hubieseis representado
+      - hubiesen representado
+      cjid: ppss2
+    - cjfs:
+      - hubiere representado
+      - hubieres representado
+      - hubiere representado
+      - "hubi\xE9remos representado"
+      - hubiereis representado
+      - hubieren representado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - representa
+      - represente
+      - representemos
+      - representad
+      - representen
+      cjid: impf

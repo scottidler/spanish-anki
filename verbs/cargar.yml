@@ -1,0 +1,238 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|carry}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|load}, to {a_link|fill}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|charge}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|burden} '
+          - - vis
+            - - t: cargado de deudas
+                tr: burdened with debts
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|subir||} {bc}to {a_link|upload}'
+          sn: '5'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|load}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rest} (in architecture)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|shoulder}, to {a_link|take on} (a responsibility, etc.)'
+          sn: '3'
+          vrs:
+          - va: cargar con
+            vac: ~ con
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to fall upon'
+          sn: '4'
+          vrs:
+          - va: cargar sobre
+            vac: ~ sobre
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: cargar
+    prs:
+    - sound:
+        audio: carga04sp
+  meta:
+    id: cargar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604013000'
+    src: spanish
+    stems:
+    - cargar
+    - cargar con
+    - cargar sobre
+    uuid: d888fa89-0037-49df-a00b-154cbae0bc27
+  shortdef:
+  - to carry
+  - to load, to fill
+  - to charge
+  suppl:
+    cjts:
+    - cjfs:
+      - cargando
+      - cargado
+      cjid: gppt
+    - cjfs:
+      - cargo
+      - cargas
+      - carga
+      - cargamos
+      - "carg\xE1is"
+      - cargan
+      cjid: pind
+    - cjfs:
+      - cargaba
+      - cargabas
+      - cargaba
+      - "carg\xE1bamos"
+      - cargabais
+      - cargaban
+      cjid: pret
+    - cjfs:
+      - "cargu\xE9"
+      - cargaste
+      - "carg\xF3"
+      - cargamos
+      - cargasteis
+      - cargaron
+      cjid: pprf
+    - cjfs:
+      - "cargar\xE9"
+      - "cargar\xE1s"
+      - "cargar\xE1"
+      - cargaremos
+      - "cargar\xE9is"
+      - "cargar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cargar\xEDa"
+      - "cargar\xEDas"
+      - "cargar\xEDa"
+      - "cargar\xEDamos"
+      - "cargar\xEDais"
+      - "cargar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cargue
+      - cargues
+      - cargue
+      - carguemos
+      - "cargu\xE9is"
+      - carguen
+      cjid: psub
+    - cjfs:
+      - cargara
+      - cargaras
+      - cargara
+      - "carg\xE1ramos"
+      - cargarais
+      - cargaran
+      cjid: pisb1
+    - cjfs:
+      - cargase
+      - cargases
+      - cargase
+      - "carg\xE1semos"
+      - cargaseis
+      - cargasen
+      cjid: pisb2
+    - cjfs:
+      - cargare
+      - cargares
+      - cargare
+      - "carg\xE1remos"
+      - cargareis
+      - cargaren
+      cjid: fsub
+    - cjfs:
+      - he cargado
+      - has cargado
+      - ha cargado
+      - hemos cargado
+      - "hab\xE9is cargado"
+      - han cargado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cargado"
+      - "hab\xEDas cargado"
+      - "hab\xEDa cargado"
+      - "hab\xEDamos cargado"
+      - "hab\xEDais cargado"
+      - "hab\xEDan cargado"
+      cjid: ppsi
+    - cjfs:
+      - hube cargado
+      - hubiste cargado
+      - hubo cargado
+      - hubimos cargado
+      - hubisteis cargado
+      - hubieron cargado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cargado"
+      - "habr\xE1s cargado"
+      - "habr\xE1 cargado"
+      - habremos cargado
+      - "habr\xE9is cargado"
+      - "habr\xE1n cargado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cargado"
+      - "habr\xEDas cargado"
+      - "habr\xEDa cargado"
+      - "habr\xEDamos cargado"
+      - "habr\xEDais cargado"
+      - "habr\xEDan cargado"
+      cjid: cpef
+    - cjfs:
+      - haya cargado
+      - hayas cargado
+      - haya cargado
+      - hayamos cargado
+      - "hay\xE1is cargado"
+      - hayan cargado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cargado
+      - hubieras cargado
+      - hubiera cargado
+      - "hubi\xE9ramos cargado"
+      - hubierais cargado
+      - hubieran cargado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cargado
+      - hubieses cargado
+      - hubiese cargado
+      - "hubi\xE9semos cargado"
+      - hubieseis cargado
+      - hubiesen cargado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cargado
+      - hubieres cargado
+      - hubiere cargado
+      - "hubi\xE9remos cargado"
+      - hubiereis cargado
+      - hubieren cargado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - carga
+      - cargue
+      - carguemos
+      - cargad
+      - carguen
+      cjid: impf

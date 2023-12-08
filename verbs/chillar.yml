@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|squeal}, to {a_link|screech}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|scream}, to {a_link|yell}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be gaudy, to {a_link|clash}'
+          sn: '3'
+  fl: intransitive verb
+  hwi:
+    hw: chillar
+    prs:
+    - sound:
+        audio: chill01sp
+  meta:
+    id: chillar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604568000'
+    src: spanish
+    stems:
+    - chillar
+    uuid: c7414076-598a-4d98-9acc-540e444de546
+  shortdef:
+  - to squeal, to screech
+  - to scream, to yell
+  - to be gaudy, to clash
+  suppl:
+    cjts:
+    - cjfs:
+      - chillando
+      - chillado
+      cjid: gppt
+    - cjfs:
+      - chillo
+      - chillas
+      - chilla
+      - chillamos
+      - "chill\xE1is"
+      - chillan
+      cjid: pind
+    - cjfs:
+      - chillaba
+      - chillabas
+      - chillaba
+      - "chill\xE1bamos"
+      - chillabais
+      - chillaban
+      cjid: pret
+    - cjfs:
+      - "chill\xE9"
+      - chillaste
+      - "chill\xF3"
+      - chillamos
+      - chillasteis
+      - chillaron
+      cjid: pprf
+    - cjfs:
+      - "chillar\xE9"
+      - "chillar\xE1s"
+      - "chillar\xE1"
+      - chillaremos
+      - "chillar\xE9is"
+      - "chillar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "chillar\xEDa"
+      - "chillar\xEDas"
+      - "chillar\xEDa"
+      - "chillar\xEDamos"
+      - "chillar\xEDais"
+      - "chillar\xEDan"
+      cjid: cond
+    - cjfs:
+      - chille
+      - chilles
+      - chille
+      - chillemos
+      - "chill\xE9is"
+      - chillen
+      cjid: psub
+    - cjfs:
+      - chillara
+      - chillaras
+      - chillara
+      - "chill\xE1ramos"
+      - chillarais
+      - chillaran
+      cjid: pisb1
+    - cjfs:
+      - chillase
+      - chillases
+      - chillase
+      - "chill\xE1semos"
+      - chillaseis
+      - chillasen
+      cjid: pisb2
+    - cjfs:
+      - chillare
+      - chillares
+      - chillare
+      - "chill\xE1remos"
+      - chillareis
+      - chillaren
+      cjid: fsub
+    - cjfs:
+      - he chillado
+      - has chillado
+      - ha chillado
+      - hemos chillado
+      - "hab\xE9is chillado"
+      - han chillado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa chillado"
+      - "hab\xEDas chillado"
+      - "hab\xEDa chillado"
+      - "hab\xEDamos chillado"
+      - "hab\xEDais chillado"
+      - "hab\xEDan chillado"
+      cjid: ppsi
+    - cjfs:
+      - hube chillado
+      - hubiste chillado
+      - hubo chillado
+      - hubimos chillado
+      - hubisteis chillado
+      - hubieron chillado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 chillado"
+      - "habr\xE1s chillado"
+      - "habr\xE1 chillado"
+      - habremos chillado
+      - "habr\xE9is chillado"
+      - "habr\xE1n chillado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa chillado"
+      - "habr\xEDas chillado"
+      - "habr\xEDa chillado"
+      - "habr\xEDamos chillado"
+      - "habr\xEDais chillado"
+      - "habr\xEDan chillado"
+      cjid: cpef
+    - cjfs:
+      - haya chillado
+      - hayas chillado
+      - haya chillado
+      - hayamos chillado
+      - "hay\xE1is chillado"
+      - hayan chillado
+      cjid: ppfs
+    - cjfs:
+      - hubiera chillado
+      - hubieras chillado
+      - hubiera chillado
+      - "hubi\xE9ramos chillado"
+      - hubierais chillado
+      - hubieran chillado
+      cjid: ppss1
+    - cjfs:
+      - hubiese chillado
+      - hubieses chillado
+      - hubiese chillado
+      - "hubi\xE9semos chillado"
+      - hubieseis chillado
+      - hubiesen chillado
+      cjid: ppss2
+    - cjfs:
+      - hubiere chillado
+      - hubieres chillado
+      - hubiere chillado
+      - "hubi\xE9remos chillado"
+      - hubiereis chillado
+      - hubieren chillado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - chilla
+      - chille
+      - chillemos
+      - chillad
+      - chillen
+      cjid: impf

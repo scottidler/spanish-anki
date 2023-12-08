@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pack}, to {a_link|cram}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to crowd together, to {a_link|huddle}'
+    drp: "api\xF1arse"
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: "api\xF1ar"
+  meta:
+    id: apinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601711000'
+    src: spanish
+    stems:
+    - "api\xF1ar"
+    - "api\xF1arse"
+    uuid: b674dcff-c1b5-49f4-a8de-82ce71226b2f
+  shortdef:
+  - to pack, to cram
+  suppl:
+    cjts:
+    - cjfs:
+      - "api\xF1ando"
+      - "api\xF1ado"
+      cjid: gppt
+    - cjfs:
+      - "api\xF1o"
+      - "api\xF1as"
+      - "api\xF1a"
+      - "api\xF1amos"
+      - "api\xF1\xE1is"
+      - "api\xF1an"
+      cjid: pind
+    - cjfs:
+      - "api\xF1aba"
+      - "api\xF1abas"
+      - "api\xF1aba"
+      - "api\xF1\xE1bamos"
+      - "api\xF1abais"
+      - "api\xF1aban"
+      cjid: pret
+    - cjfs:
+      - "api\xF1\xE9"
+      - "api\xF1aste"
+      - "api\xF1\xF3"
+      - "api\xF1amos"
+      - "api\xF1asteis"
+      - "api\xF1aron"
+      cjid: pprf
+    - cjfs:
+      - "api\xF1ar\xE9"
+      - "api\xF1ar\xE1s"
+      - "api\xF1ar\xE1"
+      - "api\xF1aremos"
+      - "api\xF1ar\xE9is"
+      - "api\xF1ar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "api\xF1ar\xEDa"
+      - "api\xF1ar\xEDas"
+      - "api\xF1ar\xEDa"
+      - "api\xF1ar\xEDamos"
+      - "api\xF1ar\xEDais"
+      - "api\xF1ar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "api\xF1e"
+      - "api\xF1es"
+      - "api\xF1e"
+      - "api\xF1emos"
+      - "api\xF1\xE9is"
+      - "api\xF1en"
+      cjid: psub
+    - cjfs:
+      - "api\xF1ara"
+      - "api\xF1aras"
+      - "api\xF1ara"
+      - "api\xF1\xE1ramos"
+      - "api\xF1arais"
+      - "api\xF1aran"
+      cjid: pisb1
+    - cjfs:
+      - "api\xF1ase"
+      - "api\xF1ases"
+      - "api\xF1ase"
+      - "api\xF1\xE1semos"
+      - "api\xF1aseis"
+      - "api\xF1asen"
+      cjid: pisb2
+    - cjfs:
+      - "api\xF1are"
+      - "api\xF1ares"
+      - "api\xF1are"
+      - "api\xF1\xE1remos"
+      - "api\xF1areis"
+      - "api\xF1aren"
+      cjid: fsub
+    - cjfs:
+      - "he api\xF1ado"
+      - "has api\xF1ado"
+      - "ha api\xF1ado"
+      - "hemos api\xF1ado"
+      - "hab\xE9is api\xF1ado"
+      - "han api\xF1ado"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa api\xF1ado"
+      - "hab\xEDas api\xF1ado"
+      - "hab\xEDa api\xF1ado"
+      - "hab\xEDamos api\xF1ado"
+      - "hab\xEDais api\xF1ado"
+      - "hab\xEDan api\xF1ado"
+      cjid: ppsi
+    - cjfs:
+      - "hube api\xF1ado"
+      - "hubiste api\xF1ado"
+      - "hubo api\xF1ado"
+      - "hubimos api\xF1ado"
+      - "hubisteis api\xF1ado"
+      - "hubieron api\xF1ado"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 api\xF1ado"
+      - "habr\xE1s api\xF1ado"
+      - "habr\xE1 api\xF1ado"
+      - "habremos api\xF1ado"
+      - "habr\xE9is api\xF1ado"
+      - "habr\xE1n api\xF1ado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa api\xF1ado"
+      - "habr\xEDas api\xF1ado"
+      - "habr\xEDa api\xF1ado"
+      - "habr\xEDamos api\xF1ado"
+      - "habr\xEDais api\xF1ado"
+      - "habr\xEDan api\xF1ado"
+      cjid: cpef
+    - cjfs:
+      - "haya api\xF1ado"
+      - "hayas api\xF1ado"
+      - "haya api\xF1ado"
+      - "hayamos api\xF1ado"
+      - "hay\xE1is api\xF1ado"
+      - "hayan api\xF1ado"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera api\xF1ado"
+      - "hubieras api\xF1ado"
+      - "hubiera api\xF1ado"
+      - "hubi\xE9ramos api\xF1ado"
+      - "hubierais api\xF1ado"
+      - "hubieran api\xF1ado"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese api\xF1ado"
+      - "hubieses api\xF1ado"
+      - "hubiese api\xF1ado"
+      - "hubi\xE9semos api\xF1ado"
+      - "hubieseis api\xF1ado"
+      - "hubiesen api\xF1ado"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere api\xF1ado"
+      - "hubieres api\xF1ado"
+      - "hubiere api\xF1ado"
+      - "hubi\xE9remos api\xF1ado"
+      - "hubiereis api\xF1ado"
+      - "hubieren api\xF1ado"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "api\xF1a"
+      - "api\xF1e"
+      - "api\xF1emos"
+      - "api\xF1ad"
+      - "api\xF1en"
+      cjid: impf

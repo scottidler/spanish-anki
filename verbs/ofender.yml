@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|agraviar||} {bc}to {a_link|offend}, to {a_link|insult}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|offend}, to be insulting'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take offense'
+    drp: ofenderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: ofender
+    prs:
+    - sound:
+        audio: ofend01sp
+  meta:
+    id: ofender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616103000'
+    src: spanish
+    stems:
+    - ofender
+    - ofenderse
+    uuid: 864d7ca7-af46-4cae-9027-ff0f6651f190
+  shortdef:
+  - 'agraviar : to offend, to insult'
+  - to offend, to be insulting
+  suppl:
+    cjts:
+    - cjfs:
+      - ofendiendo
+      - ofendido
+      cjid: gppt
+    - cjfs:
+      - ofendo
+      - ofendes
+      - ofende
+      - ofendemos
+      - "ofend\xE9is"
+      - ofenden
+      cjid: pind
+    - cjfs:
+      - "ofend\xEDa"
+      - "ofend\xEDas"
+      - "ofend\xEDa"
+      - "ofend\xEDamos"
+      - "ofend\xEDais"
+      - "ofend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ofend\xED"
+      - ofendiste
+      - "ofendi\xF3"
+      - ofendimos
+      - ofendisteis
+      - ofendieron
+      cjid: pprf
+    - cjfs:
+      - "ofender\xE9"
+      - "ofender\xE1s"
+      - "ofender\xE1"
+      - ofenderemos
+      - "ofender\xE9is"
+      - "ofender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ofender\xEDa"
+      - "ofender\xEDas"
+      - "ofender\xEDa"
+      - "ofender\xEDamos"
+      - "ofender\xEDais"
+      - "ofender\xEDan"
+      cjid: cond
+    - cjfs:
+      - ofenda
+      - ofendas
+      - ofenda
+      - ofendamos
+      - "ofend\xE1is"
+      - ofendan
+      cjid: psub
+    - cjfs:
+      - ofendiera
+      - ofendieras
+      - ofendiera
+      - "ofendi\xE9ramos"
+      - ofendierais
+      - ofendieran
+      cjid: pisb1
+    - cjfs:
+      - ofendiese
+      - ofendieses
+      - ofendiese
+      - "ofendi\xE9semos"
+      - ofendieseis
+      - ofendiesen
+      cjid: pisb2
+    - cjfs:
+      - ofendiere
+      - ofendieres
+      - ofendiere
+      - "ofendi\xE9remos"
+      - ofendiereis
+      - ofendieren
+      cjid: fsub
+    - cjfs:
+      - he ofendido
+      - has ofendido
+      - ha ofendido
+      - hemos ofendido
+      - "hab\xE9is ofendido"
+      - han ofendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ofendido"
+      - "hab\xEDas ofendido"
+      - "hab\xEDa ofendido"
+      - "hab\xEDamos ofendido"
+      - "hab\xEDais ofendido"
+      - "hab\xEDan ofendido"
+      cjid: ppsi
+    - cjfs:
+      - hube ofendido
+      - hubiste ofendido
+      - hubo ofendido
+      - hubimos ofendido
+      - hubisteis ofendido
+      - hubieron ofendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ofendido"
+      - "habr\xE1s ofendido"
+      - "habr\xE1 ofendido"
+      - habremos ofendido
+      - "habr\xE9is ofendido"
+      - "habr\xE1n ofendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ofendido"
+      - "habr\xEDas ofendido"
+      - "habr\xEDa ofendido"
+      - "habr\xEDamos ofendido"
+      - "habr\xEDais ofendido"
+      - "habr\xEDan ofendido"
+      cjid: cpef
+    - cjfs:
+      - haya ofendido
+      - hayas ofendido
+      - haya ofendido
+      - hayamos ofendido
+      - "hay\xE1is ofendido"
+      - hayan ofendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ofendido
+      - hubieras ofendido
+      - hubiera ofendido
+      - "hubi\xE9ramos ofendido"
+      - hubierais ofendido
+      - hubieran ofendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ofendido
+      - hubieses ofendido
+      - hubiese ofendido
+      - "hubi\xE9semos ofendido"
+      - hubieseis ofendido
+      - hubiesen ofendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ofendido
+      - hubieres ofendido
+      - hubiere ofendido
+      - "hubi\xE9remos ofendido"
+      - hubiereis ofendido
+      - hubieren ofendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ofende
+      - ofenda
+      - ofendamos
+      - ofended
+      - ofendan
+      cjid: impf

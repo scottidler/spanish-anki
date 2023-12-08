@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cluck}'
+  fl: intransitive verb
+  hwi:
+    hw: cloquear
+  meta:
+    id: cloquear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604900000'
+    src: spanish
+    stems:
+    - cloquear
+    uuid: 97b4e2c8-140d-48e6-b409-2f5fd3907772
+  shortdef:
+  - to cluck
+  suppl:
+    cjts:
+    - cjfs:
+      - cloqueando
+      - cloqueado
+      cjid: gppt
+    - cjfs:
+      - cloqueo
+      - cloqueas
+      - cloquea
+      - cloqueamos
+      - "cloque\xE1is"
+      - cloquean
+      cjid: pind
+    - cjfs:
+      - cloqueaba
+      - cloqueabas
+      - cloqueaba
+      - "cloque\xE1bamos"
+      - cloqueabais
+      - cloqueaban
+      cjid: pret
+    - cjfs:
+      - "cloque\xE9"
+      - cloqueaste
+      - "cloque\xF3"
+      - cloqueamos
+      - cloqueasteis
+      - cloquearon
+      cjid: pprf
+    - cjfs:
+      - "cloquear\xE9"
+      - "cloquear\xE1s"
+      - "cloquear\xE1"
+      - cloquearemos
+      - "cloquear\xE9is"
+      - "cloquear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cloquear\xEDa"
+      - "cloquear\xEDas"
+      - "cloquear\xEDa"
+      - "cloquear\xEDamos"
+      - "cloquear\xEDais"
+      - "cloquear\xEDan"
+      cjid: cond
+    - cjfs:
+      - cloquee
+      - cloquees
+      - cloquee
+      - cloqueemos
+      - "cloque\xE9is"
+      - cloqueen
+      cjid: psub
+    - cjfs:
+      - cloqueara
+      - cloquearas
+      - cloqueara
+      - "cloque\xE1ramos"
+      - cloquearais
+      - cloquearan
+      cjid: pisb1
+    - cjfs:
+      - cloquease
+      - cloqueases
+      - cloquease
+      - "cloque\xE1semos"
+      - cloqueaseis
+      - cloqueasen
+      cjid: pisb2
+    - cjfs:
+      - cloqueare
+      - cloqueares
+      - cloqueare
+      - "cloque\xE1remos"
+      - cloqueareis
+      - cloquearen
+      cjid: fsub
+    - cjfs:
+      - he cloqueado
+      - has cloqueado
+      - ha cloqueado
+      - hemos cloqueado
+      - "hab\xE9is cloqueado"
+      - han cloqueado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cloqueado"
+      - "hab\xEDas cloqueado"
+      - "hab\xEDa cloqueado"
+      - "hab\xEDamos cloqueado"
+      - "hab\xEDais cloqueado"
+      - "hab\xEDan cloqueado"
+      cjid: ppsi
+    - cjfs:
+      - hube cloqueado
+      - hubiste cloqueado
+      - hubo cloqueado
+      - hubimos cloqueado
+      - hubisteis cloqueado
+      - hubieron cloqueado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cloqueado"
+      - "habr\xE1s cloqueado"
+      - "habr\xE1 cloqueado"
+      - habremos cloqueado
+      - "habr\xE9is cloqueado"
+      - "habr\xE1n cloqueado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cloqueado"
+      - "habr\xEDas cloqueado"
+      - "habr\xEDa cloqueado"
+      - "habr\xEDamos cloqueado"
+      - "habr\xEDais cloqueado"
+      - "habr\xEDan cloqueado"
+      cjid: cpef
+    - cjfs:
+      - haya cloqueado
+      - hayas cloqueado
+      - haya cloqueado
+      - hayamos cloqueado
+      - "hay\xE1is cloqueado"
+      - hayan cloqueado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cloqueado
+      - hubieras cloqueado
+      - hubiera cloqueado
+      - "hubi\xE9ramos cloqueado"
+      - hubierais cloqueado
+      - hubieran cloqueado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cloqueado
+      - hubieses cloqueado
+      - hubiese cloqueado
+      - "hubi\xE9semos cloqueado"
+      - hubieseis cloqueado
+      - hubiesen cloqueado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cloqueado
+      - hubieres cloqueado
+      - hubiere cloqueado
+      - "hubi\xE9remos cloqueado"
+      - hubiereis cloqueado
+      - hubieren cloqueado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cloquea
+      - cloquee
+      - cloqueemos
+      - cloquead
+      - cloqueen
+      cjid: impf

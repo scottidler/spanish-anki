@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|ring} (a bell)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|play} (a musical instrument)'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: "ta\xF1er"
+    prs:
+    - sound:
+        audio: taner01sp
+  meta:
+    id: taner
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2621464000'
+    src: spanish
+    stems:
+    - "ta\xF1er"
+    uuid: 1fa26e62-83f6-42a1-9446-52100a07eafd
+  shortdef:
+  - to ring (a bell)
+  - to play (a musical instrument)
+  suppl:
+    cjts:
+    - cjfs:
+      - "ta\xF1endo"
+      - "ta\xF1ido"
+      cjid: gppt
+    - cjfs:
+      - "ta\xF1o"
+      - "ta\xF1es"
+      - "ta\xF1e"
+      - "ta\xF1emos"
+      - "ta\xF1\xE9is"
+      - "ta\xF1en"
+      cjid: pind
+    - cjfs:
+      - "ta\xF1\xEDa"
+      - "ta\xF1\xEDas"
+      - "ta\xF1\xEDa"
+      - "ta\xF1\xEDamos"
+      - "ta\xF1\xEDais"
+      - "ta\xF1\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ta\xF1\xED"
+      - "ta\xF1iste"
+      - "ta\xF1\xF3"
+      - "ta\xF1imos"
+      - "ta\xF1isteis"
+      - "ta\xF1eron"
+      cjid: pprf
+    - cjfs:
+      - "ta\xF1er\xE9"
+      - "ta\xF1er\xE1s"
+      - "ta\xF1er\xE1"
+      - "ta\xF1eremos"
+      - "ta\xF1er\xE9is"
+      - "ta\xF1er\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ta\xF1er\xEDa"
+      - "ta\xF1er\xEDas"
+      - "ta\xF1er\xEDa"
+      - "ta\xF1er\xEDamos"
+      - "ta\xF1er\xEDais"
+      - "ta\xF1er\xEDan"
+      cjid: cond
+    - cjfs:
+      - "ta\xF1a"
+      - "ta\xF1as"
+      - "ta\xF1a"
+      - "ta\xF1amos"
+      - "ta\xF1\xE1is"
+      - "ta\xF1an"
+      cjid: psub
+    - cjfs:
+      - "ta\xF1era"
+      - "ta\xF1eras"
+      - "ta\xF1era"
+      - "ta\xF1\xE9ramos"
+      - "ta\xF1erais"
+      - "ta\xF1eran"
+      cjid: pisb1
+    - cjfs:
+      - "ta\xF1ese"
+      - "ta\xF1eses"
+      - "ta\xF1ese"
+      - "ta\xF1\xE9semos"
+      - "ta\xF1eseis"
+      - "ta\xF1esen"
+      cjid: pisb2
+    - cjfs:
+      - "ta\xF1ere"
+      - "ta\xF1eres"
+      - "ta\xF1ere"
+      - "ta\xF1\xE9remos"
+      - "ta\xF1ereis"
+      - "ta\xF1eren"
+      cjid: fsub
+    - cjfs:
+      - "he ta\xF1ido"
+      - "has ta\xF1ido"
+      - "ha ta\xF1ido"
+      - "hemos ta\xF1ido"
+      - "hab\xE9is ta\xF1ido"
+      - "han ta\xF1ido"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ta\xF1ido"
+      - "hab\xEDas ta\xF1ido"
+      - "hab\xEDa ta\xF1ido"
+      - "hab\xEDamos ta\xF1ido"
+      - "hab\xEDais ta\xF1ido"
+      - "hab\xEDan ta\xF1ido"
+      cjid: ppsi
+    - cjfs:
+      - "hube ta\xF1ido"
+      - "hubiste ta\xF1ido"
+      - "hubo ta\xF1ido"
+      - "hubimos ta\xF1ido"
+      - "hubisteis ta\xF1ido"
+      - "hubieron ta\xF1ido"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ta\xF1ido"
+      - "habr\xE1s ta\xF1ido"
+      - "habr\xE1 ta\xF1ido"
+      - "habremos ta\xF1ido"
+      - "habr\xE9is ta\xF1ido"
+      - "habr\xE1n ta\xF1ido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ta\xF1ido"
+      - "habr\xEDas ta\xF1ido"
+      - "habr\xEDa ta\xF1ido"
+      - "habr\xEDamos ta\xF1ido"
+      - "habr\xEDais ta\xF1ido"
+      - "habr\xEDan ta\xF1ido"
+      cjid: cpef
+    - cjfs:
+      - "haya ta\xF1ido"
+      - "hayas ta\xF1ido"
+      - "haya ta\xF1ido"
+      - "hayamos ta\xF1ido"
+      - "hay\xE1is ta\xF1ido"
+      - "hayan ta\xF1ido"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera ta\xF1ido"
+      - "hubieras ta\xF1ido"
+      - "hubiera ta\xF1ido"
+      - "hubi\xE9ramos ta\xF1ido"
+      - "hubierais ta\xF1ido"
+      - "hubieran ta\xF1ido"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese ta\xF1ido"
+      - "hubieses ta\xF1ido"
+      - "hubiese ta\xF1ido"
+      - "hubi\xE9semos ta\xF1ido"
+      - "hubieseis ta\xF1ido"
+      - "hubiesen ta\xF1ido"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere ta\xF1ido"
+      - "hubieres ta\xF1ido"
+      - "hubiere ta\xF1ido"
+      - "hubi\xE9remos ta\xF1ido"
+      - "hubiereis ta\xF1ido"
+      - "hubieren ta\xF1ido"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "ta\xF1e"
+      - "ta\xF1a"
+      - "ta\xF1amos"
+      - "ta\xF1ed"
+      - "ta\xF1an"
+      cjid: impf

@@ -1,0 +1,226 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fasten}, to {a_link|affix}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|establecer||} {bc}to {a_link|establish}, to {a_link|set up} '
+          - - vis
+            - - t: fijar su residencia
+                tr: to take up residence
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|concretar||} {bc}to {a_link|set}, to {a_link|fix} '
+          - - vis
+            - - t: fijar la fecha
+                tr: to set the date
+              - t: "fijar la atenci\xF3n en"
+                tr: to focus one's attention on
+              - t: fijar la mirada en
+                tr: to fix one's gaze on
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|settle}, to become fixed'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|notice} '
+            - - vis
+              - - t: fijarse en algo
+                  tr: to notice something, to pay attention to something
+                - t: "me he fijado que \u2026"
+                  tr: "I noticed that \u2026"
+            sn: '2'
+    drp: fijarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: fijar
+    prs:
+    - sound:
+        audio: fijar01sp
+  meta:
+    id: fijar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610085000'
+    src: spanish
+    stems:
+    - fijar
+    - fijarse
+    uuid: 444918c1-c5a2-4c9f-87a8-91fb6d09b61e
+  shortdef:
+  - to fasten, to affix
+  - 'establecer : to establish, to set up'
+  - 'concretar : to set, to fix'
+  suppl:
+    cjts:
+    - cjfs:
+      - fijando
+      - fijado
+      cjid: gppt
+    - cjfs:
+      - fijo
+      - fijas
+      - fija
+      - fijamos
+      - "fij\xE1is"
+      - fijan
+      cjid: pind
+    - cjfs:
+      - fijaba
+      - fijabas
+      - fijaba
+      - "fij\xE1bamos"
+      - fijabais
+      - fijaban
+      cjid: pret
+    - cjfs:
+      - "fij\xE9"
+      - fijaste
+      - "fij\xF3"
+      - fijamos
+      - fijasteis
+      - fijaron
+      cjid: pprf
+    - cjfs:
+      - "fijar\xE9"
+      - "fijar\xE1s"
+      - "fijar\xE1"
+      - fijaremos
+      - "fijar\xE9is"
+      - "fijar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "fijar\xEDa"
+      - "fijar\xEDas"
+      - "fijar\xEDa"
+      - "fijar\xEDamos"
+      - "fijar\xEDais"
+      - "fijar\xEDan"
+      cjid: cond
+    - cjfs:
+      - fije
+      - fijes
+      - fije
+      - fijemos
+      - "fij\xE9is"
+      - fijen
+      cjid: psub
+    - cjfs:
+      - fijara
+      - fijaras
+      - fijara
+      - "fij\xE1ramos"
+      - fijarais
+      - fijaran
+      cjid: pisb1
+    - cjfs:
+      - fijase
+      - fijases
+      - fijase
+      - "fij\xE1semos"
+      - fijaseis
+      - fijasen
+      cjid: pisb2
+    - cjfs:
+      - fijare
+      - fijares
+      - fijare
+      - "fij\xE1remos"
+      - fijareis
+      - fijaren
+      cjid: fsub
+    - cjfs:
+      - he fijado
+      - has fijado
+      - ha fijado
+      - hemos fijado
+      - "hab\xE9is fijado"
+      - han fijado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa fijado"
+      - "hab\xEDas fijado"
+      - "hab\xEDa fijado"
+      - "hab\xEDamos fijado"
+      - "hab\xEDais fijado"
+      - "hab\xEDan fijado"
+      cjid: ppsi
+    - cjfs:
+      - hube fijado
+      - hubiste fijado
+      - hubo fijado
+      - hubimos fijado
+      - hubisteis fijado
+      - hubieron fijado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 fijado"
+      - "habr\xE1s fijado"
+      - "habr\xE1 fijado"
+      - habremos fijado
+      - "habr\xE9is fijado"
+      - "habr\xE1n fijado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa fijado"
+      - "habr\xEDas fijado"
+      - "habr\xEDa fijado"
+      - "habr\xEDamos fijado"
+      - "habr\xEDais fijado"
+      - "habr\xEDan fijado"
+      cjid: cpef
+    - cjfs:
+      - haya fijado
+      - hayas fijado
+      - haya fijado
+      - hayamos fijado
+      - "hay\xE1is fijado"
+      - hayan fijado
+      cjid: ppfs
+    - cjfs:
+      - hubiera fijado
+      - hubieras fijado
+      - hubiera fijado
+      - "hubi\xE9ramos fijado"
+      - hubierais fijado
+      - hubieran fijado
+      cjid: ppss1
+    - cjfs:
+      - hubiese fijado
+      - hubieses fijado
+      - hubiese fijado
+      - "hubi\xE9semos fijado"
+      - hubieseis fijado
+      - hubiesen fijado
+      cjid: ppss2
+    - cjfs:
+      - hubiere fijado
+      - hubieres fijado
+      - hubiere fijado
+      - "hubi\xE9remos fijado"
+      - hubiereis fijado
+      - hubieren fijado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - fija
+      - fije
+      - fijemos
+      - fijad
+      - fijen
+      cjid: impf

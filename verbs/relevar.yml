@@ -1,0 +1,203 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|relieve}, to take over from'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to exempt from'
+          sn: '2'
+          vrs:
+          - va: relevar de
+            vac: ~ de
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to take turns'
+    drp: relevarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: relevar
+    prs:
+    - sound:
+        audio: relev02sp
+  meta:
+    id: relevar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619299000'
+    src: spanish
+    stems:
+    - relevar
+    - relevar de
+    - relevarse
+    uuid: 6dbbbdac-d997-4336-91fd-fc5b5b5d1d4f
+  shortdef:
+  - to relieve, to take over from
+  - to exempt from
+  suppl:
+    cjts:
+    - cjfs:
+      - relevando
+      - relevado
+      cjid: gppt
+    - cjfs:
+      - relevo
+      - relevas
+      - releva
+      - relevamos
+      - "relev\xE1is"
+      - relevan
+      cjid: pind
+    - cjfs:
+      - relevaba
+      - relevabas
+      - relevaba
+      - "relev\xE1bamos"
+      - relevabais
+      - relevaban
+      cjid: pret
+    - cjfs:
+      - "relev\xE9"
+      - relevaste
+      - "relev\xF3"
+      - relevamos
+      - relevasteis
+      - relevaron
+      cjid: pprf
+    - cjfs:
+      - "relevar\xE9"
+      - "relevar\xE1s"
+      - "relevar\xE1"
+      - relevaremos
+      - "relevar\xE9is"
+      - "relevar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "relevar\xEDa"
+      - "relevar\xEDas"
+      - "relevar\xEDa"
+      - "relevar\xEDamos"
+      - "relevar\xEDais"
+      - "relevar\xEDan"
+      cjid: cond
+    - cjfs:
+      - releve
+      - releves
+      - releve
+      - relevemos
+      - "relev\xE9is"
+      - releven
+      cjid: psub
+    - cjfs:
+      - relevara
+      - relevaras
+      - relevara
+      - "relev\xE1ramos"
+      - relevarais
+      - relevaran
+      cjid: pisb1
+    - cjfs:
+      - relevase
+      - relevases
+      - relevase
+      - "relev\xE1semos"
+      - relevaseis
+      - relevasen
+      cjid: pisb2
+    - cjfs:
+      - relevare
+      - relevares
+      - relevare
+      - "relev\xE1remos"
+      - relevareis
+      - relevaren
+      cjid: fsub
+    - cjfs:
+      - he relevado
+      - has relevado
+      - ha relevado
+      - hemos relevado
+      - "hab\xE9is relevado"
+      - han relevado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa relevado"
+      - "hab\xEDas relevado"
+      - "hab\xEDa relevado"
+      - "hab\xEDamos relevado"
+      - "hab\xEDais relevado"
+      - "hab\xEDan relevado"
+      cjid: ppsi
+    - cjfs:
+      - hube relevado
+      - hubiste relevado
+      - hubo relevado
+      - hubimos relevado
+      - hubisteis relevado
+      - hubieron relevado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 relevado"
+      - "habr\xE1s relevado"
+      - "habr\xE1 relevado"
+      - habremos relevado
+      - "habr\xE9is relevado"
+      - "habr\xE1n relevado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa relevado"
+      - "habr\xEDas relevado"
+      - "habr\xEDa relevado"
+      - "habr\xEDamos relevado"
+      - "habr\xEDais relevado"
+      - "habr\xEDan relevado"
+      cjid: cpef
+    - cjfs:
+      - haya relevado
+      - hayas relevado
+      - haya relevado
+      - hayamos relevado
+      - "hay\xE1is relevado"
+      - hayan relevado
+      cjid: ppfs
+    - cjfs:
+      - hubiera relevado
+      - hubieras relevado
+      - hubiera relevado
+      - "hubi\xE9ramos relevado"
+      - hubierais relevado
+      - hubieran relevado
+      cjid: ppss1
+    - cjfs:
+      - hubiese relevado
+      - hubieses relevado
+      - hubiese relevado
+      - "hubi\xE9semos relevado"
+      - hubieseis relevado
+      - hubiesen relevado
+      cjid: ppss2
+    - cjfs:
+      - hubiere relevado
+      - hubieres relevado
+      - hubiere relevado
+      - "hubi\xE9remos relevado"
+      - hubiereis relevado
+      - hubieren relevado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - releva
+      - releve
+      - relevemos
+      - relevad
+      - releven
+      cjid: impf

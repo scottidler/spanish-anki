@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|diffuse}, to {a_link|spread out}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|broadcast}, to {a_link|spread}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: difundir
+    prs:
+    - sound:
+        audio: difun01sp
+  meta:
+    id: difundir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607558000'
+    src: spanish
+    stems:
+    - difundir
+    uuid: f2ec0f11-8ccd-4a41-be77-bfa2b6c03a54
+  shortdef:
+  - to diffuse, to spread out
+  - to broadcast, to spread
+  suppl:
+    cjts:
+    - cjfs:
+      - difundiendo
+      - difundido
+      cjid: gppt
+    - cjfs:
+      - difundo
+      - difundes
+      - difunde
+      - difundimos
+      - "difund\xEDs"
+      - difunden
+      cjid: pind
+    - cjfs:
+      - "difund\xEDa"
+      - "difund\xEDas"
+      - "difund\xEDa"
+      - "difund\xEDamos"
+      - "difund\xEDais"
+      - "difund\xEDan"
+      cjid: pret
+    - cjfs:
+      - "difund\xED"
+      - difundiste
+      - "difundi\xF3"
+      - difundimos
+      - difundisteis
+      - difundieron
+      cjid: pprf
+    - cjfs:
+      - "difundir\xE9"
+      - "difundir\xE1s"
+      - "difundir\xE1"
+      - difundiremos
+      - "difundir\xE9is"
+      - "difundir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "difundir\xEDa"
+      - "difundir\xEDas"
+      - "difundir\xEDa"
+      - "difundir\xEDamos"
+      - "difundir\xEDais"
+      - "difundir\xEDan"
+      cjid: cond
+    - cjfs:
+      - difunda
+      - difundas
+      - difunda
+      - difundamos
+      - "difund\xE1is"
+      - difundan
+      cjid: psub
+    - cjfs:
+      - difundiera
+      - difundieras
+      - difundiera
+      - "difundi\xE9ramos"
+      - difundierais
+      - difundieran
+      cjid: pisb1
+    - cjfs:
+      - difundiese
+      - difundieses
+      - difundiese
+      - "difundi\xE9semos"
+      - difundieseis
+      - difundiesen
+      cjid: pisb2
+    - cjfs:
+      - difundiere
+      - difundieres
+      - difundiere
+      - "difundi\xE9remos"
+      - difundiereis
+      - difundieren
+      cjid: fsub
+    - cjfs:
+      - he difundido
+      - has difundido
+      - ha difundido
+      - hemos difundido
+      - "hab\xE9is difundido"
+      - han difundido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa difundido"
+      - "hab\xEDas difundido"
+      - "hab\xEDa difundido"
+      - "hab\xEDamos difundido"
+      - "hab\xEDais difundido"
+      - "hab\xEDan difundido"
+      cjid: ppsi
+    - cjfs:
+      - hube difundido
+      - hubiste difundido
+      - hubo difundido
+      - hubimos difundido
+      - hubisteis difundido
+      - hubieron difundido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 difundido"
+      - "habr\xE1s difundido"
+      - "habr\xE1 difundido"
+      - habremos difundido
+      - "habr\xE9is difundido"
+      - "habr\xE1n difundido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa difundido"
+      - "habr\xEDas difundido"
+      - "habr\xEDa difundido"
+      - "habr\xEDamos difundido"
+      - "habr\xEDais difundido"
+      - "habr\xEDan difundido"
+      cjid: cpef
+    - cjfs:
+      - haya difundido
+      - hayas difundido
+      - haya difundido
+      - hayamos difundido
+      - "hay\xE1is difundido"
+      - hayan difundido
+      cjid: ppfs
+    - cjfs:
+      - hubiera difundido
+      - hubieras difundido
+      - hubiera difundido
+      - "hubi\xE9ramos difundido"
+      - hubierais difundido
+      - hubieran difundido
+      cjid: ppss1
+    - cjfs:
+      - hubiese difundido
+      - hubieses difundido
+      - hubiese difundido
+      - "hubi\xE9semos difundido"
+      - hubieseis difundido
+      - hubiesen difundido
+      cjid: ppss2
+    - cjfs:
+      - hubiere difundido
+      - hubieres difundido
+      - hubiere difundido
+      - "hubi\xE9remos difundido"
+      - hubiereis difundido
+      - hubieren difundido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - difunde
+      - difunda
+      - difundamos
+      - difundid
+      - difundan
+      cjid: impf

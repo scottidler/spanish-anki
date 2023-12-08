@@ -1,0 +1,272 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|open} (a door, an umbrella, etc.)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|open}, to {a_link|clear} '
+          - - vis
+            - - t: abrir paso a
+                tr: to make way for
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|open} (a business, an account)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|unlock} (a lock, a house), to {a_link|undo} (clothing)'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn on} (a tap or faucet)'
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|iniciar||} {bc}to {a_link|open}, to {a_link|start}'
+          sn: '6'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|open}, to {a_link|open up} '
+          - - vis
+            - - t: abren a las nueve
+                tr: they open at nine
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|open}, to {a_link|open up}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|clear} (of the skies)'
+            sn: '2'
+    drp: abrirse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: abrir
+    prs:
+    - sound:
+        audio: abrir01sp
+  meta:
+    id: abrir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600115000'
+    src: spanish
+    stems:
+    - abrir
+    - abrirse
+    uuid: d73d1b1a-5426-47d4-a068-dc4070315c49
+  shortdef:
+  - to open (a door, an umbrella, etc.)
+  - to open, to clear
+  - to open (a business, an account)
+  suppl:
+    cjts:
+    - cjfs:
+      - abriendo
+      - abierto
+      cjid: gppt
+    - cjfs:
+      - abro
+      - abres
+      - abre
+      - abrimos
+      - "abr\xEDs"
+      - abren
+      cjid: pind
+    - cjfs:
+      - "abr\xEDa"
+      - "abr\xEDas"
+      - "abr\xEDa"
+      - "abr\xEDamos"
+      - "abr\xEDais"
+      - "abr\xEDan"
+      cjid: pret
+    - cjfs:
+      - "abr\xED"
+      - abriste
+      - "abri\xF3"
+      - abrimos
+      - abristeis
+      - abrieron
+      cjid: pprf
+    - cjfs:
+      - "abrir\xE9"
+      - "abrir\xE1s"
+      - "abrir\xE1"
+      - abriremos
+      - "abrir\xE9is"
+      - "abrir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "abrir\xEDa"
+      - "abrir\xEDas"
+      - "abrir\xEDa"
+      - "abrir\xEDamos"
+      - "abrir\xEDais"
+      - "abrir\xEDan"
+      cjid: cond
+    - cjfs:
+      - abra
+      - abras
+      - abra
+      - abramos
+      - "abr\xE1is"
+      - abran
+      cjid: psub
+    - cjfs:
+      - abriera
+      - abrieras
+      - abriera
+      - "abri\xE9ramos"
+      - abrierais
+      - abrieran
+      cjid: pisb1
+    - cjfs:
+      - abriese
+      - abrieses
+      - abriese
+      - "abri\xE9semos"
+      - abrieseis
+      - abriesen
+      cjid: pisb2
+    - cjfs:
+      - abriere
+      - abrieres
+      - abriere
+      - "abri\xE9remos"
+      - abriereis
+      - abrieren
+      cjid: fsub
+    - cjfs:
+      - he abierto
+      - has abierto
+      - ha abierto
+      - hemos abierto
+      - "hab\xE9is abierto"
+      - han abierto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa abierto"
+      - "hab\xEDas abierto"
+      - "hab\xEDa abierto"
+      - "hab\xEDamos abierto"
+      - "hab\xEDais abierto"
+      - "hab\xEDan abierto"
+      cjid: ppsi
+    - cjfs:
+      - hube abierto
+      - hubiste abierto
+      - hubo abierto
+      - hubimos abierto
+      - hubisteis abierto
+      - hubieron abierto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 abierto"
+      - "habr\xE1s abierto"
+      - "habr\xE1 abierto"
+      - habremos abierto
+      - "habr\xE9is abierto"
+      - "habr\xE1n abierto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa abierto"
+      - "habr\xEDas abierto"
+      - "habr\xEDa abierto"
+      - "habr\xEDamos abierto"
+      - "habr\xEDais abierto"
+      - "habr\xEDan abierto"
+      cjid: cpef
+    - cjfs:
+      - haya abierto
+      - hayas abierto
+      - haya abierto
+      - hayamos abierto
+      - "hay\xE1is abierto"
+      - hayan abierto
+      cjid: ppfs
+    - cjfs:
+      - hubiera abierto
+      - hubieras abierto
+      - hubiera abierto
+      - "hubi\xE9ramos abierto"
+      - hubierais abierto
+      - hubieran abierto
+      cjid: ppss1
+    - cjfs:
+      - hubiese abierto
+      - hubieses abierto
+      - hubiese abierto
+      - "hubi\xE9semos abierto"
+      - hubieseis abierto
+      - hubiesen abierto
+      cjid: ppss2
+    - cjfs:
+      - hubiere abierto
+      - hubieres abierto
+      - hubiere abierto
+      - "hubi\xE9remos abierto"
+      - hubiereis abierto
+      - hubieren abierto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - abre
+      - abra
+      - abramos
+      - abrid
+      - abran
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to elbow someone, to nudge someone'
+          sn: '1'
+          vrs:
+          - va: darle un codazo a alguien
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to elbow one''s way through'
+          sn: '2'
+          vrs:
+          - va: abrirse paso a codazos
+  fl: masculine noun
+  hwi:
+    hw: codazo
+  meta:
+    id: codazo
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604969000'
+    src: spanish
+    stems:
+    - codazo
+    - darle un codazo a alguien
+    - abrirse paso a codazos
+    uuid: 9d154ad2-b02f-422d-b4a3-7b79340def1a
+  shortdef:
+  - to elbow someone, to nudge someone
+  - to elbow one's way through

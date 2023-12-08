@@ -1,0 +1,193 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|decline}, to {a_link|turn down}'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|draw to a close}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|diminish}, to {a_link|decline}'
+          sn: '2'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: declinar
+  meta:
+    id: declinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2606520000'
+    src: spanish
+    stems:
+    - declinar
+    uuid: 12e1a49d-5187-4c49-8694-8857f8b67a07
+  shortdef:
+  - to decline, to turn down
+  - to draw to a close
+  - to diminish, to decline
+  suppl:
+    cjts:
+    - cjfs:
+      - declinando
+      - declinado
+      cjid: gppt
+    - cjfs:
+      - declino
+      - declinas
+      - declina
+      - declinamos
+      - "declin\xE1is"
+      - declinan
+      cjid: pind
+    - cjfs:
+      - declinaba
+      - declinabas
+      - declinaba
+      - "declin\xE1bamos"
+      - declinabais
+      - declinaban
+      cjid: pret
+    - cjfs:
+      - "declin\xE9"
+      - declinaste
+      - "declin\xF3"
+      - declinamos
+      - declinasteis
+      - declinaron
+      cjid: pprf
+    - cjfs:
+      - "declinar\xE9"
+      - "declinar\xE1s"
+      - "declinar\xE1"
+      - declinaremos
+      - "declinar\xE9is"
+      - "declinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "declinar\xEDa"
+      - "declinar\xEDas"
+      - "declinar\xEDa"
+      - "declinar\xEDamos"
+      - "declinar\xEDais"
+      - "declinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - decline
+      - declines
+      - decline
+      - declinemos
+      - "declin\xE9is"
+      - declinen
+      cjid: psub
+    - cjfs:
+      - declinara
+      - declinaras
+      - declinara
+      - "declin\xE1ramos"
+      - declinarais
+      - declinaran
+      cjid: pisb1
+    - cjfs:
+      - declinase
+      - declinases
+      - declinase
+      - "declin\xE1semos"
+      - declinaseis
+      - declinasen
+      cjid: pisb2
+    - cjfs:
+      - declinare
+      - declinares
+      - declinare
+      - "declin\xE1remos"
+      - declinareis
+      - declinaren
+      cjid: fsub
+    - cjfs:
+      - he declinado
+      - has declinado
+      - ha declinado
+      - hemos declinado
+      - "hab\xE9is declinado"
+      - han declinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa declinado"
+      - "hab\xEDas declinado"
+      - "hab\xEDa declinado"
+      - "hab\xEDamos declinado"
+      - "hab\xEDais declinado"
+      - "hab\xEDan declinado"
+      cjid: ppsi
+    - cjfs:
+      - hube declinado
+      - hubiste declinado
+      - hubo declinado
+      - hubimos declinado
+      - hubisteis declinado
+      - hubieron declinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 declinado"
+      - "habr\xE1s declinado"
+      - "habr\xE1 declinado"
+      - habremos declinado
+      - "habr\xE9is declinado"
+      - "habr\xE1n declinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa declinado"
+      - "habr\xEDas declinado"
+      - "habr\xEDa declinado"
+      - "habr\xEDamos declinado"
+      - "habr\xEDais declinado"
+      - "habr\xEDan declinado"
+      cjid: cpef
+    - cjfs:
+      - haya declinado
+      - hayas declinado
+      - haya declinado
+      - hayamos declinado
+      - "hay\xE1is declinado"
+      - hayan declinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera declinado
+      - hubieras declinado
+      - hubiera declinado
+      - "hubi\xE9ramos declinado"
+      - hubierais declinado
+      - hubieran declinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese declinado
+      - hubieses declinado
+      - hubiese declinado
+      - "hubi\xE9semos declinado"
+      - hubieseis declinado
+      - hubiesen declinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere declinado
+      - hubieres declinado
+      - hubiere declinado
+      - "hubi\xE9remos declinado"
+      - hubiereis declinado
+      - hubieren declinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - declina
+      - decline
+      - declinemos
+      - declinad
+      - declinen
+      cjid: impf

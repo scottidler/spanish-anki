@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|postpone}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to put behind, to {a_link|subordinate}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: posponer
+    prs:
+    - sound:
+        audio: pospo01sp
+  meta:
+    id: posponer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617821000'
+    src: spanish
+    stems:
+    - posponer
+    uuid: 32a3134e-0e38-49ea-94f6-f011cfd197b8
+  shortdef:
+  - to postpone
+  - to put behind, to subordinate
+  suppl:
+    cjts:
+    - cjfs:
+      - posponiendo
+      - pospuesto
+      cjid: gppt
+    - cjfs:
+      - pospongo
+      - pospones
+      - pospone
+      - posponemos
+      - "pospon\xE9is"
+      - posponen
+      cjid: pind
+    - cjfs:
+      - "pospon\xEDa"
+      - "pospon\xEDas"
+      - "pospon\xEDa"
+      - "pospon\xEDamos"
+      - "pospon\xEDais"
+      - "pospon\xEDan"
+      cjid: pret
+    - cjfs:
+      - pospuse
+      - pospusiste
+      - pospuso
+      - pospusimos
+      - pospusisteis
+      - pospusieron
+      cjid: pprf
+    - cjfs:
+      - "pospondr\xE9"
+      - "pospondr\xE1s"
+      - "pospondr\xE1"
+      - pospondremos
+      - "pospondr\xE9is"
+      - "pospondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pospondr\xEDa"
+      - "pospondr\xEDas"
+      - "pospondr\xEDa"
+      - "pospondr\xEDamos"
+      - "pospondr\xEDais"
+      - "pospondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - posponga
+      - pospongas
+      - posponga
+      - pospongamos
+      - "pospong\xE1is"
+      - pospongan
+      cjid: psub
+    - cjfs:
+      - pospusiera
+      - pospusieras
+      - pospusiera
+      - "pospusi\xE9ramos"
+      - pospusierais
+      - pospusieran
+      cjid: pisb1
+    - cjfs:
+      - pospusiese
+      - pospusieses
+      - pospusiese
+      - "pospusi\xE9semos"
+      - pospusieseis
+      - pospusiesen
+      cjid: pisb2
+    - cjfs:
+      - pospusiere
+      - pospusieres
+      - pospusiere
+      - "pospusi\xE9remos"
+      - pospusiereis
+      - pospusieren
+      cjid: fsub
+    - cjfs:
+      - he pospuesto
+      - has pospuesto
+      - ha pospuesto
+      - hemos pospuesto
+      - "hab\xE9is pospuesto"
+      - han pospuesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa pospuesto"
+      - "hab\xEDas pospuesto"
+      - "hab\xEDa pospuesto"
+      - "hab\xEDamos pospuesto"
+      - "hab\xEDais pospuesto"
+      - "hab\xEDan pospuesto"
+      cjid: ppsi
+    - cjfs:
+      - hube pospuesto
+      - hubiste pospuesto
+      - hubo pospuesto
+      - hubimos pospuesto
+      - hubisteis pospuesto
+      - hubieron pospuesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 pospuesto"
+      - "habr\xE1s pospuesto"
+      - "habr\xE1 pospuesto"
+      - habremos pospuesto
+      - "habr\xE9is pospuesto"
+      - "habr\xE1n pospuesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa pospuesto"
+      - "habr\xEDas pospuesto"
+      - "habr\xEDa pospuesto"
+      - "habr\xEDamos pospuesto"
+      - "habr\xEDais pospuesto"
+      - "habr\xEDan pospuesto"
+      cjid: cpef
+    - cjfs:
+      - haya pospuesto
+      - hayas pospuesto
+      - haya pospuesto
+      - hayamos pospuesto
+      - "hay\xE1is pospuesto"
+      - hayan pospuesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera pospuesto
+      - hubieras pospuesto
+      - hubiera pospuesto
+      - "hubi\xE9ramos pospuesto"
+      - hubierais pospuesto
+      - hubieran pospuesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese pospuesto
+      - hubieses pospuesto
+      - hubiese pospuesto
+      - "hubi\xE9semos pospuesto"
+      - hubieseis pospuesto
+      - hubiesen pospuesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere pospuesto
+      - hubieres pospuesto
+      - hubiere pospuesto
+      - "hubi\xE9remos pospuesto"
+      - hubiereis pospuesto
+      - hubieren pospuesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "posp\xF3n"
+      - posponga
+      - pospongamos
+      - posponed
+      - pospongan
+      cjid: impf

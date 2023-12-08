@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|growl}, to {a_link|grunt}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grumble}'
+          sn: '2'
+  fl: intransitive verb
+  hwi:
+    hw: "gru\xF1ir"
+  meta:
+    id: grunir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611095000'
+    src: spanish
+    stems:
+    - "gru\xF1ir"
+    uuid: b5278468-9ddc-4221-bf28-6034ffdbb5e5
+  shortdef:
+  - to growl, to grunt
+  - to grumble
+  suppl:
+    cjts:
+    - cjfs:
+      - "gru\xF1endo"
+      - "gru\xF1ido"
+      cjid: gppt
+    - cjfs:
+      - "gru\xF1o"
+      - "gru\xF1es"
+      - "gru\xF1e"
+      - "gru\xF1imos"
+      - "gru\xF1\xEDs"
+      - "gru\xF1en"
+      cjid: pind
+    - cjfs:
+      - "gru\xF1\xEDa"
+      - "gru\xF1\xEDas"
+      - "gru\xF1\xEDa"
+      - "gru\xF1\xEDamos"
+      - "gru\xF1\xEDais"
+      - "gru\xF1\xEDan"
+      cjid: pret
+    - cjfs:
+      - "gru\xF1\xED"
+      - "gru\xF1iste"
+      - "gru\xF1\xF3"
+      - "gru\xF1imos"
+      - "gru\xF1isteis"
+      - "gru\xF1eron"
+      cjid: pprf
+    - cjfs:
+      - "gru\xF1ir\xE9"
+      - "gru\xF1ir\xE1s"
+      - "gru\xF1ir\xE1"
+      - "gru\xF1iremos"
+      - "gru\xF1ir\xE9is"
+      - "gru\xF1ir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "gru\xF1ir\xEDa"
+      - "gru\xF1ir\xEDas"
+      - "gru\xF1ir\xEDa"
+      - "gru\xF1ir\xEDamos"
+      - "gru\xF1ir\xEDais"
+      - "gru\xF1ir\xEDan"
+      cjid: cond
+    - cjfs:
+      - "gru\xF1a"
+      - "gru\xF1as"
+      - "gru\xF1a"
+      - "gru\xF1amos"
+      - "gru\xF1\xE1is"
+      - "gru\xF1an"
+      cjid: psub
+    - cjfs:
+      - "gru\xF1era"
+      - "gru\xF1eras"
+      - "gru\xF1era"
+      - "gru\xF1\xE9ramos"
+      - "gru\xF1erais"
+      - "gru\xF1eran"
+      cjid: pisb1
+    - cjfs:
+      - "gru\xF1ese"
+      - "gru\xF1eses"
+      - "gru\xF1ese"
+      - "gru\xF1\xE9semos"
+      - "gru\xF1eseis"
+      - "gru\xF1esen"
+      cjid: pisb2
+    - cjfs:
+      - "gru\xF1ere"
+      - "gru\xF1eres"
+      - "gru\xF1ere"
+      - "gru\xF1\xE9remos"
+      - "gru\xF1ereis"
+      - "gru\xF1eren"
+      cjid: fsub
+    - cjfs:
+      - "he gru\xF1ido"
+      - "has gru\xF1ido"
+      - "ha gru\xF1ido"
+      - "hemos gru\xF1ido"
+      - "hab\xE9is gru\xF1ido"
+      - "han gru\xF1ido"
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa gru\xF1ido"
+      - "hab\xEDas gru\xF1ido"
+      - "hab\xEDa gru\xF1ido"
+      - "hab\xEDamos gru\xF1ido"
+      - "hab\xEDais gru\xF1ido"
+      - "hab\xEDan gru\xF1ido"
+      cjid: ppsi
+    - cjfs:
+      - "hube gru\xF1ido"
+      - "hubiste gru\xF1ido"
+      - "hubo gru\xF1ido"
+      - "hubimos gru\xF1ido"
+      - "hubisteis gru\xF1ido"
+      - "hubieron gru\xF1ido"
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 gru\xF1ido"
+      - "habr\xE1s gru\xF1ido"
+      - "habr\xE1 gru\xF1ido"
+      - "habremos gru\xF1ido"
+      - "habr\xE9is gru\xF1ido"
+      - "habr\xE1n gru\xF1ido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa gru\xF1ido"
+      - "habr\xEDas gru\xF1ido"
+      - "habr\xEDa gru\xF1ido"
+      - "habr\xEDamos gru\xF1ido"
+      - "habr\xEDais gru\xF1ido"
+      - "habr\xEDan gru\xF1ido"
+      cjid: cpef
+    - cjfs:
+      - "haya gru\xF1ido"
+      - "hayas gru\xF1ido"
+      - "haya gru\xF1ido"
+      - "hayamos gru\xF1ido"
+      - "hay\xE1is gru\xF1ido"
+      - "hayan gru\xF1ido"
+      cjid: ppfs
+    - cjfs:
+      - "hubiera gru\xF1ido"
+      - "hubieras gru\xF1ido"
+      - "hubiera gru\xF1ido"
+      - "hubi\xE9ramos gru\xF1ido"
+      - "hubierais gru\xF1ido"
+      - "hubieran gru\xF1ido"
+      cjid: ppss1
+    - cjfs:
+      - "hubiese gru\xF1ido"
+      - "hubieses gru\xF1ido"
+      - "hubiese gru\xF1ido"
+      - "hubi\xE9semos gru\xF1ido"
+      - "hubieseis gru\xF1ido"
+      - "hubiesen gru\xF1ido"
+      cjid: ppss2
+    - cjfs:
+      - "hubiere gru\xF1ido"
+      - "hubieres gru\xF1ido"
+      - "hubiere gru\xF1ido"
+      - "hubi\xE9remos gru\xF1ido"
+      - "hubiereis gru\xF1ido"
+      - "hubieren gru\xF1ido"
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "gru\xF1e"
+      - "gru\xF1a"
+      - "gru\xF1amos"
+      - "gru\xF1id"
+      - "gru\xF1an"
+      cjid: impf

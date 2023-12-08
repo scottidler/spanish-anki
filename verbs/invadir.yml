@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|invade}'
+  fl: transitive verb
+  hwi:
+    hw: invadir
+    prs:
+    - sound:
+        audio: invad01sp
+  meta:
+    id: invadir
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612965000'
+    src: spanish
+    stems:
+    - invadir
+    uuid: bb5638dc-5b29-4b76-ba1f-e824b3d3ec93
+  shortdef:
+  - to invade
+  suppl:
+    cjts:
+    - cjfs:
+      - invadiendo
+      - invadido
+      cjid: gppt
+    - cjfs:
+      - invado
+      - invades
+      - invade
+      - invadimos
+      - "invad\xEDs"
+      - invaden
+      cjid: pind
+    - cjfs:
+      - "invad\xEDa"
+      - "invad\xEDas"
+      - "invad\xEDa"
+      - "invad\xEDamos"
+      - "invad\xEDais"
+      - "invad\xEDan"
+      cjid: pret
+    - cjfs:
+      - "invad\xED"
+      - invadiste
+      - "invadi\xF3"
+      - invadimos
+      - invadisteis
+      - invadieron
+      cjid: pprf
+    - cjfs:
+      - "invadir\xE9"
+      - "invadir\xE1s"
+      - "invadir\xE1"
+      - invadiremos
+      - "invadir\xE9is"
+      - "invadir\xE1n"
+      cjid: futr
+    - cjfs:
+      - "invadir\xEDa"
+      - "invadir\xEDas"
+      - "invadir\xEDa"
+      - "invadir\xEDamos"
+      - "invadir\xEDais"
+      - "invadir\xEDan"
+      cjid: cond
+    - cjfs:
+      - invada
+      - invadas
+      - invada
+      - invadamos
+      - "invad\xE1is"
+      - invadan
+      cjid: psub
+    - cjfs:
+      - invadiera
+      - invadieras
+      - invadiera
+      - "invadi\xE9ramos"
+      - invadierais
+      - invadieran
+      cjid: pisb1
+    - cjfs:
+      - invadiese
+      - invadieses
+      - invadiese
+      - "invadi\xE9semos"
+      - invadieseis
+      - invadiesen
+      cjid: pisb2
+    - cjfs:
+      - invadiere
+      - invadieres
+      - invadiere
+      - "invadi\xE9remos"
+      - invadiereis
+      - invadieren
+      cjid: fsub
+    - cjfs:
+      - he invadido
+      - has invadido
+      - ha invadido
+      - hemos invadido
+      - "hab\xE9is invadido"
+      - han invadido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa invadido"
+      - "hab\xEDas invadido"
+      - "hab\xEDa invadido"
+      - "hab\xEDamos invadido"
+      - "hab\xEDais invadido"
+      - "hab\xEDan invadido"
+      cjid: ppsi
+    - cjfs:
+      - hube invadido
+      - hubiste invadido
+      - hubo invadido
+      - hubimos invadido
+      - hubisteis invadido
+      - hubieron invadido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 invadido"
+      - "habr\xE1s invadido"
+      - "habr\xE1 invadido"
+      - habremos invadido
+      - "habr\xE9is invadido"
+      - "habr\xE1n invadido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa invadido"
+      - "habr\xEDas invadido"
+      - "habr\xEDa invadido"
+      - "habr\xEDamos invadido"
+      - "habr\xEDais invadido"
+      - "habr\xEDan invadido"
+      cjid: cpef
+    - cjfs:
+      - haya invadido
+      - hayas invadido
+      - haya invadido
+      - hayamos invadido
+      - "hay\xE1is invadido"
+      - hayan invadido
+      cjid: ppfs
+    - cjfs:
+      - hubiera invadido
+      - hubieras invadido
+      - hubiera invadido
+      - "hubi\xE9ramos invadido"
+      - hubierais invadido
+      - hubieran invadido
+      cjid: ppss1
+    - cjfs:
+      - hubiese invadido
+      - hubieses invadido
+      - hubiese invadido
+      - "hubi\xE9semos invadido"
+      - hubieseis invadido
+      - hubiesen invadido
+      cjid: ppss2
+    - cjfs:
+      - hubiere invadido
+      - hubieres invadido
+      - hubiere invadido
+      - "hubi\xE9remos invadido"
+      - hubiereis invadido
+      - hubieren invadido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - invade
+      - invada
+      - invadamos
+      - invadid
+      - invadan
+      cjid: impf

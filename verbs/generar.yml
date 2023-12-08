@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|generate}'
+  fl: transitive verb
+  hwi:
+    hw: generar
+    prs:
+    - sound:
+        audio: gener03sp
+  meta:
+    id: generar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610771000'
+    src: spanish
+    stems:
+    - generar
+    - generarse
+    uuid: e386ed76-aa77-4975-8b10-7341f9ab5302
+  shortdef:
+  - to generate
+  suppl:
+    cjts:
+    - cjfs:
+      - generando
+      - generado
+      cjid: gppt
+    - cjfs:
+      - genero
+      - generas
+      - genera
+      - generamos
+      - "gener\xE1is"
+      - generan
+      cjid: pind
+    - cjfs:
+      - generaba
+      - generabas
+      - generaba
+      - "gener\xE1bamos"
+      - generabais
+      - generaban
+      cjid: pret
+    - cjfs:
+      - "gener\xE9"
+      - generaste
+      - "gener\xF3"
+      - generamos
+      - generasteis
+      - generaron
+      cjid: pprf
+    - cjfs:
+      - "generar\xE9"
+      - "generar\xE1s"
+      - "generar\xE1"
+      - generaremos
+      - "generar\xE9is"
+      - "generar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "generar\xEDa"
+      - "generar\xEDas"
+      - "generar\xEDa"
+      - "generar\xEDamos"
+      - "generar\xEDais"
+      - "generar\xEDan"
+      cjid: cond
+    - cjfs:
+      - genere
+      - generes
+      - genere
+      - generemos
+      - "gener\xE9is"
+      - generen
+      cjid: psub
+    - cjfs:
+      - generara
+      - generaras
+      - generara
+      - "gener\xE1ramos"
+      - generarais
+      - generaran
+      cjid: pisb1
+    - cjfs:
+      - generase
+      - generases
+      - generase
+      - "gener\xE1semos"
+      - generaseis
+      - generasen
+      cjid: pisb2
+    - cjfs:
+      - generare
+      - generares
+      - generare
+      - "gener\xE1remos"
+      - generareis
+      - generaren
+      cjid: fsub
+    - cjfs:
+      - he generado
+      - has generado
+      - ha generado
+      - hemos generado
+      - "hab\xE9is generado"
+      - han generado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa generado"
+      - "hab\xEDas generado"
+      - "hab\xEDa generado"
+      - "hab\xEDamos generado"
+      - "hab\xEDais generado"
+      - "hab\xEDan generado"
+      cjid: ppsi
+    - cjfs:
+      - hube generado
+      - hubiste generado
+      - hubo generado
+      - hubimos generado
+      - hubisteis generado
+      - hubieron generado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 generado"
+      - "habr\xE1s generado"
+      - "habr\xE1 generado"
+      - habremos generado
+      - "habr\xE9is generado"
+      - "habr\xE1n generado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa generado"
+      - "habr\xEDas generado"
+      - "habr\xEDa generado"
+      - "habr\xEDamos generado"
+      - "habr\xEDais generado"
+      - "habr\xEDan generado"
+      cjid: cpef
+    - cjfs:
+      - haya generado
+      - hayas generado
+      - haya generado
+      - hayamos generado
+      - "hay\xE1is generado"
+      - hayan generado
+      cjid: ppfs
+    - cjfs:
+      - hubiera generado
+      - hubieras generado
+      - hubiera generado
+      - "hubi\xE9ramos generado"
+      - hubierais generado
+      - hubieran generado
+      cjid: ppss1
+    - cjfs:
+      - hubiese generado
+      - hubieses generado
+      - hubiese generado
+      - "hubi\xE9semos generado"
+      - hubieseis generado
+      - hubiesen generado
+      cjid: ppss2
+    - cjfs:
+      - hubiere generado
+      - hubieres generado
+      - hubiere generado
+      - "hubi\xE9remos generado"
+      - hubiereis generado
+      - hubieren generado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - genera
+      - genere
+      - generemos
+      - generad
+      - generen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: generarse

@@ -1,0 +1,201 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|help}, to {a_link|wait on}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|look after}, to {a_link|take care of}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|heed}, to {a_link|listen to}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pay attention}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: atender
+    prs:
+    - sound:
+        audio: atend01sp
+  meta:
+    id: atender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602276000'
+    src: spanish
+    stems:
+    - atender
+    uuid: 804dace9-8f10-4f26-9577-5995843739e8
+  shortdef:
+  - to help, to wait on
+  - to look after, to take care of
+  - to heed, to listen to
+  suppl:
+    cjts:
+    - cjfs:
+      - atendiendo
+      - atendido
+      cjid: gppt
+    - cjfs:
+      - atiendo
+      - atiendes
+      - atiende
+      - atendemos
+      - "atend\xE9is"
+      - atienden
+      cjid: pind
+    - cjfs:
+      - "atend\xEDa"
+      - "atend\xEDas"
+      - "atend\xEDa"
+      - "atend\xEDamos"
+      - "atend\xEDais"
+      - "atend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "atend\xED"
+      - atendiste
+      - "atendi\xF3"
+      - atendimos
+      - atendisteis
+      - atendieron
+      cjid: pprf
+    - cjfs:
+      - "atender\xE9"
+      - "atender\xE1s"
+      - "atender\xE1"
+      - atenderemos
+      - "atender\xE9is"
+      - "atender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atender\xEDa"
+      - "atender\xEDas"
+      - "atender\xEDa"
+      - "atender\xEDamos"
+      - "atender\xEDais"
+      - "atender\xEDan"
+      cjid: cond
+    - cjfs:
+      - atienda
+      - atiendas
+      - atienda
+      - atendamos
+      - "atend\xE1is"
+      - atiendan
+      cjid: psub
+    - cjfs:
+      - atendiera
+      - atendieras
+      - atendiera
+      - "atendi\xE9ramos"
+      - atendierais
+      - atendieran
+      cjid: pisb1
+    - cjfs:
+      - atendiese
+      - atendieses
+      - atendiese
+      - "atendi\xE9semos"
+      - atendieseis
+      - atendiesen
+      cjid: pisb2
+    - cjfs:
+      - atendiere
+      - atendieres
+      - atendiere
+      - "atendi\xE9remos"
+      - atendiereis
+      - atendieren
+      cjid: fsub
+    - cjfs:
+      - he atendido
+      - has atendido
+      - ha atendido
+      - hemos atendido
+      - "hab\xE9is atendido"
+      - han atendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atendido"
+      - "hab\xEDas atendido"
+      - "hab\xEDa atendido"
+      - "hab\xEDamos atendido"
+      - "hab\xEDais atendido"
+      - "hab\xEDan atendido"
+      cjid: ppsi
+    - cjfs:
+      - hube atendido
+      - hubiste atendido
+      - hubo atendido
+      - hubimos atendido
+      - hubisteis atendido
+      - hubieron atendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atendido"
+      - "habr\xE1s atendido"
+      - "habr\xE1 atendido"
+      - habremos atendido
+      - "habr\xE9is atendido"
+      - "habr\xE1n atendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atendido"
+      - "habr\xEDas atendido"
+      - "habr\xEDa atendido"
+      - "habr\xEDamos atendido"
+      - "habr\xEDais atendido"
+      - "habr\xEDan atendido"
+      cjid: cpef
+    - cjfs:
+      - haya atendido
+      - hayas atendido
+      - haya atendido
+      - hayamos atendido
+      - "hay\xE1is atendido"
+      - hayan atendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera atendido
+      - hubieras atendido
+      - hubiera atendido
+      - "hubi\xE9ramos atendido"
+      - hubierais atendido
+      - hubieran atendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese atendido
+      - hubieses atendido
+      - hubiese atendido
+      - "hubi\xE9semos atendido"
+      - hubieseis atendido
+      - hubiesen atendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere atendido
+      - hubieres atendido
+      - hubiere atendido
+      - "hubi\xE9remos atendido"
+      - hubiereis atendido
+      - hubieren atendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atiende
+      - atienda
+      - atendamos
+      - atended
+      - atiendan
+      cjid: impf

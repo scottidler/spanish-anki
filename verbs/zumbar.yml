@@ -1,0 +1,201 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|buzz}, to {a_link|hum} '
+          - - vis
+            - - t: "le zumbaban los o\xEDdos"
+                tr: her ears were ringing
+  - sls:
+    - familiar
+    sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hit}, to {a_link|thrash}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|make fun of}'
+          sn: '2'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: zumbar
+    prs:
+    - sound:
+        audio: zumba01sp
+  meta:
+    id: zumbar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623402000'
+    src: spanish
+    stems:
+    - zumbar
+    uuid: 5c6bdb16-abb9-452c-9310-013f8a2056a5
+  shortdef:
+  - to buzz, to hum
+  - to hit, to thrash
+  - to make fun of
+  suppl:
+    cjts:
+    - cjfs:
+      - zumbando
+      - zumbado
+      cjid: gppt
+    - cjfs:
+      - zumbo
+      - zumbas
+      - zumba
+      - zumbamos
+      - "zumb\xE1is"
+      - zumban
+      cjid: pind
+    - cjfs:
+      - zumbaba
+      - zumbabas
+      - zumbaba
+      - "zumb\xE1bamos"
+      - zumbabais
+      - zumbaban
+      cjid: pret
+    - cjfs:
+      - "zumb\xE9"
+      - zumbaste
+      - "zumb\xF3"
+      - zumbamos
+      - zumbasteis
+      - zumbaron
+      cjid: pprf
+    - cjfs:
+      - "zumbar\xE9"
+      - "zumbar\xE1s"
+      - "zumbar\xE1"
+      - zumbaremos
+      - "zumbar\xE9is"
+      - "zumbar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "zumbar\xEDa"
+      - "zumbar\xEDas"
+      - "zumbar\xEDa"
+      - "zumbar\xEDamos"
+      - "zumbar\xEDais"
+      - "zumbar\xEDan"
+      cjid: cond
+    - cjfs:
+      - zumbe
+      - zumbes
+      - zumbe
+      - zumbemos
+      - "zumb\xE9is"
+      - zumben
+      cjid: psub
+    - cjfs:
+      - zumbara
+      - zumbaras
+      - zumbara
+      - "zumb\xE1ramos"
+      - zumbarais
+      - zumbaran
+      cjid: pisb1
+    - cjfs:
+      - zumbase
+      - zumbases
+      - zumbase
+      - "zumb\xE1semos"
+      - zumbaseis
+      - zumbasen
+      cjid: pisb2
+    - cjfs:
+      - zumbare
+      - zumbares
+      - zumbare
+      - "zumb\xE1remos"
+      - zumbareis
+      - zumbaren
+      cjid: fsub
+    - cjfs:
+      - he zumbado
+      - has zumbado
+      - ha zumbado
+      - hemos zumbado
+      - "hab\xE9is zumbado"
+      - han zumbado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa zumbado"
+      - "hab\xEDas zumbado"
+      - "hab\xEDa zumbado"
+      - "hab\xEDamos zumbado"
+      - "hab\xEDais zumbado"
+      - "hab\xEDan zumbado"
+      cjid: ppsi
+    - cjfs:
+      - hube zumbado
+      - hubiste zumbado
+      - hubo zumbado
+      - hubimos zumbado
+      - hubisteis zumbado
+      - hubieron zumbado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 zumbado"
+      - "habr\xE1s zumbado"
+      - "habr\xE1 zumbado"
+      - habremos zumbado
+      - "habr\xE9is zumbado"
+      - "habr\xE1n zumbado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa zumbado"
+      - "habr\xEDas zumbado"
+      - "habr\xEDa zumbado"
+      - "habr\xEDamos zumbado"
+      - "habr\xEDais zumbado"
+      - "habr\xEDan zumbado"
+      cjid: cpef
+    - cjfs:
+      - haya zumbado
+      - hayas zumbado
+      - haya zumbado
+      - hayamos zumbado
+      - "hay\xE1is zumbado"
+      - hayan zumbado
+      cjid: ppfs
+    - cjfs:
+      - hubiera zumbado
+      - hubieras zumbado
+      - hubiera zumbado
+      - "hubi\xE9ramos zumbado"
+      - hubierais zumbado
+      - hubieran zumbado
+      cjid: ppss1
+    - cjfs:
+      - hubiese zumbado
+      - hubieses zumbado
+      - hubiese zumbado
+      - "hubi\xE9semos zumbado"
+      - hubieseis zumbado
+      - hubiesen zumbado
+      cjid: ppss2
+    - cjfs:
+      - hubiere zumbado
+      - hubieres zumbado
+      - hubiere zumbado
+      - "hubi\xE9remos zumbado"
+      - hubiereis zumbado
+      - hubieren zumbado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - zumba
+      - zumbe
+      - zumbemos
+      - zumbad
+      - zumben
+      cjid: impf

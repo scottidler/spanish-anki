@@ -1,0 +1,192 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|organize}, to {a_link|arrange}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to get organized'
+    drp: organizarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: organizar
+    prs:
+    - sound:
+        audio: organ05sp
+  meta:
+    id: organizar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616306000'
+    src: spanish
+    stems:
+    - organizar
+    - organizarse
+    uuid: 15cdd500-d00f-4d77-b3c0-155c40508666
+  shortdef:
+  - to organize, to arrange
+  suppl:
+    cjts:
+    - cjfs:
+      - organizando
+      - organizado
+      cjid: gppt
+    - cjfs:
+      - organizo
+      - organizas
+      - organiza
+      - organizamos
+      - "organiz\xE1is"
+      - organizan
+      cjid: pind
+    - cjfs:
+      - organizaba
+      - organizabas
+      - organizaba
+      - "organiz\xE1bamos"
+      - organizabais
+      - organizaban
+      cjid: pret
+    - cjfs:
+      - "organic\xE9"
+      - organizaste
+      - "organiz\xF3"
+      - organizamos
+      - organizasteis
+      - organizaron
+      cjid: pprf
+    - cjfs:
+      - "organizar\xE9"
+      - "organizar\xE1s"
+      - "organizar\xE1"
+      - organizaremos
+      - "organizar\xE9is"
+      - "organizar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "organizar\xEDa"
+      - "organizar\xEDas"
+      - "organizar\xEDa"
+      - "organizar\xEDamos"
+      - "organizar\xEDais"
+      - "organizar\xEDan"
+      cjid: cond
+    - cjfs:
+      - organice
+      - organices
+      - organice
+      - organicemos
+      - "organic\xE9is"
+      - organicen
+      cjid: psub
+    - cjfs:
+      - organizara
+      - organizaras
+      - organizara
+      - "organiz\xE1ramos"
+      - organizarais
+      - organizaran
+      cjid: pisb1
+    - cjfs:
+      - organizase
+      - organizases
+      - organizase
+      - "organiz\xE1semos"
+      - organizaseis
+      - organizasen
+      cjid: pisb2
+    - cjfs:
+      - organizare
+      - organizares
+      - organizare
+      - "organiz\xE1remos"
+      - organizareis
+      - organizaren
+      cjid: fsub
+    - cjfs:
+      - he organizado
+      - has organizado
+      - ha organizado
+      - hemos organizado
+      - "hab\xE9is organizado"
+      - han organizado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa organizado"
+      - "hab\xEDas organizado"
+      - "hab\xEDa organizado"
+      - "hab\xEDamos organizado"
+      - "hab\xEDais organizado"
+      - "hab\xEDan organizado"
+      cjid: ppsi
+    - cjfs:
+      - hube organizado
+      - hubiste organizado
+      - hubo organizado
+      - hubimos organizado
+      - hubisteis organizado
+      - hubieron organizado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 organizado"
+      - "habr\xE1s organizado"
+      - "habr\xE1 organizado"
+      - habremos organizado
+      - "habr\xE9is organizado"
+      - "habr\xE1n organizado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa organizado"
+      - "habr\xEDas organizado"
+      - "habr\xEDa organizado"
+      - "habr\xEDamos organizado"
+      - "habr\xEDais organizado"
+      - "habr\xEDan organizado"
+      cjid: cpef
+    - cjfs:
+      - haya organizado
+      - hayas organizado
+      - haya organizado
+      - hayamos organizado
+      - "hay\xE1is organizado"
+      - hayan organizado
+      cjid: ppfs
+    - cjfs:
+      - hubiera organizado
+      - hubieras organizado
+      - hubiera organizado
+      - "hubi\xE9ramos organizado"
+      - hubierais organizado
+      - hubieran organizado
+      cjid: ppss1
+    - cjfs:
+      - hubiese organizado
+      - hubieses organizado
+      - hubiese organizado
+      - "hubi\xE9semos organizado"
+      - hubieseis organizado
+      - hubiesen organizado
+      cjid: ppss2
+    - cjfs:
+      - hubiere organizado
+      - hubieres organizado
+      - hubiere organizado
+      - "hubi\xE9remos organizado"
+      - hubiereis organizado
+      - hubieren organizado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - organiza
+      - organice
+      - organicemos
+      - organizad
+      - organicen
+      cjid: impf

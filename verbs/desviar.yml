@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to change the course of, to {a_link|divert}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn away}, to {a_link|deflect}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|branch off}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|apartarse||} {bc}to {a_link|stray}'
+            sn: '2'
+    drp: desviarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: desviar
+    prs:
+    - sound:
+        audio: desvi02sp
+  meta:
+    id: desviar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607403000'
+    src: spanish
+    stems:
+    - desviar
+    - desviarse
+    uuid: c2abde20-62bb-4f12-9134-7b1f06c9f859
+  shortdef:
+  - to change the course of, to divert
+  - to turn away, to deflect
+  suppl:
+    cjts:
+    - cjfs:
+      - desviando
+      - desviado
+      cjid: gppt
+    - cjfs:
+      - "desv\xEDo"
+      - "desv\xEDas"
+      - "desv\xEDa"
+      - desviamos
+      - "desvi\xE1is"
+      - "desv\xEDan"
+      cjid: pind
+    - cjfs:
+      - desviaba
+      - desviabas
+      - desviaba
+      - "desvi\xE1bamos"
+      - desviabais
+      - desviaban
+      cjid: pret
+    - cjfs:
+      - "desvi\xE9"
+      - desviaste
+      - "desvi\xF3"
+      - desviamos
+      - desviasteis
+      - desviaron
+      cjid: pprf
+    - cjfs:
+      - "desviar\xE9"
+      - "desviar\xE1s"
+      - "desviar\xE1"
+      - desviaremos
+      - "desviar\xE9is"
+      - "desviar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "desviar\xEDa"
+      - "desviar\xEDas"
+      - "desviar\xEDa"
+      - "desviar\xEDamos"
+      - "desviar\xEDais"
+      - "desviar\xEDan"
+      cjid: cond
+    - cjfs:
+      - "desv\xEDe"
+      - "desv\xEDes"
+      - "desv\xEDe"
+      - desviemos
+      - "desvi\xE9is"
+      - "desv\xEDen"
+      cjid: psub
+    - cjfs:
+      - desviara
+      - desviaras
+      - desviara
+      - "desvi\xE1ramos"
+      - desviarais
+      - desviaran
+      cjid: pisb1
+    - cjfs:
+      - desviase
+      - desviases
+      - desviase
+      - "desvi\xE1semos"
+      - desviaseis
+      - desviasen
+      cjid: pisb2
+    - cjfs:
+      - desviare
+      - desviares
+      - desviare
+      - "desvi\xE1remos"
+      - desviareis
+      - desviaren
+      cjid: fsub
+    - cjfs:
+      - he desviado
+      - has desviado
+      - ha desviado
+      - hemos desviado
+      - "hab\xE9is desviado"
+      - han desviado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa desviado"
+      - "hab\xEDas desviado"
+      - "hab\xEDa desviado"
+      - "hab\xEDamos desviado"
+      - "hab\xEDais desviado"
+      - "hab\xEDan desviado"
+      cjid: ppsi
+    - cjfs:
+      - hube desviado
+      - hubiste desviado
+      - hubo desviado
+      - hubimos desviado
+      - hubisteis desviado
+      - hubieron desviado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 desviado"
+      - "habr\xE1s desviado"
+      - "habr\xE1 desviado"
+      - habremos desviado
+      - "habr\xE9is desviado"
+      - "habr\xE1n desviado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa desviado"
+      - "habr\xEDas desviado"
+      - "habr\xEDa desviado"
+      - "habr\xEDamos desviado"
+      - "habr\xEDais desviado"
+      - "habr\xEDan desviado"
+      cjid: cpef
+    - cjfs:
+      - haya desviado
+      - hayas desviado
+      - haya desviado
+      - hayamos desviado
+      - "hay\xE1is desviado"
+      - hayan desviado
+      cjid: ppfs
+    - cjfs:
+      - hubiera desviado
+      - hubieras desviado
+      - hubiera desviado
+      - "hubi\xE9ramos desviado"
+      - hubierais desviado
+      - hubieran desviado
+      cjid: ppss1
+    - cjfs:
+      - hubiese desviado
+      - hubieses desviado
+      - hubiese desviado
+      - "hubi\xE9semos desviado"
+      - hubieseis desviado
+      - hubiesen desviado
+      cjid: ppss2
+    - cjfs:
+      - hubiere desviado
+      - hubieres desviado
+      - hubiere desviado
+      - "hubi\xE9remos desviado"
+      - hubiereis desviado
+      - hubieren desviado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "desv\xEDa"
+      - "desv\xEDe"
+      - desviemos
+      - desviad
+      - "desv\xEDen"
+      cjid: impf

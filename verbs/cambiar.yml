@@ -1,0 +1,270 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|change} '
+          - - vis
+            - - t: "le cambi\xF3 la vida"
+                tr: it changed her life
+              - t: "cambiaron el men\xFA"
+                tr: they changed the menu
+              - t: cambiar algo de lugar
+                tr: to move something
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exchange}, to {a_link|trade} '
+          - - vis
+            - - t: "lo cambi\xF3 por otro"
+                tr: she exchanged it for another
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|change} (money) '
+          - - vis
+            - - t: cambiar pesos a euros
+                tr: to change pesos into euros
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|change}, to {a_link|replace} '
+          - - vis
+            - - t: "cambi\xF3 la llanta/contrase\xF1a"
+                tr: he changed the tire/password
+              - t: "le cambi\xE9 el pa\xF1al"
+                tr: I changed her diaper
+          sn: '4'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|change} '
+          - - vis
+            - - t: "el tiempo cambi\xF3"
+                tr: the weather changed
+              - t: cambiar de color
+                tr: to change color
+              - t: cambiar de tema
+                tr: to change the subject
+              - t: "cambiar de opini\xF3n/idea"
+                tr: to change one's mind
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to shift gears'
+          sn: '2'
+          vrs:
+          - va: cambiar de velocidad
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|change} '
+            - - vis
+              - - t: se ha cambiado mucho
+                  tr: she's changed a lot
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|change} (clothes)'
+            sn: '2'
+            vrs:
+            - va: cambiarse de ropa
+              vl: or
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|mudarse||} {bc}to {a_link|move} (to a new address)'
+            sn: '3'
+    drp: cambiarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: cambiar
+    prs:
+    - sound:
+        audio: cambi01sp
+  meta:
+    id: cambiar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2603727000'
+    src: spanish
+    stems:
+    - cambiar
+    - cambiar de velocidad
+    - cambiarse
+    - cambiarse de ropa
+    uuid: f412123c-195f-4d0e-bcb0-af81b903669f
+  shortdef:
+  - to change
+  - to exchange, to trade
+  - to change (money)
+  suppl:
+    cjts:
+    - cjfs:
+      - cambiando
+      - cambiado
+      cjid: gppt
+    - cjfs:
+      - cambio
+      - cambias
+      - cambia
+      - cambiamos
+      - "cambi\xE1is"
+      - cambian
+      cjid: pind
+    - cjfs:
+      - cambiaba
+      - cambiabas
+      - cambiaba
+      - "cambi\xE1bamos"
+      - cambiabais
+      - cambiaban
+      cjid: pret
+    - cjfs:
+      - "cambi\xE9"
+      - cambiaste
+      - "cambi\xF3"
+      - cambiamos
+      - cambiasteis
+      - cambiaron
+      cjid: pprf
+    - cjfs:
+      - "cambiar\xE9"
+      - "cambiar\xE1s"
+      - "cambiar\xE1"
+      - cambiaremos
+      - "cambiar\xE9is"
+      - "cambiar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "cambiar\xEDa"
+      - "cambiar\xEDas"
+      - "cambiar\xEDa"
+      - "cambiar\xEDamos"
+      - "cambiar\xEDais"
+      - "cambiar\xEDan"
+      cjid: cond
+    - cjfs:
+      - cambie
+      - cambies
+      - cambie
+      - cambiemos
+      - "cambi\xE9is"
+      - cambien
+      cjid: psub
+    - cjfs:
+      - cambiara
+      - cambiaras
+      - cambiara
+      - "cambi\xE1ramos"
+      - cambiarais
+      - cambiaran
+      cjid: pisb1
+    - cjfs:
+      - cambiase
+      - cambiases
+      - cambiase
+      - "cambi\xE1semos"
+      - cambiaseis
+      - cambiasen
+      cjid: pisb2
+    - cjfs:
+      - cambiare
+      - cambiares
+      - cambiare
+      - "cambi\xE1remos"
+      - cambiareis
+      - cambiaren
+      cjid: fsub
+    - cjfs:
+      - he cambiado
+      - has cambiado
+      - ha cambiado
+      - hemos cambiado
+      - "hab\xE9is cambiado"
+      - han cambiado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cambiado"
+      - "hab\xEDas cambiado"
+      - "hab\xEDa cambiado"
+      - "hab\xEDamos cambiado"
+      - "hab\xEDais cambiado"
+      - "hab\xEDan cambiado"
+      cjid: ppsi
+    - cjfs:
+      - hube cambiado
+      - hubiste cambiado
+      - hubo cambiado
+      - hubimos cambiado
+      - hubisteis cambiado
+      - hubieron cambiado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cambiado"
+      - "habr\xE1s cambiado"
+      - "habr\xE1 cambiado"
+      - habremos cambiado
+      - "habr\xE9is cambiado"
+      - "habr\xE1n cambiado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cambiado"
+      - "habr\xEDas cambiado"
+      - "habr\xEDa cambiado"
+      - "habr\xEDamos cambiado"
+      - "habr\xEDais cambiado"
+      - "habr\xEDan cambiado"
+      cjid: cpef
+    - cjfs:
+      - haya cambiado
+      - hayas cambiado
+      - haya cambiado
+      - hayamos cambiado
+      - "hay\xE1is cambiado"
+      - hayan cambiado
+      cjid: ppfs
+    - cjfs:
+      - hubiera cambiado
+      - hubieras cambiado
+      - hubiera cambiado
+      - "hubi\xE9ramos cambiado"
+      - hubierais cambiado
+      - hubieran cambiado
+      cjid: ppss1
+    - cjfs:
+      - hubiese cambiado
+      - hubieses cambiado
+      - hubiese cambiado
+      - "hubi\xE9semos cambiado"
+      - hubieseis cambiado
+      - hubiesen cambiado
+      cjid: ppss2
+    - cjfs:
+      - hubiere cambiado
+      - hubieres cambiado
+      - hubiere cambiado
+      - "hubi\xE9remos cambiado"
+      - hubiereis cambiado
+      - hubieren cambiado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cambia
+      - cambie
+      - cambiemos
+      - cambiad
+      - cambien
+      cjid: impf

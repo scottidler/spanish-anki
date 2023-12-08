@@ -1,0 +1,189 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|appoint}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|mention}, to {a_link|name}'
+          sn: '2'
+  fl: transitive verb
+  hwi:
+    hw: nombrar
+    prs:
+    - sound:
+        audio: nombr02sp
+  meta:
+    id: nombrar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615815000'
+    src: spanish
+    stems:
+    - nombrar
+    uuid: 51d23eda-47d9-432b-a56c-48d0cfcaaa43
+  shortdef:
+  - to appoint
+  - to mention, to name
+  suppl:
+    cjts:
+    - cjfs:
+      - nombrando
+      - nombrado
+      cjid: gppt
+    - cjfs:
+      - nombro
+      - nombras
+      - nombra
+      - nombramos
+      - "nombr\xE1is"
+      - nombran
+      cjid: pind
+    - cjfs:
+      - nombraba
+      - nombrabas
+      - nombraba
+      - "nombr\xE1bamos"
+      - nombrabais
+      - nombraban
+      cjid: pret
+    - cjfs:
+      - "nombr\xE9"
+      - nombraste
+      - "nombr\xF3"
+      - nombramos
+      - nombrasteis
+      - nombraron
+      cjid: pprf
+    - cjfs:
+      - "nombrar\xE9"
+      - "nombrar\xE1s"
+      - "nombrar\xE1"
+      - nombraremos
+      - "nombrar\xE9is"
+      - "nombrar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "nombrar\xEDa"
+      - "nombrar\xEDas"
+      - "nombrar\xEDa"
+      - "nombrar\xEDamos"
+      - "nombrar\xEDais"
+      - "nombrar\xEDan"
+      cjid: cond
+    - cjfs:
+      - nombre
+      - nombres
+      - nombre
+      - nombremos
+      - "nombr\xE9is"
+      - nombren
+      cjid: psub
+    - cjfs:
+      - nombrara
+      - nombraras
+      - nombrara
+      - "nombr\xE1ramos"
+      - nombrarais
+      - nombraran
+      cjid: pisb1
+    - cjfs:
+      - nombrase
+      - nombrases
+      - nombrase
+      - "nombr\xE1semos"
+      - nombraseis
+      - nombrasen
+      cjid: pisb2
+    - cjfs:
+      - nombrare
+      - nombrares
+      - nombrare
+      - "nombr\xE1remos"
+      - nombrareis
+      - nombraren
+      cjid: fsub
+    - cjfs:
+      - he nombrado
+      - has nombrado
+      - ha nombrado
+      - hemos nombrado
+      - "hab\xE9is nombrado"
+      - han nombrado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa nombrado"
+      - "hab\xEDas nombrado"
+      - "hab\xEDa nombrado"
+      - "hab\xEDamos nombrado"
+      - "hab\xEDais nombrado"
+      - "hab\xEDan nombrado"
+      cjid: ppsi
+    - cjfs:
+      - hube nombrado
+      - hubiste nombrado
+      - hubo nombrado
+      - hubimos nombrado
+      - hubisteis nombrado
+      - hubieron nombrado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 nombrado"
+      - "habr\xE1s nombrado"
+      - "habr\xE1 nombrado"
+      - habremos nombrado
+      - "habr\xE9is nombrado"
+      - "habr\xE1n nombrado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa nombrado"
+      - "habr\xEDas nombrado"
+      - "habr\xEDa nombrado"
+      - "habr\xEDamos nombrado"
+      - "habr\xEDais nombrado"
+      - "habr\xEDan nombrado"
+      cjid: cpef
+    - cjfs:
+      - haya nombrado
+      - hayas nombrado
+      - haya nombrado
+      - hayamos nombrado
+      - "hay\xE1is nombrado"
+      - hayan nombrado
+      cjid: ppfs
+    - cjfs:
+      - hubiera nombrado
+      - hubieras nombrado
+      - hubiera nombrado
+      - "hubi\xE9ramos nombrado"
+      - hubierais nombrado
+      - hubieran nombrado
+      cjid: ppss1
+    - cjfs:
+      - hubiese nombrado
+      - hubieses nombrado
+      - hubiese nombrado
+      - "hubi\xE9semos nombrado"
+      - hubieseis nombrado
+      - hubiesen nombrado
+      cjid: ppss2
+    - cjfs:
+      - hubiere nombrado
+      - hubieres nombrado
+      - hubiere nombrado
+      - "hubi\xE9remos nombrado"
+      - hubiereis nombrado
+      - hubieren nombrado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - nombra
+      - nombre
+      - nombremos
+      - nombrad
+      - nombren
+      cjid: impf

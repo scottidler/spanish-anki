@@ -1,0 +1,234 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|yield}, to {a_link|give way}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|diminish}, to {a_link|abate}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to give in, to {a_link|relent}'
+          sn: '3'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cede}, to {a_link|hand over}'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: ceder
+    prs:
+    - sound:
+        audio: ceder01sp
+  meta:
+    id: ceder
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604253000'
+    src: spanish
+    stems:
+    - ceder
+    uuid: 427d9087-4a00-4a20-89bf-8b39fe08a7d1
+  shortdef:
+  - to yield, to give way
+  - to diminish, to abate
+  - to give in, to relent
+  suppl:
+    cjts:
+    - cjfs:
+      - cediendo
+      - cedido
+      cjid: gppt
+    - cjfs:
+      - cedo
+      - cedes
+      - cede
+      - cedemos
+      - "ced\xE9is"
+      - ceden
+      cjid: pind
+    - cjfs:
+      - "ced\xEDa"
+      - "ced\xEDas"
+      - "ced\xEDa"
+      - "ced\xEDamos"
+      - "ced\xEDais"
+      - "ced\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ced\xED"
+      - cediste
+      - "cedi\xF3"
+      - cedimos
+      - cedisteis
+      - cedieron
+      cjid: pprf
+    - cjfs:
+      - "ceder\xE9"
+      - "ceder\xE1s"
+      - "ceder\xE1"
+      - cederemos
+      - "ceder\xE9is"
+      - "ceder\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ceder\xEDa"
+      - "ceder\xEDas"
+      - "ceder\xEDa"
+      - "ceder\xEDamos"
+      - "ceder\xEDais"
+      - "ceder\xEDan"
+      cjid: cond
+    - cjfs:
+      - ceda
+      - cedas
+      - ceda
+      - cedamos
+      - "ced\xE1is"
+      - cedan
+      cjid: psub
+    - cjfs:
+      - cediera
+      - cedieras
+      - cediera
+      - "cedi\xE9ramos"
+      - cedierais
+      - cedieran
+      cjid: pisb1
+    - cjfs:
+      - cediese
+      - cedieses
+      - cediese
+      - "cedi\xE9semos"
+      - cedieseis
+      - cediesen
+      cjid: pisb2
+    - cjfs:
+      - cediere
+      - cedieres
+      - cediere
+      - "cedi\xE9remos"
+      - cediereis
+      - cedieren
+      cjid: fsub
+    - cjfs:
+      - he cedido
+      - has cedido
+      - ha cedido
+      - hemos cedido
+      - "hab\xE9is cedido"
+      - han cedido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa cedido"
+      - "hab\xEDas cedido"
+      - "hab\xEDa cedido"
+      - "hab\xEDamos cedido"
+      - "hab\xEDais cedido"
+      - "hab\xEDan cedido"
+      cjid: ppsi
+    - cjfs:
+      - hube cedido
+      - hubiste cedido
+      - hubo cedido
+      - hubimos cedido
+      - hubisteis cedido
+      - hubieron cedido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 cedido"
+      - "habr\xE1s cedido"
+      - "habr\xE1 cedido"
+      - habremos cedido
+      - "habr\xE9is cedido"
+      - "habr\xE1n cedido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa cedido"
+      - "habr\xEDas cedido"
+      - "habr\xEDa cedido"
+      - "habr\xEDamos cedido"
+      - "habr\xEDais cedido"
+      - "habr\xEDan cedido"
+      cjid: cpef
+    - cjfs:
+      - haya cedido
+      - hayas cedido
+      - haya cedido
+      - hayamos cedido
+      - "hay\xE1is cedido"
+      - hayan cedido
+      cjid: ppfs
+    - cjfs:
+      - hubiera cedido
+      - hubieras cedido
+      - hubiera cedido
+      - "hubi\xE9ramos cedido"
+      - hubierais cedido
+      - hubieran cedido
+      cjid: ppss1
+    - cjfs:
+      - hubiese cedido
+      - hubieses cedido
+      - hubiese cedido
+      - "hubi\xE9semos cedido"
+      - hubieseis cedido
+      - hubiesen cedido
+      cjid: ppss2
+    - cjfs:
+      - hubiere cedido
+      - hubieres cedido
+      - hubiere cedido
+      - "hubi\xE9remos cedido"
+      - hubiereis cedido
+      - hubieren cedido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - cede
+      - ceda
+      - cedamos
+      - ceded
+      - cedan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|ceder}, {a_link|conceder}'
+  fl: transitive verb
+  hwi:
+    hw: cede
+    prs:
+    - mw: "\u02C8si\u02D0d"
+      sound:
+        audio: cede0001
+  ins:
+  - if: ceded
+  - if: ceding
+  meta:
+    id: cede
+    lang: en
+    offensive: false
+    section: alpha
+    sort: '2603730000'
+    src: spanish
+    stems:
+    - cede
+    - ceded
+    - ceding
+    - cedes
+    - ceder
+    - ceders
+    uuid: ec1a5210-d309-4db7-943d-0390dd5ca353
+  shortdef:
+  - ceder, conceder

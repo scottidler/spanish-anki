@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|confront}, to {a_link|face up to}'
+  fl: transitive verb
+  hwi:
+    hw: afrontar
+    prs:
+    - sound:
+        audio: afron01sp
+  meta:
+    id: afrontar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600659000'
+    src: spanish
+    stems:
+    - afrontar
+    uuid: 358c4776-db61-4900-b1c2-b8e541a4a53d
+  shortdef:
+  - to confront, to face up to
+  suppl:
+    cjts:
+    - cjfs:
+      - afrontando
+      - afrontado
+      cjid: gppt
+    - cjfs:
+      - afronto
+      - afrontas
+      - afronta
+      - afrontamos
+      - "afront\xE1is"
+      - afrontan
+      cjid: pind
+    - cjfs:
+      - afrontaba
+      - afrontabas
+      - afrontaba
+      - "afront\xE1bamos"
+      - afrontabais
+      - afrontaban
+      cjid: pret
+    - cjfs:
+      - "afront\xE9"
+      - afrontaste
+      - "afront\xF3"
+      - afrontamos
+      - afrontasteis
+      - afrontaron
+      cjid: pprf
+    - cjfs:
+      - "afrontar\xE9"
+      - "afrontar\xE1s"
+      - "afrontar\xE1"
+      - afrontaremos
+      - "afrontar\xE9is"
+      - "afrontar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "afrontar\xEDa"
+      - "afrontar\xEDas"
+      - "afrontar\xEDa"
+      - "afrontar\xEDamos"
+      - "afrontar\xEDais"
+      - "afrontar\xEDan"
+      cjid: cond
+    - cjfs:
+      - afronte
+      - afrontes
+      - afronte
+      - afrontemos
+      - "afront\xE9is"
+      - afronten
+      cjid: psub
+    - cjfs:
+      - afrontara
+      - afrontaras
+      - afrontara
+      - "afront\xE1ramos"
+      - afrontarais
+      - afrontaran
+      cjid: pisb1
+    - cjfs:
+      - afrontase
+      - afrontases
+      - afrontase
+      - "afront\xE1semos"
+      - afrontaseis
+      - afrontasen
+      cjid: pisb2
+    - cjfs:
+      - afrontare
+      - afrontares
+      - afrontare
+      - "afront\xE1remos"
+      - afrontareis
+      - afrontaren
+      cjid: fsub
+    - cjfs:
+      - he afrontado
+      - has afrontado
+      - ha afrontado
+      - hemos afrontado
+      - "hab\xE9is afrontado"
+      - han afrontado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa afrontado"
+      - "hab\xEDas afrontado"
+      - "hab\xEDa afrontado"
+      - "hab\xEDamos afrontado"
+      - "hab\xEDais afrontado"
+      - "hab\xEDan afrontado"
+      cjid: ppsi
+    - cjfs:
+      - hube afrontado
+      - hubiste afrontado
+      - hubo afrontado
+      - hubimos afrontado
+      - hubisteis afrontado
+      - hubieron afrontado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 afrontado"
+      - "habr\xE1s afrontado"
+      - "habr\xE1 afrontado"
+      - habremos afrontado
+      - "habr\xE9is afrontado"
+      - "habr\xE1n afrontado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa afrontado"
+      - "habr\xEDas afrontado"
+      - "habr\xEDa afrontado"
+      - "habr\xEDamos afrontado"
+      - "habr\xEDais afrontado"
+      - "habr\xEDan afrontado"
+      cjid: cpef
+    - cjfs:
+      - haya afrontado
+      - hayas afrontado
+      - haya afrontado
+      - hayamos afrontado
+      - "hay\xE1is afrontado"
+      - hayan afrontado
+      cjid: ppfs
+    - cjfs:
+      - hubiera afrontado
+      - hubieras afrontado
+      - hubiera afrontado
+      - "hubi\xE9ramos afrontado"
+      - hubierais afrontado
+      - hubieran afrontado
+      cjid: ppss1
+    - cjfs:
+      - hubiese afrontado
+      - hubieses afrontado
+      - hubiese afrontado
+      - "hubi\xE9semos afrontado"
+      - hubieseis afrontado
+      - hubiesen afrontado
+      cjid: ppss2
+    - cjfs:
+      - hubiere afrontado
+      - hubieres afrontado
+      - hubiere afrontado
+      - "hubi\xE9remos afrontado"
+      - hubiereis afrontado
+      - hubieren afrontado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - afronta
+      - afronte
+      - afrontemos
+      - afrontad
+      - afronten
+      cjid: impf

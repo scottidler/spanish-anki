@@ -1,0 +1,199 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|modificar||} {bc}to {a_link|adapt}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|adjust}, to {a_link|fit}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to adapt oneself, to {a_link|conform}'
+    drp: adaptarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: adaptar
+    prs:
+    - sound:
+        audio: adapt01sp
+  meta:
+    id: adaptar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2600428000'
+    src: spanish
+    stems:
+    - adaptar
+    - adaptarse
+    uuid: c5662403-c5a0-43c4-ad48-cf65d53e727b
+  shortdef:
+  - 'modificar : to adapt'
+  - to adjust, to fit
+  suppl:
+    cjts:
+    - cjfs:
+      - adaptando
+      - adaptado
+      cjid: gppt
+    - cjfs:
+      - adapto
+      - adaptas
+      - adapta
+      - adaptamos
+      - "adapt\xE1is"
+      - adaptan
+      cjid: pind
+    - cjfs:
+      - adaptaba
+      - adaptabas
+      - adaptaba
+      - "adapt\xE1bamos"
+      - adaptabais
+      - adaptaban
+      cjid: pret
+    - cjfs:
+      - "adapt\xE9"
+      - adaptaste
+      - "adapt\xF3"
+      - adaptamos
+      - adaptasteis
+      - adaptaron
+      cjid: pprf
+    - cjfs:
+      - "adaptar\xE9"
+      - "adaptar\xE1s"
+      - "adaptar\xE1"
+      - adaptaremos
+      - "adaptar\xE9is"
+      - "adaptar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "adaptar\xEDa"
+      - "adaptar\xEDas"
+      - "adaptar\xEDa"
+      - "adaptar\xEDamos"
+      - "adaptar\xEDais"
+      - "adaptar\xEDan"
+      cjid: cond
+    - cjfs:
+      - adapte
+      - adaptes
+      - adapte
+      - adaptemos
+      - "adapt\xE9is"
+      - adapten
+      cjid: psub
+    - cjfs:
+      - adaptara
+      - adaptaras
+      - adaptara
+      - "adapt\xE1ramos"
+      - adaptarais
+      - adaptaran
+      cjid: pisb1
+    - cjfs:
+      - adaptase
+      - adaptases
+      - adaptase
+      - "adapt\xE1semos"
+      - adaptaseis
+      - adaptasen
+      cjid: pisb2
+    - cjfs:
+      - adaptare
+      - adaptares
+      - adaptare
+      - "adapt\xE1remos"
+      - adaptareis
+      - adaptaren
+      cjid: fsub
+    - cjfs:
+      - he adaptado
+      - has adaptado
+      - ha adaptado
+      - hemos adaptado
+      - "hab\xE9is adaptado"
+      - han adaptado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa adaptado"
+      - "hab\xEDas adaptado"
+      - "hab\xEDa adaptado"
+      - "hab\xEDamos adaptado"
+      - "hab\xEDais adaptado"
+      - "hab\xEDan adaptado"
+      cjid: ppsi
+    - cjfs:
+      - hube adaptado
+      - hubiste adaptado
+      - hubo adaptado
+      - hubimos adaptado
+      - hubisteis adaptado
+      - hubieron adaptado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 adaptado"
+      - "habr\xE1s adaptado"
+      - "habr\xE1 adaptado"
+      - habremos adaptado
+      - "habr\xE9is adaptado"
+      - "habr\xE1n adaptado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa adaptado"
+      - "habr\xEDas adaptado"
+      - "habr\xEDa adaptado"
+      - "habr\xEDamos adaptado"
+      - "habr\xEDais adaptado"
+      - "habr\xEDan adaptado"
+      cjid: cpef
+    - cjfs:
+      - haya adaptado
+      - hayas adaptado
+      - haya adaptado
+      - hayamos adaptado
+      - "hay\xE1is adaptado"
+      - hayan adaptado
+      cjid: ppfs
+    - cjfs:
+      - hubiera adaptado
+      - hubieras adaptado
+      - hubiera adaptado
+      - "hubi\xE9ramos adaptado"
+      - hubierais adaptado
+      - hubieran adaptado
+      cjid: ppss1
+    - cjfs:
+      - hubiese adaptado
+      - hubieses adaptado
+      - hubiese adaptado
+      - "hubi\xE9semos adaptado"
+      - hubieseis adaptado
+      - hubiesen adaptado
+      cjid: ppss2
+    - cjfs:
+      - hubiere adaptado
+      - hubieres adaptado
+      - hubiere adaptado
+      - "hubi\xE9remos adaptado"
+      - hubiereis adaptado
+      - hubieren adaptado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - adapta
+      - adapte
+      - adaptemos
+      - adaptad
+      - adapten
+      cjid: impf

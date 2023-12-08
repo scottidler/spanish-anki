@@ -1,0 +1,527 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|carry}, to {a_link|take} (away) '
+          - - vis
+            - - t: "le llev\xE9 las maletas"
+                tr: I carried her bags
+              - t: siempre lo lleva consigo
+                tr: he always has it with him
+              - t: me gusta, me lo llevo
+                tr: "I like it\u2014I'll take it"
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|wear} '
+          - - vis
+            - - t: llevaba un vestido azul
+                tr: she wore a blue dress
+              - t: llevar el pelo corto/largo
+                tr: to wear one's hair short/long
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take} '
+          - - vis
+            - - t: llevamos a Pedro al cine
+                tr: we took Pedro to the movies
+              - t: la llevaron al hospital
+                tr: they took her to the hospital
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lead} '
+          - - vis
+            - - t: "nos llev\xF3 por un pasillo"
+                tr: he led us down a hallway
+              - t: "me lleva a pensar que \u2026"
+                tr: "it leads me to believe that \u2026"
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lead} '
+          - - vis
+            - - t: llevar una vida sana
+                tr: to lead a healthy life
+          sn: '5'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|run}, to be in charge of '
+          - - vis
+            - - t: lleva la biblioteca
+                tr: she runs the library
+          sn: '6'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|keep} '
+          - - vis
+            - - t: llevar el ritmo
+                tr: to keep time
+              - t: llevar un diario
+                tr: to keep a diary
+          sn: '7'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take}, to {a_link|require} '
+          - - vis
+            - - t: "le llev\xF3 horas hacerlo"
+                tr: it took him hours to do it
+          sn: '8'
+    - - - sense
+        - dt:
+          - - text
+            - "{bc}to have \u2026 more than "
+          - - vis
+            - - t: nos llevan cinco puntos
+                tr: they're five points ahead of us
+              - t: "te llevo tres a\xF1os"
+                tr: I'm three years older than you
+          sn: '9'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|carry out}'
+          sn: '10'
+          vrs:
+          - va: llevar a cabo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to carry on with, to keep going with'
+          sn: '11'
+          vrs:
+          - va: llevar adelante
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|lead} '
+          - - vis
+            - - t: un problema lleva al otro
+                tr: one problem leads to another
+    vd: intransitive verb
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|have} '
+          - - vis
+            - - t: "llevo mucho tiempo busc\xE1ndolo"
+                tr: I've been looking for it for a long time
+              - t: "lleva le\xEDdo medio libro"
+                tr: he's halfway through the book
+    vd: auxiliary verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take away}, to carry off/away '
+            - - vis
+              - - t: "una ola se lo llev\xF3"
+                  tr: a wave carried him away
+                - t: "se llev\xF3 el primer premio"
+                  tr: she took/won first prize
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|get along} '
+            - - vis
+              - - t: "siempre nos llev\xE1bamos bien"
+                  tr: we always got along well
+            sn: '2'
+    drp: llevarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: llevar
+    prs:
+    - sound:
+        audio: lleva01sp
+  meta:
+    id: llevar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2613938000'
+    src: spanish
+    stems:
+    - llevar
+    - llevar a cabo
+    - llevar adelante
+    - llevarse
+    uuid: 40ef3de8-7ee4-4b9f-828c-6e7d8fff021d
+  shortdef:
+  - to carry, to take (away)
+  - to wear
+  - to take
+  suppl:
+    cjts:
+    - cjfs:
+      - llevando
+      - llevado
+      cjid: gppt
+    - cjfs:
+      - llevo
+      - llevas
+      - lleva
+      - llevamos
+      - "llev\xE1is"
+      - llevan
+      cjid: pind
+    - cjfs:
+      - llevaba
+      - llevabas
+      - llevaba
+      - "llev\xE1bamos"
+      - llevabais
+      - llevaban
+      cjid: pret
+    - cjfs:
+      - "llev\xE9"
+      - llevaste
+      - "llev\xF3"
+      - llevamos
+      - llevasteis
+      - llevaron
+      cjid: pprf
+    - cjfs:
+      - "llevar\xE9"
+      - "llevar\xE1s"
+      - "llevar\xE1"
+      - llevaremos
+      - "llevar\xE9is"
+      - "llevar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "llevar\xEDa"
+      - "llevar\xEDas"
+      - "llevar\xEDa"
+      - "llevar\xEDamos"
+      - "llevar\xEDais"
+      - "llevar\xEDan"
+      cjid: cond
+    - cjfs:
+      - lleve
+      - lleves
+      - lleve
+      - llevemos
+      - "llev\xE9is"
+      - lleven
+      cjid: psub
+    - cjfs:
+      - llevara
+      - llevaras
+      - llevara
+      - "llev\xE1ramos"
+      - llevarais
+      - llevaran
+      cjid: pisb1
+    - cjfs:
+      - llevase
+      - llevases
+      - llevase
+      - "llev\xE1semos"
+      - llevaseis
+      - llevasen
+      cjid: pisb2
+    - cjfs:
+      - llevare
+      - llevares
+      - llevare
+      - "llev\xE1remos"
+      - llevareis
+      - llevaren
+      cjid: fsub
+    - cjfs:
+      - he llevado
+      - has llevado
+      - ha llevado
+      - hemos llevado
+      - "hab\xE9is llevado"
+      - han llevado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa llevado"
+      - "hab\xEDas llevado"
+      - "hab\xEDa llevado"
+      - "hab\xEDamos llevado"
+      - "hab\xEDais llevado"
+      - "hab\xEDan llevado"
+      cjid: ppsi
+    - cjfs:
+      - hube llevado
+      - hubiste llevado
+      - hubo llevado
+      - hubimos llevado
+      - hubisteis llevado
+      - hubieron llevado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 llevado"
+      - "habr\xE1s llevado"
+      - "habr\xE1 llevado"
+      - habremos llevado
+      - "habr\xE9is llevado"
+      - "habr\xE1n llevado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa llevado"
+      - "habr\xEDas llevado"
+      - "habr\xEDa llevado"
+      - "habr\xEDamos llevado"
+      - "habr\xEDais llevado"
+      - "habr\xEDan llevado"
+      cjid: cpef
+    - cjfs:
+      - haya llevado
+      - hayas llevado
+      - haya llevado
+      - hayamos llevado
+      - "hay\xE1is llevado"
+      - hayan llevado
+      cjid: ppfs
+    - cjfs:
+      - hubiera llevado
+      - hubieras llevado
+      - hubiera llevado
+      - "hubi\xE9ramos llevado"
+      - hubierais llevado
+      - hubieran llevado
+      cjid: ppss1
+    - cjfs:
+      - hubiese llevado
+      - hubieses llevado
+      - hubiese llevado
+      - "hubi\xE9semos llevado"
+      - hubieseis llevado
+      - hubiesen llevado
+      cjid: ppss2
+    - cjfs:
+      - hubiere llevado
+      - hubieres llevado
+      - hubiere llevado
+      - "hubi\xE9remos llevado"
+      - hubiereis llevado
+      - hubieren llevado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - lleva
+      - lleve
+      - llevemos
+      - llevad
+      - lleven
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|dance}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}dance party, {a_link|ball}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take advantage of}'
+          sls:
+          - Mexico familiar
+          sn: '3'
+          vrs:
+          - va: llevarse al baile a
+  fl: masculine noun
+  hwi:
+    hw: baile
+    prs:
+    - sound:
+        audio: baile01sp
+  meta:
+    id: baile
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602655000'
+    src: spanish
+    stems:
+    - baile
+    - llevarse al baile a
+    uuid: cd5ae2b5-fb99-4a10-852e-76665529365c
+  shortdef:
+  - dance
+  - dance party, ball
+  - to take advantage of
+- ahws:
+  - hw: gata
+    hwc: -ta
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|cat} '
+          - - vis
+            - - t: gato manchado
+                tr: calico cat
+              - t: "gato mont\xE9s"
+                tr: wildcat
+          vrs:
+          - va: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}there''s something fishy going on (here)'
+          sn: '2'
+          vrs:
+          - va: "(aqu\xED) hay gato encerrado"
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to swindle someone'
+          sn: '3'
+          vrs:
+          - va: dar gato por liebre a alguien
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to pull it off, to manage it'
+          sn: '4'
+          vrs:
+          - va: llevarse el gato al agua
+  fl: noun
+  hom: 1
+  hwi:
+    hw: gato
+    prs:
+    - sound:
+        audio: gato001sp
+  meta:
+    id: gato:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2610727000'
+    src: spanish
+    stems:
+    - gato
+    - gata
+    - '1'
+    - "(aqu\xED) hay gato encerrado"
+    - dar gato por liebre a alguien
+    - llevarse el gato al agua
+    uuid: 38c6e32a-2e54-4192-a922-17170d977a8d
+  shortdef:
+  - cat
+  - there's something fishy going on (here)
+  - to swindle someone
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|palm} (of the hand)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|palm} (tree or leaf)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|clap}, to {a_link|applaud}'
+          sn: '3'
+          vrs:
+          - va: batir/dar palmas
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take the cake}'
+          sls:
+          - familiar
+          sn: '4'
+          vrs:
+          - va: llevarse la palma
+  fl: feminine noun
+  hwi:
+    hw: palma
+    prs:
+    - sound:
+        audio: palma01sp
+  meta:
+    id: palma
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616512000'
+    src: spanish
+    stems:
+    - palma
+    - batir/dar palmas
+    - batir palmas
+    - dar palmas
+    - llevarse la palma
+    uuid: 9dba5059-f546-4118-b863-612012fcb081
+  shortdef:
+  - palm (of the hand)
+  - palm (tree or leaf)
+  - to clap, to applaud
+- ahws:
+  - hw: presa
+    hwc: -sa
+  def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}imprisoned '
+          - - vis
+            - - t: estar preso
+                tr: to be imprisoned
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|imprison}, to take prisoner'
+          sn: '2'
+          vrs:
+          - va: llevarse/tomar preso a
+  fl: adjective
+  hom: 1
+  hwi:
+    hw: preso
+    prs:
+    - sound:
+        audio: preso01sp
+  meta:
+    id: preso:1
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2618048000'
+    src: spanish
+    stems:
+    - preso
+    - presa
+    - llevarse/tomar preso a
+    - llevarse preso a
+    - tomar preso a
+    uuid: 04095321-c961-4ca5-8904-12e333218a0c
+  shortdef:
+  - imprisoned
+  - to imprison, to take prisoner

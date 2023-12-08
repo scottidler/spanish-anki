@@ -1,0 +1,204 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take advantage of} (an opportunity, etc.), to make good
+              use of (time, etc.)'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to make the most of it'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|take advantage of}, to {a_link|exploit}'
+            vrs:
+            - va: aprovecharse de
+              vac: ~ de
+    drp: aprovecharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: aprovechar
+    prs:
+    - sound:
+        audio: aprov03sp
+  meta:
+    id: aprovechar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601814000'
+    src: spanish
+    stems:
+    - aprovechar
+    - aprovecharse
+    - aprovecharse de
+    uuid: 79306961-fc5f-4b18-9ea4-0cb08a160965
+  shortdef:
+  - to take advantage of (an opportunity, etc.), to make good use of (time, etc.)
+  - to make the most of it
+  suppl:
+    cjts:
+    - cjfs:
+      - aprovechando
+      - aprovechado
+      cjid: gppt
+    - cjfs:
+      - aprovecho
+      - aprovechas
+      - aprovecha
+      - aprovechamos
+      - "aprovech\xE1is"
+      - aprovechan
+      cjid: pind
+    - cjfs:
+      - aprovechaba
+      - aprovechabas
+      - aprovechaba
+      - "aprovech\xE1bamos"
+      - aprovechabais
+      - aprovechaban
+      cjid: pret
+    - cjfs:
+      - "aprovech\xE9"
+      - aprovechaste
+      - "aprovech\xF3"
+      - aprovechamos
+      - aprovechasteis
+      - aprovecharon
+      cjid: pprf
+    - cjfs:
+      - "aprovechar\xE9"
+      - "aprovechar\xE1s"
+      - "aprovechar\xE1"
+      - aprovecharemos
+      - "aprovechar\xE9is"
+      - "aprovechar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "aprovechar\xEDa"
+      - "aprovechar\xEDas"
+      - "aprovechar\xEDa"
+      - "aprovechar\xEDamos"
+      - "aprovechar\xEDais"
+      - "aprovechar\xEDan"
+      cjid: cond
+    - cjfs:
+      - aproveche
+      - aproveches
+      - aproveche
+      - aprovechemos
+      - "aprovech\xE9is"
+      - aprovechen
+      cjid: psub
+    - cjfs:
+      - aprovechara
+      - aprovecharas
+      - aprovechara
+      - "aprovech\xE1ramos"
+      - aprovecharais
+      - aprovecharan
+      cjid: pisb1
+    - cjfs:
+      - aprovechase
+      - aprovechases
+      - aprovechase
+      - "aprovech\xE1semos"
+      - aprovechaseis
+      - aprovechasen
+      cjid: pisb2
+    - cjfs:
+      - aprovechare
+      - aprovechares
+      - aprovechare
+      - "aprovech\xE1remos"
+      - aprovechareis
+      - aprovecharen
+      cjid: fsub
+    - cjfs:
+      - he aprovechado
+      - has aprovechado
+      - ha aprovechado
+      - hemos aprovechado
+      - "hab\xE9is aprovechado"
+      - han aprovechado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa aprovechado"
+      - "hab\xEDas aprovechado"
+      - "hab\xEDa aprovechado"
+      - "hab\xEDamos aprovechado"
+      - "hab\xEDais aprovechado"
+      - "hab\xEDan aprovechado"
+      cjid: ppsi
+    - cjfs:
+      - hube aprovechado
+      - hubiste aprovechado
+      - hubo aprovechado
+      - hubimos aprovechado
+      - hubisteis aprovechado
+      - hubieron aprovechado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 aprovechado"
+      - "habr\xE1s aprovechado"
+      - "habr\xE1 aprovechado"
+      - habremos aprovechado
+      - "habr\xE9is aprovechado"
+      - "habr\xE1n aprovechado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa aprovechado"
+      - "habr\xEDas aprovechado"
+      - "habr\xEDa aprovechado"
+      - "habr\xEDamos aprovechado"
+      - "habr\xEDais aprovechado"
+      - "habr\xEDan aprovechado"
+      cjid: cpef
+    - cjfs:
+      - haya aprovechado
+      - hayas aprovechado
+      - haya aprovechado
+      - hayamos aprovechado
+      - "hay\xE1is aprovechado"
+      - hayan aprovechado
+      cjid: ppfs
+    - cjfs:
+      - hubiera aprovechado
+      - hubieras aprovechado
+      - hubiera aprovechado
+      - "hubi\xE9ramos aprovechado"
+      - hubierais aprovechado
+      - hubieran aprovechado
+      cjid: ppss1
+    - cjfs:
+      - hubiese aprovechado
+      - hubieses aprovechado
+      - hubiese aprovechado
+      - "hubi\xE9semos aprovechado"
+      - hubieseis aprovechado
+      - hubiesen aprovechado
+      cjid: ppss2
+    - cjfs:
+      - hubiere aprovechado
+      - hubieres aprovechado
+      - hubiere aprovechado
+      - "hubi\xE9remos aprovechado"
+      - hubiereis aprovechado
+      - hubieren aprovechado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - aprovecha
+      - aproveche
+      - aprovechemos
+      - aprovechad
+      - aprovechen
+      cjid: impf

@@ -1,0 +1,183 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|intensify}'
+  fl: transitive verb
+  hwi:
+    hw: intensificar
+  meta:
+    id: intensificar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2612801000'
+    src: spanish
+    stems:
+    - intensificar
+    - intensificarse
+    uuid: 667fd08e-04f0-47f5-aed2-d4f7cedeb3a7
+  shortdef:
+  - to intensify
+  suppl:
+    cjts:
+    - cjfs:
+      - intensificando
+      - intensificado
+      cjid: gppt
+    - cjfs:
+      - intensifico
+      - intensificas
+      - intensifica
+      - intensificamos
+      - "intensific\xE1is"
+      - intensifican
+      cjid: pind
+    - cjfs:
+      - intensificaba
+      - intensificabas
+      - intensificaba
+      - "intensific\xE1bamos"
+      - intensificabais
+      - intensificaban
+      cjid: pret
+    - cjfs:
+      - "intensifiqu\xE9"
+      - intensificaste
+      - "intensific\xF3"
+      - intensificamos
+      - intensificasteis
+      - intensificaron
+      cjid: pprf
+    - cjfs:
+      - "intensificar\xE9"
+      - "intensificar\xE1s"
+      - "intensificar\xE1"
+      - intensificaremos
+      - "intensificar\xE9is"
+      - "intensificar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "intensificar\xEDa"
+      - "intensificar\xEDas"
+      - "intensificar\xEDa"
+      - "intensificar\xEDamos"
+      - "intensificar\xEDais"
+      - "intensificar\xEDan"
+      cjid: cond
+    - cjfs:
+      - intensifique
+      - intensifiques
+      - intensifique
+      - intensifiquemos
+      - "intensifiqu\xE9is"
+      - intensifiquen
+      cjid: psub
+    - cjfs:
+      - intensificara
+      - intensificaras
+      - intensificara
+      - "intensific\xE1ramos"
+      - intensificarais
+      - intensificaran
+      cjid: pisb1
+    - cjfs:
+      - intensificase
+      - intensificases
+      - intensificase
+      - "intensific\xE1semos"
+      - intensificaseis
+      - intensificasen
+      cjid: pisb2
+    - cjfs:
+      - intensificare
+      - intensificares
+      - intensificare
+      - "intensific\xE1remos"
+      - intensificareis
+      - intensificaren
+      cjid: fsub
+    - cjfs:
+      - he intensificado
+      - has intensificado
+      - ha intensificado
+      - hemos intensificado
+      - "hab\xE9is intensificado"
+      - han intensificado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa intensificado"
+      - "hab\xEDas intensificado"
+      - "hab\xEDa intensificado"
+      - "hab\xEDamos intensificado"
+      - "hab\xEDais intensificado"
+      - "hab\xEDan intensificado"
+      cjid: ppsi
+    - cjfs:
+      - hube intensificado
+      - hubiste intensificado
+      - hubo intensificado
+      - hubimos intensificado
+      - hubisteis intensificado
+      - hubieron intensificado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 intensificado"
+      - "habr\xE1s intensificado"
+      - "habr\xE1 intensificado"
+      - habremos intensificado
+      - "habr\xE9is intensificado"
+      - "habr\xE1n intensificado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa intensificado"
+      - "habr\xEDas intensificado"
+      - "habr\xEDa intensificado"
+      - "habr\xEDamos intensificado"
+      - "habr\xEDais intensificado"
+      - "habr\xEDan intensificado"
+      cjid: cpef
+    - cjfs:
+      - haya intensificado
+      - hayas intensificado
+      - haya intensificado
+      - hayamos intensificado
+      - "hay\xE1is intensificado"
+      - hayan intensificado
+      cjid: ppfs
+    - cjfs:
+      - hubiera intensificado
+      - hubieras intensificado
+      - hubiera intensificado
+      - "hubi\xE9ramos intensificado"
+      - hubierais intensificado
+      - hubieran intensificado
+      cjid: ppss1
+    - cjfs:
+      - hubiese intensificado
+      - hubieses intensificado
+      - hubiese intensificado
+      - "hubi\xE9semos intensificado"
+      - hubieseis intensificado
+      - hubiesen intensificado
+      cjid: ppss2
+    - cjfs:
+      - hubiere intensificado
+      - hubieres intensificado
+      - hubiere intensificado
+      - "hubi\xE9remos intensificado"
+      - hubiereis intensificado
+      - hubieren intensificado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - intensifica
+      - intensifique
+      - intensifiquemos
+      - intensificad
+      - intensifiquen
+      cjid: impf
+  uros:
+  - fl: reflexive verb
+    ure: intensificarse

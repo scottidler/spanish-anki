@@ -1,0 +1,551 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|return}, to come/go back '
+          - - vis
+            - - t: volver a casa
+                tr: to return home
+              - t: volver de vacaciones
+                tr: to get back from vacation
+              - t: "no vuelvas por aqu\xED"
+                tr: don't come back here
+              - t: "volver atr\xE1s"
+                tr: to turn back
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to return to '
+          - - vis
+            - - t: volver al tema
+                tr: to get back to the subject
+              - t: volver a la normalidad
+                tr: to get back to normal
+          sn: '2'
+          vrs:
+          - va: volver a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to do again '
+          - - vis
+            - - t: volvieron a llamar
+                tr: they called again
+              - t: volver a pasar/ocurrir/suceder
+                tr: to happen again
+          sn: '3'
+          vrs:
+          - va: volver a
+            vac: ~ a
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|come to}, to regain consciousness'
+          sn: '4'
+          vrs:
+          - va: "volver en s\xED"
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn}, to {a_link|turn over}, to turn inside out'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|return}, to {a_link|repay}, to {a_link|restore}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cause}, to {a_link|make} '
+          - - vis
+            - - t: "la volv\xEDa loca"
+                tr: it was driving her crazy
+          sn: '3'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|become} '
+            - - vis
+              - - t: "se volvi\xF3 deprimido"
+                  tr: he became depressed
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|turn around}'
+            sn: '2'
+    drp: volverse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: volver
+    prs:
+    - sound:
+        audio: volve01sp
+  meta:
+    id: volver
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2623212000'
+    src: spanish
+    stems:
+    - volver
+    - volver a
+    - "volver en s\xED"
+    - volverse
+    uuid: 31ea1984-ebef-4d3a-a85d-acadc1d1987a
+  shortdef:
+  - to return, to come/go back
+  - to return to
+  - to do again
+  suppl:
+    cjts:
+    - cjfs:
+      - volviendo
+      - vuelto
+      cjid: gppt
+    - cjfs:
+      - vuelvo
+      - vuelves
+      - vuelve
+      - volvemos
+      - "volv\xE9is"
+      - vuelven
+      cjid: pind
+    - cjfs:
+      - "volv\xEDa"
+      - "volv\xEDas"
+      - "volv\xEDa"
+      - "volv\xEDamos"
+      - "volv\xEDais"
+      - "volv\xEDan"
+      cjid: pret
+    - cjfs:
+      - "volv\xED"
+      - volviste
+      - "volvi\xF3"
+      - volvimos
+      - volvisteis
+      - volvieron
+      cjid: pprf
+    - cjfs:
+      - "volver\xE9"
+      - "volver\xE1s"
+      - "volver\xE1"
+      - volveremos
+      - "volver\xE9is"
+      - "volver\xE1n"
+      cjid: futr
+    - cjfs:
+      - "volver\xEDa"
+      - "volver\xEDas"
+      - "volver\xEDa"
+      - "volver\xEDamos"
+      - "volver\xEDais"
+      - "volver\xEDan"
+      cjid: cond
+    - cjfs:
+      - vuelva
+      - vuelvas
+      - vuelva
+      - volvamos
+      - "volv\xE1is"
+      - vuelvan
+      cjid: psub
+    - cjfs:
+      - volviera
+      - volvieras
+      - volviera
+      - "volvi\xE9ramos"
+      - volvierais
+      - volvieran
+      cjid: pisb1
+    - cjfs:
+      - volviese
+      - volvieses
+      - volviese
+      - "volvi\xE9semos"
+      - volvieseis
+      - volviesen
+      cjid: pisb2
+    - cjfs:
+      - volviere
+      - volvieres
+      - volviere
+      - "volvi\xE9remos"
+      - volviereis
+      - volvieren
+      cjid: fsub
+    - cjfs:
+      - he vuelto
+      - has vuelto
+      - ha vuelto
+      - hemos vuelto
+      - "hab\xE9is vuelto"
+      - han vuelto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vuelto"
+      - "hab\xEDas vuelto"
+      - "hab\xEDa vuelto"
+      - "hab\xEDamos vuelto"
+      - "hab\xEDais vuelto"
+      - "hab\xEDan vuelto"
+      cjid: ppsi
+    - cjfs:
+      - hube vuelto
+      - hubiste vuelto
+      - hubo vuelto
+      - hubimos vuelto
+      - hubisteis vuelto
+      - hubieron vuelto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vuelto"
+      - "habr\xE1s vuelto"
+      - "habr\xE1 vuelto"
+      - habremos vuelto
+      - "habr\xE9is vuelto"
+      - "habr\xE1n vuelto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vuelto"
+      - "habr\xEDas vuelto"
+      - "habr\xEDa vuelto"
+      - "habr\xEDamos vuelto"
+      - "habr\xEDais vuelto"
+      - "habr\xEDan vuelto"
+      cjid: cpef
+    - cjfs:
+      - haya vuelto
+      - hayas vuelto
+      - haya vuelto
+      - hayamos vuelto
+      - "hay\xE1is vuelto"
+      - hayan vuelto
+      cjid: ppfs
+    - cjfs:
+      - hubiera vuelto
+      - hubieras vuelto
+      - hubiera vuelto
+      - "hubi\xE9ramos vuelto"
+      - hubierais vuelto
+      - hubieran vuelto
+      cjid: ppss1
+    - cjfs:
+      - hubiese vuelto
+      - hubieses vuelto
+      - hubiese vuelto
+      - "hubi\xE9semos vuelto"
+      - hubieseis vuelto
+      - hubiesen vuelto
+      cjid: ppss2
+    - cjfs:
+      - hubiere vuelto
+      - hubieres vuelto
+      - hubiere vuelto
+      - "hubi\xE9remos vuelto"
+      - hubiereis vuelto
+      - hubieren vuelto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vuelve
+      - vuelva
+      - volvamos
+      - volved
+      - vuelvan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}tracks'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to go back to one''s old ways, to {a_link|backslide}'
+          sn: '2'
+          vrs:
+          - va: volver a las andadas
+  fl: feminine plural noun
+  hwi:
+    hw: andadas
+  meta:
+    id: andadas
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601348000'
+    src: spanish
+    stems:
+    - andadas
+    - volver a las andadas
+    uuid: a9c69c02-40bc-45c7-9ce7-4185303c5a86
+  shortdef:
+  - tracks
+  - to go back to one's old ways, to backslide
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be born '
+          - - vis
+            - - t: "nac\xED en Guatemala"
+                tr: I was born in Guatemala
+              - t: "no naci\xF3 ayer"
+                tr: he wasn't born yesterday
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|hatch}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|bud}, to {a_link|sprout}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|rise}, to {a_link|originate}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to be born to be something'
+          sn: '5'
+          vrs:
+          - va: nacer para algo
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to have a lucky escape'
+          sn: '6'
+          vrs:
+          - va: volver a nacer
+  fl: intransitive verb
+  hwi:
+    hw: nacer
+    prs:
+    - sound:
+        audio: nacer01sp
+  meta:
+    id: nacer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2615547000'
+    src: spanish
+    stems:
+    - nacer
+    - nacer para algo
+    - volver a nacer
+    uuid: 94fee331-3d54-4be0-9b95-a5fae2f295ae
+  shortdef:
+  - to be born
+  - to hatch
+  - to bud, to sprout
+  suppl:
+    cjts:
+    - cjfs:
+      - naciendo
+      - nacido
+      cjid: gppt
+    - cjfs:
+      - nazco
+      - naces
+      - nace
+      - nacemos
+      - "nac\xE9is"
+      - nacen
+      cjid: pind
+    - cjfs:
+      - "nac\xEDa"
+      - "nac\xEDas"
+      - "nac\xEDa"
+      - "nac\xEDamos"
+      - "nac\xEDais"
+      - "nac\xEDan"
+      cjid: pret
+    - cjfs:
+      - "nac\xED"
+      - naciste
+      - "naci\xF3"
+      - nacimos
+      - nacisteis
+      - nacieron
+      cjid: pprf
+    - cjfs:
+      - "nacer\xE9"
+      - "nacer\xE1s"
+      - "nacer\xE1"
+      - naceremos
+      - "nacer\xE9is"
+      - "nacer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "nacer\xEDa"
+      - "nacer\xEDas"
+      - "nacer\xEDa"
+      - "nacer\xEDamos"
+      - "nacer\xEDais"
+      - "nacer\xEDan"
+      cjid: cond
+    - cjfs:
+      - nazca
+      - nazcas
+      - nazca
+      - nazcamos
+      - "nazc\xE1is"
+      - nazcan
+      cjid: psub
+    - cjfs:
+      - naciera
+      - nacieras
+      - naciera
+      - "naci\xE9ramos"
+      - nacierais
+      - nacieran
+      cjid: pisb1
+    - cjfs:
+      - naciese
+      - nacieses
+      - naciese
+      - "naci\xE9semos"
+      - nacieseis
+      - naciesen
+      cjid: pisb2
+    - cjfs:
+      - naciere
+      - nacieres
+      - naciere
+      - "naci\xE9remos"
+      - naciereis
+      - nacieren
+      cjid: fsub
+    - cjfs:
+      - he nacido
+      - has nacido
+      - ha nacido
+      - hemos nacido
+      - "hab\xE9is nacido"
+      - han nacido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa nacido"
+      - "hab\xEDas nacido"
+      - "hab\xEDa nacido"
+      - "hab\xEDamos nacido"
+      - "hab\xEDais nacido"
+      - "hab\xEDan nacido"
+      cjid: ppsi
+    - cjfs:
+      - hube nacido
+      - hubiste nacido
+      - hubo nacido
+      - hubimos nacido
+      - hubisteis nacido
+      - hubieron nacido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 nacido"
+      - "habr\xE1s nacido"
+      - "habr\xE1 nacido"
+      - habremos nacido
+      - "habr\xE9is nacido"
+      - "habr\xE1n nacido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa nacido"
+      - "habr\xEDas nacido"
+      - "habr\xEDa nacido"
+      - "habr\xEDamos nacido"
+      - "habr\xEDais nacido"
+      - "habr\xEDan nacido"
+      cjid: cpef
+    - cjfs:
+      - haya nacido
+      - hayas nacido
+      - haya nacido
+      - hayamos nacido
+      - "hay\xE1is nacido"
+      - hayan nacido
+      cjid: ppfs
+    - cjfs:
+      - hubiera nacido
+      - hubieras nacido
+      - hubiera nacido
+      - "hubi\xE9ramos nacido"
+      - hubierais nacido
+      - hubieran nacido
+      cjid: ppss1
+    - cjfs:
+      - hubiese nacido
+      - hubieses nacido
+      - hubiese nacido
+      - "hubi\xE9semos nacido"
+      - hubieseis nacido
+      - hubiesen nacido
+      cjid: ppss2
+    - cjfs:
+      - hubiere nacido
+      - hubieres nacido
+      - hubiere nacido
+      - "hubi\xE9remos nacido"
+      - hubiereis nacido
+      - hubieren nacido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - nace
+      - nazca
+      - nazcamos
+      - naced
+      - nazcan
+      cjid: impf
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|sheepfold}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to return to the fold'
+          sn: '2'
+          vrs:
+          - va: volver al redil
+  fl: masculine noun
+  hwi:
+    hw: redil
+  meta:
+    id: redil
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619090000'
+    src: spanish
+    stems:
+    - redil
+    - volver al redil
+    uuid: 43589b98-6f99-4c99-b85e-8f9ab0adf5d4
+  shortdef:
+  - sheepfold
+  - to return to the fold

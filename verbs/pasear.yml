@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take a walk, to go for a ride'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to take for a walk'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to parade around, to {a_link|show off}'
+          sn: '2'
+    vd: transitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to walk around, to go for a ride'
+    drp: pasearse
+    fl: reflexive verb
+  fl: intransitive verb
+  hwi:
+    hw: pasear
+    prs:
+    - sound:
+        audio: pasea01sp
+  meta:
+    id: pasear
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616779000'
+    src: spanish
+    stems:
+    - pasear
+    - pasearse
+    uuid: a56febeb-2f8f-495f-8f07-8f91bf33f4c3
+  shortdef:
+  - to take a walk, to go for a ride
+  - to take for a walk
+  - to parade around, to show off
+  suppl:
+    cjts:
+    - cjfs:
+      - paseando
+      - paseado
+      cjid: gppt
+    - cjfs:
+      - paseo
+      - paseas
+      - pasea
+      - paseamos
+      - "pase\xE1is"
+      - pasean
+      cjid: pind
+    - cjfs:
+      - paseaba
+      - paseabas
+      - paseaba
+      - "pase\xE1bamos"
+      - paseabais
+      - paseaban
+      cjid: pret
+    - cjfs:
+      - "pase\xE9"
+      - paseaste
+      - "pase\xF3"
+      - paseamos
+      - paseasteis
+      - pasearon
+      cjid: pprf
+    - cjfs:
+      - "pasear\xE9"
+      - "pasear\xE1s"
+      - "pasear\xE1"
+      - pasearemos
+      - "pasear\xE9is"
+      - "pasear\xE1n"
+      cjid: futr
+    - cjfs:
+      - "pasear\xEDa"
+      - "pasear\xEDas"
+      - "pasear\xEDa"
+      - "pasear\xEDamos"
+      - "pasear\xEDais"
+      - "pasear\xEDan"
+      cjid: cond
+    - cjfs:
+      - pasee
+      - pasees
+      - pasee
+      - paseemos
+      - "pase\xE9is"
+      - paseen
+      cjid: psub
+    - cjfs:
+      - paseara
+      - pasearas
+      - paseara
+      - "pase\xE1ramos"
+      - pasearais
+      - pasearan
+      cjid: pisb1
+    - cjfs:
+      - pasease
+      - paseases
+      - pasease
+      - "pase\xE1semos"
+      - paseaseis
+      - paseasen
+      cjid: pisb2
+    - cjfs:
+      - paseare
+      - paseares
+      - paseare
+      - "pase\xE1remos"
+      - paseareis
+      - pasearen
+      cjid: fsub
+    - cjfs:
+      - he paseado
+      - has paseado
+      - ha paseado
+      - hemos paseado
+      - "hab\xE9is paseado"
+      - han paseado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa paseado"
+      - "hab\xEDas paseado"
+      - "hab\xEDa paseado"
+      - "hab\xEDamos paseado"
+      - "hab\xEDais paseado"
+      - "hab\xEDan paseado"
+      cjid: ppsi
+    - cjfs:
+      - hube paseado
+      - hubiste paseado
+      - hubo paseado
+      - hubimos paseado
+      - hubisteis paseado
+      - hubieron paseado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 paseado"
+      - "habr\xE1s paseado"
+      - "habr\xE1 paseado"
+      - habremos paseado
+      - "habr\xE9is paseado"
+      - "habr\xE1n paseado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa paseado"
+      - "habr\xEDas paseado"
+      - "habr\xEDa paseado"
+      - "habr\xEDamos paseado"
+      - "habr\xEDais paseado"
+      - "habr\xEDan paseado"
+      cjid: cpef
+    - cjfs:
+      - haya paseado
+      - hayas paseado
+      - haya paseado
+      - hayamos paseado
+      - "hay\xE1is paseado"
+      - hayan paseado
+      cjid: ppfs
+    - cjfs:
+      - hubiera paseado
+      - hubieras paseado
+      - hubiera paseado
+      - "hubi\xE9ramos paseado"
+      - hubierais paseado
+      - hubieran paseado
+      cjid: ppss1
+    - cjfs:
+      - hubiese paseado
+      - hubieses paseado
+      - hubiese paseado
+      - "hubi\xE9semos paseado"
+      - hubieseis paseado
+      - hubiesen paseado
+      cjid: ppss2
+    - cjfs:
+      - hubiere paseado
+      - hubieres paseado
+      - hubiere paseado
+      - "hubi\xE9remos paseado"
+      - hubiereis paseado
+      - hubieren paseado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - pasea
+      - pasee
+      - paseemos
+      - pasead
+      - paseen
+      cjid: impf

@@ -1,0 +1,211 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pour} (liquid), to {a_link|dump} (waste)'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|derramar||} {bc}to {a_link|spill}, to {a_link|shed}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|vaciar||} {bc}to {a_link|empty out}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|expresar||} {bc}to {a_link|express}, to {a_link|voice}'
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|traducir||} {bc}to {a_link|translate}, to {a_link|render}'
+          sn: '5'
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|flow}'
+    vd: intransitive verb
+  fl: transitive verb
+  hwi:
+    hw: verter
+    prs:
+    - sound:
+        audio: verte02sp
+  meta:
+    id: verter
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622922000'
+    src: spanish
+    stems:
+    - verter
+    uuid: 96ce199b-729a-4071-a9e5-f4418a6171d0
+  shortdef:
+  - to pour (liquid), to dump (waste)
+  - 'derramar : to spill, to shed'
+  - 'vaciar : to empty out'
+  suppl:
+    cjts:
+    - cjfs:
+      - vertiendo
+      - vertido
+      cjid: gppt
+    - cjfs:
+      - vierto
+      - viertes
+      - vierte
+      - vertemos
+      - "vert\xE9is"
+      - vierten
+      cjid: pind
+    - cjfs:
+      - "vert\xEDa"
+      - "vert\xEDas"
+      - "vert\xEDa"
+      - "vert\xEDamos"
+      - "vert\xEDais"
+      - "vert\xEDan"
+      cjid: pret
+    - cjfs:
+      - "vert\xED"
+      - vertiste
+      - "verti\xF3"
+      - vertimos
+      - vertisteis
+      - vertieron
+      cjid: pprf
+    - cjfs:
+      - "verter\xE9"
+      - "verter\xE1s"
+      - "verter\xE1"
+      - verteremos
+      - "verter\xE9is"
+      - "verter\xE1n"
+      cjid: futr
+    - cjfs:
+      - "verter\xEDa"
+      - "verter\xEDas"
+      - "verter\xEDa"
+      - "verter\xEDamos"
+      - "verter\xEDais"
+      - "verter\xEDan"
+      cjid: cond
+    - cjfs:
+      - vierta
+      - viertas
+      - vierta
+      - vertamos
+      - "vert\xE1is"
+      - viertan
+      cjid: psub
+    - cjfs:
+      - vertiera
+      - vertieras
+      - vertiera
+      - "verti\xE9ramos"
+      - vertierais
+      - vertieran
+      cjid: pisb1
+    - cjfs:
+      - vertiese
+      - vertieses
+      - vertiese
+      - "verti\xE9semos"
+      - vertieseis
+      - vertiesen
+      cjid: pisb2
+    - cjfs:
+      - vertiere
+      - vertieres
+      - vertiere
+      - "verti\xE9remos"
+      - vertiereis
+      - vertieren
+      cjid: fsub
+    - cjfs:
+      - he vertido
+      - has vertido
+      - ha vertido
+      - hemos vertido
+      - "hab\xE9is vertido"
+      - han vertido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa vertido"
+      - "hab\xEDas vertido"
+      - "hab\xEDa vertido"
+      - "hab\xEDamos vertido"
+      - "hab\xEDais vertido"
+      - "hab\xEDan vertido"
+      cjid: ppsi
+    - cjfs:
+      - hube vertido
+      - hubiste vertido
+      - hubo vertido
+      - hubimos vertido
+      - hubisteis vertido
+      - hubieron vertido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 vertido"
+      - "habr\xE1s vertido"
+      - "habr\xE1 vertido"
+      - habremos vertido
+      - "habr\xE9is vertido"
+      - "habr\xE1n vertido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa vertido"
+      - "habr\xEDas vertido"
+      - "habr\xEDa vertido"
+      - "habr\xEDamos vertido"
+      - "habr\xEDais vertido"
+      - "habr\xEDan vertido"
+      cjid: cpef
+    - cjfs:
+      - haya vertido
+      - hayas vertido
+      - haya vertido
+      - hayamos vertido
+      - "hay\xE1is vertido"
+      - hayan vertido
+      cjid: ppfs
+    - cjfs:
+      - hubiera vertido
+      - hubieras vertido
+      - hubiera vertido
+      - "hubi\xE9ramos vertido"
+      - hubierais vertido
+      - hubieran vertido
+      cjid: ppss1
+    - cjfs:
+      - hubiese vertido
+      - hubieses vertido
+      - hubiese vertido
+      - "hubi\xE9semos vertido"
+      - hubieseis vertido
+      - hubiesen vertido
+      cjid: ppss2
+    - cjfs:
+      - hubiere vertido
+      - hubieres vertido
+      - hubiere vertido
+      - "hubi\xE9remos vertido"
+      - hubiereis vertido
+      - hubieren vertido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - vierte
+      - vierta
+      - vertamos
+      - verted
+      - viertan
+      cjid: impf

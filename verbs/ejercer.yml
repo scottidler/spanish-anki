@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to practice as, to work as'
+          vrs:
+          - va: ejercer de
+            vac: ~ de
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|practice}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}{a_link|exercise} (a right)'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exert}'
+          sn: '3'
+    vd: transitive verb
+  fl: intransitive verb
+  hwi:
+    hw: ejercer
+    prs:
+    - sound:
+        audio: ejerc01sp
+  meta:
+    id: ejercer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608121000'
+    src: spanish
+    stems:
+    - ejercer
+    - ejercer de
+    uuid: d90428f5-f9cb-4265-ae23-95fadc6a9acc
+  shortdef:
+  - to practice as, to work as
+  - to practice
+  - exercise (a right)
+  suppl:
+    cjts:
+    - cjfs:
+      - ejerciendo
+      - ejercido
+      cjid: gppt
+    - cjfs:
+      - ejerzo
+      - ejerces
+      - ejerce
+      - ejercemos
+      - "ejerc\xE9is"
+      - ejercen
+      cjid: pind
+    - cjfs:
+      - "ejerc\xEDa"
+      - "ejerc\xEDas"
+      - "ejerc\xEDa"
+      - "ejerc\xEDamos"
+      - "ejerc\xEDais"
+      - "ejerc\xEDan"
+      cjid: pret
+    - cjfs:
+      - "ejerc\xED"
+      - ejerciste
+      - "ejerci\xF3"
+      - ejercimos
+      - ejercisteis
+      - ejercieron
+      cjid: pprf
+    - cjfs:
+      - "ejercer\xE9"
+      - "ejercer\xE1s"
+      - "ejercer\xE1"
+      - ejerceremos
+      - "ejercer\xE9is"
+      - "ejercer\xE1n"
+      cjid: futr
+    - cjfs:
+      - "ejercer\xEDa"
+      - "ejercer\xEDas"
+      - "ejercer\xEDa"
+      - "ejercer\xEDamos"
+      - "ejercer\xEDais"
+      - "ejercer\xEDan"
+      cjid: cond
+    - cjfs:
+      - ejerza
+      - ejerzas
+      - ejerza
+      - ejerzamos
+      - "ejerz\xE1is"
+      - ejerzan
+      cjid: psub
+    - cjfs:
+      - ejerciera
+      - ejercieras
+      - ejerciera
+      - "ejerci\xE9ramos"
+      - ejercierais
+      - ejercieran
+      cjid: pisb1
+    - cjfs:
+      - ejerciese
+      - ejercieses
+      - ejerciese
+      - "ejerci\xE9semos"
+      - ejercieseis
+      - ejerciesen
+      cjid: pisb2
+    - cjfs:
+      - ejerciere
+      - ejercieres
+      - ejerciere
+      - "ejerci\xE9remos"
+      - ejerciereis
+      - ejercieren
+      cjid: fsub
+    - cjfs:
+      - he ejercido
+      - has ejercido
+      - ha ejercido
+      - hemos ejercido
+      - "hab\xE9is ejercido"
+      - han ejercido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa ejercido"
+      - "hab\xEDas ejercido"
+      - "hab\xEDa ejercido"
+      - "hab\xEDamos ejercido"
+      - "hab\xEDais ejercido"
+      - "hab\xEDan ejercido"
+      cjid: ppsi
+    - cjfs:
+      - hube ejercido
+      - hubiste ejercido
+      - hubo ejercido
+      - hubimos ejercido
+      - hubisteis ejercido
+      - hubieron ejercido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 ejercido"
+      - "habr\xE1s ejercido"
+      - "habr\xE1 ejercido"
+      - habremos ejercido
+      - "habr\xE9is ejercido"
+      - "habr\xE1n ejercido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa ejercido"
+      - "habr\xEDas ejercido"
+      - "habr\xEDa ejercido"
+      - "habr\xEDamos ejercido"
+      - "habr\xEDais ejercido"
+      - "habr\xEDan ejercido"
+      cjid: cpef
+    - cjfs:
+      - haya ejercido
+      - hayas ejercido
+      - haya ejercido
+      - hayamos ejercido
+      - "hay\xE1is ejercido"
+      - hayan ejercido
+      cjid: ppfs
+    - cjfs:
+      - hubiera ejercido
+      - hubieras ejercido
+      - hubiera ejercido
+      - "hubi\xE9ramos ejercido"
+      - hubierais ejercido
+      - hubieran ejercido
+      cjid: ppss1
+    - cjfs:
+      - hubiese ejercido
+      - hubieses ejercido
+      - hubiese ejercido
+      - "hubi\xE9semos ejercido"
+      - hubieseis ejercido
+      - hubiesen ejercido
+      cjid: ppss2
+    - cjfs:
+      - hubiere ejercido
+      - hubieres ejercido
+      - hubiere ejercido
+      - "hubi\xE9remos ejercido"
+      - hubiereis ejercido
+      - hubieren ejercido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - ejerce
+      - ejerza
+      - ejerzamos
+      - ejerced
+      - ejerzan
+      cjid: impf

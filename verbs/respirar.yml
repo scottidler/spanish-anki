@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|breathe}'
+  fl: verb
+  hwi:
+    hw: respirar
+    prs:
+    - sound:
+        audio: respi02sp
+  meta:
+    id: respirar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2619596000'
+    src: spanish
+    stems:
+    - respirar
+    uuid: 97128d3a-9410-412a-8676-ebb3777b8f17
+  shortdef:
+  - to breathe
+  suppl:
+    cjts:
+    - cjfs:
+      - respirando
+      - respirado
+      cjid: gppt
+    - cjfs:
+      - respiro
+      - respiras
+      - respira
+      - respiramos
+      - "respir\xE1is"
+      - respiran
+      cjid: pind
+    - cjfs:
+      - respiraba
+      - respirabas
+      - respiraba
+      - "respir\xE1bamos"
+      - respirabais
+      - respiraban
+      cjid: pret
+    - cjfs:
+      - "respir\xE9"
+      - respiraste
+      - "respir\xF3"
+      - respiramos
+      - respirasteis
+      - respiraron
+      cjid: pprf
+    - cjfs:
+      - "respirar\xE9"
+      - "respirar\xE1s"
+      - "respirar\xE1"
+      - respiraremos
+      - "respirar\xE9is"
+      - "respirar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "respirar\xEDa"
+      - "respirar\xEDas"
+      - "respirar\xEDa"
+      - "respirar\xEDamos"
+      - "respirar\xEDais"
+      - "respirar\xEDan"
+      cjid: cond
+    - cjfs:
+      - respire
+      - respires
+      - respire
+      - respiremos
+      - "respir\xE9is"
+      - respiren
+      cjid: psub
+    - cjfs:
+      - respirara
+      - respiraras
+      - respirara
+      - "respir\xE1ramos"
+      - respirarais
+      - respiraran
+      cjid: pisb1
+    - cjfs:
+      - respirase
+      - respirases
+      - respirase
+      - "respir\xE1semos"
+      - respiraseis
+      - respirasen
+      cjid: pisb2
+    - cjfs:
+      - respirare
+      - respirares
+      - respirare
+      - "respir\xE1remos"
+      - respirareis
+      - respiraren
+      cjid: fsub
+    - cjfs:
+      - he respirado
+      - has respirado
+      - ha respirado
+      - hemos respirado
+      - "hab\xE9is respirado"
+      - han respirado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa respirado"
+      - "hab\xEDas respirado"
+      - "hab\xEDa respirado"
+      - "hab\xEDamos respirado"
+      - "hab\xEDais respirado"
+      - "hab\xEDan respirado"
+      cjid: ppsi
+    - cjfs:
+      - hube respirado
+      - hubiste respirado
+      - hubo respirado
+      - hubimos respirado
+      - hubisteis respirado
+      - hubieron respirado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 respirado"
+      - "habr\xE1s respirado"
+      - "habr\xE1 respirado"
+      - habremos respirado
+      - "habr\xE9is respirado"
+      - "habr\xE1n respirado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa respirado"
+      - "habr\xEDas respirado"
+      - "habr\xEDa respirado"
+      - "habr\xEDamos respirado"
+      - "habr\xEDais respirado"
+      - "habr\xEDan respirado"
+      cjid: cpef
+    - cjfs:
+      - haya respirado
+      - hayas respirado
+      - haya respirado
+      - hayamos respirado
+      - "hay\xE1is respirado"
+      - hayan respirado
+      cjid: ppfs
+    - cjfs:
+      - hubiera respirado
+      - hubieras respirado
+      - hubiera respirado
+      - "hubi\xE9ramos respirado"
+      - hubierais respirado
+      - hubieran respirado
+      cjid: ppss1
+    - cjfs:
+      - hubiese respirado
+      - hubieses respirado
+      - hubiese respirado
+      - "hubi\xE9semos respirado"
+      - hubieseis respirado
+      - hubiesen respirado
+      cjid: ppss2
+    - cjfs:
+      - hubiere respirado
+      - hubieres respirado
+      - hubiere respirado
+      - "hubi\xE9remos respirado"
+      - hubiereis respirado
+      - hubieren respirado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - respira
+      - respire
+      - respiremos
+      - respirad
+      - respiren
+      cjid: impf

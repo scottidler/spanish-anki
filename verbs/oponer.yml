@@ -1,0 +1,206 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|contraponer||} {bc}to {a_link|oppose}, to place against'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|resist}, to put up a fight'
+          sn: '2'
+          vrs:
+          - va: oponer resistencia
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to object to, to be against'
+            vrs:
+            - va: oponerse a
+              vac: ~ a
+    drp: oponerse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: oponer
+    prs:
+    - sound:
+        audio: opone01sp
+  meta:
+    id: oponer
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2616227000'
+    src: spanish
+    stems:
+    - oponer
+    - oponer resistencia
+    - oponerse
+    - oponerse a
+    uuid: 2ac03682-ca06-4d30-b76f-af40cbb6d313
+  shortdef:
+  - 'contraponer : to oppose, to place against'
+  - to resist, to put up a fight
+  suppl:
+    cjts:
+    - cjfs:
+      - oponiendo
+      - opuesto
+      cjid: gppt
+    - cjfs:
+      - opongo
+      - opones
+      - opone
+      - oponemos
+      - "opon\xE9is"
+      - oponen
+      cjid: pind
+    - cjfs:
+      - "opon\xEDa"
+      - "opon\xEDas"
+      - "opon\xEDa"
+      - "opon\xEDamos"
+      - "opon\xEDais"
+      - "opon\xEDan"
+      cjid: pret
+    - cjfs:
+      - opuse
+      - opusiste
+      - opuso
+      - opusimos
+      - opusisteis
+      - opusieron
+      cjid: pprf
+    - cjfs:
+      - "opondr\xE9"
+      - "opondr\xE1s"
+      - "opondr\xE1"
+      - opondremos
+      - "opondr\xE9is"
+      - "opondr\xE1n"
+      cjid: futr
+    - cjfs:
+      - "opondr\xEDa"
+      - "opondr\xEDas"
+      - "opondr\xEDa"
+      - "opondr\xEDamos"
+      - "opondr\xEDais"
+      - "opondr\xEDan"
+      cjid: cond
+    - cjfs:
+      - oponga
+      - opongas
+      - oponga
+      - opongamos
+      - "opong\xE1is"
+      - opongan
+      cjid: psub
+    - cjfs:
+      - opusiera
+      - opusieras
+      - opusiera
+      - "opusi\xE9ramos"
+      - opusierais
+      - opusieran
+      cjid: pisb1
+    - cjfs:
+      - opusiese
+      - opusieses
+      - opusiese
+      - "opusi\xE9semos"
+      - opusieseis
+      - opusiesen
+      cjid: pisb2
+    - cjfs:
+      - opusiere
+      - opusieres
+      - opusiere
+      - "opusi\xE9remos"
+      - opusiereis
+      - opusieren
+      cjid: fsub
+    - cjfs:
+      - he opuesto
+      - has opuesto
+      - ha opuesto
+      - hemos opuesto
+      - "hab\xE9is opuesto"
+      - han opuesto
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa opuesto"
+      - "hab\xEDas opuesto"
+      - "hab\xEDa opuesto"
+      - "hab\xEDamos opuesto"
+      - "hab\xEDais opuesto"
+      - "hab\xEDan opuesto"
+      cjid: ppsi
+    - cjfs:
+      - hube opuesto
+      - hubiste opuesto
+      - hubo opuesto
+      - hubimos opuesto
+      - hubisteis opuesto
+      - hubieron opuesto
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 opuesto"
+      - "habr\xE1s opuesto"
+      - "habr\xE1 opuesto"
+      - habremos opuesto
+      - "habr\xE9is opuesto"
+      - "habr\xE1n opuesto"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa opuesto"
+      - "habr\xEDas opuesto"
+      - "habr\xEDa opuesto"
+      - "habr\xEDamos opuesto"
+      - "habr\xEDais opuesto"
+      - "habr\xEDan opuesto"
+      cjid: cpef
+    - cjfs:
+      - haya opuesto
+      - hayas opuesto
+      - haya opuesto
+      - hayamos opuesto
+      - "hay\xE1is opuesto"
+      - hayan opuesto
+      cjid: ppfs
+    - cjfs:
+      - hubiera opuesto
+      - hubieras opuesto
+      - hubiera opuesto
+      - "hubi\xE9ramos opuesto"
+      - hubierais opuesto
+      - hubieran opuesto
+      cjid: ppss1
+    - cjfs:
+      - hubiese opuesto
+      - hubieses opuesto
+      - hubiese opuesto
+      - "hubi\xE9semos opuesto"
+      - hubieseis opuesto
+      - hubiesen opuesto
+      cjid: ppss2
+    - cjfs:
+      - hubiere opuesto
+      - hubieres opuesto
+      - hubiere opuesto
+      - "hubi\xE9remos opuesto"
+      - hubiereis opuesto
+      - hubieren opuesto
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - "op\xF3n"
+      - oponga
+      - opongamos
+      - oponed
+      - opongan
+      cjid: impf

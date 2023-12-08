@@ -1,0 +1,195 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|incite} (to riot), to {a_link|agitate}'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|riot}, to {a_link|rebel}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|mutiny}'
+            sn: '2'
+    drp: amotinarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: amotinar
+  meta:
+    id: amotinar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2601284000'
+    src: spanish
+    stems:
+    - amotinar
+    - amotinarse
+    uuid: 755ccd2e-12b1-486e-be1f-fa084cb79ba0
+  shortdef:
+  - to incite (to riot), to agitate
+  suppl:
+    cjts:
+    - cjfs:
+      - amotinando
+      - amotinado
+      cjid: gppt
+    - cjfs:
+      - amotino
+      - amotinas
+      - amotina
+      - amotinamos
+      - "amotin\xE1is"
+      - amotinan
+      cjid: pind
+    - cjfs:
+      - amotinaba
+      - amotinabas
+      - amotinaba
+      - "amotin\xE1bamos"
+      - amotinabais
+      - amotinaban
+      cjid: pret
+    - cjfs:
+      - "amotin\xE9"
+      - amotinaste
+      - "amotin\xF3"
+      - amotinamos
+      - amotinasteis
+      - amotinaron
+      cjid: pprf
+    - cjfs:
+      - "amotinar\xE9"
+      - "amotinar\xE1s"
+      - "amotinar\xE1"
+      - amotinaremos
+      - "amotinar\xE9is"
+      - "amotinar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "amotinar\xEDa"
+      - "amotinar\xEDas"
+      - "amotinar\xEDa"
+      - "amotinar\xEDamos"
+      - "amotinar\xEDais"
+      - "amotinar\xEDan"
+      cjid: cond
+    - cjfs:
+      - amotine
+      - amotines
+      - amotine
+      - amotinemos
+      - "amotin\xE9is"
+      - amotinen
+      cjid: psub
+    - cjfs:
+      - amotinara
+      - amotinaras
+      - amotinara
+      - "amotin\xE1ramos"
+      - amotinarais
+      - amotinaran
+      cjid: pisb1
+    - cjfs:
+      - amotinase
+      - amotinases
+      - amotinase
+      - "amotin\xE1semos"
+      - amotinaseis
+      - amotinasen
+      cjid: pisb2
+    - cjfs:
+      - amotinare
+      - amotinares
+      - amotinare
+      - "amotin\xE1remos"
+      - amotinareis
+      - amotinaren
+      cjid: fsub
+    - cjfs:
+      - he amotinado
+      - has amotinado
+      - ha amotinado
+      - hemos amotinado
+      - "hab\xE9is amotinado"
+      - han amotinado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa amotinado"
+      - "hab\xEDas amotinado"
+      - "hab\xEDa amotinado"
+      - "hab\xEDamos amotinado"
+      - "hab\xEDais amotinado"
+      - "hab\xEDan amotinado"
+      cjid: ppsi
+    - cjfs:
+      - hube amotinado
+      - hubiste amotinado
+      - hubo amotinado
+      - hubimos amotinado
+      - hubisteis amotinado
+      - hubieron amotinado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 amotinado"
+      - "habr\xE1s amotinado"
+      - "habr\xE1 amotinado"
+      - habremos amotinado
+      - "habr\xE9is amotinado"
+      - "habr\xE1n amotinado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa amotinado"
+      - "habr\xEDas amotinado"
+      - "habr\xEDa amotinado"
+      - "habr\xEDamos amotinado"
+      - "habr\xEDais amotinado"
+      - "habr\xEDan amotinado"
+      cjid: cpef
+    - cjfs:
+      - haya amotinado
+      - hayas amotinado
+      - haya amotinado
+      - hayamos amotinado
+      - "hay\xE1is amotinado"
+      - hayan amotinado
+      cjid: ppfs
+    - cjfs:
+      - hubiera amotinado
+      - hubieras amotinado
+      - hubiera amotinado
+      - "hubi\xE9ramos amotinado"
+      - hubierais amotinado
+      - hubieran amotinado
+      cjid: ppss1
+    - cjfs:
+      - hubiese amotinado
+      - hubieses amotinado
+      - hubiese amotinado
+      - "hubi\xE9semos amotinado"
+      - hubieseis amotinado
+      - hubiesen amotinado
+      cjid: ppss2
+    - cjfs:
+      - hubiere amotinado
+      - hubieres amotinado
+      - hubiere amotinado
+      - "hubi\xE9remos amotinado"
+      - hubiereis amotinado
+      - hubieren amotinado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - amotina
+      - amotine
+      - amotinemos
+      - amotinad
+      - amotinen
+      cjid: impf

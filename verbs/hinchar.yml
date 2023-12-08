@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|inflar||} {bc}to {a_link|inflate}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|exaggerate}'
+          sn: '2'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|swell up}'
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to become conceited, to swell with pride'
+            sn: '2'
+    drp: hincharse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: hinchar
+    prs:
+    - sound:
+        audio: hinch02sp
+  meta:
+    id: hinchar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2611483000'
+    src: spanish
+    stems:
+    - hinchar
+    - hincharse
+    uuid: a5a7e95d-5f38-4898-a530-c75f407eb754
+  shortdef:
+  - 'inflar : to inflate'
+  - to exaggerate
+  suppl:
+    cjts:
+    - cjfs:
+      - hinchando
+      - hinchado
+      cjid: gppt
+    - cjfs:
+      - hincho
+      - hinchas
+      - hincha
+      - hinchamos
+      - "hinch\xE1is"
+      - hinchan
+      cjid: pind
+    - cjfs:
+      - hinchaba
+      - hinchabas
+      - hinchaba
+      - "hinch\xE1bamos"
+      - hinchabais
+      - hinchaban
+      cjid: pret
+    - cjfs:
+      - "hinch\xE9"
+      - hinchaste
+      - "hinch\xF3"
+      - hinchamos
+      - hinchasteis
+      - hincharon
+      cjid: pprf
+    - cjfs:
+      - "hinchar\xE9"
+      - "hinchar\xE1s"
+      - "hinchar\xE1"
+      - hincharemos
+      - "hinchar\xE9is"
+      - "hinchar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "hinchar\xEDa"
+      - "hinchar\xEDas"
+      - "hinchar\xEDa"
+      - "hinchar\xEDamos"
+      - "hinchar\xEDais"
+      - "hinchar\xEDan"
+      cjid: cond
+    - cjfs:
+      - hinche
+      - hinches
+      - hinche
+      - hinchemos
+      - "hinch\xE9is"
+      - hinchen
+      cjid: psub
+    - cjfs:
+      - hinchara
+      - hincharas
+      - hinchara
+      - "hinch\xE1ramos"
+      - hincharais
+      - hincharan
+      cjid: pisb1
+    - cjfs:
+      - hinchase
+      - hinchases
+      - hinchase
+      - "hinch\xE1semos"
+      - hinchaseis
+      - hinchasen
+      cjid: pisb2
+    - cjfs:
+      - hinchare
+      - hinchares
+      - hinchare
+      - "hinch\xE1remos"
+      - hinchareis
+      - hincharen
+      cjid: fsub
+    - cjfs:
+      - he hinchado
+      - has hinchado
+      - ha hinchado
+      - hemos hinchado
+      - "hab\xE9is hinchado"
+      - han hinchado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa hinchado"
+      - "hab\xEDas hinchado"
+      - "hab\xEDa hinchado"
+      - "hab\xEDamos hinchado"
+      - "hab\xEDais hinchado"
+      - "hab\xEDan hinchado"
+      cjid: ppsi
+    - cjfs:
+      - hube hinchado
+      - hubiste hinchado
+      - hubo hinchado
+      - hubimos hinchado
+      - hubisteis hinchado
+      - hubieron hinchado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 hinchado"
+      - "habr\xE1s hinchado"
+      - "habr\xE1 hinchado"
+      - habremos hinchado
+      - "habr\xE9is hinchado"
+      - "habr\xE1n hinchado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa hinchado"
+      - "habr\xEDas hinchado"
+      - "habr\xEDa hinchado"
+      - "habr\xEDamos hinchado"
+      - "habr\xEDais hinchado"
+      - "habr\xEDan hinchado"
+      cjid: cpef
+    - cjfs:
+      - haya hinchado
+      - hayas hinchado
+      - haya hinchado
+      - hayamos hinchado
+      - "hay\xE1is hinchado"
+      - hayan hinchado
+      cjid: ppfs
+    - cjfs:
+      - hubiera hinchado
+      - hubieras hinchado
+      - hubiera hinchado
+      - "hubi\xE9ramos hinchado"
+      - hubierais hinchado
+      - hubieran hinchado
+      cjid: ppss1
+    - cjfs:
+      - hubiese hinchado
+      - hubieses hinchado
+      - hubiese hinchado
+      - "hubi\xE9semos hinchado"
+      - hubieseis hinchado
+      - hubiesen hinchado
+      cjid: ppss2
+    - cjfs:
+      - hubiere hinchado
+      - hubieres hinchado
+      - hubiere hinchado
+      - "hubi\xE9remos hinchado"
+      - hubiereis hinchado
+      - hubieren hinchado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - hincha
+      - hinche
+      - hinchemos
+      - hinchad
+      - hinchen
+      cjid: impf

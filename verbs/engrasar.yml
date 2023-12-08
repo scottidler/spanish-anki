@@ -1,0 +1,179 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|grease}, to {a_link|lubricate}'
+  fl: transitive verb
+  hwi:
+    hw: engrasar
+  meta:
+    id: engrasar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2608595000'
+    src: spanish
+    stems:
+    - engrasar
+    uuid: 92a063c2-3fe9-43d0-8fc8-6f25daa9ede2
+  shortdef:
+  - to grease, to lubricate
+  suppl:
+    cjts:
+    - cjfs:
+      - engrasando
+      - engrasado
+      cjid: gppt
+    - cjfs:
+      - engraso
+      - engrasas
+      - engrasa
+      - engrasamos
+      - "engras\xE1is"
+      - engrasan
+      cjid: pind
+    - cjfs:
+      - engrasaba
+      - engrasabas
+      - engrasaba
+      - "engras\xE1bamos"
+      - engrasabais
+      - engrasaban
+      cjid: pret
+    - cjfs:
+      - "engras\xE9"
+      - engrasaste
+      - "engras\xF3"
+      - engrasamos
+      - engrasasteis
+      - engrasaron
+      cjid: pprf
+    - cjfs:
+      - "engrasar\xE9"
+      - "engrasar\xE1s"
+      - "engrasar\xE1"
+      - engrasaremos
+      - "engrasar\xE9is"
+      - "engrasar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "engrasar\xEDa"
+      - "engrasar\xEDas"
+      - "engrasar\xEDa"
+      - "engrasar\xEDamos"
+      - "engrasar\xEDais"
+      - "engrasar\xEDan"
+      cjid: cond
+    - cjfs:
+      - engrase
+      - engrases
+      - engrase
+      - engrasemos
+      - "engras\xE9is"
+      - engrasen
+      cjid: psub
+    - cjfs:
+      - engrasara
+      - engrasaras
+      - engrasara
+      - "engras\xE1ramos"
+      - engrasarais
+      - engrasaran
+      cjid: pisb1
+    - cjfs:
+      - engrasase
+      - engrasases
+      - engrasase
+      - "engras\xE1semos"
+      - engrasaseis
+      - engrasasen
+      cjid: pisb2
+    - cjfs:
+      - engrasare
+      - engrasares
+      - engrasare
+      - "engras\xE1remos"
+      - engrasareis
+      - engrasaren
+      cjid: fsub
+    - cjfs:
+      - he engrasado
+      - has engrasado
+      - ha engrasado
+      - hemos engrasado
+      - "hab\xE9is engrasado"
+      - han engrasado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa engrasado"
+      - "hab\xEDas engrasado"
+      - "hab\xEDa engrasado"
+      - "hab\xEDamos engrasado"
+      - "hab\xEDais engrasado"
+      - "hab\xEDan engrasado"
+      cjid: ppsi
+    - cjfs:
+      - hube engrasado
+      - hubiste engrasado
+      - hubo engrasado
+      - hubimos engrasado
+      - hubisteis engrasado
+      - hubieron engrasado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 engrasado"
+      - "habr\xE1s engrasado"
+      - "habr\xE1 engrasado"
+      - habremos engrasado
+      - "habr\xE9is engrasado"
+      - "habr\xE1n engrasado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa engrasado"
+      - "habr\xEDas engrasado"
+      - "habr\xEDa engrasado"
+      - "habr\xEDamos engrasado"
+      - "habr\xEDais engrasado"
+      - "habr\xEDan engrasado"
+      cjid: cpef
+    - cjfs:
+      - haya engrasado
+      - hayas engrasado
+      - haya engrasado
+      - hayamos engrasado
+      - "hay\xE1is engrasado"
+      - hayan engrasado
+      cjid: ppfs
+    - cjfs:
+      - hubiera engrasado
+      - hubieras engrasado
+      - hubiera engrasado
+      - "hubi\xE9ramos engrasado"
+      - hubierais engrasado
+      - hubieran engrasado
+      cjid: ppss1
+    - cjfs:
+      - hubiese engrasado
+      - hubieses engrasado
+      - hubiese engrasado
+      - "hubi\xE9semos engrasado"
+      - hubieseis engrasado
+      - hubiesen engrasado
+      cjid: ppss2
+    - cjfs:
+      - hubiere engrasado
+      - hubieres engrasado
+      - hubiere engrasado
+      - "hubi\xE9remos engrasado"
+      - hubiereis engrasado
+      - hubieren engrasado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - engrasa
+      - engrase
+      - engrasemos
+      - engrasad
+      - engrasen
+      cjid: impf

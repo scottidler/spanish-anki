@@ -1,0 +1,182 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|cough}'
+  fl: intransitive verb
+  hwi:
+    hw: toser
+    prs:
+    - sound:
+        audio: toser01sp
+  meta:
+    id: toser
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622030000'
+    src: spanish
+    stems:
+    - toser
+    uuid: 0e717dac-6c64-4a50-9f6d-f44b877bdd18
+  shortdef:
+  - to cough
+  suppl:
+    cjts:
+    - cjfs:
+      - tosiendo
+      - tosido
+      cjid: gppt
+    - cjfs:
+      - toso
+      - toses
+      - tose
+      - tosemos
+      - "tos\xE9is"
+      - tosen
+      cjid: pind
+    - cjfs:
+      - "tos\xEDa"
+      - "tos\xEDas"
+      - "tos\xEDa"
+      - "tos\xEDamos"
+      - "tos\xEDais"
+      - "tos\xEDan"
+      cjid: pret
+    - cjfs:
+      - "tos\xED"
+      - tosiste
+      - "tosi\xF3"
+      - tosimos
+      - tosisteis
+      - tosieron
+      cjid: pprf
+    - cjfs:
+      - "toser\xE9"
+      - "toser\xE1s"
+      - "toser\xE1"
+      - toseremos
+      - "toser\xE9is"
+      - "toser\xE1n"
+      cjid: futr
+    - cjfs:
+      - "toser\xEDa"
+      - "toser\xEDas"
+      - "toser\xEDa"
+      - "toser\xEDamos"
+      - "toser\xEDais"
+      - "toser\xEDan"
+      cjid: cond
+    - cjfs:
+      - tosa
+      - tosas
+      - tosa
+      - tosamos
+      - "tos\xE1is"
+      - tosan
+      cjid: psub
+    - cjfs:
+      - tosiera
+      - tosieras
+      - tosiera
+      - "tosi\xE9ramos"
+      - tosierais
+      - tosieran
+      cjid: pisb1
+    - cjfs:
+      - tosiese
+      - tosieses
+      - tosiese
+      - "tosi\xE9semos"
+      - tosieseis
+      - tosiesen
+      cjid: pisb2
+    - cjfs:
+      - tosiere
+      - tosieres
+      - tosiere
+      - "tosi\xE9remos"
+      - tosiereis
+      - tosieren
+      cjid: fsub
+    - cjfs:
+      - he tosido
+      - has tosido
+      - ha tosido
+      - hemos tosido
+      - "hab\xE9is tosido"
+      - han tosido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa tosido"
+      - "hab\xEDas tosido"
+      - "hab\xEDa tosido"
+      - "hab\xEDamos tosido"
+      - "hab\xEDais tosido"
+      - "hab\xEDan tosido"
+      cjid: ppsi
+    - cjfs:
+      - hube tosido
+      - hubiste tosido
+      - hubo tosido
+      - hubimos tosido
+      - hubisteis tosido
+      - hubieron tosido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 tosido"
+      - "habr\xE1s tosido"
+      - "habr\xE1 tosido"
+      - habremos tosido
+      - "habr\xE9is tosido"
+      - "habr\xE1n tosido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa tosido"
+      - "habr\xEDas tosido"
+      - "habr\xEDa tosido"
+      - "habr\xEDamos tosido"
+      - "habr\xEDais tosido"
+      - "habr\xEDan tosido"
+      cjid: cpef
+    - cjfs:
+      - haya tosido
+      - hayas tosido
+      - haya tosido
+      - hayamos tosido
+      - "hay\xE1is tosido"
+      - hayan tosido
+      cjid: ppfs
+    - cjfs:
+      - hubiera tosido
+      - hubieras tosido
+      - hubiera tosido
+      - "hubi\xE9ramos tosido"
+      - hubierais tosido
+      - hubieran tosido
+      cjid: ppss1
+    - cjfs:
+      - hubiese tosido
+      - hubieses tosido
+      - hubiese tosido
+      - "hubi\xE9semos tosido"
+      - hubieseis tosido
+      - hubiesen tosido
+      cjid: ppss2
+    - cjfs:
+      - hubiere tosido
+      - hubieres tosido
+      - hubiere tosido
+      - "hubi\xE9remos tosido"
+      - hubiereis tosido
+      - hubieren tosido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - tose
+      - tosa
+      - tosamos
+      - tosed
+      - tosan
+      cjid: impf

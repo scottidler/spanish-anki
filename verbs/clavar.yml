@@ -1,0 +1,205 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|nail}, to {a_link|hammer}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|hincar||} {bc}to {a_link|plunge}, to {a_link|stick}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|fix} (one''s eyes) {a_link|on}'
+          sn: '3'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to stick oneself (with a sharp object)'
+    drp: clavarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: clavar
+    prs:
+    - sound:
+        audio: clava02sp
+  meta:
+    id: clavar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2604861000'
+    src: spanish
+    stems:
+    - clavar
+    - clavarse
+    uuid: f3bc4640-6666-437b-aa48-dddfb11cb4c7
+  shortdef:
+  - to nail, to hammer
+  - 'hincar : to plunge, to stick'
+  - to fix (one's eyes) on
+  suppl:
+    cjts:
+    - cjfs:
+      - clavando
+      - clavado
+      cjid: gppt
+    - cjfs:
+      - clavo
+      - clavas
+      - clava
+      - clavamos
+      - "clav\xE1is"
+      - clavan
+      cjid: pind
+    - cjfs:
+      - clavaba
+      - clavabas
+      - clavaba
+      - "clav\xE1bamos"
+      - clavabais
+      - clavaban
+      cjid: pret
+    - cjfs:
+      - "clav\xE9"
+      - clavaste
+      - "clav\xF3"
+      - clavamos
+      - clavasteis
+      - clavaron
+      cjid: pprf
+    - cjfs:
+      - "clavar\xE9"
+      - "clavar\xE1s"
+      - "clavar\xE1"
+      - clavaremos
+      - "clavar\xE9is"
+      - "clavar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "clavar\xEDa"
+      - "clavar\xEDas"
+      - "clavar\xEDa"
+      - "clavar\xEDamos"
+      - "clavar\xEDais"
+      - "clavar\xEDan"
+      cjid: cond
+    - cjfs:
+      - clave
+      - claves
+      - clave
+      - clavemos
+      - "clav\xE9is"
+      - claven
+      cjid: psub
+    - cjfs:
+      - clavara
+      - clavaras
+      - clavara
+      - "clav\xE1ramos"
+      - clavarais
+      - clavaran
+      cjid: pisb1
+    - cjfs:
+      - clavase
+      - clavases
+      - clavase
+      - "clav\xE1semos"
+      - clavaseis
+      - clavasen
+      cjid: pisb2
+    - cjfs:
+      - clavare
+      - clavares
+      - clavare
+      - "clav\xE1remos"
+      - clavareis
+      - clavaren
+      cjid: fsub
+    - cjfs:
+      - he clavado
+      - has clavado
+      - ha clavado
+      - hemos clavado
+      - "hab\xE9is clavado"
+      - han clavado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa clavado"
+      - "hab\xEDas clavado"
+      - "hab\xEDa clavado"
+      - "hab\xEDamos clavado"
+      - "hab\xEDais clavado"
+      - "hab\xEDan clavado"
+      cjid: ppsi
+    - cjfs:
+      - hube clavado
+      - hubiste clavado
+      - hubo clavado
+      - hubimos clavado
+      - hubisteis clavado
+      - hubieron clavado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 clavado"
+      - "habr\xE1s clavado"
+      - "habr\xE1 clavado"
+      - habremos clavado
+      - "habr\xE9is clavado"
+      - "habr\xE1n clavado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa clavado"
+      - "habr\xEDas clavado"
+      - "habr\xEDa clavado"
+      - "habr\xEDamos clavado"
+      - "habr\xEDais clavado"
+      - "habr\xEDan clavado"
+      cjid: cpef
+    - cjfs:
+      - haya clavado
+      - hayas clavado
+      - haya clavado
+      - hayamos clavado
+      - "hay\xE1is clavado"
+      - hayan clavado
+      cjid: ppfs
+    - cjfs:
+      - hubiera clavado
+      - hubieras clavado
+      - hubiera clavado
+      - "hubi\xE9ramos clavado"
+      - hubierais clavado
+      - hubieran clavado
+      cjid: ppss1
+    - cjfs:
+      - hubiese clavado
+      - hubieses clavado
+      - hubiese clavado
+      - "hubi\xE9semos clavado"
+      - hubieseis clavado
+      - hubiesen clavado
+      cjid: ppss2
+    - cjfs:
+      - hubiere clavado
+      - hubieres clavado
+      - hubiere clavado
+      - "hubi\xE9remos clavado"
+      - hubiereis clavado
+      - hubieren clavado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - clava
+      - clave
+      - clavemos
+      - clavad
+      - claven
+      cjid: impf

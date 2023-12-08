@@ -1,0 +1,219 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|cruzar||} {bc}to {a_link|cross}, to go across'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|pierce}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to lay across'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|go through} (a situation or crisis)'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to be in the way '
+            - - vis
+              - - t: "se me atraves\xF3"
+                  tr: it blocked my path
+            sn: '1'
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to {a_link|interfere}, to {a_link|meddle}'
+            sn: '2'
+    drp: atravesarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: atravesar
+    prs:
+    - sound:
+        audio: atrav01sp
+  meta:
+    id: atravesar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2602354000'
+    src: spanish
+    stems:
+    - atravesar
+    - atravesarse
+    uuid: 0c5b34c1-e090-46fa-a774-a0ad57cdf5a3
+  shortdef:
+  - 'cruzar : to cross, to go across'
+  - to pierce
+  - to lay across
+  suppl:
+    cjts:
+    - cjfs:
+      - atravesando
+      - atravesado
+      cjid: gppt
+    - cjfs:
+      - atravieso
+      - atraviesas
+      - atraviesa
+      - atravesamos
+      - "atraves\xE1is"
+      - atraviesan
+      cjid: pind
+    - cjfs:
+      - atravesaba
+      - atravesabas
+      - atravesaba
+      - "atraves\xE1bamos"
+      - atravesabais
+      - atravesaban
+      cjid: pret
+    - cjfs:
+      - "atraves\xE9"
+      - atravesaste
+      - "atraves\xF3"
+      - atravesamos
+      - atravesasteis
+      - atravesaron
+      cjid: pprf
+    - cjfs:
+      - "atravesar\xE9"
+      - "atravesar\xE1s"
+      - "atravesar\xE1"
+      - atravesaremos
+      - "atravesar\xE9is"
+      - "atravesar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "atravesar\xEDa"
+      - "atravesar\xEDas"
+      - "atravesar\xEDa"
+      - "atravesar\xEDamos"
+      - "atravesar\xEDais"
+      - "atravesar\xEDan"
+      cjid: cond
+    - cjfs:
+      - atraviese
+      - atravieses
+      - atraviese
+      - atravesemos
+      - "atraves\xE9is"
+      - atraviesen
+      cjid: psub
+    - cjfs:
+      - atravesara
+      - atravesaras
+      - atravesara
+      - "atraves\xE1ramos"
+      - atravesarais
+      - atravesaran
+      cjid: pisb1
+    - cjfs:
+      - atravesase
+      - atravesases
+      - atravesase
+      - "atraves\xE1semos"
+      - atravesaseis
+      - atravesasen
+      cjid: pisb2
+    - cjfs:
+      - atravesare
+      - atravesares
+      - atravesare
+      - "atraves\xE1remos"
+      - atravesareis
+      - atravesaren
+      cjid: fsub
+    - cjfs:
+      - he atravesado
+      - has atravesado
+      - ha atravesado
+      - hemos atravesado
+      - "hab\xE9is atravesado"
+      - han atravesado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa atravesado"
+      - "hab\xEDas atravesado"
+      - "hab\xEDa atravesado"
+      - "hab\xEDamos atravesado"
+      - "hab\xEDais atravesado"
+      - "hab\xEDan atravesado"
+      cjid: ppsi
+    - cjfs:
+      - hube atravesado
+      - hubiste atravesado
+      - hubo atravesado
+      - hubimos atravesado
+      - hubisteis atravesado
+      - hubieron atravesado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 atravesado"
+      - "habr\xE1s atravesado"
+      - "habr\xE1 atravesado"
+      - habremos atravesado
+      - "habr\xE9is atravesado"
+      - "habr\xE1n atravesado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa atravesado"
+      - "habr\xEDas atravesado"
+      - "habr\xEDa atravesado"
+      - "habr\xEDamos atravesado"
+      - "habr\xEDais atravesado"
+      - "habr\xEDan atravesado"
+      cjid: cpef
+    - cjfs:
+      - haya atravesado
+      - hayas atravesado
+      - haya atravesado
+      - hayamos atravesado
+      - "hay\xE1is atravesado"
+      - hayan atravesado
+      cjid: ppfs
+    - cjfs:
+      - hubiera atravesado
+      - hubieras atravesado
+      - hubiera atravesado
+      - "hubi\xE9ramos atravesado"
+      - hubierais atravesado
+      - hubieran atravesado
+      cjid: ppss1
+    - cjfs:
+      - hubiese atravesado
+      - hubieses atravesado
+      - hubiese atravesado
+      - "hubi\xE9semos atravesado"
+      - hubieseis atravesado
+      - hubiesen atravesado
+      cjid: ppss2
+    - cjfs:
+      - hubiere atravesado
+      - hubieres atravesado
+      - hubiere atravesado
+      - "hubi\xE9remos atravesado"
+      - hubiereis atravesado
+      - hubieren atravesado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - atraviesa
+      - atraviese
+      - atravesemos
+      - atravesad
+      - atraviesen
+      cjid: impf

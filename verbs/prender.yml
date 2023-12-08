@@ -1,0 +1,238 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|sujetar||} {bc}to {a_link|pin}, to {a_link|fasten}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|apresar||} {bc}to {a_link|catch}, to {a_link|apprehend}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|light} (a cigarette, a match)'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|turn on} '
+          - - vis
+            - - t: prende la luz
+                tr: turn on the light
+          sn: '4'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to set fire to'
+          sn: '5'
+          vrs:
+          - va: prender fuego a
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|take root}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to catch fire'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|catch on}'
+          sn: '3'
+    vd: intransitive verb
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{bc}to catch fire'
+    drp: prenderse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: prender
+    prs:
+    - sound:
+        audio: prend02sp
+  meta:
+    id: prender
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2617992000'
+    src: spanish
+    stems:
+    - prender
+    - prender fuego a
+    - prenderse
+    uuid: 4627b543-282e-48e9-b551-3759021a0b20
+  shortdef:
+  - 'sujetar : to pin, to fasten'
+  - 'apresar : to catch, to apprehend'
+  - to light (a cigarette, a match)
+  suppl:
+    cjts:
+    - cjfs:
+      - prendiendo
+      - prendido
+      cjid: gppt
+    - cjfs:
+      - prendo
+      - prendes
+      - prende
+      - prendemos
+      - "prend\xE9is"
+      - prenden
+      cjid: pind
+    - cjfs:
+      - "prend\xEDa"
+      - "prend\xEDas"
+      - "prend\xEDa"
+      - "prend\xEDamos"
+      - "prend\xEDais"
+      - "prend\xEDan"
+      cjid: pret
+    - cjfs:
+      - "prend\xED"
+      - prendiste
+      - "prendi\xF3"
+      - prendimos
+      - prendisteis
+      - prendieron
+      cjid: pprf
+    - cjfs:
+      - "prender\xE9"
+      - "prender\xE1s"
+      - "prender\xE1"
+      - prenderemos
+      - "prender\xE9is"
+      - "prender\xE1n"
+      cjid: futr
+    - cjfs:
+      - "prender\xEDa"
+      - "prender\xEDas"
+      - "prender\xEDa"
+      - "prender\xEDamos"
+      - "prender\xEDais"
+      - "prender\xEDan"
+      cjid: cond
+    - cjfs:
+      - prenda
+      - prendas
+      - prenda
+      - prendamos
+      - "prend\xE1is"
+      - prendan
+      cjid: psub
+    - cjfs:
+      - prendiera
+      - prendieras
+      - prendiera
+      - "prendi\xE9ramos"
+      - prendierais
+      - prendieran
+      cjid: pisb1
+    - cjfs:
+      - prendiese
+      - prendieses
+      - prendiese
+      - "prendi\xE9semos"
+      - prendieseis
+      - prendiesen
+      cjid: pisb2
+    - cjfs:
+      - prendiere
+      - prendieres
+      - prendiere
+      - "prendi\xE9remos"
+      - prendiereis
+      - prendieren
+      cjid: fsub
+    - cjfs:
+      - he prendido
+      - has prendido
+      - ha prendido
+      - hemos prendido
+      - "hab\xE9is prendido"
+      - han prendido
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa prendido"
+      - "hab\xEDas prendido"
+      - "hab\xEDa prendido"
+      - "hab\xEDamos prendido"
+      - "hab\xEDais prendido"
+      - "hab\xEDan prendido"
+      cjid: ppsi
+    - cjfs:
+      - hube prendido
+      - hubiste prendido
+      - hubo prendido
+      - hubimos prendido
+      - hubisteis prendido
+      - hubieron prendido
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 prendido"
+      - "habr\xE1s prendido"
+      - "habr\xE1 prendido"
+      - habremos prendido
+      - "habr\xE9is prendido"
+      - "habr\xE1n prendido"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa prendido"
+      - "habr\xEDas prendido"
+      - "habr\xEDa prendido"
+      - "habr\xEDamos prendido"
+      - "habr\xEDais prendido"
+      - "habr\xEDan prendido"
+      cjid: cpef
+    - cjfs:
+      - haya prendido
+      - hayas prendido
+      - haya prendido
+      - hayamos prendido
+      - "hay\xE1is prendido"
+      - hayan prendido
+      cjid: ppfs
+    - cjfs:
+      - hubiera prendido
+      - hubieras prendido
+      - hubiera prendido
+      - "hubi\xE9ramos prendido"
+      - hubierais prendido
+      - hubieran prendido
+      cjid: ppss1
+    - cjfs:
+      - hubiese prendido
+      - hubieses prendido
+      - hubiese prendido
+      - "hubi\xE9semos prendido"
+      - hubieseis prendido
+      - hubiesen prendido
+      cjid: ppss2
+    - cjfs:
+      - hubiere prendido
+      - hubieres prendido
+      - hubiere prendido
+      - "hubi\xE9remos prendido"
+      - hubiereis prendido
+      - hubieren prendido
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - prende
+      - prenda
+      - prendamos
+      - prended
+      - prendan
+      cjid: impf

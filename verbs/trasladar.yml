@@ -1,0 +1,210 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|transferir||} {bc}to {a_link|transfer}, to {a_link|move}'
+          sn: '1'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|posponer||} {bc}to {a_link|postpone}'
+          sn: '2'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|traducir||} {bc}to {a_link|translate}'
+          sn: '3'
+    - - - sense
+        - dt:
+          - - text
+            - '{sx|copiar||} {bc}to {a_link|copy}, to {a_link|transcribe}'
+          sn: '4'
+  dros:
+  - def:
+    - sseq:
+      - - - sense
+          - dt:
+            - - text
+              - '{sx|mudarse||} {bc}to {a_link|move}, to {a_link|relocate}'
+    drp: trasladarse
+    fl: reflexive verb
+  fl: transitive verb
+  hwi:
+    hw: trasladar
+    prs:
+    - sound:
+        audio: trasl01sp
+  meta:
+    id: trasladar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2622212000'
+    src: spanish
+    stems:
+    - trasladar
+    - trasladarse
+    uuid: 4cdd1e05-4027-4021-a4fb-e717b1103a12
+  shortdef:
+  - 'transferir : to transfer, to move'
+  - 'posponer : to postpone'
+  - 'traducir : to translate'
+  suppl:
+    cjts:
+    - cjfs:
+      - trasladando
+      - trasladado
+      cjid: gppt
+    - cjfs:
+      - traslado
+      - trasladas
+      - traslada
+      - trasladamos
+      - "traslad\xE1is"
+      - trasladan
+      cjid: pind
+    - cjfs:
+      - trasladaba
+      - trasladabas
+      - trasladaba
+      - "traslad\xE1bamos"
+      - trasladabais
+      - trasladaban
+      cjid: pret
+    - cjfs:
+      - "traslad\xE9"
+      - trasladaste
+      - "traslad\xF3"
+      - trasladamos
+      - trasladasteis
+      - trasladaron
+      cjid: pprf
+    - cjfs:
+      - "trasladar\xE9"
+      - "trasladar\xE1s"
+      - "trasladar\xE1"
+      - trasladaremos
+      - "trasladar\xE9is"
+      - "trasladar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "trasladar\xEDa"
+      - "trasladar\xEDas"
+      - "trasladar\xEDa"
+      - "trasladar\xEDamos"
+      - "trasladar\xEDais"
+      - "trasladar\xEDan"
+      cjid: cond
+    - cjfs:
+      - traslade
+      - traslades
+      - traslade
+      - traslademos
+      - "traslad\xE9is"
+      - trasladen
+      cjid: psub
+    - cjfs:
+      - trasladara
+      - trasladaras
+      - trasladara
+      - "traslad\xE1ramos"
+      - trasladarais
+      - trasladaran
+      cjid: pisb1
+    - cjfs:
+      - trasladase
+      - trasladases
+      - trasladase
+      - "traslad\xE1semos"
+      - trasladaseis
+      - trasladasen
+      cjid: pisb2
+    - cjfs:
+      - trasladare
+      - trasladares
+      - trasladare
+      - "traslad\xE1remos"
+      - trasladareis
+      - trasladaren
+      cjid: fsub
+    - cjfs:
+      - he trasladado
+      - has trasladado
+      - ha trasladado
+      - hemos trasladado
+      - "hab\xE9is trasladado"
+      - han trasladado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa trasladado"
+      - "hab\xEDas trasladado"
+      - "hab\xEDa trasladado"
+      - "hab\xEDamos trasladado"
+      - "hab\xEDais trasladado"
+      - "hab\xEDan trasladado"
+      cjid: ppsi
+    - cjfs:
+      - hube trasladado
+      - hubiste trasladado
+      - hubo trasladado
+      - hubimos trasladado
+      - hubisteis trasladado
+      - hubieron trasladado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 trasladado"
+      - "habr\xE1s trasladado"
+      - "habr\xE1 trasladado"
+      - habremos trasladado
+      - "habr\xE9is trasladado"
+      - "habr\xE1n trasladado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa trasladado"
+      - "habr\xEDas trasladado"
+      - "habr\xEDa trasladado"
+      - "habr\xEDamos trasladado"
+      - "habr\xEDais trasladado"
+      - "habr\xEDan trasladado"
+      cjid: cpef
+    - cjfs:
+      - haya trasladado
+      - hayas trasladado
+      - haya trasladado
+      - hayamos trasladado
+      - "hay\xE1is trasladado"
+      - hayan trasladado
+      cjid: ppfs
+    - cjfs:
+      - hubiera trasladado
+      - hubieras trasladado
+      - hubiera trasladado
+      - "hubi\xE9ramos trasladado"
+      - hubierais trasladado
+      - hubieran trasladado
+      cjid: ppss1
+    - cjfs:
+      - hubiese trasladado
+      - hubieses trasladado
+      - hubiese trasladado
+      - "hubi\xE9semos trasladado"
+      - hubieseis trasladado
+      - hubiesen trasladado
+      cjid: ppss2
+    - cjfs:
+      - hubiere trasladado
+      - hubieres trasladado
+      - hubiere trasladado
+      - "hubi\xE9remos trasladado"
+      - hubiereis trasladado
+      - hubieren trasladado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - traslada
+      - traslade
+      - traslademos
+      - trasladad
+      - trasladen
+      cjid: impf

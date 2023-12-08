@@ -1,0 +1,186 @@
+- def:
+  - sseq:
+    - - - sense
+        - dt:
+          - - text
+            - '{bc}to {a_link|detect}'
+  fl: transitive verb
+  hwi:
+    hw: detectar
+    prs:
+    - sound:
+        audio: detec01sp
+  meta:
+    id: detectar
+    lang: es
+    offensive: false
+    section: alpha
+    sort: '2607415000'
+    src: spanish
+    stems:
+    - detectar
+    - detectable
+    uuid: 9ce0d6bc-b139-4036-8a0b-f366f02f9676
+  shortdef:
+  - to detect
+  suppl:
+    cjts:
+    - cjfs:
+      - detectando
+      - detectado
+      cjid: gppt
+    - cjfs:
+      - detecto
+      - detectas
+      - detecta
+      - detectamos
+      - "detect\xE1is"
+      - detectan
+      cjid: pind
+    - cjfs:
+      - detectaba
+      - detectabas
+      - detectaba
+      - "detect\xE1bamos"
+      - detectabais
+      - detectaban
+      cjid: pret
+    - cjfs:
+      - "detect\xE9"
+      - detectaste
+      - "detect\xF3"
+      - detectamos
+      - detectasteis
+      - detectaron
+      cjid: pprf
+    - cjfs:
+      - "detectar\xE9"
+      - "detectar\xE1s"
+      - "detectar\xE1"
+      - detectaremos
+      - "detectar\xE9is"
+      - "detectar\xE1n"
+      cjid: futr
+    - cjfs:
+      - "detectar\xEDa"
+      - "detectar\xEDas"
+      - "detectar\xEDa"
+      - "detectar\xEDamos"
+      - "detectar\xEDais"
+      - "detectar\xEDan"
+      cjid: cond
+    - cjfs:
+      - detecte
+      - detectes
+      - detecte
+      - detectemos
+      - "detect\xE9is"
+      - detecten
+      cjid: psub
+    - cjfs:
+      - detectara
+      - detectaras
+      - detectara
+      - "detect\xE1ramos"
+      - detectarais
+      - detectaran
+      cjid: pisb1
+    - cjfs:
+      - detectase
+      - detectases
+      - detectase
+      - "detect\xE1semos"
+      - detectaseis
+      - detectasen
+      cjid: pisb2
+    - cjfs:
+      - detectare
+      - detectares
+      - detectare
+      - "detect\xE1remos"
+      - detectareis
+      - detectaren
+      cjid: fsub
+    - cjfs:
+      - he detectado
+      - has detectado
+      - ha detectado
+      - hemos detectado
+      - "hab\xE9is detectado"
+      - han detectado
+      cjid: ppci
+    - cjfs:
+      - "hab\xEDa detectado"
+      - "hab\xEDas detectado"
+      - "hab\xEDa detectado"
+      - "hab\xEDamos detectado"
+      - "hab\xEDais detectado"
+      - "hab\xEDan detectado"
+      cjid: ppsi
+    - cjfs:
+      - hube detectado
+      - hubiste detectado
+      - hubo detectado
+      - hubimos detectado
+      - hubisteis detectado
+      - hubieron detectado
+      cjid: pant
+    - cjfs:
+      - "habr\xE9 detectado"
+      - "habr\xE1s detectado"
+      - "habr\xE1 detectado"
+      - habremos detectado
+      - "habr\xE9is detectado"
+      - "habr\xE1n detectado"
+      cjid: fpin
+    - cjfs:
+      - "habr\xEDa detectado"
+      - "habr\xEDas detectado"
+      - "habr\xEDa detectado"
+      - "habr\xEDamos detectado"
+      - "habr\xEDais detectado"
+      - "habr\xEDan detectado"
+      cjid: cpef
+    - cjfs:
+      - haya detectado
+      - hayas detectado
+      - haya detectado
+      - hayamos detectado
+      - "hay\xE1is detectado"
+      - hayan detectado
+      cjid: ppfs
+    - cjfs:
+      - hubiera detectado
+      - hubieras detectado
+      - hubiera detectado
+      - "hubi\xE9ramos detectado"
+      - hubierais detectado
+      - hubieran detectado
+      cjid: ppss1
+    - cjfs:
+      - hubiese detectado
+      - hubieses detectado
+      - hubiese detectado
+      - "hubi\xE9semos detectado"
+      - hubieseis detectado
+      - hubiesen detectado
+      cjid: ppss2
+    - cjfs:
+      - hubiere detectado
+      - hubieres detectado
+      - hubiere detectado
+      - "hubi\xE9remos detectado"
+      - hubiereis detectado
+      - hubieren detectado
+      cjid: fpsb
+    - cjfs:
+      - '-'
+      - detecta
+      - detecte
+      - detectemos
+      - detectad
+      - detecten
+      cjid: impf
+  uros:
+  - fl: adjective
+    ure: detectable
