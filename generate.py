@@ -3,13 +3,11 @@
 import os
 import argparse
 import genanki
+import time
 
-from ruamel.yaml import YAML
-
-def load_yaml_file(file_path):
-    yaml = YAML(typ='safe')
+def load_flat_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
-        return yaml.load(file)
+        return file.read().strip()
 
 def create_anki_card(front, back, model):
     return genanki.Note(
@@ -17,26 +15,24 @@ def create_anki_card(front, back, model):
         fields=[front, back]
     )
 
-def process_yaml_file(file_path, deck, model):
-    data = load_yaml_file(file_path)
-    for entry in data:
-        spanish_word = entry['hwi']['hw']
-        english_meaning = "; ".join(entry.get('shortdef', []))
-        front = f"{spanish_word}"
-        back = f"{english_meaning}"
-        deck.add_note(create_anki_card(front, back, model))
+def process_flat_file(file_path, deck, model):
+    file_name = os.path.splitext(os.path.basename(file_path))[0]  # Spanish verb is file name
+    english_meaning = load_flat_file(file_path)
+    front = f"{file_name}"
+    back = f"{english_meaning}"
+    deck.add_note(create_anki_card(front, back, model))
 
 def process_directory(path, deck, model):
     for root, dirs, files in os.walk(path):
         for file in files:
-            if file.endswith('.yml'):
-                process_yaml_file(os.path.join(root, file), deck, model)
+            process_flat_file(os.path.join(root, file), deck, model)
 
 def main(args):
-    deck_id = 123456789
+    # Use current timestamp as deck_id
+    deck_id = int(time.time())
     deck = genanki.Deck(deck_id, args.deck_name)
     model = genanki.Model(
-        1607392319,
+        int(time.time() * 1000),  # Unique model ID based on current timestamp
         'Simple Model',
         fields=[
             {'name': 'Question'},
@@ -53,30 +49,30 @@ def main(args):
     for item in args.paths:
         if os.path.isdir(item):
             process_directory(item, deck, model)
-        elif os.path.isfile(item) and item.endswith('.yml'):
-            process_yaml_file(item, deck, model)
+        elif os.path.isfile(item):
+            process_flat_file(item, deck, model)
 
     deck.write_to_file(args.output_file)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Create Anki cards from YAML files")
+    parser = argparse.ArgumentParser(description="Create Anki cards from flat files")
     parser.add_argument(
         'paths',
-        metavar='[YML..]',
+        metavar='[FILE..]',
         nargs='+',
-        help='Paths to YAML files or directories containing YAML files')
+        help='Paths to flat files or directories containing flat files')
     parser.add_argument(
         '-n',
         '--deck-name',
         metavar='NAME',
         default='Spanish Infinitives',
-        help='default="%(default)s"; Name of the Anki deck')
+        help='Name of the Anki deck')
     parser.add_argument(
         '-f',
         '--output-file',
         metavar='FILE',
         default='spanish_infinitives.apkg',
-        help='default="%(default)s"; Output APKG file')
+        help='Output APKG file')
     args = parser.parse_args()
     main(args)
 
